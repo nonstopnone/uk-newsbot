@@ -1,0 +1,41 @@
+name: UK News to Reddit
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:
+
+jobs:
+  run-news-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests beautifulsoup4 praw
+
+      - name: Download posted_urls.txt artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: posted-urls
+        continue-on-error: true
+
+      - name: Run the news bot
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        run: python uknews.py
+
+      - name: Upload posted_urls.txt artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: posted-urls
+          path: posted_urls.txt
