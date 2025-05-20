@@ -1,70 +1,109 @@
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+import praw
 import os
+from datetime import datetime, timedelta, timezone
+import time
 
-# Load posted URLs
+# --- Reddit setup ---
+reddit = praw.Reddit(
+    client_id=os.environ['REDDIT_CLIENT_ID'],
+    client_secret=os.environ['REDDIT_CLIENT_SECRET'],
+    username=os.environ['REDDIT_USERNAME'],
+    password=os.environ['REDDIT_PASSWORD'],
+    user_agent='BreakingUKNewsBot/1.0'
+)
+subreddit = reddit.subreddit('BreakingUKNews')
+
+# --- Load posted URLs ---
 posted_urls = set()
 if os.path.exists('posted_urls.txt'):
     with open('posted_urls.txt', 'r') as f:
-        posted_urls = set(line.strip() for line in f)
+        posted_urls = set(line.strip() for line in f if line.strip())
 
-# RSS feeds
+# --- RSS feeds (UK news only) ---
 feed_urls = [
-    'http://feeds.bbci.co.uk/news/rss.xml',         # BBC News
-    'https://feeds.skynews.com/feeds/rss/home.xml', # Sky News
-    'https://www.itv.com/news/rss',                 # ITV News
-    'https://www.telegraph.co.uk/rss.xml',          # The Telegraph
-    'https://www.thetimes.co.uk/rss',               # The Times
+    'http://feeds.bbci.co.uk/news/rss.xml',
+    'https://feeds.skynews.com/feeds/rss/home.xml',
+    'https://www.itv.com/news/rss',
+    'https://www.telegraph.co.uk/rss.xml',
+    'https://www.thetimes.co.uk/rss',
 ]
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
+# --- Time window for "breaking" news: last hour ---
+now_utc = datetime.now(timezone.utc)
+one_hour_ago = now_utc - timedelta(hours=1)
+
+def is_recent(entry):
+    time_struct = getattr(entry, 'published_parsed', None) or getattr(entry, 'updated_parsed', None)
+    if not time_struct:
+        return False
+    pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
+    return pub_time > one_hour_ago
+
+def extract_first_three_paragraphs(url):
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        paragraphs = [p for p in soup.find_all('p') if p.get_text(strip=True)]
+        if len(paragraphs) >= 3:
+            return '\n\n'.join(p.get_text(strip=True) for p in paragraphs[:3])
+        elif paragraphs:
+            return '\n\n'.join(p.get_text(strip=True) for p in paragraphs)
+        else:
+            return soup.get_text(strip=True)[:500]
+    except Exception as e:
+        return f"(Could not extract article text: {e})"
+
+# --- Main loop ---
+new_posts = 0
 for feed_url in feed_urls:
     try:
-        # Parse RSS feed
         feed = feedparser.parse(feed_url)
-        # Process the latest 20 entries
-        for entry in feed.entries[:20]:
+        for entry in feed.entries:
             title = entry.title
             link = entry.link
 
             if link in posted_urls:
                 continue
-
-            # Fetch the full article
-            try:
-                response = requests.get(link, headers=headers, timeout=10)
-                response.raise_for_status()
-                soup = BeautifulSoup(response.content, 'html.parser')
-
-                # Extract first three paragraphs (assuming <p> tags)
-                paragraphs = soup.find_all('p')
-                quote = '\n\n'.join(p.get_text(strip=True) for p in paragraphs[:3]) if len(paragraphs) >= 3 else soup.get_text(strip=True)[:500]
-
-                # Format post body
-                body = (
-                    f"**Link:** [{title}]({link})\n\n"
-                    f"**Quote:**\n\n{quote}\n\n"
-                    f"*Quoted from the link*\n\n"
-                    f"**What do you think about this news story? Comment below.**"
-                )
-
-                # TEST CASE PRINT OUT
-                print("\n" + "="*50)
-                print(f"TITLE: {title}\n")
-                print(f"BODY:\n{body}")
-                print("="*50 + "\n")
-                posted_urls.add(link)
-
-            except requests.RequestException as e:
-                print(f"Failed to fetch article {link}: {e}")
+            if not is_recent(entry):
                 continue
 
+            quote = extract_first_three_paragraphs(link)
+            body = (
+                f"**Link:** [{title}]({link})\n\n"
+                f"**Quote:**\n\n{quote}\n\n"
+                f"*Quoted from the link*\n\n"
+                f"**What do you think about this news story? Comment below.**"
+            )
+
+            # --- Post to Reddit ---
+            try:
+                subreddit.submit(title, selftext=body)
+                print(f"Posted to Reddit: {title}")
+                posted_urls.add(link)
+                new_posts += 1
+                time.sleep(10)  # Avoid Reddit rate limits
+                if new_posts >= 5:  # Limit per run (adjust as needed)
+                    break
+            except Exception as e:
+                print(f"Failed to post to Reddit: {e}")
+                continue
+        if new_posts >= 5:
+            break
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
 
-# Save posted URLs
+# --- Save posted URLs ---
 with open('posted_urls.txt', 'w') as f:
     for url in posted_urls:
         f.write(url + '\n')
+
+if new_posts == 0:
+    print("No new UK breaking news stories found in the last hour.")
+else:
+    print(f"Posted {new_posts} new stories to Reddit.")
