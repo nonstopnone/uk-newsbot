@@ -59,7 +59,10 @@ def extract_first_three_paragraphs(url):
     except Exception as e:
         return f"(Could not extract article text: {e})"
 
-# --- Main loop ---
+# --- Open log file for this run ---
+log_filename = f"run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
+log_file = open(log_filename, 'w', encoding='utf-8')
+
 new_posts = 0
 for feed_url in feed_urls:
     try:
@@ -81,6 +84,13 @@ for feed_url in feed_urls:
                 f"**What do you think about this news story? Comment below.**"
             )
 
+            # --- Log the post attempt ---
+            log_file.write("==="*20 + "\n")
+            log_file.write(f"TITLE: {title}\n")
+            log_file.write(f"LINK: {link}\n")
+            log_file.write(f"BODY:\n{body}\n")
+            log_file.write("==="*20 + "\n\n")
+
             # --- Post to Reddit ---
             try:
                 subreddit.submit(title, selftext=body)
@@ -92,16 +102,21 @@ for feed_url in feed_urls:
                     break
             except Exception as e:
                 print(f"Failed to post to Reddit: {e}")
+                log_file.write(f"FAILED TO POST: {e}\n\n")
                 continue
         if new_posts >= 5:
             break
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
+        log_file.write(f"ERROR PROCESSING FEED: {feed_url} - {e}\n\n")
 
 # --- Save posted URLs ---
 with open('posted_urls.txt', 'w') as f:
     for url in posted_urls:
         f.write(url + '\n')
+
+log_file.write(f"\nTotal new posts this run: {new_posts}\n")
+log_file.close()
 
 if new_posts == 0:
     print("No new UK breaking news stories found in the last hour.")
