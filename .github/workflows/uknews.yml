@@ -2,7 +2,7 @@ name: UK News to Reddit
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 10 minutes (adjust as needed)
+    - cron: '0,30 * * * *'  # Every 30 minutes
   workflow_dispatch:
 
 permissions:
@@ -28,7 +28,7 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
         run: python uknews.py
 
       - name: Commit and push changes
