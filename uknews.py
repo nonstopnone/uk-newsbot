@@ -11,7 +11,7 @@ reddit = praw.Reddit(
     client_id=os.environ['REDDIT_CLIENT_ID'],
     client_secret=os.environ['REDDIT_CLIENT_SECRET'],
     username=os.environ['REDDIT_USERNAME'],
-    password=os.environ['REDDIT_PASSWORD'],
+    password=os.environ['REDDITPASSWORD'],
     user_agent='BreakingUKNewsBot/1.0'
 )
 subreddit = reddit.subreddit('BreakingUKNews')
