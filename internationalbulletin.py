@@ -12,7 +12,7 @@ import html
 import logging
 import urllib.parse
 
-# --- Ensure log and data files exist ---
+# --- File and logging setup ---
 for fname in [
     'bot.log', 'posted_records.txt', 'rejected_articles.txt',
     'posted_urls.txt', 'posted_titles.txt', 'posted_content_hashes.txt'
@@ -20,11 +20,10 @@ for fname in [
     with open(fname, 'a', encoding='utf-8'):
         os.utime(fname, None)
 
-# --- Logging setup ---
 logging.basicConfig(filename='bot.log', level=logging.INFO, 
                    format='%(asctime)s %(levelname)s %(message)s')
 
-# --- Check environment variables ---
+# --- Environment variable check ---
 required_env_vars = [
     'REDDIT_CLIENT_ID', 'REDDIT_CLIENT_SECRET', 
     'REDDIT_USERNAME', 'REDDITPASSWORD'
@@ -46,30 +45,40 @@ reddit = praw.Reddit(
 subreddit = reddit.subreddit('InternationalBulletin')
 
 # --- Deduplication data loading ---
-posted_urls = {}
-posted_titles = {}
-posted_content_hashes = {}
-for fname, container in [
-    ('posted_urls.txt', posted_urls), 
-    ('posted_titles.txt', posted_titles),
-    ('posted_content_hashes.txt', posted_content_hashes)
-]:
+def load_posted(fname):
+    d = {}
     if os.path.exists(fname):
         with open(fname, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
-                if not line:
-                    continue
+                if not line: continue
                 parts = line.split('|')
-                if len(parts) != 2:
-                    continue
+                if len(parts) != 2: continue
                 value, timestamp = parts
                 try:
-                    container[value] = datetime.fromisoformat(timestamp)
+                    d[value] = datetime.fromisoformat(timestamp)
                 except Exception:
                     continue
+    return d
 
-# --- RSS feeds: English, international, reputable ---
+posted_urls = load_posted('posted_urls.txt')
+posted_titles = load_posted('posted_titles.txt')
+posted_content_hashes = load_posted('posted_content_hashes.txt')
+
+def save_duplicates():
+    for fname, container in [
+        ('posted_urls.txt', posted_urls),
+        ('posted_titles.txt', posted_titles),
+        ('posted_content_hashes.txt', posted_content_hashes)
+    ]:
+        try:
+            with open(fname, 'w', encoding='utf-8') as f:
+                for key, timestamp in container.items():
+                    f.write(f"{key}|{timestamp.isoformat()}\n")
+        except Exception as e:
+            logging.error(f"Failed to save {fname}: {e}")
+
+# --- RSS feeds ---
 feed_sources = {
     "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "Reuters World": "http://feeds.reuters.com/Reuters/worldNews",
@@ -77,50 +86,36 @@ feed_sources = {
     "AP News": "https://www.apnews.com/hub/apnewsfeed",
     "RT International": "https://www.rt.com/rss/news/"
 }
-
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
-# --- Keywords for impactful news ---
-BREAKING_KEYWORDS = [
-    "breaking", "urgent", "crisis", "disaster", "election", "summit",
-    "conflict", "agreement", "protest", "attack", "emergency", "revolution"
-]
+# --- Keywords and tags ---
 PROMO_KEYWORDS = [
     "giveaway", "win", "promotion", "contest", "advert", "sponsor",
     "deal", "offer", "competition", "prize", "free", "discount"
 ]
-
-# --- Tags for countries and regions ---
+BREAKING_KEYWORDS = [
+    "breaking", "urgent", "crisis", "disaster", "election", "summit",
+    "conflict", "agreement", "protest", "attack", "emergency", "revolution"
+]
 TAGS = [
-    "afghanistan", "albania", "algeria", "andorra", "angola", "antigua and barbuda", 
-    "argentina", "armenia", "australia", "austria", "azerbaijan", "bahamas", "bahrain", 
-    "bangladesh", "barbados", "belarus", "belgium", "belize", "benin", "bhutan", "bolivia", 
-    "bosnia and herzegovina", "botswana", "brazil", "brunei", "bulgaria", "burkina faso", 
-    "burundi", "cabo verde", "cambodia", "cameroon", "canada", "central african republic", 
-    "chad", "chile", "china", "colombia", "comoros", "congo", "costa rica", "croatia", 
-    "cuba", "cyprus", "czech republic", "denmark", "djibouti", "dominica", "dominican republic", 
-    "ecuador", "egypt", "el salvador", "equatorial guinea", "eritrea", "estonia", "eswatini", 
-    "ethiopia", "fiji", "finland", "france", "gabon", "gambia", "georgia", "germany", "ghana", 
-    "greece", "grenada", "guatemala", "guinea", "guinea-bissau", "guyana", "haiti", "honduras", 
-    "hungary", "iceland", "india", "indonesia", "iran", "iraq", "ireland", "israel", "italy", 
-    "jamaica", "japan", "jordan", "kazakhstan", "kenya", "kiribati", "korea", "kuwait", 
-    "kyrgyzstan", "laos", "latvia", "lebanon", "lesotho", "liberia", "libya", "liechtenstein", 
-    "lithuania", "luxembourg", "madagascar", "malawi", "malaysia", "maldives", "mali", "malta", 
-    "marshall islands", "mauritania", "mauritius", "mexico", "micronesia", "moldova", "monaco", 
-    "mongolia", "montenegro", "morocco", "mozambique", "myanmar", "namibia", "nauru", "nepal", 
-    "netherlands", "new zealand", "nicaragua", "niger", "nigeria", "north macedonia", "norway", 
-    "oman", "pakistan", "palau", "panama", "papua new guinea", "paraguay", "peru", "philippines", 
-    "poland", "portugal", "qatar", "romania", "russia", "rwanda", "saint kitts and nevis", 
-    "saint lucia", "saint vincent and the grenadines", "samoa", "san marino", "sao tome and principe", 
-    "saudi arabia", "senegal", "serbia", "seychelles", "sierra leone", "singapore", "slovakia", 
-    "slovenia", "solomon islands", "somalia", "south africa", "south sudan", "spain", "sri lanka", 
-    "sudan", "suriname", "sweden", "switzerland", "syria", "taiwan", "tajikistan", "tanzania", 
-    "thailand", "timor-leste", "togo", "tonga", "trinidad and tobago", "tunisia", "turkey", 
-    "turkmenistan", "tuvalu", "uganda", "ukraine", "united arab emirates", "united states", 
+    "afghanistan", "albania", "algeria", "andorra", "angola", "argentina", "armenia", "australia", "austria", "azerbaijan",
+    "bahamas", "bahrain", "bangladesh", "barbados", "belarus", "belgium", "belize", "benin", "bhutan", "bolivia",
+    "bosnia", "botswana", "brazil", "brunei", "bulgaria", "burkina", "burundi", "cambodia", "cameroon", "canada",
+    "chad", "chile", "china", "colombia", "comoros", "congo", "costa rica", "croatia", "cuba", "cyprus", "czech",
+    "denmark", "djibouti", "dominica", "ecuador", "egypt", "el salvador", "eritrea", "estonia", "eswatini", "ethiopia",
+    "fiji", "finland", "france", "gabon", "gambia", "georgia", "germany", "ghana", "greece", "grenada", "guatemala",
+    "guinea", "guyana", "haiti", "honduras", "hungary", "iceland", "india", "indonesia", "iran", "iraq", "ireland",
+    "israel", "italy", "jamaica", "japan", "jordan", "kazakhstan", "kenya", "kiribati", "korea", "kuwait", "kyrgyzstan",
+    "laos", "latvia", "lebanon", "lesotho", "liberia", "libya", "lithuania", "luxembourg", "madagascar", "malawi",
+    "malaysia", "maldives", "mali", "malta", "mauritania", "mauritius", "mexico", "moldova", "monaco", "mongolia",
+    "montenegro", "morocco", "mozambique", "myanmar", "namibia", "nepal", "netherlands", "new zealand", "nicaragua",
+    "niger", "nigeria", "norway", "oman", "pakistan", "palau", "panama", "paraguay", "peru", "philippines", "poland",
+    "portugal", "qatar", "romania", "russia", "rwanda", "saint lucia", "samoa", "san marino", "saudi", "senegal",
+    "serbia", "seychelles", "singapore", "slovakia", "slovenia", "solomon", "somalia", "south africa", "spain",
+    "sri lanka", "sudan", "suriname", "sweden", "switzerland", "syria", "taiwan", "tajikistan", "tanzania", "thailand",
+    "togo", "tonga", "trinidad", "tunisia", "turkey", "turkmenistan", "tuvalu", "uganda", "ukraine", "uae", "uk",
     "uruguay", "uzbekistan", "vanuatu", "venezuela", "vietnam", "yemen", "zambia", "zimbabwe",
-    "european union", "eu", "nato", "united nations", "un", "world health organization", "who",
-    "world trade organization", "wto", "g7", "g20", "asean", "african union", "au", "opec",
-    "europe", "asia", "africa", "north america", "south america", "australia", "middle east"
+    "europe", "asia", "africa", "north america", "south america", "oceania", "middle east"
 ]
 
 def normalize_url(url):
@@ -140,60 +135,56 @@ def is_duplicate(entry):
     content_hash = get_content_hash(entry)
     now = datetime.now(timezone.utc)
     threshold = timedelta(days=7)
-    for container, key, name in [
-        (posted_urls, norm_link, 'posted_urls'),
-        (posted_titles, norm_title, 'posted_titles'),
-        (posted_content_hashes, content_hash, 'posted_content_hashes')
+    for container, key in [
+        (posted_urls, norm_link),
+        (posted_titles, norm_title),
+        (posted_content_hashes, content_hash)
     ]:
         if key in container and (now - container[key]) < threshold:
-            return True, f"Duplicate found in {name}"
-    return False, ""
+            return True
+    return False
 
-def save_duplicate_files():
-    for fname, container in [
-        ('posted_urls.txt', posted_urls),
-        ('posted_titles.txt', posted_titles),
-        ('posted_content_hashes.txt', posted_content_hashes)
-    ]:
-        try:
-            with open(fname, 'w', encoding='utf-8') as f:
-                for key, timestamp in container.items():
-                    f.write(f"{key}|{timestamp.isoformat()}\n")
-        except Exception as e:
-            logging.error(f"Failed to save {fname}: {e}")
+def is_promotional(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return any(kw in text for kw in PROMO_KEYWORDS)
 
-def get_tag(text):
-    text_lower = text.lower()
-    for tag in TAGS:
-        if re.search(r'\b' + re.escape(tag) + r'\b', text_lower):
-            return tag.capitalize()
-    return "International"
+def breaking_score(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return sum(2 if kw in text else 0 for kw in BREAKING_KEYWORDS)
 
-# --- First paragraph quality control ---
+def is_recent(entry, cutoff):
+    pubdate = getattr(entry, 'published', getattr(entry, 'updated', None))
+    if not pubdate:
+        return True
+    try:
+        pubdate = datetime.strptime(pubdate, '%a, %d %b %Y %H:%M:%S %z')
+        return pubdate >= cutoff
+    except ValueError:
+        return True
+
+# --- Paragraph quality control ---
 BAD_PARAGRAPH_PATTERNS = [
     r'error', r'need to view media', r'video only', r'see video', r'see image', r'watch above',
     r'read more', r'continue reading', r'watch the video', r'click here', r'view gallery'
 ]
 
 def is_good_paragraph(text):
-    """Returns True if the paragraph is well-formed and not a placeholder/error/media prompt."""
-    if not text or len(text) < 40:  # Too short to be meaningful
+    if not text or len(text) < 60:  # Stricter: at least 60 chars
         return False
-    # Check for bad patterns (case-insensitive)
     for pat in BAD_PARAGRAPH_PATTERNS:
         if re.search(pat, text, re.IGNORECASE):
             return False
-    # Avoid all-caps or mostly non-alphabetic
     alpha_ratio = sum(c.isalpha() for c in text) / max(len(text), 1)
     if alpha_ratio < 0.7:
         return False
-    # Should have at least one period (sentence)
     if '.' not in text:
+        return False
+    # Avoid generic or meta paragraphs
+    if re.search(r'(subscribe|follow us|our newsletter|copyright|terms of use)', text, re.IGNORECASE):
         return False
     return True
 
 def get_first_good_paragraphs(paragraphs, count=3):
-    """Returns up to `count` well-formed paragraphs."""
     good = []
     for p in paragraphs:
         if is_good_paragraph(p):
@@ -214,26 +205,15 @@ def extract_first_three_paragraphs(url):
         logging.warning(f"Failed to extract paragraphs from {url}: {e}")
         return ""
 
-def is_recent(entry, cutoff):
-    pubdate = getattr(entry, 'published', getattr(entry, 'updated', None))
-    if not pubdate:
-        return True
-    try:
-        pubdate = datetime.strptime(pubdate, '%a, %d %b %Y %H:%M:%S %z')
-        return pubdate >= cutoff
-    except ValueError:
-        return True
-
-def is_promotional(entry):
-    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return any(kw in text for kw in PROMO_KEYWORDS)
-
-def breaking_score(entry):
-    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return sum(2 if kw in text else 0 for kw in BREAKING_KEYWORDS)
+def get_tag(text):
+    text_lower = text.lower()
+    for tag in TAGS:
+        if re.search(r'\b' + re.escape(tag) + r'\b', text_lower):
+            return tag.capitalize()
+    return "International"
 
 # --- Main logic ---
-MAX_POSTS_PER_RUN = 20
+MAX_POSTS_PER_RUN = 5  # LIMIT TO 5 POSTS PER RUN
 hours = 12
 now_utc = datetime.now(timezone.utc)
 hours_ago = now_utc - timedelta(hours=hours)
@@ -254,33 +234,38 @@ if not recent_entries:
     print("No recent articles found to post.")
     sys.exit(0)
 
-recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
+# Sort by breaking score and recency
+recent_entries.sort(key=lambda tup: (breaking_score(tup[1]), getattr(tup[1], 'published_parsed', 0)), reverse=True)
 selected_entries = recent_entries[:MAX_POSTS_PER_RUN]
 
 current_posts = []
 for source, entry in selected_entries:
     try:
-        is_dup, reason = is_duplicate(entry)
-        if is_dup:
+        if is_duplicate(entry):
+            with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
+                f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: duplicate\n")
             continue
 
         combined_text = entry.title + " " + getattr(entry, "summary", "")
-        tag = get_tag(combined_text)
+        # Try to extract tag from first good paragraph if possible
+        summary = extract_first_three_paragraphs(entry.link)
+        tag = None
+        if summary:
+            first_para = summary.split('\n\n')[0]
+            tag = get_tag(first_para)
+        if not tag or tag == "International":
+            tag = get_tag(combined_text)
+
         title = html.unescape(entry.title)
-        # --- Title formatting: | [COUNTRY NAME] news ---
         post_title = f"{title} | {tag} news"
 
-        summary = extract_first_three_paragraphs(entry.link)
         if not summary:
-            # Try RSS summary as fallback
             summary = BeautifulSoup(getattr(entry, "summary", ""), 'html.parser').get_text()
             if not is_good_paragraph(summary):
-                # Log rejected articles
                 with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
                     f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: bad fallback summary\n")
                 continue
 
-        # Check first paragraph quality
         first_para = summary.split('\n\n')[0] if summary else ""
         if not is_good_paragraph(first_para):
             with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
@@ -301,7 +286,7 @@ for source, entry in selected_entries:
         posted_urls[norm_link] = post_time
         posted_titles[norm_title] = post_time
         posted_content_hashes[content_hash] = post_time
-        save_duplicate_files()
+        save_duplicates()
 
         timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
         with open('posted_records.txt', 'a', encoding='utf-8') as f:
