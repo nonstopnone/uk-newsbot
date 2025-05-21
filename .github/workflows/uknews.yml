@@ -2,7 +2,7 @@ name: UK News to Reddit
 
 on:
   schedule:
-    - cron: '0,30 * * * *'
+    - cron: '15,30,45,55 * * * *'
   workflow_dispatch:
 
 permissions:
