@@ -18,9 +18,7 @@ import random
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(sys.stdout)
-    ]
+    handlers=[logging.StreamHandler(sys.stdout)]
 )
 logger = logging.getLogger(__name__)
 
@@ -51,7 +49,21 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('BreakingUKNews')
 
-# --- Deduplication ---
+# --- Deduplication Utilities ---
+def normalize_url(url):
+    parsed = urllib.parse.urlparse(url)
+    return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
+
+def normalize_title(title):
+    title = html.unescape(title)
+    title = re.sub(r'[^\w\s£$€]', '', title)
+    title = re.sub(r'\s+', ' ', title).strip().lower()
+    return title
+
+def get_content_hash(entry):
+    summary = getattr(entry, "summary", "")[:200]
+    return hashlib.md5(summary.encode('utf-8')).hexdigest()
+
 def load_dedup(filename='posted_timestamps.txt'):
     posted_urls = {}
     posted_titles = {}
@@ -75,38 +87,28 @@ def load_dedup(filename='posted_timestamps.txt'):
 def save_dedup(posted_urls, posted_titles, posted_hashes, filename='posted_timestamps.txt'):
     try:
         with open(filename, 'w', encoding='utf-8') as f:
+            seen = set()
             for url, ts in posted_urls.items():
                 title = next((t for t, t_ts in posted_titles.items() if t_ts == ts), "")
                 ch = next((c for c, c_ts in posted_hashes.items() if c_ts == ts), "")
-                f.write(f"{ts.isoformat()}|{url}|{title}|{ch}\n")
+                key = (ts, url, title, ch)
+                if key not in seen:
+                    f.write(f"{ts.isoformat()}|{url}|{title}|{ch}\n")
+                    seen.add(key)
     except Exception as e:
         logger.error(f"Failed to save deduplication file: {e}")
 
-posted_urls, posted_titles, posted_hashes = load_dedup()
+# --- Initialize deduplication state with normalization ---
+raw_posted_urls, raw_posted_titles, raw_posted_hashes = load_dedup()
 now = datetime.now(timezone.utc)
 cutoff = now - timedelta(days=7)
-posted_urls = {k: v for k, v in posted_urls.items() if v > cutoff}
-posted_titles = {k: v for k, v in posted_titles.items() if v > cutoff}
-posted_hashes = {k: v for k, v in posted_hashes.items() if v > cutoff}
-first_run = not bool(posted_urls)
 
-def normalize_url(url):
-    parsed = urllib.parse.urlparse(url)
-    return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
-
-def normalize_title(title):
-    title = html.unescape(title)
-    title = re.sub(r'[^\w\s£$€]', '', title)
-    title = re.sub(r'\s+', ' ', title).strip().lower()
-    return title
-
-def get_content_hash(entry):
-    summary = getattr(entry, "summary", "")[:200]
-    return hashlib.md5(summary.encode('utf-8')).hexdigest()
+# Normalize all keys for deduplication
+posted_urls = {normalize_url(k): v for k, v in raw_posted_urls.items() if v > cutoff}
+posted_titles = {normalize_title(k): v for k, v in raw_posted_titles.items() if v > cutoff}
+posted_hashes = {k: v for k, v in raw_posted_hashes.items() if v > cutoff}
 
 def is_duplicate(entry, threshold=0.85):
-    if first_run:
-        return False, ""
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
     content_hash = get_content_hash(entry)
@@ -117,6 +119,7 @@ def is_duplicate(entry, threshold=0.85):
             return True, "Title too similar to existing post"
     return False, ""
 
+# --- Article Extraction and Filtering ---
 def extract_first_paragraphs(url):
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
@@ -134,7 +137,10 @@ def is_promotional(entry):
 
 def is_uk_relevant(entry):
     combined = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    keywords = ["uk", "britain", "england", "scotland", "wales", "northern ireland", "london", "nhs", "parliament", "british", "bbc", "labour", "tory", "sunak", "starmer", "met police"]
+    keywords = [
+        "uk", "britain", "england", "scotland", "wales", "northern ireland", "london",
+        "nhs", "parliament", "british", "bbc", "labour", "tory", "sunak", "starmer", "met police"
+    ]
     return any(kw in combined for kw in keywords)
 
 def get_category(entry):
@@ -213,7 +219,6 @@ def main():
         "Telegraph": "https://www.telegraph.co.uk/rss.xml",
         "Times": "https://www.thetimes.co.uk/rss"
     }
-
     all_entries = []
     # Randomize feed order to ensure variety
     feed_items = list(feed_sources.items())
