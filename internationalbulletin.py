@@ -1,4 +1,3 @@
-```python
 import feedparser
 import requests
 from bs4 import BeautifulSoup
@@ -14,6 +13,11 @@ import re
 import hashlib
 import html
 import logging
+
+# Ensure log files exist
+for fname in ['bot.log', 'posted_records.txt', 'rejected_articles.txt']:
+    with open(fname, 'a', encoding='utf-8'):
+        os.utime(fname, None)  # Touch the file to ensure it exists
 
 # Set up logging
 logging.basicConfig(filename='bot.log', level=logging.INFO, 
@@ -190,4 +194,104 @@ def is_recent(entry, cutoff):
 
 def is_promotional(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return any(kw in text for kw
+    return any(kw in text for kw in PROMO_KEYWORDS)
+
+def breaking_score(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return sum(2 if kw in text else 0 for kw in BREAKING_KEYWORDS)
+
+# Main logic
+MAX_POSTS_PER_RUN = 20
+hours = 12
+now_utc = datetime.now(timezone.utc)
+hours_ago = now_utc - timedelta(hours=hours)
+
+recent_entries = []
+for source, feed_url in feed_sources.items():
+    try:
+        feed = feedparser.parse(feed_url)
+        if not feed.entries:
+            logging.warning(f"No entries found in feed: {feed_url}")
+            continue
+        for entry in feed.entries:
+            if is_recent(entry, hours_ago) and not is_promotional(entry):
+                recent_entries.append((source, entry))
+    except Exception as e:
+        logging.error(f"Failed to parse feed {feed_url}: {e}")
+
+if not recent_entries:
+    logging.info("No recent articles found to post.")
+    print("No recent articles found to post.")
+    sys.exit(0)
+
+recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
+selected_entries = recent_entries[:MAX_POSTS_PER_RUN]
+
+current_posts = []
+for source, entry in selected_entries:
+    try:
+        is_dup, reason = is_duplicate(entry)
+        if is_dup:
+            logging.info(f"Skipping duplicate from {source}: {entry.title} - {reason}")
+            continue
+
+        combined_text = entry.title + " " + getattr(entry, "summary", "")
+        tag = get_tag(combined_text)
+        title = html.unescape(entry.title)
+        post_title = f"{title} | {tag} News"
+
+        summary = extract_first_three_paragraphs(entry.link)
+        if not summary:
+            summary = BeautifulSoup(getattr(entry, "summary", ""), 'html.parser').get_text()
+        if not summary:
+            logging.info(f"Skipping article with no summary from {source}: {entry.title}")
+            continue
+
+        body = f"{summary}\n\nRead more at [source]({entry.link})"
+        submission = subreddit.submit(post_title, selftext=body)
+        post_link = submission.shortlink
+
+        logging.info(f"Successfully posted from {source}: {post_title} - {post_link}")
+        current_posts.append({'title': post_title, 'post_link': post_link, 'article_url': entry.link})
+
+        norm_link = normalize_url(entry.link)
+        norm_title = normalize_title(entry.title)
+        content_hash = get_content_hash(entry)
+        post_time = datetime.now(timezone.utc)
+        posted_urls[norm_link] = post_time
+        posted_titles[norm_title] = post_time
+        posted_content_hashes[content_hash] = post_time
+        save_duplicate_files()
+
+        timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+        try:
+            with open('posted_records.txt', 'a', encoding='utf-8') as f:
+                f.write(f"{timestamp} | {source} | {post_title} | {post_link} | {entry.link}\n")
+        except Exception as e:
+            logging.error(f"Failed to write to posted_records.txt: {e}")
+
+        time.sleep(30)  # Delay to respect Reddit rate limits
+
+    except Exception as e:
+        logging.error(f"Error posting article from {source}: {entry.title} - {e}")
+
+# Display results
+print("\n--- Posts Created in This Run ---")
+if current_posts:
+    for post in current_posts:
+        print(f"Title: {post['title']}")
+        print(f"Reddit Link: {post['post_link']}")
+        print(f"Article URL: {post['article_url']}\n")
+else:
+    print("No posts created in this run.")
+
+print("\n--- Historical Posted Records ---")
+try:
+    if os.path.exists('posted_records.txt'):
+        with open('posted_records.txt', 'r', encoding='utf-8') as f:
+            for line in f:
+                print(line.strip())
+    else:
+        print("No historical posted records found.")
+except Exception as e:
+    print(f"Error reading posted records: {e}")
