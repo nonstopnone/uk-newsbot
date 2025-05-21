@@ -11,14 +11,14 @@ import urllib.parse
 import difflib
 import re
 import hashlib
-import html  # <-- Added for HTML entity decoding
+import html  # For HTML entity decoding
 
 # --- Environment variable check ---
 required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
     'REDDIT_USERNAME',
-    'REDDITPASSWORD'
+    'REDDITPASSWORD'  # This is correct per your environment!
 ]
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
@@ -29,7 +29,7 @@ if missing_vars:
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
+REDDIT_PASSWORD = os.environ['REDDITPASSWORD']  # This is correct!
 
 reddit = praw.Reddit(
     client_id=REDDIT_CLIENT_ID,
@@ -79,15 +79,12 @@ def is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes, title
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
     content_hash = get_content_hash(entry)
-    
     if norm_link in posted_urls or content_hash in posted_content_hashes:
         return True, "URL or content hash already posted"
-    
     for posted_title in posted_titles:
         similarity = difflib.SequenceMatcher(None, norm_title, posted_title).ratio()
         if similarity > title_threshold:
             return True, f"Title too similar to existing post (similarity: {similarity:.2f})"
-    
     return False, ""
 
 # --- Major UK news RSS feeds ---
@@ -239,42 +236,51 @@ def post_to_reddit(entry, category):
     # Assign flair
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
-    # Get flair template id (if flairs are set up as templates)
-    for flair in subreddit.flair.link_templates:
-        if flair['text'] == flair_text:
-            flair_id = flair['id']
-            break
+    try:
+        for flair in subreddit.flair.link_templates:
+            if flair['text'] == flair_text:
+                flair_id = flair['id']
+                break
+    except Exception as e:
+        print(f"Warning: Could not retrieve flair templates: {e}")
 
-    # Decode HTML entities in the title before posting
+    # Decode HTML entities in the title
     clean_title = html.unescape(entry.title)
-
-    # Submit the link post
-    submission = subreddit.submit(
-        title=clean_title,
-        url=entry.link,
-        flair_id=flair_id
-    )
-    print(f"Posted: {submission.shortlink}")
+    try:
+        submission = subreddit.submit(
+            title=clean_title,
+            url=entry.link,
+            flair_id=flair_id
+        )
+        print(f"Posted: {submission.shortlink}")
+    except Exception as e:
+        print(f"Error posting to Reddit: {e}")
+        return
 
     # Extract and format the body (first 3 paragraphs)
     quoted_body = extract_first_three_paragraphs(entry.link)
     if quoted_body:
-        # Format as a blockquote for Reddit
+        quoted_body = html.unescape(quoted_body)  # Decode HTML entities in body
         quoted_lines = [f"> {line}" if line.strip() else "" for line in quoted_body.split('\n')]
         quoted_comment = "\n".join(quoted_lines)
         quoted_comment += f"\n\n[Read more at the source]({entry.link})"
-        # Add the required prompt
         quoted_comment += "\n\n---\n\nWhat do you think of this news story? Join the conversation in the comments."
-        submission.reply(quoted_comment)
-        print("Added quoted body as comment.")
+        try:
+            submission.reply(quoted_comment)
+            print("Added quoted body as comment.")
+        except Exception as e:
+            print(f"Error posting comment: {e}")
 
     # Save posted info
-    with open('posted_urls.txt', 'a', encoding='utf-8') as f:
-        f.write(norm_link + '\n')
-    with open('posted_titles.txt', 'a', encoding='utf-8') as f:
-        f.write(norm_title + '\n')
-    with open('posted_content_hashes.txt', 'a', encoding='utf-8') as f:
-        f.write(content_hash + '\n')
+    try:
+        with open('posted_urls.txt', 'a', encoding='utf-8') as f:
+            f.write(norm_link + '\n')
+        with open('posted_titles.txt', 'a', encoding='utf-8') as f:
+            f.write(norm_title + '\n')
+        with open('posted_content_hashes.txt', 'a', encoding='utf-8') as f:
+            f.write(content_hash + '\n')
+    except Exception as e:
+        print(f"Error saving posted info: {e}")
 
 # --- Main posting loop ---
 for source, entry, category in selected_entries:
