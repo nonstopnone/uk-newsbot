@@ -18,7 +18,7 @@ required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
     'REDDIT_USERNAME',
-    'REDDITPASSWORD'  # This is correct per your environment!
+    'REDDITPASSWORD'
 ]
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
@@ -29,7 +29,7 @@ if missing_vars:
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-REDDIT_PASSWORD = os.environ['REDDITPASSWORD']  # This is correct!
+REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
 
 reddit = praw.Reddit(
     client_id=REDDIT_CLIENT_ID,
@@ -40,7 +40,7 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('BreakingUKNews')
 
-# --- Load posted URLs, titles, and content hashes ---
+# --- Load posted URLs, titles, content hashes, and records ---
 posted_urls = set()
 posted_titles = set()
 posted_content_hashes = set()
@@ -65,8 +65,7 @@ def normalize_url(url):
     return normalized_url
 
 def normalize_title(title):
-    title = html.unescape(title)  # Decode HTML entities
-    # Remove punctuation except numbers and currency symbols (£, $, €)
+    title = html.unescape(title)
     title = re.sub(r'[^\w\s£$€]', '', title)
     title = re.sub(r'\s+', ' ', title).strip().lower()
     return title
@@ -193,6 +192,53 @@ def breaking_score(entry):
             score += 1
     return score
 
+def check_messages(posted_titles):
+    """Check the bot's inbox for private messages related to the subreddit or posts."""
+    messages = []
+    try:
+        for message in reddit.inbox.unread(limit=10):  # Check recent unread messages
+            if isinstance(message, praw.models.Message):
+                msg_body = message.body.lower()
+                msg_relevant = ('breakinguknews' in msg_body or
+                                any(title.lower() in msg_body for title in posted_titles))
+                if msg_relevant:
+                    messages.append({
+                        'subject': message.subject,
+                        'body': message.body,
+                        'author': message.author.name if message.author else '[deleted]',
+                        'time': datetime.fromtimestamp(message.created_utc, tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+                    })
+                message.mark_read()  # Mark as read to avoid reprocessing
+    except Exception as e:
+        print(f"Error checking messages: {e}")
+    return messages
+
+def log_to_records(timestamp, source, title, category, post_link, comment_link=None, message=None):
+    """Log post, comment, and message details to posted_records.txt."""
+    try:
+        with open('posted_records.txt', 'a', encoding='utf-8') as f:
+            if message:
+                f.write(f"{timestamp} | Message | {message['subject']} | {message['author']} | {message['body'][:100]} | {message['time']}\n")
+            else:
+                comment_field = comment_link if comment_link else "No comment posted"
+                f.write(f"{timestamp} | {source} | {title} | {category} | {post_link} | {comment_field}\n")
+    except Exception as e:
+        print(f"Error writing to posted_records.txt: {e}")
+
+def display_posted_records():
+    """Display contents of posted_records.txt for checking."""
+    try:
+        if os.path.exists('posted_records.txt'):
+            with open('posted_records.txt', 'r', encoding='utf-8') as f:
+                print("\n--- Posted Records ---")
+                for line in f:
+                    print(line.strip())
+                print("--- End of Records ---")
+        else:
+            print("No posted records found.")
+    except Exception as e:
+        print(f"Error reading posted_records.txt: {e}")
+
 # --- Gather recent entries ---
 recent_entries = []
 for source, feed_url in feed_sources.items():
@@ -215,7 +261,7 @@ recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
 # --- Select up to 10 stories ---
 selected_entries = recent_entries[:10]
 
-# --- Posting to Reddit with simplified comment ---
+# --- Posting to Reddit with simplified comment and title suffix ---
 def post_to_reddit(entry, category):
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
@@ -232,8 +278,9 @@ def post_to_reddit(entry, category):
     except Exception as e:
         print(f"Warning: Could not retrieve flair templates: {e}")
 
-    # Decode HTML entities in the title
-    clean_title = html.unescape(entry.title)
+    # Decode HTML entities in the title and append "| UK News"
+    clean_title = html.unescape(entry.title) + " | UK News"
+    timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
     try:
         submission = subreddit.submit(
             title=clean_title,
@@ -241,19 +288,22 @@ def post_to_reddit(entry, category):
             flair_id=flair_id
         )
         print(f"Posted: {submission.shortlink}")
+        post_link = submission.shortlink
     except Exception as e:
         print(f"Error posting to Reddit: {e}")
         return
 
     # Extract and format the body (first 3 paragraphs)
     quoted_body = extract_first_three_paragraphs(entry.link)
+    comment_link = None
     if quoted_body:
         quoted_body = html.unescape(quoted_body)
         quoted_lines = [f"> {line}" if line.strip() else "" for line in quoted_body.split('\n')]
         quoted_comment = "\n".join(quoted_lines)
         quoted_comment += f"\n\nRead more at the [source]({entry.link})"
         try:
-            submission.reply(quoted_comment)
+            comment = submission.reply(quoted_comment)
+            comment_link = f"https://www.reddit.com{comment.permalink}"
             print("Added quoted body as comment.")
         except Exception as e:
             print(f"Error posting comment: {e}")
@@ -266,15 +316,27 @@ def post_to_reddit(entry, category):
             f.write(norm_title + '\n')
         with open('posted_content_hashes.txt', 'a', encoding='utf-8') as f:
             f.write(content_hash + '\n')
+        log_to_records(timestamp, source, clean_title, category, post_link, comment_link)
     except Exception as e:
         print(f"Error saving posted info: {e}")
 
 # --- Main posting loop ---
+posted_titles_for_check = set()  # Track titles for message checking
 for source, entry, category in selected_entries:
     is_dup, reason = is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes)
     if is_dup:
         print(f"Skipping duplicate: {reason}")
         continue
+    posted_titles_for_check.add(html.unescape(entry.title))
     post_to_reddit(entry, category)
     # Add a delay to avoid rate limits
     time.sleep(30)
+
+# --- Check messages after posting ---
+messages = check_messages(posted_titles_for_check)
+for message in messages:
+    timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+    log_to_records(timestamp, "N/A", "N/A", "Message", "N/A", None, message)
+
+# --- Display posted records for checking ---
+display_posted_records()
