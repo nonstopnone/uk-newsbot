@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 import time
 import os
 import sys
+import random
 
 # --- Check for required environment variables ---
 required_env_vars = [
@@ -43,7 +44,7 @@ if os.path.exists('posted_urls.txt'):
 # --- UK news RSS feeds (all major sources, fixed Sky News URL) ---
 feed_urls = [
     'http://feeds.bbci.co.uk/news/rss.xml',
-    'https://feeds.skynews.com/feeds/rss/home.xml',  # Fixed typo!
+    'https://feeds.skynews.com/feeds/rss/home.xml',
     'https://www.itv.com/news/rss',
     'https://www.telegraph.co.uk/rss.xml',
     'https://www.thetimes.co.uk/rss',
@@ -63,75 +64,103 @@ def is_recent(entry):
     pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
     return pub_time > one_hour_ago
 
-def extract_first_three_paragraphs(url):
-    """Extract the first three non-empty paragraphs from the article URL."""
+def extract_article_paragraphs(url, title):
+    """Extract the first three meaningful paragraphs, skipping short 'top line' blurbs."""
     try:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        paragraphs = [p for p in soup.find_all('p') if p.get_text(strip=True)]
-        if len(paragraphs) >= 3:
-            return '\n\n'.join(p.get_text(strip=True) for p in paragraphs[:3])
+        paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if p.get_text(strip=True)]
+
+        # Filter out paragraphs that are:
+        # - very short (likely a blurb, e.g. under 60 chars)
+        # - duplicate of the title
+        # - all uppercase or 'By ...' lines
+        filtered = []
+        for p in paragraphs:
+            if len(p) < 60:
+                continue
+            if title.strip().lower() in p.strip().lower():
+                continue
+            if p.isupper():
+                continue
+            if p.strip().startswith("By "):
+                continue
+            filtered.append(p)
+            if len(filtered) == 3:
+                break
+
+        if filtered:
+            return '\n\n'.join(filtered)
         elif paragraphs:
-            return '\n\n'.join(p.get_text(strip=True) for p in paragraphs)
+            return '\n\n'.join(paragraphs[:3])
         else:
             return soup.get_text(strip=True)[:500]
     except Exception as e:
         return f"(Could not extract article text: {e})"
 
+# --- Collect all eligible articles from all feeds ---
+articles = []
+for feed_url in feed_urls:
+    try:
+        feed = feedparser.parse(feed_url)
+        for entry in feed.entries:
+            title = entry.title
+            link = entry.link
+
+            if link in posted_urls:
+                continue
+            if not is_recent(entry):
+                continue
+
+            articles.append({
+                "title": title,
+                "link": link
+            })
+    except Exception as e:
+        print(f"Error processing feed {feed_url}: {e}")
+
+# --- Shuffle to ensure a mix of sources ---
+random.shuffle(articles)
+
 # --- Open log file for this run ---
 log_filename = f"run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
 with open(log_filename, 'w', encoding='utf-8') as log_file:
     new_posts = 0
-    for feed_url in feed_urls:
+    for article in articles:
+        title = article["title"]
+        link = article["link"]
+
+        quote = extract_article_paragraphs(link, title)
+        body = (
+            f"{quote}\n\n"
+            f"*Quoted from the link*\n\n"
+            f"**What are your thoughts on this story? Join the discussion in the comments.**"
+        )
+
+        # --- Format title as requested ---
+        post_title = f"{title} | UK News"
+
+        # --- Log the post attempt ---
+        log_file.write("="*60 + "\n")
+        log_file.write(f"TITLE: {post_title}\n")
+        log_file.write(f"LINK: {link}\n")
+        log_file.write(f"BODY:\n{body}\n")
+        log_file.write("="*60 + "\n\n")
+
+        # --- Post to Reddit as a link post with body ---
         try:
-            feed = feedparser.parse(feed_url)
-            for entry in feed.entries:
-                title = entry.title
-                link = entry.link
-
-                if link in posted_urls:
-                    continue
-                if not is_recent(entry):
-                    continue
-
-                quote = extract_first_three_paragraphs(link)
-                comment_body = (
-                    f"**Quote:**\n\n{quote}\n\n"
-                    f"*Quoted from the link*\n\n"
-                    f"**What are your thoughts on this story? Join the discussion in the comments.**"
-                )
-
-                # --- Log the post attempt ---
-                log_file.write("="*60 + "\n")
-                log_file.write(f"TITLE: {title}\n")
-                log_file.write(f"LINK: {link}\n")
-                log_file.write(f"COMMENT:\n{comment_body}\n")
-                log_file.write("="*60 + "\n\n")
-
-                # --- Post to Reddit as a link post ---
-                try:
-                    submission = subreddit.submit(title, url=link, resubmit=False)
-                    print(f"Posted link post to Reddit: {title}")
-                    posted_urls.add(link)
-                    new_posts += 1
-
-                    # Optionally, add the quote as a comment under the link post
-                    submission.reply(comment_body)
-                    print("Added quote as a comment.")
-
-                    time.sleep(10)  # Avoid Reddit rate limits
-                    if new_posts >= 5:  # Limit per run (adjust as needed)
-                        break
-                except Exception as e:
-                    print(f"Failed to post to Reddit: {e}")
-                    log_file.write(f"FAILED TO POST: {e}\n\n")
-                    continue
-            if new_posts >= 5:
+            subreddit.submit(post_title, url=link, selftext=body)
+            print(f"Posted link post to Reddit: {post_title}")
+            posted_urls.add(link)
+            new_posts += 1
+            time.sleep(10)  # Avoid Reddit rate limits
+            if new_posts >= 5:  # Limit per run (adjust as needed)
                 break
         except Exception as e:
-            print(f"Error processing feed {feed_url}: {e}")
-            log_file.write(f"ERROR PROCESSING FEED: {feed_url} - {e}\n\n")
+            print(f"Failed to post to Reddit: {e}")
+            log_file.write(f"FAILED TO POST: {e}\n\n")
+            continue
 
     # --- Save posted URLs ---
     with open('posted_urls.txt', 'w') as f:
