@@ -7,6 +7,7 @@ import time
 import os
 import sys
 import random
+import requests.exceptions
 
 # --- Check for required environment variables ---
 required_env_vars = [
@@ -103,22 +104,36 @@ def extract_article_paragraphs(url, title):
 articles = []
 for feed_url in feed_urls:
     try:
-        feed = feedparser.parse(feed_url)
+        for attempt in range(3):  # Retry up to 3 times
+            try:
+                feed = feedparser.parse(feed_url)
+                if feed.bozo:
+                    raise Exception(f"Malformed feed: {feed.bozo_exception}")
+                break
+            except (requests.exceptions.RequestException, Exception) as e:
+                print(f"Retry {attempt+1}/3 for feed {feed_url}: {e}")
+                time.sleep(2)
+        else:
+            print(f"Failed to parse feed {feed_url} after 3 attempts")
+            continue
         for entry in feed.entries:
-            title = entry.title
-            link = entry.link
-
+            title = getattr(entry, 'title', '')
+            link = getattr(entry, 'link', '')
+            if not link or not title or not isinstance(link, str) or not link.startswith(('http://', 'https://')):
+                print(f"Skipping invalid article: Title={title}, Link={link}")
+                continue
             if link in posted_urls:
                 continue
             if not is_recent(entry):
                 continue
-
             articles.append({
                 "title": title,
                 "link": link
             })
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
+
+print(f"Collected {len(articles)} articles: {[(a['title'], a['link']) for a in articles]}")
 
 # --- Shuffle to ensure a mix of sources ---
 random.shuffle(articles)
@@ -148,8 +163,9 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
         log_file.write(f"BODY:\n{body}\n")
         log_file.write("="*60 + "\n\n")
 
-        if not link or not post_title:
-            print(f"Skipping post due to missing link or title: {post_title}")
+        if not link or not post_title or not body.strip() or not isinstance(link, str) or not link.startswith(('http://', 'https://')):
+            print(f"Skipping post due to invalid data: Title={post_title}, Link={link}, Body={body[:50]}...")
+            log_file.write(f"SKIPPED: Invalid data - Title={post_title}, Link={link}, Body={body[:50]}...\n")
             continue
 
         try:
@@ -157,18 +173,22 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
             submission = subreddit.submit(post_title, url=link, selftext=body)
             print(f"Posted link post to Reddit: {post_title}")
         except praw.exceptions.APIException as e:
+            print(f"Reddit API error: {e}, Error Type: {e.error_type}, Message: {str(e)}")
+            log_file.write(f"FAILED TO POST: {e}, Error Type: {e.error_type}, Message: {str(e)}\n\n")
             if e.error_type == 'BAD_REQUEST' and 'selftext' in str(e).lower():
-                # Fallback: post as self post with link in body
                 fallback_body = f"[Link to article]({link})\n\n{body}"
-                submission = subreddit.submit(post_title, selftext=fallback_body)
-                print(f"Posted self (text) post to Reddit (fallback): {post_title}")
+                try:
+                    submission = subreddit.submit(post_title, selftext=fallback_body)
+                    print(f"Posted self (text) post to Reddit (fallback): {post_title}")
+                except Exception as e2:
+                    print(f"Fallback post failed: {e2}")
+                    log_file.write(f"FALLBACK FAILED: {e2}\n\n")
+                    continue
             else:
-                print(f"Failed to post to Reddit: {e}")
-                log_file.write(f"FAILED TO POST: {e}\n\n")
                 continue
         except Exception as e:
-            print(f"Failed to post to Reddit: {e}")
-            log_file.write(f"FAILED TO POST: {e}\n\n")
+            print(f"Unexpected error posting to Reddit: {e}")
+            log_file.write(f"UNEXPECTED ERROR: {e}\n\n")
             continue
 
         posted_urls.add(link)
