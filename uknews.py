@@ -65,6 +65,14 @@ def is_recent(entry):
     pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
     return pub_time > seven_hours_ago
 
+def is_valid_url(url):
+    """Check if the URL is accessible with a HEAD request."""
+    try:
+        response = requests.head(url, headers=headers, timeout=5, allow_redirects=True)
+        return response.status_code == 200
+    except requests.exceptions.RequestException:
+        return False
+
 def extract_article_paragraphs(url, title):
     """Extract the first three meaningful paragraphs, skipping short 'top line' blurbs."""
     try:
@@ -119,7 +127,7 @@ for feed_url in feed_urls:
         for entry in feed.entries:
             title = getattr(entry, 'title', '')
             link = getattr(entry, 'link', '')
-            if not link or not title or not isinstance(link, str) or not link.startswith(('http://', 'https://')):
+            if not link or not title or not isinstance(link, str) or not link.startswith(('http://', 'https://')) or not is_valid_url(link):
                 print(f"Skipping invalid article: Title={title}, Link={link}")
                 continue
             if link in posted_urls:
@@ -142,19 +150,24 @@ random.shuffle(articles)
 log_filename = f"run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
 with open(log_filename, 'w', encoding='utf-8') as log_file:
     new_posts = 0
+    failed_posts = 0
     for article in articles:
         title = article["title"]
         link = article["link"]
 
         quote = extract_article_paragraphs(link, title)
+        if quote.startswith("(Could not extract article text"):
+            print(f"Skipping post due to failed article extraction: Title={title}, Link={link}")
+            log_file.write(f"SKIPPED: Failed extraction - Title={title}, Link={link}\n")
+            continue
         body = (
             f"{quote}\n\n"
             f"*Quoted from the link*\n\n"
             f"**What are your thoughts on this story? Join the discussion in the comments.**"
         )
 
-        # --- Format title as requested ---
-        post_title = f"{title} | UK News"
+        # --- Format title as requested: no space before pipe, one after ---
+        post_title = f"{title}| UK News"
 
         # --- Log the post attempt ---
         log_file.write("="*60 + "\n")
@@ -163,7 +176,7 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
         log_file.write(f"BODY:\n{body}\n")
         log_file.write("="*60 + "\n\n")
 
-        if not link or not post_title or not body.strip() or not isinstance(link, str) or not link.startswith(('http://', 'https://')):
+        if not link or not post_title or not body.strip() or not isinstance(link, str) or not link.startswith(('http://', 'https://')) or not is_valid_url(link):
             print(f"Skipping post due to invalid data: Title={post_title}, Link={link}, Body={body[:50]}...")
             log_file.write(f"SKIPPED: Invalid data - Title={post_title}, Link={link}, Body={body[:50]}...\n")
             continue
@@ -183,18 +196,21 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
                 except Exception as e2:
                     print(f"Fallback post failed: {e2}")
                     log_file.write(f"FALLBACK FAILED: {e2}\n\n")
+                    failed_posts += 1
                     continue
             else:
+                failed_posts += 1
                 continue
         except Exception as e:
             print(f"Unexpected error posting to Reddit: {e}")
             log_file.write(f"UNEXPECTED ERROR: {e}\n\n")
+            failed_posts += 1
             continue
 
         posted_urls.add(link)
         new_posts += 1
         time.sleep(10)  # Avoid Reddit rate limits
-        if new_posts >= 5:  # Limit per run (adjust as needed)
+        if new_posts >= 5:  # Limit per run
             break
 
     # --- Save posted URLs ---
@@ -203,8 +219,12 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
             f.write(url + '\n')
 
     log_file.write(f"\nTotal new posts this run: {new_posts}\n")
+    log_file.write(f"Total failed posts this run: {failed_posts}\n")
 
     if new_posts == 0:
-        print("No new UK breaking news stories found in the last 7 hours.")
+        if failed_posts > 0:
+            print(f"No new UK breaking news stories posted due to {failed_posts} failed attempts. Check logs for details.")
+        else:
+            print("No new UK breaking news stories found in the last 7 hours.")
     else:
         print(f"Posted {new_posts} new link posts to Reddit from the last 7 hours.")
