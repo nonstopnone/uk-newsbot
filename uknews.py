@@ -8,6 +8,9 @@ import os
 import sys
 import random
 import urllib.parse
+import difflib
+import re
+import hashlib
 
 # --- Environment variable check ---
 required_env_vars = [
@@ -36,15 +39,19 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('BreakingUKNews')
 
-# --- Load posted URLs and titles ---
+# --- Load posted URLs, titles, and content hashes ---
 posted_urls = set()
 posted_titles = set()
+posted_content_hashes = set()
 if os.path.exists('posted_urls.txt'):
     with open('posted_urls.txt', 'r', encoding='utf-8') as f:
         posted_urls = set(line.strip() for line in f if line.strip())
 if os.path.exists('posted_titles.txt'):
     with open('posted_titles.txt', 'r', encoding='utf-8') as f:
         posted_titles = set(line.strip().lower() for line in f if line.strip())
+if os.path.exists('posted_content_hashes.txt'):
+    with open('posted_content_hashes.txt', 'r', encoding='utf-8') as f:
+        posted_content_hashes = set(line.strip() for line in f if line.strip())
 
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
@@ -58,7 +65,28 @@ def normalize_url(url):
     return normalized_url
 
 def normalize_title(title):
-    return title.strip().lower()
+    title = re.sub(r'[^\w\s]', '', title)
+    title = re.sub(r'\s+', ' ', title).strip().lower()
+    return title
+
+def get_content_hash(entry):
+    summary = getattr(entry, "summary", "")[:100]
+    return hashlib.md5(summary.encode('utf-8')).hexdigest()
+
+def is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes, title_threshold=0.85):
+    norm_link = normalize_url(entry.link)
+    norm_title = normalize_title(entry.title)
+    content_hash = get_content_hash(entry)
+    
+    if norm_link in posted_urls or content_hash in posted_content_hashes:
+        return True, "URL or content hash already posted"
+    
+    for posted_title in posted_titles:
+        similarity = difflib.SequenceMatcher(None, norm_title, posted_title).ratio()
+        if similarity > title_threshold:
+            return True, f"Title too similar to existing post (similarity: {similarity:.2f})"
+    
+    return False, ""
 
 # --- Major UK news RSS feeds ---
 feed_sources = {
@@ -70,21 +98,73 @@ feed_sources = {
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
-# --- Breaking news keywords ---
+# --- Keywords for filtering ---
 BREAKING_KEYWORDS = [
     "breaking", "urgent", "just in", "developing", "update", "live", "alert"
 ]
+UK_KEYWORDS = [
+    "uk", "united kingdom", "britain", "england", "scotland", "wales", "northern ireland",
+    "london", "manchester", "birmingham", "glasgow", "cardiff", "belfast"
+]
+PROMO_KEYWORDS = [
+    "giveaway", "win", "promotion", "contest", "advert", "sponsor", "deal", "offer",
+    "competition", "prize", "free", "discount"
+]
+CATEGORY_KEYWORDS = {
+    "Breaking News": ["breaking", "urgent", "alert", "emergency", "crisis", "motorway pile-up", "national security"],
+    "Crime & Legal": ["crime", "murder", "arrest", "robbery", "assault", "police", "court", "trial", "judge", "lawsuit", "verdict", "fraud", "manslaughter"],
+    "Sport": ["sport", "football", "cricket", "rugby", "tennis", "athletics", "premier league", "championship", "cyclist"],
+    "Royals": ["royal", "monarch", "queen", "king", "prince", "princess", "buckingham", "jubilee"],
+    "Culture": ["arts", "music", "film", "theatre", "festival", "heritage", "literary", "tv series"],
+    "Immigration": ["immigration", "asylum", "migrant", "border", "home office", "channel crossing"],
+    "Politics": ["parliament", "election", "government", "policy", "house of commons", "by-election"],
+    "Economy": ["economy", "finance", "business", "taxes", "employment", "energy prices", "retail"],
+    "Notable International News": ["international", "uk-us", "un climate", "global", "foreign"],
+    "Trade and Diplomacy": ["trade", "diplomacy", "eu", "brexit", "uk-eu", "foreign policy"],
+    "National Newspapers Front Pages": ["front page", "newspaper", "telegraph", "guardian", "times"]
+}
 
-# --- Breaking news window (last hour) ---
+# --- Flair mapping ---
+FLAIR_MAPPING = {
+    "Breaking News": "Breaking News",
+    "Crime & Legal": "Crime & Legal",
+    "Sport": "Sport",
+    "Royals": "Royals",
+    "Culture": "Culture",
+    "Immigration": "Immigration",
+    "Politics": "Politics",
+    "Economy": "Economy",
+    "Notable International News": "Notable International News",
+    "Trade and Diplomacy": "Trade and Diplomacy",
+    "National Newspapers Front Pages": "National Newspapers Front Pages",
+    None: "No Flair"
+}
+
+# --- Breaking news window (last 2 hours) ---
 now_utc = datetime.now(timezone.utc)
-one_hour_ago = now_utc - timedelta(hours=1)
+two_hours_ago = now_utc - timedelta(hours=2)
 
 def is_recent(entry):
     time_struct = getattr(entry, 'published_parsed', None) or getattr(entry, 'updated_parsed', None)
     if not time_struct:
         return False
     pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
-    return pub_time > one_hour_ago
+    return pub_time > two_hours_ago
+
+def is_promotional(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return any(kw in text for kw in PROMO_KEYWORDS)
+
+def is_uk_relevant(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return any(kw in text for kw in UK_KEYWORDS)
+
+def get_category(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if any(kw in text for kw in keywords):
+            return category
+    return None
 
 def extract_first_three_paragraphs(url):
     try:
@@ -107,20 +187,28 @@ def extract_first_three_paragraphs(url):
 
 def breaking_score(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return sum(kw in text for kw in BREAKING_KEYWORDS)
+    score = sum(kw in text for kw in BREAKING_KEYWORDS)
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if any(kw in text for kw in keywords):
+            score += 1
+    return score
 
-# --- Gather recent entries, one per source ---
+# --- Gather recent entries ---
 recent_entries = []
 for source, feed_url in feed_sources.items():
     try:
         feed = feedparser.parse(feed_url)
         source_entries = [
-            entry for entry in feed.entries if is_recent(entry)
+            entry for entry in feed.entries
+            if is_recent(entry) and is_uk_relevant(entry) and not is_promotional(entry)
         ]
         if source_entries:
             random.shuffle(source_entries)
             source_entries.sort(key=breaking_score, reverse=True)
-            recent_entries.append((source, source_entries[0]))
+            for entry in source_entries[:2]:
+                category = get_category(entry)
+                if category:
+                    recent_entries.append((source, entry, category))
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
 
@@ -128,70 +216,67 @@ for source, feed_url in feed_sources.items():
 random.shuffle(recent_entries)
 recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
 
-# --- Select up to 5 stories, each from a different source ---
+# --- Select up to 10 stories, balancing categories and sources ---
 selected_entries = []
 used_sources = set()
-for source, entry in recent_entries:
-    if source not in used_sources and len(selected_entries) < 5:
-        selected_entries.append((source, entry))
-        used_sources.add(source)
-    if len(selected_entries) == 5:
+used_categories = {cat: 0 for cat in CATEGORY_KEYWORDS}
+for source, entry, category in recent_entries:
+    if len(selected_entries) >= 10:
         break
+    if used_categories[category] < 2 and source not in used_sources:
+        selected_entries.append((source, entry, category))
+        used_sources.add(source)
+        used_categories[category] += 1
 
-# --- Logging directory ---
-os.makedirs('logs', exist_ok=True)
-log_filename = f"logs/run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
-with open(log_filename, 'w', encoding='utf-8') as log_file:
-    new_posts = 0
-    for source, entry in selected_entries:
-        title = entry.title
-        link = entry.link
+# --- Posting to Reddit with quoted body as comment ---
+def post_to_reddit(entry, category):
+    norm_link = normalize_url(entry.link)
+    norm_title = normalize_title(entry.title)
+    content_hash = get_content_hash(entry)
 
-        norm_link = normalize_url(link)
-        norm_title = normalize_title(title)
+    # Assign flair
+    flair_text = FLAIR_MAPPING.get(category, "No Flair")
+    flair_id = None
+    # Get flair template id (if flairs are set up as templates)
+    for flair in subreddit.flair.link_templates:
+        if flair['text'] == flair_text:
+            flair_id = flair['id']
+            break
 
-        if norm_link in posted_urls or norm_title in posted_titles:
-            continue
+    # Submit the link post
+    submission = subreddit.submit(
+        title=entry.title,
+        url=entry.link,
+        flair_id=flair_id
+    )
+    print(f"Posted: {submission.shortlink}")
 
-        reddit_title = f"{title} | UK News"
+    # Extract and format the body (first 3 paragraphs)
+    quoted_body = extract_first_three_paragraphs(entry.link)
+    if quoted_body:
+        # Format as a blockquote for Reddit
+        quoted_lines = [f"> {line}" if line.strip() else "" for line in quoted_body.split('\n')]
+        quoted_comment = "\n".join(quoted_lines)
+        # Optionally, add a source line
+        quoted_comment += f"\n\n[Read more at the source]({entry.link})"
+        # Post as a comment
+        submission.reply(quoted_comment)
+        print("Added quoted body as comment.")
 
-        comment_body = (
-            f"{extract_first_three_paragraphs(link)}\n\n"
-            f"*Quoted from the link*\n\n"
-            f"**What do you think about this news story? Join the conversation in the comments.**"
-        )
+    # Save posted info
+    with open('posted_urls.txt', 'a', encoding='utf-8') as f:
+        f.write(norm_link + '\n')
+    with open('posted_titles.txt', 'a', encoding='utf-8') as f:
+        f.write(norm_title + '\n')
+    with open('posted_content_hashes.txt', 'a', encoding='utf-8') as f:
+        f.write(content_hash + '\n')
 
-        log_file.write("="*60 + "\n")
-        log_file.write(f"TITLE: {reddit_title}\n")
-        log_file.write(f"LINK: {link}\n")
-        log_file.write(f"SOURCE: {source}\n")
-        log_file.write(f"COMMENT BODY:\n{comment_body}\n")
-        log_file.write("="*60 + "\n\n")
-
-        try:
-            submission = subreddit.submit(title=reddit_title, url=link)
-            print(f"Posted link post to Reddit: {reddit_title}")
-            submission.reply(comment_body)
-            print(f"Posted context comment under: {reddit_title}")
-            posted_urls.add(norm_link)
-            posted_titles.add(norm_title)
-            new_posts += 1
-            time.sleep(10)
-        except Exception as e:
-            print(f"Failed to post to Reddit: {e}")
-            log_file.write(f"FAILED TO POST: {e}\n\n")
-            continue
-
-    with open('posted_urls.txt', 'w', encoding='utf-8') as f:
-        for url in posted_urls:
-            f.write(url + '\n')
-    with open('posted_titles.txt', 'w', encoding='utf-8') as f:
-        for title in posted_titles:
-            f.write(title + '\n')
-
-    log_file.write(f"\nTotal new posts this run: {new_posts}\n")
-
-    if new_posts == 0:
-        print("No new UK breaking news stories found in the last hour.")
-    else:
-        print(f"Posted {new_posts} new link posts to Reddit.")
+# --- Main posting loop ---
+for source, entry, category in selected_entries:
+    is_dup, reason = is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes)
+    if is_dup:
+        print(f"Skipping duplicate: {reason}")
+        continue
+    post_to_reddit(entry, category)
+    # Add a delay to avoid rate limits
+    time.sleep(30)
