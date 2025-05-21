@@ -1,29 +1,25 @@
-import feedparser
-import requests
-from bs4 import BeautifulSoup
-import praw
-from datetime import datetime, timedelta, timezone
-import time
 import os
 import sys
 import re
+import time
+import feedparser
+import requests
 import hashlib
 import html
 import logging
 import urllib.parse
+from datetime import datetime, timedelta, timezone
+from bs4 import BeautifulSoup
 
-# --- File and logging setup ---
-for fname in [
-    'bot.log', 'posted_records.txt', 'rejected_articles.txt',
-    'posted_urls.txt', 'posted_titles.txt', 'posted_content_hashes.txt'
-]:
-    with open(fname, 'a', encoding='utf-8'):
-        os.utime(fname, None)
+import praw
+from sentence_transformers import SentenceTransformer, util
+import torch
 
+# --- Logging setup ---
 logging.basicConfig(filename='bot.log', level=logging.INFO, 
                    format='%(asctime)s %(levelname)s %(message)s')
 
-# --- Environment variable check ---
+# --- Reddit API setup ---
 required_env_vars = [
     'REDDIT_CLIENT_ID', 'REDDIT_CLIENT_SECRET', 
     'REDDIT_USERNAME', 'REDDITPASSWORD'
@@ -34,7 +30,6 @@ if missing_vars:
     print(f"ERROR: Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
 
-# --- Reddit API setup ---
 reddit = praw.Reddit(
     client_id=os.environ['REDDIT_CLIENT_ID'],
     client_secret=os.environ['REDDIT_CLIENT_SECRET'],
@@ -44,39 +39,13 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('InternationalBulletin')
 
-# --- Deduplication data loading ---
-def load_posted(fname):
-    d = {}
-    if os.path.exists(fname):
-        with open(fname, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if not line: continue
-                parts = line.split('|')
-                if len(parts) != 2: continue
-                value, timestamp = parts
-                try:
-                    d[value] = datetime.fromisoformat(timestamp)
-                except Exception:
-                    continue
-    return d
-
-posted_urls = load_posted('posted_urls.txt')
-posted_titles = load_posted('posted_titles.txt')
-posted_content_hashes = load_posted('posted_content_hashes.txt')
-
-def save_duplicates():
-    for fname, container in [
-        ('posted_urls.txt', posted_urls),
-        ('posted_titles.txt', posted_titles),
-        ('posted_content_hashes.txt', posted_content_hashes)
-    ]:
-        try:
-            with open(fname, 'w', encoding='utf-8') as f:
-                for key, timestamp in container.items():
-                    f.write(f"{key}|{timestamp.isoformat()}\n")
-        except Exception as e:
-            logging.error(f"Failed to save {fname}: {e}")
+# --- File setup ---
+for fname in [
+    'bot.log', 'posted_records.txt', 'rejected_articles.txt',
+    'posted_urls.txt', 'posted_titles.txt', 'posted_content_hashes.txt', 'posted_embeddings.pt'
+]:
+    with open(fname, 'a', encoding='utf-8'):
+        os.utime(fname, None)
 
 # --- RSS feeds ---
 feed_sources = {
@@ -118,6 +87,7 @@ TAGS = [
     "europe", "asia", "africa", "north america", "south america", "oceania", "middle east"
 ]
 
+# --- Deduplication helpers ---
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
     return parsed.scheme + "://" + parsed.netloc + parsed.path
@@ -125,51 +95,76 @@ def normalize_url(url):
 def normalize_title(title):
     return ' '.join(title.lower().split())
 
-def get_content_hash(entry):
-    content = entry.title + getattr(entry, 'summary', '')
+def get_content_hash(title, summary):
+    content = title + summary
     return hashlib.md5(content.encode('utf-8')).hexdigest()
 
-def is_duplicate(entry):
-    norm_link = normalize_url(entry.link)
-    norm_title = normalize_title(entry.title)
-    content_hash = get_content_hash(entry)
-    now = datetime.now(timezone.utc)
-    threshold = timedelta(days=7)
-    for container, key in [
-        (posted_urls, norm_link),
-        (posted_titles, norm_title),
-        (posted_content_hashes, content_hash)
+def load_posted(fname):
+    d = {}
+    if os.path.exists(fname):
+        with open(fname, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line: continue
+                parts = line.split('|')
+                if len(parts) != 2: continue
+                value, timestamp = parts
+                try:
+                    d[value] = datetime.fromisoformat(timestamp)
+                except Exception:
+                    continue
+    return d
+
+def save_duplicates():
+    for fname, container in [
+        ('posted_urls.txt', posted_urls),
+        ('posted_titles.txt', posted_titles),
+        ('posted_content_hashes.txt', posted_content_hashes)
     ]:
-        if key in container and (now - container[key]) < threshold:
-            return True
-    return False
+        try:
+            with open(fname, 'w', encoding='utf-8') as f:
+                for key, timestamp in container.items():
+                    f.write(f"{key}|{timestamp.isoformat()}\n")
+        except Exception as e:
+            logging.error(f"Failed to save {fname}: {e}")
 
-def is_promotional(entry):
-    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return any(kw in text for kw in PROMO_KEYWORDS)
+posted_urls = load_posted('posted_urls.txt')
+posted_titles = load_posted('posted_titles.txt')
+posted_content_hashes = load_posted('posted_content_hashes.txt')
 
-def breaking_score(entry):
-    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return sum(2 if kw in text else 0 for kw in BREAKING_KEYWORDS)
-
-def is_recent(entry, cutoff):
-    pubdate = getattr(entry, 'published', getattr(entry, 'updated', None))
-    if not pubdate:
-        return True
+# --- ML-based deduplication: load/store embeddings ---
+EMBEDDINGS_FILE = 'posted_embeddings.pt'
+posted_embeddings = []
+if os.path.exists(EMBEDDINGS_FILE):
     try:
-        pubdate = datetime.strptime(pubdate, '%a, %d %b %Y %H:%M:%S %z')
-        return pubdate >= cutoff
-    except ValueError:
-        return True
+        posted_embeddings = torch.load(EMBEDDINGS_FILE)
+    except Exception:
+        posted_embeddings = []
 
-# --- Paragraph quality control ---
+# --- ML Model for semantic similarity ---
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+def is_semantic_duplicate(new_text, posted_embeddings, threshold=0.85):
+    if not posted_embeddings:
+        return False
+    new_emb = model.encode(new_text, convert_to_tensor=True)
+    similarities = util.cos_sim(new_emb, torch.stack(posted_embeddings))
+    max_sim = float(torch.max(similarities))
+    return max_sim > threshold
+
+def add_embedding(new_text):
+    emb = model.encode(new_text, convert_to_tensor=True)
+    posted_embeddings.append(emb)
+    torch.save(posted_embeddings, EMBEDDINGS_FILE)
+
+# --- Article quality control ---
 BAD_PARAGRAPH_PATTERNS = [
     r'error', r'need to view media', r'video only', r'see video', r'see image', r'watch above',
     r'read more', r'continue reading', r'watch the video', r'click here', r'view gallery'
 ]
 
 def is_good_paragraph(text):
-    if not text or len(text) < 60:  # Stricter: at least 60 chars
+    if not text or len(text) < 60:
         return False
     for pat in BAD_PARAGRAPH_PATTERNS:
         if re.search(pat, text, re.IGNORECASE):
@@ -179,7 +174,6 @@ def is_good_paragraph(text):
         return False
     if '.' not in text:
         return False
-    # Avoid generic or meta paragraphs
     if re.search(r'(subscribe|follow us|our newsletter|copyright|terms of use)', text, re.IGNORECASE):
         return False
     return True
@@ -212,8 +206,26 @@ def get_tag(text):
             return tag.capitalize()
     return "International"
 
-# --- Main logic ---
-MAX_POSTS_PER_RUN = 5  # LIMIT TO 5 POSTS PER RUN
+def is_promotional(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return any(kw in text for kw in PROMO_KEYWORDS)
+
+def breaking_score(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return sum(2 if kw in text else 0 for kw in BREAKING_KEYWORDS)
+
+def is_recent(entry, cutoff):
+    pubdate = getattr(entry, 'published', getattr(entry, 'updated', None))
+    if not pubdate:
+        return True
+    try:
+        pubdate = datetime.strptime(pubdate, '%a, %d %b %Y %H:%M:%S %z')
+        return pubdate >= cutoff
+    except Exception:
+        return True
+
+# --- MAIN LOGIC ---
+MAX_POSTS_PER_RUN = 5
 hours = 12
 now_utc = datetime.now(timezone.utc)
 hours_ago = now_utc - timedelta(hours=hours)
@@ -234,31 +246,26 @@ if not recent_entries:
     print("No recent articles found to post.")
     sys.exit(0)
 
-# Sort by breaking score and recency
-recent_entries.sort(key=lambda tup: (breaking_score(tup[1]), getattr(tup[1], 'published_parsed', 0)), reverse=True)
+# --- FIX: Always use a sortable numeric timestamp for sorting ---
+def get_pub_timestamp(entry):
+    pub = getattr(entry, 'published_parsed', None)
+    if pub:
+        return time.mktime(pub)
+    else:
+        return 0
+
+recent_entries.sort(
+    key=lambda tup: (breaking_score(tup[1]), get_pub_timestamp(tup[1])),
+    reverse=True
+)
 selected_entries = recent_entries[:MAX_POSTS_PER_RUN]
 
 current_posts = []
 for source, entry in selected_entries:
     try:
-        if is_duplicate(entry):
-            with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
-                f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: duplicate\n")
-            continue
-
-        combined_text = entry.title + " " + getattr(entry, "summary", "")
-        # Try to extract tag from first good paragraph if possible
+        norm_link = normalize_url(entry.link)
+        norm_title = normalize_title(entry.title)
         summary = extract_first_three_paragraphs(entry.link)
-        tag = None
-        if summary:
-            first_para = summary.split('\n\n')[0]
-            tag = get_tag(first_para)
-        if not tag or tag == "International":
-            tag = get_tag(combined_text)
-
-        title = html.unescape(entry.title)
-        post_title = f"{title} | {tag} news"
-
         if not summary:
             summary = BeautifulSoup(getattr(entry, "summary", ""), 'html.parser').get_text()
             if not is_good_paragraph(summary):
@@ -272,6 +279,38 @@ for source, entry in selected_entries:
                 f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: bad first paragraph\n")
             continue
 
+        # --- ML-based deduplication ---
+        combined_text = entry.title + " " + summary
+        if is_semantic_duplicate(combined_text, posted_embeddings, threshold=0.85):
+            with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
+                f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: semantic duplicate\n")
+            continue
+
+        # --- Classic deduplication ---
+        content_hash = get_content_hash(entry.title, summary)
+        now = datetime.now(timezone.utc)
+        threshold = timedelta(days=7)
+        is_dup = False
+        for container, key in [
+            (posted_urls, norm_link),
+            (posted_titles, norm_title),
+            (posted_content_hashes, content_hash)
+        ]:
+            if key in container and (now - container[key]) < threshold:
+                is_dup = True
+                break
+        if is_dup:
+            with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
+                f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: classic duplicate\n")
+            continue
+
+        # --- Tagging ---
+        tag = get_tag(first_para)
+        if not tag or tag == "International":
+            tag = get_tag(combined_text)
+        title = html.unescape(entry.title)
+        post_title = f"{title} | {tag} news"
+
         # --- Post body formatting ---
         body = f"{summary}\n\nRead more at [source]({entry.link})"
         submission = subreddit.submit(post_title, selftext=body)
@@ -279,16 +318,14 @@ for source, entry in selected_entries:
 
         current_posts.append({'title': post_title, 'post_link': post_link, 'article_url': entry.link})
 
-        norm_link = normalize_url(entry.link)
-        norm_title = normalize_title(entry.title)
-        content_hash = get_content_hash(entry)
-        post_time = datetime.now(timezone.utc)
-        posted_urls[norm_link] = post_time
-        posted_titles[norm_title] = post_time
-        posted_content_hashes[content_hash] = post_time
+        # --- Save deduplication data ---
+        posted_urls[norm_link] = now
+        posted_titles[norm_title] = now
+        posted_content_hashes[content_hash] = now
         save_duplicates()
+        add_embedding(combined_text)
 
-        timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+        timestamp = now.strftime('%Y-%m-%d %H:%M:%S')
         with open('posted_records.txt', 'a', encoding='utf-8') as f:
             f.write(f"{timestamp} | {source} | {post_title} | {post_link} | {entry.link}\n")
 
