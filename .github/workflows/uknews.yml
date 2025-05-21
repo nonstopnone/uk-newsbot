@@ -2,7 +2,7 @@ name: UK News Bot
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
+    - cron: '*/30,15,45,00 * * * *'  # Every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -16,11 +16,11 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: |
-          pip install feedparser praw beautifulsoup4 requests
+          pip install feedparser praw beautifulsoup4 requests python-dateutil
       - name: Run newsbot
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
-        run: python newsbot.py
+        run: python paste.txt
