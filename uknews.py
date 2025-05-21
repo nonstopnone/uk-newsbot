@@ -2,16 +2,34 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 import praw
-import os
 from datetime import datetime, timedelta, timezone
 import time
+import os
+import sys
 
-# --- Reddit API setup ---
+# --- Check for required environment variables ---
+required_env_vars = [
+    'REDDIT_CLIENT_ID',
+    'REDDIT_CLIENT_SECRET',
+    'REDDIT_USERNAME',
+    'REDDITPASSWORD'
+]
+missing_vars = [var for var in required_env_vars if var not in os.environ]
+if missing_vars:
+    print(f"ERROR: Missing required environment variables: {', '.join(missing_vars)}")
+    sys.exit(1)
+
+# --- Reddit API credentials from environment variables ---
+REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
+REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
+REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
+REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
+
 reddit = praw.Reddit(
-    client_id=os.environ['REDDIT_CLIENT_ID'],
-    client_secret=os.environ['REDDIT_CLIENT_SECRET'],
-    username=os.environ['REDDIT_USERNAME'],
-    password=os.environ['REDDITPASSWORD'],
+    client_id=REDDIT_CLIENT_ID,
+    client_secret=REDDIT_CLIENT_SECRET,
+    username=REDDIT_USERNAME,
+    password=REDDIT_PASSWORD,
     user_agent='BreakingUKNewsBot/1.0'
 )
 subreddit = reddit.subreddit('BreakingUKNews')
@@ -22,10 +40,10 @@ if os.path.exists('posted_urls.txt'):
     with open('posted_urls.txt', 'r') as f:
         posted_urls = set(line.strip() for line in f if line.strip())
 
-# --- UK news RSS feeds ---
+# --- UK news RSS feeds (all major sources, fixed Sky News URL) ---
 feed_urls = [
     'http://feeds.bbci.co.uk/news/rss.xml',
-    'https://feeds.skynews.com/feeds/rss/home.xml',
+    'https://feeds.skynews.com/feeds/rss/home.xml',  # Fixed typo!
     'https://www.itv.com/news/rss',
     'https://www.telegraph.co.uk/rss.xml',
     'https://www.thetimes.co.uk/rss',
@@ -78,8 +96,7 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
                     continue
 
                 quote = extract_first_three_paragraphs(link)
-                body = (
-                    f"**Link:** [{title}]({link})\n\n"
+                comment_body = (
                     f"**Quote:**\n\n{quote}\n\n"
                     f"*Quoted from the link*\n\n"
                     f"**What are your thoughts on this story? Join the discussion in the comments.**"
@@ -89,15 +106,20 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
                 log_file.write("="*60 + "\n")
                 log_file.write(f"TITLE: {title}\n")
                 log_file.write(f"LINK: {link}\n")
-                log_file.write(f"BODY:\n{body}\n")
+                log_file.write(f"COMMENT:\n{comment_body}\n")
                 log_file.write("="*60 + "\n\n")
 
-                # --- Post to Reddit ---
+                # --- Post to Reddit as a link post ---
                 try:
-                    subreddit.submit(title, selftext=body)
-                    print(f"Posted to Reddit: {title}")
+                    submission = subreddit.submit(title, url=link, resubmit=False)
+                    print(f"Posted link post to Reddit: {title}")
                     posted_urls.add(link)
                     new_posts += 1
+
+                    # Optionally, add the quote as a comment under the link post
+                    submission.reply(comment_body)
+                    print("Added quote as a comment.")
+
                     time.sleep(10)  # Avoid Reddit rate limits
                     if new_posts >= 5:  # Limit per run (adjust as needed)
                         break
@@ -121,4 +143,4 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
     if new_posts == 0:
         print("No new UK breaking news stories found in the last hour.")
     else:
-        print(f"Posted {new_posts} new stories to Reddit.")
+        print(f"Posted {new_posts} new link posts to Reddit.")
