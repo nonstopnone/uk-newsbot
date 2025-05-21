@@ -11,7 +11,7 @@ import urllib.parse
 import difflib
 import re
 import hashlib
-import html  # For HTML entity decoding
+import html
 
 # --- Environment variable check ---
 required_env_vars = [
@@ -76,7 +76,7 @@ def get_content_hash(entry):
     return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
 def is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes, title_threshold=0.85):
-    if first_run:  # Skip duplicate check on first run
+    if first_run:
         return False, ""
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
@@ -91,11 +91,14 @@ def is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes, title
 
 # --- Major UK news RSS feeds ---
 feed_sources = {
-    "BBC": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+    "BBC News": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+    "BBC Sport Football": "http://feeds.bbci.co.uk/sport/football/rss.xml",
     "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
     "Telegraph": "https://www.telegraph.co.uk/rss.xml",
     "Times": "https://www.thetimes.co.uk/rss",
-    "ITV": "https://www.itv.com/news/rss"
+    "ITV": "https://www.itv.com/news/rss",
+    "ITV Granada": "https://www.itv.com/news/granada/rss",
+    "Guardian": "https://www.theguardian.com/uk/rss"
 }
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -114,7 +117,7 @@ PROMO_KEYWORDS = [
 ]
 CATEGORY_KEYWORDS = {
     "Breaking News": ["breaking", "urgent", "alert", "emergency", "crisis", "motorway pile-up", "national security"],
-    "Crime & Legal": ["crime", "murder", "arrest", "robbery", "assault", "police", "court", "trial", "judge", "lawsuit", "verdict", "fraud", "manslaughter"],
+    "Crime & Legal": ["crime", "murder", "arrest", "robbery", "assault", "police", "court", "trial", "judge", "lawsuit", "verdict", "fraud", "manslaughter", "inquest"],
     "Sport": ["sport", "football", "cricket", "rugby", "tennis", "athletics", "premier league", "championship", "cyclist"],
     "Royals": ["royal", "monarch", "queen", "king", "prince", "princess", "buckingham", "jubilee"],
     "Culture": ["arts", "music", "film", "theatre", "festival", "heritage", "literary", "tv series"],
@@ -142,16 +145,12 @@ FLAIR_MAPPING = {
     None: "No Flair"
 }
 
-# --- Breaking news window (last 6 hours to ensure more articles) ---
-now_utc = datetime.now(timezone.utc)
-six_hours_ago = now_utc - timedelta(hours=6)
-
-def is_recent(entry):
+def is_recent(entry, hours_ago):
     time_struct = getattr(entry, 'published_parsed', None) or getattr(entry, 'updated_parsed', None)
     if not time_struct:
         return False
     pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
-    return pub_time > six_hours_ago
+    return pub_time > hours_ago
 
 def is_promotional(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
@@ -196,7 +195,6 @@ def breaking_score(entry):
     return score
 
 def check_messages(posted_titles):
-    """Check the bot's inbox for private messages related to the subreddit or posts."""
     messages = []
     try:
         for message in reddit.inbox.unread(limit=10):
@@ -217,19 +215,17 @@ def check_messages(posted_titles):
     return messages
 
 def log_to_records(timestamp, source, title, category, post_link, comment_link=None, message=None):
-    """Log post, comment, and message details to posted_records.txt."""
     try:
         with open('posted_records.txt', 'a', encoding='utf-8') as f:
             if message:
                 f.write(f"{timestamp} | Message | {message['subject']} | {message['author']} | {message['body'][:100]} | {message['time']}\n")
             else:
                 comment_field = comment_link if comment_link else "No comment posted"
-                f.write(f"{timestamp} | {source} | {title} | {category} | {post_link} | {comment_field}\n")
+                f.write(f"{timestamp} | {source} | {title} | {category or 'No Flair'} | {post_link} | {comment_field}\n")
     except Exception as e:
         print(f"Error writing to posted_records.txt: {e}")
 
 def display_posted_records(current_posts):
-    """Display current run's post links and contents of posted_records.txt."""
     print("\n--- Posts Created in This Run ---")
     if current_posts:
         for post in current_posts:
@@ -248,27 +244,44 @@ def display_posted_records(current_posts):
         print(f"Error reading posted_records.txt: {e}")
     print("--- End of Records ---")
 
-# --- Gather recent entries ---
-recent_entries = []
-for source, feed_url in feed_sources.items():
+def clear_duplicate_files():
     try:
-        feed = feedparser.parse(feed_url)
-        source_entries = [
-            entry for entry in feed
-
-.entries
-            if is_recent(entry) and is_uk_relevant(entry) and not is_promotional(entry)
-        ]
-        for entry in source_entries:
-            category = get_category(entry)
-            if category:
-                recent_entries.append((source, entry, category))
+        for file in ['posted_urls.txt', 'posted_titles.txt', 'posted_content_hashes.txt']:
+            if os.path.exists(file):
+                os.remove(file)
+        print("Cleared duplicate tracking files to allow new posts.")
     except Exception as e:
-        print(f"Error processing feed {feed_url}: {e}")
+        print(f"Error clearing duplicate files: {e}")
 
-# --- Check if enough entries are available ---
+# --- Gather recent entries (try 6 hours, fallback to 24 hours) ---
+def gather_entries(hours):
+    now_utc = datetime.now(timezone.utc)
+    hours_ago = now_utc - timedelta(hours=hours)
+    recent_entries = []
+    for source, feed_url in feed_sources.items():
+        try:
+            feed = feedparser.parse(feed_url)
+            source_entries = [
+                entry for entry in feed.entries
+                if is_recent(entry, hours_ago) and is_uk_relevant(entry) and not is_promotional(entry)
+            ]
+            for entry in source_entries:
+                category = get_category(entry)
+                recent_entries.append((source, entry, category))
+        except Exception as e:
+            print(f"Error processing feed {feed_url}: {e}")
+    return recent_entries
+
+# Try 6-hour window first
+recent_entries = gather_entries(6)
+if len(recent_entries) < 2:
+    print(f"Warning: Found only {len(recent_entries)} eligible articles in 6 hours, trying 24-hour window.")
+    recent_entries = gather_entries(24)
+
+# Check if enough entries are available
 if len(recent_entries) < 2:
     print(f"ERROR: Found only {len(recent_entries)} eligible articles, need at least 2.")
+    clear_duplicate_files()
     sys.exit(1)
 
 # --- Sort all entries by breaking-ness ---
@@ -277,8 +290,8 @@ recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
 # --- Select up to 10 stories, ensuring at least 2 ---
 selected_entries = recent_entries[:max(10, len(recent_entries))]
 
-# --- Posting to Reddit with simplified comment and title suffix ---
-current_posts = []  # Track posts made in this run
+# --- Posting to Reddit ---
+current_posts = []
 posted_titles_for_check = set()
 for source, entry, category in selected_entries:
     is_dup, reason = is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes)
@@ -354,6 +367,8 @@ for source, entry, category in selected_entries:
 # --- Check if at least 2 posts were made ---
 if len(current_posts) < 2:
     print(f"ERROR: Only {len(current_posts)} posts made, required at least 2.")
+    clear_duplicate_files()
+    display_posted_records(current_posts)
     sys.exit(1)
 
 # --- Check messages after posting ---
