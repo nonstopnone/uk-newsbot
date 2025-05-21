@@ -42,13 +42,13 @@ if os.path.exists('posted_urls.txt'):
     with open('posted_urls.txt', 'r') as f:
         posted_urls = set(line.strip() for line in f if line.strip())
 
-# --- UK news RSS feeds (all major sources, fixed Sky News URL) ---
+# --- UK news RSS feeds (remove broken feeds) ---
 feed_urls = [
     'http://feeds.bbci.co.uk/news/rss.xml',
     'https://feeds.skynews.com/feeds/rss/home.xml',
-    'https://www.itv.com/news/rss',
     'https://www.telegraph.co.uk/rss.xml',
-    'https://www.thetimes.co.uk/rss',
+    # 'https://www.itv.com/news/rss',      # Malformed, do not use
+    # 'https://www.thetimes.co.uk/rss',    # Malformed, do not use
 ]
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -74,17 +74,13 @@ def is_valid_url(url):
         return False
 
 def extract_article_paragraphs(url, title):
-    """Extract the first three meaningful paragraphs, skipping short 'top line' blurbs."""
+    """Extract the first three meaningful paragraphs, skipping short 'top line' blurbs, standfirst, and author lines."""
     try:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if p.get_text(strip=True)]
 
-        # Filter out paragraphs that are:
-        # - very short (likely a blurb, e.g. under 60 chars)
-        # - duplicate of the title
-        # - all uppercase or 'By ...' lines
         filtered = []
         for p in paragraphs:
             if len(p) < 60:
@@ -99,14 +95,9 @@ def extract_article_paragraphs(url, title):
             if len(filtered) == 3:
                 break
 
-        if filtered:
-            return '\n\n'.join(filtered)
-        elif paragraphs:
-            return '\n\n'.join(paragraphs[:3])
-        else:
-            return soup.get_text(strip=True)[:500]
+        return '\n\n'.join(filtered) if filtered else ""
     except Exception as e:
-        return f"(Could not extract article text: {e})"
+        return ""
 
 # --- Collect all eligible articles from all feeds ---
 articles = []
@@ -118,7 +109,7 @@ for feed_url in feed_urls:
                 if feed.bozo:
                     raise Exception(f"Malformed feed: {feed.bozo_exception}")
                 break
-            except (requests.exceptions.RequestException, Exception) as e:
+            except Exception as e:
                 print(f"Retry {attempt+1}/3 for feed {feed_url}: {e}")
                 time.sleep(2)
         else:
@@ -155,13 +146,15 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
         title = article["title"]
         link = article["link"]
 
-        quote = extract_article_paragraphs(link, title)
-        if quote.startswith("(Could not extract article text"):
+        paragraphs = extract_article_paragraphs(link, title)
+        if not paragraphs.strip():
             print(f"Skipping post due to failed article extraction: Title={title}, Link={link}")
             log_file.write(f"SKIPPED: Failed extraction - Title={title}, Link={link}\n")
             continue
+
+        # --- Final body formatting as requested ---
         body = (
-            f"{quote}\n\n"
+            f"{paragraphs}\n\n"
             f"*Quoted from the link*\n\n"
             f"**What are your thoughts on this story? Join the discussion in the comments.**"
         )
@@ -176,31 +169,16 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
         log_file.write(f"BODY:\n{body}\n")
         log_file.write("="*60 + "\n\n")
 
+        # Defensive check: skip if link or body is empty
         if not link or not post_title or not body.strip() or not isinstance(link, str) or not link.startswith(('http://', 'https://')) or not is_valid_url(link):
             print(f"Skipping post due to invalid data: Title={post_title}, Link={link}, Body={body[:50]}...")
             log_file.write(f"SKIPPED: Invalid data - Title={post_title}, Link={link}, Body={body[:50]}...\n")
             continue
 
         try:
-            # Try posting as a link post with body
+            # Always post as a link post with formatted body
             submission = subreddit.submit(post_title, url=link, selftext=body)
             print(f"Posted link post to Reddit: {post_title}")
-        except praw.exceptions.APIException as e:
-            print(f"Reddit API error: {e}, Error Type: {e.error_type}, Message: {str(e)}")
-            log_file.write(f"FAILED TO POST: {e}, Error Type: {e.error_type}, Message: {str(e)}\n\n")
-            if e.error_type == 'BAD_REQUEST' and 'selftext' in str(e).lower():
-                fallback_body = f"[Link to article]({link})\n\n{body}"
-                try:
-                    submission = subreddit.submit(post_title, selftext=fallback_body)
-                    print(f"Posted self (text) post to Reddit (fallback): {post_title}")
-                except Exception as e2:
-                    print(f"Fallback post failed: {e2}")
-                    log_file.write(f"FALLBACK FAILED: {e2}\n\n")
-                    failed_posts += 1
-                    continue
-            else:
-                failed_posts += 1
-                continue
         except Exception as e:
             print(f"Unexpected error posting to Reddit: {e}")
             log_file.write(f"UNEXPECTED ERROR: {e}\n\n")
