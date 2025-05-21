@@ -12,6 +12,7 @@ import re
 import hashlib
 import html
 import logging
+import random
 
 # --- Logging Setup ---
 logging.basicConfig(
@@ -189,7 +190,10 @@ def main():
     }
 
     all_entries = []
-    for name, url in feed_sources.items():
+    # Randomize feed order to ensure variety
+    feed_items = list(feed_sources.items())
+    random.shuffle(feed_items)
+    for name, url in feed_items:
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries:
