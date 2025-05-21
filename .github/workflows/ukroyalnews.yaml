@@ -2,7 +2,7 @@ name: UK Royal Family News to Reddit
 
 on:
   schedule:
-    - cron: '0,30 * * * *'  # Every 30 minutes
+    - cron: '0,30 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -19,12 +19,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install feedparser requests beautifulsoup4 praw
-
       - name: List files for debugging
-        run: ls -l
+        run: ls -al
 
       - name: Run the royal news bot
         env:
