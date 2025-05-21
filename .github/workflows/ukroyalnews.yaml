@@ -23,6 +23,9 @@ jobs:
         run: |
           pip install feedparser requests beautifulsoup4 praw
 
+      - name: List files for debugging
+        run: ls -l
+
       - name: Run the royal news bot
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
