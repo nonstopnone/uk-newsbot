@@ -7,6 +7,7 @@ import time
 import os
 import sys
 import random
+import urllib.parse
 
 # --- Check for required environment variables ---
 required_env_vars = [
@@ -35,13 +36,32 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('BreakingUKNews')
 
-# --- Load posted URLs ---
+# --- Load posted URLs and titles ---
 posted_urls = set()
+posted_titles = set()
 if os.path.exists('posted_urls.txt'):
-    with open('posted_urls.txt', 'r') as f:
+    with open('posted_urls.txt', 'r', encoding='utf-8') as f:
         posted_urls = set(line.strip() for line in f if line.strip())
+if os.path.exists('posted_titles.txt'):
+    with open('posted_titles.txt', 'r', encoding='utf-8') as f:
+        posted_titles = set(line.strip().lower() for line in f if line.strip())
 
-# --- UK news RSS feeds ---
+def normalize_url(url):
+    """Remove query, fragment, and trailing slash for duplicate protection."""
+    parsed = urllib.parse.urlparse(url)
+    normalized_path = parsed.path.rstrip('/')
+    normalized_url = urllib.parse.urlunparse((
+        parsed.scheme,
+        parsed.netloc,
+        normalized_path,
+        '', '', ''  # params, query, fragment
+    ))
+    return normalized_url
+
+def normalize_title(title):
+    return title.strip().lower()
+
+# --- RSS feeds ---
 feed_urls = [
     'http://feeds.bbci.co.uk/news/rss.xml',
     'https://feeds.skynews.com/feeds/rss/home.xml',
@@ -57,7 +77,6 @@ now_utc = datetime.now(timezone.utc)
 one_hour_ago = now_utc - timedelta(hours=1)
 
 def is_recent(entry):
-    """Return True if the entry is published within the last hour."""
     time_struct = getattr(entry, 'published_parsed', None) or getattr(entry, 'updated_parsed', None)
     if not time_struct:
         return False
@@ -65,7 +84,6 @@ def is_recent(entry):
     return pub_time > one_hour_ago
 
 def extract_first_three_paragraphs(url):
-    """Extract the first three non-empty, substantial paragraphs from the article URL."""
     try:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
@@ -73,7 +91,6 @@ def extract_first_three_paragraphs(url):
         paragraphs = []
         for p in soup.find_all('p'):
             text = p.get_text(strip=True)
-            # Exclude very short lines (standfirsts/summaries often < 40 chars)
             if len(text) > 40:
                 paragraphs.append(text)
             if len(paragraphs) == 3:
@@ -81,7 +98,6 @@ def extract_first_three_paragraphs(url):
         if paragraphs:
             return '\n\n'.join(paragraphs)
         else:
-            # Fallback: first 500 chars of main text
             return soup.get_text(strip=True)[:500]
     except Exception as e:
         return f"(Could not extract article text: {e})"
@@ -97,52 +113,64 @@ for feed_url in feed_urls:
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
 
-# --- Shuffle entries for random cycling ---
 random.shuffle(all_entries)
 
-# --- Open log file for this run ---
-log_filename = f"run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
+# --- Logging directory ---
+os.makedirs('logs', exist_ok=True)
+log_filename = f"logs/run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
 with open(log_filename, 'w', encoding='utf-8') as log_file:
     new_posts = 0
     for entry in all_entries:
         title = entry.title
         link = entry.link
 
-        if link in posted_urls:
+        norm_link = normalize_url(link)
+        norm_title = normalize_title(title)
+
+        if norm_link in posted_urls or norm_title in posted_titles:
             continue
 
+        # Format title for Reddit post
+        reddit_title = f"{title} | UK News"
+
+        # Prepare comment body
         quote = extract_first_three_paragraphs(link)
-        body = (
+        comment_body = (
             f"{quote}\n\n"
             f"*Quoted from the link*\n\n"
             f"**What do you think about this news story? Join the conversation in the comments.**"
         )
 
-        # --- Log the post attempt ---
         log_file.write("="*60 + "\n")
-        log_file.write(f"TITLE: {title}\n")
+        log_file.write(f"TITLE: {reddit_title}\n")
         log_file.write(f"LINK: {link}\n")
-        log_file.write(f"BODY:\n{body}\n")
+        log_file.write(f"COMMENT BODY:\n{comment_body}\n")
         log_file.write("="*60 + "\n\n")
 
-        # --- Post to Reddit as a link post with body ---
         try:
-            subreddit.submit(title, url=link, selftext=body)
-            print(f"Posted link post to Reddit: {title}")
-            posted_urls.add(link)
+            # Submit the link post
+            submission = subreddit.submit(title=reddit_title, url=link)
+            print(f"Posted link post to Reddit: {reddit_title}")
+            # Immediately post the context as a comment
+            submission.reply(comment_body)
+            print(f"Posted context comment under: {reddit_title}")
+            posted_urls.add(norm_link)
+            posted_titles.add(norm_title)
             new_posts += 1
-            time.sleep(10)  # Avoid Reddit rate limits[1][5][7]
-            if new_posts >= 5:  # Limit per run (adjust as needed)
+            time.sleep(10)
+            if new_posts >= 5:
                 break
         except Exception as e:
             print(f"Failed to post to Reddit: {e}")
             log_file.write(f"FAILED TO POST: {e}\n\n")
             continue
 
-    # --- Save posted URLs ---
-    with open('posted_urls.txt', 'w') as f:
+    with open('posted_urls.txt', 'w', encoding='utf-8') as f:
         for url in posted_urls:
             f.write(url + '\n')
+    with open('posted_titles.txt', 'w', encoding='utf-8') as f:
+        for title in posted_titles:
+            f.write(title + '\n')
 
     log_file.write(f"\nTotal new posts this run: {new_posts}\n")
 
