@@ -53,6 +53,7 @@ if os.path.exists('posted_titles.txt'):
 if os.path.exists('posted_content_hashes.txt'):
     with open('posted_content_hashes.txt', 'r', encoding='utf-8') as f:
         posted_content_hashes = set(line.strip() for line in f if line.strip())
+first_run = not (os.path.exists('posted_urls.txt') or os.path.exists('posted_titles.txt') or os.path.exists('posted_content_hashes.txt'))
 
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
@@ -75,6 +76,8 @@ def get_content_hash(entry):
     return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
 def is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes, title_threshold=0.85):
+    if first_run:  # Skip duplicate check on first run
+        return False, ""
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
     content_hash = get_content_hash(entry)
@@ -139,16 +142,16 @@ FLAIR_MAPPING = {
     None: "No Flair"
 }
 
-# --- Breaking news window (last 2 hours) ---
+# --- Breaking news window (last 6 hours to ensure more articles) ---
 now_utc = datetime.now(timezone.utc)
-two_hours_ago = now_utc - timedelta(hours=2)
+six_hours_ago = now_utc - timedelta(hours=6)
 
 def is_recent(entry):
     time_struct = getattr(entry, 'published_parsed', None) or getattr(entry, 'updated_parsed', None)
     if not time_struct:
         return False
     pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
-    return pub_time > two_hours_ago
+    return pub_time > six_hours_ago
 
 def is_promotional(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
@@ -196,7 +199,7 @@ def check_messages(posted_titles):
     """Check the bot's inbox for private messages related to the subreddit or posts."""
     messages = []
     try:
-        for message in reddit.inbox.unread(limit=10):  # Check recent unread messages
+        for message in reddit.inbox.unread(limit=10):
             if isinstance(message, praw.models.Message):
                 msg_body = message.body.lower()
                 msg_relevant = ('breakinguknews' in msg_body or
@@ -208,7 +211,7 @@ def check_messages(posted_titles):
                         'author': message.author.name if message.author else '[deleted]',
                         'time': datetime.fromtimestamp(message.created_utc, tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
                     })
-                message.mark_read()  # Mark as read to avoid reprocessing
+                message.mark_read()
     except Exception as e:
         print(f"Error checking messages: {e}")
     return messages
@@ -225,19 +228,25 @@ def log_to_records(timestamp, source, title, category, post_link, comment_link=N
     except Exception as e:
         print(f"Error writing to posted_records.txt: {e}")
 
-def display_posted_records():
-    """Display contents of posted_records.txt for checking."""
+def display_posted_records(current_posts):
+    """Display current run's post links and contents of posted_records.txt."""
+    print("\n--- Posts Created in This Run ---")
+    if current_posts:
+        for post in current_posts:
+            print(f"Post: {post['title']} | Link: {post['post_link']}")
+    else:
+        print("No posts created in this run.")
+    print("\n--- Posted Records (Historical) ---")
     try:
         if os.path.exists('posted_records.txt'):
             with open('posted_records.txt', 'r', encoding='utf-8') as f:
-                print("\n--- Posted Records ---")
                 for line in f:
                     print(line.strip())
-                print("--- End of Records ---")
         else:
-            print("No posted records found.")
+            print("No historical posted records found.")
     except Exception as e:
         print(f"Error reading posted_records.txt: {e}")
+    print("--- End of Records ---")
 
 # --- Gather recent entries ---
 recent_entries = []
@@ -245,7 +254,9 @@ for source, feed_url in feed_sources.items():
     try:
         feed = feedparser.parse(feed_url)
         source_entries = [
-            entry for entry in feed.entries
+            entry for entry in feed
+
+.entries
             if is_recent(entry) and is_uk_relevant(entry) and not is_promotional(entry)
         ]
         for entry in source_entries:
@@ -255,14 +266,26 @@ for source, feed_url in feed_sources.items():
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
 
+# --- Check if enough entries are available ---
+if len(recent_entries) < 2:
+    print(f"ERROR: Found only {len(recent_entries)} eligible articles, need at least 2.")
+    sys.exit(1)
+
 # --- Sort all entries by breaking-ness ---
 recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
 
-# --- Select up to 10 stories ---
-selected_entries = recent_entries[:10]
+# --- Select up to 10 stories, ensuring at least 2 ---
+selected_entries = recent_entries[:max(10, len(recent_entries))]
 
 # --- Posting to Reddit with simplified comment and title suffix ---
-def post_to_reddit(entry, category):
+current_posts = []  # Track posts made in this run
+posted_titles_for_check = set()
+for source, entry, category in selected_entries:
+    is_dup, reason = is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes)
+    if is_dup:
+        print(f"Skipping duplicate: {reason}")
+        continue
+    posted_titles_for_check.add(html.unescape(entry.title))
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
     content_hash = get_content_hash(entry)
@@ -287,11 +310,12 @@ def post_to_reddit(entry, category):
             url=entry.link,
             flair_id=flair_id
         )
-        print(f"Posted: {submission.shortlink}")
         post_link = submission.shortlink
+        print(f"Posted: {post_link}")
+        current_posts.append({'title': clean_title, 'post_link': post_link})
     except Exception as e:
         print(f"Error posting to Reddit: {e}")
-        return
+        continue
 
     # Extract and format the body (first 3 paragraphs)
     quoted_body = extract_first_three_paragraphs(entry.link)
@@ -320,17 +344,17 @@ def post_to_reddit(entry, category):
     except Exception as e:
         print(f"Error saving posted info: {e}")
 
-# --- Main posting loop ---
-posted_titles_for_check = set()  # Track titles for message checking
-for source, entry, category in selected_entries:
-    is_dup, reason = is_duplicate(entry, posted_urls, posted_titles, posted_content_hashes)
-    if is_dup:
-        print(f"Skipping duplicate: {reason}")
-        continue
-    posted_titles_for_check.add(html.unescape(entry.title))
-    post_to_reddit(entry, category)
+    # Stop after posting at least 2 posts
+    if len(current_posts) >= 2:
+        break
+
     # Add a delay to avoid rate limits
     time.sleep(30)
+
+# --- Check if at least 2 posts were made ---
+if len(current_posts) < 2:
+    print(f"ERROR: Only {len(current_posts)} posts made, required at least 2.")
+    sys.exit(1)
 
 # --- Check messages after posting ---
 messages = check_messages(posted_titles_for_check)
@@ -338,5 +362,5 @@ for message in messages:
     timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
     log_to_records(timestamp, "N/A", "N/A", "Message", "N/A", None, message)
 
-# --- Display posted records for checking ---
-display_posted_records()
+# --- Display posted records and current run's posts ---
+display_posted_records(current_posts)
