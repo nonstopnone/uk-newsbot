@@ -7,12 +7,12 @@ import time
 import os
 import sys
 import urllib.parse
-import difflib
 import re
 import hashlib
 import html
 import logging
 import random
+from dateutil import parser as dateparser
 
 # --- Logging Setup ---
 logging.basicConfig(
@@ -50,6 +50,8 @@ reddit = praw.Reddit(
 subreddit = reddit.subreddit('BreakingUKNews')
 
 # --- Deduplication ---
+DEDUP_FILE = 'posted_timestamps.txt'
+
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
@@ -60,45 +62,35 @@ def normalize_title(title):
     title = re.sub(r'\s+', ' ', title).strip().lower()
     return title
 
-def get_content_hash(entry):
-    summary = html.unescape(getattr(entry, "summary", "")[:200])
-    return hashlib.md5(summary.encode('utf-8')).hexdigest()
-
 def get_post_title(entry):
-    """Return the decoded title with '| UK News' appended."""
     base_title = html.unescape(entry.title).strip()
     if not base_title.endswith("| UK News"):
         return f"{base_title} | UK News"
     return base_title
 
-def load_dedup(filename='posted_timestamps.txt'):
-    posted_urls = set()
-    posted_titles = set()
-    posted_hashes = set()
+def get_content_hash(entry):
+    summary = html.unescape(getattr(entry, "summary", "")[:200])
+    return hashlib.md5(summary.encode('utf-8')).hexdigest()
+
+def load_dedup(filename=DEDUP_FILE):
+    urls, titles, hashes = set(), set(), set()
     if os.path.exists(filename):
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                for line in f:
-                    if line.strip():
-                        parts = line.strip().split('|')
-                        if len(parts) == 4:
-                            _, url, title, content_hash = parts
-                            posted_urls.add(url)
-                            posted_titles.add(title)
-                            posted_hashes.add(content_hash)
-        except Exception as e:
-            logger.error(f"Failed to load deduplication file: {e}")
-    return posted_urls, posted_titles, posted_hashes
+        with open(filename, 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.strip():
+                    parts = line.strip().split('|')
+                    if len(parts) == 4:
+                        _, url, title, content_hash = parts
+                        urls.add(url)
+                        titles.add(title)
+                        hashes.add(content_hash)
+    return urls, titles, hashes
 
-def save_dedup(posted_urls, posted_titles, posted_hashes, filename='posted_timestamps.txt'):
-    try:
-        with open(filename, 'w', encoding='utf-8') as f:
-            for url, title, ch in zip(posted_urls, posted_titles, posted_hashes):
-                f.write(f"{datetime.now(timezone.utc).isoformat()}|{url}|{title}|{ch}\n")
-    except Exception as e:
-        logger.error(f"Failed to save deduplication file: {e}")
+def save_dedup(urls, titles, hashes, filename=DEDUP_FILE):
+    with open(filename, 'w', encoding='utf-8') as f:
+        for url, title, ch in zip(urls, titles, hashes):
+            f.write(f"{datetime.now(timezone.utc).isoformat()}|{url}|{title}|{ch}\n")
 
-# Load deduplication state
 posted_urls, posted_titles, posted_hashes = load_dedup()
 
 def is_duplicate(entry):
@@ -123,6 +115,19 @@ def add_to_dedup(entry):
     posted_titles.add(norm_title)
     posted_hashes.add(content_hash)
     save_dedup(posted_urls, posted_titles, posted_hashes)
+
+def get_entry_published_datetime(entry):
+    # Try common RSS date fields
+    for field in ['published', 'updated', 'created', 'date']:
+        if hasattr(entry, field):
+            try:
+                dt = dateparser.parse(getattr(entry, field))
+                if not dt.tzinfo:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except Exception:
+                continue
+    return None
 
 def extract_first_paragraphs(url):
     try:
@@ -241,15 +246,20 @@ def main():
         "Times": "https://www.thetimes.co.uk/rss"
     }
     all_entries = []
-    # Collect all entries from all feeds, then shuffle for true randomisation
     feed_items = list(feed_sources.items())
     random.shuffle(feed_items)
+    now = datetime.now(timezone.utc)
+    three_hours_ago = now - timedelta(hours=3)
+
     for name, url in feed_items:
         try:
             feed = feedparser.parse(url)
             entries = list(feed.entries)
-            random.shuffle(entries)  # Shuffle articles within each feed
+            random.shuffle(entries)
             for entry in entries:
+                published_dt = get_entry_published_datetime(entry)
+                if not published_dt or published_dt < three_hours_ago or published_dt > now + timedelta(minutes=5):
+                    continue
                 if is_promotional(entry):
                     logger.info(f"Skipped promotional article: {html.unescape(entry.title)}")
                     continue
@@ -260,7 +270,7 @@ def main():
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
 
-    random.shuffle(all_entries)  # Shuffle all entries globally for maximum diversity
+    random.shuffle(all_entries)
 
     posts_made = 0
     for source, entry in all_entries:
@@ -275,7 +285,7 @@ def main():
         success = post_to_reddit(entry, category)
         if success:
             posts_made += 1
-            time.sleep(40)  # Base delay between posts
+            time.sleep(40)
     if posts_made == 0:
         logger.warning("No new valid articles found")
 
