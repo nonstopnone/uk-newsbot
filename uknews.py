@@ -52,17 +52,17 @@ feed_urls = [
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
-# --- Define the breaking news window (last hour) ---
+# --- Define the breaking news window (last 7 hours) ---
 now_utc = datetime.now(timezone.utc)
-one_hour_ago = now_utc - timedelta(hours=1)
+seven_hours_ago = now_utc - timedelta(hours=7)
 
 def is_recent(entry):
-    """Return True if the entry is published within the last hour."""
+    """Return True if the entry is published within the last 7 hours."""
     time_struct = getattr(entry, 'published_parsed', None) or getattr(entry, 'updated_parsed', None)
     if not time_struct:
         return False
     pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
-    return pub_time > one_hour_ago
+    return pub_time > seven_hours_ago
 
 def extract_article_paragraphs(url, title):
     """Extract the first three meaningful paragraphs, skipping short 'top line' blurbs."""
@@ -148,19 +148,34 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
         log_file.write(f"BODY:\n{body}\n")
         log_file.write("="*60 + "\n\n")
 
-        # --- Post to Reddit as a link post with body ---
+        if not link or not post_title:
+            print(f"Skipping post due to missing link or title: {post_title}")
+            continue
+
         try:
-            subreddit.submit(post_title, url=link, selftext=body)
+            # Try posting as a link post with body
+            submission = subreddit.submit(post_title, url=link, selftext=body)
             print(f"Posted link post to Reddit: {post_title}")
-            posted_urls.add(link)
-            new_posts += 1
-            time.sleep(10)  # Avoid Reddit rate limits
-            if new_posts >= 5:  # Limit per run (adjust as needed)
-                break
+        except praw.exceptions.APIException as e:
+            if e.error_type == 'BAD_REQUEST' and 'selftext' in str(e).lower():
+                # Fallback: post as self post with link in body
+                fallback_body = f"[Link to article]({link})\n\n{body}"
+                submission = subreddit.submit(post_title, selftext=fallback_body)
+                print(f"Posted self (text) post to Reddit (fallback): {post_title}")
+            else:
+                print(f"Failed to post to Reddit: {e}")
+                log_file.write(f"FAILED TO POST: {e}\n\n")
+                continue
         except Exception as e:
             print(f"Failed to post to Reddit: {e}")
             log_file.write(f"FAILED TO POST: {e}\n\n")
             continue
+
+        posted_urls.add(link)
+        new_posts += 1
+        time.sleep(10)  # Avoid Reddit rate limits
+        if new_posts >= 5:  # Limit per run (adjust as needed)
+            break
 
     # --- Save posted URLs ---
     with open('posted_urls.txt', 'w') as f:
@@ -170,6 +185,6 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
     log_file.write(f"\nTotal new posts this run: {new_posts}\n")
 
     if new_posts == 0:
-        print("No new UK breaking news stories found in the last hour.")
+        print("No new UK breaking news stories found in the last 7 hours.")
     else:
-        print(f"Posted {new_posts} new link posts to Reddit.")
+        print(f"Posted {new_posts} new link posts to Reddit from the last 7 hours.")
