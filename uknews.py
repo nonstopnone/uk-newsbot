@@ -93,6 +93,7 @@ feed_sources = {
     "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
     "Telegraph": "https://www.telegraph.co.uk/rss.xml",
     "Times": "https://www.thetimes.co.uk/rss",
+    "ITV": "https://www.itv.com/news/rss"
 }
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -120,7 +121,7 @@ CATEGORY_KEYWORDS = {
     "Economy": ["economy", "finance", "business", "taxes", "employment", "energy prices", "retail"],
     "Notable International News": ["international", "uk-us", "un climate", "global", "foreign"],
     "Trade and Diplomacy": ["trade", "diplomacy", "eu", "brexit", "uk-eu", "foreign policy"],
-    "National Newspapers Front Pages": ["front page", "newspaper", "telegraph", "guardian", "times"]
+    "National Newspapers Front Pages": ["front pages", "newspaper", "telegraph", "guardian", "times"]
 }
 
 # --- Flair mapping ---
@@ -201,33 +202,20 @@ for source, feed_url in feed_sources.items():
             entry for entry in feed.entries
             if is_recent(entry) and is_uk_relevant(entry) and not is_promotional(entry)
         ]
-        if source_entries:
-            random.shuffle(source_entries)
-            source_entries.sort(key=breaking_score, reverse=True)
-            for entry in source_entries[:2]:
-                category = get_category(entry)
-                if category:
-                    recent_entries.append((source, entry, category))
+        for entry in source_entries:
+            category = get_category(entry)
+            if category:
+                recent_entries.append((source, entry, category))
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
 
-# --- Rank all entries by breaking-ness, then shuffle among equal scores ---
-random.shuffle(recent_entries)
+# --- Sort all entries by breaking-ness ---
 recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
 
-# --- Select up to 10 stories, balancing categories and sources ---
-selected_entries = []
-used_sources = set()
-used_categories = {cat: 0 for cat in CATEGORY_KEYWORDS}
-for source, entry, category in recent_entries:
-    if len(selected_entries) >= 10:
-        break
-    if used_categories[category] < 2 and source not in used_sources:
-        selected_entries.append((source, entry, category))
-        used_sources.add(source)
-        used_categories[category] += 1
+# --- Select up to 10 stories ---
+selected_entries = recent_entries[:10]
 
-# --- Posting to Reddit with quoted body as comment ---
+# --- Posting to Reddit with simplified comment ---
 def post_to_reddit(entry, category):
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
@@ -260,11 +248,10 @@ def post_to_reddit(entry, category):
     # Extract and format the body (first 3 paragraphs)
     quoted_body = extract_first_three_paragraphs(entry.link)
     if quoted_body:
-        quoted_body = html.unescape(quoted_body)  # Decode HTML entities in body
+        quoted_body = html.unescape(quoted_body)
         quoted_lines = [f"> {line}" if line.strip() else "" for line in quoted_body.split('\n')]
         quoted_comment = "\n".join(quoted_lines)
-        quoted_comment += f"\n\n[Read more at the source]({entry.link})"
-        quoted_comment += "\n\n---\n\nWhat do you think of this news story? Join the conversation in the comments."
+        quoted_comment += f"\n\nRead more at the [source]({entry.link})"
         try:
             submission.reply(quoted_comment)
             print("Added quoted body as comment.")
