@@ -18,7 +18,9 @@ import random
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[logging.StreamHandler(sys.stdout)]
+    handlers=[
+        logging.StreamHandler(sys.stdout)
+    ]
 )
 logger = logging.getLogger(__name__)
 
@@ -49,69 +51,7 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('BreakingUKNews')
 
-# --- Updated Filter Keywords (2025) ---
-PROMOTIONAL_KEYWORDS = [
-    "giveaway", "win", "offer", "sponsor", "competition", "prize", "free",
-    "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
-]
-
-UK_RELEVANT_KEYWORDS = [
-    # Geography & National
-    "uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland", "london",
-    # Government & Institutions
-    "nhs", "parliament", "westminster", "downing street", "no 10", "no. 10", "whitehall",
-    # Political Parties & Leaders (2025)
-    "british", "labour", "conservative", "lib dem", "liberal democrat", "snp", "green party",
-    "kemi badenoch", "rachel reeves", "keir starmer", "ed davey", "john swinney", "carla denyer", "adrian ramsay",
-    # Media & Law Enforcement
-    "bbc", "itv", "sky news", "met police", "scotland yard", "mi5", "mi6",
-    # Royals
-    "king charles", "queen camilla", "prince william", "princess kate", "prince george", "princess charlotte",
-    # Economy & Cost of Living
-    "ofgem", "bank of england", "inflation", "cost of living", "energy price cap"
-]
-
-CATEGORIES = {
-    "Breaking News": ["breaking", "urgent", "alert", "emergency"],
-    "Politics": [
-        "parliament", "election", "government", "policy", "prime minister", "chancellor", "cabinet",
-        "kemi badenoch", "keir starmer", "rachel reeves", "ed davey", "john swinney"
-    ],
-    "Crime & Legal": [
-        "murder", "arrest", "police", "trial", "court", "sentencing", "investigation", "scotland yard", "met police"
-    ],
-    "Sport": [
-        "football", "cricket", "rugby", "premier league", "wimbledon", "six nations", "fa cup", "england squad"
-    ],
-    "Royals": [
-        "king charles", "queen camilla", "prince william", "princess kate", "royal", "prince", "princess"
-    ]
-}
-
-FLAIR_MAPPING = {
-    "Breaking News": "Breaking News",
-    "Politics": "Politics",
-    "Crime & Legal": "Crime & Legal",
-    "Sport": "Sport",
-    "Royals": "Royals",
-    None: "No Flair"
-}
-
-# --- Deduplication Utilities ---
-def normalize_url(url):
-    parsed = urllib.parse.urlparse(url)
-    return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
-
-def normalize_title(title):
-    title = html.unescape(title)
-    title = re.sub(r'[^\w\s£$€]', '', title)
-    title = re.sub(r'\s+', ' ', title).strip().lower()
-    return title
-
-def get_content_hash(entry):
-    summary = getattr(entry, "summary", "")[:200]
-    return hashlib.md5(summary.encode('utf-8')).hexdigest()
-
+# --- Deduplication ---
 def load_dedup(filename='posted_timestamps.txt'):
     posted_urls = {}
     posted_titles = {}
@@ -135,28 +75,38 @@ def load_dedup(filename='posted_timestamps.txt'):
 def save_dedup(posted_urls, posted_titles, posted_hashes, filename='posted_timestamps.txt'):
     try:
         with open(filename, 'w', encoding='utf-8') as f:
-            seen = set()
             for url, ts in posted_urls.items():
                 title = next((t for t, t_ts in posted_titles.items() if t_ts == ts), "")
                 ch = next((c for c, c_ts in posted_hashes.items() if c_ts == ts), "")
-                key = (ts, url, title, ch)
-                if key not in seen:
-                    f.write(f"{ts.isoformat()}|{url}|{title}|{ch}\n")
-                    seen.add(key)
+                f.write(f"{ts.isoformat()}|{url}|{title}|{ch}\n")
     except Exception as e:
         logger.error(f"Failed to save deduplication file: {e}")
 
-# --- Initialize deduplication state with normalization ---
-raw_posted_urls, raw_posted_titles, raw_posted_hashes = load_dedup()
+posted_urls, posted_titles, posted_hashes = load_dedup()
 now = datetime.now(timezone.utc)
 cutoff = now - timedelta(days=7)
+posted_urls = {k: v for k, v in posted_urls.items() if v > cutoff}
+posted_titles = {k: v for k, v in posted_titles.items() if v > cutoff}
+posted_hashes = {k: v for k, v in posted_hashes.items() if v > cutoff}
+first_run = not bool(posted_urls)
 
-# Normalize all keys for deduplication
-posted_urls = {normalize_url(k): v for k, v in raw_posted_urls.items() if v > cutoff}
-posted_titles = {normalize_title(k): v for k, v in raw_posted_titles.items() if v > cutoff}
-posted_hashes = {k: v for k, v in raw_posted_hashes.items() if v > cutoff}
+def normalize_url(url):
+    parsed = urllib.parse.urlparse(url)
+    return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
+
+def normalize_title(title):
+    title = html.unescape(title)
+    title = re.sub(r'[^\w\s£$€]', '', title)
+    title = re.sub(r'\s+', ' ', title).strip().lower()
+    return title
+
+def get_content_hash(entry):
+    summary = html.unescape(getattr(entry, "summary", "")[:200])
+    return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
 def is_duplicate(entry, threshold=0.85):
+    if first_run:
+        return False, ""
     norm_link = normalize_url(entry.link)
     norm_title = normalize_title(entry.title)
     content_hash = get_content_hash(entry)
@@ -167,7 +117,6 @@ def is_duplicate(entry, threshold=0.85):
             return True, "Title too similar to existing post"
     return False, ""
 
-# --- Article Extraction and Filtering ---
 def extract_first_paragraphs(url):
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
@@ -179,20 +128,69 @@ def extract_first_paragraphs(url):
         logger.error(f"Failed to fetch URL {url}: {e}")
         return f"(Could not extract article text: {e})"
 
+# --- Updated filter words (2025) ---
+PROMOTIONAL_KEYWORDS = [
+    "giveaway", "win", "offer", "sponsor", "competition", "prize", "free",
+    "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
+]
+
+UK_RELEVANT_KEYWORDS = [
+    "uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland", "london",
+    "nhs", "parliament", "westminster", "downing street", "no 10", "no. 10", "whitehall",
+    "british", "labour", "conservative", "lib dem", "liberal democrat", "snp", "green party",
+    "kemi badenoch", "rachel reeves", "keir starmer", "ed davey", "john swinney", "carla denyer", "adrian ramsay",
+    "bbc", "itv", "sky news", "met police", "scotland yard", "mi5", "mi6",
+    "king charles", "queen camilla", "prince william", "princess kate", "prince george", "princess charlotte",
+    "ofgem", "bank of england", "inflation", "cost of living", "energy price cap"
+]
+
+CATEGORIES = {
+    "Breaking News": ["breaking", "urgent", "alert", "emergency"],
+    "Politics": [
+        "parliament", "election", "government", "policy", "prime minister", "chancellor", "cabinet",
+        "kemi badenoch", "keir starmer", "rachel reeves", "ed davey", "john swinney"
+    ],
+    "Crime & Legal": [
+        "murder", "arrest", "police", "trial", "court", "sentencing", "investigation", "scotland yard", "met police"
+    ],
+    "Sport": [
+        "football", "cricket", "rugby", "premier league", "wimbledon", "six nations", "fa cup", "england squad"
+    ],
+    "Royals": [
+        "king charles", "queen camilla", "prince william", "princess kate", "royal", "prince", "princess"
+    ]
+}
+
 def is_promotional(entry):
-    combined = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
 def is_uk_relevant(entry):
-    combined = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in UK_RELEVANT_KEYWORDS)
 
 def get_category(entry):
-    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     for cat, kws in CATEGORIES.items():
         if any(kw in text for kw in kws):
             return cat
     return None
+
+FLAIR_MAPPING = {
+    "Breaking News": "Breaking News",
+    "Politics": "Politics",
+    "Crime & Legal": "Crime & Legal",
+    "Sport": "Sport",
+    "Royals": "Royals",
+    None: "No Flair"
+}
+
+def get_post_title(entry):
+    """Return the decoded title with '| UK News' appended."""
+    base_title = html.unescape(entry.title).strip()
+    if not base_title.endswith("| UK News"):
+        return f"{base_title} | UK News"
+    return base_title
 
 def post_to_reddit(entry, category, retries=3, base_delay=40):
     norm_link = normalize_url(entry.link)
@@ -210,18 +208,20 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
 
     for attempt in range(retries):
         try:
+            post_title = get_post_title(entry)
             submission = subreddit.submit(
-                title=entry.title,
+                title=post_title,
                 url=entry.link,
                 flair_id=flair_id
             )
             logger.info(f"Posted: {submission.shortlink}")
             body = extract_first_paragraphs(entry.link)
             if body:
-                submission.reply("\n".join([f"> {line}" if line else "" for line in body.split('\n')]) + f"\n\n[Read more]({entry.link})")
+                reply_text = "\n".join([f"> {html.unescape(line)}" if line else "" for line in body.split('\n')])
+                submission.reply(reply_text + f"\n\n[Read more]({entry.link})")
             ts = datetime.now(timezone.utc)
             posted_urls[norm_link] = ts
-            posted_titles[norm_title] = ts
+            posted_titles[normalize_title(post_title)] = ts
             posted_hashes[content_hash] = ts
             save_dedup(posted_urls, posted_titles, posted_hashes)
             return True
@@ -256,10 +256,10 @@ def main():
             feed = feedparser.parse(url)
             for entry in feed.entries:
                 if is_promotional(entry):
-                    logger.info(f"Skipped promotional article: {entry.title}")
+                    logger.info(f"Skipped promotional article: {html.unescape(entry.title)}")
                     continue
                 if not is_uk_relevant(entry):
-                    logger.info(f"Skipped non-UK article: {entry.title}")
+                    logger.info(f"Skipped non-UK article: {html.unescape(entry.title)}")
                     continue
                 all_entries.append((name, entry))
         except Exception as e:
@@ -272,7 +272,7 @@ def main():
             break
         is_dup, reason = is_duplicate(entry)
         if is_dup:
-            logger.info(f"Skipped duplicate: {entry.title} ({reason})")
+            logger.info(f"Skipped duplicate: {html.unescape(entry.title)} ({reason})")
             continue
         category = get_category(entry)
         success = post_to_reddit(entry, category)
