@@ -52,18 +52,43 @@ reddit = praw.Reddit(
 subreddit = reddit.subreddit('BreakingUKNews')
 
 # --- Deduplication ---
-def load_dedup():
-    # In-memory deduplication for GitHub Actions (ephemeral filesystem)
-    return {}, {}, {}
+def load_dedup(filename='posted_timestamps.txt'):
+    posted_urls = {}
+    posted_titles = {}
+    posted_hashes = {}
+    if os.path.exists(filename):
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                for line in f:
+                    if line.strip():
+                        parts = line.strip().split('|')
+                        if len(parts) == 4:
+                            timestamp, url, title, content_hash = parts
+                            ts = datetime.fromisoformat(timestamp)
+                            posted_urls[url] = ts
+                            posted_titles[title] = ts
+                            posted_hashes[content_hash] = ts
+        except Exception as e:
+            logger.error(f"Failed to load deduplication file: {e}")
+    return posted_urls, posted_titles, posted_hashes
 
-def save_dedup(posted_urls, posted_titles, posted_hashes):
-    # No-op for GitHub Actions since we use in-memory storage
-    pass
+def save_dedup(posted_urls, posted_titles, posted_hashes, filename='posted_timestamps.txt'):
+    try:
+        with open(filename, 'w', encoding='utf-8') as f:
+            for url, ts in posted_urls.items():
+                title = next((t for t, t_ts in posted_titles.items() if t_ts == ts), "")
+                ch = next((c for c, c_ts in posted_hashes.items() if c_ts == ts), "")
+                f.write(f"{ts.isoformat()}|{url}|{title}|{ch}\n")
+    except Exception as e:
+        logger.error(f"Failed to save deduplication file: {e}")
 
 posted_urls, posted_titles, posted_hashes = load_dedup()
 now = datetime.now(timezone.utc)
 cutoff = now - timedelta(days=7)
-first_run = True  # Always true for in-memory deduplication per run
+posted_urls = {k: v for k, v in posted_urls.items() if v > cutoff}
+posted_titles = {k: v for k, v in posted_titles.items() if v > cutoff}
+posted_hashes = {k: v for k, v in posted_hashes.items() if v > cutoff}
+first_run = not bool(posted_urls)
 
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
