@@ -169,13 +169,47 @@ def get_tag(text):
             return tag.capitalize()
     return "International"
 
+# --- First paragraph quality control ---
+BAD_PARAGRAPH_PATTERNS = [
+    r'error', r'need to view media', r'video only', r'see video', r'see image', r'watch above',
+    r'read more', r'continue reading', r'watch the video', r'click here', r'view gallery'
+]
+
+def is_good_paragraph(text):
+    """Returns True if the paragraph is well-formed and not a placeholder/error/media prompt."""
+    if not text or len(text) < 40:  # Too short to be meaningful
+        return False
+    # Check for bad patterns (case-insensitive)
+    for pat in BAD_PARAGRAPH_PATTERNS:
+        if re.search(pat, text, re.IGNORECASE):
+            return False
+    # Avoid all-caps or mostly non-alphabetic
+    alpha_ratio = sum(c.isalpha() for c in text) / max(len(text), 1)
+    if alpha_ratio < 0.7:
+        return False
+    # Should have at least one period (sentence)
+    if '.' not in text:
+        return False
+    return True
+
+def get_first_good_paragraphs(paragraphs, count=3):
+    """Returns up to `count` well-formed paragraphs."""
+    good = []
+    for p in paragraphs:
+        if is_good_paragraph(p):
+            good.append(p)
+        if len(good) == count:
+            break
+    return good
+
 def extract_first_three_paragraphs(url):
     try:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         paragraphs = [p.get_text().strip() for p in soup.find_all('p') if p.get_text().strip()]
-        return '\n\n'.join(paragraphs[:3]) if paragraphs else ""
+        good_paragraphs = get_first_good_paragraphs(paragraphs, count=3)
+        return '\n\n'.join(good_paragraphs) if good_paragraphs else ""
     except Exception as e:
         logging.warning(f"Failed to extract paragraphs from {url}: {e}")
         return ""
@@ -238,8 +272,19 @@ for source, entry in selected_entries:
 
         summary = extract_first_three_paragraphs(entry.link)
         if not summary:
+            # Try RSS summary as fallback
             summary = BeautifulSoup(getattr(entry, "summary", ""), 'html.parser').get_text()
-        if not summary:
+            if not is_good_paragraph(summary):
+                # Log rejected articles
+                with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
+                    f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: bad fallback summary\n")
+                continue
+
+        # Check first paragraph quality
+        first_para = summary.split('\n\n')[0] if summary else ""
+        if not is_good_paragraph(first_para):
+            with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
+                f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: bad first paragraph\n")
             continue
 
         # --- Post body formatting ---
