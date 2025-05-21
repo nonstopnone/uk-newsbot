@@ -7,7 +7,6 @@ import time
 import os
 import sys
 import random
-import requests.exceptions
 
 # --- Check for required environment variables ---
 required_env_vars = [
@@ -42,13 +41,12 @@ if os.path.exists('posted_urls.txt'):
     with open('posted_urls.txt', 'r') as f:
         posted_urls = set(line.strip() for line in f if line.strip())
 
-# --- UK news RSS feeds (remove broken feeds) ---
+# --- Trusted UK news RSS feeds ---
 feed_urls = [
     'http://feeds.bbci.co.uk/news/rss.xml',
     'https://feeds.skynews.com/feeds/rss/home.xml',
     'https://www.telegraph.co.uk/rss.xml',
-    # 'https://www.itv.com/news/rss',      # Malformed, do not use
-    # 'https://www.thetimes.co.uk/rss',    # Malformed, do not use
+    # Only UK major outlets, no generic feeds
 ]
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -64,14 +62,6 @@ def is_recent(entry):
         return False
     pub_time = datetime.fromtimestamp(time.mktime(time_struct), tz=timezone.utc)
     return pub_time > seven_hours_ago
-
-def is_valid_url(url):
-    """Check if the URL is accessible with a HEAD request."""
-    try:
-        response = requests.head(url, headers=headers, timeout=5, allow_redirects=True)
-        return response.status_code == 200
-    except requests.exceptions.RequestException:
-        return False
 
 def extract_article_paragraphs(url, title):
     """Extract the first three meaningful paragraphs, skipping short 'top line' blurbs, standfirst, and author lines."""
@@ -103,23 +93,11 @@ def extract_article_paragraphs(url, title):
 articles = []
 for feed_url in feed_urls:
     try:
-        for attempt in range(3):  # Retry up to 3 times
-            try:
-                feed = feedparser.parse(feed_url)
-                if feed.bozo:
-                    raise Exception(f"Malformed feed: {feed.bozo_exception}")
-                break
-            except Exception as e:
-                print(f"Retry {attempt+1}/3 for feed {feed_url}: {e}")
-                time.sleep(2)
-        else:
-            print(f"Failed to parse feed {feed_url} after 3 attempts")
-            continue
+        feed = feedparser.parse(feed_url)
         for entry in feed.entries:
             title = getattr(entry, 'title', '')
             link = getattr(entry, 'link', '')
-            if not link or not title or not isinstance(link, str) or not link.startswith(('http://', 'https://')) or not is_valid_url(link):
-                print(f"Skipping invalid article: Title={title}, Link={link}")
+            if not link or not title or not isinstance(link, str) or not link.startswith(('http://', 'https://')):
                 continue
             if link in posted_urls:
                 continue
@@ -132,77 +110,54 @@ for feed_url in feed_urls:
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
 
-print(f"Collected {len(articles)} articles: {[(a['title'], a['link']) for a in articles]}")
-
-# --- Shuffle to ensure a mix of sources ---
 random.shuffle(articles)
 
-# --- Open log file for this run ---
 log_filename = f"run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
 with open(log_filename, 'w', encoding='utf-8') as log_file:
     new_posts = 0
-    failed_posts = 0
     for article in articles:
         title = article["title"]
         link = article["link"]
 
         paragraphs = extract_article_paragraphs(link, title)
         if not paragraphs.strip():
-            print(f"Skipping post due to failed article extraction: Title={title}, Link={link}")
-            log_file.write(f"SKIPPED: Failed extraction - Title={title}, Link={link}\n")
             continue
 
-        # --- Final body formatting as requested ---
         body = (
             f"{paragraphs}\n\n"
             f"*Quoted from the link*\n\n"
             f"**What are your thoughts on this story? Join the discussion in the comments.**"
         )
 
-        # --- Format title as requested: no space before pipe, one after ---
         post_title = f"{title}| UK News"
 
-        # --- Log the post attempt ---
         log_file.write("="*60 + "\n")
         log_file.write(f"TITLE: {post_title}\n")
         log_file.write(f"LINK: {link}\n")
         log_file.write(f"BODY:\n{body}\n")
         log_file.write("="*60 + "\n\n")
 
-        # Defensive check: skip if link or body is empty
-        if not link or not post_title or not body.strip() or not isinstance(link, str) or not link.startswith(('http://', 'https://')) or not is_valid_url(link):
-            print(f"Skipping post due to invalid data: Title={post_title}, Link={link}, Body={body[:50]}...")
-            log_file.write(f"SKIPPED: Invalid data - Title={post_title}, Link={link}, Body={body[:50]}...\n")
-            continue
-
         try:
-            # Always post as a link post with formatted body
             submission = subreddit.submit(post_title, url=link, selftext=body)
             print(f"Posted link post to Reddit: {post_title}")
         except Exception as e:
             print(f"Unexpected error posting to Reddit: {e}")
             log_file.write(f"UNEXPECTED ERROR: {e}\n\n")
-            failed_posts += 1
             continue
 
         posted_urls.add(link)
         new_posts += 1
-        time.sleep(10)  # Avoid Reddit rate limits
-        if new_posts >= 5:  # Limit per run
+        time.sleep(10)
+        if new_posts >= 5:
             break
 
-    # --- Save posted URLs ---
     with open('posted_urls.txt', 'w') as f:
         for url in posted_urls:
             f.write(url + '\n')
 
     log_file.write(f"\nTotal new posts this run: {new_posts}\n")
-    log_file.write(f"Total failed posts this run: {failed_posts}\n")
 
     if new_posts == 0:
-        if failed_posts > 0:
-            print(f"No new UK breaking news stories posted due to {failed_posts} failed attempts. Check logs for details.")
-        else:
-            print("No new UK breaking news stories found in the last 7 hours.")
+        print("No new UK breaking news stories found in the last 7 hours.")
     else:
         print(f"Posted {new_posts} new link posts to Reddit from the last 7 hours.")
