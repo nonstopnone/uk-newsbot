@@ -128,8 +128,7 @@ feed_sources = {
     "ITV": "https://www.itv.com/news/rss",
     "ITV Granada": "https://www.itv.com/news/granada/rss",
     "ITV UTV": "https://www.itv.com/news/utv/rss",
-    "ITV West Country": "https://www.itv.com/news/westcountry/rss",
-    "Guardian": "https://www.theguardian.com/uk/rss"
+    "ITV West Country": "https://www.itv.com/news/westcountry/rss"
 }
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -237,7 +236,7 @@ CATEGORY_KEYWORDS = {
         "trade deal", "export", "import", "tariffs", "bilateral agreement"
     ],
     "National Newspapers Front Pages": [
-        "front pages", "newspaper", "telegraph", "guardian", "times", "daily mail", 
+        "front pages", "newspaper", "telegraph", "times", "daily mail", 
         "sun", "mirror", "express", "independent", "ft", "financial times"
     ]
 }
@@ -292,9 +291,15 @@ def is_uk_relevant(entry):
     distinct_uk_keywords = len([kw for kw in UK_KEYWORDS if kw in combined_text])
     max_uk_freq = max((combined_text.count(kw) for kw in UK_KEYWORDS), default=0)
     
-    # Log rejection if not UK-relevant
+    # Require at least one breaking news keyword
+    breaking_count = sum(kw in combined_text for kw in BREAKING_KEYWORDS)
+    
+    # Log rejection if not UK-relevant or not breaking news
     if distinct_uk_keywords < 2 and max_uk_freq < 3:
         log_rejection(entry.title, entry.link, "Insufficient UK keywords")
+        return False
+    if breaking_count == 0:
+        log_rejection(entry.title, entry.link, "No breaking news keywords")
         return False
     
     # Reject if international focus dominates unless UK impact is clear
@@ -332,7 +337,7 @@ def get_category(entry):
 
 def breaking_score(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    score = sum(kw in text for kw in BREAKING_KEYWORDS)
+    score = sum(2 if kw in text else 0 for kw in BREAKING_KEYWORDS)  # Double weight for breaking keywords
     for category, keywords in CATEGORY_KEYWORDS.items():
         if any(kw in text for kw in keywords):
             score += 1
@@ -414,7 +419,8 @@ def gather_entries(hours):
                 recent_entries.append((source, entry, category))
         except Exception as e:
             print(f"Error processing feed {feed_url}: {e}")
-    return recent_entries
+    return recent_entr
+ies
 
 # Try 12-hour window first
 recent_entries = gather_entries(12)
