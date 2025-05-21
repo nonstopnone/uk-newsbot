@@ -49,6 +49,54 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('BreakingUKNews')
 
+# --- Updated Filter Keywords (2025) ---
+PROMOTIONAL_KEYWORDS = [
+    "giveaway", "win", "offer", "sponsor", "competition", "prize", "free",
+    "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
+]
+
+UK_RELEVANT_KEYWORDS = [
+    # Geography & National
+    "uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland", "london",
+    # Government & Institutions
+    "nhs", "parliament", "westminster", "downing street", "no 10", "no. 10", "whitehall",
+    # Political Parties & Leaders (2025)
+    "british", "labour", "conservative", "lib dem", "liberal democrat", "snp", "green party",
+    "kemi badenoch", "rachel reeves", "keir starmer", "ed davey", "john swinney", "carla denyer", "adrian ramsay",
+    # Media & Law Enforcement
+    "bbc", "itv", "sky news", "met police", "scotland yard", "mi5", "mi6",
+    # Royals
+    "king charles", "queen camilla", "prince william", "princess kate", "prince george", "princess charlotte",
+    # Economy & Cost of Living
+    "ofgem", "bank of england", "inflation", "cost of living", "energy price cap"
+]
+
+CATEGORIES = {
+    "Breaking News": ["breaking", "urgent", "alert", "emergency"],
+    "Politics": [
+        "parliament", "election", "government", "policy", "prime minister", "chancellor", "cabinet",
+        "kemi badenoch", "keir starmer", "rachel reeves", "ed davey", "john swinney"
+    ],
+    "Crime & Legal": [
+        "murder", "arrest", "police", "trial", "court", "sentencing", "investigation", "scotland yard", "met police"
+    ],
+    "Sport": [
+        "football", "cricket", "rugby", "premier league", "wimbledon", "six nations", "fa cup", "england squad"
+    ],
+    "Royals": [
+        "king charles", "queen camilla", "prince william", "princess kate", "royal", "prince", "princess"
+    ]
+}
+
+FLAIR_MAPPING = {
+    "Breaking News": "Breaking News",
+    "Politics": "Politics",
+    "Crime & Legal": "Crime & Legal",
+    "Sport": "Sport",
+    "Royals": "Royals",
+    None: "No Flair"
+}
+
 # --- Deduplication Utilities ---
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
@@ -133,38 +181,18 @@ def extract_first_paragraphs(url):
 
 def is_promotional(entry):
     combined = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return any(kw in combined for kw in ["giveaway", "win", "offer", "sponsor", "competition", "prize", "free", "discount"])
+    return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
 def is_uk_relevant(entry):
     combined = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    keywords = [
-        "uk", "britain", "england", "scotland", "wales", "northern ireland", "london",
-        "nhs", "parliament", "british", "bbc", "labour", "tory", "sunak", "starmer", "met police"
-    ]
-    return any(kw in combined for kw in keywords)
+    return any(kw in combined for kw in UK_RELEVANT_KEYWORDS)
 
 def get_category(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    categories = {
-        "Breaking News": ["breaking", "urgent", "alert", "emergency"],
-        "Politics": ["parliament", "election", "government", "policy"],
-        "Crime & Legal": ["murder", "arrest", "police", "trial"],
-        "Sport": ["football", "cricket", "rugby", "premier league"],
-        "Royals": ["king", "queen", "royal", "prince", "princess"]
-    }
-    for cat, kws in categories.items():
+    for cat, kws in CATEGORIES.items():
         if any(kw in text for kw in kws):
             return cat
     return None
-
-FLAIR_MAPPING = {
-    "Breaking News": "Breaking News",
-    "Politics": "Politics",
-    "Crime & Legal": "Crime & Legal",
-    "Sport": "Sport",
-    "Royals": "Royals",
-    None: "No Flair"
-}
 
 def post_to_reddit(entry, category, retries=3, base_delay=40):
     norm_link = normalize_url(entry.link)
