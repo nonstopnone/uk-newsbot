@@ -11,6 +11,7 @@ import urllib.parse
 import difflib
 import re
 import hashlib
+import html  # <-- Added for HTML entity decoding
 
 # --- Environment variable check ---
 required_env_vars = [
@@ -59,13 +60,14 @@ def normalize_url(url):
     normalized_url = urllib.parse.urlunparse((
         parsed.scheme,
         parsed.netloc,
-        normalized_path,
-        '', '', ''
+        normalized_path, '', '', ''
     ))
     return normalized_url
 
 def normalize_title(title):
-    title = re.sub(r'[^\w\s]', '', title)
+    title = html.unescape(title)  # Decode HTML entities
+    # Remove punctuation except numbers and currency symbols (£, $, €)
+    title = re.sub(r'[^\w\s£$€]', '', title)
     title = re.sub(r'\s+', ' ', title).strip().lower()
     return title
 
@@ -243,9 +245,12 @@ def post_to_reddit(entry, category):
             flair_id = flair['id']
             break
 
+    # Decode HTML entities in the title before posting
+    clean_title = html.unescape(entry.title)
+
     # Submit the link post
     submission = subreddit.submit(
-        title=entry.title,
+        title=clean_title,
         url=entry.link,
         flair_id=flair_id
     )
@@ -257,9 +262,9 @@ def post_to_reddit(entry, category):
         # Format as a blockquote for Reddit
         quoted_lines = [f"> {line}" if line.strip() else "" for line in quoted_body.split('\n')]
         quoted_comment = "\n".join(quoted_lines)
-        # Optionally, add a source line
         quoted_comment += f"\n\n[Read more at the source]({entry.link})"
-        # Post as a comment
+        # Add the required prompt
+        quoted_comment += "\n\n---\n\nWhat do you think of this news story? Join the conversation in the comments."
         submission.reply(quoted_comment)
         print("Added quoted body as comment.")
 
