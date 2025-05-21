@@ -18,9 +18,7 @@ import random
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(sys.stdout)
-    ]
+    handlers=[logging.StreamHandler(sys.stdout)]
 )
 logger = logging.getLogger(__name__)
 
@@ -52,44 +50,6 @@ reddit = praw.Reddit(
 subreddit = reddit.subreddit('BreakingUKNews')
 
 # --- Deduplication ---
-def load_dedup(filename='posted_timestamps.txt'):
-    posted_urls = {}
-    posted_titles = {}
-    posted_hashes = {}
-    if os.path.exists(filename):
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                for line in f:
-                    if line.strip():
-                        parts = line.strip().split('|')
-                        if len(parts) == 4:
-                            timestamp, url, title, content_hash = parts
-                            ts = datetime.fromisoformat(timestamp)
-                            posted_urls[url] = ts
-                            posted_titles[title] = ts
-                            posted_hashes[content_hash] = ts
-        except Exception as e:
-            logger.error(f"Failed to load deduplication file: {e}")
-    return posted_urls, posted_titles, posted_hashes
-
-def save_dedup(posted_urls, posted_titles, posted_hashes, filename='posted_timestamps.txt'):
-    try:
-        with open(filename, 'w', encoding='utf-8') as f:
-            for url, ts in posted_urls.items():
-                title = next((t for t, t_ts in posted_titles.items() if t_ts == ts), "")
-                ch = next((c for c, c_ts in posted_hashes.items() if c_ts == ts), "")
-                f.write(f"{ts.isoformat()}|{url}|{title}|{ch}\n")
-    except Exception as e:
-        logger.error(f"Failed to save deduplication file: {e}")
-
-posted_urls, posted_titles, posted_hashes = load_dedup()
-now = datetime.now(timezone.utc)
-cutoff = now - timedelta(days=7)
-posted_urls = {k: v for k, v in posted_urls.items() if v > cutoff}
-posted_titles = {k: v for k, v in posted_titles.items() if v > cutoff}
-posted_hashes = {k: v for k, v in posted_hashes.items() if v > cutoff}
-first_run = not bool(posted_urls)
-
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
@@ -104,18 +64,65 @@ def get_content_hash(entry):
     summary = html.unescape(getattr(entry, "summary", "")[:200])
     return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
-def is_duplicate(entry, threshold=0.85):
-    if first_run:
-        return False, ""
+def get_post_title(entry):
+    """Return the decoded title with '| UK News' appended."""
+    base_title = html.unescape(entry.title).strip()
+    if not base_title.endswith("| UK News"):
+        return f"{base_title} | UK News"
+    return base_title
+
+def load_dedup(filename='posted_timestamps.txt'):
+    posted_urls = set()
+    posted_titles = set()
+    posted_hashes = set()
+    if os.path.exists(filename):
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                for line in f:
+                    if line.strip():
+                        parts = line.strip().split('|')
+                        if len(parts) == 4:
+                            _, url, title, content_hash = parts
+                            posted_urls.add(url)
+                            posted_titles.add(title)
+                            posted_hashes.add(content_hash)
+        except Exception as e:
+            logger.error(f"Failed to load deduplication file: {e}")
+    return posted_urls, posted_titles, posted_hashes
+
+def save_dedup(posted_urls, posted_titles, posted_hashes, filename='posted_timestamps.txt'):
+    try:
+        with open(filename, 'w', encoding='utf-8') as f:
+            for url, title, ch in zip(posted_urls, posted_titles, posted_hashes):
+                f.write(f"{datetime.now(timezone.utc).isoformat()}|{url}|{title}|{ch}\n")
+    except Exception as e:
+        logger.error(f"Failed to save deduplication file: {e}")
+
+# Load deduplication state
+posted_urls, posted_titles, posted_hashes = load_dedup()
+
+def is_duplicate(entry):
     norm_link = normalize_url(entry.link)
-    norm_title = normalize_title(entry.title)
+    post_title = get_post_title(entry)
+    norm_title = normalize_title(post_title)
     content_hash = get_content_hash(entry)
-    if norm_link in posted_urls or content_hash in posted_hashes:
-        return True, "Duplicate URL or content hash"
-    for posted_title in posted_titles:
-        if difflib.SequenceMatcher(None, norm_title, posted_title).ratio() > threshold:
-            return True, "Title too similar to existing post"
+    if norm_link in posted_urls:
+        return True, "Duplicate URL"
+    if norm_title in posted_titles:
+        return True, "Duplicate Title"
+    if content_hash in posted_hashes:
+        return True, "Duplicate Content Hash"
     return False, ""
+
+def add_to_dedup(entry):
+    norm_link = normalize_url(entry.link)
+    post_title = get_post_title(entry)
+    norm_title = normalize_title(post_title)
+    content_hash = get_content_hash(entry)
+    posted_urls.add(norm_link)
+    posted_titles.add(norm_title)
+    posted_hashes.add(content_hash)
+    save_dedup(posted_urls, posted_titles, posted_hashes)
 
 def extract_first_paragraphs(url):
     try:
@@ -185,17 +192,7 @@ FLAIR_MAPPING = {
     None: "No Flair"
 }
 
-def get_post_title(entry):
-    """Return the decoded title with '| UK News' appended."""
-    base_title = html.unescape(entry.title).strip()
-    if not base_title.endswith("| UK News"):
-        return f"{base_title} | UK News"
-    return base_title
-
 def post_to_reddit(entry, category, retries=3, base_delay=40):
-    norm_link = normalize_url(entry.link)
-    norm_title = normalize_title(entry.title)
-    content_hash = get_content_hash(entry)
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
     try:
@@ -219,11 +216,7 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
             if body:
                 reply_text = "\n".join([f"> {html.unescape(line)}" if line else "" for line in body.split('\n')])
                 submission.reply(reply_text + f"\n\n[Read more]({entry.link})")
-            ts = datetime.now(timezone.utc)
-            posted_urls[norm_link] = ts
-            posted_titles[normalize_title(post_title)] = ts
-            posted_hashes[content_hash] = ts
-            save_dedup(posted_urls, posted_titles, posted_hashes)
+            add_to_dedup(entry)
             return True
         except praw.exceptions.RedditAPIException as e:
             if "RATELIMIT" in str(e):
@@ -248,13 +241,15 @@ def main():
         "Times": "https://www.thetimes.co.uk/rss"
     }
     all_entries = []
-    # Randomize feed order to ensure variety
+    # Collect all entries from all feeds, then shuffle for true randomisation
     feed_items = list(feed_sources.items())
     random.shuffle(feed_items)
     for name, url in feed_items:
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries:
+            entries = list(feed.entries)
+            random.shuffle(entries)  # Shuffle articles within each feed
+            for entry in entries:
                 if is_promotional(entry):
                     logger.info(f"Skipped promotional article: {html.unescape(entry.title)}")
                     continue
@@ -264,6 +259,8 @@ def main():
                 all_entries.append((name, entry))
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
+
+    random.shuffle(all_entries)  # Shuffle all entries globally for maximum diversity
 
     posts_made = 0
     for source, entry in all_entries:
