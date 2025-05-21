@@ -9,7 +9,7 @@ import sys
 import random
 import urllib.parse
 
-# --- Check for required environment variables ---
+# --- Environment variable check ---
 required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
@@ -21,7 +21,7 @@ if missing_vars:
     print(f"ERROR: Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
 
-# --- Reddit API credentials from environment variables ---
+# --- Reddit API credentials ---
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
@@ -47,32 +47,35 @@ if os.path.exists('posted_titles.txt'):
         posted_titles = set(line.strip().lower() for line in f if line.strip())
 
 def normalize_url(url):
-    """Remove query, fragment, and trailing slash for duplicate protection."""
     parsed = urllib.parse.urlparse(url)
     normalized_path = parsed.path.rstrip('/')
     normalized_url = urllib.parse.urlunparse((
         parsed.scheme,
         parsed.netloc,
         normalized_path,
-        '', '', ''  # params, query, fragment
+        '', '', ''
     ))
     return normalized_url
 
 def normalize_title(title):
     return title.strip().lower()
 
-# --- RSS feeds ---
-feed_urls = [
-    'http://feeds.bbci.co.uk/news/rss.xml',
-    'https://feeds.skynews.com/feeds/rss/home.xml',
-    'https://www.itv.com/news/rss',
-    'https://www.telegraph.co.uk/rss.xml',
-    'https://www.thetimes.co.uk/rss',
-]
+# --- Major UK news RSS feeds ---
+feed_sources = {
+    "BBC": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+    "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
+    "Telegraph": "https://www.telegraph.co.uk/rss.xml",
+    "Times": "https://www.thetimes.co.uk/rss",
+}
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
-# --- Define the breaking news window (last hour) ---
+# --- Breaking news keywords ---
+BREAKING_KEYWORDS = [
+    "breaking", "urgent", "just in", "developing", "update", "live", "alert"
+]
+
+# --- Breaking news window (last hour) ---
 now_utc = datetime.now(timezone.utc)
 one_hour_ago = now_utc - timedelta(hours=1)
 
@@ -102,25 +105,45 @@ def extract_first_three_paragraphs(url):
     except Exception as e:
         return f"(Could not extract article text: {e})"
 
-# --- Gather all recent entries from all feeds ---
-all_entries = []
-for feed_url in feed_urls:
+def breaking_score(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    return sum(kw in text for kw in BREAKING_KEYWORDS)
+
+# --- Gather recent entries, one per source ---
+recent_entries = []
+for source, feed_url in feed_sources.items():
     try:
         feed = feedparser.parse(feed_url)
-        for entry in feed.entries:
-            if is_recent(entry):
-                all_entries.append(entry)
+        source_entries = [
+            entry for entry in feed.entries if is_recent(entry)
+        ]
+        if source_entries:
+            random.shuffle(source_entries)
+            source_entries.sort(key=breaking_score, reverse=True)
+            recent_entries.append((source, source_entries[0]))
     except Exception as e:
         print(f"Error processing feed {feed_url}: {e}")
 
-random.shuffle(all_entries)
+# --- Rank all entries by breaking-ness, then shuffle among equal scores ---
+random.shuffle(recent_entries)
+recent_entries.sort(key=lambda tup: breaking_score(tup[1]), reverse=True)
+
+# --- Select up to 5 stories, each from a different source ---
+selected_entries = []
+used_sources = set()
+for source, entry in recent_entries:
+    if source not in used_sources and len(selected_entries) < 5:
+        selected_entries.append((source, entry))
+        used_sources.add(source)
+    if len(selected_entries) == 5:
+        break
 
 # --- Logging directory ---
 os.makedirs('logs', exist_ok=True)
 log_filename = f"logs/run_log_{now_utc.strftime('%Y%m%d_%H%M%S')}.txt"
 with open(log_filename, 'w', encoding='utf-8') as log_file:
     new_posts = 0
-    for entry in all_entries:
+    for source, entry in selected_entries:
         title = entry.title
         link = entry.link
 
@@ -130,13 +153,10 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
         if norm_link in posted_urls or norm_title in posted_titles:
             continue
 
-        # Format title for Reddit post
         reddit_title = f"{title} | UK News"
 
-        # Prepare comment body
-        quote = extract_first_three_paragraphs(link)
         comment_body = (
-            f"{quote}\n\n"
+            f"{extract_first_three_paragraphs(link)}\n\n"
             f"*Quoted from the link*\n\n"
             f"**What do you think about this news story? Join the conversation in the comments.**"
         )
@@ -144,22 +164,19 @@ with open(log_filename, 'w', encoding='utf-8') as log_file:
         log_file.write("="*60 + "\n")
         log_file.write(f"TITLE: {reddit_title}\n")
         log_file.write(f"LINK: {link}\n")
+        log_file.write(f"SOURCE: {source}\n")
         log_file.write(f"COMMENT BODY:\n{comment_body}\n")
         log_file.write("="*60 + "\n\n")
 
         try:
-            # Submit the link post
             submission = subreddit.submit(title=reddit_title, url=link)
             print(f"Posted link post to Reddit: {reddit_title}")
-            # Immediately post the context as a comment
             submission.reply(comment_body)
             print(f"Posted context comment under: {reddit_title}")
             posted_urls.add(norm_link)
             posted_titles.add(norm_title)
             new_posts += 1
             time.sleep(10)
-            if new_posts >= 5:
-                break
         except Exception as e:
             print(f"Failed to post to Reddit: {e}")
             log_file.write(f"FAILED TO POST: {e}\n\n")
