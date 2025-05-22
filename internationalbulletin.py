@@ -11,24 +11,27 @@ import urllib.parse
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 import random
-
 import praw
+import langdetect
+import pycountry
+from dateutil import parser as dateparser
 
 # --- Logging Setup ---
-logging.basicConfig(filename='bot.log', level=logging.INFO, 
-                    format='%(asctime)s %(levelname)s %(message)s')
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler(sys.stdout)]
+)
+logger = logging.getLogger(__name__)
 
-# --- Reddit API Setup ---
-required_env_vars = [
-    'REDDIT_CLIENT_ID', 'REDDIT_CLIENT_SECRET', 
-    'REDDIT_USERNAME', 'REDDITPASSWORD'
-]
+# --- Environment Variable Check ---
+required_env_vars = ['REDDIT_CLIENT_ID', 'REDDIT_CLIENT_SECRET', 'REDDIT_USERNAME', 'REDDITPASSWORD']
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
-    logging.error(f"Missing required environment variables: {', '.join(missing_vars)}")
-    print(f"ERROR: Missing required environment variables: {', '.join(missing_vars)}")
+    logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
 
+# --- Reddit API Setup ---
 reddit = praw.Reddit(
     client_id=os.environ['REDDIT_CLIENT_ID'],
     client_secret=os.environ['REDDIT_CLIENT_SECRET'],
@@ -36,41 +39,40 @@ reddit = praw.Reddit(
     password=os.environ['REDDITPASSWORD'],
     user_agent='InternationalBulletinBot/1.0'
 )
-subreddit = reddit.subreddit('InternationalBulletin')
+subreddit = reddit.subreddit('InternationalBulletin')  # Replace with your subreddit
 
-# --- File Setup ---
-for fname in [
-    'bot.log', 'posted_records.txt', 'rejected_articles.txt',
-    'posted_urls.txt', 'posted_titles.txt', 'posted_content_hashes.txt'
-]:
-    with open(fname, 'a', encoding='utf-8'):
-        os.utime(fname, None)
+# --- Deduplication File Setup ---
+for fname in ['posted_urls.txt', 'posted_titles.txt', 'posted_content_hashes.txt']:
+    if not os.path.exists(fname):
+        with open(fname, 'w', encoding='utf-8'):
+            pass
 
-# --- RSS Feeds ---
+# --- RSS Feeds for International News ---
 feed_sources = {
     "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "Reuters World": "http://feeds.reuters.com/Reuters/worldNews",
     "CNN International": "http://rss.cnn.com/rss/edition_world.rss",
     "AP News": "https://www.apnews.com/hub/apnewsfeed",
-    "The Guardian": "https://www.theguardian.com/international/rss",
     "New York Times": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "Washington Post": "https://feeds.washingtonpost.com/rss/world",
     "Deutsche Welle": "https://rss.dw.com/rdf/rss/en/all",
     "France 24": "https://www.france24.com/en/rss"
 }
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
 # --- Deduplication Helpers ---
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
-    return parsed.scheme + "://" + parsed.netloc + parsed.path
+    return parsed.scheme + "://" + parsed.netloc + parsed.path.rstrip('/')
 
 def normalize_title(title):
-    return ' '.join(title.lower().split())
+    title = html.unescape(title)
+    title = re.sub(r'[^\w\s]', '', title)
+    title = re.sub(r'\s+', ' ', title).strip().lower()
+    return title
 
-def get_content_hash(title, summary):
-    content = title + summary
-    return hashlib.md5(content.encode('utf-8')).hexdigest()
+def get_content_hash(entry):
+    summary = html.unescape(getattr(entry, "summary", "")[:200])
+    return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
 def load_posted(fname):
     d = {}
@@ -78,15 +80,42 @@ def load_posted(fname):
         with open(fname, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
-                if not line: continue
-                parts = line.split('|')
-                if len(parts) != 2: continue
-                value, timestamp = parts
+                if not line or '|' not in line:
+                    continue
+                value, timestamp = line.split('|', 1)
                 try:
                     d[value] = datetime.fromisoformat(timestamp)
                 except Exception:
                     continue
     return d
+
+posted_urls = load_posted('posted_urls.txt')
+posted_titles = load_posted('posted_titles.txt')
+posted_content_hashes = load_posted('posted_content_hashes.txt')
+
+def is_duplicate(entry):
+    norm_link = normalize_url(entry.link)
+    norm_title = normalize_title(entry.title)
+    content_hash = get_content_hash(entry)
+    now = datetime.now(timezone.utc)
+    threshold = timedelta(days=7)
+    if norm_link in posted_urls and (now - posted_urls[norm_link]) < threshold:
+        return True, "Duplicate URL"
+    if norm_title in posted_titles and (now - posted_titles[norm_title]) < threshold:
+        return True, "Duplicate Title"
+    if content_hash in posted_content_hashes and (now - posted_content_hashes[content_hash]) < threshold:
+        return True, "Duplicate Content Hash"
+    return False, ""
+
+def add_to_dedup(entry):
+    norm_link = normalize_url(entry.link)
+    norm_title = normalize_title(entry.title)
+    content_hash = get_content_hash(entry)
+    now = datetime.now(timezone.utc)
+    posted_urls[norm_link] = now
+    posted_titles[norm_title] = now
+    posted_content_hashes[content_hash] = now
+    save_duplicates()
 
 def save_duplicates():
     for fname, container in [
@@ -99,177 +128,160 @@ def save_duplicates():
                 for key, timestamp in container.items():
                     f.write(f"{key}|{timestamp.isoformat()}\n")
         except Exception as e:
-            logging.error(f"Failed to save {fname}: {e}")
-
-posted_urls = load_posted('posted_urls.txt')
-posted_titles = load_posted('posted_titles.txt')
-posted_content_hashes = load_posted('posted_content_hashes.txt')
+            logger.error(f"Failed to save {fname}: {e}")
 
 # --- Article Quality Control ---
-BAD_PARAGRAPH_PATTERNS = [
-    r'error', r'need to view media', r'video only', r'see video', r'see image', r'watch above',
-    r'read more', r'continue reading', r'watch the video', r'click here', r'view gallery',
-    r'subscribe.*newsletter', r'follow us on', r'advertisement', r'sponsored content',
-    r'click to expand', r'load comments', r'sign up for', r'get the latest'
+unwanted_patterns = [
+    r"author", r"byline", r"written by", r"support us", r"subscribe", r"view in",
+    r"click here", r"read more", r"advertisement", r"sponsored",
+    r"http", r"www", r"\.com", r"@", r"^[A-Z\s]+$"
 ]
 
 def is_good_paragraph(text):
-    if not text or len(text) < 60:
+    if len(text) < 50:
         return False
-    for pat in BAD_PARAGRAPH_PATTERNS:
-        if re.search(pat, text, re.IGNORECASE):
+    text_lower = text.lower()
+    for pattern in unwanted_patterns:
+        if re.search(pattern, text_lower):
             return False
-    alpha_ratio = sum(c.isalpha() for c in text) / max(len(text), 1)
-    if alpha_ratio < 0.7:
-        return False
-    if '.' not in text:
-        return False
-    if re.search(r'(subscribe|follow us|our newsletter|copyright|terms of use)', text, re.IGNORECASE):
-        return False
     return True
 
-def get_first_good_paragraphs(paragraphs, count=3):
-    good = []
-    for p in paragraphs:
-        if is_good_paragraph(p):
-            good.append(p)
-        if len(good) == count:
-            break
-    return good
-
-def extract_first_three_paragraphs(url):
+def extract_first_paragraphs(url):
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         paragraphs = [p.get_text().strip() for p in soup.find_all('p') if p.get_text().strip()]
-        good_paragraphs = get_first_good_paragraphs(paragraphs, count=3)
-        return '\n\n'.join(good_paragraphs) if good_paragraphs else ""
+        good_paragraphs = []
+        for p in paragraphs:
+            if is_good_paragraph(p):
+                good_paragraphs.append(p)
+            if len(good_paragraphs) == 3:
+                break
+        return '\n\n'.join(good_paragraphs)
     except Exception as e:
-        logging.warning(f"Failed to extract paragraphs from {url}: {e}")
+        logger.warning(f"Failed to extract paragraphs from {url}: {e}")
         return ""
+
+# --- Language and Promotional Checks ---
+PROMOTIONAL_KEYWORDS = [
+    "giveaway", "win", "promotion", "contest", "advert", "sponsor",
+    "deal", "offer", "competition", "prize", "free", "discount"
+]
+
+def is_english(text):
+    try:
+        return langdetect.detect(text) == 'en'
+    except:
+        return False
 
 def is_promotional(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return any(kw in text for kw in [
-        "giveaway", "win", "promotion", "contest", "advert", "sponsor",
-        "deal", "offer", "competition", "prize", "free", "discount"
-    ])
+    return any(kw in text for kw in PROMOTIONAL_KEYWORDS)
 
-def is_recent(entry, cutoff):
-    pubdate = getattr(entry, 'published', getattr(entry, 'updated', None))
-    if not pubdate:
-        return True
-    try:
-        pubdate = datetime.strptime(pubdate, '%a, %d %b %Y %H:%M:%S %z')
-        return pubdate >= cutoff
-    except Exception:
-        return True
+# --- Relevance Scoring for International News ---
+countries = [c.name.lower() for c in pycountry.countries]
+international_orgs = [
+    "un", "united nations", "who", "world health organization",
+    "nato", "eu", "european union", "imf", "world bank",
+    "wto", "g7", "g20", "asean", "opec"
+]
+international_terms = [
+    "global", "worldwide", "international", "diplomacy",
+    "foreign policy", "trade agreement", "summit", "conference",
+    "bilateral", "multilateral", "treaty", "sanctions",
+    "embassy", "consulate", "visa", "passport"
+]
+
+def calculate_international_relevance_score(text):
+    text_lower = text.lower()
+    # Count unique countries
+    mentioned_countries = set(country for country in countries if country in text_lower)
+    num_countries = len(mentioned_countries)
+    country_score = num_countries + (3 if num_countries >= 2 else 0)  # Bonus for multiple countries
+    # Count international organizations
+    org_score = sum(1 for org in international_orgs if org in text_lower)
+    # Count general international terms
+    term_score = sum(1 for term in international_terms if term in text_lower)
+    return country_score + org_score + term_score
+
+# --- Helper Function ---
+def get_entry_published_datetime(entry):
+    for field in ['published', 'updated', 'created', 'date']:
+        if hasattr(entry, field):
+            try:
+                dt = dateparser.parse(getattr(entry, field))
+                if not dt.tzinfo:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except Exception:
+                continue
+    return None
 
 # --- Main Logic ---
-MAX_POSTS_PER_RUN = 5
-hours = 12
+MAX_POSTS_PER_RUN = 10
+HOURS_THRESHOLD = 12
 now_utc = datetime.now(timezone.utc)
-hours_ago = now_utc - timedelta(hours=hours)
+hours_ago = now_utc - timedelta(hours=HOURS_THRESHOLD)
 
-recent_entries = []
-for source, feed_url in feed_sources.items():
+candidates = []
+feed_sources_items = list(feed_sources.items())
+random.shuffle(feed_sources_items)
+
+for source, feed_url in feed_sources_items:
     try:
         feed = feedparser.parse(feed_url)
         if not feed.entries:
+            logger.warning(f"No entries found for {source}")
             continue
+        random.shuffle(feed.entries)
         for entry in feed.entries:
-            if is_recent(entry, hours_ago) and not is_promotional(entry):
-                recent_entries.append((source, entry))
+            pubdate = get_entry_published_datetime(entry)
+            if not pubdate or pubdate < hours_ago:
+                continue
+            summary = getattr(entry, "summary", "")
+            text_for_lang = summary if summary else entry.title
+            if not is_english(text_for_lang):
+                continue
+            if is_promotional(entry):
+                continue
+            is_dup, reason = is_duplicate(entry)
+            if is_dup:
+                continue
+            text = entry.title + " " + summary
+            relevance_score = calculate_international_relevance_score(text)
+            age_in_hours = (now_utc - pubdate).total_seconds() / 3600
+            total_score = relevance_score + (HOURS_THRESHOLD - age_in_hours)
+            candidates.append((source, entry, total_score))
+            logger.info(f"Candidate: {entry.title} | Score: {total_score:.2f}")
     except Exception as e:
-        logging.error(f"Failed to parse feed {feed_url}: {e}")
+        logger.error(f"Failed to parse feed {source}: {e}")
 
-if not recent_entries:
-    print("No recent articles found to post.")
+if not candidates:
+    logger.info("No candidates found.")
     sys.exit(0)
 
-random.shuffle(recent_entries)
-selected_entries = recent_entries[:MAX_POSTS_PER_RUN]
+# Sort by total score (relevance + recency) and select top 10
+candidates.sort(key=lambda x: x[2], reverse=True)
+selected_entries = candidates[:MAX_POSTS_PER_RUN]
+logger.info(f"Selected {len(selected_entries)} articles to post.")
 
-current_posts = []
-for source, entry in selected_entries:
+for source, entry, score in selected_entries:
     try:
-        norm_link = normalize_url(entry.link)
-        norm_title = normalize_title(entry.title)
-        summary = extract_first_three_paragraphs(entry.link)
-        if not summary:
-            summary = BeautifulSoup(getattr(entry, "summary", ""), 'html.parser').get_text()
-            if not is_good_paragraph(summary):
-                with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
-                    f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: bad fallback summary\n")
-                continue
-
-        first_para = summary.split('\n\n')[0] if summary else ""
-        if not is_good_paragraph(first_para):
-            with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
-                f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: bad first paragraph\n")
-            continue
-
-        # --- Classic Deduplication Only ---
-        content_hash = get_content_hash(entry.title, summary)
-        now = datetime.now(timezone.utc)
-        threshold = timedelta(days=7)
-        is_dup = False
-        for container, key in [
-            (posted_urls, norm_link),
-            (posted_titles, norm_title),
-            (posted_content_hashes, content_hash)
-        ]:
-            if key in container and (now - container[key]) < threshold:
-                is_dup = True
-                break
-        if is_dup:
-            with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
-                f.write(f"{datetime.now(timezone.utc)} | {source} | {entry.title} | {entry.link} | Reason: classic duplicate\n")
-            continue
-
-        # --- Post Title and Body ---
-        title = html.unescape(entry.title)
-        post_title = f"{title} | News"
-        body = f"{summary}\n\nRead more at the [source]({entry.link}) [{source}]"
-
-        # --- Post to Reddit ---
-        submission = subreddit.submit(post_title, selftext=body)
-        post_link = submission.shortlink
-
-        print(f"Posted: {post_title}")
-        print(f"Reddit Link: {post_link}")
-        print(f"Article URL: {entry.link}\n")
-
-        current_posts.append({'title': post_title, 'post_link': post_link, 'article_url': entry.link})
-
-        posted_urls[norm_link] = now
-        posted_titles[norm_title] = now
-        posted_content_hashes[content_hash] = now
-        save_duplicates()
-
-        timestamp = now.strftime('%Y-%m-%d %H:%M:%S')
-        with open('posted_records.txt', 'a', encoding='utf-8') as f:
-            f.write(f"{timestamp} | {source} | {post_title} | {post_link} | {entry.link}\n")
-
+        post_title = f"{html.unescape(entry.title)} | News"
+        submission = subreddit.submit(title=post_title, url=entry.link)
+        logger.info(f"Posted: {post_title} | Reddit Link: {submission.shortlink}")
+        paragraphs = extract_first_paragraphs(entry.link)
+        if paragraphs:
+            comment_text = "\n\n".join(f"> {line}" for line in paragraphs.split('\n\n'))
+            comment_text += f"\n\n[Read more]({entry.link})"
+        else:
+            comment_text = f"[Read more]({entry.link})"
+        submission.reply(comment_text)
+        logger.info(f"Commented on: {entry.title}")
+        add_to_dedup(entry)
         time.sleep(30)  # Respect Reddit rate limits
-
     except Exception as e:
-        logging.error(f"Error posting article from {source}: {entry.title} - {e}")
+        logger.error(f"Error posting article '{entry.title}': {e}")
 
-print("\n--- Posts Created in This Run ---")
-if current_posts:
-    for post in current_posts:
-        print(f"Title: {post['title']}")
-        print(f"Reddit Link: {post['post_link']}")
-        print(f"Article URL: {post['article_url']}\n")
-else:
-    print("No posts created in this run.")
-
-print("\n--- Historical Posted Records ---")
-if os.path.exists('posted_records.txt'):
-    with open('posted_records.txt', 'r', encoding='utf-8') as f:
-        for line in f:
-            print(line.strip())
-else:
-    print("No historical posted records found.")
+logger.info("Posting complete.")
