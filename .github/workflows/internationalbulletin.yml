@@ -1,4 +1,4 @@
-name: Reddit News Bot
+name: International News Bot
 
 on:
   workflow_dispatch:
