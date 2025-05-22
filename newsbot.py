@@ -27,7 +27,7 @@ required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
     'REDDIT_USERNAME',
-    'REDDITPASSWORD'
+    'REDDITPASSWORD'  # Reddit password environment variable
 ]
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
@@ -77,10 +77,7 @@ def get_content_hash(entry):
     return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
 def load_dedup(filename=DEDUP_FILE):
-    """
-    Load deduplication data from file into sets.
-    Handles cases where titles might contain '|' by reconstructing the title from parts.
-    """
+    """Load deduplication data from file into sets."""
     urls, titles, hashes = set(), set(), set()
     if os.path.exists(filename):
         with open(filename, 'r', encoding='utf-8') as f:
@@ -91,7 +88,7 @@ def load_dedup(filename=DEDUP_FILE):
                         timestamp = parts[0]
                         url = parts[1]
                         hash = parts[-1]
-                        title = '|'.join(parts[2:-1])  # Reconstruct title
+                        title = '|'.join(parts[2:-1])
                         urls.add(url)
                         titles.add(title)
                         hashes.add(hash)
@@ -116,15 +113,13 @@ def is_duplicate(entry):
     return False, ""
 
 def add_to_dedup(entry):
-    """Add an article to the deduplication file and in-memory sets by appending a new line."""
+    """Add an article to the deduplication file and in-memory sets."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
     content_hash = get_content_hash(entry)
-    # Append to the file
     with open(DEDUP_FILE, 'a', encoding='utf-8') as f:
         f.write(f"{datetime.now(timezone.utc).isoformat()}|{norm_link}|{norm_title}|{content_hash}\n")
-    # Update in-memory sets
     posted_urls.add(norm_link)
     posted_titles.add(norm_title)
     posted_hashes.add(content_hash)
@@ -144,7 +139,7 @@ def get_entry_published_datetime(entry):
     return None
 
 def extract_first_paragraphs(url):
-    """Extract the first three paragraphs from an article URL, or a snippet if that fails."""
+    """Extract the first three paragraphs from an article URL."""
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
         response.raise_for_status()
@@ -155,55 +150,66 @@ def extract_first_paragraphs(url):
         logger.error(f"Failed to fetch URL {url}: {e}")
         return f"(Could not extract article text: {e})"
 
-# --- Filter Keywords (Updated for 2025) ---
+# --- Filter Keywords ---
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "offer", "sponsor", "competition", "prize", "free",
     "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
 ]
 
-UK_RELEVANT_KEYWORDS = [
-    "uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland", "london",
-    "nhs", "parliament", "westminster", "downing street", "no 10", "no. 10", "whitehall",
-    "british", "labour", "conservative", "lib dem", "liberal democrat", "snp", "green party",
-    "kemi badenoch", "rachel reeves", "keir starmer", "ed davey", "john swinney", "carla denyer", "adrian ramsay",
-    "bbc", "itv", "sky news", "met police", "scotland yard", "mi5", "mi6",
-    "king charles", "queen camilla", "prince william", "princess kate", "prince george", "princess charlotte",
-    "ofgem", "bank of england", "inflation", "cost of living", "energy price cap"
-]
-
-CATEGORIES = {
-    "Breaking News": ["breaking", "urgent", "alert", "emergency"],
-    "Politics": [
-        "parliament", "election", "government", "policy", "prime minister", "chancellor", "cabinet",
-        "kemi badenoch", "keir starmer", "rachel reeves", "ed davey", "john swinney"
-    ],
-    "Crime & Legal": [
-        "murder", "arrest", "police", "trial", "court", "sentencing", "investigation", "scotland yard", "met police"
-    ],
-    "Sport": [
-        "football", "cricket", "rugby", "premier league", "wimbledon", "six nations", "fa cup", "england squad"
-    ],
-    "Royals": [
-        "king charles", "queen camilla", "prince william", "princess kate", "royal", "prince", "princess"
-    ]
+# Expanded UK-relevant keywords with weights
+UK_KEYWORDS = {
+    # High weight (3)
+    "london": 3, "parliament": 3, "westminster": 3, "downing street": 3, "buckingham palace": 3,
+    "nhs": 3, "bank of england": 3, "ofgem": 3, "bbc": 3, "itv": 3, "sky news": 3,
+    "manchester": 3, "birmingham": 3, "glasgow": 3, "edinburgh": 3, "cardiff": 3, "belfast": 3,
+    "premier league": 3, "wimbledon": 3, "glastonbury": 3,
+    # Medium weight (2)
+    "uk": 2, "britain": 2, "united kingdom": 2, "england": 2, "scotland": 2, "wales": 2, "northern ireland": 2,
+    "british": 2, "labour": 2, "conservative": 2, "lib dem": 2, "snp": 2, "green party": 2,
+    "king charles": 2, "queen camilla": 2, "prince william": 2, "princess kate": 2,
+    # Low weight (1)
+    "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1
 }
+
+# Negative keywords (indicative of non-UK content) with weights
+NEGATIVE_KEYWORDS = {
+    "washington dc": -2, "congress": -2, "senate": -2, "white house": -2,
+    "california": -2, "texas": -2, "new york": -2, "los angeles": -2, "chicago": -2,
+    "france": -1, "germany": -1, "china": -1, "russia": -1, "india": -1
+}
+
+def calculate_uk_relevance_score(text):
+    """Calculate a relevance score based on the presence of UK and negative keywords."""
+    score = 0
+    text_lower = text.lower()
+    for keyword, weight in UK_KEYWORDS.items():
+        if keyword in text_lower:
+            score += weight
+    for keyword, weight in NEGATIVE_KEYWORDS.items():
+        if keyword in text_lower:
+            score += weight  # weight is negative
+    return score
 
 def is_promotional(entry):
     """Check if an article is promotional based on keywords."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
-def is_uk_relevant(entry):
-    """Check if an article is UK-relevant based on keywords."""
+def is_uk_relevant(entry, threshold=3):
+    """Check if an article is UK-relevant based on the calculated score and print the score."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    return any(kw in combined for kw in UK_RELEVANT_KEYWORDS)
+    score = calculate_uk_relevance_score(combined)
+    # Print the relevance score for each article
+    print(f"Article: {html.unescape(entry.title)} | Relevance Score: {score}")
+    if score < threshold:
+        logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
+    return score >= threshold
 
 def get_category(entry):
-    """Determine the category of an article based on keywords."""
+    """Determine the category of an article based on keywords (simplified for this example)."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    for cat, kws in CATEGORIES.items():
-        if any(kw in text for kw in kws):
-            return cat
+    if "politics" in text or "parliament" in text:
+        return "Politics"
     return None
 
 FLAIR_MAPPING = {
@@ -216,7 +222,7 @@ FLAIR_MAPPING = {
 }
 
 def post_to_reddit(entry, category, retries=3, base_delay=40):
-    """Post an article to Reddit with flair and a comment containing the first few paragraphs."""
+    """Post an article to Reddit with flair and a comment."""
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
     try:
