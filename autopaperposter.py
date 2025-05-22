@@ -41,7 +41,7 @@ def post_to_reddit(entries, subreddit_name):
         client_id=os.environ['REDDIT_CLIENT_ID'],
         client_secret=os.environ['REDDIT_CLIENT_SECRET'],
         username=os.environ['REDDIT_USERNAME'],
-        password=os.environ['REDDIT_PASSWORD'],
+        password=os.environ['REDDITPASSWORD'],
         user_agent=os.environ.get('USER_AGENT', 'newspaper-bot/1.0'),
     )
     subreddit = reddit.subreddit(subreddit_name)
