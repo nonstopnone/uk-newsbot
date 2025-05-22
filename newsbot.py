@@ -163,9 +163,12 @@ UK_KEYWORDS = {
     "nhs": 3, "bank of england": 3, "ofgem": 3, "bbc": 3, "itv": 3, "sky news": 3,
     "manchester": 3, "birmingham": 3, "glasgow": 3, "edinburgh": 3, "cardiff": 3, "belfast": 3,
     "liverpool": 3, "leeds": 3, "bristol": 3, "newcastle": 3, "sheffield": 3, "nottingham": 3,
+    "leominster": 3, "herefordshire": 3, "shropshire": 3, "worcestershire": 3, "devon": 3, "cornwall": 3,
+    "norfolk": 3, "suffolk": 3, "kent": 3, "sussex": 3, "essex": 3, "yorkshire": 3, "cumbria": 3,
     "premier league": 3, "wimbledon": 3, "glastonbury": 3, "the ashes": 3, "royal ascot": 3,
     "house of commons": 3, "house of lords": 3, "met police": 3, "scotland yard": 3,
     "national trust": 3, "met office": 3, "british museum": 3, "tate modern": 3,
+    "level crossing": 3, "west midlands railway": 3, "network rail": 3,
     # Medium weight (2) - Generally UK-related but less specific
     "uk": 2, "britain": 2, "united kingdom": 2, "england": 2, "scotland": 2, "wales": 2, "northern ireland": 2,
     "british": 2, "labour": 2, "conservative": 2, "lib dem": 2, "snp": 2, "green party": 2,
@@ -173,7 +176,7 @@ UK_KEYWORDS = {
     "keir starmer": 2, "rachel reeves": 2, "kemi badenoch": 2, "ed davey": 2, "john swinney": 2,
     "angela rayner": 2, "nigel farage": 2, "carla denyer": 2, "adrian ramsay": 2,
     "brexit": 2, "pound sterling": 2, "great british": 2, "oxford": 2, "cambridge": 2,
-    "cornwall": 2, "yorkshire": 2, "devon": 2, "essex": 2, "kent": 2,
+    "village": 2, "county": 2, "borough": 2, "railway": 2,
     # Low weight (1) - Broad terms that may appear in UK context
     "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
     "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
@@ -196,7 +199,7 @@ NEGATIVE_KEYWORDS = {
 }
 
 def calculate_uk_relevance_score(text):
-    """Calculate a relevance score based on the presence of UK and negative keywords."""
+    """Calculate a relevance score with bonus for UK-like place names."""
     score = 0
     text_lower = text.lower()
     for keyword, weight in UK_KEYWORDS.items():
@@ -205,6 +208,9 @@ def calculate_uk_relevance_score(text):
     for keyword, weight in NEGATIVE_KEYWORDS.items():
         if keyword in text_lower:
             score += weight  # weight is negative
+    # Bonus for UK-like place names (e.g., ending in 'shire', 'ford', 'ton')
+    if re.search(r'\b\w+(shire|ford|ton|ham|bridge)\b', text_lower):
+        score += 2
     return score
 
 def is_promotional(entry):
@@ -216,7 +222,7 @@ def is_promotional(entry):
             return False
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
-def is_uk_relevant(entry, threshold=3):
+def is_uk_relevant(entry, threshold=2):
     """Check if an article is UK-relevant based on the calculated score and print the score."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     score = calculate_uk_relevance_score(combined)
