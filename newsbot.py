@@ -50,7 +50,7 @@ reddit = praw.Reddit(
 subreddit = reddit.subreddit('BreakingUKNews')
 
 # --- Deduplication ---
-DEDUP_FILE = 'posted_timestamps.txt'
+DEDUP_FILE = './posted_timestamps.txt'  # File stored in repository root
 
 def normalize_url(url):
     """Normalize a URL by removing trailing slashes from the path."""
@@ -152,7 +152,7 @@ def extract_first_paragraphs(url):
 
 # --- Filter Keywords ---
 PROMOTIONAL_KEYWORDS = [
-    "giveaway", "win", "offer", "sponsor", "competition", "prize", "free",
+    "giveaway", "win", "sponsor", "competition", "prize", "free",
     "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
 ]
 
@@ -208,8 +208,12 @@ def calculate_uk_relevance_score(text):
     return score
 
 def is_promotional(entry):
-    """Check if an article is promotional based on keywords."""
+    """Check if an article is promotional, allowing 'offer' in government/policy contexts."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    # Allow 'offer' if paired with government/policy-related terms
+    if "offer" in combined:
+        if any(kw in combined for kw in ["government", "nhs", "pay", "policy", "public sector"]):
+            return False
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
 def is_uk_relevant(entry, threshold=3):
@@ -223,7 +227,7 @@ def is_uk_relevant(entry, threshold=3):
     return score >= threshold
 
 def get_category(entry):
-    """Determine the category of an article based on keywords (simplified for this example)."""
+    """Determine the category of an article based on keywords."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     if "politics" in text or "parliament" in text:
         return "Politics"
@@ -280,7 +284,7 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
     return False
 
 def main():
-    """Main function to fetch RSS feeds, filter articles, and post to Reddit."""
+    """Main function to fetch RSS feeds, filter articles, and post at least 5 unique news stories."""
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
@@ -288,12 +292,14 @@ def main():
         "Telegraph": "https://www.telegraph.co.uk/rss.xml",
         "Times": "https://www.thetimes.co.uk/rss"
     }
-    all_entries = []
-    feed_items = list(feed_sources.items())
-    random.shuffle(feed_items)
+    # Collect articles by source
+    articles_by_source = {source: [] for source in feed_sources}
     now = datetime.now(timezone.utc)
     three_hours_ago = now - timedelta(hours=3)
 
+    # Fetch and filter articles from each source
+    feed_items = list(feed_sources.items())
+    random.shuffle(feed_items)
     for name, url in feed_items:
         try:
             feed = feedparser.parse(url)
@@ -309,28 +315,84 @@ def main():
                 if not is_uk_relevant(entry):
                     logger.info(f"Skipped non-UK article: {html.unescape(entry.title)}")
                     continue
-                all_entries.append((name, entry))
+                articles_by_source[name].append(entry)
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
 
-    random.shuffle(all_entries)
+    # Group articles by story (based on deduplication criteria)
+    story_groups = []
+    used_hashes = set()
+    for source in articles_by_source:
+        for entry in articles_by_source[source]:
+            is_dup, reason = is_duplicate(entry)
+            content_hash = get_content_hash(entry)
+            if is_dup and content_hash in used_hashes:
+                continue  # Skip articles already grouped
+            # Find all articles with the same story (same title or hash)
+            group = [(source, entry)]
+            for other_source in articles_by_source:
+                if other_source == source:
+                    continue
+                for other_entry in articles_by_source[other_source]:
+                    if other_entry == entry:
+                        continue
+                    other_hash = get_content_hash(other_entry)
+                    other_title = normalize_title(get_post_title(other_entry))
+                    entry_title = normalize_title(get_post_title(entry))
+                    if other_hash == content_hash or other_title == entry_title:
+                        group.append((other_source, other_entry))
+            if group:
+                story_groups.append(group)
+                used_hashes.add(content_hash)
 
+    # Randomize story groups and select one article per story
+    random.shuffle(story_groups)
     posts_made = 0
-    for source, entry in all_entries:
+    sources_used = set()
+    selected_articles = []
+
+    # First pass: Try to get one article from each source
+    for group in story_groups:
         if posts_made >= 5:
-            logger.info("Reached post limit of 5")
             break
-        is_dup, reason = is_duplicate(entry)
-        if is_dup:
-            logger.info(f"Skipped duplicate: {html.unescape(entry.title)} ({reason})")
-            continue
+        # Randomly select one article from the group
+        random.shuffle(group)
+        for source, entry in group:
+            if source not in sources_used:
+                is_dup, reason = is_duplicate(entry)
+                if not is_dup:
+                    selected_articles.append((source, entry))
+                    sources_used.add(source)
+                    posts_made += 1
+                    break
+
+    # Second pass: Fill remaining slots with any valid article
+    if posts_made < 5:
+        for group in story_groups:
+            if posts_made >= 5:
+                break
+            random.shuffle(group)
+            for source, entry in group:
+                is_dup, reason = is_duplicate(entry)
+                if not is_dup and (source, entry) not in selected_articles:
+                    selected_articles.append((source, entry))
+                    posts_made += 1
+                    break
+
+    # Post selected articles
+    for source, entry in selected_articles:
         category = get_category(entry)
         success = post_to_reddit(entry, category)
         if success:
-            posts_made += 1
+            logger.info(f"Posted from {source}: {html.unescape(entry.title)}")
             time.sleep(40)
-    if posts_made == 0:
-        logger.warning("No new valid articles found")
+        else:
+            posts_made -= 1  # Decrement if post fails
+
+    if posts_made < 5:
+        logger.warning(f"Could only post {posts_made} articles; not enough unique, valid news stories found")
+    else:
+        logger.info(f"Successfully posted {posts_made} articles")
 
 if __name__ == "__main__":
     main()
