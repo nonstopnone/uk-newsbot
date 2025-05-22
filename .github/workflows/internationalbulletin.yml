@@ -17,6 +17,9 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Generate requirements.txt
+        run: python create_requirements.py
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -34,8 +37,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add posted_urls.txt posted_titles.txt posted_content_hashes.txt
-          git commit -m "Update deduplication files" || echo "No changes to commit"
+          git add posted_urls.txt posted_titles.txt posted_content_hashes.txt requirements.txt
+          git commit -m "Update deduplication files and requirements.txt" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
