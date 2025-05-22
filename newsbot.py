@@ -179,15 +179,8 @@ UK_KEYWORDS = {
     "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
     "council tax": 1, "energy price cap": 1, "high street": 1, "pub": 1, "motorway": 1
 }
-    # Medium weight (2)
-    "uk": 2, "britain": 2, "united kingdom": 2, "england": 2, "scotland": 2, "wales": 2, "northern ireland": 2,
-    "british": 2, "labour": 2, "conservative": 2, "lib dem": 2, "snp": 2, "green party": 2,
-    "king charles": 2, "queen camilla": 2, "prince william": 2, "princess catherine": 2,
-    # Low weight (1)
-    "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1
-}
 
-# Negative keywords (indicative of non-UK content) with weights
+# Expanded negative keywords with weights
 NEGATIVE_KEYWORDS = {
     # High negative weight (-2) - Strongly indicative of non-UK context
     "washington dc": -2, "congress": -2, "senate": -2, "white house": -2, "capitol hill": -2,
@@ -200,7 +193,6 @@ NEGATIVE_KEYWORDS = {
     "australia": -1, "canada": -1, "japan": -1, "brazil": -1, "south africa": -1,
     "paris": -1, "berlin": -1, "tokyo": -1, "sydney": -1, "toronto": -1,
     "nato": -1, "united nations": -1, "european union": -1, "olympics": -1, "world cup": -1
-}
 }
 
 def calculate_uk_relevance_score(text):
