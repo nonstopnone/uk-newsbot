@@ -158,24 +158,49 @@ PROMOTIONAL_KEYWORDS = [
 
 # Expanded UK-relevant keywords with weights
 UK_KEYWORDS = {
-    # High weight (3)
+    # High weight (3) - Strongly indicative of UK context
     "london": 3, "parliament": 3, "westminster": 3, "downing street": 3, "buckingham palace": 3,
     "nhs": 3, "bank of england": 3, "ofgem": 3, "bbc": 3, "itv": 3, "sky news": 3,
     "manchester": 3, "birmingham": 3, "glasgow": 3, "edinburgh": 3, "cardiff": 3, "belfast": 3,
-    "premier league": 3, "wimbledon": 3, "glastonbury": 3,
-    # Medium weight (2)
+    "liverpool": 3, "leeds": 3, "bristol": 3, "newcastle": 3, "sheffield": 3, "nottingham": 3,
+    "premier league": 3, "wimbledon": 3, "glastonbury": 3, "the ashes": 3, "royal ascot": 3,
+    "house of commons": 3, "house of lords": 3, "met police": 3, "scotland yard": 3,
+    "national trust": 3, "met office": 3, "british museum": 3, "tate modern": 3,
+    # Medium weight (2) - Generally UK-related but less specific
     "uk": 2, "britain": 2, "united kingdom": 2, "england": 2, "scotland": 2, "wales": 2, "northern ireland": 2,
     "british": 2, "labour": 2, "conservative": 2, "lib dem": 2, "snp": 2, "green party": 2,
     "king charles": 2, "queen camilla": 2, "prince william": 2, "princess kate": 2,
+    "keir starmer": 2, "rachel reeves": 2, "kemi badenoch": 2, "ed davey": 2, "john swinney": 2,
+    "angela rayner": 2, "nigel farage": 2, "carla denyer": 2, "adrian ramsay": 2,
+    "brexit": 2, "pound sterling": 2, "great british": 2, "oxford": 2, "cambridge": 2,
+    "cornwall": 2, "yorkshire": 2, "devon": 2, "essex": 2, "kent": 2,
+    # Low weight (1) - Broad terms that may appear in UK context
+    "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
+    "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
+    "council tax": 1, "energy price cap": 1, "high street": 1, "pub": 1, "motorway": 1
+}
+    # Medium weight (2)
+    "uk": 2, "britain": 2, "united kingdom": 2, "england": 2, "scotland": 2, "wales": 2, "northern ireland": 2,
+    "british": 2, "labour": 2, "conservative": 2, "lib dem": 2, "snp": 2, "green party": 2,
+    "king charles": 2, "queen camilla": 2, "prince william": 2, "princess catherine": 2,
     # Low weight (1)
     "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1
 }
 
 # Negative keywords (indicative of non-UK content) with weights
 NEGATIVE_KEYWORDS = {
-    "washington dc": -2, "congress": -2, "senate": -2, "white house": -2,
+    # High negative weight (-2) - Strongly indicative of non-UK context
+    "washington dc": -2, "congress": -2, "senate": -2, "white house": -2, "capitol hill": -2,
     "california": -2, "texas": -2, "new york": -2, "los angeles": -2, "chicago": -2,
-    "france": -1, "germany": -1, "china": -1, "russia": -1, "india": -1
+    "florida": -2, "boston": -2, "miami": -2, "san francisco": -2, "seattle": -2,
+    "fbi": -2, "cia": -2, "pentagon": -2, "supreme court": -2, "biden": -2, "trump": -2,
+    "super bowl": -2, "nfl": -2, "nba": -2, "wall street": -2,
+    # Medium negative weight (-1) - General international terms
+    "france": -1, "germany": -1, "china": -1, "russia": -1, "india": -1,
+    "australia": -1, "canada": -1, "japan": -1, "brazil": -1, "south africa": -1,
+    "paris": -1, "berlin": -1, "tokyo": -1, "sydney": -1, "toronto": -1,
+    "nato": -1, "united nations": -1, "european union": -1, "olympics": -1, "world cup": -1
+}
 }
 
 def calculate_uk_relevance_score(text):
