@@ -290,15 +290,16 @@ for source, entry, score in selected_entries:
         country_name = get_country_name(entry)  # Extract country name or use fallback
         post_title = f"{html.unescape(entry.title)} | {country_name} News"
         submission = subreddit.submit(title=post_title, url=entry.link)
-        logger.info(f"Posted: {post_title} | Reddit Link: {submission.shortlink} | Article URL: {entry.link}")
+        logger.info(f"Posted Title Headline: {post_title}")
+        logger.info(f"Reddit Link: {submission.shortlink} | Article URL: {entry.link}")
         paragraphs = extract_first_paragraphs(entry.link)
         if paragraphs:
             comment_text = "\n\n".join(f"> {line}" for line in paragraphs.split('\n\n'))
-            comment_text += f"\n\n[Read more]({entry.link})"
+            submission.reply(comment_text)
+            logger.info(f"Posted Paragraph Text:\n{comment_text}")
+            logger.info(f"Commented first three paragraphs on: {entry.title}")
         else:
-            comment_text = f"[Read more]({entry.link})"
-        submission.reply(comment_text)
-        logger.info(f"Commented first three paragraphs on: {entry.title}")
+            logger.info(f"No paragraphs extracted for {entry.title}; skipping comment")
         add_to_dedup(entry)
         current_posts.append({'title': post_title, 'post_link': submission.shortlink, 'article_url': entry.link})
         time.sleep(30)  # Respect Reddit rate limits
