@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual triggering
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   run-bot:
     runs-on: ubuntu-latest
@@ -24,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser requests beautifulsoup4 praw
+          pip install feedparser requests beautifulsoup4 praw sentence_transformers torch
 
       # Run the bot script
       - name: Run International Bulletin Bot
@@ -36,6 +40,15 @@ jobs:
         run: |
           python internationalbulletin.py
         continue-on-error: true  # Proceed to upload artifacts even if script fails
+
+      # Commit and push deduplication files
+      - name: Commit and push deduplication files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add posted_urls.txt posted_titles.txt posted_content_hashes.txt posted_embeddings.pt || true
+          git commit -m "Update deduplication files" || true
+          git push || true
 
       # Upload logs and records as artifacts
       - name: Upload logs and records
