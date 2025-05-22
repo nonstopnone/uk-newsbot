@@ -62,6 +62,7 @@ PROMO_KEYWORDS = [
     "giveaway", "win", "promotion", "contest", "advert", "sponsor",
     "deal", "offer", "competition", "prize", "free", "discount"
 ]
+NON_PROMO_CONTEXT = ["government", "policy", "public sector", "pay", "agreement", "contract", "deal"]
 BREAKING_KEYWORDS = [
     "breaking", "urgent", "crisis", "disaster", "election", "summit",
     "conflict", "agreement", "protest", "attack", "emergency", "revolution"
@@ -84,7 +85,10 @@ TAGS = [
     "sri lanka", "sudan", "suriname", "sweden", "switzerland", "syria", "taiwan", "tajikistan", "tanzania", "thailand",
     "togo", "tonga", "trinidad", "tunisia", "turkey", "turkmenistan", "tuvalu", "uganda", "ukraine", "uae", "uk",
     "uruguay", "uzbekistan", "vanuatu", "venezuela", "vietnam", "yemen", "zambia", "zimbabwe",
-    "europe", "asia", "africa", "north america", "south america", "oceania", "middle east"
+    "europe", "asia", "africa", "north america", "south america", "oceania", "middle east",
+    "united nations", "world health organization", "nato", "eu", "asean",
+    "olympics", "world cup", "climate summit", "global economy", "international trade",
+    "human rights", "climate change", "pandemic", "global health", "international law"
 ]
 
 # --- Deduplication helpers ---
@@ -160,7 +164,9 @@ def add_embedding(new_text):
 # --- Article quality control ---
 BAD_PARAGRAPH_PATTERNS = [
     r'error', r'need to view media', r'video only', r'see video', r'see image', r'watch above',
-    r'read more', r'continue reading', r'watch the video', r'click here', r'view gallery'
+    r'read more', r'continue reading', r'watch the video', r'click here', r'view gallery',
+    r'subscribe.*newsletter', r'follow us on', r'advertisement', r'sponsored content',
+    r'click to expand', r'load comments', r'sign up for', r'get the latest'
 ]
 
 def is_good_paragraph(text):
@@ -208,6 +214,9 @@ def get_tag(text):
 
 def is_promotional(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    if "offer" in text:
+        if any(ctx in text for ctx in NON_PROMO_CONTEXT):
+            return False
     return any(kw in text for kw in PROMO_KEYWORDS)
 
 def breaking_score(entry):
@@ -266,7 +275,7 @@ for source, entry in selected_entries:
         norm_link = normalize_url(entry.link)
         norm_title = normalize_title(entry.title)
         summary = extract_first_three_paragraphs(entry.link)
-        if not summary:
+        if	    	    		                    		    summary:
             summary = BeautifulSoup(getattr(entry, "summary", ""), 'html.parser').get_text()
             if not is_good_paragraph(summary):
                 with open('rejected_articles.txt', 'a', encoding='utf-8') as f:
