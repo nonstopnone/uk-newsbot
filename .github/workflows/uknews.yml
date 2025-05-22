@@ -26,4 +26,4 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
-        run: python paste.txt
+        run: python newsbot.py
