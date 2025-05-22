@@ -4,17 +4,17 @@ name: Auto Paper Poster
 
 on:
   schedule:
-    # Runs daily at 23:00 UTC (00:00 BST)
-    - cron: '0 23 * * *'
-  workflow_dispatch: {}
+    - cron: '0 23 * * *'  # Run every day at 23:00 UTC
+  workflow_dispatch: {}   # Allow manual trigger from GitHub UI
 
 jobs:
   run-script:
+    name: Run Newspaper Poster
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main'  # Only run on main branch
 
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -22,17 +22,17 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install praw requests beautifulsoup4
 
-      - name: Run autopaperposter script
+      - name: Run autopaperposter.py
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDIT_PASSWORD: ${{ secrets.REDDITPASSWORD }}
+          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
           USER_AGENT: 'newspaper-bot/1.0'
           SUBREDDIT: ${{ secrets.SUBREDDIT }}
         run: |
