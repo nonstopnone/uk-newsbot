@@ -2,7 +2,7 @@ name: UK News Bot
 
 on:
   schedule:
-    - cron: '*/30,15,45,00 * * * *'  # Every 30 minutes
+    - cron: '*/05,10,15,20,25,30,35,40,45,50,55,00 * * * *'  # Every 30 minutes
   workflow_dispatch:
 
 # Prevent concurrent runs to avoid file conflicts
