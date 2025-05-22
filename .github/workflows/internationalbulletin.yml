@@ -1,34 +1,28 @@
 name: International News Bot
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # every 6 hours
+    - cron: '0 */2 * * *'  # Runs every 2 hours
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  post-news:
+  run-bot:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Download deduplication artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: deduplication-files
-        continue-on-error: true
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
-          pip install praw feedparser requests beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run Reddit News Bot
+      - name: Run bot script
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
@@ -36,11 +30,12 @@ jobs:
           REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
         run: python internationalbulletin.py
 
-      - name: Upload deduplication artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: deduplication-files
-          path: |
-            posted_urls.txt
-            posted_titles.txt
-            posted_content_hashes.txt
+      - name: Commit deduplication files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add posted_urls.txt posted_titles.txt posted_content_hashes.txt
+          git commit -m "Update deduplication files" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
