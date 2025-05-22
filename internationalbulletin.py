@@ -205,6 +205,14 @@ def calculate_international_relevance_score(text):
     term_score = sum(1 for term in international_terms if term in text_lower)
     return country_score + org_score + term_score
 
+# --- Helper Function to Extract Country Name ---
+def get_country_name(entry):
+    text = (entry.title + " " + getattr(entry, "summary", "")).lower()
+    for country in countries:
+        if country in text:
+            return country.title()  # Capitalize country name
+    return "International Bulletin"  # Fallback
+
 # --- Helper Function ---
 def get_entry_published_datetime(entry):
     for field in ['published', 'updated', 'created', 'date']:
@@ -279,7 +287,8 @@ current_posts = []
 for source, entry, score in selected_entries:
     try:
         logger.info(f"Processing article: {entry.title}")
-        post_title = f"{html.unescape(entry.title)} | News"
+        country_name = get_country_name(entry)  # Extract country name or use fallback
+        post_title = f"{html.unescape(entry.title)} | {country_name} News"
         submission = subreddit.submit(title=post_title, url=entry.link)
         logger.info(f"Posted: {post_title} | Reddit Link: {submission.shortlink} | Article URL: {entry.link}")
         paragraphs = extract_first_paragraphs(entry.link)
