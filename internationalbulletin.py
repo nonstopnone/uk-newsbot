@@ -39,7 +39,7 @@ reddit = praw.Reddit(
     password=os.environ['REDDITPASSWORD'],
     user_agent='InternationalBulletinBot/1.0'
 )
-subreddit = reddit.subreddit('InternationalBulletin')  # Replace with your subreddit
+subreddit = reddit.subreddit('InternationalBulletin')
 
 # --- Deduplication File Setup ---
 for fname in ['posted_urls.txt', 'posted_titles.txt', 'posted_content_hashes.txt']:
@@ -224,11 +224,13 @@ HOURS_THRESHOLD = 12
 now_utc = datetime.now(timezone.utc)
 hours_ago = now_utc - timedelta(hours=HOURS_THRESHOLD)
 
+logger.info("Starting international news posting process...")
 candidates = []
 feed_sources_items = list(feed_sources.items())
 random.shuffle(feed_sources_items)
 
 for source, feed_url in feed_sources_items:
+    logger.info(f"Fetching feed: {source} ({feed_url})")
     try:
         feed = feedparser.parse(feed_url)
         if not feed.entries:
@@ -238,22 +240,26 @@ for source, feed_url in feed_sources_items:
         for entry in feed.entries:
             pubdate = get_entry_published_datetime(entry)
             if not pubdate or pubdate < hours_ago:
+                logger.info(f"Skipping old article: {entry.title}")
                 continue
             summary = getattr(entry, "summary", "")
             text_for_lang = summary if summary else entry.title
             if not is_english(text_for_lang):
+                logger.info(f"Skipping non-English article: {entry.title}")
                 continue
             if is_promotional(entry):
+                logger.info(f"Skipping promotional article: {entry.title}")
                 continue
             is_dup, reason = is_duplicate(entry)
             if is_dup:
+                logger.info(f"Skipping duplicate article: {entry.title} ({reason})")
                 continue
             text = entry.title + " " + summary
             relevance_score = calculate_international_relevance_score(text)
             age_in_hours = (now_utc - pubdate).total_seconds() / 3600
             total_score = relevance_score + (HOURS_THRESHOLD - age_in_hours)
             candidates.append((source, entry, total_score))
-            logger.info(f"Candidate: {entry.title} | Score: {total_score:.2f}")
+            logger.info(f"Candidate: {entry.title} | Relevance Score: {relevance_score:.2f} | Age: {age_in_hours:.2f} hours | Total Score: {total_score:.2f}")
     except Exception as e:
         logger.error(f"Failed to parse feed {source}: {e}")
 
@@ -261,16 +267,21 @@ if not candidates:
     logger.info("No candidates found.")
     sys.exit(0)
 
+logger.info(f"Collected {len(candidates)} candidate articles.")
 # Sort by total score (relevance + recency) and select top 10
 candidates.sort(key=lambda x: x[2], reverse=True)
 selected_entries = candidates[:MAX_POSTS_PER_RUN]
-logger.info(f"Selected {len(selected_entries)} articles to post.")
+logger.info(f"Selected {len(selected_entries)} articles to post:")
+for i, (source, entry, score) in enumerate(selected_entries, 1):
+    logger.info(f"{i}. {entry.title} from {source} | Total Score: {score:.2f}")
 
+current_posts = []
 for source, entry, score in selected_entries:
     try:
+        logger.info(f"Processing article: {entry.title}")
         post_title = f"{html.unescape(entry.title)} | News"
         submission = subreddit.submit(title=post_title, url=entry.link)
-        logger.info(f"Posted: {post_title} | Reddit Link: {submission.shortlink}")
+        logger.info(f"Posted: {post_title} | Reddit Link: {submission.shortlink} | Article URL: {entry.link}")
         paragraphs = extract_first_paragraphs(entry.link)
         if paragraphs:
             comment_text = "\n\n".join(f"> {line}" for line in paragraphs.split('\n\n'))
@@ -278,10 +289,29 @@ for source, entry, score in selected_entries:
         else:
             comment_text = f"[Read more]({entry.link})"
         submission.reply(comment_text)
-        logger.info(f"Commented on: {entry.title}")
+        logger.info(f"Commented first three paragraphs on: {entry.title}")
         add_to_dedup(entry)
+        current_posts.append({'title': post_title, 'post_link': submission.shortlink, 'article_url': entry.link})
         time.sleep(30)  # Respect Reddit rate limits
     except Exception as e:
         logger.error(f"Error posting article '{entry.title}': {e}")
 
-logger.info("Posting complete.")
+logger.info("\n--- Posts Created in This Run ---")
+if current_posts:
+    for post in current_posts:
+        logger.info(f"Title: {post['title']}")
+        logger.info(f"Reddit Link: {post['post_link']}")
+        logger.info(f"Article URL: {post['article_url']}")
+else:
+    logger.info("No posts created in this run.")
+
+logger.info("\n--- Historical Posted Records ---")
+if os.path.exists('posted_urls.txt'):
+    with open('posted_urls.txt', 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.strip():
+                logger.info(line.strip())
+else:
+    logger.info("No historical posted records found.")
+
+logger.info("Posting process complete.")
