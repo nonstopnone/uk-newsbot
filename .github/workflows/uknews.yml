@@ -2,7 +2,7 @@ name: UK News Bot
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
+    - cron: '*/30,15,45,00  * * * *'  # Every 30 minutes
   workflow_dispatch:
 
 jobs:
