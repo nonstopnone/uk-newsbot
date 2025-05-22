@@ -1,0 +1,7 @@
+feedparser
+requests
+beautifulsoup4
+praw
+python-dateutil
+langdetect
+pycountry
