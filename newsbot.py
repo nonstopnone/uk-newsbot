@@ -22,7 +22,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# --- Environment variable check ---
+# --- Environment Variable Check ---
 required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
@@ -34,7 +34,7 @@ if missing_vars:
     logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
 
-# --- Reddit API credentials ---
+# --- Reddit API Credentials ---
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
@@ -53,47 +53,56 @@ subreddit = reddit.subreddit('BreakingUKNews')
 DEDUP_FILE = 'posted_timestamps.txt'
 
 def normalize_url(url):
+    """Normalize a URL by removing trailing slashes from the path."""
     parsed = urllib.parse.urlparse(url)
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
 
 def normalize_title(title):
+    """Normalize a title by removing punctuation (except £$€), collapsing spaces, and lowercasing."""
     title = html.unescape(title)
     title = re.sub(r'[^\w\s£$€]', '', title)
     title = re.sub(r'\s+', ' ', title).strip().lower()
     return title
 
 def get_post_title(entry):
+    """Generate a standardized post title, appending ' | UK News' if not present."""
     base_title = html.unescape(entry.title).strip()
     if not base_title.endswith("| UK News"):
         return f"{base_title} | UK News"
     return base_title
 
 def get_content_hash(entry):
+    """Compute an MD5 hash of the first 200 characters of the article summary."""
     summary = html.unescape(getattr(entry, "summary", "")[:200])
     return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
 def load_dedup(filename=DEDUP_FILE):
+    """
+    Load deduplication data from file into sets.
+    Handles cases where titles might contain '|' by reconstructing the title from parts.
+    """
     urls, titles, hashes = set(), set(), set()
     if os.path.exists(filename):
         with open(filename, 'r', encoding='utf-8') as f:
             for line in f:
                 if line.strip():
                     parts = line.strip().split('|')
-                    if len(parts) == 4:
-                        _, url, title, content_hash = parts
+                    if len(parts) >= 4:
+                        timestamp = parts[0]
+                        url = parts[1]
+                        hash = parts[-1]
+                        title = '|'.join(parts[2:-1])  # Reconstruct title
                         urls.add(url)
                         titles.add(title)
-                        hashes.add(content_hash)
+                        hashes.add(hash)
+    logger.info(f"Loaded {len(urls)} unique entries from deduplication file")
     return urls, titles, hashes
 
-def save_dedup(urls, titles, hashes, filename=DEDUP_FILE):
-    with open(filename, 'w', encoding='utf-8') as f:
-        for url, title, ch in zip(urls, titles, hashes):
-            f.write(f"{datetime.now(timezone.utc).isoformat()}|{url}|{title}|{ch}\n")
-
+# Initialize global deduplication sets
 posted_urls, posted_titles, posted_hashes = load_dedup()
 
 def is_duplicate(entry):
+    """Check if an article is a duplicate based on URL, title, or content hash."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
@@ -107,17 +116,22 @@ def is_duplicate(entry):
     return False, ""
 
 def add_to_dedup(entry):
+    """Add an article to the deduplication file and in-memory sets by appending a new line."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
     content_hash = get_content_hash(entry)
+    # Append to the file
+    with open(DEDUP_FILE, 'a', encoding='utf-8') as f:
+        f.write(f"{datetime.now(timezone.utc).isoformat()}|{norm_link}|{norm_title}|{content_hash}\n")
+    # Update in-memory sets
     posted_urls.add(norm_link)
     posted_titles.add(norm_title)
     posted_hashes.add(content_hash)
-    save_dedup(posted_urls, posted_titles, posted_hashes)
+    logger.info(f"Added to deduplication: {norm_title}")
 
 def get_entry_published_datetime(entry):
-    # Try common RSS date fields
+    """Extract the publication datetime from an RSS entry, defaulting to UTC if no timezone."""
     for field in ['published', 'updated', 'created', 'date']:
         if hasattr(entry, field):
             try:
@@ -130,6 +144,7 @@ def get_entry_published_datetime(entry):
     return None
 
 def extract_first_paragraphs(url):
+    """Extract the first three paragraphs from an article URL, or a snippet if that fails."""
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
         response.raise_for_status()
@@ -140,7 +155,7 @@ def extract_first_paragraphs(url):
         logger.error(f"Failed to fetch URL {url}: {e}")
         return f"(Could not extract article text: {e})"
 
-# --- Updated filter words (2025) ---
+# --- Filter Keywords (Updated for 2025) ---
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "offer", "sponsor", "competition", "prize", "free",
     "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
@@ -174,14 +189,17 @@ CATEGORIES = {
 }
 
 def is_promotional(entry):
+    """Check if an article is promotional based on keywords."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
 def is_uk_relevant(entry):
+    """Check if an article is UK-relevant based on keywords."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in UK_RELEVANT_KEYWORDS)
 
 def get_category(entry):
+    """Determine the category of an article based on keywords."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     for cat, kws in CATEGORIES.items():
         if any(kw in text for kw in kws):
@@ -198,6 +216,7 @@ FLAIR_MAPPING = {
 }
 
 def post_to_reddit(entry, category, retries=3, base_delay=40):
+    """Post an article to Reddit with flair and a comment containing the first few paragraphs."""
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
     try:
@@ -238,6 +257,7 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
     return False
 
 def main():
+    """Main function to fetch RSS feeds, filter articles, and post to Reddit."""
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
