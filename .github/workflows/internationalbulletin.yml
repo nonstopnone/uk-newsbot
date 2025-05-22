@@ -34,7 +34,7 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
-        run: python reddit_news_bot.py
+        run: python internationalbulletin.py
 
       - name: Upload deduplication artifacts
         uses: actions/upload-artifact@v4
