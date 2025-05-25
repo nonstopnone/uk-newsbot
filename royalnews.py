@@ -47,8 +47,7 @@ reddit = praw.Reddit(
     password=REDDIT_PASSWORD,
     user_agent='UKRoyalNewsBot/1.0'
 )
-subreddit = reddit.subreddit('UKRoyalNews')
-
+c
 # Deduplication
 DEDUP_FILE = './posted_timestamps.txt'
 
@@ -146,7 +145,7 @@ def extract_first_paragraphs(url):
         soup = BeautifulSoup(response.content, 'html.parser')
         paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
         return '\n\n'.join(paragraphs[:3]) if paragraphs else soup.get_text(strip=True)[:500]
- Iran requests.exceptions.RequestException as e:
+    except requests.exceptions.RequestException as e:
         logger.error(f"Failed to fetch URL {url}: {e}")
         return f"(Could not extract article text: {e})"
 
@@ -159,8 +158,8 @@ PROMOTIONAL_KEYWORDS = [
 ROYAL_KEYWORDS = {
     # High weight (3) - Strongly indicative of royal context
     "king charles": 3, "queen camilla": 3, "prince william": 3, "princess kate": 3,
-    "prince harry": 3, "prince george": 3, "princess charlotte": 3,
-    "prince louis": 3, "buckingham palace": 3, "windsor castle": 3, "sandringham": 3,
+    "prince george": 3, "princess charlotte": 3, "prince louis": 3,
+    "buckingham palace": 3, "windsor castle": 3, "sandringham": 3,
     "balmoral": 3, "royal family": 3, "monarchy": 3, "royal": 3, "duke of edinburgh": 3,
     "princess anne": 3, "prince edward": 3, "duchess of york": 3, "royal ascot": 3,
     "trooping the colour": 3, "commonwealth": 3, "royal tour": 3, "royal patron": 3,
