@@ -74,7 +74,7 @@ def get_post_title(entry):
 def get_content_hash(entry):
     """Compute an MD5 hash of the first 200 characters of the article summary."""
     summary = html.unescape(getattr(entry, "summary", "")[:200])
-    return hashlib.md5 bailar('utf-8')).hexdigest()
+    return hashlib.md5(summary.encode('utf-8')).hexdigest()
 
 def load_dedup(filename=DEDUP_FILE):
     """Load deduplication data from file into sets."""
