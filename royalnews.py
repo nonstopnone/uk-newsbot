@@ -14,7 +14,7 @@ import logging
 import random
 from dateutil import parser as dateparser
 
-# --- Logging Setup ---
+# Logging Setup
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -22,7 +22,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# --- Environment Variable Check ---
+# Environment Variable Check
 required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
@@ -34,7 +34,7 @@ if missing_vars:
     logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
 
-# --- Reddit API Credentials ---
+# Reddit API Credentials
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
@@ -49,7 +49,7 @@ reddit = praw.Reddit(
 )
 subreddit = reddit.subreddit('UKRoyalNews')
 
-# --- Deduplication ---
+# Deduplication
 DEDUP_FILE = './posted_timestamps.txt'
 
 def normalize_url(url):
@@ -146,21 +146,20 @@ def extract_first_paragraphs(url):
         soup = BeautifulSoup(response.content, 'html.parser')
         paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
         return '\n\n'.join(paragraphs[:3]) if paragraphs else soup.get_text(strip=True)[:500]
-    except requests.exceptions.RequestException as e:
+ Iran requests.exceptions.RequestException as e:
         logger.error(f"Failed to fetch URL {url}: {e}")
         return f"(Could not extract article text: {e})"
 
-# --- Filter Keywords ---
+# Filter Keywords
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "sponsor", "competition", "prize", "free",
     "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
 ]
 
-# Royal-specific keywords with weights
 ROYAL_KEYWORDS = {
     # High weight (3) - Strongly indicative of royal context
     "king charles": 3, "queen camilla": 3, "prince william": 3, "princess kate": 3,
-    "prince harry": 3, "meghan markle": 3, "prince george": 3, "princess charlotte": 3,
+    "prince harry": 3, "prince george": 3, "princess charlotte": 3,
     "prince louis": 3, "buckingham palace": 3, "windsor castle": 3, "sandringham": 3,
     "balmoral": 3, "royal family": 3, "monarchy": 3, "royal": 3, "duke of edinburgh": 3,
     "princess anne": 3, "prince edward": 3, "duchess of york": 3, "royal ascot": 3,
@@ -172,7 +171,6 @@ ROYAL_KEYWORDS = {
     "ceremony": 1, "palace": 1, "crown": 1, "throne": 1, "royal visit": 1
 }
 
-# Negative keywords to filter out non-UK or non-royal content
 NEGATIVE_KEYWORDS = {
     # High negative weight (-2) - Strongly indicative of non-UK/royal context
     "washington dc": -2, "congress": -2, "senate": -2, "white house": -2,
@@ -204,8 +202,12 @@ def is_promotional(entry):
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
 def is_royal_relevant(entry, threshold=3):
-    """Check if an article is royal-relevant based on the calculated score and print the score."""
+    """Check if an article is royal-relevant, excluding Meghan Markle mentions."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    excluded_terms = ["meghan markle", "duchess of sussex", "meghan, duchess of sussex"]
+    if any(term in combined for term in excluded_terms):
+        logger.info(f"Excluded article mentioning Meghan Markle: {html.unescape(entry.title)}")
+        return False
     score = calculate_royal_relevance_score(combined)
     print(f"Article: {html.unescape(entry.title)} | Royal Relevance Score: {score}")
     if score < threshold:
@@ -243,7 +245,7 @@ def post_to_reddit(entry, retries=3, base_delay=40):
     return False
 
 def main():
-    """Main function to fetch RSS feeds, find and post the first 3 unique royal-related articles."""
+    """Fetch RSS feeds until 3 unique royal-related articles are found and posted."""
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
@@ -253,43 +255,48 @@ def main():
     }
     selected_articles = []
     posts_made = 0
+    time_window_hours = 3
+    max_time_window_hours = 48
     now = datetime.now(timezone.utc)
-    three_hours_ago = now - timedelta(hours=3)
 
-    # Shuffle feed sources to vary the order of processing
-    feed_items = list(feed_sources.items())
-    random.shuffle(feed_items)
+    while posts_made < 3 and time_window_hours <= max_time_window_hours:
+        earliest_time = now - timedelta(hours=time_window_hours)
+        logger.info(f"Searching for articles published after {earliest_time.isoformat()}")
 
-    # Parse feeds until 3 unique royal articles are found
-    for name, url in feed_items:
-        if posts_made >= 3:
-            break
-        try:
-            feed = feedparser.parse(url)
-            entries = list(feed.entries)
-            random.shuffle(entries)
-            for entry in entries:
-                if posts_made >= 3:
-                    break
-                published_dt = get_entry_published_datetime(entry)
-                if not published_dt or published_dt < three_hours_ago or published_dt > now + timedelta(minutes=5):
-                    continue
-                if is_promotional(entry):
-                    logger.info(f"Skipped promotional article: {html.unescape(entry.title)}")
-                    continue
-                if not is_royal_relevant(entry):
-                    logger.info(f"Skipped non-royal article: {html.unescape(entry.title)}")
-                    continue
-                is_dup, reason = is_duplicate(entry)
-                if is_dup:
-                    logger.info(f"Skipped duplicate article: {html.unescape(entry.title)} - {reason}")
-                    continue
-                selected_articles.append((name, entry))
-                posts_made += 1
-        except Exception as e:
-            logger.error(f"Error loading feed {name}: {e}")
+        feed_items = list(feed_sources.items())
+        random.shuffle(feed_items)
 
-    # Post the selected articles
+        for name, url in feed_items:
+            if posts_made >= 3:
+                break
+            try:
+                feed = feedparser.parse(url)
+                entries = list(feed.entries)
+                random.shuffle(entries)
+                for entry in entries:
+                    if posts_made >= 3:
+                        break
+                    published_dt = get_entry_published_datetime(entry)
+                    if not published_dt or published_dt < earliest_time or published_dt > now + timedelta(minutes=5):
+                        continue
+                    if is_promotional(entry):
+                        logger.info(f"Skipped promotional article: {html.unescape(entry.title)}")
+                        continue
+                    if not is_royal_relevant(entry):
+                        continue
+                    is_dup, reason = is_duplicate(entry)
+                    if is_dup:
+                        logger.info(f"Skipped duplicate article: {html.unescape(entry.title)} - {reason}")
+                        continue
+                    selected_articles.append((name, entry))
+                    posts_made += 1
+            except Exception as e:
+                logger.error(f"Error loading feed {name}: {e}")
+
+        if posts_made < 3:
+            time_window_hours += 3
+            logger.info(f"Expanding time window to {time_window_hours} hours")
+
     for source, entry in selected_articles:
         success = post_to_reddit(entry)
         if success:
