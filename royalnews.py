@@ -27,7 +27,7 @@ required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
     'REDDIT_USERNAME',
-    'REDDIT_PASSWORD'
+    'REDDITPASSWORD'
 ]
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
@@ -38,7 +38,7 @@ if missing_vars:
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-REDDIT_PASSWORD = os.environ['REDDIT_PASSWORD']
+REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
 
 reddit = praw.Reddit(
     client_id=REDDIT_CLIENT_ID,
