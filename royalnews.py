@@ -243,7 +243,7 @@ def post_to_reddit(entry, retries=3, base_delay=40):
     return False
 
 def main():
-    """Main function to fetch RSS feeds, filter royal-related articles, and post at least 3 unique stories."""
+    """Main function to fetch RSS feeds, find and post the first 3 unique royal-related articles."""
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
@@ -251,19 +251,26 @@ def main():
         "Telegraph": "https://www.telegraph.co.uk/rss.xml",
         "Times": "https://www.thetimes.co.uk/rss"
     }
-    articles_by_source = {source: [] for source in feed_sources}
+    selected_articles = []
+    posts_made = 0
     now = datetime.now(timezone.utc)
     three_hours_ago = now - timedelta(hours=3)
 
-    # Fetch and filter articles from each source
+    # Shuffle feed sources to vary the order of processing
     feed_items = list(feed_sources.items())
     random.shuffle(feed_items)
+
+    # Parse feeds until 3 unique royal articles are found
     for name, url in feed_items:
+        if posts_made >= 3:
+            break
         try:
             feed = feedparser.parse(url)
             entries = list(feed.entries)
             random.shuffle(entries)
             for entry in entries:
+                if posts_made >= 3:
+                    break
                 published_dt = get_entry_published_datetime(entry)
                 if not published_dt or published_dt < three_hours_ago or published_dt > now + timedelta(minutes=5):
                     continue
@@ -273,69 +280,16 @@ def main():
                 if not is_royal_relevant(entry):
                     logger.info(f"Skipped non-royal article: {html.unescape(entry.title)}")
                     continue
-                articles_by_source[name].append(entry)
+                is_dup, reason = is_duplicate(entry)
+                if is_dup:
+                    logger.info(f"Skipped duplicate article: {html.unescape(entry.title)} - {reason}")
+                    continue
+                selected_articles.append((name, entry))
+                posts_made += 1
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
 
-    # Group articles by story
-    story_groups = []
-    used_hashes = set()
-    for source in articles_by_source:
-        for entry in articles_by_source[source]:
-            is_dup, reason = is_duplicate(entry)
-            content_hash = get_content_hash(entry)
-            if is_dup and content_hash in used_hashes:
-                continue
-            group = [(source, entry)]
-            for other_source in articles_by_source:
-                if other_source == source:
-                    continue
-                for other_entry in articles_by_source[other_source]:
-                    if other_entry == entry:
-                        continue
-                    other_hash = get_content_hash(other_entry)
-                    other_title = normalize_title(get_post_title(other_entry))
-                    entry_title = normalize_title(get_post_title(entry))
-                    if other_hash == content_hash or other_title == entry_title:
-                        group.append((other_source, other_entry))
-            if group:
-                story_groups.append(group)
-                used_hashes.add(content_hash)
-
-    # Randomize story groups and select one article per story
-    random.shuffle(story_groups)
-    posts_made = 0
-    sources_used = set()
-    selected_articles = []
-
-    # First pass: Try to get one article from each source
-    for group in story_groups:
-        if posts_made >= 3:
-            break
-        random.shuffle(group)
-        for source, entry in group:
-            if source not in sources_used:
-                is_dup, reason = is_duplicate(entry)
-                if not is_dup:
-                    selected_articles.append((source, entry))
-                    sources_used.add(source)
-                    posts_made += 1
-                    break
-
-    # Second pass: Fill remaining slots
-    if posts_made < 3:
-        for group in story_groups:
-            if posts_made >= 3:
-                break
-            random.shuffle(group)
-            for source, entry in group:
-                is_dup, reason = is_duplicate(entry)
-                if not is_dup and (source, entry) not in selected_articles:
-                    selected_articles.append((source, entry))
-                    posts_made += 1
-                    break
-
-    # Post selected articles
+    # Post the selected articles
     for source, entry in selected_articles:
         success = post_to_reddit(entry)
         if success:
@@ -343,6 +297,7 @@ def main():
             time.sleep(40)
         else:
             posts_made -= 1
+            logger.error(f"Failed to post article from {source}: {html.unescape(entry.title)}")
 
     if posts_made < 3:
         logger.warning(f"Could only post {posts_made} articles; not enough unique, royal-related stories found")
