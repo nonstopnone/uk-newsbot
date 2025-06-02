@@ -239,3 +239,4 @@
 2025-06-01T21:41:36.859493+00:00|https://www.bbc.com/news/articles/c4g2jr1m49no|uk to build up to 12 new attack submarines uk news|503c84b59b5dd3558d6a428ec6e4bd4b
 2025-06-01T22:38:38.015887+00:00|https://news.sky.com/story/strategic-defence-review-uk-gears-up-to-combat-russian-threat-but-questions-remain-about-funding-for-new-spending-13377981|uk gears up to combat russian threat but questions remain about funding for new spending uk news|2aaf5facb44d365d92d1cd744f2bc713
 2025-06-01T23:59:59.099277+00:00|https://www.bbc.com/news/articles/c0r1j74015qo|the papers uk sends warning to putin and wish you were beer uk news|3bb613d784670c394f05a86f866dd9a3
+2025-06-02T04:52:55.225132+00:00|https://news.sky.com/story/essex-boys-triple-killer-michael-steele-released-from-prison-after-27-years-13378010|triple killer behind notorious essex gangland hit released after 27 years uk news|2612f52795f88241cc6b466f343cef0e
