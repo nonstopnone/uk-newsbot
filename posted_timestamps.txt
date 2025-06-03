@@ -275,3 +275,4 @@
 2025-06-03T18:54:51.653367+00:00|https://www.bbc.com/news/articles/cewd7j159gzo|police nothing to suggest spanish murders linked to gang feud uk news|bcbffcbd721752be7e9ed97c5c82b49f
 2025-06-03T19:25:32.672899+00:00|https://www.telegraph.co.uk/business/2025/06/03/trump-tariffs-china-factories-us-ftse-100-markets-latest|uk steel makers face 50pc tariffs in trade standoff uk news|30172cdc9e2d7615ba32e973eb9178e9
 2025-06-03T19:26:13.598318+00:00|https://news.sky.com/story/keir-starmer-has-some-massive-decisions-to-make-and-may-not-have-long-to-make-them-13378780|keir starmer has some big decisions to make and may not have long to make them uk news|cb54c361e2cc1bcbae69d6a1c071cc7e
+2025-06-03T19:39:43.472883+00:00|https://news.sky.com/story/no-intelligence-to-suggest-double-shooting-in-spain-is-linked-to-gang-feud-in-scotland-13378769|no intelligence to suggest double shooting in spain is linked to gang feud uk news|481ea46e36e83665dd35d29c203aab5b
