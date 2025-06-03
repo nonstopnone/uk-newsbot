@@ -267,3 +267,5 @@
 2025-06-03T13:45:22.852375+00:00|https://www.bbc.com/weather/articles/cj42022gqkgo|thunderstorms and heavy rain mark end of recordbreaking uk spring uk news|397361f46770b1df9157136c7aa82699
 2025-06-03T14:49:21.304693+00:00|https://www.telegraph.co.uk/recommended/tech/best-broadband|the best broadband providers in the uk recommended by telegraph readers uk news|5686388241bd08898faa4047801e6e87
 2025-06-03T16:54:07.568084+00:00|https://www.bbc.com/news/articles/cjwq8281173o|murder investigation launched after death of woman in north belfast uk news|c082b5ff83adfec0b353997ed57b47d6
+2025-06-03T17:39:15.799304+00:00|https://www.bbc.com/news/videos/cewd74xv1neo|bbc reports from scene of gangland shooting at spanish bar uk news|fe63895e72cf254f7b0aad4d837f312b
+2025-06-03T17:39:56.680041+00:00|https://news.sky.com/story/boy-4-dies-after-crash-in-dartford-as-two-men-arrested-13378693|boy 4 dies after crash uk news|ab827b7916d64c58b568e8d1cf96362d
