@@ -269,3 +269,7 @@
 2025-06-03T16:54:07.568084+00:00|https://www.bbc.com/news/articles/cjwq8281173o|murder investigation launched after death of woman in north belfast uk news|c082b5ff83adfec0b353997ed57b47d6
 2025-06-03T17:39:15.799304+00:00|https://www.bbc.com/news/videos/cewd74xv1neo|bbc reports from scene of gangland shooting at spanish bar uk news|fe63895e72cf254f7b0aad4d837f312b
 2025-06-03T17:39:56.680041+00:00|https://news.sky.com/story/boy-4-dies-after-crash-in-dartford-as-two-men-arrested-13378693|boy 4 dies after crash uk news|ab827b7916d64c58b568e8d1cf96362d
+2025-06-03T18:52:49.652968+00:00|https://news.sky.com/story/four-people-injured-in-liverpool-parade-named-13378753|four people injured in liverpool parade named uk news|5c6bc4d0078ed4d3efef96be24e74e92
+2025-06-03T18:53:30.331085+00:00|https://www.bbc.com/news/articles/c4ge87g2lngo|mi5 lied deliberately and repeatedly in neonazi spy case bbc tells high court uk news|22f080654c6a0872b178fcbbfb5dee1a
+2025-06-03T18:54:11.057257+00:00|https://news.sky.com/story/met-police-commander-julian-bennett-sacked-for-second-time-after-refusing-drugs-test-13378755|met police commander who refused drugs test sacked for second time uk news|e786ffff92d2ed3e61e7e275e46e90b6
+2025-06-03T18:54:51.653367+00:00|https://www.bbc.com/news/articles/cewd7j159gzo|police nothing to suggest spanish murders linked to gang feud uk news|bcbffcbd721752be7e9ed97c5c82b49f
