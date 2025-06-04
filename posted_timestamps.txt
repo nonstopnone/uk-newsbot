@@ -291,3 +291,5 @@
 2025-06-04T06:54:59.262165+00:00|https://www.bbc.com/news/articles/c70nd977kdko|i was birminghams most prolific shoplifter uk news|afb14ba41f19824ada9efd2123408227
 2025-06-04T08:52:45.406115+00:00|https://www.bbc.com/news/articles/cewd79ey270o|meghan shares new photos of lilibet to mark fourth birthday uk news|a7000cfc4028f470792e950f70fa4b29
 2025-06-04T09:58:48.011739+00:00|https://news.sky.com/story/two-men-charged-with-murder-after-boy-4-died-in-crash-involving-two-trucks-in-dartford-13378987|two men charged with murder after boy 4 died in crash involving two trucks uk news|43979bda20c066a52b48f88ec07b352d
+2025-06-04T13:46:37.913626+00:00|https://news.sky.com/story/lionesses-star-millie-bright-becomes-latest-big-name-to-rule-herself-out-of-england-squad-for-euro-2025-13379041|lioness becomes latest big name to rule herself out of england squad for euro 2025 uk news|18a55191e8272b3e5433c1c1f718c55d
+2025-06-04T13:47:18.659470+00:00|https://news.sky.com/story/greg-monks-body-found-in-search-for-missing-scottish-man-in-portugal-13379043|body found in search for briton who went missing during stag do in portugal uk news|4744ad2646e69c6d05fd27c0afc42b38
