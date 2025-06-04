@@ -286,3 +286,6 @@
 2025-06-04T03:35:47.526216+00:00|https://www.bbc.com/news/articles/c331ln47e7ko|chancellor to announce £15bn for transport projects uk news|053834e1f027ad1019c59750a9b7abbb
 2025-06-04T04:45:09.002209+00:00|https://www.bbc.com/news/articles/cje74pxdgzeo|raf chief to lead armed forces bbc understands uk news|1753c20c7da6ccf02ce6280b22efab36
 2025-06-04T04:45:49.752503+00:00|https://news.sky.com/story/manhunt-for-former-soldier-suspected-of-murdering-his-three-daughters-in-washington-state-13378884|manhunt for former soldier suspected of murdering his three daughters uk news|97822fbb7040972ee80fc8d127ceb205
+2025-06-04T06:53:37.744560+00:00|https://www.bbc.com/news/articles/cev404npy4po|police investigate heart deaths at nhs hospital uk news|399da34d4d17cdf74c5a3cc3383200bf
+2025-06-04T06:54:18.519075+00:00|https://www.bbc.com/news/articles/c3655wzzlgeo|review into my daughters killing has been hell on earth uk news|26659815125ceb17f75d252e4496ba65
+2025-06-04T06:54:59.262165+00:00|https://www.bbc.com/news/articles/c70nd977kdko|i was birminghams most prolific shoplifter uk news|afb14ba41f19824ada9efd2123408227
