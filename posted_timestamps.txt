@@ -303,3 +303,6 @@
 2025-06-04T23:32:50.029267+00:00|https://news.sky.com/story/hundreds-of-thousands-in-gaza-catastrophically-food-insecure-says-aid-chief-13379300|hundreds of thousands in gaza catastrophically food insecure uk news|5c31149c5ca36c0dba38168ea7ba21c7
 2025-06-05T06:55:30.800992+00:00|https://www.bbc.com/news/videos/cz702j230j0o|what impact can ai have on our weather forecasts uk news|726f1153a78104be86e26719f790b24c
 2025-06-05T07:32:34.860169+00:00|https://www.bbc.com/news/articles/c93l6qwzdl4o|gp warns of exodus of nhs doctors to private sector uk news|1327b860c87c68e4dfd71668dd01f6da
+2025-06-05T08:49:24.047751+00:00|https://www.bbc.com/sport/football/articles/cd0lrv9xnxvo|rangers appoint former southampton boss russell martin as new manager uk news|ed576dfd2257ab61e9464c2bbad07fca
+2025-06-05T08:50:04.795703+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/millions-of-children-left-behind-by-migrant-parents|without your mum something is missing the children left behind by migrant parents uk news|819702e657af4e215e8ab62bf1fd33b0
+2025-06-05T08:50:45.631191+00:00|https://news.sky.com/story/energy-costs-an-anchor-on-our-ambition-cbi-chief-warns-government-13379409|energy costs an anchor on our ambition cbi chief warns government uk news|ac0841f76ea935b36ea87500c9135589
