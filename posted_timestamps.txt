@@ -368,3 +368,6 @@
 2025-06-08T09:32:10.725546+00:00|https://www.bbc.com/news/articles/cgkd4x4pnpgo|sir paul mccartney joins bruce springsteen for surprise duet at anfield gig uk news|8b2371e2b7fa1074a36e7f4d48ccab40
 2025-06-08T11:26:00.225537+00:00|https://www.bbc.com/news/articles/c20xdwr5gw1o|rail plan reclassified denying wales funding mp uk news|8e6f4fb960eac8a461fcb8463ca33877
 2025-06-08T11:26:41.515166+00:00|https://news.sky.com/story/the-only-people-ive-ever-seen-in-gaza-with-weapons-are-the-idf-says-british-surgeon-13380662|the only people ive ever seen in gaza with weapons are the idf says british surgeon uk news|f7073da126d04676a08a64375ad126e1
+2025-06-08T13:16:17.005424+00:00|https://news.sky.com/story/prince-william-warns-worlds-oceans-are-diminishing-before-our-eyes-in-call-for-urgent-action-13380695|prince william warns worlds oceans are diminishing before our eyes uk news|7921072033dcd58e45b96b13f11c3d89
+2025-06-08T13:16:58.139702+00:00|https://www.bbc.com/news/videos/cgegwnpp70jo|prince william speaks french in address on ocean protection uk news|eaf27950c8477e80ca5e40cdea17bd56
+2025-06-08T13:17:39.023067+00:00|https://www.bbc.com/news/articles/c3d4387x1d0o|william warns ocean life diminishing before our eyes uk news|a7967e04e9b52754b988a8ef5446397c
