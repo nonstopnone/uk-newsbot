@@ -364,3 +364,4 @@
 2025-06-07T20:33:07.991474+00:00|https://www.bbc.com/news/articles/cx2qxd1e1pyo|eastenders star suspended over unacceptable language uk news|b1fc18cd6a0806a0a42a9f14bccfec27
 2025-06-07T20:33:48.984203+00:00|https://news.sky.com/story/yajaira-castro-mendez-body-found-in-search-for-missing-woman-from-east-london-13380576|body found in search for missing woman uk news|3320dc1e52e5b24101bd3bf4fc2d5d4b
 2025-06-08T05:40:48.080536+00:00|https://www.bbc.com/news/articles/c1ldyvzydezo|stormont strategy to tackle poverty not fit for purpose says charity uk news|70feaecdb174d5a3a329b32447b6b63a
+2025-06-08T08:41:34.851971+00:00|https://www.bbc.com/sport/articles/cz634pyz51po|troubling decline in secondary school pe lessons uk news|cc1717a881341efb7e5abb577c0ecb24
