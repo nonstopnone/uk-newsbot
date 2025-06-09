@@ -383,3 +383,6 @@
 2025-06-09T06:54:48.318100+00:00|https://news.sky.com/story/one-million-blood-donors-needed-to-meet-demand-and-avoid-red-alert-shortage-nhs-warns-13380992|nhs warns one million blood donors needed to avoid red alert shortage uk news|3c29e4f2a780709d283875dbd6536455
 2025-06-09T06:55:29.076454+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/prostate-cancer-rise-cases-neglected-mens-health-issue|world must start screening for prostate cancer to stop men being left behind uk news|66f0d7613b0fb0bc2a51e41ef6bfbba3
 2025-06-09T07:34:30.567485+00:00|https://news.sky.com/story/three-teenagers-arrested-after-boy-14-stabbed-to-death-in-north-manchester-13381024|three teenagers arrested after boy 14 stabbed to death uk news|b184d509931cc490f6dad9b0f6c4d348
+2025-06-09T07:46:30.345537+00:00|https://www.bbc.com/news/articles/cm26gpygp59o|two murder arrests after boy 14 found stabbed uk news|963212ad79ee9d7c65a34bc89e2150d6
+2025-06-09T07:47:11.369730+00:00|https://www.bbc.com/news/articles/c2e3lp9dl7xo|nurses to vote on pay deal as potential strike looms uk news|f05c4c46b8cc92fc6b3d29ea55bf3874
+2025-06-09T07:47:52.111505+00:00|https://www.bbc.com/news/articles/c3v507lx0e3o|uk proposes wider ban on bottom trawling fishing to protect seabeds uk news|d7d99d137529b809c44945521dae2c94
