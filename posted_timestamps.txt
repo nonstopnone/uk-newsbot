@@ -380,3 +380,5 @@
 2025-06-08T21:29:19.166821+00:00|https://www.bbc.com/news/articles/c861n7vljdgo|home secretary yet to agree deal three days before spending review uk news|0d22f23ca4ed88c6071ff45f27273a59
 2025-06-08T21:49:15.889602+00:00|https://www.bbc.com/sport/football/articles/c0mr7xlmkxyo|first black premier league referee rennie dies aged 65 uk news|6356a68c4ae7ec55a538e53c53676222
 2025-06-08T21:49:56.666148+00:00|https://www.bbc.com/news/articles/c9918glkxrvo|murder inquiry launched as teenager dies uk news|03a3a82093bc52e52d39256091b11c1d
+2025-06-09T06:54:48.318100+00:00|https://news.sky.com/story/one-million-blood-donors-needed-to-meet-demand-and-avoid-red-alert-shortage-nhs-warns-13380992|nhs warns one million blood donors needed to avoid red alert shortage uk news|3c29e4f2a780709d283875dbd6536455
+2025-06-09T06:55:29.076454+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/prostate-cancer-rise-cases-neglected-mens-health-issue|world must start screening for prostate cancer to stop men being left behind uk news|66f0d7613b0fb0bc2a51e41ef6bfbba3
