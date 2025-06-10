@@ -414,3 +414,6 @@
 2025-06-10T09:58:56.184985+00:00|https://www.bbc.com/news/articles/cwynm4wl1j7o|uber brings forward trialling driverless taxis in uk uk news|cefecd7337ca7a095c9119602b096f47
 2025-06-10T10:47:27.809653+00:00|https://news.sky.com/story/missiles-thrown-at-police-and-houses-damaged-as-northern-ireland-protests-turn-violent-13381517|15 police officers injured as northern ireland protests turn violent uk news|a9c59a862aa82411e7e0046f7535db7e
 2025-06-10T10:48:08.993126+00:00|https://www.bbc.com/news/articles/cwyvzq66gpxo|scotlands emission cuts too slow despite fall uk news|2f8a7d5d9ef2568778d745d566c94c2a
+2025-06-10T13:44:25.137331+00:00|https://www.bbc.com/news/articles/cz0d5zr2g20o|king charles awards first rugby league knighthood uk royal news|8b093b235a990736ec6d1820bdecb9ea
+2025-06-10T13:45:05.750178+00:00|https://www.bbc.com/news/articles/cz0d5zr2g20o|king charles awards first rugby league knighthood uk royal news|8b093b235a990736ec6d1820bdecb9ea
+2025-06-10T13:45:46.406564+00:00|https://www.bbc.com/news/articles/cz0d5zr2g20o|king charles awards first rugby league knighthood uk royal news|8b093b235a990736ec6d1820bdecb9ea
