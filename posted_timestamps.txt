@@ -441,3 +441,4 @@
 2025-06-11T09:39:13.442075+00:00|https://www.bbc.com/news/videos/ckg7xg3g8r2o|bbc at the scene of violent ballymena protests uk news|5ad69fef1183888852ad207dbca6d50f
 2025-06-11T10:47:05.655887+00:00|https://news.sky.com/story/three-day-thunderstorm-warning-issued-for-parts-of-the-uk-13382083|threeday thunderstorm warning issued for parts of the uk uk news|401fa9812e6f965b0a8052de05099a13
 2025-06-11T10:55:21.037688+00:00|https://www.bbc.com/news/articles/cm26qmgm5jgo|uni job cuts a health and safety crisis union says uk news|50dda3604f6e24674328b69f43455c6d
+2025-06-11T11:43:24.456387+00:00|https://news.sky.com/story/us-china-trade-talks-the-fact-neither-side-is-saying-much-on-the-outcome-says-a-lot-13382040|uschina trade talks the fact neither side is saying much on the outcome says a lot uk news|0da5cabce09a02b9cb84b74ba611948c
