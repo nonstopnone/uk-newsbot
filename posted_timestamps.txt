@@ -462,3 +462,4 @@
 2025-06-11T18:54:50.604356+00:00|https://www.bbc.com/news/articles/c39x8ly827yo|tories accuse pm of funding tax cuts for mauritians uk news|4c90b5f43f6d725522628a3a902e54c0
 2025-06-11T19:26:20.176749+00:00|https://news.sky.com/story/spending-review-reeves-is-running-out-of-levers-to-pull-if-something-goes-wrong-13382313|reeves is running out of levers to pull if something goes wrong uk news|0b57246a1d26aa93105276b40b2f0292
 2025-06-11T19:57:16.648332+00:00|https://www.bbc.com/news/articles/c8e6zk5p9l5o|welcome for housing pledge but is it too late for some uk news|6a64004a7d3d2fc36b85687a907274e6
+2025-06-11T21:33:36.568916+00:00|https://news.sky.com/story/is-chancellors-spending-review-the-start-of-a-national-renewal-or-too-good-to-be-true-13382354|is chancellors spending review the start of a national renewal or too good to be true uk news|736e45f5bf2671fcc8a486f9637769be
