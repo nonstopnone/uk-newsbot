@@ -491,3 +491,5 @@
 2025-06-15T15:36:43.420271+00:00|https://www.bbc.com/news/articles/c4g7gmnk0v4o|wed just moved in couple considered jumping to escape burning flat in perth uk news|41c4e2047f9155cf2a8b08d8fd879aa5
 2025-06-15T16:48:01.188672+00:00|https://news.sky.com/story/man-rushed-to-hospital-after-car-falls-from-luton-airport-car-park-13384092|man rushed to hospital after car falls from airport car park uk news|57d7282d5153c4751a181ef4b4fc7946
 2025-06-15T20:36:01.570182+00:00|https://news.sky.com/story/irans-response-to-israeli-strikes-a-matter-of-principle-ambassador-to-uk-says-13384229|irans response to israeli strikes a matter of principle ambassador to uk says uk news|9930abe1bbb9b34b41a70482eed1e786
+2025-06-15T21:31:27.324564+00:00|https://www.bbc.com/news/articles/cpd4wjgl15qo|propalestinian activist returns home after arrest uk news|220ab30e8fb5641d482004192d958f3e
+2025-06-15T21:32:07.970711+00:00|https://news.sky.com/story/g7-to-discuss-further-sanctions-if-russia-fails-to-come-to-negotiating-table-pm-says-13384117|g7 to discuss further sanctions if russia fails to come to negotiating table pm says uk news|87dbc30e9266c2850ca360bfb1c68fd5
