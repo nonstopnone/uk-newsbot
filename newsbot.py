@@ -232,12 +232,25 @@ def is_uk_relevant(entry, threshold=2):
         logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
     return score >= threshold
 
+# --- Category Keywords ---
+CATEGORY_KEYWORDS = {
+    "Breaking News": ["breaking", "live", "update", "developing", "just in", "alert"],
+    "Politics": ["politics", "parliament", "government", "election", "policy", "minister", "mp", "prime minister"],
+    "Crime & Legal": ["crime", "police", "court", "legal", "arrest", "trial", "investigation", "prosecution"],
+    "Sport": ["sport", "football", "cricket", "tennis", "olympics", "match", "game", "tournament"],
+    "Royals": ["royal", "monarchy", "king", "queen", "prince", "princess", "palace", "crown"]
+}
+
 def get_category(entry):
-    """Determine the category of an article based on keywords."""
+    """Determine the category of an article based on keywords with whole word matching."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    if "politics" in text or "parliament" in text:
-        return "Politics"
-    return None
+    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals"]
+    for cat in specific_categories:
+        for keyword in CATEGORY_KEYWORDS[cat]:
+            if re.search(r'\b' + re.escape(keyword) + r'\b', text):
+                return cat
+    # Default to "Breaking News" for relevant articles not matching specific categories
+    return "Breaking News"
 
 FLAIR_MAPPING = {
     "Breaking News": "Breaking News",
