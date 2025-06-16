@@ -504,3 +504,4 @@
 2025-06-16T10:50:38.070834+00:00|https://www.bbc.com/news/articles/c0mrm84wg4ko|uks largest road tunnel project awarded £590m uk news|50866eaa85093d84b14498e250cebe4a
 2025-06-16T10:51:18.733394+00:00|https://news.sky.com/story/rare-1588-welsh-bible-to-go-on-public-display-in-wales-for-first-time-13384446|rare 1588 welsh bible to go on public display in wales for first time uk news|cce61a7a31c6cc64a1ebd750bc20dbc4
 2025-06-16T11:31:22.972588+00:00|https://news.sky.com/story/forever-chemical-found-in-dozens-of-uk-rivers-study-finds-13384466|forever chemical found in dozens of uk rivers study finds uk news|6faa5f993f3873ec731a93307e3c3eca
+2025-06-16T11:56:47.110932+00:00|https://www.telegraph.co.uk/racing/2025/06/16/royal-ascot-tuesday-tips-results-racecards|royal ascot day 1 tips racecards and results for tomorrows racing uk news|942b6bd0192237900c2b7d1d20ecb981
