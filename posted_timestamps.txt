@@ -509,3 +509,7 @@
 2025-06-16T13:47:18.757395+00:00|https://news.sky.com/story/human-leg-found-washed-up-on-prestwick-beach-in-south-ayrshire-13384544|human leg found on uk beach uk news|5c7a13dc6a4acaecb9cf9d57f5ffb3c1
 2025-06-16T14:46:13.799119+00:00|https://www.bbc.com/weather/articles/c4grg1w2xr7o|first heatwave of 2025 likely as temperatures to surge above 30c uk news|fc8180968c4003a6e13349a83fc13318
 2025-06-16T14:46:54.520975+00:00|https://www.telegraph.co.uk/recommended/home/garden/best-garden-furniture-stores|the 20 best garden furniture stores for bistro sets hammocks and rattan sofas uk news|14716cf631f4b69bd18db1bb11d65231
+2025-06-18T21:41:04.920031+00:00|https://www.telegraph.co.uk/tennis/2025/06/18/jack-draper-vs-alexei-popyrin-live-score-latest-queens|jack draper fightback shows resilience of a wimbledon contender uk news|62e22bf48d8da525742339ce35d259a6
+2025-06-18T21:41:45.948082+00:00|https://www.bbc.com/news/articles/cjrl34rvdxdo|princess of wales pulls out of royal ascot appearance uk news|059553a6ec1ad730510d6b2cf4f81188
+2025-06-18T21:42:26.808776+00:00|https://www.bbc.com/news/articles/c8d6jmmdq5go|temperatures surpass 29c as uk heads for heatwave uk news|76fc09f37e97c1ba0a1dac06aa840788
+2025-06-18T21:43:07.454214+00:00|https://www.bbc.com/news/articles/cy0wl8l0w90o|womans missing rolex focus of murder probe uk news|d44842bc99bff23bbbf5205bdd522704
