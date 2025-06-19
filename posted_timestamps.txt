@@ -519,3 +519,5 @@
 2025-06-19T09:55:50.576357+00:00|https://news.sky.com/story/uk-weather-amber-heat-health-alert-issued-across-england-with-rise-in-deaths-likely-13385733|amber heat health alert issued across england with rise in deaths likely uk news|03c4b20e84095bd92c26e07acaa744af
 2025-06-19T10:22:54.521523+00:00|https://www.bbc.com/news/articles/c056gv2q9q5o|new climate change targets for scotland unveiled uk news|919f9fdcdd6c5a904872168fca7f01a7
 2025-06-19T10:23:35.253274+00:00|https://www.bbc.com/news/articles/cm2z4rmyl0yo|amber heat health alerts issued as temperatures above 30c likely uk news|29b65f1ee9578f196824f262abb6da9f
+2025-06-19T11:19:21.848186+00:00|https://news.sky.com/story/wales-announce-squad-for-womens-euros-13385752|wales announce squad for womens euros uk news|1484733f6f8ccf2d9e29ab8e0bcea5f5
+2025-06-19T11:20:02.728535+00:00|https://www.bbc.com/news/articles/c98wyyk475no|interest rates held at 425 by bank of england uk news|62e6a7b86798f1d1bfbe3352e95101e0
