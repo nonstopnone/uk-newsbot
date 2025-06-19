@@ -530,3 +530,4 @@
 2025-06-19T19:50:17.445093+00:00|https://www.bbc.com/news/articles/cpd1qgpw08do|government whip quits over disability benefit cuts uk news|f52d418d1bef530f87cc787900ef0203
 2025-06-19T21:46:22.654459+00:00|https://www.bbc.com/news/articles/cglzkp4lejzo|im terrified of being trapped in pain uk news|6acbbed43c4ed757795086eabd1baf14
 2025-06-19T21:56:52.061863+00:00|https://news.sky.com/story/idf-does-not-deliberately-target-hospitals-says-former-israeli-defence-minister-benny-gantz-13385958|idf does not deliberately target hospitals former israeli defence minister uk news|a7085974e2f78fc97e3192aab121cc9a
+2025-06-19T22:55:54.198028+00:00|https://news.sky.com/story/labour-mp-vicky-foxcroft-quits-as-government-whip-over-cuts-to-disability-benefits-13385986|government whip quits over starmers welfare cuts uk news|f45f5259dfe52a989cc9df60b188f3e8
