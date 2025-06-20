@@ -546,3 +546,4 @@
 2025-06-20T10:45:57.777572+00:00|https://www.bbc.com/news/articles/c5y5d2g3wgxo|how could assisted dying laws change uk news|ee5f888c587ca85916859c647545cee4
 2025-06-20T10:46:38.819596+00:00|https://news.sky.com/story/uk-weather-yellow-warning-for-thunderstorms-as-heatwave-intensifies-13386103|yellow weather warning for thunderstorms as heatwave intensifies uk news|33ceac028211beb5ad836321fd621eaa
 2025-06-20T11:19:17.833005+00:00|https://www.bbc.com/news/articles/c86gq3z829no|mps deny welsh parliament veto on assisted dying uk news|f90baef57a8afd7273e5780352c675e0
+2025-06-20T13:30:49.568896+00:00|https://news.sky.com/story/six-men-arrested-near-iranian-embassy-in-london-after-altercation-at-protest-13386289|six men arrested near iranian embassy in london after altercation at protest uk news|ce5104b9d65c71b8ea2035589235f7fe
