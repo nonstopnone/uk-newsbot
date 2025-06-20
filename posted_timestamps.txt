@@ -545,3 +545,4 @@
 2025-06-20T10:22:00.057642+00:00|https://news.sky.com/story/pro-palestinian-activists-break-into-raf-base-and-vandalise-aircraft-13386065|pm issues statement after propalestinian activists break into raf base and vandalise aircraft uk news|95cc9a3a1387828ce4aef868079a6930
 2025-06-20T10:45:57.777572+00:00|https://www.bbc.com/news/articles/c5y5d2g3wgxo|how could assisted dying laws change uk news|ee5f888c587ca85916859c647545cee4
 2025-06-20T10:46:38.819596+00:00|https://news.sky.com/story/uk-weather-yellow-warning-for-thunderstorms-as-heatwave-intensifies-13386103|yellow weather warning for thunderstorms as heatwave intensifies uk news|33ceac028211beb5ad836321fd621eaa
+2025-06-20T11:19:17.833005+00:00|https://www.bbc.com/news/articles/c86gq3z829no|mps deny welsh parliament veto on assisted dying uk news|f90baef57a8afd7273e5780352c675e0
