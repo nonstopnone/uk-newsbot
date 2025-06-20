@@ -554,3 +554,4 @@
 2025-06-20T17:25:19.564233+00:00|https://www.bbc.com/news/articles/cn81g4e0nlyo|palestine action to be banned after raf base break in uk news|0f0ba7142db4339daa28f11d14616407
 2025-06-20T17:41:28.165469+00:00|https://news.sky.com/story/palestine-action-to-be-banned-after-break-in-at-raf-base-sky-news-understands-13386424|palestine action to be banned after break in at raf base sky news understands uk news|e050e3164de5620e5c7909fc6da8e94c
 2025-06-20T18:50:59.752196+00:00|https://www.bbc.com/news/articles/cgeqj1egxvyo|mps back assisted dying bill in historic commons vote uk news|c06a9b05dca467c2e35b60cc5246b2e7
+2025-06-20T19:55:31.416604+00:00|https://news.sky.com/story/assisted-dying-bill-people-on-both-sides-of-the-debate-react-to-historic-vote-13386437|people on both sides of assisted dying debate react to historic vote uk news|c917edb32e1befadc0aed3ec11a04df4
