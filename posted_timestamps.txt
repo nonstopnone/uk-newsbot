@@ -590,3 +590,5 @@
 2025-06-22T23:58:04.663327+00:00|https://www.bbc.com/news/articles/cz63dej812qo|is surveillance culture fuelling child cyberstalking uk news|db7044bdd7f0c64ad0c22de0b3bc04db
 2025-06-23T04:22:30.784381+00:00|https://news.sky.com/story/gps-can-prescribe-weight-loss-jabs-on-the-nhs-from-today-but-strict-eligibility-criteria-in-place-13387265|gps can prescribe weight loss jabs on the nhs from today but strict eligibility criteria in place uk news|7ba5d8bfdb487c3075896c47eecf8f69
 2025-06-23T04:54:22.405601+00:00|https://news.sky.com/story/met-police-chief-frustrated-at-planned-protest-to-support-palestine-action-as-government-moves-to-ban-the-group-13387279|met police chief frustrated at planned protest to support palestine action as government moves to ban the group uk news|adec70fb964bf3e4bdadcff423991e53
+2025-06-23T05:21:50.464044+00:00|https://www.bbc.com/news/articles/c14j83dzm44o|prisoners shouldnt be leaving jail in body bags uk news|fa702ec2a160df1a25f7dc96c2eedade
+2025-06-23T05:22:31.210860+00:00|https://www.bbc.com/news/articles/c98j3qmqe84o|energy cost cuts to boost thousands of new jobs uk news|c2ae9ff98e172d5a5ea3aafc2262af19
