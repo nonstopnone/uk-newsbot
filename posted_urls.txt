@@ -994,7 +994,7 @@ https://www.nytimes.com/2025/06/14/world/middleeast/israel-iran-oil-gas-industry
 https://www.washingtonpost.com/world/2025/06/14/israel-iran-attacks-live-tehran-tel-aviv|2025-06-14T20:39:40.603011+00:00
 https://www.nytimes.com/2025/06/14/world/europe/india-plane-crash-memorial-london.html|2025-06-14T20:40:10.811023+00:00
 https://www.bbc.com/news/articles/cgj83q2e562o|2025-06-14T22:38:50.470700+00:00
-https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html|2025-06-14T22:39:20.747040+00:00
+https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html|2025-06-23T20:27:35.571083+00:00
 https://www.washingtonpost.com/world/2025/06/14/israel-iran-attacks-netanyahu-power|2025-06-14T22:40:01.007911+00:00
 https://www.nytimes.com/2025/06/14/world/americas/mexcio-us-border-migrants.html|2025-06-14T22:40:31.216497+00:00
 https://www.nytimes.com/2025/06/14/world/europe/britain-child-sex-abuse-inquiry.html|2025-06-14T22:41:01.412228+00:00
@@ -1493,3 +1493,12 @@ https://www.france24.com/en/europe/20250623-will-russia-benefit-israel-iran-war-
 https://www.nytimes.com/2025/06/23/world/europe/palestine-action-uk-government-ban.html|2025-06-23T18:37:59.116728+00:00
 https://www.nytimes.com/2025/06/23/travel/travel-advisory-us-citizens-iran-israel.html|2025-06-23T18:38:29.383906+00:00
 https://www.bbc.com/news/articles/cz09lmngyv2o|2025-06-23T18:39:00.699619+00:00
+https://www.nytimes.com/2025/06/23/world/europe/canada-eu-security-defense-trump.html|2025-06-23T20:27:05.360397+00:00
+https://www.nytimes.com/live/2025/06/23/world/iran-trump-israel-news/here-are-the-latest-developments|2025-06-23T20:28:05.794335+00:00
+https://www.nytimes.com/2025/06/23/us/fbi-retaliation-iran-bombing-nuclear-sites.html|2025-06-23T20:28:35.980607+00:00
+https://www.nytimes.com/2025/06/23/world/middleeast/udeid-qatar-base.html|2025-06-23T20:29:06.217662+00:00
+https://www.nytimes.com/2025/06/23/world/middleeast/world-central-kitchen-gaza-restarts-meals.html|2025-06-23T20:29:36.445926+00:00
+https://www.bbc.com/news/videos/c3en18eq435o|2025-06-23T20:30:07.115322+00:00
+https://www.france24.com/en/video/20250623-satellite-images-indicate-severe-damage-to-iran-s-fordow-plant|2025-06-23T20:30:37.679205+00:00
+https://www.washingtonpost.com/world/2025/06/23/syria-church-bombing-sectarian-violence|2025-06-23T20:31:17.867620+00:00
+https://www.nytimes.com/2025/06/23/world/europe/greece-chioc-fire-evacuation.html|2025-06-23T20:31:48.055064+00:00
