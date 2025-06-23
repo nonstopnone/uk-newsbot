@@ -599,3 +599,4 @@
 2025-06-23T10:58:16.889996+00:00|https://news.sky.com/story/violin-worth-163150000-stolen-from-london-pub-13387416|violin worth £150000 stolen from pub uk news|567f221a1ae4302ac92e6ede92683c5c
 2025-06-23T11:22:44.886099+00:00|https://www.bbc.com/weather/articles/cj0mr0l5d9eo|fresher start to the week but heat returning for some parts of the uk uk news|074fa1de699bbd3dd6bb9bf1c026160c
 2025-06-23T11:39:19.965961+00:00|https://news.sky.com/story/national-invesitgation-into-nhs-maternity-services-launched-after-families-gaslit-13387425|national invesitgation into nhs maternity services launched after families gaslit uk news|41dd4ae3f28fe599c2550a18ef6c8b72
+2025-06-23T12:00:00.007504+00:00|https://www.bbc.com/news/articles/c4g83l33wdeo|palestine action holds protest ahead of expected crackdown on group uk news|82b2d3dba7b94b741cee93a7ed9089fb
