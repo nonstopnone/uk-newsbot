@@ -602,3 +602,4 @@
 2025-06-23T12:00:00.007504+00:00|https://www.bbc.com/news/articles/c4g83l33wdeo|palestine action holds protest ahead of expected crackdown on group uk news|82b2d3dba7b94b741cee93a7ed9089fb
 2025-06-23T14:22:16.808930+00:00|https://news.sky.com/story/dermot-murnaghan-former-sky-news-presenter-diagnosed-with-stage-four-prostate-cancer-13387485|exsky news presenter dermot murnaghan diagnosed with stage four cancer uk news|44b30196bde2e6790a69fa549c043132
 2025-06-23T14:22:57.877621+00:00|https://news.sky.com/story/israeli-ambassador-says-hamas-to-blame-as-she-is-challenged-on-deaths-of-children-in-gaza-13387491|israeli ambassador challenged on gaza children deaths uk news|91b1f72300c4dab13b03c4a05762d1ec
+2025-06-23T14:46:50.107790+00:00|https://www.bbc.com/news/articles/cp8mql4j8e8o|tv presenter dermot murnaghan reveals stage four cancer uk news|c7cb6a1df99164d4f1a8377ac652eb14
