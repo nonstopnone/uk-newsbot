@@ -614,3 +614,5 @@
 2025-06-24T04:03:27.288787+00:00|https://www.bbc.com/news/articles/c8d6947ej5ro|labour mps mount major bid to block benefits changes uk news|a14526f2e0404933ee7b8379d81dfd02
 2025-06-24T04:40:08.609094+00:00|https://news.sky.com/story/amazon-to-invest-16340bn-in-uk-with-more-warehouses-and-thousands-of-new-jobs-13387769|amazon to invest £40bn in uk with more warehouses and thousands of new jobs uk news|b5d224068cb44610dcfa0da96addbfa5
 2025-06-24T06:36:47.559956+00:00|https://www.bbc.com/news/articles/c07dkzlx4gjo|hotspur press left a smoking ruin by major fire uk news|a5f26cdf5da0acfa9abdeaf7ebd48547
+2025-06-24T07:25:29.710173+00:00|https://www.bbc.com/news/articles/c7845v3jl7vo|families will not support weakened hillsborough law uk news|9aee5020bdae6869132794a0df377ccf
+2025-06-24T07:26:10.823649+00:00|https://www.bbc.com/news/articles/c4gkw573lkyo|mp who was raped gets backing over law change uk news|1ec8cf8fe79d060516e43b79242650d6
