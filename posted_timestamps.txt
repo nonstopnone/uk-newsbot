@@ -621,3 +621,6 @@
 2025-06-24T10:23:43.461515+00:00|https://www.bbc.com/news/articles/cx234drv3dgo|scotlands cancer treatment waiting times worst on record uk news|ab070a0b56a2300ade569136158ddd2c
 2025-06-24T11:22:13.602208+00:00|https://www.bbc.com/sport/tennis/articles/c2le0vlyxgzo|wimbledon hope to have murray statue ready by 2027 uk news|5d15ea2e8a27c8f8b7efb9cb0d54fb29
 2025-06-24T11:39:40.951381+00:00|https://news.sky.com/story/self-proclaimed-kardashian-of-cheshire-admits-luxury-handbag-scam-13387897|kardashian of cheshire admits luxury handbag scam uk news|86a2cc81b63c9e9e4d0d394eefd6a074
+2025-06-24T13:04:10.249161+00:00|https://news.sky.com/story/pm-repeats-moral-case-for-welfare-cuts-despite-major-rebellion-among-labour-mps-13387936|pm repeats moral case for welfare cuts despite major rebellion among labour mps uk news|745704cf4a8c08327960e03828256032
+2025-06-24T13:04:51.823578+00:00|https://www.bbc.com/news/articles/c04dn3v616yo|pm vows to press on with welfare cuts as rebellion grows uk news|9deeadd9df57d221617a7b257f2031e1
+2025-06-24T13:05:32.578888+00:00|https://www.bbc.com/news/articles/c3w48zlw04po|welfare rebellion to test starmer like never before uk news|648a59e4978806fd39841ebec05759cd
