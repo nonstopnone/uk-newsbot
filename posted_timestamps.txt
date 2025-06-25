@@ -647,3 +647,6 @@
 2025-06-25T13:25:34.146353+00:00|https://news.sky.com/story/rayner-refuses-to-repeat-chancellors-pledge-on-tax-hikes-13388411|rayner refuses to repeat chancellors pledge on tax hikes uk news|710c1a70f8abd8ecaf74720377e610a5
 2025-06-25T13:26:14.771429+00:00|https://www.bbc.com/news/articles/cgmw19v31p1o|overwhelming opposition to benefits cuts welsh ministers say uk news|81bff871f8252a8180dfea096bc42118
 2025-06-25T13:26:55.446086+00:00|https://www.bbc.com/news/articles/cr792ej27y3o|welfare vote will go ahead says rayner despite rebellion uk news|a68518bca32e8124debcbe7f74c88226
+2025-06-25T13:52:15.481661+00:00|https://news.sky.com/story/starmer-says-welfare-vote-will-go-ahead-despite-threat-of-labour-rebellion-13388452|pm says welfare vote will go ahead despite threat of labour rebellion uk news|28d34945f2ecabefc57d6699c890cd66
+2025-06-25T13:52:56.583512+00:00|https://www.bbc.com/news/articles/cwyrg6ynnx9o|man guilty of murdering schoolboy with sword uk news|66a7c29832da8b026053a7cae8d6c5b1
+2025-06-25T13:53:37.369340+00:00|https://www.bbc.com/news/articles/cwyrg6ynnx9o|man guilty of murdering schoolboy with sword uk news|66a7c29832da8b026053a7cae8d6c5b1
