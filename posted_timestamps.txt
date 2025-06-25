@@ -659,3 +659,4 @@
 2025-06-25T16:35:00.399082+00:00|https://www.bbc.com/news/articles/cy0wdx5x0ego|senedd to decide if nhs will help terminally ill die uk news|535e04f419bd9ffa3b4bd206fbe181bb
 2025-06-25T16:35:41.075523+00:00|https://news.sky.com/story/bp-shares-soar-on-report-of-shell-takeover-talks-13388562|bp shares soar on report of shell takeover talks uk news|2cfacaa15efc0218df9b979ea490f260
 2025-06-25T16:36:21.831750+00:00|https://www.bbc.com/news/articles/cpqnly2x8qno|man arrested over 1980s sex attacks days after bbc questions police uk news|baae6e7e138e7ae894adbf107f69c445
+2025-06-25T18:28:58.232811+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/britain-slashes-global-vaccine-budget-risking-million|britain slashes global vaccine budget putting millions of women and girls at risk uk news|454fc8940ca3aa771f3bf9eea3b2a754
