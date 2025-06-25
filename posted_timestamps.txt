@@ -652,3 +652,5 @@
 2025-06-25T13:53:37.369340+00:00|https://www.bbc.com/news/articles/cwyrg6ynnx9o|man guilty of murdering schoolboy with sword uk news|66a7c29832da8b026053a7cae8d6c5b1
 2025-06-25T14:20:00.722314+00:00|https://news.sky.com/story/former-england-boss-gareth-southgate-receives-knighthood-13388441|amazing honour exengland boss gareth southgate receives knighthood uk news|3cee08d67b348c8136fc99710e0982eb
 2025-06-25T14:20:41.577082+00:00|https://news.sky.com/story/patient-death-linked-to-cyber-attack-on-nhs-hospital-trust-says-13388485|patient death linked to cyber attack on nhs hospital trust says uk news|0650b9e001eb24873757f1c003136376
+2025-06-25T14:42:39.085905+00:00|https://www.bbc.com/sport/football/articles/c4g8eeey25lo|sir gareth southgate not missing being england manager after knighthood uk news|7eb6173891ee5490298fd2245a21403a
+2025-06-25T14:43:20.402504+00:00|https://www.bbc.com/news/articles/ce9x80g1jgxo|truth about uk nuclear veterans covered up says andy burnham uk news|de19233f13dfc4bcbbb6e0108481165b
