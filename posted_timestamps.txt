@@ -639,3 +639,4 @@
 2025-06-25T02:15:00.493707+00:00|https://www.bbc.com/news/articles/cq6m41zzpn3o|rod stewart on glastonbury i wish they wouldnt call it the tea time slot uk news|9c55bc90a0014796974b90c969b14ac8
 2025-06-25T05:00:41.168128+00:00|https://news.sky.com/story/injured-dog-walkers-could-be-costing-nhs-16323m-a-year-13388228|injured dog walkers could be costing nhs £23m a year uk news|13294f2c7b9389b604ef0fc36eaf2053
 2025-06-25T05:49:50.699989+00:00|https://www.bbc.com/news/articles/cew05x2n1kjo|dad tell me where you buried mum before you die uk news|87940868d1d18c80c7756905b71ec7ab
+2025-06-25T06:40:15.539901+00:00|https://www.bbc.com/news/articles/c86gplp3ez8o|new reward to find murdered british backpackers remains uk news|0b508ae1fc68a415ace9459af868ea2c
