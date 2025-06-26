@@ -669,3 +669,6 @@
 2025-06-26T06:57:01.495816+00:00|https://www.bbc.com/news/articles/cq53zzpvlqzo|no phone signal on your train there may be a fix by 2028 uk news|ed2a11263bdac887ad76c98d9ba302f4
 2025-06-26T06:57:42.923314+00:00|https://www.bbc.com/news/videos/cp82l17397jo|watch john and amy hunts interview with bbcs victoria derbyshire uk news|fba7d51e21cdba5fa1b58c258bccbb32
 2025-06-26T06:58:24.029508+00:00|https://www.bbc.com/news/articles/cy5wk716pzdo|my wife and daughters left behind a legacy of love john hunt tells bbc uk news|b8a7c4bde21ac90ccbedeea6df0dd851
+2025-06-26T08:52:00.442102+00:00|https://news.sky.com/story/mobile-signal-blackspots-to-be-eliminated-on-many-of-the-uks-major-train-routes-13388789|mobile signal blackspots to be eliminated on many of the uks major train routes uk news|7f5ecd6cb51519e3adb765d9c131a41b
+2025-06-26T08:52:41.416606+00:00|https://www.bbc.com/news/articles/c39zv2rx40po|woman arrested on suspicion of neglect after baby dies uk news|ee8773a1ee9ff6da4317fd7aae09a33b
+2025-06-26T08:53:22.063660+00:00|https://www.bbc.com/news/articles/cr5v2lz5vl6o|pornhub to introduce government approved uk age checks uk news|69b27b42d336c201e378251d1225e976
