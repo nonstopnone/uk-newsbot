@@ -676,3 +676,5 @@
 2025-06-26T10:22:05.242017+00:00|https://www.bbc.com/news/articles/c20w4l0dgv5o|opening ceremony kicks off glastonbury with a bang uk news|66a22d44957ef9751eb8b49d2a55a48f
 2025-06-26T10:22:45.989416+00:00|https://news.sky.com/story/major-pornography-sites-to-introduce-robust-age-verification-for-uk-users-13388827|major pornography sites to introduce robust age verification for uk users uk news|a2011e1dd8a405dab544a152c6990052
 2025-06-26T10:23:26.537126+00:00|https://www.bbc.com/news/articles/cy8g7yqwzg7o|foreign office inquiry into harry dunn case within weeks says family uk news|1441e8a5d134d219eaed1155d59af182
+2025-06-26T10:46:28.925277+00:00|https://news.sky.com/story/uk-weather-amber-heat-health-alert-issued-ahead-of-potentially-the-hottest-june-day-on-record-13388830|amber heat health alert issued ahead of potentially the hottest june day on record uk news|67813aae3910cf30072c6125f0a5c0b4
+2025-06-26T10:47:09.757126+00:00|https://news.sky.com/story/salmonella-cases-reach-highest-levels-in-a-decade-13388907|salmonella cases reach highest levels in a decade uk news|1ead489a1dfd2d2666aeeea1d9e005be
