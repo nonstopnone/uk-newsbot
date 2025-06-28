@@ -719,3 +719,5 @@
 2025-06-27T21:56:25.874491+00:00|https://news.sky.com/story/prime-minister-sir-keir-starmer-set-to-warn-of-backroom-stitch-up-between-parties-in-wales-13389548|pm set to warn of backroom stitch up between parties in wales uk news|8442d68c1f8393bc9dcd0bf029b601e2
 2025-06-28T05:28:32.384070+00:00|https://www.bbc.com/news/articles/c3w4xl8gyyqo|hundreds of nhs quangos to be scrapped uk news|726787c9dc71f14c344d6dd4d2d3cf0e
 2025-06-28T05:45:47.474183+00:00|https://www.bbc.com/news/articles/cjd2xyzddrzo|lack of phone signal is all anyone talks about uk news|abe0d0396a566ee81e6e185be68b9106
+2025-06-28T06:29:47.820424+00:00|https://news.sky.com/story/amber-heat-health-alert-in-force-as-30c-temperatures-forecast-today-13389601|amber heat health alert in force as temperatures could hit 30c today uk news|839c33fdc8ffee261ac6edbcd7e50b29
+2025-06-28T06:30:28.910960+00:00|https://www.bbc.com/news/articles/clymq9jp1eqo|first minister right to raise concerns starmer uk news|02a79f41ef8c54328df38a7f0a340df9
