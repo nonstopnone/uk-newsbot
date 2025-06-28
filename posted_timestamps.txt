@@ -729,3 +729,5 @@
 2025-06-28T10:43:09.713171+00:00|https://www.bbc.com/news/articles/cp8mv0y0yr8o|armed police called to double incident as man taken to hospital uk news|9d78928f2d8cadc2fa9c83433d33f73e
 2025-06-28T12:39:31.663995+00:00|https://news.sky.com/story/arrests-after-four-iconic-statues-stolen-from-iford-manor-in-wiltshie-13389684|arrests after four iconic statues stolen uk news|f135938cda45476367c01efe88ce1efb
 2025-06-28T13:39:40.469232+00:00|https://news.sky.com/story/archbishop-of-wales-retires-after-safeguarding-review-revealed-blurred-sexual-boundaries-13389713|archbishop of wales retires after safeguarding review revealed blurred sexual boundaries uk news|fa998272752ee7a67d880aad7f4c216d
+2025-06-28T15:25:26.537146+00:00|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/wales/pembrokeshire/articles/pembrokeshire-travel-guide|the perfect holiday in pembrokeshire cornwalls cheaper rival uk news|6caad46c8cb85ae3cc7a6eef3414c9d7
+2025-06-28T15:26:07.213010+00:00|https://www.bbc.com/news/articles/c9w1gje4wdqo|murder probe after death of man attacked in car park uk news|4154ea66e545e4ccdf65045435d7255b
