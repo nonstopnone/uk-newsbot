@@ -755,3 +755,4 @@
 2025-06-30T04:49:56.242338+00:00|https://news.sky.com/story/uk-to-be-hotter-than-barbados-with-temperatures-expected-to-hit-a-record-breaking-34c-13390346|uk to be hotter than barbados with temperatures set to hit a recordbreaking 34c uk news|6c67bf8beaaa6cfeb784d7a441d8cad1
 2025-06-30T06:32:15.259537+00:00|https://www.bbc.com/news/articles/cm2z62rjg16o|exengland star ince charged with drink driving uk news|0f606fb29afbd6d31c331dda3e9a9a48
 2025-06-30T07:26:02.357980+00:00|https://www.bbc.com/news/articles/ckg62qen22lo|future of delayed nhs surgery centres is unclear uk news|a06031f5cbe2cfc18b3e5db8f2b7f76f
+2025-06-30T07:55:41.516444+00:00|https://news.sky.com/story/lindsey-oil-refinery-owner-prax-group-crashes-into-insolvency-13390404|lindsey oil refinery owner prax group crashes into insolvency uk news|51af7e0714fad2dc85e6b35282d988f7
