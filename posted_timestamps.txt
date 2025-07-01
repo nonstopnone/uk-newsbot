@@ -802,3 +802,5 @@
 2025-07-01T17:18:09.257865+00:00|https://news.sky.com/story/man-charged-with-murdering-pregnant-mother-of-two-in-county-down-13391062|man charged with murdering pregnant motheroftwo uk news|d949f1df53354a998895947af707df6b
 2025-07-01T17:40:13.131955+00:00|https://www.bbc.com/news/articles/cd0vvr9j1dxo|notable rise in dads over 60 in england and wales uk news|c8b98648efccbb98e25a0c7595ce9312
 2025-07-01T18:28:12.087216+00:00|https://news.sky.com/story/govt-gives-rebel-labour-mps-last-minute-concession-to-welfare-bill-13391080|govt gives rebel labour mps major concession to welfare bill 90 minutes before vote uk news|61873107fca3bccf6cc579db1278d998
+2025-07-01T19:15:42.408857+00:00|https://news.sky.com/story/uk-records-hottest-day-of-year-so-far-as-40c-highs-close-schools-in-europe-13391114|uk records hottest day of year so far as 40c highs close schools in europe uk news|c914753b0220ed8c523f936ccc52cf39
+2025-07-01T19:16:23.399458+00:00|https://news.sky.com/story/how-did-your-mp-vote-on-labours-welfare-bill-13391059|how did your mp vote on labours welfare bill uk news|7af77a0cd47ca3d669ce78acd9837fb1
