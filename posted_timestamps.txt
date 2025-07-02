@@ -830,3 +830,5 @@
 2025-07-02T17:39:40.483890+00:00|https://www.bbc.com/news/articles/c86g0g436dpo|harry dunns family want inquiry report published uk news|fb9600c87603799b29df77fd98b09093
 2025-07-02T18:28:50.925476+00:00|https://www.telegraph.co.uk/tennis/2025/07/02/wimbledon-2025-live-katie-boulter-vs-solana-sierra-score|katie boulter crashes out of wimbledon to lucky loser solana sierra uk news|bf9cc4daac8a92c3e3cd5f77144d28f3
 2025-07-02T18:52:35.928505+00:00|https://www.telegraph.co.uk/cricket/2025/07/02/england-vs-india-second-test-day-one-live-score|stokes is bravest england captain of all but test is in balance uk news|3ebe9ccd6f737a6ca195c44d147ce6bc
+2025-07-02T21:40:22.642382+00:00|https://www.bbc.com/news/articles/cy5wpe9r1d6o|new plan will fundamentally rewire nhs says pm uk news|df603e547324a0597bc15da5f69c00b9
+2025-07-02T21:41:03.186236+00:00|https://www.bbc.com/news/articles/cn0qr9wlpnqo|analysis reeves tears raise big questions at top of labour uk news|d4fd36135a913311b2491553f00c9ee4
