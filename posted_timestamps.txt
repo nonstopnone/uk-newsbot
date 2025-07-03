@@ -850,3 +850,5 @@
 2025-07-03T10:23:17.866628+00:00|https://www.bbc.com/news/articles/cj0mygn38r4o|meteor burns brightly across night sky in scotland uk news|d9e7cf1c093f52c47405ee6d811f3f27
 2025-07-03T11:50:31.331566+00:00|https://news.sky.com/story/bbc-to-stop-broadcasting-high-risk-performances-live-after-bob-vylan-glastonbury-row-13391872|bbc to stop broadcasting high risk performances live after bob vylan glastonbury row uk news|075f9323a289b6ce290e8e406b264514
 2025-07-03T11:51:12.060292+00:00|https://news.sky.com/story/chancellor-rachel-reeves-addresses-tearful-pmqs-saying-when-im-having-a-tough-day-its-on-the-telly-13391854|when im having a tough day its on the telly chancellor addresses tearful pmqs uk news|8a5df3af5ee1b2d493b3950dc2ad1283
+2025-07-03T12:40:19.591972+00:00|https://www.bbc.com/news/articles/c2ezr0rnly7o|father who killed baby daughter guilty of murder uk news|bb07993585ad58e93f6698241afee2b9
+2025-07-03T12:41:00.809237+00:00|https://www.telegraph.co.uk/tennis/2025/07/03/wimbledon-live-score-pinnington-jones-vs-cobolli-latest|jack pinnington jones exits wimbledon in straight sets uk news|31b2a6ba5af4bc3a1eaf4ddb870817ad
