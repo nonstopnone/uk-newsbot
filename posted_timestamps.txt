@@ -848,3 +848,5 @@
 2025-07-03T09:45:04.056349+00:00|https://www.bbc.com/news/articles/cr4we7w6pdgo|oasis drone display appears ahead of stadium gig uk news|2123b63a9c9377fcb01bdab357d11fba
 2025-07-03T10:22:37.099246+00:00|https://news.sky.com/story/two-teenagers-charged-with-murder-of-38-year-old-father-of-one-in-barry-13391734|two teens charged with murder of 38yearold fatherofone uk news|df8d33ccfc8885acf8b2514d8dd35b5f
 2025-07-03T10:23:17.866628+00:00|https://www.bbc.com/news/articles/cj0mygn38r4o|meteor burns brightly across night sky in scotland uk news|d9e7cf1c093f52c47405ee6d811f3f27
+2025-07-03T11:50:31.331566+00:00|https://news.sky.com/story/bbc-to-stop-broadcasting-high-risk-performances-live-after-bob-vylan-glastonbury-row-13391872|bbc to stop broadcasting high risk performances live after bob vylan glastonbury row uk news|075f9323a289b6ce290e8e406b264514
+2025-07-03T11:51:12.060292+00:00|https://news.sky.com/story/chancellor-rachel-reeves-addresses-tearful-pmqs-saying-when-im-having-a-tough-day-its-on-the-telly-13391854|when im having a tough day its on the telly chancellor addresses tearful pmqs uk news|8a5df3af5ee1b2d493b3950dc2ad1283
