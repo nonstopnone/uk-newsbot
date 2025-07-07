@@ -944,3 +944,6 @@
 2025-07-06T21:19:30.771083+00:00|https://www.bbc.com/news/articles/c39z132mdp0o|my sister was killed 20 years ago im still angry uk news|3926f0052ec7996309be013f87d9a49b
 2025-07-06T23:19:56.070284+00:00|https://www.bbc.com/news/articles/c4g8vznj4x3o|toxic metals found in uk peatlands could pose health risk uk news|2b8b4f3f70d0465fd6ffdf0850502aa6
 2025-07-06T23:20:37.988177+00:00|https://www.bbc.com/news/articles/c14e77je72mo|is the uk really any safer 20 years on from 77 uk news|49c11ea7d59c7ce3a3d2cbc150ef9300
+2025-07-07T06:37:05.852062+00:00|https://www.bbc.com/news/articles/cnvmr2j32r8o|memories of a live aid lie revealed by u2s bono uk news|a68e26d387e89bb8d334d0e56cca1ad0
+2025-07-07T06:37:46.486011+00:00|https://www.bbc.com/news/articles/c20rpmjnvjdo|77 survivor in right place at the wrong time uk news|061875161b6b5c19c6c690e0140caf30
+2025-07-07T06:38:27.105361+00:00|https://www.bbc.com/news/articles/ce37xwxgy1xo|77 bus driver olympic joy turned to barbaric day uk news|d6be3fcefe0be2656941d8d267b98ee3
