@@ -955,3 +955,4 @@
 2025-07-07T11:24:11.984181+00:00|https://news.sky.com/story/man-26-dies-after-being-stabbed-near-pub-in-northeast-london-13393581|man 26 stabbed to death in street near pub uk news|3e3e22f98103c59058d065fe0d6d2308
 2025-07-07T11:50:14.337523+00:00|https://www.bbc.com/news/articles/cd6g7pvzzlgo|seven deny charges over womans fatal shooting uk news|c470c3aa81c2c39228450517da1c1370
 2025-07-07T13:03:48.629461+00:00|https://www.bbc.com/news/articles/cq53jqg2y90o|memorial service held to mark anniversary of 77 london bombings uk news|27882fe705503c6a808483f99361f69f
+2025-07-07T13:42:56.786754+00:00|https://www.bbc.com/news/videos/cvgw1d17nl3o|names of 77 london bombing victims read aloud uk news|60ac99f0c1a3056e9b8cbca582bf89ae
