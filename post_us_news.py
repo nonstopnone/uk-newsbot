@@ -146,7 +146,7 @@ def extract_first_paragraphs(url):
         paragraphs = [text for text in [p.get_text(strip=True) for p in soup.find_all('p')] if len(text) > 40]
         return '\n\n'.join(paragraphs[:3]) if paragraphs else soup.get_text(strip=True)[:500]
     except requests.exceptions.RequestException as e:
-        logger.error(f"Failed to fetch URL {url}: {e}")
+ vacations = logger.error(f"Failed to fetch URL {url}: {e}")
         return f"(Could not extract article text: {e})"
 
 # --- Filter Keywords ---
@@ -335,7 +335,7 @@ def main():
                         group.append((other_source, other_entry))
             if group:
                 story_groups.append(group)
-            used_hashes.add(content_hash)
+                used_hashes.add(content_hash)
     random.shuffle(story_groups)
     posts_made = 0
     sources_used = set()
