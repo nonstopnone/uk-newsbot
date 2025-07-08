@@ -983,3 +983,7 @@
 2025-07-08T10:47:16.658703+00:00|https://www.bbc.com/sport/football/articles/c8xvdvyvdjpo|agyemang can bring something different to help england uk news|f2c4e26d5bde7a72de2a947bd9f7ba9a
 2025-07-08T10:47:57.191532+00:00|https://www.bbc.com/news/articles/cren3l8nj8wo|resident doctors vote to strike in england uk news|e530dc6d72543d5a40cda9a23bb5733f
 2025-07-08T11:21:47.287187+00:00|https://news.sky.com/story/flavour-of-whats-to-come-as-first-post-office-inquiry-lays-bare-heart-breaking-legacy-13393895|flavour of whats to come as first post office inquiry lays bare heartbreaking legacy uk news|6eeb16b47b2966cb29708024717b70f4
+2025-07-08T13:24:31.229817+00:00|https://news.sky.com/story/diogo-jota-was-driving-at-time-of-crash-that-killed-him-and-his-brother-spanish-police-believe-13394066|diogo jota was driving at time of crash that killed him and his brother spanish police believe uk news|afa3c1a31e67a1773fea9b4b33901231
+2025-07-08T13:25:11.872137+00:00|https://www.bbc.com/news/articles/cx2k37x91vlo|three men guilty of arson attack on london warehouse on behalf of russian mercenary group uk news|ea54e417b8bc307251d209029d444dd9
+2025-07-08T13:25:52.495259+00:00|https://www.bbc.com/news/articles/cg5zmlvlrn4o|southport attack one of uks most egregious crimes uk news|b3cb42565a7ab4433236407ff5a5c02a
+2025-07-08T13:26:33.104739+00:00|https://www.bbc.com/news/articles/cpvjdw3wry1o|police hunt for firearm linked to euan johnston killing uk news|c20ee5f0980ba06382c152d314324100
