@@ -1024,3 +1024,4 @@
 2025-07-09T19:18:04.246589+00:00|https://www.bbc.com/news/articles/cy9xyn30yj0o|why do channel migrants want to come to the uk uk news|fb27450f3bfe81378175aad073fa202c
 2025-07-09T19:18:44.800028+00:00|https://www.bbc.com/news/articles/ckg3vzxyyw9o|pc denies losing control in manchester airport brawl uk news|c540cc63d6c1e022ebb8e881f306303a
 2025-07-09T19:31:12.169277+00:00|https://news.sky.com/story/controversial-welfare-bill-passes-final-commons-stage-but-only-after-another-concession-13394674|controversial welfare bill passes final commons stage but only after another concession uk news|528155a866bd3eb5b75f44e36c724453
+2025-07-09T19:56:14.487629+00:00|https://news.sky.com/story/officer-denies-he-lost-control-attempting-to-arrest-brothers-at-manchester-airport-court-hears-13394673|officer denies he lost control attempting to arrest brothers at manchester airport court hears uk news|4ac6b8d32779640f2a64f2e589836bf2
