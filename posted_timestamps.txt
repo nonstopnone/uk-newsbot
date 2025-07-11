@@ -1060,3 +1060,6 @@
 2025-07-11T06:37:43.554909+00:00|https://www.bbc.com/news/articles/cq6mvem8neno|uk economy shrank unexpectedly in may uk news|ef94cd462df26ee7038af6f35b52da85
 2025-07-11T06:38:24.964834+00:00|https://www.bbc.com/news/articles/cj3r8eplp22o|our mosque was threatened after the 77 bombings uk news|b1e921cdde0fc575cda7de32e1c7eed7
 2025-07-11T06:39:06.057272+00:00|https://www.bbc.com/news/articles/cqx2y21p1xjo|hosepipe ban frustration as leaks continue uk news|f3a8acf3746b2e1026be8f1c11bbdbfd
+2025-07-11T07:27:58.932422+00:00|https://www.bbc.com/news/videos/cvge3jd5wzzo|this is history right here oasis fans queue for manchester gig uk news|e7d6ddbae92d6d6d46f217ce6f14cdee
+2025-07-11T07:28:39.795811+00:00|https://news.sky.com/story/uk-has-not-fixed-numbers-yet-on-how-many-migrants-to-be-returned-to-france-under-deal-home-sec-reveals-13395258|uk has not fixed numbers yet on how many migrants to be returned to france under deal home sec reveals uk news|31c55315691d63928aa20d065ef98a1e
+2025-07-11T07:29:20.553490+00:00|https://www.bbc.com/news/articles/cx24d70gw41o|ukfrance migrant deal robust against legal challenges cooper says uk news|271ae6c57bb360987afb1842ca1541b4
