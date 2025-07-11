@@ -1069,3 +1069,4 @@
 2025-07-11T09:23:57.905253+00:00|https://www.bbc.com/news/articles/crmv8x74ky9o|heat health alerts issued across england as temperatures soar uk news|7248b4d7e233232853fe764ac0ef6f5d
 2025-07-11T09:44:41.512770+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/7-1-7-supercharging-pandemic-response-uk-never-signed-up|the 717 plan is supercharging pandemic response the uk never signed up uk news|7208c8f6e8cf7d20865d4718604c9a02
 2025-07-11T09:55:31.968624+00:00|https://www.bbc.com/news/articles/cpwq017l1jno|chris brown pleads not guilty to more assault charges uk news|6e6e0fac9a1398ce2d008589bddbbf84
+2025-07-11T10:22:37.009538+00:00|https://news.sky.com/story/amber-health-alert-issued-as-environment-agency-says-england-is-facing-driest-start-to-a-year-since-1976-13395321|amber health alert issued as england faces driest start to a year since 1976 uk news|e6c6a2f3cae2cf191bc79313fc239593
