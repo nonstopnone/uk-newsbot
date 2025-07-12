@@ -1097,3 +1097,4 @@
 2025-07-12T04:07:12.299541+00:00|https://www.bbc.com/news/articles/c0l4jppyjzjo|inside king charless fiery gathering that shone a light on his beliefs uk news|ac5157fc10a218f72288b26bff6af137
 2025-07-12T04:07:53.181868+00:00|https://www.bbc.com/news/articles/c5y2jd5yye9o|heatwave spreads to scotland and northern ireland uk news|eb91398f6c778664cd26f78c81c084fa
 2025-07-12T04:43:03.205451+00:00|https://news.sky.com/story/heatwave-set-to-peak-with-highs-of-more-than-34c-with-warning-of-potential-rise-in-deaths-13395663|heatwave set to peak today with warning of potential rise in deaths uk news|64bc54834589e8c2375ec4f1105e5cf8
+2025-07-12T06:35:25.446493+00:00|https://news.sky.com/story/large-fire-breaks-out-at-warehouse-in-southeast-london-13395673|large fire breaks out at warehouse in london uk news|4b7caac2cf782956393106433bc7a45d
