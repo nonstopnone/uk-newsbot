@@ -1153,3 +1153,5 @@
 2025-07-14T15:30:56.424282+00:00|https://www.bbc.com/sport/rugby-union/articles/czdv2vnnn4jo|wru considers cutting up to two regional teams uk news|cf78d842ddb9bfbb3ca31d7dea8c4638
 2025-07-14T15:31:36.960574+00:00|https://www.bbc.com/news/articles/c3endz88k2qo|wallace sorry after 45 claims against him upheld uk news|e0f7c645391f6fcd8d1756c47bf28141
 2025-07-14T17:19:33.687236+00:00|https://news.sky.com/story/three-people-arrested-after-blue-stevens-stabbed-to-death-near-luxury-hotel-in-knightsbridge-13396682|three people arrested after man stabbed to death near luxury hotel in knightsbridge uk news|db48aa7a0a2d7e42c64c8e9219ff8b8d
+2025-07-14T17:40:58.848039+00:00|https://www.bbc.com/news/articles/cz9k2g9j8vno|nurse on first day among four dead in plane crash uk news|24ecc28843f9f2ca73607ea1d406ad9a
+2025-07-14T17:41:39.343478+00:00|https://www.bbc.com/news/articles/cz9k2g9j8vno|nurse on first day among four dead in plane crash uk news|24ecc28843f9f2ca73607ea1d406ad9a
