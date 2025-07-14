@@ -1162,3 +1162,4 @@
 2025-07-14T21:20:08.094390+00:00|https://www.bbc.com/news/articles/cj4ep1znk4zo|reddit starts verifying ages of users in the uk uk news|0311a31b7b956aec311ff20e297e93f4
 2025-07-14T21:20:48.891620+00:00|https://www.bbc.com/news/articles/cx2n10g6xr5o|bbc staff at glastonbury had power to cut vylan feed uk news|ee39fc9be847a48a3eaabea8ecf1819d
 2025-07-14T21:36:09.576910+00:00|https://news.sky.com/story/wes-streeting-says-doctor-strikes-a-gift-to-nigel-farage-13396763|wes streeting says doctors strikes a gift to nigel farage uk news|d2c794536c33637ca5767c3d0ed2c845
+2025-07-14T21:47:21.770667+00:00|https://news.sky.com/story/premier-league-club-brentford-to-sell-stake-at-163400m-plus-valuation-13396772|premier league club brentford to sell stake at £400mplus valuation uk news|f5eb4ae6450b08659c1559e8437b1f36
