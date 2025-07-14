@@ -1141,3 +1141,5 @@
 2025-07-13T23:22:15.474965+00:00|https://www.bbc.com/news/articles/c14e54ggyl1o|disappointment as drakes final wireless show ends after 40 minutes uk news|d40a6678b885b04099ff3dc7e84140ff
 2025-07-13T23:22:56.029493+00:00|https://www.bbc.com/news/articles/cp86zvj605eo|support for victims of revenge porn isnt good enough mla uk news|4f51a97518799f97fc78526913f6963e
 2025-07-13T23:23:36.656366+00:00|https://www.bbc.com/news/articles/c74w1gyd7mko|extreme weather is the uks new normal says met office uk news|1e176b426074122a783927ac721f0335
+2025-07-14T01:54:28.166214+00:00|https://news.sky.com/story/extreme-weather-becoming-the-norm-in-the-uk-met-office-warns-13396206|extreme weather becoming the norm in the uk met office warns uk news|55e150f7ca1b8292136575185bd55a61
+2025-07-14T01:55:08.926650+00:00|https://www.bbc.com/news/articles/c5yg4369pv0o|observatory marks 230 years of recording weather uk news|2cdfe397e93a586164fc6d956a462d73
