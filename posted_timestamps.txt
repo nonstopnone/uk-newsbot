@@ -1181,3 +1181,5 @@
 2025-07-15T12:47:16.757174+00:00|https://www.bbc.com/news/articles/cvg8zy78787o|uk set up secret afghan relocation scheme after data breach uk news|1189af03a49c3aa43c51b352d8f522d1
 2025-07-15T12:47:57.508250+00:00|https://www.bbc.com/news/articles/c07d082jpkko|lineker takes top spot on bbc earnings for eighth year running uk news|2cf54ffdf59874d31073960306b63c08
 2025-07-15T12:48:38.267276+00:00|https://www.bbc.com/news/videos/czxe2j78z7wo|bbc films drone dropping package into hmp wandsworth uk news|450aaeb78a6a3a4061f104a0fe17cbb0
+2025-07-15T14:20:36.022443+00:00|https://news.sky.com/story/bbc-reveals-highest-earning-stars-as-pay-list-published-13396956|bbc reveals highestearning stars and the amount they earn uk news|8608994668521a734f9004185a7110db
+2025-07-15T14:21:16.589670+00:00|https://news.sky.com/story/dermot-murnaghan-fell-through-the-cracks-with-prostate-cancer-diagnosis-13397040|dermot murnaghan fell through the cracks with cancer diagnosis uk news|2a27d131ce754c92c574e34eafaf97bc
