@@ -1202,3 +1202,5 @@
 2025-07-16T12:48:33.722191+00:00|https://www.bbc.com/news/articles/c98w2e9leywo|serious questions for tories over afghan data breach says pm uk news|8a96acd86e8f5f1595438475a25e1513
 2025-07-16T13:28:56.649015+00:00|https://news.sky.com/story/starmer-says-former-tory-ministers-have-serious-questions-to-answer-over-afghan-data-breach-13397428|pm says former tory ministers have serious questions to answer over afghan data breach uk news|d133a7a457624eddbee0eae1dca7155d
 2025-07-16T13:29:37.465501+00:00|https://www.bbc.com/news/videos/cpwqev8w855o|the afghan data breach explained in one minute uk news|a43cd9d59cc0f2b57972e1f8df5b7bb2
+2025-07-16T14:46:52.517145+00:00|https://www.bbc.com/news/articles/c5y7zqdwzqyo|starmer suspends three labour mps for breaching party discipline uk news|f3abb6b398b647f347bf9128e72ee8de
+2025-07-16T14:47:33.054910+00:00|https://www.bbc.com/news/articles/c5y7zqdwzqyo|starmer suspends labour mps for breaching party discipline uk news|2c8c125a7f0b4291c5d8c3143a3bdf43
