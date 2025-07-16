@@ -1205,3 +1205,5 @@
 2025-07-16T14:46:52.517145+00:00|https://www.bbc.com/news/articles/c5y7zqdwzqyo|starmer suspends three labour mps for breaching party discipline uk news|f3abb6b398b647f347bf9128e72ee8de
 2025-07-16T14:47:33.054910+00:00|https://www.bbc.com/news/articles/c5y7zqdwzqyo|starmer suspends labour mps for breaching party discipline uk news|2c8c125a7f0b4291c5d8c3143a3bdf43
 2025-07-16T15:31:16.058805+00:00|https://www.bbc.com/news/articles/cy0w67geezxo|scottish mp criticises labour policies after suspension uk news|5bf5f56d9c9700e0a2ba86ae2744606a
+2025-07-16T16:27:34.824601+00:00|https://www.bbc.com/news/articles/c307yj1jnq6o|airport reopens after four killed in plane crash uk news|c6d6dc0b4a99764fb5ca6238f62af4bd
+2025-07-16T16:28:15.759391+00:00|https://news.sky.com/story/weather-temperatures-set-to-hit-30c-in-parts-of-uk-this-week-13397526|temperatures set to hit 30c in parts of uk this week uk news|3ef69fca59168206b892143c44fbc8be
