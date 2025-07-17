@@ -1244,3 +1244,4 @@
 2025-07-17T18:57:50.058733+00:00|https://www.bbc.com/news/articles/cj4ek9njknvo|british spies and sas named in afghan data breach uk news|658206cb3c585339bd4118cb68948227
 2025-07-17T20:23:23.468092+00:00|https://www.bbc.com/news/articles/cz9kl9e8y3vo|tributes as two british nationals die in portugal uk news|b8e0450f1ffbea42a67305c66be937ad
 2025-07-17T21:55:45.420955+00:00|https://news.sky.com/story/england-through-to-semi-finals-of-womens-euros-after-beating-sweden-on-penalties-13398213|england through to semifinals of womens euros after beating sweden on penalties uk news|3c58094492425ce870e5de1642c472b5
+2025-07-17T22:56:32.885157+00:00|https://www.telegraph.co.uk/news/2025/07/17/protesters-clash-with-police-essex-migrant-hotel|protesters clash with police outside essex migrant hotel uk news|26fc5712bc2701fc22b5a55ca73ac429
