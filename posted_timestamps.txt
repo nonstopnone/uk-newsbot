@@ -1227,3 +1227,5 @@
 2025-07-17T13:01:13.126907+00:00|https://www.bbc.com/news/articles/cm2lgnze013o|how will votes at 16 and changes to voter id work uk news|f4a8192d355f71ef51b02a80e8052716
 2025-07-17T13:42:38.238264+00:00|https://www.bbc.com/news/articles/c86g2d7e4pwo|jaguar land rover to cut up to 500 uk jobs uk news|3eaa5107428ce6445a056fc1782d3a79
 2025-07-17T13:59:32.770822+00:00|https://www.bbc.com/news/articles/cn81nl1n2v5o|highland wildfires were biggest in scotlands history uk news|c86fb04688440db13141a45a5cece72e
+2025-07-17T14:49:22.256798+00:00|https://news.sky.com/story/police-scotland-requests-extra-officers-from-across-uk-to-support-upcoming-donald-trump-visit-13398024|police scotland requests extra officers from across uk to support upcoming trump visit uk news|c22998135a49ca01132245b45c85ab9f
+2025-07-17T14:50:03.410451+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/malnutrition-surge-gaza-snipers-target-heads-legs-genitals|malnutrition surging in gaza as snipers target heads legs and genitals says oxford surgeon uk news|4992eabd746925506ba28a5fc8217ef9
