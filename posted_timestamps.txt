@@ -1257,3 +1257,4 @@
 2025-07-20T19:41:43.121922+00:00|https://www.bbc.com/news/articles/czxezxpdr7xo|amber warning for heavy rain in east and south east uk news|0a7f624e43eedacb8ae8d9eec4fe9170
 2025-07-21T01:59:11.807485+00:00|https://www.bbc.com/news/articles/cx2l8kq52y8o|hs2 was doomed to be a mess say insiders due to a problem in this country uk news|9c1b6a5eaa82ce7136abb3aff99132e9
 2025-07-21T01:59:52.428746+00:00|https://www.bbc.com/news/articles/cvgelpx2ljpo|battle of orgreave national inquiry confirmed uk news|e9852f6b92282fec4eb29e53c114fead
+2025-07-21T05:58:28.611343+00:00|https://news.sky.com/story/broken-water-industry-set-to-be-overhauled-nine-key-recommendations-from-landmark-report-13399475|broken water industry set to be overhauled nine key recommendations from landmark report uk news|a11258e5fbc0ef538a52475124f9ed3b
