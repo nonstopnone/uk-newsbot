@@ -1261,3 +1261,4 @@
 2025-07-21T07:14:54.711906+00:00|https://www.bbc.com/news/articles/cx2gx28815wo|weak password allowed hackers to sink a 158yearold company uk news|c4995121199fc4a441b0c7bddaa4a4df
 2025-07-21T07:43:31.599825+00:00|https://news.sky.com/story/do-not-travel-warning-issued-as-london-waterloo-station-hit-by-major-signalling-failure-13399478|do not travel warning as one of uks biggest stations hit by major signalling failure uk news|429e9275a0ba2e55274b1c0ed9385214
 2025-07-21T09:39:33.799629+00:00|https://news.sky.com/story/ofwat-to-be-swept-away-on-tide-of-public-anger-over-sewage-spills-13399527|ofwat to be swept away on tide of public anger over sewage spills uk news|0e6515079799176a618d8d3103802cd5
+2025-07-21T09:55:26.666834+00:00|https://www.bbc.com/news/articles/cdr3716kd8mo|police say asylum protest turned into thuggery uk news|542fc44e61d106af536a88f231a2251a
