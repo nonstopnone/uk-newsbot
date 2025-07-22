@@ -1281,3 +1281,4 @@
 2025-07-22T03:38:16.191485+00:00|https://www.bbc.com/news/articles/czdv68gejm7o|openai and uk sign deal to use ai in public services uk news|d39ba0ea837e2c38cc52a90d2f077043
 2025-07-22T06:32:05.515453+00:00|https://news.sky.com/story/uk-gives-final-go-ahead-to-16338bn-sizewell-c-nuclear-plant-13399929|uk gives final goahead to £38bn nuclear plant uk news|f933b6bf8434a551088b35e086ec3343
 2025-07-22T06:58:57.247525+00:00|https://news.sky.com/story/kemi-badenoch-reshuffling-tory-shadow-cabinet-today-james-cleverly-set-to-return-to-frontbench-13399938|badenoch reshuffling tory shadow cabinet today cleverly set to return to frontbench uk news|d2be9d4e5a27c16dd8042938a3a8ec7c
+2025-07-22T07:30:11.583466+00:00|https://www.bbc.com/news/articles/c24v0j73e75o|kemi badenoch to reshuffle tory shadow cabinet uk news|a9101d0dab07bec0e79b3fbad461caf5
