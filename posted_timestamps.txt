@@ -1298,3 +1298,5 @@
 2025-07-22T11:56:23.860434+00:00|https://www.bbc.com/news/articles/c2le45rj1dno|senedd conservative laura anne jones defects to reform uk news|f228fb62b4b3c979233fe9eb3e1b186a
 2025-07-22T12:47:23.276666+00:00|https://news.sky.com/story/mike-lynch-hp-is-owed-163700m-over-autonomy-deal-judge-rules-13400059|hp is owed £700m over mike lynch autonomy deal judge rules uk news|cac63e6e37f9dfda2ae75bb1edd00171
 2025-07-22T13:29:30.232440+00:00|https://www.bbc.com/news/articles/cp3kgg55410o|union boss mccluskey took private jet flights arranged by building firm report finds uk news|6a8212ab647ad7496e3fbbe12889f272
+2025-07-22T13:57:15.011780+00:00|https://news.sky.com/story/possible-tornado-spotted-in-yorkshire-13400087|possible tornado spotted in yorkshire uk news|66381fe7dc9517652c7017abe0ab65dd
+2025-07-22T13:57:55.746685+00:00|https://www.bbc.com/news/articles/c86gz61151zo|call off doctor strike to continue talks streeting tells bma uk news|7d075a2f75e46e93d04191b802b4d770
