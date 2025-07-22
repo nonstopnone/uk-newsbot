@@ -1277,3 +1277,5 @@
 2025-07-21T23:23:35.704415+00:00|https://www.bbc.com/news/articles/cwyxv9k28evo|public asked for views on criminalising deepfakes uk news|434d0e48188f0aa5b5e852232b5a0a39
 2025-07-21T23:42:18.257760+00:00|https://news.sky.com/story/watchdog-must-fine-social-media-companies-that-are-slow-to-remove-racism-after-jess-carter-abuse-says-culture-secretary-13399901|watchdog must fine social media companies that are slow to remove racism uk news|1dca08f8d999b3de10d6665d038990bc
 2025-07-22T01:53:45.629527+00:00|https://www.bbc.com/news/articles/c04d01wd39vo|the papers uk condemnation of aid attacks and come on lionesses uk news|e745986822c00941df781126a78b24b7
+2025-07-22T03:37:35.069825+00:00|https://news.sky.com/story/former-kentucky-police-officer-brett-hankison-sentenced-to-three-years-in-prison-over-breonna-taylor-death-13399910|expolice officer sentenced to three years in prison over breonna taylor death uk news|49f0c9c70480c30c37b1a67dfdf7bf24
+2025-07-22T03:38:16.191485+00:00|https://www.bbc.com/news/articles/czdv68gejm7o|openai and uk sign deal to use ai in public services uk news|d39ba0ea837e2c38cc52a90d2f077043
