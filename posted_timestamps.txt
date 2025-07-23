@@ -1332,3 +1332,5 @@
 2025-07-23T11:29:19.288966+00:00|https://www.bbc.com/news/articles/cvg8dn9ddqzo|unseen masterchef series will be broadcast bbc confirms uk news|bbf3618e6cc1fa21e00bce68ab85aed7
 2025-07-23T11:43:26.304891+00:00|https://www.bbc.com/news/articles/cn813v4l0d7o|family appeal over death of beautiful boy hit by car uk news|3597144200b3f6bd609bc2e392b8dae2
 2025-07-23T12:52:20.329805+00:00|https://www.telegraph.co.uk/recommended/leisure/outdoor/best-wellington-boots|the best wellington boots for men women and kids for long walks in the countryside uk news|e5a4a1c7fa44592b107d011ac4cfcdd3
+2025-07-23T13:38:36.345333+00:00|https://news.sky.com/story/essex-police-say-claims-by-nigel-farage-that-officers-bussed-in-counter-demonstrators-to-migrant-hotel-protest-are-categorically-wrong-13400630|essex police say claims by nigel farage that officers bussed in counterdemonstrators to migrant hotel protest are categorically wrong uk news|8fac4238708a4dbcec2b89278c9782b9
+2025-07-23T13:39:17.153995+00:00|https://www.bbc.com/news/articles/cy5w6xz7z0lo|call for government transparency on nuclear bombs uk news|89a92d37b19849de433b85ce3d0d9b8e
