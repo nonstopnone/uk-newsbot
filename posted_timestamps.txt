@@ -1340,3 +1340,5 @@
 2025-07-23T19:01:43.139493+00:00|https://www.bbc.com/news/articles/cx2nrpg64zro|residents return home after bomb threat evacuation uk news|63c4cdd6d36fd63ac922409e1f401c3e
 2025-07-23T22:21:44.474990+00:00|https://www.bbc.com/news/articles/c1mz4lll4x1o|children in police custody cells offered childline call uk news|8a6b00ae33ccf6f26e6ad7c9f51456b2
 2025-07-23T22:56:34.550027+00:00|https://www.telegraph.co.uk/football/2025/07/23/womens-euro-2025-germany-vs-spain-score-updates-semi-final|five things england learnt as spain booked place in euro 2025 final uk news|a2ecdefe7d471a9c87a56b06e11681bc
+2025-07-24T01:53:31.369161+00:00|https://www.bbc.com/news/articles/c24vedre9dmo|health selftest kits often inaccurate study says uk news|e5a2a1ebaf76cde8e6e58d97bda6c2b2
+2025-07-24T01:54:12.004716+00:00|https://www.bbc.com/news/articles/cr5vglq04zeo|uk vehicle making hits lowest level since 1953 uk news|1ed0c27ddeb55eebe22a695c16b22e15
