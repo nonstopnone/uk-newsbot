@@ -1361,3 +1361,5 @@
 2025-07-24T18:58:41.684203+00:00|https://www.bbc.com/news/articles/c1ljlmyg18qo|man in hospital after edinburgh shooting uk news|768c61495466f7f3d2db0a55fa489bb4
 2025-07-24T19:23:48.614726+00:00|https://www.telegraph.co.uk/tennis/2025/07/24/emma-raducanu-vs-naomi-osaka-live-score-washington-open|emma raducanu to reclaim british no 1 spot after beating naomi osaka at washington open uk news|66e4b8904e78323cb0e40bde964c4d62
 2025-07-24T23:43:21.285683+00:00|https://www.bbc.com/news/articles/c3enenn3zz2o|the papers threat to nhs from strikes and uk must do more on gaza uk news|2b1495dbf316729003fbca191b041fab
+2025-07-25T01:55:57.735017+00:00|https://news.sky.com/story/impact-of-long-nhs-waits-on-patients-revealed-plus-who-waits-longest-13400671|impact of long nhs waits on patients revealed plus who waits longest uk news|561f6f0dafa8eb2898dc04fe8cf93177
+2025-07-25T01:56:38.523047+00:00|https://news.sky.com/story/labour-doesnt-have-the-one-thing-striking-doctors-want-13401297|labour doesnt have the one thing striking doctors want uk news|420697f098d4a9cc20e2e8512b74b797
