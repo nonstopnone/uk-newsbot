@@ -1440,3 +1440,6 @@
 2025-07-28T18:32:33.819831+00:00|https://news.sky.com/story/two-killed-in-stabbing-at-business-premises-in-london-13403183|two killed in stabbing at business premises in london uk news|57f180107dfc03c9c69ff4b0170f34ac
 2025-07-28T19:40:28.817326+00:00|https://www.bbc.com/news/articles/cqjylj455v4o|suspect in maguiresbridge triple murder dies uk news|3e904fdcba0742095336fa617e1180da
 2025-07-28T21:26:15.587937+00:00|https://www.bbc.com/news/articles/c4g0qeedgzwo|reconsider gaza family case court tells foreign office uk news|838cbc132d739e592b53479534062421
+2025-07-29T02:01:01.209003+00:00|https://www.bbc.com/news/articles/cgqn8jv75klo|suspect in murder of woman and her two teenage children dies uk news|0e5a1c325ea7ac223309473c8be96f0e
+2025-07-29T02:01:41.931083+00:00|https://www.bbc.com/news/articles/cly6zgyy0wjo|starmer to hold emergency cabinet meeting on gaza uk news|7ecbc63ee869c0fb31287eb1d3423be7
+2025-07-29T02:02:22.887281+00:00|https://www.bbc.com/news/articles/cgqn8jv75klo|maguiresbridge murder victims will be buried together in county clare uk news|0e5a1c325ea7ac223309473c8be96f0e
