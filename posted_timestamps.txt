@@ -1446,3 +1446,5 @@
 2025-07-29T03:53:25.145867+00:00|https://www.bbc.com/news/articles/cpdjq3jd5npo|london to celebrate lionesses with opentop bus parade uk news|c50f54d1e9439e216ff3da849dddb086
 2025-07-29T07:40:35.349713+00:00|https://www.bbc.com/news/articles/cgeryx3j01go|ozzy funeral cortege to travel through birmingham uk news|6fcffcf0d23e057630851087877b0bd1
 2025-07-29T08:58:28.653537+00:00|https://www.bbc.com/news/articles/c627gpekvw3o|high meat and tea costs drive up food prices uk news|ebba3546f1115ae5ac945512940dd069
+2025-07-29T10:23:14.226036+00:00|https://news.sky.com/story/ozzy-osbourne-cortege-to-travel-through-birmingham-13403338|ozzy osbourne cortege to travel through birmingham uk news|27dc6fe1e1173fe77b61364c3d0ca522
+2025-07-29T10:23:55.074805+00:00|https://www.bbc.com/news/articles/cgery3eeqzxo|farage demands apology after minister says he is on the side of people like jimmy savile uk news|c2bd4cee2e0895e2648400a295031b07
