@@ -1464,3 +1464,5 @@
 2025-07-29T17:58:53.009949+00:00|https://www.bbc.com/news/articles/c5y0x6g0672o|four charged after house fire on terraced row uk news|6f8007f5557118c14cae191a7a135e35
 2025-07-29T18:44:35.289604+00:00|https://www.bbc.com/news/articles/cly42x8k55lo|scotland gives trump three things he likes and one thing he doesnt uk news|23c6ef6a0e47b51d8527c85060d95c5a
 2025-07-29T19:02:59.036642+00:00|https://news.sky.com/story/what-does-recognising-a-palestinian-state-mean-13401523|what does recognising a palestinian state mean uk news|dcd1c30d8d0c2142c1190f996f10d496
+2025-07-29T20:59:14.986886+00:00|https://www.bbc.com/news/articles/cly7very4rno|man killed on tube track during police search uk news|c0bb23d6c12b868ecb88ef1c969d8acc
+2025-07-29T20:59:55.826210+00:00|https://news.sky.com/story/sir-keir-starmers-significant-breakthrough-on-gaza-wont-please-everyone-13403683|starmers breakthrough on gaza wont please everyone uk news|f73b0678b427e3bb6853d8102454f6ff
