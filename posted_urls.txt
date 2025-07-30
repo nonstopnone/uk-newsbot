@@ -1008,7 +1008,7 @@ https://www.bbc.com/news/articles/cj427dy11j0o|2025-06-15T04:54:18.646874+00:00
 https://www.bbc.com/news/articles/c0j7x2xe54eo|2025-06-15T04:54:49.092692+00:00
 https://www.france24.com/en/middle-east/20250615-%F0%9F%94%B4-live-israel-says-hit-iranian-defence-ministry-headquarters-nuclear-weapons-linked-sites|2025-06-15T04:55:19.467742+00:00
 https://www.nytimes.com/2025/06/14/world/europe/ukraine-battlefield-russia-sumy-kostyantynivka.html|2025-06-15T04:55:49.788751+00:00
-https://www.washingtonpost.com|2025-06-22T06:38:51.702106+00:00
+https://www.washingtonpost.com|2025-07-30T02:14:07.854459+00:00
 https://www.nytimes.com/live/2025/06/14/world/israel-iran-news/heres-the-latest|2025-06-15T04:57:00.192609+00:00
 https://www.france24.com/en/video/20250615-no-kings-protests-erupt-in-thousands-of-us-cities|2025-06-15T04:57:30.667489+00:00
 https://www.bbc.com/news/articles/cy8d3l7858zo|2025-06-15T04:58:01.638632+00:00
@@ -3936,3 +3936,8 @@ https://www.bbc.com/news/articles/cvgvxgl5zxpo|2025-07-29T20:32:07.736482+00:00
 https://www.washingtonpost.com/world/2025/07/29/gaza-death-toll-60000|2025-07-29T20:32:47.945078+00:00
 https://www.washingtonpost.com/world/2025/07/29/china-floods-beijing-extreme-weather|2025-07-29T20:33:28.139696+00:00
 https://www.washingtonpost.com/world/2025/07/29/palau-pacific-island-us-military-china|2025-07-29T20:34:08.532587+00:00
+https://www.washingtonpost.com/world/2025/07/29/tsunami-west-coast-japan-87-quake-russia|2025-07-30T02:09:45.586834+00:00
+https://www.nytimes.com/live/2025/07/29/world/earthquake-tsunami-russia-japan-hawaii/japan-earthquake-tsunami-north-pacific-ocean|2025-07-30T02:12:16.861877+00:00
+https://www.nytimes.com/2025/07/29/world/canada/katy-perry-justin-trudeau-dinner.html|2025-07-30T02:13:27.576914+00:00
+https://www.nytimes.com/2025/07/29/world/middleeast/palestinian-statehood-israel.html|2025-07-30T02:14:38.297313+00:00
+https://www.bbc.com/news/articles/cy98jqr4p0xo|2025-07-30T02:15:09.199402+00:00
