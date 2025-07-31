@@ -166,7 +166,7 @@ def extract_first_paragraphs(url):
 # --- Language and Promotional Checks ---
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "promotion", "contest", "advert", "sponsor",
-    "deal", "offer", "competition", "prize", "free", "discount"
+    "deal", "offer", "competition", "prize", "free", "discount", "Gaza", "Israel", "Hamas"
 ]
 
 def is_english(text):
