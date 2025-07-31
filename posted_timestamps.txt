@@ -1514,3 +1514,7 @@
 2025-07-31T15:59:40.596788+00:00|https://www.bbc.com/news/articles/c17nd5xe2pvo|jeremy clarkson devastated as his farm has tb uk news|ce912ccda5e0e86e5bd98a4b96a86d0e
 2025-07-31T16:59:22.489414+00:00|https://news.sky.com/story/talk-of-statehood-wont-feed-the-people-of-gaza-13404717|talk of statehood wont feed the people of gaza uk news|9d9581e9f6b16012a4b57321af547ac5
 2025-07-31T17:00:03.511345+00:00|https://news.sky.com/story/former-labour-minister-anneliese-dodds-says-she-hopes-rachel-reeves-is-considering-wealth-tax-13404135|former labour minister says she hopes rachel reeves is considering wealth tax uk news|e929e7773a4b083574cf43617977d5c0
+2025-07-31T17:28:57.461655+00:00|https://news.sky.com/story/gazan-boy-15-given-heros-welcome-as-he-arrives-in-uk-for-urgent-medical-treatment-13404742|gazan boy 15 given heros welcome as he arrives in uk for urgent medical treatment uk news|7efbd662048569673552868a349cf26e
+2025-07-31T17:29:38.271595+00:00|https://www.bbc.com/news/articles/cj0yr23nl6zo|brothers face retrial over manchester airport brawl uk news|6e6a65eb3683173b2ca040fae2087e3e
+2025-07-31T17:30:19.141350+00:00|https://www.bbc.com/news/articles/cvgn6979n59o|first warinjured gazan child arrives in uk for treatment uk news|464b20bf5ec6fbf865474f75ff669f7e
+2025-07-31T17:30:59.725118+00:00|https://www.bbc.com/news/articles/cpdjnz6ngd9o|former nurse loses legal challenge over private gender clinic uk news|f72764f88193e3288806ca84cce7cbf7
