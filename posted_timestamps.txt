@@ -1487,3 +1487,4 @@
 2025-07-30T20:44:57.452358+00:00|https://www.bbc.com/news/articles/c4glxypwwx0o|flight disruption after major uk air traffic outage uk news|15a177e9277b23135cfed507f72ba982
 2025-07-31T02:03:50.229963+00:00|https://www.bbc.com/news/articles/cvg40ywvekpo|the papers prince of sadness and air we go again uk news|d28373cd5401e2f9a0c5f79c8151769e
 2025-07-31T02:04:31.436066+00:00|https://news.sky.com/story/yusuf-nazir-new-report-examines-death-of-boy-who-was-sent-home-from-hospital-due-to-a-lack-of-beds-13404117|new report examines death of boy who was sent home from hospital due to a lack of beds uk news|c0606edc22c75d6c36793bc165530ea5
+2025-07-31T03:46:45.607084+00:00|https://news.sky.com/story/uk-weather-fresh-yellow-warning-for-thunderstorms-comes-into-force-this-morning-13404351|fresh yellow weather warning for thunderstorms comes into force this morning uk news|ff0ece0e6ca82361a851a0e42639c515
