@@ -1489,3 +1489,5 @@
 2025-07-31T02:04:31.436066+00:00|https://news.sky.com/story/yusuf-nazir-new-report-examines-death-of-boy-who-was-sent-home-from-hospital-due-to-a-lack-of-beds-13404117|new report examines death of boy who was sent home from hospital due to a lack of beds uk news|c0606edc22c75d6c36793bc165530ea5
 2025-07-31T03:46:45.607084+00:00|https://news.sky.com/story/uk-weather-fresh-yellow-warning-for-thunderstorms-comes-into-force-this-morning-13404351|fresh yellow weather warning for thunderstorms comes into force this morning uk news|ff0ece0e6ca82361a851a0e42639c515
 2025-07-31T04:31:07.023561+00:00|https://www.bbc.com/news/articles/cd9jn1ydx9lo|airlines demand answers after air traffic control failure uk news|e194d0b53ef6bf9ef0cf564a57ec1c8f
+2025-07-31T05:42:48.195558+00:00|https://www.bbc.com/news/videos/c3dpeyrx1kyo|british 999 callers voice cloned by russian network using ai uk news|ba482309f263ec55a1a237e0b9bc23df
+2025-07-31T05:43:29.254593+00:00|https://www.bbc.com/news/articles/c6264ryxmv0o|call to simplify scottish disability benefits system uk news|d7e381fa8aced45fdcf952e574fd33ca
