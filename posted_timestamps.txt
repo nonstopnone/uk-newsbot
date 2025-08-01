@@ -1520,3 +1520,6 @@
 2025-07-31T17:30:59.725118+00:00|https://www.bbc.com/news/articles/cpdjnz6ngd9o|former nurse loses legal challenge over private gender clinic uk news|f72764f88193e3288806ca84cce7cbf7
 2025-07-31T22:22:25.630567+00:00|https://www.bbc.com/news/articles/cdj23n2497do|air ambulance missed 550 patients amid rural location row uk news|cad250244b1628c99d0f4b6cd6181892
 2025-07-31T23:25:18.500125+00:00|https://www.bbc.com/news/articles/cp371jdnnj7o|mourners to pay respects to murdered mum and children before funeral uk news|8c394514ce46fbe65c315b02e91f686d
+2025-08-01T02:05:44.989087+00:00|https://www.bbc.com/news/articles/cwyegp0dnq9o|tuition fees in england and wales rise to £9535 uk news|ad275db2f8d7e4d5ef8f3faf6ef97a36
+2025-08-01T02:06:25.998610+00:00|https://www.bbc.com/news/articles/cdrk06xyk7do|the papers how israel caused a famine and poisoned at summer camp uk news|f9f625463b2e023f6b6d2ee0a60114d1
+2025-08-01T02:07:07.312730+00:00|https://www.bbc.com/news/articles/cj6yz77nlw4o|heathrow airports expansion plans to cost £49bn uk news|88538847c5cbc26da892c6c4383ca671
