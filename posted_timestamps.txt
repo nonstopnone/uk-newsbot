@@ -1564,3 +1564,4 @@
 2025-08-03T11:55:43.612728+00:00|https://www.bbc.com/news/articles/c4ge98v7j80o|bbc launches investigation into strictly drug use uk news|68c3a9050a3d8d00cd06a3930d986dbf
 2025-08-03T13:49:36.958660+00:00|https://www.bbc.com/news/articles/cr4e641p41po|government plans to bring more gazan children to uk for treatment uk news|f3c360a01ec0c4a45dfe97efe2bd7ff1
 2025-08-03T14:27:37.695906+00:00|https://news.sky.com/story/new-cross-man-arrested-on-suspicion-of-murder-after-fatal-stabbing-in-southeast-london-13406310|man arrested after fatal stabbing in southeast london uk news|ff97b65e71714548567e53dbaa1387b3
+2025-08-03T20:45:36.191723+00:00|https://news.sky.com/story/fifth-person-charged-after-aircraft-vandalised-at-raf-brize-norton-13406499|fifth person charged after aircraft vandalised at raf brize norton uk news|86e8f924b5372a929cfe90335dd177e1
