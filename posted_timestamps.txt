@@ -1566,3 +1566,4 @@
 2025-08-03T14:27:37.695906+00:00|https://news.sky.com/story/new-cross-man-arrested-on-suspicion-of-murder-after-fatal-stabbing-in-southeast-london-13406310|man arrested after fatal stabbing in southeast london uk news|ff97b65e71714548567e53dbaa1387b3
 2025-08-03T20:45:36.191723+00:00|https://news.sky.com/story/fifth-person-charged-after-aircraft-vandalised-at-raf-brize-norton-13406499|fifth person charged after aircraft vandalised at raf brize norton uk news|86e8f924b5372a929cfe90335dd177e1
 2025-08-03T20:57:00.970713+00:00|https://www.bbc.com/news/articles/cr742e8n0rxo|fifth person charged over breakin at raf base uk news|a68e35eab018c963b26395a13c2332ef
+2025-08-03T21:23:31.826968+00:00|https://www.bbc.com/news/articles/cp89337gm7ro|nhs in england told to keep welsh patients waiting uk news|7fd35768758967a6e6d2deb1fd1caece
