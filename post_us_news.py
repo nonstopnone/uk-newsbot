@@ -79,7 +79,6 @@ def load_dedup(filename=DEDUP_FILE):
                 if line.strip():
                     parts = line.strip().split('|')
                     if len(parts) >= 4:
-                        timestamp = parts[0]
                         url = parts[1]
                         hash = parts[-1]
                         title = '|'.join(parts[2:-1])
@@ -297,9 +296,6 @@ def main():
                 articles_by_source[name].append(entry)
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
-
-    # Remaining logic unchanged...
-    # (Post selection, deduplication, posting — already in the version you've got.)
 
 if __name__ == "__main__":
     main()
