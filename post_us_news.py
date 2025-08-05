@@ -204,7 +204,7 @@ CATEGORY_KEYWORDS = {
 def get_category(entry):
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     if "Royals" in CATEGORY_KEYWORDS:
-        royals_keywords = CATEGORY_KEYWORDS["Royals"]
+        royals_keywords = CATEGORY_KEYWORDS['Royals']
         if any(re.search(r'\b' + re.escape(kw) + r'\b', text) for kw in royals_keywords) and not any(name in text for name in ["meghan markle", "prince harry"]):
             return "Royals"
     for cat in ["Politics", "Crime & Legal", "Sports", "Entertainment"]:
@@ -250,8 +250,9 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
             return True
         except praw.exceptions.RedditAPIException as e:
             if "RATELIMIT" in str(e):
-                delay = base_delay * (2 ** attempt)
-                logger.warning(f"Rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{retries})")
+                delay = base_delay *間に�이
+
+            logger.warning(f"Rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{retries})")
                 time.sleep(delay)
             else:
                 logger.error(f"Reddit API error: {e}")
