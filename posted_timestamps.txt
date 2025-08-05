@@ -1596,3 +1596,5 @@
 2025-08-05T10:50:54.401142+00:00|https://news.sky.com/story/former-fund-manager-woodford-facing-ban-and-16346m-fine-13407233|former fund manager woodford facing ban and £46m fine uk news|15e0d43ca1304e6a108cb2ad6846a9f4
 2025-08-05T12:47:53.402965+00:00|https://www.bbc.com/news/articles/cg4xkp30y6ro|bridgerton actress agoraphobic after phone attack uk news|3e592f281184d7e42bd331a2ded272de
 2025-08-05T13:32:52.933254+00:00|https://www.bbc.com/news/articles/c3dpkvkkjjno|corbyn attacks rayner for selling off allotments uk news|3fe1d0c61fe0d023df000127e0d96e94
+2025-08-05T15:36:49.829735+00:00|https://news.sky.com/story/ofwat-chief-black-to-step-down-ahead-of-watchdogs-abolition-13407352|ofwat chief black to step down ahead of watchdogs abolition uk news|43594de631a959a6f92ff4acdd60bf95
+2025-08-05T15:37:35.638402+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/labours-decision-to-close-fleming-fund-is-a-false-economy|labours decision to close the fleming fund is a false economy that puts our national security at risk uk news|7debf10fa6c0668db924c380eea8df3c
