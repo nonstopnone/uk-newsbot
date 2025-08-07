@@ -1634,3 +1634,5 @@
 2025-08-07T10:23:20.104353+00:00|https://www.bbc.com/news/articles/cp3enyvge4no|three people charged with supporting palestine action uk news|c8baf65c5ed5852f5593285cfa0c7685
 2025-08-07T11:27:33.472523+00:00|https://www.bbc.com/news/articles/c5yprwyxjlxo|uk interest rates cut to lowest for more than two years uk news|e12418ec66ab3f7fde807f1d6a1c4501
 2025-08-07T13:32:25.674228+00:00|https://news.sky.com/story/chancellor-doesnt-rule-out-raising-gambling-taxes-after-report-said-it-could-lift-500000-children-out-of-poverty-13408154|chancellor doesnt rule out raising gambling taxes after report said it could lift 500000 children out of poverty uk news|c0a691ccc41a8e2cf5572f8c2521ed03
+2025-08-07T14:00:40.648199+00:00|https://news.sky.com/story/bromley-burglary-163500000-worth-of-gold-stolen-from-home-13408213|£500000 worth of gold stolen from london home uk news|f1cfeb9250e30254448e0049ae2a72bc
+2025-08-07T14:01:21.762820+00:00|https://news.sky.com/story/oasis-gig-at-murrayfield-in-edinburgh-beats-taylor-swift-for-most-ground-shaking-concert-13408137|oasis gig beats taylor swift for most groundshaking concert uk news|681417a57e1c35007811e94810b86edd
