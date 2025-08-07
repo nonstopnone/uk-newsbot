@@ -1633,3 +1633,4 @@
 2025-08-07T08:59:13.411196+00:00|https://www.bbc.com/news/articles/cwye6yn52gjo|brown urges reeves to hike gambling taxes at budget uk news|51234d8e9d0663e262c89ac8b8bf7710
 2025-08-07T10:23:20.104353+00:00|https://www.bbc.com/news/articles/cp3enyvge4no|three people charged with supporting palestine action uk news|c8baf65c5ed5852f5593285cfa0c7685
 2025-08-07T11:27:33.472523+00:00|https://www.bbc.com/news/articles/c5yprwyxjlxo|uk interest rates cut to lowest for more than two years uk news|e12418ec66ab3f7fde807f1d6a1c4501
+2025-08-07T13:32:25.674228+00:00|https://news.sky.com/story/chancellor-doesnt-rule-out-raising-gambling-taxes-after-report-said-it-could-lift-500000-children-out-of-poverty-13408154|chancellor doesnt rule out raising gambling taxes after report said it could lift 500000 children out of poverty uk news|c0a691ccc41a8e2cf5572f8c2521ed03
