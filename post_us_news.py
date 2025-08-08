@@ -196,7 +196,7 @@ CATEGORY_KEYWORDS = {
     "Breaking News": ["breaking", "live", "update", "developing", "just in", "alert"],
     "Politics": ["politics", "congress", "senate", "government", "election", "policy", "president", "governor"],
     "Crime & Legal": ["crime", "police", "court", "legal", "arrest", "trial", "investigation", "prosecution"],
-    "Sports": ["sport", "football", "basketball", "baseball", "soccer", "nfl", "nba", "mlb", "match", "game"],
+    "Sports": ["sport", "football", "basketball", "baseball", "socCER", "nfl", "nba", "mlb", "match", "game"],
     "Entertainment": ["entertainment", "hollywood", "celebrity", "movie", "tv show", "music", "award", "oscar"],
     "Royals": ["king", "queen", "prince", "princess", "royal family", "monarchy", "buckingham palace", "windsor"]
 }
@@ -242,7 +242,7 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
                 flair_id=flair_id
             )
             logger.info(f"Posted: {submission.shortlink}")
-            add_to_dedup(entry)  # Moved here for consistency
+            add_to_dedup(entry)
             body = extract_first_paragraphs(entry.link)
             if body:
                 reply_text = "\n".join([f"> {html.unescape(line)}" if line else "" for line in body.split('\n')])
