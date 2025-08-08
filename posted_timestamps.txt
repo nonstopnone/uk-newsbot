@@ -1654,3 +1654,6 @@
 2025-08-08T02:03:10.107865+00:00|https://www.bbc.com/news/articles/c1ledrnv4m3o|the papers minister for hypocrisy and pill for weight loss on nhs uk news|0912dbde212c16ee4ae4e6aaf0078bf0
 2025-08-08T02:03:50.923559+00:00|https://www.bbc.com/news/articles/cwy1wgly21zo|southern european butterfly spotted in uk for first time uk news|41c500df4f0c248fdfb8c053da2c9d6e
 2025-08-08T05:44:25.066259+00:00|https://www.bbc.com/news/articles/c23pmmv9xkeo|oasis arrive in edinburgh for murrayfield shows uk news|9fede98203f091ea8bfd2ae0414d7b04
+2025-08-08T08:58:57.265787+00:00|https://www.bbc.com/news/articles/c5ylxv7wd33o|boy 4 dies after being hit by bus outside hospital uk news|1730718828b9d6182a62b171901f7eb5
+2025-08-08T08:59:38.032035+00:00|https://news.sky.com/story/boy-4-dies-after-being-hit-by-bus-as-he-walked-out-of-hospital-in-margate-kent-13408502|boy 4 dies after being hit by bus as he walked out of hospital uk news|c57a88e8b02a07880dd003f50a8840b6
+2025-08-08T09:00:19.020337+00:00|https://www.bbc.com/news/articles/c5ylxv7wd33o|boy 4 dies after being hit by bus outside hospital uk news|1730718828b9d6182a62b171901f7eb5
