@@ -27,3 +27,4 @@
 2025-08-08T11:44:00.279422+00:00|https://www.nytimes.com/2025/08/08/business/intel-ceo-trump.html|intels ceo defends himself after trump calls for resignation us news|3733945964f5bbaf217787904273f3bd
 2025-08-08T11:44:00.811433+00:00|https://www.nytimes.com/2025/08/08/climate/epa-database-useeio-greenhouse-gases.html|epa to stop updating popular database after lead scientist criticized trump us news|dc2473a56c38b423d1b6a2376cb33e59
 2025-08-08T11:44:01.340119+00:00|https://www.nytimes.com/2025/08/08/world/americas/argentina-starfish-milei-conicet.html|a starfish a president and a deepsea frenzy in argentina us news|4fed34c39d50c5e09cd8530bb1eb3778
+2025-08-08T11:57:39.964008+00:00|https://abcnews.go.com/Entertainment/video/mlb-debut-female-umpire-124476378|watch mlb to debut its firstever female umpire us news|575fd7389355c03427093ebaae01faa1
