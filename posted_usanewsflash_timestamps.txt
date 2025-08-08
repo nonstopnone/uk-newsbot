@@ -59,3 +59,8 @@
 2025-08-08T23:24:17.611103+00:00|https://www.nytimes.com/2025/08/08/us/william-h-webster-dead.html|william h webster who ran both the fbi and the cia dies at 101 us news|ddd750ee547f9be054a7bae85d0fd791
 2025-08-08T23:24:18.319831+00:00|https://www.nytimes.com/2025/08/08/world/americas/mexico-trump-military-cartels.html|mexicos president says us forces are unwelcome in her country us news|652be2f1732934817ed00a2f3aae334c
 2025-08-08T23:24:19.032298+00:00|https://www.nytimes.com/2025/08/08/us/politics/trump-kennedy-vaccines.html|trump just shrugs as kennedy undermines his vaccine legacy us news|739fcb01aa7dea40dd2313f68c93b959
+2025-08-08T23:42:56.123491+00:00|https://www.bbc.com/news/articles/czr68vde7nvo|faith family and fish the unlikely bond between jd vance and the uks foreign secretary us news|08c4fa920550b40efee8204ded5c8302
+2025-08-08T23:42:56.801156+00:00|https://www.bbc.com/news/articles/c4g9yde95yyo|nasa apollo missions stories of the last moon men us news|8af8502754e8ffe6ffa69ee9e06924d7
+2025-08-08T23:42:57.544314+00:00|https://www.nbcnews.com/now/video/trump-announces-meeting-with-putin-to-be-held-in-alaska-244622917783|trump announces meeting with putin to be held in alaska us news|3f399507584f1950a4967bfa6cfc98c5
+2025-08-08T23:42:58.235784+00:00|https://www.nbcnews.com/news/education/california-school-board-instagram-likes-nazi-name-calling-redlands-rcna223472|a fight over a school board members instagram likes escalates into nazi namecalling us news|a97cd16983b63350a062c53a5140e676
+2025-08-08T23:42:58.942877+00:00|https://www.nbcnews.com/news/us-news/montana-bar-shooting-michael-brown-anaconda-rcna222717|suspect in deadly montana bar shooting has been captured officials say us news|91415f7388fa97571a4f683ea150b295
