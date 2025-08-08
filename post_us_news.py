@@ -242,17 +242,16 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
                 flair_id=flair_id
             )
             logger.info(f"Posted: {submission.shortlink}")
+            add_to_dedup(entry)  # Moved here for consistency
             body = extract_first_paragraphs(entry.link)
             if body:
                 reply_text = "\n".join([f"> {html.unescape(line)}" if line else "" for line in body.split('\n')])
                 submission.reply(reply_text + f"\n\n[Read more]({entry.link})")
-            add_to_dedup(entry)
             return True
         except praw.exceptions.RedditAPIException as e:
             if "RATELIMIT" in str(e):
-                delay = base_delay *間に�이
-
-            logger.warning(f"Rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{retries})")
+                delay = base_delay * (2 ** attempt)
+                logger.warning(f"Rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{retries})")
                 time.sleep(delay)
             else:
                 logger.error(f"Reddit API error: {e}")
@@ -297,6 +296,19 @@ def main():
                 articles_by_source[name].append(entry)
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
+
+    # Post collected articles
+    for source, articles in articles_by_source.items():
+        for entry in articles:
+            is_dup, reason = is_duplicate(entry)
+            if is_dup:
+                logger.info(f"Skipped duplicate article: {html.unescape(entry.title)} ({reason})")
+                continue
+            category = get_category(entry)
+            if post_to_reddit(entry, category):
+                logger.info(f"Successfully posted: {html.unescape(entry.title)}")
+            else:
+                logger.error(f"Failed to post: {html.unescape(entry.title)}")
 
 if __name__ == "__main__":
     main()
