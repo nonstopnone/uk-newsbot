@@ -1658,3 +1658,6 @@
 2025-08-08T08:59:38.032035+00:00|https://news.sky.com/story/boy-4-dies-after-being-hit-by-bus-as-he-walked-out-of-hospital-in-margate-kent-13408502|boy 4 dies after being hit by bus as he walked out of hospital uk news|c57a88e8b02a07880dd003f50a8840b6
 2025-08-08T09:00:19.020337+00:00|https://www.bbc.com/news/articles/c5ylxv7wd33o|boy 4 dies after being hit by bus outside hospital uk news|1730718828b9d6182a62b171901f7eb5
 2025-08-08T10:59:17.337618+00:00|https://news.sky.com/story/uk-weather-yellow-heat-health-alert-issued-with-temperatures-set-to-hit-30c-13408553|yellow heat health alert issued for large parts of uk with temperatures set to hit 30c uk news|cbd0e5bd9990e3afb3871afe3ae5bdd9
+2025-08-08T11:26:44.903350+00:00|https://www.telegraph.co.uk/recommended/sleep/best-fitted-sheet|the best fitted sheets tested for a neat hotelstyle bed uk news|059e37890dd444aafdabfe7dc0c1f62d
+2025-08-08T11:27:25.800542+00:00|https://www.bbc.com/news/articles/cgjylqlvq5xo|david lammy to host jd vance at country residence uk news|2edfa779ceb0c887557570883d898486
+2025-08-08T11:28:06.840801+00:00|https://news.sky.com/story/cheap-eats-top-chef-on-why-rick-stein-is-the-real-deal-and-how-you-should-complain-13408535|top chef on why rick stein is the real deal and how you should complain uk news|9004208f26bb71bc29a2a1bc5c5de2ec
