@@ -54,3 +54,8 @@
 2025-08-08T22:57:38.067714+00:00|https://www.nytimes.com/2025/08/08/us/politics/texas-redistricting-democrats.html|texas attorney general moves to oust democrats from office over walkout us news|dc8f46078b2c78a0dca867b93a2eaf3b
 2025-08-08T22:57:38.587708+00:00|https://www.nytimes.com/2025/08/08/us/politics/boasberg-trump-deportation-flights.html|appeals court blocks judge boasbergs contempt inquiry into trump officials us news|7a6c09d0fa49cb55c246afbc4a8b4b94
 2025-08-08T22:57:39.102924+00:00|https://www.nytimes.com/2025/08/08/us/montana-shooting-suspect-captured-manhunt.html|suspect in deadly montana bar shooting is captured official says us news|d7f89fc9bc527c748e54b79f9bca1c76
+2025-08-08T23:24:16.212756+00:00|https://www.nytimes.com/2025/08/08/world/americas/colombia-peru-amazon-island.html|war of words erupts between colombia and peru over island in amazon us news|f656addc9c1a41119d5beb059f6ba738
+2025-08-08T23:24:16.921137+00:00|https://www.nytimes.com/2025/08/08/us/canyon-fire-los-angeles.html|firefighters work to contain wildfire northwest of la us news|90185d27f177eb1122e878c60eebf4f0
+2025-08-08T23:24:17.611103+00:00|https://www.nytimes.com/2025/08/08/us/william-h-webster-dead.html|william h webster who ran both the fbi and the cia dies at 101 us news|ddd750ee547f9be054a7bae85d0fd791
+2025-08-08T23:24:18.319831+00:00|https://www.nytimes.com/2025/08/08/world/americas/mexico-trump-military-cartels.html|mexicos president says us forces are unwelcome in her country us news|652be2f1732934817ed00a2f3aae334c
+2025-08-08T23:24:19.032298+00:00|https://www.nytimes.com/2025/08/08/us/politics/trump-kennedy-vaccines.html|trump just shrugs as kennedy undermines his vaccine legacy us news|739fcb01aa7dea40dd2313f68c93b959
