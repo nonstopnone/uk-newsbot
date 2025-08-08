@@ -14,7 +14,7 @@ import logging
 import random
 from dateutil import parser as dateparser
 
-# --- Logging Setup ---
+# Logging setup
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -22,7 +22,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# --- Environment Variable Check ---
+# Environment variable check
 required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
@@ -34,21 +34,17 @@ if missing_vars:
     logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
 
-# --- Reddit API Credentials ---
-REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
-REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
-REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
+# Reddit API setup
 reddit = praw.Reddit(
-    client_id=REDDIT_CLIENT_ID,
-    client_secret=REDDIT_CLIENT_SECRET,
-    username=REDDIT_USERNAME,
-    password=REDDIT_PASSWORD,
+    client_id=os.environ['REDDIT_CLIENT_ID'],
+    client_secret=os.environ['REDDIT_CLIENT_SECRET'],
+    username=os.environ['REDDIT_USERNAME'],
+    password=os.environ['REDDITPASSWORD'],
     user_agent='USANewsFlashBot/1.0'
 )
 subreddit = reddit.subreddit('USANewsFlash')
 
-# --- Deduplication ---
+# Deduplication file
 DEDUP_FILE = './posted_usanewsflash_timestamps.txt'
 
 def normalize_url(url):
@@ -187,7 +183,6 @@ def is_promotional(entry):
 def is_us_relevant(entry, threshold=2):
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     score = calculate_us_relevance_score(combined)
-    print(f"Article: {html.unescape(entry.title)} | Relevance Score: {score}")
     if score < threshold:
         logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
     return score >= threshold
@@ -196,7 +191,7 @@ CATEGORY_KEYWORDS = {
     "Breaking News": ["breaking", "live", "update", "developing", "just in", "alert"],
     "Politics": ["politics", "congress", "senate", "government", "election", "policy", "president", "governor"],
     "Crime & Legal": ["crime", "police", "court", "legal", "arrest", "trial", "investigation", "prosecution"],
-    "Sports": ["sport", "football", "basketball", "baseball", "socCER", "nfl", "nba", "mlb", "match", "game"],
+    "Sports": ["sport", "football", "basketball", "baseball", "soccer", "nfl", "nba", "mlb", "match", "game"],
     "Entertainment": ["entertainment", "hollywood", "celebrity", "movie", "tv show", "music", "award", "oscar"],
     "Royals": ["king", "queen", "prince", "princess", "royal family", "monarchy", "buckingham palace", "windsor"]
 }
@@ -265,7 +260,9 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
 def main():
     feed_sources = {
         "CNN": "https://rss.cnn.com/rss/cnn_topstories.rss",
-        "Fox News": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "Fox News": "https://moxie.foxnews.com
+
+/google-publisher/latest.xml",
         "NBC News": "https://feeds.nbcnews.com/nbcnews/public/news",
         "ABC News": "https://abcnews.go.com/abcnews/topstories",
         "NY Times": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
@@ -307,6 +304,7 @@ def main():
             category = get_category(entry)
             if post_to_reddit(entry, category):
                 logger.info(f"Successfully posted: {html.unescape(entry.title)}")
+                time.sleep(30)  # Wait 30 seconds before next post
             else:
                 logger.error(f"Failed to post: {html.unescape(entry.title)}")
 
