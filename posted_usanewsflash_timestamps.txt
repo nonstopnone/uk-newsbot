@@ -84,3 +84,4 @@
 2025-08-09T04:37:21.849992+00:00|https://www.nytimes.com/video/world/asia/100000010324151/is-kim-jong-un-preparing-a-successor.html|is kim jongun preparing a successor us news|4e038187e944699928f4e189c0f156cc
 2025-08-09T07:22:35.534379+00:00|https://www.nytimes.com/2025/08/09/world/europe/zelensky-trump-ukraine-russia.html|zelensky rejects trumps suggestion that ukraine swap territory with russia us news|dce4e983d68d4b2a0a264b188c35cabf
 2025-08-09T07:41:14.903793+00:00|https://www.nbcnews.com/world/ukraine/zelenskyy-rejects-trumps-proposal-ukraine-swap-territories-russia-rcna224022|zelenskyy rejects trumps proposal that ukraine could swap territories with russia us news|96dd5d86c55bd79ec79643fb7ad89580
+2025-08-09T07:57:22.875223+00:00|https://www.bbc.com/news/articles/c07pdel9vyjo|mexico rejects trumps reported military plan against drug cartels us news|8b196f56789f56674109e9d96a234096
