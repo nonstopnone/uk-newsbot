@@ -3095,7 +3095,7 @@ https://www.bbc.com/news/articles/cvg6zg6kelro|2025-07-15T18:37:59.074458+00:00
 https://www.bbc.com/news/articles/c79q42y07wpo|2025-07-15T18:38:29.989306+00:00
 https://www.nytimes.com/2025/07/15/world/middleeast/netanyahu-ultra-orthodox-draft.html|2025-07-15T18:39:00.245541+00:00
 https://www.france24.com/en/live-news/20250715-severance-leads-emmy-nominations-with-27|2025-07-15T18:39:30.708496+00:00
-https://www.washingtonpost.com/world/2025/07/15/trump-russia-ukraine-putin-zelensky-timeline|2025-07-15T18:40:10.968686+00:00
+https://www.washingtonpost.com/world/2025/07/15/trump-russia-ukraine-putin-zelensky-timeline|2025-08-09T12:50:10.107885+00:00
 https://www.bbc.com/news/articles/c0j42xy47q7o|2025-07-15T18:40:41.675227+00:00
 https://www.france24.com/en/video/20250715-french-pm-bayrou-stakes-political-survival-on-budget-squeeze|2025-07-15T18:41:11.926734+00:00
 https://www.bbc.com/news/articles/cly8pwed355o|2025-07-15T18:41:42.712761+00:00
@@ -4657,3 +4657,11 @@ https://www.washingtonpost.com/world/2025/08/09/pakistan-oil-trump-china|2025-08
 https://www.bbc.com/news/articles/ckgej5vw0w7o|2025-08-09T06:35:55.966178+00:00
 https://www.france24.com/en/live-news/20250809-restored-nagasaki-bell-rings-in-80-years-since-a-bomb|2025-08-09T06:36:26.275013+00:00
 https://www.bbc.com/news/videos/cj4wexw5gwyo|2025-08-09T06:36:56.797724+00:00
+https://www.nytimes.com/2025/08/09/sports/an-unusual-soccer-finale-in-italy-reveals-libyas-frailties.html|2025-08-09T12:48:59.059977+00:00
+https://www.france24.com/en/video/20250809-global-calls-for-israel-to-scrap-gaza-city-takeover-plan|2025-08-09T12:49:29.647660+00:00
+https://www.bbc.com/news/articles/c3dp119lk5xo|2025-08-09T12:50:40.857496+00:00
+https://www.nytimes.com/2025/08/09/world/europe/russia-ukraine-frontline.html|2025-08-09T12:51:11.080972+00:00
+https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html|2025-08-09T12:51:41.331887+00:00
+https://www.france24.com/en/video/20250809-aude-french-firefighters-optimistic-after-controlling-vast-wildfire|2025-08-09T12:52:12.104684+00:00
+https://www.washingtonpost.com/world/2025/08/09/ukraine-zelensky-trump-russia-meeting|2025-08-09T12:52:52.549106+00:00
+https://www.bbc.com/news/articles/c3ezn5ykkk2o|2025-08-09T12:53:23.061296+00:00
