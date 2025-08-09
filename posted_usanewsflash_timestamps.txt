@@ -69,3 +69,8 @@
 2025-08-08T23:57:46.356871+00:00|https://www.nbcnews.com/world/middle-east/israel-plan-reinvade-gaza-criticism-rcna223834|questions swirl around arab forces named in netanyahus gaza plan us news|c2cd13ce68a4d7b538d305860dd28bd8
 2025-08-08T23:57:46.832942+00:00|https://abcnews.go.com/Live/video/abcnews-live-41463246|live officials give update on emory university shooting abc news live us news|9caf876bfbfc7d21f1e4578d41e996ea
 2025-08-08T23:57:47.279501+00:00|https://www.nytimes.com/2025/08/08/world/europe/putin-trump-summit-ukraine.html|what putin hopes to gain from a summit with trump us news|57e98d962a2a9a58964f81a3229aef2c
+2025-08-09T02:00:57.738838+00:00|https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story|officer killed suspect dead in shooting near cdc hq emory university campus us news|8de8f91ee6780f8958843b0ed4a56d31
+2025-08-09T02:00:58.223828+00:00|https://abcnews.go.com/US/former-fbi-cia-director-william-webster-dies-101/story|former fbi cia director william webster dies at 101 us news|30f7aeb5a31ff34865ef2e4a9f5d72f1
+2025-08-09T02:00:58.746754+00:00|https://www.nytimes.com/2025/08/08/business/trump-intel-ceo-ohio.html|trump attack on intels ceo could compound factory struggles us news|0a1f09cd94fdfe495c489de4d99f71f2
+2025-08-09T02:00:59.236479+00:00|https://www.nytimes.com/2025/08/08/us/politics/trump-billy-long-irs-commissioner.html|trump is removing billy long as the irs head 2 months after he was confirmed us news|6ccc087759411ed0dd31f2c7e9bd0d4c
+2025-08-09T02:00:59.769424+00:00|https://www.nytimes.com/2025/08/08/us/labubu-dolls-stolen-california.html|thousands of dollars worth of labubus stolen from california store us news|2cbf12ff0d44eb5e97e14667798faec2
