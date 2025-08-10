@@ -125,3 +125,5 @@
 2025-08-09T22:23:43.450740+00:00|https://www.nytimes.com/2025/08/09/world/americas/drug-cartels-us-terrorist-designation.html|these are drug cartels designated as terrorists by the us us news|71adcc0f0a856ae6f55df57d1fa03b25
 2025-08-09T22:23:43.996857+00:00|https://abcnews.go.com/International/vance-uk-high-stakes-diplomacy-day-after-trump/story|vance in uk for highstakes diplomacy day after trump announces putin meeting us news|bd1257f500a8330249875b6c93ff4a1a
 2025-08-09T22:23:44.538259+00:00|https://abcnews.go.com/Business/wireStory/7k-worth-labubu-dolls-stolen-los-angeles-store-124512871|$7k worth of labubu dolls stolen from los angeles store authorities say us news|363b15cb27c1415cb613725d6f548b18
+2025-08-10T02:22:17.403929+00:00|https://www.nbcnews.com/video/zelenskyy-rejects-trump-land-swap-proposal-for-ukraine-244661829549|zelenskyy rejects trump land swap proposal for ukraine us news|fbf6249a78519717f14907b5d33653d3
+2025-08-10T02:22:17.990380+00:00|https://www.bbc.com/news/articles/ckglnk6yxlko|how kentucky bourbon went from boom to bust us news|36a3a2880eae754f61ccd827cc0bcb11
