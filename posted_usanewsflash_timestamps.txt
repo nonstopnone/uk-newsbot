@@ -130,3 +130,5 @@
 2025-08-10T04:30:37.606828+00:00|https://www.nytimes.com/2025/08/10/world/europe/ukraine-trump-putin-summit.html|with ukraine in the balance trump and putin head into summit with mismatched goals us news|61a04d88eff011f6198f7b9fadd34beb
 2025-08-10T07:22:46.977692+00:00|https://www.nytimes.com/2025/08/10/world/asia/india-migrants-raids-muslims-bengalis.html|in india immigration raids detain thousands and create a climate of fear us news|9b2d2fa091e644ffc869c2183ade196e
 2025-08-10T07:22:47.650518+00:00|https://www.bbc.com/news/videos/ckg43r4m2vyo|watch masked thieves steal $7k of labubu dolls in california us news|9cd43ed1a1565234db355e2b3cc10c5e
+2025-08-10T10:25:51.494258+00:00|https://www.nytimes.com/2025/08/10/world/europe/ukraine-europe-zelensky-trump-putin.html|ukraine and europe project united front ahead of trumpputin summit us news|82449256134f25abbeaab9e91e671f66
+2025-08-10T10:25:52.021845+00:00|https://www.nytimes.com/2025/08/10/business/social-security-retirement-myths.html|the 6 social security myths that wont go away us news|ebe7b947d03c9344da3600b2745b63f9
