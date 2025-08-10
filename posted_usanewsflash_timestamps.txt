@@ -153,3 +153,5 @@
 2025-08-10T19:39:20.846317+00:00|https://www.nytimes.com/2025/08/10/us/politics/senator-gallego-democrats-iowa.html|senator gallego brings a message of hope for democrats to iowa us news|293f52c1c4920e7e177d1ca92f6b01d6
 2025-08-10T19:57:37.105617+00:00|https://www.nytimes.com/2025/08/10/world/europe/earthquake-western-turkey-sindirgi.html|earthquake strikes western turkey us news|087b35b1a174016260e5271493706abf
 2025-08-10T21:22:33.692564+00:00|https://abcnews.go.com/US/1-dead-5-injured-chicago-mass-shooting-police/story|1 dead 5 hurt in chicago mass shooting police say us news|edd0694a7e95eb8c88bf99f5809b6631
+2025-08-10T22:23:38.491120+00:00|https://www.nbcnews.com/news/us-news/weekend-rundown-august-10-rcna223995|heres the biggest news you missed this weekend us news|59995fa6070730d23fa538171f59d114
+2025-08-10T22:23:39.148883+00:00|https://www.nbcnews.com/news/us-news/weekend-rundown-august-10-rcna223995|heres the biggest news you missed this weekend us news|59995fa6070730d23fa538171f59d114
