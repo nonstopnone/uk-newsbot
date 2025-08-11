@@ -1712,3 +1712,4 @@
 2025-08-11T09:35:09.498091+00:00|https://www.bbc.com/news/articles/c4g034yx4gjo|british man who perished in antarctic glacier found 65 years later uk news|388432d3e1f477b032e6a552d2e85a6e
 2025-08-11T09:52:41.504868+00:00|https://news.sky.com/story/uk-weather-amber-heat-health-alert-issued-for-large-parts-of-england-13410053|amber heat health alert issued for large parts of england with rest of country covered by yellow warning uk news|fa5089588d3b138fce56fea50d8d1ede
 2025-08-11T09:53:22.594896+00:00|https://news.sky.com/story/man-charged-with-murder-of-a-father-and-son-in-central-london-13410020|man charged with murder of a father and son uk news|3360e90f131e9f57512a8de7434b0430
+2025-08-11T10:23:50.833844+00:00|https://www.bbc.com/weather/articles/cz60081dpyxo|amber health alerts as heatwave temperatures set to hit 34c uk news|7b5b8561bc05babf87a0b33d0090a6c7
