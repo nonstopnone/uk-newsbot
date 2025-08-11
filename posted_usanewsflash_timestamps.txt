@@ -221,3 +221,4 @@
 2025-08-11T21:41:57.273118+00:00|https://www.nytimes.com/2025/07/17/us/politics/timeline-trump-epstein.html|a timeline of what we know about trump and epstein us news|b758c6926296adbe19da90dd3465e777
 2025-08-11T21:57:37.263852+00:00|https://www.nytimes.com/2025/08/11/us/austin-shooting.html|gunman kills three at a target store in austin texas us news|f975952d3c391c380b6f34251edee16f
 2025-08-11T21:57:37.886256+00:00|https://abcnews.go.com/International/wireStory/niger-investigating-5-million-sale-largest-mars-rock-124554742|niger investigating $5 million sale of largest mars rock us news|1a7def5f55afb26853831388cbb8e4a1
+2025-08-11T22:24:09.845819+00:00|https://www.nytimes.com/2025/08/11/technology/president-trump-intel-ceo.html|president trump calls intel ceo a success after meeting us news|d290394bb2e8b5bab76d96ea2f73de68
