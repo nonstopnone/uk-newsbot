@@ -184,3 +184,4 @@
 2025-08-11T12:55:23.092812+00:00|https://www.nytimes.com/2025/08/11/business/dealbook/nvidia-amd-chip-payoff-trump.html|what the nvidia chip payoff deal says about trumps trade war us news|97a8dc771a7dc3b96a9c9687063ebfe6
 2025-08-11T13:41:23.958594+00:00|https://www.nbcnews.com/video/watch-live-trump-holds-news-conference-on-crime-in-d-c-244689989957|trump holds news conference on crime in dc us news|ae4375c2a14e6827580131c2cdf2193d
 2025-08-11T13:41:24.581975+00:00|https://www.nytimes.com/2025/08/11/business/us-china-trade-tariffs-deal.html|higher tariffs loom as uschina trade truce nears expiration us news|d15dea459c620c002babd88b74c43352
+2025-08-11T14:01:28.476360+00:00|https://abcnews.go.com/US/judge-rejects-trump-admin-request-unseal-ghislaine-maxwell/story|judge rejects trump admin request to unseal ghislaine maxwell grand jury testimony us news|e8b233dcb079d94be73ab85c20403643
