@@ -185,3 +185,5 @@
 2025-08-11T13:41:23.958594+00:00|https://www.nbcnews.com/video/watch-live-trump-holds-news-conference-on-crime-in-d-c-244689989957|trump holds news conference on crime in dc us news|ae4375c2a14e6827580131c2cdf2193d
 2025-08-11T13:41:24.581975+00:00|https://www.nytimes.com/2025/08/11/business/us-china-trade-tariffs-deal.html|higher tariffs loom as uschina trade truce nears expiration us news|d15dea459c620c002babd88b74c43352
 2025-08-11T14:01:28.476360+00:00|https://abcnews.go.com/US/judge-rejects-trump-admin-request-unseal-ghislaine-maxwell/story|judge rejects trump admin request to unseal ghislaine maxwell grand jury testimony us news|e8b233dcb079d94be73ab85c20403643
+2025-08-11T14:29:59.236258+00:00|https://www.nytimes.com/2025/08/11/nyregion/jeffrey-epstein-ghislaine-maxwell-transcripts.html|judge in maxwell case will not unseal grand jury transcripts us news|4245e2d0cafbff0c2c2a4c5bafe786cb
+2025-08-11T14:29:59.705984+00:00|https://www.nbcnews.com/world/ukraine/trump-putin-alaska-zelenskyy-ukraine-russia-war-europe-rcna224227|europe fears ukraine and itself are being excluded from trumpputin talks us news|acbe2be0add0bbccc493463a72d5db8d
