@@ -182,3 +182,5 @@
 2025-08-11T11:43:02.371227+00:00|https://www.nbcnews.com/news/us-news/trump-crime-capital-netanyahu-defends-gaza-plan-morning-rundown-rcna224222|trump considers deploying national guard to dc and pressure mounts on netanyahu morning rundown us news|85e3d6840596d8bb6c1a5b0136fa195b
 2025-08-11T11:57:43.331478+00:00|https://www.today.com/video/wild-weekend-weather-wreaks-havoc-across-us-244686405860|wisconsin soaked with 14 inches of rain in 24 hours us news|a23773459782bdc9d7a7ea990f414a8c
 2025-08-11T12:55:23.092812+00:00|https://www.nytimes.com/2025/08/11/business/dealbook/nvidia-amd-chip-payoff-trump.html|what the nvidia chip payoff deal says about trumps trade war us news|97a8dc771a7dc3b96a9c9687063ebfe6
+2025-08-11T13:41:23.958594+00:00|https://www.nbcnews.com/video/watch-live-trump-holds-news-conference-on-crime-in-d-c-244689989957|trump holds news conference on crime in dc us news|ae4375c2a14e6827580131c2cdf2193d
+2025-08-11T13:41:24.581975+00:00|https://www.nytimes.com/2025/08/11/business/us-china-trade-tariffs-deal.html|higher tariffs loom as uschina trade truce nears expiration us news|d15dea459c620c002babd88b74c43352
