@@ -199,3 +199,4 @@
 2025-08-11T17:13:15.908801+00:00|https://www.bbc.com/news/videos/cj9ww4z39xko|watch trump announces deployment of national guard in washington dc us news|e867403f2313281c38ab57c2c42521f9
 2025-08-11T17:35:16.727736+00:00|https://www.nbcnews.com/news/us-news/pennsylvania-steel-factory-explosion-prompts-rescue-operation-rcna224341|explosion at a pennsylvania steel factory prompts rescue operation us news|56b3e8b48adada767a9d0c7550ad3e35
 2025-08-11T17:35:17.200383+00:00|https://www.nbcnews.com/news/us-news/pennsylvania-steel-factory-explosion-prompts-rescue-operation-rcna224341|explosion at a pennsylvania steel factory prompts rescue operation us news|56b3e8b48adada767a9d0c7550ad3e35
+2025-08-11T17:57:30.864127+00:00|https://www.nbcnews.com/now/video/reported-explosion-at-pennsylvania-steel-plant-244707909752|rescue operation underway after explosion at pennsylvania steel plant us news|6552ecb0cb0cb0c711ad76f85b4f23fa
