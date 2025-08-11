@@ -176,3 +176,5 @@
 2025-08-11T10:49:46.997020+00:00|https://www.nytimes.com/2025/08/11/world/middleeast/israel-gaza-netanyahu.html|israels plan for gaza city is still unclear us news|7a252080cef3fcc361a80e2d4c7ab3ab
 2025-08-11T10:49:47.538056+00:00|https://www.nytimes.com/2025/08/11/world/europe/ukraine-russia-putin-zelensky-alaska-talks.html|a sidelined zelensky warns that russia will try to deceive the us us news|838dd021758e8231ed7b725dfec0b023
 2025-08-11T10:49:48.072511+00:00|https://www.nytimes.com/2025/08/11/nyregion/mamdani-trump-cuomo-mayor-nyc.html|mamdani will visit 5 boroughs on antitrump tour us news|cad1dbf33ad6cf8281e18df8ef626432
+2025-08-11T11:23:04.352452+00:00|https://www.nytimes.com/2025/08/11/world/americas/miguel-uribe-turbay-dead-colombia-assassination.html|miguel uribe colombian senator shot at campaign event dies at 39 us news|5d2aa37518bdc24bd0c6168d268015d3
+2025-08-11T11:23:04.957160+00:00|https://www.nbcnews.com/politics/trump-administration/trump-announce-plans-address-crime-washington-surging-federal-law-enfo-rcna224232|trump to announce plans to address crime in dc after increasing federal law enforcement us news|94b50c63756edb66c459acb2648ad9fa
