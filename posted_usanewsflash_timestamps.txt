@@ -219,3 +219,5 @@
 2025-08-11T21:41:56.045294+00:00|https://www.nytimes.com/2025/08/11/arts/christophe-de-menil-dead.html|christophe de menil art patron and designer is dead at 92 us news|e1af6e75bb723376850a9f04338c713d
 2025-08-11T21:41:56.654220+00:00|https://www.nytimes.com/2025/08/11/us/adidas-willy-chavarria-apology-oaxaca-sandal.html|adidas apologizes after mexico criticizes oaxacaninspired shoe us news|381f65442026791f7b73a411db4a6819
 2025-08-11T21:41:57.273118+00:00|https://www.nytimes.com/2025/07/17/us/politics/timeline-trump-epstein.html|a timeline of what we know about trump and epstein us news|b758c6926296adbe19da90dd3465e777
+2025-08-11T21:57:37.263852+00:00|https://www.nytimes.com/2025/08/11/us/austin-shooting.html|gunman kills three at a target store in austin texas us news|f975952d3c391c380b6f34251edee16f
+2025-08-11T21:57:37.886256+00:00|https://abcnews.go.com/International/wireStory/niger-investigating-5-million-sale-largest-mars-rock-124554742|niger investigating $5 million sale of largest mars rock us news|1a7def5f55afb26853831388cbb8e4a1
