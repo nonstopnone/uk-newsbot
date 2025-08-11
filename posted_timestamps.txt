@@ -1715,3 +1715,4 @@
 2025-08-11T10:23:50.833844+00:00|https://www.bbc.com/weather/articles/cz60081dpyxo|amber health alerts as heatwave temperatures set to hit 34c uk news|7b5b8561bc05babf87a0b33d0090a6c7
 2025-08-11T11:25:56.339975+00:00|https://news.sky.com/story/dozens-evacuated-after-burst-water-main-floods-streets-in-north-london-13410045|dozens evacuated after burst water main floods streets uk news|de4475506a6dd94efbc7ca2af1ec56dd
 2025-08-11T11:26:37.709169+00:00|https://news.sky.com/story/john-caldwell-two-men-arrested-over-alleged-attempted-murder-of-senior-police-officer-in-northern-ireland-13410047|two arrests over alleged attempted murder of senior police officer uk news|ee0183acfdee41f49e88925c478b7ae2
+2025-08-11T14:49:37.556700+00:00|https://news.sky.com/story/kemi-badenoch-suggests-asylum-seekers-should-be-housed-in-camps-13410173|badenoch suggests asylum seekers should be housed in camps uk news|1629f50e98d04c8b603c5fe2bf2a6999
