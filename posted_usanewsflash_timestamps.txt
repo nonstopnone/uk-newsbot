@@ -222,3 +222,8 @@
 2025-08-11T21:57:37.263852+00:00|https://www.nytimes.com/2025/08/11/us/austin-shooting.html|gunman kills three at a target store in austin texas us news|f975952d3c391c380b6f34251edee16f
 2025-08-11T21:57:37.886256+00:00|https://abcnews.go.com/International/wireStory/niger-investigating-5-million-sale-largest-mars-rock-124554742|niger investigating $5 million sale of largest mars rock us news|1a7def5f55afb26853831388cbb8e4a1
 2025-08-11T22:24:09.845819+00:00|https://www.nytimes.com/2025/08/11/technology/president-trump-intel-ceo.html|president trump calls intel ceo a success after meeting us news|d290394bb2e8b5bab76d96ea2f73de68
+2025-08-11T23:23:11.639216+00:00|https://www.bbc.com/news/articles/c93ddrp17zko|trump picks conservative economist to lead jobs data agency us news|18e77dd303e0ba9731860568008a4ba1
+2025-08-11T23:23:12.198178+00:00|https://www.bbc.com/news/articles/c8600x7dnn4o|is crime in washington dc out of control as trump claims us news|892b0623f33978d525477111a6c01636
+2025-08-11T23:23:12.767766+00:00|https://www.nytimes.com/2025/08/11/business/economy/trump-bls-commissioner.html|trump names ej antoni new bls commissioner us news|ec2d3e9d1547210fddc5f1ee1b18871e
+2025-08-11T23:23:13.290036+00:00|https://www.nbcnews.com/politics/trump-administration/trump-plans-nominate-ej-antoni-bureau-labor-statistics-commissioner-rcna224438|trump to nominate ej antoni as new commissioner of labor statistics us news|bfaa07984f96b93ba0fcc74d6a25bb31
+2025-08-11T23:23:13.819057+00:00|https://www.nbcnews.com/politics/trump-administration/trump-plans-nominate-ej-antoni-bureau-labor-statistics-commissioner-rcna224438|trump to nominate ej antoni as new commissioner of labor statistics us news|bfaa07984f96b93ba0fcc74d6a25bb31
