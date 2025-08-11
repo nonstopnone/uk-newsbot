@@ -195,3 +195,4 @@
 2025-08-11T16:33:58.832041+00:00|https://www.nytimes.com/2025/08/11/business/energy-environment/hydrogen-clean-energy.html|americas clean hydrogen dreams are fading again us news|92a60c4ce96e44d5b7d13b4fa4b6525d
 2025-08-11T16:33:59.620969+00:00|https://www.nbcnews.com/now/video/trump-says-he-ll-bring-the-military-into-d-c-if-necessary-244703813624|trump says hell bring the military into dc if necessary us news|4c78beee94fd54754789f5eddf93a221
 2025-08-11T16:34:00.335410+00:00|https://www.nbcnews.com/now/video/trump-vows-to-remove-d-c-homeless-encampments-244704837702|trump vows to remove dc homeless encampments us news|ee44b82e9147ff0b939df8965f8f7ad2
+2025-08-11T16:54:46.790771+00:00|https://abcnews.go.com/Politics/texas-house-democrats-remain-state-redistricting-showdown-continues/story|texas house democrats remain out of state as redistricting showdown continues us news|ca25acb7c050fa76ddf3bd2cb734648f
