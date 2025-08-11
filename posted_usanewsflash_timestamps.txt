@@ -164,3 +164,5 @@
 2025-08-11T02:12:22.140953+00:00|https://www.nytimes.com/2025/08/10/opinion/gilded-age-tv-finale-trump.html|donald trump julian fellowes and the gilded age finale us news|1011f8a04e4b7cd947d02f740539641e
 2025-08-11T03:49:09.021360+00:00|https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates|trump admin live updates possible activation of national guard in dc by us military us news|3859a3e838ad6e3bfc0c0f9804bd8759
 2025-08-11T05:02:41.585362+00:00|https://www.nbcnews.com/news/us-news/aol-ditching-dial-service-relic-internet-90s-early-00s-rcna224219|aol ditching dialup service a relic of the internet in the 90s and early 00s us news|6313e3f8ff889d1603a43dcbcab79b9c
+2025-08-11T09:13:26.128456+00:00|https://www.nytimes.com/2025/08/11/opinion/america-short-term-thinking.html|how shortterm thinking is destroying america us news|53d4f7a395aaa2b9208b35b4c69fab85
+2025-08-11T09:13:27.019449+00:00|https://abcnews.go.com/Politics/trump-hold-news-conference-crime-dc-after-threatening/story|trump to hold news conference on crime in dc after threatening federal takeover us news|3c486f29c0dfa9ba9d02dadc7b52761f
