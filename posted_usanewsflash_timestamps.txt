@@ -227,3 +227,4 @@
 2025-08-11T23:23:12.767766+00:00|https://www.nytimes.com/2025/08/11/business/economy/trump-bls-commissioner.html|trump names ej antoni new bls commissioner us news|ec2d3e9d1547210fddc5f1ee1b18871e
 2025-08-11T23:23:13.290036+00:00|https://www.nbcnews.com/politics/trump-administration/trump-plans-nominate-ej-antoni-bureau-labor-statistics-commissioner-rcna224438|trump to nominate ej antoni as new commissioner of labor statistics us news|bfaa07984f96b93ba0fcc74d6a25bb31
 2025-08-11T23:23:13.819057+00:00|https://www.nbcnews.com/politics/trump-administration/trump-plans-nominate-ej-antoni-bureau-labor-statistics-commissioner-rcna224438|trump to nominate ej antoni as new commissioner of labor statistics us news|bfaa07984f96b93ba0fcc74d6a25bb31
+2025-08-11T23:42:07.603439+00:00|https://www.nytimes.com/2025/08/11/us/politics/immigration-detention-numbers.html|over 60000 are in immigration detention a modern high records show us news|074d2feedb04828ff1a9fd9acbc05ab0
