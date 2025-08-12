@@ -283,3 +283,4 @@
 2025-08-12T17:09:43.506238+00:00|https://www.nytimes.com/2025/08/12/t-magazine/robert-longo.html|what does it mean to be a very american artist now us news|7ba0571145b89e598983e461247980a7
 2025-08-12T17:09:44.054272+00:00|https://www.nbcnews.com/now/video/atlanta-gunman-fired-hundreds-of-rounds-at-cdc-headquarters-244800069926|atlanta gunman fired hundreds of rounds at cdc headquarters us news|ec49e78287f14c5f395d79e39e06e88c
 2025-08-12T17:09:44.618748+00:00|https://www.nbcnews.com/news/us-news/police-identify-suspect-austin-target-shooting-left-3-people-dead-rcna224547|police identify suspect in austin target shooting that left 3 people dead us news|9b0abfa272570ac4ef4e0470a527ec72
+2025-08-12T17:33:02.310917+00:00|https://www.nbcnews.com/politics/2026-election/sherrod-brown-launch-comeback-attempt-senate-ohio-rcna224528|sherrod brown to launch a comeback attempt for senate in ohio us news|8fe803be46ada9c67c7b3a6c4c0e11ae
