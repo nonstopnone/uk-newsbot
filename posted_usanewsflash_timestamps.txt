@@ -307,3 +307,5 @@
 2025-08-12T22:23:28.329645+00:00|https://abcnews.go.com/Politics/white-house-conduct-review-smithsonian-museum-exhibitions-ensure/story|white house wants smithsonian exhibits to fit trumps view of history official us news|680f74980fba0dfd5349b926524e0386
 2025-08-12T22:44:45.780809+00:00|https://www.nytimes.com/2025/08/12/nyregion/mamdani-cuomo-rent-stabilized-apartment.html|what is rent stabilization and why is it an issue in the nyc mayors race us news|e5e7b75496ae3a4c507e8b938ab839f4
 2025-08-12T22:44:46.316475+00:00|https://www.nytimes.com/2025/08/12/nyregion/cuomo-mamdani-rent-stabilized.html|cuomos attack on mamdanis apartment struck a new york nerve us news|9f713b64b82e8344a6b114089bd444e8
+2025-08-12T23:23:19.920021+00:00|https://www.nytimes.com/2025/08/12/us/politics/dc-police-national-guard.html|trumps dc crackdown plan takes shape with national guard poised to deploy us news|ad479a7ed5f68dd888a68e345bb676d5
+2025-08-12T23:23:21.205397+00:00|https://www.bbc.com/news/videos/cewynn7krj1o|crime in dc what do the figures say and how safe do people feel us news|ae9afb5211dab909e518e7dc0cfc1195
