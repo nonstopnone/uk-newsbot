@@ -1738,3 +1738,6 @@
 2025-08-12T09:44:11.877583+00:00|https://www.bbc.com/news/articles/cgkrr60erz0o|chancellor to meet ni ministers on first official visit to belfast uk news|0e692daa36849a607d5ca143e09ee28e
 2025-08-12T09:44:52.716611+00:00|https://news.sky.com/story/thames-water-crisis-ministers-line-up-administrator-for-utility-giant-13410448|thames water crisis ministers line up administrator for utility giant uk news|610800b5c0ff43a3f189b9d19fb5db2d
 2025-08-12T09:55:53.360899+00:00|https://www.bbc.com/news/articles/c8e1xkwd74wo|small boat crossings to hit 50000 since labour came to power uk news|540150e61ab6bf4e251e2fc0d974e314
+2025-08-12T11:21:50.014062+00:00|https://www.bbc.com/news/articles/cg50eygdqy4o|conman who has targeted the elderly for decades jailed again uk news|362d1f886f692f2b79f26557fa4ce7aa
+2025-08-12T11:22:30.938153+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/flagship-british-project-to-boost-global-surgical-standards|flagship british project to boost global surgical standards under threat of closure uk news|e7bde51445f843f56812060181df3e01
+2025-08-12T11:23:11.956733+00:00|https://www.bbc.com/news/articles/c17n9en7e4zo|double heatwave forecast for wales this week uk news|2642a14205892355341d1c33faf0f1d7
