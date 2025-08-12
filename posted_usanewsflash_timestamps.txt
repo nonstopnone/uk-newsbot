@@ -257,3 +257,4 @@
 2025-08-12T10:48:31.064940+00:00|https://www.nytimes.com/video/us/politics/100000010326974/how-democrats-lost-working-class-voters.html|how democrats lost workingclass voters us news|f72b7dd6653c2c0864000774355ab179
 2025-08-12T10:57:24.859085+00:00|https://www.bbc.com/news/articles/cm2110me5g4o|trump deploys national guard to washington dc and pledges crime crackdown us news|4ae74c9aed5228006a6661d71dc175bb
 2025-08-12T11:21:39.237426+00:00|https://www.nytimes.com/2025/08/12/briefing/donald-trump-dc-national-guard.html|the dc takeover us news|6f83c0affe63eefa449d212bcc4c71ac
+2025-08-12T11:41:49.329395+00:00|https://www.nbcnews.com/news/us-news/trump-dc-takeover-steel-factory-explosion-morning-rundown-rcna224470|trumps dc takeover met with confusion and 2 dead in steel factory explosion morning rundown us news|61caddea9c223faf6d66176a2d862239
