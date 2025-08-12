@@ -293,3 +293,4 @@
 2025-08-12T19:40:29.105513+00:00|https://www.nytimes.com/2025/08/12/us/politics/russia-hack-federal-court-system.html|russia is suspected to be behind breach of federal court filing system us news|82b0e97eddd688adf8d81fb5512db697
 2025-08-12T19:40:29.662224+00:00|https://abcnews.go.com/US/suspected-gunman-cdc-shooting-fired-500-rounds-officials/story|nearly 500 rounds recovered from cdc campus after gunman attack officials us news|e245be9956db36981f1caf6cf909bcfc
 2025-08-12T19:57:43.029842+00:00|https://www.nytimes.com/2025/08/12/business/trump-bls-ej-antoni.html|trumps pick of ej antoni as bls leader criticized by the right and the left us news|9b556ee4f5d12a86dd3331d54760e5e3
+2025-08-12T20:28:09.948365+00:00|https://www.nbcnews.com/now/video/victims-identified-in-austin-parking-lot-shooting-244816453549|victims identified in austin parking lot shooting us news|be27ad3e94df5230e104d0353b276a5e
