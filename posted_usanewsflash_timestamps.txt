@@ -290,3 +290,5 @@
 2025-08-12T18:37:06.560871+00:00|https://abcnews.go.com/International/wireStory/torrential-rains-shut-flights-mexico-city-airport-day-124581737|torrential rains shut down flights at mexico city airport for second day us news|9c52f58ede109b86542b8abe66db3014
 2025-08-12T18:37:07.247767+00:00|https://www.bbc.com/news/articles/cj0y796qqp9o|man who fired hundreds of rounds at cdc hq was angry at covid vaccines authorities say us news|90dc2799b73623b7c9308de72158300b
 2025-08-12T19:00:38.908041+00:00|https://www.nytimes.com/2025/08/12/nyregion/central-park-horse-carriages.html|central park group wants ban on horsedrawn carriages us news|c563ddc053bdd804e5715a06d3bb434a
+2025-08-12T19:40:29.105513+00:00|https://www.nytimes.com/2025/08/12/us/politics/russia-hack-federal-court-system.html|russia is suspected to be behind breach of federal court filing system us news|82b0e97eddd688adf8d81fb5512db697
+2025-08-12T19:40:29.662224+00:00|https://abcnews.go.com/US/suspected-gunman-cdc-shooting-fired-500-rounds-officials/story|nearly 500 rounds recovered from cdc campus after gunman attack officials us news|e245be9956db36981f1caf6cf909bcfc
