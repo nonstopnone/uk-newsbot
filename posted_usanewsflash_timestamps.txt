@@ -275,3 +275,6 @@
 2025-08-12T16:32:34.936432+00:00|https://www.nytimes.com/2025/08/12/us/trump-plant-closure-montana.html|trump promised a golden age then a montana lumber plant closed down us news|788aed61a053c389c06d1c5920f1f49d
 2025-08-12T16:32:35.436326+00:00|https://www.nytimes.com/2025/08/12/opinion/trump-manhattan-project.html|trump is squandering the greatest gift of the manhattan project us news|41942fb44706e136b18fb2762dbde0e5
 2025-08-12T16:32:35.905773+00:00|https://www.nytimes.com/2025/08/12/us/politics/trump-putin-meeting-russia-ukraine.html|for putin who has swayed trump before meeting is chance to reset ties us news|fca62130d9e6a5a578440125b992582f
+2025-08-12T16:53:25.700613+00:00|https://www.bbc.com/news/articles/cn842x1v1n1o|musk threatens apple and calls openai boss a liar as feud deepens us news|b7066b1b1da769dd8727113054c88173
+2025-08-12T16:53:26.298026+00:00|https://www.nytimes.com/2025/08/12/us/desantis-appoints-ally-to-be-lieutenant-governor.html|desantis appoints ally to be lieutenant governor us news|0fc95913f5e1bb1ed983bf593d0f442f
+2025-08-12T16:53:26.903612+00:00|https://www.nytimes.com/2025/08/12/us/politics/appeals-court-doge-data.html|appeals court allows doge access to sensitive data at several agencies us news|20fd960fe39194b72459d27e40c57553
