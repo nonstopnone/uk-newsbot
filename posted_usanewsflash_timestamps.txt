@@ -294,3 +294,8 @@
 2025-08-12T19:40:29.662224+00:00|https://abcnews.go.com/US/suspected-gunman-cdc-shooting-fired-500-rounds-officials/story|nearly 500 rounds recovered from cdc campus after gunman attack officials us news|e245be9956db36981f1caf6cf909bcfc
 2025-08-12T19:57:43.029842+00:00|https://www.nytimes.com/2025/08/12/business/trump-bls-ej-antoni.html|trumps pick of ej antoni as bls leader criticized by the right and the left us news|9b556ee4f5d12a86dd3331d54760e5e3
 2025-08-12T20:28:09.948365+00:00|https://www.nbcnews.com/now/video/victims-identified-in-austin-parking-lot-shooting-244816453549|victims identified in austin parking lot shooting us news|be27ad3e94df5230e104d0353b276a5e
+2025-08-12T21:23:32.038238+00:00|https://www.bbc.com/news/articles/cj4wyex9zd5o|ufc to host firstever fight event at the white house us news|f061cf421248bc85d851ded56d37fb3f
+2025-08-12T21:23:32.704628+00:00|https://www.nytimes.com/2025/08/12/arts/television/danielle-spencer-dead.html|danielle spencer child star on whats happening is dead at 60 us news|86eb8e271b621968a1a09b10e466e43d
+2025-08-12T21:23:33.559364+00:00|https://www.nytimes.com/2025/08/12/opinion/trump-putin-alaska-summit.html|a halfbaked alaska summit us news|a69dfa97d138aa58f65701a78c75ca39
+2025-08-12T21:23:34.204163+00:00|https://www.nytimes.com/2025/08/12/arts/design/smithsonian-exhibitions-review-white-house-trump.html|white house announces comprehensive review of smithsonian exhibitions us news|6b46e76cc60e9b5da3c2a0848574ddfc
+2025-08-12T21:23:34.875018+00:00|https://www.nbcnews.com/politics/donald-trump/trump-dc-homeless-people-places-stay-jail-shelters-rcna224527|trump said dc homeless people would have places to stay the white house pointed to shelters or jail us news|bde0ab9d9d95652b413c6f12f221c728
