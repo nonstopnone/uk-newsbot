@@ -362,3 +362,5 @@
 2025-08-13T15:40:33.472039+00:00|https://www.nytimes.com/2025/08/13/us/politics/trump-putin-meeting-russia-ukraine.html|trumps affinity for putin will be tested at highrisk summit in alaska us news|64a1e3ab89b768f6c5a5f453b9e98584
 2025-08-13T16:27:42.174986+00:00|https://www.bbc.com/news/articles/c93d0znv0e2o|three dead and one missing after tennessee floods us news|394c68bfcf7651c45922f5a0db037b20
 2025-08-13T16:27:42.739912+00:00|https://www.nbcnews.com/politics/trump-administration/live-blog/trump-national-guard-redistricting-tariffs-gaza-russia-live-updates-rcna224177/rcrd86265|trump says hes hosting kennedy center awards this year us news|0020971e148a7b8df2416e524b616ee5
+2025-08-13T16:46:38.418516+00:00|https://www.nbcnews.com/politics/donald-trump/trump-says-will-host-kennedy-center-honors-ceremony-rcna224769|trump says he will host the kennedy center honors ceremony us news|a2bd0b35cd5c5d5e8b413daa0cd207a9
+2025-08-13T16:46:39.126034+00:00|https://www.nytimes.com/2025/08/13/nyregion/eric-adams-paterson-endorsement.html|exgovernor switches back to eric adams in nyc mayors race us news|21e852aba2ffb819be89949648de2ddd
