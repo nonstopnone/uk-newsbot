@@ -320,3 +320,4 @@
 2025-08-13T03:24:02.509408+00:00|https://www.nytimes.com/2025/08/12/us/politics/trump-putin-summit-alaska.html|trump to meet putin at us military base in anchorage us news|ac827cccf64f72a0c155e173c0003174
 2025-08-13T03:24:03.190527+00:00|https://www.nytimes.com/2025/08/12/world/americas/guatemala-convictions-deadly-fire.html|six convicted in 2017 fire that killed 41 girls in guatemala group home us news|bdfdf4c338800794447c5c9c7e5c4c86
 2025-08-13T03:24:04.049494+00:00|https://abcnews.go.com/Politics/guard-members-waiting-orders-begin-gather-dc/story|national guard troops now on dc streets told to maintain presence near national mall us news|763c543cfb78ce587b86cd579d4d0cad
+2025-08-13T04:04:07.795251+00:00|https://www.nbcnews.com/world/middle-east/netanyahu-hints-gaza-ceasefire-talks-now-focus-release-hostages-rcna224661|netanyahu hints gaza ceasefire talks now focus on releasing all hostages at once us news|4022acc71e03aa84ea323ac089cef4ef
