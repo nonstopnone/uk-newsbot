@@ -343,3 +343,4 @@
 2025-08-13T11:22:03.602589+00:00|https://www.nytimes.com/2025/08/13/briefing/trump-administration-data.html|hard truths us news|65a8033f43d154be5f79cfe61021dd83
 2025-08-13T11:22:04.086198+00:00|https://www.bbc.com/news/videos/c2djny868x3o|aerial footage shows aftermath of massive train derailment in texas us news|8a9944a5d27e1cd4045d247053aad095
 2025-08-13T11:22:04.547064+00:00|https://www.nbcnews.com/world/ukraine/trump-putin-alaska-europe-ukraine-virtual-meeting-rcna224680|europe and ukraine launch lastditch diplomatic drive ahead of trumpputin summit us news|f271ff420151b3fcdc391f63649fda40
+2025-08-13T11:42:27.168537+00:00|https://www.nbcnews.com/news/us-news/national-guard-troops-dc-democrats-redistricting-morning-rundown-rcna224671|national guard troops deployed in dc and dems make redistricting a core issue morning rundown us news|48184f1f37d1cf7cb64932f4e4a2d91b
