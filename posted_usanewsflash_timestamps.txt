@@ -340,3 +340,6 @@
 2025-08-13T10:48:03.308200+00:00|https://www.nytimes.com/2025/08/13/podcasts/the-headlines/trump-dc-takeover-smithsonian.html|inside trumps dc takeover and the white house takes on the smithsonian us news|10b88ebb6f256e8d4e3b1c52d986a090
 2025-08-13T10:48:03.792806+00:00|https://www.nytimes.com/2025/08/13/world/middleeast/ronaldo-engagement-saudi-arabia.html|ronaldo moves from unwedded bliss to engagement in conservative kingdom us news|e4606fa22e70283b5c4a42b114b71bbd
 2025-08-13T10:57:36.998080+00:00|https://www.nytimes.com/2025/08/13/world/asia/pakistan-trump-munir.html|pakistan is in trumps good graces but for how long us news|ed52bd5e8eb880afeb8c6bed034e53a6
+2025-08-13T11:22:03.602589+00:00|https://www.nytimes.com/2025/08/13/briefing/trump-administration-data.html|hard truths us news|65a8033f43d154be5f79cfe61021dd83
+2025-08-13T11:22:04.086198+00:00|https://www.bbc.com/news/videos/c2djny868x3o|aerial footage shows aftermath of massive train derailment in texas us news|8a9944a5d27e1cd4045d247053aad095
+2025-08-13T11:22:04.547064+00:00|https://www.nbcnews.com/world/ukraine/trump-putin-alaska-europe-ukraine-virtual-meeting-rcna224680|europe and ukraine launch lastditch diplomatic drive ahead of trumpputin summit us news|f271ff420151b3fcdc391f63649fda40
