@@ -360,3 +360,5 @@
 2025-08-13T14:35:50.504354+00:00|https://abcnews.go.com/Politics/newsom-californias-new-congressional-maps-trump/story|newsom says californias new congressional maps will take down trump us news|fc14d33efea10d0f93597ec4c603ba31
 2025-08-13T15:40:32.806314+00:00|https://www.nytimes.com/2025/08/13/well/homeless-heat-phoenix.html|asphalt burns and heatstroke homeless in americas hottest city us news|eaaa502ea890db018ac860669773c33a
 2025-08-13T15:40:33.472039+00:00|https://www.nytimes.com/2025/08/13/us/politics/trump-putin-meeting-russia-ukraine.html|trumps affinity for putin will be tested at highrisk summit in alaska us news|64a1e3ab89b768f6c5a5f453b9e98584
+2025-08-13T16:27:42.174986+00:00|https://www.bbc.com/news/articles/c93d0znv0e2o|three dead and one missing after tennessee floods us news|394c68bfcf7651c45922f5a0db037b20
+2025-08-13T16:27:42.739912+00:00|https://www.nbcnews.com/politics/trump-administration/live-blog/trump-national-guard-redistricting-tariffs-gaza-russia-live-updates-rcna224177/rcrd86265|trump says hes hosting kennedy center awards this year us news|0020971e148a7b8df2416e524b616ee5
