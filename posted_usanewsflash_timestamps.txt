@@ -323,3 +323,4 @@
 2025-08-13T04:04:07.795251+00:00|https://www.nbcnews.com/world/middle-east/netanyahu-hints-gaza-ceasefire-talks-now-focus-release-hostages-rcna224661|netanyahu hints gaza ceasefire talks now focus on releasing all hostages at once us news|4022acc71e03aa84ea323ac089cef4ef
 2025-08-13T04:38:25.852142+00:00|https://www.nytimes.com/2025/08/12/us/flooding-chattanooga-tennessee.html|heavy rain causes flash flooding in chattanooga us news|25572ce76af316325081e23f71d07bc3
 2025-08-13T04:38:26.339229+00:00|https://www.nytimes.com/2025/08/13/world/europe/trump-europe-ukraine-talks-putin.html|trump will discuss ukraine with european leaders ahead of putin meeting us news|3c27a31f0394dbaecc8dc1ec3d5fa36d
+2025-08-13T05:28:52.580430+00:00|https://www.nytimes.com/2025/08/13/opinion/trump-putin-ukraine-alaska.html|trump is doubling down on sanctions putin is laughing all the way to alaska us news|d65eb1c1683cddd18d5914f0905c2fe9
