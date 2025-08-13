@@ -370,3 +370,5 @@
 2025-08-13T17:19:26.741239+00:00|https://abcnews.go.com/US/appeals-court-ruling-trump-administration-cut-billions-foreign/story|appeals court ruling will let trump administration cut billions in foreign aid us news|3928fcc6e5219a6aeeef667623a63475
 2025-08-13T17:19:27.224190+00:00|https://www.nytimes.com/2025/08/13/us/politics/trump-tariffs-case-federal-court.html|trump warns of economic disaster if court strikes down tariffs us news|46b315fae3a4f95871bfd198b99e81c2
 2025-08-13T17:41:29.398676+00:00|https://www.nytimes.com/2025/08/13/arts/design/deli-bodega-ramps-accessibility.html|the strange beauty of new yorks bodega ramps us news|72fde225dac0023bbab438a374b2b59a
+2025-08-13T18:35:13.330992+00:00|https://www.nbcnews.com/politics/elections/democrats-fled-texas-block-gops-redistricting-plan-weigh-exit-strategy-rcna224719|democrats who fled texas to block the gops redistricting plan weigh their exit strategy us news|7356c0d39bcd403619c2c8646cca9f61
+2025-08-13T18:35:13.983342+00:00|https://www.nytimes.com/2025/08/13/world/europe/migrants-drown-lampedusa-italy.html|dozens of migrants drown off lampedusa italy us news|63a7f50962a5ef4a24ac965581ce5207
