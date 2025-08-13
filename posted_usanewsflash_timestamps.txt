@@ -388,3 +388,5 @@
 2025-08-13T19:57:34.276774+00:00|https://www.nbcnews.com/news/us-news/ice-deport-us-citizen-kids-stage-4-cancer-honduras-rcna224501|ice sent 3 us citizen children including boy with cancer to honduras with their deported moms us news|4610dcf30dbaa4f0bff00a654e4cc0c2
 2025-08-13T19:57:35.066950+00:00|https://www.nytimes.com/2025/08/13/opinion/trump-bls-nominee-antoni.html|why economists are worried about trumps bls changes us news|5ef02dd44bbb4a0acff15c1db6888237
 2025-08-13T20:27:50.773039+00:00|https://www.nytimes.com/2025/08/13/world/europe/iran-lebanon-hezbollah-disarm.html|top iranian official visits lebanon as hezbollah bucks calls to disarm us news|7e5e23e21d84e72d3f5debbb37e2f790
+2025-08-13T20:43:07.898775+00:00|https://www.nbcnews.com/news/us-news/federal-judge-orders-ohio-state-strauss-sex-abuse-victims-mediation-rcna224742|federal judge orders ohio state and strauss sex abuse victims into mediation us news|bc76c2121b5345e26bf2b611a0c72ad5
+2025-08-13T20:43:08.535251+00:00|https://abcnews.go.com/Business/fed-ready-cut-interest-rates-experts-weigh/story|is the fed ready to cut interest rates experts weigh in us news|86b1e57ba689608e491e53768b835052
