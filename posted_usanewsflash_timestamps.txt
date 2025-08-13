@@ -358,3 +358,5 @@
 2025-08-13T14:35:49.547084+00:00|https://www.nytimes.com/2025/08/13/business/media/hollywood-micro-drama-quibi.html|a hollywood startup targets the micro drama craze us news|9ca1bd5d854f6f3c81823c59c5d55b2e
 2025-08-13T14:35:50.050578+00:00|https://www.nbcnews.com/nbc-out/out-news/queer-art-museum-censorship-rcna224487|queer art faces widespread museum censorship curators say us news|ca9841046099e4481ac339b81e225b0c
 2025-08-13T14:35:50.504354+00:00|https://abcnews.go.com/Politics/newsom-californias-new-congressional-maps-trump/story|newsom says californias new congressional maps will take down trump us news|fc14d33efea10d0f93597ec4c603ba31
+2025-08-13T15:40:32.806314+00:00|https://www.nytimes.com/2025/08/13/well/homeless-heat-phoenix.html|asphalt burns and heatstroke homeless in americas hottest city us news|eaaa502ea890db018ac860669773c33a
+2025-08-13T15:40:33.472039+00:00|https://www.nytimes.com/2025/08/13/us/politics/trump-putin-meeting-russia-ukraine.html|trumps affinity for putin will be tested at highrisk summit in alaska us news|64a1e3ab89b768f6c5a5f453b9e98584
