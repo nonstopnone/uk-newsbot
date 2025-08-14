@@ -446,3 +446,4 @@
 2025-08-14T16:32:41.591493+00:00|https://www.bbc.com/news/articles/c04rgrq2n05o|us court says trump administration can cut billions in foreign aid us news|6ca9843aba3010e6c977241f7a8dbd66
 2025-08-14T16:32:42.276409+00:00|https://www.nbcnews.com/select/shopping/hand-soap-recall-rcna224873|hand soap recall what you need to know us news|28d16689e6987a01dbd854d54c5dd415
 2025-08-14T16:32:42.986066+00:00|https://www.nbcnews.com/politics/trump-administration/live-blog/trump-putin-zelenskyy-ukraine-dc-national-guard-tariffs-live-updates-rcna222782/rcrd86349|ron desantis announces deportation depot facility for undocumented immigrants us news|05e6f6f0029889364e87b27b53d7f75b
+2025-08-14T16:51:31.412590+00:00|https://www.nytimes.com/2025/08/14/health/pharma-tariffs-ireland-taxes.html|trumps tariffs set to hit ireland where drugmakers play tax games us news|eadb942b45aa59763242a07dae83fad5
