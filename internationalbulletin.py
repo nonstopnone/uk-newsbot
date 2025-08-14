@@ -25,7 +25,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- Environment Variable Check ---
-required_env_vars = ['REDDIT_CLIENT_ID', 'REDDIT_CLIENT_SECRET', 'REDDIT_USERNAME', 'REDDITPASSWORD']
+required_env_vars = ['REDDIT_CLIENT_ID', 'REDDIT_CLIENT_SECRET', 'REDDIT_USERNAME', 'REDDIT_PASSWORD']
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
     logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
@@ -36,7 +36,7 @@ reddit = praw.Reddit(
     client_id=os.environ['REDDIT_CLIENT_ID'],
     client_secret=os.environ['REDDIT_CLIENT_SECRET'],
     username=os.environ['REDDIT_USERNAME'],
-    password=os.environ['REDDITPASSWORD'],
+    password=os.environ['REDDIT_PASSWORD'],
     user_agent='InternationalBulletinBot/1.0'
 )
 subreddit = reddit.subreddit('InternationalBulletin')
@@ -164,9 +164,11 @@ def extract_first_paragraphs(url):
         return ""
 
 # --- Language and Promotional Checks ---
-PROMOTIONAL_KEYWORDS = [
+EXCLUDED_KEYWORDS = [
     "giveaway", "win", "promotion", "contest", "advert", "sponsor",
-    "deal", "offer", "competition", "prize", "free", "discount", "Gaza", "Israel", "Hamas"
+    "deal", "offer", "competition", "prize", "free", "discount",
+    "gaza", "israel", "hamas", "palestine", "palestinian", "israeli",
+    "west bank", "idf", "jerusalem", "hezbollah", "intifada", "netanyahu"
 ]
 
 def is_english(text):
@@ -175,9 +177,9 @@ def is_english(text):
     except:
         return False
 
-def is_promotional(entry):
+def is_excluded(entry):
     text = (entry.title + " " + getattr(entry, "summary", "")).lower()
-    return any(kw in text for kw in PROMOTIONAL_KEYWORDS)
+    return any(kw in text for kw in EXCLUDED_KEYWORDS)
 
 # --- Relevance Scoring for International News ---
 countries = [c.name.lower() for c in pycountry.countries]
@@ -255,8 +257,8 @@ for source, feed_url in feed_sources_items:
             if not is_english(text_for_lang):
                 logger.info(f"Skipping non-English article: {entry.title}")
                 continue
-            if is_promotional(entry):
-                logger.info(f"Skipping promotional article: {entry.title}")
+            if is_excluded(entry):
+                logger.info(f"Skipping excluded article: {entry.title}")
                 continue
             is_dup, reason = is_duplicate(entry)
             if is_dup:
