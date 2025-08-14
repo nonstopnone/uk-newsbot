@@ -478,3 +478,5 @@
 2025-08-14T22:23:44.855007+00:00|https://www.bbc.com/news/articles/c3wn9zwjyyeo|man arrested after sandwich thrown at federal agent in washington dc us news|a06c28c67361dd9cccfcdfa91ba4b132
 2025-08-14T22:23:45.485803+00:00|https://www.nytimes.com/2025/08/14/us/minnesota-assassination-charges.html|minnesota assassination suspect indicted on firstdegree murder charges us news|bf3c20a4d8b8688b08d303ade1c530de
 2025-08-14T22:23:45.958534+00:00|https://www.nbcnews.com/business/economy/chicago-fed-president-goolsbee-interview-heres-the-scoop-podcast-rcna224565|chicago fed president goolsbee thinks central bank should wait a few months before cutting interest rates us news|83c7a3cef29263de7eca16933c3ff81f
+2025-08-14T22:44:39.490670+00:00|https://www.bbc.com/news/articles/c86077zxdw2o|how trump and putins past meetings went and what to expect this time us news|df6b414d53fcc87a56507f3dd0d35b18
+2025-08-14T22:44:40.011321+00:00|https://www.nbcnews.com/health/health-news/hhs-revives-task-force-childhood-vaccine-safety-rcna225127|hhs revives task force on childhood vaccine safety us news|a90f7d51eb1a2956103a08bf448f0bb9
