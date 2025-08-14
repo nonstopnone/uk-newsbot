@@ -457,3 +457,4 @@
 2025-08-14T18:36:42.576811+00:00|https://www.nytimes.com/2025/08/14/us/politics/fact-check-trump-epstein.html|factchecking trumps epstein defenses us news|bab8f33ac006806f5e71734a01838468
 2025-08-14T19:00:48.781991+00:00|https://www.nytimes.com/2025/08/14/us/men-shooting-range-thunder-ranch-guns.html|he was lost could a shooting range like thunder ranch help him find himself us news|5238b9b1448bb7de4c7fc06687266110
 2025-08-14T19:00:49.347075+00:00|https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-mississippi-social-media-law-requiring-age-verifi-rcna221592|supreme court allows mississippi social media law requiring age verification for kids us news|904fd86c98aaf4831bf557e747c83b4e
+2025-08-14T19:20:27.013718+00:00|https://www.nytimes.com/2025/08/14/us/politics/supreme-court-mississippi-social-media.html|supreme court allows mississippi law on childrens use of social media for now us news|6b51cb8c3399c2bbb7d5f0c4f27025d9
