@@ -441,3 +441,8 @@
 2025-08-14T14:57:55.217486+00:00|https://abcnews.go.com/US/video/dc-residents-national-guard-troops-home-124647836|watch dc residents tell national guard troops to go home us news|4b3eee46f1f5631a85c24a3060dd3b84
 2025-08-14T14:57:55.742751+00:00|https://www.nytimes.com/2025/08/14/nyregion/who-is-rich-new-york-city.html|does earning $142000 in new york city make you rich us news|585567186c63dba9379422f911d4a02b
 2025-08-14T15:27:17.675759+00:00|https://www.nytimes.com/2025/08/14/us/florida-immigrant-detention-center.html|florida to open second immigrant detention center us news|33fbff515ecccd5b25d2428a6907c156
+2025-08-14T16:32:40.103906+00:00|https://www.bbc.com/news/videos/cvgpd01ppwxo|get off our streets dc residents protest against federal agents us news|a98e5c1bf62f070d24c8f0541e9ba830
+2025-08-14T16:32:40.786798+00:00|https://www.bbc.com/news/articles/cq68z8e0v50o|prosecutors clear florida officer who punched man in traffic stop us news|2fac845fe1223e32dc4dd23cc321f2f3
+2025-08-14T16:32:41.591493+00:00|https://www.bbc.com/news/articles/c04rgrq2n05o|us court says trump administration can cut billions in foreign aid us news|6ca9843aba3010e6c977241f7a8dbd66
+2025-08-14T16:32:42.276409+00:00|https://www.nbcnews.com/select/shopping/hand-soap-recall-rcna224873|hand soap recall what you need to know us news|28d16689e6987a01dbd854d54c5dd415
+2025-08-14T16:32:42.986066+00:00|https://www.nbcnews.com/politics/trump-administration/live-blog/trump-putin-zelenskyy-ukraine-dc-national-guard-tariffs-live-updates-rcna222782/rcrd86349|ron desantis announces deportation depot facility for undocumented immigrants us news|05e6f6f0029889364e87b27b53d7f75b
