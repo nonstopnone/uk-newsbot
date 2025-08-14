@@ -1786,3 +1786,5 @@
 2025-08-14T06:41:28.430273+00:00|https://www.bbc.com/news/articles/c4gzx347z4vo|criticism of burial fat tax at council cemetery uk news|0e6f65081ba4257733137f8f745ed52c
 2025-08-14T09:23:55.042446+00:00|https://news.sky.com/story/fourteen-injured-after-coney-beach-pleasure-park-ride-derails-in-porthcawl-13411479|fourteen injured after childrens rollercoaster derails at seaside funfair uk news|5c6f0b4c5e4a5b0639ec91f6fae5e623
 2025-08-14T09:24:36.573248+00:00|https://www.bbc.com/news/articles/cde3g28gxp4o|young offenders school closes over safety concerns uk news|4a41ae2e570e7cac46bb3eb3e5fdcdcd
+2025-08-14T09:45:34.220344+00:00|https://www.bbc.com/news/articles/cn47wq93vn2o|liverpool parade accused faces 24 new charges uk news|09fc4060db8768106bf72d1ff305cc3c
+2025-08-14T09:46:15.034796+00:00|https://news.sky.com/story/man-accused-of-driving-into-crowds-at-liverpool-victory-parade-faces-further-24-charges-13411401|man accused of driving into crowds at liverpool victory parade faces further 24 charges uk news|1d9988192dcec15b875844713a1c549b
