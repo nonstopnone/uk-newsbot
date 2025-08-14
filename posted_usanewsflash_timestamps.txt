@@ -473,3 +473,5 @@
 2025-08-14T21:23:20.804064+00:00|https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska|trumpputin summit live updates trump says putin zelenskyy will make peace us news|e5aae70c809492e6e83c30c6a71661ef
 2025-08-14T21:23:21.555784+00:00|https://www.nytimes.com/2025/08/14/us/newsom-la-immigration-agents.html|newsom held an event in la federal immigration agents showed up outside us news|3176891aa5bd3adbbd387af4f39b161d
 2025-08-14T21:42:50.104618+00:00|https://www.nbcnews.com/health/health-news/michigan-man-waited-month-hospital-stroke-rehab-rcna220076|why a michigan man waited over a month in the hospital for stroke rehab us news|dcf68105717fbdcda007d583e8db8fd6
+2025-08-14T21:57:44.621723+00:00|https://www.nytimes.com/2025/08/14/us/politics/trump-washington-dc-crime-police.html|as trump seizes dcs police critics say hes undercut its ability to fight crime us news|1ab9e4ca05e54ce4ed393d588d6a52cc
+2025-08-14T21:57:45.093580+00:00|https://www.nbcnews.com/sports/mlb/marlins-mlb-playoffs-yankees-mets-phillies-rcna224377|major league baseballs cheapest team is also among its hottest us news|171ed3c8f0cb83ba88cb9c922543168e
