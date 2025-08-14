@@ -420,3 +420,4 @@
 2025-08-14T09:15:35.499105+00:00|https://www.nbcnews.com/politics/immigration/trump-administration-hits-hurdles-builds-key-immigrant-detention-facil-rcna224608|trump administration hits hurdles as it builds a key immigrant detention facility us news|e119f7f5571547ea932b23ffffe8bb9b
 2025-08-14T09:15:35.986756+00:00|https://abcnews.go.com/International/zelenskyy-rallies-trump-european-allies-setting-red-lines/story|zelenskyy rallies trump european allies in setting red lines for putin summit us news|823859d93ddc56ec0786921e22f7412c
 2025-08-14T09:15:36.455891+00:00|https://www.nytimes.com/2025/08/14/opinion/crime-statistics-washington-dc.html|crime is plummeting we can do more us news|8b2d07f3ad48cd3380d850c21ae2a1db
+2025-08-14T09:57:31.049094+00:00|https://www.bbc.com/news/articles/c62we83d1lno|fbi returns stolen conquistador document to mexico us news|8dc5a7add3058fcf1a070ef0eb7e18da
