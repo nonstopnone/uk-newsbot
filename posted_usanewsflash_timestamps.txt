@@ -421,3 +421,8 @@
 2025-08-14T09:15:35.986756+00:00|https://abcnews.go.com/International/zelenskyy-rallies-trump-european-allies-setting-red-lines/story|zelenskyy rallies trump european allies in setting red lines for putin summit us news|823859d93ddc56ec0786921e22f7412c
 2025-08-14T09:15:36.455891+00:00|https://www.nytimes.com/2025/08/14/opinion/crime-statistics-washington-dc.html|crime is plummeting we can do more us news|8b2d07f3ad48cd3380d850c21ae2a1db
 2025-08-14T09:57:31.049094+00:00|https://www.bbc.com/news/articles/c62we83d1lno|fbi returns stolen conquistador document to mexico us news|8dc5a7add3058fcf1a070ef0eb7e18da
+2025-08-14T10:28:01.648856+00:00|https://www.nytimes.com/2025/08/14/us/politics/putin-trump-alaska.html|alaskas ukrainian refugees brace for putins arrival in their safe harbor us news|5ca3f8aa4555467ace53dfef7927b1a9
+2025-08-14T10:28:02.324674+00:00|https://www.nytimes.com/2025/08/14/dining/maha-health-food-marketing.html|theres money to be made in maha food companies want in us news|48bbe86f69fa240d8ccc93ffad272432
+2025-08-14T10:28:02.979957+00:00|https://www.nytimes.com/2025/08/14/business/fed-interest-rates-inflation.html|fed faces high bar for big cuts despite white house pressure us news|7ed76badd4da18e5b79fc6b12bfc7a1b
+2025-08-14T10:28:03.804962+00:00|https://www.nytimes.com/2025/08/14/upshot/washington-dc-home-rule.html|trump wants to take back dc but the federal government already controls much of it us news|6b911776e7fc7c406d3c775ea2aab68e
+2025-08-14T10:28:04.487203+00:00|https://www.nbcnews.com/video/rabbits-with-tentacles-spotted-in-colorado-244957765880|rabbits with tentacles spotted in colorado us news|86c378163ea153bfcab0407fbdf7bd74
