@@ -408,3 +408,5 @@
 2025-08-14T02:02:37.843004+00:00|https://www.nytimes.com/2025/08/13/nyregion/nyc-taxi-drivers-settlement.html|taxi drivers near $140 million settlement over nyc suspension practices us news|2a1c1ad205d45395970ffa612e30e7a0
 2025-08-14T02:02:38.292564+00:00|https://www.nytimes.com/2025/08/13/theater/george-c-white-dead.html|george c white founder of eugene oneill theater center dies at 89 us news|ec658652db5f4d42ccb084a57cf936ca
 2025-08-14T02:02:38.752242+00:00|https://www.nytimes.com/2025/08/13/us/politics/trump-kennedy-center-pop-culture.html|at the kennedy center trump puts his pop culture obsession on display us news|48c0f435efd293a1187b8ee84d0a8747
+2025-08-14T03:24:13.237170+00:00|https://www.nytimes.com/2025/08/13/us/politics/trump-dc-national-guard-police.html|trumps dc police takeover and national guard deployment what to know us news|b6f7a20271ca7dda2bba477f5868f762
+2025-08-14T03:24:13.915769+00:00|https://www.nytimes.com/2025/08/13/us/politics/trump-law-firms-trade-deals.html|law firms that settled with trump are pressed to help on trade deals us news|4ad7470a48fcdaf96d310dbdd30a2e85
