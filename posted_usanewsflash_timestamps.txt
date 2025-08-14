@@ -426,3 +426,6 @@
 2025-08-14T10:28:02.979957+00:00|https://www.nytimes.com/2025/08/14/business/fed-interest-rates-inflation.html|fed faces high bar for big cuts despite white house pressure us news|7ed76badd4da18e5b79fc6b12bfc7a1b
 2025-08-14T10:28:03.804962+00:00|https://www.nytimes.com/2025/08/14/upshot/washington-dc-home-rule.html|trump wants to take back dc but the federal government already controls much of it us news|6b911776e7fc7c406d3c775ea2aab68e
 2025-08-14T10:28:04.487203+00:00|https://www.nbcnews.com/video/rabbits-with-tentacles-spotted-in-colorado-244957765880|rabbits with tentacles spotted in colorado us news|86c378163ea153bfcab0407fbdf7bd74
+2025-08-14T11:21:53.675051+00:00|https://www.bbc.com/news/articles/c776ddjer8no|what are putin and trump trying to achieve in alaska us news|b67f4647a0e4367e3cdc92883d18ec98
+2025-08-14T11:21:54.215422+00:00|https://www.nbcnews.com/news/us-news/trumps-approach-business-mediation-ohio-state-morning-rundown-rcna224938|trumps unusual approach to business and mediation ordered in ohio state lawsuits morning rundown us news|8872f60118df21074d9257dff0af5412
+2025-08-14T11:21:54.878808+00:00|https://www.nbcnews.com/news/us-news/fbi-returns-missing-16th-century-document-signed-conquistador-cortes-m-rcna224946|fbi returns missing 16thcentury document signed by conquistador cortés to mexico us news|01f1e0dbddd14c1ec679e5cf3e5d105d
