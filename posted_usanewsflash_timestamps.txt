@@ -472,3 +472,4 @@
 2025-08-14T21:23:20.262792+00:00|https://www.nbcnews.com/science/climate-change/glacier-floods-juneau-alaska-evacuation-residents-rcna224801|as glacier thins upstream of juneau annual flooding is the new normal for now us news|b2b7ea09b4a809fecaf74fd170de2a7b
 2025-08-14T21:23:20.804064+00:00|https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska|trumpputin summit live updates trump says putin zelenskyy will make peace us news|e5aae70c809492e6e83c30c6a71661ef
 2025-08-14T21:23:21.555784+00:00|https://www.nytimes.com/2025/08/14/us/newsom-la-immigration-agents.html|newsom held an event in la federal immigration agents showed up outside us news|3176891aa5bd3adbbd387af4f39b161d
+2025-08-14T21:42:50.104618+00:00|https://www.nbcnews.com/health/health-news/michigan-man-waited-month-hospital-stroke-rehab-rcna220076|why a michigan man waited over a month in the hospital for stroke rehab us news|dcf68105717fbdcda007d583e8db8fd6
