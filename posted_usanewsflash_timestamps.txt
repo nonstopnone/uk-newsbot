@@ -555,3 +555,4 @@
 2025-08-15T23:41:43.308138+00:00|https://www.nytimes.com/2025/08/15/us/politics/trump-washington-crime-takeaways.html|4 takeaways from the week trump took control of dcs police us news|9388941a03027fe3c5ac59eae8687a78
 2025-08-15T23:41:43.830861+00:00|https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html|judge blocks ftc investigation of media matters us news|d98b9b42201f1adfe728cccbfe62ce8f
 2025-08-15T23:41:44.352100+00:00|https://www.nytimes.com/2025/08/15/health/maha-draft-report-pesticides.html|maha draft report brings relief to some chagrin to others us news|9e23f3140fa2b9c097812d39bfb6c384
+2025-08-15T23:57:35.149347+00:00|https://www.nbcnews.com/video/putin-calls-trump-meeting-a-path-to-ukraine-peace-245107269995|putin says that an agreement reached will pave the path toward peace in ukraine us news|3ce78aebeb59b11d59cb8c16c18efb4a
