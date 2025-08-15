@@ -531,3 +531,7 @@
 2025-08-15T17:57:30.218500+00:00|https://abcnews.go.com/Politics/b-2-bombers-trump-putin-meeting/story|b2 stealth bombers flown into alaska base ahead of trumpputin meeting officials us news|d6b0ab21d5642a613013a146b92155d2
 2025-08-15T18:36:05.591797+00:00|https://www.bbc.com/news/articles/cwypgx90243o|the us economy is a puzzle but the pieces arent fitting together us news|efe147c745e6d20a0c05dfc27d9b1b3d
 2025-08-15T18:36:06.189881+00:00|https://abcnews.go.com/International/video/trump-putin-summit-major-implications-ukraine-124685195|watch trumpputin summit likely to have major implications on ukraine us news|5ba438723a2606fcc6adb5cac8109f92
+2025-08-15T19:39:37.695906+00:00|https://www.bbc.com/news/articles/c3dp0v8dd8ro|four dead in new york city outbreak of legionnaires disease us news|d98bc1a58b9f6ebee19935d9e988073e
+2025-08-15T19:39:38.373391+00:00|https://www.nbcnews.com/video/zelenskyy-urges-trump-to-take-strong-position-with-putin-in-alaska-245089349717|zelenskyy urges us to take strong position with russia us news|d77d253d26d168156917e62a273e1b15
+2025-08-15T19:39:39.085794+00:00|https://www.nbcnews.com/video/trump-and-putin-arrive-in-alaska-shake-hands-on-tarmac-245090885763|trump and putin arrive in alaska shake hands on tarmac us news|bc92c2723d9e8ccf69e12b4a975bc087
+2025-08-15T19:39:39.786047+00:00|https://www.nbcnews.com/news/us-news/chicago-man-fatally-shot-streaming-facebook-live-rcna225241|chicago man fatally shot while streaming on facebook live us news|f67cff0e6a29155cf1856e66d78c68c0
