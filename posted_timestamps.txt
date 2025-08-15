@@ -1812,3 +1812,4 @@
 2025-08-15T12:46:08.998965+00:00|https://www.bbc.com/news/articles/c7vl8vdj225o|sonic boom heard after raf scrambled to incident uk news|dfbd59ff6ffdd406f5cf4b3ddd53ab64
 2025-08-15T12:46:50.262508+00:00|https://news.sky.com/story/government-will-not-offer-bailout-to-uks-largest-bioethanol-plant-13412143|government will not offer bailout to uks largest bioethanol plant uk news|4fc1e1206b42910233d09c041c76444d
 2025-08-15T13:47:06.178066+00:00|https://www.bbc.com/news/articles/clyr4yvd3d7o|calls for review of law after palestine action arrests uk news|149f6d8e6d3313d9f46657eca9ad4ae5
+2025-08-15T16:27:42.028471+00:00|https://www.bbc.com/news/articles/ckgdzj5nxmlo|residents without water as wales prepares for heatwave uk news|f388728cd9f59aba58969c37bf4716f4
