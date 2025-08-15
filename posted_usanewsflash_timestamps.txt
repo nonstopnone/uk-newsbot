@@ -509,3 +509,5 @@
 2025-08-15T11:20:40.453258+00:00|https://www.nytimes.com/2025/08/15/world/europe/russia-alaska-purchase-ukraine.html|why russia sold alaska to the us us news|8b6b6d0f37512644aabc467720fb7828
 2025-08-15T11:20:41.157082+00:00|https://www.nbcnews.com/news/us-news/trump-putin-summit-newsom-redistricting-fight-morning-rundown-rcna225162|trump and putin set to meet in alaska and newsom ramps up redistricting fight morning rundown us news|87ac9c90fedd900e0ecc965635f753e7
 2025-08-15T11:20:41.835573+00:00|https://www.nytimes.com/2025/08/15/briefing/trump-putin-alaska-ukraine.html|what to know ahead of the trumpputin summit us news|0f86621fe0f7874f842c2ed58cdeba26
+2025-08-15T11:57:46.508704+00:00|https://www.today.com/video/ukraine-watches-trump-putin-summit-closely-as-fighting-rages-245051461772|zelenskyy warns putin doesnt want peace but to control ukraine us news|3a79f0463e5c88b088d7feee7d1e12ba
+2025-08-15T11:57:47.191847+00:00|https://www.nytimes.com/2025/08/15/world/asia/pakistan-flash-floods-india.html|flash floods in pakistan kill at least 60 people in a single day us news|2293cc257854830fce934c378af40eaa
