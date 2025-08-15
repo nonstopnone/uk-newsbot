@@ -551,3 +551,7 @@
 2025-08-15T22:23:54.787694+00:00|https://www.nbcnews.com/politics/trump-administration/putin-gets-warm-welcome-trump-ride-beast-alaska-summit-ukraine-rcna225310|red carpet jet flyover and a ride in the beast putin gets a warm welcome in alaska us news|8cdede5555e72873585ff67ccc4e32a6
 2025-08-15T22:45:16.881045+00:00|https://www.nytimes.com/2025/08/15/briefing/trump-and-putin-meet-in-alaska.html|trump and putin meet in alaska us news|b160c192e97d6eacaed0fbb326fe4f82
 2025-08-15T22:57:38.265641+00:00|https://www.nytimes.com/2025/08/15/us/politics/trump-putin-alaska-scene.html|trump welcomes putin with b2 fighter jet flyover and red carpet us news|b8219b593d71260333585c1d259c7bc0
+2025-08-15T23:41:42.791058+00:00|https://www.nbcnews.com/video/trump-thanks-putin-and-says-great-progress-was-made-245109829668|trump thanks putin and says great progress was made us news|340643c8648c159e2a40176ec8efe16e
+2025-08-15T23:41:43.308138+00:00|https://www.nytimes.com/2025/08/15/us/politics/trump-washington-crime-takeaways.html|4 takeaways from the week trump took control of dcs police us news|9388941a03027fe3c5ac59eae8687a78
+2025-08-15T23:41:43.830861+00:00|https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html|judge blocks ftc investigation of media matters us news|d98b9b42201f1adfe728cccbfe62ce8f
+2025-08-15T23:41:44.352100+00:00|https://www.nytimes.com/2025/08/15/health/maha-draft-report-pesticides.html|maha draft report brings relief to some chagrin to others us news|9e23f3140fa2b9c097812d39bfb6c384
