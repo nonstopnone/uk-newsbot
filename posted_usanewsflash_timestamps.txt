@@ -504,3 +504,8 @@
 2025-08-15T10:26:18.483769+00:00|https://www.nytimes.com/2025/08/14/us/politics/dc-homeless-camps-trump.html|federal raids target dc homeless camps us news|1ed281269d7ebd6794b08713df97f051
 2025-08-15T10:26:19.036923+00:00|https://www.nytimes.com/2025/08/15/us/dc-police-federal-night-scene.html|feds turn into beat cops in trumps dc policing surge us news|3ff6367deeeb8f3ef0e30090695c3241
 2025-08-15T10:26:19.592455+00:00|https://www.nytimes.com/2025/08/15/us/tribal-colleges-federal-funding-trump.html|tribal colleges rely on federal funding their leaders fear the trump years us news|35b9a5d598c3606ed052e2655e58fc75
+2025-08-15T11:20:39.097739+00:00|https://www.nbcnews.com/world/ukraine/trump-putin-summit-alaska-ukraine-europe-peace-rcna224730|shut out of alaska summit ukrainians anxiously await trumpputin fallout us news|6c809ad8a26c56c17d0b3341668d67b5
+2025-08-15T11:20:39.767587+00:00|https://www.nbcnews.com/world/ukraine/trump-putin-summit-alaska-ukraine-europe-peace-rcna224730|shut out of alaska summit ukrainians anxiously await trumpputin fallout us news|6c809ad8a26c56c17d0b3341668d67b5
+2025-08-15T11:20:40.453258+00:00|https://www.nytimes.com/2025/08/15/world/europe/russia-alaska-purchase-ukraine.html|why russia sold alaska to the us us news|8b6b6d0f37512644aabc467720fb7828
+2025-08-15T11:20:41.157082+00:00|https://www.nbcnews.com/news/us-news/trump-putin-summit-newsom-redistricting-fight-morning-rundown-rcna225162|trump and putin set to meet in alaska and newsom ramps up redistricting fight morning rundown us news|87ac9c90fedd900e0ecc965635f753e7
+2025-08-15T11:20:41.835573+00:00|https://www.nytimes.com/2025/08/15/briefing/trump-putin-alaska-ukraine.html|what to know ahead of the trumpputin summit us news|0f86621fe0f7874f842c2ed58cdeba26
