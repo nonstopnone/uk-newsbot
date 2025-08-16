@@ -568,3 +568,5 @@
 2025-08-16T03:58:17.940541+00:00|https://www.nytimes.com/2025/08/15/us/politics/trump-putin-alaska-ukraine.html|trump and putin put on a show in summit but no ukraine deal emerges us news|48c358ae54ce8ab5943fc3bf0b8f12af
 2025-08-16T03:58:18.440598+00:00|https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukrainians.html|at trumps summit no deal on ukraine and no consequence for putin us news|01b4ed9b850c761465c971991f29bddf
 2025-08-16T08:30:12.450544+00:00|https://www.bbc.com/news/articles/ce836yz8r69o|trump and putin leave alaska with no ukraine deal us news|44252e809959248caf50f81a6286f665
+2025-08-16T09:41:48.832735+00:00|https://www.nbcnews.com/news/news-quiz/kennedy-center-worst-film-news-quiz-rcna225026|a new host for the kennedy center and the worst film of the year the news quiz us news|f08a207feb0e92ee53f6e66c77fa9b55
+2025-08-16T09:41:49.644438+00:00|https://www.nbcnews.com/news/us-news/trump-tariffs-deportations-rising-prices-rcna225295|tariffs and deportations are contributing to rising prices and fewer immigrant workers us news|47e92b4bdb1754221c16d5498f1e85e2
