@@ -594,3 +594,4 @@
 2025-08-16T21:57:32.271298+00:00|https://www.nytimes.com/2025/08/16/us/new-orleans-mayor-louisiana-corruption.html|louisiana has a long history of political corruption us news|533cdb3487e552536dd427ce713d6214
 2025-08-16T22:43:18.955441+00:00|https://www.nytimes.com/2025/08/16/us/politics/texas-democrats-redistricting-protests.html|democrats gather for protests over trumps push on redistricting us news|440ced9375fa3972470df974fb953667
 2025-08-16T23:21:51.519113+00:00|https://www.nbcnews.com/video/protests-continue-in-d-c-as-trump-admin-agrees-to-keep-police-chief-after-lawsuit-245149253845|protests continue in dc as trump admin agrees to keep police chief after lawsuit us news|4de5680fab3491d1af8449972023492b
+2025-08-16T23:41:03.823858+00:00|https://www.nbcnews.com/news/us-news/georgia-judge-flubs-verdict-reading-tells-defendant-guilty-rcna225391|georgia judge flubs verdict reading tells defendant he is guilty us news|9a71dcdc5c59e911385bedd2e695b616
