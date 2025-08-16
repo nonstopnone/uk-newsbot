@@ -583,3 +583,4 @@
 2025-08-16T13:17:35.616840+00:00|https://abcnews.go.com/US/hurricane-erin-tracker-latest-path-hurricane-atlantic-season/story|hurricane erin tracker storm strengthens into category 4 us news|c5ac0705a5832e5a9658d82e8f8a793d
 2025-08-16T13:43:26.505238+00:00|https://www.today.com/video/trump-administration-blocked-from-replacing-dc-police-chief-245138501592|dc police chief retains command after deal with trump admin us news|73e50400d9ab5e812c41d4d96d85ec3b
 2025-08-16T13:43:27.194945+00:00|https://www.nytimes.com/2025/08/15/upshot/washington-dc-home-rule-explained.html|trump is testing dcs home rule what is it us news|62eda3744a1f857f22bdc73bbb288485
+2025-08-16T13:57:47.573865+00:00|https://www.today.com/video/tracking-hurricane-erin-storm-strengthens-to-category-4-245137989595|hurricane erin strengthens to category 4 storm in atlantic us news|5b7b13e634995d617e3757b2d0016155
