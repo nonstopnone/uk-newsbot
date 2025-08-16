@@ -577,3 +577,5 @@
 2025-08-16T10:25:51.139965+00:00|https://www.nytimes.com/2025/08/16/world/europe/turkey-erdogan-corruption-drive.html|arrests in turkey silence erdogans rivals opposition says us news|67ecdae3610bb430584f7c5fb000a060
 2025-08-16T10:44:05.391015+00:00|https://www.nytimes.com/2025/08/16/world/europe/putin-trump-alaska-summit-ukraine.html|after trumpputin alaska summit europeans are relieved for now us news|1238a1c9c5fcd53ecfb3c1fa7d349588
 2025-08-16T10:57:44.825139+00:00|https://www.nytimes.com/2025/08/16/briefing/no-deal.html|no deal us news|4e5f81be9b7926ec645b5fb6ff8be130
+2025-08-16T11:57:27.775932+00:00|https://www.today.com/video/trump-and-putin-summit-ends-without-deal-on-war-in-ukraine-245136453606|trump and putin summit concludes without concrete deal us news|8670bc83e4628a6ec1f9ba8bbfec75ba
+2025-08-16T11:57:28.504707+00:00|https://www.today.com/video/zelenskyy-says-he-ll-meet-with-trump-after-putin-summit-245136965530|zelenskyy says hell visit white house after trumpputin summit us news|416f5c7cc1001fadb7a65930b8080daa
