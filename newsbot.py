@@ -13,6 +13,7 @@ import html
 import logging
 import random
 from dateutil import parser as dateparser
+import difflib
 
 # --- Logging Setup ---
 logging.basicConfig(
@@ -72,9 +73,9 @@ def get_post_title(entry):
     return base_title
 
 def get_content_hash(entry):
-    """Compute an MD5 hash of the first 200 characters of the article summary."""
-    summary = html.unescape(getattr(entry, "summary", "")[:200])
-    return hashlib.md5(summary.encode('utf-8')).hexdigest()
+    """Compute an MD5 hash of the title plus the first 300 characters of the article summary."""
+    content = html.unescape(entry.title + " " + getattr(entry, "summary", "")[:300])
+    return hashlib.md5(content.encode('utf-8')).hexdigest()
 
 def load_dedup(filename=DEDUP_FILE):
     """Load deduplication data from file into sets."""
@@ -99,15 +100,16 @@ def load_dedup(filename=DEDUP_FILE):
 posted_urls, posted_titles, posted_hashes = load_dedup()
 
 def is_duplicate(entry):
-    """Check if an article is a duplicate based on URL, title, or content hash."""
+    """Check if an article is a duplicate based on URL, fuzzy title similarity, or content hash."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
     content_hash = get_content_hash(entry)
     if norm_link in posted_urls:
         return True, "Duplicate URL"
-    if norm_title in posted_titles:
-        return True, "Duplicate Title"
+    for pt in posted_titles:
+        if difflib.SequenceMatcher(None, pt, norm_title).ratio() > 0.85:
+            return True, "Duplicate Title (Fuzzy Match)"
     if content_hash in posted_hashes:
         return True, "Duplicate Content Hash"
     return False, ""
@@ -153,7 +155,12 @@ def extract_first_paragraphs(url):
 # --- Filter Keywords ---
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "sponsor", "competition", "prize", "free",
-    "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement"
+    "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement",
+    "sale", "deal", "black friday", "offer"  # Expanded
+]
+
+OPINION_KEYWORDS = [
+    "opinion", "comment", "analysis", "editorial", "viewpoint", "perspective"
 ]
 
 # Expanded UK-relevant keywords with weights
@@ -169,6 +176,8 @@ UK_KEYWORDS = {
     "house of commons": 3, "house of lords": 3, "met police": 3, "scotland yard": 3,
     "national trust": 3, "met office": 3, "british museum": 3, "tate modern": 3,
     "level crossing": 3, "west midlands railway": 3, "network rail": 3,
+    "ofsted": 3, "dvla": 3, "hmrc": 3, "dwp": 3, "tory": 3, "labour party": 3, "reform uk": 3, "plaid cymru": 3,
+    "brighton": 3, "southampton": 3, "plymouth": 3, "hull": 3, "derby": 3,
     # Medium weight (2) - Generally UK-related but less specific
     "uk": 2, "britain": 2, "united kingdom": 2, "england": 2, "scotland": 2, "wales": 2, "northern ireland": 2,
     "british": 2, "labour": 2, "conservative": 2, "lib dem": 2, "snp": 2, "green party": 2,
@@ -191,11 +200,13 @@ NEGATIVE_KEYWORDS = {
     "florida": -2, "boston": -2, "miami": -2, "san francisco": -2, "seattle": -2,
     "fbi": -2, "cia": -2, "pentagon": -2, "supreme court": -2, "biden": -2, "trump": -2,
     "super bowl": -2, "nfl": -2, "nba": -2, "wall street": -2,
+    "potus": -2, "scotus": -2, "arizona": -2, "nevada": -2, "georgia": -2,
     # Medium negative weight (-1) - General international terms
     "france": -1, "germany": -1, "china": -1, "russia": -1, "india": -1,
     "australia": -1, "canada": -1, "japan": -1, "brazil": -1, "south africa": -1,
     "paris": -1, "berlin": -1, "tokyo": -1, "sydney": -1, "toronto": -1,
-    "nato": -1, "united nations": -1, "european union": -1, "olympics": -1, "world cup": -1
+    "nato": -1, "united nations": -1, "european union": -1, "olympics": -1, "world cup": -1,
+    "brussels": -1
 }
 
 def calculate_uk_relevance_score(text):
@@ -222,7 +233,12 @@ def is_promotional(entry):
             return False
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
-def is_uk_relevant(entry, threshold=2):
+def is_opinion(entry):
+    """Check if an article is opinion-based rather than straight news."""
+    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    return any(kw in combined for kw in OPINION_KEYWORDS)
+
+def is_uk_relevant(entry, threshold=3):
     """Check if an article is UK-relevant based on the calculated score and print the score."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     score = calculate_uk_relevance_score(combined)
@@ -235,16 +251,20 @@ def is_uk_relevant(entry, threshold=2):
 # --- Category Keywords ---
 CATEGORY_KEYWORDS = {
     "Breaking News": ["breaking", "live", "update", "developing", "just in", "alert"],
-    "Politics": ["politics", "parliament", "government", "election", "policy", "minister", "mp", "prime minister"],
+    "Politics": ["politics", "parliament", "government", "election", "policy", "minister", "mp", "prime minister", "brexit", "eu", "tory", "labour"],
     "Crime & Legal": ["crime", "police", "court", "legal", "arrest", "trial", "investigation", "prosecution"],
-    "Sport": ["sport", "football", "cricket", "tennis", "olympics", "match", "game", "tournament"],
-    "Royals": ["royal", "monarchy", "king", "queen", "prince", "princess", "palace", "crown"]
+    "Sport": ["sport", "football", "cricket", "tennis", "olympics", "match", "game", "tournament", "rugby", "formula 1", "premier league"],
+    "Royals": ["royal", "monarchy", "king", "queen", "prince", "princess", "palace", "crown"],
+    "Economy": ["economy", "budget", "inflation", "gdp", "recession", "bank of england", "chancellor", "cost of living"],
+    "Health": ["health", "nhs", "hospital", "doctor", "pandemic", "vaccine", "covid"],
+    "Education": ["education", "school", "university", "a-levels", "gcse", "ofsted"],
+    "Environment": ["environment", "climate", "net zero", "pollution", "green energy"]
 }
 
 def get_category(entry):
     """Determine the category of an article based on keywords with whole word matching."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals"]
+    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment"]
     for cat in specific_categories:
         for keyword in CATEGORY_KEYWORDS[cat]:
             if re.search(r'\b' + re.escape(keyword) + r'\b', text):
@@ -258,6 +278,10 @@ FLAIR_MAPPING = {
     "Crime & Legal": "Crime & Legal",
     "Sport": "Sport",
     "Royals": "Royals",
+    "Economy": "Economy",
+    "Health": "Health",
+    "Education": "Education",
+    "Environment": "Environment",
     None: "No Flair"
 }
 
@@ -331,6 +355,9 @@ def main():
                 if is_promotional(entry):
                     logger.info(f"Skipped promotional article: {html.unescape(entry.title)}")
                     continue
+                if is_opinion(entry):
+                    logger.info(f"Skipped opinion article: {html.unescape(entry.title)}")
+                    continue
                 if not is_uk_relevant(entry):
                     logger.info(f"Skipped non-UK article: {html.unescape(entry.title)}")
                     continue
@@ -358,7 +385,7 @@ def main():
                     other_hash = get_content_hash(other_entry)
                     other_title = normalize_title(get_post_title(other_entry))
                     entry_title = normalize_title(get_post_title(entry))
-                    if other_hash == content_hash or other_title == entry_title:
+                    if other_hash == content_hash or difflib.SequenceMatcher(None, other_title, entry_title).ratio() > 0.85:
                         group.append((other_source, other_entry))
             if group:
                 story_groups.append(group)
