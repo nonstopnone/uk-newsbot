@@ -576,3 +576,4 @@
 2025-08-16T10:25:50.328638+00:00|https://www.nytimes.com/2025/08/16/climate/environmental-strategy-trump.html|environmental groups face generational setbacks under trump us news|bc6d3f71d8d32b783862f7259e25cda1
 2025-08-16T10:25:51.139965+00:00|https://www.nytimes.com/2025/08/16/world/europe/turkey-erdogan-corruption-drive.html|arrests in turkey silence erdogans rivals opposition says us news|67ecdae3610bb430584f7c5fb000a060
 2025-08-16T10:44:05.391015+00:00|https://www.nytimes.com/2025/08/16/world/europe/putin-trump-alaska-summit-ukraine.html|after trumpputin alaska summit europeans are relieved for now us news|1238a1c9c5fcd53ecfb3c1fa7d349588
+2025-08-16T10:57:44.825139+00:00|https://www.nytimes.com/2025/08/16/briefing/no-deal.html|no deal us news|4e5f81be9b7926ec645b5fb6ff8be130
