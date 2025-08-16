@@ -591,3 +591,4 @@
 2025-08-16T16:30:16.129901+00:00|https://www.bbc.com/news/articles/cdxyezqx4r5o|erin rapidly intensifies to category five hurricane us news|676c9237f363b4d28552e46c6a80ac6f
 2025-08-16T20:24:53.958149+00:00|https://www.nbcnews.com/politics/politics-news/west-virginia-governor-deploys-national-guard-dc-trump-police-takeover-rcna225386|west virginia governor deploys hundreds of national guard troops to washington us news|a5a8cccf1851bf5b3471346f5451c7aa
 2025-08-16T21:21:19.079676+00:00|https://www.nytimes.com/2025/08/16/us/politics/jeanine-pirro-trump-dc-police.html|jeanine pirro takes on prosecutor role in trumps dc crackdown us news|946c5492deb644b5cd03b5ce57284a0f
+2025-08-16T21:57:32.271298+00:00|https://www.nytimes.com/2025/08/16/us/new-orleans-mayor-louisiana-corruption.html|louisiana has a long history of political corruption us news|533cdb3487e552536dd427ce713d6214
