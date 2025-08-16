@@ -556,3 +556,8 @@
 2025-08-15T23:41:43.830861+00:00|https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html|judge blocks ftc investigation of media matters us news|d98b9b42201f1adfe728cccbfe62ce8f
 2025-08-15T23:41:44.352100+00:00|https://www.nytimes.com/2025/08/15/health/maha-draft-report-pesticides.html|maha draft report brings relief to some chagrin to others us news|9e23f3140fa2b9c097812d39bfb6c384
 2025-08-15T23:57:35.149347+00:00|https://www.nbcnews.com/video/putin-calls-trump-meeting-a-path-to-ukraine-peace-245107269995|putin says that an agreement reached will pave the path toward peace in ukraine us news|3ce78aebeb59b11d59cb8c16c18efb4a
+2025-08-16T01:57:24.706344+00:00|https://www.bbc.com/news/videos/clyrdnlnzyjo|next time in moscow putin invites trump to russia with rare use of english us news|d400ef37c113edc59e75aad14cb26726
+2025-08-16T01:57:25.316774+00:00|https://www.bbc.com/news/articles/clyvd3gkg1po|no ceasefire no deal what summit means for trump putin and ukraine us news|e57a3e82050078b9cd9b2acc5487fc44
+2025-08-16T01:57:25.890757+00:00|https://www.bbc.com/news/videos/c62wdzlnv1do|watch how the trumpputin summit unfolded in 82 seconds us news|621f2b68c74d33ae303c43cf463aecf2
+2025-08-16T01:57:26.509525+00:00|https://www.nbcnews.com/nightly-news/video/d-c-police-chief-back-in-charge-after-deal-with-doj-245114437693|dc police chief back in charge after deal with doj us news|9c434f9f11b01cdeae0f6c4106d9e175
+2025-08-16T01:57:27.094100+00:00|https://www.nbcnews.com/nightly-news/video/trump-and-putin-do-not-announce-ceasefire-after-summit-245112389513|trump and putin do not announce ceasefire after summit us news|c16416298ae4321f41cca33c29aac5ce
