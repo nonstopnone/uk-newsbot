@@ -592,3 +592,4 @@
 2025-08-16T20:24:53.958149+00:00|https://www.nbcnews.com/politics/politics-news/west-virginia-governor-deploys-national-guard-dc-trump-police-takeover-rcna225386|west virginia governor deploys hundreds of national guard troops to washington us news|a5a8cccf1851bf5b3471346f5451c7aa
 2025-08-16T21:21:19.079676+00:00|https://www.nytimes.com/2025/08/16/us/politics/jeanine-pirro-trump-dc-police.html|jeanine pirro takes on prosecutor role in trumps dc crackdown us news|946c5492deb644b5cd03b5ce57284a0f
 2025-08-16T21:57:32.271298+00:00|https://www.nytimes.com/2025/08/16/us/new-orleans-mayor-louisiana-corruption.html|louisiana has a long history of political corruption us news|533cdb3487e552536dd427ce713d6214
+2025-08-16T22:43:18.955441+00:00|https://www.nytimes.com/2025/08/16/us/politics/texas-democrats-redistricting-protests.html|democrats gather for protests over trumps push on redistricting us news|440ced9375fa3972470df974fb953667
