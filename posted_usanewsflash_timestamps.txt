@@ -587,3 +587,4 @@
 2025-08-16T14:42:38.645697+00:00|https://www.nytimes.com/2025/08/16/world/europe/the-power-of-the-trump-putin-presidential-photo-op.html|the power of the trumpputin presidential photo op us news|d41d8cd98f00b204e9800998ecf8427e
 2025-08-16T15:22:47.661632+00:00|https://www.nytimes.com/2025/08/16/us/mlk-statue-florida.html|new statue of martin luther king jr draws criticisms over its proportions us news|083f40009483654749ba4f312d50426c
 2025-08-16T15:41:48.602761+00:00|https://www.nytimes.com/2025/08/16/nyregion/park-avenue-gunman-profile.html|unraveling in las vegas then a massacre in new york us news|eb2928c71498f086a8d15d480b2b4bf1
+2025-08-16T15:57:22.452852+00:00|https://www.nytimes.com/2025/08/16/nyregion/cuomo-adams-mamdani-social-media.html|mamdanis video savvy easy to envy hard to duplicate us news|08e7439523d6d29102d61ca8b2b32b82
