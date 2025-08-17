@@ -611,3 +611,5 @@
 2025-08-17T11:19:03.364790+00:00|https://www.nbcnews.com/news/us-news/brooklyn-club-shooting-taste-of-the-city-lounge-rcna225446|11 people shot 3 killed in brooklyn club us news|ec3ead05184e83bc5ed0f8817548d761
 2025-08-17T11:19:04.029152+00:00|https://www.nbcnews.com/news/us-news/brooklyn-club-shooting-taste-of-the-city-lounge-rcna225446|11 people shot 3 killed in brooklyn club us news|ec3ead05184e83bc5ed0f8817548d761
 2025-08-17T11:57:28.651051+00:00|https://www.nytimes.com/2025/08/17/world/europe/ukraine-security-guarantees-trump-russia.html|ukraine weighs trumps offer of security guarantees with caution us news|4f04f0123cb6a5a556c6bf1e06f6ba50
+2025-08-17T12:48:42.076212+00:00|https://www.nbcnews.com/video/multiple-people-dead-after-shooting-breaks-out-at-brooklyn-club-245163077721|nypd says multiple people dead after shooting breaks out at brooklyn club us news|24406844dd206c2ef4d590f49aa38534
+2025-08-17T12:48:42.751083+00:00|https://www.nytimes.com/2025/08/17/nyregion/brooklyn-shooting-nightclub.html|three are killed in shooting at crown heights bar us news|25df8e9ec3ba2d1f5b24989f9df953a7
