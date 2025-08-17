@@ -622,3 +622,4 @@
 2025-08-17T17:20:39.894821+00:00|https://www.nytimes.com/2025/08/17/us/politics/trump-witkoff-ukraine-putin-concessions.html|trump officials hint at possible concessions by putin us news|0a98737db803b910c526252e56aaa217
 2025-08-17T18:33:32.765901+00:00|https://www.nytimes.com/2025/08/17/us/politics/pence-trump-dc-national-guard.html|pence welcomes trumps dc deployment of the national guard us news|ee3c063a264271f5a77053022a0fbfc3
 2025-08-17T18:51:34.065284+00:00|https://abcnews.go.com/Politics/trump-shares-melania-trumps-letter-putin/story|trump shares melania trumps letter to putin us news|fc4a623813394dc115738bc3d92a8625
+2025-08-17T21:22:08.509481+00:00|https://www.nytimes.com/2025/08/17/us/politics/europe-trump-zelensky-putin.html|zelensky brings backup to the white house as trump aligns more closely with putin us news|b78aed119b7673c111bae0c033371d01
