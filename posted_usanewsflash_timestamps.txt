@@ -608,3 +608,5 @@
 2025-08-17T10:24:31.386413+00:00|https://www.nytimes.com/2025/08/17/arts/television/penn-teller-magicians-50-years.html|penn tellers secret to a 50year partnership us news|297d40e5f3cc7730135b7241b367277f
 2025-08-17T10:44:31.066667+00:00|https://www.nytimes.com/2025/08/17/business/duolingo-luis-von-ahn.html|the ceo of duolingo wants to have a conversation about ai us news|94da72304c6b16336a2b51efb830a1de
 2025-08-17T10:57:33.603021+00:00|https://abcnews.go.com/US/hurricane-erin-tracker-atlantic-hurricane-season/story|hurricane erin tracker 1st hurricane of atlantic season weakens to category 3 us news|dad1e580648ce7cd7d0b9e8d0869c990
+2025-08-17T11:19:03.364790+00:00|https://www.nbcnews.com/news/us-news/brooklyn-club-shooting-taste-of-the-city-lounge-rcna225446|11 people shot 3 killed in brooklyn club us news|ec3ead05184e83bc5ed0f8817548d761
+2025-08-17T11:19:04.029152+00:00|https://www.nbcnews.com/news/us-news/brooklyn-club-shooting-taste-of-the-city-lounge-rcna225446|11 people shot 3 killed in brooklyn club us news|ec3ead05184e83bc5ed0f8817548d761
