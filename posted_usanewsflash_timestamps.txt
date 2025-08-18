@@ -650,3 +650,4 @@
 2025-08-18T12:54:44.171322+00:00|https://www.nbcnews.com/weather/hurricanes/hurricane-erin-forecasted-bring-life-threatening-surf-rip-currents-cat-rcna225540|hurricane erin forecasted to bring lifethreatening surf and rip currents as category 4 us news|f220afa544e914bd8054e4ada8d645ea
 2025-08-18T13:54:12.744937+00:00|https://www.nytimes.com/2025/08/18/us/russia-attacks-kharkiv-zaporizhzhia-ukraine.html|russian attacks kill 10 in ukraine hours before trumpzelensky meeting us news|553db4a0066d69b5120a73be391a1b56
 2025-08-18T13:54:13.204732+00:00|https://www.nytimes.com/2025/08/18/business/media/goodbye-msnbc-hello-ms-now.html|msnbc to change its name to ms now us news|551435ef62794b9a4a275a439f756464
+2025-08-18T14:12:09.210303+00:00|https://www.nbcnews.com/world/ukraine/ukraine-donbas-region-putin-trump-talks-war-russia-rcna225442|what is ukraines donbas region and why is it so important in trump talks us news|aeeae9e17546065843441fa17801e81f
