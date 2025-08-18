@@ -627,3 +627,4 @@
 2025-08-18T04:27:05.886880+00:00|https://www.nytimes.com/2025/08/18/business/trump-tariffs-india-economy.html|trumps tariffs will crush indias exporters threatening livelihoods us news|ce3ee908352ab36057f48b679cdd63fc
 2025-08-18T04:57:59.009671+00:00|https://www.nytimes.com/2025/08/18/us/politics/zelensky-trump-ukraine-russia.html|zelensky calls for lasting peace in ukraine ahead of trump meeting us news|d1ab16c2ba533f3ba6b890b3f873f6e1
 2025-08-18T05:28:29.366984+00:00|https://www.nytimes.com/2025/08/17/world/americas/bolivia-presidential-election-explained.html|a centrist surges in bolivia as voters turn away from socialism us news|3215585f208d36fc4e266a9226bab9b0
+2025-08-18T07:33:07.345579+00:00|https://www.nbcnews.com/politics/white-house/trump-pressures-ukraine-end-war-ahead-zelenskyy-meeting-rcna225476|trump pressures zelenskyy to end war ahead of white house meeting us news|f244a594a3c96345975375c7a285d48f
