@@ -625,3 +625,4 @@
 2025-08-17T21:22:08.509481+00:00|https://www.nytimes.com/2025/08/17/us/politics/europe-trump-zelensky-putin.html|zelensky brings backup to the white house as trump aligns more closely with putin us news|b78aed119b7673c111bae0c033371d01
 2025-08-17T23:42:14.332931+00:00|https://www.nbcnews.com/video/3-people-killed-9-injured-in-mass-shooting-at-brooklyn-club-245172805662|3 people killed 9 injured in mass shooting at brooklyn club us news|f26c18c83e8be91669d164afd545170b
 2025-08-18T04:27:05.886880+00:00|https://www.nytimes.com/2025/08/18/business/trump-tariffs-india-economy.html|trumps tariffs will crush indias exporters threatening livelihoods us news|ce3ee908352ab36057f48b679cdd63fc
+2025-08-18T04:57:59.009671+00:00|https://www.nytimes.com/2025/08/18/us/politics/zelensky-trump-ukraine-russia.html|zelensky calls for lasting peace in ukraine ahead of trump meeting us news|d1ab16c2ba533f3ba6b890b3f873f6e1
