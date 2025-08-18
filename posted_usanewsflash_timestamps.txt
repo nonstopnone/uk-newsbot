@@ -671,3 +671,4 @@
 2025-08-18T17:33:50.005430+00:00|https://www.bbc.com/news/articles/cdd3gj5ve1go|texas democrats return home after redistricting row us news|46de4c0535cc24fbb1529e5d0e315af1
 2025-08-18T17:47:21.568811+00:00|https://www.nbcnews.com/news/us-news/nebraska-college-basketball-player-drowns-utah-reservoir-rcna225636|nebraska college basketball player drowns in utah reservoir us news|544b5adcaddd3f1d7d170f1b07cdf7e0
 2025-08-18T17:47:22.068752+00:00|https://www.nytimes.com/2025/08/18/weather/hurricane-erin-rip-current-east-coast-carolina.html|why rip currents from hurricane erin are so dangerous to the east coast us news|3481680061359fcee7b852c53bdab0f0
+2025-08-18T17:57:43.851135+00:00|https://www.bbc.com/news/articles/c8jp3d13103o|air canada flight attendant union refuses to end strike us news|9da2e386dcea4fe1d9a2f0a284285fa9
