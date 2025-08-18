@@ -1,5 +1,3 @@
-2025-08-11T11:25:56.339975+00:00|https://news.sky.com/story/dozens-evacuated-after-burst-water-main-floods-streets-in-north-london-13410045|dozens evacuated after burst water main floods streets uk news|de4475506a6dd94efbc7ca2af1ec56dd
-2025-08-11T11:26:37.709169+00:00|https://news.sky.com/story/john-caldwell-two-men-arrested-over-alleged-attempted-murder-of-senior-police-officer-in-northern-ireland-13410047|two arrests over alleged attempted murder of senior police officer uk news|ee0183acfdee41f49e88925c478b7ae2
 2025-08-11T14:49:37.556700+00:00|https://news.sky.com/story/kemi-badenoch-suggests-asylum-seekers-should-be-housed-in-camps-13410173|badenoch suggests asylum seekers should be housed in camps uk news|1629f50e98d04c8b603c5fe2bf2a6999
 2025-08-11T15:31:55.302208+00:00|https://www.bbc.com/news/articles/cedvvxjjg4qo|murdered man was much loved father and loving grandfather uk news|c3338acc55b8126416138d8b3d9eb346
 2025-08-11T16:27:48.590234+00:00|https://news.sky.com/story/easyjet-suspends-pilot-over-being-naked-and-drunk-at-holiday-resort-13410243|easyjet suspends pilot over being naked and drunk at holiday resort uk news|f5dc6f95fe571f355b13efd89ab8c8bc
@@ -123,3 +121,6 @@
 2025-08-18T09:59:27.889240+00:00|https://news.sky.com/story/homes-evacuated-as-firefighters-tackle-huge-blaze-in-essex-seaside-town-13413960|homes evacuated as firefighters tackle huge blaze in seaside town uk news|39c50a7903e3ef352a309c50295a2492
 2025-08-18T10:33:20.049371+00:00|https://www.bbc.com/news/articles/ce93ygv4zzlo|skibidi and tradwife among words added to cambridge dictionary uk news|5b9f122de75ecc3f47218a8e215f54b6
 2025-08-18T10:34:00.769810+00:00|https://news.sky.com/story/campaign-group-that-secured-legal-victory-on-definition-of-a-woman-lodges-fresh-case-13413967|campaign group that secured legal victory on definition of a woman lodges fresh case uk news|2f2a50cf556095ea3dac8ddcf7ba1d2b
+2025-08-18T11:33:56.079109+00:00|https://www.telegraph.co.uk/racing/0/marlborough-racing-tips-best-bets-todays-races|marlborough racing tips and best bets for todays races uk news|8c1d7221d9a0e1695398a4971631b7b5
+2025-08-18T11:34:37.656415+00:00|https://www.bbc.com/news/articles/c939v7gejlpo|man guilty over role in shooting of girl 9 uk news|bc592d1b614ef4d328059f8818ac9b01
+2025-08-18T11:35:18.938837+00:00|https://www.bbc.com/news/articles/c939v7gejlpo|man guilty over role in shooting of girl 9 uk news|bc592d1b614ef4d328059f8818ac9b01
