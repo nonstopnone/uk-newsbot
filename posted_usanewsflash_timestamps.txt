@@ -705,3 +705,6 @@
 2025-08-18T22:20:48.258712+00:00|https://www.nytimes.com/2025/08/18/us/politics/epstein-files-release-trump.html|justice dept will begin sharing epstein files on friday top republican says us news|32539d5918f808fdc4ab1ea26fe621d8
 2025-08-18T22:42:42.819222+00:00|https://www.nytimes.com/2025/08/18/well/texas-measles-outbreak-over.html|the texas measles outbreak is over officials say us news|dba3ba0db4fd9373f704d5553b4c7318
 2025-08-18T22:42:43.306889+00:00|https://www.nbcnews.com/politics/donald-trump/trump-reignites-push-ban-mail-voting-meeting-putin-rcna225570|trump reignites his push to ban mailin voting after meeting with putin us news|85f71ea023620518bae1c1cf28e2611f
+2025-08-18T22:57:29.168913+00:00|https://www.nytimes.com/2025/08/18/world/europe/security-guarantees-troops-ukraine.html|what security guarantees in troop form could look like in ukraine us news|bf651ba6f0b7ad01636a3958196f5b99
+2025-08-18T22:57:29.665846+00:00|https://www.nytimes.com/2025/08/18/briefing/trump-hosts-zelensky-and-european-leaders.html|trump hosts zelensky and european leaders us news|389faeb2517f8e0be4e6eea19d88b6fb
+2025-08-18T22:57:30.132058+00:00|https://www.nytimes.com/2025/08/18/world/asia/pakistan-floods-village.html|a pakistani village devastated by flooding like death visited every home us news|7a04abf3e9dc2321631bb6d15a2eaa82
