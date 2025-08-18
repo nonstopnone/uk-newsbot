@@ -674,3 +674,4 @@
 2025-08-18T17:57:43.851135+00:00|https://www.bbc.com/news/articles/c8jp3d13103o|air canada flight attendant union refuses to end strike us news|9da2e386dcea4fe1d9a2f0a284285fa9
 2025-08-18T18:36:54.718120+00:00|https://www.nbcnews.com/video/how-trump-and-zelenskyy-s-second-oval-office-meeting-differed-from-the-first-245212741600|how trump and zelenskyys second oval office meeting differed from the first us news|2771789aaa1dd2d07f00b6125cfd23c9
 2025-08-18T18:36:55.237806+00:00|https://www.nytimes.com/2025/08/18/us/politics/republicans-epstein-files.html|republican bid to help trump move past epstein falls flat us news|cf4ee9176ffaa6bff40c26175921aae2
+2025-08-18T19:01:14.182076+00:00|https://abcnews.go.com/Politics/key-takeaways-trump-zelenskyys-oval-office-meeting-discuss/story|key takeaways from trump and zelenskyys oval office meeting to discuss ukraine us news|855376f9474b40c3ab46a3f66dbae188
