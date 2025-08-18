@@ -664,3 +664,5 @@
 2025-08-18T16:32:44.134009+00:00|https://abcnews.go.com/Politics/texas-democrats-return-state-clearing-new-congressional-maps/story|texas democrats to return to state clearing way for new congressional maps us news|3baeddb39362a521764d9af66bd3e7e9
 2025-08-18T16:32:44.621328+00:00|https://www.nytimes.com/2025/08/18/business/energy-environment/oil-gasoline-prices-trump.html|oil and gas prices are falling a boon for drivers and trump us news|958f0d4625eda85825b6e43dfd3f12b0
 2025-08-18T16:32:45.123879+00:00|https://www.nytimes.com/2025/08/18/world/europe/spain-wildfires-europe-heat.html|spain calls in more soldiers to fight wildfires us news|bcf513dae486a47437777d021f24d254
+2025-08-18T16:53:43.087367+00:00|https://www.nbcnews.com/video/two-utah-police-officers-killed-one-wounded-in-shooting-245197893979|police describe timeline of fatal utah shooting us news|59d522711e6f2cf731d7c10e8bfae9ee
+2025-08-18T16:53:43.952940+00:00|https://www.nbcnews.com/news/us-news/newsmax-pay-67m-settle-defamation-lawsuit-voting-machine-company-rcna225604|newsmax to pay $67m to settle defamation lawsuit from voting machine company us news|5a165247dd67c5ea9620f99a52e00c47
