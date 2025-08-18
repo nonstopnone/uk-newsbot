@@ -669,3 +669,5 @@
 2025-08-18T17:10:43.662546+00:00|https://www.nbcnews.com/news/us-news/know-man-killed-running-ice-agents-monrovia-rcna225630|what we know about man killed while running from ice agents in monrovia us news|32cea4f059a1dbba5df80dd83c39e479
 2025-08-18T17:10:44.507591+00:00|https://www.nytimes.com/2025/08/18/magazine/medicaid-cuts-home-care-disabilities.html|the madden sisters dont want to be institutionalized us news|5e80920032dd5a4563a4c9f821686b28
 2025-08-18T17:33:50.005430+00:00|https://www.bbc.com/news/articles/cdd3gj5ve1go|texas democrats return home after redistricting row us news|46de4c0535cc24fbb1529e5d0e315af1
+2025-08-18T17:47:21.568811+00:00|https://www.nbcnews.com/news/us-news/nebraska-college-basketball-player-drowns-utah-reservoir-rcna225636|nebraska college basketball player drowns in utah reservoir us news|544b5adcaddd3f1d7d170f1b07cdf7e0
+2025-08-18T17:47:22.068752+00:00|https://www.nytimes.com/2025/08/18/weather/hurricane-erin-rip-current-east-coast-carolina.html|why rip currents from hurricane erin are so dangerous to the east coast us news|3481680061359fcee7b852c53bdab0f0
