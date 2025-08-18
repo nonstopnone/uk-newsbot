@@ -672,3 +672,5 @@
 2025-08-18T17:47:21.568811+00:00|https://www.nbcnews.com/news/us-news/nebraska-college-basketball-player-drowns-utah-reservoir-rcna225636|nebraska college basketball player drowns in utah reservoir us news|544b5adcaddd3f1d7d170f1b07cdf7e0
 2025-08-18T17:47:22.068752+00:00|https://www.nytimes.com/2025/08/18/weather/hurricane-erin-rip-current-east-coast-carolina.html|why rip currents from hurricane erin are so dangerous to the east coast us news|3481680061359fcee7b852c53bdab0f0
 2025-08-18T17:57:43.851135+00:00|https://www.bbc.com/news/articles/c8jp3d13103o|air canada flight attendant union refuses to end strike us news|9da2e386dcea4fe1d9a2f0a284285fa9
+2025-08-18T18:36:54.718120+00:00|https://www.nbcnews.com/video/how-trump-and-zelenskyy-s-second-oval-office-meeting-differed-from-the-first-245212741600|how trump and zelenskyys second oval office meeting differed from the first us news|2771789aaa1dd2d07f00b6125cfd23c9
+2025-08-18T18:36:55.237806+00:00|https://www.nytimes.com/2025/08/18/us/politics/republicans-epstein-files.html|republican bid to help trump move past epstein falls flat us news|cf4ee9176ffaa6bff40c26175921aae2
