@@ -666,3 +666,5 @@
 2025-08-18T16:32:45.123879+00:00|https://www.nytimes.com/2025/08/18/world/europe/spain-wildfires-europe-heat.html|spain calls in more soldiers to fight wildfires us news|bcf513dae486a47437777d021f24d254
 2025-08-18T16:53:43.087367+00:00|https://www.nbcnews.com/video/two-utah-police-officers-killed-one-wounded-in-shooting-245197893979|police describe timeline of fatal utah shooting us news|59d522711e6f2cf731d7c10e8bfae9ee
 2025-08-18T16:53:43.952940+00:00|https://www.nbcnews.com/news/us-news/newsmax-pay-67m-settle-defamation-lawsuit-voting-machine-company-rcna225604|newsmax to pay $67m to settle defamation lawsuit from voting machine company us news|5a165247dd67c5ea9620f99a52e00c47
+2025-08-18T17:10:43.662546+00:00|https://www.nbcnews.com/news/us-news/know-man-killed-running-ice-agents-monrovia-rcna225630|what we know about man killed while running from ice agents in monrovia us news|32cea4f059a1dbba5df80dd83c39e479
+2025-08-18T17:10:44.507591+00:00|https://www.nytimes.com/2025/08/18/magazine/medicaid-cuts-home-care-disabilities.html|the madden sisters dont want to be institutionalized us news|5e80920032dd5a4563a4c9f821686b28
