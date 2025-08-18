@@ -703,3 +703,5 @@
 2025-08-18T22:20:47.259586+00:00|https://www.nytimes.com/2025/08/18/us/zelensky-suit-trump-meeting.html|zelensky suits up for trump us news|c3a9b5f6174d69dfe7b8451db243b9e3
 2025-08-18T22:20:47.780373+00:00|https://www.nbcnews.com/tech/tech-news/andrew-tate-tristan-tate-lawsuits-meta-tiktok-rcna225654|andrew tate sues meta and tiktok for deplatforming him in 2022 us news|5ec11291da28720608453c991da84eea
 2025-08-18T22:20:48.258712+00:00|https://www.nytimes.com/2025/08/18/us/politics/epstein-files-release-trump.html|justice dept will begin sharing epstein files on friday top republican says us news|32539d5918f808fdc4ab1ea26fe621d8
+2025-08-18T22:42:42.819222+00:00|https://www.nytimes.com/2025/08/18/well/texas-measles-outbreak-over.html|the texas measles outbreak is over officials say us news|dba3ba0db4fd9373f704d5553b4c7318
+2025-08-18T22:42:43.306889+00:00|https://www.nbcnews.com/politics/donald-trump/trump-reignites-push-ban-mail-voting-meeting-putin-rcna225570|trump reignites his push to ban mailin voting after meeting with putin us news|85f71ea023620518bae1c1cf28e2611f
