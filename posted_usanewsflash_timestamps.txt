@@ -772,3 +772,6 @@
 2025-08-19T19:57:24.115564+00:00|https://www.nytimes.com/2025/08/19/us/richard-lee-dead.html|richard lee activist who founded a pot university dies at 62 us news|616e84d1066db49a59fc35e0b6c2be62
 2025-08-19T19:57:24.742285+00:00|https://www.nytimes.com/2025/08/19/world/europe/jacob-power-dexter-murder-plans-uk-laws.html|a dexter obsessed man highlights a gap in british law us news|051fdcfa8347a01a437ea6d22c1b950e
 2025-08-19T19:57:25.420953+00:00|https://www.nytimes.com/2025/08/19/world/europe/trump-putin-summit-europe.html|how europe learned to speak so trump would listen us news|ac47e69a2324ac81345743b35bdfbb99
+2025-08-19T20:25:53.221838+00:00|https://www.bbc.com/news/videos/c9qy51xwxwqo|watch moment debris skyrockets after gas line explosion us news|aa45797671232110b14070c9f4649aa6
+2025-08-19T20:25:53.728807+00:00|https://www.nytimes.com/2025/08/19/us/politics/trump-universities-financial-penalties.html|trump wants universities to show him the money or no deal us news|ddcb43de5f074d330fda1b075f7d4a7b
+2025-08-19T20:25:54.237348+00:00|https://www.nbcnews.com/pop-culture/pop-culture-news/nadeen-ayoub-will-first-model-represent-palestine-miss-universe-pagean-rcna225917|nadeen ayoub will be first model to represent palestine at miss universe pageant us news|55c3d06519b7833ba8837cedbf9b4ced
