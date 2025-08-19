@@ -39,7 +39,7 @@ if missing_vars:
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
+REDDIT_PASSWORD = os.environ['REDDIT_PASSWORD']
 try:
     reddit = praw.Reddit(
         client_id=REDDIT_CLIENT_ID,
