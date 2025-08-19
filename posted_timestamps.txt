@@ -1,7 +1,3 @@
-2025-08-12T06:33:33.659701+00:00|https://www.bbc.com/news/articles/czr66jxkxrpo|high pollution warning issued for london uk news|5e65081bb59afdf8b115e941bba08702
-2025-08-12T06:34:14.395472+00:00|https://www.bbc.com/news/articles/c0qll3j0evyo|dig reveals slipway where nelsons ships were made uk news|4f0eb29227bde2bfa03d6b98dcba8ee6
-2025-08-12T06:34:55.191966+00:00|https://www.bbc.com/news/articles/cly773d3gwzo|campers treating dartmoor like a festival site uk news|dca97472f50e6d3d7beb7a13cb3a559c
-2025-08-12T06:35:36.094221+00:00|https://www.bbc.com/news/articles/cdrkkepnn77o|rapper fekky goes from south london to farming uk news|c06c9a3633aff59a8ab423518e8cf576
 2025-08-12T06:56:42.435169+00:00|https://www.bbc.com/news/articles/cpdjjp681p7o|uk job vacancies tumble across the board uk news|1a54f5369d117d49ccedaccaa76d6c65
 2025-08-12T07:55:37.232406+00:00|https://news.sky.com/story/wage-rises-slow-as-retail-and-hospitality-jobs-continue-to-fall-13410395|wage rises slow as retail and hospitality jobs continue to fall uk news|8cafadf2c8eb751fe33d2da113ded860
 2025-08-12T09:23:40.908783+00:00|https://www.bbc.com/news/articles/cg7jdg33knno|plea to find one of uks most wanted 20 years on uk news|166d6f8a3fd6681fd93cda01bc0eded0
@@ -122,3 +118,5 @@
 2025-08-18T21:33:22.361594+00:00|https://www.telegraph.co.uk/football/2025/08/18/leeds-united-vs-everton-live-score-latest-premier-league|leeds have lift off but everton furious over tarkowski handball uk news|01365ad030ea50875eba91abbd81f1a5
 2025-08-18T22:18:53.885528+00:00|https://www.bbc.com/news/articles/c87er2e89dpo|game of chess to keep gangsters apart in jail as attacks rise uk news|1e12e78c3c8714a54836ec6d997777dd
 2025-08-18T23:24:30.217761+00:00|https://www.bbc.com/news/articles/c62n0pyd099o|suited not booted and property tax shakeup uk news|eac586cffed9875e9b805d9870e43b8d
+2025-08-19T06:39:46.762575+00:00|https://www.bbc.com/news/articles/c99mn51ny02o|what results day is like when youre neurodivergent and how parents can help uk news|18b5af0f2add1c58c5c7dd95087d1c89
+2025-08-19T06:40:27.553718+00:00|https://www.bbc.com/news/articles/cn438z3ejxyo|stop children using vpns to watch porn ministers told uk news|7abf9edc2497aa5ca6e8e6bd122395a5
