@@ -736,3 +736,4 @@
 2025-08-19T10:25:57.139954+00:00|https://www.nytimes.com/2025/08/19/business/media/shari-redstone-paramount-trump-settlement.html|why did shari redstone give up control of paramount us news|b1726a17fbea3c1fb64b39b99cd3b0fd
 2025-08-19T10:25:57.828476+00:00|https://www.nytimes.com/2025/08/19/us/politics/maine-senate-candidate-collins.html|in maine a political novice makes a longshot bid to oust collins us news|8c5de0f1a487204e28029c5d05970e37
 2025-08-19T10:25:58.482173+00:00|https://www.nytimes.com/2025/08/19/business/economy/us-economic-trends-unemployment-inflation.html|economic data has taken a dark turn that doesnt mean a crash is near us news|c9caca7393513e02d05633b0e3510fd2
+2025-08-19T10:46:13.640633+00:00|https://www.nbcnews.com/sports/nfl/dallas-cowboys-havent-won-big-30-years-rcna223986|the dallas cowboys havent won big in 30 years or have they us news|bb359039bd06f0d50ab824d9328cdfbe
