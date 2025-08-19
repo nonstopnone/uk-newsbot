@@ -45,7 +45,7 @@ try:
         client_id=REDDIT_CLIENT_ID,
         client_secret=REDDIT_CLIENT_SECRET,
         username=REDDIT_USERNAME,
-        password=REDDIT_PASSWORD,
+        password=REDDITPASSWORD,
         user_agent='BreakingUKNewsBot/1.0'
     )
     subreddit = reddit.subreddit('BreakingUKNews')
@@ -55,6 +55,7 @@ except Exception as e:
 
 # --- Deduplication ---
 DEDUP_FILE = './posted_timestamps.txt'
+FUZZY_DUPLICATE_THRESHOLD = 0.88  # lowered from 0.90 to catch more similar titles
 
 def normalize_url(url):
     """Normalize a URL by removing trailing slashes from the path and query parameters."""
@@ -119,9 +120,9 @@ def is_duplicate(entry):
     content_hash = get_content_hash(entry)
     if norm_link in posted_urls:
         return True, "Duplicate URL"
-    # Stricter fuzzy matching to reduce false positives
+    # Allow slightly looser fuzzy matching to reduce missed duplicates
     for pt in posted_titles:
-        if difflib.SequenceMatcher(None, pt, norm_title).ratio() > 0.9:
+        if difflib.SequenceMatcher(None, pt, norm_title).ratio() > FUZZY_DUPLICATE_THRESHOLD:
             return True, "Duplicate Title (Fuzzy Match)"
     if content_hash in posted_hashes:
         return True, "Duplicate Content Hash"
@@ -160,7 +161,7 @@ def extract_first_paragraphs(url):
     - Collect paragraph tags with text length > 40.
     - Filter out paragraphs containing browser instructions, bylines, or copyright/policy notices.
     - If fewer than three valid paragraphs remain, pad with empty strings to ensure length 3.
-    - Return a list of three paragraph strings (not tuples).
+    - Return a list of three paragraph strings.
     """
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
@@ -170,10 +171,10 @@ def extract_first_paragraphs(url):
         filtered = []
         for p in raw_paragraphs:
             p_lower = p.lower()
-            # Filter browser instructions: require both 'use' and 'browser' or phrases like 'view in browser' or 'open in'
+            # Filter browser instructions
             if ('browser' in p_lower and 'use' in p_lower) or 'view in browser' in p_lower or 'open in your browser' in p_lower or re.search(r'open (this|the) (article|page|link)', p_lower):
                 continue
-            # Filter bylines: 'written by', 'reported by', 'by [name]' at start or similar
+            # Filter bylines: 'written by', 'reported by', 'by [name]'
             if re.search(r'(^|\b)(written by|reported by)\b', p_lower) or re.search(r'(^|\n)\s*by\s+[A-Z][\w\-\']+', p):
                 continue
             # Filter copyright and policy notices
@@ -224,7 +225,9 @@ UK_KEYWORDS = {
     "village": 2, "county": 2, "borough": 2, "railway": 2,
     "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
     "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
-    "council tax": 1, "energy price cap": 1, "high street": 1, "pub": 1, "motorway": 1
+    "council tax": 1, "energy price cap": 1, "high street": 1, "pub": 1, "motorway": 1,
+    # Additional entries to improve recall
+    "council": 2, "home office": 2, "raducanu": 3, "councillor": 1, "hospital": 2
 }
 
 NEGATIVE_KEYWORDS = {
@@ -273,12 +276,11 @@ def calculate_uk_relevance_score(text):
         matched_keywords.append("placename")
 
     # Heuristic: UK postcode detection (simple, case-insensitive)
-    # Formats like "SW1A 1AA", "EC1A 1BB", "M1 1AE"
     if re.search(r'\b[a-z]{1,2}\d{1,2}[a-z]?\s*\d[a-z]{2}\b', text_lower):
         score += 2
         matched_keywords.append("postcode")
 
-    # Heuristic: domain whitelist/blacklist mentions in text (some feeds include source domain in summary)
+    # Heuristic: domain whitelist/blacklist mentions in text
     for d in WHITELISTED_DOMAINS:
         if d in text_lower:
             score += 3
@@ -305,15 +307,6 @@ def is_opinion(entry):
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in OPINION_KEYWORDS)
 
-def is_uk_relevant(entry, threshold=2):  # Lowered threshold to find more posts
-    """Check if an article is UK-relevant based on the calculated score."""
-    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    score, matched = calculate_uk_relevance_score(combined)
-    logger.info(f"Article: {html.unescape(entry.title)} | Relevance Score: {score}")
-    if score < threshold:
-        logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
-    return score >= threshold
-
 # --- Category Keywords ---
 CATEGORY_KEYWORDS = {
     "Breaking News": ["breaking", "live", "update", "developing", "just in", "alert"],
@@ -324,15 +317,18 @@ CATEGORY_KEYWORDS = {
     "Economy": ["economy", "budget", "inflation", "gdp", "recession", "bank of england", "chancellor", "cost of living"],
     "Health": ["health", "nhs", "hospital", "doctor", "pandemic", "vaccine", "covid"],
     "Education": ["education", "school", "university", "a-levels", "gcse", "ofsted"],
-    "Environment": ["environment", "climate", "net zero", "pollution", "green energy"]
+    "Environment": ["environment", "climate", "net zero", "pollution", "green energy"],
+    # New category for notable international stories that we allow even if UK score is low
+    "Notable International": ["international", "world", "global", "nasa", "space", "moon", "planet", "earth", "foreign", "un", "internationally", "science"]
 }
 
 def get_category(entry):
     """Determine the category of an article based on keywords with whole word matching."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment"]
+    # Include Notable International among specific categories so it can be detected
+    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment", "Notable International"]
     for cat in specific_categories:
-        for keyword in CATEGORY_KEYWORDS[cat]:
+        for keyword in CATEGORY_KEYWORDS.get(cat, []):
             if re.search(r'\b' + re.escape(keyword) + r'\b', text):
                 return cat
     return "Breaking News"
@@ -345,13 +341,12 @@ def get_category_and_confidence(entry):
     If no specific category keywords matched, return 'Breaking News' with a baseline confidence.
     """
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment"]
+    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment", "Notable International"]
     best_cat = "Breaking News"
     best_count = 0
     for cat in specific_categories:
         count = 0
-        for keyword in CATEGORY_KEYWORDS[cat]:
-            # whole-word match
+        for keyword in CATEGORY_KEYWORDS.get(cat, []):
             count += len(re.findall(r'\b' + re.escape(keyword) + r'\b', text))
         if count > best_count:
             best_count = count
@@ -373,18 +368,37 @@ FLAIR_MAPPING = {
     "Health": "Health",
     "Education": "Education",
     "Environment": "Environment",
+    "Notable International": "Notable International News",
     None: "No Flair"
 }
+
+DEFAULT_UK_THRESHOLD = 1  # lower threshold to allow more borderline UK stories
+
+def is_uk_relevant(entry, threshold=DEFAULT_UK_THRESHOLD):
+    """Check if an article is UK-relevant based on the calculated score.
+
+    Allow notable international stories even if UK score is low.
+    """
+    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    score, matched_keywords = calculate_uk_relevance_score(combined)
+    category = get_category(entry)
+    logger.info(f"Article: {html.unescape(entry.title)} | Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
+    # If score meets threshold, it's relevant
+    if score >= threshold:
+        return True
+    # Allow notable international category even if score is below threshold
+    if category == "Notable International":
+        logger.info(f"Allowing Notable International article despite low UK score: {html.unescape(entry.title)}")
+        return True
+    # Otherwise not relevant
+    logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
+    return False
 
 def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_delay=40):
     """Post an article to Reddit with flair and a comment.
 
-    The comment must include:
-    - Exactly three paragraphs from extract_first_paragraphs
-    - A [Read more]({entry.link}) line
-    - A line with UK Relevance Confidence and matched keywords
-    - A Flair Confidence line (from get_category_and_confidence)
-    - A transparency note
+    The comment includes exactly three paragraphs, a Read more link, UK relevance and flair confidence,
+    and a transparency note.
     """
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
@@ -414,21 +428,18 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
 
             # Build the comment strictly following required format
             reply_lines = []
-            # Each paragraph must be quoted with >
             for para in paragraphs:
-                # Even if empty string, still include the quote line to preserve 3 lines
                 if para:
                     reply_lines.append(f"> {html.unescape(para)}")
                 else:
-                    reply_lines.append(f"> ")
+                    reply_lines.append("> ")
 
-            # Add blank line, Read more link, relevance and flair confidence, and transparency note
             reply_lines.append("")  # blank line
             reply_lines.append(f"[Read more]({entry.link})")
             matched_display = ', '.join(matched_keywords) if matched_keywords else 'None'
             reply_lines.append(f"UK Relevance Confidence: {score} (Matched: {matched_display})")
             reply_lines.append(f"Flair Confidence: {flair_confidence}%")
-            reply_lines.append("This is an automated post by BreakingUKNewsBot, a partially automated account designed to provide timely UK news updates.")
+            reply_lines.append("This is an automated post by the BreakingUKNewsBot, a partially automated account designed to provide timely UK news updates.")
 
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
@@ -455,9 +466,7 @@ def main():
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
-        "ITV": "https://www.itv.com/news/rss",
-        "Telegraph": "https://www.telegraph.co.uk/rss.xml",
-        "Times": "https://www.thetimes.co.uk/rss"
+        "Telegraph": "https://www.telegraph.co.uk/rss.xml"
     }
 
     # Collect and filter all potential articles
@@ -486,22 +495,27 @@ def main():
                     logger.info(f"Skipped opinion article: {html.unescape(entry.title)}")
                     continue
 
-                # Calculate UK relevance score and matched keywords, then filter
+                # Calculate UK relevance score and matched keywords
                 combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
                 score, matched_keywords = calculate_uk_relevance_score(combined)
-                logger.info(f"Article: {html.unescape(entry.title)} | Relevance Score: {score} | Matched: {matched_keywords}")
-                if score < 2:  # threshold same as earlier default
-                    logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
-                    continue
+                category = get_category(entry)
 
-                # Append tuple including the relevance tuple so main can pass it to post_to_reddit
-                all_articles.append((name, entry, score, matched_keywords))
+                # If the article passes relevance/category checks, keep it
+                if score >= DEFAULT_UK_THRESHOLD or category == "Notable International":
+                    logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {score} | Matched: {matched_keywords} | Category: {category}")
+                    all_articles.append((name, entry, score, matched_keywords))
+                else:
+                    logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
+
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
 
     # Post selected articles
     posts_made = 0
-    selected_for_posting = random.sample(all_articles, min(len(all_articles), MIN_POSTS_PER_RUN))
+    if all_articles:
+        selected_for_posting = random.sample(all_articles, min(len(all_articles), MIN_POSTS_PER_RUN))
+    else:
+        selected_for_posting = []
     for source, entry, score, matched_keywords in selected_for_posting:
         category = get_category(entry)
         success = post_to_reddit(entry, category, score, matched_keywords)
