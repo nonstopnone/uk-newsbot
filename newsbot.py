@@ -14,6 +14,7 @@ import logging
 import random
 from dateutil import parser as dateparser
 import difflib
+
 # --- Logging Setup ---
 logging.basicConfig(
     level=logging.INFO,
@@ -21,6 +22,7 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(sys.stdout)]
 )
 logger = logging.getLogger(__name__)
+
 # --- Environment Variable Check ---
 required_env_vars = [
     'REDDIT_CLIENT_ID',
@@ -32,6 +34,7 @@ missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
     logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
+
 # --- Reddit API Credentials ---
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
@@ -49,28 +52,34 @@ try:
 except Exception as e:
     logger.error(f"Failed to initialize Reddit API: {e}")
     sys.exit(1)
+
 # --- Deduplication ---
 DEDUP_FILE = './posted_timestamps.txt'
+
 def normalize_url(url):
     """Normalize a URL by removing trailing slashes from the path and query parameters."""
     parsed = urllib.parse.urlparse(url)
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
+
 def normalize_title(title):
     """Normalize a title by removing punctuation, collapsing spaces, and lowercasing."""
     title = html.unescape(title)
     title = re.sub(r'[^\w\s£$€]', '', title)
     title = re.sub(r'\s+', ' ', title).strip().lower()
     return title
+
 def get_post_title(entry):
     """Generate a standardized post title, appending ' | UK News' if not present."""
     base_title = html.unescape(entry.title).strip()
     if not base_title.endswith("| UK News"):
         return f"{base_title} | UK News"
     return base_title
+
 def get_content_hash(entry):
     """Compute an MD5 hash of the title plus the first 300 characters of the article summary."""
     content = html.unescape(entry.title + " " + getattr(entry, "summary", "")[:300])
     return hashlib.md5(content.encode('utf-8')).hexdigest()
+
 def load_dedup(filename=DEDUP_FILE):
     """Load and clean deduplication data from a file, keeping only entries from the last 7 days."""
     urls, titles, hashes = set(), set(), set()
@@ -98,8 +107,10 @@ def load_dedup(filename=DEDUP_FILE):
         f.writelines(cleaned_lines)
     logger.info(f"Loaded {len(urls)} unique entries from deduplication file (last 7 days)")
     return urls, titles, hashes
+
 # Initialize global deduplication sets
 posted_urls, posted_titles, posted_hashes = load_dedup()
+
 def is_duplicate(entry):
     """Check if an article is a duplicate based on URL, fuzzy title similarity, or content hash."""
     norm_link = normalize_url(entry.link)
@@ -115,6 +126,7 @@ def is_duplicate(entry):
     if content_hash in posted_hashes:
         return True, "Duplicate Content Hash"
     return False, ""
+
 def add_to_dedup(entry):
     """Add an article to the deduplication file and in-memory sets."""
     norm_link = normalize_url(entry.link)
@@ -127,6 +139,7 @@ def add_to_dedup(entry):
     posted_titles.add(norm_title)
     posted_hashes.add(content_hash)
     logger.info(f"Added to deduplication: {norm_title}")
+
 def get_entry_published_datetime(entry):
     """Extract the publication datetime from an RSS entry, defaulting to UTC if no timezone."""
     for field in ['published', 'updated', 'created', 'date']:
@@ -139,17 +152,45 @@ def get_entry_published_datetime(entry):
             except Exception:
                 continue
     return None
+
 def extract_first_paragraphs(url):
-    """Extract the first three paragraphs from an article URL."""
+    """
+    Extract exactly three paragraphs from an article URL.
+
+    - Collect paragraph tags with text length > 40.
+    - Filter out paragraphs containing browser instructions, bylines, or copyright/policy notices.
+    - If fewer than three valid paragraphs remain, pad with empty strings to ensure length 3.
+    - Return a list of three paragraph strings (not tuples).
+    """
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
-        return '\n\n'.join(paragraphs[:3]) if paragraphs else soup.get_text(strip=True)[:500]
+        raw_paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
+        filtered = []
+        for p in raw_paragraphs:
+            p_lower = p.lower()
+            # Filter browser instructions: require both 'use' and 'browser' or phrases like 'view in browser' or 'open in'
+            if ('browser' in p_lower and 'use' in p_lower) or 'view in browser' in p_lower or 'open in your browser' in p_lower or re.search(r'open (this|the) (article|page|link)', p_lower):
+                continue
+            # Filter bylines: 'written by', 'reported by', 'by [name]' at start or similar
+            if re.search(r'(^|\b)(written by|reported by)\b', p_lower) or re.search(r'(^|\n)\s*by\s+[A-Z][\w\-\']+', p):
+                continue
+            # Filter copyright and policy notices
+            if 'copyright' in p_lower or '(c)' in p_lower or '©' in p_lower or 'read our policy' in p_lower or 'external links' in p_lower or 'read more about' in p_lower:
+                continue
+            filtered.append(p)
+            if len(filtered) >= 3:
+                break
+        # Pad to exactly 3 paragraphs
+        while len(filtered) < 3:
+            filtered.append("")
+        return filtered[:3]
     except requests.exceptions.RequestException as e:
         logger.error(f"Failed to fetch URL {url}: {e}")
-        return f"(Could not extract article text: {e})"
+        # Return three empty paragraphs so caller still constructs the comment correctly
+        return ["", "", ""]
+
 # --- Filter Keywords ---
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "sponsor", "competition", "prize", "free",
@@ -159,6 +200,7 @@ PROMOTIONAL_KEYWORDS = [
 OPINION_KEYWORDS = [
     "opinion", "comment", "analysis", "editorial", "viewpoint", "perspective", "column"
 ]
+
 # Expanded UK-relevant keywords with weights
 UK_KEYWORDS = {
     "london": 3, "parliament": 3, "westminster": 3, "downing street": 3, "buckingham palace": 3,
@@ -184,6 +226,7 @@ UK_KEYWORDS = {
     "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
     "council tax": 1, "energy price cap": 1, "high street": 1, "pub": 1, "motorway": 1
 }
+
 NEGATIVE_KEYWORDS = {
     "washington dc": -2, "congress": -2, "senate": -2, "white house": -2, "capitol hill": -2,
     "california": -2, "texas": -2, "new york": -2, "los angeles": -2, "chicago": -2,
@@ -194,22 +237,61 @@ NEGATIVE_KEYWORDS = {
     "france": -1, "germany": -1, "china": -1, "russia": -1, "india": -1,
     "australia": -1, "canada": -1, "japan": -1, "brazil": -1, "south africa": -1,
     "paris": -1, "berlin": -1, "tokyo": -1, "sydney": -1, "toronto": -1,
-    "nato": -1, "united nations": -1, "european union": -1, "olympics": -1, "world cup": -1,
+    "nato": -1, "united nations": -1, "olympics": -1, "world cup": -1,
     "brussels": -1
 }
+
+# A small set of whitelisted and blacklisted domain hints that might appear in summary text
+WHITELISTED_DOMAINS = ["bbc.co.uk", "bbc.com", "theguardian.com", "thetimes.co.uk", "telegraph.co.uk", "sky.com", "itv.com"]
+BLACKLISTED_DOMAINS = ["buzzfeed.com", "clickhole.com", "upworthy.com"]
+
 def calculate_uk_relevance_score(text):
-    """Calculate a relevance score with bonus for UK-like place names."""
+    """
+    Calculate a relevance score and return a tuple (score, matched_keywords).
+
+    matched_keywords is a list of keywords from UK_KEYWORDS that contributed, plus
+    heuristic markers such as 'postcode', 'placename', 'whitelisted_domain', 'blacklisted_domain'.
+    """
     score = 0
+    matched_keywords = []
     text_lower = text.lower()
+
+    # Keyword matches from UK_KEYWORDS
     for keyword, weight in UK_KEYWORDS.items():
         if keyword in text_lower:
             score += weight
+            matched_keywords.append(keyword)
+
+    # Negative keywords decrease score but are not added to matched_keywords according to spec
     for keyword, weight in NEGATIVE_KEYWORDS.items():
         if keyword in text_lower:
             score += weight
+
+    # Heuristic: placename like shire/ford/ton/ham/bridge/cester
     if re.search(r'\b\w+(shire|ford|ton|ham|bridge|cester)\b', text_lower):
         score += 2
-    return score
+        matched_keywords.append("placename")
+
+    # Heuristic: UK postcode detection (simple, case-insensitive)
+    # Formats like "SW1A 1AA", "EC1A 1BB", "M1 1AE"
+    if re.search(r'\b[a-z]{1,2}\d{1,2}[a-z]?\s*\d[a-z]{2}\b', text_lower):
+        score += 2
+        matched_keywords.append("postcode")
+
+    # Heuristic: domain whitelist/blacklist mentions in text (some feeds include source domain in summary)
+    for d in WHITELISTED_DOMAINS:
+        if d in text_lower:
+            score += 3
+            matched_keywords.append("whitelisted_domain")
+            break
+    for d in BLACKLISTED_DOMAINS:
+        if d in text_lower:
+            score -= 3
+            matched_keywords.append("blacklisted_domain")
+            break
+
+    return score, matched_keywords
+
 def is_promotional(entry):
     """Check if an article is promotional, allowing 'offer' in government/policy contexts."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
@@ -217,18 +299,21 @@ def is_promotional(entry):
         if any(kw in combined for kw in ["government", "nhs", "pay", "policy", "public sector"]):
             return False
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
+
 def is_opinion(entry):
     """Check if an article is opinion-based rather than straight news."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in OPINION_KEYWORDS)
-def is_uk_relevant(entry, threshold=2): # Lowered threshold to find more posts
+
+def is_uk_relevant(entry, threshold=2):  # Lowered threshold to find more posts
     """Check if an article is UK-relevant based on the calculated score."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    score = calculate_uk_relevance_score(combined)
+    score, matched = calculate_uk_relevance_score(combined)
     logger.info(f"Article: {html.unescape(entry.title)} | Relevance Score: {score}")
     if score < threshold:
         logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
     return score >= threshold
+
 # --- Category Keywords ---
 CATEGORY_KEYWORDS = {
     "Breaking News": ["breaking", "live", "update", "developing", "just in", "alert"],
@@ -241,6 +326,7 @@ CATEGORY_KEYWORDS = {
     "Education": ["education", "school", "university", "a-levels", "gcse", "ofsted"],
     "Environment": ["environment", "climate", "net zero", "pollution", "green energy"]
 }
+
 def get_category(entry):
     """Determine the category of an article based on keywords with whole word matching."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
@@ -250,6 +336,33 @@ def get_category(entry):
             if re.search(r'\b' + re.escape(keyword) + r'\b', text):
                 return cat
     return "Breaking News"
+
+def get_category_and_confidence(entry):
+    """
+    Determine category and a confidence percentage.
+
+    Confidence is derived from how many category keywords matched.
+    If no specific category keywords matched, return 'Breaking News' with a baseline confidence.
+    """
+    text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment"]
+    best_cat = "Breaking News"
+    best_count = 0
+    for cat in specific_categories:
+        count = 0
+        for keyword in CATEGORY_KEYWORDS[cat]:
+            # whole-word match
+            count += len(re.findall(r'\b' + re.escape(keyword) + r'\b', text))
+        if count > best_count:
+            best_count = count
+            best_cat = cat
+    # Confidence heuristic: baseline 50 for any matchless detection, otherwise scale with matches
+    if best_count == 0:
+        confidence = 50
+    else:
+        confidence = min(100, 60 + best_count * 10)
+    return best_cat, int(confidence)
+
 FLAIR_MAPPING = {
     "Breaking News": "Breaking News",
     "Politics": "Politics",
@@ -262,8 +375,17 @@ FLAIR_MAPPING = {
     "Environment": "Environment",
     None: "No Flair"
 }
-def post_to_reddit(entry, category, retries=3, base_delay=40):
-    """Post an article to Reddit with flair and a comment."""
+
+def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_delay=40):
+    """Post an article to Reddit with flair and a comment.
+
+    The comment must include:
+    - Exactly three paragraphs from extract_first_paragraphs
+    - A [Read more]({entry.link}) line
+    - A line with UK Relevance Confidence and matched keywords
+    - A Flair Confidence line (from get_category_and_confidence)
+    - A transparency note
+    """
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
     try:
@@ -273,6 +395,10 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
                 break
     except Exception as e:
         logger.error(f"Failed to fetch flairs: {e}")
+
+    # Compute flair confidence using the existing keyword-based function
+    _, flair_confidence = get_category_and_confidence(entry)
+
     for attempt in range(retries):
         try:
             post_title = get_post_title(entry)
@@ -282,10 +408,31 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
                 flair_id=flair_id
             )
             logger.info(f"Posted: {submission.shortlink}")
-            body = extract_first_paragraphs(entry.link)
-            if body:
-                reply_text = "\n".join([f"> {html.unescape(line)}" if line else "" for line in body.split('\n')])
-                submission.reply(reply_text + f"\n\n[Read more]({entry.link})")
+
+            # Extract exactly three paragraphs (list of three strings)
+            paragraphs = extract_first_paragraphs(entry.link)
+
+            # Build the comment strictly following required format
+            reply_lines = []
+            # Each paragraph must be quoted with >
+            for para in paragraphs:
+                # Even if empty string, still include the quote line to preserve 3 lines
+                if para:
+                    reply_lines.append(f"> {html.unescape(para)}")
+                else:
+                    reply_lines.append(f"> ")
+
+            # Add blank line, Read more link, relevance and flair confidence, and transparency note
+            reply_lines.append("")  # blank line
+            reply_lines.append(f"[Read more]({entry.link})")
+            matched_display = ', '.join(matched_keywords) if matched_keywords else 'None'
+            reply_lines.append(f"UK Relevance Confidence: {score} (Matched: {matched_display})")
+            reply_lines.append(f"Flair Confidence: {flair_confidence}%")
+            reply_lines.append("This is an automated post by BreakingUKNewsBot, a partially automated account designed to provide timely UK news updates.")
+
+            full_reply = "\n".join(reply_lines)
+            submission.reply(full_reply)
+
             add_to_dedup(entry)
             return True
         except praw.exceptions.RedditAPIException as e:
@@ -301,6 +448,7 @@ def post_to_reddit(entry, category, retries=3, base_delay=40):
             return False
     logger.error(f"Failed to post after {retries} attempts")
     return False
+
 def main():
     """Main function to fetch RSS feeds, filter articles, and post unique news stories."""
     MIN_POSTS_PER_RUN = 5
@@ -311,6 +459,7 @@ def main():
         "Telegraph": "https://www.telegraph.co.uk/rss.xml",
         "Times": "https://www.thetimes.co.uk/rss"
     }
+
     # Collect and filter all potential articles
     all_articles = []
     now = datetime.now(timezone.utc)
@@ -336,17 +485,26 @@ def main():
                 if is_opinion(entry):
                     logger.info(f"Skipped opinion article: {html.unescape(entry.title)}")
                     continue
-                if not is_uk_relevant(entry):
+
+                # Calculate UK relevance score and matched keywords, then filter
+                combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+                score, matched_keywords = calculate_uk_relevance_score(combined)
+                logger.info(f"Article: {html.unescape(entry.title)} | Relevance Score: {score} | Matched: {matched_keywords}")
+                if score < 2:  # threshold same as earlier default
+                    logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
                     continue
-                all_articles.append((name, entry))
+
+                # Append tuple including the relevance tuple so main can pass it to post_to_reddit
+                all_articles.append((name, entry, score, matched_keywords))
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
+
     # Post selected articles
     posts_made = 0
     selected_for_posting = random.sample(all_articles, min(len(all_articles), MIN_POSTS_PER_RUN))
-    for source, entry in selected_for_posting:
+    for source, entry, score, matched_keywords in selected_for_posting:
         category = get_category(entry)
-        success = post_to_reddit(entry, category)
+        success = post_to_reddit(entry, category, score, matched_keywords)
         if success:
             logger.info(f"Successfully posted from {source}: {html.unescape(entry.title)}")
             posts_made += 1
@@ -355,5 +513,6 @@ def main():
             logger.error(f"Failed to post an article, stopping.")
             break
     logger.info(f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}.")
+
 if __name__ == "__main__":
     main()
