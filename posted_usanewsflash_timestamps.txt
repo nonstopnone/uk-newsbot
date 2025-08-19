@@ -794,3 +794,4 @@
 2025-08-19T22:22:40.143538+00:00|https://www.nytimes.com/2025/08/19/us/politics/kilmar-abrego-garcia-trump-prosecution.html|abrego garcias lawyers accuse trump administration of vindictive prosecution us news|45c6cbc241012cb7096a012870493a6e
 2025-08-19T22:42:46.377175+00:00|https://www.nytimes.com/2025/08/19/nyregion/cuomo-trump-nyc-mayor-hamptons.html|at hamptons fundraiser cuomo predicts help from trump is on the way us news|7494abb10cf24b649bbf8041c0a504e7
 2025-08-19T22:57:43.334722+00:00|https://www.nytimes.com/2025/08/19/us/arizona-stabbing-high-school.html|stabbing at arizona high school leaves 1 student dead officials say us news|b4cbf9702088e4dc8f05f9aa4f682999
+2025-08-19T23:21:52.027524+00:00|https://www.nytimes.com/2025/08/19/weather/hurricane-erin-north-carolina-evacuations.html|north carolina beach towns brace for dangerous seas from hurricane erin us news|d8960a732a4ae85141e5ac128e3dc1c8
