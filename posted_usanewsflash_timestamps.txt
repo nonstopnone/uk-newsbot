@@ -849,3 +849,4 @@
 2025-08-20T18:34:54.641371+00:00|https://www.nytimes.com/2025/08/20/us/politics/senate-spending-guardrails-trump.html|senate adds guardrails to force trump to obey spending bills us news|6251eab21449a5a89a9446523b8ab3b6
 2025-08-20T18:34:55.174514+00:00|https://www.nytimes.com/2025/08/20/health/measles-outbreak-philadelphia.html|a 1990 measles outbreak shows how the disease can roar back us news|356b446900038e00d844f6edbddc2b0d
 2025-08-20T18:34:55.663552+00:00|https://www.nytimes.com/2025/08/20/nyregion/epstein-grand-jury-transcripts-denied.html|manhattan judge denies request to unseal epstein grand jury transcripts us news|0165d1a8f7f61d05d719d6b0de4c5ced
+2025-08-20T18:53:10.766836+00:00|https://www.nbcnews.com/now/video/israel-enters-first-stages-of-gaza-city-assault-245367877939|israel enters first stages of gaza city assault us news|8a1890328d914f9117a20c319e2dd758
