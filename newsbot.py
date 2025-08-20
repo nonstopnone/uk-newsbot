@@ -28,7 +28,7 @@ required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
     'REDDIT_USERNAME',
-    'REDDITPASSWORD'  # Reddit password environment variable
+    'REDDIT_PASSWORD'  # Reddit password environment variable (standard name)
 ]
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
@@ -39,13 +39,15 @@ if missing_vars:
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-REDDIT_PASSWORD = os.environ['REDDIT_PASSWORD']
+# Try the standard name first, fall back to legacy/alternate name if present
+REDDIT_PASSWORD = os.environ.get('REDDIT_PASSWORD') or os.environ.get('REDDITPASSWORD')
+
 try:
     reddit = praw.Reddit(
         client_id=REDDIT_CLIENT_ID,
         client_secret=REDDIT_CLIENT_SECRET,
         username=REDDIT_USERNAME,
-        password=REDDITPASSWORD,
+        password=REDDIT_PASSWORD,
         user_agent='BreakingUKNewsBot/1.0'
     )
     subreddit = reddit.subreddit('BreakingUKNews')
