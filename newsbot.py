@@ -463,7 +463,7 @@ def main():
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
         "Telegraph": "https://www.telegraph.co.uk/rss.xml",
-        "Express": "https://www.express.co.uk/news/uk/rss.xml, 
+        "Express": "https://www.express.co.uk/news/uk/rss.xml", 
     }
 
     all_articles = []
