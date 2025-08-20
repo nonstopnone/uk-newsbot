@@ -52,7 +52,6 @@ feed_sources = {
     "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "Reuters World": "http://feeds.reuters.com/Reuters/worldNews",
     "CNN International": "http://rss.cnn.com/rss/edition_world.rss",
-    "AP News": "https://www.apnews.com/hub/apnewsfeed",
     "New York Times": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "Washington Post": "https://feeds.washingtonpost.com/rss/world",
     "Deutsche Welle": "https://rss.dw.com/rdf/rss/en/all",
@@ -134,11 +133,13 @@ def save_duplicates():
 unwanted_patterns = [
     r"author", r"byline", r"written by", r"support us", r"subscribe", r"view in",
     r"click here", r"read more", r"advertisement", r"sponsored",
-    r"http", r"www", r"\.com", r"@", r"^[A-Z\s]+$"
+    r"http", r"www", r"\.com", r"@"
 ]
 
 def is_good_paragraph(text):
     if len(text) < 50:
+        return False
+    if re.match(r"^[A-Z\s]+$", text):
         return False
     text_lower = text.lower()
     for pattern in unwanted_patterns:
