@@ -820,3 +820,7 @@
 2025-08-20T11:40:31.811212+00:00|https://www.nytimes.com/2025/08/20/world/middleeast/israel-hamas-gaza-city.html|preparations for a move on gaza city have started israels military says us news|e2424f0f9b265cb009d3b0313ceedb17
 2025-08-20T11:40:32.347454+00:00|https://www.today.com/video/southern-california-faces-extreme-heat-fire-risk-245338693733|extreme heat warnings in effect across the west us news|19d90a19ccde3a587baae47f8eeebe86
 2025-08-20T11:40:32.844433+00:00|https://www.nytimes.com/2025/08/20/world/middleeast/trump-war-hero-netanyahu-iran.html|trump calls netanyahu a war hero and adds i guess i am too us news|8d47b5e8d35305652034389440966505
+2025-08-20T12:50:45.975645+00:00|https://www.nytimes.com/2025/08/20/world/middleeast/syrian-israel-meet-paris.html|syrian and israeli officials meet for us brokered talks us news|bb6b0099d026268b16bf196f1d247e4b
+2025-08-20T12:50:46.759776+00:00|https://www.today.com/video/hurricane-erin-triggers-state-of-emergency-in-outer-banks-245339717725|hurricane erin bears down on east coast forcing beach closures us news|bc9bc968855eb365099ce034e40589fc
+2025-08-20T12:50:48.155051+00:00|https://www.today.com/video/russia-strikes-ukraine-hours-after-trump-s-summit-with-zelenskyy-245338693745|trump says putin to meet zelenskyy kremlin plays down prospect us news|134ef70ce6e0be340fec6121d949febc
+2025-08-20T12:50:49.374822+00:00|https://abcnews.go.com/US/live-updates/hurricane-erin-live-updates|hurricane erin expected to intensify along east coast us news|e61ed355fbfe988f629e3d0a0a1a2437
