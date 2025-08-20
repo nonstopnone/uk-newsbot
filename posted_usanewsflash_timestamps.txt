@@ -872,3 +872,4 @@
 2025-08-20T21:41:12.236939+00:00|https://www.nbcnews.com/health/health-care/spine-surgery-was-denied-doctors-say-s-common-rcna226100|her spine surgery was denied doctors say its all too common us news|5c3173238941da4895033fb09c8ef621
 2025-08-20T21:41:12.728018+00:00|https://www.nytimes.com/2025/08/20/world/middleeast/israel-e1-settlement-west-bank.html|israel approves settlements a blow to faded hopes for a palestinian state us news|fc18d8f8825c287e4563dcccc857c5c4
 2025-08-20T21:57:28.762476+00:00|https://www.nbcnews.com/news/us-news/tearful-parents-camp-mystic-flooding-victims-plead-tougher-safety-meas-rcna226138|tearful parents of camp mystic flooding victims plead for tougher safety measures us news|0fdce52545e77bc5dc363dba22408e77
+2025-08-20T22:21:29.246965+00:00|https://www.nytimes.com/2025/08/20/nyregion/mamdani-casinos-nyc-mayor.html|mamdani skeptical of casinos wont try to block them in new york city us news|968cbb48af5209326aa1033fe8cd90fd
