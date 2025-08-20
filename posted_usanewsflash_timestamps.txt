@@ -826,3 +826,4 @@
 2025-08-20T12:50:49.374822+00:00|https://abcnews.go.com/US/live-updates/hurricane-erin-live-updates|hurricane erin expected to intensify along east coast us news|e61ed355fbfe988f629e3d0a0a1a2437
 2025-08-20T13:22:04.180968+00:00|https://www.nbcnews.com/weather/hurricanes/hurricane-erin-prompts-tropical-storm-warning-north-carolina-rcna226017|hurricane erin prompts tropical storm warning for north carolina us news|694d4070b2deaf46e7db2dcbdbdb3164
 2025-08-20T13:22:04.875641+00:00|https://www.nbcnews.com/business/markets/trump-bought-bonds-companies-governments-rcna226024|trump bought more than $100 million in bonds since january filings show us news|6062371ffcffe2f34875a4bb13f22782
+2025-08-20T13:57:41.557811+00:00|https://www.nbcnews.com/news/us-news/video-shows-colombian-tiktoker-tatiana-martinez-yanked-car-ice-arrest-rcna226038|video shows colombian tiktoker tatiana martinez yanked from car during ice arrest us news|f880529602143c70cbe4886d6c65df27
