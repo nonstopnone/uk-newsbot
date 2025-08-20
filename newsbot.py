@@ -222,7 +222,7 @@ UK_KEYWORDS = {
     "king charles": 2, "queen camilla": 2, "prince william": 2, "princess kate": 2,
     "keir starmer": 2, "rachel reeves": 2, "kemi badenoch": 2, "ed davey": 2, "john swinney": 2,
     "angela rayner": 2, "nigel farage": 2, "carla denyer": 2, "adrian ramsay": 2,
-    "brexit": 2, "pound sterling": 2, "great British": 2, "oxford": 2, "cambridge": 2,
+    "brexit": 2, "pound sterling": 2, "great british": 2, "oxford": 2, "cambridge": 2,
     "village": 2, "county": 2, "borough": 2, "railway": 2,
     "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
     "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
@@ -295,11 +295,17 @@ def calculate_uk_relevance_score(text):
 
     return score, matched_keywords
 
-# Compute total possible positive UK score for display purposes
-# Sum all positive weights in UK_KEYWORDS then add maximum heuristic bonuses:
-# whitelisted_domain (+3), placename (+2), postcode (+2)
-TOTAL_UK_POSSIBLE = sum(v for v in UK_KEYWORDS.values() if v > 0) + 3 + 2 + 2
-# For the current UK_KEYWORDS this evaluates to 291 + 7 = 298
+def get_relevance_level(score):
+    if score >= 10:
+        return "Highest"
+    elif score >= 7:
+        return "Very High"
+    elif score >= 4:
+        return "High"
+    elif score >= 2:
+        return "Medium"
+    else:
+        return "Low"
 
 def is_promotional(entry):
     """Check if an article is promotional, allowing 'offer' in government/policy contexts."""
@@ -417,9 +423,6 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
     except Exception as e:
         logger.error(f"Failed to fetch flairs: {e}")
 
-    # Compute flair confidence
-    _, flair_confidence = get_category_and_confidence(entry)
-
     for attempt in range(retries):
         try:
             post_title = get_post_title(entry)
@@ -435,21 +438,18 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
 
             # Build the comment exactly as requested
             reply_lines = []
-            # Add the three paragraphs, plain lines
-            for para in paragraphs:
-                reply_lines.append(html.unescape(para) if para else "")
+            # Add the three paragraphs as separate quote blocks
+            for i, para in enumerate(paragraphs):
+                if i > 0:
+                    reply_lines.append("")
+                reply_lines.append("> " + html.unescape(para))
 
             # Read more link
             reply_lines.append(f"[Read more]({entry.link})")
 
-            # Blank line
-            reply_lines.append("")
-
-            # UKRS: score / total possible numeric value (no keywords shown)
-            reply_lines.append(f"UKRS: {score}/{TOTAL_UK_POSSIBLE}")
-
-            # Final line: only the flair confidence percentage
-            reply_lines.append(f"{flair_confidence}%")
+            # UK relevance as worded confidence
+            level = get_relevance_level(score)
+            reply_lines.append(f"Confidence: {level}")
 
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
