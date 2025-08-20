@@ -193,6 +193,33 @@ def extract_first_paragraphs(url):
         # Return three empty paragraphs so caller still constructs the comment correctly
         return ["", "", ""]
 
+def get_full_article_text(url):
+    """
+    Extract the full text from an article URL by collecting all valid paragraphs.
+    """
+    try:
+        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        raw_paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
+        filtered = []
+        for p in raw_paragraphs:
+            p_lower = p.lower()
+            # Filter browser instructions
+            if ('browser' in p_lower and 'use' in p_lower) or 'view in browser' in p_lower or 'open in your browser' in p_lower or re.search(r'open (this|the) (article|page|link)', p_lower):
+                continue
+            # Filter bylines: 'written by', 'reported by', 'by [name]'
+            if re.search(r'(^|\b)(written by|reported by)\b', p_lower) or re.search(r'(^|\n)\s*by\s+[A-Z][\w\-\']+', p):
+                continue
+            # Filter copyright and policy notices
+            if 'copyright' in p_lower or '(c)' in p_lower or '©' in p_lower or 'read our policy' in p_lower or 'external links' in p_lower or 'read more about' in p_lower:
+                continue
+            filtered.append(p)
+        return ' '.join(filtered)
+    except requests.exceptions.RequestException as e:
+        logger.error(f"Failed to fetch full text from URL {url}: {e}")
+        return ""
+
 # --- Filter Keywords ---
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "sponsor", "competition", "prize", "free",
@@ -345,31 +372,6 @@ def get_category(entry):
                 return cat
     return "Breaking News"
 
-def get_category_and_confidence(entry):
-    """
-    Determine category and a confidence percentage.
-
-    Confidence is derived from how many category keywords matched.
-    If no specific category keywords matched, return 'Breaking News' with a baseline confidence.
-    """
-    text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment", "Notable International"]
-    best_cat = "Breaking News"
-    best_count = 0
-    for cat in specific_categories:
-        count = 0
-        for keyword in CATEGORY_KEYWORDS.get(cat, []):
-            count += len(re.findall(r'\b' + re.escape(keyword) + r'\b', text))
-        if count > best_count:
-            best_count = count
-            best_cat = cat
-    # Confidence heuristic: baseline 50 for any matchless detection, otherwise scale with matches
-    if best_count == 0:
-        confidence = 50
-    else:
-        confidence = min(100, 60 + best_count * 10)
-    return best_cat, int(confidence)
-
 FLAIR_MAPPING = {
     "Breaking News": "Breaking News",
     "Politics": "Politics",
@@ -384,34 +386,52 @@ FLAIR_MAPPING = {
     None: "No Flair"
 }
 
-DEFAULT_UK_THRESHOLD = 1  # lower threshold to allow more borderline UK stories
+DEFAULT_UK_THRESHOLD = 0  # lowered to allow more posts, including low relevance with confidence noted
 
 def is_uk_relevant(entry, threshold=DEFAULT_UK_THRESHOLD):
     """Check if an article is UK-relevant based on the calculated score.
 
     Allow notable international stories even if UK score is low.
+    If initial score is not high, fetch and check full article text to potentially boost score.
     """
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     score, matched_keywords = calculate_uk_relevance_score(combined)
     category = get_category(entry)
-    logger.info(f"Article: {html.unescape(entry.title)} | Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
-    if score >= threshold:
-        return True
+    logger.info(f"Article: {html.unescape(entry.title)} | Initial Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
+    
+    if score >= 4:  # High or above, no need for full text
+        return True, score, matched_keywords
+    
     if category == "Notable International":
         logger.info(f"Allowing Notable International article despite low UK score: {html.unescape(entry.title)}")
-        return True
-    logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
-    return False
+        return True, score, matched_keywords
+    
+    # Fetch full text and recalculate for potential boost
+    full_text = get_full_article_text(entry.link).lower()
+    full_combined = combined + " " + full_text
+    full_score, full_matched_keywords = calculate_uk_relevance_score(full_combined)
+    logger.info(f"Article: {html.unescape(entry.title)} | Full Text Relevance Score: {full_score} | Full Matched: {full_matched_keywords}")
+    
+    final_score = max(score, full_score)
+    final_matched = list(set(matched_keywords + full_matched_keywords))  # Combine unique matches
+    
+    if final_score >= threshold:
+        return True, final_score, final_matched
+    
+    logger.info(f"Filtered out article with full score {final_score}: {html.unescape(entry.title)}")
+    return False, final_score, final_matched
 
 def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_delay=40):
     """Post an article to Reddit with flair and a comment.
 
     Comment format:
-    - Three excerpt paragraphs, each on its own line (plain text)
-    - [Read more](link)
-    - Blank line
-    - UKRS: {score}/{TOTAL_UK_POSSIBLE}
-    - A final line containing only the flair confidence percentage (e.g. 92%)
+    > First Paragraph
+
+    > Second Paragraph
+
+    > Third Paragraph
+    [Read more](link)
+    Confidence: Highest
     """
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
@@ -436,18 +456,18 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
             # Extract exactly three paragraphs (list of three strings)
             paragraphs = extract_first_paragraphs(entry.link)
 
-            # Build the comment exactly as requested
+            # Build the comment
             reply_lines = []
-            # Add the three paragraphs as separate quote blocks
-            for i, para in enumerate(paragraphs):
-                if i > 0:
-                    reply_lines.append("")
-                reply_lines.append("> " + html.unescape(para))
+            # Add the three paragraphs as separate quote blocks with blank lines between
+            for para in paragraphs:
+                if para:
+                    reply_lines.append("> " + html.unescape(para))
+                    reply_lines.append("")  # Blank line for separation
 
             # Read more link
             reply_lines.append(f"[Read more]({entry.link})")
 
-            # UK relevance as worded confidence
+            # Confidence
             level = get_relevance_level(score)
             reply_lines.append(f"Confidence: {level}")
 
@@ -476,13 +496,15 @@ def main():
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
-        "Telegraph": "https://www.telegraph.co.uk/rss.xml"
+        "Telegraph": "https://www.telegraph.co.uk/rss.xml",
+        "Express": "https://www.express.co.uk/news/uk/rss.xml",
+        "GB News": "https://www.gbnews.com/feeds/news.rss"
     }
 
     # Collect and filter all potential articles
     all_articles = []
     now = datetime.now(timezone.utc)
-    three_hours_ago = now - timedelta(hours=3)
+    six_hours_ago = now - timedelta(hours=6)  # Extended to 6 hours for more candidates
     feed_items = list(feed_sources.items())
     random.shuffle(feed_items)
     for name, url in feed_items:
@@ -492,7 +514,7 @@ def main():
             random.shuffle(entries)
             for entry in entries:
                 published_dt = get_entry_published_datetime(entry)
-                if not published_dt or published_dt < three_hours_ago or published_dt > now + timedelta(minutes=5):
+                if not published_dt or published_dt < six_hours_ago or published_dt > now + timedelta(minutes=5):
                     continue
                 is_dup, reason = is_duplicate(entry)
                 if is_dup:
@@ -505,17 +527,16 @@ def main():
                     logger.info(f"Skipped opinion article: {html.unescape(entry.title)}")
                     continue
 
-                # Calculate UK relevance score and matched keywords
-                combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-                score, matched_keywords = calculate_uk_relevance_score(combined)
+                # Check UK relevance, potentially with full text
+                is_relevant, final_score, final_matched_keywords = is_uk_relevant(entry)
                 category = get_category(entry)
 
                 # If the article passes relevance/category checks, keep it
-                if score >= DEFAULT_UK_THRESHOLD or category == "Notable International":
-                    logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {score} | Matched: {matched_keywords} | Category: {category}")
-                    all_articles.append((name, entry, score, matched_keywords))
+                if is_relevant:
+                    logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {final_score} | Matched: {final_matched_keywords} | Category: {category}")
+                    all_articles.append((name, entry, final_score, final_matched_keywords))
                 else:
-                    logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
+                    logger.info(f"Filtered out article with score {final_score}: {html.unescape(entry.title)}")
 
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
@@ -532,10 +553,10 @@ def main():
         if success:
             logger.info(f"Successfully posted from {source}: {html.unescape(entry.title)}")
             posts_made += 1
-            time.sleep(40)
         else:
-            logger.error(f"Failed to post an article, stopping.")
-            break
+            logger.error(f"Failed to post an article from {source}: {html.unescape(entry.title)}")
+            # Continue trying others instead of stopping
+        time.sleep(40)
     logger.info(f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}.")
 
 if __name__ == "__main__":
