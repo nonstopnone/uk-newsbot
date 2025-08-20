@@ -28,7 +28,7 @@ required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
     'REDDIT_USERNAME',
-    'REDDITPASSWORD'  # Reddit password environment variable
+    'REDDITPASSWORD'  # Reddit password environment variable (your GitHub secret)
 ]
 missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
@@ -39,7 +39,7 @@ if missing_vars:
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-# Accept either REDDIT_PASSWORD or REDDITPASSWORD (GitHub secret name)
+# Accept either REDDIT_PASSWORD or REDDITPASSWORD
 REDDIT_PASSWORD = os.environ.get('REDDIT_PASSWORD') or os.environ.get('REDDITPASSWORD')
 try:
     reddit = praw.Reddit(
@@ -222,7 +222,7 @@ UK_KEYWORDS = {
     "king charles": 2, "queen camilla": 2, "prince william": 2, "princess kate": 2,
     "keir starmer": 2, "rachel reeves": 2, "kemi badenoch": 2, "ed davey": 2, "john swinney": 2,
     "angela rayner": 2, "nigel farage": 2, "carla denyer": 2, "adrian ramsay": 2,
-    "brexit": 2, "pound sterling": 2, "great british": 2, "oxford": 2, "cambridge": 2,
+    "brexit": 2, "pound sterling": 2, "great British": 2, "oxford": 2, "cambridge": 2,
     "village": 2, "county": 2, "borough": 2, "railway": 2,
     "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
     "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
@@ -295,6 +295,12 @@ def calculate_uk_relevance_score(text):
 
     return score, matched_keywords
 
+# Compute total possible positive UK score for display purposes
+# Sum all positive weights in UK_KEYWORDS then add maximum heuristic bonuses:
+# whitelisted_domain (+3), placename (+2), postcode (+2)
+TOTAL_UK_POSSIBLE = sum(v for v in UK_KEYWORDS.values() if v > 0) + 3 + 2 + 2
+# For the current UK_KEYWORDS this evaluates to 291 + 7 = 298
+
 def is_promotional(entry):
     """Check if an article is promotional, allowing 'offer' in government/policy contexts."""
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
@@ -326,7 +332,6 @@ CATEGORY_KEYWORDS = {
 def get_category(entry):
     """Determine the category of an article based on keywords with whole word matching."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    # Include Notable International among specific categories so it can be detected
     specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment", "Notable International"]
     for cat in specific_categories:
         for keyword in CATEGORY_KEYWORDS.get(cat, []):
@@ -384,22 +389,23 @@ def is_uk_relevant(entry, threshold=DEFAULT_UK_THRESHOLD):
     score, matched_keywords = calculate_uk_relevance_score(combined)
     category = get_category(entry)
     logger.info(f"Article: {html.unescape(entry.title)} | Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
-    # If score meets threshold, it's relevant
     if score >= threshold:
         return True
-    # Allow notable international category even if score is below threshold
     if category == "Notable International":
         logger.info(f"Allowing Notable International article despite low UK score: {html.unescape(entry.title)}")
         return True
-    # Otherwise not relevant
     logger.info(f"Filtered out article with score {score}: {html.unescape(entry.title)}")
     return False
 
 def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_delay=40):
     """Post an article to Reddit with flair and a comment.
 
-    The comment includes exactly three paragraphs, a Read more link, UK relevance and flair confidence,
-    and a transparency note.
+    Comment format:
+    - Three excerpt paragraphs, each on its own line (plain text)
+    - [Read more](link)
+    - Blank line
+    - UKRS: {score}/{TOTAL_UK_POSSIBLE}
+    - A final line containing only the flair confidence percentage (e.g. 92%)
     """
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
@@ -411,7 +417,7 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
     except Exception as e:
         logger.error(f"Failed to fetch flairs: {e}")
 
-    # Compute flair confidence using the existing keyword-based function
+    # Compute flair confidence
     _, flair_confidence = get_category_and_confidence(entry)
 
     for attempt in range(retries):
@@ -427,20 +433,23 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
             # Extract exactly three paragraphs (list of three strings)
             paragraphs = extract_first_paragraphs(entry.link)
 
-            # Build the comment strictly following required format
+            # Build the comment exactly as requested
             reply_lines = []
+            # Add the three paragraphs, plain lines
             for para in paragraphs:
-                if para:
-                    reply_lines.append(f"> {html.unescape(para)}")
-                else:
-                    reply_lines.append("> ")
+                reply_lines.append(html.unescape(para) if para else "")
 
-            reply_lines.append("")  # blank line
+            # Read more link
             reply_lines.append(f"[Read more]({entry.link})")
-            matched_display = ', '.join(matched_keywords) if matched_keywords else 'None'
-            reply_lines.append(f"UK Relevance Confidence: {score} (Matched: {matched_display})")
-            reply_lines.append(f"Flair Confidence: {flair_confidence}%")
-            reply_lines.append("This is an automated post by the BreakingUKNewsBot, a partially automated account designed to provide timely UK news updates.")
+
+            # Blank line
+            reply_lines.append("")
+
+            # UKRS: score / total possible numeric value (no keywords shown)
+            reply_lines.append(f"UKRS: {score}/{TOTAL_UK_POSSIBLE}")
+
+            # Final line: only the flair confidence percentage
+            reply_lines.append(f"{flair_confidence}%")
 
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
