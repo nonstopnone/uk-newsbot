@@ -804,3 +804,4 @@
 2025-08-20T03:03:11.530225+00:00|https://www.nytimes.com/2025/08/19/us/politics/trump-smithsonian-slavery.html|trump says smithsonian focuses too much on how bad slavery was us news|1190b92331fa3d01a2afa98d6f080285
 2025-08-20T03:03:12.574908+00:00|https://www.nbcnews.com/news/us-news/extreme-heat-wave-temperatures-110-degrees-places-loom-southwest-rcna225977|extreme heat wave with temperatures above 110 for some looms for southwest us news|8d608d257b5cfe18e52cef52e2cb545a
 2025-08-20T03:03:13.252075+00:00|https://www.nbcnews.com/news/us-news/extreme-heat-wave-temperatures-110-degrees-places-loom-southwest-rcna225977|extreme heat wave with temperatures above 110 for some looms for southwest us news|8d608d257b5cfe18e52cef52e2cb545a
+2025-08-20T03:44:09.796087+00:00|https://www.nytimes.com/2025/08/19/business/media/fox-news-trump-election-documents.html|documents add detail to fox hosts desire to help trump us news|f46da77558705fb5360a9db345d6c04c
