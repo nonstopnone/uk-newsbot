@@ -834,3 +834,6 @@
 2025-08-20T15:57:29.993611+00:00|https://www.bbc.com/news/articles/ce934e9gyryo|north carolina braces for dangerous surf from hurricane erin us news|f8698ca14c727134fa081d3ed7af7b9b
 2025-08-20T15:57:30.596557+00:00|https://www.bbc.com/news/articles/cq587vpe46eo|usmexico border wall to be painted black to stop climbers us news|d9073346fd6a500f2f3d81853ea4780a
 2025-08-20T15:57:31.286538+00:00|https://www.nbcnews.com/news/latino/hispanic-businesses-connecticut-see-decline-foot-traffic-rcna226064|hispanic businesses in connecticut see decline in foot traffic us news|aeb16829ff2a44180a8744b342529aa9
+2025-08-20T16:29:13.999501+00:00|https://www.bbc.com/news/articles/c78mj2m85pno|tulsi gabbard revokes security clearances of 37 us intelligence officials us news|3d029911f6e11fd03588c4ad37f893fd
+2025-08-20T16:29:15.197897+00:00|https://abcnews.go.com/US/wireStory/national-guard-vehicle-collides-civilian-car-us-capitol-124813326|national guard vehicle collides with civilian car near us capitol trapping person us news|78eaed415aba62a1565bd05be6dd7568
+2025-08-20T16:29:16.218967+00:00|https://www.nytimes.com/2025/08/20/us/politics/security-clearances-scientist-fired.html|nsas acting director tried to save top scientist from purge us news|3515acdcb50f5ddb335b1ac60d5d407f
