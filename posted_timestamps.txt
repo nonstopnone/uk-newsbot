@@ -1,4 +1,3 @@
-2025-08-13T13:25:39.444522+00:00|https://news.sky.com/story/fourth-uk-heatwave-of-summer-to-peak-today-with-34c-possible-in-some-areas-13411044|fourth uk heatwave to peak today with 34c possible in some areas uk news|793c644b03bfa43bd7944a054f798d33
 2025-08-13T14:20:44.628803+00:00|https://www.bbc.com/news/articles/crlz56n9798o|london chess prodigy 10 becomes master player uk news|58c02ec691291b46e42e1f08f0e9d862
 2025-08-13T14:21:25.187581+00:00|https://www.bbc.com/news/articles/cp8zwdy98k8o|claires on brink of collapse putting 2150 jobs at risk uk news|75de96c5349290a4b4900c5b86f24d9e
 2025-08-13T15:25:39.222254+00:00|https://www.bbc.com/news/articles/cvgvrylwpnwo|no sentence increase for dog walkers teenage killer uk news|d108d32b71c05575bda01a1eb95d57a3
@@ -122,3 +121,8 @@
 2025-08-20T13:06:26.570847+00:00|https://www.telegraph.co.uk/recommended/sleep/best-mattress-back-pain|the best mattresses for back pain recommended by an osteopath uk news|b1a05c266b6f4226d7d9fa954a83758a
 2025-08-20T13:07:08.328550+00:00|https://news.sky.com/story/andrew-and-dawn-searle-actor-son-of-murder-suicide-victim-urges-late-mothers-friends-not-to-attend-stepfathers-funeral-13415023|actor son of murdersuicide victim urges late mums friends not to attend stepdads funeral uk news|6b7ee9964da60930569e6a543c600666
 2025-08-20T13:07:48.950828+00:00|https://www.bbc.com/news/articles/c741wkngndqo|air fares and food prices push up inflation to 38 in july uk news|a3ebaf26ece1e271f12d8f88197e4d76
+2025-08-20T13:28:07.264066+00:00|https://www.bbc.com/news/articles/c939v4kw2l4o|kneecap rapper in court over terror charge uk news|7acf3c07813808d2322da30ccac6a5ee
+2025-08-20T13:28:48.044623+00:00|https://news.sky.com/story/police-officer-describes-moment-he-was-shot-with-crossbow-as-attacker-jailed-13414581|police officer describes moment he was shot with crossbow as attacker jailed uk news|bf6a6e2abe6f9b32d3d6b6dbf0a489e5
+2025-08-20T13:29:29.266851+00:00|https://news.sky.com/story/kneecap-rapper-greeted-by-hundreds-of-supporters-at-terror-charge-court-hearing-13415120|kneecap rapper greeted by hundreds of supporters at terror charge court hearing uk news|226c548fcfa717edcca7cfdd2d37485c
+2025-08-20T13:30:10.078353+00:00|https://www.bbc.com/news/articles/c1kzgx4v2pko|human rights regulator criticises mets use of facial recognition cameras uk news|d17a16c51d21d569b13e2032a6f7313c
+2025-08-20T13:30:50.775884+00:00|https://www.bbc.com/news/articles/c5ypgrzxx9go|pine nuts and goats milk should get allergy labels say experts uk news|2a8275171e37ad57769427d4122d36e3
