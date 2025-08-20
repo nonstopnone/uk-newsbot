@@ -1,6 +1,3 @@
-2025-08-13T17:16:20.739023+00:00|https://news.sky.com/story/claires-to-appoint-administrators-for-uk-and-ireland-business-putting-thousands-of-jobs-at-risk-13411175|claires to appoint administrators for uk and ireland business putting thousands of jobs at risk uk news|a88dd8ea485fe9b8ef360051c20da6b4
-2025-08-13T17:17:02.036578+00:00|https://www.bbc.com/news/articles/c17n9k54qz2o|porn site traffic plummets as uk age verification rules enforced uk news|e3201edfa85bab8b7ad88cfd7ad347c6
-2025-08-13T17:17:42.668496+00:00|https://www.bbc.com/news/articles/c0l6kdn041wo|migrant hotel resident charged with sexual assault uk news|6933a9830b019dc98b9fc7d9df953832
 2025-08-13T17:45:50.004470+00:00|https://www.bbc.com/news/articles/cyvn6r682lmo|jd vance lands in scotland for next leg of uk holiday uk news|06aac1784d26b23e7802d1f3cccba415
 2025-08-13T18:32:35.070895+00:00|https://www.bbc.com/news/articles/c5y3v8l5d1go|yellow heat health alert extended into next week for parts of england uk news|ebf42c7229f69ef5dd857dad1632f705
 2025-08-13T18:55:08.340952+00:00|https://news.sky.com/story/moor-fire-near-north-yorkshire-raf-base-declared-major-incident-13411256|moor fire near yorkshire raf base declared major incident uk news|754e08c9e133e06381c3ab2767265f05
@@ -130,3 +127,5 @@
 2025-08-20T16:59:42.894035+00:00|https://news.sky.com/story/scottish-labour-msp-colin-smyth-in-shock-after-being-charged-over-indecent-images-13415292|scottish labour msp in shock after being charged over indecent images uk news|6d66d7fedaa382f29ffd9d668b5c5ce4
 2025-08-20T17:00:23.867741+00:00|https://news.sky.com/story/ice-cream-seller-stabbed-eight-times-as-police-arrest-two-in-wembley-13415287|ice cream seller stabbed eight times as police arrest two in wembley uk news|de7a0519899e022f2e51aa7643ecfbb8
 2025-08-20T17:01:04.861166+00:00|https://www.bbc.com/news/articles/cy08309kxw6o|labour msp colin smyth charged over indecent images uk news|37977c00dae6cd625553e216f8f7fe3d
+2025-08-20T17:23:09.677914+00:00|https://www.bbc.com/news/articles/cwy38zmvk04o|sentencing for man who dodged 113 train tickets delayed uk news|533f0b4060d358444b20d3b02cf2a393
+2025-08-20T17:23:50.497094+00:00|https://www.bbc.com/news/articles/cy8jlwee0xjo|man who shot pc with crossbow jailed for nine years uk news|d0790a54b120dbf7085ccdd1ed96ad7d
