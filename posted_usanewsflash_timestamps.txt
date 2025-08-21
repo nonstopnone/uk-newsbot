@@ -908,3 +908,4 @@
 2025-08-21T10:25:37.793090+00:00|https://www.nytimes.com/2025/08/21/style/menendez-brothers-oj-simpson-crime-tour.html|as menendez brothers seek parole a new tour visits the crime scene us news|48168a5f318262392c6f078d5b362961
 2025-08-21T10:25:38.474194+00:00|https://www.nytimes.com/2025/08/21/world/europe/michael-boulos-tiffany-trump-business-deals.html|how tiffany trumps husband benefited from proximity to power us news|a13fb67c3f241fa86955c6deac88489e
 2025-08-21T10:45:47.637911+00:00|https://www.nytimes.com/2025/08/21/us/menendez-brothers-parole.html|the menendez brothers make their case for parole us news|0f58610fc8349d90ec433b0faf3f1b31
+2025-08-21T10:57:36.634432+00:00|https://www.bbc.com/news/articles/cwye3elwxd9o|hurricane erin to drench parts of virginia while brushing us east coast us news|0473765c29f041071417412366cf5c92
