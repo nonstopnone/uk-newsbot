@@ -1,5 +1,3 @@
-2025-08-14T18:30:13.973709+00:00|https://www.bbc.com/news/articles/cy85vvnvv8jo|floods mudslides and giant hailstones hit parts of scotland uk news|47000913661b858d3e54bb7af8d72163
-2025-08-14T18:30:54.979855+00:00|https://news.sky.com/story/men-jailed-after-kidnapping-pregnant-mum-and-threatening-to-cut-her-fingers-off-13411794|men jailed after kidnapping pregnant mum and threatening to cut her fingers off uk news|3bdb869750a5ca9fd31d07aa1a073241
 2025-08-14T21:20:16.688187+00:00|https://news.sky.com/story/vivergo-how-us-uk-trade-deal-could-bring-about-collapse-of-huge-renewable-energy-plant-in-hull-13411833|how usuk trade deal could bring about collapse of huge renewable energy plant in hull uk news|470a92a60d185a7543d9d50c376d973a
 2025-08-14T22:26:23.756346+00:00|https://www.bbc.com/news/articles/c8dery99ddzo|cool spaces provide help as wales faces heatwaves uk news|8effa5a97d0107ae39d2d436d4514879
 2025-08-15T02:11:43.331451+00:00|https://www.bbc.com/news/articles/ce876gkj4j2o|council rapped after school bullying whitewash claim uk news|c0f7013613c6e4fe68f63fffca584d89
@@ -157,3 +155,4 @@
 2025-08-21T18:29:26.089928+00:00|https://news.sky.com/story/snp-membership-falls-deficit-soars-and-163100000-campervan-now-only-worth-16341000-accounts-reveal-13415729|snp membership falls deficit soars and £100000 campervan now only worth £41000 accounts reveal uk news|47b065ed603b0c89404b0028d5ef658e
 2025-08-21T18:30:06.680885+00:00|https://www.bbc.com/news/articles/cpdj5y98302o|record numbers of gcse results were resits are we in a resit crisis uk news|08a2a6548f4a68ae471ad62755397aff
 2025-08-21T18:30:47.366273+00:00|https://news.sky.com/story/millions-of-people-threatened-by-wildfires-near-their-homes-research-finds-13415816|millions of people threatened by wildfires near their homes research finds uk news|10727fab6867524e5b85e224fd23a977
+2025-08-21T18:50:46.300666+00:00|https://news.sky.com/story/the-latest-migration-stats-are-going-in-the-wrong-direction-and-the-argument-might-get-more-vicious-13415839|the latest migration stats are going in the wrong direction and the argument might get more vicious uk news|d838121c3bb3d144bcef41622fbfd60f
