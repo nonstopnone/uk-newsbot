@@ -986,3 +986,6 @@
 2025-08-21T22:43:17.487870+00:00|https://abcnews.go.com/US/villanova-university-active-shooter-alert/story|villanova university says active shooter report was a cruel hoax us news|344c93153ecbea00aed1b0dedc0f020e
 2025-08-21T22:57:21.889374+00:00|https://www.nytimes.com/2025/08/21/us/politics/supreme-court-nih-grants.html|supreme court lets trump administration cut nih grants for disfavored research us news|b104f8b4b5bdb5a95ab12b397e3303c8
 2025-08-21T22:57:22.585491+00:00|https://www.nytimes.com/2025/08/21/us/politics/dc-police-national-guard-trump.html|see trumps deployment of the national guard other federal agents in washington dc us news|9ca15f8dbc3f61be1ac12fe97e8108b2
+2025-08-21T23:41:03.794900+00:00|https://www.nytimes.com/2025/08/21/us/minnesotas-democratic-party-revokes-endorsement-of-mayoral-candidate.html|minnesotas democratic party revokes endorsement of mayoral candidate us news|609d7b45e2ffe2503a068731433550bf
+2025-08-21T23:41:04.508919+00:00|https://www.nbcnews.com/news/us-news/colorado-dairy-deaths-rcna226457|six dead in accident at colorado dairy us news|8aa4a633f34b54917e7ebe42357de286
+2025-08-21T23:41:05.140447+00:00|https://www.nytimes.com/2025/08/21/nyregion/ingrid-lewis-martin-corruption-indictment.html|across 5 indictments prosecutors paint a picture of a city for sale us news|c7d2a5dd778fa6969bbecc489da15116
