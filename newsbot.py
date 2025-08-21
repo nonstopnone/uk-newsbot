@@ -55,7 +55,7 @@ except Exception as e:
 
 # --- Deduplication ---
 DEDUP_FILE = './posted_timestamps.txt'
-FUZZY_DUPLICATE_THRESHOLD = 0.88
+FUZZY_DUPLICATE_THRESHOLD = 0.50
 
 def normalize_url(url):
     """Normalize a URL by removing trailing slashes from the path and query parameters."""
