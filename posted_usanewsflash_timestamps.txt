@@ -935,3 +935,5 @@
 2025-08-21T15:26:03.362232+00:00|https://www.nytimes.com/2025/08/21/us/immigration-decline-united-states-trump.html|immigrant population in us drops for the first time in decades us news|e715f4a3ffc9bdee2ce00ddd81ff0dda
 2025-08-21T15:26:04.166533+00:00|https://www.nytimes.com/2025/08/20/climate/maine-library-of-things.html|why shop in maine the library of things has it all almost us news|4afcd3419c1e85ba4917a7ab48b2594a
 2025-08-21T15:26:04.835967+00:00|https://www.nytimes.com/2025/08/21/us/menendez-parole-how-to-watch.html|menendez brothers parole hearings what to expect and how to follow us news|c58a27daeaea33cebdb894e3d1f6c630
+2025-08-21T15:43:31.831595+00:00|https://www.nytimes.com/2025/08/21/nyregion/trump-fraud-james.html|court halts trumps halfbilliondollar penalty but upholds fraud case us news|e585016b09abc0e4973628bd62d83e83
+2025-08-21T15:43:32.519885+00:00|https://www.nbcnews.com/business/media/house-democrats-demand-documents-related-skydance-paramount-merger-rcna226275|house democrats demand documents related to skydanceparamount merger us news|e942a50105573f0e2beaaf4a171cafba
