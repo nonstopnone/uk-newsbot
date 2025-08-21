@@ -1,5 +1,3 @@
-2025-08-14T12:43:08.116751+00:00|https://www.bbc.com/news/articles/cx2x7jj865no|hospital treatments failing to meet demand say experts uk news|ca73370c75f80600bce7d40a4df0f25d
-2025-08-14T12:43:48.835277+00:00|https://www.bbc.com/news/articles/c5yp48jprg8o|faisal islam are latest uk growth figures good or bad news for the economy uk news|b29acc240bfc6ece2bcd8845117f15c9
 2025-08-14T14:20:15.067649+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/the-british-flat-pack-washing-machines-transforming-lives|the british flat pack washing machines transforming lives uk news|423ea0d7d0401e91924469fbaf02b48e
 2025-08-14T14:20:56.378922+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/how-ukraine-rehabilitates-war-wounded-will-define-nation|how ukraine rehabilitates its war wounded will define it at a nation uk news|5b0a55a99afa94f0c6654dde60e141c1
 2025-08-14T14:42:20.068000+00:00|https://news.sky.com/story/woman-arrested-at-anti-abortion-protest-in-glasgow-faces-no-further-action-13411630|woman arrested at antiabortion protest faces no further action uk news|a0be96cd044597bb32c3e179a13b2ef0
@@ -144,3 +142,4 @@
 2025-08-21T11:17:46.098993+00:00|https://www.bbc.com/news/articles/cn473wln2lko|us woman behind failed assassination in uk jailed for 30 years uk news|ae8e444530dacdbe19f320689e79083c
 2025-08-21T11:18:27.118358+00:00|https://news.sky.com/story/italy-arrests-ukrainian-over-nord-stream-attacks-german-prosecutors-say-13415622|ukrainian arrested in italy over nord stream attacks german prosecutors say uk news|de966422f676ecb8d65aff131de9f1aa
 2025-08-21T11:56:19.216379+00:00|https://news.sky.com/story/blue-dragon-beaches-closed-in-southern-spain-over-poisonous-sea-creature-13415606|tourists banned from popular spanish beaches over poisonous sea creature uk news|a7f61b82d4ca367b215f3e103924e5e4
+2025-08-21T12:45:40.355872+00:00|https://news.sky.com/story/genuinely-elite-top-chef-raves-about-supermarket-sandwich-but-has-very-different-view-of-qr-codes-13415612|genuinely elite top chef raves about supermarket sandwich but has very different view of qr codes uk news|a0c7f730276a3cd7feeb82ca2049c18d
