@@ -1,5 +1,3 @@
-2025-08-14T14:42:20.068000+00:00|https://news.sky.com/story/woman-arrested-at-anti-abortion-protest-in-glasgow-faces-no-further-action-13411630|woman arrested at antiabortion protest faces no further action uk news|a0be96cd044597bb32c3e179a13b2ef0
-2025-08-14T15:26:19.793498+00:00|https://www.bbc.com/news/articles/cn92727v8ezo|more than 11000 nofault bailiff evictions in past year uk news|ff2eb839309f682bfdb45ab07b897fdc
 2025-08-14T18:30:13.973709+00:00|https://www.bbc.com/news/articles/cy85vvnvv8jo|floods mudslides and giant hailstones hit parts of scotland uk news|47000913661b858d3e54bb7af8d72163
 2025-08-14T18:30:54.979855+00:00|https://news.sky.com/story/men-jailed-after-kidnapping-pregnant-mum-and-threatening-to-cut-her-fingers-off-13411794|men jailed after kidnapping pregnant mum and threatening to cut her fingers off uk news|3bdb869750a5ca9fd31d07aa1a073241
 2025-08-14T21:20:16.688187+00:00|https://news.sky.com/story/vivergo-how-us-uk-trade-deal-could-bring-about-collapse-of-huge-renewable-energy-plant-in-hull-13411833|how usuk trade deal could bring about collapse of huge renewable energy plant in hull uk news|470a92a60d185a7543d9d50c376d973a
@@ -144,3 +142,8 @@
 2025-08-21T13:57:01.398699+00:00|https://www.bbc.com/news/articles/cn0rwdp5enyo|poison bait to control rats on popular beach last resort uk news|787d7ae235397fa8295193c959e4f68d
 2025-08-21T13:57:42.300459+00:00|https://news.sky.com/story/previously-unreleased-beatles-tracks-to-feature-on-new-anthology-collection-13415699|previously unreleased beatles tracks to feature on new anthology collection uk news|4e181dfeb4c5da2ce8ecca1202f9c120
 2025-08-21T14:24:00.231740+00:00|https://news.sky.com/story/average-two-and-five-year-mortgages-below-5-for-first-time-since-2023-13415652|average two and five year mortgages below 5 for first time since 2023 uk news|c8dc085d8ebcf3bb4a4c753a97720f78
+2025-08-21T15:56:00.444029+00:00|https://www.bbc.com/news/articles/cvg4kjl031qo|woman who died while skydiving took her own life inquest finds uk news|1a7af92c2eaed4d4b20de01a8cbaa7c2
+2025-08-21T15:56:41.620994+00:00|https://www.telegraph.co.uk/business/2025/08/21/uk-public-sector-borrowing-reeves-ftse-100-markets-latest|britains finances chronically weak as reeves plans tax rises uk news|56563a4ec1af5c46a85dacfde6654c42
+2025-08-21T15:57:22.231706+00:00|https://news.sky.com/story/london-underground-workers-to-strike-for-seven-days-in-september-13415732|london underground workers to strike for seven days in september uk news|4d71881a55989af6cde5802ac03a8afd
+2025-08-21T15:58:02.894092+00:00|https://www.bbc.com/news/articles/cn728er5p1mo|tube staff to strike over pay and work conditions uk news|e24533e0052846d74bf639a776e00b11
+2025-08-21T15:58:44.264615+00:00|https://news.sky.com/story/experienced-skydiver160deliberately-fell-to-her-death-coroner-finds-13415708|experienced skydiver deliberately fell to her death coroner finds uk news|95d159014da42d96add76e187c4d8609
