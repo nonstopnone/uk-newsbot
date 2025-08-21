@@ -912,3 +912,4 @@
 2025-08-21T11:20:16.770334+00:00|https://www.nytimes.com/2025/08/21/us/politics/eu-us-trump-trade-deal.html|europe gets a written trump trade deal with a caveat for automakers us news|5d5d8bcd76a8edeb42b080027b6e09be
 2025-08-21T11:20:17.467608+00:00|https://www.nbcnews.com/business/economy/trump-white-house-eu-tariffs-lumber-pharma-15-percent-rcna226206|trump backs down on threats of higher tariffs for eu pharma and chips us news|2fe65bcbb67b1a56f83093c0e726450b
 2025-08-21T11:20:18.405767+00:00|https://www.nbcnews.com/business/economy/trump-white-house-eu-tariffs-lumber-pharma-15-percent-rcna226206|trump backs down on threats of higher tariffs for eu pharma and chips us news|2fe65bcbb67b1a56f83093c0e726450b
+2025-08-21T11:39:52.774519+00:00|https://abcnews.go.com/International/russia-hits-ukraine-massive-drone-missile-attack-kyiv/story|russian missiles hit american electronics factory in ukraine kyiv says us news|51cff538dfb00d64f7fa450dda695d1b
