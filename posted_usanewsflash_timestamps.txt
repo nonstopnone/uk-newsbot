@@ -989,3 +989,5 @@
 2025-08-21T23:41:03.794900+00:00|https://www.nytimes.com/2025/08/21/us/minnesotas-democratic-party-revokes-endorsement-of-mayoral-candidate.html|minnesotas democratic party revokes endorsement of mayoral candidate us news|609d7b45e2ffe2503a068731433550bf
 2025-08-21T23:41:04.508919+00:00|https://www.nbcnews.com/news/us-news/colorado-dairy-deaths-rcna226457|six dead in accident at colorado dairy us news|8aa4a633f34b54917e7ebe42357de286
 2025-08-21T23:41:05.140447+00:00|https://www.nytimes.com/2025/08/21/nyregion/ingrid-lewis-martin-corruption-indictment.html|across 5 indictments prosecutors paint a picture of a city for sale us news|c7d2a5dd778fa6969bbecc489da15116
+2025-08-21T23:57:38.574025+00:00|https://www.nbcnews.com/video/reports-of-active-shooter-at-villanova-a-cruel-hoax-245534277929|villanovas president says reports of active shooter a cruel hoax us news|a09b61c19a01ebfc95778576c8cc0536
+2025-08-21T23:57:39.205150+00:00|https://www.nytimes.com/2025/08/21/us/politics/trump-fed-federal-reserve.html|taking on the fed trump combines retribution tactics with a power play us news|838a9b843f828c4a3e41e593c1e36bc5
