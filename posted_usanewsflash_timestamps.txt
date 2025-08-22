@@ -1049,3 +1049,5 @@
 2025-08-22T17:57:33.689113+00:00|https://abcnews.go.com/US/new-york-thruway-tour-bus-crash/story|rescue operation underway after tour bus crashes in upstate new york governor us news|b44374962d7c54a5425ed16d730dfaec
 2025-08-22T18:33:18.551793+00:00|https://www.nytimes.com/2025/08/22/us/george-mason-president-diversity-investigation.html|trump officials demand george masons president apologize over diversity us news|fd726ab33740e56ace0382c0cf301db9
 2025-08-22T18:33:19.290141+00:00|https://www.nytimes.com/2025/08/22/nyregion/new-york-tour-bus-crash.html|tour bus crashes in western new york injuring passengers us news|fe25bb6e646350dffdd8a0d3deb8290c
+2025-08-22T18:50:39.163662+00:00|https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html|trump says intel has agreed to give us a 10 stake in its business us news|9fa6c05959637a43d0ba34d91bdd4dee
+2025-08-22T18:50:39.889131+00:00|https://abcnews.go.com/US/ghislaine-maxwell-provided-incriminating-information-meetings-deputy-ag/story|maxwell provided doj with no incriminating info about epstein associates sources us news|1ed88795a39f90643b0e83b98bf15231
