@@ -1003,3 +1003,4 @@
 2025-08-22T03:43:37.595845+00:00|https://www.nytimes.com/2025/08/21/arts/design/smithsonian-trump.html|white house lists smithsonian exhibits it finds objectionable us news|ffa42d7564a0eca6f66314d50dcbd5bc
 2025-08-22T03:59:38.054233+00:00|https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html|trump budget office is withholding hiv funds that congress appropriated us news|994375511786daeff646632a8c911d58
 2025-08-22T04:27:50.512908+00:00|https://www.nytimes.com/article/menendez-brothers-resentencing-hearing.html|erik menendez has been denied parole heres what to know us news|cd48507ea8776548b2778b46902f93b0
+2025-08-22T08:31:23.253415+00:00|https://abcnews.go.com/US/wireStory/funeral-home-owner-stashed-200-decaying-bodies-set-124870062|funeral home owner who stashed decaying bodies set to be sentenced for corpse abuse us news|19349eb444892df9b71d1b58782d0b31
