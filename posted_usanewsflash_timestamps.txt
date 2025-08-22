@@ -1002,3 +1002,4 @@
 2025-08-22T03:43:37.069671+00:00|https://www.nbcnews.com/news/us-news/planned-parenthood-medicaid-funding-south-carolina-complaint-filed-rcna225949|planned parenthood files legal challenge to protect medicaid funding in south carolina us news|3c79cf9c0c413a9fe176a3f68a8cc9a8
 2025-08-22T03:43:37.595845+00:00|https://www.nytimes.com/2025/08/21/arts/design/smithsonian-trump.html|white house lists smithsonian exhibits it finds objectionable us news|ffa42d7564a0eca6f66314d50dcbd5bc
 2025-08-22T03:59:38.054233+00:00|https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html|trump budget office is withholding hiv funds that congress appropriated us news|994375511786daeff646632a8c911d58
+2025-08-22T04:27:50.512908+00:00|https://www.nytimes.com/article/menendez-brothers-resentencing-hearing.html|erik menendez has been denied parole heres what to know us news|cd48507ea8776548b2778b46902f93b0
