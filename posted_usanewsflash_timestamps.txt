@@ -1085,3 +1085,5 @@
 2025-08-22T23:21:22.163946+00:00|https://www.nytimes.com/2025/08/22/nyregion/new-york-city-corruption.html|new york is a big city its graft has become smalltown stuff us news|d1c7ec167be82c353f7b21304dd23249
 2025-08-22T23:21:22.697009+00:00|https://www.nytimes.com/2025/08/22/nyregion/adams-mamdani-nyc-mayor.html|with close associates under fire mayor adams remains defiant us news|57262f88d6cb844c71666a331d2a9192
 2025-08-22T23:40:08.531257+00:00|https://www.bbc.com/news/articles/c2kz4d0vwlzo|trumps plan for dc homeless is giving san francisco deja vu us news|28762b3ff38bd8c32950a8f4e2d099bd
+2025-08-22T23:57:37.614140+00:00|https://www.nbcnews.com/nightly-news/video/doj-releases-transcripts-and-audio-from-two-days-of-interviews-with-ghislaine-maxwell-245620293831|doj releases transcripts and audio from two days of interviews with ghislaine maxwell us news|eedadfd5ed2a4f944327e89129fb6c12
+2025-08-22T23:57:38.330984+00:00|https://www.nbcnews.com/nightly-news/video/lyle-menendez-argues-for-parole-a-day-after-his-brother-was-denied-245620293819|lyle menendez argues for parole a day after his brother was denied us news|291e36e87afb77d84f32b91a145e901b
