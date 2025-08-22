@@ -1044,3 +1044,5 @@
 2025-08-22T16:47:47.573107+00:00|https://www.nbcnews.com/politics/politics-news/vance-denies-bolton-investigation-stems-trump-criticism-rcna226604|vance denies the fbi is investigating john bolton because hes a trump critic us news|eed88e45caf3618f942d802f12bf9444
 2025-08-22T16:47:48.081828+00:00|https://www.nbcnews.com/news/us-news/california-parents-missing-newborn-arrested-rcna226632|california parents of missing 7monthold arrested accused of murder us news|f475dae2bbe083055524c172b6369170
 2025-08-22T16:57:45.190225+00:00|https://www.nytimes.com/2025/08/22/us/howard-university-president-resignation.html|howard university president to step down this month us news|76ed38e842a210d6415ace9c3d167f63
+2025-08-22T17:42:16.734048+00:00|https://abcnews.go.com/US/video/fbi-searches-home-former-trump-admin-national-security-124888191|watch fbi searches home of former trump admin national security adviser john bolton us news|407868fbcc8ed65023493d88bc653d84
+2025-08-22T17:42:17.344023+00:00|https://abcnews.go.com/Health/video/plague--124888427|watch what to know about the plague us news|f5a3efd7c171cad2be743d5181ab318f
