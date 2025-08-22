@@ -1051,3 +1051,5 @@
 2025-08-22T18:33:19.290141+00:00|https://www.nytimes.com/2025/08/22/nyregion/new-york-tour-bus-crash.html|tour bus crashes in western new york injuring passengers us news|fe25bb6e646350dffdd8a0d3deb8290c
 2025-08-22T18:50:39.163662+00:00|https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html|trump says intel has agreed to give us a 10 stake in its business us news|9fa6c05959637a43d0ba34d91bdd4dee
 2025-08-22T18:50:39.889131+00:00|https://abcnews.go.com/US/ghislaine-maxwell-provided-incriminating-information-meetings-deputy-ag/story|maxwell provided doj with no incriminating info about epstein associates sources us news|1ed88795a39f90643b0e83b98bf15231
+2025-08-22T18:58:05.562454+00:00|https://www.nbcnews.com/news/us-news/hegseth-authorizes-national-guard-troops-dc-carry-weapons-rcna226536|hegseth authorizes national guard troops in dc to carry weapons us news|cf4ac3bd30ca7079cae98a79577e6a7a
+2025-08-22T18:58:06.254051+00:00|https://www.nbcnews.com/news/latino/frida-kahlo-trademark-lawsuit-rcna226576|who owns frida kahlos legacy the dispute over her trademark could impact other artists us news|ac46d262ae3e665a99737bc477189ff5
