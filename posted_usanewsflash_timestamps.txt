@@ -1131,3 +1131,4 @@
 2025-08-23T18:46:30.870120+00:00|https://www.nytimes.com/2025/08/23/nyregion/ingrid-lewis-martin-eric-adams.html|the lioness at the center of a city hall battered by scandal us news|8123eeb7790ea826d84b5a28c7522a4e
 2025-08-23T19:57:19.370946+00:00|https://www.nbcnews.com/news/us-news/new-york-tour-bus-crash-victims-identified-rcna226776|5 victims identified in deadly tour bus crash including a columbia university student us news|8a8332be5440c22820bb0cca862e2d26
 2025-08-23T21:20:03.361897+00:00|https://www.nytimes.com/2025/08/23/us/politics/orlando-pulse-shooting-rainbow-crosswalk-memorial.html|florida paints over rainbow memorial for pulse nightclub shooting victims us news|63c781356175cbf45637066249ca9c0b
+2025-08-23T21:38:58.382517+00:00|https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html|the allfemale hacker house trying to break ais glass ceiling us news|36429f93035bb0a4a2f7f837614fb04e
