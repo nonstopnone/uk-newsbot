@@ -1120,3 +1120,5 @@
 2025-08-23T13:33:49.524535+00:00|https://abcnews.go.com/US/judge-blocks-trump-admin-withholding-funding-34-cities/story|judge blocks trump from withholding funding to 34 sanctuary cities and counties us news|2d3c628c4dc8b3c1d0289fa986572d9a
 2025-08-23T14:40:46.999955+00:00|https://www.nytimes.com/2025/08/23/technology/intel-computer-chips-tech-ai-trump.html|intels downfall underlines how even tech giants can fade us news|3ca36155fcbfccf0beb1d00e4a1047d7
 2025-08-23T14:57:26.018652+00:00|https://www.bbc.com/news/articles/c2dj217z2w6o|pentagon fires intelligence agency chief after iran attack assessment us news|d66847ab5c194c483a3c10b3c69c928c
+2025-08-23T15:21:09.297232+00:00|https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-may-be-deported-uganda-rcna226756|kilmar abrego garcia notified by ice that he may be deported to uganda us news|1ae52da8ddad74e361ee33c107bf545b
+2025-08-23T15:21:09.761320+00:00|https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-may-be-deported-uganda-rcna226756|kilmar abrego garcia notified by ice that he may be deported to uganda us news|1ae52da8ddad74e361ee33c107bf545b
