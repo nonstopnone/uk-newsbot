@@ -1109,3 +1109,6 @@
 2025-08-23T09:57:36.081377+00:00|https://www.nytimes.com/2025/08/23/us/harvard-changes-academic-freedom-trump-deal.html|harvard is making changes trump officials want even without a deal us news|18d66e578a13dd30db3513c3af44d4a5
 2025-08-23T09:57:36.765289+00:00|https://www.nytimes.com/2025/08/23/business/lisa-cook-fed-trump.html|lisa cook who broke ground at the fed faces attack by trump us news|e8ea5cd68a7979dbd08bac20abd4341d
 2025-08-23T09:57:37.227867+00:00|https://www.nytimes.com/2025/08/23/business/small-business/board-games-trump-tariffs-china.html|trumps tariffs become a wild card for board game makers us news|24a37f0f5757b27538ed691f9987be5c
+2025-08-23T10:22:57.936031+00:00|https://www.nytimes.com/2025/08/23/arts/design/trump-targets-smithsonian-museums-chilling-effect.html|as trump targets the smithsonian museums across the us feel a chill us news|74a452ce5e4be903424879757de3fbc0
+2025-08-23T10:22:58.574420+00:00|https://www.nytimes.com/article/student-loan-repayment-options.html|what to know about student loan repayment plan changes and your options us news|46be600426ebef4a7a470107a30a0d28
+2025-08-23T10:22:59.243029+00:00|https://www.nytimes.com/2025/08/23/world/middleeast/gaza-famine-report-us-reaction.html|after gaza famine report us is mostly silent and israel defiant us news|ccc340b6dc3669e9008b40d6d89bfc68
