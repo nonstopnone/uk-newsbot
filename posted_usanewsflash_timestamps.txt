@@ -1099,3 +1099,4 @@
 2025-08-23T04:27:08.532635+00:00|https://www.nytimes.com/2025/08/23/world/europe/italy-beach-costs-inflation-anger.html|rising cost of a day at the beach angers italians us news|6a2f816e2d4b11f6df0d9384853eca3b
 2025-08-23T05:41:31.328849+00:00|https://abcnews.go.com/US/wireStory/kilaueas-eruption-back-hawaii-volcano-shoots-lava-31st-124908100|hawaiis kilauea volcano shoots lava for the 31st time since december us news|4069df71dfe52446eeea1eb27c289c5d
 2025-08-23T06:32:10.576617+00:00|https://www.nytimes.com/2025/08/23/us/texas-redistricting.html|texas legislature gives final approval to redistricting map favoring republicans us news|4fb45de71591c61a21b8dfa9ed94ad12
+2025-08-23T06:57:40.977255+00:00|https://www.nbcnews.com/politics/elections/texas-senate-passes-new-republican-drawn-congressional-map-rcna226278|texas senate passes new republicandrawn congressional map us news|0a404beead48b3868c47b9f4454037ba
