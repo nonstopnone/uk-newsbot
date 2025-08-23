@@ -1101,3 +1101,5 @@
 2025-08-23T06:32:10.576617+00:00|https://www.nytimes.com/2025/08/23/us/texas-redistricting.html|texas legislature gives final approval to redistricting map favoring republicans us news|4fb45de71591c61a21b8dfa9ed94ad12
 2025-08-23T06:57:40.977255+00:00|https://www.nbcnews.com/politics/elections/texas-senate-passes-new-republican-drawn-congressional-map-rcna226278|texas senate passes new republicandrawn congressional map us news|0a404beead48b3868c47b9f4454037ba
 2025-08-23T07:38:38.329684+00:00|https://abcnews.go.com/Politics/wireStory/texas-lawmakers-give-final-approval-redrawn-congressional-map-124879229|texas lawmakers give final approval to redrawn congressional map favoring gop us news|e7b79983d84591c347396d5781d45ed7
+2025-08-23T08:44:50.742911+00:00|https://www.bbc.com/news/articles/c5y2dgep4zzo|what did erik and lyle menendez do and when could they be released us news|2cefa1ed521f633aea9828ec91a1c0ed
+2025-08-23T08:44:51.288136+00:00|https://www.nbcnews.com/news/us-news/hawaii-kilaueas-volcano-eruption-lava-rcna226740|kilaueas eruption is back as the hawaii volcano shoots lava for 31st time since december us news|8e279c44cc3ee3d2af73bed20f442064
