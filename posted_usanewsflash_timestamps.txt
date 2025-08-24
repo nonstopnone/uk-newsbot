@@ -1154,3 +1154,5 @@
 2025-08-24T16:27:19.036343+00:00|https://www.nytimes.com/2025/08/24/us/hot-tub-rescue.html|crews rescue two women stuck in hot tub at remote cabin us news|c4d4d66e9b85aefc529d444884334a4f
 2025-08-24T17:40:32.595240+00:00|https://www.nbcnews.com/politics/white-house/trump-threatens-military-baltimore-crime-key-bridge-funding-chicago-rcna226846|trump threatens to send the military to baltimore to clean up crime us news|82eb80daf7c343fc706580f93101568f
 2025-08-24T18:31:28.690817+00:00|https://www.nytimes.com/2025/08/24/us/politics/trump-national-guard-chicago-crime.html|after trumps threat to send national guard to chicago democrats push back us news|912ad343c5483432c704cdabd9bc9fa2
+2025-08-24T18:48:02.245169+00:00|https://abcnews.go.com/Politics/vance-russia-made-significant-concessions-ukraine/story|vance says russia has made significant concessions on ukraine us news|c984b3625d4c7ff7e85e3fae1cec7c88
+2025-08-24T18:48:02.720210+00:00|https://abcnews.go.com/US/5-shot-1-fatally-multiple-gunmen-open-fire/story|5 shot 1 fatally as multiple gunmen open fire in new york city park nypd us news|2b9d9764c313667928d95bcd90b9629a
