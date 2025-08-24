@@ -1157,3 +1157,4 @@
 2025-08-24T18:48:02.245169+00:00|https://abcnews.go.com/Politics/vance-russia-made-significant-concessions-ukraine/story|vance says russia has made significant concessions on ukraine us news|c984b3625d4c7ff7e85e3fae1cec7c88
 2025-08-24T18:48:02.720210+00:00|https://abcnews.go.com/US/5-shot-1-fatally-multiple-gunmen-open-fire/story|5 shot 1 fatally as multiple gunmen open fire in new york city park nypd us news|2b9d9764c313667928d95bcd90b9629a
 2025-08-24T19:57:21.671139+00:00|https://www.nytimes.com/2025/08/24/us/politics/trump-dc-crime-takeover-federal-court.html|in washington crackdown making a federal case out of lowlevel arrests us news|b3ce1921e8c9bb298a389f94bb64c4d3
+2025-08-24T21:20:28.670234+00:00|https://www.bbc.com/news/articles/c78mymx7mpko|trump threatens to deploy troops to baltimore to clean up city us news|142958eba5884528a6b05c5080695e41
