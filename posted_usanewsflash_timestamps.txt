@@ -1160,3 +1160,4 @@
 2025-08-24T21:20:28.670234+00:00|https://www.bbc.com/news/articles/c78mymx7mpko|trump threatens to deploy troops to baltimore to clean up city us news|142958eba5884528a6b05c5080695e41
 2025-08-24T22:57:38.211781+00:00|https://www.nbcnews.com/politics/politics-news/national-guard-troops-dc-begin-carrying-firearms-rcna226890|national guard troops in dc to begin carrying firearms us news|5f61dfaac4b1a332e9c2dac56ddf5c73
 2025-08-24T22:57:38.894855+00:00|https://www.nbcnews.com/politics/politics-news/national-guard-troops-dc-begin-carrying-firearms-rcna226890|national guard troops in dc to begin carrying firearms us news|5f61dfaac4b1a332e9c2dac56ddf5c73
+2025-08-24T23:57:39.879055+00:00|https://www.nytimes.com/2025/08/24/us/politics/lavrov-seems-to-erase-the-notion-that-a-putin-zelensky-meeting-is-in-the-works.html|russias top diplomat says there is no plan for putinzelensky meeting us news|fc2920f393a60ef75456e8375c666f9f
