@@ -1169,3 +1169,4 @@
 2025-08-25T06:37:41.838707+00:00|https://www.nytimes.com/2025/08/25/us/politics/trump-chris-christie-bridgegate.html|trump threatens to investigate chris christie over bridgegate us news|5a5d7018d32fd5982a5a7996cfa6b4c5
 2025-08-25T07:57:22.290328+00:00|https://abcnews.go.com/International/us-fighters-intercept-russian-aircraft-off-alaska-time/story|us fighters intercept russian aircraft off alaska for third time in a week us news|cecbdf31c2d72ec3b3ea30f9cb437efe
 2025-08-25T08:33:58.169080+00:00|https://www.bbc.com/news/articles/c2djy7048pdo|virginia giuffre memoir to be published months after death us news|643fc910f155f846c053da651af5ac31
+2025-08-25T09:10:56.510450+00:00|https://www.nbcnews.com/news/us-news/first-human-case-flesh-eating-screwworm-parasite-detected-us-rcna226923|first human case of flesheating screwworm parasite detected in the us us news|057b0f87563f26ba3e4c3266b5c3f3ba
