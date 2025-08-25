@@ -1167,3 +1167,4 @@
 2025-08-25T03:18:19.515632+00:00|https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-what-to-know-rcna226865|heres what might happen at kilmar abrego garcias ice checkin us news|1c7e3fa38a829c855d8eb966858c27dc
 2025-08-25T03:18:20.039292+00:00|https://www.nytimes.com/2025/08/24/us/politics/national-guard-weapons-guns-dc.html|national guard patrols begin to carry weapons in dc us news|67c5e7ad654791acd8e0e319536a90a1
 2025-08-25T06:37:41.838707+00:00|https://www.nytimes.com/2025/08/25/us/politics/trump-chris-christie-bridgegate.html|trump threatens to investigate chris christie over bridgegate us news|5a5d7018d32fd5982a5a7996cfa6b4c5
+2025-08-25T07:57:22.290328+00:00|https://abcnews.go.com/International/us-fighters-intercept-russian-aircraft-off-alaska-time/story|us fighters intercept russian aircraft off alaska for third time in a week us news|cecbdf31c2d72ec3b3ea30f9cb437efe
