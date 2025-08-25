@@ -1217,3 +1217,4 @@
 2025-08-25T18:52:51.932608+00:00|https://www.nytimes.com/2025/08/25/us/politics/house-republicans-crime-washington.html|house republicans seek review of dc crime data us news|0ee4c493d4fb199ae4bedf69ad2dbff3
 2025-08-25T19:18:51.823542+00:00|https://www.nytimes.com/2025/08/25/world/europe/lebanon-israel-un-unifil-peacekeeping.html|un peacekeepers in lebanon face uncertain future us news|8f20680b0ff62cc420000479de46563f
 2025-08-25T19:39:22.260958+00:00|https://www.bbc.com/news/videos/c4gzy1qjrpxo|watch trump says he wants to meet kim jong un us news|7e16f0893992f8e1c9bf39a84e3827e6
+2025-08-25T19:57:34.687777+00:00|https://www.nbcnews.com/now/video/trump-says-he-would-like-to-have-another-meeting-with-kim-jong-un-245722693932|trump says he would like to have another meeting with kim jong un us news|ddd498a48a4c729d4daa888bcd481aaf
