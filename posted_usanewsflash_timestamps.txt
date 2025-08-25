@@ -1234,3 +1234,4 @@
 2025-08-25T22:22:47.656335+00:00|https://www.nytimes.com/2025/08/25/us/politics/trump-north-south-korea.html|trump repeatedly praises north koreas dictator in meeting with souths president us news|4e6fe7dd26a4e02fc1968de68f2bfb61
 2025-08-25T22:42:52.052517+00:00|https://www.nytimes.com/2025/08/25/briefing/abrego-garcia-was-detained-again.html|abrego garcia was detained again us news|740d1847351734129a84d27b86a0ec07
 2025-08-25T22:57:37.235783+00:00|https://www.nytimes.com/2025/08/25/us/politics/pritzker-chicago-trump-national-guard.html|gov pritzker challenges trumps threat to send national guard to chicago us news|d5a492c99ca0295ad161b0998ef5e8ba
+2025-08-25T23:57:39.319924+00:00|https://www.nytimes.com/2025/08/25/us/politics/epstein-files-subpoena-comer.html|house republican seeks documents from epstein estate us news|cf00447da50fdafc0571928f8a93b3d5
