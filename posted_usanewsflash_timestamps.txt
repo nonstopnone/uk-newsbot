@@ -1180,3 +1180,4 @@
 2025-08-25T10:26:44.170324+00:00|https://www.nbcnews.com/sports/wnba/rihannas-multibillion-dollar-brand-invested-wnba-just-start-rcna223732|rihannas multibilliondollar brand invested in the wnba and its just the start us news|67b47dcad094b3e16fa9349845e18fea
 2025-08-25T10:46:08.957984+00:00|https://www.nytimes.com/2025/08/25/podcasts/the-headlines/china-ny-elections-ghislaine-maxwell.html|how china is influencing ny elections and what ghislaine maxwell told doj officials us news|add6433c8c454d1941e1c6b48e5d4635
 2025-08-25T10:46:09.571360+00:00|https://www.nytimes.com/2025/08/25/us/politics/trump-diplomacy-putin-alaska-ukraine-war.html|trump relies on personal diplomacy with putin the result is a strategic muddle us news|a96953ddf53d257bd2a7c3ec5e16da70
+2025-08-25T11:20:18.060652+00:00|https://www.nytimes.com/2025/08/25/briefing/president-trump-law.html|cases closed us news|087f184846fc04a7a27c3f81cc5e55cb
