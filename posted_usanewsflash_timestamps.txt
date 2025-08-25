@@ -1198,3 +1198,7 @@
 2025-08-25T15:57:39.709237+00:00|https://www.bbc.com/news/videos/ce3j7xq4q92o|watch supporters rally as abrego garcia is detained us news|e2534ce1d41bfc615ad77b13cab9c12b
 2025-08-25T16:30:21.425189+00:00|https://www.nbcnews.com/now/video/trump-signs-executive-orders-on-flag-burning-and-eliminating-cashless-bail-245706309978|trump signs executive orders on flag burning and eliminating cashless bail us news|f6cdc6e48acb3699b77cd85d0dc5daa9
 2025-08-25T16:30:22.613012+00:00|https://www.nytimes.com/2025/08/25/well/jillian-michaels-profile.html|how did jillian michaels end up here us news|b7b8daea6060cc2310fde0e483fc58fc
+2025-08-25T16:49:22.164479+00:00|https://www.nbcnews.com/news/us-news/arrests-made-alleged-gang-related-burglary-ring-los-angeles-rcna227001|arrests made in alleged gangrelated burglary ring throughout los angeles us news|275e0ea30f0e0c006a41e0dc992a7278
+2025-08-25T16:49:22.836567+00:00|https://www.nbcnews.com/news/us-news/arrests-made-alleged-gang-related-burglary-ring-los-angeles-rcna227001|arrests made in alleged gangrelated burglary ring throughout los angeles us news|275e0ea30f0e0c006a41e0dc992a7278
+2025-08-25T16:49:23.510478+00:00|https://www.nytimes.com/article/cash-bail-explainer-trump.html|what to know about how bail works in the us us news|2be45cdc28ad7c1ea929d286dca86a7f
+2025-08-25T16:49:24.222593+00:00|https://www.nytimes.com/2025/08/25/world/middleeast/gaza-journalists-killed-nasser-hospital.html|what to know about the journalists killed in gaza us news|3dc54e2355aa8ffa8702b0930248d37d
