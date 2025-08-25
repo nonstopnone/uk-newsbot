@@ -1190,3 +1190,6 @@
 2025-08-25T12:51:25.350770+00:00|https://www.nytimes.com/2025/08/25/climate/fema-employees-letter-trump-katrina.html|fema employees warn that trump is gutting disaster response us news|ec905ba6fdc0b0b4ff02ea51909c017f
 2025-08-25T12:51:25.826645+00:00|https://abcnews.go.com/US/kilmar-abrego-garcia-check-ice-maryland-deportation-threat/story|kilmar abrego garcia detained at ice office in maryland us news|ed8c6f1639230da1a1f4ab818639c45d
 2025-08-25T12:51:26.296645+00:00|https://www.nytimes.com/2025/08/25/us/philadelphia-transit-cuts.html|philadelphia transit cuts take hold and commuters begin to feel the pain us news|555324d45ca292104b694062425d7567
+2025-08-25T13:22:37.547681+00:00|https://www.bbc.com/news/articles/c04ryk6ed5lo|abrego garcia detained by ice as possible second deportation looms us news|0a4b8c28df59503a3bdb7db385ef113f
+2025-08-25T13:22:38.520935+00:00|https://www.nbcnews.com/video/watch-live-trump-signs-executive-order-ending-cashless-bail-in-d-c-245691461798|trump signs executive order ending cashless bail in dc us news|87c18d8a8ad271e2b35d2403dafd982e
+2025-08-25T13:22:39.253784+00:00|https://www.nbcnews.com/now/video/journalists-among-the-dead-after-israeli-airstrike-hits-gaza-hospital-245690437768|journalists among the dead after israeli airstrike hits gaza hospital us news|08c285509060ec16a172715f09258d36
