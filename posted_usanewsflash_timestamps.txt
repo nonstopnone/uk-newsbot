@@ -1248,3 +1248,4 @@
 2025-08-26T03:45:39.170406+00:00|https://www.nytimes.com/2025/08/25/us/babe-ruth-baseball-fraud.html|babe ruth not that one stole baseball players identities us says us news|60a5d532cb83323b4a8c221d92690bbd
 2025-08-26T03:45:40.143987+00:00|https://www.nytimes.com/2025/08/25/weather/dust-storm-phoenix-arizona-airport.html|phoenix airport grounds flights after dust storms us news|ee6afe11cdc72a3c3beca35f88457973
 2025-08-26T03:45:40.761922+00:00|https://www.nbcnews.com/politics/politics-news/weapons-national-guard-troops-now-carry-washington-dc-rcna227134|the weapons that national guard troops now carry in washington dc us news|b3c4ff204268a388a8a3936dc0c6b636
+2025-08-26T04:00:57.166872+00:00|https://www.nbcnews.com/politics/congress/mark-alford-missouri-at-odds-trump-national-guard-threats-governor-rcna227157|missouri republican signals hes not on board with trumps latest national guard threats us news|cefd9e5857ef113cd8ac4b9e2b124c84
