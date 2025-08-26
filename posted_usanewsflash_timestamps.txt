@@ -1271,3 +1271,7 @@
 2025-08-26T13:24:37.612714+00:00|https://www.bbc.com/news/articles/cd6n9g8x212o|us house committee requests epstein birthday book from his estate us news|765882fab5c5e1df03252c713972e449
 2025-08-26T13:24:38.200208+00:00|https://www.nytimes.com/2025/08/26/us/politics/doge-social-security-data.html|doge put critical social security data at risk whistleblower says us news|a5310c5718850c94fce72076307c9b76
 2025-08-26T13:24:38.755049+00:00|https://www.nbcnews.com/health/health-news/cdc-quietly-scaled-back-surveillance-program-foodborne-illnesses-rcna227089|the cdc quietly scaled back a surveillance program for foodborne illnesses us news|67232e4e69e4a639cdf5e6bfbb571532
+2025-08-26T13:48:20.780927+00:00|https://www.nytimes.com/2025/08/25/well/climate-change-survival-quiz.html|quiz are you prepared for a climate disaster us news|93a393da99b3283b47ead5cbad15e85e
+2025-08-26T13:48:21.499411+00:00|https://www.nbcnews.com/video/watch-live-trump-holds-cabinet-meeting-245782085754|trump holds cabinet meeting us news|e29825c1d2a707f075018e8be30263a8
+2025-08-26T13:48:21.984504+00:00|https://www.nytimes.com/2025/08/26/business/trump-technology-european-union-tariffs.html|as trump ramps up pressure on digital rules can europe resist us news|e869c81cdfb1adc4051064461fe62a9d
+2025-08-26T13:48:22.460004+00:00|https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html|a teen was suicidal chatgpt was the friend he confided in us news|454dfe4953b815f0bb96e9fcbe5533db
