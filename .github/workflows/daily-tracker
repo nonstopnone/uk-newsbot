@@ -1,0 +1,30 @@
+name: Daily Small Boat Tracker
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 8:00 UTC
+    - cron: '0 12 * * *'  # 12:00 UTC
+    - cron: '0 19 * * *'  # 19:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests beautifulsoup4 praw
+      - run: python script.py
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
+      - run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add totals.json || true
+          git commit -m 'Update totals' || echo 'No changes'
+          git push
