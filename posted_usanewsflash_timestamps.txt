@@ -1275,3 +1275,4 @@
 2025-08-26T13:48:21.499411+00:00|https://www.nbcnews.com/video/watch-live-trump-holds-cabinet-meeting-245782085754|trump holds cabinet meeting us news|e29825c1d2a707f075018e8be30263a8
 2025-08-26T13:48:21.984504+00:00|https://www.nytimes.com/2025/08/26/business/trump-technology-european-union-tariffs.html|as trump ramps up pressure on digital rules can europe resist us news|e869c81cdfb1adc4051064461fe62a9d
 2025-08-26T13:48:22.460004+00:00|https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html|a teen was suicidal chatgpt was the friend he confided in us news|454dfe4953b815f0bb96e9fcbe5533db
+2025-08-26T14:22:34.459459+00:00|https://www.nytimes.com/2025/08/26/us/jack-smith-ethics-complaint-trump.html|jack smiths legal team fires back against ethics complaint us news|dd9107e5ed54964ec71eea90cd339161
