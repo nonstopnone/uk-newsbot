@@ -190,3 +190,4 @@
 2025-08-26T13:59:24.627539+00:00|https://www.bbc.com/news/articles/cx29j3v5dq7o|report finds evidence of misogyny at police scotland uk news|d3488bc78482ed1b2a6c483646a81146
 2025-08-26T14:55:38.377379+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/seven-common-tropes-used-to-deny-gazas-famine-debunked|seven common tropes used to deny gazas famine debunked by an expert uk news|f4bc97f63b5b2e5c81671fc2f2cf3f22
 2025-08-26T15:21:12.008407+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/botswana-public-health-emergency-hospital-medicine-shortage|botswana declares public health emergency as hospitals run out of medicines uk news|21d41a1524d8cefa09137ca5f72162d0
+2025-08-26T15:55:56.141493+00:00|https://news.sky.com/story/edinburgh-identifies-two-potential-sites-for-new-drug-consumption-room-13418773|edinburgh identifies two potential sites for new drug consumption room uk news|95902c2e1863d8401a651956fff50394
