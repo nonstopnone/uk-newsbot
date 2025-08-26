@@ -1,4 +1,3 @@
-2025-08-19T07:56:23.009387+00:00|https://www.bbc.com/news/articles/c3dpm2l4pkeo|hepworth piece to remain in uk after £38m raised uk news|7c30034bf623bfdcd97a44eb2ef66b86
 2025-08-19T08:29:37.024253+00:00|https://www.bbc.com/news/articles/cdj2m3rrk74o|us claims uk has backed down in apple privacy row uk news|c6829e5584f07f7ff97f60a11a7698de
 2025-08-19T10:55:52.019680+00:00|https://news.sky.com/story/uk-drops-apple-encryption-demands-says-us-spy-chief-13414482|uk drops apple encryption demands says us spy chief uk news|b0651a61a3ea314623bbed7e181b9049
 2025-08-19T11:17:44.541769+00:00|https://news.sky.com/story/ashvir-singh-johal-takes-charge-at-morecambe-and-becomes-first-british-sikh-to-manage-in-englands-top-five-leagues-13414522|ashvir singh johal becomes first british sikh to manage in englands top five football leagues uk news|676ee3a7d42bdda170609453c4a451fe
@@ -185,3 +184,4 @@
 2025-08-26T03:02:55.327246+00:00|https://news.sky.com/story/kim-possible-why-trump-wants-another-meeting-with-north-korean-dictator-13418486|trump wants a reunion with kim jong un the timing is curious uk news|f4d23468bbed0063071d29bdc6bd2a11
 2025-08-26T06:39:26.937920+00:00|https://news.sky.com/story/active-incident-under-way-after-reports-of-shooting-in-rural-australian-town-13418533|active incident under way after reports of shooting in australia uk news|5c4bc59be0cd1c4cf00ddeafb03c3cbb
 2025-08-26T07:49:53.297272+00:00|https://news.sky.com/story/meghan-reveals-who-said-i-love-you-first-with-harry-and-what-she-misses-about-the-uk-13418553|meghan reveals who said i love you first with harry and what she misses about the uk uk news|0aa350971cbf2c10ca502a7c4f7c7e9f
+2025-08-26T08:00:17.385434+00:00|https://www.bbc.com/news/articles/c776yyegp31o|reynolds surprise to family after wrexham fan 15 dies uk news|fb18906e19e479ef3154e93b8a52c191
