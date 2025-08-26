@@ -462,14 +462,38 @@ def immigration_tracker():
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table')
-    rows = table.find('tbody').find_all('tr')
-    last_row = rows[-1]
-    cells = last_row.find_all('td')
-    date_str = cells[0].text.strip()
-    migrants = int(cells[1].text.strip())
-    boats = int(cells[2].text.strip())
-    date = datetime.strptime(date_str, '%d %B %Y')
-    date_formatted = date.strftime('%d %B')
+    if not table:
+        print("No table found")
+        return
+    # Handle cases with or without tbody
+    if table.find('tbody'):
+        rows = table.find('tbody').find_all('tr')
+    else:
+        rows = table.find_all('tr')[1:]  # Skip header if no tbody
+
+    latest_date = None
+    latest_cells = None
+    for row in rows:
+        cells = row.find_all('td')
+        if len(cells) < 3:
+            continue
+        date_str = cells[0].text.strip()
+        try:
+            date = datetime.strptime(date_str, '%d %B %Y')
+            if latest_date is None or date > latest_date:
+                latest_date = date
+                latest_cells = cells
+        except ValueError:
+            continue  # Skip rows without valid date
+
+    if latest_cells is None:
+        print("No valid date row found")
+        return
+
+    date_str = latest_cells[0].text.strip()
+    migrants = int(latest_cells[1].text.strip())
+    boats = int(latest_cells[2].text.strip())
+    date_formatted = latest_date.strftime('%d %B')
     average = round(migrants / boats, 1) if boats > 0 else 0
 
     try:
@@ -485,8 +509,8 @@ def immigration_tracker():
         }
 
     last_date = datetime.fromisoformat(totals['last_posted_date'])
-    if date <= last_date:
-        logger.info("No new immigration data to post")
+    if latest_date <= last_date:
+        print("Already posted or old data")
         return
 
     totals['total_2025'] += migrants
@@ -515,20 +539,17 @@ This post is automated and may contain errors, see the government data here {url
 
     totals['last_migrants'] = migrants
     totals['last_image'] = image_path
-    totals['last_posted_date'] = date.isoformat()
+    totals['last_posted_date'] = latest_date.isoformat()
     with open('totals.json', 'w') as f:
         json.dump(totals, f)
-    logger.info(f"Posted immigration update for {date_formatted}")
 
 def main():
     """Main function to fetch RSS feeds, filter articles, and post unique news stories."""
-    immigration_tracker()
     MIN_POSTS_PER_RUN = 5
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
-        "Telegraph": "https://www.telegraph.co.uk/rss.xml",
-        "Express": "https://www.express.co.uk/news/uk/rss.xml", 
+        "Telegraph": "https://www.telegraph.co.uk/rss.xml", 
     }
 
     all_articles = []
@@ -583,6 +604,7 @@ def main():
             skipped += 1
         time.sleep(40)
     logger.info(f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}. Skipped {skipped} (irrelevant).")
+    immigration_tracker()
 
 if __name__ == "__main__":
     main()
