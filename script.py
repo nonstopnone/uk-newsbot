@@ -60,7 +60,7 @@ International law recognises that each state decides its own laws for entry. A n
 This post is automated and may contain errors, see the government data here {url}"""
 
 reddit = praw.Reddit(client_id=os.environ['REDDIT_CLIENT_ID'], client_secret=os.environ['REDDIT_CLIENT_SECRET'], username=os.environ['REDDIT_USERNAME'], password=os.environ['REDDITPASSWORD'], user_agent='tracker/1.0')
-subreddit = reddit.subreddit('SUBREDDIT_NAME')  # Replace with actual subreddit
+subreddit = reddit.subreddit('BreakingUKNews')  # Replace with actual subreddit
 subreddit.submit_image(title, image_path, selftext=body)
 
 totals['last_migrants'] = migrants
