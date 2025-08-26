@@ -1331,3 +1331,5 @@
 2025-08-26T22:57:43.392336+00:00|https://www.nbcnews.com/news/us-news/wisconsin-kayaker-faked-death-left-europe-sentenced-89-days-jail-rcna227366|wisconsin kayaker who faked death and left for europe sentenced to 89 days in jail us news|14d4b8c2ab442785a44c224f7b2be0ef
 2025-08-26T23:20:44.861451+00:00|https://www.nytimes.com/2025/08/26/us/university-swatting-villanova.html|a spate of fake shooting calls disrupts college campuses us news|e276b75cebb6d2d74cee27f8107a90ae
 2025-08-26T23:20:45.341087+00:00|https://www.nytimes.com/2025/08/26/us/politics/trump-cabinet-meeting.html|trump plays reality television host at cabinet meeting that lasts hours us news|68323bace65f43e34cc8841e6296d21b
+2025-08-26T23:39:58.045108+00:00|https://www.nbcnews.com/politics/donald-trump/dc-homicide-neighborhood-split-trump-crime-crackdown-rcna227367|after a dc homicide neighborhood residents are split over trumps crackdown us news|dec0e87acf51d4ad1d2b274600dc6f94
+2025-08-26T23:39:58.528615+00:00|https://www.nytimes.com/2025/08/26/nyregion/nadine-menendez-prison-term.html|prosecutors seek 7year prison term for nadine menendez us news|933ff711e9ebd494209426c89e6824c0
