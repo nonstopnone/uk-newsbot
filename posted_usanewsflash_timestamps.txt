@@ -1395,3 +1395,5 @@
 2025-08-27T17:57:42.807414+00:00|https://abcnews.go.com/US/video/student-minneapolis-catholic-school-describes-shooting-125032718|watch student at minneapolis catholic school describes shooting us news|15ac5a390bb1c6de9befdf76ed90dd6c
 2025-08-27T17:57:43.502403+00:00|https://www.nytimes.com/2025/08/27/business/india-trump-tariffs.html|india reels at trumps highest tariffs yet us news|8c97cb9520e984842955b33f507e037a
 2025-08-27T17:57:44.146489+00:00|https://www.nytimes.com/2025/08/27/nyregion/penn-station-renovation-2027.html|sean duffy to announce penn station renovation will begin in 2027 us news|474f0bb5e1bb5964a4b34202a6ad24b8
+2025-08-27T18:32:17.262300+00:00|https://www.nytimes.com/2025/08/27/theater/tshidi-manye-lion-king-rafiki.html|longestrunning rafiki says goodbye to the lion king us news|aca71e0942b364da0bbaf950ccb17cc8
+2025-08-27T18:32:17.848903+00:00|https://www.nbcnews.com/now/video/suspected-minneapolis-church-shooter-identified-as-robin-westman-245884485961|suspected minneapolis church shooter identified as robin westman us news|cf09bd16d51d1f667bc84c6be9634fd2
