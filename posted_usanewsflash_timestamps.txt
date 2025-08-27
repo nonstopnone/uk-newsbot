@@ -1338,3 +1338,7 @@
 2025-08-27T01:51:26.911475+00:00|https://www.nbcnews.com/nightly-news/video/trump-faces-new-legal-battle-after-firing-fed-governor-245832773714|trump faces new legal battle after firing fed governor us news|e222bb7894ea929dcc5b893548b3d53e
 2025-08-27T01:51:27.511047+00:00|https://www.nbcnews.com/nightly-news/video/scooter-company-fleeces-americans-out-of-millions-245828165914|scooter company fleeces americans out of millions us news|3574ae87317c49ef9ebb8d332e17ebf0
 2025-08-27T01:51:28.410965+00:00|https://www.nytimes.com/2025/08/26/business/cracker-barrel-logo-rebrand.html|cracker barrel drops new logo design after conservative backlash us news|93cf02f0026ddfcba4b64d561998177f
+2025-08-27T02:56:38.403134+00:00|https://www.bbc.com/news/articles/ce835lry896o|us restaurant chain cracker barrel scraps new logo after backlash us news|9914f93c840a93464bba2cca87ae8299
+2025-08-27T02:56:39.074482+00:00|https://www.bbc.com/news/articles/cly3edg234qo|fbi urges students to be vigilant amid wave of swatting hoaxes us news|e8bb9b1091c29bb32a5119d1c37f0161
+2025-08-27T02:56:39.771053+00:00|https://www.nytimes.com/2025/08/26/us/politics/trump-national-guard-chicago-dictator.html|deploy national guard to chicago trump says he has the right to do anything i want to do us news|3b19fb6b79eef40566caa5576baa15a2
+2025-08-27T02:56:40.567760+00:00|https://www.nytimes.com/2025/08/26/us/politics/iowa-senate-election-democrats.html|iowa democrat appears to flip state legislative seat in upset victory us news|38a3750246e56e1fae18b6c247be962e
