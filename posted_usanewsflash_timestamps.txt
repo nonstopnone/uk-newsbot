@@ -1376,3 +1376,4 @@
 2025-08-27T14:43:59.201458+00:00|https://abcnews.go.com/US/shooting-reported-catholic-school-minneapolis-governor/story|multiple victims in shooting at catholic school in minneapolis shooter contained us news|e96b5f22925fb14a4eeb3ff871a1aaaf
 2025-08-27T14:43:59.769538+00:00|https://www.nytimes.com/2025/08/27/us/annunciation-church-shooting-minneapolis.html|authorities respond to reports of shooting at annunciation church in minneapolis us news|172f315fd078975992eff90e0676931a
 2025-08-27T14:44:00.306948+00:00|https://abcnews.go.com/US/judge-blocks-administration-deporting-kilmar-abrego-garcia-october/story|judge blocks administration from deporting abrego garcia until at least october us news|65936d4375478381d9fc849bf75be85f
+2025-08-27T15:24:45.428412+00:00|https://www.nytimes.com/2025/08/27/arts/television/american-experience.html|as pbs stations confront cuts american history takes a hit us news|11f28d38d32024e264cdb99950145b24
