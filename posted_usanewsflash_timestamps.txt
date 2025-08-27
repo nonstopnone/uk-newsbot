@@ -1342,3 +1342,5 @@
 2025-08-27T02:56:39.074482+00:00|https://www.bbc.com/news/articles/cly3edg234qo|fbi urges students to be vigilant amid wave of swatting hoaxes us news|e8bb9b1091c29bb32a5119d1c37f0161
 2025-08-27T02:56:39.771053+00:00|https://www.nytimes.com/2025/08/26/us/politics/trump-national-guard-chicago-dictator.html|deploy national guard to chicago trump says he has the right to do anything i want to do us news|3b19fb6b79eef40566caa5576baa15a2
 2025-08-27T02:56:40.567760+00:00|https://www.nytimes.com/2025/08/26/us/politics/iowa-senate-election-democrats.html|iowa democrat appears to flip state legislative seat in upset victory us news|38a3750246e56e1fae18b6c247be962e
+2025-08-27T03:36:32.525213+00:00|https://www.nytimes.com/2025/08/26/climate/fema-suspends-staff-who-criticized-trump-cuts.html|fema suspends staff who signed a letter criticizing trump us news|bf682686dc417dc7482da1b55a98db9b
+2025-08-27T03:36:33.228453+00:00|https://abcnews.go.com/Politics/naacp-files-lawsuit-texas-new-congressional-map-discriminates/story|naacp files lawsuit against texas over new congressional map us news|5a6b3cea64ac120226644be7627a85e2
