@@ -1418,3 +1418,5 @@
 2025-08-27T21:57:34.396827+00:00|https://www.nytimes.com/2025/08/27/us/taylor-swift-travis-kelce-engaged-kansas-city.html|travis kelce and taylor swift are engaged kansas city is enchanted us news|2542983ab54ea405327fe6e2a7df9c8e
 2025-08-27T21:57:35.283148+00:00|https://www.nytimes.com/2025/08/27/us/politics/democrats-mayors-cities-trump-crime.html|democratic mayors convene after trumps takeover threats seeking united front us news|06821270313fdc5f600d41264c8a145e
 2025-08-27T22:21:02.879672+00:00|https://www.nytimes.com/2025/08/27/us/puerto-rico-vazquez-plea.html|former puerto rico governor wanda vázquez pleads guilty to campaign finance violation us news|ade5e3b6ef1f00e63f345fcf0619057e
+2025-08-27T22:41:42.908571+00:00|https://www.nytimes.com/2025/08/27/us/politics/bolton-trump-emails-fbi-investigation.html|john bolton inquiry eyes emails obtained by foreign government us news|8022e6319daf00ed91f5043198dbcab9
+2025-08-27T22:41:43.466985+00:00|https://www.nytimes.com/2025/08/27/briefing/minneapolis-cdc-covid.html|two killed in minneapolis school shooting us news|bb8db1e08057fe3a4995f65c42dc7d08
