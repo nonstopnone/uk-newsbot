@@ -1352,3 +1352,7 @@
 2025-08-27T08:30:53.442255+00:00|https://www.bbc.com/news/articles/cn93e12rypgo|what tariffs has trump announced and why us news|d5f3a8545853bd9a0ee068af9979f897
 2025-08-27T08:30:54.110666+00:00|https://www.bbc.com/news/articles/c0j9l08902eo|denmark summons top us diplomat over alleged greenland influence operation us news|ce16cef46a4d629e251d33dcffb71988
 2025-08-27T09:25:20.989988+00:00|https://abcnews.go.com/International/denmark-summons-us-envoy-alleged-influence-operations-greenland/story|denmark summons us envoy over alleged influence operations in greenland us news|7814b6f2b4135698ac7747fb5fe7d4d1
+2025-08-27T09:57:31.535088+00:00|https://www.nytimes.com/2025/08/27/us/federal-funding-education-department-republican-school-district.html|federal money is a lifeline for this republican school district us news|0759e279a3d485cd4bef153b25c83590
+2025-08-27T09:57:32.001789+00:00|https://www.nytimes.com/2025/08/27/style/venus-williams-fuzzy-bag-erl.html|with fuzzy racket bag venus williams highlights erl and other american labels us news|e64bd07a8ca25eef4495880ceeeb75cf
+2025-08-27T09:57:32.507130+00:00|https://www.nytimes.com/2025/08/27/nyregion/legionnaires-disease-new-york-lab.html|in a lab a hunt for a killer the germ causing a legionnaires outbreak us news|3b10f5929809dd8ffb1c3423e2954374
+2025-08-27T09:57:33.083098+00:00|https://www.nytimes.com/2025/08/27/world/middleeast/qaradawi-dissident-uae-extradition.html|targeted by the emirates an arab dissident vanished across borders us news|8612ecc5cd4a41feaf76c74aac925c3e
