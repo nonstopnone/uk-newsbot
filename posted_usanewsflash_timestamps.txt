@@ -1370,3 +1370,4 @@
 2025-08-27T13:18:50.386551+00:00|https://www.nytimes.com/2025/08/27/world/middleeast/trump-gaza-meeting-ceasefire.html|trump is set to host a meeting on gaza how close is an israelhamas ceasefire us news|c445e8fddd6e9a5f825f12517925f277
 2025-08-27T13:18:51.009432+00:00|https://www.nytimes.com/2025/08/27/world/asia/kashmir-deadly-flooding.html|floods and landslides kill dozens on pilgrimage route in kashmir us news|37a7fb9e42a294add9a34094cd2e4c1d
 2025-08-27T13:45:31.814379+00:00|https://www.nbcnews.com/politics/white-house/sean-duffy-transportation-department-take-over-dc-union-station-amtrak-rcna227461|transportation department announces plans to take over dcs union station us news|af276faed629431dd3b86b67f19f7092
+2025-08-27T13:57:43.859501+00:00|https://abcnews.go.com/Politics/democrats-celebrate-special-election-victory-iowa-state-senate/story|democrats celebrate special election victory in iowa state senate us news|403e93f5dd8be997b9053847ed4f36de
