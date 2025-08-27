@@ -1367,3 +1367,5 @@
 2025-08-27T12:49:03.080160+00:00|https://www.nbcnews.com/tech/security/hacker-used-ai-automate-unprecedented-cybercrime-spree-anthropic-says-rcna227309|a hacker used ai to automate an unprecedented cybercrime spree anthropic says us news|6a8d2c392f1dae6d1f6517229a78c9b6
 2025-08-27T12:49:03.768637+00:00|https://www.nytimes.com/2025/08/27/briefing/intel-tariffs-the-fed-state-intervention.html|the new state interventions us news|151497edddecb6a795190b31ad633ac9
 2025-08-27T12:49:04.440314+00:00|https://abcnews.go.com/US/wireStory/unions-seek-broader-foothold-south-workers-vote-ev-125016565|unions seek broader foothold as workers vote at an ev battery plant in kentucky us news|48595da3609d1ca6d1da1e5a8c95d5db
+2025-08-27T13:18:50.386551+00:00|https://www.nytimes.com/2025/08/27/world/middleeast/trump-gaza-meeting-ceasefire.html|trump is set to host a meeting on gaza how close is an israelhamas ceasefire us news|c445e8fddd6e9a5f825f12517925f277
+2025-08-27T13:18:51.009432+00:00|https://www.nytimes.com/2025/08/27/world/asia/kashmir-deadly-flooding.html|floods and landslides kill dozens on pilgrimage route in kashmir us news|37a7fb9e42a294add9a34094cd2e4c1d
