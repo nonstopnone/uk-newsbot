@@ -1420,3 +1420,6 @@
 2025-08-27T22:21:02.879672+00:00|https://www.nytimes.com/2025/08/27/us/puerto-rico-vazquez-plea.html|former puerto rico governor wanda vázquez pleads guilty to campaign finance violation us news|ade5e3b6ef1f00e63f345fcf0619057e
 2025-08-27T22:41:42.908571+00:00|https://www.nytimes.com/2025/08/27/us/politics/bolton-trump-emails-fbi-investigation.html|john bolton inquiry eyes emails obtained by foreign government us news|8022e6319daf00ed91f5043198dbcab9
 2025-08-27T22:41:43.466985+00:00|https://www.nytimes.com/2025/08/27/briefing/minneapolis-cdc-covid.html|two killed in minneapolis school shooting us news|bb8db1e08057fe3a4995f65c42dc7d08
+2025-08-27T23:20:38.880393+00:00|https://abcnews.go.com/US/minnesota-school-shooting-suspect-robin-westman/story|what we know about minnesota school shooting suspect robin westman us news|b494b44668d6177a169efa5a9af34e5d
+2025-08-27T23:20:39.397657+00:00|https://www.nytimes.com/2025/08/27/us/politics/trump-criminal-justice.html|in trumps 2nd term more incarcerations less talk of reform us news|d3e1114fa192ed4e328a45238eae0e74
+2025-08-27T23:20:39.895219+00:00|https://www.nbcnews.com/video/cdc-director-leaves-agency-just-weeks-into-job-245917253774|cdc director leaves agency just weeks into job us news|3a091c1887ccfc5be56a0f08334f1c86
