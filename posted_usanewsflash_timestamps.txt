@@ -1489,3 +1489,6 @@
 2025-08-28T20:41:53.284690+00:00|https://www.nytimes.com/2025/08/28/us/minneapolis-shooting-heroism.html|minnesota shooting students staff and medical workers describe acts of heroism us news|8aae6851992b20554388c9015191317c
 2025-08-28T20:41:53.764204+00:00|https://www.nytimes.com/2025/08/28/nyregion/mamdani-adams-cuomo-money.html|mamdani widens fundraising lead as adams is denied matching funds us news|70b916b6b83af75051acd60c95ff28e1
 2025-08-28T20:41:54.239351+00:00|https://www.nytimes.com/2025/08/28/arts/design/trump-executive-order-architecture-federal-buildings.html|trump signs executive order to make federal architecture beautiful again us news|651d01469a34f7adee457cafb7c5b0e9
+2025-08-28T21:39:07.400637+00:00|https://www.bbc.com/news/videos/cd6n8egx95go|watch timelapse shows massive clouds of smoke from california wildfire us news|8e279c30b58b3a81a5a20ee488cd898e
+2025-08-28T21:39:07.974189+00:00|https://www.nytimes.com/2025/08/28/arts/design/trump-bunch-lunch-smithsonian.html|trump has lunch with smithsonian chief as he presses for museum changes us news|c967be03ae1b5d2118fd8de41862ec8a
+2025-08-28T21:39:08.558088+00:00|https://www.nbcnews.com/sports/nfl/cowboys-trade-star-linebacker-micah-parsons-packers-reports-rcna227879|cowboys trade star linebacker micah parsons to packers reports us news|fff6ec4c9e999b1febf97d79eb27a33f
