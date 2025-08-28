@@ -1453,3 +1453,5 @@
 2025-08-28T12:49:11.591926+00:00|https://abcnews.go.com/US/wireStory/mystery-surrounds-12-billion-army-contract-build-huge-125052921|mystery surrounds $12bn army contract to build huge detention tent camp in texas us news|f79da3092bf28fbadf1eb82162d5bb81
 2025-08-28T12:49:12.582751+00:00|https://www.today.com/video/wh-fires-cdc-director-prompting-top-leadership-exodus-245962309861|wh fires cdc director amid clashes over vaccine policies us news|5fd2407908afe5e881d6dd62cc708dd2
 2025-08-28T12:49:13.549010+00:00|https://www.today.com/video/minneapolis-police-chief-shares-update-on-church-shooting-245957701535|minneapolis police chief shares update on church shooting us news|acc431cb59071ee86435f5a167e2fe43
+2025-08-28T13:19:52.804442+00:00|https://www.nytimes.com/2025/08/28/world/middleeast/israel-syria-attack-damascus.html|israeli airstrikes kill soldiers in syria officials there say us news|8a4ce4ff37ba98c620aef8b0a2e0b9f8
+2025-08-28T13:19:54.113739+00:00|https://www.nbcnews.com/health/health-news/tailormade-als-drug-slowed-progession-aso-rcna221798|a tailormade drug slowed a mans als is it the future of treatment us news|5b76c09e018eba9d9fd4025796fd55f6
