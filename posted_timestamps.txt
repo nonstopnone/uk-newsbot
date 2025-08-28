@@ -1,4 +1,3 @@
-2025-08-21T14:24:00.231740+00:00|https://news.sky.com/story/average-two-and-five-year-mortgages-below-5-for-first-time-since-2023-13415652|average two and five year mortgages below 5 for first time since 2023 uk news|c8dc085d8ebcf3bb4a4c753a97720f78
 2025-08-21T15:56:00.444029+00:00|https://www.bbc.com/news/articles/cvg4kjl031qo|woman who died while skydiving took her own life inquest finds uk news|1a7af92c2eaed4d4b20de01a8cbaa7c2
 2025-08-21T15:56:41.620994+00:00|https://www.telegraph.co.uk/business/2025/08/21/uk-public-sector-borrowing-reeves-ftse-100-markets-latest|britains finances chronically weak as reeves plans tax rises uk news|56563a4ec1af5c46a85dacfde6654c42
 2025-08-21T15:57:22.231706+00:00|https://news.sky.com/story/london-underground-workers-to-strike-for-seven-days-in-september-13415732|london underground workers to strike for seven days in september uk news|4d71881a55989af6cde5802ac03a8afd
@@ -157,3 +156,6 @@
 2025-08-28T13:55:56.905734+00:00|https://www.bbc.com/news/articles/cp943xv9v8go|councillors say narrative controlled by social media after festival goers die uk news|7d6fc2cc03fec45d2c0647628ed9169a
 2025-08-28T14:20:31.385235+00:00|https://www.bbc.com/news/articles/cp3e070wxx2o|police officer could face misconduct hearing over accuracy of account in ebike deaths uk news|556ee8f199deef29c5688616b1ba649c
 2025-08-28T14:21:12.265845+00:00|https://news.sky.com/story/up-to-550-uk-jobs-to-go-at-carmaker-lotus-with-tariffs-blamed-13419972|up to 550 uk jobs to go at carmaker lotus with tariffs blamed uk news|a7182cd5c0b34fc08160ba0ce9e51544
+2025-08-28T14:43:21.447430+00:00|https://www.bbc.com/news/articles/c0ml30vgykro|volunteer met officer guilty of child rape uk news|d573120211e6fba21780ed3fceda2b65
+2025-08-28T14:44:02.512736+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/how-india-became-the-diabetes-capital-of-the-world|how india became the diabetes capital of the world uk news|9d41644d5d31e450ca97986cdcfac65c
+2025-08-28T14:44:43.519919+00:00|https://news.sky.com/story/uk-france-and-germany-plan-to-reimpose-sanctions-on-iran-over-nuclear-weapon-fears-13419988|uk france and germany plan to reimpose sanctions on iran over nuclear weapon fears uk news|8f662d610700465fab30b25bbadc4251
