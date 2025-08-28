@@ -157,3 +157,4 @@
 2025-08-27T22:36:50.832209+00:00|https://www.bbc.com/news/articles/cx29l7l0ngyo|death of hospital infection victim to be investigated by prosecutors uk news|29d3eaf4c6b99a62561f884de86aed8c
 2025-08-27T23:47:18.542450+00:00|https://www.bbc.com/news/articles/ce83716edj1o|a charity is giving people money to stop homelessness and it says its working uk news|ea5859bc14be7fdad09c0c8d9f1c6f30
 2025-08-28T04:26:14.082942+00:00|https://news.sky.com/story/mounjaro-manufacturer-pauses-uk-shipments-of-weight-loss-drug-ahead-of-price-hike-13419719|maker of popular weight loss drug pauses shipments to uk uk news|1d2d5cd231b9ba5f5181b5a2939a0985
+2025-08-28T06:38:15.457560+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/polio-could-paralyse-200000-children-every-year|polio could paralyse 200000 children every year unless uk continues global funding uk news|6a57338a4136eafcbdc13976909630f8
