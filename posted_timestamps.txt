@@ -1,5 +1,3 @@
-2025-08-21T17:24:36.344493+00:00|https://www.bbc.com/news/articles/cx2x371g2k8o|do asylum figures show if governments strategy is working uk news|f34f593468d0d04a3ffc5a4b46916257
-2025-08-21T17:25:16.987721+00:00|https://www.bbc.com/news/articles/cwy1kxv8xewo|record 111000 uk asylum applications in past year figures show uk news|7162da32c8ef0871aa54fba2a4aadafe
 2025-08-21T18:29:26.089928+00:00|https://news.sky.com/story/snp-membership-falls-deficit-soars-and-163100000-campervan-now-only-worth-16341000-accounts-reveal-13415729|snp membership falls deficit soars and £100000 campervan now only worth £41000 accounts reveal uk news|47b065ed603b0c89404b0028d5ef658e
 2025-08-21T18:30:06.680885+00:00|https://www.bbc.com/news/articles/cpdj5y98302o|record numbers of gcse results were resits are we in a resit crisis uk news|08a2a6548f4a68ae471ad62755397aff
 2025-08-21T18:30:47.366273+00:00|https://news.sky.com/story/millions-of-people-threatened-by-wildfires-near-their-homes-research-finds-13415816|millions of people threatened by wildfires near their homes research finds uk news|10727fab6867524e5b85e224fd23a977
@@ -152,3 +150,4 @@
 2025-08-28T15:21:20.458548+00:00|https://www.bbc.com/sport/football/articles/cy08zywdlx5o|cowering amorim image hard to shake can he come back from this uk news|02e8084706a90e7aa33587338bb5228d
 2025-08-28T15:22:01.135915+00:00|https://www.bbc.com/news/articles/c860xv7zgzgo|welsh greyhound racing ban by 2030 under plans uk news|8fed7995b0709c6c01a3acf729f9e2a6
 2025-08-28T16:46:27.476665+00:00|https://news.sky.com/story/senior-judges-prepare-to-rule-on-whether-to-overturn-asylum-seeker-hotel-injunction-13420034|senior judges prepare to rule on whether to overturn asylum seeker hotel injunction uk news|bec20ee7583639136d82f4e4b5013af5
+2025-08-28T17:39:55.240782+00:00|https://www.telegraph.co.uk/football/2025/08/28/champions-league-draw-live-six-english-teams-await-fate|champions league draw liverpool host real madrid english clubs learn opponents uk news|8ce2dff2b6bf6015a717696380524de4
