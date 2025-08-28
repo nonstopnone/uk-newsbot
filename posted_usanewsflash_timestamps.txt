@@ -1483,3 +1483,5 @@
 2025-08-28T19:18:35.868641+00:00|https://www.nbcnews.com/now/video/minneapolis-community-calls-for-gun-reform-as-mourning-begins-246005317528|minneapolis community calls for gun reform as mourning begins us news|c43ac3c19d8a23830ef61afcef72ced2
 2025-08-28T19:39:02.975673+00:00|https://www.nytimes.com/2025/08/28/business/trump-robert-primus-stb-board-fired.html|trump fires member of board that approves railroad mergers us news|e4093117a71b36947f466cec4da8f825
 2025-08-28T19:39:03.452548+00:00|https://www.nytimes.com/2025/08/28/nyregion/nyc-millionaires.html|new york needs more millionaires fiscal watchdog says us news|d7ef09afdfb36f8764b2e40001bdb32d
+2025-08-28T20:25:06.657920+00:00|https://www.nbcnews.com/now/video/officials-recover-120-shell-casings-after-minneapolis-school-shooting-246011461728|officials recover 120 shell casings after minneapolis school shooting us news|d6f778b106b0dacab7d4b49a75b7a080
+2025-08-28T20:25:07.140204+00:00|https://www.nbcnews.com/news/latino/trump-eases-rules-hiring-temporary-immigration-judges-rcna227711|trump eases rules for hiring temporary immigration judges us news|c47174dbe1a7fbc28c1559f4282bbecb
