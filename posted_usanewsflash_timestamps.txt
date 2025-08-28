@@ -1481,3 +1481,5 @@
 2025-08-28T19:18:34.846298+00:00|https://www.nbcnews.com/health/recall/salmonella-eggs-outbreak-hospitalized-cdc-rcna227818|salmonella outbreak linked to eggs sickens 95 people cdc says us news|d8204e57e54f2fe2b8522f90bd213ec1
 2025-08-28T19:18:35.376461+00:00|https://www.nytimes.com/2025/08/28/us/politics/trump-democrats-midterm-conventions.html|trump and democrats float unusual midterm conventions us news|ad5991a8a416e96233c1f54eebb10446
 2025-08-28T19:18:35.868641+00:00|https://www.nbcnews.com/now/video/minneapolis-community-calls-for-gun-reform-as-mourning-begins-246005317528|minneapolis community calls for gun reform as mourning begins us news|c43ac3c19d8a23830ef61afcef72ced2
+2025-08-28T19:39:02.975673+00:00|https://www.nytimes.com/2025/08/28/business/trump-robert-primus-stb-board-fired.html|trump fires member of board that approves railroad mergers us news|e4093117a71b36947f466cec4da8f825
+2025-08-28T19:39:03.452548+00:00|https://www.nytimes.com/2025/08/28/nyregion/nyc-millionaires.html|new york needs more millionaires fiscal watchdog says us news|d7ef09afdfb36f8764b2e40001bdb32d
