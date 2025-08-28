@@ -1503,3 +1503,5 @@
 2025-08-28T22:57:48.397144+00:00|https://abcnews.go.com/Health/mass-layoffs-resignations-major-vaccine-policy-timeline-turmoil/story|mass layoffs major vaccine policy changes timeline of turmoil at cdc us news|f6fca8376b3e0f5fd18358c9fc3b6158
 2025-08-28T23:21:02.515560+00:00|https://www.nytimes.com/2025/08/28/us/politics/trump-firings-cdc-fed.html|trump and his officials target fed and cdc long seen as above politics us news|27a189a3d9a835d807cff97bae7a0384
 2025-08-28T23:21:03.197179+00:00|https://www.nytimes.com/2025/08/28/us/haiti-gang-suppression-force-us-un.html|us proposes a gangsuppression force for haiti us news|876674a28909ac52304058ec2b421854
+2025-08-28T23:39:14.148706+00:00|https://www.nbcnews.com/news/us-news/3-officers-ordered-new-trials-death-tyre-nichols-rcna227892|3 officers ordered to have new trials in death of tyre nichols us news|72b639f1ef06df303fa3c4686a2c945e
+2025-08-28T23:39:14.755211+00:00|https://www.nbcnews.com/news/us-news/3-officers-ordered-new-trials-death-tyre-nichols-rcna227892|3 officers ordered to have new trials in death of tyre nichols us news|72b639f1ef06df303fa3c4686a2c945e
