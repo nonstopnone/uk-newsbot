@@ -1501,3 +1501,5 @@
 2025-08-28T22:41:26.916076+00:00|https://www.nytimes.com/2025/08/28/us/politics/lisa-cook-trump-fed-lawsuit.html|fed governor lisa cook sues trump over dismissal us news|4d45d71c302d1b3619c5692436f9033b
 2025-08-28T22:41:27.503209+00:00|https://www.nbcnews.com/video/father-of-fletcher-merkel-killed-in-minneapolis-shooting-speaks-out-246019141981|give your kids an extra hug and kiss father of 8yearold victim speaks out us news|6f3308b38e679fd2168939114798ec55
 2025-08-28T22:57:48.397144+00:00|https://abcnews.go.com/Health/mass-layoffs-resignations-major-vaccine-policy-timeline-turmoil/story|mass layoffs major vaccine policy changes timeline of turmoil at cdc us news|f6fca8376b3e0f5fd18358c9fc3b6158
+2025-08-28T23:21:02.515560+00:00|https://www.nytimes.com/2025/08/28/us/politics/trump-firings-cdc-fed.html|trump and his officials target fed and cdc long seen as above politics us news|27a189a3d9a835d807cff97bae7a0384
+2025-08-28T23:21:03.197179+00:00|https://www.nytimes.com/2025/08/28/us/haiti-gang-suppression-force-us-un.html|us proposes a gangsuppression force for haiti us news|876674a28909ac52304058ec2b421854
