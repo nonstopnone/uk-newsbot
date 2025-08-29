@@ -1593,3 +1593,8 @@
 2025-08-29T22:21:02.041954+00:00|https://www.nbcnews.com/business/business-news/trump-tariffs-lawsuit-appeals-court-ruling-what-to-know-rcna223915|trumps tariff push overstepped presidential powers appeals court says us news|9ca7f37c84255ad084ebb784909f9c16
 2025-08-29T22:21:02.743238+00:00|https://www.nbcnews.com/business/business-news/trump-tariffs-lawsuit-appeals-court-ruling-what-to-know-rcna223915|trumps tariff push overstepped presidential powers appeals court says us news|9ca7f37c84255ad084ebb784909f9c16
 2025-08-29T22:21:03.432209+00:00|https://abcnews.go.com/US/trumps-global-tariffs-unlawful-appeals-court/story|trumps global tariffs are unlawful appeals court says us news|9d977b8f67fed16a96be0a2122f2e727
+2025-08-29T22:40:47.718387+00:00|https://www.bbc.com/news/articles/ckgj7jxkq58o|us court rules many of trumps global tariffs are illegal us news|6b12a87fff1dc14b19a6656c7a3573b0
+2025-08-29T22:40:48.354936+00:00|https://www.nytimes.com/2025/08/29/health/human-health-vaccines-oneill.html|what to know about jim oneill the new acting cdc director us news|80f05c8761266ed14c38e632eabc4efd
+2025-08-29T22:40:48.865291+00:00|https://www.nbcnews.com/news/us-news/prosecutors-say-luigi-mangione-inspiring-others-violence-rcna228125|prosecutors say luigi mangione is inspiring others to violence us news|04eae0291409002e53f48659deb9d530
+2025-08-29T22:40:49.395927+00:00|https://www.nytimes.com/2025/08/29/health/cdc-kennedy-public-health.html|will the cdc survive us news|8b44527af1b4438e1842839fb9865ac2
+2025-08-29T22:40:49.955692+00:00|https://www.nbcnews.com/news/us-news/bones-found-location-3-dead-girls-manhunt-father-rcna228122|bones found near location of 3 dead girls amid manhunt for father us news|83011055f65cb7070849266d95d2f2f2
