@@ -1598,3 +1598,6 @@
 2025-08-29T22:40:48.865291+00:00|https://www.nbcnews.com/news/us-news/prosecutors-say-luigi-mangione-inspiring-others-violence-rcna228125|prosecutors say luigi mangione is inspiring others to violence us news|04eae0291409002e53f48659deb9d530
 2025-08-29T22:40:49.395927+00:00|https://www.nytimes.com/2025/08/29/health/cdc-kennedy-public-health.html|will the cdc survive us news|8b44527af1b4438e1842839fb9865ac2
 2025-08-29T22:40:49.955692+00:00|https://www.nbcnews.com/news/us-news/bones-found-location-3-dead-girls-manhunt-father-rcna228122|bones found near location of 3 dead girls amid manhunt for father us news|83011055f65cb7070849266d95d2f2f2
+2025-08-29T22:57:39.476182+00:00|https://www.nbcnews.com/video/u-s-appeals-court-rules-trump-s-global-tariffs-are-illegal-246140997507|us appeals court rules trumps global tariffs are illegal us news|3e0afb7baa65e0ca26ff7b32ed39f9f6
+2025-08-29T22:57:39.985345+00:00|https://www.nytimes.com/2025/08/29/briefing/tariffs-recission-katrina.html|appeals court many trump tariffs are illegal us news|221e3004e5010c3b494d793febd092e2
+2025-08-29T22:57:40.566458+00:00|https://www.nbcnews.com/news/us-news/chuck-e-cheese-arrest-bodycam-video-rcna228111|chuck e cheese is a little bit busy maam as police accuse costumed rodent of credit card theft us news|215796e4fa0d35342ed7c1e05f5bb849
