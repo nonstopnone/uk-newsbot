@@ -1579,3 +1579,5 @@
 2025-08-29T18:46:26.742832+00:00|https://www.bbc.com/news/articles/cdj2vldpd1do|trump moves to cut $5bn in foreign aid already approved by congress us news|5c219569e61a07d51a1300a487730521
 2025-08-29T18:46:27.574416+00:00|https://www.bbc.com/news/articles/ceqy3jnl39do|why has kamala harris security detail been withdrawn us news|4789868df802b3fe4ab357ad69ef12aa
 2025-08-29T18:46:28.270883+00:00|https://www.nbcnews.com/news/us-news/minneapolis-church-shooting-search-warrants-reveal-new-details-evidenc-rcna228034|minneapolis church shooting search warrants reveal new details and evidence us news|58a2485959ce55307fec50b5b39f5398
+2025-08-29T19:17:19.839364+00:00|https://abcnews.go.com/US/grief-turns-hope-minneapolis-rallies-kids-hurt-school/story|grief turns to hope as minneapolis rallies behind kids hurt in school shooting us news|7902e3a5111eaec771132972ea6cb6ff
+2025-08-29T19:17:20.328890+00:00|https://www.nytimes.com/2025/08/29/us/politics/minneapolis-shooting-anti-transgender-conservatives-robin-westman.html|conservatives use minneapolis shooting in antitransgender campaigns us news|aa8ccb1c6954ed7f42714a3a75dbeb43
