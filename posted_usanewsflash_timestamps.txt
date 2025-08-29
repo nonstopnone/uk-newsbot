@@ -1559,3 +1559,6 @@
 2025-08-29T15:21:34.847873+00:00|https://www.nytimes.com/2025/08/28/weather/hurricane-katrina-forecasting.html|3 ways hurricane forecasts have changed since katrina us news|bc84f7bead63225efd040cd1700111fa
 2025-08-29T15:41:05.063065+00:00|https://www.nbcnews.com/news/us-news/arrest-made-robbery-macklemore-seattle-home-rcna227991|arrest made in connection to violent robbery of macklemores seattle home us news|75f4a61c044dcde90870709af9d3ded3
 2025-08-29T15:41:05.727375+00:00|https://www.nbcnews.com/news/us-news/arrest-made-robbery-macklemore-seattle-home-rcna227991|arrest made in connection to violent robbery of macklemores seattle home us news|75f4a61c044dcde90870709af9d3ded3
+2025-08-29T16:28:48.291460+00:00|https://abcnews.go.com/Politics/house-speaker-mike-johnson-weighs-cdc-turmoil-epstein/story|house speaker mike johnson weighs in on cdc turmoil epstein files and more us news|13d0c12cc89204fb76565988edd09337
+2025-08-29T16:28:49.680134+00:00|https://www.nbcnews.com/world/asia/american-bitcoin-eric-trump-touting-hong-kong-rcna227936|what is american bitcoin and why is eric trump touting it in hong kong us news|d420caefda9fad08ed1457f3f5d07bd7
+2025-08-29T16:28:50.960546+00:00|https://www.nytimes.com/2025/08/29/us/politics/trump-foreign-aid.html|defying congress trump moves to cut $49 billion in foreign aid us news|bde0c053c4c3b796046c7e664339d36f
