@@ -1,4 +1,3 @@
-2025-08-22T12:40:29.465556+00:00|https://news.sky.com/story/home-office-seeks-to-intervene-in-court-decision-to-block-epping-asylum-hotel-13415988|govt takes first step in appealing court ruling banning asylum seekers from staying at essex hotel uk news|a45cd317a635850eea64f6c616cb2df4
 2025-08-22T13:55:46.733449+00:00|https://www.bbc.com/news/articles/c5ylwxwlpx1o|msp jeremy balfour resigns from tories over reactionary politics uk news|fbc9b45b59ffaff4bbe914511977e578
 2025-08-22T14:19:49.629883+00:00|https://www.telegraph.co.uk/world-news/2025/08/22/ukraine-russia-war-putin-zelensky-peace-ceasefire|lavrov putin not ready to meet zelensky uk news|13b83a1a58aa4fc47eeb5788d6b7de7f
 2025-08-22T14:39:12.254430+00:00|https://news.sky.com/story/100-arrests-ahead-of-notting-hill-carnival-in-intelligence-led-interventions-met-police-say-13416112|100 arrests ahead of notting hill carnival in intelligenceled interventions police say uk news|14207b61d7cdf4df8e461d93836a10a6
@@ -146,3 +145,4 @@
 2025-08-29T11:55:37.112254+00:00|https://www.bbc.com/news/articles/cn0rnqj52y5o|what is chickenpox and how can i get my child vaccinated uk news|4b9643b0d8c2fc670209233cb118daca
 2025-08-29T11:56:17.941034+00:00|https://www.bbc.com/news/articles/ckglewye400o|heavy rain leads to devon and cornwall flooding uk news|6c240162f439e5808be7e6f3031ca7c5
 2025-08-29T12:40:04.695355+00:00|https://news.sky.com/story/bank-shares-take-fright-as-budget-tax-hike-is-floated-13420495|bank shares take fright as budget tax hike is floated uk news|c7142b632e272aede72b659a4b72c8bc
+2025-08-29T13:15:12.985359+00:00|https://news.sky.com/story/donald-trump-revokes-secret-service-protection-for-former-vice-president-kamala-harris-13420601|donald trump revokes secret service protection for kamala harris uk news|34d2b89b0ec7c1feb4db6a3c39233a96
