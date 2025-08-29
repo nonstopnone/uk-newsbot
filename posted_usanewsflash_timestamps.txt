@@ -1555,3 +1555,5 @@
 2025-08-29T13:44:12.020530+00:00|https://www.nytimes.com/2025/08/29/world/middleeast/israel-gaza-city-combat-zone.html|israel resumes daytime operations in gaza city signaling buildup to assault us news|240d4e14ab852abc363740069254879a
 2025-08-29T13:57:27.053828+00:00|https://www.nytimes.com/2025/08/29/world/europe/uk-asylum-hotel-ruling-epping.html|uk court overturns ruling on hotel at center of asylum seeker debate us news|039440f83e53de7117637560c30c7a54
 2025-08-29T14:21:50.659708+00:00|https://www.nytimes.com/2025/08/29/us/politics/kamala-harris-secret-service.html|trump cancels kamala harriss secret service protection us news|8a77b49847ea37089355a65dcbe5d72a
+2025-08-29T15:21:33.950482+00:00|https://www.nbcnews.com/politics/white-house/trump-pocket-rescissions-slash-foreign-aid-congress-rcna227973|white house plans to use pocket rescissions to slash billions in foreign aid us news|73a0400c58d19b47dd2ce89edbbcc5e5
+2025-08-29T15:21:34.847873+00:00|https://www.nytimes.com/2025/08/28/weather/hurricane-katrina-forecasting.html|3 ways hurricane forecasts have changed since katrina us news|bc84f7bead63225efd040cd1700111fa
