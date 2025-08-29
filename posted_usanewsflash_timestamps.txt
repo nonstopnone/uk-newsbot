@@ -1524,3 +1524,4 @@
 2025-08-29T04:28:12.847778+00:00|https://www.nytimes.com/2025/08/28/us/politics/texas-house-abortion-bill.html|texas house advances antiabortion bill us news|d0517c4ea88a0baef5a06e1f656e89f8
 2025-08-29T04:28:13.372584+00:00|https://www.nbcnews.com/business/consumer/de-minimis-exemption-ends-low-value-packages-shipped-us-need-know-rcna227772|tariffs and fees take effect for imported goods under $800 us news|57b8cd240ff618f369ffbe4b5a9c363c
 2025-08-29T04:28:13.886975+00:00|https://www.nbcnews.com/news/us-news/parents-recall-rushing-annunciation-catholic-school-hearing-gunfire-rcna227930|parents recall rushing to annunciation catholic school after hearing gunfire us news|2907c8adcbc1debda0f654d54ecec941
+2025-08-29T05:41:55.822283+00:00|https://abcnews.go.com/Business/tariffs-small-packages-effect-loophole-ends-midnight/story|tariffs on smallvalue packages go into effect as loophole ends us news|0f467a78e61c9a68090be42fd16956a5
