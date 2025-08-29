@@ -145,3 +145,5 @@
 2025-08-29T13:39:25.636051+00:00|https://www.bbc.com/news/articles/c209v6xqxnno|fraud mastermind sock firm boss to pay back £90m uk news|0f556c1647ae77edc9f1c150236c7d96
 2025-08-29T13:50:09.817796+00:00|https://news.sky.com/story/james-clacher-trial-woman-denies-giving-lap-dance-to-man-she-has-accused-of-raping-her-on-their-first-date-13420377|woman denies giving lap dance to man she has accused of raping her on their first date uk news|d3f9bcd8ddf58eafd97f920100f741c5
 2025-08-29T14:30:14.851039+00:00|https://news.sky.com/story/ex-prisoner-found-guilty-of-murdering-guard-who-exposed-affair-with-female-officer-13420351|exprisoner found guilty of murdering guard who exposed affair with female officer uk news|d57c0d9f6ae631dce0e3081e39fab6a8
+2025-08-29T15:17:50.701938+00:00|https://www.bbc.com/news/articles/cvgpxwy2lkwo|uk blocks israeli government delegation from arms trade fair uk news|d7824eb2dd53b047d3af878d8e91abc5
+2025-08-29T15:18:31.498634+00:00|https://www.bbc.com/news/articles/c7vlpdqeg4qo|asylum hotel ruling wont feel like much of a victory at home office uk news|e232abcfd67d477382497b55fa133491
