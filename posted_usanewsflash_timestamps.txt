@@ -1606,3 +1606,6 @@
 2025-08-29T23:57:33.600979+00:00|https://www.bbc.com/news/articles/cedv3gg3x6xo|white house defends robert f kennedy jr amid cdc turmoil us news|6168ddf1b88bfdfb69d175dd2d960f42
 2025-08-29T23:57:34.281262+00:00|https://www.nytimes.com/2025/02/02/us/politics/trump-tariffs-ieepa.html|what is ieepa the law trump used to impose tariffs us news|0a45b03419c5a36b98562ce1b8fc9edc
 2025-08-29T23:57:34.953809+00:00|https://www.nytimes.com/2025/08/29/us/politics/trump-kennedy-alliance-vaccines.html|how the trumpkennedy alliance is pushing the boundaries of public health us news|417bc1acd7b04f3155e2e64036f7fbc8
+2025-08-30T01:45:19.420102+00:00|https://www.nbcnews.com/nightly-news/video/new-details-about-minneapolis-church-shooter-s-background-and-family-246142533910|new details about minneapolis church shooters background and family us news|b9a959b9a36ff85b68eada67450151cc
+2025-08-30T01:45:20.093792+00:00|https://www.nytimes.com/2025/08/29/us/politics/military-lawyers-immigration-judges.html|trump administration weighs having military lawyers work as immigration judges us news|42611a66e089189b82f403720a88eb8e
+2025-08-30T01:45:21.014539+00:00|https://www.nytimes.com/2025/08/29/us/minneapolis-shooting-victims-families.html|families of minneapolis church shooting victims pay loving tributes us news|a29bd14db50b96cd98232d352cbf0ede
