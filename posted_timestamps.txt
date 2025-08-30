@@ -1,4 +1,3 @@
-2025-08-23T22:35:33.293406+00:00|https://www.bbc.com/news/articles/c5ypej14j2xo|pub and travel bans proposed in sentencing overhaul uk news|fa64b9e41f51fceef66884fec80ac513
 2025-08-23T23:19:53.771028+00:00|https://news.sky.com/story/criminals-could-be-banned-from-pubs-and-sports-grounds-under-new-plans-13417328|criminals could be banned from pubs and sports grounds under new plans uk news|615b0ba316ddbdb10c9fe932219e0ab7
 2025-08-23T23:45:42.416810+00:00|https://www.bbc.com/news/articles/cg4xqn91rwlo|clarkson for pm attacks on police dogs do parliament petitions make a difference uk news|23df4ec6a3267dbac931169a61a10a2f
 2025-08-24T01:53:08.883047+00:00|https://www.bbc.com/news/articles/cn5e1z6gz5yo|call to end airport dropoff fees for blue badge holders uk news|dfaa41b96890392744f7c3b312cf6ccd
@@ -163,3 +162,4 @@
 2025-08-30T18:44:19.082341+00:00|https://news.sky.com/story/greta-thunberg-rejects-accusations-of-antisemitism-as-she-embarks-on-second-flotilla-to-gaza-13421526|greta thunberg rejects accusations of antisemitism as she embarks on second flotilla to gaza uk news|b6b1c881df3680242f9a68ca79fd3bf5
 2025-08-30T19:14:13.723623+00:00|https://www.telegraph.co.uk/football/2025/08/30/leeds-vs-newcastle-live-score-premier-league-latest-updates|woltemade cannot make newcastle debut soon enough after leeds stalemate uk news|2ec69169807ffccdcc4373bb54fa8f94
 2025-08-30T20:59:49.359396+00:00|https://www.bbc.com/news/articles/cp8z0rp3xpmo|long and hot summer causes massive wildfire spike uk news|a5419991f7551710d77e20309adecdc1
+2025-08-30T22:38:58.747628+00:00|https://news.sky.com/story/at-least-three-dead-after-indonesian-parliament-building-set-ablaze-as-violent-protests-rage-on-13421793|at least three dead after indonesian parliament building set ablaze as violent protests rage on uk news|681eff1554f2e863782e6ccb7a574d52
