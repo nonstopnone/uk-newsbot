@@ -1617,3 +1617,4 @@
 2025-08-30T04:26:15.151250+00:00|https://www.nytimes.com/2025/08/30/world/africa/afghanistan-economy-deportation.html|the economic storm of crises that is battering afghanistan us news|40a448fd85fe2ebf426e35c32552c81e
 2025-08-30T04:42:04.100321+00:00|https://www.nbcnews.com/politics/justice-department/attorney-general-pam-bondi-fires-doj-staffer-alleged-obscene-gesture-n-rcna228160|attorney general pam bondi fires doj staffer for alleged obscene gesture toward national guard members us news|45637d40db5386a9b28de45d596adb4f
 2025-08-30T06:30:33.933821+00:00|https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html|3 killed as protests in indonesia spread beyond jakarta us news|1055def721804728ffabc38a82e4d005
+2025-08-30T06:45:50.273369+00:00|https://www.nytimes.com/2025/08/30/business/trump-samsung-skhynix-chips.html|trump takes aim at south korean chipmakers china operations us news|457ae764b959b9b1e84c9e753d2867c5
