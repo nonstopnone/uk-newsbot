@@ -1658,3 +1658,5 @@
 2025-08-31T10:21:20.813109+00:00|https://www.nytimes.com/2025/08/31/us/politics/trump-federal-work-force-black-women.html|in trumps federal work force cuts black women are among the hardest hit us news|9d528cdcd50238b2e62700be1f745a7f
 2025-08-31T10:21:21.334445+00:00|https://www.nytimes.com/2025/08/31/business/how-trump-could-overhaul-the-fed.html|how trump could overhaul the fed us news|adba221364b7c38dc09ad8f57be416eb
 2025-08-31T10:21:21.833753+00:00|https://www.nytimes.com/2025/08/31/world/europe/russia-ukraine-western-targets.html|russian strikes on western assets in ukraine send an ominous message us news|1ae0e6cabb5566dd26da6ceffae1aa4a
+2025-08-31T10:40:48.945785+00:00|https://www.nytimes.com/2025/08/31/world/middleeast/syria-damascus-war-daraya.html|in syria a city shattered by war asks for its sacrifice to be repaid us news|05c2a68c089983d5c585c77304d020c5
+2025-08-31T10:40:49.486073+00:00|https://www.nytimes.com/2025/08/31/technology/clanker-anti-ai.html|how clanker became an antiai rallying cry us news|fdfd99d909ee51397bf0e791a45bf086
