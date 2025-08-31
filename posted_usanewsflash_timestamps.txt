@@ -1662,3 +1662,4 @@
 2025-08-31T10:40:49.486073+00:00|https://www.nytimes.com/2025/08/31/technology/clanker-anti-ai.html|how clanker became an antiai rallying cry us news|fdfd99d909ee51397bf0e791a45bf086
 2025-08-31T12:43:13.573116+00:00|https://www.nbcnews.com/science/science-news/months-deadly-texas-floods-congressman-still-looking-answers-rcna228085|months after deadly texas floods a congressman is still looking for answers us news|11166d2bb531574b6a2e5668e593e43b
 2025-08-31T13:13:00.578475+00:00|https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html|judge temporarily blocks us efforts to deport guatemalan children us news|b8e66043f4b85bcb96dce59195cd2304
+2025-08-31T14:19:22.380446+00:00|https://abcnews.go.com/Politics/moore-interest-fighting-president-interest-fighting-communities/story|moore i have no interest in fighting with the president us news|063914fa57d117b4dfe2845029e54ad8
