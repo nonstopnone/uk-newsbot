@@ -1645,3 +1645,5 @@
 2025-08-30T23:57:38.443834+00:00|https://www.bbc.com/news/articles/czr6d5jm50do|chicago mayor signs order to resist potential trump crackdown us news|d5947c7ea88e111e2972f96c533bfd17
 2025-08-31T01:56:10.965231+00:00|https://www.nytimes.com/2025/08/30/us/minnesota-church-shooting-funding-cut.html|before minnesota shooting a program aimed at preventing attacks lost federal funding us news|a83fd61bfc08efaeb78b6db3efdf4f73
 2025-08-31T01:56:11.708929+00:00|https://www.nbcnews.com/news/us-news/nh-woman-killed-husband-2-kids-murder-suicide-was-suspected-stealing-m-rcna228237|nh woman who killed husband and 2 kids in murdersuicide was suspected of stealing money from employer police say us news|49c0c32ce9e847209ef81d8b22370f93
+2025-08-31T03:09:45.613257+00:00|https://www.nytimes.com/2025/08/30/us/montana-bar-shooting.html|suspect in montana bar shooting faces 4 murder charges us news|2ae2e8b6934899f78b7ab376599090cf
+2025-08-31T03:09:46.268757+00:00|https://www.nytimes.com/2025/08/30/us/minneapolis-catholic-church-shooting.html|a future filled with hope minneapolis community unites to process the tragedy us news|fc4c7e63efe45c0e3c62af4607a22428
