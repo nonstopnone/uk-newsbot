@@ -1,4 +1,3 @@
-2025-08-24T21:00:44.063870+00:00|https://www.bbc.com/news/articles/c39dr13xwjro|cost of living driving holiday trend that makes you feel younger uk news|232171e872138fc24c77e446afd801c4
 2025-08-24T21:48:20.815675+00:00|https://news.sky.com/story/three-children-taken-to-hospital-after-being-hit-by-car-as-they-played-on-pavement-13417978|three children taken to hospital after being hit by car as they played on pavement uk news|90c53a3c2aff489e710462f49de1dbad
 2025-08-24T23:18:28.868965+00:00|https://www.bbc.com/news/articles/cx2x16y2ppro|onceinalifetime chance gaza scholars await uk evacuation to pursue studies uk news|1e032755b5b51f6d9c6a99b6c3aa275b
 2025-08-25T03:07:44.318679+00:00|https://news.sky.com/story/more-than-80-of-shoplifting-offences-result-in-no-charge-as-number-of-unsolved-cases-soars-13417713|damning shoplifting figures show almost 800 offences a day go unsolved uk news|82d10f91eb3c02b9da6d045f55e2f7ba
@@ -163,3 +162,5 @@
 2025-08-31T17:15:46.986921+00:00|https://www.telegraph.co.uk/rugby-union/2025/08/27/womens-rugby-world-cup-2025-when-where-tickets-tv|womens rugby world cup 2025 when and where is it taking place uk news|e4d3151053fdd9b3df444ef913adbb38
 2025-08-31T17:16:28.325377+00:00|https://news.sky.com/story/anti-slavery-commissioner-launches-investigation-into-pimping-websites-13422307|antislavery commissioner launches investigation into pimping websites uk news|a5e0d10118b4850967ad739415b2b43b
 2025-08-31T20:26:31.656442+00:00|https://www.telegraph.co.uk/football/2025/08/31/aston-villa-vs-crystal-palace-live-score-latest-updates|crystal palace run rampant as martinez uncertainty adds to aston villa misery uk news|548cd1c90a889844a2913373b9d2e43d
+2025-08-31T21:15:50.553169+00:00|https://www.bbc.com/news/articles/cx27xr2jkp9o|uk closes embassy in cairo amid row over activists arrest uk news|ca51c5d1d76b65b0363266a4aa7ef9ae
+2025-08-31T21:16:31.332023+00:00|https://news.sky.com/story/yemens-houthi-rebels-raid-un-premises-and-detain-several-people-13422677|yemens houthi rebels raid un premises and detain several people uk news|afd75980042c9f41bf84e3b5201e6f3f
