@@ -1649,3 +1649,4 @@
 2025-08-31T03:09:46.268757+00:00|https://www.nytimes.com/2025/08/30/us/minneapolis-catholic-church-shooting.html|a future filled with hope minneapolis community unites to process the tragedy us news|fc4c7e63efe45c0e3c62af4607a22428
 2025-08-31T03:57:47.751808+00:00|https://www.nbcnews.com/news/us-news/annunciation-catholic-church-holds-first-mass-deadly-minneapolis-schoo-rcna228239|annunciation catholic church holds first mass since deadly minneapolis school shooting us news|129fd0724f1e23dd9f332c7ebb60720b
 2025-08-31T04:26:46.198621+00:00|https://www.nytimes.com/2025/08/31/us/politics/trump-voter-id-executive-order.html|trump says he will sign executive order mandating voter id us news|b24f3df8304492b39a8a9c0c0423f427
+2025-08-31T06:32:01.763707+00:00|https://www.nytimes.com/2025/08/31/business/china-shopping-malls.html|america closed malls but china kept building them now it has too many us news|343addac62432d10db0a12df990387ec
