@@ -1,4 +1,3 @@
-2025-08-24T10:58:56.194685+00:00|https://www.bbc.com/news/articles/c7vl9yn00g3o|seaside funfair worker dies in tragic accident uk news|5e4c3113c0273c944583630e4b17109c
 2025-08-24T11:20:06.966436+00:00|https://news.sky.com/story/british-cyclist-forced-into-last-minute-international-dash-to-start-line-of-major-race-13417505|british cyclist forced into lastminute international dash to start line of major race uk news|57aacfbf746d7eb790cdb2e51ee96535
 2025-08-24T11:55:59.001626+00:00|https://news.sky.com/story/man-and-boy-arrested-on-suspicion-of-arson-after-restaurant-fire-leaves-three-in-critical-conditition-13417520|man and boy arrested on suspicion of arson after restaurant fire leaves two in critical condition uk news|62613702da94396b4afca832f1a498ee
 2025-08-24T13:12:28.072469+00:00|https://news.sky.com/story/israel-pounds-outskirts-of-gaza-city-overnight-as-military-offensive-plans-continue-13417480|israel pounds outskirts of gaza city overnight as military offensive plans continue uk news|1420914f5f6deb789fbfc16df755b05c
@@ -163,3 +162,4 @@
 2025-08-31T07:46:57.054051+00:00|https://www.bbc.com/news/articles/ckgywldenzwo|i mustve married half of north yorkshire since 1976 uk news|1cfc49065b0164a8ba22f58134c073f2
 2025-08-31T10:19:19.688654+00:00|https://www.bbc.com/news/articles/cg7jk3rr225o|minister warns parents on school attendance ahead of new term uk news|c0c00885427abc31fdcf774bd0d72cdc
 2025-08-31T10:35:45.312446+00:00|https://news.sky.com/story/south-australia-to-become-first-place-in-the-world-to-ban-soy-sauce-fish-shaped-containers-13422095|australian state to become first place in world to ban soy sauce fishshaped containers uk news|824b7ef13ef1b52665362e50159c9306
+2025-08-31T11:17:02.711907+00:00|https://www.bbc.com/news/articles/c4g0l509v08o|were paying from our own pockets to fund the nhs uk news|522045c9da22e4a925d1838753251c97
