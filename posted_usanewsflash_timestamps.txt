@@ -1718,3 +1718,4 @@
 2025-09-01T15:57:30.200957+00:00|https://www.bbc.com/news/articles/c78m22x1j9do|trump defends uturn on chinese student visas after maga backlash us news|d38fd0219ef66678a4a6e610b50755e7
 2025-09-01T16:27:50.861488+00:00|https://www.nytimes.com/2025/09/01/us/politics/dc-crime-trump-guns.html|crime crackdown in dc shows trump administrations uneasy relationship with guns us news|66543ede6d8708b0c0705b40e303295b
 2025-09-01T16:27:51.581343+00:00|https://www.nytimes.com/2025/09/01/climate/exxon-california-plastics-defamation-lawsuit.html|exxon and california spar in dueling lawsuits over plastics us news|38e330efdd30f162e72c983e036af595
+2025-09-01T17:18:40.055625+00:00|https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html|crime festers in republican states while their troops patrol washington us news|d5fc266588362a60aae08653b7a1f65d
