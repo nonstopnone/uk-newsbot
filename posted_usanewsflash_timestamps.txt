@@ -1716,3 +1716,5 @@
 2025-09-01T15:23:15.999438+00:00|https://www.nbcnews.com/politics/trump-administration/former-cdc-directors-rfk-jr-dangerous-new-york-times-rcna228374|bipartisan group of former cdc directors cast rfk jr as dangerous us news|b576f077ae95d8b9cf5f6a0813300c42
 2025-09-01T15:57:28.360001+00:00|https://www.bbc.com/news/articles/cpv099421pro|us suspends most visas for palestinian passportholders reports say us news|207ff3e9366f894560ae81bb53ecf104
 2025-09-01T15:57:30.200957+00:00|https://www.bbc.com/news/articles/c78m22x1j9do|trump defends uturn on chinese student visas after maga backlash us news|d38fd0219ef66678a4a6e610b50755e7
+2025-09-01T16:27:50.861488+00:00|https://www.nytimes.com/2025/09/01/us/politics/dc-crime-trump-guns.html|crime crackdown in dc shows trump administrations uneasy relationship with guns us news|66543ede6d8708b0c0705b40e303295b
+2025-09-01T16:27:51.581343+00:00|https://www.nytimes.com/2025/09/01/climate/exxon-california-plastics-defamation-lawsuit.html|exxon and california spar in dueling lawsuits over plastics us news|38e330efdd30f162e72c983e036af595
