@@ -1725,3 +1725,4 @@
 2025-09-01T20:41:11.073375+00:00|https://www.nbcnews.com/news/us-news/army-football-player-father-rescue-man-burning-car-rcna228413|army football player and father rescue man from burning car us news|cfbacdd44134013ca381726afe7523bf
 2025-09-01T20:41:11.747845+00:00|https://www.nytimes.com/2025/09/01/nyregion/rudy-giuliani-car-accident-crash.html|rudy giuliani released from hospital after car crash us news|117366cc200ece6ea07ef0a6f54232f0
 2025-09-01T20:41:12.440938+00:00|https://www.nytimes.com/2025/09/01/nyregion/west-indian-day-parade-labor-day-photos.html|in brooklyn west indian parade celebrates heritage and carnival us news|64fe6c39d8c485aecf9e588e082a2b57
+2025-09-01T20:57:34.564916+00:00|https://www.nytimes.com/2025/09/01/us/gene-espy-dead.html|gene espy pioneering hiker of the appalachian trail dies at 98 us news|85753e62dff42a952aca1d21e26a4c46
