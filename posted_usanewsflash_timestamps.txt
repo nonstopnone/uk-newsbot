@@ -1729,3 +1729,4 @@
 2025-09-01T21:38:39.716298+00:00|https://www.nytimes.com/2025/09/01/world/asia/afghanistan-earthquake-photos.html|searching the rubble after afghanistans deadly earthquake us news|ec0a8d9f8103bbf2d4efaf8e01a0b010
 2025-09-01T22:57:34.683501+00:00|https://abcnews.go.com/US/shark-bites-boy-florida-keys-prompts-airlift-miami/story|shark bites boy in florida keys prompts airlift to miami hospital sheriff us news|c4cfc68f32a036bc508ec48aac2e02c9
 2025-09-01T23:20:47.779308+00:00|https://www.nytimes.com/2025/09/01/us/politics/trump-crypto-trading.html|trump family profits even with tepid launch of crypto tokens us news|6ffaa13a6c20367d0f875058e9edb9c4
+2025-09-01T23:39:28.365121+00:00|https://www.nytimes.com/2025/09/01/nyregion/jerrold-nadler-congress-retires.html|nadler pillar of democratic partys old guard will retire next year us news|a518916877226c5eeca843f3b3526533
