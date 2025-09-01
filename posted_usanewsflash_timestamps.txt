@@ -1721,3 +1721,4 @@
 2025-09-01T17:18:40.055625+00:00|https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html|crime festers in republican states while their troops patrol washington us news|d5fc266588362a60aae08653b7a1f65d
 2025-09-01T17:57:31.093505+00:00|https://abcnews.go.com/Health/former-cdc-directors-rfk-jr-endangering-americans-health/story|former cdc directors say rfk jr is endangering americans health us news|a1cb8f926f6a7e213a3f0c782d8a5b61
 2025-09-01T18:31:43.980945+00:00|https://www.nbcnews.com/health/health-news/trump-demands-pharmaceutical-companies-release-covid-drug-success-rate-rcna228397|trump demands pharmaceutical companies release covid drug success rates us news|9f852c9a011334bd73650c0cc7c1f96c
+2025-09-01T19:17:45.515085+00:00|https://www.nytimes.com/2025/09/01/us/politics/trumps-unions-federal-workers.html|trump orders have stripped nearly half a million federal workers of union rights us news|f334b58631a8f2011e0a6a72eac1f4ce
