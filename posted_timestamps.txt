@@ -1,4 +1,3 @@
-2025-08-26T15:55:56.141493+00:00|https://news.sky.com/story/edinburgh-identifies-two-potential-sites-for-new-drug-consumption-room-13418773|edinburgh identifies two potential sites for new drug consumption room uk news|95902c2e1863d8401a651956fff50394
 2025-08-26T19:00:05.264664+00:00|https://news.sky.com/story/asylum-seekers-in-charts-and-numbers-who-are-the-people-that-politicians-are-talking-about-deporting-from-uk-13418861|asylum seekers in charts and numbers who are the people that politicians are talking about deporting from uk uk news|995c078eeb1b8438c9bbbf50ab9d4853
 2025-08-26T19:20:24.106288+00:00|https://www.bbc.com/weather/articles/c1kz18d3wjro|summer 2025 almost certainly uks hottest on record uk news|aab214d23a7afcf8f4d56dfe00e8b8f7
 2025-08-26T20:28:07.457641+00:00|https://www.bbc.com/sport/football/articles/cwy5e1n5zwgo|sheffield wednesday fans boycott efl cup match uk news|694253f40c64b340af3305b1df929445
@@ -183,3 +182,4 @@
 2025-09-02T13:43:17.100923+00:00|https://www.bbc.com/news/articles/c15l5p4zwdqo|sainsburys to trial facial recognition to catch shoplifters uk news|38576d27bf89d80f3cd296141fb02dd1
 2025-09-02T13:43:58.222797+00:00|https://www.bbc.com/news/articles/cd0d0d08jnjo|new green leader polanski vows to replace starmers labour uk news|243b94ac764851929cea3da905fab08f
 2025-09-02T14:40:13.760926+00:00|https://news.sky.com/story/father-ted-co-creator-graham-linehan-arrested-at-heathrow-over-posts-on-x-13423717|father ted cocreator graham linehan arrested at heathrow over posts on x uk news|d93b15c169d11e8333da599c78c87504
+2025-09-02T16:25:39.042848+00:00|https://news.sky.com/story/drill-maybe-drill-why-north-sea-oil-and-gas-will-not-meet-uk-energy-needs-13423773|drill maybe drill why north sea oil and gas will not meet uk energy needs uk news|b67101936892419f5cca251f5a5866b8
