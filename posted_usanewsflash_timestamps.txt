@@ -1776,3 +1776,4 @@
 2025-09-02T16:29:30.947604+00:00|https://www.nbcnews.com/news/us-news/man-charged-murder-friend-allegedly-took-turns-shooting-rcna228554|man charged with murder after he and his friend allegedly took turns shooting each other us news|ec529282565e9d3e061f63fbd4522e44
 2025-09-02T16:29:31.422915+00:00|https://www.nytimes.com/2025/09/02/climate/climate-science-report-energy-department.html|scientists denounce trump administrations climate report us news|4e6f4c4934f0056b6eb6ebaa4ec4f6a6
 2025-09-02T16:47:57.599448+00:00|https://www.nytimes.com/2025/09/02/world/americas/bolsonaro-trial-brazil.html|jair bolsonaro charged with plotting a coup is not at his trial us news|ca2ceed6210629f6def3e0f54ce20c2a
+2025-09-02T16:57:21.421361+00:00|https://www.nbcnews.com/business/markets/stocks-tumble-debt-concerns-economic-worries-grip-markets-rcna228570|stocks tumble as global debt concerns economic worries grip markets us news|d6c3ece25e1805e2a52bebb902543c9e
