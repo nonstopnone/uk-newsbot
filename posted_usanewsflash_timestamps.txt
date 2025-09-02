@@ -1778,3 +1778,6 @@
 2025-09-02T16:47:57.599448+00:00|https://www.nytimes.com/2025/09/02/world/americas/bolsonaro-trial-brazil.html|jair bolsonaro charged with plotting a coup is not at his trial us news|ca2ceed6210629f6def3e0f54ce20c2a
 2025-09-02T16:57:21.421361+00:00|https://www.nbcnews.com/business/markets/stocks-tumble-debt-concerns-economic-worries-grip-markets-rcna228570|stocks tumble as global debt concerns economic worries grip markets us news|d6c3ece25e1805e2a52bebb902543c9e
 2025-09-02T17:57:35.020669+00:00|https://www.bbc.com/news/articles/c87e7lz43y8o|texas man charged with murder in shooting of child playing doorbell prank us news|1c6e102e6faf75cb8d68b5177641a04a
+2025-09-02T18:30:41.723895+00:00|https://www.bbc.com/news/articles/ckgjgyyqgvyo|trump and sons stake in crypto firm worth $5bn us news|72755af96d057403511f8dc6f7c33ad5
+2025-09-02T18:30:42.199040+00:00|https://www.nytimes.com/2025/09/02/us/politics/rubio-sheinbaum-cartels-mexico.html|rubio flies to mexico for security talks amid trump pressure campaign us news|41802b5b5806c130d30c4d432903d51a
+2025-09-02T18:30:42.667558+00:00|https://www.nbcnews.com/politics/congress/thomas-massie-step-force-vote-release-epstein-files-congress-rcna228544|gop rep thomas massie takes first step to force a vote on releasing the epstein files us news|4c910a0149b4489eddf8ba0cb2eeff22
