@@ -1758,3 +1758,5 @@
 2025-09-02T12:50:04.607833+00:00|https://www.nytimes.com/2025/09/02/world/asia/pakistan-india-floods.html|first war then floods drive pakistani families from their homes us news|0321ba0b8780cb38ce85a9c070224eaa
 2025-09-02T12:50:05.552976+00:00|https://www.nytimes.com/2025/09/02/nyregion/rudy-giuliani-new-hampshire.html|giuliani finds a home away from home in new hampshire us news|b17a09bf48e39c85b8b2f2a4f5961b93
 2025-09-02T13:21:01.755774+00:00|https://abcnews.go.com/US/11-year-houston-boy-shot-door-knocking-prank/story|boy dies after being shot in doorknocking prank gone wrong us news|a02b61125a5c8ebbfab40d81f5ab7b5b
+2025-09-02T13:47:13.063120+00:00|https://abcnews.go.com/US/man-charged-murder-houston-ding-dong-ditch-shooting/story|man charged with murder in doorknock prank shooting of 11yearold boy us news|b3c8bdd1e7c7ad5090704b7e8c5614cb
+2025-09-02T13:47:13.575174+00:00|https://www.nytimes.com/2025/09/02/world/asia/afghanistan-earthquake.html|after deadly earthquake in afghanistan emergency aid trickles in us news|45e5b302f340f70bd553f2e134ac5ce9
