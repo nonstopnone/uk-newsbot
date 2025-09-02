@@ -1730,3 +1730,6 @@
 2025-09-01T22:57:34.683501+00:00|https://abcnews.go.com/US/shark-bites-boy-florida-keys-prompts-airlift-miami/story|shark bites boy in florida keys prompts airlift to miami hospital sheriff us news|c4cfc68f32a036bc508ec48aac2e02c9
 2025-09-01T23:20:47.779308+00:00|https://www.nytimes.com/2025/09/01/us/politics/trump-crypto-trading.html|trump family profits even with tepid launch of crypto tokens us news|6ffaa13a6c20367d0f875058e9edb9c4
 2025-09-01T23:39:28.365121+00:00|https://www.nytimes.com/2025/09/01/nyregion/jerrold-nadler-congress-retires.html|nadler pillar of democratic partys old guard will retire next year us news|a518916877226c5eeca843f3b3526533
+2025-09-02T01:52:39.407697+00:00|https://www.nbcnews.com/politics/congress/democratic-rep-jerry-nadler-retire-congress-rcna228448|democratic rep jerry nadler to retire from congress us news|35b9c0146e66e8ddf7bf31309536ba08
+2025-09-02T01:52:40.070872+00:00|https://www.nbcnews.com/news/us-news/3-injured-minivan-hits-festivalgoers-pennsylvania-celebration-rcna228453|3 injured when minivan hits festivalgoers at pennsylvania celebration us news|0985543c66d2f5b07d2da2353a092162
+2025-09-02T01:52:40.729240+00:00|https://www.nbcnews.com/news/us-news/two-found-dead-flooding-san-antonio-rcna228444|two found dead after flooding in san antonio us news|8241477828e70b2c87bdc49dc8a27288
