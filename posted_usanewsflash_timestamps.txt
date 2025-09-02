@@ -1749,3 +1749,4 @@
 2025-09-02T10:25:20.116157+00:00|https://www.nbcnews.com/world/afghanistan/afghanistan-earthquake-death-toll-climbs-rescuers-reach-survivors-rcna228477|death toll climbs past 1100 as rescuers battle to reach earthquake survivors in afghanistan us news|b588acc5b53e389d14862a2749cf8e89
 2025-09-02T10:25:20.775955+00:00|https://www.nytimes.com/2025/09/02/world/americas/jair-bolsonaro-coup-trial-what-to-know.html|what to know about jair bolsonaros coup plot trial us news|d6394ff6eb1456bd0334d28b116d4c20
 2025-09-02T10:25:21.456153+00:00|https://www.nytimes.com/2025/09/02/style/birth-control-skepticism-wellness-tiktok.html|who am i without birth control us news|5f5c2b49fcf590522d46eae3f0b885a9
+2025-09-02T10:44:53.932209+00:00|https://www.nytimes.com/2025/09/02/world/europe/germany-tariffs-bizerba-us-move.html|a move to the us to avoid tariffs there are tradeoffs us news|106f4acfbffb96c0c0db1ad9c34fe8dc
