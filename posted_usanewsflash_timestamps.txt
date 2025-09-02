@@ -1743,3 +1743,4 @@
 2025-09-02T09:26:03.884094+00:00|https://www.nbcnews.com/politics/2026-election/two-major-forces-shaping-trumps-second-midterm-election-rcna227207|the two major forces shaping trumps second midterm election us news|82edc12fa96f1b0ae2a2f732ba1475bb
 2025-09-02T09:26:04.403284+00:00|https://www.nbcnews.com/world/asia/xi-putin-reaffirm-old-friend-ties-face-us-challenges-rcna228476|putin hails friendship with china as kim jong un joins show of force us news|98b283294914d4b22d08d410ad8f49c6
 2025-09-02T09:42:40.258109+00:00|https://abcnews.go.com/Politics/congress-returns-recess-government-shutdown-deadline-looms-epstein/story|congress returns from recess as government shutdown deadline looms us news|22bc734d108cd6cac936bff643c66d43
+2025-09-02T09:57:47.147267+00:00|https://abcnews.go.com/International/wireStory/hurricane-kiko-forms-pacific-moving-west-125172611|hurricane kiko forms in the pacific moving west us news|40a500ca2652157123ef8f5fc90df6f6
