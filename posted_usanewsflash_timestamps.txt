@@ -1753,3 +1753,7 @@
 2025-09-02T11:19:22.116455+00:00|https://www.nbcnews.com/news/us-news/congress-returns-capitol-chinas-military-parade-welcome-world-leaders-rcna228475|congress returns to the capitol and chinas military parade to welcome world leaders morning rundown us news|43f585b6e827ccc70884c3279f602ff3
 2025-09-02T11:57:22.738821+00:00|https://www.today.com/video/congress-back-in-session-as-potential-shutdown-looms-246402117655|congress back in washington with 4 major issues on the table us news|670d0c6b306a64340b478ca1f32c6885
 2025-09-02T11:57:23.221899+00:00|https://www.today.com/video/taliban-appeals-for-international-aid-after-devastating-earthquake-246404677655|afghanistan quake death tolls rises to above 1400 us news|12746f2f083b6c64830aa6cbe4bc9630
+2025-09-02T12:50:03.565126+00:00|https://www.bbc.com/news/articles/c0l6lw6je7lo|chloe malle to become top editor at american vogue us news|35dd5e180425bdb553f0eeb989138d32
+2025-09-02T12:50:04.086244+00:00|https://www.nytimes.com/2025/09/02/business/dealbook/fed-trump-cook-political-independence.html|trumps fight with the fed carries a heavy cost experts say us news|19b4c6af954cfd9693337a2dad7ebe6e
+2025-09-02T12:50:04.607833+00:00|https://www.nytimes.com/2025/09/02/world/asia/pakistan-india-floods.html|first war then floods drive pakistani families from their homes us news|0321ba0b8780cb38ce85a9c070224eaa
+2025-09-02T12:50:05.552976+00:00|https://www.nytimes.com/2025/09/02/nyregion/rudy-giuliani-new-hampshire.html|giuliani finds a home away from home in new hampshire us news|b17a09bf48e39c85b8b2f2a4f5961b93
