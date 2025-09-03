@@ -1853,3 +1853,4 @@
 2025-09-03T14:43:54.613109+00:00|https://www.nytimes.com/2025/09/03/us/western-health-alliance.html|snubbing kennedy states announce plans to coordinate on vaccines us news|b6277249e208644435a6eb09c28f4d36
 2025-09-03T14:57:58.197506+00:00|https://www.nytimes.com/2025/09/03/us/politics/federal-courts-computer-hacks.html|federal courts slow to fix vulnerable system after repeated hacking us news|1fa504e9c3310a1c9e0a299d87515153
 2025-09-03T15:24:27.181354+00:00|https://www.nytimes.com/2025/09/03/us/politics/john-sununu-senate-new-hampshire.html|john e sununu is exploring a senate run in new hampshire us news|c0004873189132f3098746ca6d0cb253
+2025-09-03T15:41:41.949538+00:00|https://www.nytimes.com/2025/09/03/us/politics/hegseth-venezuela-drug-strike.html|hegseth says boat strike is start of campaign against venezuelan cartels us news|331e1ed0bb82a9498ae42e9b50b38328
