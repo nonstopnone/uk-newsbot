@@ -1900,3 +1900,4 @@
 2025-09-03T22:20:03.950320+00:00|https://www.nbcnews.com/video/shorts/taylor-swift-is-a-maybe-to-perform-at-the-super-bowl-246604869778|taylor swift is a maybe to perform at the super bowl us news|1ffbb4c9484e8bdb78e6e8b8d3e91c2a
 2025-09-03T22:20:04.440277+00:00|https://www.nytimes.com/2025/09/03/us/harvard-trump-funding-ruling.html|judge rules trump administration illegally canceled harvard funding us news|78b6dd6ace70f2deb71f1fa03a17f4aa
 2025-09-03T22:20:05.346407+00:00|https://www.nbcnews.com/video/shorts/here-s-the-scoop-florida-and-its-vaccine-mandates-246619205585|heres the scoop florida and its vaccine mandates us news|0577b0dcce6545adc6481fcd1d19e7ab
+2025-09-03T22:40:08.544524+00:00|https://www.nytimes.com/2025/09/03/briefing/florida-vaccines-harvard.html|florida plans to end all vaccine mandates us news|3b47b3e25bd806537192fdeaa8aab51c
