@@ -1857,3 +1857,8 @@
 2025-09-03T15:57:30.812256+00:00|https://www.nbcnews.com/video/watch-live-trump-meets-with-president-of-poland-246536261855|trump meets with president of poland us news|87b92e17338b87e157ff4057db3644b9
 2025-09-03T15:57:31.302796+00:00|https://www.nytimes.com/2025/09/03/nyregion/zohran-mamdani-policy-shifts.html|as zohran mamdanis stature grows he tries to shed some past stances us news|4a50035c75a8637a4b01f5bb0d0c1722
 2025-09-03T15:57:31.797394+00:00|https://www.nbcnews.com/politics/congress/epstein-accusers-put-pressure-congress-release-files-rcna228762|epstein accusers put pressure on congress to release the files us news|c32b61213326ec3eb6dbc54f2a5cd163
+2025-09-03T16:28:48.903045+00:00|https://www.bbc.com/news/videos/cyv6p3j85q3o|wildfire ravages historic california gold rush town destroying homes us news|4c30828125bfa237930ca36f4f3bf022
+2025-09-03T16:28:49.577978+00:00|https://www.bbc.com/news/videos/czdjp583dg2o|watch fountains of lava shoot into the air as kilauea erupts us news|ec4b641f02601df7661717ca5608b328
+2025-09-03T16:28:50.247460+00:00|https://www.nbcnews.com/video/shorts/rep-massie-s-push-for-epstein-files-transparency-246548549794|rep massies push for epstein files transparency us news|b8494b155340c4905212ec38d137e739
+2025-09-03T16:28:50.911918+00:00|https://www.nytimes.com/2025/09/03/world/americas/venezuela-drug-boat-trump-us.html|venezuela drug boats and trumps latest claim what to know us news|09ae45c67c175c4e2b277534bf926284
+2025-09-03T16:28:51.570151+00:00|https://abcnews.go.com/Politics/jeffrey-epstein-survivors-set-speak-capitol-hill/story|this is not a hoax epstein survivors speak out demanding files be released us news|6a558dd688917e3f4f9df87b97e0da4e
