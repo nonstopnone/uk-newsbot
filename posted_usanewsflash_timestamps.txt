@@ -1896,3 +1896,7 @@
 2025-09-03T21:38:16.007440+00:00|https://www.nbcnews.com/video/lisbon-streetcar-accident-kills-at-least-15-people-246609477620|at least 15 people dead after streetcar derails in lisbon us news|45b49719f76c833b8eecb5c4d28d7c38
 2025-09-03T21:57:26.572746+00:00|https://www.nytimes.com/2025/09/03/nyregion/monica-mciver-committee-assault-charge.html|representative lamonica mciver overcomes gop effort to censure her us news|cbacd31a498f2b08e4301e395c769bad
 2025-09-03T21:57:27.119162+00:00|https://abcnews.go.com/US/power-transparent-epstein-survivors-call-trump-congress-release/story|epstein survivors call on trump congress to release records us news|f024de4fa7b9aa335d9f1c15b355e640
+2025-09-03T22:20:03.422283+00:00|https://www.bbc.com/news/articles/c98d5gplj52o|all risk no reward china spectacle shows dangers of trump trade policy us news|2a1fe2c336fd01e25db9355238cd7195
+2025-09-03T22:20:03.950320+00:00|https://www.nbcnews.com/video/shorts/taylor-swift-is-a-maybe-to-perform-at-the-super-bowl-246604869778|taylor swift is a maybe to perform at the super bowl us news|1ffbb4c9484e8bdb78e6e8b8d3e91c2a
+2025-09-03T22:20:04.440277+00:00|https://www.nytimes.com/2025/09/03/us/harvard-trump-funding-ruling.html|judge rules trump administration illegally canceled harvard funding us news|78b6dd6ace70f2deb71f1fa03a17f4aa
+2025-09-03T22:20:05.346407+00:00|https://www.nbcnews.com/video/shorts/here-s-the-scoop-florida-and-its-vaccine-mandates-246619205585|heres the scoop florida and its vaccine mandates us news|0577b0dcce6545adc6481fcd1d19e7ab
