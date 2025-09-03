@@ -189,3 +189,6 @@
 2025-09-02T22:16:14.535718+00:00|https://www.bbc.com/news/articles/cvg326x98q4o|hospital left dying cancer patient in unnecessary pain uk news|4718d40455e5b4cf88dd119f432f193e
 2025-09-02T23:50:50.867290+00:00|https://www.bbc.com/news/articles/cgqnqzkg83jo|a scheme helped prevent sex offenders committing more crimes then it closed why uk news|b39efcd0ba735ed3dfb73c7280493301
 2025-09-02T23:51:31.675519+00:00|https://www.bbc.com/news/articles/cn8438ngpe1o|dont pay a fake parking fine four ways to protect yourself from scams uk news|913f76c6edfce7001898c390418c5fd5
+2025-09-03T01:21:53.824317+00:00|https://www.bbc.com/news/articles/c78z84d3gdgo|seven claims made in new royal book from brexit to coronation uk news|994a1b6fb44e82ce1dd68c772f4ddcdf
+2025-09-03T01:22:34.393995+00:00|https://www.bbc.com/news/articles/cd7y7jln1l8o|sue gray questions classbased civil service scheme uk news|ceee55b78a151fb695ab2eef66ca9b9f
+2025-09-03T01:23:15.216983+00:00|https://www.bbc.com/news/articles/cm2k25dx1z3o|government unable to calculate afghan data breach cost watchdog says uk news|684e36b3f7382884c46e74fdee194235
