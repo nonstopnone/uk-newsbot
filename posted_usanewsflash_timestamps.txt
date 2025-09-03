@@ -1835,3 +1835,4 @@
 2025-09-03T06:32:44.420154+00:00|https://www.nytimes.com/2025/09/03/us/politics/trump-alien-enemies-act-court.html|appeals court blocks trumps use of alien enemies act to deport venezuelans us news|99dc8b163ffedbfa6178053273372517
 2025-09-03T06:48:57.869310+00:00|https://www.nytimes.com/2025/09/03/us/wildfire-chinese-camp-california.html|wildfire destroys buildings in gold rush town of chinese camp us news|3972436b3c070df503b19140008e5eea
 2025-09-03T06:48:58.422591+00:00|https://abcnews.go.com/US/1-killed-3-injured-wyoming-mountains-plane-crash/story|1 killed 3 injured in wyoming mountains plane crash us news|adddc8d6d545f8a35027b0db9a47684e
+2025-09-03T08:30:02.815460+00:00|https://www.nbcnews.com/news/us-news/maine-mass-shooting-survivors-file-negligence-lawsuit-us-government-rcna227491|maine mass shooting survivors to file suit against us government for negligence us news|cca02fd50a1ad4bbb50a0c95198c5ee4
