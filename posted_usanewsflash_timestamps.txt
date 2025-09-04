@@ -1945,3 +1945,5 @@
 2025-09-04T13:15:45.984968+00:00|https://www.nytimes.com/2025/09/04/arts/music/morrissey-the-smiths-sale.html|morrissey seeks to sell his rights to the smiths songs us news|ec98d9f3e12ab7560f61043efa1cf4b6
 2025-09-04T13:43:41.343617+00:00|https://www.nytimes.com/2025/09/04/world/middleeast/hamas-gaza-war-israel-ceasefire-deal.html|after trump comments hamas says its ready for deal on all hostages us news|7f629f6b8d29379bf45b5c6d6aff56f9
 2025-09-04T13:57:43.295545+00:00|https://abcnews.go.com/US/video/survivors-jeffrey-epstein-speak-rally-125249698|watch survivors of jeffrey epstein speak at rally us news|46f132e36243823d4772dbe0ddfa79e5
+2025-09-04T14:21:42.791811+00:00|https://abcnews.go.com/Politics/live-updates/rfk-jr-hearing-live-updates-rfk-jr-face|rfk jr hearing live updates rfk jr to face grilling over cdc turmoil vaccines us news|7cd50a832f3fc7e5d3a342ecd5debeca
+2025-09-04T14:21:43.314748+00:00|https://www.nytimes.com/2025/09/04/world/europe/lisbon-funicular-crash-elevador-da-gloria-portugal.html|portugal searches for cause of lisbon funicular crash as death toll rises us news|e471d1114604a59c06ba552527ea8064
