@@ -1917,3 +1917,5 @@
 2025-09-04T02:46:17.269805+00:00|https://www.nytimes.com/2025/09/03/us/politics/trump-supreme-court-tariffs.html|trump asks supreme court to allow his sweeping tariffs us news|7589e023ff26c5371334d67707d31086
 2025-09-04T02:46:17.811402+00:00|https://www.nbcnews.com/video/shorts/parents-of-shooting-victim-speak-after-vance-visit-246643269814|parents of shooting victim speak after vance visit us news|94e057148dd6a6492fc6ba83361ca49b
 2025-09-04T02:46:18.351760+00:00|https://www.nbcnews.com/video/shorts/new-jersey-council-candidate-dances-during-meeting-246643269554|new jersey council candidate dances during meeting us news|c407dc0a2a1a5f0a5cb3cc2bac5ef2ad
+2025-09-04T03:19:13.612309+00:00|https://www.bbc.com/news/articles/cx209ew4nz7o|trump appeals to us supreme court to rule on legality of tariffs us news|cb8ac18982bbce37f80cc16044ce847d
+2025-09-04T03:19:14.183380+00:00|https://www.nytimes.com/2025/09/03/climate/ambler-access-project-road-alaska.html|house votes to advance ambler access road in alaska us news|fca265197b804bb36282d0eb1fce9713
