@@ -1,5 +1,3 @@
-2025-08-28T11:29:08.215071+00:00|https://www.bbc.com/news/articles/c5y0el00j75o|more than 280000 crimes unrecorded last year watchdog finds uk news|e80cc3da960390f20d52201d24ffe152
-2025-08-28T11:29:48.901462+00:00|https://www.bbc.com/news/articles/cger45p0lv0o|reform council boss bans local newspapers reporters uk news|f5069a4d73e42e877d9de38eb332ecb7
 2025-08-28T12:41:21.951165+00:00|https://news.sky.com/story/prince-harry-to-return-to-uk-on-anniversary-of-queens-death-for-charity-awards-13419907|prince harry to return to uk on anniversary of queens death uk news|126ba8d9059de309ad07ca859f250e05
 2025-08-28T12:42:02.871643+00:00|https://www.bbc.com/news/articles/clyr5yyp903o|musician with broken thumb busks his way into record books uk news|44c0c5a461d5c3bf333b8708c756c4e7
 2025-08-28T12:42:43.495687+00:00|https://www.bbc.com/news/articles/cr4evdr355xo|sportscar manufacturer lotus to cut 550 jobs uk news|ac0838bfd3f813828bc6237baec90124
@@ -201,3 +199,4 @@
 2025-09-04T09:19:27.595627+00:00|https://www.bbc.com/news/articles/cqxzj2qq1lno|ministers rally round rayner as she fights for political survival uk news|e0f54596a2ba5de035f1d220e7ba3029
 2025-09-04T09:20:08.454801+00:00|https://news.sky.com/story/harrods-to-remove-sculptures-depicting-fayed-as-an-egyptian-pharaoh-13424700|harrods to remove sculptures depicting fayed as an egyptian pharaoh uk news|fe2384997ff563c1a88fe240d1ede77b
 2025-09-04T09:34:43.434133+00:00|https://www.bbc.com/news/articles/cwyl38115j2o|liverpool parade accused pleads not guilty uk news|8471c81904b4998a5c6aac3980abc5b4
+2025-09-04T11:40:15.747558+00:00|https://news.sky.com/story/bus-mounts-pavement-near-victoria-station-in-london-with-several-injured-13424793|bus hits pedestrians injuring 17 people in central london uk news|29b235d3297858b619dc97a6a8b577b3
