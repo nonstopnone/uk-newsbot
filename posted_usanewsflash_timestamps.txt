@@ -1970,3 +1970,6 @@
 2025-09-04T18:31:48.723662+00:00|https://www.nbcnews.com/politics/white-house/trump-stephen-miran-federal-reserve-senate-hearing-resign-white-house-rcna229099|trump nominee plans to keep white house job if hes confirmed for fed post us news|404b3674f8d8bd3ff80ad9933ea0e881
 2025-09-04T18:31:49.237194+00:00|https://abcnews.go.com/US/doj-sues-socal-edison-eaton-fire/story|doj sues socal edison over eaton fire seeking more than $40 million in damages us news|f07276c277e3357ac68bb957c910f1e2
 2025-09-04T18:31:49.997864+00:00|https://www.nytimes.com/2025/09/04/us/politics/not-guilty-plea-israeli-embassy.html|man accused of killing israeli embassy staffers pleads not guilty us news|1cf63d3964be41449f8eea559ab8c73e
+2025-09-04T19:17:31.881042+00:00|https://www.bbc.com/news/articles/cn4l7p771m4o|rfk jr defends leadership as lawmakers grill him on vaccines us news|39bdfb75d212d81538a7a53792c2e9d4
+2025-09-04T19:17:32.356523+00:00|https://abcnews.go.com/International/afghanistan-earthquake-death-toll-climbs/story|new earthquake hits afghanistan as death toll from first rises to 2205 us news|4feb479f457226e77e90998ae50c7ef9
+2025-09-04T19:17:32.863013+00:00|https://www.nytimes.com/2025/09/04/us/eaton-fire-altadena-lawsuit.html|justice dept accuses california utility of negligence in deadly eaton fire us news|8795f5ed48a700e420a49a2f12803475
