@@ -1992,3 +1992,7 @@
 2025-09-04T21:38:47.054961+00:00|https://www.bbc.com/news/articles/crl5ry3rgzro|alligator alcatraz immigration centre can stay open appeals court rules us news|c1ba0cd2a451528e244e94552156fb5e
 2025-09-04T21:38:47.581271+00:00|https://www.nytimes.com/2025/09/04/us/college-board-diversity-landscape.html|college board cancels tool for finding lowincome high achievers us news|9b332cda4e69b05270639db74756d10f
 2025-09-04T21:38:48.094183+00:00|https://www.nytimes.com/2025/09/04/science/astronomy-geology-mars-quakes.html|quakes on mars reveal new features of the planets interior us news|9a17b46139e81e04453f0e1c7a6916c0
+2025-09-04T22:21:03.645119+00:00|https://www.bbc.com/news/articles/cn82lp7y3pro|melania trump warns robots are here in rare public outing us news|4915c01d8808e8d45c1e25050fda2a84
+2025-09-04T22:21:04.252891+00:00|https://www.nytimes.com/2025/09/04/nyregion/adams-trump-job-quits.html|adams considers dropping out of race after secret meeting in florida us news|ad0a7bccf795af74165d2a854920c046
+2025-09-04T22:21:04.808919+00:00|https://www.nytimes.com/2025/09/04/us/politics/kavanaugh-lower-court-judges.html|kavanaugh acknowledges difficult job of his lowercourt colleagues us news|78172bc79b52a1b270089f33ae05afc4
+2025-09-04T22:21:05.371990+00:00|https://abcnews.go.com/Politics/4-takeaways-after-rfk-jrs-fiery-senate-hearing/story|4 takeaways after rfk jrs fiery senate hearing over cdc turmoil vaccines us news|ce6f1cbf0ea1635e979c999be73017d7
