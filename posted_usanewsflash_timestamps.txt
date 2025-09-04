@@ -1936,3 +1936,5 @@
 2025-09-04T09:57:40.125571+00:00|https://www.nytimes.com/2025/09/04/world/asia/china-hack-salt-typhoon.html|unrestrained chinese cyberattackers may have stolen data from almost every american us news|f261472c7469373402fefb181ed37727
 2025-09-04T09:57:40.688241+00:00|https://www.nytimes.com/2025/09/04/briefing/trump-state-of-emergency.html|for donald trump everything is an emergency us news|10ccd7fbe7476f3e78942ecca6526056
 2025-09-04T09:57:41.247621+00:00|https://www.nytimes.com/2025/09/04/business/stephen-miran-federal-reserve-trump.html|stephen miran trumps fed pick to face grilling from lawmakers us news|7b68084f7b680dc3adbfc376218ba0ca
+2025-09-04T10:23:17.107058+00:00|https://www.nytimes.com/2025/09/04/world/europe/vetements-trademark-lawsuit.html|vetements takes its trademark fight to us supreme court us news|ac84abc1edf79725f4aadc73e7b1072c
+2025-09-04T10:23:17.591958+00:00|https://www.nytimes.com/2025/09/04/climate/lawsuits-superfund-trump-justice-climate.html|inside trumps unorthodox climate attacks in courts nationwide us news|f8011e0698c024181e4d1462c1cc4834
