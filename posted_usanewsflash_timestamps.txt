@@ -1943,3 +1943,4 @@
 2025-09-04T12:45:09.319216+00:00|https://www.nytimes.com/2025/09/04/business/dealbook/wall-street-trump-tariffs.html|wall streets bet against the trump tariffs us news|895340b3d59c8e6b4b23cccf8b63179f
 2025-09-04T13:15:45.538811+00:00|https://www.bbc.com/news/articles/c78nl9lz8zeo|what is trumps goal as us bombs venezuela drugs boat and deploys warships us news|d227c5827056cc71e22248ef22527ddd
 2025-09-04T13:15:45.984968+00:00|https://www.nytimes.com/2025/09/04/arts/music/morrissey-the-smiths-sale.html|morrissey seeks to sell his rights to the smiths songs us news|ec98d9f3e12ab7560f61043efa1cf4b6
+2025-09-04T13:43:41.343617+00:00|https://www.nytimes.com/2025/09/04/world/middleeast/hamas-gaza-war-israel-ceasefire-deal.html|after trump comments hamas says its ready for deal on all hostages us news|7f629f6b8d29379bf45b5c6d6aff56f9
