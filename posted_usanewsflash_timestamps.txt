@@ -1941,3 +1941,5 @@
 2025-09-04T11:39:11.482500+00:00|https://www.nytimes.com/2025/09/04/briefing/how-trump-exploits-emergency-declarations-to-expand-presidential-power.html|how trump exploits emergency declarations to expand presidential power us news|e8136f9d3a98d92cc781649a1b00f595
 2025-09-04T11:57:30.542279+00:00|https://abcnews.go.com/International/wireStory/death-toll-afghan-earthquake-jumps-2205-taliban-125247857|death toll from afghan earthquake jumps to 2205 the taliban say us news|1bdc28efabcb42996f9d92aa6c1450c3
 2025-09-04T12:45:09.319216+00:00|https://www.nytimes.com/2025/09/04/business/dealbook/wall-street-trump-tariffs.html|wall streets bet against the trump tariffs us news|895340b3d59c8e6b4b23cccf8b63179f
+2025-09-04T13:15:45.538811+00:00|https://www.bbc.com/news/articles/c78nl9lz8zeo|what is trumps goal as us bombs venezuela drugs boat and deploys warships us news|d227c5827056cc71e22248ef22527ddd
+2025-09-04T13:15:45.984968+00:00|https://www.nytimes.com/2025/09/04/arts/music/morrissey-the-smiths-sale.html|morrissey seeks to sell his rights to the smiths songs us news|ec98d9f3e12ab7560f61043efa1cf4b6
