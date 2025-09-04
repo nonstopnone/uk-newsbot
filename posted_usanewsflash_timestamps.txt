@@ -1957,3 +1957,5 @@
 2025-09-04T15:57:39.506235+00:00|https://www.nbcnews.com/video/shorts/d-c-parents-concerned-about-ice-at-school-drop-off-246706245881|dc parents concerned about ice at school drop off us news|772046058fdb442ae9b40ca2ca679223
 2025-09-04T16:28:43.472792+00:00|https://www.bbc.com/news/articles/cvg0eqw9pl7o|washington dc sues trump administration over national guard deployment us news|b9984732059ab4e3d8a10fdf634090a4
 2025-09-04T16:28:43.985317+00:00|https://www.nbcnews.com/health/health-news/ousted-cdc-chief-warns-rfk-jr-politicizing-public-health-rcna229028|ousted cdc chief warns that rfk jr is politicizing public health us news|6d7c46e3abdc0d1454d47368383207f5
+2025-09-04T16:46:51.907874+00:00|https://www.nbcnews.com/video/shorts/rfk-jr-says-he-doesn-t-know-covid-death-data-246709829694|rfk jr says he doesnt know covid death data us news|b3a7654490729ace9f98f89d97a46303
+2025-09-04T16:46:52.477596+00:00|https://www.nbcnews.com/video/shorts/republican-senator-grills-rfk-jr-on-vaccine-stance-246709829656|republican senator grills rfk jr on vaccine stance us news|f082ea2cac297d04413b6322830b4aa4
