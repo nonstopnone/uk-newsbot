@@ -1987,3 +1987,8 @@
 2025-09-04T20:41:00.654501+00:00|https://www.nbcnews.com/science/science-news/white-house-cuts-science-funding-threaten-ai-weather-forecasting-insti-rcna228934|white house cuts to science funding threaten ai weather forecasting institute us news|5248de64ff6cd561363328af0e49bffc
 2025-09-04T20:41:01.392251+00:00|https://www.nytimes.com/2025/09/04/us/harvard-federal-funds-court-victory-trump-administration.html|harvard won its money back but will it actually get it us news|22966f6b6115c55ef42c96c37c16b893
 2025-09-04T21:20:15.177619+00:00|https://www.nbcnews.com/politics/congress/bill-cassidy-rfk-jr-trump-vaccines-republican-maga-rcna229151|gop sen bill cassidy pits rfk jr against trump on vaccines us news|093a354e0c5e79a156ad51d080e502d6
+2025-09-04T21:38:45.985309+00:00|https://www.bbc.com/news/articles/c62q41qm9pvo|who is joseph ladapo the florida surgeon general who opposes vaccine mandates us news|0c828abd9e74027e38239da08499d4ae
+2025-09-04T21:38:46.532097+00:00|https://www.bbc.com/news/articles/crl5ry3rgzro|alligator alcatraz immigration centre can stay open appeals court rules us news|c1ba0cd2a451528e244e94552156fb5e
+2025-09-04T21:38:47.054961+00:00|https://www.bbc.com/news/articles/crl5ry3rgzro|alligator alcatraz immigration centre can stay open appeals court rules us news|c1ba0cd2a451528e244e94552156fb5e
+2025-09-04T21:38:47.581271+00:00|https://www.nytimes.com/2025/09/04/us/college-board-diversity-landscape.html|college board cancels tool for finding lowincome high achievers us news|9b332cda4e69b05270639db74756d10f
+2025-09-04T21:38:48.094183+00:00|https://www.nytimes.com/2025/09/04/science/astronomy-geology-mars-quakes.html|quakes on mars reveal new features of the planets interior us news|9a17b46139e81e04453f0e1c7a6916c0
