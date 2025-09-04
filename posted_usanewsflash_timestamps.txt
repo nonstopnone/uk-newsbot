@@ -1996,3 +1996,5 @@
 2025-09-04T22:21:04.252891+00:00|https://www.nytimes.com/2025/09/04/nyregion/adams-trump-job-quits.html|adams considers dropping out of race after secret meeting in florida us news|ad0a7bccf795af74165d2a854920c046
 2025-09-04T22:21:04.808919+00:00|https://www.nytimes.com/2025/09/04/us/politics/kavanaugh-lower-court-judges.html|kavanaugh acknowledges difficult job of his lowercourt colleagues us news|78172bc79b52a1b270089f33ae05afc4
 2025-09-04T22:21:05.371990+00:00|https://abcnews.go.com/Politics/4-takeaways-after-rfk-jrs-fiery-senate-hearing/story|4 takeaways after rfk jrs fiery senate hearing over cdc turmoil vaccines us news|ce6f1cbf0ea1635e979c999be73017d7
+2025-09-04T22:40:37.565724+00:00|https://www.bbc.com/news/videos/c8rvxzkjrr0o|can trump send national guard troops to chicago us news|0216bed926f9a78c3df4c3683d02eb81
+2025-09-04T22:40:38.181729+00:00|https://www.nbcnews.com/video/shorts/fmr-cdc-chief-on-the-state-of-public-health-in-u-s-246752325518|fmr cdc chief on the state of public health in us us news|583f673925e4790f2b259f027bb453d5
