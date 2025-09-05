@@ -71,11 +71,8 @@ def normalize_title(title):
     return title
 
 def get_post_title(entry):
-    """Generate a standardized post title, appending ' | UK News' if not present."""
-    base_title = html.unescape(entry.title).strip()
-    if not base_title.endswith("| UK News"):
-        return f"{base_title} | UK News"
-    return base_title
+    """Generate a standardized post title without appending suffix."""
+    return html.unescape(entry.title).strip()
 
 def get_content_hash(entry):
     """Compute an MD5 hash of the title plus the first 300 characters of the article summary."""
@@ -212,7 +209,7 @@ OPINION_KEYWORDS = [
 IRRELEVANT_KEYWORDS = [
     "mattress", "back pain", "best mattresses", "celebrity", "gossip", "fashion", "diet",
     "workout", "product", "seasonal", "deals", "us open", "mixed doubles", "tennis tournament",
-    "nfl", "nba", "super bowl"
+    "nfl", "nba", "super bowl", "mlb", "nhl", "oscars", "grammy"
 ]
 
 UK_KEYWORDS = {
@@ -228,31 +225,41 @@ UK_KEYWORDS = {
     "level crossing": 3, "west midlands railway": 3, "network rail": 3,
     "ofsted": 3, "dvla": 3, "hmrc": 3, "dwp": 3, "tory": 3, "labour party": 3, "reform uk": 3, "plaid cymru": 3,
     "brighton": 3, "southampton": 3, "plymouth": 3, "hull": 3, "derby": 3,
-    "uk": 2, "britain": 2, "united kingdom": 2, "england": 2, "scotland": 2, "wales": 2, "northern ireland": 2,
-    "british": 2, "labour": 2, "conservative": 2, "lib dem": 2, "snp": 2, "green party": 2,
-    "king charles": 2, "queen camilla": 2, "prince william": 2, "princess kate": 2,
-    "keir starmer": 2, "rachel reeves": 2, "kemi badenoch": 2, "ed davey": 2, "john swinney": 2,
-    "angela rayner": 2, "nigel farage": 2, "carla denyer": 2, "adrian ramsay": 2,
-    "brexit": 2, "pound sterling": 2, "great british": 2, "oxford": 2, "cambridge": 2,
+    "uk": 3, "britain": 3, "united kingdom": 3, "england": 3, "scotland": 3, "wales": 3, "northern ireland": 3,
+    "british": 3, "labour": 3, "conservative": 3, "lib dem": 3, "snp": 3, "green party": 3,
+    "king charles": 3, "queen camilla": 3, "prince william": 3, "princess kate": 3,
+    "keir starmer": 3, "rachel reeves": 3, "kemi badenoch": 3, "ed davey": 3, "john swinney": 3,
+    "angela rayner": 3, "nigel farage": 3, "carla denyer": 3, "adrian ramsay": 3,
+    "yvette cooper": 3, "david lammy": 3, "pat mcfadden": 3, "shabana mahmood": 3,
+    "wes streeting": 3, "john healey": 3,
+    "brexit": 3, "pound sterling": 3, "great british": 3, "oxford": 3, "cambridge": 3,
     "village": 2, "county": 2, "borough": 2, "railway": 2,
     "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
-    "prime minister": 1, "chancellor": 1, "home secretary": 1, "a-levels": 1, "gcse": 1,
-    "council tax": 1, "energy price cap": 1, "high street": 1, "pub": 1, "motorway": 1,
-    "council": 2, "home office": 2, "raducanu": 3, "councillor": 1, "hospital": 2
+    "prime minister": 2, "chancellor": 2, "home secretary": 2, "a-levels": 2, "gcse": 2,
+    "council tax": 2, "energy price cap": 2, "high street": 2, "pub": 2, "motorway": 2,
+    "council": 2, "home office": 2, "raducanu": 3, "councillor": 2, "hospital": 1
 }
 
 NEGATIVE_KEYWORDS = {
-    "washington dc": -2, "congress": -2, "senate": -2, "white house": -2, "capitol hill": -2,
-    "california": -2, "texas": -2, "new york": -2, "los angeles": -2, "chicago": -2,
-    "florida": -2, "boston": -2, "miami": -2, "san francisco": -2, "seattle": -2,
-    "fbi": -2, "cia": -2, "pentagon": -2, "supreme court": -2, "biden": -2, "trump": -2,
-    "super bowl": -2, "nfl": -2, "nba": -2, "wall street": -2,
-    "potus": -2, "scotus": -2, "arizona": -2, "nevada": -2, "georgia": -2,
-    "france": -1, "germany": -1, "china": -1, "russia": -1, "india": -1,
-    "australia": -1, "canada": -1, "japan": -1, "brazil": -1, "south africa": -1,
-    "paris": -1, "berlin": -1, "tokyo": -1, "sydney": -1, "toronto": -1,
-    "nato": -1, "united nations": -1, "olympics": -1, "world cup": -1,
-    "brussels": -1,
+    "washington dc": -3, "congress": -3, "senate": -3, "white house": -3, "capitol hill": -3,
+    "california": -3, "texas": -3, "new york": -3, "los angeles": -3, "chicago": -3,
+    "florida": -3, "boston": -3, "miami": -3, "san francisco": -3, "seattle": -3,
+    "fbi": -3, "cia": -3, "pentagon": -3, "supreme court": -3, "biden": -3, "trump": -3,
+    "kamala harris": -3, "jd vance": -3,
+    "super bowl": -3, "nfl": -3, "nba": -3, "wall street": -3,
+    "potus": -3, "scotus": -3, "arizona": -3, "nevada": -3, "georgia": -3,
+    "emmanuel macron": -2, "marine le pen": -2, "elysee": -2, "french parliament": -2,
+    "olaf scholz": -2, "bundestag": -2,
+    "vladimir putin": -2, "kremlin": -2,
+    "xi jinping": -2, "ccp": -2,
+    "narendra modi": -2, "lok sabha": -2,
+    "justin trudeau": -2, "ottawa": -2,
+    "anthony albanese": -2, "canberra": -2,
+    "france": -2, "germany": -2, "china": -2, "russia": -2, "india": -2,
+    "australia": -2, "canada": -2, "japan": -2, "brazil": -2, "south africa": -2,
+    "paris": -2, "berlin": -2, "tokyo": -2, "sydney": -2, "toronto": -2,
+    "nato": -2, "united nations": -2, "olympics": -2, "world cup": -2,
+    "brussels": -2, "rome": -2, "madrid": -2, "beijing": -2, "moscow": -2, "new delhi": -2,
     "us open": -10, "mixed doubles": -5, "tennis tournament": -3,
     "mattress": -5, "back pain": -3, "best mattresses": -10,
     "celebrity": -4, "gossip": -5, "hollywood": -3
@@ -275,6 +282,7 @@ def calculate_uk_relevance_score(text):
     for keyword, weight in NEGATIVE_KEYWORDS.items():
         if keyword in text_lower:
             score += weight
+            matched_keywords.append(keyword)  # Track negative matches too for logging
 
     if re.search(r'\b\w+(shire|ford|ton|ham|bridge|cester)\b', text_lower):
         score += 2
@@ -343,14 +351,23 @@ CATEGORY_KEYWORDS = {
 }
 
 def get_category(entry):
-    """Determine the category of an article based on keywords with whole word matching."""
+    """Determine the category of an article based on keywords with whole word matching, returning category, matched_keywords, matched_categories."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    matched_cats = {}
     specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment", "Notable International"]
     for cat in specific_categories:
-        for keyword in CATEGORY_KEYWORDS.get(cat, []):
-            if re.search(r'\b' + re.escape(keyword) + r'\b', text):
-                return cat
-    return "Breaking News"
+        matched_kw = [keyword for keyword in CATEGORY_KEYWORDS.get(cat, []) if re.search(r'\b' + re.escape(keyword) + r'\b', text)]
+        if matched_kw:
+            matched_cats[cat] = matched_kw
+    if not matched_cats:
+        return "Breaking News", [], ["Breaking News"]
+    # Choose the first matching category in order
+    for cat in specific_categories:
+        if cat in matched_cats:
+            all_matched_keywords = sorted(set(kw for kws in matched_cats.values() for kw in kws))
+            all_matched_cats = list(matched_cats.keys())
+            return cat, all_matched_keywords, all_matched_cats
+    return "Breaking News", [], ["Breaking News"]
 
 FLAIR_MAPPING = {
     "Breaking News": "Breaking News",
@@ -370,7 +387,6 @@ DEFAULT_UK_THRESHOLD = 5
 CATEGORY_THRESHOLDS = {
     "Sport": 10,  # Stricter for sports to avoid non-UK events
     "Royals": 8,
-    "Notable International": 0
 }
 
 def is_uk_relevant(entry):
@@ -381,7 +397,7 @@ def is_uk_relevant(entry):
         return False, 0, []
 
     score, matched_keywords = calculate_uk_relevance_score(combined)
-    category = get_category(entry)
+    category, _, _ = get_category(entry)
     logger.info(f"Article: {html.unescape(entry.title)} | Initial Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
 
     threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
@@ -405,8 +421,9 @@ def is_uk_relevant(entry):
     logger.info(f"UK Relevance: {relevance_level}")
     return False, final_score, final_matched
 
-def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_delay=40):
-    """Post an article to Reddit with flair and a comment."""
+def post_to_reddit(entry, score, matched_keywords, retries=3, base_delay=40):
+    """Post an article to Reddit with flair and comments."""
+    category, cat_keywords, cat_matches = get_category(entry)
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
     flair_id = None
     try:
@@ -416,6 +433,9 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
                 break
     except Exception as e:
         logger.error(f"Failed to fetch flairs: {e}")
+
+    num_cats = len(cat_matches) if cat_matches[0] != "Breaking News" else 1
+    confidence = 100 // max(1, num_cats)
 
     for attempt in range(retries):
         try:
@@ -441,6 +461,9 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
 
+            diagnostic = f"Detected Keywords: {', '.join(cat_keywords)}\nFlair Confidence: {confidence}%"
+            submission.reply(diagnostic)
+
             add_to_dedup(entry)
             return True
         except praw.exceptions.RedditAPIException as e:
@@ -459,17 +482,19 @@ def post_to_reddit(entry, category, score, matched_keywords, retries=3, base_del
 
 def immigration_tracker():
     url = 'https://www.gov.uk/government/publications/migrants-detected-crossing-the-english-channel-in-small-boats/migrants-detected-crossing-the-english-channel-in-small-boats-last-7-days'
-    response = requests.get(url)
+    try:
+        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        logger.error(f"Failed to fetch immigration page: {e}")
+        return
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table')
     if not table:
-        print("No table found")
+        logger.error("No table found on immigration page")
         return
     # Handle cases with or without tbody
-    if table.find('tbody'):
-        rows = table.find('tbody').find_all('tr')
-    else:
-        rows = table.find_all('tr')[1:]  # Skip header if no tbody
+    rows = table.find_all('tr')[1:] if not table.find('tbody') else table.find('tbody').find_all('tr')
 
     latest_date = None
     latest_cells = None
@@ -487,7 +512,7 @@ def immigration_tracker():
             continue  # Skip rows without valid date
 
     if latest_cells is None:
-        print("No valid date row found")
+        logger.error("No valid date row found in immigration table")
         return
 
     date_str = latest_cells[0].text.strip()
@@ -510,7 +535,7 @@ def immigration_tracker():
 
     last_date = datetime.fromisoformat(totals['last_posted_date'])
     if latest_date <= last_date:
-        print("Already posted or old data")
+        logger.info("Already posted or old immigration data")
         return
 
     totals['total_2025'] += migrants
@@ -535,7 +560,12 @@ Since the current government took office: {totals['total_since_gov']}
 International law recognises that each state decides its own laws for entry. A non-national who enters the UK without leave to do so commits an offence, regardless of whether they are seeking asylum. Illegal refers to the method of arrival. However, asylum claims, where an individual is a genuine refugee under international law, can provide protection from prosecution, even if their initial entry was unlawful.
 This post is automated and may contain errors, see the government data here {url}"""
 
-    subreddit.submit_image(title, image_path, selftext=body)
+    try:
+        subreddit.submit_image(title, image_path, selftext=body)
+        logger.info("Posted immigration update")
+    except Exception as e:
+        logger.error(f"Failed to post immigration update: {e}")
+        return
 
     totals['last_migrants'] = migrants
     totals['last_image'] = image_path
@@ -579,7 +609,7 @@ def main():
                     continue
 
                 is_relevant, final_score, final_matched_keywords = is_uk_relevant(entry)
-                category = get_category(entry)
+                category, _, _ = get_category(entry)
                 norm_title = normalize_title(get_post_title(entry))
                 if is_relevant and norm_title not in posted_in_run:
                     logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {final_score} | Category: {category}")
@@ -593,8 +623,7 @@ def main():
     skipped = 0
     selected_for_posting = all_articles[:MIN_POSTS_PER_RUN]
     for source, entry, score, matched_keywords, norm_title in selected_for_posting:
-        category = get_category(entry)
-        success = post_to_reddit(entry, category, score, matched_keywords)
+        success = post_to_reddit(entry, score, matched_keywords)
         if success:
             logger.info(f"Successfully posted from {source}: {html.unescape(entry.title)}")
             posted_in_run.add(norm_title)  # Track posted article
