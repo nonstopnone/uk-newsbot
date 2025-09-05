@@ -2076,3 +2076,8 @@
 2025-09-05T20:41:39.652044+00:00|https://abcnews.go.com/US/jan-6-rioter-wore-camp-auschwitz-hoodie-arrested/story|jan 6 rioter who wore camp auschwitz hoodie arrested on animal attack charges us news|910563e0ef0d8b81df60e3e1843d19bc
 2025-09-05T20:57:36.965457+00:00|https://www.bbc.com/news/articles/cp8jl969pg7o|is trump right about chicagos crime levels us news|52c642c63a4866c6aefb6a6ad9db83ba
 2025-09-05T20:57:37.558717+00:00|https://www.nbcnews.com/news/us-news/popular-el-grito-festival-postponed-chicago-concerns-possible-ice-oper-rcna229294|popular el grito festival postponed in chicago over concerns of possible ice operations us news|79cb78fea89949a145ce60eb130d86b0
+2025-09-05T21:19:43.410468+00:00|https://www.nbcnews.com/video/shorts/trump-not-sure-if-dod-rebrand-needs-congress-246861893547|trump not sure if dod rebrand needs congress us news|2729cb815bc15ee938858d79c16cd7ed
+2025-09-05T21:19:43.923802+00:00|https://www.nbcnews.com/video/shorts/trump-rebrands-dod-as-department-of-war-246861893752|trump rebrands dod as department of war us news|5514c9c94da6646435c4c5a399cf1c4a
+2025-09-05T21:19:44.453216+00:00|https://abcnews.go.com/US/former-alaska-airlines-pilot-shut-engines-midflight-pleads/story|former pilot who took mushrooms tried to shut down engines midflight pleads guilty us news|143b3f56be1f42da3b4254e51ddeb2ae
+2025-09-05T21:19:45.050770+00:00|https://www.nytimes.com/2025/09/05/health/alcohol-drinking-hhs-report.html|federal report on drinking is withdrawn us news|8fff434516e0221f029173bf1d88f96b
+2025-09-05T21:19:45.575873+00:00|https://www.nytimes.com/2025/09/05/us/politics/trump-maduro-military-venezuela.html|a rapid us military buildup in the caribbean what to know us news|770670d64a311171dab779fc3c336441
