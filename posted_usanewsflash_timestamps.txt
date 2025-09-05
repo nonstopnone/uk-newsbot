@@ -2023,3 +2023,6 @@
 2025-09-05T03:57:18.416722+00:00|https://abcnews.go.com/Travel/video/3-year-boy-dies-after-left-hot-car-125279420|watch 3yearold boy dies after being left in hot car police say us news|fe68ea8e897e0003d0b355a63c87de67
 2025-09-05T04:27:04.755188+00:00|https://www.nytimes.com/2025/09/05/world/europe/europe-ukraine-trump-war-putin.html|with trump and ukraine europes leaders are playing a long game us news|b07377f0e2a7e0b3749f46a89f4d69c5
 2025-09-05T04:43:21.843949+00:00|https://www.nbcnews.com/video/shorts/department-of-defense-to-rebrand-as-department-of-war-246776901967|department of defense to rebrand as department of war us news|9f13c02567013cd84de9a709f11906fd
+2025-09-05T09:24:04.355376+00:00|https://www.nbcnews.com/politics/donald-trump/trump-pessimistic-russia-ukraine-wa-rcna229085|trump grows pessimistic about the prospect of ending the russiaukraine war us news|36a24b339d31bd4120339a7e4a4911d2
+2025-09-05T09:24:05.080573+00:00|https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html|how a top secret seal team 6 mission into north korea fell apart us news|212b1aac66badb2652aea9cd1fe76565
+2025-09-05T09:24:05.792991+00:00|https://www.nytimes.com/2025/09/05/arts/television/stephen-colbert-florida-vaccines.html|stephen colbert sounds the alarm on death by florida us news|fe606a6e511d7954df3a55ce421d0678
