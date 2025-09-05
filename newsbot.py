@@ -394,7 +394,7 @@ def is_uk_relevant(entry):
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     if is_irrelevant_fluff(entry):
         logger.info(f"Article rejected: {html.unescape(entry.title)} (Reason: Irrelevant fluff content)")
-        return False, 0, []
+        return False, 0, [], False
 
     score, matched_keywords = calculate_uk_relevance_score(combined)
     category, _, _ = get_category(entry)
@@ -402,7 +402,7 @@ def is_uk_relevant(entry):
 
     threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
     if score >= threshold:
-        return True, score, matched_keywords
+        return True, score, matched_keywords, True
 
     full_text = get_full_article_text(entry.link).lower()
     full_combined = combined + " " + full_text
@@ -413,15 +413,15 @@ def is_uk_relevant(entry):
     final_matched = list(set(matched_keywords + full_matched_keywords))
 
     if final_score >= threshold:
-        return True, final_score, final_matched
+        return True, final_score, final_matched, False
 
     logger.info(f"Article rejected: {html.unescape(entry.title)} (Score: {final_score}, Category: {category})")
     logger.info("Reason: Not UK News relevant")
     relevance_level = get_relevance_level(final_score)
     logger.info(f"UK Relevance: {relevance_level}")
-    return False, final_score, final_matched
+    return False, final_score, final_matched, False
 
-def post_to_reddit(entry, score, matched_keywords, retries=3, base_delay=40):
+def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_delay=40):
     """Post an article to Reddit with flair and comments."""
     category, cat_keywords, cat_matches = get_category(entry)
     flair_text = FLAIR_MAPPING.get(category, "No Flair")
@@ -457,12 +457,14 @@ def post_to_reddit(entry, score, matched_keywords, retries=3, base_delay=40):
             reply_lines.append("")
             level = get_relevance_level(score)
             reply_lines.append(f"UK Relevance: {level}")
+            if by_title:
+                reply_lines.append("Relevance determined by title")
+            reply_lines.append("-----")
+            reply_lines.append(f"Detected Keywords: {', '.join(cat_keywords)}")
+            reply_lines.append(f"Flair Confidence: {confidence}%")
 
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
-
-            diagnostic = f"Detected Keywords: {', '.join(cat_keywords)}\nFlair Confidence: {confidence}%"
-            submission.reply(diagnostic)
 
             add_to_dedup(entry)
             return True
@@ -503,13 +505,12 @@ def immigration_tracker():
         if len(cells) < 3:
             continue
         date_str = cells[0].text.strip()
-        try:
-            date = datetime.strptime(date_str, '%d %B %Y')
-            if latest_date is None or date > latest_date:
-                latest_date = date
-                latest_cells = cells
-        except ValueError:
-            continue  # Skip rows without valid date
+        date = dateparser.parse(date_str)
+        if date is None:
+            continue
+        if latest_date is None or date > latest_date:
+            latest_date = date
+            latest_cells = cells
 
     if latest_cells is None:
         logger.error("No valid date row found in immigration table")
@@ -608,12 +609,12 @@ def main():
                     logger.info(f"Skipped opinion article: {html.unescape(entry.title)}")
                     continue
 
-                is_relevant, final_score, final_matched_keywords = is_uk_relevant(entry)
+                is_relevant, final_score, final_matched_keywords, by_title = is_uk_relevant(entry)
                 category, _, _ = get_category(entry)
                 norm_title = normalize_title(get_post_title(entry))
                 if is_relevant and norm_title not in posted_in_run:
                     logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {final_score} | Category: {category}")
-                    all_articles.append((name, entry, final_score, final_matched_keywords, norm_title))
+                    all_articles.append((name, entry, final_score, final_matched_keywords, norm_title, by_title))
 
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
@@ -622,8 +623,8 @@ def main():
     posts_made = 0
     skipped = 0
     selected_for_posting = all_articles[:MIN_POSTS_PER_RUN]
-    for source, entry, score, matched_keywords, norm_title in selected_for_posting:
-        success = post_to_reddit(entry, score, matched_keywords)
+    for source, entry, score, matched_keywords, norm_title, by_title in selected_for_posting:
+        success = post_to_reddit(entry, score, matched_keywords, by_title)
         if success:
             logger.info(f"Successfully posted from {source}: {html.unescape(entry.title)}")
             posted_in_run.add(norm_title)  # Track posted article
