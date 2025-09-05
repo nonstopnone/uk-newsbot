@@ -2017,3 +2017,5 @@
 2025-09-05T02:51:19.609830+00:00|https://www.bbc.com/news/articles/cx23nzwjnwwo|rubio says us will blow up foreign crime groups if needed us news|3fde4a1b1502b94409ccc36507a10295
 2025-09-05T02:51:20.299324+00:00|https://www.nytimes.com/2025/09/04/us/politics/biden-skin-cancer.html|biden has surgery to remove skin cancer lesions us news|db21f87d6cd78834b380e0d3d12efec5
 2025-09-05T02:51:20.945633+00:00|https://www.nytimes.com/2025/09/04/nyregion/covid-vaccine-hochul-new-york.html|hochul to sign order to get around us limits on covid vaccine us news|a64762f784f4ac6f48aa8151978ec936
+2025-09-05T03:22:36.034068+00:00|https://abcnews.go.com/International/2-venezuelan-military-aircraft-flew-us-navy-vessel/story|highly provocative venezuelan military aircraft flew near us navy vessel dod says us news|80659343d93e244ebd7c8400fe883278
+2025-09-05T03:22:36.815277+00:00|https://www.nytimes.com/2025/09/04/us/politics/justice-barrett-explaining-law.html|justice amy coney barrett argues her own case and the courts in new book us news|8227c1a306191e4e486d888f41c59c8e
