@@ -2074,3 +2074,5 @@
 2025-09-05T20:24:41.173081+00:00|https://www.nbcnews.com/tech/tech-news/anthropic-settlement-lawsuit-authors-rcna229422|ai company anthropic agrees to pay $15b to settle lawsuit with authors us news|24ed1df8cb1db657f1b23efcdd329ab3
 2025-09-05T20:41:39.156305+00:00|https://www.nbcnews.com/video/shorts/florida-grandmother-convicted-in-murder-for-hire-plot-246856261846|florida grandmother convicted in murderforhire plot us news|5445c0c5cd9732c5090adcae7886b10b
 2025-09-05T20:41:39.652044+00:00|https://abcnews.go.com/US/jan-6-rioter-wore-camp-auschwitz-hoodie-arrested/story|jan 6 rioter who wore camp auschwitz hoodie arrested on animal attack charges us news|910563e0ef0d8b81df60e3e1843d19bc
+2025-09-05T20:57:36.965457+00:00|https://www.bbc.com/news/articles/cp8jl969pg7o|is trump right about chicagos crime levels us news|52c642c63a4866c6aefb6a6ad9db83ba
+2025-09-05T20:57:37.558717+00:00|https://www.nbcnews.com/news/us-news/popular-el-grito-festival-postponed-chicago-concerns-possible-ice-oper-rcna229294|popular el grito festival postponed in chicago over concerns of possible ice operations us news|79cb78fea89949a145ce60eb130d86b0
