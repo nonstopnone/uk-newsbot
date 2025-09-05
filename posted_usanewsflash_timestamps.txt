@@ -2027,3 +2027,8 @@
 2025-09-05T09:24:05.080573+00:00|https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html|how a top secret seal team 6 mission into north korea fell apart us news|212b1aac66badb2652aea9cd1fe76565
 2025-09-05T09:24:05.792991+00:00|https://www.nytimes.com/2025/09/05/arts/television/stephen-colbert-florida-vaccines.html|stephen colbert sounds the alarm on death by florida us news|fe606a6e511d7954df3a55ce421d0678
 2025-09-05T09:57:36.726951+00:00|https://www.nbcnews.com/world/israel/huckabee-israel-gaza-ambassador-netanyahu-rcna227704|trumps envoy to israel on what binds the two countries us news|8349fc76edc6ddcdc66c8de6b8200558
+2025-09-05T10:24:36.393565+00:00|https://www.nytimes.com/2025/09/05/nyregion/mamdani-donations-mayor-money.html|donors push mamdani to maximum fundraising cap in mayors race us news|d1006abfce4b48d539c0253c57d3195a
+2025-09-05T10:24:37.077160+00:00|https://www.nytimes.com/2025/09/05/us/lottery-tickets-california-gas-station.html|the luckiest gas station in america us news|1e5c365470b2da1a315158eca7cd53c7
+2025-09-05T10:24:37.761184+00:00|https://www.nytimes.com/2025/09/05/business/jobs-data-reliability.html|is jobs data still reliable why economists say yes us news|d5b600aab01ad4fa80d4461ea94d634b
+2025-09-05T10:24:38.410126+00:00|https://www.nytimes.com/2025/09/05/business/economy/jobs-immigration-deportations-hiring.html|mounting deportations meet slow hiring in a curious kind of balance us news|bc7df09e6797ee13e14a2af4a27bd0f2
+2025-09-05T10:24:39.086421+00:00|https://www.nytimes.com/2025/09/05/us/cte-police.html|something is wrong with my brain a police officers descent us news|c612cf147ee729a4a81ebc68f7cffda8
