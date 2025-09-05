@@ -2089,3 +2089,6 @@
 2025-09-05T22:20:31.446722+00:00|https://www.nytimes.com/2025/09/05/us/politics/trump-deportations-abrego-garcia-el-salvador.html|abrego garcia now facing shifting threats of deportation us news|7d29996c45b37b3baa68fcdf9ddfe520
 2025-09-05T22:40:15.192731+00:00|https://www.nbcnews.com/health/health-news/-medicare-isnt-covering-updated-covid-shots-yet-rcna229338|for some medicare isnt covering the updated covid vaccine yet us news|34825e4c861287e7e1691f2bbeaad9ea
 2025-09-05T22:57:32.773116+00:00|https://abcnews.go.com/Politics/video/pete-hegseth-speaks-department-war-125307351|watch pete hegseth speaks on department of war us news|5bde6dd3d5dc8f56587598dd62bd8c57
+2025-09-05T23:19:58.638112+00:00|https://www.bbc.com/news/videos/cz7rjp0j4e4o|watch exvp mike pence says he has great concerns over trumps tariffs us news|4e2f95cc57e0460b8772d29cd07b8c86
+2025-09-05T23:19:59.307763+00:00|https://www.nytimes.com/2025/09/05/us/politics/texas-summer-camp-safety-rules.html|new summer camp safety laws follow texas tragic floods us news|db00dce09cbfd27bdda1b1ab869890eb
+2025-09-05T23:19:59.981677+00:00|https://www.nytimes.com/2025/09/05/us/alaska-airlines-pilot-plea-agreement-mushrooms.html|offduty pilot who tried to shut off engines expresses regret in court us news|96dc58dce6d0803e71c94fc35dcd8a4f
