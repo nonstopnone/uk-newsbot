@@ -2072,3 +2072,5 @@
 2025-09-05T20:24:39.648283+00:00|https://www.nbcnews.com/video/watch-live-trump-makes-announcement-on-department-of-defense-246849093985|trump makes announcement on department of defense us news|cb4d079a68352a7b57133b35d7bfcfed
 2025-09-05T20:24:40.464453+00:00|https://abcnews.go.com/Politics/trump-administration-warns-deport-kilmar-abrego-garcia-el/story|trump administration warns it may deport kilmar abrego garcia to el salvador us news|ff7bea97f07d3e3a261eecaf24afc333
 2025-09-05T20:24:41.173081+00:00|https://www.nbcnews.com/tech/tech-news/anthropic-settlement-lawsuit-authors-rcna229422|ai company anthropic agrees to pay $15b to settle lawsuit with authors us news|24ed1df8cb1db657f1b23efcdd329ab3
+2025-09-05T20:41:39.156305+00:00|https://www.nbcnews.com/video/shorts/florida-grandmother-convicted-in-murder-for-hire-plot-246856261846|florida grandmother convicted in murderforhire plot us news|5445c0c5cd9732c5090adcae7886b10b
+2025-09-05T20:41:39.652044+00:00|https://abcnews.go.com/US/jan-6-rioter-wore-camp-auschwitz-hoodie-arrested/story|jan 6 rioter who wore camp auschwitz hoodie arrested on animal attack charges us news|910563e0ef0d8b81df60e3e1843d19bc
