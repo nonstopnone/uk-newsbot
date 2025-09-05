@@ -1,5 +1,3 @@
-2025-08-29T15:17:50.701938+00:00|https://www.bbc.com/news/articles/cvgpxwy2lkwo|uk blocks israeli government delegation from arms trade fair uk news|d7824eb2dd53b047d3af878d8e91abc5
-2025-08-29T15:18:31.498634+00:00|https://www.bbc.com/news/articles/c7vlpdqeg4qo|asylum hotel ruling wont feel like much of a victory at home office uk news|e232abcfd67d477382497b55fa133491
 2025-08-29T15:45:55.106930+00:00|https://news.sky.com/story/govt-to-reject-any-attempt-by-isis-beatle-to-be-transferred-to-uk-prison-sky-news-understands-13420484|govt to reject any attempt by isis beatle to be transferred to uk prison sky news understands uk news|93336cfaf9c73ad1476b2878a44fada8
 2025-08-29T15:56:28.557669+00:00|https://news.sky.com/story/fraudster-from-uk-living-in-dubai-to-lose-16390m-property-empire-and-ferrari-13420662|fraudster from uk living in dubai to lose £90m property empire and ferrari uk news|1450b517f224e0c6ff21f50fb9daea97
 2025-08-29T17:34:16.604202+00:00|https://www.bbc.com/news/articles/cvgvj724x1xo|man admits 24 sex offences against six women uk news|297fbbfa60782ce1e7edabc162f88169
@@ -198,3 +196,4 @@
 2025-09-05T13:49:30.136163+00:00|https://news.sky.com/story/katharine-duchess-of-kent-dies-aged-92-13425457|duchess of kent who famously hugged losing wimbledon finalist in tears has died uk news|4fa3f3ab745f2ac4c033c31556a54162
 2025-09-05T13:59:52.166418+00:00|https://news.sky.com/story/counter-terrorism-police-arrest-four-men-in-locations-across-england-13425466|terror arrests in locations across england uk news|9e052bbf8248aa5709a803a94b3c5497
 2025-09-05T14:41:09.747065+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/war-and-famine-fuel-rise-in-birth-defects-in-gaza|war and famine fuel rise in birth defects in gaza uk news|f25386a581255358e5689a07f2b8efee
+2025-09-05T15:19:55.324880+00:00|https://news.sky.com/story/tesla-seeks-1trn-pay-package-for-elon-musk-13425509|tesla proposes $1trn pay package for elon musk but there are conditions uk news|76ee01bd4a0f830f8e9ce4a24d6b92e5
