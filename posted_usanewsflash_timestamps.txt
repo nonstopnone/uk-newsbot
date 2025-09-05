@@ -2012,3 +2012,8 @@
 2025-09-05T01:48:11.345342+00:00|https://www.nbcnews.com/sports/nfl/jalen-carter-ejected-spitting-dak-prescott-rcna229237|eagles star jalen carter ejected after opening kickoff for spitting on dak prescott us news|deda2097797a1f69bcc41c0ba687e536
 2025-09-05T01:48:12.006519+00:00|https://www.nbcnews.com/video/biden-undergoes-skin-cancer-surgery-246758469896|biden undergoes skin cancer surgery us news|1b6981f1b047c5a6bcd02ff2589f9e26
 2025-09-05T01:48:12.667573+00:00|https://www.nytimes.com/2025/09/04/us/politics/venezuela-jets-us-navy-ship-trump.html|venezuelan jets fly over us navy ship in show of force us news|1a16e0a127f91bdb9b3abb9fbf84124a
+2025-09-05T02:51:18.245566+00:00|https://www.bbc.com/news/articles/cgr9r4qr0ppo|trump to rebrand pentagon as department of war us news|605f5c63d9bd115c1b560908e64643ad
+2025-09-05T02:51:18.935649+00:00|https://www.bbc.com/news/articles/c5yk810pgkko|mark zuckerberg no not that one sues facebook for account shutdowns us news|b42fa97f0cb6f22ca4ce48801fc01b82
+2025-09-05T02:51:19.609830+00:00|https://www.bbc.com/news/articles/cx23nzwjnwwo|rubio says us will blow up foreign crime groups if needed us news|3fde4a1b1502b94409ccc36507a10295
+2025-09-05T02:51:20.299324+00:00|https://www.nytimes.com/2025/09/04/us/politics/biden-skin-cancer.html|biden has surgery to remove skin cancer lesions us news|db21f87d6cd78834b380e0d3d12efec5
+2025-09-05T02:51:20.945633+00:00|https://www.nytimes.com/2025/09/04/nyregion/covid-vaccine-hochul-new-york.html|hochul to sign order to get around us limits on covid vaccine us news|a64762f784f4ac6f48aa8151978ec936
