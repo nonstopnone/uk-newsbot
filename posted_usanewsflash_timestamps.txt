@@ -2032,3 +2032,6 @@
 2025-09-05T10:24:37.761184+00:00|https://www.nytimes.com/2025/09/05/business/jobs-data-reliability.html|is jobs data still reliable why economists say yes us news|d5b600aab01ad4fa80d4461ea94d634b
 2025-09-05T10:24:38.410126+00:00|https://www.nytimes.com/2025/09/05/business/economy/jobs-immigration-deportations-hiring.html|mounting deportations meet slow hiring in a curious kind of balance us news|bc7df09e6797ee13e14a2af4a27bd0f2
 2025-09-05T10:24:39.086421+00:00|https://www.nytimes.com/2025/09/05/us/cte-police.html|something is wrong with my brain a police officers descent us news|c612cf147ee729a4a81ebc68f7cffda8
+2025-09-05T10:42:44.228195+00:00|https://www.nytimes.com/article/trump-defense-department-war-rename.html|trump will rename the defense department the department of war what to know us news|e5473bf6ba7f50312df9334415041d37
+2025-09-05T10:42:45.190411+00:00|https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html|elon musk could become first trillionaire under new tesla pay package us news|435c4e40c08dda2c7393d8e2f4541c16
+2025-09-05T10:42:45.821475+00:00|https://www.nytimes.com/2025/09/05/world/europe/vatican-carlo-acutis-sainthood.html|carlo acutis a saint for the modern age us news|667d8b807c4a8c8207eebb92e1d81480
