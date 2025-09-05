@@ -2048,3 +2048,4 @@
 2025-09-05T12:46:34.496385+00:00|https://abcnews.go.com/US/450-people-ice-custody-hyundai-plant-georgia/story|at least 450 people taken into ice custody at hyundai plant in georgia us news|db0c55cef833db1299cb2e07fd3e76bf
 2025-09-05T12:46:35.008366+00:00|https://www.today.com/video/trump-administration-to-ditch-compensation-for-delayed-flights-246810693604|trump administration to remove compensation for delayed flights us news|0fa53456a1dc4e262fc8fea45d13d304
 2025-09-05T12:46:35.520169+00:00|https://www.nytimes.com/2025/09/05/business/dealbook/elon-musk-trillionaire.html|breaking down elon musks pay package us news|c280e589deae540b0c1cbb29481fcbfb
+2025-09-05T13:16:23.048550+00:00|https://www.nytimes.com/2025/09/05/nyregion/eric-adams-saudi-arabia-ambassador.html|talks between adams and trump adviser center on saudi ambassadorship us news|e8fa02a32d908a7079ab12bfe8140a05
