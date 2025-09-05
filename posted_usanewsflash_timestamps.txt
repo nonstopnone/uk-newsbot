@@ -2092,3 +2092,8 @@
 2025-09-05T23:19:58.638112+00:00|https://www.bbc.com/news/videos/cz7rjp0j4e4o|watch exvp mike pence says he has great concerns over trumps tariffs us news|4e2f95cc57e0460b8772d29cd07b8c86
 2025-09-05T23:19:59.307763+00:00|https://www.nytimes.com/2025/09/05/us/politics/texas-summer-camp-safety-rules.html|new summer camp safety laws follow texas tragic floods us news|db00dce09cbfd27bdda1b1ab869890eb
 2025-09-05T23:19:59.981677+00:00|https://www.nytimes.com/2025/09/05/us/alaska-airlines-pilot-plea-agreement-mushrooms.html|offduty pilot who tried to shut off engines expresses regret in court us news|96dc58dce6d0803e71c94fc35dcd8a4f
+2025-09-05T23:57:21.545405+00:00|https://www.bbc.com/news/videos/ckg39j10558o|angola the notorious prison being used in trumps immigration crackdown us news|7d5c449d0de242ecd4cfd3835b44b217
+2025-09-05T23:57:22.009240+00:00|https://www.bbc.com/news/articles/c3vzknpywp4o|judge rules ending protections for venezuelan and haitian migrants is unlawful us news|c0bf083e38ea8f3c0f79cfd80b5ae330
+2025-09-05T23:57:22.441030+00:00|https://www.nytimes.com/2025/09/05/world/americas/bolsonaro-trial-us-brazil-sanctions.html|with jair bolsonaro on trial brazil braces for us sanctions us news|473ef64430eccb6d2efed75df04059a5
+2025-09-05T23:57:22.945628+00:00|https://www.nytimes.com/2025/09/05/us/politics/trump-congress-national-security-navy-seals.html|when congress should be notified about national security operations explained us news|f66ad1ffba5617f69be6fe94c08a65f4
+2025-09-05T23:57:23.404909+00:00|https://www.nytimes.com/2025/09/05/us/politics/trump-diplomacy-rivals.html|how trumps bluntforce diplomacy is pushing his rivals together us news|e796c2e3771671ab950f3ec88f3bf661
