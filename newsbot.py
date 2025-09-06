@@ -619,6 +619,30 @@ def main():
         except Exception as e:
             logger.error(f"Error loading feed {name}: {e}")
 
+    # Deduplicate current articles
+    unique_articles = []
+    seen_urls = set()
+    seen_titles = set()
+    seen_hashes = set()
+    for article in all_articles:
+        source, entry, score, matched_keywords, norm_title, by_title = article
+        norm_link = normalize_url(entry.link)
+        content_hash = get_content_hash(entry)
+        is_dup = norm_link in seen_urls
+        if not is_dup:
+            for st in seen_titles:
+                if difflib.SequenceMatcher(None, st, norm_title).ratio() > FUZZY_DUPLICATE_THRESHOLD:
+                    is_dup = True
+                    break
+        if not is_dup and content_hash in seen_hashes:
+            is_dup = True
+        if not is_dup:
+            unique_articles.append(article)
+            seen_urls.add(norm_link)
+            seen_titles.add(norm_title)
+            seen_hashes.add(content_hash)
+    all_articles = unique_articles
+
     all_articles.sort(key=lambda x: x[2], reverse=True)
     posts_made = 0
     skipped = 0
