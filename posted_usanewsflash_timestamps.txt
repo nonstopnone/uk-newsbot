@@ -2115,3 +2115,5 @@
 2025-09-06T11:57:21.963173+00:00|https://www.bbc.com/news/articles/c059gqml15go|man discovered secretly living in oregon home us news|b7a0b7c3bbf39d2d93b6f3e0799f5772
 2025-09-06T14:18:01.111541+00:00|https://www.nytimes.com/2025/09/06/world/europe/noway-uk-ship-deal.html|norways navy gets a big boost with uk ship deal us news|842acf02fc6a9753c066e842c411717c
 2025-09-06T16:24:38.759163+00:00|https://abcnews.go.com/US/25-million-alert-severe-weather-flash-flooding-northeast/story|over 25 million under alert for severe weather flash flooding in northeast us news|ea7073b096b3a72d45cd361020c263ca
+2025-09-06T16:42:03.521856+00:00|https://www.nytimes.com/2025/09/06/weather/california-lightning-weather.html|lightning strikes california with unusual frequency this summer us news|725d7e9cded95491a739fbaf651129f4
+2025-09-06T16:42:04.040049+00:00|https://abcnews.go.com/Politics/trump-reported-violent-failed-seal-team-6-mission/story|trump says he doesnt know anything about reported north korea seal team 6 mission us news|0b2f9a0e4fcc6257343497b94b52c830
