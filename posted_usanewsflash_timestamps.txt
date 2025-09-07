@@ -2136,3 +2136,5 @@
 2025-09-07T01:53:44.542508+00:00|https://www.nytimes.com/2025/09/06/us/lapd-kamala-harris-security.html|lapd stops security services for kamala harris us news|63744dd1e91a4daba166df02f2b1571d
 2025-09-07T01:53:45.244305+00:00|https://www.nytimes.com/2025/09/06/us/immigration-raid-georgia.html|immigration raid exposes tensions from seoul to washington to rural georgia us news|0e2ef56e5452c80d8e448620764f084b
 2025-09-07T01:53:45.939767+00:00|https://abcnews.go.com/US/chicago-braces-expanded-immigration-enforcement-local-officials-push/story|war of words heats up between trump illinois leaders over chicago us news|376d0d87bedd85c0ea9025b8f2474c03
+2025-09-07T04:26:02.364051+00:00|https://www.nytimes.com/2025/09/07/us/politics/trump-congresss-power.html|trump tramples congresss power with little challenge from gop us news|96b8c28193b586d07697ca94ce27ed77
+2025-09-07T04:26:02.938516+00:00|https://www.nytimes.com/2025/09/07/business/france-government-collapse-economy.html|why frances financial woes are pushing its government to the brink us news|5e065a029e14961aade1cbb91c694103
