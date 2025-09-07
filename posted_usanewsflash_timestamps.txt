@@ -2131,3 +2131,8 @@
 2025-09-06T22:39:05.089401+00:00|https://www.nbcnews.com/video/shorts/d-c-rallies-in-protest-of-trump-s-federal-troops-246951493890|dc rallies in protest of trumps federal troops us news|c2a74c3f1947de6f7e23a9f86955c372
 2025-09-06T23:38:48.321054+00:00|https://www.nbcnews.com/video/south-korea-responds-to-hyundai-immigration-raid-246952517642|south korea responds to hyundai immigration raid us news|4f47bb36bc447945cad74f7ed6f62801
 2025-09-06T23:57:29.718210+00:00|https://www.nbcnews.com/video/protests-over-president-trump-s-push-into-cities-246956101504|protests over president trumps push into cities us news|c5b34e6faf23bd876136013110d84150
+2025-09-07T01:53:43.107212+00:00|https://www.bbc.com/news/articles/cly12lrlxxvo|friends remember us instructor killed in lisbon funicular crash as bright star us news|b2299f3217218d0afb10e7c29096c9d6
+2025-09-07T01:53:43.795745+00:00|https://www.nytimes.com/2025/09/06/us/trump-chicago-ice-raids-immigration.html|tensions mount as trump administration threatens federal crackdown in chicago us news|c4075ef9365843a71bcc5d2e47035874
+2025-09-07T01:53:44.542508+00:00|https://www.nytimes.com/2025/09/06/us/lapd-kamala-harris-security.html|lapd stops security services for kamala harris us news|63744dd1e91a4daba166df02f2b1571d
+2025-09-07T01:53:45.244305+00:00|https://www.nytimes.com/2025/09/06/us/immigration-raid-georgia.html|immigration raid exposes tensions from seoul to washington to rural georgia us news|0e2ef56e5452c80d8e448620764f084b
+2025-09-07T01:53:45.939767+00:00|https://abcnews.go.com/US/chicago-braces-expanded-immigration-enforcement-local-officials-push/story|war of words heats up between trump illinois leaders over chicago us news|376d0d87bedd85c0ea9025b8f2474c03
