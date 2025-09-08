@@ -2204,3 +2204,4 @@
 2025-09-08T14:23:58.483722+00:00|https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-allow-4-billion-foreign-aid-cuts-rcna229794|trump asks supreme court to allow $4 billion in foreign aid cuts us news|aa78610f841519915e9878e825f9fcae
 2025-09-08T14:23:59.188529+00:00|https://www.nytimes.com/2025/09/08/nyregion/trump-e-jean-carroll-defamation.html|appeals court upholds carrolls $83 million judgment against trump us news|4a423f1e52342432113d8309c61ae3dd
 2025-09-08T14:23:59.865603+00:00|https://www.nytimes.com/2025/09/08/health/abortion-shield-laws.html|states face off ferociously over abortion shield laws us news|d22cb994e275efaabc8930d0d3f5816e
+2025-09-08T14:57:32.104873+00:00|https://abcnews.go.com/US/appeals-court-upholds-83-million-judgment-trump-defaming/story|appeals court upholds $83 million judgment against trump for defaming e jean carroll us news|580921c7316273eaa770ed0dbb65e543
