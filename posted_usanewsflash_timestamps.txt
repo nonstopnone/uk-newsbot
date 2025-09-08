@@ -2237,3 +2237,4 @@
 2025-09-08T20:25:52.587842+00:00|https://abcnews.go.com/US/video/chicago-bracing-federal-intervention-125374523|watch chicago bracing for possible federal intervention us news|b625bc493e8f6d922969ed5a00cdf071
 2025-09-08T20:25:53.261238+00:00|https://abcnews.go.com/International/video/ukrainian-woman-stabbed-death-train-north-carolina-125375422|watch ukrainian woman stabbed to death on train in north carolina us news|4ccc4814c8786b779718e39f2c51bd4c
 2025-09-08T20:57:49.028345+00:00|https://www.nytimes.com/2025/09/08/books/review/listening-to-the-law-amy-coney-barrett.html|book review listening to the law by amy coney barrett us news|542fae6e444e5a00681d429e3dbfa0be
+2025-09-08T21:39:26.463971+00:00|https://abcnews.go.com/GMA/Food/home-delivery-meals-linked-salmonella-outbreak-cdc-warns/story|cdc investigating multistate salmonella outbreak us news|d047f6ba1a177ff598065797915a01fe
