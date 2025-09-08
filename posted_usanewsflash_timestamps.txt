@@ -2220,3 +2220,4 @@
 2025-09-08T16:46:48.192312+00:00|https://www.nytimes.com/2025/09/08/technology/whatsapp-whistleblower-lawsuit.html|whistleblower sues meta over claims of whatsapp security flaws us news|874dc9b73c9af18646e9849591c1d435
 2025-09-08T16:57:39.832809+00:00|https://abcnews.go.com/US/video/trump-emphasizes-desire-federal-action-chicago-125369258|watch trump emphasizes desire to take federal action in chicago us news|39d0b7e17134b414f8feacd7adf4f1d4
 2025-09-08T16:57:40.501594+00:00|https://www.nytimes.com/2025/09/08/us/chicago-immigration-crackdown-trump-administration.html|trump administration says it has begun immigration crackdown in chicago us news|a7209a97cda5e992c038cb6d2490d147
+2025-09-08T17:19:49.714989+00:00|https://www.bbc.com/news/articles/c784697j2v8o|supreme court rules that immigration raids in la can continue us news|84099e6c8bfeac09db4003f297215149
