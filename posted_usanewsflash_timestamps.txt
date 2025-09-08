@@ -2244,3 +2244,4 @@
 2025-09-08T21:57:36.231999+00:00|https://www.nytimes.com/2025/09/08/us/politics/supreme-court-immigration-racial-profiling.html|the supreme court decision on ice and racial profiling explained us news|e6c2a95213abea13025d1003d358f805
 2025-09-08T22:21:18.822533+00:00|https://www.nytimes.com/2025/09/08/us/alabama-murder-vet-park.html|man killed retired auburn professor at alabama dog park police say us news|65ddd4f1f8f5d926d429d0dd62ab3efe
 2025-09-08T22:41:20.123328+00:00|https://www.bbc.com/news/articles/ckgz1m43rrko|hes accused of trying to assassinate trump at trial hes going it alone us news|4bd79df57717b5e16a0ca02ae974583f
+2025-09-08T22:57:20.707685+00:00|https://www.nytimes.com/2025/09/08/briefing/supreme-court-immigration-stops-murdoch-succession.html|supreme court lifted limits on la immigration stops us news|2fc7d9acf597d5fca12de5a27fd8f525
