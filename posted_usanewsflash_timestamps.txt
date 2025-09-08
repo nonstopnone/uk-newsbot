@@ -2195,3 +2195,6 @@
 2025-09-08T10:45:14.868892+00:00|https://www.bbc.com/news/videos/crl5ngr2069o|watch glitz glamour and emotional speeches at vmas 2025 us news|fcc1668cefe22675156e61c540daabff
 2025-09-08T11:19:10.754339+00:00|https://www.nytimes.com/2025/09/08/world/jeffrey-epstein-jpmorgan-us-open.html|jeffrey epsteins bankers us news|1c42a54b986dd118253b288d710f0739
 2025-09-08T11:57:51.160884+00:00|https://www.bbc.com/news/articles/c3rvdxz9589o|in us town hoping for revival trumps tariffs put to test us news|0d8c6657910bd6227d4599c056725620
+2025-09-08T12:50:48.887145+00:00|https://www.today.com/video/israel-intensifies-offensive-in-gaza-5-killed-in-jerusalem-shooting-247056453637|at least 5 killed in mass shooting at jerusalem bus stop us news|8b7918bd098e5bd7440e282877affaf8
+2025-09-08T12:50:49.608853+00:00|https://www.nytimes.com/2025/09/08/world/middleeast/trump-hamas-warning-israel-gaza-city.html|trump issues warning to hamas as israeli military moves on gaza city us news|4d0683bbf7fe60fb6a3b357708d53838
+2025-09-08T12:50:50.413520+00:00|https://www.nbcnews.com/video/shorts/trump-met-with-boos-and-cheers-u-s-open-final-247060037758|trump met with boos and cheers us open final us news|f3830167cdbeb80f0f3bf9701c65b1d2
