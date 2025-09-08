@@ -1,4 +1,3 @@
-2025-09-01T08:30:14.253537+00:00|https://www.bbc.com/news/articles/cx2xw78970no|politicians must moderate language on migration long uk news|c547fa1601ddc493cbd0846e3c18e91e
 2025-09-01T09:43:11.990465+00:00|https://news.sky.com/story/queen-camilla-told-boris-johnson-she-was-attacked-on-a-train-as-a-teenager-new-book-claims-13422877|queen used shoe to hit man who tried to assault her on a train as a teenager new book claims uk news|434c09a3098ef2b0e842ae317c493a63
 2025-09-01T10:44:56.761425+00:00|https://news.sky.com/story/new-storm-names-for-2025-26-released-how-are-they-chosen-and-why-13422904|new storm names for 202526 released how are they chosen and why uk news|8bb59c0690ed46e9cf556bfd13ce0eff
 2025-09-01T10:55:38.745338+00:00|https://news.sky.com/story/australias-social-media-ban-can-be-enforced-effectively-official-report-finds-13422988|australias social media ban can be enforced effectively official report finds uk news|ccd941ed8b127d300fc5171517ad0fa7
@@ -162,3 +161,4 @@
 2025-09-08T05:42:01.810258+00:00|https://news.sky.com/story/economic-crisis-in-france-goes-beyond-its-overspending-problem-13426953|economic crisis in france goes beyond its overspending problem|4764ced513ffcc52a6f73a940e690a83
 2025-09-08T07:19:04.321586+00:00|https://www.bbc.com/news/articles/c87yxe1w1e7o|coronation street star to climb mount kilimanjaro|ce06a65b280856d205639b503979cca5
 2025-09-08T07:33:28.648513+00:00|https://www.bbc.com/news/articles/c2037j7ndv8o|woman 105 marks birthday with cockney party|0651e19917c5092d1e030239283f4b81
+2025-09-08T08:30:49.596391+00:00|https://www.bbc.com/sport/football/articles/cjw6xj5gjn7o|the wonderkids who didnt make it|f1dde5d02e43f76d6c8ee208c52c70fb
