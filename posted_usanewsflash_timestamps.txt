@@ -2234,3 +2234,5 @@
 2025-09-08T19:39:16.284906+00:00|https://www.nytimes.com/2025/09/08/us/politics/supreme-court-los-angeles-immigration.html|supreme court lifts restrictions on la immigration stops us news|4911487bef96578e55cbfc1343685c79
 2025-09-08T19:57:34.442883+00:00|https://www.nbcnews.com/now/video/supreme-court-lifts-limits-on-los-angeles-immigration-stops-247109189764|supreme court lifts limits on los angeles immigration stops us news|2b4b23331fce0c215935d2a354233368
 2025-09-08T19:57:34.948694+00:00|https://abcnews.go.com/US/ukrainian-woman-stabbed-death-train-attack/story|heartbroken woman stabbed to death while riding light rail train us news|151c077ab808b5083989e75adbd8e6e1
+2025-09-08T20:25:52.587842+00:00|https://abcnews.go.com/US/video/chicago-bracing-federal-intervention-125374523|watch chicago bracing for possible federal intervention us news|b625bc493e8f6d922969ed5a00cdf071
+2025-09-08T20:25:53.261238+00:00|https://abcnews.go.com/International/video/ukrainian-woman-stabbed-death-train-north-carolina-125375422|watch ukrainian woman stabbed to death on train in north carolina us news|4ccc4814c8786b779718e39f2c51bd4c
