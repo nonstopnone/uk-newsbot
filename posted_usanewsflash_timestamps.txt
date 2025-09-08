@@ -2178,3 +2178,5 @@
 2025-09-08T04:28:12.401256+00:00|https://www.nytimes.com/2025/09/08/world/europe/france-vote-government-collapse.html|france at an impasse heads toward another government collapse us news|693e07b8b0fccc0261a4f6718f9e03b3
 2025-09-08T05:22:40.417925+00:00|https://www.nytimes.com/2025/09/08/arts/music/mtv-video-music-awards-moments.html|memorable moments of the 2025 mtv video music awards mariah carey lady gaga and more us news|c31061f0c63592f94d1bd44edc76edb2
 2025-09-08T06:35:57.342751+00:00|https://abcnews.go.com/US/wireStory/jury-selection-begins-trial-man-accused-attempting-assassinate-125352777|jury selection begins in the trial of the man accused of trying to assassinate trump us news|8e346ca3b6c3875e82b199f7c87f2c5a
+2025-09-08T07:57:45.300639+00:00|https://www.bbc.com/news/articles/cx2plmxm4r3o|south korean officials will travel to us to secure return of detained workers us news|8cfdda02fbb3c13913ee7597adf2017d
+2025-09-08T07:57:45.850936+00:00|https://www.bbc.com/news/articles/cwyrx205dj2o|trump threatens tougher sanctions after russias heaviest strikes on ukraine us news|7072bcf70732cc246f087f70540fc9f9
