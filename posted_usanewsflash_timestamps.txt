@@ -2232,3 +2232,5 @@
 2025-09-08T19:39:15.364685+00:00|https://www.bbc.com/news/articles/cn0rxl7jwwpo|hamas discussing us ideas for gaza ceasefire after trumps last warning us news|ced981ceb31f16921746dd340bf676ac
 2025-09-08T19:39:15.848734+00:00|https://www.nbcnews.com/politics/donald-trump/trump-jeffrey-epstein-birthday-book-rcna229803|house democrats release lewd birthday message trump allegedly sent to epstein us news|0f63c490bef7fd74bf59e3bf67ce5826
 2025-09-08T19:39:16.284906+00:00|https://www.nytimes.com/2025/09/08/us/politics/supreme-court-los-angeles-immigration.html|supreme court lifts restrictions on la immigration stops us news|4911487bef96578e55cbfc1343685c79
+2025-09-08T19:57:34.442883+00:00|https://www.nbcnews.com/now/video/supreme-court-lifts-limits-on-los-angeles-immigration-stops-247109189764|supreme court lifts limits on los angeles immigration stops us news|2b4b23331fce0c215935d2a354233368
+2025-09-08T19:57:34.948694+00:00|https://abcnews.go.com/US/ukrainian-woman-stabbed-death-train-attack/story|heartbroken woman stabbed to death while riding light rail train us news|151c077ab808b5083989e75adbd8e6e1
