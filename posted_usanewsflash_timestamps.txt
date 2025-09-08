@@ -2247,3 +2247,5 @@
 2025-09-08T22:57:20.707685+00:00|https://www.nytimes.com/2025/09/08/briefing/supreme-court-immigration-stops-murdoch-succession.html|supreme court lifted limits on la immigration stops us news|2fc7d9acf597d5fca12de5a27fd8f525
 2025-09-08T23:21:56.823231+00:00|https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story|democrats share image of alleged trump letter in epstein birthday book us news|ab0bfe0682c1d6f8115db3a26376462b
 2025-09-08T23:21:57.536311+00:00|https://www.nytimes.com/2025/09/08/nyregion/judge-adams-ice-rikers.html|adams administration move to let ice into rikers is illegal judge rules us news|a42ee98c57c87ae36c35d1afd2737666
+2025-09-08T23:39:02.763674+00:00|https://www.nytimes.com/2025/09/08/world/middleeast/jenin-west-bank-teens-killed.html|after 2 teenagers are killed in west bank israeli military opens inquiry us news|a2d751c852517e980ddf181a136ff5e6
+2025-09-08T23:39:03.284080+00:00|https://abcnews.go.com/US/man-accused-murdering-2-men-met-dating-app/story|man accused of murdering 2 men he met through dating app trying to kill third us news|95847b9768051499772c60d093e61cf9
