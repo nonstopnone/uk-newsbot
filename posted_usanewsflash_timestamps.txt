@@ -2227,3 +2227,4 @@
 2025-09-08T17:57:24.533549+00:00|https://www.nytimes.com/2025/09/08/world/americas/trump-migrants-remittances.html|deportation fears are fueling money transfers to latin america us news|4c7bef252e1c644b6b33e5c2a605624f
 2025-09-08T18:33:17.716153+00:00|https://abcnews.go.com/US/boy-school-shooter-ideations-guns-collection/story|13yearold boy with school shooter ideations found with collection of guns us news|ab2438d60ed317d9b29bef5c7ddcf089
 2025-09-08T18:33:18.593685+00:00|https://abcnews.go.com/Politics/wed-love-chicago-trump-after-controversy-war-meme/story|wed love to go into chicago trump says after controversy over war meme us news|e1b879f45e4ae64223a967f46947d185
+2025-09-08T18:49:02.238993+00:00|https://www.nytimes.com/2025/09/08/us/palisades-fire-investigation-los-angeles.html|republican senators investigate palisades fire response us news|63b677a5e036067c151af6709ea89a0f
