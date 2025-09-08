@@ -2225,3 +2225,5 @@
 2025-09-08T17:57:23.125082+00:00|https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html|tech companies show off for trumps golden dome us news|2207e6dc74c2a64781e7c69ae4a16924
 2025-09-08T17:57:23.852210+00:00|https://www.nytimes.com/2025/09/08/business/dji-chinese-drones-ban.html|djis chinese drones face us ban us news|bf73d43dc500f9c2601e94e1885b0702
 2025-09-08T17:57:24.533549+00:00|https://www.nytimes.com/2025/09/08/world/americas/trump-migrants-remittances.html|deportation fears are fueling money transfers to latin america us news|4c7bef252e1c644b6b33e5c2a605624f
+2025-09-08T18:33:17.716153+00:00|https://abcnews.go.com/US/boy-school-shooter-ideations-guns-collection/story|13yearold boy with school shooter ideations found with collection of guns us news|ab2438d60ed317d9b29bef5c7ddcf089
+2025-09-08T18:33:18.593685+00:00|https://abcnews.go.com/Politics/wed-love-chicago-trump-after-controversy-war-meme/story|wed love to go into chicago trump says after controversy over war meme us news|e1b879f45e4ae64223a967f46947d185
