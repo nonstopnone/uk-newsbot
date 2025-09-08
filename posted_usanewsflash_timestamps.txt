@@ -2221,3 +2221,7 @@
 2025-09-08T16:57:39.832809+00:00|https://abcnews.go.com/US/video/trump-emphasizes-desire-federal-action-chicago-125369258|watch trump emphasizes desire to take federal action in chicago us news|39d0b7e17134b414f8feacd7adf4f1d4
 2025-09-08T16:57:40.501594+00:00|https://www.nytimes.com/2025/09/08/us/chicago-immigration-crackdown-trump-administration.html|trump administration says it has begun immigration crackdown in chicago us news|a7209a97cda5e992c038cb6d2490d147
 2025-09-08T17:19:49.714989+00:00|https://www.bbc.com/news/articles/c784697j2v8o|supreme court rules that immigration raids in la can continue us news|84099e6c8bfeac09db4003f297215149
+2025-09-08T17:57:22.381730+00:00|https://www.nbcnews.com/news/us-news/23-year-old-ukrainian-refugee-killed-north-carolina-transit-system-rcna229817|23yearold ukrainian refugee killed on north carolina transit system us news|bb625d1756b2161753317c6990f8194a
+2025-09-08T17:57:23.125082+00:00|https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html|tech companies show off for trumps golden dome us news|2207e6dc74c2a64781e7c69ae4a16924
+2025-09-08T17:57:23.852210+00:00|https://www.nytimes.com/2025/09/08/business/dji-chinese-drones-ban.html|djis chinese drones face us ban us news|bf73d43dc500f9c2601e94e1885b0702
+2025-09-08T17:57:24.533549+00:00|https://www.nytimes.com/2025/09/08/world/americas/trump-migrants-remittances.html|deportation fears are fueling money transfers to latin america us news|4c7bef252e1c644b6b33e5c2a605624f
