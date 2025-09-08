@@ -2175,3 +2175,4 @@
 2025-09-07T23:57:28.882347+00:00|https://www.nbcnews.com/video/shorts/pope-canonizes-carlo-acutis-as-first-millennial-saint-247024709517|pope canonizes carlo acutis as first millennial saint us news|10dd72e8baf0592b4e688f7228e3a9a0
 2025-09-08T01:53:27.358767+00:00|https://www.nytimes.com/2025/09/07/us/politics/tom-hanks-west-point-award.html|west point alumni group cancels award honoring tom hanks us news|dacc75b6a29bd16f49ca903273293b82
 2025-09-08T01:53:28.067893+00:00|https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html|wildfire fighters unmasked in toxic smoke are getting sick and dying us news|bd0245165bb493af8ec548c3c9d3323e
+2025-09-08T04:28:12.401256+00:00|https://www.nytimes.com/2025/09/08/world/europe/france-vote-government-collapse.html|france at an impasse heads toward another government collapse us news|693e07b8b0fccc0261a4f6718f9e03b3
