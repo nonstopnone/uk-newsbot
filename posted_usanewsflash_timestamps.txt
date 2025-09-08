@@ -2176,3 +2176,4 @@
 2025-09-08T01:53:27.358767+00:00|https://www.nytimes.com/2025/09/07/us/politics/tom-hanks-west-point-award.html|west point alumni group cancels award honoring tom hanks us news|dacc75b6a29bd16f49ca903273293b82
 2025-09-08T01:53:28.067893+00:00|https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html|wildfire fighters unmasked in toxic smoke are getting sick and dying us news|bd0245165bb493af8ec548c3c9d3323e
 2025-09-08T04:28:12.401256+00:00|https://www.nytimes.com/2025/09/08/world/europe/france-vote-government-collapse.html|france at an impasse heads toward another government collapse us news|693e07b8b0fccc0261a4f6718f9e03b3
+2025-09-08T05:22:40.417925+00:00|https://www.nytimes.com/2025/09/08/arts/music/mtv-video-music-awards-moments.html|memorable moments of the 2025 mtv video music awards mariah carey lady gaga and more us news|c31061f0c63592f94d1bd44edc76edb2
