@@ -2208,3 +2208,4 @@
 2025-09-08T15:24:05.753123+00:00|https://abcnews.go.com/US/trial-set-begin-case-man-allegedly-kill-trump/story|jury selection off to rocky start in case of man accused of trying to kill trump us news|a2f7067dc5de69a04bf305cb8669e07c
 2025-09-08T15:24:06.340498+00:00|https://www.nbcnews.com/video/shorts/store-owner-injured-in-violent-smash-and-grab-robbery-247075397650|store owner injured in violent smashandgrab robbery us news|30ecffe1fb4ce2bc7271cf312a42153a
 2025-09-08T15:42:14.783752+00:00|https://www.nbcnews.com/politics/donald-trump/appeals-court-upholds-e-jean-carrolls-83-million-judgment-trump-rcna212907|appeals court upholds e jean carrolls $83 million judgment against trump us news|6f589abcc19ad2e292d57780ccfd07e5
+2025-09-08T15:57:37.790846+00:00|https://www.nbcnews.com/video/shorts/dept-of-ed-to-protect-prayer-in-public-schools-247075397752|dept of ed to protect prayer in public schools us news|49378a7718edb24af4a3ccc1c66c1680
