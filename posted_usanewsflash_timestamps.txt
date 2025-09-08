@@ -2180,3 +2180,5 @@
 2025-09-08T06:35:57.342751+00:00|https://abcnews.go.com/US/wireStory/jury-selection-begins-trial-man-accused-attempting-assassinate-125352777|jury selection begins in the trial of the man accused of trying to assassinate trump us news|8e346ca3b6c3875e82b199f7c87f2c5a
 2025-09-08T07:57:45.300639+00:00|https://www.bbc.com/news/articles/cx2plmxm4r3o|south korean officials will travel to us to secure return of detained workers us news|8cfdda02fbb3c13913ee7597adf2017d
 2025-09-08T07:57:45.850936+00:00|https://www.bbc.com/news/articles/cwyrx205dj2o|trump threatens tougher sanctions after russias heaviest strikes on ukraine us news|7072bcf70732cc246f087f70540fc9f9
+2025-09-08T08:50:50.043682+00:00|https://abcnews.go.com/International/deadly-jerusalem-bus-station-shooting-police/story|several killed in jerusalem bus station shooting police say us news|78b3777c486dee4e9b73f47b393abd31
+2025-09-08T08:50:50.741860+00:00|https://www.nytimes.com/2025/09/08/world/middleeast/jerusalem-shooting-israel.html|shooting in jerusalem leaves at least 5 dead us news|dc81de63631c4bf7bf5c81e931c532b3
