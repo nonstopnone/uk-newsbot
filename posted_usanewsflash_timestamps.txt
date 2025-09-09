@@ -2294,3 +2294,4 @@
 2025-09-09T15:26:15.393350+00:00|https://www.nytimes.com/2025/09/09/us/politics/gabbard-intelligence-report-venezuela.html|gabbard retracted intelligence report on venezuela us news|7ead7c4e07215e1efa2b38720ce5309d
 2025-09-09T15:26:16.032154+00:00|https://www.nytimes.com/2025/09/09/us/politics/heritage-foundation-constitution-book.html|in new book think tank behind project 2025 takes on the constitution us news|2ead6e69c9c3a75b18ee1e09fdec3f3f
 2025-09-09T15:26:16.616539+00:00|https://www.nytimes.com/2025/09/09/business/energy-environment/exxon-mobil-graphite-electric-vehicles.html|exxon wants to make more of the materials needed for ev batteries us news|4bfb70085471047f98409f913b053fa7
+2025-09-09T15:43:18.278832+00:00|https://www.nbcnews.com/video/shorts/how-redistricting-impacts-who-rules-the-house-247178309890|how redistricting impacts who rules the house us news|d1cf653ef47dfbe2539214a6cf25158d
