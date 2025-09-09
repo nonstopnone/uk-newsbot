@@ -2332,3 +2332,5 @@
 2025-09-09T21:38:34.281857+00:00|https://abcnews.go.com/Politics/israel-told-us-military-plan-strike-hamas-us/story|israel told us military of plan to strike hamas but didnt say where us official us news|145b2dffa3b40aab6b85a9bdee681f46
 2025-09-09T21:57:33.638231+00:00|https://www.bbc.com/news/videos/crmen07j2mxo|aerial video shows toppled shipping containers floating in california harbour us news|8011c4ad8f0b4fffdb030b2448d0cb49
 2025-09-09T21:57:34.207050+00:00|https://www.nytimes.com/2025/09/09/us/politics/supreme-court-trump-foreign-aid.html|supreme court lets trump block foreign aid for now us news|2ff6f5dd196a9d86bffb3d237bb41a08
+2025-09-09T22:19:23.944017+00:00|https://www.nytimes.com/2025/09/09/nyregion/curtis-sliwa-nyc-mayor.html|curtis sliwa vows to stay in mayors race despite push to clear field us news|cc46a712db0f9531ce26f74c2f3f53b9
+2025-09-09T22:19:24.478767+00:00|https://www.nytimes.com/2025/09/09/world/asia/nepal-protests-nepo-kids-social-media.html|for nepals protesters wealthy nepo kids are a source of outrage us news|fefb83941bb842a7257c51ea68c4eb53
