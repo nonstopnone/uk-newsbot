@@ -2251,3 +2251,6 @@
 2025-09-08T23:39:03.284080+00:00|https://abcnews.go.com/US/man-accused-murdering-2-men-met-dating-app/story|man accused of murdering 2 men he met through dating app trying to kill third us news|95847b9768051499772c60d093e61cf9
 2025-09-09T01:49:41.572442+00:00|https://www.nytimes.com/2025/09/08/us/charlotte-murder-conservatives-crime.html|a gruesome murder in north carolina ignites a firestorm on the right us news|5bd7d67457ff2475af5c6d9a961dabd8
 2025-09-09T01:49:42.091861+00:00|https://www.nytimes.com/2025/09/08/us/politics/trump-treasury-bessent-pulte-threat.html|trumps treasury secretary threatens to punch housing official in the face us news|64f192ba44f55220cbdca8b6c3b1754b
+2025-09-09T02:54:48.029588+00:00|https://www.nytimes.com/2025/09/08/us/politics/senate-nominations-nuclear-option-trump.html|thune moves to speed trump nominees past democratic blockade us news|99beceeae1da554bbe985b7f6c94a2f5
+2025-09-09T02:54:48.725711+00:00|https://www.nytimes.com/2025/09/08/us/politics/epstein-trump-birthday-book.html|house democrats release epsteins birthday letter apparently signed by trump us news|69e4ab074c9610da4b01f5d0906a6118
+2025-09-09T02:54:49.399830+00:00|https://www.nytimes.com/2025/09/08/us/sequoia-mckinley-grove-california.html|firefighters race to save a treasured sequoia grove in california us news|7d849ba4a99963ca88ad852f0d97efc6
