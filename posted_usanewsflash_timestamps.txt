@@ -2297,3 +2297,6 @@
 2025-09-09T15:43:18.278832+00:00|https://www.nbcnews.com/video/shorts/how-redistricting-impacts-who-rules-the-house-247178309890|how redistricting impacts who rules the house us news|d1cf653ef47dfbe2539214a6cf25158d
 2025-09-09T15:57:36.814298+00:00|https://abcnews.go.com/International/video/explosions-qatar-idf-targets-hamas-leadership-125401026|watch explosions in qatar as idf targets hamas leadership us news|2c58722ab014839ab294a27e4c21e750
 2025-09-09T15:57:37.261383+00:00|https://www.nytimes.com/2025/09/09/nyregion/queens-couple-arson-homicide.html|police seek suspect after firefighters find dead couple one in chains us news|492156a7d172e470d62b88fe63865e10
+2025-09-09T16:29:46.186811+00:00|https://www.nbcnews.com/video/shorts/butt-dial-leads-to-arrest-in-texas-murder-247185989637|buttdial leads to arrest in texas murder us news|20eae7a5938c4447a3a22b10add60f53
+2025-09-09T16:29:46.762082+00:00|https://www.nytimes.com/2025/09/09/world/europe/iran-iaea-nuclear-inspections.html|iran and un watchdog meet to discuss resuming nuclear inspections us news|228aad0d0af2b64ddc639d810d6d7556
+2025-09-09T16:29:47.570578+00:00|https://www.nbcnews.com/now/video/israel-carries-out-strike-on-qatari-capital-targeting-hamas-leaders-247184453755|israel carries out strike on qatari capital targeting hamas leaders us news|f9c6fa4227c3348ecd8649437138d3d7
