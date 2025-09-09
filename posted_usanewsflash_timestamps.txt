@@ -2263,3 +2263,4 @@
 2025-09-09T07:57:30.539316+00:00|https://www.nytimes.com/2025/09/09/world/asia/nepal-protests-fire-homes-president.html|protesters in nepal set fire to president and prime ministers homes us news|c124a6be7a23360a7a68aec51cb2f097
 2025-09-09T07:57:31.467890+00:00|https://www.nytimes.com/2025/09/09/world/africa/gaza-aid-flotilla-drone-tunisia.html|gazabound flotilla struck by drone in tunisia aid group says us news|6e78dc0ead07e627421919ad102615e8
 2025-09-09T07:57:32.164609+00:00|https://www.nytimes.com/2025/09/09/world/middleeast/israel-gaza-city-evacuation.html|israeli military orders residents of gaza city to evacuate us news|07de542cf0475d3da0882325aa4ece6e
+2025-09-09T09:26:07.539919+00:00|https://www.nbcnews.com/health/kids-health/hepatitis-b-vaccine-newborn-rfk-jr-immunization-rcna229884|the hepatitis b vaccine has sharply cut infections in children why are some against it us news|cc2b5406f2f6a9d047d0ba2f8d0ed3ac
