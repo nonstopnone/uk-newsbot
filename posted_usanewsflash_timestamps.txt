@@ -2336,3 +2336,7 @@
 2025-09-09T22:19:24.478767+00:00|https://www.nytimes.com/2025/09/09/world/asia/nepal-protests-nepo-kids-social-media.html|for nepals protesters wealthy nepo kids are a source of outrage us news|fefb83941bb842a7257c51ea68c4eb53
 2025-09-09T22:39:57.125172+00:00|https://www.nytimes.com/2025/09/09/science/bird-flu-seals-vaccine.html|scientists begin testing bird flu vaccine in seals us news|590fd585e8699885bb400b0887b84878
 2025-09-09T22:57:40.998274+00:00|https://www.nytimes.com/2025/09/09/us/epstein-trump-birthday-book.html|a phony trump check and a depreciated woman in epsteins birthday book us news|ad01b7abff887cd334f4b5be301fc13f
+2025-09-09T23:19:31.882167+00:00|https://abcnews.go.com/Politics/former-cdc-director-senate-public-appearance-firing/story|former cdc director to come before senate in first public appearance since firing us news|892e607abfbf835aca03f0907739b354
+2025-09-09T23:19:32.402233+00:00|https://www.nytimes.com/2025/09/09/world/asia/nepal-violent-protests-army.html|troops deployed after day of violent protests in nepal us news|808041154f107291df4dc6acfeaa3e65
+2025-09-09T23:19:32.925202+00:00|https://www.nytimes.com/2025/09/09/us/politics/republicans-trump-epstein-sketch.html|republicans shrug at epstein birthday sketch apparently signed by trump us news|d7e5c102dec68e78ab732c20e9f1a487
+2025-09-09T23:19:33.390490+00:00|https://abcnews.go.com/Politics/congressman-shows-video-military-ufo-hearing/story|congressman shows neverbeforeseen video at military ufo hearing us news|1f57804e34d5485ed5be25f524c5467f
