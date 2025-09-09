@@ -2254,3 +2254,4 @@
 2025-09-09T02:54:48.029588+00:00|https://www.nytimes.com/2025/09/08/us/politics/senate-nominations-nuclear-option-trump.html|thune moves to speed trump nominees past democratic blockade us news|99beceeae1da554bbe985b7f6c94a2f5
 2025-09-09T02:54:48.725711+00:00|https://www.nytimes.com/2025/09/08/us/politics/epstein-trump-birthday-book.html|house democrats release epsteins birthday letter apparently signed by trump us news|69e4ab074c9610da4b01f5d0906a6118
 2025-09-09T02:54:49.399830+00:00|https://www.nytimes.com/2025/09/08/us/sequoia-mckinley-grove-california.html|firefighters race to save a treasured sequoia grove in california us news|7d849ba4a99963ca88ad852f0d97efc6
+2025-09-09T03:49:53.623717+00:00|https://www.nytimes.com/2025/09/08/nyregion/cuomo-blau-donors-mayor.html|wealthy ny developers call meeting to plot mamdanis defeat us news|f5323eee61414f61612a83b331118dbe
