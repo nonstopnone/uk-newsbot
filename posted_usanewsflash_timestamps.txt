@@ -2249,3 +2249,5 @@
 2025-09-08T23:21:57.536311+00:00|https://www.nytimes.com/2025/09/08/nyregion/judge-adams-ice-rikers.html|adams administration move to let ice into rikers is illegal judge rules us news|a42ee98c57c87ae36c35d1afd2737666
 2025-09-08T23:39:02.763674+00:00|https://www.nytimes.com/2025/09/08/world/middleeast/jenin-west-bank-teens-killed.html|after 2 teenagers are killed in west bank israeli military opens inquiry us news|a2d751c852517e980ddf181a136ff5e6
 2025-09-08T23:39:03.284080+00:00|https://abcnews.go.com/US/man-accused-murdering-2-men-met-dating-app/story|man accused of murdering 2 men he met through dating app trying to kill third us news|95847b9768051499772c60d093e61cf9
+2025-09-09T01:49:41.572442+00:00|https://www.nytimes.com/2025/09/08/us/charlotte-murder-conservatives-crime.html|a gruesome murder in north carolina ignites a firestorm on the right us news|5bd7d67457ff2475af5c6d9a961dabd8
+2025-09-09T01:49:42.091861+00:00|https://www.nytimes.com/2025/09/08/us/politics/trump-treasury-bessent-pulte-threat.html|trumps treasury secretary threatens to punch housing official in the face us news|64f192ba44f55220cbdca8b6c3b1754b
