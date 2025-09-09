@@ -2311,3 +2311,5 @@
 2025-09-09T18:45:38.461373+00:00|https://www.nbcnews.com/video/shorts/nine-year-old-boy-attends-first-day-of-college-247197253828|nineyearold boy attends first day of college us news|eadd2a9f6426d268328f4c11d697ce23
 2025-09-09T18:45:38.969193+00:00|https://abcnews.go.com/GMA/Living/us-students-reading-math-scores-historic-lows-devastating/story|us students reading and math scores at historic lows devastating trend us news|0b0a416d5a9d5c256d26d1e5c99a3320
 2025-09-09T18:45:39.444366+00:00|https://abcnews.go.com/Business/apple-unveils-iphone-17-including-iphone-air/story|apple unveils iphone 17 including firstever iphone air us news|b291a77335295b59f97b3515d683ad1b
+2025-09-09T18:57:52.231642+00:00|https://abcnews.go.com/US/michigan-judge-dismisses-case-15-alleged-fake-electors/story|michigan judge dismisses case against 15 alleged fake electors in 2020 election us news|63158cae4faa23d90e3a172614f3994e
+2025-09-09T18:57:52.832166+00:00|https://www.nytimes.com/2025/09/09/world/europe/france-macron-prime-minister-lecornu.html|macron picks sébastien lecornu as frances next prime minister us news|2d6a3e157c81dae889f07740e2e76024
