@@ -2308,3 +2308,6 @@
 2025-09-09T17:39:35.899787+00:00|https://www.bbc.com/news/videos/c1edl9qppelo|more than a dozen robbers storm jewellery shop in california us news|6f22f745e354e0f88a82dc4ea5150ad1
 2025-09-09T17:57:54.706541+00:00|https://www.bbc.com/news/articles/c4g7z8pk0j3o|charlotte draws fire after fatal train attack on ukrainian woman us news|3f632efef40e27b6279257ea289a2f34
 2025-09-09T18:30:16.639251+00:00|https://www.nytimes.com/2025/09/09/world/middleeast/hamas-responsibility-jerusalem-bus-shooting.html|hamas fighters claim responsibility for bus stop shooting in jerusalem us news|16f9a8e8bede71e03609cf9af22700c8
+2025-09-09T18:45:38.461373+00:00|https://www.nbcnews.com/video/shorts/nine-year-old-boy-attends-first-day-of-college-247197253828|nineyearold boy attends first day of college us news|eadd2a9f6426d268328f4c11d697ce23
+2025-09-09T18:45:38.969193+00:00|https://abcnews.go.com/GMA/Living/us-students-reading-math-scores-historic-lows-devastating/story|us students reading and math scores at historic lows devastating trend us news|0b0a416d5a9d5c256d26d1e5c99a3320
+2025-09-09T18:45:39.444366+00:00|https://abcnews.go.com/Business/apple-unveils-iphone-17-including-iphone-air/story|apple unveils iphone 17 including firstever iphone air us news|b291a77335295b59f97b3515d683ad1b
