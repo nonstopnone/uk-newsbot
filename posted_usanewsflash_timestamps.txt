@@ -2259,3 +2259,4 @@
 2025-09-09T04:27:38.048600+00:00|https://www.nytimes.com/2025/09/09/business/7-eleven-ceo-stephen-dacus.html|is america ready for japanesestyle 7elevens us news|478945439db6c3a99df684a451b5428b
 2025-09-09T04:27:38.516532+00:00|https://www.nytimes.com/2025/09/09/world/europe/france-government-what-next.html|frances government has collapsed what comes next us news|4ad6d4ab72487f9611cea3c4723fcc56
 2025-09-09T04:57:40.672525+00:00|https://www.nytimes.com/2025/09/08/world/asia/thailand-thaksin-verdict.html|thai court orders thaksin expremier to serve 1 year in prison us news|9167b9984eafa7f9a01953f7346d8681
+2025-09-09T07:22:18.011302+00:00|https://www.nbcnews.com/world/middle-east/officials-deny-boat-gaza-flotilla-was-struck-drone-tunisian-waters-rcna230005|officials deny boat in gaza flotilla was struck by drone in tunisian waters us news|340037dae17a3cb022ec1f1c8717752d
