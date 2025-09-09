@@ -143,3 +143,4 @@
 2025-09-09T03:51:56.210435+00:00|https://www.bbc.com/news/articles/c89dx7z98g7o|badenoch worried uk may need imf bailout|9f01614c6cbf9bf558e8e734064cb25c
 2025-09-09T07:18:44.533327+00:00|https://www.bbc.com/news/articles/c20zr3xq969o|arbitrary fireworks ban zone excludes parts of flashpoint areas|f0c3a33ed3a6f3c92de7a4d3af228ccb
 2025-09-09T08:29:12.505531+00:00|https://www.telegraph.co.uk/business/2025/09/09/tube-strikes-dates-and-lines-london-underground-tfl|tube strikes lines affected across london underground today and alternative routes|7042ac0f888f30c0e228f80ab3600ed1
+2025-09-09T09:55:32.405722+00:00|https://news.sky.com/story/we-may-see-more-things-coming-out-bbc-chief-quizzed-by-mps-about-talent-scandal-13427495|we may see more things coming out bbc chief quizzed by mps about talent scandal|0b9d36bb39e9f02559a4c28b2442a044
