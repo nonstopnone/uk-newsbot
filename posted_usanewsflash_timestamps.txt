@@ -2284,3 +2284,5 @@
 2025-09-09T13:48:57.799138+00:00|https://abcnews.go.com/International/israel-precise-strike-hamas-leadership/story|israel conducts precise strike on hamas leadership in qatar officials us news|feaf06809d059a3d491857f42220330b
 2025-09-09T13:48:58.436441+00:00|https://abcnews.go.com/US/jury-selection-continues-case-man-allegedly-kill-trump/story|jury selection continues for man who allegedly tried to kill trump on golf course us news|a5ea0c043109ecd28133be6784c5c657
 2025-09-09T13:48:59.041845+00:00|https://www.nytimes.com/2025/09/09/world/middleeast/israel-hamas-doha-qatar-strike.html|israel targeted hamas leadership in strike in qatar military says us news|9f14745b595f6bb8e2bc1178080f93ef
+2025-09-09T13:58:04.824492+00:00|https://www.nbcnews.com/news/us-news/husband-woman-caught-coldplay-kiss-cam-speaks-divorce-rcna230027|husband of woman caught on coldplay kiss cam speaks out amid divorce us news|472675b2e43a0a871be9a05908d47888
+2025-09-09T13:58:05.540691+00:00|https://www.nbcnews.com/world/quatar/blasts-doha-qatar-israel-hamas-idf-strikes-rcna230038|israel strikes hamas leadership in qatar source says us news|64f88448a94a84c2c3a8a8556f1a14be
