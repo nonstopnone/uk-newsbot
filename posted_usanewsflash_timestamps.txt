@@ -2321,3 +2321,6 @@
 2025-09-09T19:38:51.315724+00:00|https://www.nytimes.com/2025/09/09/business/economy/us-poverty-rate-2024.html|us poverty rate was stable in 2024 as household income rose slightly us news|9e5f8e02a9738b39e4f2996e18cb4ffe
 2025-09-09T19:57:37.575332+00:00|https://abcnews.go.com/Politics/white-house-israels-strike-doha-advance-israel-americas/story|white house says israels strike in doha does not advance israel or americas goals us news|67f5a02829f56482a8d5a1db19389d5a
 2025-09-09T19:57:38.290764+00:00|https://www.nytimes.com/2025/09/09/us/charlotte-light-rail-stabbing-charges.html|man accused in brutal nc rail slaying faces federal charge us news|5e4a290db9d4c64d8046487052238dd8
+2025-09-09T20:24:33.577309+00:00|https://www.bbc.com/news/articles/c74955zk35yo|business chiefs urge trump to ease up on immigration crackdown after georgia raid us news|0f2d27de75a94c75d0833421e299a26c
+2025-09-09T20:24:34.036955+00:00|https://www.bbc.com/news/articles/cx25711r8jxo|us says strike on doha does not advance israels goals us news|d538c3ee0720193f952ce783c71e6240
+2025-09-09T20:24:34.520352+00:00|https://www.nytimes.com/2025/09/09/us/politics/epstein-house-vote.html|effort to force a house vote on epstein files nears success us news|d792c8b8b17c88d74890a863c0d7925c
