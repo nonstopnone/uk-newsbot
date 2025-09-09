@@ -2324,3 +2324,5 @@
 2025-09-09T20:24:33.577309+00:00|https://www.bbc.com/news/articles/c74955zk35yo|business chiefs urge trump to ease up on immigration crackdown after georgia raid us news|0f2d27de75a94c75d0833421e299a26c
 2025-09-09T20:24:34.036955+00:00|https://www.bbc.com/news/articles/cx25711r8jxo|us says strike on doha does not advance israels goals us news|d538c3ee0720193f952ce783c71e6240
 2025-09-09T20:24:34.520352+00:00|https://www.nytimes.com/2025/09/09/us/politics/epstein-house-vote.html|effort to force a house vote on epstein files nears success us news|d792c8b8b17c88d74890a863c0d7925c
+2025-09-09T20:40:42.240236+00:00|https://www.nbcnews.com/politics/supreme-court/supreme-court-temporarily-allows-trump-withhold-4-billion-foreign-aid-rcna230186|supreme court temporarily allows trump to withhold $4 billion in foreign aid us news|842088551cad1d3630583b13c3d40255
+2025-09-09T20:40:42.954256+00:00|https://www.nytimes.com/2025/09/09/us/boston-mayor-wu-preliminary-election.html|boston mayor faces off against three challengers in preliminary election us news|6800c3b9024511a949fa18cc804b971a
