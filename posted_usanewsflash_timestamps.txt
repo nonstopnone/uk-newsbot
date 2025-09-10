@@ -2397,3 +2397,5 @@
 2025-09-10T18:32:54.646496+00:00|https://www.nbcnews.com/video/shorts/harris-calls-biden-s-bid-for-re-election-reckless-247287365822|harris calls bidens bid for reelection reckless us news|5482e37720f6164418dece6ee4b640b0
 2025-09-10T18:32:55.299261+00:00|https://www.nytimes.com/2025/09/10/world/asia/nepal-protests-military.html|military enforces calm in nepal after two days of chaos us news|7ad36d3a0921c11cd7f724ef47ea9b89
 2025-09-10T18:49:08.952388+00:00|https://www.nytimes.com/2025/09/10/us/politics/trump-tariffs-supreme-court.html|trumps economic agenda hinges on the supreme courts tariff ruling us news|db9af42339522f4cc0824d3e86ee902e
+2025-09-10T19:18:15.863787+00:00|https://www.bbc.com/news/articles/cn95318rzwvo|fired fbi agents sue kash patel over retribution claims us news|1a44cd3f60f7953f416c60ee75ceb159
+2025-09-10T19:18:16.573252+00:00|https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story|charlie kirk shot during event at utah university trump says we all must pray us news|b1e2c42e6eb23a5f4c4ed010f3a3cd3c
