@@ -2360,3 +2360,8 @@
 2025-09-10T10:23:44.117434+00:00|https://www.nytimes.com/2025/09/10/us/politics/trump-rfk-vaccines-cdc.html|vaccines and cdc chaos expose tensions between trump and kennedy us news|a2eb08b1724c7983dac5398ee290313e
 2025-09-10T10:23:44.772590+00:00|https://www.nytimes.com/2025/09/10/us/politics/howard-lutnick-government-private-companies.html|how lutnick is using government power to pressure private companies us news|0630ef1c9f2121e28c2fd2bb41935d9b
 2025-09-10T10:23:45.448453+00:00|https://www.nytimes.com/2025/09/10/nyregion/israel-hamas-poll-mamdani.html|gaza war turns new yorkers against israel with mayors race as backdrop us news|7312214e3c677b2f9c1bb94cfd020fbc
+2025-09-10T10:42:16.686720+00:00|https://www.nytimes.com/2025/09/10/us/politics/a-new-9-11-generation-these-children-promise-to-never-forget.html|these children born after 911 promise to never forget us news|a4c5b61048497f256229c60ef1063ab3
+2025-09-10T10:42:17.280172+00:00|https://www.nytimes.com/2025/09/10/world/middleeast/israel-strike-qatar-us.html|israels attack on qatari soil leads gulf powers to question us protection us news|0ea118186d3453d7a2ef24da3bc20cfb
+2025-09-10T10:42:17.906161+00:00|https://www.nytimes.com/2025/09/10/arts/9-11-video-footage.html|a collective video diary of 911 in 500 hours us news|634e636708a8f44da61d39af050cc1bd
+2025-09-10T10:42:18.506118+00:00|https://www.nytimes.com/2025/09/10/world/asia/nepal-gen-z-protests.html|what we know about the protests in nepal us news|3969c587f6c0f8da49f0066217b89dfc
+2025-09-10T10:42:19.154405+00:00|https://www.nytimes.com/2025/09/10/world/asia/south-korea-woman-tongue-attempted-rape.html|south korean woman cleared decades after biting attackers tongue during attempted rape us news|26d9775f61f6956e83d4816cc022a060
