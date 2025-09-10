@@ -2396,3 +2396,4 @@
 2025-09-10T18:32:53.923470+00:00|https://www.nytimes.com/2025/09/10/nyregion/mamdani-sept-11-muslim.html|mamdani reflects on 911 as he vies to be new yorks first muslim mayor us news|7447a7daa631af3257989631cd01b795
 2025-09-10T18:32:54.646496+00:00|https://www.nbcnews.com/video/shorts/harris-calls-biden-s-bid-for-re-election-reckless-247287365822|harris calls bidens bid for reelection reckless us news|5482e37720f6164418dece6ee4b640b0
 2025-09-10T18:32:55.299261+00:00|https://www.nytimes.com/2025/09/10/world/asia/nepal-protests-military.html|military enforces calm in nepal after two days of chaos us news|7ad36d3a0921c11cd7f724ef47ea9b89
+2025-09-10T18:49:08.952388+00:00|https://www.nytimes.com/2025/09/10/us/politics/trump-tariffs-supreme-court.html|trumps economic agenda hinges on the supreme courts tariff ruling us news|db9af42339522f4cc0824d3e86ee902e
