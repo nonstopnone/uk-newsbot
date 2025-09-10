@@ -2418,3 +2418,7 @@
 2025-09-10T21:38:44.964497+00:00|https://www.nytimes.com/2025/09/10/nyregion/nyc-subway-hochul-white-house.html|the subway had its safest summer in years the white house shrugged us news|f543a9a204e23ff49d86441285e0a2d1
 2025-09-10T21:38:45.461722+00:00|https://www.nbcnews.com/video/shorts/charlie-kirk-is-dead-trump-says-247313989827|charlie kirk is dead trump says us news|384b1166b868ad0179f58da8c2a9429c
 2025-09-10T21:38:45.963351+00:00|https://www.nytimes.com/2025/09/10/nyregion/trump-org-central-park-wollman-skating-rink.html|trump organization is poised to lose bid for central park skating rink us news|becfe4bc7f86e8425b15a1fa1d914c05
+2025-09-10T21:57:53.738335+00:00|https://www.bbc.com/news/articles/c749ee2kpvgo|klarna hits $19bn value in wall street debut us news|e05adfcd5843725520acae41f501efe5
+2025-09-10T21:57:54.310162+00:00|https://www.nytimes.com/2025/09/10/us/charlie-kirk-shooting-timeline-map.html|charlie kirk shooting visual timeline maps and photos us news|bc87411a3e5186122b4b3fb4d1581a28
+2025-09-10T21:57:54.871958+00:00|https://www.nytimes.com/2025/09/10/well/eat/maha-report-nutrition.html|kennedy report wont solve americas food issues experts say us news|87cbae4d3fb6196886aa88368e4f7a1b
+2025-09-10T21:57:55.429667+00:00|https://www.nbcnews.com/video/looking-back-at-charlie-kirk-s-career-as-a-political-activist-247311941940|looking back at charlie kirks career as a political activist us news|92a16bf76764b939f71eaf352dc37a4a
