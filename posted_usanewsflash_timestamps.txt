@@ -2432,3 +2432,4 @@
 2025-09-10T23:19:55.763658+00:00|https://www.nbcnews.com/video/shooting-at-colorado-s-evergreen-high-school-wounds-three-247316037697|three students critically wounded in colorado school shooting us news|4c0e5bfd708c7b3f2ea286ec67762c1a
 2025-09-10T23:19:56.611685+00:00|https://www.nytimes.com/2025/09/10/well/chronic-disease-deaths.html|chronic disease deaths have fallen globally but progress in us stalled us news|e2ec490c94f6ff71f525e99eca8f0e33
 2025-09-10T23:38:47.420481+00:00|https://www.nytimes.com/2025/09/10/us/politics/eleanor-holmes-norton-dc.html|norton says little as bills to clamp down on dc advance us news|3d670af43c2ab9337f2c7158ead389e3
+2025-09-10T23:57:30.206216+00:00|https://www.nbcnews.com/nightly-news/video/nato-forces-shoot-down-russian-drones-over-poland-247324229822|nato forces shoot down russian drones over poland us news|01600112e6e79f50c998163f18ccdde5
