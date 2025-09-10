@@ -2345,3 +2345,5 @@
 2025-09-10T01:45:58.951630+00:00|https://www.nbcnews.com/video/scotus-agrees-to-consider-whether-most-of-trump-s-tariffs-are-legal-247230021899|scotus agrees to consider whether most of trumps tariffs are legal us news|881134a22a322c1d20257d7e3df87e19
 2025-09-10T01:45:59.535265+00:00|https://www.nbcnews.com/nightly-news/video/israel-attacks-hamas-leaders-in-qatar-247229509726|israel attacks hamas leaders in qatar us news|6b25f7fe95642c646709935938d823d1
 2025-09-10T01:46:00.094220+00:00|https://www.nytimes.com/2025/09/09/us/politics/israel-trump-gaza-qatar-bombing.html|with qatar attack israel again leaves trump in the dark us news|1d28accd5c46f7cc71c86e7e77b8a8d2
+2025-09-10T02:45:59.940517+00:00|https://www.bbc.com/news/articles/c5y8x3md05no|meta covered up potential child harms whistleblowers claim us news|93be0fabc5db643b9e091cf3bb1d074c
+2025-09-10T02:46:00.632013+00:00|https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-firing-lisa-cook-federal-reserve-rcna230241|judge temporarily blocks trumps firing of federal reserve governor lisa cook us news|84c724440070afbbc992314f71169e7b
