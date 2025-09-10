@@ -1,4 +1,3 @@
-2025-09-03T22:17:31.518595+00:00|https://www.bbc.com/news/articles/ckgy215pml2o|six charged with terrorism offences over support for palestine action uk news|8449b48f9767b135feb9ad0bee9256da
 2025-09-03T23:17:16.821629+00:00|https://www.bbc.com/news/articles/cgr9zg17n5yo|my sons constipation wasnt taken seriously until he reached crisis point uk news|ee3dce8cc6f4b01820578648c46ef982
 2025-09-03T23:17:57.458711+00:00|https://www.bbc.com/news/articles/c8606gp4711o|30000 homes fitted with botched insulation under government schemes ministers admit uk news|26ab2810fb2a694108522c1efffde87c
 2025-09-03T23:18:38.082538+00:00|https://www.bbc.com/news/articles/cp8j1mx2e2ko|toxic hospital trust where secret files held on staff exsurgeon uk news|6fc1d4c2eec353f31952e7bfeac4d373
@@ -115,3 +114,5 @@
 2025-09-10T17:33:22.739266+00:00|https://www.telegraph.co.uk/recommended/tech/reviews/bt-broadband-review|bt broadband review a broadband provider stuck in the past|cb08deaf451d4c8e1585b8787cef6f24
 2025-09-10T17:45:51.956048+00:00|https://news.sky.com/story/uk-looking-to-reinforce-polands-air-defences-as-eu-diplomat-warns-ukraine-war-is-escalating-13428233|uk looking to reinforce polands air defences as eu diplomat warns ukraine war is escalating|c230eac5dffd2767bb483f85c8df79d2
 2025-09-10T18:59:27.098407+00:00|https://news.sky.com/story/prince-harry-has-arrived-at-clarence-house-to-meet-the-king-13428262|harry says king is great after they have private tea in first meeting for 19 months|59700acab3fca07da50d27bf4e961027
+2025-09-10T22:17:57.114701+00:00|https://www.bbc.com/news/articles/cjedxl0qxyjo|trump to visit late queens tomb during uk state visit|fc8724f88e6faf975466004795193548
+2025-09-10T22:18:37.784996+00:00|https://www.bbc.com/news/articles/cyv64q7qq03o|psni cannot afford to pay staff compensation over major data breach|63a4f82ac18bdb2c48af51da4da5963b
