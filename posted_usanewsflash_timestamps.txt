@@ -2464,3 +2464,5 @@
 2025-09-11T13:33:39.433497+00:00|https://www.nbcnews.com/business/economy/inflation-cpi-report-august-rcna230557|inflation rose in august as new signs of weakness showed up in the labor market us news|64de7651a4eedfb93880005eaaa43675
 2025-09-11T13:33:40.142232+00:00|https://www.nbcnews.com/video/shorts/front-row-witness-describes-charlie-kirk-shooting-247364165698|front row witness describes charlie kirk shooting us news|afcf6ab8e3a8d2cf36d2d01e6c57f13b
 2025-09-11T13:57:23.185638+00:00|https://abcnews.go.com/Politics/wireStory/us-marks-24th-anniversary-911-terror-attacks-125468167|us marks 24th anniversary of 911 terror attacks us news|54bb95258054663e7c299de55ad71399
+2025-09-11T14:22:17.456334+00:00|https://www.nbcnews.com/video/shorts/weapon-found-in-charlie-kirk-shooting-fbi-says-247367749579|weapon found in charlie kirk shooting fbi says us news|d4b33777a77a724c12394b7c382fed09
+2025-09-11T14:22:17.978855+00:00|https://www.nytimes.com/2025/09/11/technology/fake-reviews-small-businesses.html|small businesses face a new threat pay up or be flooded with bad reviews us news|e144d1927d29ee9128875db9ca5b5453
