@@ -2502,3 +2502,6 @@
 2025-09-11T22:20:01.765399+00:00|https://www.bbc.com/news/articles/c5yev470d59o|what did security look like at charlie kirk shooting us news|1fe099cec089365c077a9c699f9059f9
 2025-09-11T22:20:02.273709+00:00|https://www.nbcnews.com/video/shorts/tom-llamas-reflects-on-political-violence-in-the-u-s-247409221716|tom llamas reflects on political violence in the us us news|16d50bf4abf6b2ccb0c689dc1bebf9b1
 2025-09-11T22:40:13.143308+00:00|https://www.nytimes.com/2025/09/11/briefing/manhunt-charlie-kirk-inflation-data.html|the fbi asked for help finding charlie kirks killer us news|7c4a5bbda683594a155aa88abaac1ef9
+2025-09-11T23:20:06.641439+00:00|https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html|nepals social media ban backfires as citizens nominate new leader in chat room us news|f632d10fcb0b9a5758d1a8d51137fe13
+2025-09-11T23:20:07.454444+00:00|https://www.nytimes.com/2025/09/11/nyregion/mamdani-police-apology-floyd.html|mamdani says he will apologize for calling the nypd racist in 2020 us news|22be3e9f2fce7a77993ea54b9080068b
+2025-09-11T23:20:08.035861+00:00|https://www.nytimes.com/2025/09/11/world/middleeast/israel-qatar-un-security-council.html|us joins un security councils criticism of israeli strike in qatar us news|4c0ca9276a13f74adae7b82753f91b2c
