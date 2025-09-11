@@ -2454,3 +2454,6 @@
 2025-09-11T09:57:36.712193+00:00|https://www.nytimes.com/2025/09/11/us/charlie-kirk-martyr-conservative-christians.html|conservative christians mourn kirk as a martyr us news|6205baed9f543fed6c99c4222372b300
 2025-09-11T10:23:09.806410+00:00|https://www.nytimes.com/2025/09/11/world/middleeast/israel-attack-qatar-hamas.html|what drove israels attack on hamas in qatar us news|0a32583cb3c64d659b8dd0f4032c052b
 2025-09-11T10:41:42.934676+00:00|https://www.nbcnews.com/world/united-kingdom/british-ambassador-us-peter-mandelson-fired-epstein-links-trump-rcna230540|uk ambassador to us fired over epstein links us news|251628270bb574001dbe88232e062976
+2025-09-11T10:57:25.107457+00:00|https://www.bbc.com/news/articles/c9wd5qpekkvo|nasa bans chinese nationals from working on its space programs us news|25250a0301cf3df557ca440e448a7181
+2025-09-11T10:57:25.751836+00:00|https://www.nbcnews.com/video/charlie-kirk-carried-away-after-fatal-shooting-247351365703|charlie kirk carried away after fatal shooting us news|2f4fa036bc98ab096495055a7147ec74
+2025-09-11T10:57:26.419193+00:00|https://abcnews.go.com/US/opening-statements-tap-trial-man-allegedly-kill-trump/story|opening statements on tap in trial of man who allegedly tried to kill trump us news|7c3936508981e007a4ae571b478f9de2
