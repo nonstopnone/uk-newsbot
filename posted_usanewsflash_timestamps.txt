@@ -2499,3 +2499,5 @@
 2025-09-11T20:57:45.565102+00:00|https://www.nbcnews.com/news/us-news/charlie-kirks-assassination-highlights-history-political-violence-us-rcna230586|charlie kirks assassination highlights a history of political violence in the us us news|e5d5db912810dda04cdd47a9d16f73d6
 2025-09-11T21:19:04.920074+00:00|https://www.nytimes.com/2025/09/11/nyregion/nyc-mayor-race-drop-walden-adams-sliwa.html|can a new york city mayoral candidate be taken off the ballot us news|4762aecc3cec2faae2232b6bac1b558e
 2025-09-11T21:38:35.233934+00:00|https://www.nytimes.com/2025/09/11/world/americas/bolsonaro-convicted-coup-attempt.html|bolsonaro convicted of attempting a coup in brazil us news|2d890c981a143cbb081fee65f54bad36
+2025-09-11T22:20:01.765399+00:00|https://www.bbc.com/news/articles/c5yev470d59o|what did security look like at charlie kirk shooting us news|1fe099cec089365c077a9c699f9059f9
+2025-09-11T22:20:02.273709+00:00|https://www.nbcnews.com/video/shorts/tom-llamas-reflects-on-political-violence-in-the-u-s-247409221716|tom llamas reflects on political violence in the us us news|16d50bf4abf6b2ccb0c689dc1bebf9b1
