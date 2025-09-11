@@ -2486,3 +2486,4 @@
 2025-09-11T17:38:00.702617+00:00|https://abcnews.go.com/US/video/multiple-students-injured-colorado-high-school-shooting-125484968|watch multiple students injured in colorado high school shooting us news|94866cbcc43ae6f1851f77704420b104
 2025-09-11T17:38:01.461836+00:00|https://abcnews.go.com/US/video/fbi-releases-images-person-interest-amid-manhunt-charlie-125484682|watch fbi releases images of person of interest amid manhunt for charlie kirks killer us news|4df3abbf87616ca43ee214af7a6edf0b
 2025-09-11T17:38:02.145907+00:00|https://www.nytimes.com/2025/09/11/nyregion/nadine-menendez-bribery-sentencing.html|nadine menendez wife of a senator sentenced to 4 12 years for bribery scheme us news|9cc6a39dd614bc7980680814b5cb0b16
+2025-09-11T17:57:24.246173+00:00|https://www.nytimes.com/2025/09/11/us/politics/epstein-jpmorgan-banks-senate-letter.html|democrats want jpmorgan and other banks to testify over epstein ties us news|4dbb1aa880a7c09c53c03a236a3cda66
