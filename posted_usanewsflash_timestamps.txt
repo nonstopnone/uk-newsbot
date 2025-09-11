@@ -2460,3 +2460,6 @@
 2025-09-11T13:15:16.886471+00:00|https://www.today.com/video/charlie-kirk-shooting-a-targeted-attack-officials-say-247353925765|conservative activist charlie kirk assassinated what we know us news|01e8177523b64364cb81139391de80e5
 2025-09-11T13:15:17.490493+00:00|https://abcnews.go.com/Business/inflation-expected-climbed-august-fed-weighs-interest-rate/story|inflation climbed in august as trumps tariffs intensified us news|54df26ef7ec9f82eea6464e6a5f0f727
 2025-09-11T13:15:18.066372+00:00|https://www.nytimes.com/2025/09/11/us/9-11-anniversary-nyc.html|in public and in private new york marks 911 anniversary us news|cc31e82ca12c35c53fc9171a2c31a4e9
+2025-09-11T13:33:38.943749+00:00|https://www.nbcnews.com/video/watch-live-trump-attends-9-11-remembrance-event-at-the-pentagon-247361093784|trump attends 911 remembrance event at the pentagon us news|1a37617fc071032d15532119c8e201e8
+2025-09-11T13:33:39.433497+00:00|https://www.nbcnews.com/business/economy/inflation-cpi-report-august-rcna230557|inflation rose in august as new signs of weakness showed up in the labor market us news|64de7651a4eedfb93880005eaaa43675
+2025-09-11T13:33:40.142232+00:00|https://www.nbcnews.com/video/shorts/front-row-witness-describes-charlie-kirk-shooting-247364165698|front row witness describes charlie kirk shooting us news|afcf6ab8e3a8d2cf36d2d01e6c57f13b
