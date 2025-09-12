@@ -2535,3 +2535,4 @@
 2025-09-12T11:38:52.798341+00:00|https://www.nytimes.com/2025/09/12/nyregion/queens-fire-murders.html|suspect in murder of queens couple told police that he burned them us news|7539980cc036cd30c066772ebd3a1cc0
 2025-09-12T11:38:53.342144+00:00|https://www.nbcnews.com/video/shorts/paramount-prepares-bid-for-warner-bros-discovery-247446085682|paramount prepares bid for warner bros discovery us news|89ae8ca7e2879bf9be69751878afb821
 2025-09-12T11:57:36.008482+00:00|https://www.today.com/video/string-of-false-threats-puts-universities-around-us-on-edge-247444037537|charlie kirk assassination sparks string of hoax threats us news|e52ff99bdebabeda8b0f31493fe8a758
+2025-09-12T12:45:16.169425+00:00|https://www.nytimes.com/2025/09/12/business/dealbook/openai-microsoft-governance-costs.html|the billiondollar stakes for openai us news|6f9497272dcb5c801e7c972b106a86de
