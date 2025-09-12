@@ -2575,3 +2575,4 @@
 2025-09-12T17:57:28.461734+00:00|https://www.nytimes.com/2025/09/12/us/ice-shooting-chicago.html|man fatally shot in confrontation with ice officers in chicago area us news|705f6e80c84970d881bcbc99e06d5117
 2025-09-12T18:28:32.051262+00:00|https://www.nbcnews.com/news/latino/person-killed-ice-agent-injured-immigration-arrest-chicago-rcna230878|a person is killed and an ice agent injured in an immigration arrest near chicago us news|62451c0452885ffff24e8b7560c42a74
 2025-09-12T18:57:46.638203+00:00|https://www.nytimes.com/2025/09/12/nyregion/mamdani-arrest-netanyahu-nyc-mayor.html|mamdani if elected mayor pledges to order nypd to arrest netanyahu us news|06ccff02551c5c4b909b44f005580969
+2025-09-12T19:17:17.372358+00:00|https://www.nytimes.com/2025/09/12/world/europe/stephen-schwarzman-blackstone-water-uk.html|amid water restrictions uk residents fume as blackstone ceo fills private lake us news|eb6c31e86042743987b8869e4002d9d6
