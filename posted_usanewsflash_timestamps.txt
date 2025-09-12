@@ -2569,3 +2569,5 @@
 2025-09-12T16:43:21.233812+00:00|https://www.nytimes.com/2025/09/12/health/fda-covid-vaccines-injuries-deaths.html|fda reviews cases of covid vaccine deaths us news|e1a8c71b6b4f85846996c19b7f980df2
 2025-09-12T16:57:54.200994+00:00|https://www.nytimes.com/2025/09/12/us/tyler-robinson-charlie-kirk-shooting-suspect.html|what we know about tyler robinson suspect in charlie kirk shooting us news|05876355a3e065aeffc98b1ba5264866
 2025-09-12T16:57:54.731531+00:00|https://www.nytimes.com/2025/09/12/us/trump-tyler-robinson-utah-shooting.html|as trump vows vengeance utahs governor calls to lower the temperature us news|af61c22cae87d1c970a25147f9d227f8
+2025-09-12T17:18:43.190127+00:00|https://www.nbcnews.com/health/health-news/fda-covid-vaccine-child-deaths-data-cdc-meeting-rcna230849|fda to present data it claims ties covid shots to child deaths at cdc meeting us news|620f31f8318ab3d4a5ecadc90e69f161
+2025-09-12T17:18:43.709610+00:00|https://www.nytimes.com/2025/09/11/arts/design/los-angeles-olympics-cultural-plan-lagging.html|as los angeles olympics loom critics worry its cultural plan is lagging us news|9142d70c28b1ddd47bbdeb53db6b08a0
