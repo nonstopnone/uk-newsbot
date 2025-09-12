@@ -2518,3 +2518,7 @@
 2025-09-12T01:44:51.683944+00:00|https://www.nytimes.com/2025/09/11/us/charlie-kirk-manhunt.html|no arrests in charlie kirks killing as fbi seeks help from public us news|bffd5daaf690e6f64a3be9c28ced9f4a
 2025-09-12T01:44:52.586158+00:00|https://www.nytimes.com/2025/09/11/nyregion/mamdani-bloomberg-mayor.html|mamdani meets bloomberg once a sworn foe for a cordial discussion us news|714c964756df0507203acbc293cfe138
 2025-09-12T02:45:04.617523+00:00|https://www.nytimes.com/2025/09/11/us/naval-academy-annapolis.html|a false report of a shooter prompts a shooting at the us naval academy us news|1af39ed1124e4b37d6f38b50fd1e5022
+2025-09-12T03:18:24.951298+00:00|https://www.nytimes.com/2025/09/11/us/politics/senate-republicans-change-rules-nominees.html|breaking precedent gop changes rules on nominees us news|5cdb633ce380918f17f4e9fa33df33ae
+2025-09-12T03:18:25.845332+00:00|https://www.nytimes.com/2025/09/11/us/patriots-owners-son-drops-out-of-boston-mayoral-race.html|patriots owners son drops out of boston mayoral race us news|476ebed40176cfb46cd61a99684cf45c
+2025-09-12T03:18:26.704839+00:00|https://www.nbcnews.com/video/shorts/vp-vance-arrives-in-arizona-with-charlie-kirk-s-casket-247427653861|vp vance arrives in arizona with charlie kirks casket us news|dfaabc8de1aef88c7c41812e66732648
+2025-09-12T03:18:27.608049+00:00|https://www.nbcnews.com/video/shorts/new-video-shows-charlie-kirk-shooting-suspect-fleeing-247429189856|new video shows charlie kirk shooting suspect fleeing us news|e3aaa24e9812a3e3b28a743bcd6575d2
