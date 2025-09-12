@@ -2529,3 +2529,5 @@
 2025-09-12T10:23:50.598085+00:00|https://www.nytimes.com/2025/09/12/health/flu-complications-infection-deaths.html|rare but serious complication shows flus potential harm us news|877b012be183bff917349d198c26843f
 2025-09-12T10:23:51.189043+00:00|https://www.nytimes.com/2025/09/12/arts/television/rachel-sennott-i-love-la.html|with i love la rachel sennott keeps her cool us news|75d14739c3e635198ff8f76cbe0c4c14
 2025-09-12T10:23:51.799566+00:00|https://www.nytimes.com/2025/09/12/climate/an-annual-blast-of-pacific-cold-water-did-not-occur-alarming-scientists.html|an annual blast of pacific cold water did not occur alarming scientists us news|9a2571c4daa884abd278bd69aec7b29c
+2025-09-12T10:42:16.563725+00:00|https://www.nbcnews.com/video/shorts/attempted-smash-and-grab-robbery-caught-on-camera-247443525784|attempted smash and grab robbery caught on camera us news|8c9776efe45c61b3b4e99fbf3cfb5851
+2025-09-12T10:42:17.118914+00:00|https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story|manhunt for charlie kirks killer enters 3rd day as questions swirl us news|34065834f1551fde709149954d04fb66
