@@ -2538,3 +2538,5 @@
 2025-09-12T12:45:16.169425+00:00|https://www.nytimes.com/2025/09/12/business/dealbook/openai-microsoft-governance-costs.html|the billiondollar stakes for openai us news|6f9497272dcb5c801e7c972b106a86de
 2025-09-12T13:14:44.033321+00:00|https://www.nbcnews.com/video/special-report-trump-says-suspect-in-kirk-shooting-is-in-custody-247447109704|special report trump says suspect in kirk shooting is in custody us news|e93a1e5fefe1fc4fb430119618aaf7e4
 2025-09-12T13:14:44.635325+00:00|https://www.nbcnews.com/video/shorts/trump-says-the-suspect-in-charlie-kirk-s-shooting-is-in-custody-247448133783|trump says the suspect in charlie kirks shooting is in custody us news|b454b556f334b9a02726269ee4ed092e
+2025-09-12T13:34:52.505657+00:00|https://abcnews.go.com/US/video/person-custody-shooting-charlie-kirk-trump-125509996|watch person in custody in shooting of charlie kirk trump says us news|f929ac359fdd7d3a6662498bec2c45fb
+2025-09-12T13:34:53.188755+00:00|https://www.nbcnews.com/video/shorts/charlie-kirk-shooting-suspect-s-family-called-police-247450693621|charlie kirk shooting alleged suspects family called police us news|7fdbefa51a86d58ad6984a2bc1cf3ff1
