@@ -2619,3 +2619,4 @@
 2025-09-13T16:24:03.927685+00:00|https://www.nytimes.com/2025/09/13/us/politics/rubio-israel-natanyahu.html|rubio to visit a defiant israel after qatar strike us news|c835b90c0d067c534eec9335030ad70b
 2025-09-13T16:24:04.441312+00:00|https://www.nytimes.com/2025/09/13/us/politics/trump-kirk-political-opponents.html|trump escalates attacks on political opponents after charlie kirks killing us news|b09962cc63b4fa70ba082df213d54e2a
 2025-09-13T16:40:55.076556+00:00|https://abcnews.go.com/US/flood-threats-impact-parts-west-hot-stormy-weather/story|flood threats impact parts of the west hot and stormy weather in florida us news|c8d75f5c0fb213852afec8de2b5b5e39
+2025-09-13T16:57:22.741837+00:00|https://www.nbcnews.com/video/shorts/memphis-mayor-not-happy-about-national-guard-plans-247528005564|memphis mayor not happy about national guard plans us news|2550c43c9ced7ab00c66f1d1d91f95ec
