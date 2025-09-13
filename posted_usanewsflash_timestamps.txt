@@ -2605,3 +2605,4 @@
 2025-09-13T04:57:37.900873+00:00|https://www.nytimes.com/2025/09/13/us/california-scientific-research-bond.html|californias $23 billion plan to restore federal cuts to scientific research us news|736845e2523476ed59756423ab4cdcdb
 2025-09-13T05:20:05.027038+00:00|https://www.nytimes.com/2025/09/13/us/politics/trump-lawsuit-wrongful-deportations-ghana.html|lawsuit accuses trump officials of more wrongful deportations us news|4ba4916947f3c1ea94c1bb7fee60904b
 2025-09-13T08:42:14.950238+00:00|https://www.nytimes.com/2025/09/13/us/politics/trump-berkeley-antisemitism-investigation.html|uc berkeley gives names of students and faculty to government for antisemitism probe us news|dedb43c441aef224e3c92529a1afb2d2
+2025-09-13T09:38:24.300259+00:00|https://www.nbcnews.com/news/news-quiz/jeffrey-epstein-jerry-seinfeld-rcna230655|whats the deal with jerry seinfeld plus jeffrey epsteins birthday book and a royal reunion us news|f3ce45436e1ed725268d952ca54287fa
