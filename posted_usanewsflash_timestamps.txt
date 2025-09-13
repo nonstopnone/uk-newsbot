@@ -2604,3 +2604,4 @@
 2025-09-13T04:41:25.746391+00:00|https://www.nbcnews.com/video/shorts/albania-appoints-bot-as-world-s-first-ai-minister-247511621656|albania appoints bot as worlds first ai minister us news|b14b1b46f0e9e664f3783a26d5adc810
 2025-09-13T04:57:37.900873+00:00|https://www.nytimes.com/2025/09/13/us/california-scientific-research-bond.html|californias $23 billion plan to restore federal cuts to scientific research us news|736845e2523476ed59756423ab4cdcdb
 2025-09-13T05:20:05.027038+00:00|https://www.nytimes.com/2025/09/13/us/politics/trump-lawsuit-wrongful-deportations-ghana.html|lawsuit accuses trump officials of more wrongful deportations us news|4ba4916947f3c1ea94c1bb7fee60904b
+2025-09-13T08:42:14.950238+00:00|https://www.nytimes.com/2025/09/13/us/politics/trump-berkeley-antisemitism-investigation.html|uc berkeley gives names of students and faculty to government for antisemitism probe us news|dedb43c441aef224e3c92529a1afb2d2
