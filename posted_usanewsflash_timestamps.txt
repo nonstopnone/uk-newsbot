@@ -2624,3 +2624,5 @@
 2025-09-13T17:57:35.151417+00:00|https://www.nytimes.com/2025/09/13/arts/israel-hollywood-boycott-paramount.html|paramount criticizes celebrityendorsed israeli film boycott us news|f8b4961d22d2fe51398bc95c8507ac00
 2025-09-13T18:42:22.112250+00:00|https://abcnews.go.com/International/wireStory/taliban-claim-agreement-reached-us-envoys-prisoner-swap-125541043|taliban claim agreement reached with us envoys on a prisoner swap us news|41aead9ee3fc1cc7f0e5697eafc98e24
 2025-09-13T19:15:11.636372+00:00|https://www.nytimes.com/2025/09/13/us/politics/charlie-kirk-legacy-trump.html|wrestling over charlie kirks legacy and the divide in america us news|a0d956c0e5623ef4b05baa1849a7606f
+2025-09-13T19:57:32.256989+00:00|https://www.nytimes.com/2025/09/13/us/politics/van-hollen-zohran-mamdani.html|van hollen criticizes democratic leaders for delay in endorsing mamdani us news|7fd2b4683720b66866b72323fc15a6bf
+2025-09-13T19:57:33.100480+00:00|https://abcnews.go.com/US/manhunt-underway-after-officer-shot-critically-injured-north/story|manhunt underway after officer shot critically injured in north georgia us news|faa2f2cfc9eda420b0e647c37cd191f6
