@@ -2665,3 +2665,6 @@
 2025-09-14T17:38:43.670560+00:00|https://www.nytimes.com/2025/09/14/us/politics/israel-rubio-netanyahu-gaza.html|arriving in israel rubio meets netanyahu at jerusalems western wall us news|947f02ee252122a29995f91f484158d4
 2025-09-14T17:38:44.239772+00:00|https://www.nbcnews.com/video/shorts/pete-buttigieg-on-social-media-and-political-violence-247556677594|pete buttigieg on social media and political violence us news|39fe9c55b09f4c8abf24b01bcb360b01
 2025-09-14T18:28:03.609305+00:00|https://www.nbcnews.com/news/us-news/man-prison-sexually-exploiting-minor-girls-discord-rcna231134|20yearold man sentenced to prison for sexually exploiting minor girls on discord us news|ab3b1ad257e1cc188718d342e52d5fbe
+2025-09-14T19:38:08.086628+00:00|https://www.nbcnews.com/video/shorts/gen-z-men-and-women-divided-on-having-kids-poll-finds-247558725558|gen z men and women divided on having kids poll finds us news|44dbbd2b2643e793d199ad1dda91a4aa
+2025-09-14T19:38:08.595950+00:00|https://www.nbcnews.com/sports/nfl/bengals-joe-burrow-nfl-injury-rcna231162|bengals qb joe burrow ruled out vs jaguars with left toe injury us news|0f60a5dce8588413c6d159fc8b859f66
+2025-09-14T19:38:09.168764+00:00|https://www.nbcnews.com/sports/nfl/bengals-joe-burrow-nfl-injury-rcna231162|bengals qb joe burrow ruled out vs jaguars with left toe injury us news|0f60a5dce8588413c6d159fc8b859f66
