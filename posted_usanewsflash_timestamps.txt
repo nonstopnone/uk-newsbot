@@ -2632,3 +2632,5 @@
 2025-09-13T21:17:38.349603+00:00|https://www.nytimes.com/2025/09/13/business/lisa-cook-mortgage-fed-trump.html|in some records fed governor lisa cook listed atlanta home as secondary us news|90c8d59662f0346b238d4227eddb5ba7
 2025-09-13T21:57:25.438287+00:00|https://www.nbcnews.com/politics/donald-trump/trump-white-house-ballroom-bigger-rcna231033|trump says the new white house ballroom will be a little bigger than initially planned us news|3d88d75f63e34d0bef215652f42419fb
 2025-09-13T23:39:03.742081+00:00|https://abcnews.go.com/US/attorneys-us-judge-prevent-removal-migrants-held-ghana/story|attorneys ask us judge to prevent removal of migrants held in ghana us news|d0e53b29f8efcccc1d04aaafac4588b6
+2025-09-14T01:53:21.455875+00:00|https://www.bbc.com/news/articles/czew1nz17rro|we knew the family utah town in disbelief after neighbour accused of killing charlie kirk us news|8eaa624d6185784e9535dce10ee4ca51
+2025-09-14T01:53:21.996295+00:00|https://abcnews.go.com/International/us-official-personnel-navy-ship-inspected-venezuelan-fishing/story|us official says personnel from navy ship inspected venezuelan boat for drugs us news|13064e0dfbbe7e276726f82fbe7bc615
