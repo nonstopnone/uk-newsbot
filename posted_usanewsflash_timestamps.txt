@@ -2662,3 +2662,5 @@
 2025-09-14T15:57:24.219815+00:00|https://www.nytimes.com/2025/09/14/nyregion/zazi-terrorism-detention.html|najibullah zazi is imprisoned again after donating to coconspirators us news|405f85aa14163ef4485dfbb44f5b789c
 2025-09-14T16:40:47.292129+00:00|https://www.nbcnews.com/video/shorts/gov-cox-provides-updates-on-charlie-kirk-investigation-247556165719|gov cox provides updates on charlie kirk investigation us news|f5c0877999cd19fdd069cc0673176039
 2025-09-14T17:17:05.202346+00:00|https://www.nbcnews.com/video/shorts/gov-cox-reiterates-social-media-a-cancer-on-society-247555141507|gov cox reiterates social media a cancer on society us news|4d341ffc754a3331e41848ee61dcc52e
+2025-09-14T17:38:43.670560+00:00|https://www.nytimes.com/2025/09/14/us/politics/israel-rubio-netanyahu-gaza.html|arriving in israel rubio meets netanyahu at jerusalems western wall us news|947f02ee252122a29995f91f484158d4
+2025-09-14T17:38:44.239772+00:00|https://www.nbcnews.com/video/shorts/pete-buttigieg-on-social-media-and-political-violence-247556677594|pete buttigieg on social media and political violence us news|39fe9c55b09f4c8abf24b01bcb360b01
