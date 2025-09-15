@@ -2738,3 +2738,5 @@
 2025-09-15T19:57:50.939300+00:00|https://www.nytimes.com/2025/09/14/magazine/trump-administration-cancer.html|how the trump administration is dismantling americas cancerresearch system us news|43659300f11b180f17282a06aca094d6
 2025-09-15T20:24:36.735336+00:00|https://abcnews.go.com/Politics/3-killed-2nd-strike-alleged-venezuelan-drug-boat/story|3 killed in 2nd strike on alleged venezuelan drug boat trump says us news|1283867aff89a45170200e11d4c6f0ef
 2025-09-15T20:24:37.399904+00:00|https://www.nbcnews.com/politics/justice-department/jeffrey-epstein-files-house-oversight-rcna231420|jeffrey epstein estate turns over more documents to house committee us news|93b864ff98d420ec0fe39308ed806f52
+2025-09-15T20:41:06.128448+00:00|https://www.nytimes.com/2025/09/15/us/politics/jd-vance-charlie-kirk-show.html|on charlie kirk show jd vance talks of crackdown on liberal groups us news|fd73cabcc51a5825142649445ae56b2e
+2025-09-15T20:41:06.700412+00:00|https://abcnews.go.com/Business/wireStory/asian-shares-rise-after-weeks-wall-street-rallies-125575529|wall street ticks toward another record as tesla vrooms higher us news|d8b1cd6af1b127503fa240a0a8029032
