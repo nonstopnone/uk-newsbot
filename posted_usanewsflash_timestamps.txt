@@ -2707,3 +2707,5 @@
 2025-09-15T15:24:57.338079+00:00|https://www.nytimes.com/2025/09/15/business/trump-company-quarterly-reports.html|trump says companies should stop reporting finances every quarter us news|5abb8cfcf269d64a7236a08458f13d64
 2025-09-15T15:24:57.943387+00:00|https://www.nytimes.com/2025/09/15/us/charlie-kirk-patel-dna.html|fbi head says note and dna link suspect to kirk killing us news|1b3322432e5b38c2479f973b8fe073bf
 2025-09-15T15:24:58.482614+00:00|https://www.nbcnews.com/video/shorts/new-york-governor-endorses-mamdani-in-nyc-mayoral-race-247603781722|new york governor endorses mamdani in nyc mayoral race us news|e506f15b315b1c6508e674b287c1b311
+2025-09-15T15:42:14.421264+00:00|https://www.nytimes.com/2025/09/15/us/politics/trump-dc-crackdown-fbi-prosecutors.html|trumps dc show of force diverts agents and prosecutors from casework us news|6dc7aedec40cf92e80c8af5e4c622ffc
+2025-09-15T15:42:14.869115+00:00|https://www.nytimes.com/2025/09/15/business/media/fox-host-homeless-comment-brian-kilmeade-apology.html|fox host apologizes for callous comment about homeless people us news|940077170515cffd4ab76df594c8ca65
