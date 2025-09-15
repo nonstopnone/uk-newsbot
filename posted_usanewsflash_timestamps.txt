@@ -2736,3 +2736,5 @@
 2025-09-15T19:39:18.654651+00:00|https://www.nytimes.com/2025/09/15/business/us-china-trade-talks-tariffs-tiktok.html|us and china reach framework for a tiktok sale us news|990d0c09814d7a30ebf9952926f61a21
 2025-09-15T19:39:19.139724+00:00|https://www.nbcnews.com/video/shorts/wild-dog-pack-on-the-prowl-in-texas-neighborhood-247617093692|wild dog pack on the prowl in texas neighborhood us news|ae5f690209c86e02adbcc2a77f47fdcc
 2025-09-15T19:57:50.939300+00:00|https://www.nytimes.com/2025/09/14/magazine/trump-administration-cancer.html|how the trump administration is dismantling americas cancerresearch system us news|43659300f11b180f17282a06aca094d6
+2025-09-15T20:24:36.735336+00:00|https://abcnews.go.com/Politics/3-killed-2nd-strike-alleged-venezuelan-drug-boat/story|3 killed in 2nd strike on alleged venezuelan drug boat trump says us news|1283867aff89a45170200e11d4c6f0ef
+2025-09-15T20:24:37.399904+00:00|https://www.nbcnews.com/politics/justice-department/jeffrey-epstein-files-house-oversight-rcna231420|jeffrey epstein estate turns over more documents to house committee us news|93b864ff98d420ec0fe39308ed806f52
