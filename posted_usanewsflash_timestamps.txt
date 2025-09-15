@@ -2680,3 +2680,4 @@
 2025-09-15T04:28:22.914965+00:00|https://www.nytimes.com/2025/09/15/world/asia/anti-vaccine-america-world-covid.html|the world wants more vaccines an antivaccine america isnt helping us news|afec3cf7700ec172c3c6f3ede4a3a5b9
 2025-09-15T05:42:16.098396+00:00|https://abcnews.go.com/US/wireStory/youth-mental-health-challenges-mounting-2-years-after-125575252|youth mental health challenges keep mounting 2 years after maui wildfires us news|5d91cb28cf96b643b0e29adfd6ed64cd
 2025-09-15T06:58:34.524532+00:00|https://abcnews.go.com/International/north-korea-nuclear-weapons-status-irreversible-state-us/story|north korea nuclear weapons status irreversible state says us news|071a150c8c5533de485fc815cb7623d3
+2025-09-15T08:31:00.518371+00:00|https://www.nytimes.com/2025/09/15/us/politics/rubio-israel-netanyahu-trump-gaza.html|rubio in israel meets netanyahu as trump grows impatient us news|68c189bc427e391241195560f559b4b4
