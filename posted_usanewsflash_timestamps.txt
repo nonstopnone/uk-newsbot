@@ -2748,3 +2748,6 @@
 2025-09-15T21:19:51.938739+00:00|https://www.nytimes.com/2025/09/15/nyregion/andrew-cuomo-israel-gaza.html|cuomo staunch supporter of israel says horrific gaza war must end us news|714f7a335a2904e0ce563368949bfeb0
 2025-09-15T21:19:52.680249+00:00|https://www.nbcnews.com/world/asia/protests-asia-gen-z-nepal-indonesia-rcna231096|how gen zled protests are rattling governments across asia us news|96ba9fea1a63d86e609ac63a13aef8ca
 2025-09-15T21:19:53.323316+00:00|https://www.nbcnews.com/data-graphics/map-kindergartner-vaccination-rates-are-lowest-rcna229455|mapping where childhood vaccination rates are lowest us news|34342a018cdf2a75940f48f219c57930
+2025-09-15T21:38:28.638570+00:00|https://www.nbcnews.com/politics/politics-news/kash-patel-faces-scrutiny-congressional-hearings-politics-desk-rcna231485|kash patel faces scrutiny ahead of congressional hearings from the politics desk us news|96ff82e9dd0f96b78a3ab637ec3c6f07
+2025-09-15T21:38:29.092860+00:00|https://www.nbcnews.com/video/shorts/president-trump-u-s-strikes-another-venezuelan-boat-247626309738|president trump us strikes another venezuelan boat us news|507be838e3c74b1d375a4642594f5328
+2025-09-15T21:38:29.551650+00:00|https://www.nytimes.com/2025/09/15/business/nfl-football-saudi-arabia.html|football is coming to saudi arabia where soccer is king us news|a06f42f79e1bf02c29138a6fc5adf882
