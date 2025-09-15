@@ -2679,3 +2679,4 @@
 2025-09-15T03:01:38.092636+00:00|https://abcnews.go.com/Politics/new-york-gov-hochul-formally-endorses-zohran-mamdani/story|new york gov hochul formally endorses zohran mamdani for nyc mayor us news|9f486cf242dddfedf0a0fa2b02c4ca0f
 2025-09-15T04:28:22.914965+00:00|https://www.nytimes.com/2025/09/15/world/asia/anti-vaccine-america-world-covid.html|the world wants more vaccines an antivaccine america isnt helping us news|afec3cf7700ec172c3c6f3ede4a3a5b9
 2025-09-15T05:42:16.098396+00:00|https://abcnews.go.com/US/wireStory/youth-mental-health-challenges-mounting-2-years-after-125575252|youth mental health challenges keep mounting 2 years after maui wildfires us news|5d91cb28cf96b643b0e29adfd6ed64cd
+2025-09-15T06:58:34.524532+00:00|https://abcnews.go.com/International/north-korea-nuclear-weapons-status-irreversible-state-us/story|north korea nuclear weapons status irreversible state says us news|071a150c8c5533de485fc815cb7623d3
