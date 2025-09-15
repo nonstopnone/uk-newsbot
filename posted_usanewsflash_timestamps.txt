@@ -2720,3 +2720,5 @@
 2025-09-15T16:46:23.027295+00:00|https://www.bbc.com/news/articles/cp982z3xrz7o|musk buys $1bn worth of tesla shares us news|6d814dfe83c17d3550748a359f7d94e5
 2025-09-15T16:57:28.733102+00:00|https://www.nytimes.com/2025/09/15/world/middleeast/qatar-arab-leaders-israel.html|angered by israels attack in qatar arab leaders meet to weigh response us news|bd295225c0fdd60d2963034c89d6ca93
 2025-09-15T16:57:29.225017+00:00|https://abcnews.go.com/US/former-sdny-prosecutor-maurene-comey-sues-firing/story|former sdny prosecutor maurene comey sues over her firing us news|f5a86e0c7f6d0e9fcd4ce60ae25d3e7c
+2025-09-15T17:19:20.470476+00:00|https://www.nbcnews.com/news/us-news/kentucky-man-accused-killing-partner-list-cover-police-say-rcna231366|kentucky man accused of killing partner had todo list to cover it up police say us news|f1e7c1486c77e53b09c9a9df1663002f
+2025-09-15T17:19:21.188386+00:00|https://www.nbcnews.com/video/shorts/dmv-wants-woman-to-change-iamisis-license-plate-247607365634|dmv wants woman to change iamisis license plate us news|7fe6c1a1fca4ecd256622ee297cc6f04
