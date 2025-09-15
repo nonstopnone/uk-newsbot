@@ -2716,3 +2716,5 @@
 2025-09-15T16:29:27.143803+00:00|https://www.nytimes.com/2025/09/15/business/media/washington-post-charlie-kirk-karen-attiah.html|washington post columnist says she was fired for posts after charlie kirk shooting us news|3fe8a6ef23120cfb9cc39852e66084dd
 2025-09-15T16:29:27.788579+00:00|https://www.nytimes.com/2025/09/15/nyregion/maurene-comey-fired-lawsuit-trump.html|fired prosecutor challenges trumps claims to power in lawsuit us news|0f2e485be87a91f49601b09ddfae1b5d
 2025-09-15T16:29:28.481719+00:00|https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html|in giant deals uae got chips and trump team got crypto riches us news|fbd13317481d26cd26dce95d2e0c0f19
+2025-09-15T16:46:22.303856+00:00|https://www.bbc.com/news/articles/cm2zye8745do|trump renews push to end companies quarterly reports us news|cd085d00eb2d383da8be7cce59eca048
+2025-09-15T16:46:23.027295+00:00|https://www.bbc.com/news/articles/cp982z3xrz7o|musk buys $1bn worth of tesla shares us news|6d814dfe83c17d3550748a359f7d94e5
