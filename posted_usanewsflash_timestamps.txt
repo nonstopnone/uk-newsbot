@@ -2718,3 +2718,5 @@
 2025-09-15T16:29:28.481719+00:00|https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html|in giant deals uae got chips and trump team got crypto riches us news|fbd13317481d26cd26dce95d2e0c0f19
 2025-09-15T16:46:22.303856+00:00|https://www.bbc.com/news/articles/cm2zye8745do|trump renews push to end companies quarterly reports us news|cd085d00eb2d383da8be7cce59eca048
 2025-09-15T16:46:23.027295+00:00|https://www.bbc.com/news/articles/cp982z3xrz7o|musk buys $1bn worth of tesla shares us news|6d814dfe83c17d3550748a359f7d94e5
+2025-09-15T16:57:28.733102+00:00|https://www.nytimes.com/2025/09/15/world/middleeast/qatar-arab-leaders-israel.html|angered by israels attack in qatar arab leaders meet to weigh response us news|bd295225c0fdd60d2963034c89d6ca93
+2025-09-15T16:57:29.225017+00:00|https://abcnews.go.com/US/former-sdny-prosecutor-maurene-comey-sues-firing/story|former sdny prosecutor maurene comey sues over her firing us news|f5a86e0c7f6d0e9fcd4ce60ae25d3e7c
