@@ -2811,3 +2811,6 @@
 2025-09-16T12:48:52.767705+00:00|https://www.nytimes.com/2025/09/16/business/dealbook/tiktok-trump-xi.html|could tiktok help bring trump and xi together us news|ccfce0a711a691f1f533f8dc4647099b
 2025-09-16T12:48:53.762015+00:00|https://www.nytimes.com/2025/09/16/world/europe/trump-russia-war-deportations-vovchenko.html|he fled putins war the us deported him to a russian jail us news|f3a146fb9fec405d711460796b6f7097
 2025-09-16T12:48:54.335614+00:00|https://www.nbcnews.com/tech/elon-musk/elon-musk-charlie-kirk-killing-x-rcna231413|elon musk urges people to fight after charlie kirks killing us news|ec7bfbb69658df84021e930f7d32638c
+2025-09-16T13:19:06.361267+00:00|https://www.nytimes.com/2025/09/16/business/media/trump-lawsuit-new-york-times.html|trump sues the new york times for articles questioning his success us news|9f73fbd38cfab5403d36a4caf7ae7971
+2025-09-16T13:19:07.099263+00:00|https://www.nbcnews.com/politics/2026-election/minnesota-gov-tim-walz-will-run-third-term-2026-rcna229383|minnesota gov tim walz will run for a third term in 2026 us news|401f5fbb5c432fc31564f74ca31869fa
+2025-09-16T13:19:07.908846+00:00|https://abcnews.go.com/US/wireStory/judge-clears-execution-south-carolina-inmate-thinks-laws-125619034|judge clears way for execution of south carolina inmate us news|f3f1ef9c1e609ec7d57eb5f3c915cbb6
