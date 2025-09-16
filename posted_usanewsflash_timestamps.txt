@@ -2860,3 +2860,5 @@
 2025-09-16T20:41:43.048569+00:00|https://www.nytimes.com/2025/09/16/us/politics/kirk-shooting-suspect-motive-messages.html|text messages from suspect in the kirk shooting provide a glimpse of a motive us news|263a59dc4a4de622ce53334ec0af10ba
 2025-09-16T20:57:34.388164+00:00|https://www.nbcnews.com/video/shorts/utah-officials-offer-reminder-to-public-247703621529|utah officials offer reminder to public us news|c05627e15fa2b439fd060868a1196ac9
 2025-09-16T20:57:34.920017+00:00|https://www.nbcnews.com/video/shorts/patel-defends-post-about-charlie-kirk-subject-247702085928|patel defends post about charlie kirk subject us news|74f53ceab5b19c3eefe4006f87680043
+2025-09-16T21:19:58.376628+00:00|https://www.nytimes.com/2025/09/16/us/politics/republicans-house-tariffs-emergency-trump.html|gop again cedes power on tariffs to avoid crossing trump us news|57bf8e9d45a9f056fd77f0086b3be204
+2025-09-16T21:19:58.970887+00:00|https://www.nbcnews.com/pop-culture/lifestyle/vivian-wilson-fashion-week-rcna230118|vivian wilson elon musks estranged daughter makes her new york fashion week debut us news|cd7b8f0dddae9847e3bf1fa5515f7824
