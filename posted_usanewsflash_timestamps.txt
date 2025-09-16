@@ -2833,3 +2833,7 @@
 2025-09-16T15:25:20.540127+00:00|https://abcnews.go.com/US/fulton-county-da-fani-willis-remains-disqualified-trumps/story|fulton county da remains disqualified from trumps georgia election interference case us news|8244d2262210e5be22802aeabc524c82
 2025-09-16T15:25:21.134643+00:00|https://www.nytimes.com/2025/09/16/climate/trump-park-service-slavery-photo-tribes.html|national parks to remove some materials on slavery and tribes us news|63e10a95806461ba7bc17b38b0b6758b
 2025-09-16T15:57:48.902955+00:00|https://www.nytimes.com/live/2025/09/16/us/kirk-shooting-suspect-charges/charges-first-hearing-what-to-expect|heres what to expect from the charges and first hearing us news|bca4d84396b339057a07ba8f93488674
+2025-09-16T16:28:59.988510+00:00|https://www.bbc.com/news/articles/c7847q9xvwgo|deal is done to keep tiktok in the usa says trump us news|738fe7fc3d09471747f81ae974726c0a
+2025-09-16T16:29:00.547148+00:00|https://abcnews.go.com/US/trump-files-15-billion-defamation-suit-new-york/story|trump files $15b defamation suit against new york times penguin random house us news|7719203f13823c894463fffc9d61edb9
+2025-09-16T16:29:01.061001+00:00|https://www.nytimes.com/2025/09/16/technology/charlie-kirk-meta-x-tiktok.html|social platforms duck blame for inflaming divisions before charlie kirks death us news|6ac4f679553eebc8a025b69bc7390196
+2025-09-16T16:29:01.769696+00:00|https://www.nytimes.com/2025/09/16/us/politics/bill-cassidy-vaccines-rfk-kennedy.html|cassidy his job in peril scrutinizes kennedy on vaccines us news|6b98ff7e0f4df7b8638e9982c4c84207
