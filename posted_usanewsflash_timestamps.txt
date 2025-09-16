@@ -2778,3 +2778,6 @@
 2025-09-16T04:26:39.542238+00:00|https://www.nytimes.com/2025/09/16/business/china-economy-us-tariffs.html|how china is weathering the trade war with trump us news|6808d1bf12b516cc7e64daed91fa4f04
 2025-09-16T04:26:40.261632+00:00|https://www.nytimes.com/2025/09/16/world/asia/lee-jae-jung-squid-game.html|squid game star lee jungjae talks about korean fan culture us news|a28bb576c49842dd048c8ca2f86a46e2
 2025-09-16T04:26:40.981927+00:00|https://www.nbcnews.com/video/shorts/pink-dye-tracks-pollution-at-california-beach-247649861982|pink dye tracks pollution at california beach us news|526739e64b1472c01b00c515348da318
+2025-09-16T06:51:45.361497+00:00|https://www.nytimes.com/2025/09/16/us/politics/judge-migrants-deported-ghana.html|federal judge declines to intervene for migrants deported to ghana us news|7d72f044ec5c4c4732358706038d492f
+2025-09-16T06:51:46.196077+00:00|https://www.nbcnews.com/world/united-kingdom/trump-state-visit-britain-starmer-king-charles-royals-rcna231109|trump heads for state visit to an unsettled unhappy britain us news|54c9db966eafe3e9be0b6e2c9e462948
+2025-09-16T06:51:46.951373+00:00|https://www.nbcnews.com/world/united-kingdom/trump-state-visit-britain-starmer-king-charles-royals-rcna231109|trump heads for state visit to an unsettled unhappy britain us news|54c9db966eafe3e9be0b6e2c9e462948
