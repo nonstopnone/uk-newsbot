@@ -2863,3 +2863,6 @@
 2025-09-16T21:19:58.376628+00:00|https://www.nytimes.com/2025/09/16/us/politics/republicans-house-tariffs-emergency-trump.html|gop again cedes power on tariffs to avoid crossing trump us news|57bf8e9d45a9f056fd77f0086b3be204
 2025-09-16T21:19:58.970887+00:00|https://www.nbcnews.com/pop-culture/lifestyle/vivian-wilson-fashion-week-rcna230118|vivian wilson elon musks estranged daughter makes her new york fashion week debut us news|cd7b8f0dddae9847e3bf1fa5515f7824
 2025-09-16T21:39:13.234138+00:00|https://www.nytimes.com/2025/09/16/us/politics/house-dc-crime-bills.html|house passes dc crime bills as trump crackdown continues us news|5cdc9f6b9d040e168562dcce2f797ab2
+2025-09-16T21:57:26.738020+00:00|https://www.bbc.com/news/articles/ckg2r8lvjn2o|charlie kirk suspect said he had enough of his hatred prosecutors allege us news|bad70303ca50934db2df551faf097817
+2025-09-16T21:57:27.355602+00:00|https://www.nbcnews.com/video/shorts/kirk-shooting-suspect-appears-in-court-247710277951|kirk shooting suspect appears in court us news|5f882f37a558c45ee80195e3e4ecc69c
+2025-09-16T21:57:27.967923+00:00|https://abcnews.go.com/US/video/utah-prosecutors-seek-death-penalty-alleged-charlie-kirk-125637898|watch utah prosecutors to seek death penalty against alleged charlie kirk shooter us news|957904c5b99001d3f0cd6b11bd1996ce
