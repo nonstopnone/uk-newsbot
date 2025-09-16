@@ -2830,3 +2830,5 @@
 2025-09-16T14:43:56.147592+00:00|https://www.nytimes.com/2025/09/16/business/energy-environment/california-gas-prices-oil-refineries.html|californias high gas prices could climb further as refineries close us news|dcd6a84a7d04fa63425c53d2d25c6901
 2025-09-16T14:58:01.186451+00:00|https://www.nytimes.com/2025/09/16/us/walz-minnesota-governer-third-term.html|tim walz seeks third term as governor of minnesota us news|979ee93f6a71198800ea3aec95fb8360
 2025-09-16T14:58:01.960633+00:00|https://www.nytimes.com/2025/09/16/us/fani-willis-georgia-trump.html|fani willis loses bid to continue prosecuting georgia trump case us news|5fd5a5225034f8988e14e83d44f754f0
+2025-09-16T15:25:20.540127+00:00|https://abcnews.go.com/US/fulton-county-da-fani-willis-remains-disqualified-trumps/story|fulton county da remains disqualified from trumps georgia election interference case us news|8244d2262210e5be22802aeabc524c82
+2025-09-16T15:25:21.134643+00:00|https://www.nytimes.com/2025/09/16/climate/trump-park-service-slavery-photo-tribes.html|national parks to remove some materials on slavery and tribes us news|63e10a95806461ba7bc17b38b0b6758b
