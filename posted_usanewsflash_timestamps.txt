@@ -2828,3 +2828,5 @@
 2025-09-16T14:43:54.804333+00:00|https://www.nbcnews.com/video/shorts/durbin-our-political-opponents-are-not-our-enemies-247674437911|durbin our political opponents are not our enemies us news|7b7f12f5262aae3c7c4f50002d3b074d
 2025-09-16T14:43:55.485559+00:00|https://www.nytimes.com/2025/09/16/us/california-environment-democrats-newsom.html|californias environmental past confronts economic worries of the present us news|a3e973567182aea398fc3cc4d7f19dd5
 2025-09-16T14:43:56.147592+00:00|https://www.nytimes.com/2025/09/16/business/energy-environment/california-gas-prices-oil-refineries.html|californias high gas prices could climb further as refineries close us news|dcd6a84a7d04fa63425c53d2d25c6901
+2025-09-16T14:58:01.186451+00:00|https://www.nytimes.com/2025/09/16/us/walz-minnesota-governer-third-term.html|tim walz seeks third term as governor of minnesota us news|979ee93f6a71198800ea3aec95fb8360
+2025-09-16T14:58:01.960633+00:00|https://www.nytimes.com/2025/09/16/us/fani-willis-georgia-trump.html|fani willis loses bid to continue prosecuting georgia trump case us news|5fd5a5225034f8988e14e83d44f754f0
