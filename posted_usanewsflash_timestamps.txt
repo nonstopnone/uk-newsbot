@@ -2775,3 +2775,6 @@
 2025-09-16T03:20:48.223325+00:00|https://www.nbcnews.com/video/shorts/new-details-released-about-colorado-school-shooter-247648325623|new details released about colorado school shooter us news|9b471b19f466d5919a603cea701c13aa
 2025-09-16T03:46:12.034528+00:00|https://www.nytimes.com/2025/09/15/us/politics/lina-hidalgo-texas-houston.html|lina hidalgo will not run for reelection in texas us news|14fe0248bbf99ec20449e1f524d0ea67
 2025-09-16T03:46:12.725525+00:00|https://www.nbcnews.com/politics/congress/donna-brazile-calls-on-eleanor-holmes-norton-to-not-seek-reelection-rcna231536|dc del eleanor holmes norton age 88 faces a highprofile call to retire us news|58951ac8e7a24c7d2e8c1680d93d6dd4
+2025-09-16T04:26:39.542238+00:00|https://www.nytimes.com/2025/09/16/business/china-economy-us-tariffs.html|how china is weathering the trade war with trump us news|6808d1bf12b516cc7e64daed91fa4f04
+2025-09-16T04:26:40.261632+00:00|https://www.nytimes.com/2025/09/16/world/asia/lee-jae-jung-squid-game.html|squid game star lee jungjae talks about korean fan culture us news|a28bb576c49842dd048c8ca2f86a46e2
+2025-09-16T04:26:40.981927+00:00|https://www.nbcnews.com/video/shorts/pink-dye-tracks-pollution-at-california-beach-247649861982|pink dye tracks pollution at california beach us news|526739e64b1472c01b00c515348da318
