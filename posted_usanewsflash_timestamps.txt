@@ -2871,3 +2871,4 @@
 2025-09-16T22:19:55.458305+00:00|https://www.nytimes.com/2025/09/16/health/casey-means-financial-invesments-surgeon-general.html|surgeon general nominee pledges to divest from wellness interests us news|cb428cb72b1c035b24e385593a515bf5
 2025-09-16T22:19:55.981368+00:00|https://www.nytimes.com/2025/09/16/us/naval-academy-threat-arrest.html|exmidshipman is charged in threat that led to 2 injuries at us naval academy us news|b47d5f50e3fb60be8acebdd8ca9a628c
 2025-09-16T22:19:56.521090+00:00|https://www.nytimes.com/2025/09/16/business/media/bob-woodward-robert-redford.html|bob woodward remembers robert redford us news|470e0e4a6a1b12c026e41ca1c9b2592b
+2025-09-16T23:38:59.670075+00:00|https://www.nytimes.com/2025/09/16/weather/california-rain-tropical-storm-mario-forecast.html|tropical system could bring heavy rain to southern california this week us news|ab1bdb7f653105e9dd4cca2aec87c115
