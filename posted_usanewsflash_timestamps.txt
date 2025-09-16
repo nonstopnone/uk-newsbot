@@ -2792,3 +2792,5 @@
 2025-09-16T09:57:59.261818+00:00|https://www.nytimes.com/2025/09/16/business/federal-reserve-trump-cook-miran.html|federal reserve to meet under cloud of trumps attacks us news|562ff4c331ff6c32b4532f72564a1b4d
 2025-09-16T09:58:00.022130+00:00|https://www.nbcnews.com/world/israel/israel-committing-genocide-gaza-un-commission-inquiry-rcna231565|israel is committing genocide in gaza un inquiry finds us news|77559a5208c33088434c57cadd5cb2ce
 2025-09-16T09:58:00.597906+00:00|https://www.nytimes.com/2025/09/16/health/hepatitis-b-vaccine-committee-meeting-infants.html|rfk jrs vaccine committee likely to target hepatitis b shot for newborns us news|e311a225d4bfcdd3bcb73953371271cf
+2025-09-16T10:24:28.337565+00:00|https://www.nbcnews.com/politics/donald-trump/trump-files-15-billion-lawsuit-new-york-campaign-coverage-rcna231554|trump files $15 billion lawsuit against new york times over campaign coverage us news|d6e0a80d88c330e848881b1fe3cc5a99
+2025-09-16T10:24:28.879276+00:00|https://www.nytimes.com/2025/09/16/dining/restaurant-review-alinea-chicago.html|20 years ago alinea electrified chicago dining does it still matter us news|9fd4c77384329ad9fe1528b2d9ff0532
