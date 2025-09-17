@@ -2939,3 +2939,6 @@
 2025-09-17T20:24:19.803698+00:00|https://abcnews.go.com/US/officers-involved-shooting-pennsylvania-officials/story|officers involved in shooting in pennsylvania officials say us news|d70589cf64a65153443f3c28a6a59954
 2025-09-17T20:24:20.318226+00:00|https://www.nytimes.com/2025/09/17/nyregion/giuliani-lawyers-fees.html|giuliani must pay $13 million to former lawyers judge rules us news|5969587d8a3047fc91292613962905d4
 2025-09-17T20:41:31.950201+00:00|https://www.nbcnews.com/video/shorts/this-group-says-it-can-help-reduce-hate-fueled-violence-247791173720|this group says it can help reduce hatefueled violence us news|ca0dfcddf5dc13ef5f3c05a060ea592b
+2025-09-17T20:57:48.435158+00:00|https://www.bbc.com/news/articles/cn4l13gxy2lo|whats on the menu and whos on guest list at state banquet us news|9ca43ee51b6616a49da91431fb9202ee
+2025-09-17T20:57:48.920464+00:00|https://www.nytimes.com/2025/09/17/business/economy/fed-rate-cut-powell.html|fed cuts rates for first time this year us news|7f8c11dfe6fe9ff21be84ff73b014386
+2025-09-17T20:57:49.405156+00:00|https://abcnews.go.com/US/video/democratic-reps-question-fbi-director-kash-patel-epstein-125681140|watch democratic reps question fbi director kash patel on epstein files us news|fc36c831b3f2c397712a0e28ce675575
