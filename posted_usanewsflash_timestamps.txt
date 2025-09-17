@@ -2896,3 +2896,5 @@
 2025-09-17T10:57:52.572793+00:00|https://www.nytimes.com/2025/09/17/us/fbi-pittsburgh-car-crash.html|driver crashes car into fbi field office gate in pittsburgh us news|60d751067304a37dae5c02190cf51a3b
 2025-09-17T11:18:42.000846+00:00|https://www.nytimes.com/2025/09/17/world/middleeast/israel-assault-gaza-city-diplomacy.html|israels assault on gaza city stifles hope of diplomatic resolution to war us news|bff4f929b236f674fcc1cc6563a01c3d
 2025-09-17T11:39:10.934616+00:00|https://www.nytimes.com/2025/09/17/us/the-morning-economy-trump-gaza-redford.html|is the economy as healthy as trump claims us news|d6f5c85c0ecd7d7298e5fcee4fa30464
+2025-09-17T11:57:33.166514+00:00|https://www.nbcnews.com/video/watch-live-trump-meets-king-charles-during-state-visit-to-u-k-247743557973|trump meets king charles during state visit to uk us news|649c8001310177d1147d4f4ad8633ef7
+2025-09-17T11:57:33.750360+00:00|https://www.nytimes.com/2025/09/17/world/middleeast/israel-gaza-city.html|israel pounds gaza city as fears mount for those inside us news|84d41b3c28f6678471af1167cfea0a9d
