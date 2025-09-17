@@ -2952,3 +2952,4 @@
 2025-09-17T22:19:21.654914+00:00|https://www.nbcnews.com/video/five-officers-shot-in-active-police-incident-in-central-pennsylvania-247800389946|five officers shot in active police incident in central pennsylvania us news|68609f73e61c2ddb22a32aa890f985c5
 2025-09-17T22:39:09.332211+00:00|https://abcnews.go.com/Politics/cdcs-acting-director-tells-staff-treat-americans-adults/story|acting cdc director says agency too involved in americans health decisions us news|b3f6822199bde404c15a691564add270
 2025-09-17T22:39:09.818399+00:00|https://www.nytimes.com/2025/09/17/world/europe/uk-trump-state-visit.html|uk offers trump a royal welcome of maximum pomp and minimum politics us news|1a8269f35b0305c225da1270b0fbdfd3
+2025-09-17T22:57:39.025471+00:00|https://www.nytimes.com/2025/09/17/briefing/fed-interest-rates-cdc-leader-testimony.html|fed lowered rates for first time this year us news|174a197427a712ae8e19dbafaeb70fc5
