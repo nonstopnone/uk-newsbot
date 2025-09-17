@@ -2898,3 +2898,8 @@
 2025-09-17T11:39:10.934616+00:00|https://www.nytimes.com/2025/09/17/us/the-morning-economy-trump-gaza-redford.html|is the economy as healthy as trump claims us news|d6f5c85c0ecd7d7298e5fcee4fa30464
 2025-09-17T11:57:33.166514+00:00|https://www.nbcnews.com/video/watch-live-trump-meets-king-charles-during-state-visit-to-u-k-247743557973|trump meets king charles during state visit to uk us news|649c8001310177d1147d4f4ad8633ef7
 2025-09-17T11:57:33.750360+00:00|https://www.nytimes.com/2025/09/17/world/middleeast/israel-gaza-city.html|israel pounds gaza city as fears mount for those inside us news|84d41b3c28f6678471af1167cfea0a9d
+2025-09-17T12:49:17.644472+00:00|https://www.today.com/video/fired-cdc-director-to-testify-before-congress-what-to-expect-247745605933|fired cdc director to testify before congress what to expect us news|56b0cbb6a2bb68ca328cd2b3e81babe0
+2025-09-17T12:49:18.238687+00:00|https://www.nytimes.com/2025/09/17/world/europe/ukraine-us-minerals-deal.html|us government to invest $75 million in ukraines minerals us news|4a7ca00923adba0ce94d66530120f6ea
+2025-09-17T12:49:18.832803+00:00|https://www.today.com/video/federal-reserve-expected-to-cut-interest-rates-what-to-know-247746117606|fed expected to cut interest rates for first time in nearly a year us news|205e54a98e262f55da090f64e80828c3
+2025-09-17T12:49:19.406545+00:00|https://www.nytimes.com/2025/09/17/business/ice-raids-vineyards-baseball.html|a vineyard baseball field where immigration fears fade away us news|d62fffb10b7c45ae6378ed966053c8fb
+2025-09-17T12:49:20.031216+00:00|https://www.today.com/video/watch-royals-greet-president-trump-first-lady-during-uk-visit-247744069931|watch royals greet president trump first lady during uk visit us news|58bb10b75a11afbbddd2ab008a8704af
