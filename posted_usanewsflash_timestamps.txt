@@ -2935,3 +2935,6 @@
 2025-09-17T18:48:50.506570+00:00|https://www.nytimes.com/2025/09/17/business/fed-interest-rate-loans-mortgages.html|what the feds rate decision means for loans credit cards mortgages and more us news|9906cbf6e639957b76b7b22427cb7d7a
 2025-09-17T19:39:22.562967+00:00|https://abcnews.go.com/US/body-found-towed-tesla-registered-singer-d4vd-identified/story|body found in towed tesla registered to singer d4vd identified as 15yearold girl us news|1a188f9abca5802f4b78d2aba75c08fa
 2025-09-17T19:57:36.563033+00:00|https://www.nbcnews.com/video/shorts/patel-struggles-to-recall-charleston-church-shooting-247783493996|patel struggles to recall charleston church shooting us news|ef2629e2333195ebfa717788156b772e
+2025-09-17T20:24:19.319355+00:00|https://www.bbc.com/news/articles/c3e75y90pw0o|fed reserve cuts interest rates but cautions over stalling job market us news|5750d362aaa10bc9e7893106c7ee9039
+2025-09-17T20:24:19.803698+00:00|https://abcnews.go.com/US/officers-involved-shooting-pennsylvania-officials/story|officers involved in shooting in pennsylvania officials say us news|d70589cf64a65153443f3c28a6a59954
+2025-09-17T20:24:20.318226+00:00|https://www.nytimes.com/2025/09/17/nyregion/giuliani-lawyers-fees.html|giuliani must pay $13 million to former lawyers judge rules us news|5969587d8a3047fc91292613962905d4
