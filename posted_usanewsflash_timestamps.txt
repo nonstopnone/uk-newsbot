@@ -2955,3 +2955,5 @@
 2025-09-17T22:57:39.025471+00:00|https://www.nytimes.com/2025/09/17/briefing/fed-interest-rates-cdc-leader-testimony.html|fed lowered rates for first time this year us news|174a197427a712ae8e19dbafaeb70fc5
 2025-09-17T23:38:45.255707+00:00|https://www.nytimes.com/2025/09/17/health/kennedy-acip-insurers-cassidy.html|senator and insurers cast doubt on us vaccine panel as it readies review us news|59647534bac878fc8c645bee2f312f26
 2025-09-17T23:38:45.797969+00:00|https://www.nbcnews.com/video/shorts/three-officers-killed-suspect-dead-in-penn-shooting-247803461740|three officers killed suspect dead in penn shooting us news|73afc12da80dd09312e0edbe6eb78d39
+2025-09-17T23:57:49.168232+00:00|https://www.nytimes.com/2025/09/17/us/politics/cassidy-monorez-kennedy-vaccines-cdc.html|how vaccines are revealing cracks in trumps gop us news|ba19099e86855fb1d13a744716bda71a
+2025-09-17T23:57:49.660322+00:00|https://www.nytimes.com/2025/09/17/us/politics/john-thune-senate-filibuster.html|upending precedent thune bows to realities of a polarized senate us news|7f5add22521edf092667462a607bf8b8
