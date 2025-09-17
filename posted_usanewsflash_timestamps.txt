@@ -2924,3 +2924,7 @@
 2025-09-17T16:29:02.945885+00:00|https://abcnews.go.com/US/students-utah-valley-university-return-charlie-kirk/story|students at utah valley university return to campus a week after charlie kirk killing us news|832dca5d359f1d44d73a4586dbbd148c
 2025-09-17T16:46:09.553951+00:00|https://www.nbcnews.com/video/shorts/monarez-rfk-jr-accused-cdc-of-killing-children-247765573766|monarez rfk jr accused cdc of killing children us news|c9678775a6ec438eaf5dbb44557376b5
 2025-09-17T16:57:26.931939+00:00|https://www.nytimes.com/2025/09/17/us/narciso-barranco-ice-deport-marines-trump.html|he raised three marines his wife is american the us wants to deport him us news|971c55497ad570014c6da691f979b20a
+2025-09-17T17:19:04.361865+00:00|https://www.nytimes.com/2025/09/17/us/brad-raffensperger-georgia-governor-election.html|georgia election official who defied trump enters governors race us news|190124a654ea03b7889b4faa94e56b2e
+2025-09-17T17:19:05.062903+00:00|https://www.nytimes.com/2025/09/17/us/politics/what-to-know-hate-speech.html|what to know about hate speech and the first amendment us news|00e9ae9b5e2ac6a390a4ef6fd7dd894a
+2025-09-17T17:19:05.723894+00:00|https://www.nbcnews.com/video/shorts/shapiro-call-out-political-violence-247767109900|shapiro call out political violence us news|9054758ac6085d86e0509a7f5b2f6a6e
+2025-09-17T17:19:06.427187+00:00|https://www.nbcnews.com/video/shorts/-no-absolute-first-amendment-right-to-say-anything-247759429842|no absolute first amendment right to say anything us news|711f764245bffc60ff56b5915e73c420
