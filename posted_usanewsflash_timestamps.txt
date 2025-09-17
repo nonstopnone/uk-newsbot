@@ -2894,3 +2894,4 @@
 2025-09-17T10:57:51.542317+00:00|https://www.nytimes.com/2025/09/17/world/europe/trump-uk-visit-protest.html|trumps second uk state visit draws protests us news|c90c8bcee2313f6202d28c75082dc9e0
 2025-09-17T10:57:52.046334+00:00|https://www.nytimes.com/2025/09/17/us/politics/charlie-kirk-killer.html|a note a gun and a mothers conscience led to an arrest in kirks killing us news|c14ba2d0e0cf80f8e56e606c94f7469a
 2025-09-17T10:57:52.572793+00:00|https://www.nytimes.com/2025/09/17/us/fbi-pittsburgh-car-crash.html|driver crashes car into fbi field office gate in pittsburgh us news|60d751067304a37dae5c02190cf51a3b
+2025-09-17T11:18:42.000846+00:00|https://www.nytimes.com/2025/09/17/world/middleeast/israel-assault-gaza-city-diplomacy.html|israels assault on gaza city stifles hope of diplomatic resolution to war us news|bff4f929b236f674fcc1cc6563a01c3d
