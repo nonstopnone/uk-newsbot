@@ -2950,3 +2950,5 @@
 2025-09-17T21:57:33.970110+00:00|https://www.nytimes.com/2025/09/17/us/politics/cassidy-vaccine-panel-doubt.html|republican senator casts doubt on kennedys vaccine advisers us news|5d72f921d426e026e2b0efd0bde5fe91
 2025-09-17T22:19:20.754913+00:00|https://www.bbc.com/news/articles/cvg4n4zx48no|five officers shot in pennsylvania with three in grave condition us news|9e5c3d88e1491602735029b393a3d9ce
 2025-09-17T22:19:21.654914+00:00|https://www.nbcnews.com/video/five-officers-shot-in-active-police-incident-in-central-pennsylvania-247800389946|five officers shot in active police incident in central pennsylvania us news|68609f73e61c2ddb22a32aa890f985c5
+2025-09-17T22:39:09.332211+00:00|https://abcnews.go.com/Politics/cdcs-acting-director-tells-staff-treat-americans-adults/story|acting cdc director says agency too involved in americans health decisions us news|b3f6822199bde404c15a691564add270
+2025-09-17T22:39:09.818399+00:00|https://www.nytimes.com/2025/09/17/world/europe/uk-trump-state-visit.html|uk offers trump a royal welcome of maximum pomp and minimum politics us news|1a8269f35b0305c225da1270b0fbdfd3
