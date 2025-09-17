@@ -2930,3 +2930,6 @@
 2025-09-17T17:19:06.427187+00:00|https://www.nbcnews.com/video/shorts/-no-absolute-first-amendment-right-to-say-anything-247759429842|no absolute first amendment right to say anything us news|711f764245bffc60ff56b5915e73c420
 2025-09-17T17:57:23.046056+00:00|https://www.bbc.com/news/articles/cn76dz1zxz3o|former cdc head says she was fired for refusing kennedys vaccine changes us news|ddf38727810cd9c7850ee6de6f800809
 2025-09-17T18:32:45.144374+00:00|https://www.nytimes.com/2025/09/17/business/vietnam-sneaker-manufacturing-china.html|how china is losing its title as the worlds sneaker factory us news|5b45ba39bffb4420446cfd2b9824f301
+2025-09-17T18:48:49.106784+00:00|https://www.nytimes.com/2025/09/17/health/vaccine-guidelines-california-oregon-washington-hawaii-rfk.html|western states issue their own vaccine recommendations to counter kennedy us news|4f4a55484051be8895874158098d8ea8
+2025-09-17T18:48:49.827029+00:00|https://www.nbcnews.com/video/watch-live-fed-chair-powell-speaks-after-interest-rate-decision-247769157781|fed chair powell speaks after interest rate decision us news|9b717578a86ca3c2e0cbecf74eb7e7f9
+2025-09-17T18:48:50.506570+00:00|https://www.nytimes.com/2025/09/17/business/fed-interest-rate-loans-mortgages.html|what the feds rate decision means for loans credit cards mortgages and more us news|9906cbf6e639957b76b7b22427cb7d7a
