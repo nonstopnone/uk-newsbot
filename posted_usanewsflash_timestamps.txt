@@ -2991,3 +2991,5 @@
 2025-09-18T16:28:40.486926+00:00|https://www.nytimes.com/2025/09/18/us/politics/trump-supreme-court-fed.html|trump asks supreme court to allow removal of fed governor us news|55cdb45793c0702762ab59a7711dacff
 2025-09-18T16:28:41.015469+00:00|https://www.nbcnews.com/video/shorts/trump-says-putin-let-him-down-247854661506|trump says putin let him down us news|727a6129496261c52157128289e5d9a8
 2025-09-18T16:45:42.585956+00:00|https://abcnews.go.com/Politics/trump-asks-scotus-remove-lisa-cook-fed-reserve/story|trump asks scotus to let him remove lisa cook from fed reserve us news|4af06e965fc41e475a225c9ddfd21e9c
+2025-09-18T16:57:37.049577+00:00|https://www.nytimes.com/2025/09/18/climate/wildfire-smoke-health-deaths.html|wildfire smoke will kill thousands more by 2050 study finds us news|d05bf5b23d5e682ad03f2ef978d55bb0
+2025-09-18T16:57:37.532656+00:00|https://abcnews.go.com/US/erika-kirk-elected-new-ceo-turning-point-usa/story|erika kirk elected as new ceo for turning point usa after husbands death us news|bc6376883dd2b9f0922151763cf871a6
