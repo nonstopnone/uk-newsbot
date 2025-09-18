@@ -2985,3 +2985,8 @@
 2025-09-18T15:41:14.810869+00:00|https://www.nytimes.com/2025/09/18/nyregion/zohran-mamdani-threat-nyc-mayor.html|texas man is charged with making threats against mamdani us news|41d81f9521e2375f8869c7832820687e
 2025-09-18T15:41:15.342940+00:00|https://www.nbcnews.com/now/video/trump-discusses-jimmy-kimmel-tiktok-and-putin-at-news-conference-with-starmer-247851589946|trump discusses jimmy kimmel tiktok and putin at news conference with starmer us news|a1be00b11733d739f5aa79129db1cb9d
 2025-09-18T15:41:15.846859+00:00|https://www.nbcnews.com/video/shorts/trump-addresses-abc-s-jimmy-kimmel-pre-emption-247851077643|trump addresses abcs jimmy kimmel preemption us news|fe197397cf2d885fe810ae6247ca7cc4
+2025-09-18T16:28:39.079204+00:00|https://www.bbc.com/news/videos/c203nweed07o|class resumes at utah valley university after charlie kirk shooting us news|f3faeec01893ffa1e7bf0d2d68bb75cd
+2025-09-18T16:28:39.543990+00:00|https://www.bbc.com/news/articles/c4gjd1mnjpyo|chipmaker nvidia to invest $5bn in rival intel us news|820596c43b3080195ffe4d21fc61bd5d
+2025-09-18T16:28:40.027058+00:00|https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-allow-fire-fed-member-lisa-cook-rcna232165|trump asks the supreme court to allow him to fire fed member lisa cook us news|9427703b88873a7a81f037a70b5d7ee9
+2025-09-18T16:28:40.486926+00:00|https://www.nytimes.com/2025/09/18/us/politics/trump-supreme-court-fed.html|trump asks supreme court to allow removal of fed governor us news|55cdb45793c0702762ab59a7711dacff
+2025-09-18T16:28:41.015469+00:00|https://www.nbcnews.com/video/shorts/trump-says-putin-let-him-down-247854661506|trump says putin let him down us news|727a6129496261c52157128289e5d9a8
