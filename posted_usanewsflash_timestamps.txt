@@ -2969,3 +2969,6 @@
 2025-09-18T10:23:47.796075+00:00|https://www.nytimes.com/2025/09/18/health/kennedy-cdc-vaccine-meeting-hepatitis-covid.html|rfk jrs vaccine committee to vote on hepatitis b and covid shots us news|22e475b66c01fe04a480353590b63a93
 2025-09-18T10:57:48.784126+00:00|https://abcnews.go.com/Politics/trump-leave-windsor-castle-meet-starmer-day-2/story|trump arrives at chequers to meet with starmer on day 2 of uk state visit us news|57a7540b52cce5832edd3a2319e773b7
 2025-09-18T11:57:36.881273+00:00|https://www.nytimes.com/2025/09/18/business/nvidia-intel-stake.html|nvidia to buy $5 billion stake in intel us news|14abb87377cf813847b763bf5b1c0c02
+2025-09-18T12:47:45.374052+00:00|https://www.today.com/video/trump-uk-pm-starmer-expected-to-discuss-ukraine-trade-ai-247838277896|trump uk pm starmer expected to discuss ukraine trade ai us news|0d4d35709ba61011954e180480d7f480
+2025-09-18T12:47:45.900587+00:00|https://www.nytimes.com/2025/09/18/world/middleeast/syria-israel.html|syrias president says border deal with israel could come within days us news|6930dd78ccbdbb0f3094d8a0fc42b37e
+2025-09-18T12:47:46.383394+00:00|https://www.nytimes.com/2025/09/18/world/europe/uk-debates-trump-royal-welcome.html|diplomatic coup or abject groveling uk debates trumps royal welcome us news|cd59b3f2ee3b77672ad2b8a9bff972ee
