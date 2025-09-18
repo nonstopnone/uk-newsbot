@@ -3024,3 +3024,4 @@
 2025-09-18T21:57:32.620138+00:00|https://www.nytimes.com/2025/09/18/weather/california-rain-forecast.html|california is so muggy this week that it feels like florida us news|70b53cfdd4f3d2c322b295a6d9abae25
 2025-09-18T22:19:11.434862+00:00|https://www.nbcnews.com/video/shorts/inside-trump-s-visit-to-the-u-k-247885893798|inside trumps visit to the uk us news|7129fc1cc1e5e4af21e5694edfcd779c
 2025-09-18T22:19:12.096329+00:00|https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html|elon musk has focused on xai since leaving washington us news|a81d4eed36a49a01f2977c17d92bfe00
+2025-09-18T23:20:06.480232+00:00|https://www.nytimes.com/2025/09/18/us/military-helicopter-crash-washington.html|helicopter carrying 4 soldiers crashes in washington state us news|d02f6f61c1efa4d3754e2de5733c698b
