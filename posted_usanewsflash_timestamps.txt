@@ -2994,3 +2994,6 @@
 2025-09-18T16:57:37.049577+00:00|https://www.nytimes.com/2025/09/18/climate/wildfire-smoke-health-deaths.html|wildfire smoke will kill thousands more by 2050 study finds us news|d05bf5b23d5e682ad03f2ef978d55bb0
 2025-09-18T16:57:37.532656+00:00|https://abcnews.go.com/US/erika-kirk-elected-new-ceo-turning-point-usa/story|erika kirk elected as new ceo for turning point usa after husbands death us news|bc6376883dd2b9f0922151763cf871a6
 2025-09-18T17:19:11.657027+00:00|https://www.nytimes.com/2025/09/18/nyregion/mahmoud-khalil-deportation-order.html|mahmoud khalil asks federal judge to intercede after deportation order us news|d968a42a28e1a75f247128f7a159eca9
+2025-09-18T17:41:16.853047+00:00|https://www.nytimes.com/2025/09/18/well/live/obesity-american-men.html|why obesity is killing american men us news|138dc562bfae60d3a586c1773fdb0122
+2025-09-18T17:41:17.435129+00:00|https://www.nbcnews.com/world/gaza/satellite-images-show-palestinians-fleeing-israeli-assault-gaza-rcna232078|satellite images show mass displacement of palestinians fleeing israeli assault in gaza us news|44f9f070665c201f046451f7b4aeeb84
+2025-09-18T17:41:18.065503+00:00|https://www.nytimes.com/2025/09/18/business/newark-airport-air-traffic-control.html|newark airport crisis has eased but tech and staffing issues persist us news|51dc0b29a52272e91ded5b674fdd2faf
