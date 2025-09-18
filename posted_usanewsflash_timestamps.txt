@@ -3021,3 +3021,4 @@
 2025-09-18T21:20:25.400236+00:00|https://www.nytimes.com/2025/09/18/nyregion/elected-officials-arrested-ice-new-york.html|11 elected officials arrested while trying to access cells at nyc ice facility us news|3ca8e89cfea4a3e1646a158e1bd33695
 2025-09-18T21:39:20.961824+00:00|https://www.nbcnews.com/news/latino/judge-blocks-deportation-guatemalan-minors-trump-immigration-rcna232170|judge blocks deportation of guatemalan children us news|f1491ac9e2f313c7b013da7808d4f4e3
 2025-09-18T21:39:21.544396+00:00|https://www.nbcnews.com/video/shorts/middle-schooler-arrested-in-sextortion-investigation-247887429574|middle schooler arrested in sextortion investigation us news|109db822ee532e4d6b3c5952d52ce0c1
+2025-09-18T21:57:32.620138+00:00|https://www.nytimes.com/2025/09/18/weather/california-rain-forecast.html|california is so muggy this week that it feels like florida us news|70b53cfdd4f3d2c322b295a6d9abae25
