@@ -3089,3 +3089,6 @@
 2025-09-19T21:19:22.159596+00:00|https://www.nytimes.com/2025/09/19/climate/trump-deal-izembek-national-wildlife-refuge-alaska.html|trump nears deal for road through alaskan wildlife refuge us news|6cf71b66aad531815e02acdc5da9eee0
 2025-09-19T21:38:33.089338+00:00|https://www.nytimes.com/2025/09/19/us/harvard-claudine-gay-trump.html|harvards former president claudine gay criticizes its approach to trump us news|a6211d8eb56534ad1637cb386ac27e81
 2025-09-19T21:38:33.583272+00:00|https://www.nbcnews.com/video/shorts/here-s-the-scoop-u-s-china-and-tiktok-247967813684|heres the scoop us china and tiktok us news|14589a54e5bd7da36f3a2d3ca1a45ab1
+2025-09-19T21:57:58.737910+00:00|https://www.nbcnews.com/video/shorts/former-trump-lawyer-compares-trump-to-putin-247965765964|former trump lawyer compares trump to putin us news|5562ffb1797867e64dac39b80ea5d19d
+2025-09-19T21:57:59.544612+00:00|https://www.nbcnews.com/video/shorts/tear-gas-used-on-protesters-outside-illinois-ice-site-247965765948|tear gas used on protesters outside illinois ice site us news|c926cd7ae2664f2bcd9b4e0efdb14885
+2025-09-19T21:58:00.244144+00:00|https://www.nytimes.com/2025/09/19/us/travis-decker-remains-found-washington-state.html|travis deckers remains believed to be found in forest sheriff says us news|1aedaeb852020e42d701564b131be999
