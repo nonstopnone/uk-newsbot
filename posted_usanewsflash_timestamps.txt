@@ -3063,3 +3063,6 @@
 2025-09-19T16:28:03.451116+00:00|https://www.nytimes.com/2025/09/19/us/politics/supreme-court-jimmy-kimmel-free-speech.html|in pressuring abc over kimmel trump may have crossed a constitutional line us news|f0a5e12530901cd243ba09af3744ea0e
 2025-09-19T16:28:04.050320+00:00|https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html|trump suggests china may have approved a tiktok deal without details us news|8f066b544676dae43c129e0b1c3284d2
 2025-09-19T16:28:04.624562+00:00|https://www.nytimes.com/2025/09/19/health/cdc-vaccines-mmrv-hepatitis-b.html|cdc vaccine panel postpones one vote and reverses another amid confusion us news|b2736e675e37e47c4e6b2662a124e3c1
+2025-09-19T16:45:30.256882+00:00|https://www.bbc.com/news/articles/cgmz2wx201po|cardi b settles scores on first album for seven years us news|a68c9c72519fbfae84ed909b67e74eed
+2025-09-19T16:45:30.937729+00:00|https://abcnews.go.com/US/judge-tosses-trumps-15b-defamation-suit-new-york/story|judge tosses trumps $15b suit against new york times penguin random house us news|1d06ac418faa505c44ab68255958f3ba
+2025-09-19T16:45:31.630384+00:00|https://www.nytimes.com/2025/09/19/us/politics/trump-harvard-financial-risk.html|trump officials question harvards stability saying federal inquiries raise financial risk us news|5ffc51319978491e373c31bdff445a60
