@@ -3076,3 +3076,6 @@
 2025-09-19T18:31:51.391817+00:00|https://www.nytimes.com/2025/09/19/us/politics/erik-siebert-comey-letitia-james.html|fight erupts over fate of us attorney investigating two trump foes us news|b05a4d0b275a946113e3b7de0887bf7e
 2025-09-19T18:31:51.962294+00:00|https://abcnews.go.com/US/video/police-teen-loaded-gun-threatened-shoot-nyc-high-125744010|watch police say teen with loaded gun threatened to shoot up nyc high school us news|56f75afe9be6cefc55eeda708a526847
 2025-09-19T18:31:52.508202+00:00|https://www.nbcnews.com/video/shorts/cdc-advisory-panel-postpones-hepatitis-b-vaccine-vote-247951941688|cdc advisory panel postpones hepatitis b vaccine vote us news|712f96f41ce4c920cf96f97dd9a623ba
+2025-09-19T18:47:56.964138+00:00|https://www.nytimes.com/2025/09/19/us/politics/schumer-mamdani.html|schumer wary of blowback holds out on mamdani us news|624d7dd2a9fcd7f3e8c8ad2556e5a662
+2025-09-19T18:47:57.567433+00:00|https://www.nytimes.com/2025/09/19/us/politics/stephen-miran-fed-interest-rates.html|new to the fed miran defends calls for sharper reduction in interest rates us news|11aa3d0bcea2e104e3cd53f60e4200ec
+2025-09-19T18:47:58.138296+00:00|https://www.nytimes.com/2025/09/19/world/asia/taliban-ban-women-author-books.html|taliban bans books by women in afghanistans universities us news|adb08f6f67c336e566e20432de0d17bd
