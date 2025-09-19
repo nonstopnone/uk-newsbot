@@ -3066,3 +3066,6 @@
 2025-09-19T16:45:30.256882+00:00|https://www.bbc.com/news/articles/cgmz2wx201po|cardi b settles scores on first album for seven years us news|a68c9c72519fbfae84ed909b67e74eed
 2025-09-19T16:45:30.937729+00:00|https://abcnews.go.com/US/judge-tosses-trumps-15b-defamation-suit-new-york/story|judge tosses trumps $15b suit against new york times penguin random house us news|1d06ac418faa505c44ab68255958f3ba
 2025-09-19T16:45:31.630384+00:00|https://www.nytimes.com/2025/09/19/us/politics/trump-harvard-financial-risk.html|trump officials question harvards stability saying federal inquiries raise financial risk us news|5ffc51319978491e373c31bdff445a60
+2025-09-19T17:19:09.880505+00:00|https://www.bbc.com/news/articles/c62n7025wdgo|judge strikes down trumps $15bn lawsuit against the new york times us news|63c7b4dd7869768afe69205e6b1a5037
+2025-09-19T17:19:10.449487+00:00|https://abcnews.go.com/US/2-year-boy-missing-after-california-flash-flood/story|2yearold boy missing after california flash flood sweeps away car us news|9c09339bf20b75656b293448eeb4f2e9
+2025-09-19T17:19:11.007912+00:00|https://abcnews.go.com/International/video/trump-announces-efforts-regain-control-bagram-air-base-125741635|watch trump announces efforts to regain control of bagram air base in afghanistan us news|611c6b43b04ab1f072c12b61973f9b9f
