@@ -3080,3 +3080,5 @@
 2025-09-19T18:47:57.567433+00:00|https://www.nytimes.com/2025/09/19/us/politics/stephen-miran-fed-interest-rates.html|new to the fed miran defends calls for sharper reduction in interest rates us news|11aa3d0bcea2e104e3cd53f60e4200ec
 2025-09-19T18:47:58.138296+00:00|https://www.nytimes.com/2025/09/19/world/asia/taliban-ban-women-author-books.html|taliban bans books by women in afghanistans universities us news|adb08f6f67c336e566e20432de0d17bd
 2025-09-19T19:17:34.909676+00:00|https://www.bbc.com/news/articles/cpw1yk9pnreo|trump planning to invite king charles to us us news|e456e9a0c412071d99e0680a908882ff
+2025-09-19T19:38:57.442593+00:00|https://www.nytimes.com/2025/09/19/us/politics/temporary-protected-status-syrians.html|trump administration will end deportation protections for thousands of syrians us news|4193c4b9bdbc23c4ada0361f2ced79b1
+2025-09-19T19:38:58.005860+00:00|https://www.nbcnews.com/video/shorts/rescuers-save-a-moose-trapped-in-an-open-maine-well-247956037895|rescuers save a moose trapped in an open maine well us news|2b0fc1d57d1e7d0cb217ae07aca47834
