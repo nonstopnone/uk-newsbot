@@ -3055,3 +3055,4 @@
 2025-09-19T14:21:59.926675+00:00|https://www.nbcnews.com/video/shorts/trump-says-i-don-t-know-fired-ambassador-he-met-in-may-247933509729|trump says i dont know fired ambassador he met in may us news|56183424973b163b1f1129e1e54a1119
 2025-09-19T14:22:00.515216+00:00|https://www.nytimes.com/2025/09/19/business/farm-aid-40-concert-farmers-crisis-hotline.html|as farm aid reaches 40 years it deals with familiar farming crises us news|00473465e8486acda571ec03fb19c251
 2025-09-19T14:22:01.103473+00:00|https://abcnews.go.com/US/songwriter-brett-james-3-killed-small-plane-crash/story|songwriter brett james among 3 killed in small plane crash in north carolina us news|f020db9c9cdef7ac1a0998cd0edfd668
+2025-09-19T14:58:00.115774+00:00|https://www.nbcnews.com/politics/congress/house-passes-gop-bill-avert-shutdown-senate-likely-reject-rcna232242|house passes gop bill to avert a shutdown but senate looks likely to reject it us news|2d270ecb2f0e3afafb8bcbf8547cef7c
