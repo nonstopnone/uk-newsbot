@@ -3099,3 +3099,4 @@
 2025-09-19T23:19:35.713745+00:00|https://www.nytimes.com/2025/09/19/us/politics/trump-h-1b-visas-fee.html|trump says the us will institute $100000 fee for skilled worker visas us news|b9b8026efbb6e0caaca3ee364c9cba23
 2025-09-19T23:19:36.267458+00:00|https://www.nytimes.com/2025/09/19/us/politics/ice-protests-chicago.html|protesters and federal agents clash outside an ice detention facility near chicago us news|494fb1c2c3ee45a9e6538580169d6a10
 2025-09-19T23:19:36.805744+00:00|https://abcnews.go.com/US/us-attorney-plans-resign-amid-pressure-trump-after/story|us attorney plans to resign amid pressure from trump sources us news|d908f3756f73b58fe3adca9907ad3fcf
+2025-09-19T23:38:45.241805+00:00|https://abcnews.go.com/US/prosecution-rests-ryan-routh-trial-alleged-attempt-trumps/story|prosecution rests in ryan routh trial over alleged attempt on trumps life us news|5487fe9e1d7444f41d7f9e4bdee2bf02
