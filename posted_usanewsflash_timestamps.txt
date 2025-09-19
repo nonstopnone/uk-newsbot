@@ -3052,3 +3052,6 @@
 2025-09-19T10:43:13.189567+00:00|https://www.nytimes.com/2025/09/19/world/asia/china-united-nations-trump.html|how china stands to gain as the us steps away from the un us news|d7a0eb4b75ab49b379a1515ecd6493c2
 2025-09-19T10:43:13.726266+00:00|https://www.nytimes.com/2025/09/19/magazine/tyler-robinson-political-violence.html|political violence isnt new but something about this moment is us news|fa83f98276751ecd3ff6a2d6b1662bdc
 2025-09-19T13:44:01.342674+00:00|https://www.nytimes.com/2025/09/19/arts/agnes-gund-dead.html|agnes gund who oversaw a major expansion of moma dies at 87 us news|65e4d1b3f81484c7d8fb917d512f7f01
+2025-09-19T14:21:59.926675+00:00|https://www.nbcnews.com/video/shorts/trump-says-i-don-t-know-fired-ambassador-he-met-in-may-247933509729|trump says i dont know fired ambassador he met in may us news|56183424973b163b1f1129e1e54a1119
+2025-09-19T14:22:00.515216+00:00|https://www.nytimes.com/2025/09/19/business/farm-aid-40-concert-farmers-crisis-hotline.html|as farm aid reaches 40 years it deals with familiar farming crises us news|00473465e8486acda571ec03fb19c251
+2025-09-19T14:22:01.103473+00:00|https://abcnews.go.com/US/songwriter-brett-james-3-killed-small-plane-crash/story|songwriter brett james among 3 killed in small plane crash in north carolina us news|f020db9c9cdef7ac1a0998cd0edfd668
