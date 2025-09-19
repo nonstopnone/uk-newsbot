@@ -3093,3 +3093,6 @@
 2025-09-19T21:57:59.544612+00:00|https://www.nbcnews.com/video/shorts/tear-gas-used-on-protesters-outside-illinois-ice-site-247965765948|tear gas used on protesters outside illinois ice site us news|c926cd7ae2664f2bcd9b4e0efdb14885
 2025-09-19T21:58:00.244144+00:00|https://www.nytimes.com/2025/09/19/us/travis-decker-remains-found-washington-state.html|travis deckers remains believed to be found in forest sheriff says us news|1aedaeb852020e42d701564b131be999
 2025-09-19T22:20:47.257999+00:00|https://www.nbcnews.com/politics/trump-administration/trump-raises-fee-h-1b-visas-100000-rcna232525|trump raises fee for h1b visas to $100000 us news|fac6a41f945ead24a3227e432002d5c9
+2025-09-19T22:57:40.316880+00:00|https://www.bbc.com/news/articles/cly080jx480o|us vaccine panel no longer recommends covid19 jab to adults us news|55fd4f563e350fd60acbdbfcdf91af51
+2025-09-19T22:57:40.912380+00:00|https://abcnews.go.com/US/wireStory/160-mile-march-democracy-arrives-washington-philadelphia-125753463|160mile march for democracy arrives in washington from philadelphia us news|2a8aee0d1af8ab3e5cc9f4bcfd1ecdb1
+2025-09-19T22:57:41.487467+00:00|https://www.nytimes.com/2025/09/19/briefing/a-government-shutdown-is-looming.html|a government shutdown is looming us news|a1dc8fe8b902817b82a8c36e192deeb9
