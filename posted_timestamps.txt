@@ -1,4 +1,3 @@
-2025-09-12T20:26:05.015095+00:00|https://www.bbc.com/news/articles/cderlg227j4o|astrazeneca pauses £200m cambridge investment|4835375af3c433892ba1f67ecd7cab9f
 2025-09-13T01:48:08.011666+00:00|https://news.sky.com/story/roadwork-levels-hit-record-highs-8211-as-expert-partially-blames-boris-johnson-13429165|roadwork britain how a decision from boris johnson is still delaying your commute|3a9bdb681108a94b1529e615d2526348
 2025-09-13T03:42:10.653735+00:00|https://www.bbc.com/news/articles/c306m86y824o|coldplay get giddy as they smash wembley stadium record|c95522389148794a85fe8602bbd0efd9
 2025-09-13T08:28:55.680343+00:00|https://news.sky.com/story/sainsburys-recalls-own-brand-hummus-over-potentially-deadly-ecoli-warning-13429760|supermarket ownbrand hummus recalled over ecoli warning|e3f960efac6c3aef8d0cf8134db9305b
@@ -115,3 +114,5 @@
 2025-09-19T19:01:02.882893+00:00|https://news.sky.com/story/israeli-strikes-on-yemen-newspaper-offices-mark-deadliest-attack-on-press-in-16-years-13434090|israeli strikes on yemen newspaper offices mark deadliest attack on press in 16 years|29bcb4282823b545e3a661ddfae90bda
 2025-09-19T19:22:03.165629+00:00|https://news.sky.com/story/peers-back-assisted-dying-bill-but-battles-lie-ahead-13434131|peers back assisted dying bill but battles lie ahead|15a41aa1a4a6de86869860f133a91106
 2025-09-19T19:37:32.959333+00:00|https://news.sky.com/story/uk-and-ireland-agree-deal-to-address-unfinished-business-of-the-troubles-13434125|uk and irish governments agree framework to address troubles legacy|d03b8b71b4e9245d6acc635139b2d7cf
+2025-09-19T20:26:22.327055+00:00|https://news.sky.com/story/canada-bans-kneecap-from-entering-country-as-rappers-threaten-legal-action-13434201|canada bans kneecap from entering country|7693841d9c1bde6f155855043b9323f9
+2025-09-19T20:27:03.239850+00:00|https://news.sky.com/story/british-airways-cabin-crew-member-who-was-found-naked-and-on-drugs-during-flight-spared-prison-13434155|ba cabin crew member who was found naked and on drugs during flight spared prison|444f27ee04b9b4899a75e8c21867eaa7
