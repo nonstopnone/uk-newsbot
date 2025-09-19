@@ -3096,3 +3096,6 @@
 2025-09-19T22:57:40.316880+00:00|https://www.bbc.com/news/articles/cly080jx480o|us vaccine panel no longer recommends covid19 jab to adults us news|55fd4f563e350fd60acbdbfcdf91af51
 2025-09-19T22:57:40.912380+00:00|https://abcnews.go.com/US/wireStory/160-mile-march-democracy-arrives-washington-philadelphia-125753463|160mile march for democracy arrives in washington from philadelphia us news|2a8aee0d1af8ab3e5cc9f4bcfd1ecdb1
 2025-09-19T22:57:41.487467+00:00|https://www.nytimes.com/2025/09/19/briefing/a-government-shutdown-is-looming.html|a government shutdown is looming us news|a1dc8fe8b902817b82a8c36e192deeb9
+2025-09-19T23:19:35.713745+00:00|https://www.nytimes.com/2025/09/19/us/politics/trump-h-1b-visas-fee.html|trump says the us will institute $100000 fee for skilled worker visas us news|b9b8026efbb6e0caaca3ee364c9cba23
+2025-09-19T23:19:36.267458+00:00|https://www.nytimes.com/2025/09/19/us/politics/ice-protests-chicago.html|protesters and federal agents clash outside an ice detention facility near chicago us news|494fb1c2c3ee45a9e6538580169d6a10
+2025-09-19T23:19:36.805744+00:00|https://abcnews.go.com/US/us-attorney-plans-resign-amid-pressure-trump-after/story|us attorney plans to resign amid pressure from trump sources us news|d908f3756f73b58fe3adca9907ad3fcf
