@@ -3130,3 +3130,4 @@
 2025-09-20T18:28:18.817894+00:00|https://abcnews.go.com/US/flash-flooding-threat-return-west-gabrielle-churns-atlantic/story|flash flooding threat could return in parts of western us us news|f9bcdeb411c6108c1b522de525bcb57c
 2025-09-20T18:28:19.333383+00:00|https://www.nytimes.com/2025/09/20/nyregion/gary-busey-sentenced-to-two-years-probation-for-sex-offense.html|gary busey sentenced to two years probation for sex offense us news|6c7ca7528cc61bba28956fd867c961bf
 2025-09-20T19:15:36.746383+00:00|https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html|white house outlines a tiktok deal with a us board us news|79dffe02d8cde215694b58ef69edbab8
+2025-09-20T19:38:04.520027+00:00|https://abcnews.go.com/US/armed-man-arrested-stadium-ahead-charlie-kirk-memorial/story|armed man arrested at stadium ahead of charlie kirk memorial officials us news|1a3b59dd0279cf15ec059d3177752871
