@@ -3139,3 +3139,5 @@
 2025-09-20T22:19:22.961879+00:00|https://www.nytimes.com/2025/09/20/us/california-ice-agents-masks-law.html|california bars ice agents from wearing masks in the state us news|acdeed6b83880f14167fea905a407c75
 2025-09-20T22:57:33.941359+00:00|https://www.bbc.com/news/articles/c89dd747yz7o|white house outlines tiktok deal that would give us control of algorithm us news|d43b00bbd79b11c3f3a2c50fbb71cb91
 2025-09-20T23:19:19.451031+00:00|https://www.nytimes.com/2025/09/20/business/trump-h1b-visas-fee-employees.html|trumps $100000 h1b visa fee spurs confusion and chaos for companies us news|43b8457ae4dbc58912211efd3f1f87e2
+2025-09-20T23:39:10.309053+00:00|https://www.bbc.com/news/articles/c5yqqelk39go|heightened security as americans gather for kirk memorial us news|7398d8a5ec57726f47540a61a31e6322
+2025-09-20T23:39:10.985229+00:00|https://www.bbc.com/news/articles/cwywwjevprwo|press could lose pentagon access for releasing unauthorised information us news|f14baf60ee922f75b92b5a3f063c521e
