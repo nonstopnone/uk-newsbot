@@ -3119,3 +3119,4 @@
 2025-09-20T09:57:22.555239+00:00|https://www.nytimes.com/2025/09/20/world/middleeast/visa-standoff-trump-united-nations.html|what to know about the visa standoff between trump and the united nations us news|d5b7249225156e0ab5173b9488c034d3
 2025-09-20T09:57:22.984437+00:00|https://www.nytimes.com/2025/09/20/us/politics/pipeline-fund-democrats-local-elections.html|inspired by conservative tactics an obscure group seeks sway for democrats us news|3dc94501d865c433042b49f7968e4cc9
 2025-09-20T10:21:37.910580+00:00|https://www.nytimes.com/2025/09/20/business/hamburger-helper-food-prices.html|hamburger helper sales rise as americans try to save on food us news|04e9327b7d3fd631280b37202c7e3743
+2025-09-20T13:11:54.644170+00:00|https://www.nytimes.com/2025/09/20/business/dealbook/data-centers-ai.html|what wall street sees in the data center boom us news|1c622bb9dfc729fbba3c46dc7aefe8bf
