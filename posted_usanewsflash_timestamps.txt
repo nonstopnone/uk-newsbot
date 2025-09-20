@@ -3132,3 +3132,4 @@
 2025-09-20T19:15:36.746383+00:00|https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html|white house outlines a tiktok deal with a us board us news|79dffe02d8cde215694b58ef69edbab8
 2025-09-20T19:38:04.520027+00:00|https://abcnews.go.com/US/armed-man-arrested-stadium-ahead-charlie-kirk-memorial/story|armed man arrested at stadium ahead of charlie kirk memorial officials us news|1a3b59dd0279cf15ec059d3177752871
 2025-09-20T19:57:45.585325+00:00|https://www.nbcnews.com/politics/politics-news/white-house-tiktok-algorithm-data-deal-trump-china-rcna232627|tiktoks algorithm and data will be controlled by america white house says us news|39eb025887d67d9a11b36d85ff6c3122
+2025-09-20T20:21:17.038447+00:00|https://www.nbcnews.com/politics/congress/schumer-jeffries-request-meeting-trump-ahead-potential-government-shut-rcna232628|schumer jeffries request meeting with trump ahead of potential government shutdown us news|fc12c7961cc279e1fa019647361d4196
