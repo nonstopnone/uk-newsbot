@@ -3141,3 +3141,7 @@
 2025-09-20T23:19:19.451031+00:00|https://www.nytimes.com/2025/09/20/business/trump-h1b-visas-fee-employees.html|trumps $100000 h1b visa fee spurs confusion and chaos for companies us news|43b8457ae4dbc58912211efd3f1f87e2
 2025-09-20T23:39:10.309053+00:00|https://www.bbc.com/news/articles/c5yqqelk39go|heightened security as americans gather for kirk memorial us news|7398d8a5ec57726f47540a61a31e6322
 2025-09-20T23:39:10.985229+00:00|https://www.bbc.com/news/articles/cwywwjevprwo|press could lose pentagon access for releasing unauthorised information us news|f14baf60ee922f75b92b5a3f063c521e
+2025-09-21T01:56:23.138136+00:00|https://www.nbcnews.com/news/us-news/pentagon-places-restrictions-journalist-access-rcna232662|pentagon places further restrictions on journalist access us news|98b7a03e00fa8343ecb4e0ddcecb7d37
+2025-09-21T01:56:23.817781+00:00|https://www.nytimes.com/2025/09/20/us/politics/h1b-visa-trump-immigration.html|the h1b visa why is trump adding a $100000 fee us news|f3ea2e66a5ee42770b6cb63496d8e420
+2025-09-21T01:56:24.507156+00:00|https://abcnews.go.com/US/multiple-people-shot-new-hampshire-country-club-1/story|multiple people shot at new hampshire country club sole suspect detained police us news|fcb254f40ecb520653c46518b182a813
+2025-09-21T01:56:25.162197+00:00|https://www.nytimes.com/2025/09/20/us/politics/trump-justice-department-us-attorneys.html|trump demands that bondi move now to prosecute foes us news|27a3a8dcb3565dae79b7784b4faa0dce
