@@ -3152,3 +3152,5 @@
 2025-09-21T10:21:41.339247+00:00|https://www.nytimes.com/2025/09/21/business/swiss-army-knife-trump-tariffs.html|trumps tariffs on switzerland prompt identity crisis for swiss army knife us news|fade4a79afb991a6665fba80a9ec448a
 2025-09-21T10:21:42.037451+00:00|https://www.nytimes.com/2025/09/21/us/national-guard-crime-washington-cities.html|trump is expanding the national guards role some former generals worry us news|5805b0155ecc238d76ea845d9512b484
 2025-09-21T10:21:42.708948+00:00|https://www.nytimes.com/2025/09/21/business/zohran-mamdani-voters.html|meet the young professionals voting for zohran mamdani us news|065e9a4cd5c8ab98c8f6f7c5ab9da283
+2025-09-21T11:16:39.622405+00:00|https://www.nytimes.com/2025/09/21/world/asia/manila-philippines-rally-protest.html|protesters in manila accuse government of misusing environmental funds us news|87784268cd7bdbfa09ac833aa77ea8a1
+2025-09-21T11:16:40.414656+00:00|https://abcnews.go.com/International/wireStory/taliban-reject-trumps-bid-retake-bagram-air-base-125780496|taliban reject trumps bid to retake bagram air base in afghanistan us news|bd9eaf72b62e56bd7db7a969f86f0803
