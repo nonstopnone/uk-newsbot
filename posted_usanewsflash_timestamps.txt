@@ -3149,3 +3149,6 @@
 2025-09-21T03:44:12.246120+00:00|https://abcnews.go.com/Politics/trump-nominate-former-attorney-lead-key-prosecutors-office/story|trump says he will nominate his former attorney to lead key prosecutors office us news|b12b8943e81e2ac9f37482c73ea721d6
 2025-09-21T03:44:12.956288+00:00|https://www.nytimes.com/2025/09/20/us/new-hampshire-country-club-shooting.html|several people shot at new hampshire country club us news|ce8ec82ffb7524f26968ecc5f4581986
 2025-09-21T04:26:30.446712+00:00|https://www.nytimes.com/2025/09/21/world/asia/india-nepal-diplomacy-asia.html|nepal uprising is latest challenge to indias backyard diplomacy us news|613317eb0266193d8c552a096dfce1f3
+2025-09-21T10:21:41.339247+00:00|https://www.nytimes.com/2025/09/21/business/swiss-army-knife-trump-tariffs.html|trumps tariffs on switzerland prompt identity crisis for swiss army knife us news|fade4a79afb991a6665fba80a9ec448a
+2025-09-21T10:21:42.037451+00:00|https://www.nytimes.com/2025/09/21/us/national-guard-crime-washington-cities.html|trump is expanding the national guards role some former generals worry us news|5805b0155ecc238d76ea845d9512b484
+2025-09-21T10:21:42.708948+00:00|https://www.nytimes.com/2025/09/21/business/zohran-mamdani-voters.html|meet the young professionals voting for zohran mamdani us news|065e9a4cd5c8ab98c8f6f7c5ab9da283
