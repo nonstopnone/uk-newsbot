@@ -3230,3 +3230,5 @@
 2025-09-22T19:57:36.026528+00:00|https://abcnews.go.com/Politics/supreme-court-allows-trump-firing-ftc-commissioner-accepts/story|supreme court allows trump firing of ftc commissioner us news|97fcae80cae53f67f97d8bba825b5e11
 2025-09-22T19:57:36.714851+00:00|https://www.nbcnews.com/politics/supreme-court/supreme-court-takes-dispute-trump-authority-fire-ftc-member-rcna230345|supreme court takes up dispute over trumps authority to fire ftc member us news|b18d0e6b4a29043e551bad4b0d94b07f
 2025-09-22T19:57:37.350342+00:00|https://www.nbcnews.com/business/media/jimmy-kimmel-abc-return-tuesday-rcna232335|jimmy kimmels show returning tomorrow abc announces us news|30b3ad441e9c2312167831199d7a7bfe
+2025-09-22T20:25:35.168634+00:00|https://www.nbcnews.com/video/shorts/how-will-retraining-the-tiktok-algorithm-impact-users-248096325560|how will retraining the tiktok algorithm impact users us news|4d280dfd7a0c68d3c331eb6bf98ad460
+2025-09-22T20:25:35.868974+00:00|https://www.nytimes.com/2025/09/22/health/tylenol-autism-kenvue.html|the company behind tylenol tries to navigate its latest crisis us news|5d94b162dd5db788ac3ab0e7e3a9794e
