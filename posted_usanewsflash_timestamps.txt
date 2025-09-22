@@ -3188,3 +3188,6 @@
 2025-09-22T03:10:43.022039+00:00|https://www.nbcnews.com/video/shorts/small-plane-makes-emergency-landing-in-connecticut-248045125798|small plane makes emergency landing in connecticut us news|aa9ffe9905ab69df5fb804a08a2f2066
 2025-09-22T03:10:43.569502+00:00|https://abcnews.go.com/US/wireStory/caretaker-killed-tiger-wildlife-preserve-southeastern-oklahoma-125805346|caretaker killed by tiger at wildlife preserve in southeastern oklahoma us news|83e59b6c8f09dbf14d55e14231114e2f
 2025-09-22T04:27:33.690563+00:00|https://www.nytimes.com/2025/09/22/business/taiwan-manufacturing-trump-tariffs.html|trumps tariffs are damaging americas biggest foreign source of screws us news|47338640b3eb756af36c8bc7bcdb83c1
+2025-09-22T06:36:19.740910+00:00|https://www.bbc.com/news/articles/c1eddw19042o|outdoor brand arcteryx apologises for fireworks display in tibet us news|c99d5f9d5cbab0a772de212f61c97e5b
+2025-09-22T06:36:20.419548+00:00|https://abcnews.go.com/US/wireStory/man-representing-charges-kill-trump-plans-call-3-125806662|man representing himself against trump plot plans to call just 3 witnesses us news|573b8c53a890390d9110130696f93b61
+2025-09-22T06:36:21.096870+00:00|https://www.nytimes.com/2025/09/22/world/asia/kim-north-korea-trump-talks.html|kim jongun open to talks if us drops demand to denuclearize us news|bbed0355c03e4d5e055af6a243ee5fd1
