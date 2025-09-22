@@ -3216,3 +3216,6 @@
 2025-09-22T16:57:35.008173+00:00|https://www.nytimes.com/2025/09/22/health/kennedy-autism-tylenol-trump.html|trump announcement said to focus on unproven link between tylenol and autism us news|1352e9fc412784fb51f3a454592f7be1
 2025-09-22T17:17:49.955567+00:00|https://www.nbcnews.com/video/shorts/first-open-swim-event-held-in-chicago-river-in-98-years-248079429905|first open swim event held in chicago river in 98 years us news|37e97a94e8d8a4ac60fe8d7c6458e80a
 2025-09-22T17:17:50.493192+00:00|https://www.nbcnews.com/business/business-news/chipmaker-nvidia-invest-100-billion-openai-rcna232974|chipmaker nvidia to invest $100 billion in openai us news|76a5ad39630240a75b126b6daab56ac1
+2025-09-22T17:39:53.851349+00:00|https://www.nytimes.com/2025/09/22/us/politics/trump-tax-cuts.html|trumps tax cut is underwater can a refund boom save it us news|eb42a88b131322cbb3e2c8530f679415
+2025-09-22T17:39:54.346401+00:00|https://www.nytimes.com/2025/09/22/technology/nvidia-openai-100-billion-investment.html|nvidia to invest $100 billion in openai us news|6075e5edd47eb4fcf7a9b124cf1eb201
+2025-09-22T17:39:54.803759+00:00|https://www.nytimes.com/2025/09/22/business/trump-h-1b-visa-fee-india.html|india reels from trumps h1b visa fee us news|81a616333bc0b41e7ee00f8e773c2ed3
