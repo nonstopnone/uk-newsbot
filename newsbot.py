@@ -93,11 +93,11 @@ def load_dedup(filename=DEDUP_FILE):
                         timestamp = dateparser.parse(parts[0])
                         if timestamp > seven_days_ago:
                             url = parts[1]
-                            hash = parts[-1]
                             title = '|'.join(parts[2:-1])
+                            hash_ = parts[-1]
                             urls.add(url)
                             titles.add(title)
-                            hashes.add(hash)
+                            hashes.add(hash_)
                             cleaned_lines.append(line)
                     except Exception:
                         continue
@@ -129,8 +129,9 @@ def add_to_dedup(entry):
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
     content_hash = get_content_hash(entry)
+    timestamp = datetime.now(timezone.utc).isoformat()
     with open(DEDUP_FILE, 'a', encoding='utf-8') as f:
-        f.write(f"{datetime.now(timezone.utc).isoformat()}|{norm_link}|{norm_title}|{content_hash}\n")
+        f.write(f"{timestamp}|{norm_link}|{norm_title}|{content_hash}\n")
     posted_urls.add(norm_link)
     posted_titles.add(norm_title)
     posted_hashes.add(content_hash)
@@ -225,7 +226,7 @@ UK_KEYWORDS = {
     "level crossing": 3, "west midlands railway": 3, "network rail": 3,
     "ofsted": 3, "dvla": 3, "hmrc": 3, "dwp": 3, "tory": 3, "labour party": 3, "reform uk": 3, "plaid cymru": 3,
     "brighton": 3, "southampton": 3, "plymouth": 3, "hull": 3, "derby": 3,
-    "uk": 3, "britain": 3, "united kingdom": 3, "england": 3, "scotland": 3, "wales": 3, "northern ireland": 3,
+    "uk": 5, "britain": 5, "united kingdom": 5, "england": 4, "scotland": 4, "wales": 4, "northern ireland": 4,
     "british": 3, "labour": 3, "conservative": 3, "lib dem": 3, "snp": 3, "green party": 3,
     "king charles": 3, "queen camilla": 3, "prince william": 3, "princess kate": 3,
     "keir starmer": 3, "rachel reeves": 3, "kemi badenoch": 3, "ed davey": 3, "john swinney": 3,
@@ -237,7 +238,8 @@ UK_KEYWORDS = {
     "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
     "prime minister": 2, "chancellor": 2, "home secretary": 2, "a-levels": 2, "gcse": 2,
     "council tax": 2, "energy price cap": 2, "high street": 2, "pub": 2, "motorway": 2,
-    "council": 2, "home office": 2, "raducanu": 3, "councillor": 2, "hospital": 1
+    "council": 2, "home office": 2, "raducanu": 3, "councillor": 2, "hospital": 1,
+    "ireland": -1, "republic of ireland": -2
 }
 
 NEGATIVE_KEYWORDS = {
@@ -268,55 +270,70 @@ NEGATIVE_KEYWORDS = {
 WHITELISTED_DOMAINS = ["bbc.co.uk", "bbc.com", "theguardian.com", "thetimes.co.uk", "telegraph.co.uk", "sky.com", "itv.com"]
 BLACKLISTED_DOMAINS = ["buzzfeed.com", "clickhole.com", "upworthy.com"]
 
-def calculate_uk_relevance_score(text):
-    """Calculate a relevance score and return a tuple (score, matched_keywords)."""
+strong_uk_keywords = ["uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland",
+    "london", "manchester", "birmingham", "glasgow", "edinburgh", "cardiff", "belfast",
+    "liverpool", "leeds", "bristol", "newcastle", "sheffield", "nottingham", "brighton",
+    "southampton", "plymouth", "hull", "derby", "oxford", "cambridge"]
+
+def calculate_uk_relevance_score(text, url=""):
+    """Calculate a relevance score and return a tuple (score, matched_keywords as dict {kw: count})."""
     score = 0
-    matched_keywords = []
+    matched_keywords = {}
     text_lower = text.lower()
 
+    # Count-based positive keywords with cap
     for keyword, weight in UK_KEYWORDS.items():
-        if keyword in text_lower:
-            score += weight
-            matched_keywords.append(keyword)
+        count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text_lower))
+        if count > 0:
+            score += weight * min(3, count)
+            matched_keywords[keyword] = count
 
+    # Count-based negative keywords with cap
     for keyword, weight in NEGATIVE_KEYWORDS.items():
-        if keyword in text_lower:
-            score += weight
-            matched_keywords.append(keyword)  # Track negative matches too for logging
+        count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text_lower))
+        if count > 0:
+            score += weight * min(3, count)
+            matched_keywords[f"negative:{keyword}"] = count
 
-    if re.search(r'\b\w+(shire|ford|ton|ham|bridge|cester)\b', text_lower):
-        score += 2
-        matched_keywords.append("placename")
+    # Regex for UK placenames with cap
+    placename_count = len(re.findall(r'\b\w+(shire|ford|ton|ham|bridge|cester)\b', text_lower))
+    if placename_count > 0:
+        score += 2 * min(3, placename_count)
+        matched_keywords["uk_placename_pattern"] = placename_count
 
-    if re.search(r'\b[a-z]{1,2}\d{1,2}[a-z]?\s*\d[a-z]{2}\b', text_lower):
-        score += 2
-        matched_keywords.append("postcode")
+    # Regex for UK postcodes with cap
+    postcode_count = len(re.findall(r'\b[a-z]{1,2}\d{1,2}[a-z]?\s*\d[a-z]{2}\b', text_lower))
+    if postcode_count > 0:
+        score += 2 * min(3, postcode_count)
+        matched_keywords["uk_postcode_pattern"] = postcode_count
 
-    for d in WHITELISTED_DOMAINS:
-        if d in text_lower:
+    # Domain-based bonuses
+    if url:
+        parsed = urllib.parse.urlparse(url)
+        domain = parsed.netloc.lower()
+        if any(d in domain for d in WHITELISTED_DOMAINS):
             score += 3
-            matched_keywords.append("whitelisted_domain")
-            break
-    for d in BLACKLISTED_DOMAINS:
-        if d in text_lower:
+            matched_keywords["whitelisted_domain"] = 1
+        if any(d in domain for d in BLACKLISTED_DOMAINS):
             score -= 3
-            matched_keywords.append("blacklisted_domain")
-            break
+            matched_keywords["blacklisted_domain"] = 1
 
     return score, matched_keywords
 
-def get_relevance_level(score):
+def get_relevance_level(score, matched_keywords):
     """Return relevance level based on score, avoiding 'Highest'."""
+    has_strong_uk = any(kw in matched_keywords for kw in strong_uk_keywords)
     if score >= 10:
-        return "Very High"
-    elif score >= 7:
-        return "High"
+        level = "Very High"
+    elif score >= 7 or has_strong_uk:
+        level = "High"
     elif score >= 4:
-        return "Medium"
+        level = "Medium"
     elif score >= 2:
-        return "Low"
+        level = "Low"
     else:
-        return "Very Low"
+        level = "Very Low"
+    return level
 
 def is_promotional(entry):
     """Check if an article is promotional, allowing 'offer' in government/policy contexts."""
@@ -339,54 +356,64 @@ def is_irrelevant_fluff(entry):
 # --- Category Keywords ---
 CATEGORY_KEYWORDS = {
     "Breaking News": ["breaking", "live", "update", "developing", "just in", "alert"],
-    "Politics": ["politics", "parliament", "government", "election", "policy", "minister", "mp", "prime minister", "brexit", "eu", "tory", "labour"],
-    "Crime & Legal": ["crime", "police", "court", "legal", "arrest", "trial", "investigation", "prosecution"],
-    "Sport": ["sport", "football", "cricket", "tennis", "olympics", "match", "game", "tournament", "rugby", "formula 1", "premier league"],
-    "Royals": ["royal", "monarchy", "king", "queen", "prince", "princess", "palace", "crown"],
+    "Politics": ["politics", "parliament", "government", "election", "policy", "minister", "mp", "prime minister", "brexit", "eu", "tory", "labour", "bill", "debate", "vote", "opposition", "party", "manifesto"],
+    "Immigration": ["immigration", "immigrant", "asylum", "refugee", "migrant", "border control", "visa", "deportation", "home office", "rwanda", "channel crossing"],
+    "Trade and Diplomacy": ["trade", "diplomacy", "diplomatic", "ambassador", "summit", "bilateral", "multilateral", "agreement", "pact", "negotiation", "tariff", "export", "import", "foreign secretary", "embassy"],
     "Economy": ["economy", "budget", "inflation", "gdp", "recession", "bank of england", "chancellor", "cost of living"],
-    "Health": ["health", "nhs", "hospital", "doctor", "pandemic", "vaccine", "covid"],
-    "Education": ["education", "school", "university", "a-levels", "gcse", "ofsted"],
-    "Environment": ["environment", "climate", "net zero", "pollution", "green energy"],
+    "Crime & Legal": ["crime", "police", "court", "legal", "arrest", "trial", "investigation", "prosecution", "murder", "killing", "death", "stabbed", "shot", "shooting", "assault", "attack", "robbery", "burglary", "theft", "fraud", "drugs", "knife crime", "gun crime", "arrested", "charged", "sentenced", "jailed", "prison", "offender", "victim", "metropolitan police", "suspect", "injured"],
+    "Royals": ["royal", "monarchy", "king", "queen", "prince", "princess", "palace", "crown"],
+    "Sport": ["sport", "football", "cricket", "tennis", "olympics", "match", "game", "tournament", "rugby", "formula 1", "premier league"],
+    "Culture": ["culture", "art", "music", "film", "theatre", "festival", "book", "literary", "concert", "album", "movie", "series", "tv show", "drama", "comedy", "museum", "gallery", "glastonbury"],
+    "National Newspapers Front Pages": ["front page", "headlines", "newspaper", "today's papers", "daily mail", "guardian", "times", "telegraph", "mirror", "sun", "express", "ft", "financial times"],
     "Notable International": ["international", "world", "global", "nasa", "space", "moon", "planet", "earth", "foreign", "un", "internationally", "science"]
 }
 
+specific_categories = [c for c in CATEGORY_KEYWORDS if c != "Breaking News"]
+priority_order = ["Crime & Legal", "Politics", "Economy", "Immigration", "Trade and Diplomacy", "Royals", "Sport", "Culture", "National Newspapers Front Pages", "Notable International"]
+
 def get_category(entry):
-    """Determine the category of an article based on keywords with whole word matching, returning category, matched_keywords, matched_categories."""
+    """Determine the category of an article based on keyword counts with whole word matching."""
     text = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     matched_cats = {}
-    specific_categories = ["Politics", "Crime & Legal", "Sport", "Royals", "Economy", "Health", "Education", "Environment", "Notable International"]
-    for cat in specific_categories:
-        matched_kw = [keyword for keyword in CATEGORY_KEYWORDS.get(cat, []) if re.search(r'\b' + re.escape(keyword) + r'\b', text)]
-        if matched_kw:
-            matched_cats[cat] = matched_kw
+    for cat, keywords in CATEGORY_KEYWORDS.items():
+        cat_matched = {}
+        for keyword in keywords:
+            count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text))
+            if count > 0:
+                cat_matched[keyword] = count
+        if cat_matched:
+            matched_cats[cat] = cat_matched
     if not matched_cats:
-        return "Breaking News", [], ["Breaking News"]
-    # Choose the first matching category in order
-    for cat in specific_categories:
-        if cat in matched_cats:
-            all_matched_keywords = sorted(set(kw for kws in matched_cats.values() for kw in kws))
-            all_matched_cats = list(matched_cats.keys())
-            return cat, all_matched_keywords, all_matched_cats
-    return "Breaking News", [], ["Breaking News"]
+        return "Breaking News", {}, {}, ["Breaking News"]
+    cat_scores = {cat: sum(matched.values()) for cat, matched in matched_cats.items()}
+    max_score = max(cat_scores.values())
+    candidates = [cat for cat, score in cat_scores.items() if score == max_score]
+    # Tie-breaker: earliest in priority_order (lowest index)
+    chosen_cat = min(candidates, key=lambda c: priority_order.index(c) if c in priority_order else len(priority_order))
+    cat_keywords = matched_cats[chosen_cat]  # dict {kw: count}
+    all_matched_keywords = {kw: count for matched in matched_cats.values() for kw, count in matched.items()}
+    all_matched_cats = list(matched_cats.keys())
+    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats
 
 FLAIR_MAPPING = {
     "Breaking News": "Breaking News",
-    "Politics": "Politics",
-    "Crime & Legal": "Crime & Legal",
+    "Culture": "Culture",
     "Sport": "Sport",
+    "Crime & Legal": "Crime & Legal",
     "Royals": "Royals",
+    "Immigration": "Immigration",
+    "Politics": "Politics",
     "Economy": "Economy",
-    "Health": "Health",
-    "Education": "Education",
-    "Environment": "Environment",
-    "Notable International": "Notable International News",
-    None: "No Flair"
+    "Notable International": "Notable International News🌍",
+    "National Newspapers Front Pages": "National Newspapers Front Pages",
+    "Trade and Diplomacy": "Trade and Diplomacy"
 }
 
-DEFAULT_UK_THRESHOLD = 5
+DEFAULT_UK_THRESHOLD = 3
 CATEGORY_THRESHOLDS = {
-    "Sport": 10,  # Stricter for sports to avoid non-UK events
-    "Royals": 8,
+    "Sport": 8,
+    "Royals": 6,
+    "Notable International": 4,
 }
 
 def is_uk_relevant(entry):
@@ -394,10 +421,10 @@ def is_uk_relevant(entry):
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     if is_irrelevant_fluff(entry):
         logger.info(f"Article rejected: {html.unescape(entry.title)} (Reason: Irrelevant fluff content)")
-        return False, 0, [], False
+        return False, 0, {}, False
 
-    score, matched_keywords = calculate_uk_relevance_score(combined)
-    category, _, _ = get_category(entry)
+    score, matched_keywords = calculate_uk_relevance_score(combined, entry.link)
+    category, _, _, _ = get_category(entry)
     logger.info(f"Article: {html.unescape(entry.title)} | Initial Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
 
     threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
@@ -406,25 +433,25 @@ def is_uk_relevant(entry):
 
     full_text = get_full_article_text(entry.link).lower()
     full_combined = combined + " " + full_text
-    full_score, full_matched_keywords = calculate_uk_relevance_score(full_combined)
+    full_score, full_matched_keywords = calculate_uk_relevance_score(full_combined, entry.link)
     logger.info(f"Article: {html.unescape(entry.title)} | Full Text Relevance Score: {full_score} | Full Matched: {full_matched_keywords}")
 
     final_score = full_score
-    final_matched = list(set(matched_keywords + full_matched_keywords))
+    final_matched = {k: max(matched_keywords.get(k, 0), full_matched_keywords.get(k, 0)) for k in set(matched_keywords) | set(full_matched_keywords)}
 
     if final_score >= threshold:
         return True, final_score, final_matched, False
 
     logger.info(f"Article rejected: {html.unescape(entry.title)} (Score: {final_score}, Category: {category})")
     logger.info("Reason: Not UK News relevant")
-    relevance_level = get_relevance_level(final_score)
+    relevance_level = get_relevance_level(final_score, final_matched)
     logger.info(f"UK Relevance: {relevance_level}")
     return False, final_score, final_matched, False
 
 def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_delay=40):
     """Post an article to Reddit with flair and comments."""
-    category, cat_keywords, cat_matches = get_category(entry)
-    flair_text = FLAIR_MAPPING.get(category, "No Flair")
+    category, cat_keywords, all_matched_keywords, all_matched_cats = get_category(entry)
+    flair_text = FLAIR_MAPPING.get(category, "Breaking News")
     flair_id = None
     try:
         for flair in subreddit.flair.link_templates:
@@ -434,8 +461,13 @@ def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_del
     except Exception as e:
         logger.error(f"Failed to fetch flairs: {e}")
 
-    num_cats = len(cat_matches) if cat_matches[0] != "Breaking News" else 1
-    confidence = 100 // max(1, num_cats)
+    cat_scores = {cat: sum(matched_cats[cat].values()) for cat in all_matched_cats}
+    total_score = sum(cat_scores.values()) or 1
+    chosen_score = cat_scores.get(category, 0)
+    if category == "Breaking News" and not cat_keywords:
+        confidence = 50
+    else:
+        confidence = int(100 * chosen_score / total_score)
 
     for attempt in range(retries):
         try:
@@ -455,13 +487,23 @@ def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_del
                     reply_lines.append("")
             reply_lines.append(f"[Read more]({entry.link})")
             reply_lines.append("")
-            level = get_relevance_level(score)
+            level = get_relevance_level(score, matched_keywords)
             reply_lines.append(f"UK Relevance: {level}")
             if by_title:
                 reply_lines.append("Relevance determined by title")
             reply_lines.append("-----")
-            reply_lines.append(f"Detected Keywords: {', '.join(cat_keywords)}")
+            sorted_cat_keywords = sorted(cat_keywords.items(), key=lambda x: -x[1])
+            detected_str = ', '.join([f"{kw} ({count} times)" for kw, count in sorted_cat_keywords]) or "None (default category)"
+            reply_lines.append(f"Detected Keywords: {detected_str}")
             reply_lines.append(f"Flair Confidence: {confidence}%")
+            if cat_keywords:
+                top_n = min(4, len(sorted_cat_keywords))
+                kw_list = ', '.join([kw for kw, _ in sorted_cat_keywords[:top_n]])
+                kw_counts = ', '.join([f"{kw} mentioned {count} times" for kw, count in sorted_cat_keywords[:top_n]])
+                reply_lines.append(f"Because it contains the following keywords: {kw_list}, with {kw_counts}.")
+                reply_lines.append(f"These terms indicate that the story fits the {flair_text} category and has relevance to the UK audience. Based on this, the system automatically assigned the flair {flair_text} with {confidence}% confidence.")
+            else:
+                reply_lines.append("No specific category keywords detected. Defaulting to Breaking News with reduced confidence.")
 
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
@@ -518,7 +560,7 @@ def main():
                     continue
 
                 is_relevant, final_score, final_matched_keywords, by_title = is_uk_relevant(entry)
-                category, _, _ = get_category(entry)
+                category, _, _, _ = get_category(entry)
                 norm_title = normalize_title(get_post_title(entry))
                 if is_relevant and norm_title not in posted_in_run:
                     logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {final_score} | Category: {category}")
