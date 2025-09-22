@@ -3238,3 +3238,5 @@
 2025-09-22T21:19:25.625299+00:00|https://abcnews.go.com/US/trump-admin-links-tylenol-pregnancy-increased-risk-autism/story|trump admin links tylenol use in pregnancy to increased risk of autism us news|b4e036a05d8bc11dd58289124d6029f5
 2025-09-22T21:38:19.979498+00:00|https://www.nytimes.com/2025/09/22/business/media/the-view-trump-jimmy-kimmel.html|the view hosts criticize trump administration over kimmel us news|f5d8a1d2e72b780beae3d595a775792a
 2025-09-22T21:38:20.644933+00:00|https://www.nytimes.com/2025/09/20/business/jimmy-kimmel-show-abc-kirk-fcc.html|jimmy kimmel to return to air after suspension over kirk remarks what to know us news|8834e756c8905a8728fd5244065a983a
+2025-09-22T21:57:55.046523+00:00|https://www.nytimes.com/2025/09/22/us/sacramento-california-tv-station-shooting.html|retired lobbyist in federal custody in abc affiliate shooting in sacramento california us news|ec600723f44cac5e2c3722820b429783
+2025-09-22T21:57:55.549034+00:00|https://www.nytimes.com/2025/09/22/us/north-carolina-republicans-crime-bill-train-stabbing.html|north carolina republicans unveil broad crime bill after stabbing us news|cb65136bf01abd80dcbff505b52d1102
