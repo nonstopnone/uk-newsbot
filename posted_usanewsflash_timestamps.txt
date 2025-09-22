@@ -3232,3 +3232,6 @@
 2025-09-22T19:57:37.350342+00:00|https://www.nbcnews.com/business/media/jimmy-kimmel-abc-return-tuesday-rcna232335|jimmy kimmels show returning tomorrow abc announces us news|30b3ad441e9c2312167831199d7a7bfe
 2025-09-22T20:25:35.168634+00:00|https://www.nbcnews.com/video/shorts/how-will-retraining-the-tiktok-algorithm-impact-users-248096325560|how will retraining the tiktok algorithm impact users us news|4d280dfd7a0c68d3c331eb6bf98ad460
 2025-09-22T20:25:35.868974+00:00|https://www.nytimes.com/2025/09/22/health/tylenol-autism-kenvue.html|the company behind tylenol tries to navigate its latest crisis us news|5d94b162dd5db788ac3ab0e7e3a9794e
+2025-09-22T20:41:58.359520+00:00|https://www.nytimes.com/2025/09/22/us/politics/kamala-harris-joe-biden-rift-history.html|harrisbiden rift outlined in 107 days reflects long pattern of history us news|1d7fcdccfdd52e87f20dac159cc1a785
+2025-09-22T20:41:59.054670+00:00|https://www.nytimes.com/2025/09/22/us/new-hampshire-shooting.html|new hampshire shooting suspect is arraigned on murder charge us news|9037d26065c0332e78c2dd52066e103f
+2025-09-22T20:41:59.763469+00:00|https://www.nytimes.com/2025/09/22/us/rosh-hashanah-high-holidays.html|high holiday reflections on the state of american jews us news|378dfbfefbbb2e46de8a32e1ccee1d5a
