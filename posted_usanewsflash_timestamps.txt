@@ -3221,3 +3221,4 @@
 2025-09-22T17:39:54.803759+00:00|https://www.nytimes.com/2025/09/22/business/trump-h-1b-visa-fee-india.html|india reels from trumps h1b visa fee us news|81a616333bc0b41e7ee00f8e773c2ed3
 2025-09-22T18:31:58.122784+00:00|https://www.nbcnews.com/video/shorts/new-tiktok-deal-to-secure-and-retrain-algorithm-248089669811|new tiktok deal to secure and retrain algorithm us news|4f195bb1feed9a611682e969a5e7e50b
 2025-09-22T18:31:58.720969+00:00|https://www.nbcnews.com/video/shorts/karoline-leavitt-on-recognizing-a-palestinian-state-248089157978|karoline leavitt on recognizing a palestinian state us news|df3cfeb1cedd301a25af5680c9f4f12a
+2025-09-22T18:57:23.375485+00:00|https://www.nytimes.com/2025/09/22/us/earthquake-bay-area-berkeley.html|earthquake jolts bay area residents awake us news|96f8fe543e346c142c7df2be4b8d9eac
