@@ -3235,3 +3235,4 @@
 2025-09-22T20:41:58.359520+00:00|https://www.nytimes.com/2025/09/22/us/politics/kamala-harris-joe-biden-rift-history.html|harrisbiden rift outlined in 107 days reflects long pattern of history us news|1d7fcdccfdd52e87f20dac159cc1a785
 2025-09-22T20:41:59.054670+00:00|https://www.nytimes.com/2025/09/22/us/new-hampshire-shooting.html|new hampshire shooting suspect is arraigned on murder charge us news|9037d26065c0332e78c2dd52066e103f
 2025-09-22T20:41:59.763469+00:00|https://www.nytimes.com/2025/09/22/us/rosh-hashanah-high-holidays.html|high holiday reflections on the state of american jews us news|378dfbfefbbb2e46de8a32e1ccee1d5a
+2025-09-22T21:19:25.625299+00:00|https://abcnews.go.com/US/trump-admin-links-tylenol-pregnancy-increased-risk-autism/story|trump admin links tylenol use in pregnancy to increased risk of autism us news|b4e036a05d8bc11dd58289124d6029f5
