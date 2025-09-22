@@ -3214,3 +3214,5 @@
 2025-09-22T16:30:10.739171+00:00|https://www.nytimes.com/2025/09/22/nyregion/ocasio-cortez-mamdani-new-york-mayor.html|the wary warming wildly consequential alliance of ocasiocortez and mamdani us news|cb55373eecd6e3bd935f7ec321bc6aac
 2025-09-22T16:45:32.962218+00:00|https://www.nytimes.com/2025/09/22/nyregion/ice-raid-hochul.html|when ice shows up at a factory what can a governor do us news|210e831100f3eff41a1c48372072a83e
 2025-09-22T16:57:35.008173+00:00|https://www.nytimes.com/2025/09/22/health/kennedy-autism-tylenol-trump.html|trump announcement said to focus on unproven link between tylenol and autism us news|1352e9fc412784fb51f3a454592f7be1
+2025-09-22T17:17:49.955567+00:00|https://www.nbcnews.com/video/shorts/first-open-swim-event-held-in-chicago-river-in-98-years-248079429905|first open swim event held in chicago river in 98 years us news|37e97a94e8d8a4ac60fe8d7c6458e80a
+2025-09-22T17:17:50.493192+00:00|https://www.nbcnews.com/business/business-news/chipmaker-nvidia-invest-100-billion-openai-rcna232974|chipmaker nvidia to invest $100 billion in openai us news|76a5ad39630240a75b126b6daab56ac1
