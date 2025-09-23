@@ -3273,3 +3273,4 @@
 2025-09-23T10:24:33.032691+00:00|https://www.nytimes.com/2025/09/23/world/europe/zelensky-trump-meeting-un-ukraine-us.html|zelensky to meet with trump on sidelines of un general assembly us news|a8eb900aef1d5045077de4cddb2a8374
 2025-09-23T10:24:33.930006+00:00|https://www.nytimes.com/2025/09/23/podcasts/the-headlines/trump-tylenol-vaccines-kimmel.html|trump targets tylenol and vaccines and abc brings kimmel back us news|3fa01fad3792b8cd9938d9b714affe07
 2025-09-23T10:24:34.811542+00:00|https://www.nytimes.com/2025/09/23/climate/military-defense-pfas-forever-chemicals-cleanup-delay.html|defense department delays cleanup of forever chemicals nationwide us news|67271f91166384cf5b53f5007ea6d7c4
+2025-09-23T11:39:34.963523+00:00|https://www.nytimes.com/2025/09/23/us/a-fact-check-on-trumps-claims-about-tylenol-vaccines-and-autism.html|a factcheck on trumps claims about tylenol vaccines and autism us news|1867cf3be0e08fe68d5aa1b32b199fe2
