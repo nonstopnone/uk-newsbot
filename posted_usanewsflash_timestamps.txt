@@ -3265,3 +3265,8 @@
 2025-09-23T09:24:57.110842+00:00|https://abcnews.go.com/Politics/trump-address-united-nations-general-assembly/story|trump to address united nations general assembly us news|27d9b7efe0baa54fe6e860efe68f2cec
 2025-09-23T09:24:57.767368+00:00|https://www.nbcnews.com/politics/donald-trump/trump-address-un-divisions-allies-deepen-palestinian-statehood-trade-rcna233026|trump to address un as divisions with allies deepen over palestinian statehood trade us news|c9fa6505ec59ce89829a8f6b6616d480
 2025-09-23T09:24:58.427484+00:00|https://abcnews.go.com/US/national-hurricane-center-monitoring-multiple-tropical-systems-atlantic/story|national hurricane center monitoring multiple tropical systems in the atlantic us news|d4b735c752f39fd7b68f647a5464078a
+2025-09-23T09:57:39.167580+00:00|https://www.nytimes.com/2025/09/23/us/politics/trump-un-aid-israel-gaza.html|trump to address un as he jettisons aid and recasts us role us news|bbb59eff56f26917e695b3c10ad92c45
+2025-09-23T09:57:39.793173+00:00|https://www.nytimes.com/2025/09/23/nyregion/curtis-sliwa-interview.html|10 questions with curtis sliwa us news|97d5c12400cd6dace7ead624bfae8357
+2025-09-23T09:57:40.482805+00:00|https://www.nytimes.com/2025/09/23/world/middleeast/syria-president-ahmed-al-shara.html|the many faces of syrias president ahmed alshara us news|76cb5ac186c09e2d36572cd487720acb
+2025-09-23T09:57:41.130325+00:00|https://www.nytimes.com/2025/09/23/nyregion/nyc-mayor-homelessness.html|how the nyc mayoral candidates plan to tackle homelessness us news|74e76c0d833bd6c2865719bdea7780e3
+2025-09-23T09:57:41.773015+00:00|https://www.nytimes.com/2025/09/23/technology/trump-h1b-visa-tech-start-ups.html|trumps $100000 visa fee puts many tech startups in a bind us news|3d13646c4f3f1454ad31b0f368808a3e
