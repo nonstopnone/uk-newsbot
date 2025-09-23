@@ -3307,3 +3307,8 @@
 2025-09-23T16:46:34.918190+00:00|https://www.nytimes.com/2025/09/23/style/subway-surfing-death-nyc-tiktok.html|zackery nazario died subway surfing is social media to blame us news|6c593d5f7ac9a3dae972afaab1eaba42
 2025-09-23T16:57:25.398714+00:00|https://www.nytimes.com/2025/09/23/us/trump-ryan-routh-trial-florida.html|jury to decide fate of ryan routh man accused of trying to assassinate trump us news|0aab3454c0855a637b989260d94fa26c
 2025-09-23T16:57:25.909652+00:00|https://www.nytimes.com/2025/09/23/business/jerome-powell-federal-reserve-interest-rates.html|powell stresses challenging situation for fed as rate debate intensifies us news|6632e3fa52d2ab59a4799a10c3758b63
+2025-09-23T17:39:23.961281+00:00|https://www.bbc.com/news/videos/cy50qzgyyexo|from escalators to teleprompters trump piles on criticism at the un us news|e683275023c9aa0676d066a9d95968c2
+2025-09-23T17:39:24.568289+00:00|https://www.bbc.com/news/articles/c1mx3v7gl10o|go big or go home voting opens in fat bear week us news|bab7ecc6d54748224ca6f28bde07f11e
+2025-09-23T17:39:25.141006+00:00|https://www.nbcnews.com/video/shorts/protesters-gather-outside-u-n-ahead-of-trump-s-speech-248166981574|protesters gather outside un ahead of trumps speech us news|40c53d7a29b8f187df9447c67a021327
+2025-09-23T17:39:25.744440+00:00|https://www.nytimes.com/2025/09/23/nyregion/gilgo-beach-rex-heuermann-hearing.html|judge in gilgo beach case spurns request to throw out dna evidence us news|42e75a375c3a3b656055b8ff6db43830
+2025-09-23T17:39:26.346266+00:00|https://abcnews.go.com/Business/fed-chair-powell-rising-inflation-slow-hiring-pose/story|fed chair powell says rising inflation and slow hiring pose challenging situation us news|632e275b20c3475949a96940d89e6f93
