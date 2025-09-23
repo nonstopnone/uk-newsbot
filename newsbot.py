@@ -265,8 +265,7 @@ NEGATIVE_KEYWORDS = {
     "brussels": -2, "rome": -2, "madrid": -2, "beijing": -2, "moscow": -2, "new delhi": -2,
     "us open": -10, "mixed doubles": -5, "tennis tournament": -3,
     "mattress": -5, "back pain": -3, "best mattresses": -10,
-    "celebrity": -4, "gossip": -5, "hollywood": -3,
-    "danish": -2, "denmark": -2  # Add for foreign politics example
+    "celebrity": -4, "gossip": -5, "hollywood": -3
 }
 
 WHITELISTED_DOMAINS = ["bbc.co.uk", "bbc.com", "theguardian.com", "thetimes.co.uk", "telegraph.co.uk", "sky.com", "itv.com"]
@@ -275,7 +274,7 @@ BLACKLISTED_DOMAINS = ["buzzfeed.com", "clickhole.com", "upworthy.com"]
 strong_uk_keywords = ["uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland",
     "london", "manchester", "birmingham", "glasgow", "edinburgh", "cardiff", "belfast",
     "liverpool", "leeds", "bristol", "newcastle", "sheffield", "nottingham", "brighton",
-    "southampton", "plymouth", "hull", "derby", "oxford", "cambridge", "morrisons", "co-op", "iceland"]
+    "southampton", "plymouth", "hull", "derby", "oxford", "cambridge"]
 
 def calculate_uk_relevance_score(text, url=""):
     """Calculate a relevance score and return a tuple (score, matched_keywords as dict {kw: count})."""
@@ -386,23 +385,23 @@ def get_category(entry):
         if cat_matched:
             matched_cats[cat] = cat_matched
     if not matched_cats:
-        return "Breaking News", {}, {}, ["Breaking News"]
+        return "Breaking News", {}, {}, ["Breaking News"], matched_cats
     cat_scores = {cat: sum(matched.values()) for cat, matched in matched_cats.items()}
     max_score = max(cat_scores.values())
     candidates = [cat for cat, score in cat_scores.items() if score == max_score]
     # Tie-breaker: earliest in priority_order (lowest index)
     chosen_cat = min(candidates, key=lambda c: priority_order.index(c) if c in priority_order else len(priority_order))
     # Check for foreign politics
+    _, matched_keywords = calculate_uk_relevance_score(text)
+    has_foreign = any('negative:' in k for k in matched_keywords)
+    has_strong_uk = any(k in matched_keywords for k in strong_uk_keywords)
     if chosen_cat == "Politics":
-        _, matched_keywords = calculate_uk_relevance_score(text)
-        has_foreign = any('negative:' in k for k in matched_keywords)
-        has_strong_uk = any(k in matched_keywords for k in strong_uk_keywords)
         if has_foreign and not has_strong_uk:
             chosen_cat = "Notable International"
     cat_keywords = matched_cats.get(chosen_cat, {})  # dict {kw: count}
     all_matched_keywords = {kw: count for matched in matched_cats.values() for kw, count in matched.items()}
     all_matched_cats = list(matched_cats.keys())
-    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats
+    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats
 
 FLAIR_MAPPING = {
     "Breaking News": "Breaking News",
@@ -434,7 +433,7 @@ def is_uk_relevant(entry):
         return False, 0, {}, False
 
     score, matched_keywords = calculate_uk_relevance_score(combined, entry.link)
-    category, _, _, _ = get_category(entry)
+    category, _, _, _, _ = get_category(entry)
     logger.info(f"Article: {html.unescape(entry.title)} | Initial Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
 
     threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
@@ -469,7 +468,7 @@ def is_uk_relevant(entry):
 
 def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_delay=40):
     """Post an article to Reddit with flair and comments."""
-    category, cat_keywords, all_matched_keywords, all_matched_cats = get_category(entry)
+    category, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats = get_category(entry)
     flair_text = FLAIR_MAPPING.get(category, "Breaking News")
     flair_id = None
     try:
@@ -480,7 +479,6 @@ def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_del
     except Exception as e:
         logger.error(f"Failed to fetch flairs: {e}")
 
-    # Initialize cat_scores, ensuring "Breaking News" is included with score 0 if not in matched_cats
     cat_scores = {cat: sum(matched_cats.get(cat, {}).values()) for cat in all_matched_cats}
     if category == "Breaking News" and "Breaking News" not in cat_scores:
         cat_scores["Breaking News"] = 0
@@ -579,7 +577,7 @@ def main():
                     continue
 
                 is_relevant, final_score, final_matched_keywords, by_title = is_uk_relevant(entry)
-                category, _, _, _ = get_category(entry)
+                category, _, _, _, _ = get_category(entry)
                 norm_title = normalize_title(get_post_title(entry))
                 if is_relevant and norm_title not in posted_in_run:
                     logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {final_score} | Category: {category}")
