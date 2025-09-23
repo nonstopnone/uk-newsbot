@@ -461,7 +461,10 @@ def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_del
     except Exception as e:
         logger.error(f"Failed to fetch flairs: {e}")
 
-    cat_scores = {cat: sum(matched_cats[cat].values()) for cat in all_matched_cats}
+    # Initialize cat_scores, ensuring "Breaking News" is included with score 0 if not in matched_cats
+    cat_scores = {cat: sum(matched_cats.get(cat, {}).values()) for cat in all_matched_cats}
+    if category == "Breaking News" and "Breaking News" not in cat_scores:
+        cat_scores["Breaking News"] = 0
     total_score = sum(cat_scores.values()) or 1
     chosen_score = cat_scores.get(category, 0)
     if category == "Breaking News" and not cat_keywords:
