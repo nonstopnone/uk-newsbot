@@ -3338,3 +3338,4 @@
 2025-09-23T22:20:38.831202+00:00|https://www.nytimes.com/2025/09/23/us/black-men-wrongly-accused-1989-murder.html|boston to pay $150000 to 2 wrongly accused black men in white womans killing us news|a40e1715732869290ee82f05cba40578
 2025-09-23T22:40:37.746418+00:00|https://www.bbc.com/news/articles/c79v7p88pveo|michelob ultra becomes bestselling beer in the us us news|f81c428a456d96985803fbfd0bbeaa7a
 2025-09-23T23:39:10.855083+00:00|https://www.nytimes.com/video/science/100000010414944/trump-pushes-unproven-link-between-tylenol-and-autism.html|trump pushes unproven link between tylenol and autism us news|b308d9765bcf1a100f0e5cab66185643
+2025-09-23T23:57:51.441915+00:00|https://www.nytimes.com/2025/09/23/us/politics/trump-covid-autism-science.html|on covid and autism trump strays from the science us news|1413a9784af3183bdcdb5029c1256308
