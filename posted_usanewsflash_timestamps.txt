@@ -3331,3 +3331,8 @@
 2025-09-23T20:41:52.389058+00:00|https://www.bbc.com/news/videos/cjedkqn7eneo|macron calls trump after motorcade blocks his car us news|05e5c91400c68270bfc373df3c2abfcf
 2025-09-23T21:19:39.728968+00:00|https://www.nbcnews.com/now/video/woman-in-graceland-fraud-scheme-sentenced-to-nearly-five-years-in-prison-248186437881|woman in graceland fraud scheme sentenced to nearly five years in prison us news|cf496a2333cfe277a26afa7157244fb2
 2025-09-23T21:38:41.562138+00:00|https://www.nytimes.com/2025/09/23/arts/joe-rogan-jimmy-kimmel.html|joe rogan has some thoughts about jimmy kimmels suspension us news|3304363af92c68218f08a18fad4372d0
+2025-09-23T22:20:36.256592+00:00|https://www.nytimes.com/2025/09/23/us/camp-mystic-texas.html|camp mystic to reopen after texas floods over objections from victims parents us news|2004b6e210ff47164c9256964f0fdfcf
+2025-09-23T22:20:37.048254+00:00|https://www.nytimes.com/2025/09/23/us/macron-trump-unga-motorcade.html|stuck in traffic emmanuel macron calls trump about his motorcade us news|db65704be0e3373e3be183e63c3844a5
+2025-09-23T22:20:37.615141+00:00|https://www.nbcnews.com/video/shorts/here-s-the-scoop-president-trump-s-u-n-speech-248192069511|heres the scoop president trumps un speech us news|e99a1b014978ac716ffd2a4a94bc807f
+2025-09-23T22:20:38.209897+00:00|https://abcnews.go.com/Health/highly-major-medical-groups-react-trumps-claim-tylenol/story|highly concerning major medical groups react to trumps tylenol autism claim us news|9bb2675facf1bf1535b7f51054c6e20f
+2025-09-23T22:20:38.831202+00:00|https://www.nytimes.com/2025/09/23/us/black-men-wrongly-accused-1989-murder.html|boston to pay $150000 to 2 wrongly accused black men in white womans killing us news|a40e1715732869290ee82f05cba40578
