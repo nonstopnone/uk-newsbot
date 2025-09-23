@@ -3325,3 +3325,6 @@
 2025-09-23T19:38:57.393411+00:00|https://www.nytimes.com/2025/09/23/technology/youtube-reinstating-banned-accounts-pandemic-election.html|youtube to reinstate accounts banned over content related to the pandemic and 2020 election us news|e999d2d7e507824855bc292c10a460f3
 2025-09-23T19:57:40.874960+00:00|https://www.nbcnews.com/video/shorts/trump-reacts-to-ryan-routh-verdict-248182853915|trump reacts to ryan routh verdict us news|ff6a7a601b49cf5acf1b5dbab0c8e6cc
 2025-09-23T19:57:41.470414+00:00|https://abcnews.go.com/US/video/ryan-routh-guilty-counts-trump-golf-assassination-attempt-125866851|watch ryan routh guilty on all counts in trump golf course assassination attempt us news|2eb5951370ea85c37c5a53c7acf788c5
+2025-09-23T20:25:47.841618+00:00|https://www.bbc.com/news/articles/c179p4wvz29o|six years ago trumps un audience laughed this year they were silent us news|95cb74f72adbc79a7a1997c2f28fb76a
+2025-09-23T20:25:48.279329+00:00|https://abcnews.go.com/US/video/french-president-calls-trump-after-stuck-new-york-125868106|watch french president calls trump after getting stuck in new york city traffic us news|e0866328a17c7093cb6e718f34c33141
+2025-09-23T20:25:48.770173+00:00|https://www.nytimes.com/2025/09/23/us/politics/trump-speech-unga-fact-check.html|factchecking trumps speech at the un general assembly us news|30d8c458121fb8eea68139ea92432452
