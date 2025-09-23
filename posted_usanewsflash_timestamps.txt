@@ -3270,3 +3270,6 @@
 2025-09-23T09:57:40.482805+00:00|https://www.nytimes.com/2025/09/23/world/middleeast/syria-president-ahmed-al-shara.html|the many faces of syrias president ahmed alshara us news|76cb5ac186c09e2d36572cd487720acb
 2025-09-23T09:57:41.130325+00:00|https://www.nytimes.com/2025/09/23/nyregion/nyc-mayor-homelessness.html|how the nyc mayoral candidates plan to tackle homelessness us news|74e76c0d833bd6c2865719bdea7780e3
 2025-09-23T09:57:41.773015+00:00|https://www.nytimes.com/2025/09/23/technology/trump-h1b-visa-tech-start-ups.html|trumps $100000 visa fee puts many tech startups in a bind us news|3d13646c4f3f1454ad31b0f368808a3e
+2025-09-23T10:24:33.032691+00:00|https://www.nytimes.com/2025/09/23/world/europe/zelensky-trump-meeting-un-ukraine-us.html|zelensky to meet with trump on sidelines of un general assembly us news|a8eb900aef1d5045077de4cddb2a8374
+2025-09-23T10:24:33.930006+00:00|https://www.nytimes.com/2025/09/23/podcasts/the-headlines/trump-tylenol-vaccines-kimmel.html|trump targets tylenol and vaccines and abc brings kimmel back us news|3fa01fad3792b8cd9938d9b714affe07
+2025-09-23T10:24:34.811542+00:00|https://www.nytimes.com/2025/09/23/climate/military-defense-pfas-forever-chemicals-cleanup-delay.html|defense department delays cleanup of forever chemicals nationwide us news|67271f91166384cf5b53f5007ea6d7c4
