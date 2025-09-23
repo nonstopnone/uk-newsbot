@@ -3297,3 +3297,8 @@
 2025-09-23T15:57:35.822459+00:00|https://www.bbc.com/news/articles/cj07e3rjev2o|factchecking claims trump made about autism us news|6bece513a6318471e368a5d98a2e1120
 2025-09-23T15:57:36.782775+00:00|https://www.nbcnews.com/video/trump-tells-leaders-your-countries-are-going-to-hell-over-migration-248159813517|trump tells leaders your countries are going to hell over migration us news|149c0dae64abeaaf508d2e69c9ae3633
 2025-09-23T15:57:37.460589+00:00|https://www.nytimes.com/2025/09/22/well/tylenol-autism-pregnancy-babies.html|what to know about tylenol pregnancy and babies us news|c92d736730f28598ec88fe2197404377
+2025-09-23T16:29:37.049788+00:00|https://www.bbc.com/news/articles/cy4j0zldevyo|tv stations refuse to air insensitive kimmels show after abc lifts suspension us news|96d2ae51950d0bb1040bd270a69603bc
+2025-09-23T16:29:37.597516+00:00|https://www.nbcnews.com/video/breaking-down-president-trump-s-2025-united-nations-general-assembly-speech-248155205967|breaking down president trumps 2025 united nations general assembly speech us news|4dd5b7938a9b650047924c9c6ccfa98a
+2025-09-23T16:29:38.164035+00:00|https://www.nbcnews.com/video/shorts/trump-to-u-n-immigration-is-destroying-your-country-248160325526|trump to un immigration is destroying your country us news|ac9012acd6e30b6b7712f1dcacd5d68d
+2025-09-23T16:29:38.746215+00:00|https://www.nytimes.com/2025/09/23/us/politics/trump-shutdown-democrats.html|trump cancels meeting with democrats as government shutdown nears us news|eec2b8b6741b7901cd3b41e54e456eca
+2025-09-23T16:29:39.299670+00:00|https://www.nytimes.com/2025/09/23/us/rapture-tiktok-sept-23.html|the rapture was predicted to happen today tiktok has some advice us news|95f643a8b60d6b00be1554c421a21d48
