@@ -3250,3 +3250,7 @@
 2025-09-22T23:38:57.954598+00:00|https://www.bbc.com/news/articles/c1kw082djn4o|us supreme court to revisit laws curtailing trumps power to fire top officials us news|64515c5e549d4e8b510a9d84b40c7d70
 2025-09-22T23:38:58.579999+00:00|https://www.nytimes.com/2025/09/22/world/middleeast/unga-palestinian-state.html|world leaders recognize palestinian state in a challenge to us and israel us news|3def6878fd55c9cd11c1806ce1ff3e0e
 2025-09-22T23:57:38.899420+00:00|https://www.nytimes.com/2025/09/22/us/jimmy-kimmel-show-return-reactions.html|politicians and celebrities weigh in on jimmy kimmels return to late night us news|857929f8ddba30b2ccca02a62f743d2f
+2025-09-23T01:46:34.291138+00:00|https://www.bbc.com/news/articles/cq5j085207do|trump designates antifa a domestic terrorist organisation us news|3c436cd6ca906d37337b01e1c3d21b50
+2025-09-23T01:46:34.959480+00:00|https://www.nytimes.com/2025/09/22/us/politics/trump-lindsey-halligan-james-comey.html|halligan trumps chosen prosecutor takes over comey and james cases us news|c7eea8a5a9bad909487b187a55206494
+2025-09-23T01:46:35.635269+00:00|https://www.nbcnews.com/nightly-news/video/more-americans-live-in-rvs-as-cost-of-owning-a-home-rises-248118341795|more americans live in rvs as cost of owning a home rises us news|1cdcd207b5f6afeed58d1f4a8b56e341
+2025-09-23T01:46:36.313846+00:00|https://www.nytimes.com/2025/09/22/us/politics/trump-antifa-order-terrorism.html|trump signs order targeting antifa movement us news|5d0a28b84ad4d3df1b13ceb0213d06a2
