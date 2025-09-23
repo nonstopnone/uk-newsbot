@@ -384,7 +384,7 @@ def get_category(entry):
         if cat_matched:
             matched_cats[cat] = cat_matched
     if not matched_cats:
-        return "Breaking News", {}, {}, ["Breaking News"]
+        return "Breaking News", {}, {}, ["Breaking News"], matched_cats
     cat_scores = {cat: sum(matched.values()) for cat, matched in matched_cats.items()}
     max_score = max(cat_scores.values())
     candidates = [cat for cat, score in cat_scores.items() if score == max_score]
@@ -393,7 +393,7 @@ def get_category(entry):
     cat_keywords = matched_cats[chosen_cat]  # dict {kw: count}
     all_matched_keywords = {kw: count for matched in matched_cats.values() for kw, count in matched.items()}
     all_matched_cats = list(matched_cats.keys())
-    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats
+    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats
 
 FLAIR_MAPPING = {
     "Breaking News": "Breaking News",
@@ -424,7 +424,7 @@ def is_uk_relevant(entry):
         return False, 0, {}, False
 
     score, matched_keywords = calculate_uk_relevance_score(combined, entry.link)
-    category, _, _, _ = get_category(entry)
+    category, _, _, _, _ = get_category(entry)
     logger.info(f"Article: {html.unescape(entry.title)} | Initial Relevance Score: {score} | Matched: {matched_keywords} | Category: {category}")
 
     threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
@@ -450,7 +450,7 @@ def is_uk_relevant(entry):
 
 def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_delay=40):
     """Post an article to Reddit with flair and comments."""
-    category, cat_keywords, all_matched_keywords, all_matched_cats = get_category(entry)
+    category, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats = get_category(entry)
     flair_text = FLAIR_MAPPING.get(category, "Breaking News")
     flair_id = None
     try:
@@ -560,7 +560,7 @@ def main():
                     continue
 
                 is_relevant, final_score, final_matched_keywords, by_title = is_uk_relevant(entry)
-                category, _, _, _ = get_category(entry)
+                category, _, _, _, _ = get_category(entry)
                 norm_title = normalize_title(get_post_title(entry))
                 if is_relevant and norm_title not in posted_in_run:
                     logger.info(f"Selected article: {html.unescape(entry.title)} | Score: {final_score} | Category: {category}")
