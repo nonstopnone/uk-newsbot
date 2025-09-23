@@ -1,14 +1,3 @@
-2025-09-16T02:42:49.015898+00:00|https://news.sky.com/story/pm-angry-over-mandelson-scandal-as-emergency-debate-set-to-ramp-up-pressure-13431950|pm angry over mandelson scandal as emergency debate set to ramp up pressure|56385de31fdd1bdb77aa96e1b98567f4
-2025-09-16T05:56:39.018523+00:00|https://www.bbc.com/news/articles/ckge472x5lwo|search for missing sailor is exhausting says family|a27a77fa362016f0105fa3fb59da08a1
-2025-09-16T06:32:55.390741+00:00|https://www.bbc.com/news/articles/czrpvrrrmj2o|hillsborough law to force officials to tell truth in investigations|53f821ec63b1cd9c91ee88067a337996
-2025-09-16T06:33:35.983699+00:00|https://www.bbc.com/news/articles/c15kzd19zz5o|inside the centuryold building standing above 400000 gold bars|39f9757b2c42e4ade71105b6c919b510
-2025-09-16T10:21:02.695093+00:00|https://news.sky.com/story/sky-to-cut-about-600-tech-jobs-13432039|sky to cut about 600 tech jobs|d12ece6a7cdb0cb31b11703cf14fee49
-2025-09-16T10:55:54.830111+00:00|https://www.bbc.com/news/articles/c0kn3ex156mo|african tribe evicted but set up new camp just metres away|03b3e88557f258afeb72a947fdbeb2ec
-2025-09-16T11:16:23.763129+00:00|https://news.sky.com/story/agnes-wanjiru-arrest-warrant-issued-for-british-national-over-murder-of-kenyan-woman-found-in-septic-tank-13431973|arrest warrant issued for british national over murder of kenyan woman 21 found in septic tank|fc4cdb63e018d561569a2a66094dc15c
-2025-09-16T11:28:33.280035+00:00|https://www.bbc.com/news/articles/cpq5eynnn8ro|queen camilla pulls out of duchess of kents funeral|a870a785848d526dbf11a3163d177565
-2025-09-16T15:22:11.029676+00:00|https://www.bbc.com/news/articles/cwynv2r5qw1o|sex abuse cult leaders move to open prison blocked|ad8bed391da01f78890b6506c7280de1
-2025-09-16T16:26:46.260429+00:00|https://news.sky.com/story/investigation-launched-into-ex-reform-mp-over-racial-abuse-against-sky-news-journalist-13432175|investigation launched into exreform mp over racial abuse against sky news journalist|85b120840b25e43bafb95f5f2c1ceb3a
-2025-09-16T16:27:27.372729+00:00|https://www.telegraph.co.uk/recommended/home/kitchen/best-air-fryers-healthy-home-cooking|the 14 best air fryers in 2025 for fast effortless cooking tested with expert advice|0dca15e31a394ab415b32954f2f9f09e
 2025-09-16T17:45:44.845228+00:00|https://www.bbc.com/news/articles/c5y4qz8dqv1o|actions of ambulance staff had tragic consequences inquest hears|60f40e171b1651c203b14ca96c14dec8
 2025-09-16T18:48:31.381466+00:00|https://www.bbc.com/news/articles/cq8e5dnlq8no|police get extra time to question murder suspects|8272b24a70b93f4a8c60a137bb0e7741
 2025-09-16T19:30:26.525741+00:00|https://news.sky.com/story/thousands-of-families-remain-in-gaza-city-as-israeli-army-advances-13432280|thousands of families remain in gaza city as israeli army advances|cee8d5ae9739186723cebef27fae1a86
@@ -117,3 +106,8 @@
 2025-09-22T18:30:32.875350+00:00|https://www.bbc.com/news/articles/cp8j5vege10o|southport killer stole identities to buy weapons inquiry told|4c37cf24718c8490539a120013ce9a85
 2025-09-22T18:50:33.105323+00:00|https://news.sky.com/story/two-men-who-murdered-e-bike-riders-after-mistaking-them-for-burglars-jailed-for-life-13436396|two men who murdered ebike riders after mistaking them for burglars jailed for life|12097eb782305d936b9280d6ce99602a
 2025-09-22T22:17:22.266505+00:00|https://www.bbc.com/news/articles/cly0428jjpeo|new gps rule after 27yearolds cancer missed|31e008c62f3082a91108bc213a74eeb6
+2025-09-23T16:35:33.145698+00:00|https://www.bbc.com/weather/articles/cd72r5ynr9jo|could hurricane gabrielle hit the uk this weekend|fd0fe6bc2ab5042b39350d375e27bfdc
+2025-09-23T16:36:13.883390+00:00|https://www.bbc.com/news/articles/cx2xnkkn9ywo|amazon to close its uk grocery stores|7a083081d8bbb40045695a264a2cc439
+2025-09-23T16:36:54.892946+00:00|https://news.sky.com/story/afghanistan-internet-ban-extinguishing-the-only-light-that-still-reaches-us-13436723|afghanistan internet ban extinguishing the only light that still reaches us|dbaa53eac9668164420a35991a71a6b9
+2025-09-23T16:37:35.628061+00:00|https://news.sky.com/story/copenhagen-drone-incursion-fits-russian-pattern-danish-pm-says-13436745|copenhagen drone incursion fits russian pattern danish pm says|b30dc7503831e2522aabb5dac4d8f7ec
+2025-09-23T16:38:16.605057+00:00|https://www.telegraph.co.uk/recommended/home/garden/the-best-hedge-trimmers|the best hedge trimmers for 2025 tested by a gardener|4fd13359e2053fb4005028cb5c00db4b
