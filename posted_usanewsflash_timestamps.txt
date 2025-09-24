@@ -3407,3 +3407,6 @@
 2025-09-24T22:20:51.661728+00:00|https://www.nbcnews.com/video/shorts/shutdown-looms-as-both-parties-stand-their-ground-248276549652|shutdown looms as both parties stand their ground us news|20d02b49b6a8fa6b3cf8956fa3bb2df8
 2025-09-24T22:20:52.237420+00:00|https://www.nbcnews.com/world/iran/iran-rules-direct-talks-trump-president-condemns-us-israeli-attacks-rcna233272|iran rules out direct nuclear talks with trump and condemns us and israeli attacks us news|95727756dff6c23f1f5ae11755bb2432
 2025-09-24T22:20:52.811556+00:00|https://www.nytimes.com/2025/09/24/us/politics/trump-united-nations-tones.html|how trump strikes radically different tones in public and private us news|317e0592120cfe794ef993b7ee7a9b49
+2025-09-24T22:38:42.909831+00:00|https://www.nytimes.com/2025/09/24/us/dallas-ice-shooting-suspect.html|dallas shooting suspect had extensive online footprint but little on politics us news|5892ab16f4eeacc580041848b107e4aa
+2025-09-24T22:38:43.401984+00:00|https://www.nytimes.com/2025/09/24/briefing/ice-shooting-vaccine-questions-answered.html|a shooter opened fire on a dallas ice facility us news|0a40c14649bc8b16ce4dc0f511a87391
+2025-09-24T22:38:43.924066+00:00|https://www.nytimes.com/2025/09/24/climate/china-emissions-targets-paris.html|at un summit china promises to reduce greenhouse gas emissions us news|7e7f06cea2d8b01f0c41942184f65d83
