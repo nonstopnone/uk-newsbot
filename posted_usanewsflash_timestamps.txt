@@ -3410,3 +3410,4 @@
 2025-09-24T22:38:42.909831+00:00|https://www.nytimes.com/2025/09/24/us/dallas-ice-shooting-suspect.html|dallas shooting suspect had extensive online footprint but little on politics us news|5892ab16f4eeacc580041848b107e4aa
 2025-09-24T22:38:43.401984+00:00|https://www.nytimes.com/2025/09/24/briefing/ice-shooting-vaccine-questions-answered.html|a shooter opened fire on a dallas ice facility us news|0a40c14649bc8b16ce4dc0f511a87391
 2025-09-24T22:38:43.924066+00:00|https://www.nytimes.com/2025/09/24/climate/china-emissions-targets-paris.html|at un summit china promises to reduce greenhouse gas emissions us news|7e7f06cea2d8b01f0c41942184f65d83
+2025-09-24T22:57:50.140983+00:00|https://www.nbcnews.com/news/us-news/rapture-tiktok-christian-influencers-videos-end-of-world-rcna233347|the end of the world is here or near or neither us news|0c8c06503b7398a48c2885804fe75479
