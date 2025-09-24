@@ -3359,3 +3359,7 @@
 2025-09-24T09:57:41.780607+00:00|https://www.nytimes.com/2025/09/24/us/immigrants-trump-detention.html|under trump policy bonds for immigrants facing deportation are vanishing us news|68b2e59b8ce997df542de9d6ee9c915b
 2025-09-24T09:57:42.397776+00:00|https://www.nytimes.com/2025/09/24/health/why-obamacare-bills-may-double-next-year.html|why obamacare bills may double next year us news|16580d1febf2e11435ad1ec505f3818a
 2025-09-24T09:57:42.909554+00:00|https://www.nytimes.com/2025/09/24/nyregion/zohran-mamdani-10-questions.html|10 more questions with zohran mamdani us news|a82b46d3d615d0cf128ea624337d9b0d
+2025-09-24T11:18:33.963282+00:00|https://www.bbc.com/news/articles/c0r09qdnd4yo|kimmel pulls no punches as he ramps up battle with trump us news|5459e9e5d276ac0e5d4e8b72ae93c647
+2025-09-24T11:18:34.529171+00:00|https://www.bbc.com/news/articles/c0r09qdnd4yo|kimmel pulls no punches as he ramps up battle with trump us news|5459e9e5d276ac0e5d4e8b72ae93c647
+2025-09-24T11:18:35.361455+00:00|https://www.nytimes.com/2025/09/24/us/justice-dept-independence-trump-kimmel.html|can the justice department stay independent under trump us news|eb241c4a601d08b909926adac6298437
+2025-09-24T11:18:35.931014+00:00|https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211|death rates rose in hospital ers after private equity firms took over study finds us news|db322f4faeb7661b636171d6ed9b66eb
