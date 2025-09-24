@@ -3386,3 +3386,5 @@
 2025-09-24T17:41:51.473719+00:00|https://www.nytimes.com/2025/09/24/us/politics/government-shutdown-us-economy.html|a federal shutdown may be imminent how would it affect the economy us news|f410801b4b5c01a67d830aa5ea35706e
 2025-09-24T17:41:52.113153+00:00|https://www.nbcnews.com/news/us-news/theo-von-slams-dhs-using-clip-deportation-video-rcna233431|dhs removes clip featuring comedian theo von after he balks at being used in banger deportation video us news|0845cc602bba61b64703f1f634471130
 2025-09-24T18:47:13.064755+00:00|https://www.nbcnews.com/now/video/witness-says-she-took-cover-after-hearing-gunshots-at-dallas-ice-facility-248248901571|witness says she took cover after hearing gunshots at dallas ice facility us news|17118fd334696418e021eb27b217016d
+2025-09-24T18:57:57.931654+00:00|https://www.nytimes.com/2025/09/24/world/americas/charlie-kirk-visas-speech.html|us threatens to bar foreigners over remarks about charlie kirk us news|316c8623977641d9b2e1c4a934a43312
+2025-09-24T18:57:58.577489+00:00|https://www.nytimes.com/2025/09/24/us/witnesses-describe-gunfire.html|witnesses in dallas describe rapid gunfire us news|c19ebda50468b9bbbdec01a934f8d254
