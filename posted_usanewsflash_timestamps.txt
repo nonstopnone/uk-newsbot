@@ -3363,3 +3363,6 @@
 2025-09-24T11:18:34.529171+00:00|https://www.bbc.com/news/articles/c0r09qdnd4yo|kimmel pulls no punches as he ramps up battle with trump us news|5459e9e5d276ac0e5d4e8b72ae93c647
 2025-09-24T11:18:35.361455+00:00|https://www.nytimes.com/2025/09/24/us/justice-dept-independence-trump-kimmel.html|can the justice department stay independent under trump us news|eb241c4a601d08b909926adac6298437
 2025-09-24T11:18:35.931014+00:00|https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211|death rates rose in hospital ers after private equity firms took over study finds us news|db322f4faeb7661b636171d6ed9b66eb
+2025-09-24T12:49:04.065650+00:00|https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story|3 people shot at dallas ice field office ice official us news|895f77a125553fddc8e2df18429ad8fd
+2025-09-24T12:49:04.624646+00:00|https://abcnews.go.com/US/oregon-police-recover-partial-remains-dismembered-woman-80/story|oregon police recover partial remains of dismembered woman in 80yearold cold case us news|10008ac09688dac036f0055d7e494a53
+2025-09-24T12:49:05.140225+00:00|https://abcnews.go.com/International/video/flood-waters-crash-hotel-doors-hong-kong-125886165|watch floodwaters crash through hotel doors in hong kong us news|a58c11ec3d1e22a03fda0d775eff9047
