@@ -3339,3 +3339,7 @@
 2025-09-23T22:40:37.746418+00:00|https://www.bbc.com/news/articles/c79v7p88pveo|michelob ultra becomes bestselling beer in the us us news|f81c428a456d96985803fbfd0bbeaa7a
 2025-09-23T23:39:10.855083+00:00|https://www.nytimes.com/video/science/100000010414944/trump-pushes-unproven-link-between-tylenol-and-autism.html|trump pushes unproven link between tylenol and autism us news|b308d9765bcf1a100f0e5cab66185643
 2025-09-23T23:57:51.441915+00:00|https://www.nytimes.com/2025/09/23/us/politics/trump-covid-autism-science.html|on covid and autism trump strays from the science us news|1413a9784af3183bdcdb5029c1256308
+2025-09-24T01:47:58.058537+00:00|https://abcnews.go.com/Health/fact-checking-president-donald-trumps-claims-autism/story|factchecking president donald trumps claims about autism us news|10136aed7c0da34a91247b3c0bc9b6b1
+2025-09-24T01:47:58.628472+00:00|https://www.nbcnews.com/nightly-news/video/ryan-routh-attempts-to-stab-himself-in-neck-after-conviction-248194117843|ryan routh attempts to stab himself in neck after conviction us news|664d74a7f3181a6c50f5b77d779b125b
+2025-09-24T01:47:59.177967+00:00|https://www.nbcnews.com/nightly-news/video/trump-signals-shift-on-ukraine-after-blunt-speech-criticizing-the-u-n-248194117752|trump signals shift on ukraine after blunt speech criticizing the un us news|0a54601f797707572c4e83e19fa239fd
+2025-09-24T01:47:59.750290+00:00|https://www.nbcnews.com/video/shorts/drought-impacts-fall-foliage-across-states-248204357638|drought impacts fall foliage across states us news|13b8f1e3071e04eafcce0d42050015ca
