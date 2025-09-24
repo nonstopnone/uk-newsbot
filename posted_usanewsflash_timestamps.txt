@@ -3366,3 +3366,5 @@
 2025-09-24T12:49:04.065650+00:00|https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story|3 people shot at dallas ice field office ice official us news|895f77a125553fddc8e2df18429ad8fd
 2025-09-24T12:49:04.624646+00:00|https://abcnews.go.com/US/oregon-police-recover-partial-remains-dismembered-woman-80/story|oregon police recover partial remains of dismembered woman in 80yearold cold case us news|10008ac09688dac036f0055d7e494a53
 2025-09-24T12:49:05.140225+00:00|https://abcnews.go.com/International/video/flood-waters-crash-hotel-doors-hong-kong-125886165|watch floodwaters crash through hotel doors in hong kong us news|a58c11ec3d1e22a03fda0d775eff9047
+2025-09-24T13:19:13.008052+00:00|https://www.bbc.com/news/articles/ckge9d26z1ro|multiple injuries and fatalities in shooting at ice facility in texas us news|97ea2823697097defb825b3b910ac3f7
+2025-09-24T13:19:13.571406+00:00|https://www.nytimes.com/2025/09/24/us/ice-dallas-shooting.html|three people shot at dallas ice facility us news|0e0db92f40d58bfdafae1a9d1a9c070f
