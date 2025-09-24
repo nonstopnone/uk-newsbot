@@ -3390,3 +3390,7 @@
 2025-09-24T18:57:58.577489+00:00|https://www.nytimes.com/2025/09/24/us/witnesses-describe-gunfire.html|witnesses in dallas describe rapid gunfire us news|c19ebda50468b9bbbdec01a934f8d254
 2025-09-24T19:18:50.029159+00:00|https://www.nytimes.com/2025/09/24/nyregion/manhattan-drug-killings.html|woman lured men with sex and drugs and left them for dead charges say us news|562bf910accbc045f2e90eae5577f56d
 2025-09-24T19:57:28.779119+00:00|https://www.nbcnews.com/politics/donald-trump/trump-tiktok-deal-sale-china-rcna233524|trump expected to sign a tiktok deal tomorrow us news|98bd7ca0a55d3240260892fe4abb3a34
+2025-09-24T20:26:14.569535+00:00|https://www.bbc.com/news/articles/ckgym44gy24o|how doctors are responding to trumps autism announcement us news|a3137368cc7e518cd6cb10c1a1b8d9fe
+2025-09-24T20:26:15.237409+00:00|https://www.nbcnews.com/news/us-news/charlie-kirk-educators-fired-social-media-lawsuits-free-speech-rcna233320|educators fired for posting about charlie kirks death sue to get their jobs back us news|4bfc3213a0b4dda20ca738270be29e4b
+2025-09-24T20:26:16.121085+00:00|https://www.nbcnews.com/video/shorts/mlb-plans-to-start-using-automated-ball-strike-system-248270405759|mlb plans to start using automated ballstrike system us news|f5ac5219b86b44cca7227b5bf6d9de6c
+2025-09-24T20:26:16.812845+00:00|https://www.nytimes.com/2025/09/24/climate/united-nations-climate-summit-emissions-targets.html|at un climate summit us stands alone us news|c61d3bde03e9b271f65b6055ccc5f688
