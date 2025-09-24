@@ -3372,3 +3372,4 @@
 2025-09-24T14:42:56.118163+00:00|https://www.nytimes.com/2025/09/24/arts/television/jimmy-kimmel-late-night-politics-trump.html|heres how latenight became political before trump us news|e2ab12e168a3c4d63f0b291ce9caa6cc
 2025-09-24T14:42:56.604774+00:00|https://www.nbcnews.com/video/shorts/three-detainees-were-shot-at-dallas-ice-facility-248237125856|three detainees were shot at dallas ice facility us news|5daadf20eda9af1e16cc50263609bda8
 2025-09-24T14:42:57.133863+00:00|https://www.nytimes.com/2025/09/24/world/europe/london-mayor-trump-comments-sadiq-khan.html|londons mayor calls trump racist and islamophobic after un comments us news|d63c8cf7e9420df5bacf3992c4c775bf
+2025-09-24T15:24:08.330669+00:00|https://www.nytimes.com/2025/09/24/world/europe/trump-uk.html|uk endures a trump scolding at un days after lavish state visit us news|4d52858ba331289d110d3ac850a16a14
