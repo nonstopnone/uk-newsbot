@@ -517,7 +517,7 @@ def post_to_reddit(entry, score, matched_keywords, by_title, retries=3, base_del
                 kw_list = ', '.join([kw for kw, _ in sorted_cat_keywords])
                 kw_counts = ', '.join([f"{kw} mentioned {count} times" for kw, count in sorted_cat_keywords])
                 reply_lines.append(f"Reason for posting:")
-                reply_lines.append(f"This news story was automatically posted because it contains the keywords/phrases {kw_list} (with {kw_counts}). ")
+                reply_lines.append(f"This news story was automatically posted because it contains the follwing keywords/phrases: {kw_list} (with {kw_counts}). ")
                 reply_lines.append(f"The system determined that the story belongs in the {flair_text} category and is relevant to a UK audience. As a result, the system automatically assigned this post a \"{flair_text}\" flair with {confidence}% confidence.")
             else:
                 reply_lines.append("No specific category keywords detected. Defaulting to Breaking News with reduced confidence.")
