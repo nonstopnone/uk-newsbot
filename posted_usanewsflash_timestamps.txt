@@ -3355,3 +3355,7 @@
 2025-09-24T09:25:04.535918+00:00|https://www.nbcnews.com/world/europe/macron-calls-trump-stuck-motorcade-un-rcna233362|guess what macron calls trump after motorcade blocks his car us news|c453fb15423f54946fb6fa5848a7c854
 2025-09-24T09:25:05.257689+00:00|https://www.nbcnews.com/tech/security/discord-messages-server-dhs-terror-extremist-charlie-kirk-fbi-patel-rcna232377|extremists are using discord to radicalize american youth officials warned this year us news|e76702eee49244a672d0571fbecdeabd
 2025-09-24T09:42:51.555058+00:00|https://www.nbcnews.com/video/shorts/super-typhoon-ragasa-floods-hong-kong-hotel-248222789520|super typhoon ragasa floods hong kong hotel us news|dd504c096e15cfd4022cb6f4f9254c9f
+2025-09-24T09:57:41.293178+00:00|https://www.nytimes.com/2025/09/24/us/politics/pentagon-reporters.html|the pentagon the press and the fight to control national security coverage us news|17c9f679e6afba22ec5ffbe301919d00
+2025-09-24T09:57:41.780607+00:00|https://www.nytimes.com/2025/09/24/us/immigrants-trump-detention.html|under trump policy bonds for immigrants facing deportation are vanishing us news|68b2e59b8ce997df542de9d6ee9c915b
+2025-09-24T09:57:42.397776+00:00|https://www.nytimes.com/2025/09/24/health/why-obamacare-bills-may-double-next-year.html|why obamacare bills may double next year us news|16580d1febf2e11435ad1ec505f3818a
+2025-09-24T09:57:42.909554+00:00|https://www.nytimes.com/2025/09/24/nyregion/zohran-mamdani-10-questions.html|10 more questions with zohran mamdani us news|a82b46d3d615d0cf128ea624337d9b0d
