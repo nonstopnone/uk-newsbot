@@ -3368,3 +3368,4 @@
 2025-09-24T12:49:05.140225+00:00|https://abcnews.go.com/International/video/flood-waters-crash-hotel-doors-hong-kong-125886165|watch floodwaters crash through hotel doors in hong kong us news|a58c11ec3d1e22a03fda0d775eff9047
 2025-09-24T13:19:13.008052+00:00|https://www.bbc.com/news/articles/ckge9d26z1ro|multiple injuries and fatalities in shooting at ice facility in texas us news|97ea2823697097defb825b3b910ac3f7
 2025-09-24T13:19:13.571406+00:00|https://www.nytimes.com/2025/09/24/us/ice-dallas-shooting.html|three people shot at dallas ice facility us news|0e0db92f40d58bfdafae1a9d1a9c070f
+2025-09-24T13:46:00.709553+00:00|https://www.nbcnews.com/world/united-kingdom/london-mayor-sadiq-khan-calls-trump-racist-sexist-islamophobic-unga-rcna233372|london mayor calls trump racist sexist and islamophobic as feud intensifies us news|0eec2b1023d786e77d73e8525e666763
