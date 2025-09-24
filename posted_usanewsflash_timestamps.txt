@@ -3369,3 +3369,6 @@
 2025-09-24T13:19:13.008052+00:00|https://www.bbc.com/news/articles/ckge9d26z1ro|multiple injuries and fatalities in shooting at ice facility in texas us news|97ea2823697097defb825b3b910ac3f7
 2025-09-24T13:19:13.571406+00:00|https://www.nytimes.com/2025/09/24/us/ice-dallas-shooting.html|three people shot at dallas ice facility us news|0e0db92f40d58bfdafae1a9d1a9c070f
 2025-09-24T13:46:00.709553+00:00|https://www.nbcnews.com/world/united-kingdom/london-mayor-sadiq-khan-calls-trump-racist-sexist-islamophobic-unga-rcna233372|london mayor calls trump racist sexist and islamophobic as feud intensifies us news|0eec2b1023d786e77d73e8525e666763
+2025-09-24T14:42:56.118163+00:00|https://www.nytimes.com/2025/09/24/arts/television/jimmy-kimmel-late-night-politics-trump.html|heres how latenight became political before trump us news|e2ab12e168a3c4d63f0b291ce9caa6cc
+2025-09-24T14:42:56.604774+00:00|https://www.nbcnews.com/video/shorts/three-detainees-were-shot-at-dallas-ice-facility-248237125856|three detainees were shot at dallas ice facility us news|5daadf20eda9af1e16cc50263609bda8
+2025-09-24T14:42:57.133863+00:00|https://www.nytimes.com/2025/09/24/world/europe/london-mayor-trump-comments-sadiq-khan.html|londons mayor calls trump racist and islamophobic after un comments us news|d63c8cf7e9420df5bacf3992c4c775bf
