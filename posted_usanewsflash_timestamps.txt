@@ -3382,3 +3382,6 @@
 2025-09-24T16:48:45.964412+00:00|https://www.nytimes.com/2025/09/24/well/vaccines-covid-flu-mmrv-autism.html|do vaccines cause autism and other questions answered us news|3eb7bac6101c6b1599d15994a768d0a0
 2025-09-24T16:58:00.473000+00:00|https://www.nbcnews.com/video/shorts/four-people-shot-at-dallas-ice-facility-officials-say-248249413802|four people shot at dallas ice facility officials say us news|b98e8f472b43fc11b6b122fc831ed299
 2025-09-24T16:58:01.051596+00:00|https://www.nytimes.com/2025/09/24/business/media/apple-postpones-savant.html|apple postpones savant show about online hate groups us news|a4edb8abaa9b36a821fea5c668aac09a
+2025-09-24T17:41:50.891936+00:00|https://www.bbc.com/news/articles/cvg0kv8rq0xo|meet the historymaking astronauts headed for the moon us news|cb16de7110303997e4ea57f366ae52ba
+2025-09-24T17:41:51.473719+00:00|https://www.nytimes.com/2025/09/24/us/politics/government-shutdown-us-economy.html|a federal shutdown may be imminent how would it affect the economy us news|f410801b4b5c01a67d830aa5ea35706e
+2025-09-24T17:41:52.113153+00:00|https://www.nbcnews.com/news/us-news/theo-von-slams-dhs-using-clip-deportation-video-rcna233431|dhs removes clip featuring comedian theo von after he balks at being used in banger deportation video us news|0845cc602bba61b64703f1f634471130
