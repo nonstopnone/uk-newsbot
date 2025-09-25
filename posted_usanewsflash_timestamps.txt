@@ -3493,3 +3493,5 @@
 2025-09-25T23:20:19.152810+00:00|https://www.nbcnews.com/politics/justice-department/justice-department-charges-james-comey-lying-congress-rcna233581|former fbi director james comey indicted us news|9bacebd50a06981b73d123fa5b2e8d74
 2025-09-25T23:20:19.749800+00:00|https://www.nytimes.com/2025/09/25/health/drug-prices-trump.html|trump may try to force drugmakers to lower some us prices us news|b9fc39fbef21476dba6384e2beafb9bc
 2025-09-25T23:39:09.755087+00:00|https://abcnews.go.com/US/parents-girl-missing-camp-mystic-flooding-calls-reopening/story|parents of girl still missing from camp mystic flooding slam camp for reopening us news|1dc7ce8dcdf5e2bcb7e2914f7c83246b
+2025-09-25T23:57:39.399291+00:00|https://www.nytimes.com/2025/09/25/business/un-artificial-intelligence.html|countries consider ais dangers and benefits at un us news|00273fab87c2cd77619e4c7dbca8404e
+2025-09-25T23:57:40.101808+00:00|https://www.nbcnews.com/video/what-s-next-for-james-comey-after-his-indictment-248371269855|whats next for james comey after his indictment us news|cae4ce32b1e918a152c485649a7f0364
