@@ -3475,3 +3475,4 @@
 2025-09-25T20:25:56.421191+00:00|https://www.nytimes.com/2025/09/25/us/politics/dallas-ice-shooting.html|attack on dallas ice was very definition of terrorism prosecutor says us news|73cdd030478f292e2f97f9c89972249f
 2025-09-25T20:25:56.953503+00:00|https://www.nytimes.com/2025/09/25/us/politics/trump-argentina-milei-bailout.html|trump wades into bailout politics in offering a lifeline to argentina us news|b2deb3cfd1510d0d06e37cf62cd182ce
 2025-09-25T20:40:27.731523+00:00|https://www.nbcnews.com/video/shorts/officials-say-dallas-shooter-used-ice-tracking-apps-248351301884|officials say dallas shooter used ice tracking apps us news|75b7c1b166ecbed7f79bf90d515e6838
+2025-09-25T20:57:37.237515+00:00|https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-tiktok-deal-know-rcna233518|trump signs executive order facilitating tiktok deal us news|483f07ae7d125f578c988ccf67105634
