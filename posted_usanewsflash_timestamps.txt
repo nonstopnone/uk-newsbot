@@ -3492,3 +3492,4 @@
 2025-09-25T22:57:33.563183+00:00|https://abcnews.go.com/US/former-fbi-director-james-comey-indicted-days-after/story|james comey indicted days after trump demanded doj move now us news|52833c8d20a162aeb08ab137ed13edf6
 2025-09-25T23:20:19.152810+00:00|https://www.nbcnews.com/politics/justice-department/justice-department-charges-james-comey-lying-congress-rcna233581|former fbi director james comey indicted us news|9bacebd50a06981b73d123fa5b2e8d74
 2025-09-25T23:20:19.749800+00:00|https://www.nytimes.com/2025/09/25/health/drug-prices-trump.html|trump may try to force drugmakers to lower some us prices us news|b9fc39fbef21476dba6384e2beafb9bc
+2025-09-25T23:39:09.755087+00:00|https://abcnews.go.com/US/parents-girl-missing-camp-mystic-flooding-calls-reopening/story|parents of girl still missing from camp mystic flooding slam camp for reopening us news|1dc7ce8dcdf5e2bcb7e2914f7c83246b
