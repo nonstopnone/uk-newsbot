@@ -3469,3 +3469,4 @@
 2025-09-25T19:19:10.148261+00:00|https://www.nytimes.com/2025/09/25/business/trump-farmer-bailout.html|trump says he wants to give aid to struggling farmers us news|96a41db2619b568c4dbbd0a1cd468d83
 2025-09-25T19:19:10.896517+00:00|https://www.nytimes.com/2025/09/25/business/uber-sexual-assault-house-inquiry.html|house committee opens inquiry into uber over sexual abuse us news|945e521296157e2eb387d3365121c433
 2025-09-25T19:19:11.407552+00:00|https://www.nbcnews.com/video/shorts/california-jewelry-store-targeted-in-smash-and-grab-248345669814|california jewelry store targeted in smashandgrab us news|fae887890d1d3449c10f9c5167c93392
+2025-09-25T19:39:11.576839+00:00|https://www.nbcnews.com/video/shorts/vertical-news-brief-pilot-steve-kornacki-248343109619|vertical news brief pilot steve kornacki us news|46510bad50df656de11627962ce5a9e6
