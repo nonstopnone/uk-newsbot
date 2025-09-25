@@ -3479,3 +3479,7 @@
 2025-09-25T21:19:11.504033+00:00|https://www.nbcnews.com/video/shorts/trump-signs-executive-order-to-preserve-tiktok-248358469645|trump signs executive order to preserve tiktok us news|9be1b3be0bd6095421fb2e5ae8093766
 2025-09-25T21:19:12.112054+00:00|https://www.nbcnews.com/video/shorts/trump-jokes-he-would-make-tiktok-algorithm-100-maga-248357957601|trump jokes he would make tiktok algorithm 100 maga us news|d9ce2949788161fed7bd5635b1e21471
 2025-09-25T21:39:10.145730+00:00|https://www.nbcnews.com/video/shorts/vance-tiktok-will-be-valued-around-14-billion-248358469908|vance tiktok will be valued around $14 billion us news|078c3bc7faca62c0f6603a251eb13973
+2025-09-25T21:57:27.898163+00:00|https://www.bbc.com/news/articles/clyng762q4eo|trump claims a tiktok deal is done who would own it and how would it work us news|7e09009b3bd242da4b7f910672bf50ba
+2025-09-25T21:57:28.601251+00:00|https://www.nbcnews.com/meet-the-press/video/trump-admin-threatens-mass-firings-if-government-shuts-down-248356933764|trump admin threatens mass firings if government shuts down us news|c6e2fb351258b91f46929f64ec107777
+2025-09-25T21:57:29.282576+00:00|https://www.nbcnews.com/video/shorts/trump-says-world-cup-sites-will-move-if-unsafe-248359493737|trump says world cup sites will move if unsafe us news|4ee44d8875b168791b4ffeefb3303ba8
+2025-09-25T21:57:29.946262+00:00|https://www.nytimes.com/2025/09/25/technology/trump-tiktok-ban-deal.html|trump clears way for americanowned tiktok valued at $14 billion us news|54b7aec5d188f53e6057d17a595d2c81
