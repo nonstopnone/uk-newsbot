@@ -3448,3 +3448,5 @@
 2025-09-25T14:45:34.294301+00:00|https://abcnews.go.com/International/video/floodwaters-crash-hong-kong-restaurant-125928324|watch floodwaters crash into hong kong restaurant us news|80bf4d8e5f4834e5d0038d0371e0972a
 2025-09-25T14:45:35.417179+00:00|https://abcnews.go.com/US/video/driver-jumps-raised-bridge-police-chase-125928228|watch driver jumps raised bridge during police chase us news|c112c4a1a2d33310976d4443f9543a7b
 2025-09-25T14:57:42.122792+00:00|https://www.nytimes.com/2025/09/25/movies/one-battle-after-another-review-paul-thomas-anderson.html|one battle after another review paul thomas andersons rallying cry us news|dae14c4f9057a3cc8409b21184c022e8
+2025-09-25T15:25:03.459886+00:00|https://www.nytimes.com/2025/09/25/world/middleeast/israel-yemen-houthis.html|israel attacks yemeni capital us news|5f63c01ea68d601c10fdb17e797479a8
+2025-09-25T15:25:04.127344+00:00|https://www.nytimes.com/2025/09/24/business/social-security-customer-service.html|social security workers struggle to meet demand after doge cuts us news|b692c2a2efd2a9ab85d120e9f069a905
