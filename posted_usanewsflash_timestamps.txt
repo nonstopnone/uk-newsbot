@@ -3450,3 +3450,7 @@
 2025-09-25T14:57:42.122792+00:00|https://www.nytimes.com/2025/09/25/movies/one-battle-after-another-review-paul-thomas-anderson.html|one battle after another review paul thomas andersons rallying cry us news|dae14c4f9057a3cc8409b21184c022e8
 2025-09-25T15:25:03.459886+00:00|https://www.nytimes.com/2025/09/25/world/middleeast/israel-yemen-houthis.html|israel attacks yemeni capital us news|5f63c01ea68d601c10fdb17e797479a8
 2025-09-25T15:25:04.127344+00:00|https://www.nytimes.com/2025/09/24/business/social-security-customer-service.html|social security workers struggle to meet demand after doge cuts us news|b692c2a2efd2a9ab85d120e9f069a905
+2025-09-25T15:57:30.464693+00:00|https://www.nbcnews.com/video/watch-live-trump-meets-with-turkish-president-erdogan-248326213911|trump meets with turkish president erdogan us news|74a57e53a973e02201c44f1ea890fbd6
+2025-09-25T15:57:31.143046+00:00|https://www.nytimes.com/2025/09/25/us/sara-jane-moore-dead.html|sara jane moore wouldbe assassin of president ford dies at 95 us news|4bacfe31aeaff2df389af073bb7a0c9a
+2025-09-25T15:57:31.846195+00:00|https://www.nbcnews.com/business/economy/us-gdp-second-quarter-consumers-buying-rcna233692|us economy grew more than thought in the second quarter as glum shoppers kept on buying us news|a6284964b934c887b2551b4c04643a8c
+2025-09-25T15:57:32.526115+00:00|https://www.nbcnews.com/video/shorts/mountaineer-makes-world-first-full-ski-descent-from-mount-everest-248331333597|mountaineer makes worldfirst full ski descent from mount everest us news|2ebddc3705544a053857c5a0055e2ba8
