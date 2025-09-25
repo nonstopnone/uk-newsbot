@@ -3490,3 +3490,5 @@
 2025-09-25T22:40:46.313247+00:00|https://abcnews.go.com/Business/video/president-trump-announces-deal-put-tiktok-control-us-125947036|watch president trump announces deal to put tiktok under control of us investors us news|e15c0bee8631ab409f5ecf97f5d6a730
 2025-09-25T22:40:46.873256+00:00|https://www.nbcnews.com/science/earthquakes/lasers-fiber-optics-tiny-vibrations-tease-way-warn-earthquakes-rcna233568|lasers fiber optics and tiny vibrations tease a way to warn about earthquakes us news|6ff719bfd70a3f78eb6fab7a0183071d
 2025-09-25T22:57:33.563183+00:00|https://abcnews.go.com/US/former-fbi-director-james-comey-indicted-days-after/story|james comey indicted days after trump demanded doj move now us news|52833c8d20a162aeb08ab137ed13edf6
+2025-09-25T23:20:19.152810+00:00|https://www.nbcnews.com/politics/justice-department/justice-department-charges-james-comey-lying-congress-rcna233581|former fbi director james comey indicted us news|9bacebd50a06981b73d123fa5b2e8d74
+2025-09-25T23:20:19.749800+00:00|https://www.nytimes.com/2025/09/25/health/drug-prices-trump.html|trump may try to force drugmakers to lower some us prices us news|b9fc39fbef21476dba6384e2beafb9bc
