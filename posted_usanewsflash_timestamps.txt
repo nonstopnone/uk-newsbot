@@ -3561,3 +3561,6 @@
 2025-09-26T20:24:41.443289+00:00|https://www.bbc.com/news/articles/cn4w23yjzj1o|ice officer disciplined after shoving woman to ground in courthouse us news|bb697817fd9f92a6bd24d493bfebb7b2
 2025-09-26T20:24:41.958280+00:00|https://www.nytimes.com/2025/09/26/us/politics/trump-tariffs-supreme-court.html|trump expands tariffs beyond supreme courts reach us news|95b0c6d6584f798ee0794b7b571f6560
 2025-09-26T20:24:42.502301+00:00|https://www.nytimes.com/2025/09/26/health/trump-h1b-visa-fee-doctors.html|medical groups warn against visa fees for foreign doctors us news|4390d9fb68a1dd5eef4f221880f01b56
+2025-09-26T20:40:51.123254+00:00|https://www.bbc.com/news/articles/cm28yrz6502o|assata shakur black liberation activist exiled in cuba dies at 78 us news|a3315dc4a22d1935cb2625b5cd9ed850
+2025-09-26T20:40:51.780389+00:00|https://www.nytimes.com/2025/09/26/us/des-moines-schools-ice-immigration.html|des moines schools superintendent ian roberts detained by ice officials say us news|5c4af6fdf4465c2f8aa5bb5ab428f4fc
+2025-09-26T20:40:52.458419+00:00|https://www.nytimes.com/2025/09/26/health/trump-drug-tariffs-prescription-costs.html|how trumps latest tariffs may affect your medicines us news|d34e5bb024842b6fa66229e0b5887013
