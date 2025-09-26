@@ -3513,3 +3513,6 @@
 2025-09-26T08:48:24.433746+00:00|https://www.nytimes.com/2025/09/26/arts/television/colbert-trump-escalator-sabotage.html|colbert investigates trumps claim of escalator sabotage us news|2b642aa12a6b7713b9a00cafc5a51d51
 2025-09-26T09:25:14.241768+00:00|https://abcnews.go.com/US/deadly-shooting-dallas-ice-facility-trend-sniper-type/story|deadly shooting at ice facility follows trend of snipertype incidents experts us news|c56ae85706f1a20cd416b3d9c36e6b5b
 2025-09-26T09:25:14.767975+00:00|https://www.nytimes.com/2025/09/26/us/politics/federal-prisons-workers-union.html|federal bureau of prisons ends union protections for workers us news|502d35eaba4235b4b5f5fdd3b5acb92e
+2025-09-26T09:57:45.329803+00:00|https://www.nytimes.com/2025/09/26/us/politics/comey-indictment-trump-takeaways.html|4 takeaways from trumps securing of an indictment against comey us news|f34087a0d16a0a91b7f190f2b8a57551
+2025-09-26T09:57:45.879692+00:00|https://www.nytimes.com/2025/09/26/nyregion/hudson-yards-related-companies.html|hudson yards developer may get another $2 billion boost from new york us news|dc75674bce6d36e05004ffbaa3431565
+2025-09-26T09:57:46.665670+00:00|https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html|nasa artemis ii astronauts aim to make space great for all us news|1a2564d807e3a21210498c08897c2d72
