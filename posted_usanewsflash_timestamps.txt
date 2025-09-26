@@ -3567,3 +3567,5 @@
 2025-09-26T21:18:58.461812+00:00|https://www.bbc.com/news/articles/cy7pm1jz0dlo|sinclair to reinstate kimmel on its abc stations us news|9edb22e6df8baeb7527d1a011aade1ca
 2025-09-26T21:18:59.009240+00:00|https://www.nytimes.com/2025/09/26/us/politics/supreme-court-trump-foreign-aid.html|supreme court allows trump to slash foreign aid us news|b89bbe47af2a713c2bda94a90c852e06
 2025-09-26T21:38:46.447857+00:00|https://www.bbc.com/news/videos/cz69y2n6xexo|watch how trump and comeys relationship soured us news|a6b06064e0e04f6becdf6d312934a1ad
+2025-09-26T21:57:40.218386+00:00|https://www.nytimes.com/2025/09/26/us/politics/victims-dallas-ice.html|dallas ice shooting victim a detainee is now fighting for his life us news|3bdd8c3ca8fe497bcbdad41a4700495c
+2025-09-26T21:57:40.921326+00:00|https://www.nytimes.com/2025/09/26/world/americas/argentina-women-murder-instagram.html|brutal murder of 3 women broadcast on instagram shocks argentina us news|6badad2a0f25cca6d507f91da15a6915
