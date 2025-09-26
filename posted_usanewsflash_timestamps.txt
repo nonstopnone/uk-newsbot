@@ -3516,3 +3516,4 @@
 2025-09-26T09:57:45.329803+00:00|https://www.nytimes.com/2025/09/26/us/politics/comey-indictment-trump-takeaways.html|4 takeaways from trumps securing of an indictment against comey us news|f34087a0d16a0a91b7f190f2b8a57551
 2025-09-26T09:57:45.879692+00:00|https://www.nytimes.com/2025/09/26/nyregion/hudson-yards-related-companies.html|hudson yards developer may get another $2 billion boost from new york us news|dc75674bce6d36e05004ffbaa3431565
 2025-09-26T09:57:46.665670+00:00|https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html|nasa artemis ii astronauts aim to make space great for all us news|1a2564d807e3a21210498c08897c2d72
+2025-09-26T10:24:38.412180+00:00|https://www.nytimes.com/2025/07/28/business/economy/trump-tariffs-payment.html|who pays for us tariffs and where does the money go us news|69ab4aa95a9c230c803e62f41f7efcf7
