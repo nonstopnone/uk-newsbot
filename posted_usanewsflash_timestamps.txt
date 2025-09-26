@@ -3535,3 +3535,5 @@
 2025-09-26T16:45:57.886114+00:00|https://www.nytimes.com/2025/09/26/world/asia/china-un-trump.html|at un china casts itself as defender of international order us news|95c886c65d5e38f894f14a09c925b94d
 2025-09-26T16:57:19.489238+00:00|https://www.nbcnews.com/video/iranian-president-says-trump-s-current-path-will-set-fire-to-the-middle-east-248426053837|iranian president says trumps current path will set fire to the middle east us news|3889042d25868cd0d567a1106cd81f64
 2025-09-26T16:57:20.087384+00:00|https://www.nytimes.com/2025/09/26/obituaries/assata-shakur-dead.html|assata shakur dies at 78 convicted revolutionary found refuge in cuba us news|9957c7aa78abf7136985a3233f297743
+2025-09-26T17:19:38.527181+00:00|https://abcnews.go.com/US/video/texas-summer-camp-hit-deadly-flooding-reopen-despite-125972308|watch texas summer camp hit by deadly flooding to reopen despite parents objections us news|237280884c3ec133048f833b9841474d
+2025-09-26T17:19:39.024025+00:00|https://www.nytimes.com/2025/09/26/nyregion/mamdani-opposition-attack-ads.html|mamdani foes struggling to raise money have started buying attack ads us news|0d18b447314fb0d94f32dca858833e74
