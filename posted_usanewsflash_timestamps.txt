@@ -3542,3 +3542,5 @@
 2025-09-26T17:57:33.450511+00:00|https://www.nbcnews.com/news/us-news/nyc-shooter-shane-tamura-cte-medical-examiner-says-rcna233521|shooter who targeted nfls headquarters had cte medical examiner says us news|b636c2385fdf0cf3f7fe6fdc4bba3e78
 2025-09-26T18:30:39.846052+00:00|https://www.nytimes.com/2025/09/26/world/americas/milei-argentina-economy.html|argentinas president vowed to fix its economy then came a crisis us news|31c4812b2ae0859e581235e9b8ace72d
 2025-09-26T18:30:40.459008+00:00|https://www.nbcnews.com/news/nbcblk/assata-shakur-black-liberation-army-figure-activist-dies-78-rcna233919|assata shakur black liberation army figure and activist dies at 78 us news|06b7759818ffde14a7db7d65fd410b25
+2025-09-26T18:47:05.380222+00:00|https://abcnews.go.com/Politics/back-decade-turmoil-trump-comey/story|looking back at the near decade of turmoil between trump comey us news|f926342655e22ce1c61d2b5593a8cf95
+2025-09-26T18:47:06.129369+00:00|https://www.nytimes.com/2025/09/26/us/politics/memphis-national-guard-crime.html|federal forces set to arrive in memphis next week governor says us news|fc36293c02de130b1fea158d0c92cc14
