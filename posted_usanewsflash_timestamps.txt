@@ -3503,3 +3503,4 @@
 2025-09-26T02:52:02.472780+00:00|https://www.bbc.com/news/articles/cy50ggv35zpo|former fbi director james comey indicted on two charges us news|a7c5e12d86ee3737363676de6c9a24f9
 2025-09-26T02:52:03.258308+00:00|https://www.nbcnews.com/video/travis-decker-remains-identified-washington-authorities-say-248381509685|travis decker remains identified washington authorities say us news|da7a6eec217f87e05ea7ef101f8d3e5c
 2025-09-26T02:52:03.932971+00:00|https://www.nytimes.com/2025/09/25/business/economy/trump-tariffs-pharmaceuticals-furniture-trucks.html|trump will slap tariffs on imported drugs trucks and household furnishings us news|687f518367065f301e06c2ec854a7747
+2025-09-26T03:23:59.381176+00:00|https://www.nbcnews.com/video/shorts/washington-officials-identified-travis-decker-remains-248386117577|washington officials identified travis decker remains us news|489ca801b1979a6930cc2b1a1ec80af2
