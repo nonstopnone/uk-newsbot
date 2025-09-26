@@ -3533,3 +3533,5 @@
 2025-09-26T16:29:05.207535+00:00|https://www.nytimes.com/2025/09/26/movies/new-york-film-festival-jim-jarmusch-father-mother-sister-brother.html|new york film festival highlights us news|31ccf15cc3305c15544cebd817932b55
 2025-09-26T16:45:57.285867+00:00|https://abcnews.go.com/Politics/constitutional-crisis-democrats-hit-trump-administration-doj-james/story|constitutional crisis dems hit trump admin doj over james comey indictment us news|78f79b8e1a9ce00339740fe4f8d43e8a
 2025-09-26T16:45:57.886114+00:00|https://www.nytimes.com/2025/09/26/world/asia/china-un-trump.html|at un china casts itself as defender of international order us news|95c886c65d5e38f894f14a09c925b94d
+2025-09-26T16:57:19.489238+00:00|https://www.nbcnews.com/video/iranian-president-says-trump-s-current-path-will-set-fire-to-the-middle-east-248426053837|iranian president says trumps current path will set fire to the middle east us news|3889042d25868cd0d567a1106cd81f64
+2025-09-26T16:57:20.087384+00:00|https://www.nytimes.com/2025/09/26/obituaries/assata-shakur-dead.html|assata shakur dies at 78 convicted revolutionary found refuge in cuba us news|9957c7aa78abf7136985a3233f297743
