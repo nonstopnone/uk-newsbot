@@ -3511,3 +3511,5 @@
 2025-09-26T06:57:43.999515+00:00|https://abcnews.go.com/US/authorities-search-diver-missing-waters-off-hawaii-coast/story|authorities search for diver who went missing in waters off hawaii coast us news|57694156d4439946d4df29eef9524279
 2025-09-26T08:31:49.980203+00:00|https://www.bbc.com/sport/football/articles/czdjqvyvdd1o|trump will move world cup games from unsafe cities us news|85d9fa98988290c61a0306994e48729f
 2025-09-26T08:48:24.433746+00:00|https://www.nytimes.com/2025/09/26/arts/television/colbert-trump-escalator-sabotage.html|colbert investigates trumps claim of escalator sabotage us news|2b642aa12a6b7713b9a00cafc5a51d51
+2025-09-26T09:25:14.241768+00:00|https://abcnews.go.com/US/deadly-shooting-dallas-ice-facility-trend-sniper-type/story|deadly shooting at ice facility follows trend of snipertype incidents experts us news|c56ae85706f1a20cd416b3d9c36e6b5b
+2025-09-26T09:25:14.767975+00:00|https://www.nytimes.com/2025/09/26/us/politics/federal-prisons-workers-union.html|federal bureau of prisons ends union protections for workers us news|502d35eaba4235b4b5f5fdd3b5acb92e
