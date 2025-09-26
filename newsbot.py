@@ -499,10 +499,6 @@ def main():
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
         "Telegraph": "https://www.telegraph.co.uk/rss.xml",
-        "Guardian UK": "https://www.theguardian.com/uk-news/rss",
-        "Independent": "http://www.independent.co.uk/rss",
-        "Mirror": "https://www.mirror.co.uk/?service=rss",
-        "Daily Record": "https://www.dailyrecord.co.uk/news/?service=rss"
     }
 
     all_articles = []
