@@ -3531,3 +3531,5 @@
 2025-09-26T15:57:38.075695+00:00|https://www.nbcnews.com/business/consumer/trumps-pharma-tariffs-raise-drug-prices-consumers-exemptions-may-blunt-rcna233862|trumps pharma tariffs could raise drug prices for consumers but exemptions may blunt impact us news|b850b533dd41dcc9997087bada1e919c
 2025-09-26T16:29:04.717283+00:00|https://www.bbc.com/news/videos/ceq2zzp1dx2o|watch trump says there will be others after comey indictment us news|81d91977dd1d06cf97b15deaefa7e9cc
 2025-09-26T16:29:05.207535+00:00|https://www.nytimes.com/2025/09/26/movies/new-york-film-festival-jim-jarmusch-father-mother-sister-brother.html|new york film festival highlights us news|31ccf15cc3305c15544cebd817932b55
+2025-09-26T16:45:57.285867+00:00|https://abcnews.go.com/Politics/constitutional-crisis-democrats-hit-trump-administration-doj-james/story|constitutional crisis dems hit trump admin doj over james comey indictment us news|78f79b8e1a9ce00339740fe4f8d43e8a
+2025-09-26T16:45:57.886114+00:00|https://www.nytimes.com/2025/09/26/world/asia/china-un-trump.html|at un china casts itself as defender of international order us news|95c886c65d5e38f894f14a09c925b94d
