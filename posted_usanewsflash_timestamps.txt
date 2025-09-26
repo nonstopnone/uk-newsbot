@@ -3527,3 +3527,5 @@
 2025-09-26T14:20:58.591071+00:00|https://www.nytimes.com/2025/09/26/nyregion/jack-ciattarelli-new-jersey-vaccines.html|vaccine skepticism takes center stage in a close race for governor us news|4e34248f8f66c847be731e5e3d308cad
 2025-09-26T14:42:12.549537+00:00|https://www.nytimes.com/2025/09/26/business/europe-pharma-tariffs-trump.html|wary european drugmakers think they can avoid trumps latest tariffs us news|a34092a287b378933be732d2fdbaceca
 2025-09-26T15:23:53.482018+00:00|https://www.nytimes.com/2025/09/26/nyregion/ice-officer-investigation-woman-shoved.html|ice officer relieved of his duties after pushing woman to floor us news|0d62051afa8c7e6b5d59c32a1a138be3
+2025-09-26T15:57:37.499821+00:00|https://www.nbcnews.com/video/shorts/trump-on-indictments-after-comey-248424517625|trump on indictments after comey us news|dd4fa8c45559050cf342996e5df1ff9f
+2025-09-26T15:57:38.075695+00:00|https://www.nbcnews.com/business/consumer/trumps-pharma-tariffs-raise-drug-prices-consumers-exemptions-may-blunt-rcna233862|trumps pharma tariffs could raise drug prices for consumers but exemptions may blunt impact us news|b850b533dd41dcc9997087bada1e919c
