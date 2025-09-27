@@ -3609,3 +3609,4 @@
 2025-09-27T18:44:19.793247+00:00|https://www.nbcnews.com/politics/national-security/fbi-fires-agents-conduct-george-floyd-protest-rcna234087|fbi fires at least 15 agents over conduct during george floyd protests us news|b899ec64ca914112a0ab53e44a42bc8a
 2025-09-27T19:16:16.175269+00:00|https://www.nytimes.com/2025/09/27/world/middleeast/sanctions-iran-economy-snapback.html|iranians brace for economic impact of new un sanctions us news|d908e446c11f8f9ee42185e89eefae07
 2025-09-27T19:16:16.778381+00:00|https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html|new retail leaders confront trumps tariffs policy shifts and weak spending us news|ff9f5a6992ead55255eda3b2c9c759a1
+2025-09-27T20:22:44.353436+00:00|https://www.nytimes.com/2025/09/27/us/cte-high-school-football.html|cte looms over friday night lights us news|731d03d4d91cbbdcea4deb690dc7b4a4
