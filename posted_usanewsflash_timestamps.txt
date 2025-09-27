@@ -3587,3 +3587,5 @@
 2025-09-27T04:26:16.925605+00:00|https://www.nbcnews.com/weather/hurricanes/hurricane-humberto-grows-category-4-rcna234051|hurricane humberto strengthens to a category 4 storm us news|379a27e3537f8b3c7dfce6cf212ab6ef
 2025-09-27T06:30:22.794445+00:00|https://www.nytimes.com/2025/09/27/world/asia/south-korea-fire-government-data-center.html|fire at south korean government building causes nationwide outages us news|10cbb2b8f7167d9dfe68902297da1fc6
 2025-09-27T08:57:42.260812+00:00|https://www.nytimes.com/2025/09/27/us/colombia-petro-visa-palestine.html|us says it will revoke colombian presidents visa us news|e22bd4c029f012a5a89205168e272449
+2025-09-27T09:38:38.712719+00:00|https://www.nbcnews.com/news/news-quiz/kamala-harris-memoir-news-quiz-rcna233757|kamala harris calls out fellow democrats and jimmy kimmels ratings bonanza us news|509c1603d2d064062cadc32ac3b822c1
+2025-09-27T09:38:39.292310+00:00|https://www.nbcnews.com/politics/donald-trump/economic-anxiety-trump-democrats-rcna229872|economic anxiety grows under trump creating a new political liability for the gop us news|3887b1c1e430fa78aaf3dbb9bf83cfeb
