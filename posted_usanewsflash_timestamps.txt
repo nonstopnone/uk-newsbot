@@ -3598,3 +3598,5 @@
 2025-09-27T11:57:43.358720+00:00|https://www.nbcnews.com/tech/tech-news/us-rejects-international-ai-oversight-un-general-assembly-rcna233478|us rejects international ai oversight at un general assembly us news|79d12712f298d6f589abadba9e9db296
 2025-09-27T12:41:51.608967+00:00|https://www.nytimes.com/2025/09/26/us/justice-department-fani-willis-trump.html|justice dept seeks information on fani willis georgia da who prosecuted trump us news|e6aade58e539a45bfdd9b8de98fa23f1
 2025-09-27T12:41:52.453640+00:00|https://www.nytimes.com/2025/09/27/us/politics/trump-comey-vindictive-prosecution.html|trumps repeated attacks may undercut case against comey us news|38ee6f627b2650045414c4bbd44dff52
+2025-09-27T13:28:18.552989+00:00|https://www.bbc.com/news/articles/cr4q5xrz9dpo|fbi fires agents pictured kneeling at george floyd protest us media reports us news|3a70b62055dff9ee5005ae4dbe88324f
+2025-09-27T13:28:19.112162+00:00|https://www.nytimes.com/2025/09/27/us/politics/kash-patel-fbi-firing.html|fbi fires more agents including those who knelt during racial justice protests us news|10d2bc421fb55494454b30b53f57766e
