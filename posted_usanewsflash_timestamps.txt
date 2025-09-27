@@ -3602,3 +3602,5 @@
 2025-09-27T13:28:19.112162+00:00|https://www.nytimes.com/2025/09/27/us/politics/kash-patel-fbi-firing.html|fbi fires more agents including those who knelt during racial justice protests us news|10d2bc421fb55494454b30b53f57766e
 2025-09-27T15:38:44.559166+00:00|https://www.nbcnews.com/politics/trump-administration/trump-portland-troops-hegseth-ice-defense-secretary-rcna234082|trump directs defense secretary to deploy troops to portland us news|f0b15767445f8cd4fb2bde8890e04ff6
 2025-09-27T15:57:31.019534+00:00|https://www.bbc.com/news/articles/cddmn6ge6e2o|trump authorises full force as portland becomes latest city to see troops deployed us news|0c3ae026e0a958b036e82741b3809db7
+2025-09-27T16:57:40.123051+00:00|https://www.nytimes.com/2025/09/27/us/politics/trump-portland-troops.html|trump says he has ordered troops to portland oregon to protect ice facilities us news|592a0a94366e62d4cac90ed41edb3cd6
+2025-09-27T16:57:40.708333+00:00|https://www.nbcnews.com/video/shorts/north-carolina-businesses-continue-helene-recovery-248513093565|north carolina businesses continue helene recovery us news|65363626327daec75375f1d6b74e2ea2
