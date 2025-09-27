@@ -3600,3 +3600,4 @@
 2025-09-27T12:41:52.453640+00:00|https://www.nytimes.com/2025/09/27/us/politics/trump-comey-vindictive-prosecution.html|trumps repeated attacks may undercut case against comey us news|38ee6f627b2650045414c4bbd44dff52
 2025-09-27T13:28:18.552989+00:00|https://www.bbc.com/news/articles/cr4q5xrz9dpo|fbi fires agents pictured kneeling at george floyd protest us media reports us news|3a70b62055dff9ee5005ae4dbe88324f
 2025-09-27T13:28:19.112162+00:00|https://www.nytimes.com/2025/09/27/us/politics/kash-patel-fbi-firing.html|fbi fires more agents including those who knelt during racial justice protests us news|10d2bc421fb55494454b30b53f57766e
+2025-09-27T15:38:44.559166+00:00|https://www.nbcnews.com/politics/trump-administration/trump-portland-troops-hegseth-ice-defense-secretary-rcna234082|trump directs defense secretary to deploy troops to portland us news|f0b15767445f8cd4fb2bde8890e04ff6
