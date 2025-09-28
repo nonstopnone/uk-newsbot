@@ -3621,3 +3621,5 @@
 2025-09-28T01:57:07.551126+00:00|https://www.nbcnews.com/video/shorts/at-least-four-dead-in-arizona-flash-flood-emergency-248521285562|at least four dead in arizona flash flood emergency us news|dc5caa9ee2ef17874a220589ffb14521
 2025-09-28T03:11:30.749943+00:00|https://www.nytimes.com/2025/09/27/us/yogurt-shop-murders-dna-serial-killer.html|a man is linked to the brutal yogurt shop murders 34 years ago us news|b0e6e83f6ffdf7373be3daf3d10c088b
 2025-09-28T04:26:23.069840+00:00|https://abcnews.go.com/US/3-dead-8-injured-after-shooter-boat-opens/story|3 dead 8 injured after shooter in boat opens fire on nc waterfront bar official us news|cc2fab1664193b4b92428e3ac3a4e409
+2025-09-28T05:21:15.131311+00:00|https://www.nbcnews.com/news/us-news/3-dead-8-injured-person-shot-boat-north-carolina-waterfront-bar-rcna234168|3 dead and 8 injured as shooter fires from boat at a north carolina waterfront bar officials say us news|985e64f564fdbcd1ae9e9beef10b8bec
+2025-09-28T05:21:15.808726+00:00|https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html|gunman fires on riverside bar in north carolina from boat killing 3 us news|c9e0da48367690b81d49ef379336b359
