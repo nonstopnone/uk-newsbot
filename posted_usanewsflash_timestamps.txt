@@ -3648,3 +3648,4 @@
 2025-09-28T21:57:35.484451+00:00|https://www.nytimes.com/2025/09/28/us/missouri-redistricting-governor-congress.html|missouri governor signs congressional map redrawn to boost republicans us news|159e43bf66b2a627b20be0e1f6e89683
 2025-09-28T21:57:36.005795+00:00|https://www.nbcnews.com/video/michigan-church-shooting-leaves-at-least-2-dead-multiple-injured-248543813638|michigan church shooting leaves 2 people dead 8 injured us news|b1e072018147f354df77cbba3872eda1
 2025-09-28T21:57:36.539458+00:00|https://www.nytimes.com/2025/09/28/world/venezuela-trump-comey-russia-ukraine-drones.html|venezuela america and the specter of regime change us news|50da5551beb7a5c90f9332b5b8d4a13b
+2025-09-28T22:40:24.759820+00:00|https://www.nbcnews.com/video/shorts/2-dead-8-injured-after-michigan-church-shooting-248544837601|2 dead 8 injured after michigan church shooting us news|86f56ba4298d50b8d28c978ccc5aa079
