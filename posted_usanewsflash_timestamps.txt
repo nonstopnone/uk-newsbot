@@ -3645,3 +3645,6 @@
 2025-09-28T20:22:59.066823+00:00|https://www.nbcnews.com/video/shorts/new-york-city-mayor-eric-adams-drops-out-of-mayoral-race-248538181995|new york city mayor eric adams drops out of mayoral race us news|dfe70bfec9678135e9d04690047bed57
 2025-09-28T20:57:26.027031+00:00|https://www.bbc.com/news/articles/cn761nkz6l5o|eric adams ends reelection bid for new york city mayor us news|9c31b88cb4f7e9a8393aa557b0c96107
 2025-09-28T21:18:36.110618+00:00|https://www.nytimes.com/2025/09/28/nyregion/eric-adams-profile-personality.html|swaggering scandalous strange there will never be another eric adams us news|d4747675d8e7fc7921023b57ae64697a
+2025-09-28T21:57:35.484451+00:00|https://www.nytimes.com/2025/09/28/us/missouri-redistricting-governor-congress.html|missouri governor signs congressional map redrawn to boost republicans us news|159e43bf66b2a627b20be0e1f6e89683
+2025-09-28T21:57:36.005795+00:00|https://www.nbcnews.com/video/michigan-church-shooting-leaves-at-least-2-dead-multiple-injured-248543813638|michigan church shooting leaves 2 people dead 8 injured us news|b1e072018147f354df77cbba3872eda1
+2025-09-28T21:57:36.539458+00:00|https://www.nytimes.com/2025/09/28/world/venezuela-trump-comey-russia-ukraine-drones.html|venezuela america and the specter of regime change us news|50da5551beb7a5c90f9332b5b8d4a13b
