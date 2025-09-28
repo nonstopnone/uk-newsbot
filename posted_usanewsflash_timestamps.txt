@@ -3640,3 +3640,5 @@
 2025-09-28T17:57:25.371103+00:00|https://www.nbcnews.com/video/michigan-suspect-deliberately-set-fire-to-church-and-opened-fire-during-service-248537157666|michigan suspect deliberately set fire to church and opened fire during service us news|57b1e8f25c579ca807807dd794f30e0e
 2025-09-28T18:28:39.871727+00:00|https://www.nbcnews.com/video/shorts/at-least-one-person-killed-in-michigan-church-shooting-248535109805|at least one person killed in michigan church shooting us news|6a80c58eec4bc959568d2bf2fd025efe
 2025-09-28T18:28:40.481783+00:00|https://abcnews.go.com/US/eric-adams-ends-campaign-new-york-city-mayor/story|eric adams ends campaign for new york city mayor us news|ce38662c99b390b2f5d2a65f6997646f
+2025-09-28T19:38:30.411932+00:00|https://www.nytimes.com/2025/09/28/us/portland-trump-ice-protests.html|trumps plan to send troops to portland oregon prompts frustration us news|3219d5c8e743afb648ffca111bfe328e
+2025-09-28T19:38:31.150637+00:00|https://www.nytimes.com/2025/09/28/us/politics/abrego-garcia-detention-center-pennsylvania.html|abrego garcia moved to detention center in pennsylvania us news|7e69b7f3d034b29f1705e9a15d209b78
