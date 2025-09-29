@@ -3716,3 +3716,6 @@
 2025-09-29T21:57:46.724126+00:00|https://www.nytimes.com/2025/09/29/realestate/eric-adams-nyc-mayor.html|what eric adams has said as an outspoken mayor of new york city us news|4f051fc40aab24a1ff4a0f1c3dc6a461
 2025-09-29T22:18:43.266546+00:00|https://www.nytimes.com/2025/09/29/us/politics/trump-comey-escalating-conflict.html|trump and comey an escalating conflict with no offramp us news|d14e97cfd5c352bea54123e69ad49e5f
 2025-09-29T22:18:43.928410+00:00|https://www.nytimes.com/2025/09/29/technology/youtube-trump-lawsuit-settlement.html|youtube settles trump lawsuit for $245 million us news|afb7c933c66e5cfd780d2774fe85d66e
+2025-09-29T22:38:41.716148+00:00|https://www.nytimes.com/2025/09/29/us/yogurt-shop-murders-solved-dna.html|shell casings and dna on fingernails helped crack yogurt shop murder case us news|b4bf1b8379443dd39eb6074387195d95
+2025-09-29T22:38:42.339180+00:00|https://abcnews.go.com/Politics/youtube-agrees-pay-245-million-settle-trump-lawsuit/story|youtube agrees to pay $245 million to settle trump lawsuit court filing us news|39826891326360b7e00f2d8eef3ff8c5
+2025-09-29T22:38:42.938761+00:00|https://www.nytimes.com/2025/09/29/briefing/trump-plan-israel-gaza-government-shutdown.html|israels leader backed trumps plan to end the war in gaza us news|bf4ee639d16c069c356675fb1d5eff37
