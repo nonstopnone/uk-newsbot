@@ -3713,3 +3713,4 @@
 2025-09-29T20:57:51.925560+00:00|https://www.bbc.com/news/articles/c62n45v0rz2o|what we know about michigan church shooting and arson attack us news|76eeb2d9fb29639a6d51a968a6b1ca25
 2025-09-29T21:38:52.374354+00:00|https://www.nytimes.com/2025/09/29/technology/california-ai-safety-law.html|californias gavin newsom signs major ai safety law us news|f4df65e3690c0bd19abb7b5f5e85623f
 2025-09-29T21:38:53.062841+00:00|https://www.nbcnews.com/video/shorts/here-s-the-scoop-pete-hegseth-s-gathering-of-generals-248677445759|heres the scoop pete hegseths gathering of generals us news|d6100b35ada85812327bed55f34c794e
+2025-09-29T21:57:46.724126+00:00|https://www.nytimes.com/2025/09/29/realestate/eric-adams-nyc-mayor.html|what eric adams has said as an outspoken mayor of new york city us news|4f051fc40aab24a1ff4a0f1c3dc6a461
