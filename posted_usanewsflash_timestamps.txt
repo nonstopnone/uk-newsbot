@@ -3693,3 +3693,7 @@
 2025-09-29T14:24:24.394248+00:00|https://www.bbc.com/news/articles/ceq2vd15glwo|death toll rises to four after michigan church shooting and arson attack us news|935460fb1de734f1b4dc04c9afc7bfb1
 2025-09-29T16:24:06.384958+00:00|https://www.nytimes.com/2025/09/29/climate/trump-coal-revival.html|mine baby mine trump officials offer $625 million to rescue coal us news|6cd5bff78482c81f6cdcc5c3f8bc8bbf
 2025-09-29T16:40:23.784252+00:00|https://abcnews.go.com/US/video/trump-after-indictment-former-fbi-director-comey-126044072|watch trump says there will be others after indictment of former fbi director comey us news|7ac3dfb5eca730f832ea4f4ba198474c
+2025-09-29T16:57:47.413646+00:00|https://www.bbc.com/news/articles/c4g78e809zqo|trump renews threat to impose 100 tariffs on nonus made movies us news|7d42d47f1d06c300caea46a9dbb7f875
+2025-09-29T16:57:47.966483+00:00|https://www.nbcnews.com/video/shorts/netanyahu-arrives-for-white-house-meeting-with-trump-248651333793|netanyahu arrives for white house meeting with trump us news|9798f80dbef99e32091b863fedae596e
+2025-09-29T16:57:48.501692+00:00|https://www.nytimes.com/2025/09/29/nyregion/eric-adams-black-voters.html|what adamss exit means for black political power in new york us news|6a0c7ef8bccac8da3e9481b3556de228
+2025-09-29T16:57:49.057073+00:00|https://www.nytimes.com/2025/09/29/us/michigan-church-attack.html|investigators seek motive for michigan church attack that killed 4 us news|7417850acabb7fcd839cc06f38038e41
