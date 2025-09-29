@@ -3701,3 +3701,5 @@
 2025-09-29T17:20:51.489922+00:00|https://www.nytimes.com/2025/09/29/us/politics/schumer-thune-jeffries-johnson-shutdown.html|spending fight puts leaders in congress in a tough spot us news|64c4d0e3ca1e10769b8f2bb37265dc5a
 2025-09-29T17:57:28.001548+00:00|https://abcnews.go.com/US/video/trump-meet-top-democrats-shutdown-looms-126044319|watch trump to meet with top democrats as shutdown looms us news|524577a8fc42238ecaac28c23d3c5071
 2025-09-29T17:57:28.686707+00:00|https://abcnews.go.com/US/video/sheriff-praises-response-day-saints-chapel-shooting-126046114|watch sheriff praises response to latterday saints chapel shooting us news|54ed861a56305f271a27b24524717aa1
+2025-09-29T18:33:58.775484+00:00|https://abcnews.go.com/Politics/trump-hold-high-stakes-meeting-democrats-government-shutdown/story|trump to hold highstakes meeting with democrats as government shutdown looms us news|a4dfd0145ca6c735093342dcc55803f1
+2025-09-29T18:33:59.302740+00:00|https://www.nytimes.com/2025/09/29/us/politics/trey-reed-hanging-mississippi.html|death of trey reed a black man in mississippi strikes nerves in the us us news|6bb688921216cf89b2d4b4169791a8cb
