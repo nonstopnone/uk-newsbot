@@ -3671,3 +3671,6 @@
 2025-09-29T07:57:43.856658+00:00|https://www.bbc.com/news/articles/c9wdqrv00k0o|bad bunny revealed as super bowl halftime show performer us news|fa9461509b4d45db8011c973e8bef506
 2025-09-29T08:34:13.470584+00:00|https://www.bbc.com/news/articles/cp8jrppk3l3o|russell m nelson head of church of latterday saints dies aged 101 us news|f0db868139ff094a222cf716b364bc06
 2025-09-29T08:34:14.147856+00:00|https://www.nbcnews.com/video/shorts/bad-bunny-to-headline-super-bowl-60-halftime-show-248574533900|bad bunny to headline super bowl 60 halftime show us news|ab5205ff1841fef3c7ad1028ed25b4dc
+2025-09-29T09:43:10.180726+00:00|https://www.nbcnews.com/politics/congress/government-shutdown-deadline-trump-congress-leaders-meeting-rcna233889|government shutdown looms ahead of a highstakes white house meeting us news|719406c367561da11c7f3c26d81c9355
+2025-09-29T09:43:10.681642+00:00|https://abcnews.go.com/US/investigators-probe-motive-michigan-church-shooting-fire/story|investigators probe for motive in michigan lds church shooting fire us news|4cf4ac5fa198938dbd078d75c5a13b53
+2025-09-29T09:43:11.167519+00:00|https://www.nbcnews.com/news/us-news/sarah-hartsfield-murder-trial-rcna234022|murder trial set to open for woman accused of husbands death years after another partner was killed us news|4d6ffe0e805fb2a20be0e8f285949e62
