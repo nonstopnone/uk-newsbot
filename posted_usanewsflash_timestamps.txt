@@ -3682,3 +3682,5 @@
 2025-09-29T10:26:20.683330+00:00|https://www.nytimes.com/2025/09/29/us/im-from-here-us-citizens-are-ending-up-in-trumps-dragnet.html|im from here us citizens are ending up in trumps dragnet us news|d83371d0dd6fb8a39ed950baa3d57fd1
 2025-09-29T10:26:21.339636+00:00|https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-federal-services-mail-parks.html|which federal benefits and services continue during a government shutdown us news|fdac12734c4035a0a90d7c5ba7d1c234
 2025-09-29T10:44:56.134955+00:00|https://www.nytimes.com/2025/09/29/us/michigan-mormon-church-shooting-fire.html|michigan church shooting and fire what we know us news|cdcd3517a313db9365b8b0bc199beecd
+2025-09-29T11:18:57.940279+00:00|https://www.nytimes.com/2025/09/29/briefing/trumps-tactics-on-crime.html|trumps tactics on crime us news|0264b01f79a3377690d56ed1d767ca5d
+2025-09-29T11:18:58.513378+00:00|https://www.nytimes.com/2025/09/29/podcasts/the-headlines/government-shutdown-portland.html|a government shutdown standoff and trumps plans for warravaged portland us news|beac113167e1e59ee243fc3ea7c11130
