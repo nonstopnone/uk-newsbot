@@ -3684,3 +3684,7 @@
 2025-09-29T10:44:56.134955+00:00|https://www.nytimes.com/2025/09/29/us/michigan-mormon-church-shooting-fire.html|michigan church shooting and fire what we know us news|cdcd3517a313db9365b8b0bc199beecd
 2025-09-29T11:18:57.940279+00:00|https://www.nytimes.com/2025/09/29/briefing/trumps-tactics-on-crime.html|trumps tactics on crime us news|0264b01f79a3377690d56ed1d767ca5d
 2025-09-29T11:18:58.513378+00:00|https://www.nytimes.com/2025/09/29/podcasts/the-headlines/government-shutdown-portland.html|a government shutdown standoff and trumps plans for warravaged portland us news|beac113167e1e59ee243fc3ea7c11130
+2025-09-29T12:51:25.516137+00:00|https://www.today.com/video/white-house-threatens-layoffs-if-government-shuts-down-248607301601|white house threatens layoffs if government shuts down us news|ad84921ebc2050b47d44fac0a30da7e5
+2025-09-29T12:51:26.219615+00:00|https://www.today.com/video/michigan-church-shooting-leaves-at-least-4-dead-8-injured-248604229974|police identify suspect in deadly michigan church attack us news|7894cb37cb11108e11fd1832ee00120a
+2025-09-29T12:51:26.977786+00:00|https://www.today.com/video/bad-bunny-to-headline-super-bowl-60-halftime-show-in-2026-248612933947|bad bunny to headline super bowl 60 halftime show in 2026 us news|c865bf69677272b783b99fa03d17bbe9
+2025-09-29T12:51:27.747800+00:00|https://www.nytimes.com/es/2025/09/29/espanol/mundo/venezuela-estados-unidos-y-el-espectro-del-cambio-de-regimen.html|venezuela estados unidos y el espectro del cambio de régimen us news|8fc8c2a0740bad2b1bb42f4f1a4f1cc2
