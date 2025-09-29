@@ -3699,3 +3699,5 @@
 2025-09-29T16:57:49.057073+00:00|https://www.nytimes.com/2025/09/29/us/michigan-church-attack.html|investigators seek motive for michigan church attack that killed 4 us news|7417850acabb7fcd839cc06f38038e41
 2025-09-29T17:20:50.794805+00:00|https://www.bbc.com/news/articles/crrj1znp0pyo|why the us government might shut down and what to know us news|625805a75879d604fa22c7cfb1db2f37
 2025-09-29T17:20:51.489922+00:00|https://www.nytimes.com/2025/09/29/us/politics/schumer-thune-jeffries-johnson-shutdown.html|spending fight puts leaders in congress in a tough spot us news|64c4d0e3ca1e10769b8f2bb37265dc5a
+2025-09-29T17:57:28.001548+00:00|https://abcnews.go.com/US/video/trump-meet-top-democrats-shutdown-looms-126044319|watch trump to meet with top democrats as shutdown looms us news|524577a8fc42238ecaac28c23d3c5071
+2025-09-29T17:57:28.686707+00:00|https://abcnews.go.com/US/video/sheriff-praises-response-day-saints-chapel-shooting-126046114|watch sheriff praises response to latterday saints chapel shooting us news|54ed861a56305f271a27b24524717aa1
