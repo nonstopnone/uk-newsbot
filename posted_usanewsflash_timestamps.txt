@@ -3664,3 +3664,5 @@
 2025-09-29T02:57:14.293737+00:00|https://www.nytimes.com/2025/09/28/us/politics/trump-wray-fbi.html|trump raises possibility of inquiry into wray another former fbi director us news|c0a0736cd44ceee102544bd23de13f08
 2025-09-29T02:57:15.038015+00:00|https://www.nytimes.com/2025/09/28/arts/music/bad-bunny-super-bowl-halftime.html|bad bunny will headline super bowl halftime show us news|d2a9c5ae0cf934021c0fb32ad4c87436
 2025-09-29T03:38:32.589039+00:00|https://www.nbcnews.com/sports/nfl/bad-bunny-will-headline-super-bowl-60-halftime-show-rcna234334|bad bunny will headline super bowl 60 halftime show us news|65f9c66a30f61783afbbb3389cc5ae01
+2025-09-29T04:28:11.776125+00:00|https://www.nbcnews.com/news/us-news/what-we-know-thomas-jacob-sanford-suspect-michigan-church-shooting-rcna234309|what we know about the suspect in the deadly michigan church shooting us news|25c9b06115907b6d8d1f43b286030eeb
+2025-09-29T04:28:12.240626+00:00|https://www.nbcnews.com/video/church-members-recount-michigan-attack-248555589777|bodies lying on the sidewalk church members recount michigan attack us news|3d20b48ecd48203856dec101e45a5f3f
