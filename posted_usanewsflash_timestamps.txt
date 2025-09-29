@@ -3690,3 +3690,4 @@
 2025-09-29T12:51:27.747800+00:00|https://www.nytimes.com/es/2025/09/29/espanol/mundo/venezuela-estados-unidos-y-el-espectro-del-cambio-de-regimen.html|venezuela estados unidos y el espectro del cambio de régimen us news|8fc8c2a0740bad2b1bb42f4f1a4f1cc2
 2025-09-29T13:21:10.224696+00:00|https://www.nytimes.com/2025/09/28/business/field-of-dreams.html|still cashing in on the field of dreams us news|b18b1c7b56517d1d597bc249b01b9d40
 2025-09-29T13:21:11.032152+00:00|https://www.nbcnews.com/video/world-s-tallest-bridge-officially-opens-in-china-248606277959|worlds tallest bridge officially opens in china us news|3733588454d45c1e436df228ba27b51f
+2025-09-29T14:24:24.394248+00:00|https://www.bbc.com/news/articles/ceq2vd15glwo|death toll rises to four after michigan church shooting and arson attack us news|935460fb1de734f1b4dc04c9afc7bfb1
