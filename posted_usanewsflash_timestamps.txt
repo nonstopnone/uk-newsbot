@@ -3805,3 +3805,6 @@
 2025-09-30T22:20:46.596123+00:00|https://www.nytimes.com/2025/09/30/nyregion/nj-governors-race-naval-academy-cheating-scandal.html|release of democrats naval record scrambles a tight governors race us news|41a775af73f8eccb72d20e86922144dc
 2025-09-30T22:20:47.133665+00:00|https://www.nbcnews.com/video/shorts/a-look-at-medicaid-work-requirements-in-georgia-248769093904|a look at medicaid work requirements in georgia us news|0ee1778369c7cf616c1f4366910cfc2f
 2025-09-30T23:20:28.982094+00:00|https://www.nytimes.com/2025/09/30/nyregion/journalist-injured-immigration-courthouse.html|journalist injured in chaotic scene at new york immigration court us news|3e7e40c0e173383f47b6f448dfe3dfd2
+2025-09-30T23:57:31.737754+00:00|https://www.nytimes.com/2025/09/30/us/politics/immigration-fraud-minnesota.html|scores accused of immigration fraud in federal sweep in minnesota us news|286b77d6c7f3a687fce84520f11d8f85
+2025-09-30T23:57:32.405683+00:00|https://www.nytimes.com/2025/09/30/us/des-moines-ian-roberts-resign.html|ian roberts arrested by ice plans to resign as schools superintendent in iowa us news|969a4f6f736d3f26cc1bf58146957410
+2025-09-30T23:57:33.082465+00:00|https://www.nytimes.com/2025/09/30/nyregion/terrorism-funds-hochul-noem.html|trump cuts to counterterrorism funds for new york reach $187 million us news|4d0de8ac3f4a36c22e6e14c208bd9b85
