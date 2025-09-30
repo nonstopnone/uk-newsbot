@@ -3735,3 +3735,4 @@
 2025-09-30T04:27:46.236610+00:00|https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html|government shutdown appears imminent after trump meets with democrats us news|f56c8a53e94dca5b70dae29f0c1a90e5
 2025-09-30T04:57:52.149028+00:00|https://www.nytimes.com/2025/09/30/world/middleeast/us-iran-deportation-flight.html|us deports planeload of iranians after deal with tehran officials say us news|a711f8664075a591426c5611e69a18bd
 2025-09-30T04:57:52.901642+00:00|https://www.nbcnews.com/video/shorts/illinois-gov-pritzker-slams-trump-over-ice-raids-248708165609|illinois gov pritzker slams trump over ice raids us news|54d4c4aaadd13880c554fc302d41fad8
+2025-09-30T06:35:29.994551+00:00|https://abcnews.go.com/US/wireStory/california-woman-violently-arrested-sheriffs-deputies-secures-17-126064480|california woman violently arrested by sheriffs deputies secures $17m us news|b9d11099ba94649950ab21c5289bbccd
