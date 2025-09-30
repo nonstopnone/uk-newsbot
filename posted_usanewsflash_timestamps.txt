@@ -3759,3 +3759,8 @@
 2025-09-30T12:51:25.386167+00:00|https://www.bbc.com/news/articles/cgrql7gd10do|us deporting 120 iranians after deal struck with tehran iran says us news|732e0d31c4faf9a2bc65328e7d7d50db
 2025-09-30T12:51:26.053639+00:00|https://abcnews.go.com/US/2nd-detainee-dies-week-after-dallas-ice-facility/story|2nd detainee dies a week after dallas ice facility shooting us news|a7fb746dbeb5147900f5c019b1db796f
 2025-09-30T12:51:26.773716+00:00|https://www.today.com/video/imelda-upgraded-to-a-hurricane-as-it-moves-away-from-us-248726597833|imelda upgraded to a hurricane as it moves away from us us news|84b9c54b5c5e3f0167bb0fe5f31e571f
+2025-09-30T13:21:09.449630+00:00|https://www.nytimes.com/2025/09/30/us/dallas-ice-shooting-death-miguel-angel-garcia-hernandez.html|second victim of dallas ice shooting dies us news|e21dccc26621ae99d14a38fbc9020bd9
+2025-09-30T13:21:10.028867+00:00|https://abcnews.go.com/Politics/us-government-shut-midnight/story|the us government may shut down at midnight heres what to know us news|480edcaa8bd395a0c05619dd116c6876
+2025-09-30T13:21:10.648055+00:00|https://www.nbcnews.com/news/us-news/2nd-detainee-dies-dallas-ice-facility-shooting-rcna234658|2nd detainee dies after dallas ice facility shooting us news|40740e5f1adb28ab983060c195f53f06
+2025-09-30T13:21:11.280672+00:00|https://www.nytimes.com/2025/09/30/briefing/trumps-plan-to-end-the-war-in-gaza.html|trumps plan to end the war in gaza us news|311cf137310cd71f145f841b2ec13c60
+2025-09-30T13:21:11.842912+00:00|https://www.nytimes.com/2025/09/30/world/middleeast/huckabee-egypt-israel-gaza.html|ambassador mike huckabee postpones rare visit to egypt us news|f579174b0a5b83cff0a364d6ee55232b
