@@ -3753,3 +3753,6 @@
 2025-09-30T11:19:20.721151+00:00|https://www.bbc.com/news/articles/cvgq044n72po|trump and hegseth to address top us generals in unusual military gathering us news|2451c2742b8275ebbaa9eedcf5c309f0
 2025-09-30T11:19:21.305151+00:00|https://www.msnbc.com/way-too-early/watch/white-house-unveils-20-point-gaza-peace-plan-248721989549|white house unveils 20point gaza peace plan us news|c2edefcec3cc71426701b79063bbb753
 2025-09-30T11:19:21.874934+00:00|https://www.nbcnews.com/video/indonesian-rescuers-look-for-survivors-after-school-collapse-248718405651|indonesian rescuers look for survivors after school collapse us news|e1016eced95bc4c284bbfee2467b65d5
+2025-09-30T11:57:39.416265+00:00|https://www.today.com/video/tropical-storm-imelda-turns-away-from-us-248720965984|hurricane humberto pulls tropical storm imelda away from us us news|6ef5c0d98ccb4895d01984d18603e20d
+2025-09-30T11:57:40.198686+00:00|https://www.today.com/video/trump-mocks-dems-with-ai-video-as-shutdowns-looms-248723525505|government appears poised to shut down what to know us news|fa00747de2b3f94d57af719808adfa61
+2025-09-30T11:57:40.909087+00:00|https://www.today.com/video/trump-says-israel-has-full-backing-if-hamas-rejects-peace-deal-248721989993|trump says israel has full backing if hamas rejects peace deal us news|78b61c0e7060ac8b474157d31923ff33
