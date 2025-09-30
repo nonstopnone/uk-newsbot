@@ -3794,3 +3794,6 @@
 2025-09-30T18:30:54.143623+00:00|https://www.nytimes.com/2025/09/30/world/asia/trump-afghanistan-hostages.html|us officials see hostage release as promising sign for deal with taliban us news|e95266604d76e7345842d37aa3f43415
 2025-09-30T18:47:24.684320+00:00|https://www.nbcnews.com/video/shorts/hegseth-s-speech-to-reshape-the-military-in-2-minutes-248754245582|hegseths speech to reshape the military in 2 minutes us news|d7e9c9a4be5074d675d39cb8f20fced0
 2025-09-30T18:47:25.210220+00:00|https://www.nytimes.com/2025/09/30/world/middleeast/trump-gaza-plan.html|trumps gaza plan what we know us news|50aaf90b5fec452a4da1f45b93654ec8
+2025-09-30T19:57:29.216878+00:00|https://www.nytimes.com/2025/09/30/health/trump-pfizer-trumprx-medications.html|trump announces pfizer deal to lower some drug prices and unveils trumprx website us news|9fd2e44e006dd214f14077a754af3f6d
+2025-09-30T19:57:29.720481+00:00|https://www.nytimes.com/2025/09/30/us/politics/student-speech-palestinians-ruling.html|judge rules trump unlawfully targeted noncitizens over propalestinian speech us news|5e3ddb471cc3e7eaef85ced7a5aeed3e
+2025-09-30T19:57:30.232647+00:00|https://www.nytimes.com/2025/09/30/us/politics/trump-speech-military-takeaways.html|5 takeaways from trumps address to top military leaders us news|81149691b6e687a9f86eeeda28ec6074
