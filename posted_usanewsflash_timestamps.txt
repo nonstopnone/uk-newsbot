@@ -3732,3 +3732,4 @@
 2025-09-30T02:49:18.430487+00:00|https://abcnews.go.com/Politics/trump-suggests-false-claims-fbi-agents-involvement-jan/story|trump suggests fbi agents involvement in jan 6 warrants wray investigation us news|334193b479f336d62331c7459f791b73
 2025-09-30T02:49:19.131587+00:00|https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html|lally weymouth globetrotting reporter and scion of graham family dies at 82 us news|f0efbc09a4e3955df1cc7a39ec6d73df
 2025-09-30T03:48:25.798667+00:00|https://www.nytimes.com/2025/09/29/business/economy/tariffs-cabinets-furniture-lumber-trump.html|trump officials flesh out tariffs on kitchen cabinets furniture and timber us news|0740d5132210a2fd0ebf08c0445496f9
+2025-09-30T04:27:46.236610+00:00|https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html|government shutdown appears imminent after trump meets with democrats us news|f56c8a53e94dca5b70dae29f0c1a90e5
