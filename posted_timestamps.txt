@@ -1,8 +1,3 @@
-2025-09-23T16:35:33.145698+00:00|https://www.bbc.com/weather/articles/cd72r5ynr9jo|could hurricane gabrielle hit the uk this weekend|fd0fe6bc2ab5042b39350d375e27bfdc
-2025-09-23T16:36:13.883390+00:00|https://www.bbc.com/news/articles/cx2xnkkn9ywo|amazon to close its uk grocery stores|7a083081d8bbb40045695a264a2cc439
-2025-09-23T16:36:54.892946+00:00|https://news.sky.com/story/afghanistan-internet-ban-extinguishing-the-only-light-that-still-reaches-us-13436723|afghanistan internet ban extinguishing the only light that still reaches us|dbaa53eac9668164420a35991a71a6b9
-2025-09-23T16:37:35.628061+00:00|https://news.sky.com/story/copenhagen-drone-incursion-fits-russian-pattern-danish-pm-says-13436745|copenhagen drone incursion fits russian pattern danish pm says|b30dc7503831e2522aabb5dac4d8f7ec
-2025-09-23T16:38:16.605057+00:00|https://www.telegraph.co.uk/recommended/home/garden/the-best-hedge-trimmers|the best hedge trimmers for 2025 tested by a gardener|4fd13359e2053fb4005028cb5c00db4b
 2025-09-23T16:50:26.938315+00:00|https://www.bbc.com/news/articles/c87yey5neggo|supercomplaint launched against all insurance companies over customers rejected claims|4ee93cb8ac446ea2cdd5a32184a5b342
 2025-09-23T19:08:38.216656+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/gates-foundation-global-fund-donor-aid-budget-uk-health|gates foundation pledges $1bn to fund fighting hiv tb and malaria piling pressure on uk|f8e5016ade2e04dc990fd39f86c01ea6
 2025-09-23T22:17:29.625518+00:00|https://www.bbc.com/news/articles/cx2jpmk0lvgo|how i found the confidence to leave my abusive husband after 47 years|3b75aa62d98580f9b6690f3e50dc6060
@@ -91,3 +86,4 @@
 2025-09-30T15:34:35.331873+00:00|https://www.bbc.com/news/articles/cdr6m8dyj8no|southport killer bought ferocious weapon online|b4df4f50c5a5eabe20fc43c19ad7fd0b
 2025-09-30T15:46:07.818953+00:00|https://www.telegraph.co.uk/recommended/tech/reviews/amazon-prime-review|ive paid for amazon prime for a decade and this is what ive learned|da5e06a2cd88f410e27ef412e46fd986
 2025-09-30T16:28:22.108130+00:00|https://news.sky.com/story/dashcam-snitches-send-driver-fines-skyrocketing-13441645|dashcam snitches send driver fines skyrocketing|b13dbdedbb2a5e8653e9e161c00406aa
+2025-09-30T16:47:44.851177+00:00|https://www.bbc.com/news/articles/cy0411zdyk1o|police say family suffered violent deaths as man charged|5c815c52a2e98530ef9984f85fc0a051
