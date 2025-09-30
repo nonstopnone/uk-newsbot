@@ -3802,3 +3802,5 @@
 2025-09-30T20:57:46.214209+00:00|https://www.nytimes.com/2025/09/30/us/politics/harvard-response-trump.html|harvard blasts administration over distorted civil rights investigation us news|35c08c0634c0e44fd711c6325d8afb8e
 2025-09-30T20:57:46.896777+00:00|https://www.nytimes.com/2025/09/30/us/trump-harvard-deal.html|trump says a deal is close with harvard us news|1b6add1f1ce782cb4a33af414df139a3
 2025-09-30T21:20:16.984545+00:00|https://www.nbcnews.com/politics/congress/members-congress-still-get-paid-government-shutdown-rcna234676|members of congress still get paid during a government shutdown us news|a389b130d5f3ed0675a99a94fa9f02b1
+2025-09-30T22:20:46.596123+00:00|https://www.nytimes.com/2025/09/30/nyregion/nj-governors-race-naval-academy-cheating-scandal.html|release of democrats naval record scrambles a tight governors race us news|41a775af73f8eccb72d20e86922144dc
+2025-09-30T22:20:47.133665+00:00|https://www.nbcnews.com/video/shorts/a-look-at-medicaid-work-requirements-in-georgia-248769093904|a look at medicaid work requirements in georgia us news|0ee1778369c7cf616c1f4366910cfc2f
