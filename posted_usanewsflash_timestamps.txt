@@ -3817,3 +3817,4 @@
 2025-10-01T03:14:27.307110+00:00|https://www.nytimes.com/2025/09/30/us/politics/polarized-senate-shutdown-gridlock.html|a more polarized senate drives shutdown gridlock us news|181d8a9366ed5df849f796c42e3430e6
 2025-10-01T03:14:27.778062+00:00|https://www.nytimes.com/2025/09/30/technology/uber-sexual-assualt-bellwether-lawsuit.html|uber not responsible for sex assault jury finds as more cases follow us news|ebd8bf1df787b89d67f01c9242380f81
 2025-10-01T03:14:28.321885+00:00|https://www.nbcnews.com/politics/trump-administration/national-parks-remain-partially-open-government-shutdown-rcna234822|national parks to remain partially open during government shutdown us news|f5d994d051ab50a09ca77084ab524c02
+2025-10-01T03:49:06.873773+00:00|https://www.nbcnews.com/video/shorts/at-least-20-people-killed-in-philippines-earthquake-248798789856|at least 20 people killed in philippines earthquake us news|c5215dc7a894ac2c7ac9da3002e70905
