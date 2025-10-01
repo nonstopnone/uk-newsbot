@@ -3866,3 +3866,5 @@
 2025-10-01T17:57:34.857761+00:00|https://www.nytimes.com/2025/10/01/nyregion/yankees-red-sox-wild-card-bronx.html|did the yankees try to keep red sox fans out of the bronx us news|155895ed05aa5303d5cebe85ad673ae7
 2025-10-01T18:33:18.442295+00:00|https://www.nbcnews.com/now/video/vance-discusses-possibility-of-federal-firings-during-government-shutdown-248847429986|vance says shutdown firings are not targeting federal agencies based on politics us news|6b8a2e7b142df4ee1f362cbfa869b33a
 2025-10-01T18:33:19.093024+00:00|https://www.nytimes.com/2025/10/01/us/politics/washington-dc-ice.html|how washington became a testing ground for ice us news|6e38c08024695fc56558fe996a320cbb
+2025-10-01T18:49:39.448597+00:00|https://www.nbcnews.com/video/shorts/-we-are-going-to-have-to-lay-people-off-amid-shutdown-248847941821|we are going to have to lay people off amid shutdown us news|74e3eca63075d365cd7d3abc69c90170
+2025-10-01T18:49:39.962009+00:00|https://www.nytimes.com/2025/10/01/magazine/los-angeles-dodgers-trump-latinos.html|the dodgers united los angeles then the ice raids began us news|0cfcfe2140c663847b8bac8cad7600dc
