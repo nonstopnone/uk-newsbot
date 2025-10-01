@@ -1,4 +1,3 @@
-2025-09-24T11:41:17.118256+00:00|https://www.bbc.com/news/articles/cevz13xkxpro|huntingtons disease successfully treated for first time|9ff8f928f67c0223e7020172ad165a1d
 2025-09-24T15:56:11.929099+00:00|https://news.sky.com/story/royal-parks-responds-to-farages-claim-that-swans-are-being-eaten-by-eastern-europeans-in-the-uk-13437205|royal parks responds to farages claim that swans are being eaten by migrants in uk|3886dfed5cfc65330c9cb33bf5dc864f
 2025-09-26T15:39:34.373758+00:00|https://www.bbc.com/news/articles/cp8j7jnjd6ro|former lib dem leader menzies campbell dies aged 84|c5bfdf3dfabec55a57b290c261c52928
 2025-09-26T15:39:45.160138+00:00|https://www.bbc.com/news/articles/c30616ev66eo|nursery worker jailed over abuse of 21 babies|4e0386aafc6a3a961002ac555fd5349a
@@ -96,3 +95,6 @@
 2025-10-01T09:55:47.076578+00:00|https://news.sky.com/story/james-clacher-rapist-who-faked-death-and-fled-scotland-for-spain-jailed-13438426|rapist who faked death and fled uk but was caught thanks to tipoff to sky news jailed|0523738432f4717b99cc4140cad95a23
 2025-10-01T09:55:57.701233+00:00|https://news.sky.com/story/hunter-s-thompsons-death-to-be-reviewed-after-widows-request-colorado-officials-says-13442064|death of hunter s thompson to be reviewed after widows request officials say|3ab345a845b46930368824c517556613
 2025-10-01T11:41:05.628574+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/zambia-river-pollution-china-industrial-investment|its all dead now nothing will grow fish and hippos dissolve in polluted acid river|d4d20a239f41ac189ad6eb785ba663e3
+2025-10-01T11:56:07.318435+00:00|https://www.bbc.com/news/articles/c1792rk7ynko|baroness monelinked company ordered to pay £122m over ppe contract|f8e5814910f0e3e4714640a342ee8612
+2025-10-01T11:56:17.883579+00:00|https://www.bbc.com/news/articles/cj9zp3xpyw7o|former detective guilty of prison drone drug drops|0ddd90a0c9c46a001d4d151d85e4e72c
+2025-10-01T11:56:28.525528+00:00|https://www.bbc.com/news/articles/c36k2595k69o|ringleader of rochdale grooming gang jailed|ba4669c0639ad9242f2a81c1dcb96b91
