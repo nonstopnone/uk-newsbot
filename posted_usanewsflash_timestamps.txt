@@ -3874,3 +3874,5 @@
 2025-10-01T19:18:21.467161+00:00|https://www.nytimes.com/2025/10/01/world/middleeast/israel-gaza-trump-hamas.html|israel escalates gaza offensive as hamas mulls trump plan us news|7b893882c1b0b3ad5f5b686549d764ca
 2025-10-01T19:39:16.367298+00:00|https://www.bbc.com/news/articles/cdr6pnky7vyo|four ways this shutdown could end us news|2268cb0b0740875ec4eb947d76a6b717
 2025-10-01T20:25:52.036625+00:00|https://abcnews.go.com/US/doj-seeks-postpone-deadlines-abrego-garcias-deportation-case/story|doj seeks to postpone deadlines in abrego garcias deportation case us news|b6ccc37ca0401dc1b3e1196c9ca3ffd4
+2025-10-01T20:41:45.566074+00:00|https://www.nbcnews.com/video/shorts/vance-on-jeffries-sombrero-meme-i-think-it-s-funny-248852549750|vance on jeffries sombrero meme i think its funny us news|f8ef05f89979c26dcbeadde84a4ab343
+2025-10-01T20:41:46.176184+00:00|https://www.nbcnews.com/video/shorts/dems-don-t-trust-any-deal-without-trump-in-the-room-248861253567|dems dont trust any deal without trump in the room us news|dd9705bc032d156c74e04528ab850103
