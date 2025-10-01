@@ -3830,3 +3830,5 @@
 2025-10-01T09:57:41.337141+00:00|https://www.nytimes.com/2025/10/01/business/federal-reserve-shutdown.html|shutdown puts a divided fed in a perilous position us news|83e7c3c29140fe5272caf16c3a46db17
 2025-10-01T09:57:41.998762+00:00|https://www.nytimes.com/2025/10/01/business/government-shutdown-social-security-trump.html|how a government shutdown will affect social security us news|f41d799eb2a67c07ddf704ee06b004fe
 2025-10-01T10:25:04.722735+00:00|https://www.nytimes.com/2025/10/01/world/europe/russia-frozen-assets-ukraine-loan.html|moscow indicates retaliation if europe uses russian assets for ukraine us news|79ee020f3c872c591b6ef48e63b0be7b
+2025-10-01T11:39:49.427596+00:00|https://abcnews.go.com/US/video/us-government-shut-time-7-years-126108986|watch the us government has shut down for the first time in nearly 7 years us news|7e0d04e2ba94f4d7659684518576f3f3
+2025-10-01T11:39:49.965203+00:00|https://www.nytimes.com/2025/10/01/briefing/the-federal-government-shut-down-overnight.html|the federal government shut down overnight us news|b6421dbb6009618112849ab24812a85c
