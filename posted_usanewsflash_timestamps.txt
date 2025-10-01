@@ -3823,3 +3823,6 @@
 2025-10-01T05:41:59.759169+00:00|https://www.nytimes.com/2025/10/01/world/asia/south-korea-georgia-factory-visa.html|us eases visa restrictions on south korean workers us news|50c763a6b96bb13f8f3cc90acd1a5feb
 2025-10-01T06:35:11.502509+00:00|https://abcnews.go.com/International/wireStory/69-people-killed-powerful-earthquake-hit-philippines-126105342|at least 69 people killed in a powerful earthquake that hit the philippines us news|0fd1bcd3b984fff8b442101b6a5b2483
 2025-10-01T07:23:31.149014+00:00|https://www.bbc.com/news/articles/cn829deeje3o|bowen momentum is the strength of trumps gaza plan but lack of detail is its weakness us news|a102e88cde377e029f0844825eb299de
+2025-10-01T07:57:57.682948+00:00|https://www.bbc.com/news/articles/cgj1p485p0no|jobs travel national parks what impact will us shutdown have us news|622c32b010e0e7ce26c5e68fe57d4416
+2025-10-01T07:57:58.211769+00:00|https://www.bbc.com/news/articles/c3dr2e83x4zo|us government shuts down with path to reopening uncertain us news|f59489cd6a2f9ffb8d6eb71d37ab1f13
+2025-10-01T07:57:58.716208+00:00|https://www.bbc.com/news/videos/cy9n2dwlldyo|watch moment houses topple into the sea in north carolina us news|dff109ed7ef60921a473e0f1c8c1c0a4
