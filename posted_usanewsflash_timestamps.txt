@@ -3864,3 +3864,5 @@
 2025-10-01T17:20:23.207006+00:00|https://abcnews.go.com/US/video/sen-chris-murphy-shares-democrats-feel-government-shutdown-126123710|watch sen chris murphy shares how democrats feel about government shutdown us news|0b3ca016a85bd18a429e135e331725d6
 2025-10-01T17:41:06.619779+00:00|https://www.nytimes.com/2025/10/01/us/past-government-shutdowns-length.html|how government shutdowns got more severe and further reaching us news|c75f65035f1ba3eaf3f9f421d29f3b3c
 2025-10-01T17:57:34.857761+00:00|https://www.nytimes.com/2025/10/01/nyregion/yankees-red-sox-wild-card-bronx.html|did the yankees try to keep red sox fans out of the bronx us news|155895ed05aa5303d5cebe85ad673ae7
+2025-10-01T18:33:18.442295+00:00|https://www.nbcnews.com/now/video/vance-discusses-possibility-of-federal-firings-during-government-shutdown-248847429986|vance says shutdown firings are not targeting federal agencies based on politics us news|6b8a2e7b142df4ee1f362cbfa869b33a
+2025-10-01T18:33:19.093024+00:00|https://www.nytimes.com/2025/10/01/us/politics/washington-dc-ice.html|how washington became a testing ground for ice us news|6e38c08024695fc56558fe996a320cbb
