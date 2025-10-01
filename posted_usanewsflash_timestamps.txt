@@ -3858,3 +3858,7 @@
 2025-10-01T16:29:43.181170+00:00|https://www.nbcnews.com/video/shorts/new-york-high-rise-evacuated-after-partial-collapse-248840773877|new york highrise evacuated after partial collapse us news|83e5305d49a2eaac46bbdf53f09a11fa
 2025-10-01T16:46:50.813159+00:00|https://www.nytimes.com/2025/09/27/nyregion/mass-shooting-prevention.html|how 106 people got together to stop a school shooting before it happened us news|6eeb1efa567553664e8af7e6c166968e
 2025-10-01T16:57:52.674986+00:00|https://www.nbcnews.com/video/shorts/senate-majority-leader-says-shutdown-was-avoidable-248843333690|senate majority leader says shutdown was avoidable us news|c399c2b26536d38ba027036bc96880b7
+2025-10-01T17:20:21.119021+00:00|https://www.bbc.com/news/articles/ckg6pzz5700o|supreme court lets lisa cook stay at federal reserve for now us news|900a81a3268ea9b97f33873109f3c924
+2025-10-01T17:20:21.797236+00:00|https://www.bbc.com/news/articles/c1kw2wpnzwko|why government shutdowns seem to only happen in the us us news|cfbdf42eb9fa7a818ae0edc524872697
+2025-10-01T17:20:22.524865+00:00|https://www.nbcnews.com/video/shorts/politicians-already-antsy-to-end-government-shutdown-248842821973|politicians already antsy to end government shutdown us news|82ae8c249b496627dca9e5624d1b9aa7
+2025-10-01T17:20:23.207006+00:00|https://abcnews.go.com/US/video/sen-chris-murphy-shares-democrats-feel-government-shutdown-126123710|watch sen chris murphy shares how democrats feel about government shutdown us news|0b3ca016a85bd18a429e135e331725d6
