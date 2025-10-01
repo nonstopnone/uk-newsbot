@@ -3884,3 +3884,5 @@
 2025-10-01T22:40:34.955917+00:00|https://www.nbcnews.com/video/shorts/how-the-shutdown-will-impact-millions-of-americans-248878149625|how the shutdown will impact millions of americans us news|651696e8b7fd666c7febce1caab02e6d
 2025-10-01T22:40:35.660263+00:00|https://www.nytimes.com/2025/10/01/us/trump-chicago-immigration-national-guard.html|trumps chicago ice crackdown intensifies with drones helicopters and trucks us news|dc6317b89975f2429b3e8c2c9995acd3
 2025-10-01T22:40:36.365002+00:00|https://www.nytimes.com/2025/10/01/briefing/congress-shutdown-jane-goodall.html|congress is deadlocked on the shutdown us news|3e74fb7048eea3cc61b1333d256c3d60
+2025-10-01T23:20:15.321333+00:00|https://www.bbc.com/news/articles/c8xrwdny8p1o|white house says layoffs imminent with no end to shutdown in sight us news|4bc9723e4bfd15ba97e7af7500a9f2be
+2025-10-01T23:20:15.889538+00:00|https://www.nytimes.com/2025/10/01/health/trump-pfizer-prescription-drug-prices.html|how trumprx website may affect your drug costs after pfizer deal us news|f2a29b9fc2647bf489233ad5325ac9b6
