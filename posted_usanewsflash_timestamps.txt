@@ -3873,3 +3873,4 @@
 2025-10-01T18:57:45.426275+00:00|https://www.nytimes.com/2025/10/01/nyregion/nicolas-maduro-venezuela-charges-explainer.html|why nicolás maduro of venezuela faces criminal charges in the us us news|ee428036d71240905bc7e460e9bd0f92
 2025-10-01T19:18:21.467161+00:00|https://www.nytimes.com/2025/10/01/world/middleeast/israel-gaza-trump-hamas.html|israel escalates gaza offensive as hamas mulls trump plan us news|7b893882c1b0b3ad5f5b686549d764ca
 2025-10-01T19:39:16.367298+00:00|https://www.bbc.com/news/articles/cdr6pnky7vyo|four ways this shutdown could end us news|2268cb0b0740875ec4eb947d76a6b717
+2025-10-01T20:25:52.036625+00:00|https://abcnews.go.com/US/doj-seeks-postpone-deadlines-abrego-garcias-deportation-case/story|doj seeks to postpone deadlines in abrego garcias deportation case us news|b6ccc37ca0401dc1b3e1196c9ca3ffd4
