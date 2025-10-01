@@ -3881,3 +3881,6 @@
 2025-10-01T21:57:31.912531+00:00|https://abcnews.go.com/US/911-calls-released-charlotte-light-rail-stabbing-people/story|911 calls released in charlotte light rail stabbing people are just freaking out us news|b650c9a20e8a7ad69b860b6e6aa5383e
 2025-10-01T21:57:32.697914+00:00|https://www.nytimes.com/2025/10/01/arts/trump-neh-firings.html|trump fires members of humanities council us news|784e7818b76a594b9c10e33bd056961b
 2025-10-01T21:57:33.497345+00:00|https://www.nytimes.com/2025/10/01/us/politics/white-house-shutdown-punishment.html|trump uses shutdown to maximize pain for democrats and move forward with layoffs us news|115c2f23c2ac5bd7a813531c7534af0a
+2025-10-01T22:40:34.955917+00:00|https://www.nbcnews.com/video/shorts/how-the-shutdown-will-impact-millions-of-americans-248878149625|how the shutdown will impact millions of americans us news|651696e8b7fd666c7febce1caab02e6d
+2025-10-01T22:40:35.660263+00:00|https://www.nytimes.com/2025/10/01/us/trump-chicago-immigration-national-guard.html|trumps chicago ice crackdown intensifies with drones helicopters and trucks us news|dc6317b89975f2429b3e8c2c9995acd3
+2025-10-01T22:40:36.365002+00:00|https://www.nytimes.com/2025/10/01/briefing/congress-shutdown-jane-goodall.html|congress is deadlocked on the shutdown us news|3e74fb7048eea3cc61b1333d256c3d60
