@@ -3868,3 +3868,6 @@
 2025-10-01T18:33:19.093024+00:00|https://www.nytimes.com/2025/10/01/us/politics/washington-dc-ice.html|how washington became a testing ground for ice us news|6e38c08024695fc56558fe996a320cbb
 2025-10-01T18:49:39.448597+00:00|https://www.nbcnews.com/video/shorts/-we-are-going-to-have-to-lay-people-off-amid-shutdown-248847941821|we are going to have to lay people off amid shutdown us news|74e3eca63075d365cd7d3abc69c90170
 2025-10-01T18:49:39.962009+00:00|https://www.nytimes.com/2025/10/01/magazine/los-angeles-dodgers-trump-latinos.html|the dodgers united los angeles then the ice raids began us news|0cfcfe2140c663847b8bac8cad7600dc
+2025-10-01T18:57:44.303371+00:00|https://www.nytimes.com/2025/10/01/business/republicans-college-tuition-consultants.html|republicans demand information from the college board and firms that help set college prices us news|3faeacd9e47001c94c82077c48f2aad9
+2025-10-01T18:57:44.848366+00:00|https://www.nytimes.com/2025/10/01/nyregion/trump-nyc-subway-gateway-infrastructure-funding.html|trump administration to withhold $18 billion for nyc transit projects us news|42cb99b452ef5277806530a08677bc13
+2025-10-01T18:57:45.426275+00:00|https://www.nytimes.com/2025/10/01/nyregion/nicolas-maduro-venezuela-charges-explainer.html|why nicolás maduro of venezuela faces criminal charges in the us us news|ee428036d71240905bc7e460e9bd0f92
