@@ -3819,3 +3819,4 @@
 2025-10-01T03:14:28.321885+00:00|https://www.nbcnews.com/politics/trump-administration/national-parks-remain-partially-open-government-shutdown-rcna234822|national parks to remain partially open during government shutdown us news|f5d994d051ab50a09ca77084ab524c02
 2025-10-01T03:49:06.873773+00:00|https://www.nbcnews.com/video/shorts/at-least-20-people-killed-in-philippines-earthquake-248798789856|at least 20 people killed in philippines earthquake us news|c5215dc7a894ac2c7ac9da3002e70905
 2025-10-01T04:44:09.232642+00:00|https://www.nbcnews.com/video/shorts/government-shutdown-officially-begins-248802373793|government shutdown officially begins us news|f91558f2967a8b4d6fe02eb47b2ebcde
+2025-10-01T04:57:31.604802+00:00|https://www.nytimes.com/2025/09/30/world/anime-protests-flag-moldova-nepal-indonesia-gaza.html|the activists and the anime us news|6d29dc893138fadd870a1e9cddb26c92
