@@ -3821,3 +3821,4 @@
 2025-10-01T04:44:09.232642+00:00|https://www.nbcnews.com/video/shorts/government-shutdown-officially-begins-248802373793|government shutdown officially begins us news|f91558f2967a8b4d6fe02eb47b2ebcde
 2025-10-01T04:57:31.604802+00:00|https://www.nytimes.com/2025/09/30/world/anime-protests-flag-moldova-nepal-indonesia-gaza.html|the activists and the anime us news|6d29dc893138fadd870a1e9cddb26c92
 2025-10-01T05:41:59.759169+00:00|https://www.nytimes.com/2025/10/01/world/asia/south-korea-georgia-factory-visa.html|us eases visa restrictions on south korean workers us news|50c763a6b96bb13f8f3cc90acd1a5feb
+2025-10-01T06:35:11.502509+00:00|https://abcnews.go.com/International/wireStory/69-people-killed-powerful-earthquake-hit-philippines-126105342|at least 69 people killed in a powerful earthquake that hit the philippines us news|0fd1bcd3b984fff8b442101b6a5b2483
