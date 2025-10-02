@@ -3899,3 +3899,4 @@
 2025-10-02T09:57:54.608453+00:00|https://www.nytimes.com/2025/10/02/business/federal-reserve-independence-lisa-cook.html|feds independence in jeopardy despite latest lisa cook victory us news|37e2c6c81ee3e8f1256228f7db2c5a71
 2025-10-02T11:17:54.762359+00:00|https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html|for workers mixed signals for the public limited impact on shutdowns first day us news|e6ba70df554290a7b4585711f806c7bf
 2025-10-02T11:57:48.055475+00:00|https://www.today.com/video/here-s-what-impacted-when-the-government-shuts-down-248912453651|here are the workers not getting paid during the shut down us news|155ab5fa645c088ef31e2be3bd2b6fd9
+2025-10-02T12:47:00.372338+00:00|https://www.nbcnews.com/tech/tech-news/openai-sora-2-app-video-chatgpt-creation-rcna234973|openais ai video app stirs copyright questions pumping out videos of mario and pikachu us news|cc1073c294e2d8b4bda26e78350d3df7
