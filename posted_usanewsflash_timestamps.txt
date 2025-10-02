@@ -3886,3 +3886,4 @@
 2025-10-01T22:40:36.365002+00:00|https://www.nytimes.com/2025/10/01/briefing/congress-shutdown-jane-goodall.html|congress is deadlocked on the shutdown us news|3e74fb7048eea3cc61b1333d256c3d60
 2025-10-01T23:20:15.321333+00:00|https://www.bbc.com/news/articles/c8xrwdny8p1o|white house says layoffs imminent with no end to shutdown in sight us news|4bc9723e4bfd15ba97e7af7500a9f2be
 2025-10-01T23:20:15.889538+00:00|https://www.nytimes.com/2025/10/01/health/trump-pfizer-prescription-drug-prices.html|how trumprx website may affect your drug costs after pfizer deal us news|f2a29b9fc2647bf489233ad5325ac9b6
+2025-10-02T01:46:12.515073+00:00|https://www.bbc.com/news/articles/c89d3547npjo|musk becomes worlds first halftrillionaire us news|fcd8eb00afcba5e4d5aa8ee5664a07de
