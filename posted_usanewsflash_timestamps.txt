@@ -3932,3 +3932,7 @@
 2025-10-02T20:41:07.727383+00:00|https://www.bbc.com/news/videos/c701yk41x86o|find common ground tourists in washington tell lawmakers amid shutdown us news|4acc4e946332e2864a338a3185262ed4
 2025-10-02T20:41:08.303629+00:00|https://abcnews.go.com/Health/wireStory/fda-approves-generic-abortion-pill-prompting-outrage-conservatives-126162429|fda approves another generic abortion pill prompting outrage from conservatives us news|cb6a8499c6cb5a0eab82d578dc5b51f5
 2025-10-02T21:19:23.707255+00:00|https://www.bbc.com/news/articles/cx2xkygxpy1o|official quits after dispute over trumps eisenhower sword gift to king charles us news|c98f082b9f4c1a3602b14f8d84a4c6cb
+2025-10-02T21:38:17.144333+00:00|https://www.nbcnews.com/politics/politics-news/early-polls-shutdown-politics-desk-rcna235293|what the early polls say about the shutdown us news|67a1cb9a7ded491ff1aef0f54182ec23
+2025-10-02T21:38:17.687665+00:00|https://abcnews.go.com/Politics/trump-openly-threatens-shutdown-target-democrats-cuts/story|trump openly threatens to use shutdown to target democrats for cuts us news|7460721c5d3fc6fa74054f33dbe693d2
+2025-10-02T21:38:18.265313+00:00|https://www.nytimes.com/2025/10/02/nyregion/trump-infrastructure-hudson-river-tunnel.html|after trump pulls funding work continues on ny area transit projects us news|14862b9139813baedc26f6c759b28eea
+2025-10-02T21:38:18.839488+00:00|https://www.nbcnews.com/video/shorts/here-s-the-scoop-hamas-and-the-gaza-peace-plan-248957509829|heres the scoop hamas and the gaza peace plan us news|d10654d7e89f53aff6d7db8b67836327
