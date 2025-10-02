@@ -3908,3 +3908,4 @@
 2025-10-02T14:23:01.465865+00:00|https://www.nytimes.com/2025/10/02/us/los-angeles-olympics-oklahoma-city.html|heading to la for the olympics if youre into these sports youre in the wrong state us news|3fcf879c844183a3f21cd9d2c1ec473a
 2025-10-02T14:57:33.763917+00:00|https://www.nytimes.com/2025/10/02/us/politics/government-shutdown-spending-bill-impasse.html|here are the dueling plans behind the shutdown impasse us news|33d2e7dc7e22a8af6aeda58eb6e10f3e
 2025-10-02T15:24:00.394155+00:00|https://www.nytimes.com/2025/10/02/climate/doe-clean-energy-programs-shutdown.html|energy dept cancels hundreds of cleanenergy projects mostly in blue states us news|427e5ee0aac1529963705d36e55678c6
+2025-10-02T15:57:21.627846+00:00|https://abcnews.go.com/Business/wireStory/pepsicos-new-challenge-making-chips-sodas-colorful-artificial-126144835|gatorade and cheetos are among the pepsi products getting a natural dye makeover us news|5e703e1b3a3b24ae8c88c791a9a142f2
