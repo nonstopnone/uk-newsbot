@@ -3916,3 +3916,5 @@
 2025-10-02T16:46:16.877599+00:00|https://www.nytimes.com/2025/10/02/us/politics/trump-drug-cartels-war.html|trump determined the us is now in a war with drug cartels congress is told us news|d4afe32bb97083b858157c895dbc6512
 2025-10-02T16:46:17.473772+00:00|https://abcnews.go.com/Politics/shutdown-enters-day-2-end-sight-looming-federal/story|shutdown enters day 2 with no end in sight looming federal firings us news|669fb4959d003024996eb0a525a1740c
 2025-10-02T17:17:52.751497+00:00|https://www.nbcnews.com/now/video/trump-touts-government-shutdown-as-an-unprecedented-opportunity-for-cuts-248933957800|trump touts government shutdown as an unprecedented opportunity for cuts us news|7c95fa18d3ddb56a0ccfa39007c98cb0
+2025-10-02T17:57:53.502734+00:00|https://www.nbcnews.com/video/shorts/pair-accused-of-trafficking-women-in-nyc-sex-dungeon-248937029774|pair accused of trafficking women in nyc sex dungeon us news|424ed59147e03ca10d93e6772408c37b
+2025-10-02T17:57:54.204252+00:00|https://www.nytimes.com/2025/10/02/technology/openai-sora-video-app.html|openais sora video app is jawdropping for better and worse us news|18ea4e73b9db78408a399efaf71ddf53
