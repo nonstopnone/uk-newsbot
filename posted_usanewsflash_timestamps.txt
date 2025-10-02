@@ -3904,3 +3904,4 @@
 2025-10-02T13:43:22.630702+00:00|https://abcnews.go.com/US/video/fact-checking-jd-vances-comments-government-shutdown-126150594|watch factchecking jd vances comments regarding government shutdown us news|0397ca242c34451bc79593522283b9fd
 2025-10-02T13:43:23.125429+00:00|https://abcnews.go.com/US/video/government-shutdown-family-126150783|watch what does the government shutdown mean for you and your family us news|b6dbfcb35f9b787fdb29f7591b022b25
 2025-10-02T13:43:23.611266+00:00|https://abcnews.go.com/US/video/part-high-rise-apartment-building-collapses-new-york-126150869|watch part of highrise apartment building collapses in new york city us news|d47773ffcf3051fbf2f24d235517141b
+2025-10-02T13:57:57.720773+00:00|https://www.nytimes.com/2025/10/01/us/politics/trump-democrats-health-care.html|white house seeks to blunt democrats shutdown strategy on health care us news|a388328dc550d16edce17b9b5c5f5a1e
