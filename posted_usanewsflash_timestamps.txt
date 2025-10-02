@@ -3912,3 +3912,6 @@
 2025-10-02T16:28:35.916178+00:00|https://www.nbcnews.com/politics/congress/early-polls-trump-republicans-taking-blame-government-shutdown-rcna235141|early polls show trump and gop taking more blame than democrats for shutdown us news|7f3a64bf1b45087b7757c89a008ed383
 2025-10-02T16:28:36.470802+00:00|https://www.nytimes.com/2025/10/02/world/europe/italy-palestinian-state-gaza-plan.html|italy backs trumps gaza plan as public demands support for palestinians us news|d811bcac7439fe828bb36e566714b896
 2025-10-02T16:28:37.058681+00:00|https://www.nytimes.com/2025/10/02/us/zizians.html|ophelia disappeared a wall street analyst and a deadly shootout us news|fb2ee1da760a724e0143b3b58ff2aaab
+2025-10-02T16:46:16.305966+00:00|https://www.nytimes.com/2025/10/02/us/politics/democrats-aipac.html|democrats pull away from aipac reflecting a broader shift us news|42117009edbf94acbc0ee53fd8cd517a
+2025-10-02T16:46:16.877599+00:00|https://www.nytimes.com/2025/10/02/us/politics/trump-drug-cartels-war.html|trump determined the us is now in a war with drug cartels congress is told us news|d4afe32bb97083b858157c895dbc6512
+2025-10-02T16:46:17.473772+00:00|https://abcnews.go.com/Politics/shutdown-enters-day-2-end-sight-looming-federal/story|shutdown enters day 2 with no end in sight looming federal firings us news|669fb4959d003024996eb0a525a1740c
