@@ -3923,3 +3923,4 @@
 2025-10-02T18:32:51.720714+00:00|https://www.nbcnews.com/video/shorts/hawaiian-volcano-erupts-for-the-34th-time-248937029618|hawaiian volcano erupts for the 34th time us news|0ace5961a0b9db82fb18bacde508dad2
 2025-10-02T18:32:52.289778+00:00|https://www.nytimes.com/2025/10/02/us/politics/abrego-garcia-asylum.html|immigration judge rejects abrego garcias efforts to seek asylum in us us news|565d2a2993a72d5458d44a14ad313660
 2025-10-02T18:47:03.039484+00:00|https://abcnews.go.com/Politics/us-engaged-formal-armed-conflict-terrorist-drug-cartels/story|us is engaged in formal armed conflict with terrorist drug cartels trump says us news|75b6e30621c3a8944987181af8b5e274
+2025-10-02T18:57:38.831525+00:00|https://www.bbc.com/news/articles/c5ygz51lzdro|donations pour in for family of gunman in michigan church attack us news|9342456545207e38085494df53042660
