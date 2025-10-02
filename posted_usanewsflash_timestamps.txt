@@ -3888,3 +3888,4 @@
 2025-10-01T23:20:15.889538+00:00|https://www.nytimes.com/2025/10/01/health/trump-pfizer-prescription-drug-prices.html|how trumprx website may affect your drug costs after pfizer deal us news|f2a29b9fc2647bf489233ad5325ac9b6
 2025-10-02T01:46:12.515073+00:00|https://www.bbc.com/news/articles/c89d3547npjo|musk becomes worlds first halftrillionaire us news|fcd8eb00afcba5e4d5aa8ee5664a07de
 2025-10-02T02:47:07.667569+00:00|https://www.nytimes.com/2025/10/01/business/israel-gaza-war-social-media.html|how social media is changing the narrative of the israelgaza war us news|52c8cfcdc5fe29f0e02c3f1e7bee660a
+2025-10-02T04:26:33.384689+00:00|https://www.nbcnews.com/world/gaza/activists-say-israeli-navy-intercepted-nine-boats-aid-flotilla-headed-rcna235080|activists say israeli navy intercepted nine boats from aid flotilla headed to gaza us news|44e23a913527dd41b23e9b819d430831
