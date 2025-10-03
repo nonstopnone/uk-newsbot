@@ -3992,3 +3992,6 @@
 2025-10-03T18:57:28.932072+00:00|https://www.nbcnews.com/video/shorts/bodycam-shows-police-confront-michigan-church-attacker-249027653806|bodycam shows police confront michigan church attacker us news|ea6ee9cd86724379765de761aed4cae8
 2025-10-03T19:17:26.099375+00:00|https://www.nytimes.com/2025/10/03/world/canada/trump-carney-meeting-tariffs-canada.html|trump and carney to hold tariff and security talks in dc us news|34b3aa8f4fb2a8e227c73c11d40b941f
 2025-10-03T19:17:27.145017+00:00|https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html|french photojournalist killed in drone attack in ukraine us news|2bae09875990824b2f0975cc2301df32
+2025-10-03T19:38:32.565870+00:00|https://www.bbc.com/news/articles/cn0xvpxk9dqo|four killed in latest us strike on alleged drug vessel near venezuela us news|a89eab280032f48146c66fdb38526432
+2025-10-03T19:38:33.092148+00:00|https://www.nbcnews.com/video/white-house-discusses-opportunity-for-federal-layoffs-amid-shutdown-249019973862|white house on layoffs democrats have given the administration this opportunity us news|e7db700c5f93a38e5d2caf8b0814d7ce
+2025-10-03T19:38:33.610093+00:00|https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html|how trump used fury over israels qatar attack to push netanyahu on gaza us news|0a90f6c439ddbaeb62bf42830c4a9f68
