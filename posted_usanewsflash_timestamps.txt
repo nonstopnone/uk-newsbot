@@ -4012,3 +4012,6 @@
 2025-10-03T21:18:49.158374+00:00|https://www.nytimes.com/2025/10/03/us/politics/wic-nutrition-program-shutdown.html|nutrition program for mothers and infants may run out of money within weeks us news|8dc59c184b36ca9075ba3da1e84da3a6
 2025-10-03T21:38:36.410777+00:00|https://www.nbcnews.com/video/shorts/sean-diddy-combs-sentenced-to-50-months-behind-bars-249047109706|sean diddy combs sentenced to 50 months behind bars us news|3e698fbae85f66a193ea83b64f59ce96
 2025-10-03T21:57:33.377600+00:00|https://www.bbc.com/news/articles/c059ydyqe19o|trumps grim reaper from project 2025 to shutdown enforcer us news|320a7e7afe31b7b2afcd5c2e3d48111d
+2025-10-03T22:39:27.046692+00:00|https://www.nbcnews.com/video/shorts/father-of-soldier-killed-in-oct-7-attacks-thanks-u-s-249054789571|father of soldier killed in oct 7 attacks thanks us us news|fd51f9df5ece3e275521a71f1eefc590
+2025-10-03T22:39:27.519100+00:00|https://www.nytimes.com/2025/10/03/us/california-air-show-fleet-week-canada.html|the star of these american air shows will be canada us news|3c2b9f72fefe6c680ff0796b4a7cadb8
+2025-10-03T22:39:28.043159+00:00|https://www.nbcnews.com/news/us-news/woman-sentenced-8-years-attempting-assassinate-brett-kavanaugh-rcna235410|woman sentenced to 8 years in prison for attempting to assassinate brett kavanaugh us news|6debd61fa873286de32289be3db0f7a3
