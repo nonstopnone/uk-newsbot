@@ -3953,3 +3953,4 @@
 2025-10-03T03:57:33.798440+00:00|https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html|apple takes down ice tracking apps amid trump pressure campaign us news|f9711b3aaf666e0d267d493902c44c43
 2025-10-03T04:26:17.267136+00:00|https://www.nytimes.com/video/us/politics/100000010431240/why-pete-hegseth-summoned-top-military-leaders.html|why pete hegseth summoned top military leaders us news|d1fab46b2dc2a6057bff63148c7d70b9
 2025-10-03T05:40:59.160783+00:00|https://abcnews.go.com/US/large-fire-erupts-chevron-refinery-southern-california/story|large fire erupts at chevron refinery in southern california us news|acd50aad1beb47143d4d2836b6ceee80
+2025-10-03T06:33:25.843894+00:00|https://www.nbcnews.com/news/us-news/fire-burns-los-angeles-area-chevron-oil-refinery-rcna235351|fire erupts at los angelesarea chevron oil refinery us news|555f83e896c03716bebbc33476f4448e
