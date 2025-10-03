@@ -3974,3 +3974,4 @@
 2025-10-03T14:21:46.605647+00:00|https://abcnews.go.com/US/wireStory/supreme-court-overturning-strict-hawaii-law-regulating-people-126180985|supreme court to consider overturning hawaii law regulating where guns can be carried us news|7720b3ddce64bc169d8451efb3b89da0
 2025-10-03T14:42:32.206948+00:00|https://www.bbc.com/news/articles/cdxq7zp7002o|trump gives hamas sunday deadline to accept gaza peace plan us news|888696c18606e8985cf125836ce64ba9
 2025-10-03T14:42:32.734358+00:00|https://www.nytimes.com/2025/10/03/nyregion/trump-new-york-counterterrorism-funds.html|trump administration reverses $187 million in ny counterterrorism cuts us news|98d5628d5b7eba7158908833bf57bd2a
+2025-10-03T15:22:41.527419+00:00|https://abcnews.go.com/Politics/senate-vote-government-funding-bills-shutdown-reaches-3rd/story|senate to vote again on government funding bills as shutdown reaches 3rd day us news|4f0cdd6ad882b3c624c1f81580e7029a
