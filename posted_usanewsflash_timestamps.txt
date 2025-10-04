@@ -4049,3 +4049,4 @@
 2025-10-04T17:17:33.240507+00:00|https://www.nytimes.com/2025/10/04/us/medicaid-cuts-trump-maine-clinics.html|after trumps medicaid cuts patients at rural maine clinics feel the fallout us news|3a3f72daaa303b4ed55de658d7eec32c
 2025-10-04T17:57:56.239386+00:00|https://www.nytimes.com/2025/10/04/us/politics/trump-gaza-diplomacy.html|trumps approach on gaza deal first details later us news|8a6eedb8d4a300b6c38c92ba57b6ab53
 2025-10-04T19:16:08.949621+00:00|https://www.nbcnews.com/politics/trump-administration/chicago-national-guard-trump-deployment-portland-rcna235625|illinois gov jb pritzker says trump is set to federalize the states national guard us news|92bf961c9ae63e3fe6c369395ba50698
+2025-10-04T19:38:24.362969+00:00|https://www.nytimes.com/2025/10/04/us/federal-agent-shooting-chicago.html|federal agent in chicago shot person in a confrontation with motorist officials say us news|e92550f0201816dabc9d91c22edf6c01
