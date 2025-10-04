@@ -4020,3 +4020,6 @@
 2025-10-03T22:57:38.600717+00:00|https://www.nytimes.com/2025/10/03/us/supreme-court-assassination-attempt-sentencing.html|justice kavanaughs wouldbe assassin sentenced to eight years in prison us news|e00bedec2d5096f7a0dd3b3c98e389cc
 2025-10-03T22:57:39.164762+00:00|https://www.nytimes.com/2025/10/03/us/politics/white-house-trump-shutdown.html|the white house cant decide is the shutdown bad or good us news|cc45f6093f9a2206aace3d7c9a4d5b72
 2025-10-03T23:39:05.796695+00:00|https://www.nytimes.com/2025/10/03/sports/arthur-jones-dead.html|arthur jones former baltimore ravens player dies at 39 us news|87f551c6ff8ee1f0efd38bd02d848579
+2025-10-04T01:42:03.937928+00:00|https://www.nytimes.com/2025/10/03/us/politics/marjorie-taylor-greene-shutdown.html|marjorie taylor greene criticizes senate republicans for government shutdown us news|0287d21e416da0298063065201872d5f
+2025-10-04T01:42:04.479818+00:00|https://www.nbcnews.com/nightly-news/video/federal-government-shutdown-set-to-stretch-into-next-week-249059397885|federal government shutdown set to stretch into next week us news|bb06ae09a5e4771b64d647be24bac8ae
+2025-10-04T01:42:05.013075+00:00|https://www.nytimes.com/2025/10/03/nyregion/hit-and-run-deaths-girls-new-jersey.html|2 teen girls died in a hitandrun another teen faces murder charges us news|afb7b138cab0e1829b920960dc72d93a
