@@ -4028,3 +4028,5 @@
 2025-10-04T03:43:00.974383+00:00|https://www.nbcnews.com/video/shorts/feral-hogs-roam-texas-apartment-complex-249073733979|feral hogs roam texas apartment complex us news|d8b1892c4a8f592fbf32d30c3cb3c7ff
 2025-10-04T04:25:47.282998+00:00|https://www.nbcnews.com/news/us-news/trump-administration-offering-unaccompanied-migrant-children-2500-self-rcna235574|trump admin offering some unaccompanied migrant children $2500 to selfdeport memo shows us news|6832a6836cd09875cd914914958cc595
 2025-10-04T04:58:04.837503+00:00|https://www.nytimes.com/2025/10/03/world/asia/japan-election-leader-what-to-know.html|what to know about japans leadership election us news|8ada35822a44928bd19514fbcfa1aeec
+2025-10-04T06:31:02.642075+00:00|https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html|what to know about hamass response to trumps peace plan us news|798d1ad718534addf4a5b2cb4b616b29
+2025-10-04T06:31:03.183087+00:00|https://www.nytimes.com/2025/10/04/world/asia/japan-female-leader.html|japan set for first female prime minister us news|7b2e3569489f0496b591d5b52b2a42ab
