@@ -4025,3 +4025,4 @@
 2025-10-04T01:42:05.013075+00:00|https://www.nytimes.com/2025/10/03/nyregion/hit-and-run-deaths-girls-new-jersey.html|2 teen girls died in a hitandrun another teen faces murder charges us news|afb7b138cab0e1829b920960dc72d93a
 2025-10-04T02:41:26.916557+00:00|https://www.nytimes.com/2025/10/03/us/la-city-hall-car.html|man drives car onto sidewalk outside la city hall barricading himself inside us news|49490f8d844da38d4dc33f7e32bc26d8
 2025-10-04T02:41:27.749200+00:00|https://abcnews.go.com/Politics/trump-administration-considers-minting-1-trump-coin/story|trump administration considers minting a $1 trump coin us news|565a0164e231934c234480c0cc0aee0f
+2025-10-04T03:43:00.974383+00:00|https://www.nbcnews.com/video/shorts/feral-hogs-roam-texas-apartment-complex-249073733979|feral hogs roam texas apartment complex us news|d8b1892c4a8f592fbf32d30c3cb3c7ff
