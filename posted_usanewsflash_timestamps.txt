@@ -4053,3 +4053,4 @@
 2025-10-04T20:22:44.640476+00:00|https://www.nytimes.com/2025/10/04/us/mark-sanchez-stabbing.html|mark sanchez exnfl quarterback is injured in stabbing us news|6412a57e0cf5cdafb5cf027a621458b8
 2025-10-04T20:57:39.929368+00:00|https://www.nbcnews.com/news/us-news/former-nfl-quarterback-mark-sanchez-injured-indiana-rcna235621|former nfl quarterback mark sanchez stabbed during altercation in indiana us news|da2cbf3ebd06831a89f1cf54ebacbe20
 2025-10-04T20:57:40.614776+00:00|https://abcnews.go.com/US/homeland-security-requests-national-guard-chicago-despite-protests/story|homeland security requests national guard to be sent to chicago us news|3ce38d73473b3241e4002179f73b828b
+2025-10-04T21:57:40.088967+00:00|https://www.nytimes.com/2025/10/04/world/asia/cebu-earthquake-philippines.html|trapped in the homes they thought would protect them us news|e0fef1bc4be7f6d0e6768e0f17de65c9
