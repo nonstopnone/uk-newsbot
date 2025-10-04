@@ -4055,3 +4055,4 @@
 2025-10-04T20:57:40.614776+00:00|https://abcnews.go.com/US/homeland-security-requests-national-guard-chicago-despite-protests/story|homeland security requests national guard to be sent to chicago us news|3ce38d73473b3241e4002179f73b828b
 2025-10-04T21:57:40.088967+00:00|https://www.nytimes.com/2025/10/04/world/asia/cebu-earthquake-philippines.html|trapped in the homes they thought would protect them us news|e0fef1bc4be7f6d0e6768e0f17de65c9
 2025-10-04T22:57:24.626264+00:00|https://www.nytimes.com/video/world/middleeast/100000010438653/hamas-partially-accepts-trumps-peace-plan.html|hamas partially accepts trumps peace plan us news|9b1b467fad2f902dd37c54ebc5714892
+2025-10-04T23:57:33.039055+00:00|https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-use-national-guard-portland-rcna235664|judge temporarily blocks use of national guard in portland us news|f6e8fe672f03de05a99ec85d4c3d6536
