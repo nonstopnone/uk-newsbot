@@ -4061,3 +4061,5 @@
 2025-10-05T01:56:38.387020+00:00|https://www.nytimes.com/2025/10/04/us/politics/judge-blocks-national-guard-portland.html|judge blocks trumps deployment of national guard in portland ore us news|35c3786faf389df2d5602819c287c9fb
 2025-10-05T01:56:38.917950+00:00|https://www.nbcnews.com/video/shorts/several-people-canoe-in-flooded-utah-streets-249106501761|several people canoe in flooded utah streets us news|476c12c2835a3637d8ed8346904e9214
 2025-10-05T04:25:41.095485+00:00|https://www.nytimes.com/2025/10/05/world/middleeast/syria-elections.html|syria holds first parliamentary elections since end of civil war us news|20b7c9c65caf3c40e8c7ab84d4ec1980
+2025-10-05T09:38:36.625851+00:00|https://www.nbcnews.com/sports/nfl/far-philadelphia-eagles-toughest-opponent-rcna235324|so far the philadelphia eagles toughest opponent could be themselves us news|ea89912ffb1aada0529627e76c8734b7
+2025-10-05T09:38:38.220366+00:00|https://www.nbcnews.com/world/gaza/gaza-ceasefire-deal-israel-hamas-trump-netanyahu-kushner-rcna235680|netanyahu hopes for hostage release in coming days as bombs continue to strike gaza us news|7cbf06864299234db1ec7bb828b48fe7
