@@ -4060,3 +4060,4 @@
 2025-10-05T01:56:37.841777+00:00|https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story|judge temporarily blocks trumps attempt to deploy oregon national guard to portland us news|ad5cfb212bc1f4456a41e2ea80eaf224
 2025-10-05T01:56:38.387020+00:00|https://www.nytimes.com/2025/10/04/us/politics/judge-blocks-national-guard-portland.html|judge blocks trumps deployment of national guard in portland ore us news|35c3786faf389df2d5602819c287c9fb
 2025-10-05T01:56:38.917950+00:00|https://www.nbcnews.com/video/shorts/several-people-canoe-in-flooded-utah-streets-249106501761|several people canoe in flooded utah streets us news|476c12c2835a3637d8ed8346904e9214
+2025-10-05T04:25:41.095485+00:00|https://www.nytimes.com/2025/10/05/world/middleeast/syria-elections.html|syria holds first parliamentary elections since end of civil war us news|20b7c9c65caf3c40e8c7ab84d4ec1980
