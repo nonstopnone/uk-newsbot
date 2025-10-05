@@ -4056,3 +4056,7 @@
 2025-10-04T21:57:40.088967+00:00|https://www.nytimes.com/2025/10/04/world/asia/cebu-earthquake-philippines.html|trapped in the homes they thought would protect them us news|e0fef1bc4be7f6d0e6768e0f17de65c9
 2025-10-04T22:57:24.626264+00:00|https://www.nytimes.com/video/world/middleeast/100000010438653/hamas-partially-accepts-trumps-peace-plan.html|hamas partially accepts trumps peace plan us news|9b1b467fad2f902dd37c54ebc5714892
 2025-10-04T23:57:33.039055+00:00|https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-use-national-guard-portland-rcna235664|judge temporarily blocks use of national guard in portland us news|f6e8fe672f03de05a99ec85d4c3d6536
+2025-10-05T01:56:37.260350+00:00|https://www.bbc.com/news/articles/c2dnk0ee6pyo|trump authorises deployment of 300 national guard troops to chicago us news|37106984b4f322e5509d2474d04c4192
+2025-10-05T01:56:37.841777+00:00|https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story|judge temporarily blocks trumps attempt to deploy oregon national guard to portland us news|ad5cfb212bc1f4456a41e2ea80eaf224
+2025-10-05T01:56:38.387020+00:00|https://www.nytimes.com/2025/10/04/us/politics/judge-blocks-national-guard-portland.html|judge blocks trumps deployment of national guard in portland ore us news|35c3786faf389df2d5602819c287c9fb
+2025-10-05T01:56:38.917950+00:00|https://www.nbcnews.com/video/shorts/several-people-canoe-in-flooded-utah-streets-249106501761|several people canoe in flooded utah streets us news|476c12c2835a3637d8ed8346904e9214
