@@ -4088,3 +4088,4 @@
 2025-10-05T19:16:25.294304+00:00|https://www.nytimes.com/2025/10/05/us/des-moines-iowa-superintendent-ian-roberts-immigration-ice.html|the superintendents bio seemed too good to be true it was us news|405189bba1dc3b2a46ecbbf3ab31bf14
 2025-10-05T19:38:36.163890+00:00|https://www.nytimes.com/2025/10/05/us/politics/chicago-motorists-charged-border-patrol.html|2 motorists charged in chicago including one shot by federal agent us news|2518c4e67ce35693851526b149b73624
 2025-10-05T19:57:29.702098+00:00|https://www.nbcnews.com/video/shorts/trump-blasts-judge-for-blocking-use-of-national-guard-249140805603|trump blasts judge for blocking use of national guard us news|69815a50f1fce67735e970f0e0106498
+2025-10-05T21:38:49.782324+00:00|https://abcnews.go.com/US/man-arrested-washington-dc-cathedral-allegedly-molotov-cocktail/story|man arrested outside washington dc cathedral allegedly had a molotov cocktail us news|e5614e35630527d27ddf85192a2832be
