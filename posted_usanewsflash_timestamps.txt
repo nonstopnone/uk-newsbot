@@ -4163,3 +4163,6 @@
 2025-10-06T22:20:18.569132+00:00|https://www.nytimes.com/2025/10/06/us/politics/supreme-court-google-fortnite.html|supreme court for now rejects google bid to block changes to app store us news|b8e3f938be17202f3192f5cd09a1c935
 2025-10-06T22:40:24.689209+00:00|https://www.nytimes.com/2025/10/06/briefing/trump-national-guard-chicago-international-students.html|troops head to chicago despite efforts to block them us news|1bed715621e2a21839cff523bc580030
 2025-10-06T22:40:25.262262+00:00|https://www.nytimes.com/2025/10/06/us/politics/trump-venezuela-maduro.html|trump calls off diplomatic outreach to venezuela us news|d62cf3d0e2626abe25e23eba6d191d9b
+2025-10-06T23:20:19.351863+00:00|https://www.nytimes.com/video/us/politics/100000010433782/how-trumps-national-guard-deployments-break-with-military-tradition.html|how trumps national guard deployments break with military tradition us news|4f983919c005f063b9640990db488c5a
+2025-10-06T23:20:19.949927+00:00|https://www.nbcnews.com/health/health-news/hydration-spa-unregulated-study-iv-drip-vitamins-detox-rcna235854|hydration spas are largely unregulated study finds us news|664d8e65b74951dfddb41347770811be
+2025-10-06T23:20:20.487359+00:00|https://www.nytimes.com/2025/10/06/us/fear-ice-chicago.html|neighbors warn neighbors as fear of ice ripples across chicago us news|c41b40f758602a0bf3c515a0b0aefb18
