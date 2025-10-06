@@ -4157,3 +4157,7 @@
 2025-10-06T21:57:48.008867+00:00|https://www.nytimes.com/2025/10/06/us/politics/treasury-trump-coin.html|treasury defends minting a $1 trump coin despite 1866 law us news|7efeee6bf61cf8d6053e7aab5c202123
 2025-10-06T21:57:48.522581+00:00|https://www.nytimes.com/2025/10/06/nyregion/eric-adams-albania.html|where in the world is eric adams try albania us news|5875d64f73cc0ddbc2c343502ca558ed
 2025-10-06T21:57:48.999880+00:00|https://www.nytimes.com/2025/10/06/us/politics/faa-essential-air-service-controllers.html|us air travel may soon feel shutdowns impact official warns us news|5eb2223275e9746f0b2c7a768cd32af4
+2025-10-06T22:20:16.924329+00:00|https://www.bbc.com/news/articles/cr5q0zzdepeo|senate to vote again on funding the us government us news|6903390125398fec31a915eb8440c6b7
+2025-10-06T22:20:17.392480+00:00|https://abcnews.go.com/US/council-seeks-time-replace-fani-willis-prosecutor-georgia/story|council seeks more time to name new prosecutor in georgia election interference case us news|8e53c123fa58659be79d282aeec76704
+2025-10-06T22:20:17.867048+00:00|https://abcnews.go.com/Lifestyle/wireStory/florida-removes-miami-beach-rainbow-crosswalk-after-city-126271129|florida removes miami beach rainbow crosswalk after city loses appeal us news|cd6552fe534d3ac743128bc03e89b932
+2025-10-06T22:20:18.569132+00:00|https://www.nytimes.com/2025/10/06/us/politics/supreme-court-google-fortnite.html|supreme court for now rejects google bid to block changes to app store us news|b8e3f938be17202f3192f5cd09a1c935
