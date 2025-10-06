@@ -4161,3 +4161,5 @@
 2025-10-06T22:20:17.392480+00:00|https://abcnews.go.com/US/council-seeks-time-replace-fani-willis-prosecutor-georgia/story|council seeks more time to name new prosecutor in georgia election interference case us news|8e53c123fa58659be79d282aeec76704
 2025-10-06T22:20:17.867048+00:00|https://abcnews.go.com/Lifestyle/wireStory/florida-removes-miami-beach-rainbow-crosswalk-after-city-126271129|florida removes miami beach rainbow crosswalk after city loses appeal us news|cd6552fe534d3ac743128bc03e89b932
 2025-10-06T22:20:18.569132+00:00|https://www.nytimes.com/2025/10/06/us/politics/supreme-court-google-fortnite.html|supreme court for now rejects google bid to block changes to app store us news|b8e3f938be17202f3192f5cd09a1c935
+2025-10-06T22:40:24.689209+00:00|https://www.nytimes.com/2025/10/06/briefing/trump-national-guard-chicago-international-students.html|troops head to chicago despite efforts to block them us news|1bed715621e2a21839cff523bc580030
+2025-10-06T22:40:25.262262+00:00|https://www.nytimes.com/2025/10/06/us/politics/trump-venezuela-maduro.html|trump calls off diplomatic outreach to venezuela us news|d62cf3d0e2626abe25e23eba6d191d9b
