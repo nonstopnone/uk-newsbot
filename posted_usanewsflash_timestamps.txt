@@ -4122,3 +4122,8 @@
 2025-10-06T14:44:17.806974+00:00|https://www.nytimes.com/2025/10/06/climate/epa-solar-for-all-lawsuit.html|groups sue epa over $7 billion in solar for all grants us news|ae30b526715ccb51543294934271e59f
 2025-10-06T15:24:14.591881+00:00|https://abcnews.go.com/US/mark-sanchez-felony-battery-indianapolis/story|mark sanchez now facing felony charge of battery involving serious bodily injury us news|d2f39b0d20de6136fa1b7cbd31f48759
 2025-10-06T15:41:37.495991+00:00|https://www.nytimes.com/2025/10/06/business/frank-bisignano-social-security-chief-irs.html|bessent taps social security chief to serve as ceo of irs us news|2b3379e0c5255f8d4d7d5531c0ea2a1a
+2025-10-06T15:58:07.980731+00:00|https://www.bbc.com/news/articles/cwydzenj6epo|what makes this us shutdown different and more difficult us news|8b383040fbfd4243a22ad539d1fca54d
+2025-10-06T15:58:08.575309+00:00|https://www.bbc.com/news/articles/c2knw1nlgdyo|skydiving instructor killed after falling without parachute in nashville us news|02de8e5b3e7982bb60a5cbb9cb14d5a9
+2025-10-06T15:58:09.161679+00:00|https://www.bbc.com/news/articles/c4gwd87ww1vo|exnew york times writer to lead cbs after paramount deal us news|c916168a2b0103dc4334d5b868ee9eb7
+2025-10-06T15:58:09.714129+00:00|https://www.nytimes.com/2025/10/06/world/europe/russia-trump-putin-nuclear-caps.html|russia welcomes trumps blessing of proposal to extend caps on nuclear weapons us news|6d12768b5fd42afbe1056e4ce18602ce
+2025-10-06T15:58:10.287253+00:00|https://abcnews.go.com/International/video/hundreds-hikers-trapped-blizzard-mount-everest-126258058|watch hundreds of hikers trapped by blizzard on mount everest us news|5570f9369886a11de5cacbf6d718c705
