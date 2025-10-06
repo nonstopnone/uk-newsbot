@@ -4121,3 +4121,4 @@
 2025-10-06T14:44:17.107792+00:00|https://abcnews.go.com/US/illinois-files-lawsuit-block-deployment-national-guard/story|illinois files lawsuit to block deployment of national guard us news|f08c633915671f9758937434947382ad
 2025-10-06T14:44:17.806974+00:00|https://www.nytimes.com/2025/10/06/climate/epa-solar-for-all-lawsuit.html|groups sue epa over $7 billion in solar for all grants us news|ae30b526715ccb51543294934271e59f
 2025-10-06T15:24:14.591881+00:00|https://abcnews.go.com/US/mark-sanchez-felony-battery-indianapolis/story|mark sanchez now facing felony charge of battery involving serious bodily injury us news|d2f39b0d20de6136fa1b7cbd31f48759
+2025-10-06T15:41:37.495991+00:00|https://www.nytimes.com/2025/10/06/business/frank-bisignano-social-security-chief-irs.html|bessent taps social security chief to serve as ceo of irs us news|2b3379e0c5255f8d4d7d5531c0ea2a1a
