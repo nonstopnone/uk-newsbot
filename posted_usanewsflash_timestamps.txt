@@ -4146,3 +4146,5 @@
 2025-10-06T19:57:45.778344+00:00|https://www.nbcnews.com/video/illinois-governor-holds-briefing-on-national-guard-deployment-to-chicago-249189445781|illinois governor holds briefing on national guard deployment to chicago us news|9d19c9030f3f9d5917c3b9e5fcaf3e6f
 2025-10-06T19:57:46.397892+00:00|https://www.nytimes.com/2025/10/06/business/walmart-shopping-malls.html|why did walmart just buy a shopping mall us news|c4933e6f575a0a96e4e18164c22aa55a
 2025-10-06T20:57:57.342985+00:00|https://www.bbc.com/news/articles/cly959ppezeo|new supreme court term will reshape trumps powers us news|138289a5f179677b08def6d8d295f6ac
+2025-10-06T21:19:50.311393+00:00|https://www.nbcnews.com/video/shorts/pritzker-slams-trump-s-deployment-of-national-guard-249212997511|pritzker slams trumps deployment of national guard us news|b9666ce9f7ccbf8e76e5f0c5ef459463
+2025-10-06T21:19:50.775754+00:00|https://www.nytimes.com/2025/10/06/us/politics/michael-ellis-cia-trump.html|cia deputy director has replaced agencys top legal official with himself us news|2b87fa4c6effb43057141c4985e1ed54
