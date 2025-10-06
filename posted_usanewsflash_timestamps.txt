@@ -4096,3 +4096,4 @@
 2025-10-06T01:49:30.774853+00:00|https://www.nytimes.com/2025/10/05/us/trump-national-guard-california-oregon-newsom.html|trump sends california national guard troops to portland ore us news|85d29095465c32327caa6c2d9d9173bd
 2025-10-06T01:49:31.455939+00:00|https://www.nbcnews.com/video/shorts/2-dead-12-wounded-in-alabama-shooting-249149509910|2 dead 12 wounded in alabama shooting us news|603edf03549707ca698917fccaaa99e1
 2025-10-06T01:49:32.304605+00:00|https://www.nbcnews.com/sports/nfl/titans-cardinals-stunning-touchdown-rcna235790|the stunning touchdown that sparked the titans unlikely comeback us news|3030a2d87c5a101a4886f0a5b6c3532b
+2025-10-06T05:57:49.088250+00:00|https://www.bbc.com/news/articles/c740elm70z7o|trump sends troops from california to portland after court denies deployment us news|97bf630f071388457451dfac42c424e5
