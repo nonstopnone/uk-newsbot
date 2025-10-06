@@ -4093,3 +4093,6 @@
 2025-10-05T22:39:45.385046+00:00|https://www.nbcnews.com/video/shorts/pilots-lift-off-for-new-mexico-balloon-festival-249142341508|pilots lift off for new mexico balloon festival us news|30b8a644cc666a14f8557bf7cbaed159
 2025-10-05T22:57:28.626107+00:00|https://www.nytimes.com/2025/10/05/us/inmate-murder-kansas-adair-fatherley.html|deputy charged with murder knelt on inmates back affidavit says us news|25595435034e3a5cc764f541fde0692d
 2025-10-05T23:38:43.638942+00:00|https://www.nbcnews.com/video/-california-sues-trump-admin-over-national-guard-deployment-249142341809|california sues trump admin over national guard deployment us news|8c8b5f061a35790154ff44958271054b
+2025-10-06T01:49:30.774853+00:00|https://www.nytimes.com/2025/10/05/us/trump-national-guard-california-oregon-newsom.html|trump sends california national guard troops to portland ore us news|85d29095465c32327caa6c2d9d9173bd
+2025-10-06T01:49:31.455939+00:00|https://www.nbcnews.com/video/shorts/2-dead-12-wounded-in-alabama-shooting-249149509910|2 dead 12 wounded in alabama shooting us news|603edf03549707ca698917fccaaa99e1
+2025-10-06T01:49:32.304605+00:00|https://www.nbcnews.com/sports/nfl/titans-cardinals-stunning-touchdown-rcna235790|the stunning touchdown that sparked the titans unlikely comeback us news|3030a2d87c5a101a4886f0a5b6c3532b
