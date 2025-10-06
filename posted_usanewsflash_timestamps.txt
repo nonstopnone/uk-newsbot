@@ -4143,3 +4143,5 @@
 2025-10-06T19:18:26.487089+00:00|https://www.bbc.com/news/articles/c2ej0jpzx3yo|trump and brazilian president lula have friendly call us news|22b82e548888e327ac31215123bac57d
 2025-10-06T19:18:27.050326+00:00|https://www.nytimes.com/2025/10/06/us/politics/trump-navy-portland-troops.html|trump gave partisan speech to navy troops as he deployed troops to us cities us news|c8ad6ed38402e0279304ddb73e6a4609
 2025-10-06T19:18:27.619199+00:00|https://www.nytimes.com/2025/10/06/us/politics/republican-districts-political-pain-program-cancellations.html|trump aimed shutdown cuts at democrats but gop districts are hit too us news|e9fd1bb03a33d6a094276d29d6718571
+2025-10-06T19:57:45.778344+00:00|https://www.nbcnews.com/video/illinois-governor-holds-briefing-on-national-guard-deployment-to-chicago-249189445781|illinois governor holds briefing on national guard deployment to chicago us news|9d19c9030f3f9d5917c3b9e5fcaf3e6f
+2025-10-06T19:57:46.397892+00:00|https://www.nytimes.com/2025/10/06/business/walmart-shopping-malls.html|why did walmart just buy a shopping mall us news|c4933e6f575a0a96e4e18164c22aa55a
