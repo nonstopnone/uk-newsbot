@@ -4132,3 +4132,5 @@
 2025-10-06T16:46:35.953486+00:00|https://abcnews.go.com/US/video/supreme-court-denies-ghislaine-maxwell-appeal-126257745|watch supreme court denies ghislaine maxwell appeal us news|eb11be4edb9bb55268be2c63db343e26
 2025-10-06T17:40:45.521293+00:00|https://www.nytimes.com/2025/10/06/us/government-shutdown-reactions.html|processing the government shutdown in a divided america us news|0c6126d3c842408a5bca555d382ea0b7
 2025-10-06T17:40:46.073073+00:00|https://www.nytimes.com/2025/10/06/nyregion/buffalo-murder-verdict-meindl.html|retrial in 1993 buffalo murder case ends with a deadlocked jury us news|7f03eb672132e15042e417b8d032e5a8
+2025-10-06T17:57:33.094619+00:00|https://www.nytimes.com/2025/10/06/us/what-is-national-guard.html|what is the national guard and who controls it us news|b41fdcd9a89733681e472f4fc508ba52
+2025-10-06T17:57:33.558868+00:00|https://abcnews.go.com/Business/government-shutdown-halts-data-stokes-risk-economy-wobbles/story|government shutdown halts data stokes risk as economy wobbles experts say us news|53c4f367a728b476087ac95d0943b4b2
