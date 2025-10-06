@@ -4117,3 +4117,4 @@
 2025-10-06T13:46:20.049646+00:00|https://abcnews.go.com/Politics/supreme-court-denies-ghislaine-maxwell-appeal/story|supreme court denies ghislaine maxwell appeal us news|c165949401634e1215dddf8027273db2
 2025-10-06T13:46:20.763196+00:00|https://www.nytimes.com/2025/10/06/business/gold-price-us-economy.html|gold price nears $4000 an ounce a sign of turmoil and unease us news|2f62f9d2790422747ddacc19084b9e4e
 2025-10-06T13:57:41.913848+00:00|https://www.nytimes.com/2025/10/06/us/politics/supreme-court-ghislaine-maxwell-epstein-appeal.html|supreme court rejects appeal from ghislaine maxwell us news|68bd24947d92294d02fa5fab8f9e7e70
+2025-10-06T14:23:48.751818+00:00|https://www.bbc.com/news/articles/cn83e6q7lq4o|us supreme court rejects ghislaine maxwell appeal in epstein case us news|b5605b358a072488f9e2d8da404806e6
