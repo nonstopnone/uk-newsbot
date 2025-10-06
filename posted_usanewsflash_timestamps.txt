@@ -4140,3 +4140,6 @@
 2025-10-06T18:50:13.457546+00:00|https://www.nytimes.com/2025/10/06/us/politics/wesley-hunt-senate-texas-cornyn-paxton.html|wesley hunt enters texas gop senate race complicating path for cornyn us news|479f94e9ebace0f4d0b127c62206525f
 2025-10-06T18:50:13.958069+00:00|https://www.nytimes.com/2025/10/06/us/politics/adelita-grijalva-house-epstein.html|elected but not seated grijalva waits to sign epstein petition us news|97f9a078b9d8020378413478bb8c4562
 2025-10-06T18:50:14.447311+00:00|https://www.nytimes.com/2025/10/06/us/politics/trump-judge-oregon-immergut.html|who is judge immergut trump appointee in oregon blocks troop deployment us news|88244c7f9fc64598d3aa994529022ebc
+2025-10-06T19:18:26.487089+00:00|https://www.bbc.com/news/articles/c2ej0jpzx3yo|trump and brazilian president lula have friendly call us news|22b82e548888e327ac31215123bac57d
+2025-10-06T19:18:27.050326+00:00|https://www.nytimes.com/2025/10/06/us/politics/trump-navy-portland-troops.html|trump gave partisan speech to navy troops as he deployed troops to us cities us news|c8ad6ed38402e0279304ddb73e6a4609
+2025-10-06T19:18:27.619199+00:00|https://www.nytimes.com/2025/10/06/us/politics/republican-districts-political-pain-program-cancellations.html|trump aimed shutdown cuts at democrats but gop districts are hit too us news|e9fd1bb03a33d6a094276d29d6718571
