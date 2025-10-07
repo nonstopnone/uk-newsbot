@@ -4168,3 +4168,6 @@
 2025-10-06T23:20:20.487359+00:00|https://www.nytimes.com/2025/10/06/us/fear-ice-chicago.html|neighbors warn neighbors as fear of ice ripples across chicago us news|c41b40f758602a0bf3c515a0b0aefb18
 2025-10-06T23:39:21.001373+00:00|https://www.nytimes.com/2025/10/06/weather/enderlin-nd-tornado-ef5.html|deadly north dakota tornado was a rare ef5 weather service says us news|01be6985802013e71d3c871cfeb46bd0
 2025-10-07T01:46:48.004382+00:00|https://www.nbcnews.com/politics/donald-trump/trump-floats-invoking-insurrection-act-rcna236030|trump floats invoking the insurrection act us news|4eb50e8eb9031d91a288004612c9820f
+2025-10-07T02:48:18.740435+00:00|https://www.nytimes.com/2025/10/06/business/media/trump-pentagon-reporters-press.html|pentagon relaxes press access rules us news|d9302d7c45f4e54503672b7d0f24f9e1
+2025-10-07T02:48:19.262094+00:00|https://www.nytimes.com/2025/10/06/us/trump-insurrection-act-national-guard.html|trump said he could invoke the insurrection act to deploy troops heres what to know us news|af40f1729fe9808d2d6b0da525cece9a
+2025-10-07T02:48:19.792074+00:00|https://www.nbcnews.com/video/shorts/rainbow-brick-crosswalk-removed-in-miami-beach-249236037943|rainbow brick crosswalk removed in miami beach us news|b82e4253fc0f13eb7eb0a4b0f274730b
