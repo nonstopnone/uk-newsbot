@@ -4213,3 +4213,7 @@
 2025-10-07T19:18:27.688871+00:00|https://www.nytimes.com/2025/10/07/world/europe/sudan-darfur-icc-genocide-guilty.html|feared sudanese warlord found guilty at the hague for crimes in darfur us news|e120c5336f5844dc22bb7c8f567b02a4
 2025-10-07T19:18:28.222385+00:00|https://www.nytimes.com/2025/10/07/business/johnson-johnson-talc-lawsuit.html|johnson johnson ordered to pay $966 million in latest talc lawsuit us news|afeaf41005abf64486be43915ac954f7
 2025-10-07T19:57:31.749952+00:00|https://www.nbcnews.com/politics/politics-news/rural-communities-essential-air-service-flights-shutdown-deadline-rcna236159|a key lifeline for rural communities will expire sunday if shutdown continues us news|60fbd7f8206d2d6f566a573b1d95fb77
+2025-10-07T20:24:55.430616+00:00|https://www.bbc.com/news/videos/cpvle9pv1k0o|watch key moments from pam bondis tense senate hearing us news|88dacdd1c8775d27bf911cd39037544b
+2025-10-07T20:24:55.997279+00:00|https://www.bbc.com/news/articles/c75qpl70xvzo|five takeaways from pam bondis tense partisan senate hearing us news|f8c6a8553f3c0da094d2892902aa0175
+2025-10-07T20:24:56.544412+00:00|https://www.nytimes.com/2025/10/07/us/politics/hunter-biden-embassy-romania.html|hunter biden pursued a deal to sell land around the us embassy in romania us news|b66edec249c3e0d77fa4c86b9866b21f
+2025-10-07T20:24:57.115260+00:00|https://www.nbcnews.com/video/shorts/leaf-peepers-take-flight-over-vermont-s-fall-foliage-249294405733|leaf peepers take flight over vermonts fall foliage us news|8389082d2608663da3602ff589bbac3f
