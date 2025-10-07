@@ -4176,3 +4176,8 @@
 2025-10-07T08:31:20.807915+00:00|https://www.bbc.com/news/articles/cn76424yd2mo|carney meets trump in search of best deal for canada us news|0afd118167cee0cadcb6495fe38412e0
 2025-10-07T09:25:26.881990+00:00|https://www.nbcnews.com/video/israelis-cautiously-optimistic-over-trump-s-gaza-peace-plan-249253445892|israelis cautiously optimistic over trumps gaza peace plan us news|881a92984d7f98dc01f3e25baad73f78
 2025-10-07T09:25:27.369131+00:00|https://abcnews.go.com/International/after-2-years-israel-hamas-war-systematic-brutal/story|israelhamas war glimpses of possible peace after 2 years of systematic brutal war us news|fafc94e52a94f3723461fec01c5f0160
+2025-10-07T10:24:50.794224+00:00|https://www.nytimes.com/2025/10/07/us/politics/in-tennessee-special-election-a-crowded-field-for-an-open-congressional-seat.html|in tennessee special election a crowded field for an open congressional seat us news|66aba4d84433f3bfe0e587912d645604
+2025-10-07T10:24:51.426276+00:00|https://www.nytimes.com/2025/10/07/us/politics/portland-trump.html|in 2020 trump intervened in portlands protests they got even worse us news|dafd0d0650d79730fecdc80e9487e62f
+2025-10-07T10:24:52.044668+00:00|https://www.nytimes.com/2025/10/07/world/canada/carney-trump-white-house-meeting.html|what to know about carney and trumps white house meeting us news|e3630f5247d684dfc9a989814a984e1b
+2025-10-07T10:24:52.674700+00:00|https://www.nytimes.com/2025/10/07/us/politics/trump-farmers-aid-china-trade-war.html|trump to unveil farmer aid as china shuns us crops us news|964598a21d78e05e27d4c801af04c7ef
+2025-10-07T10:24:53.265879+00:00|https://www.nytimes.com/2025/10/07/science/pets-health-pollution-tips.html|how to protect your pets from pollution us news|70211767a0f564761dd52356937d9cd2
