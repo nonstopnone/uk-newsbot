@@ -4167,3 +4167,4 @@
 2025-10-06T23:20:19.949927+00:00|https://www.nbcnews.com/health/health-news/hydration-spa-unregulated-study-iv-drip-vitamins-detox-rcna235854|hydration spas are largely unregulated study finds us news|664d8e65b74951dfddb41347770811be
 2025-10-06T23:20:20.487359+00:00|https://www.nytimes.com/2025/10/06/us/fear-ice-chicago.html|neighbors warn neighbors as fear of ice ripples across chicago us news|c41b40f758602a0bf3c515a0b0aefb18
 2025-10-06T23:39:21.001373+00:00|https://www.nytimes.com/2025/10/06/weather/enderlin-nd-tornado-ef5.html|deadly north dakota tornado was a rare ef5 weather service says us news|01be6985802013e71d3c871cfeb46bd0
+2025-10-07T01:46:48.004382+00:00|https://www.nbcnews.com/politics/donald-trump/trump-floats-invoking-insurrection-act-rcna236030|trump floats invoking the insurrection act us news|4eb50e8eb9031d91a288004612c9820f
