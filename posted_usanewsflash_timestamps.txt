@@ -4228,3 +4228,4 @@
 2025-10-07T22:20:46.917830+00:00|https://abcnews.go.com/US/doj-adds-2-state-attorneys-comey-case-ahead/story|doj adds 2 outofstate attorneys to comey case ahead of his arraignment us news|2bf0a2f8c10f1ff487a5a7c5cc340935
 2025-10-07T22:20:47.400003+00:00|https://www.nbcnews.com/video/shorts/trekkers-rescued-from-blizzard-struck-mount-everest-249302085867|trekkers rescued from blizzardstruck mount everest us news|996539e008f39ba44da2bc42a52e15be
 2025-10-07T22:40:30.384205+00:00|https://www.nytimes.com/2025/10/07/briefing/anniversary-of-oct-7-pets-health-watchdogs.html|in israel the anniversary of oct 7 was quiet but inescapable us news|37fb092d508ec6b5cf14962acbc113b6
+2025-10-07T22:57:41.461968+00:00|https://www.nytimes.com/2025/10/07/us/politics/trump-democrats-shutdown-obamacare.html|health care politics bolster democrats in shutdown fight us news|455f3be3d58dd7fae5778ddeeb0995c8
