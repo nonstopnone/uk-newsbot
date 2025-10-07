@@ -4218,3 +4218,4 @@
 2025-10-07T20:24:56.544412+00:00|https://www.nytimes.com/2025/10/07/us/politics/hunter-biden-embassy-romania.html|hunter biden pursued a deal to sell land around the us embassy in romania us news|b66edec249c3e0d77fa4c86b9866b21f
 2025-10-07T20:24:57.115260+00:00|https://www.nbcnews.com/video/shorts/leaf-peepers-take-flight-over-vermont-s-fall-foliage-249294405733|leaf peepers take flight over vermonts fall foliage us news|8389082d2608663da3602ff589bbac3f
 2025-10-07T20:41:46.093663+00:00|https://www.nytimes.com/2025/10/07/us/chicago-marathon-immigration-trump.html|new raceday worry for the chicago marathon immigration enforcement us news|c24240315f7bce1aa45bcc0bd6214020
+2025-10-07T20:57:31.976354+00:00|https://www.nytimes.com/2025/10/07/us/politics/trump-government-shutdown-layoffs.html|mass layoffs trump is threatening in shutdown fight may be illegal us news|46448b9096fd8a7219c64e92893de7a8
