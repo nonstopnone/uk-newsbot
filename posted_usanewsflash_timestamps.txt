@@ -4182,3 +4182,4 @@
 2025-10-07T10:24:52.674700+00:00|https://www.nytimes.com/2025/10/07/us/politics/trump-farmers-aid-china-trade-war.html|trump to unveil farmer aid as china shuns us crops us news|964598a21d78e05e27d4c801af04c7ef
 2025-10-07T10:24:53.265879+00:00|https://www.nytimes.com/2025/10/07/science/pets-health-pollution-tips.html|how to protect your pets from pollution us news|70211767a0f564761dd52356937d9cd2
 2025-10-07T10:43:46.298821+00:00|https://www.nytimes.com/2025/10/07/podcasts/the-headlines/trump-insurrection-act-flights-delayed-government-shutdown.html|trump considers insurrection act and flights slow during government shutdown us news|cbab47dbb24ae3a5c3189b9d7dfaaf31
+2025-10-07T10:57:38.046041+00:00|https://www.nytimes.com/2025/10/07/world/oct-7-anniversary-trump-military-france.html|president trump and the military us news|73e04ccb4aeece1ac15b2a7d850868d8
