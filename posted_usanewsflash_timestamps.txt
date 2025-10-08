@@ -4266,3 +4266,5 @@
 2025-10-08T14:57:37.375074+00:00|https://www.nytimes.com/2025/10/08/nyregion/cuomo-rikers-island-jails.html|cuomo calls for rebuilding rikers island and keeping the jails open us news|d8c46ddea24101f926e37bc8518e0f1f
 2025-10-08T14:57:37.935856+00:00|https://abcnews.go.com/US/arrest-made-connection-palisades-fire/story|arrest made in connection with palisades fire sources us news|9f09bc9695f486453d076d57562847af
 2025-10-08T14:57:38.510905+00:00|https://abcnews.go.com/US/wireStory/joan-kennedy-wife-sen-edward-kennedy-died-126328284|joan kennedy first wife of sen edward kennedy has died us news|d2fdce75ad3b2279038b1c73f8edb35e
+2025-10-08T15:25:21.991786+00:00|https://www.nytimes.com/2025/10/08/us/trump-pritzker-brandon-johnson-jail-ice.html|trump says chicago mayor and illinois governor should be jailed amid national guard tensions us news|0ed3e5ffe85f341ac879fc70f4dd5fb9
+2025-10-08T15:25:22.733449+00:00|https://www.nbcnews.com/news/us-news/arrest-made-palisades-fire-investigation-rcna236378|arrest made in deadly palisades fire investigation law enforcement sources say us news|000bad3179dd8ba85001491fdaa9d36e
