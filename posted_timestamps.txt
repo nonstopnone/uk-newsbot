@@ -1,5 +1,3 @@
-2025-10-01T01:43:41.954471+00:00|https://www.bbc.com/news/articles/c8exj892085o|ao boss tells bbc were a british success story the uk should be turbocharging us|b098a8de4175b107850151a42a7a65a3
-2025-10-01T01:43:52.530211+00:00|https://www.bbc.com/news/articles/cr747l04yr8o|steve coogan i dont want to live with alan but i do like to visit him|57df9193621184dab720b3d8922491fa
 2025-10-01T03:03:27.917734+00:00|https://www.bbc.com/news/articles/c2ejvld0ypyo|half of uk adults now regularly use mobile payments|713da1275bb6e5cb0e64b9a72e4bd755
 2025-10-01T06:51:13.035871+00:00|https://www.bbc.com/news/articles/c5yge58rpnmo|council may include irish in logo but members split on plans|662d1d55d17fb8b2ed6c80e5588bce30
 2025-10-01T07:46:03.281037+00:00|https://www.bbc.com/news/articles/cd72p30v574o|pm tells bbc he wants to change how international law used in asylum cases|cf0b3d223fee264cb07fde34197020b4
@@ -113,3 +111,7 @@
 2025-10-07T22:18:08.886543+00:00|https://www.bbc.com/news/articles/crrj4qqqy7po|thousands join biggestever uk environmental lawsuit over river pollution|1190ab115215768bebc4f12c583088c7
 2025-10-08T01:37:23.507366+00:00|https://news.sky.com/story/why-your-friday-night-fish-and-chips-could-be-under-threat-13446745|why your friday night fish and chips could be under threat|61d2856fd1bc81623abf72e55ca32f09
 2025-10-08T01:37:34.110142+00:00|https://www.bbc.com/news/articles/cp8jzdzmqgro|how stacey solomon decluttered our homes back from the brink|f80311b1827b183ef46b15200b0aad3f
+2025-10-08T02:46:51.496939+00:00|https://www.bbc.com/news/articles/cvg9ygnj44no|uk deaths of 1611 homeless people in 2024 is record high|e2680739c0981765cf1ea9b640ef0dc0
+2025-10-08T02:47:01.981689+00:00|https://www.bbc.com/news/articles/c5y30lr7rnvo|children could kill with catapults farmer warns|824cf08a8ca740489825b38b953bf91c
+2025-10-08T02:47:12.485162+00:00|https://news.sky.com/story/huge-surge-in-online-hate-crimes-targeting-footballers-revealed-13446741|huge rise in online hate targeting footballers as top cop warns its creeping into stadiums|470c0ccb9fe6592168e056e9d50199e3
+2025-10-08T02:47:23.006009+00:00|https://www.bbc.com/news/articles/c39r3ylnjpzo|romesh ranganathan on overexposure and feeling intimidated by sheridan smith|c42f3804ef983c2766cbcdf8b263fc35
