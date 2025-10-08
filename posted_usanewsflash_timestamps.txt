@@ -4270,3 +4270,8 @@
 2025-10-08T15:25:22.733449+00:00|https://www.nbcnews.com/news/us-news/arrest-made-palisades-fire-investigation-rcna236378|arrest made in deadly palisades fire investigation law enforcement sources say us news|000bad3179dd8ba85001491fdaa9d36e
 2025-10-08T15:43:17.758139+00:00|https://www.nytimes.com/2025/10/08/arts/music/taylor-swift-showgirl-sales-adele.html|taylor swifts the life of a showgirl has already sold 35 million beating adele us news|9b6d5e43495debf22b3f2b14c2dd87bc
 2025-10-08T15:57:44.678542+00:00|https://www.nytimes.com/2025/10/08/us/los-angeles-palisades-fire-arrest.html|arrest made in palisades fire in los angeles us news|93ea2583045e08e5b3ee4885c357452d
+2025-10-08T16:29:23.457765+00:00|https://www.nbcnews.com/video/shorts/former-fbi-director-james-comey-pleads-not-guilty-249358405867|former fbi director james comey pleads not guilty us news|6841ca75e3170aa153612dbf815b92e8
+2025-10-08T16:29:24.332788+00:00|https://www.nbcnews.com/video/shorts/more-americans-are-living-in-rvs-as-cost-of-homes-rise-249364037764|more americans are living in rvs as cost of homes rise us news|dc9847ab55db63bb368c6a7d98f0a21f
+2025-10-08T16:29:25.038822+00:00|https://abcnews.go.com/US/video/fbi-director-james-comey-pleads-guilty-126330331|watch exfbi director james comey pleads not guilty us news|775a2a626737abdd5ff7c7f9a0b35a34
+2025-10-08T16:29:25.730521+00:00|https://www.nbcnews.com/video/shorts/rep-greene-i-m-not-elected-by-the-president-249360453790|rep greene im not elected by the president us news|44e3022d943f3bfbff75ed4f675fdfc1
+2025-10-08T16:29:26.525489+00:00|https://www.nytimes.com/2025/10/08/world/asia/nepal-gen-z-revolution.html|how nepals gen z revolution spiraled out of control us news|66e2e5b83783931f926e082672ab2ea7
