@@ -4306,3 +4306,8 @@
 2025-10-08T21:57:51.891343+00:00|https://www.bbc.com/news/articles/cx2p816z4zgo|escaped new orleans inmate captured after 5 months on the run us news|c5f5235ec7a99b2f81b0922a1e9b9473
 2025-10-08T22:21:39.302363+00:00|https://www.nbcnews.com/video/shorts/trump-floats-invoking-insurrection-act-249397317929|trump floats invoking insurrection act us news|24b3fd2ca0ea266a6267916476c5db68
 2025-10-08T22:21:39.944515+00:00|https://www.nytimes.com/2025/10/08/nyregion/nypd-john-chell-retires.html|john chell top nypd chief and adams ally retires us news|05586c2cfb5d62293a538b4c3049eca9
+2025-10-08T22:41:13.297562+00:00|https://www.nytimes.com/2025/10/08/us/politics/national-guard-governors.html|texas bluestate deployments shred relations between governors us news|ab6f7502ab650dd324406636511621fb
+2025-10-08T22:41:13.884175+00:00|https://www.nytimes.com/2025/10/08/world/americas/colombia-citizens-boat-us-bombed.html|colombias president says boat bombed by us was carrying colombians us news|802254b60e03c582c218562b17ed0f6d
+2025-10-08T22:41:14.637012+00:00|https://www.nytimes.com/2025/10/08/well/eat/gavin-newsom-ultraprocessed-food-ban-california.html|california will ban certain ultraprocessed foods in schools us news|2591cdcaf245b625b2c7a3d888ee7508
+2025-10-08T22:41:15.214487+00:00|https://www.nytimes.com/2025/10/08/us/politics/comey-legal-challenges-explained.html|comeys two legal challenges to his indictment explained us news|d48459b1bed56660240734669b1f1d6d
+2025-10-08T22:41:15.782215+00:00|https://www.nytimes.com/2025/10/08/briefing/comey-not-guilty-plea-national-guard-chicago.html|comey pleaded not guilty us news|660e2acc1e960d8689f5d9acda045d89
