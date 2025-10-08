@@ -4278,3 +4278,8 @@
 2025-10-08T16:47:31.036525+00:00|https://www.nytimes.com/2025/10/08/us/politics/tom-homan-sting-money.html|tom homan was said to have received $50000 from agents he may not have to return it us news|c5684cb4ce2c9b493226dc318963adf1
 2025-10-08T16:57:56.229003+00:00|https://www.nbcnews.com/video/shorts/29-year-old-man-charged-with-starting-palisades-fire-249366597568|29yearold man charged with starting palisades fire us news|1053bfde25f2ddebc61b777878ac88e0
 2025-10-08T16:57:56.704960+00:00|https://www.nbcnews.com/video/authorities-announce-arrest-in-california-s-palisades-fire-249364549880|authorities announce arrest in californias palisades fire us news|5d0b7147f1fe1c257734d308d0f50e5f
+2025-10-08T17:20:25.482751+00:00|https://www.bbc.com/news/articles/ckg37zj72nzo|trump calls for jailing of illinois governor and chicago mayor in immigration standoff us news|6ce4c90ee272ced2ab0600e327bd9d21
+2025-10-08T17:20:26.000734+00:00|https://www.bbc.com/news/articles/cy4r3xj78dpo|exfbi director james comey pleads not guilty to federal charges us news|48dab34a637be0cb6f98c1eaa8d7eb8a
+2025-10-08T17:20:26.506731+00:00|https://www.bbc.com/news/videos/c1dqwz61p74o|watch two people rescued after plane crashes in everglades us news|023792dc1b50818320198037c14c6f2c
+2025-10-08T17:20:27.015248+00:00|https://www.bbc.com/news/articles/c8exz5yg14ko|chatgpt image snares suspect in deadly pacific palisades fire us news|f4c7e26d2a25b4aa573b4c2b4df8808c
+2025-10-08T17:20:27.549708+00:00|https://www.nytimes.com/2025/10/08/us/harvard-palestinian-protest-die-in-lawsuit.html|the harvard diein that set off a debate over protest and punishment us news|07f7412c215693fbda50ec79e5881431
