@@ -4283,3 +4283,6 @@
 2025-10-08T17:20:26.506731+00:00|https://www.bbc.com/news/videos/c1dqwz61p74o|watch two people rescued after plane crashes in everglades us news|023792dc1b50818320198037c14c6f2c
 2025-10-08T17:20:27.015248+00:00|https://www.bbc.com/news/articles/c8exz5yg14ko|chatgpt image snares suspect in deadly pacific palisades fire us news|f4c7e26d2a25b4aa573b4c2b4df8808c
 2025-10-08T17:20:27.549708+00:00|https://www.nytimes.com/2025/10/08/us/harvard-palestinian-protest-die-in-lawsuit.html|the harvard diein that set off a debate over protest and punishment us news|07f7412c215693fbda50ec79e5881431
+2025-10-08T17:41:28.999615+00:00|https://www.nytimes.com/2025/10/08/us/politics/trump-portland-troops.html|before trump ordered in troops federal officers called portland protests low energy us news|233e6023f83f5e8b28c625a70bb7d639
+2025-10-08T17:41:29.561685+00:00|https://www.nbcnews.com/video/shorts/some-americans-are-using-chatgpt-in-place-of-lawyers-249365061896|some americans are using chatgpt in place of lawyers us news|b06566d87a8622507c3e66bd7ba22619
+2025-10-08T17:41:30.381098+00:00|https://abcnews.go.com/US/video/authorities-announce-arrest-connection-palisades-firev-126335430|watch authorities announce arrest in connection with palisades fire us news|a2ad7e86e3a777fca26bfc3cd717325c
