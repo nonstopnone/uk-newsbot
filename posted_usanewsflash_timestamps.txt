@@ -4343,3 +4343,5 @@
 2025-10-09T10:26:38.718725+00:00|https://www.nytimes.com/2025/10/09/podcasts/the-headlines/israel-hostage-deal-la-wildfire-arrest.html|a breakthrough hostage deal and an arrest in deadly la wildfire us news|d7a940ac5dfc33ab097305bbeb39c953
 2025-10-09T11:19:31.304118+00:00|https://www.nbcnews.com/video/celebrations-erupt-in-gaza-after-israel-hamas-deal-agreed-249464901951|celebrations erupt in gaza after israelhamas deal agreed us news|696a9372e0d670d29a527c9f48adceec
 2025-10-09T11:39:43.071565+00:00|https://abcnews.go.com/Politics/trumps-national-guard-faces-critical-legal-tests/story|trumps use of the national guard faces critical legal tests us news|a6009f1f9286af7db767623be54d2f28
+2025-10-09T11:57:38.996639+00:00|https://www.today.com/video/national-guard-arrives-in-chicago-as-deployment-battle-intensifies-249479237962|national guard arrives in chicago as deployment battle intensifies us news|7a947ea00de54b8c2f2600f9af8eda50
+2025-10-09T11:57:39.884816+00:00|https://abcnews.go.com/International/israel-hamas-ceasefire-gaza-proposed-deal/story|what to know about the proposed israelhamas gaza ceasefire us news|6e514257c06639c329f2db636c7c1e4b
