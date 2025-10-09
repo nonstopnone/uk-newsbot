@@ -4371,3 +4371,4 @@
 2025-10-09T17:42:07.620361+00:00|https://www.nbcnews.com/video/shorts/trump-s-middle-east-deal-required-high-intensity-249564741538|trumps middle east deal required high intensity us news|ac9b0b44ca15da5b40933969c27dc482
 2025-10-09T17:57:24.638072+00:00|https://www.nytimes.com/2025/10/09/us/politics/oklahoma-governor-national-guard.html|oklahomas republican governor criticizes national guard deployment in chicago us news|8794adc63091f1ef20eefe0a647aca09
 2025-10-09T18:57:47.021362+00:00|https://www.nytimes.com/2025/10/09/us/politics/democrats-shutdown-trump-administration.html|democratic alarm over an unbound trump fuels shutdown standoff us news|bec19f2095524d224f673600c93aaf68
+2025-10-09T19:39:17.084722+00:00|https://www.nbcnews.com/politics/congress/emboldened-democrats-dig-health-care-demands-shutdown-fight-rcna236625|emboldened democrats dig in on health care demands in shutdown fight us news|e29a3651f37a78fbd234574e42b5fc76
