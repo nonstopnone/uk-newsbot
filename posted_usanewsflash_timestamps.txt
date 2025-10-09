@@ -4354,3 +4354,8 @@
 2025-10-09T15:34:10.330819+00:00|https://www.nytimes.com/2025/10/08/us/dinosaur-stolen-california-gas-station.html|a stolen dinosaur named claire is returned to a california gas station us news|883789d96f49e41db390676e7a55802e
 2025-10-09T15:52:27.543894+00:00|https://www.bbc.com/news/videos/ce329ygzezpo|jeffries to lawler keep your mouth shut us news|73637c1deac39bc40e3714e4f49b1a26
 2025-10-09T15:52:28.285158+00:00|https://www.nytimes.com/2025/10/09/world/europe/russia-azerbaijan-flight-8243-crash.html|10 months later russia admits deadly downing of azerbaijani plane us news|9e67dd22f47993d2aeb6883796a4320e
+2025-10-09T16:33:24.997267+00:00|https://www.bbc.com/news/articles/cvg02rdxxz7o|tesla investigated over selfdriving cars on wrong side of road us news|a9dfb029124b3c093cfef7d73bfa1d80
+2025-10-09T16:33:25.527778+00:00|https://abcnews.go.com/US/video/crypto-scam-costs-woman-life-savings-126369926|watch crypto scam almost costs woman her life savings us news|b01d79a0b8f0b7bebb513cca49c56dda
+2025-10-09T16:33:26.024712+00:00|https://www.nytimes.com/2025/10/09/business/new-jersey-electricity-prices-governor-election.html|in nj governors race energy costs have become a central issue us news|73937b358c02878fe0165e028fb323a4
+2025-10-09T16:33:26.524683+00:00|https://www.nytimes.com/2025/10/09/realestate/flood-insurance-government-shutdown.html|government shutdown scrambles some home sales in flood zones us news|067580d0a42a14114fb2e16060a442ef
+2025-10-09T16:33:27.075715+00:00|https://www.nbcnews.com/politics/congress/c-span-caller-confronts-house-speaker-mike-johnson-shutdown-effects-ki-rcna236638|cspan viewer confronts johnson about getting her children medication during the shutdown us news|25d820a182a94f3e74f39e2408ca372e
