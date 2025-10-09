@@ -4359,3 +4359,5 @@
 2025-10-09T16:33:26.024712+00:00|https://www.nytimes.com/2025/10/09/business/new-jersey-electricity-prices-governor-election.html|in nj governors race energy costs have become a central issue us news|73937b358c02878fe0165e028fb323a4
 2025-10-09T16:33:26.524683+00:00|https://www.nytimes.com/2025/10/09/realestate/flood-insurance-government-shutdown.html|government shutdown scrambles some home sales in flood zones us news|067580d0a42a14114fb2e16060a442ef
 2025-10-09T16:33:27.075715+00:00|https://www.nbcnews.com/politics/congress/c-span-caller-confronts-house-speaker-mike-johnson-shutdown-effects-ki-rcna236638|cspan viewer confronts johnson about getting her children medication during the shutdown us news|25d820a182a94f3e74f39e2408ca372e
+2025-10-09T16:50:51.497988+00:00|https://www.nytimes.com/2025/10/09/nyregion/who-can-afford-three-kids-in-new-york-city.html|who can afford three kids in new york city us news|bc47df585ed8df363c66ef01c997145e
+2025-10-09T16:50:52.109508+00:00|https://www.nytimes.com/2025/10/09/us/haiti-violence-children-crime.html|number of children fleeing violence in haiti soars us news|4b68c04e2339792b01a428b7b87c945b
