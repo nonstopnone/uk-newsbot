@@ -4361,3 +4361,7 @@
 2025-10-09T16:33:27.075715+00:00|https://www.nbcnews.com/politics/congress/c-span-caller-confronts-house-speaker-mike-johnson-shutdown-effects-ki-rcna236638|cspan viewer confronts johnson about getting her children medication during the shutdown us news|25d820a182a94f3e74f39e2408ca372e
 2025-10-09T16:50:51.497988+00:00|https://www.nytimes.com/2025/10/09/nyregion/who-can-afford-three-kids-in-new-york-city.html|who can afford three kids in new york city us news|bc47df585ed8df363c66ef01c997145e
 2025-10-09T16:50:52.109508+00:00|https://www.nytimes.com/2025/10/09/us/haiti-violence-children-crime.html|number of children fleeing violence in haiti soars us news|4b68c04e2339792b01a428b7b87c945b
+2025-10-09T16:59:18.232730+00:00|https://www.bbc.com/news/articles/cn4lexk7wn7o|texas court blocks death row inmates execution in shaken baby case us news|81b79481d11e14fa87c57d592034d683
+2025-10-09T16:59:18.752892+00:00|https://www.bbc.com/news/articles/c1kw9exvejko|trumps use of national guard in us cities faces key court tests us news|63f7903bf3f38db6ed1b9a6919febcd3
+2025-10-09T16:59:19.471889+00:00|https://abcnews.go.com/US/video/national-guard-now-duty-chicago-area-despite-local-126371677|watch national guard now on duty in chicago area despite local opposition us news|0bfa772be10eed461d311f0007fd0829
+2025-10-09T16:59:20.104458+00:00|https://www.nbcnews.com/video/shorts/hostages-held-by-hamas-should-be-released-next-week-249557061620|hostages held by hamas should be released next week us news|8b80bd1f7a2be29549a495846098f21c
