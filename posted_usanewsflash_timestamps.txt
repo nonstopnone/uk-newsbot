@@ -4352,3 +4352,5 @@
 2025-10-09T15:24:27.083278+00:00|https://www.nytimes.com/2025/10/08/nyregion/joseph-herbert-dead.html|joseph herbert who helped catch copycat zodiac killer dies at 68 us news|79679d63d1d1ddad8eb45971241b3a21
 2025-10-09T15:24:27.680356+00:00|https://www.nbcnews.com/video/shorts/irs-furloughs-nearly-half-its-workforce-amid-shutdown-249528389872|irs furloughs nearly half its workforce amid shutdown us news|a83b3a1eeda7954937bc93c3d0b16c43
 2025-10-09T15:34:10.330819+00:00|https://www.nytimes.com/2025/10/08/us/dinosaur-stolen-california-gas-station.html|a stolen dinosaur named claire is returned to a california gas station us news|883789d96f49e41db390676e7a55802e
+2025-10-09T15:52:27.543894+00:00|https://www.bbc.com/news/videos/ce329ygzezpo|jeffries to lawler keep your mouth shut us news|73637c1deac39bc40e3714e4f49b1a26
+2025-10-09T15:52:28.285158+00:00|https://www.nytimes.com/2025/10/09/world/europe/russia-azerbaijan-flight-8243-crash.html|10 months later russia admits deadly downing of azerbaijani plane us news|9e67dd22f47993d2aeb6883796a4320e
