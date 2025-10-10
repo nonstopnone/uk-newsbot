@@ -4427,3 +4427,6 @@
 2025-10-10T15:40:52.154346+00:00|https://www.nbcnews.com/business/economy/trump-threatens-china-new-tariffs-countermeasures-rcna236890|trump threatens china with new tariffs and countermeasures us news|004cd44c8326bda865bfd3b54eaf6462
 2025-10-10T15:57:30.211118+00:00|https://www.bbc.com/news/articles/cj075gq5n81o|melania trump says putin responded to her pleas about ukrainian children us news|70d716240dfccefdf6de6178f24e5a44
 2025-10-10T15:57:30.840936+00:00|https://www.nytimes.com/2025/10/10/us/mit-rejects-white-house-compact.html|mit rejects a white house offer for special funding treatment us news|b748bf9146a0ac4739484e5baf715268
+2025-10-10T16:46:33.974834+00:00|https://www.bbc.com/news/articles/cn4wkd7729po|trump threatens to pull out of planned xi meeting us news|e8eae70933d1d08ee18a99902c4f6188
+2025-10-10T16:46:34.461420+00:00|https://www.nbcnews.com/video/shorts/first-lady-talks-about-family-reunification-initiative-249644101605|first lady talks about family reunification initiative us news|cc76f7186f88023f59b3f02e537f205d
+2025-10-10T16:46:34.968478+00:00|https://www.nbcnews.com/news/us-news/explosion-rocks-tennessee-plant-rcna236904|deadly explosion rocks tennessee plant leaving several people unaccounted for us news|1944b0f60cdc516cf786adc6c27e0939
