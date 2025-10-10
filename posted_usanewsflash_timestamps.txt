@@ -4450,3 +4450,5 @@
 2025-10-10T20:25:03.756903+00:00|https://www.nytimes.com/2025/10/10/us/politics/democrats-israel-gaza-trump.html|democrats praise israelgaza peace deal but not trump for forging it us news|47d6f8456aafa41d7cc9f7be1d9617e3
 2025-10-10T20:25:04.490918+00:00|https://www.nbcnews.com/now/video/white-house-begins-laying-off-federal-workers-amid-government-shutdown-249658437878|white house begins laying off federal workers amid government shutdown us news|077ff6be12836ea4191d31f97c0cb2bb
 2025-10-10T20:25:05.220788+00:00|https://www.nytimes.com/2025/10/10/business/stock-market-trump-tariffs.html|sp and nasdaq slump as stocks fall on trump china tariff threat us news|e5e97f0bef0def4d68c7e7ccd74acfab
+2025-10-10T20:41:42.361447+00:00|https://www.nytimes.com/2025/10/10/us/politics/uvalde-shooting-new-school-texas.html|families of uvalde shooting victims attend bittersweet school opening us news|dc7024a15068028b64aff60ab0e62df9
+2025-10-10T20:41:43.076213+00:00|https://www.nytimes.com/2025/10/10/us/politics/letitia-james-mortgage-fraud-charges.html|the mortgage fraud case against letitia james explained us news|d775aea24863c2c863310cbd613c5a8d
