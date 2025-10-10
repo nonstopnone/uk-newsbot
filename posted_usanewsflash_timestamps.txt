@@ -4440,3 +4440,6 @@
 2025-10-10T17:57:50.405310+00:00|https://www.bbc.com/news/articles/c1mxd1g71vxo|trump administration begins mass firings as us shutdown continues us news|bdea100e566ad3703ac38f20acaeacfa
 2025-10-10T17:57:50.967131+00:00|https://www.bbc.com/news/articles/c75q2y92090o|qatar to build air force facility in idaho us says us news|3e4a86c779fb24b9021adbc02b17f935
 2025-10-10T17:57:51.515934+00:00|https://abcnews.go.com/US/marine-veteran-threatened-shoot-texas-high-school-zoo/story|marine corps veteran accused of planning shootings at texas school zoo police us news|613242295259f25278be1f0ea2cb3799
+2025-10-10T18:32:50.767407+00:00|https://www.nytimes.com/2025/10/10/us/politics/melania-trump-putin-ukraine-children.html|melania trump says she has been working with putin to reunite missing ukrainian children us news|0d05350aefe32dedfefcdd3de894d3ab
+2025-10-10T18:32:51.355157+00:00|https://www.nbcnews.com/politics/trump-administration/trumps-budget-director-says-layoffs-begun-government-shutdown-rcna236923|trump administration begins substantial federal worker layoffs amid shutdown us news|71f7a3be3f0624911ce9147cc3feb710
+2025-10-10T18:32:51.929129+00:00|https://abcnews.go.com/US/video/beloved-march-madness-icon-sister-jean-dies-106-126411786|watch beloved march madness icon sister jean dies at 106 us news|6e12d5b0f761e87c3eaa25fab699dd8c
