@@ -4425,3 +4425,5 @@
 2025-10-10T14:57:44.937844+00:00|https://abcnews.go.com/US/pam-bondi-doj-officials-caught-off-guard-tish/story|pam bondi doj officials caught off guard by tish james indictment sources us news|db1ee13fa45a433fb721171208d73dd3
 2025-10-10T15:23:02.943073+00:00|https://abcnews.go.com/Politics/melania-trump-putin-communicating-children-affected-war/story|melania trump says she and putin communicating about children affected by war us news|cddd9dfb5369c11e55d2e7babe380a0c
 2025-10-10T15:40:52.154346+00:00|https://www.nbcnews.com/business/economy/trump-threatens-china-new-tariffs-countermeasures-rcna236890|trump threatens china with new tariffs and countermeasures us news|004cd44c8326bda865bfd3b54eaf6462
+2025-10-10T15:57:30.211118+00:00|https://www.bbc.com/news/articles/cj075gq5n81o|melania trump says putin responded to her pleas about ukrainian children us news|70d716240dfccefdf6de6178f24e5a44
+2025-10-10T15:57:30.840936+00:00|https://www.nytimes.com/2025/10/10/us/mit-rejects-white-house-compact.html|mit rejects a white house offer for special funding treatment us news|b748bf9146a0ac4739484e5baf715268
