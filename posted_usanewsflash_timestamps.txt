@@ -4397,3 +4397,4 @@
 2025-10-10T02:53:43.419536+00:00|https://www.nytimes.com/2025/10/09/us/politics/judge-rejects-indictment-dc.html|judge rejects unprecedented indictment amid trumps dc clampdown us news|b27825f50a8f66cf8db21372d0c8fb5d
 2025-10-10T02:53:44.086778+00:00|https://www.nbcnews.com/video/mike-johnson-addresses-military-pay-layoffs-during-government-shutdown-249599557988|mike johnson addresses military pay layoffs during government shutdown us news|0f48e68dbc503a3d598a21a0c8bcaa0e
 2025-10-10T02:53:44.792037+00:00|https://abcnews.go.com/Technology/wireStory/76-magnitude-earthquake-strikes-offshore-southern-philippines-126385978|74magnitude earthquake strikes offshore from southern philippines us news|a957046e80f434cd48902c80986bbba7
+2025-10-10T03:25:54.081694+00:00|https://www.nytimes.com/2025/10/09/us/senate-passes-bipartisan-925-billion-defense-policy-bill.html|senate passes bipartisan $925 billion defense policy bill us news|94d521f13855bcb5ec99c056dbd324d1
