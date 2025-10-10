@@ -4430,3 +4430,5 @@
 2025-10-10T16:46:33.974834+00:00|https://www.bbc.com/news/articles/cn4wkd7729po|trump threatens to pull out of planned xi meeting us news|e8eae70933d1d08ee18a99902c4f6188
 2025-10-10T16:46:34.461420+00:00|https://www.nbcnews.com/video/shorts/first-lady-talks-about-family-reunification-initiative-249644101605|first lady talks about family reunification initiative us news|cc76f7186f88023f59b3f02e537f205d
 2025-10-10T16:46:34.968478+00:00|https://www.nbcnews.com/news/us-news/explosion-rocks-tennessee-plant-rcna236904|deadly explosion rocks tennessee plant leaving several people unaccounted for us news|1944b0f60cdc516cf786adc6c27e0939
+2025-10-10T17:20:06.303365+00:00|https://www.nbcnews.com/news/education/mit-rejects-trump-agenda-funding-benefits-rcna236894|mit rejects trump administrations education agenda in exchange for funding benefits us news|e4620d004ec9589c4017781b89dbb421
+2025-10-10T17:20:06.958357+00:00|https://www.nbcnews.com/tech/tech-news/ai-homeless-man-prank-social-media-prompts-concern-local-authorities-rcna236550|ai homeless man prank on social media prompts concern from local authorities us news|91ddc51b2fa36c546b603b75eca7cee7
