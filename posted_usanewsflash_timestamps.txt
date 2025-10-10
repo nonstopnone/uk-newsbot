@@ -4418,3 +4418,5 @@
 2025-10-10T11:57:32.818828+00:00|https://www.nytimes.com/2025/10/10/us/politics/letitia-james-new-york-attorney-general-indicted.html|how letitia james now indicted will stay as new yorks attorney general us news|3207e944ba3247a3e2d6e084e30dadb2
 2025-10-10T12:48:51.691548+00:00|https://www.nytimes.com/2025/10/10/world/europe/france-domestic-politics-influence.html|frances domestic instability has weakened its diplomatic clout us news|7f94a66152a4dda0ca936346ee23347a
 2025-10-10T12:48:52.281999+00:00|https://www.nytimes.com/2025/10/10/us/politics/letitia-james-black-women-trump-targets.html|letitia james is among prominent black women targeted by trump us news|21faa08de7a5c02003fad1f7b32566de
+2025-10-10T13:57:41.730049+00:00|https://www.nytimes.com/2025/10/09/us/judge-national-guard-chicago-illinois.html|federal judge temporarily blocks trumps national guard deployment in chicago area us news|0259de40117145051fe206e90769dc54
+2025-10-10T13:57:42.580740+00:00|https://www.nytimes.com/2025/10/10/world/middleeast/gaza-cease-fire-israel-hamas.html|gaza ceasefire begins israel says as thousands return to the north us news|9f76539e607d9bca7578afb3712f3b6a
