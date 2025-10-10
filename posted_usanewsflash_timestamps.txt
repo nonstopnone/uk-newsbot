@@ -4437,3 +4437,6 @@
 2025-10-10T17:40:20.995828+00:00|https://www.nytimes.com/2025/10/10/climate/nevada-solar-esmerelda7.html|trump moves to cancel esmeralda 7 a giant solar project us news|08ed8e88f844fc981ef1c56caf4f0602
 2025-10-10T17:40:21.725746+00:00|https://www.nytimes.com/2025/10/10/us/explosion-ammunition-plant-tennessee.html|deaths are reported in explosion at tennessee munitions plant us news|fbe1a64baadf55dba27251d755f2aff2
 2025-10-10T17:40:22.424773+00:00|https://www.nbcnews.com/video/shorts/duncan-robinson-speaks-out-about-brother-s-suicide-249642565912|duncan robinson speaks out about brothers suicide us news|3775953756f0b485186cf4cd3519b9c7
+2025-10-10T17:57:50.405310+00:00|https://www.bbc.com/news/articles/c1mxd1g71vxo|trump administration begins mass firings as us shutdown continues us news|bdea100e566ad3703ac38f20acaeacfa
+2025-10-10T17:57:50.967131+00:00|https://www.bbc.com/news/articles/c75q2y92090o|qatar to build air force facility in idaho us says us news|3e4a86c779fb24b9021adbc02b17f935
+2025-10-10T17:57:51.515934+00:00|https://abcnews.go.com/US/marine-veteran-threatened-shoot-texas-high-school-zoo/story|marine corps veteran accused of planning shootings at texas school zoo police us news|613242295259f25278be1f0ea2cb3799
