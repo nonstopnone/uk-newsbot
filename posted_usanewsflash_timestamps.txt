@@ -4405,3 +4405,8 @@
 2025-10-10T06:35:11.395618+00:00|https://www.nytimes.com/2025/10/09/world/asia/philippines-mindanao-earthquake.html|two dead after powerful earthquake strikes southern philippines us news|23358f82694dce862c82f7fdc1ed669c
 2025-10-10T09:25:37.126462+00:00|https://www.bbc.com/news/articles/c237jpgn5kyo|what to know about the charges against letitia james in the us us news|c34ac39b5a79b181233ea03194251295
 2025-10-10T09:25:37.629230+00:00|https://abcnews.go.com/US/police-hunt-murder-suspect-after-apparent-legal-hiccup/story|police hunt for murder suspect after apparent legal hiccup releases him from jail us news|eb2e6307191b7e35b1237b8cdb468770
+2025-10-10T10:25:27.725976+00:00|https://www.bbc.com/news/articles/cpvl97r4e8jo|us to send 200 troops to israel to monitor gaza ceasefire us news|1de0e279c752b294938f4bd54fa224a6
+2025-10-10T10:25:28.267195+00:00|https://www.nytimes.com/2025/10/10/world/americas/maduro-venezuela-us-oil.html|venezuelas maduro offered the us his nations riches to avoid conflict us news|9ef2e4fa8a7916c734cfde28ff89dccf
+2025-10-10T10:25:28.839953+00:00|https://www.nytimes.com/2025/10/10/us/federal-courts-national-guard-trump.html|what courts have said in challenges to trumps national guard deployments us news|6a6597fe8130a5eae940e19cdef03d54
+2025-10-10T10:25:29.614503+00:00|https://www.nytimes.com/2025/10/10/world/americas/mexico-president-sheinbaum-impersonator.html|mexicos president is popular so is her professional lookalike us news|b4fc4b330b17e9271de1f03745bc265f
+2025-10-10T10:25:30.193706+00:00|https://www.nytimes.com/2025/10/10/nyregion/trump-james-indictment-retribution.html|james indictment mirrors her civil case against trump in miniature us news|c036e4e8d42b025ca87c0260b8a78389
