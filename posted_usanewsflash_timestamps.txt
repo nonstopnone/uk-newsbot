@@ -4513,3 +4513,4 @@
 2025-10-11T23:39:19.570594+00:00|https://www.nytimes.com/2025/10/11/us/mayor-bass-austin-beutner.html|in la a former ally of mayor bass is expected to run against her us news|c49337d0fcb4db42b1a358ff873a3446
 2025-10-11T23:39:20.291919+00:00|https://abcnews.go.com/US/5-hospitalized-after-helicopter-crashes-huntington-beach-california/story|5 hospitalized after helicopter crashes us news|a6030b5dc0b083a555592391bc3c0327
 2025-10-11T23:39:20.972849+00:00|https://www.nytimes.com/2025/10/11/us/helicopter-crash-huntington-beach-california.html|at least 3 are injured on the ground after helicopter crashes in california us news|3aa7a577fe5924e0c8786ec91db346ff
+2025-10-11T23:57:35.482734+00:00|https://www.nbcnews.com/video/trump-orders-military-troops-to-be-paid-amid-government-shutdown-249713221525|trump orders military troops to be paid amid government shutdown us news|0cb160dcabbbc831d3a2bbdf4435bdf7
