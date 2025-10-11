@@ -4491,3 +4491,6 @@
 2025-10-11T14:17:59.866166+00:00|https://abcnews.go.com/Politics/joe-biden-undergoing-radiation-therapy-prostate-cancer-treatment/story|joe biden undergoing radiation therapy for prostate cancer treatment us news|4ea975607ca5f091d55a926bd3600122
 2025-10-11T14:38:03.324643+00:00|https://www.nytimes.com/2025/10/11/us/leland-mississippi-mass-shooting.html|4 dead and a dozen wounded in mississippi shooting official says us news|d9e44393c54b3fc16171f0db5cc2e33b
 2025-10-11T14:38:03.898499+00:00|https://www.nbcnews.com/video/shorts/trump-says-he-will-impose-a-100-tariff-on-china-249702981940|trump says he will impose a 100 tariff on china us news|98e364f0eb089e5b7aef1d8284bd88c7
+2025-10-11T15:38:39.318685+00:00|https://www.bbc.com/news/articles/c4gvgr7w2yko|four killed in mass shooting after mississippi football game us news|2475c441207e5a4fb096b34acec25c4e
+2025-10-11T15:38:40.022865+00:00|https://www.bbc.com/news/articles/c1ede670jnyo|biden receiving radiation therapy for prostate cancer us news|70e78b2117a7cd27d03291fc60f627b9
+2025-10-11T15:38:40.744795+00:00|https://www.nbcnews.com/science/climate-change/heat-deaths-phoenix-las-vegas-rcna230720|inside the scramble to save lives as deadly heat menaces the southwest us news|245de7ee88618c0c7c2e344459980cf3
