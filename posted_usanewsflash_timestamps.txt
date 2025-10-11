@@ -4480,3 +4480,5 @@
 2025-10-11T09:57:47.998682+00:00|https://www.nytimes.com/2025/10/11/us/politics/letitia-james-indictment-house.html|at the center of letitia jamess indictment a house in norfolk virginia us news|bc374efda0b32b84c12ba2abf4a2e061
 2025-10-11T09:57:48.670892+00:00|https://www.nytimes.com/2025/10/11/us/tennessee-plant-explosion-what-we-know.html|what we know about the explosion in central tennessee us news|f82750ab06e34cf7cb089c2284dd4fd2
 2025-10-11T09:57:49.319255+00:00|https://www.nytimes.com/2025/10/11/world/middleeast/return-gaza-city-ceasefire.html|thousands return to northern gaza hopeful but faced with devastation us news|11d145c875ba3a0d411271aeded09778
+2025-10-11T10:21:17.830011+00:00|https://www.nytimes.com/video/us/politics/100000010447931/how-the-government-shutdown-will-be-felt.html|how the government shutdown will be felt us news|b4c9ed2e67432665bd68fb5ba2689cae
+2025-10-11T10:21:18.293190+00:00|https://www.nytimes.com/2025/10/11/arts/design/christopher-columbus-statues.html|beheaded and sent to watery graves columbus statues get new life us news|e6febd7fe8c917180669b6df2a2edd12
