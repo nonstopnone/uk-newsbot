@@ -4475,3 +4475,8 @@
 2025-10-11T06:57:58.561860+00:00|https://www.nytimes.com/2025/10/11/world/americas/mexico-floods-rain.html|heavy rain floods and landslides in mexico kill at least 27 us news|6cb18bbf0150ab4c7dc41f1bbcdd334c
 2025-10-11T08:42:52.345582+00:00|https://www.nytimes.com/2025/10/11/world/asia/china-trump-tariff-threat.html|china flexed trump hit back so much for the thaw us news|ee3aaae887abf1a25c9b050bbcb60480
 2025-10-11T09:20:48.769095+00:00|https://www.nytimes.com/2025/10/11/world/europe/france-macron-lecornu-prime-minister.html|criticism greets macrons repeat pick of lecornu for prime minister bad joke us news|f75fb26d9cbe227cd4368d3473009412
+2025-10-11T09:57:46.628869+00:00|https://www.nytimes.com/2025/10/11/us/politics/trump-government-shutdown-layoffs-democrats.html|trumps shutdown layoffs deepen impasse angering democrats us news|9d4dd23faad4dea4b0daf722c7d6d263
+2025-10-11T09:57:47.286565+00:00|https://www.nytimes.com/2025/10/11/us/politics/government-shutdown-effects.html|some americans are starting to feel the impact of the government shutdown us news|1372eb97a2f8698a500912cb0e1eb3fd
+2025-10-11T09:57:47.998682+00:00|https://www.nytimes.com/2025/10/11/us/politics/letitia-james-indictment-house.html|at the center of letitia jamess indictment a house in norfolk virginia us news|bc374efda0b32b84c12ba2abf4a2e061
+2025-10-11T09:57:48.670892+00:00|https://www.nytimes.com/2025/10/11/us/tennessee-plant-explosion-what-we-know.html|what we know about the explosion in central tennessee us news|f82750ab06e34cf7cb089c2284dd4fd2
+2025-10-11T09:57:49.319255+00:00|https://www.nytimes.com/2025/10/11/world/middleeast/return-gaza-city-ceasefire.html|thousands return to northern gaza hopeful but faced with devastation us news|11d145c875ba3a0d411271aeded09778
