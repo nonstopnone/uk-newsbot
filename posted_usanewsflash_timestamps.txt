@@ -4495,3 +4495,5 @@
 2025-10-11T15:38:40.022865+00:00|https://www.bbc.com/news/articles/c1ede670jnyo|biden receiving radiation therapy for prostate cancer us news|70e78b2117a7cd27d03291fc60f627b9
 2025-10-11T15:38:40.744795+00:00|https://www.nbcnews.com/science/climate-change/heat-deaths-phoenix-las-vegas-rcna230720|inside the scramble to save lives as deadly heat menaces the southwest us news|245de7ee88618c0c7c2e344459980cf3
 2025-10-11T16:25:14.007133+00:00|https://www.nytimes.com/2025/10/11/us/politics/biden-cancer-radiation.html|biden is receiving radiation therapy for cancer us news|f648af9a690ad3a0ac721048ec2f5de9
+2025-10-11T16:41:56.861986+00:00|https://www.nbcnews.com/news/us-news/tennessee-explosion-no-survivors-rcna237021|no survivors found after explosion in tennessee sheriff says us news|0c379ee992f56617fad3c4de5f3cba6f
+2025-10-11T16:41:57.444239+00:00|https://www.nbcnews.com/video/shorts/the-nba-makes-a-comeback-in-china-with-preseason-games-249708613651|the nba makes a comeback in china with preseason games us news|3ea4ecf5873668a3e450a6932e1dfdae
