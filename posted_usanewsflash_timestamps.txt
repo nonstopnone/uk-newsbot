@@ -4465,3 +4465,7 @@
 2025-10-10T23:19:44.121351+00:00|https://www.nytimes.com/2025/10/10/us/politics/bondi-justice-department-james.html|top justice dept officials werent told in advance of james indictment us news|ed4fcb2f0cc1adfe41efae27ac237373
 2025-10-10T23:38:48.162779+00:00|https://www.nytimes.com/2025/10/10/us/politics/carolyn-cheeks-kilpatrick-dead.html|carolyn cheeks kilpatrick 80 dies in congress a lifeline for detroit us news|d8f4d3777d179a8abdf1863e327f8b51
 2025-10-10T23:57:43.173947+00:00|https://www.nbcnews.com/nightly-news/video/gazans-return-as-israeli-troops-pull-back-249669701838|gazans return as israeli troops pull back us news|9f766a830e81384574b198bb5b0274a7
+2025-10-11T01:43:57.880083+00:00|https://www.bbc.com/news/articles/cz69qy760weo|its going to be really bad fears over ai bubble bursting grow in silicon valley us news|86c309e8ae2c4ffe1bc2ebc76176374d
+2025-10-11T01:43:58.376655+00:00|https://www.nytimes.com/2025/10/10/us/politics/boston-protesters-anarchists-national-guard.html|boston prosecutors invoke law used against anarchists to charge protesters us news|8f8e6d774417a120df1cdc8391d782a5
+2025-10-11T01:43:58.896789+00:00|https://www.nytimes.com/2025/10/10/world/middleeast/un-attacks-venezuela-boats.html|strikes on venezuelan boats prompt rare un meeting on the united states us news|7fb0f13c8017ab18b4fdc2ef8e55a866
+2025-10-11T01:43:59.407667+00:00|https://www.nytimes.com/2025/10/10/us/politics/trump-peace-retribution.html|the trump split screen a peacemaker abroad a retribution campaign at home us news|aee469d19402310ef882ca4b567b2645
