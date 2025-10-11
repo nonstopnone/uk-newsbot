@@ -4482,3 +4482,4 @@
 2025-10-11T09:57:49.319255+00:00|https://www.nytimes.com/2025/10/11/world/middleeast/return-gaza-city-ceasefire.html|thousands return to northern gaza hopeful but faced with devastation us news|11d145c875ba3a0d411271aeded09778
 2025-10-11T10:21:17.830011+00:00|https://www.nytimes.com/video/us/politics/100000010447931/how-the-government-shutdown-will-be-felt.html|how the government shutdown will be felt us news|b4c9ed2e67432665bd68fb5ba2689cae
 2025-10-11T10:21:18.293190+00:00|https://www.nytimes.com/2025/10/11/arts/design/christopher-columbus-statues.html|beheaded and sent to watery graves columbus statues get new life us news|e6febd7fe8c917180669b6df2a2edd12
+2025-10-11T11:57:37.933288+00:00|https://www.nytimes.com/2025/10/11/world/middleeast/israel-hamas-plans.html|a memo in a bunker intercepted communications and hamass oct 7 plans us news|f73608d2d98c31153be6707e9a1f343c
