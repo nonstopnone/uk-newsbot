@@ -4497,3 +4497,4 @@
 2025-10-11T16:25:14.007133+00:00|https://www.nytimes.com/2025/10/11/us/politics/biden-cancer-radiation.html|biden is receiving radiation therapy for cancer us news|f648af9a690ad3a0ac721048ec2f5de9
 2025-10-11T16:41:56.861986+00:00|https://www.nbcnews.com/news/us-news/tennessee-explosion-no-survivors-rcna237021|no survivors found after explosion in tennessee sheriff says us news|0c379ee992f56617fad3c4de5f3cba6f
 2025-10-11T16:41:57.444239+00:00|https://www.nbcnews.com/video/shorts/the-nba-makes-a-comeback-in-china-with-preseason-games-249708613651|the nba makes a comeback in china with preseason games us news|3ea4ecf5873668a3e450a6932e1dfdae
+2025-10-11T17:38:36.358591+00:00|https://www.nbcnews.com/video/shorts/tennessee-plant-explosion-leaves-no-survivors-249705029877|tennessee plant explosion leaves no survivors us news|27a41e58145489c9de78896f4e363db8
