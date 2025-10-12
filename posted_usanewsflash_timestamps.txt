@@ -4529,3 +4529,5 @@
 2025-10-12T10:21:31.403367+00:00|https://www.nytimes.com/2025/10/12/us/charlie-kirk-civil-war.html|she despised charlie kirk he resolved to make people like her pay us news|9273bfb68f818c9824dbbc431bbd2899
 2025-10-12T10:21:31.872285+00:00|https://www.nytimes.com/2025/10/12/us/politics/air-traffic-controllers-shutdown.html|air traffic controllers reject credit for ending the last shutdown us news|6edec54e6d6e5b19108e81156a6fdd56
 2025-10-12T10:57:31.786790+00:00|https://www.nytimes.com/2025/10/12/world/middleeast/israel-gaza-hostages-prisoners-ceasefire.html|israelis and palestinians await hostageprisoner swap with relief and elation us news|7d433964645c3feda60c2cebbe60de96
+2025-10-12T11:39:10.815395+00:00|https://www.nytimes.com/2025/10/12/us/bruce-springsteen-film-hostage-tennessee-keaton.html|rethinking bruce springsteens difficult years us news|6548c5c4f268d098a3bc67c0e8b689e8
+2025-10-12T11:39:11.254710+00:00|https://www.nytimes.com/2025/10/12/world/asia/afghanistan-pakistan-violence-conflict.html|overnight violence between afghanistan and pakistan threatens a wider conflict us news|aa9a111052f5f89c136f263915fac0e2
