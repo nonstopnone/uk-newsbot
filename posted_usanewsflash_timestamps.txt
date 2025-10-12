@@ -4519,3 +4519,4 @@
 2025-10-12T02:55:27.716392+00:00|https://www.bbc.com/news/articles/ce808gvp56mo|trump directs pentagon to use all available funds to pay troops during shutdown us news|cad49ca2f65a543179790d984fec300b
 2025-10-12T03:35:10.214154+00:00|https://www.nbcnews.com/video/shorts/helicopter-crashes-into-california-building-249715781913|helicopter crashes into california building us news|79944bf6efe20bdb37e6c0e08680a650
 2025-10-12T03:49:56.748424+00:00|https://www.nytimes.com/2025/10/11/world/asia/china-church-pastor-detained.html|china detains dozens of members of underground church us news|7d8bc15f97c87151253102431cb0d9fe
+2025-10-12T03:57:27.632952+00:00|https://www.nytimes.com/2025/10/11/us/mississippi-shooting-jackson-alcorn.html|at least 1 dead and 3 injured after shootings at mississippi universities us news|a9c1e43aaf6131b30abec3e9b60edf27
