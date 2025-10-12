@@ -4557,3 +4557,5 @@
 2025-10-12T21:18:54.099683+00:00|https://www.bbc.com/sport/american-football/articles/c8x1ll4jnvko|exnfl quarterback sanchez released from hospital us news|81a3a1bc4d064045f51ea363b6ab07bc
 2025-10-12T21:18:54.667796+00:00|https://www.nbcnews.com/video/shorts/trump-departs-for-high-stakes-middle-east-trip-249734213645|trump departs for highstakes middle east trip us news|dc47ebe558685ff16de4fcda62adb687
 2025-10-12T21:18:55.279059+00:00|https://www.nbcnews.com/video/special-report-trump-departs-for-high-stakes-middle-east-trip-249734213641|special report trump departs for highstakes middle east trip us news|9b6ddaa524ed0d5e27cdea27e25a0474
+2025-10-12T22:20:16.119304+00:00|https://www.nytimes.com/2025/10/12/us/politics/jd-vance-trump-insurrection-act.html|trump has not ruled out invoking insurrection act to deploy national guard vance says us news|37574c86d6245c68ab9371882eafaeda
+2025-10-12T22:20:16.643601+00:00|https://www.nbcnews.com/video/israel-celebrates-ceasefire-deal-ahead-of-trump-visit-249734213775|israel celebrates ceasefire deal ahead of trump visit us news|8c55fbb941c3b677a2df3430db4e6463
