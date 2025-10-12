@@ -4552,3 +4552,5 @@
 2025-10-12T20:23:26.421550+00:00|https://www.nytimes.com/2025/10/12/us/noreaster-storm-forecast-damage.html|noreaster brings heavy rain and flooding as it moves up east coast us news|d236a2f8b43d8e80462818c8476e1f98
 2025-10-12T20:40:09.867856+00:00|https://www.nytimes.com/2025/10/12/realestate/california-doubles-wildfire-payouts.html|california orders insurers to pay more for wildfire victims lost items us news|6bed424b76e4ae28531dd5d5df417198
 2025-10-12T20:40:10.379809+00:00|https://www.nytimes.com/2025/10/12/us/politics/lost-chances-hostage-deal-gaza-israel.html|why now the lost chances to reach a hostage deal and a ceasefire months ago us news|5d6bc9489eac4a550436497d463fb088
+2025-10-12T20:57:32.305826+00:00|https://abcnews.go.com/US/video/brave-pup-airlifted-safety-after-injured-hike-126454813|watch brave pup airlifted to safety after getting injured on hike us news|d49198bc36652c3f385cdfdd5a51891c
+2025-10-12T20:57:32.815748+00:00|https://abcnews.go.com/US/wireStory/florida-sets-execution-date-man-raped-murdered-6-126455959|florida sets execution date for man who raped and murdered 6yearold girl in 1979 us news|b003daa7deb0d50ae152be3c6c5d244c
