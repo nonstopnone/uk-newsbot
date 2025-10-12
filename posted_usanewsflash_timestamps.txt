@@ -4559,3 +4559,6 @@
 2025-10-12T21:18:55.279059+00:00|https://www.nbcnews.com/video/special-report-trump-departs-for-high-stakes-middle-east-trip-249734213641|special report trump departs for highstakes middle east trip us news|9b6ddaa524ed0d5e27cdea27e25a0474
 2025-10-12T22:20:16.119304+00:00|https://www.nytimes.com/2025/10/12/us/politics/jd-vance-trump-insurrection-act.html|trump has not ruled out invoking insurrection act to deploy national guard vance says us news|37574c86d6245c68ab9371882eafaeda
 2025-10-12T22:20:16.643601+00:00|https://www.nbcnews.com/video/israel-celebrates-ceasefire-deal-ahead-of-trump-visit-249734213775|israel celebrates ceasefire deal ahead of trump visit us news|8c55fbb941c3b677a2df3430db4e6463
+2025-10-12T22:40:23.456242+00:00|https://www.nbcnews.com/video/shorts/3-key-points-that-led-to-the-israel-hamas-ceasefire-deal-249733189921|3 key points that led to the israelhamas ceasefire deal us news|68f0ce39b69dc1cc8e19997028237f84
+2025-10-12T22:40:24.172617+00:00|https://www.nbcnews.com/video/shorts/what-to-expect-as-israel-prepares-to-greet-trump-249735237514|what to expect as israel prepares to greet trump us news|c7069f58d8d4c997e2b485495bb17295
+2025-10-12T22:40:25.098166+00:00|https://www.nytimes.com/2025/10/12/books/john-searle-dead.html|john searle philosopher who wrestled with ai dies at 93 us news|b9d8edb35628d86baaedcc6c04907251
