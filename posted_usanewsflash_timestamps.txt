@@ -4550,3 +4550,5 @@
 2025-10-12T19:16:46.843645+00:00|https://abcnews.go.com/US/former-nfl-star-mark-sanchez-released-hospital-booked/story|former nfl star mark sanchez released from hospital booked on felony assault charge us news|672b2bacd03c884ade1f05bd856819a6
 2025-10-12T20:23:25.911901+00:00|https://www.bbc.com/news/articles/cp3d554053lo|more us shutdown staffing cuts to come says vance as cdc workers reinstated us news|a2022071a7e5aa11d9805ecb68577ab6
 2025-10-12T20:23:26.421550+00:00|https://www.nytimes.com/2025/10/12/us/noreaster-storm-forecast-damage.html|noreaster brings heavy rain and flooding as it moves up east coast us news|d236a2f8b43d8e80462818c8476e1f98
+2025-10-12T20:40:09.867856+00:00|https://www.nytimes.com/2025/10/12/realestate/california-doubles-wildfire-payouts.html|california orders insurers to pay more for wildfire victims lost items us news|6bed424b76e4ae28531dd5d5df417198
+2025-10-12T20:40:10.379809+00:00|https://www.nytimes.com/2025/10/12/us/politics/lost-chances-hostage-deal-gaza-israel.html|why now the lost chances to reach a hostage deal and a ceasefire months ago us news|5d6bc9489eac4a550436497d463fb088
