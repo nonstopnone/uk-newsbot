@@ -4540,3 +4540,4 @@
 2025-10-12T14:57:37.803576+00:00|https://abcnews.go.com/US/4-killed-20-hurt-bar-shooting-st-helena/story|at least 4 killed 20 hurt in south carolina bar shooting sheriff us news|769f4c80ff8b24bb86045244b60fe967
 2025-10-12T15:20:07.348074+00:00|https://www.nbcnews.com/politics/congress/lindsey-graham-pans-negotiations-aca-subsidies-government-shutdown-rcna237116|sen lindsey graham pans negotiations on obamacare subsidies as government shutdown drags on us news|c33b32b8d7229da9092d18997168343d
 2025-10-12T15:20:08.018019+00:00|https://abcnews.go.com/US/wireStory/new-jersey-declares-state-emergency-noreaster-approaches-126448554|new jersey declares state of emergency as noreaster approaches us news|27c67f4ab20150b12acf909f6a255dc5
+2025-10-12T15:57:30.016566+00:00|https://www.nbcnews.com/video/shorts/israeli-medical-center-is-prepping-to-treat-hostages-249728069629|israeli medical center is prepping to treat hostages us news|69de53d7bc085084e8bc3b1f0776189f
