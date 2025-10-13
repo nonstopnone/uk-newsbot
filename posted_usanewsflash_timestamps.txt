@@ -4581,3 +4581,5 @@
 2025-10-13T10:27:29.134144+00:00|https://www.nytimes.com/2025/10/13/climate/coal-miners-with-black-lung-say-they-are-cast-aside-to-die-under-trump.html|coal miners with black lung say they are cast aside to die under trump us news|4a9a5601d2b5d2871ac433c80956d37d
 2025-10-13T10:46:00.621752+00:00|https://www.nytimes.com/2025/10/13/podcasts/the-headlines/hostages-gaza-trump-china.html|all hostages released from gaza and stocks drop after trumps new threat us news|4cdcd33ca6ecacdc669dc20fb9c207f2
 2025-10-13T11:39:35.807476+00:00|https://www.nytimes.com/2025/10/13/briefing/a-hostage-and-prisoner-exchange.html|a hostage and prisoner exchange us news|042c178d4090317651ab15dfbfc71fac
+2025-10-13T11:57:30.986794+00:00|https://www.bbc.com/news/articles/c709jxxrrvlo|trump touts dawn of a new middle east in address to israeli parliament us news|699b07ee05c9d972e929fbe99dbb90dd
+2025-10-13T11:57:31.489448+00:00|https://www.nbcnews.com/sports/nfl/chiefs-lions-sunday-night-football-recap-rcna237243|the defensive performance that just made kansas city a title factor again us news|74f9733856915fe0b88de30615ac3612
