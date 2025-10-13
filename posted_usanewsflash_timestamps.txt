@@ -4613,3 +4613,5 @@
 2025-10-13T21:57:47.498369+00:00|https://www.bbc.com/news/articles/c0l7899352ro|a lifeline americans fear spike in healthcare costs making republicans nervy us news|451a03ddf359b3a7147923b1e0b68a26
 2025-10-13T21:57:48.202491+00:00|https://www.nbcnews.com/news/us-news/broadview-illinois-ice-protests-chicago-immigration-rcna236519|how immigration enforcement turned sleepy broadview into a chaotic militarized town us news|8991cc1f7fe1cb95b6e06e8b6fe88b50
 2025-10-13T22:20:58.901117+00:00|https://www.nytimes.com/2025/10/13/world/americas/jose-daniel-ferrer-cuba.html|cuban dissident leader leaves prison for exile in the us us news|7d48a91b5e7d5cbdf048f20ee865f2ba
+2025-10-13T23:20:01.997824+00:00|https://www.nytimes.com/2025/10/13/us/north-carolina-republicans-redistricting.html|north carolina republicans plan to redraw congressional map to add a seat us news|a0677580680b53701ef04f5a5bcea3fd
+2025-10-13T23:20:02.520229+00:00|https://www.nbcnews.com/video/shorts/world-leaders-surround-trump-at-egypt-peace-summit-249804869878|world leaders surround trump at egypt peace summit us news|26f9b658fc0b31fcc9fdc07449e4c301
