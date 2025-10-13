@@ -4564,3 +4564,7 @@
 2025-10-12T22:40:25.098166+00:00|https://www.nytimes.com/2025/10/12/books/john-searle-dead.html|john searle philosopher who wrestled with ai dies at 93 us news|b9d8edb35628d86baaedcc6c04907251
 2025-10-12T22:57:38.588109+00:00|https://www.nytimes.com/2025/10/12/us/fort-worth-plane-crash-hicks-field.html|small plane crashes into semitrailers near texas airfield us news|b5b13b51b0ad19a5b9ae3c0fb7de488d
 2025-10-13T01:55:45.138744+00:00|https://www.bbc.com/news/articles/c4gk1z818z2o|were in limbo a town in trump country where shutdown axe looms us news|32834318f770492509706720ac491e4e
+2025-10-13T03:13:33.568256+00:00|https://abcnews.go.com/US/150-unvaccinated-students-south-carolina-quarantining-after-measles/story|over 150 unvaccinated students in south carolina quarantining after measles exposure us news|427a125f0aacfee63cf3820a35cb75bf
+2025-10-13T03:13:34.058754+00:00|https://www.nbcnews.com/video/shorts/trump-admin-reverses-layoffs-for-some-cdc-staff-249742405963|trump admin reverses layoffs for some cdc staff us news|7c9f6e6c44a13584a726089935e6b388
+2025-10-13T03:13:34.524380+00:00|https://www.nytimes.com/2025/10/12/us/tennessee-sheriff-plant-explosion-tears.html|a tennessee sheriff becomes the face of grief after plant explosion us news|9988c3b92b91eb8650279405753b073b
+2025-10-13T03:13:35.037506+00:00|https://www.nytimes.com/2025/10/12/business/trump-china-tariffs-global-markets.html|asia markets fall after trump threatens new tariffs on china us news|dc6771b5bbcab5b82cea8833dd564613
