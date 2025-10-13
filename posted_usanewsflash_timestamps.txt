@@ -4583,3 +4583,5 @@
 2025-10-13T11:39:35.807476+00:00|https://www.nytimes.com/2025/10/13/briefing/a-hostage-and-prisoner-exchange.html|a hostage and prisoner exchange us news|042c178d4090317651ab15dfbfc71fac
 2025-10-13T11:57:30.986794+00:00|https://www.bbc.com/news/articles/c709jxxrrvlo|trump touts dawn of a new middle east in address to israeli parliament us news|699b07ee05c9d972e929fbe99dbb90dd
 2025-10-13T11:57:31.489448+00:00|https://www.nbcnews.com/sports/nfl/chiefs-lions-sunday-night-football-recap-rcna237243|the defensive performance that just made kansas city a title factor again us news|74f9733856915fe0b88de30615ac3612
+2025-10-13T12:50:31.985877+00:00|https://abcnews.go.com/International/trump-tout-historic-dawn-new-middle-east-knesset/story|trump touts historic dawn of a new middle east in knesset speech us news|cd2317fa976fa31d910ce922b6b5a570
+2025-10-13T12:50:32.665260+00:00|https://www.nbcnews.com/video/shorts/-never-forget-trump-says-america-joins-israel-in-vow-249763909623|never forget trump says america joins israel in vow us news|1a58f62f350379218bd07f51e0abe64f
