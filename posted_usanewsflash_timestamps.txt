@@ -4574,3 +4574,5 @@
 2025-10-13T07:24:21.946039+00:00|https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-deal-what-to-know.html|what we know about the deal between israel and hamas us news|6350b51cd8cb82ba7009bbe778e9dd57
 2025-10-13T07:57:55.534485+00:00|https://www.bbc.com/news/articles/c364n004wxzo|us calls for china to release 30 leaders of influential underground church us news|b020f7047890957bd6520353848d26aa
 2025-10-13T07:57:56.076717+00:00|https://www.nbcnews.com/video/shorts/president-trump-arrives-to-israel-for-peace-summit-249754693556|president trump arrives to israel for peace summit us news|3bf11e6a0032dac2768c85c53dfc5547
+2025-10-13T09:28:40.568819+00:00|https://www.nbcnews.com/politics/elections/huge-political-change-new-jersey-political-coalitions-parties-rcna236831|a townbytown snapshot of huge political change in one key state us news|2070561517c7c5b7ccd4bca6c70413f6
+2025-10-13T09:28:41.150375+00:00|https://abcnews.go.com/International/2-hostages-previously-believed-held-alive-list-published/story|2 hostages previously believed to be held alive not on list published by hamas us news|9297ebe3088fb9412c3aa413ee0c81d0
