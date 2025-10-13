@@ -4595,3 +4595,4 @@
 2025-10-13T16:29:52.369196+00:00|https://www.nytimes.com/2025/10/13/us/miami-seaquarium-closing.html|miami says farewell to its seaquarium us news|d1096581d9e6fb6166e2192f8a825ce1
 2025-10-13T16:29:53.211934+00:00|https://abcnews.go.com/US/wireStory/plane-crash-massachusetts-highway-forces-closure-roadway-126475573|plane crashes onto a massachusetts highway killing 2 and wounding 1 on the ground us news|1a220e1024662909786836e83ee11ea2
 2025-10-13T16:57:53.580852+00:00|https://www.nbcnews.com/politics/white-house/trump-zelenskyy-white-house-meeting-russia-ukraine-war-rcna237334|zelenskyy to meet with trump at the white house on friday us news|f3dd88b3f3875068d5fd479e5c789569
+2025-10-13T17:19:58.060276+00:00|https://www.nytimes.com/2025/10/12/arts/design/vaillancourt-fountain-san-francisco.html|san francisco wants to destroy a 96yearolds defining artwork us news|dda07a8b7f039207098a98920d515268
