@@ -4670,3 +4670,6 @@
 2025-10-14T19:18:43.561893+00:00|https://www.bbc.com/news/articles/cy0ygg06pgko|us news outlets push back against pentagons reporting restrictions us news|cce06c2bf002200398784ee781bfa50d
 2025-10-14T19:18:44.014256+00:00|https://www.nbcnews.com/now/video/trump-on-hamas-they-will-disarm-or-we-will-disarm-them-249870917664|trump on hamas they will disarm or we will disarm them us news|573483021b4d60c7bb480261fe2eea1d
 2025-10-14T19:18:44.484765+00:00|https://www.nytimes.com/2025/10/14/us/politics/trump-drugs-boat-attack.html|us military kills 6 people in another attack on boat trump says us news|7a2aa51eca500860cb396471717ad7c3
+2025-10-14T19:39:13.582198+00:00|https://www.bbc.com/news/articles/cg51625lmmgo|us strikes another vessel off venezuela coast killing six us news|8ca61f6c21681efc1031ba803e42c873
+2025-10-14T19:39:14.183508+00:00|https://www.nbcnews.com/video/shorts/trump-warns-hamas-to-lay-down-arms-249872453870|trump warns hamas to lay down arms us news|534cef966c1353f16f80002a3bed1938
+2025-10-14T19:39:14.812482+00:00|https://www.nbcnews.com/news/us-news/are-tennessee-plant-explosion-victims-16-people-presumed-dead-factory-rcna237523|these are the victims of the tennessee plant explosion that left 16 presumed dead us news|627685615b312ca55cc56dbaa55cda3b
