@@ -4657,3 +4657,4 @@
 2025-10-14T15:26:32.080704+00:00|https://www.nytimes.com/2025/10/14/us/politics/supreme-court-alex-jones-defamation.html|supreme court denies alex joness appeal of payment to sandy hook families us news|d3d2dc04a77eb39cfed44a6cde260efa
 2025-10-14T15:57:59.989231+00:00|https://www.nytimes.com/2025/10/14/business/economy/us-china-trade-tariffs-global-economy.html|trumps trade war with china catches the world in its crossfire us news|27cdfeaf76c7f4ee9366a0d54e115c6a
 2025-10-14T16:29:51.951248+00:00|https://abcnews.go.com/Business/wireStory/us-rejects-bid-buy-167-million-tons-coal-126513723|us rejects bid to buy 167m tons of coal on public lands for less than a penny per ton us news|dc63457e4707b434d195cbf34da8ee65
+2025-10-14T17:40:11.346324+00:00|https://www.nytimes.com/2025/10/14/climate/pfas-forever-chemicals-california-cookware-ban.html|newsom vetoes californias ban on forever chemicals in cookware us news|860825b1b2625240b1732660e30a8126
