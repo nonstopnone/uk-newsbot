@@ -104,3 +104,6 @@
 2025-10-14T07:19:35.507292+00:00|https://www.bbc.com/news/articles/cjek274q99xo|wage growth slows slightly over summer|9dcdabc83aa176748beff4a707c1880a
 2025-10-14T07:33:58.947960+00:00|https://www.bbc.com/news/articles/c5ye19w98qxo|why i cut down hostage ribbons|679c4b373518e8b327a284bfe3c4aafb
 2025-10-14T10:22:17.091463+00:00|https://news.sky.com/story/authorities-name-16-killed-in-tennessee-explosives-factory-blast-13449834|16 killed in us factory explosion named as beforeandafter images show devastation|06ea0f0a27c784b35b1ed950d06b4692
+2025-10-14T10:43:52.504985+00:00|https://www.bbc.com/news/articles/ced61xv967lo|cyber attack contingency plans should be put on paper firms told|66f0b677e48db984fc32dfb19c3b31ed
+2025-10-14T10:44:03.502909+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/will-joseph-kony-ever-face-justice-his-victims-are-doubtful|will joseph kony ever face justice his victims are doubtful|0845d733a69d9f044b565c8d29b2b8bb
+2025-10-14T10:44:14.078171+00:00|https://news.sky.com/story/police-on-the-hunt-for-two-men-after-woman-raped-and-robbed-in-camelon-13449896|woman raped and robbed by two men|c1240030722254aba5ca6ec5aae28e0e
