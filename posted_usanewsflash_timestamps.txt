@@ -4640,3 +4640,5 @@
 2025-10-14T10:25:52.146390+00:00|https://www.nytimes.com/2025/10/14/business/uniqlo-tadashi-yanai.html|for uniqlos founder conquering america is personal us news|3835a5e2b68fdc902f1cdb9824075a03
 2025-10-14T10:45:12.760959+00:00|https://www.nytimes.com/2025/10/14/us/us-drug-trafficking-boats-caribbean.html|as us warships patrol caribbean drug smugglers shift tactics us news|f681778dc217c03921e6cb086a1eef9d
 2025-10-14T10:57:26.374124+00:00|https://www.nytimes.com/2025/10/14/us/politics/trump-argentina-leader-bailout.html|trump to meet with argentinas leader as us moves ahead with bailout us news|00c68f32a14e48b8e3f064893ba0ef60
+2025-10-14T11:19:05.156678+00:00|https://www.nytimes.com/2025/10/14/us/politics/janet-mills-senate-race-maine-susan-collins.html|gov janet mills of maine to run for senate aiming at senator susan collins us news|0853ea3d959f2f48c1a4391c43a42b08
+2025-10-14T11:19:05.706499+00:00|https://www.nytimes.com/2025/10/14/us/meet-zohran-mamdani-the-favorite-to-lead-new-york-city.html|meet zohran mamdani the favorite to lead new york city us news|2fb64e669e3255e2d5ad81ed214844c3
