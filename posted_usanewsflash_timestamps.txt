@@ -4681,3 +4681,6 @@
 2025-10-14T21:57:29.404871+00:00|https://www.bbc.com/news/articles/c8eyll14wrdo|prosecutors in new york seek time to consider third trial in etan patz murder us news|54dfff536f9b781d53bb9c1df1ddecd0
 2025-10-14T22:41:19.648431+00:00|https://www.nytimes.com/2025/10/14/us/politics/trump-education-department-federal-layoffs.html|white house guts education department with more layoffs us news|18037066212a1a7b41e3e2bc289316ca
 2025-10-14T22:57:22.612336+00:00|https://www.nbcnews.com/video/shorts/armed-federal-agents-clash-with-crowd-in-chicago-249889349505|armed federal agents clash with crowd in chicago us news|2b45b1a3049111f5e6db28f30b35cdb9
+2025-10-14T23:20:58.810729+00:00|https://www.bbc.com/news/articles/cg7n82gd7pvo|trump says us will not waste our time helping argentina if milei loses us news|3c93ae71a2a896736dbc018983b60506
+2025-10-14T23:20:59.506597+00:00|https://www.nytimes.com/2025/10/14/science/chicago-rat-hole-squirrel.html|the chicago rat hole was not made by a rat us news|2b294a3a7258b661707babbd3f1a8a3e
+2025-10-14T23:21:00.057305+00:00|https://www.nytimes.com/2025/10/14/nyregion/etan-patz-retrial-appeals-court.html|in patz case manhattan prosecutors ask for months to decide on retrial us news|d31b5479c4d18e31784e60ffaa15ffcf
