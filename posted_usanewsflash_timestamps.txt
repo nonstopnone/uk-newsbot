@@ -4658,3 +4658,5 @@
 2025-10-14T15:57:59.989231+00:00|https://www.nytimes.com/2025/10/14/business/economy/us-china-trade-tariffs-global-economy.html|trumps trade war with china catches the world in its crossfire us news|27cdfeaf76c7f4ee9366a0d54e115c6a
 2025-10-14T16:29:51.951248+00:00|https://abcnews.go.com/Business/wireStory/us-rejects-bid-buy-167-million-tons-coal-126513723|us rejects bid to buy 167m tons of coal on public lands for less than a penny per ton us news|dc63457e4707b434d195cbf34da8ee65
 2025-10-14T17:40:11.346324+00:00|https://www.nytimes.com/2025/10/14/climate/pfas-forever-chemicals-california-cookware-ban.html|newsom vetoes californias ban on forever chemicals in cookware us news|860825b1b2625240b1732660e30a8126
+2025-10-14T17:57:23.679985+00:00|https://www.bbc.com/news/articles/cdegnne8r3go|man who set fire to pennsylvania governors mansion sentenced to 25 to 50 years in prison us news|5b41769293bd9464ec8b0aa283651fac
+2025-10-14T17:57:24.214094+00:00|https://abcnews.go.com/US/video/social-media-hurting-kids-test-scores-study-126517399|watch social media is hurting kids test scores study us news|c761792042b6a499402d9530e47ccfc2
