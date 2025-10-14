@@ -4643,3 +4643,8 @@
 2025-10-14T11:19:05.156678+00:00|https://www.nytimes.com/2025/10/14/us/politics/janet-mills-senate-race-maine-susan-collins.html|gov janet mills of maine to run for senate aiming at senator susan collins us news|0853ea3d959f2f48c1a4391c43a42b08
 2025-10-14T11:19:05.706499+00:00|https://www.nytimes.com/2025/10/14/us/meet-zohran-mamdani-the-favorite-to-lead-new-york-city.html|meet zohran mamdani the favorite to lead new york city us news|2fb64e669e3255e2d5ad81ed214844c3
 2025-10-14T11:57:33.527360+00:00|https://www.nytimes.com/2025/10/14/world/middleeast/israeli-hostages-bodies-hamas.html|israel identifies 2 bodies handed over by hamas us news|19ff21d348fcc974a7d361a8722cc470
+2025-10-14T12:52:06.882496+00:00|https://www.bbc.com/news/articles/ced61d1y6yyo|trump tariffs on kitchen cabinets and lumber come into force us news|4c0ecf8a029ab059b62abfa6e70a784c
+2025-10-14T12:52:07.404778+00:00|https://www.bbc.com/news/articles/clykwd9e256o|cuban dissident begins us exile after release from jail us news|11a5b8de7044e45e01cce527c30a6710
+2025-10-14T12:52:07.903990+00:00|https://www.today.com/video/speaker-johnson-shutdown-could-become-longest-in-history-249835589799|speaker johnson this could become longest shutdown ever us news|542e771116fe3be5631739dee0b06cbc
+2025-10-14T12:52:08.417388+00:00|https://www.today.com/video/head-of-instagram-details-new-safety-protocols-parental-controls-249838661660|head of instagram details revamped restrictions rating system us news|55b11ccdf14380b6ed5cbd9897d0fb2b
+2025-10-14T12:52:08.990297+00:00|https://www.nytimes.com/2025/10/14/technology/instagram-teenagers-pg-13-ratings.html|instagram will limit content for teenagers based on pg13 ratings us news|d4059b59fa33add10d687d953e5c6cfb
