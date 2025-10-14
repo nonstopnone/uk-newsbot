@@ -4660,3 +4660,6 @@
 2025-10-14T17:40:11.346324+00:00|https://www.nytimes.com/2025/10/14/climate/pfas-forever-chemicals-california-cookware-ban.html|newsom vetoes californias ban on forever chemicals in cookware us news|860825b1b2625240b1732660e30a8126
 2025-10-14T17:57:23.679985+00:00|https://www.bbc.com/news/articles/cdegnne8r3go|man who set fire to pennsylvania governors mansion sentenced to 25 to 50 years in prison us news|5b41769293bd9464ec8b0aa283651fac
 2025-10-14T17:57:24.214094+00:00|https://abcnews.go.com/US/video/social-media-hurting-kids-test-scores-study-126517399|watch social media is hurting kids test scores study us news|c761792042b6a499402d9530e47ccfc2
+2025-10-14T18:34:00.484965+00:00|https://www.nbcnews.com/video/watch-live-trump-meets-with-president-of-argentina-249847877504|trump meets with president of argentina us news|eed99d3c4e883e300183aead9723bbca
+2025-10-14T18:34:01.160459+00:00|https://www.nytimes.com/2025/10/14/us/bible-public-school-curriculum-texas.html|inside the new bibleinfused texas english curriculum us news|f16f9268585440da7b498f5b4513a39a
+2025-10-14T18:34:01.839415+00:00|https://www.nbcnews.com/news/us-news/texas-new-details-execution-drug-underscore-closely-guarded-secret-rcna236168|in texas new details about its execution drug underscore a closely guarded secret us news|6255ccef3fbbeaae93bc65f5cc4f1613
