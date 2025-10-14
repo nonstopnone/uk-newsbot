@@ -4626,3 +4626,5 @@
 2025-10-14T02:53:52.353580+00:00|https://www.nytimes.com/2025/10/13/us/politics/trump-china-tariffs.html|trumps two minds on china sow a chaotic few days us news|4a88c488ec4670bef64952e21585736e
 2025-10-14T02:53:52.860570+00:00|https://www.nytimes.com/2025/10/13/weather/california-storms-rain-forecast.html|california forecast earlyseason storm brings a deluge of rain us news|431064d428bdd809c540aaaf0e463966
 2025-10-14T03:48:59.621506+00:00|https://www.nytimes.com/2025/10/13/business/doug-lebda-lendingtree-accident-death.html|doug lebda lendingtree ceo and founder dies in atv accident us news|939fd9e8e402f113d452e84d43c88bcc
+2025-10-14T04:27:42.115795+00:00|https://www.nytimes.com/2025/10/14/business/us-starts-charging-chinese-ships-to-dock-at-its-ports.html|us starts charging chinese ships to dock at its ports us news|8ae17b58c0f1ca26a191cc99c8c19b8d
+2025-10-14T04:27:42.814531+00:00|https://www.nytimes.com/2025/10/14/business/economy/trump-ramps-up-trade-war-as-tariffs-on-lumber-and-furniture-kick-in.html|trump enacts tariffs on imported lumber and furniture us news|1a2ad2c42bee82bfb1ec0bbbcb2a0507
