@@ -4679,3 +4679,4 @@
 2025-10-14T21:39:00.690852+00:00|https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html|trump renews threat to cut democrat programs as government shutdown enters third week us news|25e5a48d15299af574d943548c371ced
 2025-10-14T21:39:01.363979+00:00|https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html|republicans summon jack smith to testify before house judiciary committee us news|8b44b7b6ea13dae346961382260766e2
 2025-10-14T21:57:29.404871+00:00|https://www.bbc.com/news/articles/c8eyll14wrdo|prosecutors in new york seek time to consider third trial in etan patz murder us news|54dfff536f9b781d53bb9c1df1ddecd0
+2025-10-14T22:41:19.648431+00:00|https://www.nytimes.com/2025/10/14/us/politics/trump-education-department-federal-layoffs.html|white house guts education department with more layoffs us news|18037066212a1a7b41e3e2bc289316ca
