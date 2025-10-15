@@ -4733,3 +4733,4 @@
 2025-10-15T19:18:54.798414+00:00|https://www.nbcnews.com/politics/politics-news/judge-blocks-trumps-shutdown-layoffs-calling-illegal-rcna237837|judge blocks trumps layoffs during shutdown calling them illegal us news|4cb023698b6cb885eceff82edb8439c1
 2025-10-15T19:39:13.002292+00:00|https://www.nytimes.com/2025/10/15/us/brown-university-trump-compact-funding.html|brown university rejects a white house compact to receive special treatment us news|4cebc0844ea299560016c3879cdc617b
 2025-10-15T19:39:13.613422+00:00|https://www.nytimes.com/2025/10/15/us/politics/kevin-kiley-shutdown.html|the lonely house republican still coming to work during the shutdown us news|d622190a2e004c3fe4b3042549b741b1
+2025-10-15T19:57:28.656595+00:00|https://www.nytimes.com/2025/10/15/travel/goonies-astoria-oregon.html|40 years after the goonies fans still flock to astoria oregon us news|c4b798b8424654f867088dc81d74132d
