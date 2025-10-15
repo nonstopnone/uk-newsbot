@@ -4731,3 +4731,5 @@
 2025-10-15T19:18:53.630094+00:00|https://www.bbc.com/news/articles/c2056ynn2ppo|judge orders trump administration to pause shutdown layoffs us news|1795f7572cb588999e7f7c6652e1c319
 2025-10-15T19:18:54.222415+00:00|https://abcnews.go.com/Politics/supreme-court-appears-ready-limit-key-part-voting/story|supreme court appears ready to limit key part of voting rights act us news|4025456768ca9da6ef3b258f91441fcf
 2025-10-15T19:18:54.798414+00:00|https://www.nbcnews.com/politics/politics-news/judge-blocks-trumps-shutdown-layoffs-calling-illegal-rcna237837|judge blocks trumps layoffs during shutdown calling them illegal us news|4cb023698b6cb885eceff82edb8439c1
+2025-10-15T19:39:13.002292+00:00|https://www.nytimes.com/2025/10/15/us/brown-university-trump-compact-funding.html|brown university rejects a white house compact to receive special treatment us news|4cebc0844ea299560016c3879cdc617b
+2025-10-15T19:39:13.613422+00:00|https://www.nytimes.com/2025/10/15/us/politics/kevin-kiley-shutdown.html|the lonely house republican still coming to work during the shutdown us news|d622190a2e004c3fe4b3042549b741b1
