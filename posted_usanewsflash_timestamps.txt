@@ -4720,3 +4720,5 @@
 2025-10-15T16:46:05.873507+00:00|https://www.nytimes.com/2025/10/15/us/politics/us-government-companies-china.html|us to take control of more companies to counter china us news|aee3e9da269f6d214d7a7183d900e890
 2025-10-15T16:46:06.482841+00:00|https://abcnews.go.com/Politics/trump-administrations-20b-bailout-argentina/story|what to know about the trump administrations $20b bailout for argentina us news|a00a6584e3137489ef66dbb5161afd7c
 2025-10-15T16:57:27.368100+00:00|https://abcnews.go.com/US/suspect-charged-kidnapping-connection-disappearance-23-year-philadelphia/story|suspect charged with kidnapping in connection to missing 23yearold woman police us news|5edd64f92d07a145c681db25eda01d5c
+2025-10-15T17:20:56.276859+00:00|https://www.bbc.com/news/articles/cz0x4e3zn2jo|us revokes visas over comments made about charlie kirks death us news|72ee97ef61760f8089cfb114857781d2
+2025-10-15T17:20:56.919856+00:00|https://www.nytimes.com/2025/10/15/us/politics/young-republicans-texts-backlash-racist-homophobic.html|gop officials condemn racist and homophobic texts from young republicans members us news|d72913b5be96b1397452deb3496505c6
