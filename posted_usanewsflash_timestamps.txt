@@ -4734,3 +4734,4 @@
 2025-10-15T19:39:13.002292+00:00|https://www.nytimes.com/2025/10/15/us/brown-university-trump-compact-funding.html|brown university rejects a white house compact to receive special treatment us news|4cebc0844ea299560016c3879cdc617b
 2025-10-15T19:39:13.613422+00:00|https://www.nytimes.com/2025/10/15/us/politics/kevin-kiley-shutdown.html|the lonely house republican still coming to work during the shutdown us news|d622190a2e004c3fe4b3042549b741b1
 2025-10-15T19:57:28.656595+00:00|https://www.nytimes.com/2025/10/15/travel/goonies-astoria-oregon.html|40 years after the goonies fans still flock to astoria oregon us news|c4b798b8424654f867088dc81d74132d
+2025-10-15T20:26:53.375447+00:00|https://www.nytimes.com/2025/10/15/us/politics/hegseth-russia-ukraine.html|hegseth warns us will impose costs on russia if peace efforts falter us news|251e75e49dd18a46789a052ce9310e23
