@@ -4709,3 +4709,6 @@
 2025-10-15T11:57:34.689925+00:00|https://www.today.com/video/shutdown-day-15-trump-threatens-more-permanent-job-cuts-249920069777|trump threatens to cut more jobs as shutdown enters day 15 us news|0b7ace6ab6cc1cf8bd2e696f3ee6ad9f
 2025-10-15T12:51:43.336485+00:00|https://www.nytimes.com/2025/10/14/us/chicago-ice-trump.html|ice is cracking down on chicago some chicagoans are fighting back us news|7cf494cf40f82bd5d24da466684a0131
 2025-10-15T13:23:23.571475+00:00|https://www.nytimes.com/2025/10/15/business/dealbook/bank-earnings-economy-lending-stocks.html|why bank ceos like jamie dimon see economic trouble ahead us news|a2b3c0ebb10100b3b871fdc9774c1868
+2025-10-15T13:49:00.231963+00:00|https://www.nytimes.com/2025/10/15/business/government-shutdown-trump-layoffs-unions.html|unions to ask court to block trump layoffs during shutdown us news|9b91ccaa280d64feb91a1e588d246d4b
+2025-10-15T13:49:00.854095+00:00|https://www.today.com/video/clashes-between-ice-agents-and-protestors-escalate-in-chicago-249921093556|federal agents deploy tear gas in clash with chicago protesters us news|de6eccf816660cc0e14470cb70a654c6
+2025-10-15T13:49:01.446402+00:00|https://www.nytimes.com/2025/10/15/world/asia/clashes-afghanistan-pakistan.html|clashes between afghanistan and pakistan kill at least 12 us news|6ed805f14208a637e5a9900044959ea5
