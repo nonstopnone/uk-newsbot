@@ -4715,3 +4715,5 @@
 2025-10-15T14:25:10.477180+00:00|https://www.bbc.com/news/articles/c9861edyjlno|as us shutdown starts to bite how much could it hit economy us news|14489790c2eb317305b34a11c3cb8cd5
 2025-10-15T14:25:11.021136+00:00|https://www.nytimes.com/2025/10/15/world/americas/los-angeles-emergency-immigration-raids.html|la county declares state of emergency over immigration raids us news|dfad130af460c403e52318625fba698a
 2025-10-15T15:57:23.023262+00:00|https://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html|the supreme court case that could hand the house to republicans us news|0e5e46eaa35ea4f43aec775132db34ef
+2025-10-15T16:26:59.643995+00:00|https://www.nytimes.com/2025/10/15/health/us-drugs-china-production.html|america is heavily reliant on china for raw materials in medicines us news|769e0a258faad9a0b69233fda6b50585
+2025-10-15T16:27:00.308323+00:00|https://www.nytimes.com/2025/10/15/us/florida-charity-casey-desantis.html|florida grand jury hears evidence in investigation of charity tied to casey desantis us news|0e5505879aa849a94f3fd992ffa6c1b4
