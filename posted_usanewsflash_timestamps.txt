@@ -4737,3 +4737,6 @@
 2025-10-15T20:26:53.375447+00:00|https://www.nytimes.com/2025/10/15/us/politics/hegseth-russia-ukraine.html|hegseth warns us will impose costs on russia if peace efforts falter us news|251e75e49dd18a46789a052ce9310e23
 2025-10-15T20:42:58.814242+00:00|https://www.nytimes.com/2025/10/15/us/california-reparations-newsom-veto.html|newsom rejects reparations bills in latest sign of racial justice shift us news|695f10d8ad67e1677bdf160b0c8f9f0c
 2025-10-15T20:42:59.501803+00:00|https://www.nytimes.com/2025/10/15/world/middleeast/hamas-gaza-hostages-remains-israel.html|hamas says it has returned all hostage remains it can recover putting fragile truce at risk us news|23d9d0ce2b6442d43f74c7fb81cc759e
+2025-10-15T21:20:25.093574+00:00|https://www.bbc.com/news/articles/c0ex1jq9pdvo|trump confirms cia authorisation in venezuela after us strikes on alleged drug boats us news|cf482f1a52c60923d86c8c55d93cd340
+2025-10-15T21:20:25.777628+00:00|https://www.nbcnews.com/video/shorts/trump-floats-san-francisco-as-federal-crackdown-target-249964101931|trump floats san francisco as federal crackdown target us news|d3c579ee97023673b7beeccd22e4ec69
+2025-10-15T21:20:26.472286+00:00|https://www.nytimes.com/2025/10/15/world/americas/argentina-trump-javier-milei.html|trump helped argentina face an economic meltdown it came at a cost us news|07b0fa35fa392e3b7281b4987bc6c862
