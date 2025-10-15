@@ -4685,3 +4685,8 @@
 2025-10-14T23:20:59.506597+00:00|https://www.nytimes.com/2025/10/14/science/chicago-rat-hole-squirrel.html|the chicago rat hole was not made by a rat us news|2b294a3a7258b661707babbd3f1a8a3e
 2025-10-14T23:21:00.057305+00:00|https://www.nytimes.com/2025/10/14/nyregion/etan-patz-retrial-appeals-court.html|in patz case manhattan prosecutors ask for months to decide on retrial us news|d31b5479c4d18e31784e60ffaa15ffcf
 2025-10-14T23:38:55.839282+00:00|https://www.nytimes.com/2025/10/14/nyregion/mamdani-hochul-trump.html|as trump hurls fresh threats and insults hochul has mamdanis back us news|f3879e70192969ad686c894df30b4402
+2025-10-15T01:51:40.371888+00:00|https://www.bbc.com/news/articles/c4gp55kkk2wo|trump administration looks for ways to pay federal officers during shutdown us news|a9cddadbb1e9a6fa25199f89095b5113
+2025-10-15T01:51:40.871950+00:00|https://www.nbcnews.com/video/shorts/democrats-protest-rep-elect-grijalva-swearing-in-delay-249904197664|democrats protest repelect grijalva swearingin delay us news|ef4c6f8bab4ad6f9af5f72527a77ff16
+2025-10-15T01:51:41.348052+00:00|https://abcnews.go.com/US/los-angeles-county-declares-state-emergency-immigration-raids/story|los angeles county declares state of emergency over immigration raids us news|9c1a6ef956fa321f9be893ab37e1c94c
+2025-10-15T01:51:41.844166+00:00|https://abcnews.go.com/US/manhattan-da-asks-supreme-court-intervene-retrial-man/story|manhattan da asks supreme court to intervene on retrial of 1979 murder of etan patz us news|75dfdc83b631d17a04aadca361a2c31e
+2025-10-15T01:51:42.436503+00:00|https://www.nbcnews.com/video/shorts/sen-murkowski-blames-vought-for-continued-shutdown-249903173662|sen murkowski blames vought for continued shutdown us news|6f01ed7cf265c069f040da04261a72d9
