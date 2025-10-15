@@ -4743,3 +4743,5 @@
 2025-10-15T21:39:23.317812+00:00|https://www.nytimes.com/2025/10/15/nyregion/ciattarelli-sherrill-new-jersey-governor-poll.html|democrats lead in race for new jersey governor narrows poll shows us news|c68d478fa6840a8dbfbd075a51430848
 2025-10-15T21:39:23.919324+00:00|https://www.nytimes.com/2025/10/15/business/penny-circulation-retailers-change.html|the pennys demise is leaving some businesses shortchanged us news|dcccfb5cc64c0ef9ac7be75eb6752c15
 2025-10-15T21:39:24.544356+00:00|https://www.nytimes.com/2025/10/15/us/politics/government-shutdown-trump-layoffs-unions.html|judge temporarily blocks trump from firing government workers during shutdown us news|aab49228c46a8ecd84185ea751e39d75
+2025-10-15T21:57:28.900947+00:00|https://www.bbc.com/news/articles/ce8gdl54n1go|trump says modi has agreed to stop buying russian oil us news|e9643dbe83cce912440e1187aa1516f1
+2025-10-15T21:57:29.673611+00:00|https://www.nbcnews.com/politics/donald-trump/trump-confirms-authorized-cia-action-venezuela-rcna237880|trump confirms he authorized cia action in venezuela us news|f017db1e7f7107ddbc3a4ae416305074
