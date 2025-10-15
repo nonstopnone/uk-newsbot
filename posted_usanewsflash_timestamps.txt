@@ -4735,3 +4735,5 @@
 2025-10-15T19:39:13.613422+00:00|https://www.nytimes.com/2025/10/15/us/politics/kevin-kiley-shutdown.html|the lonely house republican still coming to work during the shutdown us news|d622190a2e004c3fe4b3042549b741b1
 2025-10-15T19:57:28.656595+00:00|https://www.nytimes.com/2025/10/15/travel/goonies-astoria-oregon.html|40 years after the goonies fans still flock to astoria oregon us news|c4b798b8424654f867088dc81d74132d
 2025-10-15T20:26:53.375447+00:00|https://www.nytimes.com/2025/10/15/us/politics/hegseth-russia-ukraine.html|hegseth warns us will impose costs on russia if peace efforts falter us news|251e75e49dd18a46789a052ce9310e23
+2025-10-15T20:42:58.814242+00:00|https://www.nytimes.com/2025/10/15/us/california-reparations-newsom-veto.html|newsom rejects reparations bills in latest sign of racial justice shift us news|695f10d8ad67e1677bdf160b0c8f9f0c
+2025-10-15T20:42:59.501803+00:00|https://www.nytimes.com/2025/10/15/world/middleeast/hamas-gaza-hostages-remains-israel.html|hamas says it has returned all hostage remains it can recover putting fragile truce at risk us news|23d9d0ce2b6442d43f74c7fb81cc759e
