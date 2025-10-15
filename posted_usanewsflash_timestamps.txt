@@ -4717,3 +4717,5 @@
 2025-10-15T15:57:23.023262+00:00|https://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html|the supreme court case that could hand the house to republicans us news|0e5e46eaa35ea4f43aec775132db34ef
 2025-10-15T16:26:59.643995+00:00|https://www.nytimes.com/2025/10/15/health/us-drugs-china-production.html|america is heavily reliant on china for raw materials in medicines us news|769e0a258faad9a0b69233fda6b50585
 2025-10-15T16:27:00.308323+00:00|https://www.nytimes.com/2025/10/15/us/florida-charity-casey-desantis.html|florida grand jury hears evidence in investigation of charity tied to casey desantis us news|0e5505879aa849a94f3fd992ffa6c1b4
+2025-10-15T16:46:05.873507+00:00|https://www.nytimes.com/2025/10/15/us/politics/us-government-companies-china.html|us to take control of more companies to counter china us news|aee3e9da269f6d214d7a7183d900e890
+2025-10-15T16:46:06.482841+00:00|https://abcnews.go.com/Politics/trump-administrations-20b-bailout-argentina/story|what to know about the trump administrations $20b bailout for argentina us news|a00a6584e3137489ef66dbb5161afd7c
