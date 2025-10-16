@@ -4802,3 +4802,6 @@
 2025-10-16T18:51:30.693364+00:00|https://abcnews.go.com/US/video/trump-land-strikes-venezuela-126588528|watch trump says hes looking at land strikes on venezuela us news|2dce404161216c1004b1069e31235017
 2025-10-16T18:51:31.379801+00:00|https://www.nbcnews.com/video/shorts/mcconnell-falls-on-his-way-to-vote-250028101881|mcconnell falls on his way to vote us news|9849fbf8655095608110fca154f7d2b5
 2025-10-16T18:58:38.728487+00:00|https://www.nbcnews.com/video/shorts/video-shows-dramatic-grain-silo-collapse-in-illinois-250028101949|video shows dramatic grain silo collapse in illinois us news|a5bcefbc9a4374c0f3af859066829cc1
+2025-10-16T19:39:19.069896+00:00|https://www.bbc.com/news/videos/cwy75we8nnlo|watch moment grain silo collapses in illinois us news|430900e2760a31cebe697c6e38bf8769
+2025-10-16T19:39:19.812492+00:00|https://www.nytimes.com/2025/10/16/us/politics/trump-unilateral-spending-cuts-shutdown.html|trumps unilateral spending cuts complicate shutdown deal us news|cb9ee7d669921103fd7c119858844a68
+2025-10-16T19:39:20.526241+00:00|https://www.nytimes.com/2025/10/16/nyregion/nyc-mayor-debate-.html|the nyc mayoral debate begins at 7 pm heres what to watch for us news|d2511f708c48b0f2673469df348dfca1
