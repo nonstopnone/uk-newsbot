@@ -4769,3 +4769,6 @@
 2025-10-16T10:57:52.837214+00:00|https://www.bbc.com/news/articles/cj97jpx3yj3o|zohran mamdani and andrew cuomo to meet for first new york mayoral debate us news|388aabbe23142ed39c0789afb78d2896
 2025-10-16T10:57:53.419816+00:00|https://www.bbc.com/news/articles/cdeg7y4171xo|titan submersible imploded due to poor engineering say us officials us news|11f2e3e5369073314e08786c6752edd2
 2025-10-16T11:20:03.642277+00:00|https://www.nytimes.com/2025/10/16/us/chicago-ice-raids-ressit.html|chicagoans resist ice agents us news|22961844e88b4e173257442fec685f34
+2025-10-16T12:51:55.095745+00:00|https://www.bbc.com/news/articles/cn97xx7d3r1o|canada threatens jeepmaker over possible us move us news|5c0c505e976e1f0af0e90222cce90f2e
+2025-10-16T12:51:56.038286+00:00|https://www.nytimes.com/2025/10/16/world/asia/india-trump-russia-oil.html|india tiptoes around trumps latest claims on russian oil purchases us news|0e89e2866aad81e0fdea3154a48c6c9c
+2025-10-16T12:51:56.742793+00:00|https://www.nytimes.com/2025/10/16/nyregion/mandani-jews-israel-palestine.html|mamdani is making overtures to jewish leaders some are listening us news|49eb7c5f81602910f914b198862a6872
