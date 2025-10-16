@@ -4820,3 +4820,5 @@
 2025-10-16T21:57:25.997598+00:00|https://www.bbc.com/news/articles/c751l7gqx1no|what could the cia do on trumps orders in venezuela us news|5015fd4b14bcb67e27425a47bf381f17
 2025-10-16T21:57:26.576885+00:00|https://www.nytimes.com/2025/10/16/us/politics/trump-hamas-warnings-gaza-strikes.html|trump warns hamas of strikes if violence in gaza continues us news|d0efe5c218ebc43f0155ec5b86677e2d
 2025-10-16T22:18:34.989786+00:00|https://www.nytimes.com/2025/10/16/nyregion/zohran-mamdani-islamophobic-attacks-hamas-gaza.html|mamdani faces islamophobic attacks after comments about hamas us news|d0ca0e16f98b0e139b64aefa956ccf66
+2025-10-16T22:57:37.053612+00:00|https://www.nytimes.com/2025/10/16/us/wisconsin-man-tiktok-threats-ice.html|wisconsin man used tiktok to call for the killing of ice agents us says us news|a6b7d51d37a21029283b5f0547e47dc1
+2025-10-16T22:57:37.566745+00:00|https://www.nytimes.com/2025/10/16/us/politics/democrats-republicans-voting-rights.html|parties brace for a political future without the voting rights act us news|9e557743ccd56d3a9d945a78061374a0
