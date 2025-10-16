@@ -4814,3 +4814,6 @@
 2025-10-16T21:19:28.442349+00:00|https://www.bbc.com/news/articles/cgql2qzkz5zo|former trump adviser john bolton criminally indicted us news|ceeaced1538c7d0fe25d299f08597d24
 2025-10-16T21:19:29.096071+00:00|https://www.bbc.com/news/articles/crmxz37nv3zo|trump says he will meet putin in hungary for ukraine talks after very productive call us news|40dfaf1e37ede4b67e2728958df2a8b7
 2025-10-16T21:19:29.803469+00:00|https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html|trump plans to meet with putin to talk about a ceasefire in ukraine us news|0adf4b7f3f9f0856d0b81c51327d35e7
+2025-10-16T21:39:12.240231+00:00|https://www.nbcnews.com/video/shorts/ex-trump-national-security-adviser-john-bolton-indicted-250044485771|extrump national security adviser john bolton indicted us news|baf8770cd6990949ba3ac81642988d89
+2025-10-16T21:39:12.824415+00:00|https://www.nbcnews.com/video/how-bolton-s-indictment-differs-from-those-of-other-trump-foes-250044485656|how boltons indictment differs from those of other trump foes us news|a6cf445e6a48ebd17b463104c7bc8246
+2025-10-16T21:39:13.351900+00:00|https://www.nbcnews.com/video/shorts/trump-reacts-to-bolton-indictment-250044485794|trump reacts to bolton indictment us news|86a94bf4ff4a73931ca29322b438087d
