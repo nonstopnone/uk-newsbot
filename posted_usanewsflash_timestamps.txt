@@ -4789,3 +4789,5 @@
 2025-10-16T16:30:43.817409+00:00|https://abcnews.go.com/Entertainment/video/barbie-ferreira-walks-victorias-secret-fashion-show-126584537|watch barbie ferreira walks in her first victorias secret fashion show us news|48c6f19971e8ea2c2a05fb5150275631
 2025-10-16T16:30:44.472257+00:00|https://www.nytimes.com/2025/10/16/us/oklahoma-schools-superintendent-bible-mandate.html|new oklahoma superintendent rescinds bible mandate us news|d06b360c5e8ea2fc1bcf397d7d3f129c
 2025-10-16T16:57:46.953468+00:00|https://www.nytimes.com/2025/10/16/us/politics/trump-ivf-fertility.html|white house set to announce proposal seeking to make ivf more accessible us news|0b2f06fc8c0f57859dd6002f904692e9
+2025-10-16T17:21:06.121345+00:00|https://www.nytimes.com/2025/10/16/us/salesforce-resign-benioff-ron-conway.html|venture capitalist resigns from salesforce foundation over benioff comments us news|3671d1aaaeb6fadef2f2cefc9dbf2ff7
+2025-10-16T17:21:06.652897+00:00|https://abcnews.go.com/Politics/sen-mitch-mcconnell-falls-capitol-hallway/story|sen mitch mcconnell falls in capitol hallway us news|a19b90cada9d1db4991d271687f9e486
