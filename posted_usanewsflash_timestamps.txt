@@ -4811,3 +4811,6 @@
 2025-10-16T20:25:59.094590+00:00|https://abcnews.go.com/International/video/trump-threatens-kill-hamas-members-violence-gaza-continues-126594068|watch trump threatens to go in and kill hamas members as violence in gaza continues us news|9f846340d8b1a8c254dc42a60bb5502a
 2025-10-16T20:42:05.433715+00:00|https://www.nytimes.com/2025/10/16/us/appeals-trump-national-guard-troops-illinois.html|appeals court maintains block on trumps troop deployment to illinois us news|81f1f951b59e21184d26d80b7d3f109d
 2025-10-16T20:57:25.212359+00:00|https://www.nbcnews.com/politics/justice-department/john-bolton-indicted-trump-rcna236983|extrump adviser john bolton indicted by a federal grand jury us news|d54a807fbd7b0e6c25e15bd56d314ba8
+2025-10-16T21:19:28.442349+00:00|https://www.bbc.com/news/articles/cgql2qzkz5zo|former trump adviser john bolton criminally indicted us news|ceeaced1538c7d0fe25d299f08597d24
+2025-10-16T21:19:29.096071+00:00|https://www.bbc.com/news/articles/crmxz37nv3zo|trump says he will meet putin in hungary for ukraine talks after very productive call us news|40dfaf1e37ede4b67e2728958df2a8b7
+2025-10-16T21:19:29.803469+00:00|https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html|trump plans to meet with putin to talk about a ceasefire in ukraine us news|0adf4b7f3f9f0856d0b81c51327d35e7
