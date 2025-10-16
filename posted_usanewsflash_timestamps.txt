@@ -4784,3 +4784,4 @@
 2025-10-16T15:43:01.869070+00:00|https://www.nbcnews.com/video/shorts/journalists-hand-in-credentials-walk-out-of-pentagon-250016837721|journalists hand in credentials walk out of pentagon us news|d6522880efab2609bc7986d44793082d
 2025-10-16T15:43:02.626288+00:00|https://www.nytimes.com/2025/10/16/climate/carbon-dioxide-emissions-record-jump.html|world meteorological report marks biggest annual jump in co2 levels us news|62327806fd3b03ba47d1405b49961d76
 2025-10-16T15:43:03.274986+00:00|https://www.nytimes.com/2025/10/15/podcasts/serial-the-preventionist-episode-1.html|serial podcast the preventionist episode 1 us news|79b36a52f6920532cd86408f3f5088a6
+2025-10-16T15:57:59.130361+00:00|https://www.nytimes.com/2025/10/16/us/politics/jon-ossoff-shutdown.html|ossoff walks political tightrope in georgia as shutdown drags on us news|fb8df918eda012f27f43134bfe6584dc
