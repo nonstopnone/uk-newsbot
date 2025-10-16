@@ -4776,3 +4776,5 @@
 2025-10-16T13:22:46.582011+00:00|https://www.today.com/video/judge-blocks-trump-administration-s-layoffs-during-shutdown-250001989611|judge blocks trump administrations layoffs during shutdown us news|dc003adf2671c4c756a9fc2b37f52825
 2025-10-16T13:48:28.738995+00:00|https://abcnews.go.com/Politics/us-led-coordination-center-overseeing-gaza-rebuilding-operational/story|usled coordination center for gaza to be operational in coming days officials us news|a69baba7d69893a8bf4ec7d87a746dad
 2025-10-16T13:57:56.599155+00:00|https://www.nytimes.com/2025/10/16/climate/fema-disaster-recovery-trump.html|fema denies disaster claims leaving states fending for themselves us news|1af0466ee7acaf0043479fdc2ea6653c
+2025-10-16T14:24:15.139312+00:00|https://www.nytimes.com/2025/10/16/technology/san-francisco-rent-ai-boom.html|renting a san francisco apartment in the ai boom good luck us news|5ddafeeb25c68f432ff57ba7b7eb53b2
+2025-10-16T14:24:15.785516+00:00|https://www.nytimes.com/2025/10/16/weather/california-fire-season-update.html|early rains tame californias peak wildfire season us news|f1a330586b11d66ec00abb1e2e0e9efd
