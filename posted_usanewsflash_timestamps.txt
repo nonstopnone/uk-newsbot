@@ -4781,3 +4781,6 @@
 2025-10-16T15:25:46.394120+00:00|https://www.bbc.com/news/articles/c8eykdy0567o|india casts doubt on trumps claim modi will stop buying russian oil us news|2f3d9860f881235475302150ded0034c
 2025-10-16T15:25:47.029823+00:00|https://www.nytimes.com/2025/10/16/business/trump-tariff-trucks-parts.html|trumps new tariff on trucks could burden an already struggling industry us news|7a3284258a90ba94d96c7b42215cc805
 2025-10-16T15:25:47.639753+00:00|https://abcnews.go.com/Politics/thune-offered-democrats-vote-obamacare-subsidies-end-government/story|thune says he offered dems a vote on obamacare subsidies to end government shutdown us news|b60aabbfe5e5ee2102185988d34af92a
+2025-10-16T15:43:01.869070+00:00|https://www.nbcnews.com/video/shorts/journalists-hand-in-credentials-walk-out-of-pentagon-250016837721|journalists hand in credentials walk out of pentagon us news|d6522880efab2609bc7986d44793082d
+2025-10-16T15:43:02.626288+00:00|https://www.nytimes.com/2025/10/16/climate/carbon-dioxide-emissions-record-jump.html|world meteorological report marks biggest annual jump in co2 levels us news|62327806fd3b03ba47d1405b49961d76
+2025-10-16T15:43:03.274986+00:00|https://www.nytimes.com/2025/10/15/podcasts/serial-the-preventionist-episode-1.html|serial podcast the preventionist episode 1 us news|79b36a52f6920532cd86408f3f5088a6
