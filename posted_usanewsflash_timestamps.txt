@@ -4756,3 +4756,7 @@
 2025-10-16T01:50:21.845939+00:00|https://www.nytimes.com/2025/10/15/us/politics/trump-bondi-patel-blanche-oval-office.html|oval office becomes a diorama of power dynamics as trump goes after rivals us news|c46acc12bd6225d9c26b5e6cc6b9fc42
 2025-10-16T01:50:22.343529+00:00|https://www.nytimes.com/2025/10/15/nyregion/mamdani-fox-interview.html|on fox news mamdani speaks directly to trump i wont be a mayor like adams us news|606f50ed17fda414caca75dc3a01d1e5
 2025-10-16T01:50:22.818391+00:00|https://www.nbcnews.com/nightly-news/video/israel-accuses-hamas-of-violating-trump-peace-deal-249973829763|israel accuses hamas of violating trump peace deal us news|29d6e7462a94ba0cd7fe6972418be99d
+2025-10-16T02:56:19.312915+00:00|https://www.bbc.com/news/articles/cy7e8lv176go|what we know about white house plans for an arc de trump us news|b90ce19779215fa322e87300fc4a83d6
+2025-10-16T02:56:19.803387+00:00|https://www.nytimes.com/2025/10/15/nyregion/trump-gateway-cancellation.html|trump says $16 billion hudson river tunnel project is terminated us news|730468097e83949c28c88ccb7e62ecdd
+2025-10-16T02:56:20.288498+00:00|https://www.nbcnews.com/video/shorts/trump-says-he-authorized-cia-action-inside-venezuela-249984581662|trump says he authorized cia action inside venezuela us news|42c40bfa02be4598fb30380064c14802
+2025-10-16T02:56:20.773711+00:00|https://www.nbcnews.com/video/shorts/florida-deputies-rescue-sea-turtle-from-tangled-net-249979461548|florida deputies rescue sea turtle from tangled net us news|b860f03662a20477b757bb3cc6657eb8
