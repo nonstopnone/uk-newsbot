@@ -4843,3 +4843,8 @@
 2025-10-17T05:22:18.235582+00:00|https://www.nbcnews.com/video/shorts/colorado-state-trooper-reels-in-dangerous-driver-250065989845|colorado state trooper reels in dangerous driver us news|f5ca46801f1bd7c5792763bc96a4d892
 2025-10-17T06:34:16.497191+00:00|https://www.nytimes.com/2025/10/17/us/politics/nancy-pelosi-scott-wiener.html|top san francisco lawmaker expected to challenge nancy pelosi in primary us news|5fe2ab874fb3d33e157699384b452df9
 2025-10-17T09:25:57.065752+00:00|https://www.nbcnews.com/politics/congress/congress-trump-continue-normal-government-shutdown-rcna237846|ritzy dinners and a dogs birthday party shutdown lifes pretty normal for congress and trump us news|72a4ab265855d480e31a5fabd480e0c8
+2025-10-17T10:25:18.392005+00:00|https://www.nytimes.com/2025/10/17/us/universities-are-standing-up-to-trump.html|universities are standing up to trump us news|db5e9ae2de9e9455293d66c60af491a2
+2025-10-17T10:25:18.951284+00:00|https://www.nytimes.com/2025/10/17/world/europe/ukraine-zelensky-suit-fashion-designer.html|for zelenskys fashion adviser its all about the suit us news|3b01ac4664614d9f5f526be9b065b514
+2025-10-17T10:25:19.537802+00:00|https://www.nytimes.com/live/2025/10/16/nyregion/nyc-mayor-debate-fact-check|factchecking the debate us news|6c4c424df77efe3df94c8cb0d787ad48
+2025-10-17T10:25:20.107408+00:00|https://www.nytimes.com/2025/10/17/us/fbi-hamas-attack-louisiana.html|us says louisiana man joined hamasled 2023 attack on israel us news|bcca2d171079622b4a405af876f61a27
+2025-10-17T10:25:20.683395+00:00|https://www.nytimes.com/2025/10/17/science/starfront-observatories-remote-astronomy.html|an army of robot telescopes in texas makes the stars feel closer than ever us news|cff39893891b7c1125914fd9b851552b
