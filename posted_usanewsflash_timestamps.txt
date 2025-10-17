@@ -4903,3 +4903,4 @@
 2025-10-17T23:19:58.368811+00:00|https://www.nytimes.com/2025/10/17/us/david-huerta-immigration-raid-charges.html|federal prosecutors downgrade charge against david huerta to a misdemeanor us news|c7443a4383df437fe4c062aec53c34e7
 2025-10-17T23:19:59.029392+00:00|https://www.nytimes.com/2025/10/17/us/chicago-ice-body-cameras.html|judge orders some federal agents to wear body cameras in chicago area us news|d9bdf332edaddc489512ac94acba19b7
 2025-10-17T23:19:59.674977+00:00|https://www.nytimes.com/2025/10/17/business/trump-tariffs-trucks-buses.html|trump sets tariffs on trucks and buses us news|ed2078732ad688d4b83736fc38e9a2e9
+2025-10-17T23:38:47.516134+00:00|https://www.nytimes.com/2025/04/25/nyregion/george-santos-timeline.html|a timeline of george santoss rise and fall us news|016e74ffd6f410f6e48260e0db53a0bc
