@@ -4890,3 +4890,4 @@
 2025-10-17T21:20:41.356578+00:00|https://www.nytimes.com/2025/10/17/us/politics/trump-supreme-court-national-guard-chicago.html|trump asks supreme court to allow national guard deployment in chicago area us news|9fd18ba6d2b07179816cb4cfeb1b1f32
 2025-10-17T21:20:41.998634+00:00|https://abcnews.go.com/Politics/video/nyc-mayoral-candidates-square-off-debate-126631320|watch nyc mayoral candidates square off in first debate us news|8d319d1e9bf85e3924528f2c14eb691b
 2025-10-17T21:20:42.662864+00:00|https://www.nytimes.com/2025/10/17/us/benioff-apologizes-san-francisco.html|benioff apologizes for saying trump should send troops to san francisco us news|1964d2103ec3d239233150ae0a59b200
+2025-10-17T21:38:28.488037+00:00|https://www.nbcnews.com/now/video/two-survivors-in-custody-after-u-s-strike-on-alleged-venezuelan-cartel-boat-250121285922|two survivors in custody after us strike on alleged venezuelan cartel boat us news|38fdac013be59b0a42fcc2aa7b54e10c
