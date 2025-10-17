@@ -4861,3 +4861,7 @@
 2025-10-17T16:28:57.673470+00:00|https://abcnews.go.com/US/arrest-made-murder-28-year-killed-maine-march/story|arrest made in murder of 28yearold killed in maine last march us news|2bbb124539e16aa18169d89e2fac0024
 2025-10-17T16:28:58.152940+00:00|https://www.nytimes.com/2025/10/17/world/americas/mexico-floods-missing.html|devastating floods in mexico test president claudia sheinbaum us news|be1d321591d10b7a7bfc1ff84d74ba54
 2025-10-17T16:28:58.660466+00:00|https://www.nbcnews.com/video/john-bolton-pleads-not-guilty-to-federal-charges-250096709688|john bolton pleads not guilty to federal charges us news|c690fc75d892ce28a0633b7464efa1a3
+2025-10-17T16:47:15.854792+00:00|https://www.nytimes.com/2025/10/17/us/chicago-economy-business-immigration-crackdown.html|some chicago businesses feeling the impact of trumps immigration blitz us news|772a70d3ba6c0985f14fe987c8e2f1d0
+2025-10-17T16:47:16.341945+00:00|https://abcnews.go.com/Politics/nationwide-kings-rallies-set-protest-trump/story|what to know about nationwide no kings rallies set to protest trump us news|c1b3fd686f65c5eb264e39412c4e0dff
+2025-10-17T16:47:16.852056+00:00|https://abcnews.go.com/Politics/2-survivors-us-attack-alleged-drug-smugglers-american/story|at least 2 survivors of a us attack on alleged drug smugglers in american custody us news|f46e205542ccb9221fbfb69442a91397
+2025-10-17T16:47:17.345504+00:00|https://www.nytimes.com/2025/10/17/nyregion/chikungunya-long-island-case.html|how a long island woman was diagnosed with chikungunya us news|16677862ac9d2caedb6b555d0aa7198f
