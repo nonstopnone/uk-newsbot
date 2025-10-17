@@ -4850,3 +4850,6 @@
 2025-10-17T10:25:20.683395+00:00|https://www.nytimes.com/2025/10/17/science/starfront-observatories-remote-astronomy.html|an army of robot telescopes in texas makes the stars feel closer than ever us news|cff39893891b7c1125914fd9b851552b
 2025-10-17T10:43:40.458753+00:00|https://www.nbcnews.com/video/shorts/kilauea-volcano-erupts-on-hawaii-s-big-island-250079301868|kilauea volcano erupts on hawaiis big island us news|b63c018ace2e6afd5bbbd647302efc86
 2025-10-17T10:57:41.798435+00:00|https://www.bbc.com/news/articles/cjek0zgjdd5o|ice hockey player carter hart to join golden knights after sexual assault acquittal us news|390ae56ddcdf3ad2b00cfe81aa650732
+2025-10-17T12:50:14.763262+00:00|https://www.today.com/video/what-is-the-political-significance-of-the-john-bolton-indictment-250081349761|what is the political significance of the john bolton indictment us news|eb94278d1646b32afbf4505e66a4c5bf
+2025-10-17T12:50:15.258645+00:00|https://abcnews.go.com/US/video/trump-announces-deal-reduce-cost-ivf-medications-126611552|watch trump announces deal to reduce cost of some ivf medications us news|9063e3d3a2f69d5c8cb1e7ca40490a9c
+2025-10-17T12:50:15.761864+00:00|https://www.nytimes.com/2025/10/17/world/europe/putin-trump-call-meeting-ukraine-russia.html|putins trump strategy lots of flattery and talk of business deals us news|20c83ef72d6750375b50b12d12d9cdf3
