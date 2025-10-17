@@ -4880,3 +4880,4 @@
 2025-10-17T19:18:20.575860+00:00|https://www.bbc.com/news/articles/c2318dn5yg4o|new york young republican group disbanded after racist group messages us news|666343689f8f59c9abc5f6d41d949adc
 2025-10-17T19:18:21.429179+00:00|https://www.nytimes.com/2025/10/17/nyregion/mangione-united-healthcare-filing.html|mangione seeks information about unitedhealths contact with trump us news|f438ad439f51e9118395192d08ada7e6
 2025-10-17T19:39:01.829979+00:00|https://www.nbcnews.com/video/shorts/trump-says-it-s-possible-putin-is-stalling-for-time-250111045748|trump says its possible putin is stalling for time us news|6e7d6a84d7b3e2a0e67fc10f10b658c0
+2025-10-17T19:57:40.736766+00:00|https://www.nytimes.com/2025/10/17/health/aca-health-insurance-costs.html|higher obamacare prices become public in a dozen states us news|04167387a5774189e3c6d1b8ade9781c
