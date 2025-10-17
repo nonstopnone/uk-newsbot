@@ -4848,3 +4848,4 @@
 2025-10-17T10:25:19.537802+00:00|https://www.nytimes.com/live/2025/10/16/nyregion/nyc-mayor-debate-fact-check|factchecking the debate us news|6c4c424df77efe3df94c8cb0d787ad48
 2025-10-17T10:25:20.107408+00:00|https://www.nytimes.com/2025/10/17/us/fbi-hamas-attack-louisiana.html|us says louisiana man joined hamasled 2023 attack on israel us news|bcca2d171079622b4a405af876f61a27
 2025-10-17T10:25:20.683395+00:00|https://www.nytimes.com/2025/10/17/science/starfront-observatories-remote-astronomy.html|an army of robot telescopes in texas makes the stars feel closer than ever us news|cff39893891b7c1125914fd9b851552b
+2025-10-17T10:43:40.458753+00:00|https://www.nbcnews.com/video/shorts/kilauea-volcano-erupts-on-hawaii-s-big-island-250079301868|kilauea volcano erupts on hawaiis big island us news|b63c018ace2e6afd5bbbd647302efc86
