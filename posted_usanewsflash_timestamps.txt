@@ -4900,3 +4900,6 @@
 2025-10-17T22:41:11.595639+00:00|https://www.nytimes.com/2025/10/17/us/politics/food-stamps-agriculture-department.html|food stamp benefits may run out in november officials warn us news|7e4f70b75d39b725111258a5c43abe38
 2025-10-17T22:41:12.119095+00:00|https://abcnews.go.com/US/george-santos-prison-sentence-commuted-released-immediately-trump/story|george santos prison sentence commuted to be released immediately trump us news|ef3866888016a09931452b473209cd87
 2025-10-17T22:57:26.478222+00:00|https://www.bbc.com/news/articles/cy5q3439xpqo|trump orders excongressman george santos released from prison in fraud case us news|1e7d2cd197f5278c7c3862aeabe58356
+2025-10-17T23:19:58.368811+00:00|https://www.nytimes.com/2025/10/17/us/david-huerta-immigration-raid-charges.html|federal prosecutors downgrade charge against david huerta to a misdemeanor us news|c7443a4383df437fe4c062aec53c34e7
+2025-10-17T23:19:59.029392+00:00|https://www.nytimes.com/2025/10/17/us/chicago-ice-body-cameras.html|judge orders some federal agents to wear body cameras in chicago area us news|d9bdf332edaddc489512ac94acba19b7
+2025-10-17T23:19:59.674977+00:00|https://www.nytimes.com/2025/10/17/business/trump-tariffs-trucks-buses.html|trump sets tariffs on trucks and buses us news|ed2078732ad688d4b83736fc38e9a2e9
