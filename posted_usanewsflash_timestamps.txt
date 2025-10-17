@@ -4834,3 +4834,7 @@
 2025-10-17T02:54:36.573188+00:00|https://www.bbc.com/news/articles/cn8xlx53jn6o|five takeaways from the mamdanicuomo nyc mayoral debate us news|a1f3f4271eb64021503fc4899c12b472
 2025-10-17T02:54:37.377759+00:00|https://www.nytimes.com/2025/10/16/us/salesforce-benioff-ice.html|salesforce offers its services to boost ice immigration force us news|e7a685d784409a2d0389fd29fac574a8
 2025-10-17T02:54:38.139859+00:00|https://www.nytimes.com/2025/10/16/us/politics/trump-bolton-indictment-documents.html|how the bolton indictment compares to trumps classified documents case us news|acf86f8065ff8680b0e0199a4c754ad2
+2025-10-17T03:28:43.035545+00:00|https://www.nytimes.com/2025/10/16/us/politics/john-bolton-indictment-trump.html|john bolton indicted over handling of classified information us news|a038777e3e200b9d9fbe34ac2ff5951d
+2025-10-17T03:28:43.731543+00:00|https://www.nbcnews.com/video/shorts/how-mamdani-and-cuomo-would-work-with-trump-250061893648|how mamdani and cuomo would work with trump us news|14721a403c346cde106ec1ecc0c99d75
+2025-10-17T03:28:44.424144+00:00|https://www.nytimes.com/2025/10/16/us/police-prank-ai-homeless-tiktok.html|police warn against pranking people with ai images of homeless intruder us news|da769415cfc5188ddd42800661c9bb27
+2025-10-17T03:28:45.126524+00:00|https://www.nytimes.com/2025/10/16/world/americas/trinidad-us-military-venezuela-boats.html|us military killed venezuelan fisherman in suspected drug boat attack family says us news|6fb20ac87e4d53c998d488e164acfbf9
