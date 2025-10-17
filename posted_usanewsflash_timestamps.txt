@@ -4829,3 +4829,8 @@
 2025-10-17T01:49:23.340327+00:00|https://www.nbcnews.com/politics/trump-administration/us-strikes-cartel-boat-are-survivors-rcna238104|us military strike on a cartel boat leaves survivors for the first time us official says us news|2ed755f9ffea331916be3e6eb0657c0f
 2025-10-17T01:49:24.178161+00:00|https://www.nbcnews.com/video/nyc-mayoral-candidates-spar-over-israel-gaza-positions-250057285760|nyc mayoral candidates spar over israelgaza positions us news|7d4c32075b82deb17ea29d9a321e3df4
 2025-10-17T01:49:24.800091+00:00|https://abcnews.go.com/US/appeals-court-declines-lift-order-blocking-trump-deploying/story|appeals court keeps order blocking trump from deploying national guard in illinois us news|2297053a2eb57efbc6a60f51e98b8ef9
+2025-10-17T02:54:35.526605+00:00|https://www.bbc.com/news/videos/c2016wzq545o|grocery bills trump and gaza how nyc mayoral debate unfolded us news|4f0dffac2b0388903672d41fc51283da
+2025-10-17T02:54:36.043685+00:00|https://www.bbc.com/news/articles/cze63r34213o|putintrump call a curveball for zelensky ahead of white house meeting us news|2f38f3f89cac7b8929514cc050b0198b
+2025-10-17T02:54:36.573188+00:00|https://www.bbc.com/news/articles/cn8xlx53jn6o|five takeaways from the mamdanicuomo nyc mayoral debate us news|a1f3f4271eb64021503fc4899c12b472
+2025-10-17T02:54:37.377759+00:00|https://www.nytimes.com/2025/10/16/us/salesforce-benioff-ice.html|salesforce offers its services to boost ice immigration force us news|e7a685d784409a2d0389fd29fac574a8
+2025-10-17T02:54:38.139859+00:00|https://www.nytimes.com/2025/10/16/us/politics/trump-bolton-indictment-documents.html|how the bolton indictment compares to trumps classified documents case us news|acf86f8065ff8680b0e0199a4c754ad2
