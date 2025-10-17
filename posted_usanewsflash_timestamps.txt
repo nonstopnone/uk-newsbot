@@ -4838,3 +4838,5 @@
 2025-10-17T03:28:43.731543+00:00|https://www.nbcnews.com/video/shorts/how-mamdani-and-cuomo-would-work-with-trump-250061893648|how mamdani and cuomo would work with trump us news|14721a403c346cde106ec1ecc0c99d75
 2025-10-17T03:28:44.424144+00:00|https://www.nytimes.com/2025/10/16/us/police-prank-ai-homeless-tiktok.html|police warn against pranking people with ai images of homeless intruder us news|da769415cfc5188ddd42800661c9bb27
 2025-10-17T03:28:45.126524+00:00|https://www.nytimes.com/2025/10/16/world/americas/trinidad-us-military-venezuela-boats.html|us military killed venezuelan fisherman in suspected drug boat attack family says us news|6fb20ac87e4d53c998d488e164acfbf9
+2025-10-17T04:28:18.730764+00:00|https://www.nytimes.com/2025/10/17/business/media/trump-lawsuit-new-york-times.html|trump refiles $15 billion lawsuit against the new york times us news|01d107b8771cc52f18f2e7e4fdeb04b7
+2025-10-17T04:28:19.418833+00:00|https://www.nytimes.com/2025/10/16/nyregion/nyc-mayor-debate-mamdani-cuomo-takeaways.html|7 takeaways from the first nyc mayoral debate us news|156d8c2a0e858f78f91d9bc51101fdce
