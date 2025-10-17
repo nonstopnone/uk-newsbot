@@ -4871,3 +4871,6 @@
 2025-10-17T17:40:32.447563+00:00|https://www.nbcnews.com/video/watch-live-trump-and-zelenskyy-meet-at-white-house-250091589776|trump meets with ukrainian president zelenskyy at white house us news|d0921396d778313302928d246e155060
 2025-10-17T17:40:32.995375+00:00|https://www.nytimes.com/2025/10/17/us/politics/us-military-strike-survivors.html|us detains 2 survivors of latest military strike in caribbean us news|2a7aff82a674538cb0019d8386ebb73c
 2025-10-17T17:57:45.591307+00:00|https://abcnews.go.com/Politics/trump-zelenskyy-meet-white-house-discuss-russia-ukraine/story|trump zelenskyy meet at white house to discuss russiaukraine war us news|41efaaebc9354447df915bb0c2933241
+2025-10-17T18:31:07.506482+00:00|https://www.nytimes.com/2025/10/17/world/americas/trump-venezuela-chevron-oil.html|chevron thrives in venezuela despite threats by trump us news|1b7f6ab280fb2a65cbf30e7b80a218d5
+2025-10-17T18:31:08.230776+00:00|https://www.nytimes.com/2025/10/17/climate/fall-foliage-drought-new-england.html|drought mutes northeast leafpeeping season us news|7ae5e5766bcea032c71066e19f7debb4
+2025-10-17T18:31:08.930202+00:00|https://www.nbcnews.com/news/us-news/us-2-survivors-custody-strike-alleged-venezuelan-cartel-boat-rcna238244|us has 2 survivors in custody after strike on alleged venezuelan cartel boat us news|6cf50c747ce638bbbb673d4766477d74
