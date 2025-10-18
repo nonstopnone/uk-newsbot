@@ -4949,3 +4949,5 @@
 2025-10-18T23:20:11.107714+00:00|https://www.nytimes.com/2025/10/18/nyregion/cuomo-mamdani-imam.html|cuomo tries to tie mamdani to muslim leaders antigay stance us news|37dca2f28d360c8666c556a763573b7f
 2025-10-18T23:39:13.485145+00:00|https://www.nytimes.com/video/us/100000010453858/chicago-us-border-patrol.html|the border patrols blueprint for american cities us news|ee417a364b901d49a84b52fea30dfc71
 2025-10-18T23:39:14.157092+00:00|https://www.nbcnews.com/video/massive-crowds-take-to-streets-to-protest-trump-administration-250169925632|massive crowds take to streets to protest trump administration us news|6854cebebe37523bbff50424631cb520
+2025-10-18T23:57:38.913642+00:00|https://abcnews.go.com/International/wireStory/us-embassy-issues-warning-americans-trinidad-tobago-tensions-126647645|us embassy warns americans in trinidad and tobago as tensions with venezuela rise us news|b1809f80833b72f933748c26662e7e84
+2025-10-18T23:57:39.525505+00:00|https://abcnews.go.com/US/remains-found-amid-search-missing-philadelphia-woman-kada/story|remains found amid search for missing philadelphia woman kada scott police us news|05e9f6942fec31266c4b6ba1727c2619
