@@ -4932,3 +4932,6 @@
 2025-10-18T17:57:42.863340+00:00|https://www.nytimes.com/2025/10/18/us/politics/boat-strike-survivors.html|us to repatriate survivors of its strike on suspected drug vessel us news|fa7cab39a47b98d9f6e90ebffc647c32
 2025-10-18T17:57:43.790348+00:00|https://www.nbcnews.com/video/shorts/crowds-gather-for-no-kings-protest-in-miami-250162757911|crowds gather for no kings protest in miami us news|36cad33856db0f48594d7108217c8207
 2025-10-18T18:45:05.186249+00:00|https://www.nbcnews.com/video/shorts/bill-nye-slams-nasa-funding-cuts-at-no-kings-rally-250166341847|bill nye slams nasa funding cuts at no kings rally us news|f4d0832fb2affae71060f86629611e6f
+2025-10-18T19:16:45.530152+00:00|https://www.nbcnews.com/video/bill-nye-slams-trump-as-petulant-during-no-kings-protest-250164293810|bill nye slams trump as petulant during no kings protest us news|e9d1807b6124015cb7ad076b1ff4211d
+2025-10-18T19:16:46.077966+00:00|https://www.nytimes.com/2025/10/18/world/americas/venezuela-military-us.html|venezuela announces sweeping military exercises as us escalates pressure us news|f5e3ceb51fff50d45185fc59d7a4d911
+2025-10-18T19:16:46.584348+00:00|https://www.nytimes.com/2025/10/18/books/alison-rose-dead.html|alison rose the new yorkers femme fatale dies at 81 us news|728151d392ddbc35dfc72dee7b3f6866
