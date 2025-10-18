@@ -4918,3 +4918,7 @@
 2025-10-18T07:19:42.366188+00:00|https://www.bbc.com/news/articles/c93xgyp1zv4o|national guard activated ahead of no kings protests planned across us us news|a34712d32cd4d919f7888ceb3338261a
 2025-10-18T07:19:42.938599+00:00|https://www.bbc.com/sport/baseball/articles/cy40p88wzelo|ohtani rewrites history to send dodgers to world series us news|cc0cf46cb5391e2bde8c5b210003b9f9
 2025-10-18T09:21:42.964957+00:00|https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html|police break up lego theft ring recovering hundreds of beheaded figurines us news|65f8b6283ba95bf00c989dc342ec0190
+2025-10-18T10:22:18.737730+00:00|https://www.nytimes.com/2025/10/18/us/camp-mystic-flooding-texas-security-guard.html|camp mystic security guard saved dozens amid deadly flooding us news|905520f77a12e20374f6638ce9b34110
+2025-10-18T10:22:19.368078+00:00|https://www.nytimes.com/2025/10/18/arts/design/obama-presidential-center-chicago.html|chicago us news|fa596160ac1d70e3f8f2153e9f062ba7
+2025-10-18T10:22:19.985409+00:00|https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html|the shutdown is stretching on trump doesnt seem to mind us news|e41a186c684658e98b19131319ac58b5
+2025-10-18T10:22:20.590671+00:00|https://www.nytimes.com/2025/10/18/business/jeffrey-epstein-leon-black.html|jeffrey epsteins angry emails to billionaire leon black us news|a4d1b62562e822870471008ab08ed9e6
