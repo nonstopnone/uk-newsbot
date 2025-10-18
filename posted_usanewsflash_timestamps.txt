@@ -4915,3 +4915,5 @@
 2025-10-18T04:26:01.552857+00:00|https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html|the spritzes and carbonaras that ate italy us news|02ee9b80ddceb99cfb8af7797625d53c
 2025-10-18T04:26:02.307741+00:00|https://www.nbcnews.com/video/shorts/chicago-neighbors-blow-the-whistle-on-ice-to-fight-raids-250147397761|chicago neighbors blow the whistle on ice to fight raids us news|807360e42e929a83a86f08288a4d5fc8
 2025-10-18T04:26:03.039818+00:00|https://www.nbcnews.com/video/shorts/alaskans-may-not-be-able-to-return-home-for-a-year-250145861678|alaskans may not be able to return home for a year us news|5c049ff1e7199c22def285d7ef0adb50
+2025-10-18T07:19:42.366188+00:00|https://www.bbc.com/news/articles/c93xgyp1zv4o|national guard activated ahead of no kings protests planned across us us news|a34712d32cd4d919f7888ceb3338261a
+2025-10-18T07:19:42.938599+00:00|https://www.bbc.com/sport/baseball/articles/cy40p88wzelo|ohtani rewrites history to send dodgers to world series us news|cc0cf46cb5391e2bde8c5b210003b9f9
