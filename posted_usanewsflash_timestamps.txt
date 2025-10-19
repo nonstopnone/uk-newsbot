@@ -4979,3 +4979,4 @@
 2025-10-19T18:45:25.655039+00:00|https://www.nbcnews.com/politics/donald-trump/secret-service-discovers-hunting-stand-direct-sight-line-air-force-one-rcna238477|secret service discovers hunting stand with direct sight line to trumps air force one exit us news|8b27ec1bd4288702a5cc05fe5809d391
 2025-10-19T19:39:00.014207+00:00|https://www.nytimes.com/2025/10/19/world/europe/louvre-heist-items.html|louvre robbery what was stolen us news|9d2871be21e310460451dd457af74224
 2025-10-19T19:39:00.693180+00:00|https://www.nytimes.com/2025/10/19/nyregion/palestinians-new-jersey-gaza-war.html|far from gaza a palestinian enclave thrives even as war feels near us news|60bc81790d25a997d0a73a18c4a33265
+2025-10-19T19:57:36.914706+00:00|https://www.nytimes.com/2025/10/19/us/politics/trump-military-boat-strike-colombia.html|us kills 3 on boat suspected of smuggling drugs for colombian rebels us news|6ea2832fbb7109b5e339662d55b3efca
