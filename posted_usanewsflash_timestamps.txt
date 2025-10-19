@@ -4980,3 +4980,5 @@
 2025-10-19T19:39:00.014207+00:00|https://www.nytimes.com/2025/10/19/world/europe/louvre-heist-items.html|louvre robbery what was stolen us news|9d2871be21e310460451dd457af74224
 2025-10-19T19:39:00.693180+00:00|https://www.nytimes.com/2025/10/19/nyregion/palestinians-new-jersey-gaza-war.html|far from gaza a palestinian enclave thrives even as war feels near us news|60bc81790d25a997d0a73a18c4a33265
 2025-10-19T19:57:36.914706+00:00|https://www.nytimes.com/2025/10/19/us/politics/trump-military-boat-strike-colombia.html|us kills 3 on boat suspected of smuggling drugs for colombian rebels us news|6ea2832fbb7109b5e339662d55b3efca
+2025-10-19T21:19:20.764765+00:00|https://www.bbc.com/news/articles/cj3zemk2j4ro|after no kings protests where does democratic resistance go next us news|48e93ceb9050c73f34eb8393ed4560c7
+2025-10-19T21:19:21.271477+00:00|https://www.bbc.com/news/articles/cdx495n0qn9o|louisiana resident assisted in hamas 7 october attack us says us news|6e4f1ccfabd108e0eacb973e2945ba17
