@@ -4962,3 +4962,6 @@
 2025-10-19T09:57:44.510729+00:00|https://www.nytimes.com/2025/10/19/us/chicago-south-shores-border-patrol-raid.html|a squalid building a tip to the feds and then straightup chaos us news|71a25de2be576de69144c88f5d50ea25
 2025-10-19T09:57:45.068423+00:00|https://www.nytimes.com/2025/10/19/business/economic-divide-spending-inflation-jobs.html|wealthy americans are spending people with less are struggling us news|e5e2c543adcc8bb3f3b84d7e4e3bc431
 2025-10-19T09:57:45.621379+00:00|https://www.nytimes.com/2025/10/19/us/politics/obamacare-republicans-shutdown-subsidies.html|shutdown fight reopens debate in gop over health care us news|d84aa5e6b5a574b73b04ef1e2792e6de
+2025-10-19T10:22:00.052592+00:00|https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story|louvre museum closes after possible robbery french minister says us news|3abc492a088ff183c0d54c19c52d7f17
+2025-10-19T10:22:00.635068+00:00|https://www.nytimes.com/2025/10/19/world/europe/louvre-paris-robbery.html|louvre closed after robbery us news|1e294dda7d626bcc39bba67ac4a7cfd4
+2025-10-19T10:22:01.177487+00:00|https://www.nytimes.com/2025/10/19/business/media/bari-weiss-cbs-60-minutes.html|bari weisss first days at cbs booking big guests and irked by leaks us news|b63848a19c96690bd55952b6ce595405
