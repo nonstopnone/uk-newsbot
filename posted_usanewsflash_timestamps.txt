@@ -4966,3 +4966,5 @@
 2025-10-19T10:22:00.635068+00:00|https://www.nytimes.com/2025/10/19/world/europe/louvre-paris-robbery.html|louvre closed after robbery us news|1e294dda7d626bcc39bba67ac4a7cfd4
 2025-10-19T10:22:01.177487+00:00|https://www.nytimes.com/2025/10/19/business/media/bari-weiss-cbs-60-minutes.html|bari weisss first days at cbs booking big guests and irked by leaks us news|b63848a19c96690bd55952b6ce595405
 2025-10-19T11:17:09.534085+00:00|https://www.nbcnews.com/world/europe/louvre-heist-thieves-steal-priceless-jewels-paris-museum-closed-rcna238425|thieves steal priceless jewels from the louvre in a daring heist us news|b5f63d666b0c2da79c19a7540f338348
+2025-10-19T12:43:33.102318+00:00|https://www.nbcnews.com/world/middle-east/israel-strikes-gaza-hamas-breaching-ceasefire-rcna238423|israel launches gaza airstrikes trades accusations of ceasefire violations with hamas us news|e23bdecd4dfc7b22baeb395a981df0b2
+2025-10-19T12:43:33.784402+00:00|https://www.today.com/video/thieves-steal-napoleon-s-jewelry-from-the-louvre-in-paris-report-250183237964|thieves steal napoleons jewelry from the louvre in paris report us news|3aeddd1bc2f497936f5319bce7991abd
