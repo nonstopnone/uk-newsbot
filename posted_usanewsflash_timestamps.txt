@@ -4986,3 +4986,6 @@
 2025-10-19T21:38:52.237299+00:00|https://www.nbcnews.com/video/shorts/no-kings-protesters-march-in-austin-texas-250197061556|no kings protesters march in austin texas us news|78c2a0b3f6dbe57fb4305fba864d9bb2
 2025-10-19T22:40:48.051268+00:00|https://www.nbcnews.com/sports/nfl/new-york-jets-carolina-panthers-rcna238514|the new york jets lead the nfl in misery again us news|e2d5c9d9a4a9aa80ad0a640e064544fe
 2025-10-19T23:20:26.479561+00:00|https://www.nytimes.com/2025/10/19/us/alaska-storm-flooding-evacuations.html|for alaskan evacuees home is gone with no return in sight us news|a3bb7595579cbd46331039e10cd7a597
+2025-10-19T23:39:19.128464+00:00|https://www.nbcnews.com/video/fbi-investigates-potential-trump-security-threat-250198085754|fbi investigates potential trump security threat us news|4860f1d21c7e24b248b952a2757e6a8a
+2025-10-19T23:39:19.908191+00:00|https://www.nbcnews.com/video/israel-and-hamas-trade-accusations-of-ceasefire-violations-250198085758|israel and hamas trade accusations of ceasefire violations us news|5e6d1c1e717e6b2d734fc85d2868cbc6
+2025-10-19T23:39:20.607098+00:00|https://www.nbcnews.com/video/shorts/fbi-investigating-hunting-stand-with-sight-line-to-air-force-one-250197061923|fbi investigating hunting stand with sight line to air force one us news|d1cebc74f129dda52a1a3f7a01383408
