@@ -4965,3 +4965,4 @@
 2025-10-19T10:22:00.052592+00:00|https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story|louvre museum closes after possible robbery french minister says us news|3abc492a088ff183c0d54c19c52d7f17
 2025-10-19T10:22:00.635068+00:00|https://www.nytimes.com/2025/10/19/world/europe/louvre-paris-robbery.html|louvre closed after robbery us news|1e294dda7d626bcc39bba67ac4a7cfd4
 2025-10-19T10:22:01.177487+00:00|https://www.nytimes.com/2025/10/19/business/media/bari-weiss-cbs-60-minutes.html|bari weisss first days at cbs booking big guests and irked by leaks us news|b63848a19c96690bd55952b6ce595405
+2025-10-19T11:17:09.534085+00:00|https://www.nbcnews.com/world/europe/louvre-heist-thieves-steal-priceless-jewels-paris-museum-closed-rcna238425|thieves steal priceless jewels from the louvre in a daring heist us news|b5f63d666b0c2da79c19a7540f338348
