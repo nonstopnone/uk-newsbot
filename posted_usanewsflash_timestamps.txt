@@ -5031,3 +5031,4 @@
 2025-10-20T19:19:37.844981+00:00|https://www.nytimes.com/2025/10/20/nyregion/mamdani-bronx-science-high.html|the origins of zohran mamdanis long game us news|9f107b2cde42d28b59d4cbbec68c19ea
 2025-10-20T20:27:35.662793+00:00|https://www.bbc.com/news/articles/c201k3qky9lo|appeals court allows trump to deploy national guard to portland us news|c708040e5cf01c3ee4fa279a49b605d9
 2025-10-20T20:27:41.271431+00:00|https://www.nbcnews.com/politics/national-security/appeals-court-allows-trumps-deployment-national-guard-portland-rcna236877|appeals court allows trumps deployment of national guard in portland us news|02643e43c87b3a76f0d59e4e836c4f34
+2025-10-20T20:43:59.810528+00:00|https://abcnews.go.com/US/trump-administration-deploy-national-guard-portland-court-rules/story|trump administration can deploy national guard to portland court rules us news|67849121278693b32bb9dd7be71b6581
