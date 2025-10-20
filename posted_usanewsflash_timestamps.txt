@@ -5020,3 +5020,5 @@
 2025-10-20T15:24:45.981484+00:00|https://www.bbc.com/news/articles/c1m357lenmvo|us supreme court to consider law barring illegal drug users from owning guns us news|a33e197f1ecc569a5cd762d5b2136a8e
 2025-10-20T15:24:47.071613+00:00|https://www.bbc.com/news/articles/czr1lk4k1ejo|us nuclear stockpile agency to layoff hundreds as shutdown continues us news|e8f73b6a48d6390ead1fea9ca9daef38
 2025-10-20T15:42:35.273128+00:00|https://www.nytimes.com/2025/10/20/arts/louvre-robbery-gems-precious-metals.html|why steal from the louvre it may have more to do with stones than art us news|b2c93a01e3778ca851082a26026d5acc
+2025-10-20T15:57:48.632666+00:00|https://www.nbcnews.com/video/watch-live-trump-meets-with-prime-minister-of-australia-250221637575|trump meets with prime minister of australia us news|b54857c3a38412bf0b56a00ef87cd0b6
+2025-10-20T15:57:49.426370+00:00|https://www.nytimes.com/2025/10/20/us/art-museum-heists-louvre.html|other brazen art heists like the louvre jewelry theft us news|e6a164802210b4c063a12683576351ed
