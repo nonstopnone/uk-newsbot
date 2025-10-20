@@ -4992,3 +4992,6 @@
 2025-10-20T01:58:54.844417+00:00|https://www.bbc.com/news/articles/c5y9x1w2ee1o|these confederate statues caused nationwide protests melted down theyre now art pieces us news|373179c4d6a8ae4fb311e34a1d50a180
 2025-10-20T01:58:55.389336+00:00|https://www.nbcnews.com/sports/nfl/commanders-jayden-daniels-leaves-game-cowboys-rcna238541|commanders qb jayden daniels leaves game vs cowboys with hamstring injury us news|fe2be6ee437bcab549fdfc612f08af5f
 2025-10-20T01:58:55.954487+00:00|https://www.nbcnews.com/sports/nfl/commanders-jayden-daniels-leaves-game-cowboys-rcna238541|commanders qb jayden daniels leaves game vs cowboys with hamstring injury us news|fe2be6ee437bcab549fdfc612f08af5f
+2025-10-20T03:18:55.075556+00:00|https://www.nytimes.com/2025/10/19/world/americas/trump-colombia-petro-aid.html|colombias leader accuses us of murder prompting trump to halt aid us news|fb09d3beffcde9df10969993f3d4feb7
+2025-10-20T03:18:55.599882+00:00|https://www.nytimes.com/2025/10/19/nyregion/mamdani-cuomo-campaign-new-york.html|mamdani and cuomo make their cases in last weekend before early voting us news|3b3aeadcc6d890ade5f03a8306bebc9e
+2025-10-20T03:18:56.075611+00:00|https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html|emirates cargo plane slides off hong kong runway killing 2 ground crew us news|cad9bfc0c3f294ce1aa283af3e960a30
