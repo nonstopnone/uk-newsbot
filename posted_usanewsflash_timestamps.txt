@@ -5002,3 +5002,5 @@
 2025-10-20T09:43:41.261442+00:00|https://www.nytimes.com/2025/10/20/us/chicago-hearing-tear-gas-trump.html|judge demands answers on trump immigration crackdown in chicago us news|7e0f653425edd963612d5285c725eb6c
 2025-10-20T09:43:44.203551+00:00|https://abcnews.go.com/International/manhunt-underway-4-suspects-after-brazen-heist-louvre/story|manhunt underway for 4 suspects after brazen heist at louvre in paris us news|68491aa17221e7641ba808f86e26da70
 2025-10-20T09:44:10.361750+00:00|https://www.nytimes.com/2025/10/20/world/australia/australia-rare-earths-china-trump.html|australia could be a rare earths alternative to china for the us us news|439a620c29e9e25de66635ee9f77647b
+2025-10-20T09:57:54.691767+00:00|https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html|ai data centers create fury from mexico to ireland us news|8071624056f557ccfa76aed109e7b02c
+2025-10-20T09:58:00.688532+00:00|https://www.nytimes.com/2025/10/20/realestate/ventfort-hall-gilded-age-berkshires.html|for the ghosts in a berkshires mansion the gilded age never ended us news|22c140443c44984c8b58cbbe085bfd9a
