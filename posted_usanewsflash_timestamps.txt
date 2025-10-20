@@ -4999,3 +4999,6 @@
 2025-10-20T04:29:24.119840+00:00|https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html|peanut allergies have plummeted in children study shows us news|24fe4a8435c3a2c6f56c306f8251fd86
 2025-10-20T05:57:32.140542+00:00|https://abcnews.go.com/Politics/wireStory/trump-administration-defend-alina-habbas-tenure-top-new-126671917|trump administration to defend alina habbas tenure as top new jersey prosecutor us news|536f9ad77b3ff8ac974592d7d126d518
 2025-10-20T08:57:49.818784+00:00|https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html|websites including amazon coinbase and roblox report outages after aws disruption us news|bc669c2502e14fcd43d15e80095d7e20
+2025-10-20T09:43:41.261442+00:00|https://www.nytimes.com/2025/10/20/us/chicago-hearing-tear-gas-trump.html|judge demands answers on trump immigration crackdown in chicago us news|7e0f653425edd963612d5285c725eb6c
+2025-10-20T09:43:44.203551+00:00|https://abcnews.go.com/International/manhunt-underway-4-suspects-after-brazen-heist-louvre/story|manhunt underway for 4 suspects after brazen heist at louvre in paris us news|68491aa17221e7641ba808f86e26da70
+2025-10-20T09:44:10.361750+00:00|https://www.nytimes.com/2025/10/20/world/australia/australia-rare-earths-china-trump.html|australia could be a rare earths alternative to china for the us us news|439a620c29e9e25de66635ee9f77647b
