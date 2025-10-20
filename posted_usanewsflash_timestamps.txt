@@ -5024,3 +5024,5 @@
 2025-10-20T15:57:49.426370+00:00|https://www.nytimes.com/2025/10/20/us/art-museum-heists-louvre.html|other brazen art heists like the louvre jewelry theft us news|e6a164802210b4c063a12683576351ed
 2025-10-20T16:47:46.666583+00:00|https://www.bbc.com/news/articles/c93dl93v581o|zelensky ready to join trumpputin talks after frank white house meeting us news|d029c9dd91b12c01b40f1d24b0b3d175
 2025-10-20T16:57:32.444443+00:00|https://www.bbc.com/news/videos/c3971w1mxdlo|trump to australian ambassador i dont like you either us news|d0b0d9addbcbc332c256c67abf7362b6
+2025-10-20T17:42:03.831776+00:00|https://www.nytimes.com/2025/10/20/business/media/disney-subscription-cancellations-kimmel.html|disney cancellations jump after kimmel suspension us news|54ecc7ff92f4e078ff69ba579fac91b5
+2025-10-20T17:42:06.312812+00:00|https://www.nytimes.com/2025/10/20/arts/design/art-civil-war-monuments-brick-geffen-contemporary-los-angeles.html|fallen confederate statues take center stage in a bold new show us news|bdd6d61f4e2b6d01856f30bffd4b424f
