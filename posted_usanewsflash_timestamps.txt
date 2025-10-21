@@ -5099,3 +5099,5 @@
 2025-10-21T18:59:34.352678+00:00|https://www.bbc.com/news/videos/cx2p045p1zpo|is trump allowed to demolish part of the white house to build a ballroom us news|9dbbebf0eb790b2b956dd1da70dda693
 2025-10-21T19:20:15.106902+00:00|https://abcnews.go.com/US/undocumented-immigrant-officer-hurt-shooting-targeted-enforcement/story|undocumented immigrant officer hurt in shooting during targeted enforcement stop us news|9bc162d6063793e91b317a604ff97b48
 2025-10-21T19:20:16.246458+00:00|https://www.nbcnews.com/video/shorts/warner-bros-discovery-officially-for-sale-250318405943|warner bros discovery officially for sale us news|328019f0f524bebb53bb795cafb84a53
+2025-10-21T20:27:49.535656+00:00|https://abcnews.go.com/US/trump-administration-seeks-dissolve-remaining-order-blocking-national/story|trump admin seeks to dissolve remaining order blocking troop deployment to portland us news|73b02a3c2565cdf93691628690d2a2e0
+2025-10-21T20:27:50.597771+00:00|https://www.nytimes.com/2025/10/21/world/asia/nepal-hostage-hamas-funeral.html|a nepali town mourns a native son who died a hamas captive us news|3ebdf3a5100c84bfa69915a21fe3f1bb
