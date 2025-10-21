@@ -5095,3 +5095,5 @@
 2025-10-21T18:34:09.585945+00:00|https://www.nytimes.com/2025/10/21/us/politics/trump-justice-department-compensation.html|trump said to demand justice dept pay him $230 million for past cases us news|b20d36eb1ce7f94462f3446ced0c7712
 2025-10-21T18:34:10.265758+00:00|https://abcnews.go.com/US/hakeem-jeffries-death-threat-arrest/story|pardoned jan 6 rioter arrested for threatening to kill congressman police us news|0549abd33bb6a2cad509b0c19bf0ffca
 2025-10-21T18:34:10.943895+00:00|https://www.nytimes.com/2025/10/21/us/pennsylvania-student-rape-messages-sentencing.html|man who wrote so i raped you is sentenced to 2 to 4 years in prison us news|bfb610b1ff481ab6aa4893f1699b637b
+2025-10-21T18:59:33.797295+00:00|https://www.bbc.com/news/articles/cr7m2v80dy4o|from bowling alley to ballroom trump isnt the first to remodel the white house us news|7e1277071871a2e9263b1a06b464de82
+2025-10-21T18:59:34.352678+00:00|https://www.bbc.com/news/videos/cx2p045p1zpo|is trump allowed to demolish part of the white house to build a ballroom us news|9dbbebf0eb790b2b956dd1da70dda693
