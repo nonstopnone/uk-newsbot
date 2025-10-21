@@ -5062,3 +5062,4 @@
 2025-10-21T10:44:57.476200+00:00|https://www.nytimes.com/2025/10/21/world/europe/louvre-robbery-security-paris.html|louvre robbery raises questions about security us news|cc4769f00540edf3fc2f795fe8e67c01
 2025-10-21T11:40:02.453087+00:00|https://www.nbcnews.com/video/shorts/suspected-tornado-tears-through-the-outskirts-of-paris-250288709991|suspected tornado tears through the outskirts of paris us news|013a585fa92edb06ee496b45bcd1a2a6
 2025-10-21T11:40:02.963998+00:00|https://www.nytimes.com/2025/10/21/world/louvre-jewelry-heist.html|the louvre heist us news|31d3e11dee405395688f265f54db1285
+2025-10-21T11:57:58.290796+00:00|https://abcnews.go.com/International/louvre-director-summoned-french-lawmakers-amid-ongoing-investigation/story|louvre director summoned to appear before lawmakers to answer questions on theft us news|d70db832aa66edc863ac62b8263d507f
