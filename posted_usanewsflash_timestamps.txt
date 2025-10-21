@@ -5060,3 +5060,5 @@
 2025-10-21T10:25:47.613577+00:00|https://www.nbcnews.com/video/shorts/former-french-president-sarkozy-begins-prison-sentence-250285637776|former french president sarkozy begins prison sentence us news|4486ce031cd08966ef2d5a89e84a7fad
 2025-10-21T10:44:56.866150+00:00|https://www.nytimes.com/2025/10/21/business/economy/government-shutdown-economic-effects.html|how a long government shutdown could leave scars on the economy us news|a61b4451dafbb3777c355bbc3fcbdb8e
 2025-10-21T10:44:57.476200+00:00|https://www.nytimes.com/2025/10/21/world/europe/louvre-robbery-security-paris.html|louvre robbery raises questions about security us news|cc4769f00540edf3fc2f795fe8e67c01
+2025-10-21T11:40:02.453087+00:00|https://www.nbcnews.com/video/shorts/suspected-tornado-tears-through-the-outskirts-of-paris-250288709991|suspected tornado tears through the outskirts of paris us news|013a585fa92edb06ee496b45bcd1a2a6
+2025-10-21T11:40:02.963998+00:00|https://www.nytimes.com/2025/10/21/world/louvre-jewelry-heist.html|the louvre heist us news|31d3e11dee405395688f265f54db1285
