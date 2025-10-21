@@ -5058,3 +5058,5 @@
 2025-10-21T10:25:46.320143+00:00|https://www.nytimes.com/2025/10/21/well/more-than-100-cases-of-measles-reported-in-utah-and-arizona.html|more than 100 cases of measles reported in utah and arizona us news|e7df5e5804f3668710352bad241405ab
 2025-10-21T10:25:46.964631+00:00|https://www.nytimes.com/2025/10/21/podcasts/the-headlines/judicial-crisis-warning-trump-offer-universities.html|judges warn of judicial crisis and universities reject trump offer us news|283243aa3fadc5b0a8d3ea25e9ad1f80
 2025-10-21T10:25:47.613577+00:00|https://www.nbcnews.com/video/shorts/former-french-president-sarkozy-begins-prison-sentence-250285637776|former french president sarkozy begins prison sentence us news|4486ce031cd08966ef2d5a89e84a7fad
+2025-10-21T10:44:56.866150+00:00|https://www.nytimes.com/2025/10/21/business/economy/government-shutdown-economic-effects.html|how a long government shutdown could leave scars on the economy us news|a61b4451dafbb3777c355bbc3fcbdb8e
+2025-10-21T10:44:57.476200+00:00|https://www.nytimes.com/2025/10/21/world/europe/louvre-robbery-security-paris.html|louvre robbery raises questions about security us news|cc4769f00540edf3fc2f795fe8e67c01
