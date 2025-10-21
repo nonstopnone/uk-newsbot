@@ -5063,3 +5063,6 @@
 2025-10-21T11:40:02.453087+00:00|https://www.nbcnews.com/video/shorts/suspected-tornado-tears-through-the-outskirts-of-paris-250288709991|suspected tornado tears through the outskirts of paris us news|013a585fa92edb06ee496b45bcd1a2a6
 2025-10-21T11:40:02.963998+00:00|https://www.nytimes.com/2025/10/21/world/louvre-jewelry-heist.html|the louvre heist us news|31d3e11dee405395688f265f54db1285
 2025-10-21T11:57:58.290796+00:00|https://abcnews.go.com/International/louvre-director-summoned-french-lawmakers-amid-ongoing-investigation/story|louvre director summoned to appear before lawmakers to answer questions on theft us news|d70db832aa66edc863ac62b8263d507f
+2025-10-21T12:52:35.624100+00:00|https://www.today.com/video/as-gaza-deal-hangs-in-the-balance-jd-vance-travels-to-israel-250290757868|jd vance arrives in israel as gaza deal hangs in the balance us news|36f76a3de595398559aa8fb26b6652ca
+2025-10-21T12:52:36.255146+00:00|https://www.today.com/video/food-banks-brace-for-influx-of-need-as-shutdown-continues-250288710000|food banks brace for increased demand as shutdown continues us news|d49a328e141fe1ded4939592a7b22b6e
+2025-10-21T12:52:36.852051+00:00|https://www.nytimes.com/2025/10/21/world/europe/ukraine-russia-trump-zelensky-meeting.html|latest trumpzelensky meeting yields no progress toward a ceasefire in ukraine us news|17aca729a11473e3b4b512ecdaad6fa1
