@@ -5186,3 +5186,6 @@
 2025-10-22T21:57:50.662335+00:00|https://www.nytimes.com/2025/10/22/nyregion/jessica-tisch-nypd-mamdani.html|mamdani plans to keep tisch as police commissioner if elected nyc mayor us news|b70a3240680d398910d73bdd63231c39
 2025-10-22T22:38:20.598392+00:00|https://www.nbcnews.com/video/shorts/trump-shares-renderings-of-white-house-ballroom-250412613976|trump shares renderings of white house ballroom us news|7edfa19fcf9b34c2e651ce1669852597
 2025-10-22T23:39:02.108607+00:00|https://www.nbcnews.com/nightly-news/video/u-s-strikes-another-alleged-drug-cartel-boat-250414661855|us strikes another alleged drug cartel boat us news|c82232366428deaad9905b3e8fe4b9d1
+2025-10-22T23:57:37.920311+00:00|https://www.nytimes.com/2025/10/22/business/media/pentagon-press-reporters.html|pentagon announces next generation press corps us news|4eb398a633c6958e5ea16b360f06e12c
+2025-10-22T23:57:38.555084+00:00|https://www.nbcnews.com/nightly-news/video/trump-slaps-new-sanctions-on-russia-s-two-largest-oil-companies-250418245697|trump slaps new sanctions on russias two largest oil companies us news|a6245a19d5d5d287bebc5f0facda50bf
+2025-10-22T23:57:39.163566+00:00|https://www.nytimes.com/2025/10/22/world/americas/drug-smuggling-submarines.html|drugsmuggling submarines on display at latin american naval base us news|e321224f013cf8bfe54d5512e1fbf8aa
