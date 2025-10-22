@@ -5116,3 +5116,8 @@
 2025-10-21T23:22:01.298858+00:00|https://www.nytimes.com/2025/10/21/us/politics/trump-ingrassia-republicans.html|in trumps washington hate is not a deal breaker us news|6503bf45e40d059567bc0f634f63955c
 2025-10-21T23:22:01.858954+00:00|https://www.nytimes.com/2025/10/21/us/politics/trump-putin-ukraine-meeting.html|in a reversal trump will not meet with putin in coming weeks us news|4f9984943b354af3e6282d3bfd9d9057
 2025-10-21T23:40:09.575264+00:00|https://www.nytimes.com/2025/10/21/us/politics/trump-arch-washington-memorial.html|what to know about trumps plan for a triumphal arch in washington us news|8ec0b089560e07f5621b74da5824840c
+2025-10-22T01:55:49.377619+00:00|https://www.bbc.com/news/articles/cx2y9je4d3go|why trump made breakthrough in gaza but cant with putin over ukraine us news|95435aeefef2a43894f3403ed6c0ec60
+2025-10-22T01:55:49.869370+00:00|https://www.bbc.com/news/videos/c891yye223jo|pen pals from canada and singapore meet for the first time after 43 years us news|45e27b6326fe202c93ff74e129300fb3
+2025-10-22T01:55:50.354290+00:00|https://www.nytimes.com/2025/10/21/us/politics/trump-inspectors-general.html|trump dismisses another inspector general fueling oversight concerns us news|11d6cca16164b5d9f36258f004dec32b
+2025-10-22T01:55:50.870926+00:00|https://www.nbcnews.com/video/shorts/american-chess-grandmaster-dies-at-29-250336837785|american chess grandmaster dies at 29 us news|3d482b9fb25949b231f91db8f52f24ac
+2025-10-22T01:55:51.358730+00:00|https://www.nbcnews.com/video/two-people-injured-after-federal-officers-opened-fire-on-undocumented-immigrant-in-l-a-250342981540|two people injured after federal officers opened fire on undocumented immigrant in la us news|81354105db298e8d2500fb67a133101d
