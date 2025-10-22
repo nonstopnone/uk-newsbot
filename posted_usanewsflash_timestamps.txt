@@ -5129,3 +5129,4 @@
 2025-10-22T04:28:38.828208+00:00|https://www.nytimes.com/2025/10/22/arts/design/louvre-security-history.html|the louvres attraction is its history thats also its weakness us news|c75ec39c12cfd36a08f1db4d137a6ed4
 2025-10-22T05:24:02.743975+00:00|https://www.nytimes.com/2025/10/21/us/white-house-car-crash.html|vehicle crashes into security gate outside the white house us news|13b0c12f1ebc8f5477762fd4fe1ffe5b
 2025-10-22T05:57:32.102928+00:00|https://abcnews.go.com/Politics/wireStory/mamdani-aims-control-cuomo-angles-gop-votes-ahead-126745552|mamdani aims to keep control while cuomo angles for gop votes ahead of final debate us news|2565e01d43725623f27780892d71e074
+2025-10-22T07:23:31.551566+00:00|https://www.nytimes.com/2025/10/22/arts/television/stephen-colbert-trump-white-house-ballroom.html|late night watches trump go hulk smash on the white house us news|9b52e25180f72d2b9a620980fe9c59d9
