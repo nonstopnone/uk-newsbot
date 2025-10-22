@@ -5179,3 +5179,6 @@
 2025-10-22T21:18:13.814456+00:00|https://www.nytimes.com/2025/10/22/us/politics/trump-shutdown-congress-power.html|as shutdown drags and trump flexes congress cedes its relevance us news|42d0059e79b57b5929884b57f2d581c1
 2025-10-22T21:18:14.404505+00:00|https://www.nbcnews.com/video/shorts/why-another-trump-putin-summit-is-in-doubt-250398277900|why another trumpputin summit is in doubt us news|a92b4203caa6f420becb043a89e0f4cc
 2025-10-22T21:18:14.957015+00:00|https://www.nbcnews.com/video/shorts/white-house-walls-demolished-for-ballroom-construction-250401349803|white house walls demolished for ballroom construction us news|ea35eae3df0c0710c8861c9d6589ecc0
+2025-10-22T21:38:45.815827+00:00|https://www.nytimes.com/2025/10/22/arts/dance/misty-copeland-ballet-life-career-photos.html|misty copeland will take her final bow us news|5c9d4a43af1040da7a7e24d122492de7
+2025-10-22T21:38:46.350384+00:00|https://abcnews.go.com/US/suspect-charlotte-train-stabbing-indicted-federal-charges-death/story|suspect in charlotte train stabbing indicted death penalty possible us news|952e46b203a8ea679a8a937bca517368
+2025-10-22T21:38:47.080823+00:00|https://www.nbcnews.com/video/shorts/plane-lands-on-california-soccer-field-injuring-two-250403397530|plane lands on california soccer field injuring two us news|99bd94d1ea8bf5333f88443fac65c365
