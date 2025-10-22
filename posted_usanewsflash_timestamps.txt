@@ -5139,3 +5139,8 @@
 2025-10-22T10:27:20.261448+00:00|https://www.nytimes.com/2025/10/22/health/medicaid-health-care-mississippi.html|medicaid cut me off a rural health center faces new pressures us news|f2a356fae7a42b4f3f4eae5f1a0d62d6
 2025-10-22T10:47:14.231695+00:00|https://www.nytimes.com/2025/10/22/podcasts/the-daily/louvre-heist-jewels-robbery.html|le heist us news|8827eab3bbb18c909102a94e7d0759b9
 2025-10-22T11:20:50.203089+00:00|https://www.nytimes.com/2025/10/22/briefing/how-president-trump-uses-ai.html|how president trump uses ai us news|52827388c7ba0d9902a8c46a8c3b66c9
+2025-10-22T12:53:12.820724+00:00|https://www.bbc.com/news/articles/cy40lw22dyvo|trump says white house renovation is music to my ears as criticism mounts us news|4c0e9dd9a5cf0188a1c1492c1c50354d
+2025-10-22T12:53:13.506712+00:00|https://www.today.com/video/democrat-protests-trump-with-marathon-speech-on-senate-floor-250366021637|government shutdown enters day 22 with no end in sight us news|9bf71620fc5919014a9a0df5e5a4ad34
+2025-10-22T12:53:14.096528+00:00|https://www.today.com/video/trump-putin-summit-put-on-hold-after-ceasefire-setback-250364485973|trumpputin summit put on hold after ceasefire setback us news|ff7cf8efd9e5032115452bdd98608da2
+2025-10-22T12:53:14.899399+00:00|https://www.nytimes.com/2025/10/22/world/europe/russia-ukraine-putin-trump.html|russia hits power plants and kindergarten hours after trump delays summit us news|0c16425d7cd6e20110d98f8ee6ea430d
+2025-10-22T12:53:15.493126+00:00|https://www.today.com/video/louvre-heist-investigators-recover-dna-evidence-reveal-leads-250366021617|louvre reopens investigators recover dna from jewelry heist us news|2bc5e1ce8f8db42cbddf9c8a4534c08c
