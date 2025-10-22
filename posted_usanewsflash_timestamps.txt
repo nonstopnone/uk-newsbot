@@ -5137,3 +5137,4 @@
 2025-10-22T10:27:19.290646+00:00|https://www.nytimes.com/2025/10/22/upshot/obamacare-health-prices-shutdown.html|obamacare is expensive but so is all health insurance us news|0ee88ae1d608eb48ab5383172c1818a8
 2025-10-22T10:27:19.760362+00:00|https://www.nytimes.com/2025/10/22/us/value-of-higher-education-attainment-rates-graduation.html|colleges face a reckoning is a degree really necessary us news|8e98debdd5094ad2901690e6e45edfc1
 2025-10-22T10:27:20.261448+00:00|https://www.nytimes.com/2025/10/22/health/medicaid-health-care-mississippi.html|medicaid cut me off a rural health center faces new pressures us news|f2a356fae7a42b4f3f4eae5f1a0d62d6
+2025-10-22T10:47:14.231695+00:00|https://www.nytimes.com/2025/10/22/podcasts/the-daily/louvre-heist-jewels-robbery.html|le heist us news|8827eab3bbb18c909102a94e7d0759b9
