@@ -5164,3 +5164,5 @@
 2025-10-22T18:36:02.466262+00:00|https://www.nbcnews.com/health/health-care/obamacare-aca-premiums-climb-uninsured-rcna238048|faced with rising aca premiums some americans opt to go uninsured us news|5ce26c1b8cd58e344519a735c6a5c91a
 2025-10-22T18:59:05.343424+00:00|https://www.nbcnews.com/news/us-news/federal-prisoner-shot-dead-florida-rare-gunfire-bars-rcna238617|a federal prisoner was shot dead in florida in rare gunfire behind bars us news|9f4cdea0c895b0b12f725634780ea18e
 2025-10-22T18:59:06.056042+00:00|https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html|oil prices dropped 19 helping drivers but squeezing the industry us news|adfe63cb8370c49ccaf6d22676ebd4e9
+2025-10-22T19:40:16.367373+00:00|https://www.nytimes.com/2025/10/22/us/politics/trump-drug-boat-strike-colombia.html|us strikes boat in pacific expanding operation against drug running suspects us news|a70f64ff67f0355606aa7ca5afc9f419
+2025-10-22T19:40:17.010812+00:00|https://www.nytimes.com/2025/10/21/climate/alaska-solar-farm-food.html|an alaska solar farm produces food too us news|51723d52c4d7f6ee39d51634238b93ca
