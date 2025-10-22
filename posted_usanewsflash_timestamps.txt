@@ -5171,3 +5171,6 @@
 2025-10-22T20:27:49.068924+00:00|https://www.bbc.com/news/articles/cd6758pn6ylo|us to announce substantial russia sanctions us news|78d7cbd0ab3c4cd2220bc50a69279f47
 2025-10-22T20:27:49.682840+00:00|https://www.nytimes.com/2025/10/22/world/middleeast/netanyahu-vance-israel-gaza-ceasefire.html|vance says hes not in israel to babysit gaza ceasefire us news|5f5f30eddf524eafc52fa4681676028d
 2025-10-22T20:27:50.289170+00:00|https://www.nbcnews.com/news/us-news/world-chess-federation-investigating-russian-master-accused-daniel-nar-rcna239185|world chess federation investigating russian master who accused daniel naroditsky of cheating us news|d0faa1a4116a96e41fc32e83a71724bc
+2025-10-22T20:41:28.768736+00:00|https://abcnews.go.com/US/hand-foot-mouth-disease-outbreak-hits-31-schools/story|hand foot and mouth disease outbreak hits 31 schools day cares in tennessee county us news|bd530c732d56d1f88d8a30006cc5a5ca
+2025-10-22T20:41:29.329451+00:00|https://www.nbcnews.com/politics/immigration/new-ice-recruits-showed-training-full-vetting-rcna238739|some new ice recruits have showed up to training without full vetting us news|0a45ae71ae99df96806d9fc9d8b13d07
+2025-10-22T20:41:29.836305+00:00|https://www.nytimes.com/2025/10/22/us/border-patrol-san-francisco-bay-area.html|border patrol plans immigration crackdown in sf bay area us news|b9b9cb91b058a5602dc772804d00ccae
