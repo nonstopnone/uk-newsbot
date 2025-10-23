@@ -5236,3 +5236,5 @@
 2025-10-23T16:30:41.963563+00:00|https://www.nytimes.com/2025/10/23/world/middleeast/rubio-israel-gaza.html|us may seek united nations mandate for gaza security force rubio says us news|ced1d2e4508dd5883ddbdcbe5b931e02
 2025-10-23T16:30:42.660158+00:00|https://abcnews.go.com/Politics/video/new-york-city-mayoral-candidates-face-off-final-126801798|watch new york city mayoral candidates face off in final debate us news|9eeb17ed02e498234319bf06656acd10
 2025-10-23T16:30:43.313831+00:00|https://www.nbcnews.com/video/shorts/30-arrested-in-federal-gambling-related-investigations-250475589651|30 arrested in federal gamblingrelated investigations us news|c99717dcb8f825e86040bd84971cdf53
+2025-10-23T16:58:04.417406+00:00|https://www.nbcnews.com/video/shorts/federal-officials-describe-operation-royal-flush-250474053670|federal officials describe operation royal flush us news|31c3d3f9b8795b7b894a7a8ed43e85a2
+2025-10-23T16:58:05.078621+00:00|https://www.nytimes.com/2025/10/23/us/san-francisco-bay-area-protesters.html|bay area protesters try to block base entrance before immigration operation us news|76ae3feea71facfdb9b3ecffc860d476
