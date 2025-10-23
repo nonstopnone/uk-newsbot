@@ -5271,3 +5271,7 @@
 2025-10-23T22:41:35.568074+00:00|https://abcnews.go.com/US/florida-mall-heist-thieves-cut-hole-mall-roof/story|florida mall heist thieves cut hole in mall roof steal $50000 in sneakers us news|4dca3c79728e5b95f8c40e4909bb8419
 2025-10-23T22:41:36.197366+00:00|https://www.nytimes.com/2025/10/23/briefing/nba-figures-charged-in-gambling-schemes.html|nba figures charged in gambling schemes us news|ded85fee2b742eac8e00d091e9b4b7e3
 2025-10-23T22:57:30.112256+00:00|https://www.nbcnews.com/video/shorts/eric-adams-endorses-andrew-cuomo-for-nyc-mayor-250504773697|eric adams endorses andrew cuomo for nyc mayor us news|b17bd584c5e9aed4e3e31b097c772824
+2025-10-23T23:20:27.022323+00:00|https://www.nytimes.com/2025/10/23/us/san-francisco-trump-federal-deployment.html|trump calls off federal operation in san francisco us news|0d9360659a4100e37678e8b5be139328
+2025-10-23T23:20:27.737914+00:00|https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html|musk attacks nasa leader over threat to reconsider lunar contract us news|017ce22872fb6460d066976a38f9e907
+2025-10-23T23:20:28.451192+00:00|https://www.nytimes.com/2025/10/23/nyregion/nba-gambling-scandal-explained.html|nba gambling scandal what we know us news|8a5aa43dcf4bc234c0e4d06f6c5ff2e9
+2025-10-23T23:20:29.156409+00:00|https://www.nytimes.com/video/nyregion/100000010472876/how-mamdani-has-evolved-in-the-mayoral-race.html|how mamdani has evolved in the mayoral race us news|8cb58a6a2b2a72cc163f664eb7127cf2
