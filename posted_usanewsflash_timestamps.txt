@@ -5212,3 +5212,4 @@
 2025-10-23T10:26:42.610412+00:00|https://www.nytimes.com/2025/10/23/style/leslie-jones-life-part-2-comedy.html|in life part 2 leslie jones wants to make everybody laugh us news|d1f74220fd7a04d9f672efff92c3a9c3
 2025-10-23T10:44:46.148990+00:00|https://www.nytimes.com/2025/10/23/arts/television/late-night-trump-justice-department.html|late night responds to trumps justice department query us news|d5fab09838f7d0d6f0ea7358b339c053
 2025-10-23T10:44:46.783162+00:00|https://www.nytimes.com/2025/10/23/world/europe/king-charles-pope-leo-praying.html|british king and pope pray together in public in groundbreaking moment us news|ddb5673fe16496617a58fb02a85f8ec7
+2025-10-23T10:57:36.732698+00:00|https://www.nytimes.com/2025/10/23/world/europe/russia-trump-oil-sanctions.html|russians awake to trumps new oil sanctions and largely shrug us news|99704b6b2ed41c5bf15d91687d2ecc83
