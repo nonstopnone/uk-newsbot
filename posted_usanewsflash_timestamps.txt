@@ -5275,3 +5275,8 @@
 2025-10-23T23:20:27.737914+00:00|https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html|musk attacks nasa leader over threat to reconsider lunar contract us news|017ce22872fb6460d066976a38f9e907
 2025-10-23T23:20:28.451192+00:00|https://www.nytimes.com/2025/10/23/nyregion/nba-gambling-scandal-explained.html|nba gambling scandal what we know us news|8a5aa43dcf4bc234c0e4d06f6c5ff2e9
 2025-10-23T23:20:29.156409+00:00|https://www.nytimes.com/video/nyregion/100000010472876/how-mamdani-has-evolved-in-the-mayoral-race.html|how mamdani has evolved in the mayoral race us news|8cb58a6a2b2a72cc163f664eb7127cf2
+2025-10-23T23:39:13.568143+00:00|https://www.nbcnews.com/video/shorts/measles-surges-in-utah-arizona-border-community-250506309851|measles surges in utaharizona border community us news|d491460c125ee61eb341989031a930a7
+2025-10-23T23:39:14.229812+00:00|https://www.nbcnews.com/video/shorts/inside-the-federal-case-that-ensnared-terry-rozier-250506309876|inside the federal case that ensnared terry rozier us news|70f7bf3cb361aa9aa178beea0645cf36
+2025-10-23T23:39:14.704020+00:00|https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests/nba-gambling-charges|us charges nba figures in gambling schemes that tainted games us news|387f6b9453075311d6eedd9d5c432f0b
+2025-10-23T23:39:15.444453+00:00|https://www.nytimes.com/2025/10/23/technology/meta-layoffs-user-privacy.html|meta layoffs included employees who monitored risks to user privacy us news|12971f3100c263b9f4ec25eaea6e59b3
+2025-10-23T23:39:15.943079+00:00|https://www.nbcnews.com/nightly-news/video/cancer-patient-s-fight-for-doctor-recommended-treatment-250508357975|cancer patients fight for doctor recommended treatment us news|b4a7511f138633ef122aeb4c420fd612
