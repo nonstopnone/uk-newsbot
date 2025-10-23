@@ -5210,3 +5210,5 @@
 2025-10-23T10:26:41.496841+00:00|https://www.nytimes.com/2025/10/23/us/texas-flood-radios-public-safety.html|a costly radio system faltered when texas needed it most us news|b14633ab7777991013fe9d521caa37d5
 2025-10-23T10:26:42.072181+00:00|https://www.nytimes.com/2025/10/23/business/federal-employee-financial-resources-government-shutdown.html|financial assistance options for federal employees during the government shutdown us news|21cee86c17b87c9d1fb4bb773359cb44
 2025-10-23T10:26:42.610412+00:00|https://www.nytimes.com/2025/10/23/style/leslie-jones-life-part-2-comedy.html|in life part 2 leslie jones wants to make everybody laugh us news|d1f74220fd7a04d9f672efff92c3a9c3
+2025-10-23T10:44:46.148990+00:00|https://www.nytimes.com/2025/10/23/arts/television/late-night-trump-justice-department.html|late night responds to trumps justice department query us news|d5fab09838f7d0d6f0ea7358b339c053
+2025-10-23T10:44:46.783162+00:00|https://www.nytimes.com/2025/10/23/world/europe/king-charles-pope-leo-praying.html|british king and pope pray together in public in groundbreaking moment us news|ddb5673fe16496617a58fb02a85f8ec7
