@@ -5232,3 +5232,7 @@
 2025-10-23T15:57:31.816146+00:00|https://www.nytimes.com/2025/10/23/us/politics/virginia-democrats-redistrict.html|virginia democrats plan to redraw house maps in redistricting push us news|eb959b47fa0cd288f49e9c8d5d8abad5
 2025-10-23T15:57:32.336538+00:00|https://www.nbcnews.com/tech/crypto/binance-pardon-trump-changpeng-zhao-crypto-rcna239371|trump pardons convicted founder of crypto exchange binance us news|4b35bc6fe9918de748e2718663103243
 2025-10-23T15:57:32.859601+00:00|https://abcnews.go.com/Business/wireStory/trump-pardons-binance-founder-changpeng-zhao-126800638|trump pardons binance founder changpeng zhao us news|8c2d594c4b9581435fd751e9f64b047a
+2025-10-23T16:30:41.248535+00:00|https://www.bbc.com/news/articles/cly1qrl9l1qo|president trump pardons binance founder changpeng zhao us news|90858ecac8989e87a634aa7615a4c3a6
+2025-10-23T16:30:41.963563+00:00|https://www.nytimes.com/2025/10/23/world/middleeast/rubio-israel-gaza.html|us may seek united nations mandate for gaza security force rubio says us news|ced1d2e4508dd5883ddbdcbe5b931e02
+2025-10-23T16:30:42.660158+00:00|https://abcnews.go.com/Politics/video/new-york-city-mayoral-candidates-face-off-final-126801798|watch new york city mayoral candidates face off in final debate us news|9eeb17ed02e498234319bf06656acd10
+2025-10-23T16:30:43.313831+00:00|https://www.nbcnews.com/video/shorts/30-arrested-in-federal-gambling-related-investigations-250475589651|30 arrested in federal gamblingrelated investigations us news|c99717dcb8f825e86040bd84971cdf53
