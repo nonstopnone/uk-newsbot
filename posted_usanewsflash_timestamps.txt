@@ -5206,3 +5206,7 @@
 2025-10-23T08:51:28.521650+00:00|https://www.nbcnews.com/video/shorts/mosquitoes-discovered-in-iceland-for-the-first-time-250445381666|mosquitoes discovered in iceland for the first time us news|dd9e8c99c3d58d991a48150df03eb1ab
 2025-10-23T08:59:14.445076+00:00|https://www.bbc.com/news/articles/c709w5v9dq9o|whats at stake as trump boat strikes strain uscolombia alliance us news|f7d6eac6c122529f1659cfb89bc267e6
 2025-10-23T08:59:14.967974+00:00|https://www.nbcnews.com/video/shorts/nfl-bad-bunny-s-halftime-show-isn-t-being-reconsidered-250440773915|nfl bad bunnys halftime show isnt being reconsidered us news|f255b02e93273bff8c145bf4ac953ca1
+2025-10-23T10:26:40.924163+00:00|https://www.nytimes.com/2025/10/23/us/politics/seattle-mayor.html|in seattle as in new york a mayoral race turns on generational change us news|dcc80b90ea6b1f4dfe52e395a58c6183
+2025-10-23T10:26:41.496841+00:00|https://www.nytimes.com/2025/10/23/us/texas-flood-radios-public-safety.html|a costly radio system faltered when texas needed it most us news|b14633ab7777991013fe9d521caa37d5
+2025-10-23T10:26:42.072181+00:00|https://www.nytimes.com/2025/10/23/business/federal-employee-financial-resources-government-shutdown.html|financial assistance options for federal employees during the government shutdown us news|21cee86c17b87c9d1fb4bb773359cb44
+2025-10-23T10:26:42.610412+00:00|https://www.nytimes.com/2025/10/23/style/leslie-jones-life-part-2-comedy.html|in life part 2 leslie jones wants to make everybody laugh us news|d1f74220fd7a04d9f672efff92c3a9c3
