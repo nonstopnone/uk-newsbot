@@ -5189,3 +5189,6 @@
 2025-10-22T23:57:37.920311+00:00|https://www.nytimes.com/2025/10/22/business/media/pentagon-press-reporters.html|pentagon announces next generation press corps us news|4eb398a633c6958e5ea16b360f06e12c
 2025-10-22T23:57:38.555084+00:00|https://www.nbcnews.com/nightly-news/video/trump-slaps-new-sanctions-on-russia-s-two-largest-oil-companies-250418245697|trump slaps new sanctions on russias two largest oil companies us news|a6245a19d5d5d287bebc5f0facda50bf
 2025-10-22T23:57:39.163566+00:00|https://www.nytimes.com/2025/10/22/world/americas/drug-smuggling-submarines.html|drugsmuggling submarines on display at latin american naval base us news|e321224f013cf8bfe54d5512e1fbf8aa
+2025-10-23T01:51:20.199600+00:00|https://abcnews.go.com/US/trump-seeking-230m-settlement-doj/story|heres what trump has said about seeking $230m settlement from doj us news|9f074a535f3e52fe55b213e25e53b58e
+2025-10-23T01:51:20.893666+00:00|https://www.nytimes.com/2025/10/22/nyregion/queens-landlord-ice-reports-immigrants.html|queens tenants were urged to report immigrants to ice officials say us news|887ae3d786fbf1d6acf12437a3e58eb5
+2025-10-23T01:51:21.605043+00:00|https://www.nbcnews.com/video/shorts/maine-senate-candidate-covers-controversial-tattoo-250424389972|maine senate candidate covers controversial tattoo us news|e5a00c0d86ee0cad1f24bf25809910ff
