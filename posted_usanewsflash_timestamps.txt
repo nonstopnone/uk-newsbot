@@ -5198,3 +5198,5 @@
 2025-10-23T02:56:53.474702+00:00|https://www.nbcnews.com/news/us-news/man-shot-ice-confrontation-was-respected-admired-citizen-journalist-ti-rcna239202|man shot in ice confrontation is a respected and admired citizen journalist us news|f3234f7fcbeda51048bf02b608258d8f
 2025-10-23T03:37:41.188523+00:00|https://www.nytimes.com/2025/10/22/us/politics/nancy-pelosi-ice-agent-arrest.html|pelosi says police may arrest federal agents who violate california law us news|2c92adaa65abb329927f7540b3d2d362
 2025-10-23T03:37:41.710559+00:00|https://abcnews.go.com/Politics/donors-funding-white-house-ballroom/story|what we know about the donors funding the white house ballroom us news|2087880baeb870d6b39a4176489f89d4
+2025-10-23T04:27:55.745791+00:00|https://www.nytimes.com/2025/10/23/world/asia/chinese-trump-impersonator.html|chinese impersonators trump act has won him millions of fans us news|b8f628ab0eafe4d9f9d470c021527b2a
+2025-10-23T04:27:56.475524+00:00|https://www.nytimes.com/2025/10/23/world/asia/nepal-protests-migrants-gen-z.html|nepals gen z sees little hope at home us news|ede8ffc0d0d861af1a09e4b3180ef1c8
