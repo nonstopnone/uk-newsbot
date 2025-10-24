@@ -5307,3 +5307,5 @@
 2025-10-24T10:27:08.074988+00:00|https://www.nytimes.com/2025/10/24/us/daniel-lurie-trump-san-francisco.html|how san francisco mayor daniel lurie avoided trumps enforcement surge us news|6f50da63729ba9d994cfc96d9d3cfc2c
 2025-10-24T10:27:08.570306+00:00|https://www.nytimes.com/2025/10/24/us/politics/white-house-boats-law.html|the peril of a white house that flaunts its indifference to the law us news|6ece61a0819c1500055e6cbc678f49e0
 2025-10-24T10:27:09.072518+00:00|https://www.nytimes.com/2025/10/24/nyregion/nba-sports-betting-gambling-scandal.html|nba gambling scandal reflects americas obsession with sports betting us news|1e30b524ba57c1e58beb47db22a70115
+2025-10-24T10:45:44.028735+00:00|https://www.nytimes.com/2025/10/24/us/federal-ice-agents-arrests-california-pelosi.html|trump official warns california against arresting federal agents us news|db95cd623d0f53db6aff6618e77d344e
+2025-10-24T10:45:44.685763+00:00|https://www.nytimes.com/2025/10/24/nyregion/trump-james-shame-campaign.html|letitia james case shows ruthlessness of justice dept in trumps grip us news|e0bbf1cfca569d8f7a1f1d756d1c789d
