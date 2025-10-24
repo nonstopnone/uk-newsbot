@@ -5341,3 +5341,5 @@
 2025-10-24T18:49:15.077848+00:00|https://abcnews.go.com/US/man-serving-life-sentence-kentucky-womans-2000-murder/story|man serving life sentence in kentucky womans 2000 murder seeks new trial us news|079c32906aa0d5d30db3cad2fb74aaf6
 2025-10-24T18:49:15.631875+00:00|https://www.nytimes.com/2025/10/24/world/canada/doug-ford-trump-reagan-ad.html|trump and canadas trade spat spotlights doug ford the ontario premier us news|ac78f3d0c92d977778a7587a9268b8eb
 2025-10-24T18:57:54.629345+00:00|https://www.nytimes.com/2025/10/24/nyregion/nba-mafia-rigged-poker-games.html|texas cheat em us details how mob lured high rollers into poker trap us news|dc82ba62e693fdcd1ba72bc24eae1744
+2025-10-24T19:19:01.962267+00:00|https://www.bbc.com/news/articles/ce8g2rxpwd7o|target to slash 1800 office jobs in bid for turnaround us news|31e51c08b08c48906f67f2ff2d5b891e
+2025-10-24T19:19:02.488231+00:00|https://www.nytimes.com/2025/10/24/world/europe/life-sentence-french-girl-murder.html|in a first for a woman in france life sentence imposed for murder of schoolgirl us news|d0943f4620b3979b5bc8c29a5802a57b
