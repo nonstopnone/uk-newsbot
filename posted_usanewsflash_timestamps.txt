@@ -5317,3 +5317,4 @@
 2025-10-24T13:22:20.446914+00:00|https://www.nytimes.com/2025/10/24/us/politics/trump-tariffs-canada-reagan-tv-ad-video.html|trump called a canadian ad fake it faithfully reproduces reagans words us news|d2e18f45bdb9570fd85c4426b708b0c2
 2025-10-24T13:47:40.662146+00:00|https://www.nbcnews.com/now/video/report-shows-inflation-increased-3-compared-to-last-year-250552901575|report shows inflation increased 3 compared to last year us news|27c5a263845487c725105cd3abc77b41
 2025-10-24T13:47:41.367614+00:00|https://abcnews.go.com/Politics/us-strikes-alleged-drug-vessel-caribbean-sea/story|us strikes another alleged drug vessel in caribbean sea us news|c964f7c54473644fe0814556ccba2132
+2025-10-24T14:24:42.044578+00:00|https://www.nbcnews.com/video/shorts/target-cuts-1-800-jobs-in-first-major-layoff-in-years-250552389984|target cuts 1800 jobs in first major layoff in years us news|3476cc4bfb1ebf9effb6a49a9d4499cc
