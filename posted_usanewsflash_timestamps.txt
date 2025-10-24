@@ -5332,3 +5332,6 @@
 2025-10-24T17:21:06.764566+00:00|https://www.nytimes.com/2025/10/24/well/fda-menopause-drug-lynkuet.html|fda approves new menopause drug to treat hot flashes and night sweats us news|3d31a87e60258e60db4961f4c502f364
 2025-10-24T17:41:30.218310+00:00|https://www.bbc.com/news/articles/c891gzx7xn4o|us says six killed in new strike on alleged drug boat in caribbean us news|9f562baa457a87b66f40fd5c72d70a26
 2025-10-24T17:41:30.725201+00:00|https://www.nytimes.com/2025/10/24/world/middleeast/us-gaza-ceasefire-drones.html|us flies drones over gaza to monitor ceasefire officials say us news|6a1f7d235a0f99c3ff26934225058c11
+2025-10-24T17:57:39.509217+00:00|https://www.nytimes.com/2025/10/23/us/politics/white-house-renovations-trump-ballroom.html|before renovating white house truman got buyin from congress and experts us news|bd03228996372c0e7744bbcfa2df29a6
+2025-10-24T17:57:40.054616+00:00|https://www.nytimes.com/2025/10/24/business/inflation-report-cpi-federal-reserve.html|inflation edged higher in september as fed prepares to cut rates again us news|783375bb839c6975c51ff63f51b6e492
+2025-10-24T17:57:40.564408+00:00|https://www.nytimes.com/2025/10/24/us/politics/boat-strikes-us-intelligence.html|how does the us decide which boats to target heres what we know us news|740e3eae000abab5e20fc552b1b29768
