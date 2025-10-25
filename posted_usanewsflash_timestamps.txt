@@ -5378,3 +5378,5 @@
 2025-10-25T14:19:39.686751+00:00|https://www.nytimes.com/2025/10/25/us/politics/timothy-mellon-donation-troops.html|donor who gave $130 million to pay troops is reclusive heir to mellon fortune us news|ae7fad422daf89ce5768481f0ef68cca
 2025-10-25T15:21:16.251213+00:00|https://www.nbcnews.com/weather/storms/tropical-storm-melissa-hurricane-updates-rcna239732|tropical storm melissa forecast to become major hurricane barrels toward jamaica and cuba us news|afe0899cd3e726e4532eb963de2725c5
 2025-10-25T15:57:43.576225+00:00|https://abcnews.go.com/US/2-killed-7-critical-condition-north-carolina-mass/story|2 killed 7 in critical condition in mass shooting at north carolina party us news|261db3ee72779b5c19c706ee77b9b5d1
+2025-10-25T16:43:45.819668+00:00|https://www.bbc.com/news/articles/c891p1pez42o|mystery donor gives $130m to us military for paying troops during shutdown us news|451f1859ed5c95b0b7f470f9d7fa42f5
+2025-10-25T16:43:46.544956+00:00|https://www.nbcnews.com/video/shorts/letitia-james-case-and-others-could-be-in-jeopardy-250628165826|letitia james case and others could be in jeopardy us news|c9a7042b53b9981bdcf259b14dea0c48
