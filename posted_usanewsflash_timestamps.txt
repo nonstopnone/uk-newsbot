@@ -5359,3 +5359,4 @@
 2025-10-25T01:48:56.385617+00:00|https://www.nbcnews.com/video/what-six-flags-financial-struggles-mean-for-the-american-dream-250597445553|what six flags financial struggles mean for the american dream us news|a71dbdb74f3843a13e52e4e562e9004d
 2025-10-25T01:48:56.937901+00:00|https://www.nbcnews.com/video/shorts/federal-workers-miss-first-full-paycheck-amid-shutdown-250600005978|federal workers miss first full paycheck amid shutdown us news|b78728d0b5d899cc7617a0684db4d524
 2025-10-25T01:48:57.487895+00:00|https://www.nytimes.com/2025/10/24/us/politics/president-trump-2028-steve-bannon.html|bannon claims there is a plan for trump to run for a third term us news|bc07d17bbbc542ce3881760050391256
+2025-10-25T02:54:54.085751+00:00|https://www.nytimes.com/2025/10/24/us/politics/trump-deportations-ice.html|trump administration plans a shakeup at ice to speed deportations us news|f08d457e332a25da34e83d086a488839
