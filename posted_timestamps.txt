@@ -1,4 +1,3 @@
-2025-10-18T15:18:43.830598+00:00|https://news.sky.com/story/portugal-set-for-burka-ban-after-mps-back-right-wing-partys-plan-13452199|portugal set for burka ban|2b5940f5172a2876325cd06cf73e91f1
 2025-10-18T17:40:18.358379+00:00|https://www.telegraph.co.uk/football/2025/10/18/nottingham-forest-vs-chelsea-live-score-premier-league|mancini rivals dyche for forest job after postecoglous sacking|30c6e8f5cb8dbfdf97e7d711c023cac1
 2025-10-18T18:24:26.076332+00:00|https://news.sky.com/story/brexit-impact-on-uk-economy-negative-for-foreseeable-future-bank-of-england-chief-says-13452747|brexit impact on uk economy negative for foreseeable future bank of england chief says|c14795c5915ae57373a80b219c95e86d
 2025-10-18T19:14:50.222711+00:00|https://www.telegraph.co.uk/football/2025/10/18/fulham-vs-arsenal-live-score-latest-premier-league-updates|arsenal lean on setpiece expertise after viktor gyokeres draws another blank|197c546d651394e0659bfe4682d92e0d
@@ -128,3 +127,4 @@
 2025-10-25T11:39:34.044141+00:00|https://www.bbc.com/news/articles/cx2p0zykdmdo|transport for london spends £113k to crack down on rough sleepers|e923f6d4ea0f97919aaaba4e45e75017
 2025-10-25T13:49:29.454028+00:00|https://news.sky.com/story/catherine-connolly-set-to-become-irelands-next-president-as-rival-concedes-13457154|independent catherine connolly set to become irelands next president as rival concedes|840f56a7c41ef33d18b54d2ec919f6d3
 2025-10-25T14:00:03.881086+00:00|https://news.sky.com/story/witness-wanted-migrant-was-confused-and-directed-to-station-by-prison-staff-13457133|prison officer told mistakenly released sex offender he had to get on a train witness|04e94b809c585da14be707f0dac07593
+2025-10-25T15:23:37.285411+00:00|https://www.bbc.com/news/articles/ce3kvd0kp9vo|over £1m spent on scottish ferry staff working in turkey|4fb4251673902f0e7826fe0272193a49
