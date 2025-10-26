@@ -5424,3 +5424,4 @@
 2025-10-26T20:57:34.229290+00:00|https://www.nytimes.com/2025/10/26/weather/jamaica-worst-storms-hurricane-melissa.html|hurricane melissa could hit as one of jamaicas strongest storms ever us news|1de7cbf05b0144861245a78002ad1b53
 2025-10-26T21:57:28.080459+00:00|https://www.bbc.com/news/articles/c4g7d9j7p5qo|us government says it will stop paying for food aid next week us news|41c6f565e0137dd3194690eed99de545
 2025-10-26T22:21:44.908892+00:00|https://www.nytimes.com/2025/10/26/technology/cal-state-ai-amazon-openai.html|cal state invited tech companies to remake learning with ai us news|4b6f371ea78daf48fc941bf1984a090e
+2025-10-26T23:40:08.811693+00:00|https://www.nbcnews.com/video/new-push-to-recover-remains-of-israeli-hostages-250658373959|new push to recover remains of israeli hostages us news|392f3bc19f43affed73e952aae4df8b6
