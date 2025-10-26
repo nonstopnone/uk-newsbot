@@ -5420,3 +5420,5 @@
 2025-10-26T19:17:51.329078+00:00|https://www.nbcnews.com/video/shorts/hurricane-melissa-strengthens-to-category-4-250657349798|hurricane melissa strengthens to category 4 us news|ec5662096a7adaa7ed5ef09a9fad566a
 2025-10-26T20:25:01.507734+00:00|https://www.nytimes.com/2025/10/26/us/politics/canada-tariffs-trump-carney.html|how canada is dealing with its latest tussle with president trump us news|6d667ea4162703a35dea7737feed1a9b
 2025-10-26T20:41:35.924407+00:00|https://www.nbcnews.com/video/shorts/2-arrests-made-in-breakthrough-for-louvre-heist-probe-250656837935|2 arrests made in breakthrough for louvre heist probe us news|e2623d546fc605b07a911d2c2a18dc9f
+2025-10-26T20:57:33.673580+00:00|https://www.nytimes.com/2025/10/26/world/americas/hurricane-melissa-caribbean-rain-flood.html|caribbean braces for hurricane melissa us news|ce88f4a75f186f1ef9e70963b28f3eb0
+2025-10-26T20:57:34.229290+00:00|https://www.nytimes.com/2025/10/26/weather/jamaica-worst-storms-hurricane-melissa.html|hurricane melissa could hit as one of jamaicas strongest storms ever us news|1de7cbf05b0144861245a78002ad1b53
