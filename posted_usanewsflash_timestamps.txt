@@ -5407,3 +5407,4 @@
 2025-10-26T15:21:44.414701+00:00|https://www.bbc.com/news/articles/c1lqj5lz4geo|us and china agree framework of trade deal ahead of trumpxi meeting us news|5dc474b2c9f264406d9096b92b51e3ea
 2025-10-26T15:21:44.968684+00:00|https://www.nbcnews.com/video/shorts/chef-marcus-samuelsson-on-the-role-of-restaurant-workers-250650181834|chef marcus samuelsson on the role of restaurant workers us news|97cf9f567272ada57eb32f07282297da
 2025-10-26T16:27:26.346576+00:00|https://www.nytimes.com/2025/10/26/nyregion/cuomo-republican-voters-mayor.html|can cuomo sway trump voters away from sliwa in the nyc mayors race us news|0eb21998aeb091fde16472f3fee97472
+2025-10-26T16:44:36.202038+00:00|https://www.nytimes.com/2025/10/26/us/politics/trump-xi-tiktok-deal-bessent.html|trump and xi could consummate tiktok deal this week bessent says us news|c8d24d787475c43f69a03f9c793e921e
