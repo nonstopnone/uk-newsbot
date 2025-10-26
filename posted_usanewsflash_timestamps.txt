@@ -5411,3 +5411,7 @@
 2025-10-26T17:19:01.876211+00:00|https://abcnews.go.com/US/video/snow-leopard-cub-treated-pumpkin-michigan-zoo-126878949|watch snow leopard cub treated to first pumpkin at michigan zoo us news|9090923a8db1caef3f6988ecfe31d899
 2025-10-26T17:39:45.515326+00:00|https://www.nytimes.com/2025/10/26/world/americas/trump-maduro-venezuela-economy.html|how maduro is responding to trumps pressure on venezuelas economy us news|8e18357faf0825390011864cadff99ce
 2025-10-26T17:57:58.487352+00:00|https://www.nytimes.com/2025/10/26/us/politics/gavin-newsom-2028-race.html|newsom says he will consider a 2028 presidential run after the midterms us news|ec80a7c39f5a76cff46902cc95b6615f
+2025-10-26T18:31:57.748240+00:00|https://abcnews.go.com/Business/wireStory/flights-los-angeles-international-airport-halted-due-air-126880181|flights to lax halted due to air traffic controller shortage us news|deb5cf8e7dcc8ab1463451724b97ffb8
+2025-10-26T18:31:58.244999+00:00|https://www.nytimes.com/2025/10/26/world/middleeast/palestinian-authority-abbas-deputy-succession.html|palestinian leader lays out succession plan elevating deputy as apparent heir us news|845ae1eef48e35c1f2f72186f5e8c4b9
+2025-10-26T18:31:58.710871+00:00|https://www.nbcnews.com/video/hurricane-melissa-tracker-250656325939|hurricane melissa tracker us news|bc3e8220d77fc0aca99405ce5fefe24b
+2025-10-26T18:31:59.179412+00:00|https://www.nbcnews.com/video/shorts/ex-nfl-player-dies-weeks-after-kidney-donation-plea-250657861585|exnfl player dies weeks after kidney donation plea us news|8856316d8dd0422bd42b7ca164ed8d2e
