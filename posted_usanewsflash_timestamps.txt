@@ -5396,3 +5396,6 @@
 2025-10-26T06:33:14.161648+00:00|https://www.bbc.com/news/articles/cj412zgvy4do|harris reflects on why she did not ask biden to quit sooner us news|1428fde3302217a6962e9466ee12f28f
 2025-10-26T06:49:27.027614+00:00|https://www.nbcnews.com/world/asia/trump-thailand-cambodia-peace-deal-rcna239816|trump touts his peacemaking skills as thailand and cambodia sign ceasefire deal us news|d35046499cc68eed36c0b65c0f1bcbc2
 2025-10-26T09:57:43.171425+00:00|https://abcnews.go.com/US/hurricane-melissa-upgraded-category-4-expected-strengthen-jamaica/story|hurricane melissa upgraded to category 4 expected to strengthen on jamaica approach us news|63295c67f17f21726a563cc22dabe41b
+2025-10-26T10:22:53.733272+00:00|https://www.nytimes.com/2025/10/26/us/politics/under-trump-voice-of-america-is-down-but-not-out.html|under trump voice of america is down but not out us news|e9df4884faa1fb6b40c1d003b70aad84
+2025-10-26T10:22:54.510982+00:00|https://www.nytimes.com/2025/10/26/us/politics/iowa-trump-economy.html|in trumpfriendly iowa the presidents policies have hit hard us news|12cf4561b452a6c2d10e314e3e7d6502
+2025-10-26T10:22:55.058937+00:00|https://www.nytimes.com/2025/10/26/world/europe/ukraine-fire-point-drones-flamingo.html|3 years ago it was a casting agency now it has $1 billion in drone contracts us news|43482afca3680eb29c95e207ca958eca
