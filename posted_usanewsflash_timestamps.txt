@@ -5457,3 +5457,5 @@
 2025-10-27T15:57:45.049508+00:00|https://www.bbc.com/news/articles/cze6y0y36ppo|trump says he had perfect mri at walter reed hospital us news|4cda8f5e1242c296dd0051bc6297904b
 2025-10-27T15:57:45.687743+00:00|https://www.nytimes.com/2025/10/27/nyregion/new-york-state-redistricting-lawsuit.html|lawsuit plunges new york into the national gerrymandering fight us news|fcc7f1e97490614f42f3d6e1af11c5c3
 2025-10-27T15:57:46.313629+00:00|https://www.nbcnews.com/video/shorts/gm-to-cut-200-detroit-jobs-mostly-in-engineering-250702917777|gm to cut 200 detroit jobs mostly in engineering us news|4161177fc0cc5fbb2e75e8c8d9112a35
+2025-10-27T16:32:11.609215+00:00|https://www.nytimes.com/2025/10/27/business/south-korea-trump-tariffs.html|trapped between us and china south korea feels trade wars pressure us news|2a739ccfea4e0a7a4ac317b6e3ceb378
+2025-10-27T16:32:12.240452+00:00|https://www.nbcnews.com/video/shorts/st-kitts-medical-student-trying-to-leave-jamaica-before-cat-5-hurricane-melissa-250703429746|student tries to leave jamaica ahead of hurricane us news|2bfc8618e4dc0267ae66d20be3382cc6
