@@ -5427,3 +5427,4 @@
 2025-10-26T23:40:08.811693+00:00|https://www.nbcnews.com/video/new-push-to-recover-remains-of-israeli-hostages-250658373959|new push to recover remains of israeli hostages us news|392f3bc19f43affed73e952aae4df8b6
 2025-10-26T23:58:00.744652+00:00|https://www.nbcnews.com/video/hurricane-melissa-takes-direct-aim-at-jamaica-as-category-4-storm-250658373982|hurricane melissa takes direct aim at jamaica as category 4 storm us news|d0653d944d76ea27a1dc2ea028014ade
 2025-10-27T04:04:10.520271+00:00|https://www.nytimes.com/2025/10/26/world/americas/argentina-election-javier-milei.html|javier mileis party triumphs in argentina midterm election us news|7448cc1165020e848034bc47a6a4d526
+2025-10-27T04:37:26.666038+00:00|https://www.nytimes.com/2025/10/27/world/middleeast/shooting-palestinian-american-journalist.html|us assessment of israeli shooting of journalist divided american officials us news|7fb8a8faea1d06ee546f509fe6c995f4
