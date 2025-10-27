@@ -5443,3 +5443,5 @@
 2025-10-27T11:21:02.337277+00:00|https://www.nytimes.com/2025/10/27/briefing/is-ai-a-bubble.html|is ai a bubble us news|a9da11957ff3d5dbd2e8a39b514251cd
 2025-10-27T11:40:46.710322+00:00|https://www.nbcnews.com/world/europe/louvre-heist-thieves-suspects-arrested-french-police-rcna239980|hunt on for remaining louvre thieves after firsts arrests made us news|821fe1290d388e79f99c4bfb3b843ea1
 2025-10-27T11:57:46.818785+00:00|https://www.today.com/video/hurricane-melissa-grows-to-a-category-5-threatening-jamaica-250681413864|hurricane melissa strengthens to category 5 as it nears jamaica us news|ff1d498ccc02ca90925088a44e4be427
+2025-10-27T12:52:35.862447+00:00|https://www.today.com/video/shutdown-day-27-more-federal-employees-to-miss-paychecks-250685509730|impact of government shutdown grows as it enters day 27 us news|f216a4339b23c3de1af6f68bf053d388
+2025-10-27T12:52:36.562200+00:00|https://www.today.com/video/treasury-secretary-says-100-tariff-on-china-is-now-off-the-table-250685509693|us china agree to trade deal framework treasury secretary us news|990429109107f4f098eb1457327cab19
