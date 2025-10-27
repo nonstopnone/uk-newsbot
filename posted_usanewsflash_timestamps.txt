@@ -5452,3 +5452,8 @@
 2025-10-27T13:58:04.711498+00:00|https://www.nytimes.com/2025/10/27/us/politics/trump-mri-third-term.html|trump says a recent mri scan was perfect and hed love a third term us news|807733b33936e2b7144714057494d0b7
 2025-10-27T14:59:14.781000+00:00|https://www.nytimes.com/2025/10/27/us/virginia-redistricting-vote.html|virginia democrats to begin redistricting votes in latest battle for congress us news|c6899c5e38e63ade5ca26dea16354a87
 2025-10-27T15:42:02.351339+00:00|https://www.nytimes.com/2025/10/27/us/politics/antivax-clinic-texas.html|a west texas childrens clinic where vaccine suspicion is encouraged us news|49146c575cf709252041bcf329b79092
+2025-10-27T15:57:43.796738+00:00|https://www.bbc.com/news/articles/cdjrxm0exz3o|largest federal employee union demands congress end shutdown us news|6dbd9f3fe4883e354200bd2a1f5baeac
+2025-10-27T15:57:44.431012+00:00|https://www.bbc.com/news/articles/c797q57ple9o|trump does not rule out seeking third term but says he will not use vp loophole us news|35f13f51e86ec5bb5f267f5e945bd5bd
+2025-10-27T15:57:45.049508+00:00|https://www.bbc.com/news/articles/cze6y0y36ppo|trump says he had perfect mri at walter reed hospital us news|4cda8f5e1242c296dd0051bc6297904b
+2025-10-27T15:57:45.687743+00:00|https://www.nytimes.com/2025/10/27/nyregion/new-york-state-redistricting-lawsuit.html|lawsuit plunges new york into the national gerrymandering fight us news|fcc7f1e97490614f42f3d6e1af11c5c3
+2025-10-27T15:57:46.313629+00:00|https://www.nbcnews.com/video/shorts/gm-to-cut-200-detroit-jobs-mostly-in-engineering-250702917777|gm to cut 200 detroit jobs mostly in engineering us news|4161177fc0cc5fbb2e75e8c8d9112a35
