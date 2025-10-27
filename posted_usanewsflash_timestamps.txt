@@ -5437,3 +5437,5 @@
 2025-10-27T10:28:17.434899+00:00|https://abcnews.go.com/Politics/trump-refuses-rule-3rd-term-perfect-mri-walter/story|trump refuses to rule out 3rd term says he got perfect mri at walter reed us news|35ad3a02b3f8ab102e3a411caa8273f8
 2025-10-27T10:28:17.903484+00:00|https://www.nytimes.com/2025/10/27/us/politics/trump-asia-democracy.html|as this president tours asia democracys ideals arent on the agenda us news|73faffbff9f6dc41440efc2e60b853e5
 2025-10-27T10:28:18.376412+00:00|https://www.nytimes.com/2025/10/27/business/federal-reserve-balance-sheet-tightening.html|strains in shortterm markets raise urgency of fed balance sheet debate us news|64c28ac5a21241f47736fd380cfbe420
+2025-10-27T10:47:19.852343+00:00|https://www.nbcnews.com/sports/nfl/kansas-city-chiefs-offense-nfl-travis-kelce-patrick-mahomes-rcna239206|after a slow start the chiefs offense is the best its been in years us news|22e6345a897f075c4f4a410c79d538d4
+2025-10-27T10:47:20.527699+00:00|https://www.nytimes.com/2025/10/27/us/politics/josh-shapiro-political-violence.html|how the firebombing of his home changed josh shapiro us news|05459d8e7c0d00605401e8e8543a7aaf
