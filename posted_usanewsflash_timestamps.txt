@@ -5473,3 +5473,4 @@
 2025-10-27T21:39:52.697124+00:00|https://www.nytimes.com/2025/10/27/well/move/long-short-walks-health.html|which is better one long walk or many short ones us news|94ac8c6764c690cb75a6df8dcf71fda0
 2025-10-27T21:57:20.805043+00:00|https://www.nytimes.com/2025/10/27/us/politics/trump-supreme-court-copyright-official.html|trump asks supreme court to let him fire the top copyright official us news|f70ee3c03b294bd56dd3e6db5c02d44b
 2025-10-27T22:22:05.119393+00:00|https://www.bbc.com/news/articles/c0516qvlppjo|charlie kirk murder suspect can wear civilian clothes in court judge says us news|b6d2a6eb7a7a1e896ba73f4b428d86d4
+2025-10-27T23:39:17.716300+00:00|https://abcnews.go.com/Politics/wireStory/democrats-set-january-deadline-states-apply-early-2028-126918006|democrats set january deadline for states to apply for early 2028 primary contests us news|ed3cac63a7a75eedf717fc706e992e89
