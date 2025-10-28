@@ -5551,3 +5551,5 @@
 2025-10-28T21:40:29.143100+00:00|https://www.nytimes.com/2025/10/28/us/politics/johnson-trump-2028-constitution.html|mike johnson dismisses trump third term talk but applauds the trolling us news|27f79ada193f00cc6c0182439ec19db6
 2025-10-28T21:40:29.637727+00:00|https://abcnews.go.com/US/wireStory/shaquille-oneals-custom-range-rover-stolen-transport-126953500|shaquille oneals custom range rover stolen in transport us news|7d02815992a0edec312cc020580cdb27
 2025-10-28T21:40:30.133567+00:00|https://www.nbcnews.com/video/shorts/how-steve-kornacki-is-preparing-for-election-day-250821701758|how steve kornacki is preparing for election day us news|04867733000acc64a1addf504855076c
+2025-10-28T21:57:29.721055+00:00|https://www.nytimes.com/2025/10/28/weather/hurricane-melissa-caribbean-photos-video.html|scenes from the caribbean as hurricane melissa hits us news|b05a8f3d8f3ff22f13b4bf6a6c4b1561
+2025-10-28T21:57:30.202044+00:00|https://abcnews.go.com/Business/wireStory/microsoft-shares-surpass-4-trillion-valuation-joining-nvidia-126953655|microsoft shares once again surpass $4 trillion valuation joining nvidia us news|5322f75df03a13b1e9b95bbf03fccdd0
