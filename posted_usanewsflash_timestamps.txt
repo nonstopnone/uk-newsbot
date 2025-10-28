@@ -5516,3 +5516,5 @@
 2025-10-28T14:25:51.089368+00:00|https://www.nytimes.com/2025/10/28/world/canada/carney-asia-trade-trump.html|as trump tariffs canada carney turns to asia for trade us news|12c28c514fc4f17f0a10b93748d1879a
 2025-10-28T14:47:06.167028+00:00|https://www.nytimes.com/2025/10/28/us/politics/trump-japan-national-guard-us-cities.html|trump says he is prepared to send more than the national guard into us cities us news|9e49791961e547bbf85cfb3714038447
 2025-10-28T14:47:06.748576+00:00|https://www.nbcnews.com/video/shorts/federal-workers-to-miss-first-full-paycheck-of-shutdown-250772549608|federal workers to miss first full paycheck of shutdown us news|83c7cb420b256cfde5b27f7ac767ada8
+2025-10-28T14:58:06.242123+00:00|https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html|openai restructures as forprofit company us news|6f8a5fefe09464d4c5b202005b77a06c
+2025-10-28T14:58:06.820489+00:00|https://www.nytimes.com/2025/10/28/business/can-a-start-up-make-computer-chips-cheaper-than-the-industrys-giants.html|can a startup make computer chips cheaper than the industrys giants us news|2694aa49e55c65d5a83e1fa8c6ccc67a
