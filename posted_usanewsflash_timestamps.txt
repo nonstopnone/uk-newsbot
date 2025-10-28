@@ -5485,3 +5485,4 @@
 2025-10-28T03:00:22.306426+00:00|https://www.nbcnews.com/video/shorts/family-faces-potential-deportation-and-separation-250737221613|family faces potential deportation and separation us news|a95b1ffbbd2a78ee3436cbd80ec36f2c
 2025-10-28T03:42:26.461837+00:00|https://www.nytimes.com/2025/10/27/weather/jamaica-evacuation-orders-shelters.html|jamaican officials worry that not enough people are evacuating ahead of melissa us news|22d80285c22cea74e1b7867e9ead1544
 2025-10-28T04:28:14.207832+00:00|https://www.nytimes.com/2025/10/28/world/asia/trump-tariffs-china-taiwan.html|beyond trade war chinas xi looks to press trump on taiwan us news|1b8acd04001155e72216457c0e5fc132
+2025-10-28T04:45:07.574632+00:00|https://www.nytimes.com/2025/10/28/nyregion/trump-hush-money-appeal.html|trump argues in formal appeal that his conviction was fatally marred us news|48a58967990b82e60a31e52c91009686
