@@ -5498,3 +5498,6 @@
 2025-10-28T10:47:22.063116+00:00|https://www.nytimes.com/2025/10/28/nyregion/more-food-reaches-gaza-but-its-still-not-enough.html|more food reaches gaza but its still not enough us news|7a214b9196e5b8bc2923b892bf4898a2
 2025-10-28T10:47:22.607762+00:00|https://www.nytimes.com/2025/10/28/us/los-alamos-nuclear-program.html|in a looming nuclear arms race aging los alamos faces a major test us news|71baff41699baf49122296a039842d5d
 2025-10-28T11:19:46.293777+00:00|https://www.nbcnews.com/business/business-news/amazon-layoffs-thousands-corporate-artificial-intelligence-rcna240155|amazon to lay off 14000 corporate employees us news|a46fa33cfcfc308bd52b0e5e30573b98
+2025-10-28T11:57:22.088889+00:00|https://www.today.com/video/trump-hints-deployment-of-troops-to-us-cities-is-far-from-over-250763845693|trump hints deployment to more us cities in speech to troops us news|3bceb85de2005f5460d0ade3e49ea99f
+2025-10-28T11:57:22.624615+00:00|https://abcnews.go.com/Politics/video/japanese-pm-gifts-trump-late-shinzo-abes-putter-126928077|watch japanese pm gifts trump late shinzo abes putter us news|78843c015fe90f84a84067faad9b57be
+2025-10-28T11:57:23.158983+00:00|https://www.nytimes.com/2025/10/28/world/middleeast/jenin-west-bank-airstrike-israel.html|israel conducts first airstrike in west bank in months kills 3 us news|7800b6b6c1fa115308282d1debccd7f5
