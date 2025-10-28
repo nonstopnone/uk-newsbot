@@ -5488,3 +5488,4 @@
 2025-10-28T04:45:07.574632+00:00|https://www.nytimes.com/2025/10/28/nyregion/trump-hush-money-appeal.html|trump argues in formal appeal that his conviction was fatally marred us news|48a58967990b82e60a31e52c91009686
 2025-10-28T07:41:07.626374+00:00|https://www.nytimes.com/2025/10/28/arts/television/seth-meyers-trump-third-term.html|seth meyers thinks trump is trolling with thirdterm talk us news|531d0052ec4ec73c5e676c071de41356
 2025-10-28T08:33:18.456901+00:00|https://www.nytimes.com/2025/10/28/world/europe/pope-white-sox-chicago-baseball.html|once again the pope likes that other chicago team not the cubs us news|76000e4a917180b10ecca4403a6ff699
+2025-10-28T09:26:32.385885+00:00|https://www.nbcnews.com/tech/tech-news/data-center-ai-google-amazon-nda-non-disclosure-agreement-colossus-rcna236423|how ndas keep ai data center details hidden from americans us news|99ab64d4a573a11d6c16d7e0a18cf3e4
