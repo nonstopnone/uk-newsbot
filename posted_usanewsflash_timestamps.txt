@@ -5548,3 +5548,6 @@
 2025-10-28T20:44:22.032671+00:00|https://www.nbcnews.com/video/shorts/texas-sues-makers-of-tylenol-over-alleged-autism-ties-250816069538|texas sues makers of tylenol over alleged autism ties us news|3a5c55b9b5dae1611fef6d49679a2b71
 2025-10-28T21:21:48.286395+00:00|https://www.nytimes.com/2025/10/28/us/plane-fork-attack-boston.html|midair fork attack forces international flight to divert to boston us news|763b50eb8b7f59d2ed3e2ba192170336
 2025-10-28T21:21:48.792508+00:00|https://www.nytimes.com/2025/10/28/us/politics/fbi-files-charlie-kirk-case.html|officials access to fbi files in charlie kirk case drew pushback us news|26d911f53da7f254d5f70508e08f91c6
+2025-10-28T21:40:29.143100+00:00|https://www.nytimes.com/2025/10/28/us/politics/johnson-trump-2028-constitution.html|mike johnson dismisses trump third term talk but applauds the trolling us news|27f79ada193f00cc6c0182439ec19db6
+2025-10-28T21:40:29.637727+00:00|https://abcnews.go.com/US/wireStory/shaquille-oneals-custom-range-rover-stolen-transport-126953500|shaquille oneals custom range rover stolen in transport us news|7d02815992a0edec312cc020580cdb27
+2025-10-28T21:40:30.133567+00:00|https://www.nbcnews.com/video/shorts/how-steve-kornacki-is-preparing-for-election-day-250821701758|how steve kornacki is preparing for election day us news|04867733000acc64a1addf504855076c
