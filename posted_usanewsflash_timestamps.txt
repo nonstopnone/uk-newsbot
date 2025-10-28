@@ -5533,3 +5533,6 @@
 2025-10-28T17:43:33.349579+00:00|https://www.nbcnews.com/video/shorts/crash-ends-police-pursuit-of-suspect-in-fatal-shooting-250789445895|crash ends police pursuit of suspect in fatal shooting us news|a72280416e30c8985e48eb30d39e51a4
 2025-10-28T17:57:41.916000+00:00|https://www.nytimes.com/2025/10/28/climate/hurricane-jamaica-caribbean.html|small island nations lack funds to fight climate disasters us news|31fb93efe0b2e4950b0aa4d5260f7372
 2025-10-28T17:57:42.551094+00:00|https://www.nbcnews.com/video/shorts/hurricane-melissa-makes-landfall-in-jamaica-250793029673|hurricane melissa makes landfall in jamaica us news|bc49351c2f2e5ec70df7ef5f590119e7
+2025-10-28T18:36:16.830610+00:00|https://abcnews.go.com/US/border-patrol-chief-ordered-meet-judge-daily-chicago/story|border patrol chief ordered to meet with judge daily on chicago immigration crackdown us news|8c2ceaa13fd4db6eed9c6a8273e93bc8
+2025-10-28T18:36:17.458405+00:00|https://abcnews.go.com/GMA/News/hurricane-melissa-how-to-help/story|hurricane melissa slams jamaica how to help us news|e18dcbd38761d0ee75eff29aab13533f
+2025-10-28T18:36:18.094971+00:00|https://www.nytimes.com/2025/10/28/nyregion/nyc-mayor-election-mamdani-cuomo-polls.html|is the mayors race tightening us news|a7c3df5481261963f49163fc21a030d2
