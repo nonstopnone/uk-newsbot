@@ -5494,3 +5494,6 @@
 2025-10-28T10:27:17.797141+00:00|https://www.nytimes.com/2025/10/28/arts/dance/misty-copeland-ballerina.html|misty copeland ballerina of the people moves on us news|71df62b355a04cf4a86e6107cffa01a8
 2025-10-28T10:27:18.699984+00:00|https://www.nytimes.com/2025/10/28/magazine/monuments-art-exhibition-confederate-statues-trump.html|how to make art out of confederate monuments us news|2041729fcdc7f031234140533f066805
 2025-10-28T10:27:19.569971+00:00|https://www.nytimes.com/2025/10/28/science/radiation-nuclear-5g-maha.html|radiation fears bring maha and maga movements into conflict us news|96fc760b3c809016b7ee267ea672a818
+2025-10-28T10:47:21.603872+00:00|https://www.nytimes.com/2025/10/28/podcasts/the-headlines/hurricane-melissa-third-trump-term-plan.html|how hurricane melissa got so intense and a plan for a third trump term us news|90e2be1f4dc2143a3dfd7871144ec677
+2025-10-28T10:47:22.063116+00:00|https://www.nytimes.com/2025/10/28/nyregion/more-food-reaches-gaza-but-its-still-not-enough.html|more food reaches gaza but its still not enough us news|7a214b9196e5b8bc2923b892bf4898a2
+2025-10-28T10:47:22.607762+00:00|https://www.nytimes.com/2025/10/28/us/los-alamos-nuclear-program.html|in a looming nuclear arms race aging los alamos faces a major test us news|71baff41699baf49122296a039842d5d
