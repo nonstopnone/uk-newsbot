@@ -5546,3 +5546,5 @@
 2025-10-28T20:28:03.650597+00:00|https://www.nbcnews.com/video/shorts/2025-rockefeller-center-christmas-tree-is-from-new-york-250805317926|2025 rockefeller center christmas tree is from new york us news|fad6a6b667c1068fb320c19f1a8f0d40
 2025-10-28T20:44:21.504598+00:00|https://www.nytimes.com/2025/10/28/climate/noaa-volunteers-hurricane-melissa.html|volunteers work for noaa to ensure hurricane data is collected us news|313a69407ba88775eb3aada97d4ef8ed
 2025-10-28T20:44:22.032671+00:00|https://www.nbcnews.com/video/shorts/texas-sues-makers-of-tylenol-over-alleged-autism-ties-250816069538|texas sues makers of tylenol over alleged autism ties us news|3a5c55b9b5dae1611fef6d49679a2b71
+2025-10-28T21:21:48.286395+00:00|https://www.nytimes.com/2025/10/28/us/plane-fork-attack-boston.html|midair fork attack forces international flight to divert to boston us news|763b50eb8b7f59d2ed3e2ba192170336
+2025-10-28T21:21:48.792508+00:00|https://www.nytimes.com/2025/10/28/us/politics/fbi-files-charlie-kirk-case.html|officials access to fbi files in charlie kirk case drew pushback us news|26d911f53da7f254d5f70508e08f91c6
