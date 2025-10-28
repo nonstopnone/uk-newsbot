@@ -5544,3 +5544,5 @@
 2025-10-28T19:58:04.308610+00:00|https://www.nbcnews.com/video/shorts/roofs-torn-apart-as-hurricane-melissa-makes-landfall-250807365653|roofs torn apart as hurricane melissa makes landfall us news|3f99bf0f641039b1d3357b6204e4498f
 2025-10-28T20:28:03.061604+00:00|https://www.bbc.com/news/articles/cx2px0zmz8mo|half of us states sue trump administration over halting food stamps us news|756222ea5cfbb3078bf2f193e3e26c7d
 2025-10-28T20:28:03.650597+00:00|https://www.nbcnews.com/video/shorts/2025-rockefeller-center-christmas-tree-is-from-new-york-250805317926|2025 rockefeller center christmas tree is from new york us news|fad6a6b667c1068fb320c19f1a8f0d40
+2025-10-28T20:44:21.504598+00:00|https://www.nytimes.com/2025/10/28/climate/noaa-volunteers-hurricane-melissa.html|volunteers work for noaa to ensure hurricane data is collected us news|313a69407ba88775eb3aada97d4ef8ed
+2025-10-28T20:44:22.032671+00:00|https://www.nbcnews.com/video/shorts/texas-sues-makers-of-tylenol-over-alleged-autism-ties-250816069538|texas sues makers of tylenol over alleged autism ties us news|3a5c55b9b5dae1611fef6d49679a2b71
