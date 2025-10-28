@@ -5538,3 +5538,4 @@
 2025-10-28T18:36:18.094971+00:00|https://www.nytimes.com/2025/10/28/nyregion/nyc-mayor-election-mamdani-cuomo-polls.html|is the mayors race tightening us news|a7c3df5481261963f49163fc21a030d2
 2025-10-28T18:59:51.488200+00:00|https://www.nbcnews.com/politics/congress/heated-call-rep-marjorie-taylor-greene-chastises-republicans-shutdown-rcna240305|in a heated call rep marjorie taylor greene chastises republicans over their shutdown strategy us news|4c3d0bcbd2885be8ffb8427bf3f3f762
 2025-10-28T18:59:52.110503+00:00|https://www.nbcnews.com/business/travel/federal-employees-manning-skies-miss-first-paycheck-government-shutdow-rcna240251|federal employees manning the skies miss first paycheck amid government shutdown us news|7600630dd9013973ece46fd69e669205
+2025-10-28T19:40:00.398205+00:00|https://www.bbc.com/news/articles/c4g3m95ykzko|trump appeals against conviction in hushmoney case us news|3f6bb5da3a9e76b12249016e92c25e50
