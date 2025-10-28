@@ -5558,3 +5558,4 @@
 2025-10-28T23:22:02.685327+00:00|https://www.nytimes.com/2025/10/28/weather/hurricane-melissa-landfall-cuba.html|cuba is no stranger to hurricanes us news|4dd382201067a2359217dfe08f0f3f95
 2025-10-28T23:22:03.283893+00:00|https://www.nbcnews.com/now/video/u-s-tourist-describes-sheltering-from-hurricane-melissa-250820677580|us tourist describes sheltering from hurricane melissa us news|cffa2a1226577ba9460b2b48b383cae7
 2025-10-28T23:22:03.763033+00:00|https://abcnews.go.com/US/hurricane-melissa-ranks-strongest-atlantic-storms-make-landfall/story|hurricane melissa ranks as one of strongest atlantic storms to make landfall us news|1a74f22f68239fcc2b28f4180dffa870
+2025-10-28T23:57:39.480213+00:00|https://www.nytimes.com/2025/10/28/world/asia/north-korea-kim-missile-trump.html|north korea conducts missile test ahead of trump visit to south us news|90d27494fc3006844d6759b1425f9bc9
