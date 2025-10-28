@@ -5514,3 +5514,5 @@
 2025-10-28T14:25:49.725985+00:00|https://www.nytimes.com/2025/10/28/us/newsom-redistricting-donors-proposition-50.html|newsom to redistricting donors stop giving me money us news|cd7f5ed98d57d7d1a39ed372e3b20ffe
 2025-10-28T14:25:50.410829+00:00|https://www.nytimes.com/2025/10/28/climate/mackenzie-scott-disaster-gift.html|mackenzie scott backs disaster recovery in marginalized communities us news|0a1661f585e71ec06a69fa9b156f6146
 2025-10-28T14:25:51.089368+00:00|https://www.nytimes.com/2025/10/28/world/canada/carney-asia-trade-trump.html|as trump tariffs canada carney turns to asia for trade us news|12c28c514fc4f17f0a10b93748d1879a
+2025-10-28T14:47:06.167028+00:00|https://www.nytimes.com/2025/10/28/us/politics/trump-japan-national-guard-us-cities.html|trump says he is prepared to send more than the national guard into us cities us news|9e49791961e547bbf85cfb3714038447
+2025-10-28T14:47:06.748576+00:00|https://www.nbcnews.com/video/shorts/federal-workers-to-miss-first-full-paycheck-of-shutdown-250772549608|federal workers to miss first full paycheck of shutdown us news|83c7cb420b256cfde5b27f7ac767ada8
