@@ -5605,3 +5605,5 @@
 2025-10-29T15:58:15.028086+00:00|https://www.nytimes.com/2025/10/29/climate/china-us-korea-clean-energy-tariffs.html|as china and us split over energy korea is stuck in the middle us news|7638c7e87a19a2b9fb720ab3477e6807
 2025-10-29T15:58:15.629174+00:00|https://www.nytimes.com/2025/10/29/world/asia/trump-south-north-korea-kim.html|feted as a peacemaker in south korea trump vows to end hostilities with north korea us news|7d4b9f4874a03e704ddbae48f128c916
 2025-10-29T15:58:16.248455+00:00|https://www.nytimes.com/2025/10/29/world/middleeast/us-middle-east-envoy-presses-lebanon-to-disarm-hezbollah.html|us middle east envoy presses lebanon to disarm hezbollah us news|c124036190a0f32aa3ab341997fda1ac
+2025-10-29T16:33:03.959136+00:00|https://www.nytimes.com/2025/10/29/us/los-angeles-eaton-fire-victims-settlement-offer.html|southern california edison offers compensation to los angeles fire victims us news|10c31a149b1c875fee78685a8b400743
+2025-10-29T16:33:04.472159+00:00|https://www.nbcnews.com/video/shorts/homes-in-north-carolina-collapse-into-ocean-250905669991|homes in north carolina collapse into ocean us news|4cf9663bd35f933d94265e08d424c39f
