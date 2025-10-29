@@ -5630,3 +5630,4 @@
 2025-10-29T21:22:05.639560+00:00|https://www.nytimes.com/2025/10/29/us/politics/trump-china-nvidia-chips-sales.html|as trump weighs sale of advanced ai chips to china critics sound alarm us news|959b227123d5cc973d4fcbd71bca600a
 2025-10-29T21:22:06.216301+00:00|https://www.nbcnews.com/video/shorts/drones-show-hurricane-melissa-damage-across-jamaica-250938437985|drones show hurricane melissa damage across jamaica us news|e1e5ae6b0db0630269124aec457408f6
 2025-10-29T21:57:36.348729+00:00|https://www.nbcnews.com/video/shorts/destruction-captured-at-jamaica-airport-after-hurricane-250935877899|destruction captured at jamaica airport after hurricane us news|6822ee824b32f28bfe3cf9ffa644f30d
+2025-10-29T22:43:05.323447+00:00|https://www.nytimes.com/2025/10/29/nyregion/bloomberg-cuomo-super-pac.html|bloomberg gives $15 million to procuomo super pac us news|4c74e14a3344b5ba1006cf2134db50c3
