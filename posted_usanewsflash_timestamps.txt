@@ -5607,3 +5607,4 @@
 2025-10-29T15:58:16.248455+00:00|https://www.nytimes.com/2025/10/29/world/middleeast/us-middle-east-envoy-presses-lebanon-to-disarm-hezbollah.html|us middle east envoy presses lebanon to disarm hezbollah us news|c124036190a0f32aa3ab341997fda1ac
 2025-10-29T16:33:03.959136+00:00|https://www.nytimes.com/2025/10/29/us/los-angeles-eaton-fire-victims-settlement-offer.html|southern california edison offers compensation to los angeles fire victims us news|10c31a149b1c875fee78685a8b400743
 2025-10-29T16:33:04.472159+00:00|https://www.nbcnews.com/video/shorts/homes-in-north-carolina-collapse-into-ocean-250905669991|homes in north carolina collapse into ocean us news|4cf9663bd35f933d94265e08d424c39f
+2025-10-29T17:08:37.300618+00:00|https://www.bbc.com/news/articles/cp8e970vn5vo|nvidia hits new milestone as worlds first $5tn company us news|0a93c401ee99de18405b6950b327a5cc
