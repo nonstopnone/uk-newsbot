@@ -5567,3 +5567,6 @@
 2025-10-29T03:19:05.721843+00:00|https://www.nytimes.com/2025/10/28/us/politics/zohran-mamdani-bowdoin-college-new-york-mayor-election.html|how a small elite college in maine influenced mamdanis world view us news|3899f1fe4f06b0614f9e05e7f01d6efa
 2025-10-29T03:59:31.177202+00:00|https://www.bbc.com/sport/baseball/articles/cdeg3rp2712o|blue jays see off ohtani to level world series us news|a41f47be7194272d52d63a11cfb0ee91
 2025-10-29T03:59:31.857170+00:00|https://www.nytimes.com/2025/10/28/us/us-attorney-bill-essayli-los-angeles-ruling.html|federal judge disqualifies trumpbacked prosecutor in los angeles us news|b45bf604c7087a39e1df83e06d1be1c0
+2025-10-29T04:30:54.884398+00:00|https://www.nbcnews.com/video/shorts/hurricane-melissa-floods-parts-of-jamaica-250875461988|hurricane melissa floods parts of jamaica us news|07e3eda789041f706961c5bc87a94047
+2025-10-29T04:30:55.743543+00:00|https://www.nbcnews.com/video/watch-live-trump-meets-with-south-korean-president-lee-jae-myung-250868293516|trump meets with south korean president lee jae myung us news|664bf365ff404548d7f5ece9013fe86f
+2025-10-29T04:30:56.432538+00:00|https://www.nytimes.com/2025/10/29/world/asia/trump-china-xi-opium-trade.html|how the opium war still shapes xi jinpings trade clash with trump us news|98ccdd14b4365ec928c0254966d6f260
