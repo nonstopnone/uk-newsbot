@@ -5621,3 +5621,5 @@
 2025-10-29T20:27:39.671743+00:00|https://www.bbc.com/news/articles/cjr01eepvrqo|exofficer guilty of murder of illinois woman who reported suspected intruder us news|29473279bbc9206fdfe6079341512615
 2025-10-29T20:27:40.295717+00:00|https://www.nytimes.com/2025/10/29/technology/nvidia-value-market-ai.html|nvidia is first company to top $5 trillion in market value amid ai boom us news|afd377d66a14bc79f1d68027aed3c7dd
 2025-10-29T20:27:40.991606+00:00|https://abcnews.go.com/US/video/homes-fall-ocean-north-carolinas-outer-banks-126993635|watch more homes fall into ocean along north carolinas outer banks us news|acf686152445de393a2c40981e327e67
+2025-10-29T20:43:41.828746+00:00|https://www.nbcnews.com/now/video/relief-organizations-pack-up-supplies-for-jamaica-in-wake-of-hurricane-melissa-250934341517|relief organizations pack up supplies for jamaica in wake of hurricane melissa us news|d18356ba6d376b7751b05b402ee078a3
+2025-10-29T20:43:42.403047+00:00|https://www.nbcnews.com/now/video/jury-convicts-sean-grayson-of-murder-in-sonya-massey-s-death-250932805878|jury convicts sean grayson of murder in sonya masseys death us news|e6c85cfdb4f13a84dd621f57d871fab5
