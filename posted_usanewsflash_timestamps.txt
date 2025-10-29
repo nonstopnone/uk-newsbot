@@ -5591,3 +5591,5 @@
 2025-10-29T12:53:08.702003+00:00|https://www.today.com/video/shutdown-day-29-flight-delays-pile-up-food-assistance-to-expire-250887749699|federal food assistance hangs in balance as shutdown rolls on us news|0921ec455b7b00750b13412bdc910b4a
 2025-10-29T12:53:09.396228+00:00|https://www.nytimes.com/2025/10/29/climate/aid-poor-countries-adaptation-climate-united-nations.html|money to help nations cope with climate disasters is declining un says us news|650768fa06a04b657fd3b96ea8b0e988
 2025-10-29T12:53:10.077881+00:00|https://www.nytimes.com/2025/10/29/us/jamaica-melissa-destruction-cuba-hurricane.html|hurricane melissa has arrived in cuba us news|4d87587e71d21ac1a1a52c8ccab7a933
+2025-10-29T13:25:08.230046+00:00|https://www.nbcnews.com/video/shorts/trump-says-israel-has-right-to-hit-back-if-attacked-250887749988|trump says israel has right to hit back if attacked us news|7667345d826433aaa26d70bd9bc2def4
+2025-10-29T13:25:08.725437+00:00|https://www.today.com/video/israel-strikes-gaza-accusing-hamas-of-violating-ceasefire-250888261872|israel strikes gaza accusing hamas of violating ceasefire us news|f941a0433b9ca143f0827e410d9afe7f
