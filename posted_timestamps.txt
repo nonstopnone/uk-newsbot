@@ -1,5 +1,3 @@
-2025-10-22T02:04:29.870052+00:00|https://www.bbc.com/news/articles/c397n3jl3z8o|the £530 orange juice that tells the story of why supermarket prices are sky high|9aa286bd132bb8c370667dfcf8803dec
-2025-10-22T02:04:40.747378+00:00|https://news.sky.com/story/ukraine-used-british-storm-shadow-cruise-missiles-to-strike-russian-chemical-plant-13454744|british storm shadow missiles used in massive ukrainian strike against russian chemical plant|643c9030a8f4840c62da856218b38064
 2025-10-22T03:51:35.781072+00:00|https://news.sky.com/story/caerphilly-by-election-will-plaid-or-reform-have-last-laugh-in-tommy-coopers-birthplace-13454658|if reform triumphs in caerphilly the impact will be felt well beyond the welsh valleys|e3e6bd0d43f107492ce00334da2c8f3d
 2025-10-22T05:20:14.670908+00:00|https://www.bbc.com/news/articles/ceq0jx7ljn9o|300 people tell bbc of police misogyny and racism after undercover investigation|4e5820f383027147389bb4d99d527c08
 2025-10-22T06:00:18.047746+00:00|https://www.bbc.com/news/articles/cew4k1wq9g4o|escooter rider died after being hit by car at 70mph in dark|4c83d55a92a1774e603c18c37fbe9fea
@@ -118,3 +116,4 @@
 2025-10-28T22:55:45.101119+00:00|https://news.sky.com/story/bosses-who-hire-illegal-workers-could-be-jailed-under-new-government-proposals-13459422|bosses who hire illegal workers could be jailed under new government proposals|7cd7bd2810df1208b71a6dbafd01f220
 2025-10-28T23:18:57.255365+00:00|https://news.sky.com/story/at-least-64-killed-as-rio-police-target-drug-gang-in-deadliest-ever-raid-ahead-of-cop30-13459633|at least 64 killed as police launch deadliestever raid ahead of cop30|fbca089f24126e9b0418a9f91e92298b
 2025-10-29T01:45:07.346206+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/climate-inaction-costing-millions-of-lives-each-year|climate inaction costing millions of lives each year|0650c1160320cb7e31eda30242b92841
+2025-10-29T03:07:18.726612+00:00|https://news.sky.com/story/budget-2025-reeves-vows-to-defy-gloomy-forecasts-but-faces-income-tax-warning-13459769|reeves vows to defy gloomy forecasts but faces income tax warning ahead of budget|9c841f2988a1d317c2ea2ab841e7a9d6
