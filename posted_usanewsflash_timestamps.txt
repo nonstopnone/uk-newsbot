@@ -5611,3 +5611,5 @@
 2025-10-29T17:31:55.214038+00:00|https://abcnews.go.com/US/video/nasas-supersonic-jet-makes-historic-test-flight-126983180|watch nasas supersonic jet makes historic test flight us news|dc15fc6844a05da2b83d0eb7c8b5a881
 2025-10-29T18:35:41.770303+00:00|https://www.nbcnews.com/business/autos/gm-layoffs-michigan-ohio-ev-plant-rcna240580|gm to cut thousands of jobs in michigan tennessee and ohio us news|efb6739a2423d82f96f4548d99bf0e55
 2025-10-29T18:35:42.300906+00:00|https://abcnews.go.com/Business/fed-expected-cut-interest-rates-trump/story|fed cuts interest rates for 2nd time this year amid hiring slowdown us news|18212d8334750f882464be04aeeee348
+2025-10-29T18:58:08.067154+00:00|https://www.nytimes.com/2025/10/29/us/politics/zohran-mamdani-jews-rabbis.html|mamdanis candidacy roils jewish communities across the country us news|24e12da5e4f8806b704c1d47ba0f4369
+2025-10-29T18:58:08.710786+00:00|https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html|cuomo earned almost $5 million from consulting in 2024 returns show us news|3090d8e7cc41ffe7cfc881068787d088
