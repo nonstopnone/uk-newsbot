@@ -5613,3 +5613,6 @@
 2025-10-29T18:35:42.300906+00:00|https://abcnews.go.com/Business/fed-expected-cut-interest-rates-trump/story|fed cuts interest rates for 2nd time this year amid hiring slowdown us news|18212d8334750f882464be04aeeee348
 2025-10-29T18:58:08.067154+00:00|https://www.nytimes.com/2025/10/29/us/politics/zohran-mamdani-jews-rabbis.html|mamdanis candidacy roils jewish communities across the country us news|24e12da5e4f8806b704c1d47ba0f4369
 2025-10-29T18:58:08.710786+00:00|https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html|cuomo earned almost $5 million from consulting in 2024 returns show us news|3090d8e7cc41ffe7cfc881068787d088
+2025-10-29T19:39:27.322278+00:00|https://abcnews.go.com/US/sonya-massey-murder-trial-juror-massey-family-cry/story|jury finds deputy guilty of seconddegree murder in sonya massey shooting us news|f50729ef47158a6dd5980a3f1309164d
+2025-10-29T19:39:28.016615+00:00|https://www.nbcnews.com/news/us-news/sean-grayson-found-guilty-murder-death-sonya-massey-rcna240223|sean grayson found guilty of murder in the death of sonya massey us news|98249898ffbca7928605ce1ed13ec0fa
+2025-10-29T19:39:28.547628+00:00|https://www.nytimes.com/video/world/asia/100000010485242/how-japans-new-prime-minister-bonded-with-trump.html|how japans new prime minister bonded with trump us news|0859b16e6769873639c8560299d1f176
