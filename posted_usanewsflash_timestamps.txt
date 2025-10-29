@@ -5597,3 +5597,6 @@
 2025-10-29T13:50:28.240650+00:00|https://www.nbcnews.com/video/shorts/will-hurricane-melissa-maintain-its-strength-250890821606|will hurricane melissa maintain its strength us news|8d4f1267be4271e23d9a0b6c1b1cbeae
 2025-10-29T14:47:26.714039+00:00|https://www.nytimes.com/2025/10/29/health/obamacare-prices-health-insurance.html|obamacare prices become public highlighting big increases us news|16df1ec64858be5bbc044f0bcd917686
 2025-10-29T14:47:27.199047+00:00|https://www.nbcnews.com/video/shorts/trump-says-u-s-is-prepared-to-supply-aid-to-jamaica-250892869510|trump says us is prepared to supply aid to jamaica us news|b1d35191e3406d5ebcda4e5847d63765
+2025-10-29T15:29:02.096151+00:00|https://www.nytimes.com/2025/10/29/world/europe/us-troops-eastern-europe-romania.html|us says it will cut troops in eastern europe us news|57c6ad10c73250830f4caed0866ea92a
+2025-10-29T15:29:02.682290+00:00|https://www.nytimes.com/2025/10/29/nyregion/zohran-mamdani-housing-ballot-measures.html|mamdani still hasnt said whether he supports ballot housing proposals us news|a1f148a3746634133c0cf26c4c632ad6
+2025-10-29T15:29:03.254093+00:00|https://www.nbcnews.com/video/shorts/jamaican-police-assess-damage-from-hurricane-melissa-250896453901|jamaican police assess damage from hurricane melissa us news|f5d7f97248c8d45a6eac0d9c81afde0c
