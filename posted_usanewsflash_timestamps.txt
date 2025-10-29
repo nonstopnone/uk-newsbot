@@ -5634,3 +5634,5 @@
 2025-10-29T22:57:53.220490+00:00|https://www.nytimes.com/2025/10/29/us/politics/prosecutors-jan-6-trump.html|prosecutors who called jan 6 attackers a mob of rioters are punished us news|4194cd55066aaaeb12165b626b1e2ca4
 2025-10-29T23:22:23.418938+00:00|https://www.nbcnews.com/video/jamaica-drone-video-shows-hurricane-melissa-flooding-and-damage-250941509765|drone video shows hurricane melissa damage in jamaica us news|af96dfdc3433a00698b8445d7fd1a9b6
 2025-10-29T23:41:06.219080+00:00|https://www.nbcnews.com/nightly-news/video/hurricane-melissa-leaves-trail-of-devastation-in-jamaica-250947141944|hurricane melissa leaves trail of devastation in jamaica us news|7adcd010e5e574f90e10dd2809042e80
+2025-10-29T23:57:36.543558+00:00|https://www.nytimes.com/2025/10/29/us/virginia-congress-redistricting-midterms.html|virginia moves closer to redistricting plan that would help democrats us news|f487415a4c3a6659b9d1276c269a8526
+2025-10-29T23:57:37.170987+00:00|https://www.nbcnews.com/video/shorts/thieves-pull-off-3-2-million-heist-in-new-york-250950213954|thieves pull off $32 million heist in new york us news|ab240545c96a7a371f51a4af467e1e52
