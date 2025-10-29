@@ -5617,3 +5617,7 @@
 2025-10-29T19:39:28.016615+00:00|https://www.nbcnews.com/news/us-news/sean-grayson-found-guilty-murder-death-sonya-massey-rcna240223|sean grayson found guilty of murder in the death of sonya massey us news|98249898ffbca7928605ce1ed13ec0fa
 2025-10-29T19:39:28.547628+00:00|https://www.nytimes.com/video/world/asia/100000010485242/how-japans-new-prime-minister-bonded-with-trump.html|how japans new prime minister bonded with trump us news|0859b16e6769873639c8560299d1f176
 2025-10-29T19:57:42.023337+00:00|https://www.nytimes.com/2025/10/29/us/sonya-massey-sean-grayson-verdict-illinois.html|exillinois deputy convicted in fatal shooting of sonya massey us news|4e7cfa8232e39d503fb0b11964b31f7a
+2025-10-29T20:27:39.041436+00:00|https://www.bbc.com/news/articles/cdxr0d91znno|three monkeys at large after primates escape from crashed truck in us us news|2259fd64cbb085989a955ffecf3bed1b
+2025-10-29T20:27:39.671743+00:00|https://www.bbc.com/news/articles/cjr01eepvrqo|exofficer guilty of murder of illinois woman who reported suspected intruder us news|29473279bbc9206fdfe6079341512615
+2025-10-29T20:27:40.295717+00:00|https://www.nytimes.com/2025/10/29/technology/nvidia-value-market-ai.html|nvidia is first company to top $5 trillion in market value amid ai boom us news|afd377d66a14bc79f1d68027aed3c7dd
+2025-10-29T20:27:40.991606+00:00|https://abcnews.go.com/US/video/homes-fall-ocean-north-carolinas-outer-banks-126993635|watch more homes fall into ocean along north carolinas outer banks us news|acf686152445de393a2c40981e327e67
