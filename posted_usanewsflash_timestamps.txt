@@ -5704,3 +5704,5 @@
 2025-10-30T23:21:31.436826+00:00|https://www.nytimes.com/2025/10/30/us/politics/frank-bisignano-fiserv-stock-price.html|a top trump official had to sell his stock he may have saved millions us news|5031d4348792c2a7d717ab6ecd388e1d
 2025-10-30T23:21:32.005028+00:00|https://www.nytimes.com/2025/10/30/arts/music/sean-combs-diddy-prison.html|sean diddy combs transferred to federal prison in new jersey us news|74c8fe7ed00be956f81e21d5773bcc8b
 2025-10-30T23:21:32.583016+00:00|https://www.nytimes.com/2025/10/30/science/us-nuclear-weapons-atomic-bombs.html|what to know about us nuclear weapons as trump threatens to restart testing us news|c9272380294edeeac2d7b02c280ecf3e
+2025-10-30T23:39:32.303269+00:00|https://www.nbcnews.com/video/shorts/what-to-know-about-trump-s-strikes-on-alleged-drug-boats-251024453865|what to know about trumps strikes on alleged drug boats us news|e1405fb408368221690bdccd5f751a9e
+2025-10-30T23:39:32.810664+00:00|https://www.nytimes.com/2025/10/30/travel/hurricane-melissa-jamaica-resort.html|a texas family rode out hurricane melissa at a jamaican beach resort us news|fbeb6481ba84ff13baa4b1d0f5e473a7
