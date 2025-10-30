@@ -5698,3 +5698,5 @@
 2025-10-30T21:21:23.410242+00:00|https://www.nytimes.com/2025/10/30/business/apple-earnings.html|apples iphones fuel record sales and profit us news|9678a46c050e29edd6dac204cd58b828
 2025-10-30T21:40:34.312719+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html|trumps call to resume nuclear testing after decades revives a cold war debate us news|0ca42531b8e4ddb02a8cc02454cb8585
 2025-10-30T21:57:34.714940+00:00|https://www.nytimes.com/2025/10/30/us/politics/louisiana-snap-benefit-cuts.html|in louisiana threat of lost snap food benefits is rattling the vulnerable us news|d2821e47eae012164fe1af1178fda324
+2025-10-30T22:57:43.287173+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-vance-airport-travel-shutdown.html|trump officials warn of air travel disaster in november us news|f95f21f5e0f7f0b335352cc26beec7ce
+2025-10-30T22:57:43.828651+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-officials-military-housing.html|trump officials move into military residences in dc area us news|fa4cfab890f654f113a954f17077adbf
