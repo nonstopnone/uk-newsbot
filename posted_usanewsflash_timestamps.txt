@@ -5650,3 +5650,4 @@
 2025-10-30T04:44:17.820036+00:00|https://abcnews.go.com/US/states-rapid-response-national-guard-units-civil-disturbances/story|states to have rapidresponse national guard units for civil disturbances official us news|3123337c551cc2c34264731bd120cd90
 2025-10-30T06:35:28.848046+00:00|https://www.nytimes.com/2025/10/30/arts/television/late-night-south-korea-trump-crown.html|late night shades south korea for giving trump a crown us news|19cca9f2c56e5f6dfcae7d9247754957
 2025-10-30T08:49:52.792939+00:00|https://www.nbcnews.com/world/europe/paris-louvre-jewel-heist-five-new-suspects-arrested-rcna240705|5 new suspects arrested in louvre jewel heist us news|c27d944bdf8e7268343421fb7f1dee2e
+2025-10-30T09:26:29.608411+00:00|https://www.nytimes.com/2025/10/30/world/europe/dutch-elections-geert-wilders-rob-jetten.html|centrist party ties dutch election as farright party loses seats us news|e44e17a0e6123fe764ea2cb90218d51a
