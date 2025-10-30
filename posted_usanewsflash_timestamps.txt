@@ -5697,3 +5697,4 @@
 2025-10-30T20:57:59.307882+00:00|https://www.nytimes.com/2025/10/30/world/europe/robbery-lyon-france.html|six arrested in robbery of preciousmetal refinery in france us news|9638a4bcc3a7e3699b5e4992bc24be91
 2025-10-30T21:21:23.410242+00:00|https://www.nytimes.com/2025/10/30/business/apple-earnings.html|apples iphones fuel record sales and profit us news|9678a46c050e29edd6dac204cd58b828
 2025-10-30T21:40:34.312719+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html|trumps call to resume nuclear testing after decades revives a cold war debate us news|0ca42531b8e4ddb02a8cc02454cb8585
+2025-10-30T21:57:34.714940+00:00|https://www.nytimes.com/2025/10/30/us/politics/louisiana-snap-benefit-cuts.html|in louisiana threat of lost snap food benefits is rattling the vulnerable us news|d2821e47eae012164fe1af1178fda324
