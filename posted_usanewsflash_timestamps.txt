@@ -5690,3 +5690,5 @@
 2025-10-30T18:58:17.144963+00:00|https://www.nytimes.com/2025/10/30/business/economy/soybean-farmers-us-china-truce.html|soybean farmers find relief in us trade truce with china us news|09dd0a69438429d1b2a71b6b83a966b4
 2025-10-30T18:58:17.738155+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-xi-tiktok-deal.html|little word of a tiktok deal out of trumpxi meeting us news|d048822e42145caad598867c9124fe47
 2025-10-30T19:18:59.248874+00:00|https://www.nytimes.com/2025/10/30/nyregion/nyc-snap-food-stamps-shutdown.html|older new yorkers brace for food stamp cuts im just praying us news|797ca64ab89bb6cc9faef772bbcb94a8
+2025-10-30T20:26:32.753259+00:00|https://www.nytimes.com/2025/10/30/us/newsom-california-proposition-50-presidential.html|gov gavin newsom turns california election into possible 2028 platform us news|6fe248089923d4b78bfca2e417cc1f32
+2025-10-30T20:26:33.466094+00:00|https://www.nytimes.com/2025/10/30/arts/design/museum-heist-oakland-california.html|thieves steal more than 1000 items from oakland museum of california us news|53f0a9b9920df8c931cb54edbf24d92a
