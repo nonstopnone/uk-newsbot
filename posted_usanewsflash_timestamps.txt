@@ -5647,3 +5647,4 @@
 2025-10-30T03:14:41.972874+00:00|https://www.nbcnews.com/now/video/trump-says-it-s-an-honor-to-be-with-xi-as-meeting-begins-250960965751|trump says its an honor to be with xi as meeting begins us news|10298b6d774d2a17ac69095aa86a6d7e
 2025-10-30T03:49:22.590800+00:00|https://www.nytimes.com/2025/10/29/us/animal-rights-activist-convicted-sonoma-chickens.html|california animal rights activist convicted in chicken theft us news|ee451769293347ba7e0df8fcfe06a1d7
 2025-10-30T04:27:56.522545+00:00|https://www.nbcnews.com/now/video/trump-orders-u-s-to-begin-testing-nuclear-weapons-250963525574|trump orders us to begin testing nuclear weapons us news|e8b35bdf61d4060e5f359d4d27b9b399
+2025-10-30T04:44:17.820036+00:00|https://abcnews.go.com/US/states-rapid-response-national-guard-units-civil-disturbances/story|states to have rapidresponse national guard units for civil disturbances official us news|3123337c551cc2c34264731bd120cd90
