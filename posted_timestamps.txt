@@ -1,4 +1,3 @@
-2025-10-23T14:29:13.030196+00:00|https://www.bbc.com/news/articles/c4gz370k6vyo|six men guilty of rioting in ely after ebike deaths|29b551ae2fa1d8ceae23ad5d8f2695fc
 2025-10-23T14:47:39.744052+00:00|https://www.bbc.com/news/articles/cpd2zzqygqyo|bob vylan postpone gigs over political pressure|447a1a1d1780465dc56e629a0c59c8a4
 2025-10-23T15:41:27.949441+00:00|https://news.sky.com/story/alleged-madeleine-mccann-family-stalker-said-she-never-intended-to-harm-them-court-hears-13455839|alleged madeleine mccann family stalker said she never intended to harm them court hears|5213cbc2245297eb7cd2a009fc09d67c
 2025-10-23T16:59:00.329106+00:00|https://www.bbc.com/news/articles/cm2w4k20peeo|watchdog investigates police actions leading up to boys death|dae3e4df32ab74f7167549511cb122bc
@@ -111,3 +110,4 @@
 2025-10-30T11:46:01.667520+00:00|https://www.bbc.com/news/articles/c8dr710m851o|no inquiry into 1974 ira birmingham pub bombings|9e04b3b1f20ef4ea2a5248fde7799a0d
 2025-10-30T13:47:38.614423+00:00|https://news.sky.com/story/badenoch-says-hacking-into-harriet-harmans-website-17-years-ago-not-the-same-as-reeves-breaking-law-13460659|badenoch says hacking into harriet harmans website 17 years ago not the same as reeves breaking law|5575a429fd665d4c2258f3313aa64eb7
 2025-10-30T13:47:49.545713+00:00|https://news.sky.com/story/police-at-scene-of-helicopter-crash-near-doncaster-13460680|police at scene of helicopter crash near doncaster|55f957160c4ffafde24fcdd39526c0da
+2025-10-30T14:46:42.609976+00:00|https://news.sky.com/story/tiktok-accused-of-backtracking-on-safety-commitments-13460627|tiktok accused of backtracking on safety commitments|8af1747e881d81d6e8903f5e0aa4c34e
