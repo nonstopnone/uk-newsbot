@@ -5692,3 +5692,5 @@
 2025-10-30T19:18:59.248874+00:00|https://www.nytimes.com/2025/10/30/nyregion/nyc-snap-food-stamps-shutdown.html|older new yorkers brace for food stamp cuts im just praying us news|797ca64ab89bb6cc9faef772bbcb94a8
 2025-10-30T20:26:32.753259+00:00|https://www.nytimes.com/2025/10/30/us/newsom-california-proposition-50-presidential.html|gov gavin newsom turns california election into possible 2028 platform us news|6fe248089923d4b78bfca2e417cc1f32
 2025-10-30T20:26:33.466094+00:00|https://www.nytimes.com/2025/10/30/arts/design/museum-heist-oakland-california.html|thieves steal more than 1000 items from oakland museum of california us news|53f0a9b9920df8c931cb54edbf24d92a
+2025-10-30T20:42:37.725889+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-democrats-boat-strikes.html|democrats condemn trump officials for boat strike secrecy us news|c22b4d67d1fb5f58c2a4e8ff85212507
+2025-10-30T20:42:38.275340+00:00|https://www.nytimes.com/2025/10/30/us/hurricane-melissa-jamaica.html|amid flattened homes jamaica starts to assess hurricane melissas damage us news|ac673b9d7d21400d564c0de7b312e35d
