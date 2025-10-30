@@ -5687,3 +5687,5 @@
 2025-10-30T18:35:23.236784+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-boat-killings-prosecutions.html|why trumps boat killings would be hard to prosecute us news|f80fa5bc2ac3bdfd21bccb36f0001945
 2025-10-30T18:35:23.783534+00:00|https://abcnews.go.com/Politics/americans-increasingly-concerned-government-shutdown-blame-republicans-trump/story|americans concerned about shutdown more blame gop and trump than democrats poll us news|84abdbe09e4510e3090a3d628d35bdc2
 2025-10-30T18:35:24.534056+00:00|https://abcnews.go.com/US/video/lot-questions-raised-after-trump-orders-nuclear-weapons-127028691|watch a lot of questions being raised after trump orders nuclear weapons testing us news|ad6010df691734a9a20960f7a3b2d2e5
+2025-10-30T18:58:17.144963+00:00|https://www.nytimes.com/2025/10/30/business/economy/soybean-farmers-us-china-truce.html|soybean farmers find relief in us trade truce with china us news|09dd0a69438429d1b2a71b6b83a966b4
+2025-10-30T18:58:17.738155+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-xi-tiktok-deal.html|little word of a tiktok deal out of trumpxi meeting us news|d048822e42145caad598867c9124fe47
