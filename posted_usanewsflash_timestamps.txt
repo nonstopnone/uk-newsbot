@@ -5672,3 +5672,5 @@
 2025-10-30T13:22:51.188290+00:00|https://www.nytimes.com/2025/10/30/us/trump-and-xi-agree-to-a-yearlong-trade-truce.html|trump and xi agree to a yearlong trade truce us news|df951186a8fce220a6d92d10fcf40069
 2025-10-30T13:22:51.949717+00:00|https://www.nbcnews.com/video/shorts/pet-monkey-escapes-its-owner-in-texas-halloween-store-250979909671|pet monkey escapes its owner in texas halloween store us news|e30f5e38d95f3d5eaa3760b806f8be6c
 2025-10-30T13:22:52.649380+00:00|https://www.nbcnews.com/video/shorts/5-new-suspects-arrested-in-louvre-heist-250979397692|5 new suspects arrested in louvre heist us news|732a764b5c3c58f8d6c0f97f7845e656
+2025-10-30T13:57:56.132096+00:00|https://www.bbc.com/news/articles/c74jden8ddxo|five ways the shutdown is hurting americans us news|6508e8a78176ec42deea3f479bc2ff25
+2025-10-30T13:57:56.705516+00:00|https://www.today.com/video/get-a-first-look-inside-the-new-1b-grand-egyptian-museum-250981957763|get to know king tuts world at the new grand egyptian museum us news|acce9104162978b5a95c49990e674f32
