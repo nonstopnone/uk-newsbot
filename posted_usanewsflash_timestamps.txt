@@ -5700,3 +5700,7 @@
 2025-10-30T21:57:34.714940+00:00|https://www.nytimes.com/2025/10/30/us/politics/louisiana-snap-benefit-cuts.html|in louisiana threat of lost snap food benefits is rattling the vulnerable us news|d2821e47eae012164fe1af1178fda324
 2025-10-30T22:57:43.287173+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-vance-airport-travel-shutdown.html|trump officials warn of air travel disaster in november us news|f95f21f5e0f7f0b335352cc26beec7ce
 2025-10-30T22:57:43.828651+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-officials-military-housing.html|trump officials move into military residences in dc area us news|fa4cfab890f654f113a954f17077adbf
+2025-10-30T23:21:30.829954+00:00|https://www.nbcnews.com/video/shorts/the-difference-between-nuclear-weapons-and-bomb-tests-251027525745|the difference between nuclear weapons and bomb tests us news|fbacea936f10156d6056532f7ddf7f72
+2025-10-30T23:21:31.436826+00:00|https://www.nytimes.com/2025/10/30/us/politics/frank-bisignano-fiserv-stock-price.html|a top trump official had to sell his stock he may have saved millions us news|5031d4348792c2a7d717ab6ecd388e1d
+2025-10-30T23:21:32.005028+00:00|https://www.nytimes.com/2025/10/30/arts/music/sean-combs-diddy-prison.html|sean diddy combs transferred to federal prison in new jersey us news|74c8fe7ed00be956f81e21d5773bcc8b
+2025-10-30T23:21:32.583016+00:00|https://www.nytimes.com/2025/10/30/science/us-nuclear-weapons-atomic-bombs.html|what to know about us nuclear weapons as trump threatens to restart testing us news|c9272380294edeeac2d7b02c280ecf3e
