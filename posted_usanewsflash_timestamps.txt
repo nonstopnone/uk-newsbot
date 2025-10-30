@@ -5694,3 +5694,4 @@
 2025-10-30T20:26:33.466094+00:00|https://www.nytimes.com/2025/10/30/arts/design/museum-heist-oakland-california.html|thieves steal more than 1000 items from oakland museum of california us news|53f0a9b9920df8c931cb54edbf24d92a
 2025-10-30T20:42:37.725889+00:00|https://www.nytimes.com/2025/10/30/us/politics/trump-democrats-boat-strikes.html|democrats condemn trump officials for boat strike secrecy us news|c22b4d67d1fb5f58c2a4e8ff85212507
 2025-10-30T20:42:38.275340+00:00|https://www.nytimes.com/2025/10/30/us/hurricane-melissa-jamaica.html|amid flattened homes jamaica starts to assess hurricane melissas damage us news|ac673b9d7d21400d564c0de7b312e35d
+2025-10-30T20:57:59.307882+00:00|https://www.nytimes.com/2025/10/30/world/europe/robbery-lyon-france.html|six arrested in robbery of preciousmetal refinery in france us news|9638a4bcc3a7e3699b5e4992bc24be91
