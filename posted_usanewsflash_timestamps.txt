@@ -5717,3 +5717,4 @@
 2025-10-31T03:04:21.874520+00:00|https://www.bbc.com/news/articles/cx2yrd6jrplo|fourteen police officers among 20 arrested in mississippi drug bribery sting us news|6357b465f9266ce6d7b6e7708822591d
 2025-10-31T03:04:22.481766+00:00|https://www.nbcnews.com/politics/trump-administration/trump-administration-military-members-will-get-paid-friday-shutdown-rcna241031|trump administration says members of the military will get paid friday despite the government shutdown us news|b266e9a78393dced241fa8249fe354a4
 2025-10-31T04:31:10.579556+00:00|https://www.nbcnews.com/video/shorts/furloughed-irs-lawyer-opens-hotdog-stand-251044421555|furloughed irs lawyer opens hotdog stand us news|5d14e28ef48a7f773e5d2f56b3d888b6
+2025-10-31T04:49:01.808634+00:00|https://www.nytimes.com/2025/10/31/us/politics/trump-filibuster-shutdown.html|trump calls on republicans to end filibuster in shutdown fight us news|323520c77756208e37de9d0c587713d5
