@@ -5720,3 +5720,4 @@
 2025-10-31T04:49:01.808634+00:00|https://www.nytimes.com/2025/10/31/us/politics/trump-filibuster-shutdown.html|trump calls on republicans to end filibuster in shutdown fight us news|323520c77756208e37de9d0c587713d5
 2025-10-31T06:35:53.328163+00:00|https://abcnews.go.com/Politics/live-updates/government-shutdown-updates-senate-reconvene-monday-amid-funding|government shutdown updates trump says eliminate filibuster now to end shutdown us news|5eea2f9babc08e59517f7480c254eb0d
 2025-10-31T06:35:53.883727+00:00|https://www.nytimes.com/video/world/asia/100000010489449/trump-xi-jinping-trade-war.html|how the trumpxi meeting eased a major trade war us news|90c0f01cfe6894d8bc66aa405d98eaef
+2025-10-31T07:22:47.168842+00:00|https://www.nytimes.com/2025/10/31/arts/television/jimmy-kimmel-marjorie-taylor-greene.html|jimmy kimmel cant believe he agrees with marjorie taylor greene us news|759a6cf348543d8d5259301c4bb4c27e
