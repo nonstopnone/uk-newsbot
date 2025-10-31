@@ -5744,3 +5744,4 @@
 2025-10-31T15:43:06.918227+00:00|https://www.nytimes.com/2025/10/31/us/politics/senate-filibuster-government-shutdown.html|thune rejects trumps call to change the senate filibuster us news|dcfe89c6fa5f22ade0a27cf32cab18c5
 2025-10-31T16:48:53.082620+00:00|https://www.nytimes.com/2025/10/31/us/politics/trump-republicans-congress-trade.html|republicans in congress show signs of angst over trumps trade war us news|8a43918440a6f0e0ff35143af1a0b771
 2025-10-31T16:48:53.667049+00:00|https://www.nytimes.com/2025/10/31/us/virginia-redistricting.html|virginia advances redistricting plan toward new congressional maps us news|ddb5c9931b91d0f4e244cd0b0b06086f
+2025-10-31T16:58:38.462570+00:00|https://www.nbcnews.com/politics/congress/trumps-push-nuke-senate-filibuster-hits-immediate-republican-resistanc-rcna241119|trumps push to nuke the senate filibuster hits immediate republican resistance us news|e1f52163904c33ca396d3bc76440a07f
