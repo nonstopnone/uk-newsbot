@@ -5742,3 +5742,5 @@
 2025-10-31T14:57:45.400579+00:00|https://www.bbc.com/news/articles/c4gpwn5v072o|halloween 2025 the best celebrity costumes so far us news|c2e4f4d6b82ce49109e5e2d413c80d46
 2025-10-31T15:23:51.949927+00:00|https://www.nytimes.com/2025/10/31/world/americas/un-us-military-boat-strikes.html|un human rights chief says us attacks on accused drug smugglers are illegal us news|12c42997992127c49c9cd05b7e662bdc
 2025-10-31T15:43:06.918227+00:00|https://www.nytimes.com/2025/10/31/us/politics/senate-filibuster-government-shutdown.html|thune rejects trumps call to change the senate filibuster us news|dcfe89c6fa5f22ade0a27cf32cab18c5
+2025-10-31T16:48:53.082620+00:00|https://www.nytimes.com/2025/10/31/us/politics/trump-republicans-congress-trade.html|republicans in congress show signs of angst over trumps trade war us news|8a43918440a6f0e0ff35143af1a0b771
+2025-10-31T16:48:53.667049+00:00|https://www.nytimes.com/2025/10/31/us/virginia-redistricting.html|virginia advances redistricting plan toward new congressional maps us news|ddb5c9931b91d0f4e244cd0b0b06086f
