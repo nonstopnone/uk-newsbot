@@ -5807,3 +5807,5 @@
 2025-11-01T22:40:36.536441+00:00|https://www.nbcnews.com/video/shorts/5-arrested-in-alleged-terror-plot-in-michigan-fbi-says-251129925739|5 arrested in alleged terror plot in michigan fbi says us news|f2206a6b65c997a3315baef546e32288
 2025-11-01T22:40:37.235716+00:00|https://www.nytimes.com/2025/11/01/us/harvard-medical-school-explosion.html|explosion at harvard medical school was intentional officials say us news|5699a8140be69b4ac350ba12e4be1ed2
 2025-11-01T23:39:22.233556+00:00|https://www.nbcnews.com/video/shorts/houston-hosts-food-aid-supersite-with-snap-in-limbo-251131973674|houston hosts food aid supersite with snap in limbo us news|e70446988712b4a3c53b754dc75aa57d
+2025-11-01T23:57:34.038564+00:00|https://abcnews.go.com/International/trump-threatens-cut-off-aid-nigeria-military-action/story|trump threatens us military action in nigeria over claims of killing of christians us news|474d70b21b8bbfecdec9965c3c95962f
+2025-11-01T23:57:34.610914+00:00|https://www.nytimes.com/2025/11/01/world/africa/trump-nigeria-military.html|trump threatens military action in nigeria over protections for christians us news|f318afb2639b4d043601db4dcc3fafb2
