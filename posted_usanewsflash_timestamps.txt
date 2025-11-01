@@ -5773,3 +5773,5 @@
 2025-10-31T23:57:36.465846+00:00|https://www.nbcnews.com/nightly-news/video/-fbi-halloween-terror-attack-foiled-251097670000|fbi halloween terror attack foiled us news|79da6893c19da206c8da26126188387d
 2025-10-31T23:57:37.044408+00:00|https://www.nbcnews.com/nightly-news/video/federal-judge-rules-trump-administration-must-fund-snap-benefits-251100229993|federal judge rules trump administration must fund snap benefits us news|93588949c3a2d7d0305d1e434d9a8f00
 2025-10-31T23:57:37.603033+00:00|https://www.nbcnews.com/nightly-news/video/residents-plea-for-help-after-hurricane-melissa-is-hard-hit-town-of-black-river-251100741579|residents plea for help after hurricane melissa is hardhit town of black river us news|82c71ac5274af26da3fa01bc5710c00d
+2025-11-01T01:57:57.561259+00:00|https://www.nytimes.com/2025/10/31/us/politics/trump-lincoln-bathroom-white-house.html|trump renovates the lincoln bathroom in marble and gold us news|2e5e4954a04e6883e3cf38e5b4f7fb0d
+2025-11-01T01:57:58.286171+00:00|https://www.nytimes.com/2025/10/31/nyregion/new-york-city-halloween-photos.html|scenes from halloween in new york city us news|7bc28d057def18f7fda8ca1108aed494
