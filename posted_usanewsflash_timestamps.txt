@@ -5799,3 +5799,4 @@
 2025-11-01T18:30:04.377992+00:00|https://www.nytimes.com/2025/11/01/nyregion/muslim-voters-mamdani.html|muslim voters feel pride and fear for both mamdani and themselves us news|d7eaa96c1c7f9750d6476021f0da6731
 2025-11-01T18:30:05.152128+00:00|https://abcnews.go.com/International/2-formally-charged-louvre-jewel-robbery-3-released/story|2 more charged in louvre jewel heist 3 released from custody us news|a9c0e9bf3cdde910acebb63575ea1d97
 2025-11-01T18:30:05.903131+00:00|https://www.nbcnews.com/video/shorts/serbia-marks-first-anniversary-of-deadly-roof-collapse-251128389860|serbia marks first anniversary of deadly roof collapse us news|2e6ac2cf9fa403000fa5e6dfc67bd066
+2025-11-01T18:57:32.224256+00:00|https://www.nbcnews.com/video/shorts/president-trump-hosts-mar-a-lago-halloween-party-251127365864|president trump hosts maralago halloween party us news|f72708f937f39eb1e4ce23fde467c446
