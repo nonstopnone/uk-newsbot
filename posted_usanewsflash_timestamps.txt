@@ -5792,3 +5792,4 @@
 2025-11-01T12:44:08.240793+00:00|https://abcnews.go.com/US/2-adults-3-children-dead-new-jersey-house/story|2 adults 3 children dead in new jersey house fire us news|7c4a607b7c053db139628eefb79749af
 2025-11-01T12:44:09.790988+00:00|https://www.nytimes.com/2025/10/31/us/snap-food-stamps-aid.html|uncertainty persists for americans waiting for food benefits after snap ruling us news|3f547157e6b341b86d3dd7fdde67e19c
 2025-11-01T14:19:29.655376+00:00|https://www.today.com/video/hakeem-jeffries-on-government-shutdown-snap-benefits-more-251124805552|hakeem jeffries talks government shutdown on saturday today us news|b699aad9be391b8fbbd04e14dce66ff0
+2025-11-01T14:40:48.608891+00:00|https://www.bbc.com/news/articles/cy4007deg2qo|canadian pm carney apologises to trump over antitariff ad us news|e80dfd69f24e3f811030001f376c8544
