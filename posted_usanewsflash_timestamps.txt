@@ -5839,3 +5839,4 @@
 2025-11-02T22:41:01.696236+00:00|https://www.nytimes.com/live/2025/11/02/us/trump-news|energy secretary says nuclear tests wont involve explosions us news|8e06c434e05cd055c247fe28498541b1
 2025-11-02T23:20:26.672939+00:00|https://www.nytimes.com/2025/11/02/us/indiana-redistricting-terre-haute.html|indiana republican tries different approach in debate on voting maps listening us news|65e8b19367ed31adb33442cdb52fee65
 2025-11-02T23:39:35.148664+00:00|https://www.nbcnews.com/sports/nfl/nfl-kicker-68-yard-field-goal-record-jaguars-cam-little-rcna241468|an nfl kicker just hit a 68yard field goal yes you read that right us news|7ff7f25615eb6494946ee9f8caad5e2a
+2025-11-02T23:57:36.962239+00:00|https://abcnews.go.com/US/juveniles-9-people-hurt-shooting-airbnb-house-party/story|9 hurt when shooting erupts at birthday bash inside ohio airbnb rental police us news|1f60c367c12a5235515b658b70bb97e9
