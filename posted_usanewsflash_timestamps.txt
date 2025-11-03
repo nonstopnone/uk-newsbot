@@ -5846,3 +5846,4 @@
 2025-11-03T03:21:22.808074+00:00|https://www.nytimes.com/2025/11/02/nyregion/nyc-mayor-early-voting.html|nyc early voting ends with 735000 ballots cast as younger voters surge us news|f69fbd3dd8b919c6f9dec2e8f732b8b1
 2025-11-03T04:35:46.959191+00:00|https://www.nbcnews.com/video/trump-says-immigration-enforcement-raids-haven-t-gone-far-enough-251156037993|trump immigration enforcement raids havent gone far enough us news|3ea146f102fe5e5ccf23b3686d319f05
 2025-11-03T04:35:47.732391+00:00|https://www.nytimes.com/2025/11/02/us/politics/trump-nuclear-testing-explosions.html|new weapons testing ordered by trump wont include nuclear explosions wright says us news|98b108693e39e74e8518cb9a96296950
+2025-11-03T04:58:10.930584+00:00|https://www.bbc.com/news/articles/c709rwxzx9yo|trump says he doubts us will go to war with venezuela us news|c06fe6441bab495f6d5ddb3961991460
