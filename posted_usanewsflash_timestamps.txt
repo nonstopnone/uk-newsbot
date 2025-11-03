@@ -5866,3 +5866,6 @@
 2025-11-03T11:39:36.503042+00:00|https://www.nytimes.com/2025/11/03/us/politics/us-elections-democrats-trump.html|elections across the us will test democrats momentum ahead of 2026 midterms us news|aee6316291d24273c4bac02c95e96e56
 2025-11-03T11:39:37.067764+00:00|https://www.nytimes.com/2025/11/03/us/politics/supreme-court-trump-tariffs.html|supreme court confronts trump and his tariffs in test of presidential power us news|76dc9e3de66cf215f92ce0d36a497ad0
 2025-11-03T11:39:37.647672+00:00|https://www.nytimes.com/2025/11/03/us/politics/twisted-path-foreign-aid-court-case.html|the monthslong legal battle to save foreign aid us news|f34fe03b38abd89ae932464360568bfc
+2025-11-03T11:57:49.321886+00:00|https://www.bbc.com/news/articles/cev18jy21w7o|trump tells military to prepare for action against islamist militants in nigeria us news|ed6942ef2d2055ddcba61c95b309ed66
+2025-11-03T11:57:50.030254+00:00|https://www.nytimes.com/2025/11/03/upshot/medicaid-work-requirements-faq.html|how medicaids new work requirement will work us news|c9a4a6aef8e407875ee3b66dfc32c346
+2025-11-03T11:57:50.716356+00:00|https://www.nytimes.com/2025/11/03/health/medicaid-cuts-equifax-data.html|a big positive how one company plans to profit from medicaid cuts us news|09b21da4172f92a4d45f501f76708204
