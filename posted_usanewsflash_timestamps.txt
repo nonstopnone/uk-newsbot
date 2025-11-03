@@ -5902,3 +5902,5 @@
 2025-11-03T19:39:46.302013+00:00|https://www.nytimes.com/2025/11/03/nyregion/ny-prison-guards-inmate-video.html|a bloody prison beating was caught on video no guards were punished us news|ca8a258bf26a12b32fa83f2a4e8932cf
 2025-11-03T19:39:46.801339+00:00|https://www.nytimes.com/2025/11/03/nyregion/church-pantries-food-aid.html|houses of worship struggle to feed new yorkers during snap stalemate us news|3ac134c5f74172c5925e694e35b3adb1
 2025-11-03T19:57:29.698314+00:00|https://www.bbc.com/news/videos/c797xgpevdro|watch moment train collides with lorry carrying vehicles us news|630b3a4f5c2ebeda8691db2ef3ddb59c
+2025-11-03T20:27:22.030127+00:00|https://www.nbcnews.com/now/video/neighbors-helping-each-other-as-snap-benefits-dry-up-for-families-in-need-251214405976|neighbors helping each other as snap benefits dry up for families in need us news|bb712745d783b30ce2355ccd245f3be8
+2025-11-03T20:27:22.702366+00:00|https://www.nbcnews.com/business/media/jon-stewart-host-daily-show-december-2026-rcna241662|jon stewart to stay on as a host of the daily show through december 2026 us news|bdc7fe1b8c2b38de88d8678db1407eff
