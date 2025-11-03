@@ -5848,3 +5848,4 @@
 2025-11-03T04:35:47.732391+00:00|https://www.nytimes.com/2025/11/02/us/politics/trump-nuclear-testing-explosions.html|new weapons testing ordered by trump wont include nuclear explosions wright says us news|98b108693e39e74e8518cb9a96296950
 2025-11-03T04:58:10.930584+00:00|https://www.bbc.com/news/articles/c709rwxzx9yo|trump says he doubts us will go to war with venezuela us news|c06fe6441bab495f6d5ddb3961991460
 2025-11-03T05:25:14.812778+00:00|https://abcnews.go.com/US/judge-extends-block-national-guard-deployment-portland/story|judge extends block on national guard deployment into portland us news|07be8c4c678dbef5b6365a2e9ad3a9d3
+2025-11-03T06:59:36.347789+00:00|https://www.nytimes.com/2025/11/02/us/politics/trump-oregon-national-guard-deployment.html|judge extends block of trumps national guard deployment to portland us news|35fb2853a3a74de7a34b6894587efb05
