@@ -5849,3 +5849,5 @@
 2025-11-03T04:58:10.930584+00:00|https://www.bbc.com/news/articles/c709rwxzx9yo|trump says he doubts us will go to war with venezuela us news|c06fe6441bab495f6d5ddb3961991460
 2025-11-03T05:25:14.812778+00:00|https://abcnews.go.com/US/judge-extends-block-national-guard-deployment-portland/story|judge extends block on national guard deployment into portland us news|07be8c4c678dbef5b6365a2e9ad3a9d3
 2025-11-03T06:59:36.347789+00:00|https://www.nytimes.com/2025/11/02/us/politics/trump-oregon-national-guard-deployment.html|judge extends block of trumps national guard deployment to portland us news|35fb2853a3a74de7a34b6894587efb05
+2025-11-03T07:24:12.735696+00:00|https://www.bbc.com/news/articles/cy5qgy93w9go|china to ease chip export ban in new trade deal white house says us news|bc35c2e9e123bbcf3832da385d6f3352
+2025-11-03T07:24:13.418577+00:00|https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-search-continues-bodies-missing|israelgaza live updates remains of american israeli hostage among 3 bodies returned us news|ae0ee8bcb4b938da2fc42e86e47a8bad
