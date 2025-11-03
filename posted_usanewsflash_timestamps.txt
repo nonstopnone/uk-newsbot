@@ -5852,3 +5852,4 @@
 2025-11-03T07:24:12.735696+00:00|https://www.bbc.com/news/articles/cy5qgy93w9go|china to ease chip export ban in new trade deal white house says us news|bc35c2e9e123bbcf3832da385d6f3352
 2025-11-03T07:24:13.418577+00:00|https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-search-continues-bodies-missing|israelgaza live updates remains of american israeli hostage among 3 bodies returned us news|ae0ee8bcb4b938da2fc42e86e47a8bad
 2025-11-03T08:34:06.045956+00:00|https://www.bbc.com/news/articles/cn7ek63e5xyo|no idea who he is says trump after pardoning crypto tycoon us news|ebca0559716210f435103934eca38a58
+2025-11-03T08:53:07.258793+00:00|https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-3-hostage-bodies-returned|israelgaza live updates 3 more hostage bodies returned by hamas idf says us news|80b3a500f0be165248344c592097f7cf
