@@ -5844,3 +5844,5 @@
 2025-11-03T01:59:58.039567+00:00|https://www.nbcnews.com/sports/nfl/halfway-nfl-season-are-no-dominant-teams-rcna241457|halfway through the nfl season there are no dominant teams us news|62d9b8233111f1316e1a746d3ea3ec62
 2025-11-03T01:59:58.685429+00:00|https://www.nytimes.com/2025/11/02/us/explosion-harvard-damage.html|explosion at harvard building affected small section of hallway officials say us news|ce23ebd7b40ce8f8b68a7c45921aa93a
 2025-11-03T03:21:22.808074+00:00|https://www.nytimes.com/2025/11/02/nyregion/nyc-mayor-early-voting.html|nyc early voting ends with 735000 ballots cast as younger voters surge us news|f69fbd3dd8b919c6f9dec2e8f732b8b1
+2025-11-03T04:35:46.959191+00:00|https://www.nbcnews.com/video/trump-says-immigration-enforcement-raids-haven-t-gone-far-enough-251156037993|trump immigration enforcement raids havent gone far enough us news|3ea146f102fe5e5ccf23b3686d319f05
+2025-11-03T04:35:47.732391+00:00|https://www.nytimes.com/2025/11/02/us/politics/trump-nuclear-testing-explosions.html|new weapons testing ordered by trump wont include nuclear explosions wright says us news|98b108693e39e74e8518cb9a96296950
