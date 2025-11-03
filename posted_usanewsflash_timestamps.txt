@@ -5887,3 +5887,6 @@
 2025-11-03T16:49:28.177742+00:00|https://abcnews.go.com/Politics/affordability-takes-center-stage-new-jersey-virginia-governor/story|affordability takes center stage in new jersey virginia governor races us news|0b97e0e8fd6aca9ac3a6357dc1496bfa
 2025-11-03T16:49:28.765395+00:00|https://www.nytimes.com/2025/11/03/business/china-five-year-plan.html|china started separating its economy from the west years ago us news|bb4cf57b8c69ef1845e78edfec19f7f9
 2025-11-03T16:58:11.128082+00:00|https://www.bbc.com/news/articles/cglg632n719o|snap benefits in limbo as judges press trump administration to fund food aid us news|173c9b5a46637b82a8f77126c57a007a
+2025-11-03T17:22:13.871848+00:00|https://www.nytimes.com/2025/11/03/us/politics/jack-smith-trump-investigations.html|jack smith trumps target moves from defense to counterattack us news|c3f436465af27882640bd15111ca3744
+2025-11-03T17:22:14.617157+00:00|https://www.nytimes.com/2025/11/03/style/john-irving-queen-esther.html|john irving talks about queen esther trump and why he cant stop writing us news|50345e1b4c8113083d448e5b8e1aed7b
+2025-11-03T17:22:15.280993+00:00|https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html|how ai is transforming dating apps us news|06a83e2bcb4bbb84343f49b978051bfd
