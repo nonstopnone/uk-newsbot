@@ -5869,3 +5869,6 @@
 2025-11-03T11:57:49.321886+00:00|https://www.bbc.com/news/articles/cev18jy21w7o|trump tells military to prepare for action against islamist militants in nigeria us news|ed6942ef2d2055ddcba61c95b309ed66
 2025-11-03T11:57:50.030254+00:00|https://www.nytimes.com/2025/11/03/upshot/medicaid-work-requirements-faq.html|how medicaids new work requirement will work us news|c9a4a6aef8e407875ee3b66dfc32c346
 2025-11-03T11:57:50.716356+00:00|https://www.nytimes.com/2025/11/03/health/medicaid-cuts-equifax-data.html|a big positive how one company plans to profit from medicaid cuts us news|09b21da4172f92a4d45f501f76708204
+2025-11-03T12:52:13.784366+00:00|https://www.today.com/video/government-shutdown-nears-longest-in-history-as-fallout-grows-251173957948|trump administration faces deadline to comply with snap ruling us news|1d1ae5d2aa855527f713094e4053b7ca
+2025-11-03T12:52:14.290211+00:00|https://www.nytimes.com/2025/11/03/briefing/our-election-guide.html|our election guide us news|aba1999b2e5028fbf6fd044e104e8c9a
+2025-11-03T12:52:15.065658+00:00|https://abcnews.go.com/Politics/republicans-encourage-voters-cast-mail-ballots-despite-trumps/story|republicans encourage voters to cast mail ballots despite trumps attacks us news|c1315210828a689d6b7dd066635b8d88
