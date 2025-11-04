@@ -5922,3 +5922,8 @@
 2025-11-03T23:40:15.723840+00:00|https://www.nbcnews.com/video/shorts/illinois-gov-pritzker-reacts-to-partial-snap-funding-251237445548|illinois gov pritzker reacts to partial snap funding us news|efde8f0860f89256cd6f2353ee6a86d4
 2025-11-03T23:40:16.367584+00:00|https://www.nytimes.com/2025/11/03/us/politics/durango-colorado-ice-protester.html|ice altercation with protester in colorado prompts a police chief to push back us news|b90cfb0ef66ec481f7034711bd5232e3
 2025-11-03T23:57:23.812137+00:00|https://www.nytimes.com/2025/11/03/nyregion/rikers-floating-jail-towed-scrap.html|the boat despised floating jail near rikers heads for the scrap heap us news|fb8720e1022c89a1524d5acbf4034d48
+2025-11-04T01:55:20.198183+00:00|https://www.nbcnews.com/video/shorts/trump-endorses-cuomo-for-nyc-mayor-251240517593|trump endorses cuomo for nyc mayor us news|9aadc78c4c0bc87d59e337d7c4171f3d
+2025-11-04T01:55:20.847089+00:00|https://www.nytimes.com/2025/11/03/us/politics/trump-mamdani-tariffs-shutdown.html|trumps tariffs and push against limits face election and court tests us news|1b1f9db691f48150d24a99278be04f33
+2025-11-04T01:55:21.493268+00:00|https://www.nytimes.com/2025/11/03/us/politics/virginia-governor-trump.html|what the virginia governor election might portend for trump us news|ba49ea99426c89ad60b942e281fd0432
+2025-11-04T01:55:22.130233+00:00|https://www.nytimes.com/2025/11/03/business/listeria-outbreak-trader-joes-kroger.html|six dead in listeria outbreak linked to pasta us news|40644d45ccd8f59e10db6bba7173161c
+2025-11-04T01:55:22.765903+00:00|https://www.nytimes.com/2025/11/03/us/ontario-ice-agent-shooting.html|california man shot by ice was not trying to run over agent lawyers say us news|f6f316003c0db16e2ac5a01222f2ea6a
