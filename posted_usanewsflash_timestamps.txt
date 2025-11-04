@@ -5969,3 +5969,4 @@
 2025-11-04T17:57:45.684098+00:00|https://www.nbcnews.com/news/us-news/department-transportation-may-close-parts-airspace-government-shutdown-rcna241886|department of transportation may close parts of airspace if shutdown continues duffy says us news|07415a2316c17726b59790f8bb660667
 2025-11-04T17:57:46.476231+00:00|https://www.nytimes.com/2025/11/04/science/letters-to-the-editor-ai-chatbots.html|the editor got a letter from dr bs so did a lot of other editors us news|65a3d63697156d10509110c671a3c011
 2025-11-04T17:57:47.241724+00:00|https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html|chinas security state sells an ai dream us news|e4dc1c365a0e95b2332cf87d86aee97f
+2025-11-04T18:35:19.949226+00:00|https://abcnews.go.com/Politics/majority-california-voters-support-prop-50-poll-shows/story|majority of california likely voters say they support prop 50 poll shows us news|140d94b05685c0c9a85b18b179a79e92
