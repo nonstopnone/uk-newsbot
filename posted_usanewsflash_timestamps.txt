@@ -5954,3 +5954,5 @@
 2025-11-04T12:54:22.590906+00:00|https://www.bbc.com/news/articles/c511811gqr0o|dick cheney former us vicepresident who helped lead war on terror us news|9ae1420768dea68fc7aae7ea4ce08a37
 2025-11-04T12:54:23.487874+00:00|https://www.nytimes.com/2025/11/04/us/politics/supreme-court-tariffs-bessent.html|bessent plans to attend tariff arguments at the supreme court us news|303d3f3d23158d75872d40eb11c31999
 2025-11-04T12:54:24.172290+00:00|https://abcnews.go.com/Politics/lauren-boeberts-racially-charged-halloween-costume-sparks-backlash/story|lauren boeberts racially charged halloween costume sparks backlash us news|0abb109c7d66a61d9e0d0f11bf5aa479
+2025-11-04T14:25:55.398210+00:00|https://www.nytimes.com/2025/11/04/obituaries/dick-cheney-life-career-photos.html|dick cheney a life in pictures us news|18d1733668372f895dc9795f79e2a3bf
+2025-11-04T14:25:55.953291+00:00|https://www.nytimes.com/2025/11/04/science/archaeology-simpsonville-civil-war.html|in search of the simpsonville massacre us news|37fd9623d26b5f20c3c601be3914d051
