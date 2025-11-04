@@ -6007,3 +6007,4 @@
 2025-11-04T23:41:02.499596+00:00|https://www.nytimes.com/2025/11/04/briefing/election-day-trump-military-venezuela.html|americans vote us news|1fda09aaee8099a41d002ac3f2c896a6
 2025-11-04T23:41:03.119967+00:00|https://www.nbcnews.com/news/us-news/ups-plane-crash-louisville-airport-rcna241998|ups plane crashes after taking off at louisville airport us news|d43813c2459c2ca132238fed4406e5e5
 2025-11-04T23:41:03.816486+00:00|https://www.nbcnews.com/video/shorts/n-j-voters-share-what-issues-matter-most-to-them-251334213521|nj voters share what issues matter most to them us news|6527ca5dcd75f6bc1da6d70ecd8b2a05
+2025-11-04T23:57:42.853903+00:00|https://www.nytimes.com/2025/11/04/arts/design/sara-terry-dead.html|sara terry photographer who captured wars aftermath dies at 70 us news|42b81a7c832578299b58ba158f2d42ad
