@@ -5947,3 +5947,5 @@
 2025-11-04T11:22:20.403954+00:00|https://abcnews.go.com/Politics/majority-americans-tariffs-hurt-familys-financial-situation-spending/story|majority of americans say tariffs hurt their familys financial situation poll us news|f03789e612d6b3fbbbf9b3073ed7fa6c
 2025-11-04T11:22:20.981960+00:00|https://www.nytimes.com/2025/11/04/us/politics/sara-albrecht-liberty-justice-center-tariffs.html|she voted for trump three times now she is leading a fight against his tariffs us news|482a477a61dadb2c39a57f4bfa4a377d
 2025-11-04T11:22:21.564853+00:00|https://www.nytimes.com/2025/11/04/climate/typhoon-alaska-archaeology.html|a storm hit alaska now a native community is racing to save its history us news|ce3965c5d6b69b34d5ca3bdad75f3652
+2025-11-04T11:41:47.367693+00:00|https://www.nytimes.com/2025/11/04/us/politics/dick-cheney-dead.html|dick cheney powerful vice president and washington insider dies at 84 us news|9546e504aaa68944122a79d809a3abbc
+2025-11-04T11:41:47.805226+00:00|https://abcnews.go.com/Politics/former-vice-president-dick-cheney-dead-84/story|former vice president dick cheney dead at 84 us news|7b8bf0d6375c04985c5e8d7f64a205d2
