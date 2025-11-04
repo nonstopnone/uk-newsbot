@@ -5975,3 +5975,6 @@
 2025-11-04T18:52:17.802696+00:00|https://abcnews.go.com/US/2-men-arrested-explosion-harvard-medical-school-fbi/story|2 young men arrested in explosion at harvard medical school fbi us news|1b50ee48a848bfae242a2933eb01b3b0
 2025-11-04T19:19:54.354686+00:00|https://abcnews.go.com/US/live-updates/election-day-live-updates-key-races-unfold-new|election day live updates key races unfold in new york city new jersey and virginia us news|5af58ffd4a2e2eb91448974923e5a95f
 2025-11-04T19:19:54.998782+00:00|https://www.nytimes.com/2025/11/04/us/politics/trump-weighs-attacks-venezuela.html|trump weighs options and risks for attacks on venezuela us news|ae23e2dfebefc10fd6a13dc788bd9bb5
+2025-11-04T19:39:10.823481+00:00|https://www.nbcnews.com/now/video/two-men-arrested-in-connection-with-harvard-explosion-251309637813|two men arrested in connection with harvard explosion us news|e1b7ab8e587b4589e7a4c9f74132be95
+2025-11-04T19:39:11.487264+00:00|https://www.nytimes.com/2025/11/04/nyregion/the-dawn-of-a-new-mayor.html|the dawn of a new mayor us news|516bfc06d9670d070ad61721f5c81128
+2025-11-04T19:39:12.167834+00:00|https://www.nbcnews.com/video/shorts/parts-of-u-s-airspace-could-close-due-to-shutdown-251302981830|parts of us airspace could close due to shutdown us news|f98f1560f6c6128ce8c8870b4d5eb298
