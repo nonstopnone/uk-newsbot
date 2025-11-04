@@ -5978,3 +5978,4 @@
 2025-11-04T19:39:10.823481+00:00|https://www.nbcnews.com/now/video/two-men-arrested-in-connection-with-harvard-explosion-251309637813|two men arrested in connection with harvard explosion us news|e1b7ab8e587b4589e7a4c9f74132be95
 2025-11-04T19:39:11.487264+00:00|https://www.nytimes.com/2025/11/04/nyregion/the-dawn-of-a-new-mayor.html|the dawn of a new mayor us news|516bfc06d9670d070ad61721f5c81128
 2025-11-04T19:39:12.167834+00:00|https://www.nbcnews.com/video/shorts/parts-of-u-s-airspace-could-close-due-to-shutdown-251302981830|parts of us airspace could close due to shutdown us news|f98f1560f6c6128ce8c8870b4d5eb298
+2025-11-04T19:57:20.070219+00:00|https://www.nytimes.com/2025/11/04/world/africa/nigeria-rejects-trump-christian-killings.html|nigeria resists christian mass murder claims amid trump threats us news|569db930c6d16f577b71502f3d8987b8
