@@ -5958,3 +5958,4 @@
 2025-11-04T14:25:55.953291+00:00|https://www.nytimes.com/2025/11/04/science/archaeology-simpsonville-civil-war.html|in search of the simpsonville massacre us news|37fd9623d26b5f20c3c601be3914d051
 2025-11-04T15:27:07.720880+00:00|https://www.nytimes.com/2025/11/04/world/americas/mexico-mayor-carlos-manzo-drug-war.html|bold assassinations are grim reality check in mexicos cartel fight us news|80a8106d2420af1b615693c599f7ecf2
 2025-11-04T15:27:08.224705+00:00|https://abcnews.go.com/US/credible-bomb-threats-temporarily-halt-voting-northern-new/story|noncredible bomb threats temporarily halt voting in northern new jersey us news|e77b5c938a0963de956408816dde9399
+2025-11-04T15:44:28.860757+00:00|https://www.nbcnews.com/video/shorts/mamdani-casts-ballot-with-his-wife-in-new-york-251286597740|mamdani casts ballot with his wife in new york us news|fcf90545da9be452baa6865f4a7bee5d
