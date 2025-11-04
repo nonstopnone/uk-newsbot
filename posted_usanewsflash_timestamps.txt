@@ -5927,3 +5927,6 @@
 2025-11-04T01:55:21.493268+00:00|https://www.nytimes.com/2025/11/03/us/politics/virginia-governor-trump.html|what the virginia governor election might portend for trump us news|ba49ea99426c89ad60b942e281fd0432
 2025-11-04T01:55:22.130233+00:00|https://www.nytimes.com/2025/11/03/business/listeria-outbreak-trader-joes-kroger.html|six dead in listeria outbreak linked to pasta us news|40644d45ccd8f59e10db6bba7173161c
 2025-11-04T01:55:22.765903+00:00|https://www.nytimes.com/2025/11/03/us/ontario-ice-agent-shooting.html|california man shot by ice was not trying to run over agent lawyers say us news|f6f316003c0db16e2ac5a01222f2ea6a
+2025-11-04T03:13:47.038456+00:00|https://www.nytimes.com/2025/11/03/us/politics/trump-nuclear-tests-energy-secretary.html|trump doubles down on nuclear tests his energy secretary differs us news|570ba67e59a5a7ace83ccc42eb9cc9d9
+2025-11-04T03:13:47.897025+00:00|https://www.nbcnews.com/video/shorts/how-the-government-shutdown-impacts-the-u-s-economy-251248197799|how the government shutdown impacts the us economy us news|e4e6abd4b8d10b0a3e52a69818f5423d
+2025-11-04T03:13:48.791636+00:00|https://abcnews.go.com/US/faith-leaders-blocked-ice-delivering-communion-immigrants-speak/story|faith leaders blocked by ice from delivering communion to immigrants speak out us news|9bee132d1f61d65ca69b1c077a485b74
