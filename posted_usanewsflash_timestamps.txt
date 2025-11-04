@@ -5949,3 +5949,5 @@
 2025-11-04T11:22:21.564853+00:00|https://www.nytimes.com/2025/11/04/climate/typhoon-alaska-archaeology.html|a storm hit alaska now a native community is racing to save its history us news|ce3965c5d6b69b34d5ca3bdad75f3652
 2025-11-04T11:41:47.367693+00:00|https://www.nytimes.com/2025/11/04/us/politics/dick-cheney-dead.html|dick cheney powerful vice president and washington insider dies at 84 us news|9546e504aaa68944122a79d809a3abbc
 2025-11-04T11:41:47.805226+00:00|https://abcnews.go.com/Politics/former-vice-president-dick-cheney-dead-84/story|former vice president dick cheney dead at 84 us news|7b8bf0d6375c04985c5e8d7f64a205d2
+2025-11-04T11:57:30.605971+00:00|https://www.bbc.com/news/articles/cn7e2vgmxv8o|canadas mark carney promises bold first federal budget us news|ca3a294a28f1d4340c17ed91e346b8ae
+2025-11-04T11:57:31.324422+00:00|https://www.nbcnews.com/politics/white-house/former-president-dick-cheney-dies-84-rcna241784|former vice president dick cheney dies at 84 us news|d919670b6f51d57307b0fb9e86bf78ac
