@@ -5979,3 +5979,8 @@
 2025-11-04T19:39:11.487264+00:00|https://www.nytimes.com/2025/11/04/nyregion/the-dawn-of-a-new-mayor.html|the dawn of a new mayor us news|516bfc06d9670d070ad61721f5c81128
 2025-11-04T19:39:12.167834+00:00|https://www.nbcnews.com/video/shorts/parts-of-u-s-airspace-could-close-due-to-shutdown-251302981830|parts of us airspace could close due to shutdown us news|f98f1560f6c6128ce8c8870b4d5eb298
 2025-11-04T19:57:20.070219+00:00|https://www.nytimes.com/2025/11/04/world/africa/nigeria-rejects-trump-christian-killings.html|nigeria resists christian mass murder claims amid trump threats us news|569db930c6d16f577b71502f3d8987b8
+2025-11-04T20:27:50.108235+00:00|https://www.bbc.com/news/articles/c7v807v58glo|heart attacks and a hunting accident five times cheney became the story us news|d486283f8ecbdaaa6a7bc11955ccd89c
+2025-11-04T20:27:50.678315+00:00|https://www.bbc.com/news/articles/cjw96x30xddo|us fugitive nicholas rossi to serve at least 10 years in jail us news|041100e6482fa7024281d49552056175
+2025-11-04T20:27:51.233898+00:00|https://www.bbc.com/news/articles/clyzm1j6l76o|dick cheneys death a loss to the nation says george w bush us news|04ee2b6750d7f51049d5479e8587a435
+2025-11-04T20:27:51.815087+00:00|https://www.nbcnews.com/video/shorts/nyc-voters-on-why-they-support-cuomo-and-mamdani-251314245846|nyc voters on why they support cuomo and mamdani us news|ccf9b5c060e8909ec3d52460b3e1b1bd
+2025-11-04T20:27:52.393345+00:00|https://www.nbcnews.com/business/markets/stocks-crypto-gold-tumble-palantir-nvidia-rcna241913|stocks and crypto tumble after ceos raise concerns of a market pullback us news|561b329678dfc92b5f30ee202059567a
