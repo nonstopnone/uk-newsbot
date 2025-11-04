@@ -6002,3 +6002,8 @@
 2025-11-04T22:57:35.861815+00:00|https://www.nytimes.com/2025/11/04/us/oklahoma-sex-offender.html|fugitive who faked abduction is found 13 years later enrolled in ny college us news|3f8a99068dc02854bbdb299e4501c48d
 2025-11-04T23:22:12.578230+00:00|https://abcnews.go.com/Politics/democrat-sherrill-holds-edge-ciattarelli-new-jerseys-governors/story|polls suggest sherrill holds edge over ciattarelli as nj governors race tightens us news|4b81c504253355b7dd45c78d29ae3a65
 2025-11-04T23:22:13.284864+00:00|https://abcnews.go.com/US/plane-crash-reported-louisville-airport-shelter-place-issued/story|ups aircraft crashes near louisville airport shelterinplace issued officials us news|d893e1e3f62e36f631a8a36dedc6609a
+2025-11-04T23:41:01.440488+00:00|https://www.nbcnews.com/video/shorts/mamdani-responds-to-trump-s-endorsement-of-cuomo-251333189643|mamdani responds to trumps endorsement of cuomo us news|605a5d76aa4292ba75884858ea7e377a
+2025-11-04T23:41:01.937669+00:00|https://www.nytimes.com/2025/11/04/us/politics/trump-dick-cheney.html|how cheneys presidential power push paved the way for trump to go further us news|be84ff05d03d328a9f17a4d307ea7921
+2025-11-04T23:41:02.499596+00:00|https://www.nytimes.com/2025/11/04/briefing/election-day-trump-military-venezuela.html|americans vote us news|1fda09aaee8099a41d002ac3f2c896a6
+2025-11-04T23:41:03.119967+00:00|https://www.nbcnews.com/news/us-news/ups-plane-crash-louisville-airport-rcna241998|ups plane crashes after taking off at louisville airport us news|d43813c2459c2ca132238fed4406e5e5
+2025-11-04T23:41:03.816486+00:00|https://www.nbcnews.com/video/shorts/n-j-voters-share-what-issues-matter-most-to-them-251334213521|nj voters share what issues matter most to them us news|6527ca5dcd75f6bc1da6d70ecd8b2a05
