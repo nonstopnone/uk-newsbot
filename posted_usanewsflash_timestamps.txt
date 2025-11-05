@@ -6032,3 +6032,6 @@
 2025-11-05T05:43:38.234035+00:00|https://www.nytimes.com/2025/11/05/us/politics/democratic-party-mamdani.html|the democrats just took a big step toward getting their groove back us news|6f948158bbbdb331899f18df8d7948e4
 2025-11-05T06:36:38.379434+00:00|https://www.nbcnews.com/politics/elections/zohran-mamdani-trump-speech-rcna242039|mamdani vows new york will lead opposition to trump in a fiery speech us news|344b80e301376d09c758fe1fdc8b35c2
 2025-11-05T06:36:38.881783+00:00|https://www.nbcnews.com/video/shorts/what-s-next-in-the-redistricting-fight-251368517773|whats next in the redistricting fight us news|6eeac5b5631ca7c26a0578e9fa5ab6d4
+2025-11-05T06:58:41.614708+00:00|https://www.bbc.com/news/articles/cly4kr8gzr2o|mamdani seals remarkable victory but real challenges await us news|5114200be9093a1c2f096a200b1f320f
+2025-11-05T06:58:42.146603+00:00|https://www.nbcnews.com/politics/politics-news/democrats-sweep-first-major-elections-trumps-second-term-politics-desk-rcna242043|democrats sweep the nights biggest elections from the politics desk us news|3de777a74f0a2a68ba3227159889e9f8
+2025-11-05T06:58:42.675428+00:00|https://www.nytimes.com/2025/11/05/us/muslim-new-yorkers-mamdani.html|new york muslims exult in mamdanis victory now this is our time us news|dc8da41b06504836ef356dd82f4434e8
