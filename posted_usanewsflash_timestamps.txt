@@ -6030,3 +6030,5 @@
 2025-11-05T05:25:23.422575+00:00|https://abcnews.go.com/Politics/mayor-elect-zohran-mamdani-set-address-new-york/story|led by an immigrant nyc mayorelect mamdani calls out trump in victory speech us news|c2db160304ddd6b2a6a8c3c0d11443f2
 2025-11-05T05:25:23.977152+00:00|https://abcnews.go.com/Politics/government-shutdown-longest-history/story|government shutdown becomes longest in history how we got here and whats next us news|ee8e900cfbca7bdb71d4087f2290dbd0
 2025-11-05T05:43:38.234035+00:00|https://www.nytimes.com/2025/11/05/us/politics/democratic-party-mamdani.html|the democrats just took a big step toward getting their groove back us news|6f948158bbbdb331899f18df8d7948e4
+2025-11-05T06:36:38.379434+00:00|https://www.nbcnews.com/politics/elections/zohran-mamdani-trump-speech-rcna242039|mamdani vows new york will lead opposition to trump in a fiery speech us news|344b80e301376d09c758fe1fdc8b35c2
+2025-11-05T06:36:38.881783+00:00|https://www.nbcnews.com/video/shorts/what-s-next-in-the-redistricting-fight-251368517773|whats next in the redistricting fight us news|6eeac5b5631ca7c26a0578e9fa5ab6d4
