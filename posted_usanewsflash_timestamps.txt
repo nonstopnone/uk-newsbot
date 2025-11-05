@@ -6039,3 +6039,7 @@
 2025-11-05T08:53:12.503073+00:00|https://www.bbc.com/news/articles/ce9dyyydjr0o|at least seven people killed after ups cargo plane crashes in kentucky us news|6d2dedcc2bb96827d596849bd97f6d00
 2025-11-05T09:45:32.628292+00:00|https://www.nbcnews.com/video/at-least-seven-dead-after-ups-plane-crashes-during-takeoff-251374149629|at least seven dead after ups plane crashes during takeoff us news|6063222f5ecaeb1e56547fef5bf07e03
 2025-11-05T09:45:33.191715+00:00|https://www.nbcnews.com/world/ukraine/pokrovsk-ukraine-special-forces-russia-putin-donetsk-war-rcna241539|surrender to save yourselves russia urges ukrainian troops squeezed in key city us news|ab446091a49b2ff16e0a33abb3e28677
+2025-11-05T10:27:48.836892+00:00|https://www.bbc.com/news/articles/ce86gneqvz1o|how deadly kentucky cargo plane crash unfolded us news|0c2b7e0b6ed9aeab45b030a9c0b35834
+2025-11-05T10:27:49.418923+00:00|https://www.bbc.com/news/articles/cx2n04e88d8o|us courts stay deportation of indianorigin man wrongly jailed for 43 years us news|3771afaaad00ad0b2b33c0b905976064
+2025-11-05T10:27:49.996157+00:00|https://abcnews.go.com/Politics/zohran-mamdani-makes-history-strikes-chord-muslims-south/story|zohran mamdani makes history and strikes a chord among muslims south asians us news|ea7933f5798f5ce906dded2507ad2236
+2025-11-05T10:27:50.688650+00:00|https://abcnews.go.com/Business/trump-tariffs-supreme-court-case-economy/story|what the trump tariffs supreme court case could mean for the economy us news|74f9fa02a885b0b268c0be88894fd33c
