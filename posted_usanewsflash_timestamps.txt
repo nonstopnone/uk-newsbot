@@ -6101,3 +6101,6 @@
 2025-11-05T22:23:22.591402+00:00|https://abcnews.go.com/US/flight-capacity-reduced-10-40-major-airports-faa/story|flight capacity will be reduced by 10 at 40 major airports faa us news|1c3449b387f540a26e8fd6320b31b8aa
 2025-11-05T22:23:23.242651+00:00|https://www.nbcnews.com/news/us-news/flight-reduction-shutdown-faa-rcna242231|the faa is set to start cutting flights to contend with delays and staffing shortages us news|acf214bc3a41ba6b88e425dabcc51a5f
 2025-11-05T22:42:50.035709+00:00|https://www.nbcnews.com/video/shorts/steve-kornacki-where-voter-turnout-set-records-251417669671|steve kornacki where voter turnout set records us news|3ef4d8dc1c1d0be9d5952c9496fe3a93
+2025-11-05T23:41:21.140266+00:00|https://www.bbc.com/news/articles/ckgky7djx5eo|how kentucky ups plane crash unfolded and what could have caused it us news|8790b867f8453c5e8655475e78093a27
+2025-11-05T23:41:21.736091+00:00|https://www.nytimes.com/2025/11/05/briefing/supreme-court-trump-tariffs-family-spice.html|the supreme court casts a skeptical eye on trumps tariffs us news|49a625c9a25e4302aa8cd2feeab0eda3
+2025-11-05T23:41:22.296409+00:00|https://www.nbcnews.com/video/transportation-secretary-10-percent-of-airspace-will-close-if-shutdown-continues-251417157729|transportation secretary 10 percent of airspace will close if shutdown continues us news|65355491bb0686c925db5bf081b22d80
