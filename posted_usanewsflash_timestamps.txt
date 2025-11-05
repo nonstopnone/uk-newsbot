@@ -6095,3 +6095,8 @@
 2025-11-05T21:38:59.572866+00:00|https://www.bbc.com/news/articles/c1lq751964mo|pope leo offers his strongest criticism of trump yet us news|fe710edc11f98f9babb97a184b246d36
 2025-11-05T21:39:00.335337+00:00|https://abcnews.go.com/GMA/News/zohran-mamdanis-wife-rama-duwaji-new-york-citys/story|what to know about zohran mamdanis wife rama duwaji us news|d8b31af55b71d08d4a803e80ea2d5751
 2025-11-05T21:39:00.882142+00:00|https://abcnews.go.com/Business/economy-flipped-red-blue-issue-exit-polls/story|how the economy flipped from a red to blue issue according to exit polls us news|7f205820753f95edaeb9267bf39ac20f
+2025-11-05T22:23:20.791671+00:00|https://www.bbc.com/news/articles/c2kp8dex14xo|us to cut flights starting friday if shutdown doesnt end transportation secretary warns us news|790e0bb1f0a682e8448f6bb62725ff00
+2025-11-05T22:23:21.414337+00:00|https://www.nytimes.com/2025/11/05/us/politics/supreme-court-tariff-takeaways.html|five key takeaways from the supreme court tariff argument us news|fe7455b31a52a35f2ba219bd3530d3c3
+2025-11-05T22:23:21.968682+00:00|https://www.nytimes.com/2025/11/05/us/trump-shutdown-republicans-election-day.html|trump blames shutdown for republican losses on election day us news|0360fcb7d512188336a22be5c3b23cd1
+2025-11-05T22:23:22.591402+00:00|https://abcnews.go.com/US/flight-capacity-reduced-10-40-major-airports-faa/story|flight capacity will be reduced by 10 at 40 major airports faa us news|1c3449b387f540a26e8fd6320b31b8aa
+2025-11-05T22:23:23.242651+00:00|https://www.nbcnews.com/news/us-news/flight-reduction-shutdown-faa-rcna242231|the faa is set to start cutting flights to contend with delays and staffing shortages us news|acf214bc3a41ba6b88e425dabcc51a5f
