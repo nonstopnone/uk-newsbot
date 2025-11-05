@@ -6043,3 +6043,7 @@
 2025-11-05T10:27:49.418923+00:00|https://www.bbc.com/news/articles/cx2n04e88d8o|us courts stay deportation of indianorigin man wrongly jailed for 43 years us news|3771afaaad00ad0b2b33c0b905976064
 2025-11-05T10:27:49.996157+00:00|https://abcnews.go.com/Politics/zohran-mamdani-makes-history-strikes-chord-muslims-south/story|zohran mamdani makes history and strikes a chord among muslims south asians us news|ea7933f5798f5ce906dded2507ad2236
 2025-11-05T10:27:50.688650+00:00|https://abcnews.go.com/Business/trump-tariffs-supreme-court-case-economy/story|what the trump tariffs supreme court case could mean for the economy us news|74f9fa02a885b0b268c0be88894fd33c
+2025-11-05T10:47:10.747206+00:00|https://www.bbc.com/news/articles/cx2lg3z3z4zo|rama duwaji who is the wife of nycs mayorelect zohran mamdani us news|33fffe817e5a0852efbe1f0e6ca785d5
+2025-11-05T10:47:11.543995+00:00|https://www.nbcnews.com/politics/supreme-court/trump-tariffs-supreme-court-arguments-rcna241615|trump tariffs showdown reaches the supreme court us news|57e4eb7cd9347f4a7dda363e188a115f
+2025-11-05T10:47:12.225309+00:00|https://www.nbcnews.com/politics/supreme-court/trump-tariffs-supreme-court-arguments-rcna241615|trump tariffs showdown reaches the supreme court us news|57e4eb7cd9347f4a7dda363e188a115f
+2025-11-05T10:47:12.885155+00:00|https://www.nbcnews.com/business/economy/supreme-court-trump-tariff-arguments-economy-rcna241912|whats at stake for the economy as the supreme court weighs trumps tariffs us news|709122f509b2d11bbe77bb06ac187f3e
