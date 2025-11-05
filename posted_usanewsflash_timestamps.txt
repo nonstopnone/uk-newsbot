@@ -6086,3 +6086,5 @@
 2025-11-05T19:57:47.695434+00:00|https://www.nytimes.com/video/us/politics/100000010491315/where-things-stand-with-snap-benefits.html|where things stand with snap benefits us news|d8cbfa3d97364fccd9ed3432f8b6f380
 2025-11-05T19:57:48.246772+00:00|https://www.nytimes.com/2025/11/05/us/politics/judge-trump-prosecutor-comey.html|judge berates justice dept in its prosecution of comey us news|0edeca892bf4bc44722ee30933648051
 2025-11-05T20:28:00.424624+00:00|https://www.nytimes.com/2025/11/05/nyregion/nyc-criminal-identity-names.html|hes been charged with dozens of crimes nobody knows his name us news|ff112b9d3a1fd83ba2ff5f5682c03407
+2025-11-05T20:57:34.169670+00:00|https://abcnews.go.com/Politics/video/trump-after-mamdani-day-after-nyc-mayoral-election-127232598|watch trump goes after mamdani a day after nyc mayoral election us news|c6761cf60f8e86caaf712e2c15c85b57
+2025-11-05T20:57:34.897364+00:00|https://www.nbcnews.com/politics/donald-trump/trump-touts-economic-agenda-gop-election-losses-rcna242161|golden age trump touts his economic agenda a day after heavy gop election losses us news|9695d002a10b2dd160044acc821c01b8
