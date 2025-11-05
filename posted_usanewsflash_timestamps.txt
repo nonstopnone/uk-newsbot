@@ -6100,3 +6100,4 @@
 2025-11-05T22:23:21.968682+00:00|https://www.nytimes.com/2025/11/05/us/trump-shutdown-republicans-election-day.html|trump blames shutdown for republican losses on election day us news|0360fcb7d512188336a22be5c3b23cd1
 2025-11-05T22:23:22.591402+00:00|https://abcnews.go.com/US/flight-capacity-reduced-10-40-major-airports-faa/story|flight capacity will be reduced by 10 at 40 major airports faa us news|1c3449b387f540a26e8fd6320b31b8aa
 2025-11-05T22:23:23.242651+00:00|https://www.nbcnews.com/news/us-news/flight-reduction-shutdown-faa-rcna242231|the faa is set to start cutting flights to contend with delays and staffing shortages us news|acf214bc3a41ba6b88e425dabcc51a5f
+2025-11-05T22:42:50.035709+00:00|https://www.nbcnews.com/video/shorts/steve-kornacki-where-voter-turnout-set-records-251417669671|steve kornacki where voter turnout set records us news|3ef4d8dc1c1d0be9d5952c9496fe3a93
