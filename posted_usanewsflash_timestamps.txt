@@ -6092,3 +6092,6 @@
 2025-11-05T21:22:53.293675+00:00|https://www.nytimes.com/2025/11/05/us/politics/trump-south-sudan-migrants.html|trump administration ends deportation protections for south sudanese us news|a3f13c4ecedbbcd6ec4274dc41703a5b
 2025-11-05T21:22:53.794364+00:00|https://www.nytimes.com/2025/11/05/nyregion/ny-prison-beating-lawmaker.html|lawmaker demands accountability in bloody prison beating caught on video us news|28f2c21f87112e132ea35bff04a6d192
 2025-11-05T21:22:54.329555+00:00|https://www.nbcnews.com/video/shorts/philadelphia-restaurants-hit-with-fake-one-star-reviews-251414085678|philadelphia restaurants hit with fake onestar reviews us news|a9df35188a7a83cbb92e54330f9a4948
+2025-11-05T21:38:59.572866+00:00|https://www.bbc.com/news/articles/c1lq751964mo|pope leo offers his strongest criticism of trump yet us news|fe710edc11f98f9babb97a184b246d36
+2025-11-05T21:39:00.335337+00:00|https://abcnews.go.com/GMA/News/zohran-mamdanis-wife-rama-duwaji-new-york-citys/story|what to know about zohran mamdanis wife rama duwaji us news|d8b31af55b71d08d4a803e80ea2d5751
+2025-11-05T21:39:00.882142+00:00|https://abcnews.go.com/Business/economy-flipped-red-blue-issue-exit-polls/story|how the economy flipped from a red to blue issue according to exit polls us news|7f205820753f95edaeb9267bf39ac20f
