@@ -6127,3 +6127,8 @@
 2025-11-06T09:44:44.852226+00:00|https://www.bbc.com/news/articles/cgqlzkdeeqjo|are christians being persecuted in nigeria as trump claims us news|a636731438711fd9939af3ac70550d83
 2025-11-06T10:27:50.201422+00:00|https://abcnews.go.com/Health/snap-recipients-choose-rent-food-amid-halt-benefits/story|some snap recipients have to choose between rent and food amid halt in benefits us news|bf4ddc746896124ff6e552cc1fe3b153
 2025-11-06T10:27:50.870601+00:00|https://www.nbcnews.com/business/real-estate/social-media-apartment-rental-scam-rcna241814|scammers use real apartments and impersonating agents to con prospective renters us news|f96cfc6194efbe138ce60c4567ce5cae
+2025-11-06T11:21:43.285206+00:00|https://www.nytimes.com/2025/11/06/upshot/election-turnout-trump-hispanics.html|democrats won big because they won over trump supporters us news|e25253d961c6472a5a9bdb33a546c0d0
+2025-11-06T11:21:43.829960+00:00|https://www.nytimes.com/2025/11/06/us/politics/supreme-court-trump-tariffs.html|a skeptical supreme court puts trumps tariffs and economic agenda in question us news|cc138abcf2f9989bbae9f7a6b3e1ee8c
+2025-11-06T11:21:44.549317+00:00|https://www.nytimes.com/2025/11/06/us/politics/nick-fuentes-trump.html|nick fuentess rise puts maga movement in a time of choosing us news|696412e6a4d7eb2e118e986a2e8adce3
+2025-11-06T11:21:45.049318+00:00|https://www.nytimes.com/2025/11/06/nyregion/schumer-mamdani-democrats-new-york.html|as mamdani surges ahead schumer risks finding himself left behind us news|129cf1d22dbda4e80b71f1c353cf485c
+2025-11-06T11:21:45.601044+00:00|https://www.nytimes.com/2025/11/06/world/europe/ukraine-war-pokrovsk-frontline.html|russia close to its biggest capture of a ukrainian city since 2023 us news|cdf6983879657ebbb61cd5ce3c0c7ec1
