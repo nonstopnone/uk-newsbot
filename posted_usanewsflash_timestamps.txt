@@ -6170,3 +6170,5 @@
 2025-11-06T19:39:50.494253+00:00|https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142|jury acquits dc sandwich guy charged with chucking a sub at a federal agent us news|dcf9292ce321cb0ad709dcf96f55e2f2
 2025-11-06T19:39:51.165283+00:00|https://www.nytimes.com/2025/11/06/us/ups-plane-crash-louisville-wreckage-investigation.html|investigators sift through plane crash wreckage in louisville us news|7ed04f21cd5c543c19fefeded60ed680
 2025-11-06T19:39:52.024838+00:00|https://www.nbcnews.com/video/shorts/dallas-cowboys-marshawn-kneeland-found-dead-251485765619|dallas cowboys marshawn kneeland found dead us news|195c437e661109bb63a78b2665a46b27
+2025-11-06T19:57:25.477481+00:00|https://abcnews.go.com/US/dc-sandwich-throwers-misdemeanor-assault-case-nears-closing/story|dc sandwich thrower found not guilty in misdemeanor assault case us news|18cd9aa7c9ab8b4b4c104b149042e92e
+2025-11-06T19:57:26.061570+00:00|https://www.nbcnews.com/video/shorts/boston-expo-showcases-latest-in-robotics-251488325550|boston expo showcases latest in robotics us news|29dd0e4ce9e0a8823898f84e73ad9f35
