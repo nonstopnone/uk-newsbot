@@ -6190,3 +6190,5 @@
 2025-11-06T22:23:11.559060+00:00|https://www.nytimes.com/2025/11/06/us/nancy-pelosi-retirement-replacement.html|who will replace nancy pelosi in congress us news|9b7d9bed69c543a662dde26d84fca55b
 2025-11-06T22:23:12.114532+00:00|https://www.nbcnews.com/video/shorts/dallas-cowboys-honor-marshawn-kneeland-251495493890|dallas cowboys honor marshawn kneeland us news|c8db4ed453e171823818be620256e388
 2025-11-06T22:23:12.686902+00:00|https://www.nytimes.com/2025/11/06/health/trump-obesity-drug-prices-explainer.html|what trumps new drug pricing deal means for people with obesity us news|79428b073c88380320c4931a822be364
+2025-11-06T22:42:56.004824+00:00|https://www.nytimes.com/2025/11/06/nyregion/stefanik-governor.html|stefanik to launch campaign to challenge gov hochul in new york us news|a90e9002c62dd5fa6a769241f41602a7
+2025-11-06T22:42:56.503699+00:00|https://www.nytimes.com/2025/11/06/us/politics/trump-muriel-bowser-qatar-investigation.html|justice dept is said to be investigating dc mayor over foreign trip us news|3784326150af992808a81ae3fe0d35b6
