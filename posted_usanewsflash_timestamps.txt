@@ -6148,3 +6148,4 @@
 2025-11-06T15:45:40.934072+00:00|https://abcnews.go.com/Sports/cowboys-defensive-end-marshawn-kneeland-dies-24/story|cowboys defensive end marshawn kneeland dies at 24 us news|3d52fcb82d8cdccc906c53f6fecb7688
 2025-11-06T15:45:41.494348+00:00|https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html|how ai and social media contribute to brain rot us news|1b1a3dba5bd2124d4872e69442d3a58d
 2025-11-06T15:45:42.175433+00:00|https://www.nytimes.com/2025/11/06/world/middleeast/hamas-militants-trapped-gaza-israel.html|scores of palestinian militants still in israelicontrolled parts of gaza officials say us news|987d7c1455ff45a992fdef43aee91ced
+2025-11-06T16:33:10.633845+00:00|https://abcnews.go.com/International/vietnam-braces-typhoon-kalmaegi-after-storms-deadly-path/story|deadly typhoon kalmaegi makes landfall in vietnam us news|93dbf32793db02c473ebc197a63ddfe9
