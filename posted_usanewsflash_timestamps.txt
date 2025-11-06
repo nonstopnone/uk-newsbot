@@ -6139,3 +6139,7 @@
 2025-11-06T13:49:29.652013+00:00|https://www.nytimes.com/2025/11/06/business/dealbook/supreme-court-trump-tariff.html|what a rough day in court means for trumps tariffs us news|ed795a2b21ea3226aef0e978bc70084a
 2025-11-06T13:57:22.841286+00:00|https://www.bbc.com/news/articles/cy0kdvlwl9jo|trump wants south africa out of the g20 as it gears up for world summit us news|f87a19f8d1c8e102f1fb5da62df35c13
 2025-11-06T13:57:23.549559+00:00|https://www.nytimes.com/2025/11/06/briefing/a-fight-over-maps.html|a fight over maps us news|fe02ca4944b60a56c4fe9906913d82ce
+2025-11-06T14:25:34.759648+00:00|https://www.bbc.com/news/articles/ce3xw3dw0zxo|nancy pelosi announces retirement after decades in us congress us news|4324e8cbd2591532b3bdd3e57a095493
+2025-11-06T14:25:35.233873+00:00|https://www.nbcnews.com/now/video/nancy-pelosi-announces-she-wont-seek-re-election-to-congress-251459653575|nancy pelosi announces she wont seek reelection in 2026 us news|c95a604dd9efc950c6d57883a45d2dc6
+2025-11-06T14:25:35.710645+00:00|https://www.nytimes.com/2025/11/06/us/politics/nancy-pelosi-house-retire.html|former house speaker nancy pelosi will retire from congress us news|1cce84cc1dc9a5f56b8f43293e04d2fc
+2025-11-06T14:25:36.215039+00:00|https://abcnews.go.com/Politics/nancy-pelosi-woman-house-speaker-announces-retirement/story|nancy pelosi first woman to be house speaker announces retirement us news|aa208a550b53a92ece679a6c16b58a6c
