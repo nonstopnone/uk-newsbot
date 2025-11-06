@@ -6174,3 +6174,5 @@
 2025-11-06T19:57:26.061570+00:00|https://www.nbcnews.com/video/shorts/boston-expo-showcases-latest-in-robotics-251488325550|boston expo showcases latest in robotics us news|29dd0e4ce9e0a8823898f84e73ad9f35
 2025-11-06T20:27:17.053896+00:00|https://www.bbc.com/news/articles/c5ypvv8n1jvo|man who threw sandwich at us border agent not guilty of assault us news|0fc4bc2fa149cf8edf99b67b902408eb
 2025-11-06T20:27:17.785442+00:00|https://www.nytimes.com/2025/11/06/climate/trump-climate-international-bullying.html|trump officials accused of bullying tactics to kill a climate measure us news|7d8e74fc4b0284ca06a8de0b10e72ee2
+2025-11-06T20:43:52.188164+00:00|https://www.nytimes.com/2025/11/06/us/politics/trump-tariffs-revenue-supreme-court.html|trump team now claims its trillions in tariff revenue are incidental us news|253098e5518f64fc9dab16b2a0389e9d
+2025-11-06T20:43:52.727006+00:00|https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-enforce-passport-restrictions-targeting-tra-rcna235999|supreme court allows trump to enforce passport restrictions targeting transgender people us news|37007d78dcc9265c3d0869944adf348e
