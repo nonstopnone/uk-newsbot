@@ -6192,3 +6192,4 @@
 2025-11-06T22:23:12.686902+00:00|https://www.nytimes.com/2025/11/06/health/trump-obesity-drug-prices-explainer.html|what trumps new drug pricing deal means for people with obesity us news|79428b073c88380320c4931a822be364
 2025-11-06T22:42:56.004824+00:00|https://www.nytimes.com/2025/11/06/nyregion/stefanik-governor.html|stefanik to launch campaign to challenge gov hochul in new york us news|a90e9002c62dd5fa6a769241f41602a7
 2025-11-06T22:42:56.503699+00:00|https://www.nytimes.com/2025/11/06/us/politics/trump-muriel-bowser-qatar-investigation.html|justice dept is said to be investigating dc mayor over foreign trip us news|3784326150af992808a81ae3fe0d35b6
+2025-11-06T22:57:56.313094+00:00|https://www.nbcnews.com/video/federal-judge-orders-administration-to-fully-fund-november-snap-benefits-251497541887|federal judge orders trump administration to fully fund november snap benefits us news|26641245ee2c421238c2a078f6df12e2
