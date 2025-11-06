@@ -6145,3 +6145,6 @@
 2025-11-06T14:25:36.215039+00:00|https://abcnews.go.com/Politics/nancy-pelosi-woman-house-speaker-announces-retirement/story|nancy pelosi first woman to be house speaker announces retirement us news|aa208a550b53a92ece679a6c16b58a6c
 2025-11-06T15:27:34.667199+00:00|https://www.nbcnews.com/news/obituaries/dallas-cowboys-marshawn-kneeland-dies-rcna242340|dallas cowboys player marshawn kneeland dies at 24 us news|bfef9a9b075365f7074df02bbf3bfa81
 2025-11-06T15:27:35.189093+00:00|https://www.nbcnews.com/video/shorts/fire-erupts-at-miami-heat-coach-erik-spoelstra-s-home-251460677834|fire erupts at miami heat coach erik spoelstras home us news|9fcad47d2c9e6fdaec66b6a125e46404
+2025-11-06T15:45:40.934072+00:00|https://abcnews.go.com/Sports/cowboys-defensive-end-marshawn-kneeland-dies-24/story|cowboys defensive end marshawn kneeland dies at 24 us news|3d52fcb82d8cdccc906c53f6fecb7688
+2025-11-06T15:45:41.494348+00:00|https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html|how ai and social media contribute to brain rot us news|1b1a3dba5bd2124d4872e69442d3a58d
+2025-11-06T15:45:42.175433+00:00|https://www.nytimes.com/2025/11/06/world/middleeast/hamas-militants-trapped-gaza-israel.html|scores of palestinian militants still in israelicontrolled parts of gaza officials say us news|987d7c1455ff45a992fdef43aee91ced
