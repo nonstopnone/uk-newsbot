@@ -6247,3 +6247,6 @@
 2025-11-07T21:39:29.418196+00:00|https://www.nytimes.com/2025/11/07/us/farmers-almanac-shutting-down.html|the farmers almanac succumbs to the digital age us news|23b1fa406d233becfa43a239905157e5
 2025-11-07T22:22:05.394488+00:00|https://www.bbc.com/news/articles/c62046qyv66o|conservatives accuse canadas carney of being undemocratic as mp resigns us news|7688d83b112f8dc3f2495cb7b3e492eb
 2025-11-07T22:22:06.218037+00:00|https://www.nbcnews.com/video/shorts/trump-threatens-colombia-amid-war-on-drug-cartels-251568197560|trump threatens colombia amid war on drug cartels us news|5f3fe90a2dbf4252173e0eb9824a906e
+2025-11-07T22:42:28.814648+00:00|https://www.nytimes.com/2025/11/07/travel/supreme-court-transgender-passport-policy.html|what to know about trumps transgender passport policy after supreme court ruling us news|c04fb6b5f0c5dfd7d3332a4ca61a0ba0
+2025-11-07T22:42:29.467376+00:00|https://www.nytimes.com/2025/11/07/us/politics/central-asia-leaders-trump.html|in cozying up to trump leaders hedge their reliance on moscow and beijing us news|0cb734a74bfb03b5d3acad0677c10a90
+2025-11-07T22:42:30.096168+00:00|https://www.nbcnews.com/video/shorts/unpaid-federal-workers-attend-food-drive-amid-shutdown-251573829975|unpaid federal workers attend food drive amid shutdown us news|a2a97aadd6f3b776929525399f698f1f
