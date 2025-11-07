@@ -6229,3 +6229,5 @@
 2025-11-07T17:42:15.643935+00:00|https://abcnews.go.com/Politics/trump-meet-hungarys-viktor-orban-white-house/story|trump meets with hungarys viktor orban at white house us news|3844d95accc44e373a9f39e0ef5b2ac1
 2025-11-07T17:42:16.259851+00:00|https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html|ai abuse is reinventing the law us news|95b2b7a19d0d0d8ce258ba87017d521e
 2025-11-07T17:57:27.839389+00:00|https://www.nbcnews.com/news/us-news/cornell-reaches-60-million-deal-trump-administration-restore-funding-rcna222632|cornell reaches $60 million deal with trump administration to restore funding us news|c39a1144e9c1fc01c3ed7f575b50e951
+2025-11-07T18:34:00.712316+00:00|https://www.bbc.com/news/videos/cy8v1924669o|watch this is not good airline travellers react to flight reductions us news|c6ff11bf15a7d0799e86cc6b9e091239
+2025-11-07T18:34:01.328518+00:00|https://www.nbcnews.com/now/video/passengers-experience-rough-travels-amid-faa-flight-disruptions-251552325676|its been awful passengers experience rough travels amid faa flight disruptions us news|98089d2f4acb8ee6a012c1a74e639e0d
