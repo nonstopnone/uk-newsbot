@@ -6228,3 +6228,4 @@
 2025-11-07T17:42:15.064442+00:00|https://www.nytimes.com/2025/11/07/nyregion/nyc-immigration-raids-trump-mamdani.html|new york prepares for a potential trump immigration crackdown us news|59b9db36dc2308b9de822f31c643fe0a
 2025-11-07T17:42:15.643935+00:00|https://abcnews.go.com/Politics/trump-meet-hungarys-viktor-orban-white-house/story|trump meets with hungarys viktor orban at white house us news|3844d95accc44e373a9f39e0ef5b2ac1
 2025-11-07T17:42:16.259851+00:00|https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html|ai abuse is reinventing the law us news|95b2b7a19d0d0d8ce258ba87017d521e
+2025-11-07T17:57:27.839389+00:00|https://www.nbcnews.com/news/us-news/cornell-reaches-60-million-deal-trump-administration-restore-funding-rcna222632|cornell reaches $60 million deal with trump administration to restore funding us news|c39a1144e9c1fc01c3ed7f575b50e951
