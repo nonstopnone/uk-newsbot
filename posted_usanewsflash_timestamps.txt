@@ -6225,3 +6225,6 @@
 2025-11-07T14:57:41.689018+00:00|https://abcnews.go.com/US/us-conducts-17th-lethal-strike-alleged-drug-boat/story|us conducts 17th lethal strike against alleged drug boat us news|033c8c7cb602c16113f3bdac0b55f80c
 2025-11-07T15:25:40.006262+00:00|https://abcnews.go.com/US/trump-administration-asks-appeals-court-immediately-halt-ruling/story|trump administration asks appeals court to immediately halt ruling on snap funding us news|80f0080ce91a6b51573295686b17b697
 2025-11-07T16:46:58.778782+00:00|https://www.nytimes.com/2025/11/07/arts/music/grammys-nominee-list-2026.html|grammy nominations 2026 see the full list of nominees us news|f87346e2e966c3a6f56580c92622ca84
+2025-11-07T17:42:15.064442+00:00|https://www.nytimes.com/2025/11/07/nyregion/nyc-immigration-raids-trump-mamdani.html|new york prepares for a potential trump immigration crackdown us news|59b9db36dc2308b9de822f31c643fe0a
+2025-11-07T17:42:15.643935+00:00|https://abcnews.go.com/Politics/trump-meet-hungarys-viktor-orban-white-house/story|trump meets with hungarys viktor orban at white house us news|3844d95accc44e373a9f39e0ef5b2ac1
+2025-11-07T17:42:16.259851+00:00|https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html|ai abuse is reinventing the law us news|95b2b7a19d0d0d8ce258ba87017d521e
