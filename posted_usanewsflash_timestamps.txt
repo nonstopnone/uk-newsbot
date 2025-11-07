@@ -6215,3 +6215,4 @@
 2025-11-07T11:20:06.869894+00:00|https://www.nytimes.com/2025/11/07/us/politics/sierra-club-social-justice.html|the sierra club embraced social justice then it tore itself apart us news|88913fc9852d69df5c3877dd2c5875c9
 2025-11-07T11:20:07.423166+00:00|https://www.nytimes.com/2025/11/07/world/europe/trump-orban-meeting-russia-sanctions.html|russian sanctions risk straining trumps chummy relationship with hungarian leader us news|b6258d3540ad673d72c94fd25cdd1404
 2025-11-07T11:20:07.972177+00:00|https://www.nytimes.com/2025/11/07/world/canada/trump-tariffs-stellantis-canada-brampton.html|trumps tariffs scar canadian city where cars have been made for decades us news|c105df8760a84d6c8d4d547ee3699aaa
+2025-11-07T11:40:09.895588+00:00|https://www.nytimes.com/2025/11/07/world/middleeast/saudi-arabia-executions-war-on-drugs.html|as saudi arabia cracks down on drugs executions near a record high us news|516775ac604776dd27fabe37a0d76074
