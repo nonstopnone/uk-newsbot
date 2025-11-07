@@ -6234,3 +6234,4 @@
 2025-11-07T18:48:35.594250+00:00|https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-house-speaker.html|nancy pelosi knew her why us news|35f394064c9fe6c61f65312a700a650e
 2025-11-07T18:48:36.060479+00:00|https://abcnews.go.com/US/wireStory/cornell-university-pay-60m-deal-trump-administration-restore-127302876|cornell university to pay $60m in deal with trump admin to restore federal funding us news|6f2f9966e35ff83c4a9301024af1103b
 2025-11-07T19:19:40.284260+00:00|https://abcnews.go.com/US/day-care-worker-detained-immigration-agents-valid-work/story|day care worker detained by immigration agents had valid work permit us news|ac3af85bb71558883524ff997a9e3476
+2025-11-07T19:39:16.974609+00:00|https://abcnews.go.com/US/video/pres-trump-foolish-person-ending-filibuster-127309308|watch pres trump says only a foolish person would be against ending the filibuster us news|611630dceacbeb3775a8745a1a35d492
