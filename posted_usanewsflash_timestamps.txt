@@ -6245,3 +6245,5 @@
 2025-11-07T21:18:11.265843+00:00|https://www.nbcnews.com/now/video/usda-says-it-will-begin-fully-funding-snap-benefits-after-court-ruling-251566149666|usda says it will begin fully funding snap benefits after court ruling us news|b5cbc3850fcaab496a9ae3e1f758d8c9
 2025-11-07T21:39:28.735647+00:00|https://www.nytimes.com/2025/11/07/us/politics/shutdown-democrats-schumer-thune.html|democrats scale back demands for ending shutdown us news|4978fde4fba035f6ccc316a91bab61e6
 2025-11-07T21:39:29.418196+00:00|https://www.nytimes.com/2025/11/07/us/farmers-almanac-shutting-down.html|the farmers almanac succumbs to the digital age us news|23b1fa406d233becfa43a239905157e5
+2025-11-07T22:22:05.394488+00:00|https://www.bbc.com/news/articles/c62046qyv66o|conservatives accuse canadas carney of being undemocratic as mp resigns us news|7688d83b112f8dc3f2495cb7b3e492eb
+2025-11-07T22:22:06.218037+00:00|https://www.nbcnews.com/video/shorts/trump-threatens-colombia-amid-war-on-drug-cartels-251568197560|trump threatens colombia amid war on drug cartels us news|5f3fe90a2dbf4252173e0eb9824a906e
