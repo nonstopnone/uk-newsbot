@@ -6277,3 +6277,5 @@
 2025-11-08T17:39:29.675402+00:00|https://abcnews.go.com/US/4-dead-11-injured-after-speeding-car-crashes/story|4 dead 11 injured after speeding car crashes into business pedestrians us news|4411b229018308109e27eaca65aeafff
 2025-11-08T19:17:38.703108+00:00|https://www.nytimes.com/2025/11/08/business/trump-administration-tax-breaks-wealthy.html|how the trump administration is giving even more tax breaks to the wealthy us news|5779c1ef641d2c034cb9d6418e49dd59
 2025-11-08T19:39:10.424673+00:00|https://www.nbcnews.com/video/shorts/rockefeller-center-christmas-tree-arrives-in-new-york-251615301631|rockefeller center christmas tree arrives in new york us news|9067f41c64104425bc8484db07cf66fe
+2025-11-08T22:20:36.370869+00:00|https://www.bbc.com/news/articles/cj410k00yw8o|more than 1000 flights cancelled as us air traffic cuts enter second day us news|c4d536bd06be4aeb80686ee68bf7d93f
+2025-11-08T22:20:37.028749+00:00|https://www.bbc.com/news/articles/ce3k5qv21g1o|us cleaning woman shot and killed after arriving at wrong home us news|f0428e0c3de579043b29b0e6eb8508de
