@@ -6260,3 +6260,5 @@
 2025-11-08T01:49:11.361529+00:00|https://www.nytimes.com/2025/11/07/us/politics/portland-oregon-national-guard.html|judge permanently blocks national guard deployments to portland for ice protests us news|aa62fbfa4c3c898d9b360c68d981d456
 2025-11-08T02:54:49.122870+00:00|https://www.nytimes.com/2025/11/07/us/politics/surry-county-virginia-supervisor-election.html|virginia teen narrowly defeats his former civics teacher in county election us news|24b5c9ebc025cd3e56a7fd035c1188bb
 2025-11-08T02:54:49.611608+00:00|https://www.nbcnews.com/video/shorts/final-monkey-captured-after-mississippi-crash-251587141616|final monkey captured after mississippi crash us news|8b0b4e3aaf2401580f9e70917db73bfc
+2025-11-08T04:57:46.340523+00:00|https://www.nytimes.com/2025/11/07/us/politics/biden-trump-omaha-nebraska.html|biden warns of a very very dark moment as he hits out at trump us news|d4938c540058f812bfad786638cf344a
+2025-11-08T04:57:47.021065+00:00|https://www.nbcnews.com/news/us-news/ups-grounds-md-11-fleet-type-plane-louisville-crash-sources-say-rcna242711|ups grounds md11 fleet the type of plane in louisville crash sources say us news|1b6f9d967d5e2931350ad90d25b99017
