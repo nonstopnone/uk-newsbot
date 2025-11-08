@@ -6282,3 +6282,4 @@
 2025-11-08T22:57:31.646323+00:00|https://www.nytimes.com/2025/11/08/us/politics/newsom-2028-texas-rally-abbott-trump.html|gavin newsom eyeing 2028 tries to mess with texas us news|29dd6ea87f8363866adac31a9858ada4
 2025-11-08T23:20:36.233847+00:00|https://abcnews.go.com/US/officer-shot-dead-line-duty-hospital-north-carolina/story|officer shot dead in line of duty at hospital police us news|c3dbd419030f682f663cce7a340b83f5
 2025-11-08T23:39:24.591716+00:00|https://www.nbcnews.com/video/travelers-in-miami-left-frustrated-as-flights-cancelled-251619397688|travelers in miami left frustrated as flights cancelled due to government shutdown us news|4604102da232d2cdd7e862b9660036e5
+2025-11-08T23:57:40.699449+00:00|https://www.bbc.com/news/articles/clyl6jwx2v8o|4 dead 13 injured after street racer slams into crowd at tampa bar us news|3a7bb2856ba4b3caa6b6e2facf09f8f5
