@@ -6287,3 +6287,4 @@
 2025-11-09T01:59:35.088032+00:00|https://www.nbcnews.com/video/thousands-of-flights-delayed-as-faa-cuts-snarl-major-airports-251620421625|thousands of flights delayed as faa cuts snarl major airports us news|4c8cc0163521637ef5484743bd086e58
 2025-11-09T01:59:35.747318+00:00|https://www.nytimes.com/2025/11/08/weather/california-weather-heat-rain.html|heavy rain expected in california after spell of unusually warm weather us news|6715c9bb19cbfac61cb386dc4f1b1846
 2025-11-09T01:59:36.442521+00:00|https://www.nytimes.com/2025/11/08/us/worries-mount-as-air-traffic-delays-stretch-to-second-day.html|worries increase on second day of flight cancellations us news|0bc1ce1d7686d5a6827c9e6550e5e830
+2025-11-09T05:22:30.566920+00:00|https://www.nytimes.com/2025/11/09/world/europe/spain-tor-sansa-true-crime-carles-porta.html|spains truecrime capital is fed up us news|3d74d0142f41a7e6bb93ea58abcab6ed
