@@ -6290,3 +6290,5 @@
 2025-11-09T05:22:30.566920+00:00|https://www.nytimes.com/2025/11/09/world/europe/spain-tor-sansa-true-crime-carles-porta.html|spains truecrime capital is fed up us news|3d74d0142f41a7e6bb93ea58abcab6ed
 2025-11-09T07:21:33.249512+00:00|https://www.nytimes.com/2025/11/09/business/china-suspends-export-controls.html|china suspends export controls on more critical minerals us news|315ff00cd601e4a1ae586dc53deec255
 2025-11-09T11:17:45.246318+00:00|https://www.nytimes.com/2025/11/09/us/politics/trump-conspiracy-probe-subpoenas.html|trump loyalists push grand conspiracy as new subpoenas land us news|eba36907c2d3309d387708d53ef8e5b2
+2025-11-09T12:44:42.777897+00:00|https://www.nbcnews.com/politics/donald-trump/trump-economy-strong-rebuke-voters-rcna242686|trump doubles down on the economy despite a strong rebuke from voters us news|9f65c9c05c9f39dfc132e1359bc98f51
+2025-11-09T12:44:43.320057+00:00|https://www.nbcnews.com/sports/nfl/2025-nfl-season-parity-one-division-rcna242418|the 2025 nfl season is all about parity except in one division us news|84fbb94b58c4d0358a0a396e77402607
