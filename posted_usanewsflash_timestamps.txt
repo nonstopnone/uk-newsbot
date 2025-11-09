@@ -6283,3 +6283,7 @@
 2025-11-08T23:20:36.233847+00:00|https://abcnews.go.com/US/officer-shot-dead-line-duty-hospital-north-carolina/story|officer shot dead in line of duty at hospital police us news|c3dbd419030f682f663cce7a340b83f5
 2025-11-08T23:39:24.591716+00:00|https://www.nbcnews.com/video/travelers-in-miami-left-frustrated-as-flights-cancelled-251619397688|travelers in miami left frustrated as flights cancelled due to government shutdown us news|4604102da232d2cdd7e862b9660036e5
 2025-11-08T23:57:40.699449+00:00|https://www.bbc.com/news/articles/clyl6jwx2v8o|4 dead 13 injured after street racer slams into crowd at tampa bar us news|3a7bb2856ba4b3caa6b6e2facf09f8f5
+2025-11-09T01:59:34.383299+00:00|https://www.nytimes.com/2025/11/08/us/politics/snap-payments-timeline.html|a timeline of the legal saga surrounding snap payments us news|f90e2e3e1df7500e117f404e41e588b1
+2025-11-09T01:59:35.088032+00:00|https://www.nbcnews.com/video/thousands-of-flights-delayed-as-faa-cuts-snarl-major-airports-251620421625|thousands of flights delayed as faa cuts snarl major airports us news|4c8cc0163521637ef5484743bd086e58
+2025-11-09T01:59:35.747318+00:00|https://www.nytimes.com/2025/11/08/weather/california-weather-heat-rain.html|heavy rain expected in california after spell of unusually warm weather us news|6715c9bb19cbfac61cb386dc4f1b1846
+2025-11-09T01:59:36.442521+00:00|https://www.nytimes.com/2025/11/08/us/worries-mount-as-air-traffic-delays-stretch-to-second-day.html|worries increase on second day of flight cancellations us news|0bc1ce1d7686d5a6827c9e6550e5e830
