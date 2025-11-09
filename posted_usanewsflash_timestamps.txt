@@ -6305,3 +6305,6 @@
 2025-11-09T17:57:23.460981+00:00|https://www.nytimes.com/2025/11/09/weather/cold-snow-weather-forecast.html|arctic blast is sweeping east bringing first snow of the season us news|57926094078e5ed435334a1baf080d65
 2025-11-09T18:30:42.460076+00:00|https://www.bbc.com/news/articles/cly9pggxydeo|trump administration tells states to stop paying full food aid benefits us news|79f9f8a093fdfed58b61c023b1c92d3e
 2025-11-09T18:30:43.055629+00:00|https://www.nytimes.com/2025/11/09/us/politics/trump-shutdown-obamacare.html|trump renews attacks on obamacare in new push over government shutdown us news|5c8022d350565749c67e9bbf7fb5807b
+2025-11-09T18:45:37.665827+00:00|https://www.nbcnews.com/video/shorts/sen-lankford-says-democrats-using-painful-spin-around-snap-251640389658|sen lankford says dems using painful spin around snap us news|d5b11f09b8df8200d839147ce0da14f8
+2025-11-09T18:45:38.241216+00:00|https://abcnews.go.com/Politics/trump-hell-issue-2000-tariff-dividend-except-high/story|trump says hell issue $2000 tariff dividend to all except highincome people us news|4c674fe8a4f85db6608583b0d6a96505
+2025-11-09T18:45:38.859558+00:00|https://www.nbcnews.com/video/shorts/rep-hakeem-jeffries-says-i-hope-shutdown-ends-before-thanksgiving-251640901830|jeffries i hope shutdown ends before thanksgiving us news|f37c76356bc29934552f7eaf52edc39b
