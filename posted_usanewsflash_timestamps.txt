@@ -6298,3 +6298,6 @@
 2025-11-09T14:39:25.021477+00:00|https://www.nytimes.com/2025/11/09/nyregion/mamdani-queens-mayor.html|with a mayor from queens the borough is having a moment us news|6d7388a8433cd32a28986f7063094d91
 2025-11-09T15:21:08.848309+00:00|https://abcnews.go.com/Politics/bessent-formal-white-house-health-care-proposal-shutdown/story|bessent says no formal white house health care proposal as shutdown drags on us news|131fbc5d1b5756d3bbfdf307dad6388f
 2025-11-09T15:21:09.440630+00:00|https://www.nbcnews.com/video/shorts/-wicked-director-jon-m-chu-discusses-poisonous-use-of-ai-251639877537|wicked director discusses poisonous use of ai online us news|7a0a8c41c21ab800215ac0c664576dbc
+2025-11-09T17:18:49.846259+00:00|https://www.bbc.com/news/articles/cp8epv1p1j4o|trailer park boys mike smith charged with sexual assault reports us news|d57c143dec4adcb19f10080e626c8fe0
+2025-11-09T17:18:50.505231+00:00|https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html|as aquifers dry up tehran rations water and calls for rain prayers us news|3d815a0e5bc0c83c6eb87e8bac43e2e5
+2025-11-09T17:18:51.081133+00:00|https://www.nytimes.com/2025/11/09/arts/music/rock-and-roll-hall-of-fame-induction.html|outkast the white stripes cyndi lauper and soundgarden join the rock roll hall of fame us news|f342038a96878620038b0a918df04ea3
