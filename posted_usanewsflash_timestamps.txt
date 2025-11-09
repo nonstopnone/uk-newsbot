@@ -6303,3 +6303,5 @@
 2025-11-09T17:18:51.081133+00:00|https://www.nytimes.com/2025/11/09/arts/music/rock-and-roll-hall-of-fame-induction.html|outkast the white stripes cyndi lauper and soundgarden join the rock roll hall of fame us news|f342038a96878620038b0a918df04ea3
 2025-11-09T17:57:22.889342+00:00|https://www.nytimes.com/2025/11/09/nyregion/mamdani-somos-puerto-rico.html|mamdani mofongo and rum democratic squabbles fade away for now us news|f8c3c05cb41ce3c1cf0965fc91e165d1
 2025-11-09T17:57:23.460981+00:00|https://www.nytimes.com/2025/11/09/weather/cold-snow-weather-forecast.html|arctic blast is sweeping east bringing first snow of the season us news|57926094078e5ed435334a1baf080d65
+2025-11-09T18:30:42.460076+00:00|https://www.bbc.com/news/articles/cly9pggxydeo|trump administration tells states to stop paying full food aid benefits us news|79f9f8a093fdfed58b61c023b1c92d3e
+2025-11-09T18:30:43.055629+00:00|https://www.nytimes.com/2025/11/09/us/politics/trump-shutdown-obamacare.html|trump renews attacks on obamacare in new push over government shutdown us news|5c8022d350565749c67e9bbf7fb5807b
