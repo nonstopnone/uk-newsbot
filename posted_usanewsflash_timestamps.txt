@@ -6398,3 +6398,6 @@
 2025-11-10T22:24:33.731679+00:00|https://www.nbcnews.com/video/shorts/why-eight-democrats-broke-with-party-for-shutdown-deal-251720773800|why eight democrats broke with party for shutdown deal us news|ed666afb58b470b6f6fdd679ca8bb9d0
 2025-11-10T22:43:42.271936+00:00|https://www.nytimes.com/2025/11/10/nyregion/chi-osse-hakeem-jeffries.html|chi ossé plans to challenge jeffries despite mamdanis opposition us news|0f84bf384ed5a3806a20e4da27f956cd
 2025-11-10T22:57:29.565182+00:00|https://www.nytimes.com/2025/11/10/us/camp-mystic-lawsuit.html|suits accuse camp mystic of gross negligence in childrens deaths us news|21ff313476d38a7453129b909ddc206b
+2025-11-10T23:22:52.730831+00:00|https://www.nbcnews.com/politics/congress/democrats-rebel-8-senators-cut-deal-end-shutdown-aca-funds-rcna242994|democrats rebel after 8 senators cut a deal to end the shutdown without aca funds us news|1e235c1279e184d3712609cf633c0a43
+2025-11-10T23:22:53.421812+00:00|https://www.nytimes.com/2025/11/10/us/politics/democrats-shutdown-age.html|age is the issue that democrats cant shut down us news|ef0160a8c85574a78865347b67fe3db1
+2025-11-10T23:22:54.104855+00:00|https://www.nytimes.com/2025/11/10/arts/music/sean-combs-diddy-fort-dix-drug-program.html|sean diddy combs could trim prison sentence with drug rehab program us news|ef666707284ffe409b8fd4bc6c2d5f3d
