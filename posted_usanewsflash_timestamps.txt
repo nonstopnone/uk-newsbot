@@ -6344,3 +6344,5 @@
 2025-11-10T11:21:22.781595+00:00|https://www.nytimes.com/2025/11/10/climate/fatih-birol-iea.html|why everyone wants to meet the worlds most boring man us news|f25e69ccd7a81b9e1020b7b2f22d2a42
 2025-11-10T11:21:23.302275+00:00|https://www.nytimes.com/2025/11/10/us/politics/anti-vaccine-autism-kennedy.html|rfk allies embrace antivax label they once rejected us news|075c56e0a3a0241e6b74755ce3b34439
 2025-11-10T11:21:23.825050+00:00|https://www.nbcnews.com/video/shorts/senate-democrats-vow-to-keep-fighting-for-aca-subsidies-251664453695|senate democrats vow to keep fighting for aca subsidies us news|f706c4476a99669dba74c8f4d958d28d
+2025-11-10T11:41:08.295303+00:00|https://abcnews.go.com/Politics/members-senate-taking-paychecks-shutdown/story|which members of the senate are taking paychecks during the shutdown us news|664eda19fa13a2d6092e44c1bb1b8984
+2025-11-10T11:41:08.798170+00:00|https://www.nytimes.com/2025/11/10/world/americas/juan-gabriel-mexico.html|juan gabriel tribute draws tens of thousands to mexico city us news|5510d8ba0a5e50d0631f99b1466a856f
