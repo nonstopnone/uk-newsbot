@@ -6401,3 +6401,5 @@
 2025-11-10T23:22:52.730831+00:00|https://www.nbcnews.com/politics/congress/democrats-rebel-8-senators-cut-deal-end-shutdown-aca-funds-rcna242994|democrats rebel after 8 senators cut a deal to end the shutdown without aca funds us news|1e235c1279e184d3712609cf633c0a43
 2025-11-10T23:22:53.421812+00:00|https://www.nytimes.com/2025/11/10/us/politics/democrats-shutdown-age.html|age is the issue that democrats cant shut down us news|ef0160a8c85574a78865347b67fe3db1
 2025-11-10T23:22:54.104855+00:00|https://www.nytimes.com/2025/11/10/arts/music/sean-combs-diddy-fort-dix-drug-program.html|sean diddy combs could trim prison sentence with drug rehab program us news|ef666707284ffe409b8fd4bc6c2d5f3d
+2025-11-10T23:40:47.269052+00:00|https://www.nytimes.com/2025/11/10/briefing/congress-moves-to-end-the-shutdown.html|congress moves closer to ending the shutdown us news|2f6eb2050561fff9773ba87bef50ccb6
+2025-11-10T23:40:47.953030+00:00|https://www.nbcnews.com/video/shorts/senator-defends-tentative-deal-to-end-shutdown-251728965973|senator defends tentative deal to end shutdown us news|b9fb615382318ec584e3d0565e655bdf
