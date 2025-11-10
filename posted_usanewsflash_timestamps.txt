@@ -6332,3 +6332,5 @@
 2025-11-10T05:57:39.805831+00:00|https://abcnews.go.com/Politics/trump-pardons-rudy-giuliani-key-figures-involved-efforts/story|trump pardons rudy giuliani others allegedly involved in 2020 election efforts us news|7525aed363312cdd4ecc77ba95a84485
 2025-11-10T05:57:40.470097+00:00|https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html|six takeaways from the senate deal to end the shutdown us news|33eac50a477bff65c1db5140b24c990c
 2025-11-10T07:23:56.099641+00:00|https://www.nbcnews.com/video/shorts/two-mlb-pitchers-charged-in-alleged-bet-rigging-scheme-251660357535|two mlb pitchers charged in alleged bet rigging scheme us news|f665d45c9d8ff74cfccb4a0a5ace7da4
+2025-11-10T09:29:09.448428+00:00|https://www.bbc.com/news/articles/ce9dpyevx3jo|bipartisan us shutdown deal will sharpen divisions among democrats us news|890c8c377ebc350f4f398191fb0aa326
+2025-11-10T09:29:09.896737+00:00|https://www.nytimes.com/2025/11/10/world/asia/indonesia-suharto-dictator-hero.html|he was known for kleptocratic rule and bloodshed now suharto is a national hero us news|ab36e8d27a04d7dd8c611d89cf8c83e0
