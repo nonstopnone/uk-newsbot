@@ -6372,3 +6372,7 @@
 2025-11-10T15:43:59.690357+00:00|https://abcnews.go.com/Politics/live-updates/government-shutdown-updates|government shutdown updates johnson tells house members to return to washington us news|87d9f0359fe6951000f7318954297154
 2025-11-10T15:44:00.229256+00:00|https://www.nytimes.com/2025/11/10/world/europe/ukraine-corruption-energy.html|ukraines anticorruption agencies push back despite zelensky pressure us news|389c1dd5c997c5f36271e952245c43a6
 2025-11-10T15:44:00.760192+00:00|https://www.nytimes.com/2025/11/10/world/europe/trump-bbc-lawsuit-documentary.html|trump threatens to sue the bbc for $1 billion after jan 6 documentary us news|c5ff44f32e0be2dfb952d97156dfcee3
+2025-11-10T16:32:47.135925+00:00|https://www.bbc.com/news/articles/cx2y1z70lwlo|supreme court rejects challenge to legalisation of samesex marriage us news|2b3d96d0a82d070cdf318081698ba1bc
+2025-11-10T16:32:47.746483+00:00|https://www.nytimes.com/2025/11/10/us/politics/appeals-court-trump-snap-funding-shutdown.html|appeals court blocks trumps attempt to withhold full snap funding us news|f41a1124494246f70cddf6c52b6532b6
+2025-11-10T16:32:48.339249+00:00|https://www.nytimes.com/2025/11/10/nyregion/mamdani-fuleihan-deputy-mayor.html|mamdani fills 2 top posts with government veteran and trusted aide us news|c8bd117bddd72444836bc9b56d446ef1
+2025-11-10T16:32:48.864176+00:00|https://www.nbcnews.com/video/shorts/former-nfl-commissioner-paul-tagliabue-dies-at-84-251683397871|former nfl commissioner paul tagliabue dies at 84 us news|2a3609482c4f68f50562a06bcd47b3a6
