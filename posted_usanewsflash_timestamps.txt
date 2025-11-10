@@ -6376,3 +6376,5 @@
 2025-11-10T16:32:47.746483+00:00|https://www.nytimes.com/2025/11/10/us/politics/appeals-court-trump-snap-funding-shutdown.html|appeals court blocks trumps attempt to withhold full snap funding us news|f41a1124494246f70cddf6c52b6532b6
 2025-11-10T16:32:48.339249+00:00|https://www.nytimes.com/2025/11/10/nyregion/mamdani-fuleihan-deputy-mayor.html|mamdani fills 2 top posts with government veteran and trusted aide us news|c8bd117bddd72444836bc9b56d446ef1
 2025-11-10T16:32:48.864176+00:00|https://www.nbcnews.com/video/shorts/former-nfl-commissioner-paul-tagliabue-dies-at-84-251683397871|former nfl commissioner paul tagliabue dies at 84 us news|2a3609482c4f68f50562a06bcd47b3a6
+2025-11-10T16:51:52.059523+00:00|https://abcnews.go.com/US/video/johnson-tells-house-begin-returning-washington-start-end-127380394|watch johnson tells house to begin returning to washington to start end of shutdown us news|6f0f6ab308d15b483ca9fbce2bebd5b4
+2025-11-10T16:51:52.519052+00:00|https://abcnews.go.com/US/video/house-speaker-mike-johnson-timeline-end-shutdown-127380418|watch house speaker mike johnson gives timeline to end shutdown us news|be3496ed7b6d7ebf4bf7f420eff0bc14
