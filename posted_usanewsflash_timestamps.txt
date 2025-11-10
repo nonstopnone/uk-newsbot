@@ -6329,3 +6329,5 @@
 2025-11-10T03:23:22.325887+00:00|https://www.nytimes.com/2025/11/09/world/americas/migrant-child-drowns-panama.html|second migrant child dies on reverse migration boat route us news|f1a3340d7f1a1d5cae29d3156f33a1a7
 2025-11-10T04:49:47.642344+00:00|https://www.nbcnews.com/video/senate-advances-tentative-deal-to-end-government-shutdown-251654725633|special report senate advances tentative deal to end government shutdown us news|384de900bac49d39f2ce5c07843810e2
 2025-11-10T05:25:24.003891+00:00|https://www.nytimes.com/2025/11/10/business/south-korea-k-beauty-amorepacific.html|glass skin and snail mucin south koreas journey to global beauty power us news|e8cacad0b0d96dfec0f2f25572509d58
+2025-11-10T05:57:39.805831+00:00|https://abcnews.go.com/Politics/trump-pardons-rudy-giuliani-key-figures-involved-efforts/story|trump pardons rudy giuliani others allegedly involved in 2020 election efforts us news|7525aed363312cdd4ecc77ba95a84485
+2025-11-10T05:57:40.470097+00:00|https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html|six takeaways from the senate deal to end the shutdown us news|33eac50a477bff65c1db5140b24c990c
