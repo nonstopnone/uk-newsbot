@@ -6446,3 +6446,7 @@
 2025-11-11T16:50:38.705290+00:00|https://www.bbc.com/news/articles/cj0egyzm5yjo|trump asks supreme court to overturn e jean carroll verdict us news|1607e0af7faa65cfefd4315ac57e6422
 2025-11-11T16:50:39.205775+00:00|https://www.nytimes.com/2025/11/11/world/europe/uk-starmer-ban-palestine-action.html|ban a propalestinian group the uk government thought few would care us news|adaf2d83f13f2d432b2e76a1cfa6710b
 2025-11-11T16:50:39.710154+00:00|https://www.nytimes.com/2025/11/11/us/politics/panama-noriega-maduro.html|how the heavymetal fall of a dictator shapes trumps venezuela policy us news|299bd4a44e5a1f7291e08db6cbb0e504
+2025-11-11T17:22:09.588465+00:00|https://abcnews.go.com/Politics/obama-surprises-veterans-flight-dc-special-veterans-day/story|obama surprises veterans on flight to dc with special veterans day salute us news|1af73c09477b91bbcff3f23dc66dc4b8
+2025-11-11T17:22:10.316596+00:00|https://www.nytimes.com/2025/11/11/business/merchant-marines-shipbuilding.html|trump wants to revive shipping he will need more mariners us news|d804b667492dec3525fbae93d42ec306
+2025-11-11T17:22:11.111310+00:00|https://www.nytimes.com/2025/11/11/business/commercial-shipbuilding-us-china.html|halt in fees on chinese vessels endangers us shipbuilding efforts us news|b2bd23b1defa5e443b2de323116ab39a
+2025-11-11T17:22:11.768549+00:00|https://www.nytimes.com/2025/11/11/business/dealbook/softbank-nvidia-divest.html|softbank sells $58 billion stake in nvidia to pay for openai deals us news|1433cc4345cefc8fca5f201dfe09d577
