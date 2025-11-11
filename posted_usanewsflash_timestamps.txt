@@ -6413,3 +6413,5 @@
 2025-11-11T03:17:30.184572+00:00|https://www.nbcnews.com/now/video/senate-votes-to-reopen-government-251754053667|senate votes to reopen government us news|2264502d190ff086391d39230585db21
 2025-11-11T03:17:31.053846+00:00|https://www.nytimes.com/2025/11/10/us/politics/trump-government-shutdown.html|for trump nothing was offlimits during the shutdown us news|b6f8f5d1e33ce35ba4e08cea938f41b2
 2025-11-11T03:17:31.893609+00:00|https://www.nbcnews.com/video/shorts/trump-tells-air-traffic-controllers-to-return-to-work-251755077504|trump tells air traffic controllers to return to work us news|22b30c245c5acf650e7265553603312a
+2025-11-11T04:29:32.471083+00:00|https://www.bbc.com/news/articles/cj41pgpk0wgo|us senate passes funding bill as historic shutdown nears likely end us news|356f891139c241de8f02ca376109f813
+2025-11-11T04:29:32.920789+00:00|https://www.nbcnews.com/news/us-news/families-girls-counselors-died-texas-floods-camp-mystic-negligent-rcna243134|families of girls and counselors who died in texas floods allege negligence by camp mystic us news|88f897ddbaaedf01076f66ff261554eb
