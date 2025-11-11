@@ -6450,3 +6450,4 @@
 2025-11-11T17:22:10.316596+00:00|https://www.nytimes.com/2025/11/11/business/merchant-marines-shipbuilding.html|trump wants to revive shipping he will need more mariners us news|d804b667492dec3525fbae93d42ec306
 2025-11-11T17:22:11.111310+00:00|https://www.nytimes.com/2025/11/11/business/commercial-shipbuilding-us-china.html|halt in fees on chinese vessels endangers us shipbuilding efforts us news|b2bd23b1defa5e443b2de323116ab39a
 2025-11-11T17:22:11.768549+00:00|https://www.nytimes.com/2025/11/11/business/dealbook/softbank-nvidia-divest.html|softbank sells $58 billion stake in nvidia to pay for openai deals us news|1433cc4345cefc8fca5f201dfe09d577
+2025-11-11T17:43:12.683208+00:00|https://www.bbc.com/news/articles/cdegj3g6gg3o|families of camp mystic victims sue owners over deadly texas flood us news|bd98a94540b834b4f320433c4a484271
