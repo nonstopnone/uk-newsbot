@@ -6468,3 +6468,4 @@
 2025-11-11T21:21:49.117676+00:00|https://www.bbc.com/news/videos/c397yprxm4yo|watch trump and obama honour us troops for veterans day us news|02cadd2bdd68b55e8d19c46d1dd8e40b
 2025-11-11T21:21:49.710967+00:00|https://www.nytimes.com/2025/11/11/us/politics/trump-shutdown-health-care-costs-aca.html|as shutdown nears end trump still confronts soaring health costs us news|a0a635f9f3722d1427b28a09ff439cf0
 2025-11-11T21:21:50.260379+00:00|https://www.nytimes.com/2025/11/11/world/europe/trump-bbc-lawsuit-hurdles.html|trump threatened to sue the bbc for $1 billion what are his chances us news|8d2515e8ad7f9de4f8a062ddaf4b4596
+2025-11-11T21:40:43.911859+00:00|https://www.nytimes.com/2025/11/11/us/politics/trump-veterans-day-speech-shutdown.html|trump lauds very big shutdown victory for gop in veterans day speech us news|bbe6ad85434fc9a3ad90ce4f1fe7d30c
