@@ -6530,3 +6530,5 @@
 2025-11-12T19:20:33.583501+00:00|https://www.nytimes.com/2025/11/12/business/penny-coin-legacy.html|the penny dies at 232 us news|6f7ba15f766fb7953e9f77e67b812c7c
 2025-11-12T19:40:05.557214+00:00|https://www.nbcnews.com/business/economy/shutdown-jobs-report-inflation-rcna243533|jobs report and inflation data due in october may not be released at all white house says us news|e662f910c65f524f9ea512edf85e089f
 2025-11-12T19:40:06.128998+00:00|https://www.nytimes.com/2025/11/12/arts/design/lucas-museum-opening-septemeber-2026.html|lucas museum of narrative art in los angeles sets 2026 opening date us news|97a193debbacc0d9e31fc22fe6b7d4f4
+2025-11-12T19:57:22.946452+00:00|https://www.nytimes.com/2025/11/12/us/politics/epstein-emails-trump.html|what epsteins emails allege about trumps knowledge of his conduct us news|02a1e00dcc9c15ec100307bb18246723
+2025-11-12T19:57:23.517909+00:00|https://www.nytimes.com/2025/11/12/us/politics/trump-epstein-vote-boebert.html|trump ramps up pressure on gop to thwart epstein vote us news|46ea75d733fe1432a50f01c6e7f50bbd
