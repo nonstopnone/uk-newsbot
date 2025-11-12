@@ -6503,3 +6503,8 @@
 2025-11-12T11:40:43.453373+00:00|https://www.bbc.com/news/articles/cr437q69422o|us house set for crunch vote on ending historic government shutdown us news|da32256dd28aad9e6d340378ccedeaf6
 2025-11-12T11:57:39.575811+00:00|https://abcnews.go.com/US/video/northern-lights-dazzle-us-skies-127443664|watch northern lights dazzle in us skies us news|a81f976860300c5825a8a98514c77f20
 2025-11-12T13:25:31.058849+00:00|https://www.nytimes.com/2025/11/11/us/trump-border-patrol-charlotte-new-orleans.html|trump administration plans to send border patrol to charlotte and new orleans us news|04ad6ff0144aa7cb9fefb098d0186ab8
+2025-11-12T13:50:31.429586+00:00|https://www.today.com/video/house-set-to-vote-on-bill-that-could-end-government-shutdown-251842118002|house set to vote on bill that could end longestever shutdown us news|49ccc4dcb6ffc4fc91f0d869ab9bef73
+2025-11-12T13:50:31.999886+00:00|https://www.today.com/video/see-northern-lights-dazzle-us-skies-from-arizona-to-florida-251846725681|northern lights dazzle us skies due to severe solar storm us news|50af28f02aac7fb797e81df54db44c18
+2025-11-12T13:50:32.494225+00:00|https://www.nytimes.com/2025/11/12/us/politics/trump-epstein-emails.html|epstein alleged in emails that trump knew of his conduct us news|d94a41902fc28fc1e1898d8365f27995
+2025-11-12T13:50:33.029927+00:00|https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story|house democrats release new epstein emails referencing trump us news|fcb7e5e48122035195981ff7759a57fd
+2025-11-12T13:50:33.592750+00:00|https://www.nbcnews.com/video/shorts/sudanese-women-s-bodies-turned-into-crime-scenes-251848773633|sudanese womens bodies turned into crime scenes us news|198bdaa8b91f0937ea75e2fe75f04995
