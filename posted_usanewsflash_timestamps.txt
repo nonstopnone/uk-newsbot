@@ -6502,3 +6502,4 @@
 2025-11-12T11:21:50.429304+00:00|https://www.nytimes.com/2025/11/12/health/pig-organs-transplants.html|scientists grow more hopeful about ending a global organ shortage us news|07c23757de6cf0f6d04cdbd34dfe1237
 2025-11-12T11:40:43.453373+00:00|https://www.bbc.com/news/articles/cr437q69422o|us house set for crunch vote on ending historic government shutdown us news|da32256dd28aad9e6d340378ccedeaf6
 2025-11-12T11:57:39.575811+00:00|https://abcnews.go.com/US/video/northern-lights-dazzle-us-skies-127443664|watch northern lights dazzle in us skies us news|a81f976860300c5825a8a98514c77f20
+2025-11-12T13:25:31.058849+00:00|https://www.nytimes.com/2025/11/11/us/trump-border-patrol-charlotte-new-orleans.html|trump administration plans to send border patrol to charlotte and new orleans us news|04ad6ff0144aa7cb9fefb098d0186ab8
