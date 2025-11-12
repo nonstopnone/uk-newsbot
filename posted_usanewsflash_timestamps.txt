@@ -6542,3 +6542,4 @@
 2025-11-12T21:40:55.461502+00:00|https://www.nytimes.com/2025/11/12/sports/lorinda-de-roulet-dead.html|lorinda de roulet who briefly led the new york mets dies at 95 us news|84f8949cf4d27bc2ba878a004bf0b69b
 2025-11-12T21:40:55.986411+00:00|https://www.nytimes.com/2025/11/12/weather/california-storm-la-san-francisco-rain-forecast.html|a lot of uncertainty suddenly surrounds a storm hitting california us news|8a4bf0e54caf570b67c841f641079aba
 2025-11-12T22:57:39.442416+00:00|https://www.bbc.com/news/articles/c3rj0d97ynvo|what we know about new epstein emails that mention trump us news|05ff27d4f92049d26fc5049792b8948c
+2025-11-12T23:23:23.530124+00:00|https://abcnews.go.com/GMA/Living/penny-short-us-mints-final-1-cent-coins/story|a penny short us mints final 1cent coins after over 230 years in circulation us news|43187713904eb9df111e8910e2865a8c
