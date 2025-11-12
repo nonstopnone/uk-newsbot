@@ -6534,3 +6534,6 @@
 2025-11-12T19:57:23.517909+00:00|https://www.nytimes.com/2025/11/12/us/politics/trump-epstein-vote-boebert.html|trump ramps up pressure on gop to thwart epstein vote us news|46ea75d733fe1432a50f01c6e7f50bbd
 2025-11-12T20:27:38.415234+00:00|https://abcnews.go.com/Business/trump-committed-2000-tariff-dividend-payments-white-house/story|trump is committed to $2000 tariff dividend payments white house says us news|f5e1ff4edcd94508d04c9133a20a4f51
 2025-11-12T20:27:38.875607+00:00|https://www.nytimes.com/2025/11/12/nyregion/new-york-city-queens-rezoning.html|city council set to approve plan that could bring 14700 homes to queens us news|948a3ad5d7c147b08bd7c75cf4ee40b9
+2025-11-12T20:57:32.980531+00:00|https://www.nytimes.com/2025/11/12/world/americas/gustavo-petro-colombia-trump.html|gustavo petro the rebel turned president willing to take on trump us news|6905210684ff0a5eb277b4995d969182
+2025-11-12T20:57:33.516552+00:00|https://www.nbcnews.com/video/shorts/white-house-responds-to-epstein-email-release-251905093750|white house responds to epstein email release us news|8cb81525a474455cce570d0dc1e0052f
+2025-11-12T20:57:34.014614+00:00|https://www.nytimes.com/2025/11/12/business/massachusetts-housing-bill-seasonal-communities.html|massachusetts offered a solution to housing shortages is it working us news|0634d96ef0209540faf319ade55a44ab
