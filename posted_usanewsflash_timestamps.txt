@@ -6543,3 +6543,6 @@
 2025-11-12T21:40:55.986411+00:00|https://www.nytimes.com/2025/11/12/weather/california-storm-la-san-francisco-rain-forecast.html|a lot of uncertainty suddenly surrounds a storm hitting california us news|8a4bf0e54caf570b67c841f641079aba
 2025-11-12T22:57:39.442416+00:00|https://www.bbc.com/news/articles/c3rj0d97ynvo|what we know about new epstein emails that mention trump us news|05ff27d4f92049d26fc5049792b8948c
 2025-11-12T23:23:23.530124+00:00|https://abcnews.go.com/GMA/Living/penny-short-us-mints-final-1-cent-coins/story|a penny short us mints final 1cent coins after over 230 years in circulation us news|43187713904eb9df111e8910e2865a8c
+2025-11-12T23:41:06.244683+00:00|https://www.nbcnews.com/video/shorts/democrat-adelita-grijalva-sworn-in-after-7-week-delay-251918405632|democrat adelita grijalva sworn in after 7week delay us news|bbbc1a83da1f6e41ee2eb69c2dba6703
+2025-11-12T23:41:06.927090+00:00|https://www.nytimes.com/2025/11/12/briefing/epstein-trump-congress-shutdown.html|jeffrey epstein discussed trump in emails released by congress us news|cd3f6912f248e9a8caee669e0bd76e69
+2025-11-12T23:41:07.642242+00:00|https://www.nytimes.com/2025/11/12/world/middleeast/iraq-elections.html|iraqs prime minister leads in elections but may struggle to form a government us news|2c2ad9cb244eafe51d04ce2719b77193
