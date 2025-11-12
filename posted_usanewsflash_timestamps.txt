@@ -6538,3 +6538,6 @@
 2025-11-12T20:57:33.516552+00:00|https://www.nbcnews.com/video/shorts/white-house-responds-to-epstein-email-release-251905093750|white house responds to epstein email release us news|8cb81525a474455cce570d0dc1e0052f
 2025-11-12T20:57:34.014614+00:00|https://www.nytimes.com/2025/11/12/business/massachusetts-housing-bill-seasonal-communities.html|massachusetts offered a solution to housing shortages is it working us news|0634d96ef0209540faf319ade55a44ab
 2025-11-12T21:23:07.590391+00:00|https://www.nbcnews.com/politics/congress/arizona-democrat-adelita-grijalva-sworn-contentious-seven-week-delay-rcna243007|arizona democrat adelita grijalva sworn in after contentious sevenweek delay us news|567cf80ae4139f6adbdedb005294c3ec
+2025-11-12T21:40:54.831515+00:00|https://www.bbc.com/sport/olympics/articles/cvgkxlmy2nyo|womens 100m final on day one at la 2028 olympics us news|8d8705070b6363f8ecf61f17277be9e6
+2025-11-12T21:40:55.461502+00:00|https://www.nytimes.com/2025/11/12/sports/lorinda-de-roulet-dead.html|lorinda de roulet who briefly led the new york mets dies at 95 us news|84f8949cf4d27bc2ba878a004bf0b69b
+2025-11-12T21:40:55.986411+00:00|https://www.nytimes.com/2025/11/12/weather/california-storm-la-san-francisco-rain-forecast.html|a lot of uncertainty suddenly surrounds a storm hitting california us news|8a4bf0e54caf570b67c841f641079aba
