@@ -6600,3 +6600,5 @@
 2025-11-13T20:27:49.247064+00:00|https://www.bbc.com/news/articles/c1e319e6gzno|oklahoma spares death row inmate hours before planned execution us news|591d74ae815205c77030bb048a9e1fec
 2025-11-13T20:27:49.855484+00:00|https://www.bbc.com/news/articles/c740g7429l1o|uk billionaire joe lewis receives pardon from trump us news|9ff59660aa75e1fec6c4ceeac0e81196
 2025-11-13T20:27:50.414471+00:00|https://www.nytimes.com/2025/11/13/us/politics/seattle-mayor-election-results.html|katie wilson a political newcomer is elected mayor in seattle us news|6a9e3061953ad70dce819eb6b85ead9a
+2025-11-13T20:44:00.909878+00:00|https://www.bbc.com/news/articles/c874nw4g2zzo|bbc apologises to trump over panorama edit but refuses to pay compensation us news|60a0d7ab5e3cd9d209fc2ba0a84e32d2
+2025-11-13T20:44:01.415367+00:00|https://www.nytimes.com/2025/11/13/us/politics/fetterman-fall-hospitalized-pennsylvania.html|fetterman senator who survived stroke hospitalized after fall us news|815af780d5ddf96dbceeef2856a91b05
