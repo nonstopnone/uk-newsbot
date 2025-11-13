@@ -6596,3 +6596,7 @@
 2025-11-13T19:38:53.849699+00:00|https://www.nytimes.com/2025/11/13/nyregion/skoufis-hochul-bills-veto.html|hochul vetoed 7 of his bills in a single day could it be personal us news|3854d778d6ea86f448a30ed1dd668291
 2025-11-13T19:38:54.314124+00:00|https://www.nytimes.com/2025/11/13/world/americas/trump-drug-boat-strikes-colombian-fisherman.html|family of fisherman killed in us military strike says it wants justice us news|1c3dcd0586124f2df995abb937ea9ee0
 2025-11-13T19:57:27.728408+00:00|https://www.nytimes.com/2025/11/13/nyregion/new-jersey-sports-gambling-mob.html|new jersey accuses mobled ring of running illegal sports gambling us news|6e50eba508bc896ab2fddb5c8b7a5230
+2025-11-13T20:27:48.243627+00:00|https://www.bbc.com/news/articles/cvgwlze7ex2o|us justice department sues california over new voting maps favouring democrats us news|339f3d71dcca906d0852413f530b0159
+2025-11-13T20:27:49.247064+00:00|https://www.bbc.com/news/articles/c1e319e6gzno|oklahoma spares death row inmate hours before planned execution us news|591d74ae815205c77030bb048a9e1fec
+2025-11-13T20:27:49.855484+00:00|https://www.bbc.com/news/articles/c740g7429l1o|uk billionaire joe lewis receives pardon from trump us news|9ff59660aa75e1fec6c4ceeac0e81196
+2025-11-13T20:27:50.414471+00:00|https://www.nytimes.com/2025/11/13/us/politics/seattle-mayor-election-results.html|katie wilson a political newcomer is elected mayor in seattle us news|6a9e3061953ad70dce819eb6b85ead9a
