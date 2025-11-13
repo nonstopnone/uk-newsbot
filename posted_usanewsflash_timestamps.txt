@@ -6593,3 +6593,5 @@
 2025-11-13T18:35:13.115241+00:00|https://abcnews.go.com/Politics/john-fetterman-hospitalized-after-fall/story|sen john fetterman hospitalized after fall near his home us news|d9d79f44534f15081804bfba739c3ef2
 2025-11-13T18:35:13.822633+00:00|https://www.nytimes.com/2025/11/13/arts/william-kennedy-albanys-bard-reads-a-story-with-legs.html|at 97 the bard of albany still spins tales of gangsters and politicians us news|b9e43a4ad2bc79943ec5bddd2fdb4a00
 2025-11-13T18:52:56.122277+00:00|https://www.nytimes.com/2025/11/13/nyregion/man-who-visited-alina-habbas-office-with-a-bat-remains-at-large.html|man who appeared at alina habbas office with a bat remains at large us news|cc2f2bb3371a51d63901c98e75f91b35
+2025-11-13T19:38:53.849699+00:00|https://www.nytimes.com/2025/11/13/nyregion/skoufis-hochul-bills-veto.html|hochul vetoed 7 of his bills in a single day could it be personal us news|3854d778d6ea86f448a30ed1dd668291
+2025-11-13T19:38:54.314124+00:00|https://www.nytimes.com/2025/11/13/world/americas/trump-drug-boat-strikes-colombian-fisherman.html|family of fisherman killed in us military strike says it wants justice us news|1c3dcd0586124f2df995abb937ea9ee0
