@@ -6559,3 +6559,5 @@
 2025-11-13T03:18:26.469061+00:00|https://www.nbcnews.com/video/shorts/speaker-johnson-calls-shutdown-pointless-and-foolish-251937861669|speaker johnson calls shutdown pointless and foolish us news|76bef22cb2ddfffced578cdf372cf53d
 2025-11-13T03:59:22.547703+00:00|https://www.nbcnews.com/video/shorts/trump-signs-bill-to-end-government-shutdown-251939909827|trump signs bill to end government shutdown us news|f41d6e80ed00eb64cfc034d3599ea007
 2025-11-13T03:59:23.181343+00:00|https://abcnews.go.com/US/civil-rights-leader-jesse-jackson-hospitalized/story|civil rights leader jesse jackson hospitalized us news|55dc5b4043b050bd0c95538c2bd0f447
+2025-11-13T04:30:02.397523+00:00|https://www.nbcnews.com/now/video/trump-takes-aim-at-democrats-after-end-to-government-shutdown-251939909936|trump takes aim at democrats after end to government shutdown us news|10810f877b15ec180cb286ed33805f8f
+2025-11-13T04:30:02.913370+00:00|https://www.nbcnews.com/video/shorts/steve-kornacki-looks-at-political-impact-of-shutdown-251936837623|steve kornacki looks at political impact of shutdown us news|0d410aa2e9f94c0489aeb00462ff091c
