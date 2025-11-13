@@ -6552,3 +6552,8 @@
 2025-11-13T01:57:59.180975+00:00|https://www.nbcnews.com/nightly-news/video/democrats-release-epstein-emails-mentioning-trump-251921477643|democrats release epstein emails mentioning trump us news|8b4da37dc2c76eb322c605ec2c79369a
 2025-11-13T01:57:59.657622+00:00|https://www.nytimes.com/2025/11/12/us/immigrants-wrongful-detention-chicago-release.html|federal judge calls for release of some immigrants arrested in chicago area us news|e9d3e19581d13d025ff9693ff36e86e1
 2025-11-13T01:58:00.157457+00:00|https://www.nytimes.com/2025/11/12/world/europe/syria-security-official-indicted-war-crimes.html|former syrian security official indicted in austria us news|86cac084f66ab50cbb8cdc883089ac8e
+2025-11-13T03:18:24.155215+00:00|https://www.nytimes.com/2025/11/12/us/epstein-emails-trump.html|after trump split epstein said he could take him down us news|435e0b1c846d2997b30540be52fb99fe
+2025-11-13T03:18:24.768765+00:00|https://www.nbcnews.com/video/shorts/house-votes-to-end-record-long-government-shutdown-251935301772|house votes to end recordlong government shutdown us news|1bb9bb348a76dba2c40b6a01836a23fb
+2025-11-13T03:18:25.316586+00:00|https://www.nytimes.com/2025/11/12/us/politics/trump-homeless-funding.html|trump administration to drastically cut housing grants us news|231cbb556f30481be06668bb16bf8f25
+2025-11-13T03:18:25.885274+00:00|https://www.nbcnews.com/nightly-news/video/u-s-mint-ends-production-of-the-penny-251931205562|us mint ends production of the penny us news|5730b4938f021e5215d12f53ce5d114f
+2025-11-13T03:18:26.469061+00:00|https://www.nbcnews.com/video/shorts/speaker-johnson-calls-shutdown-pointless-and-foolish-251937861669|speaker johnson calls shutdown pointless and foolish us news|76bef22cb2ddfffced578cdf372cf53d
