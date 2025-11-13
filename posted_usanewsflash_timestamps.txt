@@ -6557,3 +6557,5 @@
 2025-11-13T03:18:25.316586+00:00|https://www.nytimes.com/2025/11/12/us/politics/trump-homeless-funding.html|trump administration to drastically cut housing grants us news|231cbb556f30481be06668bb16bf8f25
 2025-11-13T03:18:25.885274+00:00|https://www.nbcnews.com/nightly-news/video/u-s-mint-ends-production-of-the-penny-251931205562|us mint ends production of the penny us news|5730b4938f021e5215d12f53ce5d114f
 2025-11-13T03:18:26.469061+00:00|https://www.nbcnews.com/video/shorts/speaker-johnson-calls-shutdown-pointless-and-foolish-251937861669|speaker johnson calls shutdown pointless and foolish us news|76bef22cb2ddfffced578cdf372cf53d
+2025-11-13T03:59:22.547703+00:00|https://www.nbcnews.com/video/shorts/trump-signs-bill-to-end-government-shutdown-251939909827|trump signs bill to end government shutdown us news|f41d6e80ed00eb64cfc034d3599ea007
+2025-11-13T03:59:23.181343+00:00|https://abcnews.go.com/US/civil-rights-leader-jesse-jackson-hospitalized/story|civil rights leader jesse jackson hospitalized us news|55dc5b4043b050bd0c95538c2bd0f447
