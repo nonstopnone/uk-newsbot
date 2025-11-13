@@ -6623,3 +6623,4 @@
 2025-11-13T23:40:48.679591+00:00|https://www.nytimes.com/2025/11/13/nyregion/mamdani-hochul-child-care-trump.html|mamdani and hochul discuss their challenges trump and child care us news|f25007812b3c9fe03b683cea6f9a80f3
 2025-11-13T23:40:49.349923+00:00|https://www.nytimes.com/2025/11/13/us/politics/trump-tariffs-food-prices.html|trump officials prepare tariff exemptions seeking to lower food prices us news|9b1effc3eadefbb7be5604cb3e2fc616
 2025-11-13T23:40:50.042062+00:00|https://www.nytimes.com/2025/11/13/us/politics/tsa-worker-checks-bonus-shutdown.html|some tsa workers to get $10000 bonus checks for shutdown work us news|b8e69994d9b8a61029cc08d45f8fdbee
+2025-11-13T23:57:36.123592+00:00|https://abcnews.go.com/US/evacuation-warnings-place-heavy-rain-slam-california-burn/story|evacuation warnings in place as heavy rain could slam california burn scar areas us news|606bd439c89e31bdccdb442b78e5427c
