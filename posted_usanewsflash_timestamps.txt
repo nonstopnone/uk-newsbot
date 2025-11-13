@@ -6609,3 +6609,4 @@
 2025-11-13T22:24:05.250382+00:00|https://abcnews.go.com/Politics/trump-briefed-updated-military-options-venezuela/story|trump briefed on updated military options in venezuela us news|4e0762ffc50185b5c466efc9dc79f6b3
 2025-11-13T22:24:05.819004+00:00|https://www.nbcnews.com/politics/justice-department/investigators-searching-man-showed-alina-habbas-office-building-bat-rcna243797|investigators searching for a man who showed up at alina habbas office building with a bat us news|b6eb9c565a3f170e93893247bf01ffc4
 2025-11-13T22:24:06.346716+00:00|https://www.nytimes.com/2025/11/13/business/media/jim-avila-abc-news-dead.html|jim avila former abc news correspondent dies at 70 us news|2e7471b374af70e27373962df508c171
+2025-11-13T22:42:40.495631+00:00|https://www.nbcnews.com/video/shorts/flight-cancellations-persist-as-government-reopens-252004421995|flight cancellations persist as government reopens us news|1830093b85fb9e725ffc596c5f0622dc
