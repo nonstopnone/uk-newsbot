@@ -6585,3 +6585,4 @@
 2025-11-13T15:27:00.754751+00:00|https://www.nytimes.com/2025/11/13/nyregion/justice-department-maurene-comey-lawyers.html|justice dept struggled to find lawyers to handle maurene comey suit us news|6af9d00e1b027f7a4bf65736de5148cc
 2025-11-13T15:27:01.471825+00:00|https://abcnews.go.com/US/search-enters-5th-day-missing-west-virginia-coal/story|missing west virginia coal miner found dead after nearly weeklong rescue effort us news|8f69b5ad53d1ca64f2b98fcbe79e3377
 2025-11-13T15:27:02.250544+00:00|https://www.nbcnews.com/video/shorts/colombia-s-president-lashes-out-at-barbarian-trump-251963973521|colombias president lashes out at barbarian trump us news|661f51aec6b33c959f44e6f708f3fff0
+2025-11-13T16:30:00.648475+00:00|https://www.nbcnews.com/business/travel/airlines-flight-schedules-now-government-reopened-rcna243670|whats next for airlines and flight schedules now that the government is reopened us news|e60ec2784d920b20d4a41331ea8ce60f
