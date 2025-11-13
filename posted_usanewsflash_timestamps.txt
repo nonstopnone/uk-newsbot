@@ -6576,3 +6576,7 @@
 2025-11-13T11:22:17.651730+00:00|https://www.nytimes.com/2025/11/13/world/europe/ukraine-pokrovsk-russia-battle.html|ukraines dilemma as pokrovsk teeters save lives or keep holding on us news|9e0847dd3d2f9ef03b761d180d4e6994
 2025-11-13T11:22:18.289324+00:00|https://www.nytimes.com/2025/11/13/us/politics/shutdown-federal-workers-aftermath.html|the shutdown is over but for federal workers the anxiety persists us news|e849af50c195c696b374b840800c1c69
 2025-11-13T11:40:50.281740+00:00|https://www.nytimes.com/2025/11/13/us/calvin-duncan-jailhouse-lawyer-new-orleans-louisiana.html|calvin duncan selftaught jailhouse lawyer runs for court clerk in new orleans us news|fbb41f49aeb50957e91910fd8b9eb424
+2025-11-13T12:53:40.274470+00:00|https://www.today.com/video/trump-signs-house-approved-bill-after-record-long-shutdown-251954245781|trump signs bill to reopen government after record shutdown us news|42382f10df0b77eb6d4ea77b5b34aa1b
+2025-11-13T12:53:40.965737+00:00|https://www.nytimes.com/2025/11/12/science/how-to-see-the-northern-lights-wednesday.html|how to see the northern lights on wednesday us news|58088ade1a2a0ce5119061c2ab66d2e0
+2025-11-13T12:53:41.591026+00:00|https://www.nbcnews.com/video/shorts/-10k-of-baseball-and-pokemon-cards-stolen-in-new-york-251954245675|$10k of baseball and pokémon cards stolen in new york us news|cf3264a35b8f0f382796eeab341475a8
+2025-11-13T12:53:42.171138+00:00|https://www.nytimes.com/2025/11/13/briefing/epsteins-emails.html|epsteins emails us news|ff6d62fe4d610274cec161b639aeadda
