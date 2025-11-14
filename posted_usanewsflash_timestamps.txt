@@ -6670,3 +6670,4 @@
 2025-11-14T20:27:45.049675+00:00|https://www.nytimes.com/2025/11/14/us/boston-university-republican-student-ice-carwash-workers.html|boston university student attacked online over claim he called ice on workers us news|ac680793695e242b03da2583d59be37d
 2025-11-14T20:27:45.709403+00:00|https://www.nbcnews.com/business/business-news/walmart-ceo-doug-mcmillon-american-retail-rcna243911|how doug mcmillon kept walmart on top us news|da6565d5bd90e5ab7cc3e8f22210816d
 2025-11-14T20:27:46.326546+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-travel-ban-visas-green-card.html|trump plan could limit green cards for immigrants from travel ban countries us news|6d638c5814642c25cc61d3ea570980fd
+2025-11-14T20:57:50.019627+00:00|https://www.nytimes.com/2025/11/14/nyregion/aig-president-relationship-job.html|aig parts ways with incoming president before he assumes role us news|f92c1e14741f9f2aa15cdf86d160e3a2
