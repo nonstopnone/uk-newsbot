@@ -6649,3 +6649,5 @@
 2025-11-14T14:42:46.198180+00:00|https://www.bbc.com/news/articles/cq83jqkpkn2o|walmart boss retiring after more than a decade us news|f6522bcf448027786f0f0e6eb5efcd4d
 2025-11-14T14:57:22.711527+00:00|https://www.nbcnews.com/news/us-news/bryan-kohberger-must-pay-slain-idaho-students-urns-part-restitution-ju-rcna243893|bryan kohberger must pay for slain idaho students urns as part of restitution judge rules us news|8a42ae869cd9b89fd09bc976cd9da6c5
 2025-11-14T15:22:46.163094+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-affordability-economy.html|trump turns to affordability message amid economic frustration us news|d1e83ca66be3a959a52a5600cab86f24
+2025-11-14T15:42:08.163298+00:00|https://abcnews.go.com/US/new-prosecutor-chosen-georgia-2020-election-interference-case/story|new prosecutor chosen in georgia 2020 election interference case us news|0048596b74ee5cd03362e8d10644ae94
+2025-11-14T15:42:08.731390+00:00|https://www.nytimes.com/2025/11/14/us/trump-georgia-election-case-fani-willis.html|georgia official a veteran prosecutor appoints self to oversee trump case us news|26572f8484d1875de81a88342e4cb7af
