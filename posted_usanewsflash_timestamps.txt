@@ -6626,3 +6626,4 @@
 2025-11-13T23:57:36.123592+00:00|https://abcnews.go.com/US/evacuation-warnings-place-heavy-rain-slam-california-burn/story|evacuation warnings in place as heavy rain could slam california burn scar areas us news|606bd439c89e31bdccdb442b78e5427c
 2025-11-14T01:57:08.920265+00:00|https://www.nytimes.com/2025/11/13/climate/trump-revokes-biden-ban-on-drilling-mining-in-alaska-wilderness.html|trump administration revokes biden ban on drilling and mining in alaska wilderness us news|4d1ee471a7bb96a1b157005fc57c2eab
 2025-11-14T01:57:09.634626+00:00|https://www.nbcnews.com/video/shorts/ice-eyes-new-ai-translation-technology-252013637558|ice eyes new ai translation technology us news|16cd93a77d8540af3882f9f68929fd7b
+2025-11-14T03:16:55.905510+00:00|https://www.nbcnews.com/video/shorts/ammonia-gas-leak-forces-evacuations-in-oklahoma-252023877851|ammonia gas leak forces evacuations in oklahoma us news|809ca0098c5dadb8f5cbdb6e92b8c08d
