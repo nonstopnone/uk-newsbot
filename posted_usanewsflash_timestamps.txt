@@ -6681,3 +6681,7 @@
 2025-11-14T22:57:35.984900+00:00|https://www.nytimes.com/2025/11/14/us/politics/donald-korb-irs-trump.html|trump pulls nominee for top irs lawyer us news|682d0918b2390a7be74d19e698e3d191
 2025-11-14T22:57:36.531811+00:00|https://www.nbcnews.com/politics/trump-administration/trump-issues-order-rolling-back-food-tariffs-rcna244045|trump issues order rolling back some of his food tariffs us news|8520e7093f5d45597faa66f81e870979
 2025-11-14T22:57:37.148334+00:00|https://www.nytimes.com/2025/11/14/us/dog-shoots-owner-pennsylvania.html|dog accidentally shoots and injures a pennsylvania man police say us news|f925385a216c34928d6de7bb82596337
+2025-11-14T23:21:59.008185+00:00|https://www.bbc.com/news/articles/cly2qv7l5dyo|us football coach featured on netflix dies after oncampus shooting us news|34c4a485083bbb33c2f098d4294aea5d
+2025-11-14T23:21:59.689917+00:00|https://www.bbc.com/news/articles/ce86745ymr6o|cardi b welcomes fourth child her first with boyfriend stefon diggs us news|6d5537b2a15c738175a95e39bce10192
+2025-11-14T23:22:00.335838+00:00|https://www.bbc.com/news/articles/c797032ldp5o|hollywoods sag awards announces it will change its name us news|c49f2a7e5551dddbd57010544eb9133d
+2025-11-14T23:22:01.015600+00:00|https://www.nytimes.com/2025/11/14/business/economy/trump-food-tariffs-inflation.html|trump administration lifts some food tariffs in effort to ease prices us news|1d6916ee1a66ad7d671d284a2d517349
