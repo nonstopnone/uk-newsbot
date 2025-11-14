@@ -6685,3 +6685,7 @@
 2025-11-14T23:21:59.689917+00:00|https://www.bbc.com/news/articles/ce86745ymr6o|cardi b welcomes fourth child her first with boyfriend stefon diggs us news|6d5537b2a15c738175a95e39bce10192
 2025-11-14T23:22:00.335838+00:00|https://www.bbc.com/news/articles/c797032ldp5o|hollywoods sag awards announces it will change its name us news|c49f2a7e5551dddbd57010544eb9133d
 2025-11-14T23:22:01.015600+00:00|https://www.nytimes.com/2025/11/14/business/economy/trump-food-tariffs-inflation.html|trump administration lifts some food tariffs in effort to ease prices us news|1d6916ee1a66ad7d671d284a2d517349
+2025-11-14T23:40:51.139676+00:00|https://www.nytimes.com/2025/11/14/nyregion/ice-detention-facility-staten-island.html|ice scouted site to hold immigrant detainees in new york city us news|35c3c149449ac70447ae5d174a6276f1
+2025-11-14T23:40:51.845197+00:00|https://www.nytimes.com/2025/11/14/us/san-francisco-mayor-lurie-alcaraz-resign.html|san francisco mayor has first major error with embarrassing appointment us news|e25f95a16ab3b08526d1aad127f307ef
+2025-11-14T23:40:52.792189+00:00|https://www.nbcnews.com/news/us-news/new-york-film-festival-canceled-chinese-pressure-rcna243943|new york film festival canceled after organizer said filmmakers pressured by chinese authorities us news|668b980621b83c5673cacba837158ee9
+2025-11-14T23:40:53.482114+00:00|https://www.nytimes.com/2025/11/14/us/frank-chuman-dead.html|frank chuman pioneering lawyer for japanese american rights is dead at 105 us news|530180358d122468b8436501e4cb96de
