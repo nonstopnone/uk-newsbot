@@ -6633,3 +6633,5 @@
 2025-11-14T05:24:48.912743+00:00|https://www.nytimes.com/2025/11/14/world/asia/south-korea-ai-cheating-college.html|ai cheating rattles top universities in south korea us news|81a8b89459c150340491ad2acc0c9c52
 2025-11-14T07:24:08.364070+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-mortgage-fraud-eric-swalwell.html|swalwell denies allegations of fraud and says trump is targeting him us news|da3a74511e22a02a33842e5c7927f0cc
 2025-11-14T09:27:01.443007+00:00|https://www.bbc.com/news/articles/ce8zkrplpdyo|swiss hope to slash crippling trump tariffs after golden charm offensive us news|5f4b2e9778c700e4b5ecd875af52460e
+2025-11-14T10:27:27.566574+00:00|https://abcnews.go.com/US/epstein-appeared-offer-political-advice-dealing-trump-2018/story|epstein appeared to offer political advice on dealing with trump in 2018 emails us news|92edaa398a8e54fa55e57e492dc5560c
+2025-11-14T10:27:28.097881+00:00|https://www.nbcnews.com/politics/economics/state-local-opposition-new-data-centers-gaining-steam-rcna243838|state and local opposition to new data centers is gaining steam study shows us news|14d89d454f067e53cce02ef37a3f3cf5
