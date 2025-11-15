@@ -6712,3 +6712,6 @@
 2025-11-15T15:57:30.676959+00:00|https://www.nytimes.com/2025/11/15/business/economy/fed-kugler-financial-disclosures.html|former fed official violated trading rules disclosures show us news|3884ea098016a7b1baceb2f17153921c
 2025-11-15T16:43:25.017190+00:00|https://www.nytimes.com/2025/11/15/nyregion/alina-habba-us-attorney-arrest-bat.html|man arrested after appearing at alina habbas office with bat us says us news|cf22a5dafef1d2b70041bd92dc677af5
 2025-11-15T16:57:41.948186+00:00|https://www.bbc.com/news/articles/c1lq6y246gvo|suspect accused of ransacking us attorney habbas office arrested us news|82b7492e540566c9a8b4dae2bb14ca5e
+2025-11-15T19:57:32.438735+00:00|https://www.nbcnews.com/news/us-news/charlotte-north-carolina-border-patrol-operation-rcna244106|border patrol operations start in charlotte as officials urge calm us news|d52b3cffe9e279e353bfb3643451ae67
+2025-11-15T19:57:32.911844+00:00|https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story|trump marjorie taylor greene engage in war of words over epstein investigation us news|80764f12fa563f9491999ea04cdf0e20
+2025-11-15T19:57:33.708146+00:00|https://www.nbcnews.com/video/shorts/heavy-rains-flood-displacement-camps-in-gaza-252129861539|heavy rains flood displacement camps in gaza us news|5a3d9c6f08c053f023161e284a13cbbc
