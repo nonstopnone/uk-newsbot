@@ -6694,3 +6694,7 @@
 2025-11-15T01:53:12.117372+00:00|https://www.nytimes.com/2025/11/14/nyregion/ely-samuel-parker-new-york-native-american.html|seneca soldier and statesman can finally add lawyer to his legacy us news|a7262fbf24e86bea9a0b9bbc2dc34a78
 2025-11-15T01:53:12.683263+00:00|https://www.nbcnews.com/nightly-news/video/trump-lowers-food-tariffs-aimed-at-reducing-grocery-prices-252095557842|trump lowers food tariffs aimed at reducing grocery prices us news|db9df1a084c8e0e5284a0256081d8391
 2025-11-15T01:53:13.208126+00:00|https://www.nbcnews.com/nightly-news/video/beloved-college-football-coach-dies-after-oakland-shooting-252095045912|beloved college football coach dies after oakland shooting us news|3c48e9e17030dc397ea95d1323d175d7
+2025-11-15T03:40:32.333922+00:00|https://www.bbc.com/news/articles/c891jp9j79do|trump says he will take legal action against bbc over panorama edit us news|6fad7cc52625935de7e111655612685a
+2025-11-15T03:40:32.858636+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-marjorie-taylor-greene.html|trump says he no longer supports marjorie taylor greene us news|280ca3a4c3f72583a74d0ce378903e67
+2025-11-15T03:40:33.352838+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-pressure-venezuela.html|trump escalates pressure on venezuela but endgame is unclear us news|1bbe14dda3185b4cf3a3ca17207a30c1
+2025-11-15T03:40:33.831100+00:00|https://www.nytimes.com/2025/11/14/us/trump-university-of-california-funding.html|judge orders trump not to threaten university of californias funding us news|01ae84a5af6a2d99e31556f3ca67d57a
