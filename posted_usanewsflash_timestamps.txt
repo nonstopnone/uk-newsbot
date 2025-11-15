@@ -6719,3 +6719,4 @@
 2025-11-15T21:19:37.395067+00:00|https://www.nytimes.com/2025/11/15/us/john-fetterman-fall-hospital-released.html|fetterman is released from the hospital after a fall us news|6b994b3a1ade3ddbb9af6d140ce5fccb
 2025-11-15T22:40:20.998663+00:00|https://abcnews.go.com/US/texas-california-national-guard-members-leave-portland-chicago/story|texas california national guard members to leave portland and chicago us news|f31fe8840ef3bc0a295f55cd2a9f522c
 2025-11-15T22:57:31.021040+00:00|https://www.nbcnews.com/video/shorts/border-patrol-agents-detain-man-in-charlotte-252131397780|border patrol agents detain man in charlotte us news|bb715c3d8dd424cd4ab8fbdfe263aa63
+2025-11-15T23:39:49.397782+00:00|https://www.nbcnews.com/video/shorts/charlotte-resident-films-border-patrol-in-her-yard-252132421786|charlotte resident films border patrol in her yard us news|d92dc55ee83a8d6547d4bc8f126cae0c
