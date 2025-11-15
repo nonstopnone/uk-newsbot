@@ -6708,3 +6708,5 @@
 2025-11-15T10:57:48.476878+00:00|https://www.nytimes.com/2025/11/15/world/americas/gabriel-boric-chile-president.html|what happened to gabriel borics leftist promises for chile us news|2377607ff8bed5ce9fdb2c3ebc5c7d9a
 2025-11-15T15:40:21.851867+00:00|https://www.bbc.com/news/articles/c620e43z2q5o|us and uk warn of major evisa data breach in somalia us news|f1b4076b8c8a27f6dbc0ff8a0918401e
 2025-11-15T15:40:22.392291+00:00|https://abcnews.go.com/US/california-storm-latest-la-braces-heavy-rain-mudslides/story|california storm latest heavy rain expected and mudslides flash flooding possible us news|b56405ffabf222207e222e53a1e2d112
+2025-11-15T15:57:29.992641+00:00|https://www.bbc.com/news/articles/c9wv4dx05q5o|trump targets longtime maga ally marjorie taylor greene us news|c907d050bf76a3fe649249dd81b94c5e
+2025-11-15T15:57:30.676959+00:00|https://www.nytimes.com/2025/11/15/business/economy/fed-kugler-financial-disclosures.html|former fed official violated trading rules disclosures show us news|3884ea098016a7b1baceb2f17153921c
