@@ -6698,3 +6698,4 @@
 2025-11-15T03:40:32.858636+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-marjorie-taylor-greene.html|trump says he no longer supports marjorie taylor greene us news|280ca3a4c3f72583a74d0ce378903e67
 2025-11-15T03:40:33.352838+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-pressure-venezuela.html|trump escalates pressure on venezuela but endgame is unclear us news|1bbe14dda3185b4cf3a3ca17207a30c1
 2025-11-15T03:40:33.831100+00:00|https://www.nytimes.com/2025/11/14/us/trump-university-of-california-funding.html|judge orders trump not to threaten university of californias funding us news|01ae84a5af6a2d99e31556f3ca67d57a
+2025-11-15T04:43:57.037732+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-marjorie-taylor-greene-split.html|trump cuts ties with marjorie taylor greene calling her wacky us news|e5ef65a24ec052bf6417a47c5c92eae7
