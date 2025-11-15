@@ -6700,3 +6700,4 @@
 2025-11-15T03:40:33.831100+00:00|https://www.nytimes.com/2025/11/14/us/trump-university-of-california-funding.html|judge orders trump not to threaten university of californias funding us news|01ae84a5af6a2d99e31556f3ca67d57a
 2025-11-15T04:43:57.037732+00:00|https://www.nytimes.com/2025/11/14/us/politics/trump-marjorie-taylor-greene-split.html|trump cuts ties with marjorie taylor greene calling her wacky us news|e5ef65a24ec052bf6417a47c5c92eae7
 2025-11-15T05:42:14.826558+00:00|https://www.nbcnews.com/video/shorts/chimp-returned-after-escaping-at-indianapolis-zoo-252115525643|chimp returned after escaping at indianapolis zoo us news|f11252ed78c6c9d0d0531203b13d6c55
+2025-11-15T09:39:40.704763+00:00|https://abcnews.go.com/US/2-tennessee-law-enforcement-officers-injured-crash/story|2 tennessee law enforcement officers injured in crash us news|a992cba69625d27843af0ea046771785
