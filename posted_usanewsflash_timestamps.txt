@@ -6753,3 +6753,4 @@
 2025-11-16T22:57:35.302847+00:00|https://www.bbc.com/news/articles/c7810w37vwdo|what does trump want with boat strike campaign us news|61a1e8e3ee40f08146ce1b6c69cdb131
 2025-11-16T22:57:35.897528+00:00|https://www.nytimes.com/2025/11/16/us/border-patrol-arrests-charlotte-nc.html|us border patrol arrested 81 people in charlotte nc us news|204bfbc82ed6473eed996e6d82e13891
 2025-11-16T23:21:42.630178+00:00|https://www.nbcnews.com/video/shorts/n-c-residents-react-to-surge-of-border-patrol-agents-252151877760|nc residents react to surge of border patrol agents us news|76bdcbbfc44269720b674dc57e75abb3
+2025-11-16T23:40:38.369052+00:00|https://abcnews.go.com/US/crack-major-fuel-pipeline-impacting-deliveries-seattletacoma-international/story|crack in major fuel pipeline impacting deliveries to seattletacoma airport us news|8f7771ef9c79cbd000cb85a52f1ed6b3
