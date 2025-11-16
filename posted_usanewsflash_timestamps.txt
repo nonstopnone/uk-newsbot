@@ -6734,3 +6734,6 @@
 2025-11-16T16:44:59.774682+00:00|https://www.nbcnews.com/video/shorts/rep-ro-khanna-says-shutdown-final-straw-for-chuck-schumer-252147269734|rep khanna says shutdown final straw for chuck schumer us news|f8c461ee54693cf2065715b4989d0656
 2025-11-16T17:19:17.798864+00:00|https://www.bbc.com/news/articles/cqx3n4r2g04o|federal agents launch immigration crackdown in city of charlotte us news|1e01abcbda12074790878f07f6c4d810
 2025-11-16T17:19:18.516522+00:00|https://www.nbcnews.com/video/shorts/tim-kaine-defends-switching-his-vote-to-end-the-shutdown-252147269747|tim kaine defends switching his vote to end the shutdown us news|ce1146884ab9aa1622bde8e8953f85a2
+2025-11-16T18:31:51.851558+00:00|https://www.nytimes.com/2025/11/16/nyregion/kris-boyd-shot-jets.html|new york jets player kris boyd is critically wounded in shooting us news|35c3ea181f51d3a50f49e6b61aecf7ee
+2025-11-16T18:31:52.391663+00:00|https://www.nbcnews.com/sports/nfl/jets-kris-boyd-critical-condition-nyc-shooting-rcna244195|jets cornerback kris boyd hospitalized in critical condition after nyc shooting us news|0c923f391be60fe3c3d3d6768099ec21
+2025-11-16T18:31:52.895138+00:00|https://www.nbcnews.com/video/shorts/maine-allows-inmates-to-work-remote-jobs-252147781786|maine allows inmates to work remote jobs us news|4648d7bff4697fabb9a4dafd8c5b57e2
