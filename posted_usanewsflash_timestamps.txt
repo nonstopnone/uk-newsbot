@@ -6724,3 +6724,5 @@
 2025-11-16T02:02:47.270905+00:00|https://www.nytimes.com/2025/11/15/us/panga-boat-capsizes-imperial-beach.html|4 dead after suspected migrant boat overturns near a san diego area beach us news|0bca72019a74706b3d97e8d51d6d80d8
 2025-11-16T03:22:58.500250+00:00|https://www.nbcnews.com/video/shorts/southern-california-hit-by-powerful-storm-252136005808|southern california hit by powerful storm us news|ce05b46931e3b76b7cffb80f79226af6
 2025-11-16T06:51:20.697184+00:00|https://www.nytimes.com/2025/11/15/world/middleeast/trump-organization-saudi-development-deal.html|trump organization is said to be in talks on a saudi government real estate deal us news|0686706b3ccb3bd60f614cce5607aa48
+2025-11-16T11:18:16.244624+00:00|https://www.nytimes.com/2025/11/16/us/politics/dhs-agents-reassigned.html|homeland security department shifts its focus to immigration crackdown us news|631df37fc3fb1c851e7c4db2fac1bc06
+2025-11-16T11:18:16.923948+00:00|https://www.nytimes.com/2025/11/16/style/epstein-emails-reveal-a-lost-new-york.html|epstein emails reveal a lost new york us news|9f6be0b77bad08ac3a6ffaeda24fdf02
