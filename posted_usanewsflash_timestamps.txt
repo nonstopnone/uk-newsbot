@@ -6742,3 +6742,7 @@
 2025-11-16T18:57:30.039514+00:00|https://www.bbc.com/news/articles/cdeg8z0j2j2o|marjorie taylor greene doubles down on epstein files amid fallout with trump us news|01f6506533b6cabe6b207e0d6f0c46cf
 2025-11-16T19:18:08.919755+00:00|https://abcnews.go.com/US/new-york-jets-player-kris-boyd-critical-condition/story|new york jets player kris boyd in critical condition after shooting us news|72a5b4b978b674670fa7942767932886
 2025-11-16T19:57:29.762645+00:00|https://www.nbcnews.com/video/jets-cornerback-kris-boyd-hospitalized-after-nyc-shooting-252148805792|jets cornerback kris boyd hospitalized after nyc shooting us news|35867a504d4926ed97b51029387110c3
+2025-11-16T20:25:45.391288+00:00|https://www.bbc.com/news/articles/c4gw1zd5w73o|new york jets player in critical condition after manhattan shooting us news|ff26aa7645a92c85dd059e4e2f6e6055
+2025-11-16T20:25:46.094390+00:00|https://www.nytimes.com/2025/11/16/nyregion/newark-shooting.html|boy 10 and woman 21 are killed in newark shooting us news|7d810d2270d76ced0b1b31d1e3b2bd5c
+2025-11-16T20:25:46.756279+00:00|https://www.nytimes.com/2025/11/16/business/homeowners-moving-mortgage-rates.html|they got low mortgage rates during the pandemic now they cant move us news|cd4d25cd92cf3df9770fd159b3dab031
+2025-11-16T20:25:47.455946+00:00|https://www.nytimes.com/2025/11/16/us/calvin-duncan-new-orleans-criminal-court-clerk.html|new orleans elects exconvict calvin duncan as criminal court clerk us news|5f27d87ecd97621081bad50057949c80
