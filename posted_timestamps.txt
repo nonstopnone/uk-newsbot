@@ -1,4 +1,3 @@
-2025-11-10T16:29:56.869125+00:00|https://www.bbc.com/news/articles/cz6n2v7ywgeo|post office horizon it contract extended for another year|3243ac55f1a75c2e057fac2391a8e6ee
 2025-11-10T17:35:24.793006+00:00|https://news.sky.com/story/ex-labour-mp-zarah-sultana-at-centre-of-new-party-row-over-163800k-in-donations-13468018|exlabour mp zarah sultana at centre of new party row over £800k in donations|f96ece10e8efd5e725fb86618ac40020
 2025-11-10T18:32:25.578015+00:00|https://news.sky.com/story/rachel-reeves-signals-she-will-break-tax-pledges-and-gives-strongest-indication-she-will-lift-two-child-cap-13468127|reeves signals she will break tax pledges and gives strongest indication she will lift twochild cap|ecf8b6d941e58887249c829bf153a970
 2025-11-10T18:51:31.918537+00:00|https://www.telegraph.co.uk/business/2025/11/10/trump-tariff-dividend-us-shutdown-ftse-100-markets-latest|ftse 100 closes at record high as global stocks surge|ec0c414cf9da582dd4eeeeb1a9805138
@@ -105,3 +104,5 @@
 2025-11-17T15:29:51.983828+00:00|https://www.bbc.com/news/articles/c5ylene693no|shes cuter than me says renée zellweger on new bridget jones statue|885c901915aadc1b5ef8987467f12690
 2025-11-17T15:46:42.440791+00:00|https://www.bbc.com/news/articles/crrey8pq8vro|police to investigate presbyterian church safeguarding scandal|21e2a344d7b6e456b3b6660332984f87
 2025-11-17T15:57:29.286521+00:00|https://www.telegraph.co.uk/business/2025/11/17/budget-uk-growth-reeves-ftse-100-bond-markets-latest|crypto investors pull $11tn as trump bitcoin boom fades|ee87dfa18bc57ca9b1e9015ff071e58b
+2025-11-17T16:35:10.927656+00:00|https://news.sky.com/story/birmingham-bin-strikes-to-continue-for-months-union-warns-as-industrial-dispute-deepens-13471725|birmingham bin strikes to continue for months union warns as industrial dispute deepens|4168e5b56164ade177527346152498b4
+2025-11-17T16:35:21.618806+00:00|https://news.sky.com/story/armed-men-abduct-25-schoolgirls-in-nigerias-northern-kebbi-state-13471667|gunmen abduct 25 schoolgirls from boarding school|2fa98554b08175e686f7f9e43c3ea471
