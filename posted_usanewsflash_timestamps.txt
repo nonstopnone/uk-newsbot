@@ -6803,3 +6803,5 @@
 2025-11-17T21:57:33.600560+00:00|https://www.bbc.com/news/articles/c9q1z80n8qdo|federal agents arrest 130 people in charlotte immigration crackdown us news|de2b0e5ff530a5ab5630dc0de4630067
 2025-11-17T21:57:34.052850+00:00|https://www.bbc.com/news/articles/c364gn171jzo|top us disaster agency official david richardson resigns us news|0be25307649220ff3375bc2cfc7fceae
 2025-11-17T22:23:38.517403+00:00|https://www.nbcnews.com/meet-the-press/video/trump-s-tariff-rollbacks-the-most-substantial-since-trade-policy-was-announced-252215365869|trumps tariff rollbacks the most substantial since trade policy was announced us news|dcf7da69dcd5970abd93259c5d224037
+2025-11-17T22:43:25.753149+00:00|https://www.nytimes.com/2025/11/17/us/politics/france-disinformation.html|france steps up fight against disinformation as us pulls back official says us news|5abb441366edbcb91ba50abc819ef521
+2025-11-17T22:43:26.438274+00:00|https://www.nytimes.com/2025/11/17/business/fed-bowman-bank-oversight.html|wall streets top cop ushers in lightertouch oversight of banks us news|ce6ced5f05cb74e394d7f693dc00c2f9
