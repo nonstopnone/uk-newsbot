@@ -6769,3 +6769,7 @@
 2025-11-17T09:01:03.023495+00:00|https://www.bbc.com/news/articles/cvgv653v1vjo|trump calls on house republicans to vote to release epstein files us news|f4f218336558113a0a1d386165bbd7ef
 2025-11-17T09:32:16.232194+00:00|https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html|jeff bezos creates ai startup where he will be cochief executive us news|c6258bad5f2bb308a4b518f74b6437a0
 2025-11-17T10:28:53.286877+00:00|https://www.nbcnews.com/politics/politics-news/poll-majorities-parties-extreme-rhetoric-charlie-kirk-killing-rcna243560|majorities across parties say extreme rhetoric contributed to charlie kirks death us news|f7914c4b789047c5501880b072790cec
+2025-11-17T11:21:36.643513+00:00|https://www.nytimes.com/2025/11/17/world/americas/trump-latin-america-monroe-doctrine.html|the donroe doctrine trumps bid to control the western hemisphere us news|652eb9928d6c26959bb902b658e26330
+2025-11-17T11:21:37.287050+00:00|https://www.nytimes.com/2025/11/17/us/teen-rape-case-yates-county-officer.html|an officer bungled a teen rape case the victim was abused again us news|8bb417ba5e3ce0aad0fc519f0ad2681f
+2025-11-17T11:21:37.929855+00:00|https://www.nytimes.com/2025/11/17/nyregion/new-york-bodegas-stores-food.html|new yorks bodegas are here to stay us news|a8229cc7ad92762ea9d3b08e97b85170
+2025-11-17T11:21:38.572610+00:00|https://www.nytimes.com/2025/11/17/podcasts/the-headlines/trump-epstein-files-crypto-atm-scams.html|trumps surprise pivot on the epstein files and why crypto atms are a hub for scams us news|04772bb7ee2fb3c5a1eea21dd2d970c3
