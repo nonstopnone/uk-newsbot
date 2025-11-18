@@ -6827,3 +6827,5 @@
 2025-11-18T05:24:45.825968+00:00|https://www.nytimes.com/2025/11/18/world/asia/china-mao-red-tourism.html|where maos peasants tilled the soil tourists now pay for the view us news|00c9475ce6f78f6e7d30940fc3e67f4f
 2025-11-18T06:36:12.147202+00:00|https://www.nytimes.com/2025/11/18/business/china-loans-financing.html|poor countries got $1 trillion from china so did rich ones us news|1601ec9519918334e19820025a599458
 2025-11-18T08:33:28.165617+00:00|https://www.nbcnews.com/video/shorts/at-least-eight-injured-after-california-house-explosion-252252741819|at least eight injured after california house explosion us news|fa49428366395890acd2dd78bb4a5bd7
+2025-11-18T08:52:27.294427+00:00|https://abcnews.go.com/Politics/saudi-crown-prince-marks-return-us-after-7/story|trump says hell sell saudis f35s as crown prince set to visit white house us news|d7188d3f85601ce7230ed17586dba8fa
+2025-11-18T08:52:27.996585+00:00|https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-security-council-vote-us|israelgaza live updates trump celebrates historic un security council gaza vote us news|cae9d9a2ea464e9952b06d62cecb8916
