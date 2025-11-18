@@ -6820,3 +6820,4 @@
 2025-11-18T03:16:15.522223+00:00|https://www.nytimes.com/2025/11/17/us/harvard-larry-summers-epstein.html|larry summers to step back from public commitments over epstein emails us news|64ab0ab36acf963bece6deef8da9ae2c
 2025-11-18T03:56:32.295836+00:00|https://www.nytimes.com/2025/11/17/us/politics/national-guard-memphis-ruling.html|tennessee judge temporarily blocks national guard deployment in memphis us news|f1f7f07aa09bd67ff477c837b21d845e
 2025-11-18T03:56:32.876713+00:00|https://www.nytimes.com/2025/11/17/nyregion/secaucus-nj-mayor-gonnelli.html|as a town grows more diverse a mayor says theres room for everyone us news|a2896b7c706338d686011cb03dcffd20
+2025-11-18T04:29:55.567185+00:00|https://www.nytimes.com/2025/11/17/us/politics/trump-mcdonalds-affordability-inflation.html|trump says america is in golden age straining to address affordability us news|f120f4eb9357dc10991a02cde484c4a4
