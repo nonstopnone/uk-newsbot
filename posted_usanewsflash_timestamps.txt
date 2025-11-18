@@ -6882,3 +6882,5 @@
 2025-11-18T21:57:33.021988+00:00|https://www.nytimes.com/2025/11/18/world/australia/prisoner-vegemite-lawsuit.html|australian man convicted of murderer sues to challenge vegemite ban behind bars us news|e2b16c0ff11b8a1d6af1a146cbbe9357
 2025-11-18T22:24:25.577069+00:00|https://www.nytimes.com/2025/11/18/us/politics/house-condemns-garcia-election-scheme.html|house condemns garcías election scheme amid democratic split us news|0e4642547dbc6133380c697ca9af2016
 2025-11-18T23:22:29.086090+00:00|https://www.nytimes.com/2025/11/18/us/politics/trump-epstein-files.html|for trump epstein is the story that wont go away us news|e8db983a57df9b36f93e4823521b0cf8
+2025-11-18T23:38:37.671050+00:00|https://www.nbcnews.com/video/trump-reacts-after-senate-s-unanimous-approval-of-epstein-bill-252314181955|trump reacts after senates unanimous approval of epstein bill us news|0df668a3a9a4764be1f95717ed9d1a7d
+2025-11-18T23:38:38.263437+00:00|https://www.nytimes.com/2025/11/18/briefing/congress-demands-release-of-epstein-files.html|congress demands release of epstein files us news|8c6709ba734d2e93ecf34229625635a6
