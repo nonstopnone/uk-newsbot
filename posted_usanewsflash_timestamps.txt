@@ -6821,3 +6821,4 @@
 2025-11-18T03:56:32.295836+00:00|https://www.nytimes.com/2025/11/17/us/politics/national-guard-memphis-ruling.html|tennessee judge temporarily blocks national guard deployment in memphis us news|f1f7f07aa09bd67ff477c837b21d845e
 2025-11-18T03:56:32.876713+00:00|https://www.nytimes.com/2025/11/17/nyregion/secaucus-nj-mayor-gonnelli.html|as a town grows more diverse a mayor says theres room for everyone us news|a2896b7c706338d686011cb03dcffd20
 2025-11-18T04:29:55.567185+00:00|https://www.nytimes.com/2025/11/17/us/politics/trump-mcdonalds-affordability-inflation.html|trump says america is in golden age straining to address affordability us news|f120f4eb9357dc10991a02cde484c4a4
+2025-11-18T04:57:44.801089+00:00|https://www.nbcnews.com/video/shorts/jets-player-kris-boyd-hospitalized-after-nyc-shooting-252240965968|jets player kris boyd hospitalized after nyc shooting us news|8b707d749017f52e4de0114e376e34fb
