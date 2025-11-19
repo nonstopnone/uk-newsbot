@@ -6948,3 +6948,4 @@
 2025-11-19T21:57:24.275973+00:00|https://www.nytimes.com/2025/11/19/technology/nvidia-earnings.html|nvidias profit jumps 65 to $319 billion is it enough for wall street us news|a18afbddea16347e2cf9d25b00e91b4b
 2025-11-19T22:23:38.254826+00:00|https://www.nbcnews.com/video/shorts/fbi-investigates-stepsibling-in-teen-s-cruise-ship-death-252395077587|fbi investigates stepsibling in teens cruise ship death us news|c9e9907b02fe0429d64f6ab1523ab4c6
 2025-11-19T22:23:38.898499+00:00|https://www.nytimes.com/2025/11/19/world/americas/us-mexico-trade.html|mexico is now the united states top buyer us news|1971c220eab012526aeb497c8e48ad74
+2025-11-19T22:57:56.203387+00:00|https://www.nytimes.com/2025/11/19/us/politics/contempt-inquiry-deportation-flights.html|stalled contempt inquiry into deportation flights springs back to life us news|4884c363e71718a45b258170cd9e32e8
