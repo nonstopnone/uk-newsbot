@@ -6919,3 +6919,5 @@
 2025-11-19T12:52:53.799429+00:00|https://abcnews.go.com/Business/wireStory/profit-slide-target-hints-meager-holiday-season-retailer-127661330|profit slide at target hints at meager holiday season for the retailer us news|cb21142fc6a98dcd3b88187f79c0968d
 2025-11-19T13:49:39.570509+00:00|https://www.nbcnews.com/news/us-news/mamdani-keep-jessica-tisch-nypd-commissioner-rcna244769|nyc mayorelect zohran mamdani to keep jessica tisch as nypd commissioner us news|7b888e740e42c446397b00eebadcc085
 2025-11-19T13:49:40.246827+00:00|https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html|larry summers resigns from openais board us news|7411b4d515ea9fce7e421c7ec1566f59
+2025-11-19T14:25:26.835736+00:00|https://www.nytimes.com/2025/11/19/us/politics/trumps-tariffs-trade-data.html|trumps tariffs sent trade plummeting in august us news|fc054ad0ca9b401c20e381ce9acb047b
+2025-11-19T14:25:27.353337+00:00|https://www.nbcnews.com/video/shorts/plane-carrying-mining-minister-crashes-in-congo-252349509959|plane carrying mining minister crashes in congo us news|d8d5e1fefa60cd904c07300d85851cd7
