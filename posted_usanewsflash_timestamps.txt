@@ -6939,3 +6939,5 @@
 2025-11-19T19:57:45.082286+00:00|https://www.nytimes.com/2025/11/19/business/economy/labor-department-economy-data-october.html|after shutdown labor department says some data is gone for good us news|394b8afd8ce8583e1dc6e615609ec4f3
 2025-11-19T20:24:28.789906+00:00|https://www.nytimes.com/2025/11/19/nyregion/police-officer-jersey-city-sexual-assault.html|police officer and exmayor is charged with sexually assaulting a child us news|cae2a6479c619428ba01acce4414d10e
 2025-11-19T20:24:29.301706+00:00|https://www.nytimes.com/2025/11/19/world/middleeast/israeli-strikes-gaza-deaths.html|israeli strikes kill at least 25 in gaza amid ceasefire officials say us news|9fbd5380b250cd6c67f2aec9b3eb7c43
+2025-11-19T20:40:34.556146+00:00|https://www.bbc.com/news/articles/cn8v8gmzd9yo|olympic snowboarderturneddrug kingpin charged with murder of witness us news|9d1769b6db087090c1626ace63018a0d
+2025-11-19T20:40:35.097953+00:00|https://abcnews.go.com/US/video/federal-court-blocks-texas-new-voting-map-127676226|watch federal court blocks texas from using new voting map us news|52b590ab6054d795246dd6299f648587
