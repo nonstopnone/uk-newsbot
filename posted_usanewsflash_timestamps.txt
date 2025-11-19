@@ -6945,3 +6945,4 @@
 2025-11-19T21:39:41.145767+00:00|https://www.bbc.com/news/articles/cvgdgrqwnq9o|us military officials in ukraine for talks on ending war us news|3f17ed5410dc230ae2e32927d62348e5
 2025-11-19T21:39:41.808206+00:00|https://www.nbcnews.com/video/shorts/dozens-killed-and-wounded-by-israeli-airstrikes-in-gaza-252391493725|dozens killed and wounded by israeli airstrikes in gaza us news|bd72a04096c1fb6bc0cb698f0ca0171a
 2025-11-19T21:39:42.481033+00:00|https://www.nytimes.com/2025/11/19/nyregion/wigmaker-hit-and-run-sentence.html|driver who killed mother and daughters sentenced to 3 to 9 years us news|e4c82916b0e72f50691d45dbcad9c55e
+2025-11-19T21:57:24.275973+00:00|https://www.nytimes.com/2025/11/19/technology/nvidia-earnings.html|nvidias profit jumps 65 to $319 billion is it enough for wall street us news|a18afbddea16347e2cf9d25b00e91b4b
