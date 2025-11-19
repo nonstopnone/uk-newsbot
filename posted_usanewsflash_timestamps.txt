@@ -6890,3 +6890,8 @@
 2025-11-19T01:56:00.429830+00:00|https://www.nytimes.com/2025/11/18/nyregion/border-czar-more-immigrant-arrests-nyc.html|trumps border czar threatens more immigrant arrests in new york city us news|ed838210c893191178f8de09031a35bd
 2025-11-19T01:56:01.038396+00:00|https://abcnews.go.com/US/video/us-warships-spotted-off-venezuelan-coast-military-conducts-127650100|watch us warships spotted off venezuelan coast as military conducts joint exercises us news|590abc6be0609ee4689dd93c1c7aa2ca
 2025-11-19T01:56:01.682021+00:00|https://www.nbcnews.com/video/shorts/senate-to-send-epstein-files-bill-to-trump-s-desk-252316741899|senate to send epstein files bill to trumps desk us news|68747a704198db69eb51eabcef055be3
+2025-11-19T03:15:45.714383+00:00|https://www.bbc.com/news/articles/cz7p4gez742o|epstein saga reveals republican rifts and the power of trumps base us news|6ff6f8334d10cae1252c7cee3392947d
+2025-11-19T03:15:46.443393+00:00|https://www.bbc.com/news/articles/crl2g195n96o|the only no vote on releasing epstein files us news|da74f24bfd30837c138e9fa49d03d9e4
+2025-11-19T03:15:47.138155+00:00|https://www.nytimes.com/2025/11/18/us/indiana-redistricting-trump-republicans.html|trump ramps up redistricting pressure on indiana republicans us news|b340b45c859d3a1ad9c4ac90f9529243
+2025-11-19T03:15:47.859719+00:00|https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html|heres whos attending trumps dinner for the saudi crown prince elon musk cristiano ronaldo and more us news|1712e23bbf4dafbd6f3c79a4c3f9e585
+2025-11-19T03:15:48.615468+00:00|https://www.nytimes.com/video/us/politics/100000010528490/behind-the-house-vote-to-release-the-epstein-files.html|behind the vote to release the epstein files us news|09a9b625c4d5dc3fd5b6f84ec7e63d5b
