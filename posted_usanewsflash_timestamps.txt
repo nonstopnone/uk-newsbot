@@ -6915,3 +6915,5 @@
 2025-11-19T11:40:58.221679+00:00|https://www.nytimes.com/2025/11/19/nyregion/shurka-kasky-nadler-election.html|2 democratic activists join a crowded house race in manhattan us news|1d0fad14a95d0cc3fb11d4c5b4200f1e
 2025-11-19T11:40:58.689974+00:00|https://www.nytimes.com/2025/11/19/nyregion/nadler-candidates-who-running.html|whos running to replace jerry nadler 10 people and counting us news|7dc80c8e2fb6b53d69e750ba4441c2d9
 2025-11-19T11:40:59.163607+00:00|https://www.nytimes.com/2025/11/19/travel/cruise-lines-sexual-assault.html|for victims of sexual assault on cruise ships justice can be elusive us news|815df483f98730d834c81b0e2adfda71
+2025-11-19T12:52:53.078822+00:00|https://www.nytimes.com/2025/11/19/world/europe/ukraine-corruption-scandal-zelensky.html|what to know about the corruption scandal roiling ukraine us news|92ed0e83880cda049ffe03db9f2f3966
+2025-11-19T12:52:53.799429+00:00|https://abcnews.go.com/Business/wireStory/profit-slide-target-hints-meager-holiday-season-retailer-127661330|profit slide at target hints at meager holiday season for the retailer us news|cb21142fc6a98dcd3b88187f79c0968d
