@@ -6921,3 +6921,5 @@
 2025-11-19T13:49:40.246827+00:00|https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html|larry summers resigns from openais board us news|7411b4d515ea9fce7e421c7ec1566f59
 2025-11-19T14:25:26.835736+00:00|https://www.nytimes.com/2025/11/19/us/politics/trumps-tariffs-trade-data.html|trumps tariffs sent trade plummeting in august us news|fc054ad0ca9b401c20e381ce9acb047b
 2025-11-19T14:25:27.353337+00:00|https://www.nbcnews.com/video/shorts/plane-carrying-mining-minister-crashes-in-congo-252349509959|plane carrying mining minister crashes in congo us news|d8d5e1fefa60cd904c07300d85851cd7
+2025-11-19T14:46:43.617665+00:00|https://www.nbcnews.com/politics/justice-department/james-comey-seeks-dismiss-selective-vindictive-case-key-hearing-rcna244777|james comey seeks to dismiss selective and vindictive case against him in key hearing us news|460e5c42eece972a5d1698a1c17e840b
+2025-11-19T14:46:44.129295+00:00|https://www.nytimes.com/2025/11/19/us/tom-steyer-california-governor-2026.html|tom steyer will run for california governor in 2026 race us news|f1c4a9f03a64b03662517daa0a8c6824
