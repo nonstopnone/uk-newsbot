@@ -6906,3 +6906,5 @@
 2025-11-19T09:28:00.283952+00:00|https://www.bbc.com/news/articles/c993e74pxd7o|cristiano ronaldo attends white house dinner alongside saudi crown prince us news|e8df6775259b31df8f8e2444185ee15f
 2025-11-19T09:44:20.551727+00:00|https://www.nytimes.com/2025/11/19/world/europe/ukraine-russia-strikes-peace-talks.html|russia strikes ukraine as zelensky aims to revive peace talks us news|ea9c697c63f1890ca14f37514b7eb7ee
 2025-11-19T10:28:07.419685+00:00|https://www.nbcnews.com/politics/2026-election/fight-democratic-partys-future-collides-race-succeed-nancy-pelosi-rcna244470|the fight over the democratic partys future collides with the race to succeed nancy pelosi us news|2eea0356f3c477d08dc03a77b69e11f9
+2025-11-19T10:47:02.637819+00:00|https://abcnews.go.com/Politics/senate-expected-send-epstein-files-bill-trump/story|senate expected to send epstein files bill to trump us news|8a1c3422cfc7fbcd50b7793c211ecb39
+2025-11-19T10:47:03.316138+00:00|https://abcnews.go.com/US/comey-seeks-indictment-dismissed-due-vindictive-prosecution/story|comey seeks to have indictment dismissed due to vindictive prosecution us news|a662b185bd058697ca82321eda77eee8
