@@ -6898,3 +6898,4 @@
 2025-11-19T03:56:18.791739+00:00|https://www.nytimes.com/2025/11/18/us/politics/prince-mohammed-trump-us-saudi-arabia.html|once a pariah saudi prince resets us relations on his own terms us news|b080dd39e2f6f48a3669509c8d5988bc
 2025-11-19T03:56:19.491670+00:00|https://www.nytimes.com/2025/11/18/business/media/trump-reporter-khashoggi-saudis.html|trump berates mary bruce of abc news after question about jamal khashoggi us news|3043efba202972a218fef292ad8ec275
 2025-11-19T05:25:33.962329+00:00|https://www.nytimes.com/2025/11/19/technology/ai-research-chinese-talent.html|in the ai race chinese talent still drives american research us news|e3a0b5f1c397a405e71c224a0436b0f6
+2025-11-19T05:57:30.285998+00:00|https://www.bbc.com/news/articles/cdxr1r34ev9o|congress approves bill to release epstein files that will head to trumps desk us news|79ca9813568d0aeece6f907d22ce9f1e
