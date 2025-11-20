@@ -7014,3 +7014,5 @@
 2025-11-20T19:57:30.552448+00:00|https://www.nytimes.com/2025/11/20/us/border-patrol-charlotte.html|border patrol ends operation in charlotte nc us news|e9d44af0ed5f4a0a302d284de27ebd35
 2025-11-20T20:28:40.373208+00:00|https://www.bbc.com/news/articles/cm2e2p823rlo|exfederal worker accused of staging own attack with slashes political slurs on body us news|349a89f09c4154d79831a41f92069d8d
 2025-11-20T20:28:40.919795+00:00|https://www.nytimes.com/2025/11/20/us/justice-dept-leaks-schiff-inquiry.html|justice dept appears to be examining potential leaks in schiff inquiry us news|f1f905cb4e0e2b80751fad5d8c9d1aaa
+2025-11-20T20:42:36.711649+00:00|https://www.nytimes.com/2025/11/20/climate/trump-offshore-drilling-leases.html|trump plans to open more than a billion acres of us waters to drilling us news|7be88cc71cb7a1e2ff6635c025094381
+2025-11-20T20:42:37.383578+00:00|https://abcnews.go.com/US/doj-halligan-slam-judge-comey-case-hearing/story|in reversal doj says comey indictment was reviewed by full grand jury us news|0fefba69ae2a5d5d8adce68b0642849f
