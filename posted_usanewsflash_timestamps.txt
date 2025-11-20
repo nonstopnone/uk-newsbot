@@ -6957,3 +6957,8 @@
 2025-11-20T01:54:38.832239+00:00|https://www.nbcnews.com/politics/white-house/trump-signs-bill-release-justice-department-jeffrey-epstein-files-rcna244793|trump signs bill to release the dojs epstein files us news|88cc78bb6c7fc8d7e829b2bcdbc87528
 2025-11-20T01:54:39.521525+00:00|https://www.nbcnews.com/video/shorts/wayward-cow-stops-traffic-in-ohio-252407877932|wayward cow stops traffic in ohio us news|45f64879041d06fa70f9f073d90bedd8
 2025-11-20T01:54:40.191225+00:00|https://www.nytimes.com/2025/11/19/science/comet-3i-atlas-nasa-mars.html|nasa releases images of comet 3iatlas passing by mars us news|7f7e38225dc3193d3eb523ef297f93e7
+2025-11-20T03:03:33.233241+00:00|https://www.bbc.com/news/articles/ce868dmz2mdo|exharvard president larry summers stops teaching as university investigates epstein emails us news|a80d29b3e7927968e963e91d0e61f5ba
+2025-11-20T03:03:33.843865+00:00|https://www.nytimes.com/2025/11/19/nyregion/trump-mamdani-white-house-meeting.html|trump and mamdani will meet at white house on friday us news|666aab4fa39f408d669b3160613f6b7b
+2025-11-20T03:03:34.409047+00:00|https://www.nbcnews.com/video/shorts/trump-signs-bill-to-release-doj-s-epstein-files-252412997653|trump signs bill to release dojs epstein files us news|23370bc9f61eacf75f30c7fd4507a653
+2025-11-20T03:03:35.020150+00:00|https://www.nbcnews.com/video/trump-approved-28-point-plan-for-peace-between-russia-and-ukraine-252405829726|trump approved 28point plan for peace between russia and ukraine us news|ef51e3abc495d15393382bbe6484084b
+2025-11-20T03:03:35.781616+00:00|https://www.nytimes.com/2025/11/19/us/cherfilus-mccormick-fema-florida-indictment.html|florida lawmaker stole fema funds for house campaign prosecutors say us news|47bd777323e410a2b3570562f208d282
