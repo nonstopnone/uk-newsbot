@@ -7016,3 +7016,4 @@
 2025-11-20T20:28:40.919795+00:00|https://www.nytimes.com/2025/11/20/us/justice-dept-leaks-schiff-inquiry.html|justice dept appears to be examining potential leaks in schiff inquiry us news|f1f905cb4e0e2b80751fad5d8c9d1aaa
 2025-11-20T20:42:36.711649+00:00|https://www.nytimes.com/2025/11/20/climate/trump-offshore-drilling-leases.html|trump plans to open more than a billion acres of us waters to drilling us news|7be88cc71cb7a1e2ff6635c025094381
 2025-11-20T20:42:37.383578+00:00|https://abcnews.go.com/US/doj-halligan-slam-judge-comey-case-hearing/story|in reversal doj says comey indictment was reviewed by full grand jury us news|0fefba69ae2a5d5d8adce68b0642849f
+2025-11-20T20:57:50.726944+00:00|https://www.nytimes.com/2025/11/20/us/larry-summers-jeffrey-epstein-emails-scandal.html|epstein emails add to former harvard president larry summerss controversies us news|2a6eab1b12469c178522a86e9a9a3ee2
