@@ -6989,3 +6989,5 @@
 2025-11-20T14:57:54.406853+00:00|https://www.nbcnews.com/health/health-news/cdc-autism-vaccines-webpage-studies-changes-language-rcna244936|without evidence cdc changes messaging on vaccines and autism us news|495f169c7bcadae894b1b15d3c60e11a
 2025-11-20T15:26:54.208341+00:00|https://www.nytimes.com/2025/11/20/us/politics/jeffrey-epstein-jpmorgan-chase-ron-wyden.html|wyden presses for investigation into jpmorgan chase and epstein us news|88bcc39d82051dbfd88c2a23f44fe8a6
 2025-11-20T15:26:54.805714+00:00|https://www.nbcnews.com/video/shorts/trump-s-28-point-peace-plan-for-russia-and-ukraine-252439621591|trumps 28point peace plan for russia and ukraine us news|45fe57f5aa5adc1b28226319ebece6d0
+2025-11-20T15:44:44.779470+00:00|https://www.nytimes.com/2025/11/20/us/politics/trump-dick-cheney-funeral.html|trump was not invited to cheneys memorial service us news|0dd03110aaac1ac318b60e8b67f4e88f
+2025-11-20T15:44:45.487418+00:00|https://www.nytimes.com/2025/11/20/business/economy/jobs-fed-interest-rates.html|september jobs report injects more uncertainty into feds december decision us news|8ae09f76741da4d4a89d3f822e812edf
