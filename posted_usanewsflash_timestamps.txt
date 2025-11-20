@@ -6953,3 +6953,7 @@
 2025-11-19T23:40:24.619910+00:00|https://www.nytimes.com/2025/11/19/arts/music/bach-newly-discovered-works.html|newly discovered bach pieces are the fruits of decades of detective work us news|e50cedbc9a29b7725d55401912ccbb31
 2025-11-19T23:40:25.098853+00:00|https://www.nytimes.com/2025/11/19/world/canada/fbi-ryan-wedding-drug-charges.html|fbi hunt intensifies for ryan wedding snowboarder accused of being a drug kingpin us news|6329c3ac5bf513f9dd3393fdf8b0f35b
 2025-11-19T23:57:20.606120+00:00|https://abcnews.go.com/US/video/accused-wife-killer-pleads-guilty-disposal-body-127688076|watch accused wife killer pleads guilty to disposal of body us news|1a2016b63b525769113384eae0324896
+2025-11-20T01:54:38.179640+00:00|https://www.nbcnews.com/video/shorts/marjorie-taylor-greene-s-constituents-on-trump-feud-252405317780|marjorie taylor greenes constituents on trump feud us news|a1be8a51072de258b1eaddeeb64ed838
+2025-11-20T01:54:38.832239+00:00|https://www.nbcnews.com/politics/white-house/trump-signs-bill-release-justice-department-jeffrey-epstein-files-rcna244793|trump signs bill to release the dojs epstein files us news|88cc78bb6c7fc8d7e829b2bcdbc87528
+2025-11-20T01:54:39.521525+00:00|https://www.nbcnews.com/video/shorts/wayward-cow-stops-traffic-in-ohio-252407877932|wayward cow stops traffic in ohio us news|45f64879041d06fa70f9f073d90bedd8
+2025-11-20T01:54:40.191225+00:00|https://www.nytimes.com/2025/11/19/science/comet-3i-atlas-nasa-mars.html|nasa releases images of comet 3iatlas passing by mars us news|7f7e38225dc3193d3eb523ef297f93e7
