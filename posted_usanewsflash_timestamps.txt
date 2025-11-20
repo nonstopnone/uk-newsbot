@@ -6978,3 +6978,5 @@
 2025-11-20T11:21:35.272609+00:00|https://www.nytimes.com/2025/11/20/business/retailers-scale-back-holiday-hiring.html|holiday hiring slows frustrating job seekers us news|85f0cf9ddedf1b4422676aca31aff669
 2025-11-20T11:21:35.741649+00:00|https://www.nytimes.com/2025/11/20/world/europe/ukraine-corruption-zelensky.html|move over netflix ukraines corruption investigators bring the drama us news|1464f7d39910e0a189fde3144d676809
 2025-11-20T11:40:18.480908+00:00|https://www.nytimes.com/2025/11/20/world/middleeast/trump-saudi-prince-mohammed-meeting.html|trump meeting with saudi prince showcased princes makeover and americas us news|dbe52a00ed0b05efcf04fbb7c91b1e9e
+2025-11-20T12:51:29.231558+00:00|https://www.nytimes.com/2025/11/20/briefing/power-and-wealth-in-new-york.html|power and wealth in new york us news|5e15e2442aeff543ce2a554efa0eb7cd
+2025-11-20T12:51:29.925921+00:00|https://www.nbcnews.com/business/business-news/walmart-earnings-ecommerce-rcna244853|walmart raises sales outlook boosted by ecommerce and higherincome shoppers us news|634453f148bed30e8f50b50c38b672c1
