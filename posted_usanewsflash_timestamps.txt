@@ -7021,3 +7021,4 @@
 2025-11-20T21:38:57.272101+00:00|https://www.nytimes.com/2025/11/20/us/politics/dnc-loan-democrats.html|short on cash dnc took out $15 million loan in october us news|ce4b4a700be470f1f874430fd38da30a
 2025-11-20T21:38:58.065805+00:00|https://www.nytimes.com/2025/11/20/weather/southern-california-rain-forecast.html|more rain on the way to los angeles us news|3ee3023c6a4b43420e1f2628e04d3070
 2025-11-20T21:38:58.590747+00:00|https://www.nytimes.com/2025/11/20/us/politics/national-guard-washington-dc-trump.html|judge temporarily blocks deployment of national guard in washington us news|2ff0993db5f0ff08ab906ba77776a281
+2025-11-20T21:57:28.105194+00:00|https://www.nbcnews.com/pop-culture/pop-culture-news/friends-spinoff-joey-youtube-rcna245018|friends spinoff joey releases final episodes on youtube nearly 20 years later us news|9d0defb1df9543a4483cfa1b9683be43
