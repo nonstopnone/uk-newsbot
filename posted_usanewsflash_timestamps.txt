@@ -6991,3 +6991,6 @@
 2025-11-20T15:26:54.805714+00:00|https://www.nbcnews.com/video/shorts/trump-s-28-point-peace-plan-for-russia-and-ukraine-252439621591|trumps 28point peace plan for russia and ukraine us news|45fe57f5aa5adc1b28226319ebece6d0
 2025-11-20T15:44:44.779470+00:00|https://www.nytimes.com/2025/11/20/us/politics/trump-dick-cheney-funeral.html|trump was not invited to cheneys memorial service us news|0dd03110aaac1ac318b60e8b67f4e88f
 2025-11-20T15:44:45.487418+00:00|https://www.nytimes.com/2025/11/20/business/economy/jobs-fed-interest-rates.html|september jobs report injects more uncertainty into feds december decision us news|8ae09f76741da4d4a89d3f822e812edf
+2025-11-20T16:32:47.608123+00:00|https://abcnews.go.com/Politics/biden-attend-dick-cheneys-funeral-bush-deliver-tribute/story|dick cheney funeral service underway at washington national cathedral us news|a72c799752e289faf7537bed0d4ab22c
+2025-11-20T16:32:48.311492+00:00|https://www.nbcnews.com/video/watch-live-dick-cheney-funeral-252433989977|funeral service for former vice president dick cheney us news|e9e93300894ecfb52caa85dcd9d80408
+2025-11-20T16:32:49.027921+00:00|https://www.nytimes.com/2025/11/20/world/europe/ukraine-russia-trump-peace-talks.html|ukraine and europe chafe at being excluded from usrussian peace plan us news|c143b8a091edfd0cb415cc28a982ce91
