@@ -7017,3 +7017,7 @@
 2025-11-20T20:42:36.711649+00:00|https://www.nytimes.com/2025/11/20/climate/trump-offshore-drilling-leases.html|trump plans to open more than a billion acres of us waters to drilling us news|7be88cc71cb7a1e2ff6635c025094381
 2025-11-20T20:42:37.383578+00:00|https://abcnews.go.com/US/doj-halligan-slam-judge-comey-case-hearing/story|in reversal doj says comey indictment was reviewed by full grand jury us news|0fefba69ae2a5d5d8adce68b0642849f
 2025-11-20T20:57:50.726944+00:00|https://www.nytimes.com/2025/11/20/us/larry-summers-jeffrey-epstein-emails-scandal.html|epstein emails add to former harvard president larry summerss controversies us news|2a6eab1b12469c178522a86e9a9a3ee2
+2025-11-20T21:38:56.712857+00:00|https://www.nytimes.com/2025/11/20/business/media/trump-leavitt-reporter-piggy.html|trump calling reporter piggy was frankness white house says us news|587be725651c5468b0e793ec29d4ded2
+2025-11-20T21:38:57.272101+00:00|https://www.nytimes.com/2025/11/20/us/politics/dnc-loan-democrats.html|short on cash dnc took out $15 million loan in october us news|ce4b4a700be470f1f874430fd38da30a
+2025-11-20T21:38:58.065805+00:00|https://www.nytimes.com/2025/11/20/weather/southern-california-rain-forecast.html|more rain on the way to los angeles us news|3ee3023c6a4b43420e1f2628e04d3070
+2025-11-20T21:38:58.590747+00:00|https://www.nytimes.com/2025/11/20/us/politics/national-guard-washington-dc-trump.html|judge temporarily blocks deployment of national guard in washington us news|2ff0993db5f0ff08ab906ba77776a281
