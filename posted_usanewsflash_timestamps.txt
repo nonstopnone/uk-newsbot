@@ -6982,3 +6982,6 @@
 2025-11-20T12:51:29.925921+00:00|https://www.nbcnews.com/business/business-news/walmart-earnings-ecommerce-rcna244853|walmart raises sales outlook boosted by ecommerce and higherincome shoppers us news|634453f148bed30e8f50b50c38b672c1
 2025-11-20T13:22:21.922854+00:00|https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html|investors turn to jobs report after nvidia earnings fuel rally us news|1107bbb0cb3fc199a721cbf04b50c52f
 2025-11-20T13:22:22.404249+00:00|https://www.nytimes.com/2025/11/20/business/dealbook/nvidia-ai-boom.html|did nvidia do enough to chill ai bubble fears us news|4b1ec95cb1ce7f84d289628311cfebe7
+2025-11-20T13:57:24.035717+00:00|https://www.bbc.com/news/articles/c20r07dg6kro|what do we know about the epstein files us news|e52e44119fa8533a486dc8398485a79b
+2025-11-20T13:57:24.693791+00:00|https://www.bbc.com/news/articles/cvgmgddyjl0o|trump to meet incoming new york mayor zohran mamdani us news|458e1a867b5e0898c705184f46cb0b00
+2025-11-20T13:57:25.357995+00:00|https://www.today.com/video/trump-signs-epstein-file-release-why-some-may-be-withheld-252430917736|trump signs epstein bill when will the files will be released us news|b62ca63e0660944c0592771d9528d324
