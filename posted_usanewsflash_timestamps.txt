@@ -6980,3 +6980,5 @@
 2025-11-20T11:40:18.480908+00:00|https://www.nytimes.com/2025/11/20/world/middleeast/trump-saudi-prince-mohammed-meeting.html|trump meeting with saudi prince showcased princes makeover and americas us news|dbe52a00ed0b05efcf04fbb7c91b1e9e
 2025-11-20T12:51:29.231558+00:00|https://www.nytimes.com/2025/11/20/briefing/power-and-wealth-in-new-york.html|power and wealth in new york us news|5e15e2442aeff543ce2a554efa0eb7cd
 2025-11-20T12:51:29.925921+00:00|https://www.nbcnews.com/business/business-news/walmart-earnings-ecommerce-rcna244853|walmart raises sales outlook boosted by ecommerce and higherincome shoppers us news|634453f148bed30e8f50b50c38b672c1
+2025-11-20T13:22:21.922854+00:00|https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html|investors turn to jobs report after nvidia earnings fuel rally us news|1107bbb0cb3fc199a721cbf04b50c52f
+2025-11-20T13:22:22.404249+00:00|https://www.nytimes.com/2025/11/20/business/dealbook/nvidia-ai-boom.html|did nvidia do enough to chill ai bubble fears us news|4b1ec95cb1ce7f84d289628311cfebe7
