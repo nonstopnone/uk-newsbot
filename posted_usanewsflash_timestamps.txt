@@ -7012,3 +7012,5 @@
 2025-11-20T19:57:29.436788+00:00|https://abcnews.go.com/US/doj-fbi-probing-top-trump-administration-officials-investigations/story|doj fbi probing top trump officials over investigations of presidents foes sources us news|5a19ea1cf8c9d6cdeb93556492768fca
 2025-11-20T19:57:29.990038+00:00|https://www.nytimes.com/2025/11/20/us/chicago-immigration-seventh-circuit.html|appeals court blocks release of hundreds of chicagoarea immigration detainees us news|6aaf5232700244e0984d878e5932ae43
 2025-11-20T19:57:30.552448+00:00|https://www.nytimes.com/2025/11/20/us/border-patrol-charlotte.html|border patrol ends operation in charlotte nc us news|e9d44af0ed5f4a0a302d284de27ebd35
+2025-11-20T20:28:40.373208+00:00|https://www.bbc.com/news/articles/cm2e2p823rlo|exfederal worker accused of staging own attack with slashes political slurs on body us news|349a89f09c4154d79831a41f92069d8d
+2025-11-20T20:28:40.919795+00:00|https://www.nytimes.com/2025/11/20/us/justice-dept-leaks-schiff-inquiry.html|justice dept appears to be examining potential leaks in schiff inquiry us news|f1f905cb4e0e2b80751fad5d8c9d1aaa
