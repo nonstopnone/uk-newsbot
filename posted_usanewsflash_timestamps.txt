@@ -7060,3 +7060,8 @@
 2025-11-21T14:57:35.720456+00:00|https://www.nytimes.com/2025/11/21/arts/eurovision-voting-rules-israel.html|eurovision tightens voting rules to tamp down on government influence us news|de65b7927fa608664a6f6139680ce966
 2025-11-21T16:30:18.706582+00:00|https://www.nbcnews.com/video/shorts/trump-accuses-democrats-of-seditious-behavior-252540485850|trump accuses democrats of seditious behavior us news|86694b3997945a4780e540dc58098b23
 2025-11-21T16:47:10.114145+00:00|https://www.nbcnews.com/video/shorts/swalwell-joins-california-governor-s-race-252549189756|swalwell joins california governors race us news|c17b231ad66278387253cf21300def39
+2025-11-21T17:21:54.874691+00:00|https://www.bbc.com/news/articles/cg4ny1wd443o|ohio officer acquitted of murdering pregnant woman suspected of shoplifting us news|f04d03759b82b9cffff06e9b2797105e
+2025-11-21T17:21:55.686976+00:00|https://www.bbc.com/news/videos/cvgj35ngj04o|watch what trump and mamdani have said about each other us news|a1c2a79947e7271a9b7d5c12017f1f4e
+2025-11-21T17:21:56.480306+00:00|https://abcnews.go.com/US/video/president-trump-accuses-democratic-lawmakers-seditious-behavior-127755514|watch president trump accuses democratic lawmakers of seditious behavior us news|562d68471cc3495e5239956e5dc2b29f
+2025-11-21T17:21:57.143211+00:00|https://www.nbcnews.com/weather/storms/cross-country-storm-set-disrupt-thanksgiving-travel-plans-rcna245119|crosscountry storm set to disrupt thanksgiving travel plans us news|6c2a4783823c1e79e6249bf5a4078f5f
+2025-11-21T17:21:57.924567+00:00|https://abcnews.go.com/US/3-sheriffs-deputies-shot-florida-governor/story|3 sheriffs deputies shot in florida governor says us news|495e94df5afa70678cb70d069f830b82
