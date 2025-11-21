@@ -7045,3 +7045,5 @@
 2025-11-21T05:25:10.264491+00:00|https://www.nytimes.com/2025/11/21/us/eric-swalwell-california-governor.html|representative eric swalwell will run for california governor us news|5ec430f64772d59702726f8c94c5be82
 2025-11-21T07:24:42.381665+00:00|https://www.nytimes.com/2025/11/21/arts/television/jimmy-kimmel-trump-abc.html|ill go when you go jimmy kimmel tells trump us news|3733d02248221f44552836c1579ffb7f
 2025-11-21T09:43:33.645067+00:00|https://www.nbcnews.com/video/shorts/missouri-judge-loses-job-over-too-many-elvis-references-252531781880|missouri judge loses job over too many elvis references us news|4d252b86426844e70a197e5e54330757
+2025-11-21T10:26:26.915890+00:00|https://www.nbcnews.com/politics/donald-trump/trump-zohran-mamdani-meet-oval-office-rcna244964|trump to meet with zohran mamdani after months trading barbs us news|9dfd211f0307ece0d2fb38aa537fbe66
+2025-11-21T10:26:27.665447+00:00|https://www.nbcnews.com/world/ukraine/ukraine-peace-plan-zelenskyy-working-us-trump-russia-proposal-rcna245095|ukraine working with us on new peace plan as details emerge us news|f8f33e272df30c61e20a75d1e456a40f
