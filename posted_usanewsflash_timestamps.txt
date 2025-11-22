@@ -7124,3 +7124,6 @@
 2025-11-22T21:39:43.436761+00:00|https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-trump-republicans.html|marjorie taylor greenes resignation hints at divisions in trumps movement us news|1300fb52c72ec9b142f30e590bdd9d0b
 2025-11-22T22:42:15.048547+00:00|https://www.bbc.com/news/articles/crk7mk5k3yjo|north dakota court upholds neartotal abortion ban us news|b1b03c14340a3fe6187fbbbd3ce1d394
 2025-11-22T22:57:48.271188+00:00|https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene.html|for marjorie taylor greene a rough education in maga politics us news|e633671e9f9a03372366474b270cc7d6
+2025-11-22T23:22:32.917511+00:00|https://www.nbcnews.com/video/shorts/why-marjorie-taylor-greene-is-resigning-from-congress-252688453867|why marjorie taylor greene is resigning from congress us news|b571d9937f60edb205b2f981742c3153
+2025-11-22T23:22:33.739923+00:00|https://www.nbcnews.com/video/trump-says-28-point-ukraine-peace-plan-isn-t-his-final-offer-252686917955|trump says 28point ukraine peace plan isnt his final offer us news|4d53a6542877a455a7ead8b6a55e8079
+2025-11-22T23:22:34.316725+00:00|https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html|marjorie taylor greenes exit deals a blow to republicans majority in congress us news|59b55718f68551280ab99fea3c2be41c
