@@ -7110,3 +7110,4 @@
 2025-11-22T10:41:20.782435+00:00|https://abcnews.go.com/US/4-injured-shooting-north-carolina-tree-lighting-ceremony/story|4 injured after gunfire erupts at north carolina tree lighting ceremony us news|094a155fb1098378da101cc624dde203
 2025-11-22T10:57:21.946262+00:00|https://www.nytimes.com/2025/11/22/world/africa/south-africa-crime.html|trump claims a white genocide in south africa heres whats really happening us news|890cbd9ae87cca19396a9b6ebf14af36
 2025-11-22T10:57:22.584939+00:00|https://www.nytimes.com/2025/11/22/climate/trump-environmental-policy-week.html|in one week trump moves to reshape us environmental policy us news|0b65880671c8d33cb1ba919c571191ec
+2025-11-22T12:43:44.489402+00:00|https://www.nbcnews.com/science/environment/world-cop30-trump-administration-rolls-back-environmental-rules-rcna245135|with the world at a climate summit white house pushes major environmental rollbacks us news|a7679838b863cc1a361e2bca682b72ba
