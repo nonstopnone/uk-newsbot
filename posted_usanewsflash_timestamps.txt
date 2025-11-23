@@ -7129,3 +7129,4 @@
 2025-11-22T23:22:34.316725+00:00|https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html|marjorie taylor greenes exit deals a blow to republicans majority in congress us news|59b55718f68551280ab99fea3c2be41c
 2025-11-23T02:10:25.285420+00:00|https://abcnews.go.com/Politics/doj-seeks-release-epstein-grand-jury-material-florida/story|doj seeks release of epstein grand jury material in florida us news|43d401b64803473b954f5b1665b8ea82
 2025-11-23T02:10:26.002147+00:00|https://www.nytimes.com/2025/11/22/us/georgia-marjorie-taylor-greene-voters.html|georgia voters stand by marjorie taylor greene after she stood up to trump us news|74d6ca2fdb991a86ae992583b1939ba2
+2025-11-23T04:21:53.644469+00:00|https://www.nytimes.com/2025/11/22/business/bank-data-hack.html|a swath of bank customer data was hacked the fbi is investigating us news|36b4e4b4186a4cd5bba00d65b3bfed89
