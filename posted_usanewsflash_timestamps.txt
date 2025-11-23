@@ -7132,3 +7132,6 @@
 2025-11-23T04:21:53.644469+00:00|https://www.nytimes.com/2025/11/22/business/bank-data-hack.html|a swath of bank customer data was hacked the fbi is investigating us news|36b4e4b4186a4cd5bba00d65b3bfed89
 2025-11-23T09:57:43.177145+00:00|https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html|ukraine us will meet about trumps peace plan to end war with russia us news|1a3d3dcc8479ccc398db531b85b1a464
 2025-11-23T10:42:25.224785+00:00|https://abcnews.go.com/International/officials-arrive-switzerland-talks-zelenskyy-laments-ongoing-russian/story|officials arrive for switzerland talks as zelenskyy laments ongoing russian strikes us news|3c67b61660e562f67c5c3ae0d9f202ff
+2025-11-23T11:18:53.633538+00:00|https://www.nytimes.com/2025/11/23/us/undocumented-worker-stolen-identity-dan-kluver.html|one undocumented worker used a stolen identity two men paid the price us news|69e8d8d008745fdd1015947ca9560850
+2025-11-23T11:18:54.384680+00:00|https://www.nytimes.com/2025/11/23/world/americas/haiti-world-cup.html|haitians rejoice over their first world cup berth in 50 years us news|fdd9bccd938685a3524eb9954986d1a5
+2025-11-23T11:18:54.911285+00:00|https://www.nytimes.com/2025/11/23/world/asia/titanic-watch-auction.html|titanic passengers pocket watch sells for $23 million us news|71737efde62a46e71ecbad5f234a195c
