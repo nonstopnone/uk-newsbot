@@ -7130,3 +7130,4 @@
 2025-11-23T02:10:25.285420+00:00|https://abcnews.go.com/Politics/doj-seeks-release-epstein-grand-jury-material-florida/story|doj seeks release of epstein grand jury material in florida us news|43d401b64803473b954f5b1665b8ea82
 2025-11-23T02:10:26.002147+00:00|https://www.nytimes.com/2025/11/22/us/georgia-marjorie-taylor-greene-voters.html|georgia voters stand by marjorie taylor greene after she stood up to trump us news|74d6ca2fdb991a86ae992583b1939ba2
 2025-11-23T04:21:53.644469+00:00|https://www.nytimes.com/2025/11/22/business/bank-data-hack.html|a swath of bank customer data was hacked the fbi is investigating us news|36b4e4b4186a4cd5bba00d65b3bfed89
+2025-11-23T09:57:43.177145+00:00|https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html|ukraine us will meet about trumps peace plan to end war with russia us news|1a3d3dcc8479ccc398db531b85b1a464
