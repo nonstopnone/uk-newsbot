@@ -7213,3 +7213,5 @@
 2025-11-24T23:41:30.170506+00:00|https://abcnews.go.com/Politics/video/pentagon-investigating-sen-kelly-citing-allegations-misconduct-127843588|watch pentagon investigating sen kelly citing serious allegations of misconduct us news|a0df9d05d1a8a981863ef683d8fbbe01
 2025-11-24T23:41:30.913630+00:00|https://www.nytimes.com/2025/11/24/briefing/comey-ukraine-cliff.html|judge dismisses comey and james cases us news|e23a63733d01881cccf7b843a16dec22
 2025-11-24T23:41:31.608580+00:00|https://abcnews.go.com/US/doj-asks-judges-authorize-release-epstein-maxwell-grand/story|judges asked by doj to release epstein maxwell grand jury materials us news|c5cb98d608ea7b5e7b9a4a79d49bcd48
+2025-11-24T23:57:43.721021+00:00|https://www.bbc.com/news/articles/ckgdr1vlz7ko|trump says he will visit china in april after call with xi us news|7ee83fc4fde3609fb57668913f6d9fc5
+2025-11-24T23:57:44.357158+00:00|https://www.nytimes.com/2025/11/24/us/politics/trump-obamacare-subsidies-health-care.html|trump is considering push to extend obamacare subsidies us news|3af4ddb0561eb12869596003b6508b95
