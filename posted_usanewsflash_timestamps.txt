@@ -7209,3 +7209,7 @@
 2025-11-24T21:41:35.119544+00:00|https://www.nytimes.com/2025/11/24/nyregion/james-comey-case-dismissed.html|judge tosses criminal charges against james comey and letitia james us news|815644d588415ffbc9948f5f81d42822
 2025-11-24T22:23:48.360572+00:00|https://www.nytimes.com/2025/11/24/us/viola-fletcher-dead.html|viola fletcher oldest survivor of the tulsa race massacre dies at 111 us news|010213fefed58f15407c5553849d9fe4
 2025-11-24T22:57:35.663679+00:00|https://www.nbcnews.com/video/shorts/what-s-inside-trump-s-ukraine-russia-peace-plan-252910149667|whats inside trumps ukrainerussia peace plan us news|e902cd649b83c217cb5ad093c5836b46
+2025-11-24T23:41:29.520337+00:00|https://abcnews.go.com/US/video/gobble-waddle-enjoy-hotel-stay-ahead-presidential-turkey-127843683|watch gobble and waddle enjoy hotel stay ahead of presidential turkey pardon us news|e87aa3447bd12fc3362fecb067805646
+2025-11-24T23:41:30.170506+00:00|https://abcnews.go.com/Politics/video/pentagon-investigating-sen-kelly-citing-allegations-misconduct-127843588|watch pentagon investigating sen kelly citing serious allegations of misconduct us news|a0df9d05d1a8a981863ef683d8fbbe01
+2025-11-24T23:41:30.913630+00:00|https://www.nytimes.com/2025/11/24/briefing/comey-ukraine-cliff.html|judge dismisses comey and james cases us news|e23a63733d01881cccf7b843a16dec22
+2025-11-24T23:41:31.608580+00:00|https://abcnews.go.com/US/doj-asks-judges-authorize-release-epstein-maxwell-grand/story|judges asked by doj to release epstein maxwell grand jury materials us news|c5cb98d608ea7b5e7b9a4a79d49bcd48
