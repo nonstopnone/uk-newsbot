@@ -7204,3 +7204,6 @@
 2025-11-24T20:45:03.644255+00:00|https://www.bbc.com/news/articles/cqxqwrlp7r0o|pentagon reviews mark kelly video threatens possible discipline us news|8d1412cd68e2ebed21162cf9d0ee80a8
 2025-11-24T21:23:55.317441+00:00|https://www.nytimes.com/2025/11/24/us/politics/mark-kelly-pentagon-investigation.html|pentagon opens inquiry into senator mark kelly over what hegseth calls seditious video us news|810b7d313babc2613d59f9c8cffb353a
 2025-11-24T21:23:55.779285+00:00|https://www.nbcnews.com/business/markets/stocks-rally-fed-rate-cut-ai-companies-rcna245722|stocks rally on rising hopes for december rate cut and renewed ai enthusiasm us news|0d106f7fd836d72b564a8406da7a4dc2
+2025-11-24T21:41:33.848349+00:00|https://www.bbc.com/news/articles/c9qelv51y23o|us judge dismisses criminal cases against james comey and letitia james us news|41aa01bfea9c5f28e4712fdd08f3505a
+2025-11-24T21:41:34.340152+00:00|https://www.nbcnews.com/now/video/release-of-trump-mobile-phones-plagued-by-delays-252898373941|release of trump mobile phones plagued by delays us news|d3e083be9d05eea57de44238806c630f
+2025-11-24T21:41:35.119544+00:00|https://www.nytimes.com/2025/11/24/nyregion/james-comey-case-dismissed.html|judge tosses criminal charges against james comey and letitia james us news|815644d588415ffbc9948f5f81d42822
