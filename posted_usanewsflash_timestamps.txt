@@ -7179,3 +7179,6 @@
 2025-11-24T15:29:01.578367+00:00|https://www.nytimes.com/2025/11/24/arts/design/alma-allen-venice-biennale.html|alma allen american sculptor is selected for venice biennale us news|7bc882baff9994faead5b972679de1f4
 2025-11-24T15:46:02.618431+00:00|https://www.nytimes.com/2025/11/24/world/americas/trump-bolsonaro-arrest.html|bolsonaros arrest exposes limits to trumps power us news|3a106353a868b5d7fcac8d775ff572d3
 2025-11-24T16:29:05.110769+00:00|https://www.nytimes.com/2025/11/24/nyregion/ny-prison-guards-abuse-brutality.html|restrained beaten asphyxiated new york prison guards brutality grows us news|e8530e72853aa535bc02930d62ec4af1
+2025-11-24T16:46:40.926458+00:00|https://www.nbcnews.com/video/shorts/flooding-displaces-thousands-across-malaysia-252868165684|flooding displaces thousands across malaysia us news|28b41990e8b23352b687b7f53078e61b
+2025-11-24T16:46:41.583133+00:00|https://abcnews.go.com/US/portland-trail-blazers-coach-chauncey-billups-due-court/story|nba coach chauncey billups pleads not guilty to alleged gambling scheme us news|47e0570d804c3be627cf5becfafc14c0
+2025-11-24T16:46:42.290583+00:00|https://www.nytimes.com/2025/11/24/health/social-media-detox-mental-health.html|study finds mental health benefit to oneweek social media break us news|8e2e476c607928c8bfda15d121a3b0c4
