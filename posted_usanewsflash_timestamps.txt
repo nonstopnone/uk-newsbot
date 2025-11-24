@@ -7170,3 +7170,4 @@
 2025-11-24T11:22:26.123483+00:00|https://www.nytimes.com/2025/11/24/us/billionaires-influence-universities-trump.html|billionaires have a bigger role in higher education under president trump us news|4a7b774baacf51a9f2dc9749cfd503d7
 2025-11-24T11:22:26.857015+00:00|https://www.nytimes.com/2025/11/24/world/americas/russia-disinformation-mexico.html|russian disinformation comes to mexico seeking to rupture us ties us news|87b0b694bc6d8564848af3d476eb73e8
 2025-11-24T11:22:27.543482+00:00|https://www.nytimes.com/2025/11/24/health/c-section-rate-decline-solutions.html|these hospitals figured out how to slash csection rates us news|c3c1f3f9601103cfcbd3293dae4f7510
+2025-11-24T11:41:29.584843+00:00|https://abcnews.go.com/International/wireStory/death-toll-climbs-southeast-asia-heavy-rains-cause-127815191|death toll climbs in southeast asia as heavy rains cause floods and landslides us news|2c0de6bc5247941d329de3e56fd3ff28
