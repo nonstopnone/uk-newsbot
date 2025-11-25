@@ -7215,3 +7215,8 @@
 2025-11-24T23:41:31.608580+00:00|https://abcnews.go.com/US/doj-asks-judges-authorize-release-epstein-maxwell-grand/story|judges asked by doj to release epstein maxwell grand jury materials us news|c5cb98d608ea7b5e7b9a4a79d49bcd48
 2025-11-24T23:57:43.721021+00:00|https://www.bbc.com/news/articles/ckgdr1vlz7ko|trump says he will visit china in april after call with xi us news|7ee83fc4fde3609fb57668913f6d9fc5
 2025-11-24T23:57:44.357158+00:00|https://www.nytimes.com/2025/11/24/us/politics/trump-obamacare-subsidies-health-care.html|trump is considering push to extend obamacare subsidies us news|3af4ddb0561eb12869596003b6508b95
+2025-11-25T01:57:18.717806+00:00|https://www.bbc.com/news/articles/cj4qvx08450o|what happens next for marjorie taylor greene after exit from congress us news|3b2b249b34ceaa311e31da9cb8eacd85
+2025-11-25T01:57:19.344428+00:00|https://www.nbcnews.com/nightly-news/video/federal-judge-tosses-charges-against-james-comey-and-letitia-james-252918341520|federal judge tosses charges against james comey and letitia james us news|ce69c6931eb56d787736a74202b9973c
+2025-11-25T01:57:21.514720+00:00|https://www.nytimes.com/2025/11/24/us/politics/schumer-democrats-senate-fight-club.html|schumer faces pushback from fight club group of senate democrats us news|f979a07111913fd0b8ef6875be2725fa
+2025-11-25T01:57:22.099866+00:00|https://www.nytimes.com/2025/11/24/us/coast-guard-hate-policy.html|how the coast guard revised its policy on swastikas nooses and bullying us news|c86a881f5a14f29d4d8b419a09295efb
+2025-11-25T01:57:22.873595+00:00|https://www.nytimes.com/2025/11/24/us/politics/trump-peace-plan-russia-ukraine.html|what to know about trumps peace plan for russia and ukraine us news|2cdbbda5a4be6955bb1944a028142bd4
