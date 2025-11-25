@@ -7277,3 +7277,6 @@
 2025-11-25T22:25:03.400067+00:00|https://www.bbc.com/news/articles/cze832dr2n0o|democrats who told troops to disobey illegal orders push back on alleged fbi probe us news|635c511519679fd568cfaa54093d0ef2
 2025-11-25T22:25:04.108888+00:00|https://www.nytimes.com/2025/11/25/us/indiana-redistricting-republicans.html|indiana lawmakers are poised to vote on redistricting after all us news|257b39fe6a0e7bed33d503d65b6394d7
 2025-11-25T22:25:04.776444+00:00|https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html|signs of fatigue trump faces realities of aging in office us news|8487ab577259dae7b32c4314077dcf20
+2025-11-25T22:57:43.897359+00:00|https://www.bbc.com/news/articles/cvg1l4d8yy9o|canadian pms office and border services not involved in kneecap ban us news|a0bb0674401002d6a16017890ec61a77
+2025-11-25T22:57:44.471999+00:00|https://www.bbc.com/news/articles/c8jwyvdln7yo|what comes next in the james comey and letitia james cases us news|0733ae689fa73468c09462b54e117857
+2025-11-25T22:57:45.049383+00:00|https://www.nytimes.com/2025/11/25/world/canada/penny-oleksiak-swimming-ban-doping-testing.html|penny oleksiak faces twoyear swimming ban over antidoping testing rules us news|4e94d967d3fae3467e14b598de38af5a
