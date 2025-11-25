@@ -7274,3 +7274,6 @@
 2025-11-25T21:23:11.662782+00:00|https://www.nytimes.com/2025/11/25/nyregion/etan-patz-retrial.html|prosecutors prepare to try suspect in etan patz case for the third time us news|22a7e3ac218e8057ff28a2363744d241
 2025-11-25T21:41:14.454366+00:00|https://www.nytimes.com/2025/11/25/us/politics/republicans-trump-obamacare-subsidies.html|once foes of obamacare some republicans push to protect it us news|3f90a09dc9c09b59d6b9fcaaaa5cbeb8
 2025-11-25T21:41:14.989074+00:00|https://www.nbcnews.com/news/us-news/manhattan-da-retry-pedro-hernandez-kidnapping-killing-etan-patz-1979-rcna245947|manhattan da to retry pedro hernandez in the kidnapping and killing of etan patz in 1979 us news|2d2553b984b90398271b8e528fd335f6
+2025-11-25T22:25:03.400067+00:00|https://www.bbc.com/news/articles/cze832dr2n0o|democrats who told troops to disobey illegal orders push back on alleged fbi probe us news|635c511519679fd568cfaa54093d0ef2
+2025-11-25T22:25:04.108888+00:00|https://www.nytimes.com/2025/11/25/us/indiana-redistricting-republicans.html|indiana lawmakers are poised to vote on redistricting after all us news|257b39fe6a0e7bed33d503d65b6394d7
+2025-11-25T22:25:04.776444+00:00|https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html|signs of fatigue trump faces realities of aging in office us news|8487ab577259dae7b32c4314077dcf20
