@@ -7264,3 +7264,7 @@
 2025-11-25T19:40:31.104003+00:00|https://abcnews.go.com/Politics/fbi-attempting-schedule-interviews-6-members-congress-made/story|fbi attempting to schedule interviews with 6 democrats on video posted for troops us news|7bc3903d0b4c30c1bcaa5e9493b69883
 2025-11-25T19:40:31.875294+00:00|https://www.nbcnews.com/health/health-news/controversial-louisiana-surgeon-general-tapped-cdc-leadership-role-rcna245824|controversial louisiana surgeon general tapped for cdc leadership role us news|f6f0ff61566c0f5842ab1e349f447628
 2025-11-25T19:40:32.518397+00:00|https://www.nytimes.com/2025/11/25/nyregion/homeless-funding-grants-nyc.html|new york leads effort to stop plan that could cut housing for 170000 us news|6de2df5dd12c3bde4b8e33a6795a7233
+2025-11-25T20:28:30.513544+00:00|https://www.bbc.com/news/articles/cp34525490qo|viola ford fletcher oldest survivor of tulsa race massacre dies aged 111 us news|b2d405671c0dd6c022942c6105adca2d
+2025-11-25T20:28:31.056680+00:00|https://www.nytimes.com/2025/11/25/us/dc-mayor-muriel-bowser-reelection.html|dc mayor muriel bowser says she wont run for a fourth term us news|16050f4f5c684cb2532b72a2574eec88
+2025-11-25T20:28:31.652763+00:00|https://www.nytimes.com/2025/11/25/nyregion/mamdani-trump-michelle-wu.html|boston mayor wu questions mamdanis approach to meeting with trump us news|5e7cc760d307b9679ff5335e15e12014
+2025-11-25T20:28:32.242367+00:00|https://www.nytimes.com/2025/11/25/us/politics/republicans-trump-ukraine.html|republicans fight with trumps team over ukraine talks us news|0e31b2991a8bdb637fb8b2dd5df21045
