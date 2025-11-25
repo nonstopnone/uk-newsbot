@@ -7237,3 +7237,4 @@
 2025-11-25T11:22:50.509560+00:00|https://www.nytimes.com/2025/11/25/technology/chatgpt-holiday-shopping.html|ai can do more of your shopping this holiday season us news|3681c8c9df0cdcd10c076d20990882dd
 2025-11-25T12:53:13.681228+00:00|https://www.nytimes.com/2025/11/25/world/europe/ukraine-russia-strike-peace-plan.html|russia bombards kyiv even as ukraine claims progress in peace talks us news|3cc2e2d4ae47fffe9ab99c37d2224eba
 2025-11-25T12:53:14.135763+00:00|https://www.nytimes.com/2025/11/25/briefing/are-schools-a-problem.html|are schools a problem us news|9cd5954abaab30135b6a94537bda96c1
+2025-11-25T13:27:06.157148+00:00|https://www.nbcnews.com/world/asia/trump-china-japan-taiwan-xi-jinping-sanae-takaichi-military-response-rcna245801|trump wades into china and japans escalating dispute over taiwan us news|01e878672c2a53ec87040dd0d3f45bb2
