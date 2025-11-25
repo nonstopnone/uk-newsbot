@@ -7235,3 +7235,5 @@
 2025-11-25T11:22:49.385991+00:00|https://www.nytimes.com/2025/11/25/podcasts/the-headlines/trump-comey-james-health-care-costs.html|trumps retribution campaign hits a major roadblock and health care costs set to surge us news|18277f0ca173585d85b20cd90539585b
 2025-11-25T11:22:49.959008+00:00|https://www.nytimes.com/2025/11/25/us/prosecutor-artificial-intelligence-errors-lawyers-california.html|prosecutor used flawed ai to keep a man in jail his lawyers say us news|45ae67af6d6d52a5d1542eb6f8d41bb5
 2025-11-25T11:22:50.509560+00:00|https://www.nytimes.com/2025/11/25/technology/chatgpt-holiday-shopping.html|ai can do more of your shopping this holiday season us news|3681c8c9df0cdcd10c076d20990882dd
+2025-11-25T12:53:13.681228+00:00|https://www.nytimes.com/2025/11/25/world/europe/ukraine-russia-strike-peace-plan.html|russia bombards kyiv even as ukraine claims progress in peace talks us news|3cc2e2d4ae47fffe9ab99c37d2224eba
+2025-11-25T12:53:14.135763+00:00|https://www.nytimes.com/2025/11/25/briefing/are-schools-a-problem.html|are schools a problem us news|9cd5954abaab30135b6a94537bda96c1
