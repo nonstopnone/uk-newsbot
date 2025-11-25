@@ -7251,3 +7251,6 @@
 2025-11-25T17:34:07.476420+00:00|https://www.bbc.com/news/articles/c17x0x2qrejo|who is trumps drone guy dan driscoll taking key role in ukraine talks us news|96e90e32c9cd0013ec26fb00c9d07d95
 2025-11-25T17:34:08.149622+00:00|https://www.nbcnews.com/video/watch-live-trump-2025-turkey-pardon-252983877611|trump hosts the annual thanksgiving turkey pardon us news|b66d66372733955c7e260a39e531e3bb
 2025-11-25T17:34:08.821724+00:00|https://www.nytimes.com/2025/11/25/dining/street-vendors-new-york-food.html|how new york can protect its street vendors us news|694895c167fbdd782c6e6c8332b0c699
+2025-11-25T17:46:28.664045+00:00|https://www.nytimes.com/2025/11/25/us/vahid-abedini-oklahoma-professor-ice.html|vahid abedini university of oklahoma professor released after ice detainment us news|c9999031c356db6a11cb6e98aa8b08e3
+2025-11-25T17:46:29.108318+00:00|https://www.nbcnews.com/politics/donald-trump/trump-adds-two-thanksgiving-turkeys-long-list-second-term-pardons-rcna245820|trump adds two thanksgiving turkeys to his long list of secondterm pardons us news|581a9de99851bac037d398ce7a5b8f52
+2025-11-25T17:46:29.580922+00:00|https://www.nytimes.com/2025/11/25/business/thanksgiving-dinner-cost-turkey-meal-expensive.html|how much will thanksgiving dinner cost it depends on whom you ask us news|f85feb5acd062b1f12c1fdc21c47564a
