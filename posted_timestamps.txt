@@ -1,5 +1,3 @@
-2025-11-18T16:35:16.359605+00:00|https://www.bbc.com/news/articles/cm27j7z38gpo|cryptocurrency worth £11m stolen during car raid|81df46db090ccffba10de716485950bc
-2025-11-18T16:35:27.088213+00:00|https://www.bbc.com/news/articles/c629p9rvel3o|thames water rescue plan attacked by excluded bidders|7cabc67311f4d911c598d10c2d193fea
 2025-11-18T17:38:26.359576+00:00|https://news.sky.com/story/man-killed-ex-partners-sister-and-her-three-children-in-revenge-house-fire-court-told-13472224|man killed expartners sister and her three children in revenge house fire court told|1623105478c4798aedaa08cabca73a39
 2025-11-18T18:44:01.462805+00:00|https://www.bbc.com/news/articles/ckg151kr8dwo|builders who conned elderly branded scum by victim|bbafa0fefe249b151ead34e86cf25664
 2025-11-18T19:22:39.196584+00:00|https://www.bbc.com/news/articles/cz0xkxv29xro|delays to my rapists trial left me terrified survivor tells bbc|9e1ac63db6b2e0f61095c523c7507c59
@@ -113,3 +111,6 @@
 2025-11-25T12:44:57.330601+00:00|https://news.sky.com/story/milkshakes-and-lattes-to-be-hit-with-sugar-tax-wes-streeting-announces-13475164|milkshakes and lattes to be hit with sugar tax wes streeting announces|ab6f99a26f89ea74388138b415b15579
 2025-11-25T13:24:02.362235+00:00|https://news.sky.com/story/sir-terence-english-who-led-uks-first-successful-heart-transplant-operation-dies-aged-93-13475226|surgeon who led uks first successful heart transplant operation dies|68e4c3cbcf35b0f1d7ffe0a7291e323a
 2025-11-25T15:22:53.501008+00:00|https://news.sky.com/story/children-of-murder-victim-muriel-mckay-lose-bid-to-scan-garden-where-remains-are-thought-to-be-buried-13475275|children of murder victim muriel mckay lose bid to scan garden where remains are thought to be buried|4d53971dcdff3c4231402dced000524b
+2025-11-25T16:56:19.615124+00:00|https://www.bbc.com/news/articles/cjdrl1m39dgo|fireworks suspected inside london warehouse fire|cc9524645d1dc6053dc4bda2e7961f3f
+2025-11-25T16:56:30.231926+00:00|https://www.bbc.com/news/articles/cyvgyr302rqo|the school with almost 100 attendance and how they did it|0c2a7a06cf51bb7aa256a13fea023208
+2025-11-25T16:56:40.772069+00:00|https://www.bbc.com/news/articles/cjrj4520rrwo|linehan cleared of harassing trans activist but guilty of damaging phone|a0cb8d32b66f41bcee9536cf312939be
