@@ -118,3 +118,7 @@
 2025-11-26T01:48:10.498952+00:00|https://www.bbc.com/news/articles/cvg1k3pz4n5o|removing twochild benefit cap would be lifechanging|f72fa6d332d16cb852dc22707bd38cc7
 2025-11-26T01:48:21.069184+00:00|https://www.bbc.com/news/articles/cq5qe5egl0xo|fake police scammed us out of nearly £30000|34fcf77831c4298639ee3e37f36fb641
 2025-11-26T09:55:55.897356+00:00|https://www.bbc.com/news/articles/c7839ywj9j7o|council continues legal bid against asylum hotel|6578ea996371146cac32f16e6b0fd0cd
+2025-11-26T13:00:19.112854+00:00|https://www.telegraph.co.uk/money/tax/news/council-tax-calculator-band-thresholds-discount|is your council tax among the highest in the country find out here|4263fdde10f19cf84e01d655bf2b40af
+2025-11-26T13:00:29.825199+00:00|https://news.sky.com/story/openai-denies-allegations-chatgpt-is-responsible-for-teenagers-death-13475591|openai denies allegations chatgpt is responsible for teenagers death|d22ab50e5edf1beeee2091e0e691ca98
+2025-11-26T13:00:40.535017+00:00|https://www.telegraph.co.uk/business/2025/11/26/budget-2025-key-points-at-a-glance|budget 2025 key points at a glance|a7a7e557cf83084ec9275aa1e1d3923f
+2025-11-26T13:00:51.262590+00:00|https://news.sky.com/story/four-people-killed-in-fire-in-high-rise-block-in-hong-kong-13475573|at least 13 people dead and unknown number trapped after huge fire engulfs hong kong highrise|d7baf0003610cd4417b94533e9c32263
