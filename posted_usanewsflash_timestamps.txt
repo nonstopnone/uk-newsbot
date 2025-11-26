@@ -7304,3 +7304,4 @@
 2025-11-26T11:22:28.914876+00:00|https://www.nytimes.com/2025/11/26/science/brandon-williams-nuclear-weapons-nnsa.html|us nuclear arms chief warns against leaks of secret information us news|c3e1fd47ef28ebe08d9cba8686d6dbd8
 2025-11-26T11:22:29.442214+00:00|https://www.nytimes.com/video/us/politics/100000010540099/fact-check-is-trump-right-about-affordability.html|fact check is trump right about affordability us news|3fdb95811e2ebe0754c311a6b2ad6334
 2025-11-26T11:22:29.990616+00:00|https://www.nytimes.com/2025/11/26/us/what-the-pentagons-attack-videos-reveal-about-the-boat-strikes-at-sea.html|what the pentagons attack videos reveal about the boat strikes at sea us news|2e51b0a47402761ff9b26bcd3b810369
+2025-11-26T11:41:04.059475+00:00|https://abcnews.go.com/International/kremlin-aide-preliminary-agreement-place-witkoff-moscow-visit/story|kremlin aide says preliminary agreement in place for witkoff moscow visit next week us news|fd6da9acdd1da7ba8f2751dac648ef74
