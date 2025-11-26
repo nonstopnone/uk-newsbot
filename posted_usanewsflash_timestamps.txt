@@ -7334,3 +7334,5 @@
 2025-11-26T18:32:28.525560+00:00|https://abcnews.go.com/International/massive-fire-engulfs-hong-kong-high-rise-apartment/story|death toll rises as massive fire engulfs hong kong highrise apartment buildings us news|4644e8f3dd43cf0376cf904b719c9824
 2025-11-26T18:32:29.045311+00:00|https://www.nytimes.com/2025/11/26/world/europe/italy-femicide-violence-women.html|italy passes a femicide law seeking to prevent violence against women us news|3194387c55efb842872cf9288129cffa
 2025-11-26T19:19:11.540190+00:00|https://www.nytimes.com/2025/11/26/health/trump-us-world-aids-day.html|trump administration will no longer commemorate world aids day us news|87c31c71562ec31ae4d5f07f6692eb78
+2025-11-26T19:38:57.285187+00:00|https://www.nbcnews.com/video/shorts/georgia-2020-election-interference-case-dropped-253081157846|georgia 2020 election interference case dropped us news|8c8318a688072c82cdff504834b5ae32
+2025-11-26T19:38:57.963104+00:00|https://abcnews.go.com/US/florida-driver-arrested-after-allegedly-strike-lgbtq-running/story|driver arrested after allegedly attempting to strike lgbtq running club with car us news|aea27bfe3efe42aae2774da162df7677
