@@ -7321,3 +7321,5 @@
 2025-11-26T16:32:46.423656+00:00|https://abcnews.go.com/US/georgia-prosecutor-drops-election-interference-case-trump/story|georgia prosecutor drops election interference case against trump others us news|f43c1cc772ae9121a4393eed18774b4a
 2025-11-26T16:32:47.027951+00:00|https://www.nytimes.com/2025/11/26/us/trump-georgia-election-racketeering.html|judge dismisses georgia election interference case against trump us news|3a12bf65545d54bb18407aa114f34948
 2025-11-26T16:32:47.636611+00:00|https://www.nytimes.com/2025/11/26/nyregion/julie-menin-nyc-city-council.html|a moderate from manhattan claims enough support to lead city council us news|7fc497a6c66cf4d47edf1061b6512651
+2025-11-26T16:52:36.948052+00:00|https://www.bbc.com/news/articles/czxpd8pv4gyo|georgia prosecutor drops 2020 election interference case against trump us news|a2323c2b929ae282d083067c31af75c2
+2025-11-26T16:52:37.713725+00:00|https://www.bbc.com/news/articles/cq8dqqddpe8o|fallout from illegal orders video escalates battle with democrats over us patriotism us news|a3dfceabcd71ad32154a524eac8dc89b
