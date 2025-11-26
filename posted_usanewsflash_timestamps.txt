@@ -7325,3 +7325,6 @@
 2025-11-26T16:52:37.713725+00:00|https://www.bbc.com/news/articles/cq8dqqddpe8o|fallout from illegal orders video escalates battle with democrats over us patriotism us news|a3dfceabcd71ad32154a524eac8dc89b
 2025-11-26T17:23:58.209911+00:00|https://www.nytimes.com/2025/11/26/business/scott-bessent-inflation.html|as prices pinch bessent looks for ways to mollify wary consumers us news|5dcba0290386173c47174bdff8f06264
 2025-11-26T17:23:58.699519+00:00|https://www.nytimes.com/2025/11/26/world/africa/guinea-bissau-coup.html|army takes control in guineabissau us news|5f585de5301e9e9fbbfc5d8711a347f2
+2025-11-26T17:57:43.416137+00:00|https://abcnews.go.com/US/video/georgia-prosecutor-drops-election-interference-case-president-trump-127896338|watch georgia prosecutor drops election interference case against president trump us news|ba1ee225d50214cf0f8600025424552c
+2025-11-26T17:57:44.042229+00:00|https://www.nytimes.com/2025/11/26/theater/macys-thanksgiving-day-parade-broadway.html|broadway performers rehearse for the macys thanksgiving day parade us news|cd7c2da6d7892c251d692de35c9270fb
+2025-11-26T17:57:44.656213+00:00|https://abcnews.go.com/Travel/video/storms-disrupting-thanksgiving-travel-plans-127902408|watch storms disrupting thanksgiving travel plans us news|8386076e7290d6f5dafd349687a4c374
