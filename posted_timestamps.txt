@@ -122,3 +122,4 @@
 2025-11-26T13:00:29.825199+00:00|https://news.sky.com/story/openai-denies-allegations-chatgpt-is-responsible-for-teenagers-death-13475591|openai denies allegations chatgpt is responsible for teenagers death|d22ab50e5edf1beeee2091e0e691ca98
 2025-11-26T13:00:40.535017+00:00|https://www.telegraph.co.uk/business/2025/11/26/budget-2025-key-points-at-a-glance|budget 2025 key points at a glance|a7a7e557cf83084ec9275aa1e1d3923f
 2025-11-26T13:00:51.262590+00:00|https://news.sky.com/story/four-people-killed-in-fire-in-high-rise-block-in-hong-kong-13475573|at least 13 people dead and unknown number trapped after huge fire engulfs hong kong highrise|d7baf0003610cd4417b94533e9c32263
+2025-11-26T13:40:06.389753+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/why-cutting-aid-to-buy-bombs-is-making-us-less-safe|why cutting aid to buy bombs is making us less safe|eae1e1848d5416207b228736c15fe77a
