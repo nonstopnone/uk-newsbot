@@ -7361,3 +7361,6 @@
 2025-11-27T01:55:34.406164+00:00|https://www.nytimes.com/2025/11/26/us/politics/trump-national-guard-dc-shooting.html|trump orders 500 more national guard troops to dc after shooting us news|12ca481ca7732506476a137a6e8c0bb3
 2025-11-27T01:55:34.923503+00:00|https://www.nytimes.com/2025/11/26/us/politics/witkoff-leaked-transcript-deference-russia.html|leaked transcript of witkoff call shows us deference to russia us news|e97421495698867e63e77007eb65482f
 2025-11-27T01:55:35.741616+00:00|https://www.nbcnews.com/video/shorts/balloons-inflate-ahead-of-macy-s-thanksgiving-parade-253114437633|balloons inflate ahead of macys thanksgiving parade us news|b1562076363683cb5469cad8a7586d2c
+2025-11-27T03:15:51.513496+00:00|https://www.nbcnews.com/video/shorts/two-teens-rescued-from-floodwaters-in-mississippi-253124677855|two teens rescued from floodwaters in mississippi us news|def9a261aef60f53663b25d5a8d1a4a0
+2025-11-27T03:15:52.155978+00:00|https://www.nbcnews.com/video/shorts/police-subdue-suspect-after-d-c-shooting-253124677944|police subdue suspect after dc shooting us news|18afdc5d21d3840f952d906c2d415d81
+2025-11-27T03:15:52.791634+00:00|https://abcnews.go.com/US/19-year-college-student-deported-despite-judges-order/story|19yearold college student deported despite judges order blocking her removal us news|c4e2ed168c92aadc6da16b183d458e93
