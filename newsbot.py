@@ -186,45 +186,46 @@ SPORTS_PREVIEW_KEYWORDS = [
     "preview", "prediction", "odds", "betting"
 ]
 UK_KEYWORDS = {
-    "london": 3, "parliament": 3, "westminster": 3, "downing street": 3, "buckingham palace": 3,
-    "nhs": 3, "bank of england": 3, "ofgem": 3, "bbc": 3, "itv": 3, "sky news": 3,
-    "manchester": 3, "birmingham": 3, "glasgow": 3, "edinburgh": 3, "cardiff": 3, "belfast": 3,
-    "liverpool": 3, "leeds": 3, "bristol": 3, "newcastle": 3, "sheffield": 3, "nottingham": 3,
-    "leominster": 3, "herefordshire": 3, "shropshire": 3, "worcestershire": 3, "devon": 3, "cornwall": 3,
-    "norfolk": 3, "suffolk": 3, "kent": 3, "sussex": 3, "essex": 3, "yorkshire": 3, "cumbria": 3,
-    "premier league": 3, "wimbledon": 3, "glastonbury": 3, "the ashes": 3, "royal ascot": 3,
-    "house of commons": 3, "house of lords": 3, "met police": 3, "scotland yard": 3,
-    "national trust": 3, "met office": 3, "british museum": 3, "tate modern": 3,
-    "level crossing": 3, "west midlands railway": 3, "network rail": 3,
-    "ofsted": 3, "dvla": 3, "hmrc": 3, "dwp": 3, "tory": 3, "labour party": 3, "reform uk": 3, "plaid cymru": 3,
-    "brighton": 3, "southampton": 3, "plymouth": 3, "hull": 3, "derby": 3,
-    "uk": 5, "britain": 5, "united kingdom": 5, "england": 4, "scotland": 4, "wales": 4, "northern ireland": 4,
-    "british": 3, "labour": 3, "conservative": 3, "lib dem": 3, "snp": 3, "green party": 3,
-    "king charles": 3, "queen camilla": 3, "prince william": 3, "princess kate": 3,
-    "keir starmer": 3, "rachel reeves": 3, "kemi badenoch": 3, "ed davey": 3, "john swinney": 3,
-    "angela rayner": 3, "nigel farage": 3, "carla denyer": 3, "adrian ramsay": 3,
-    "yvette cooper": 3, "david lammy": 3, "pat mcfadden": 3, "shabana mahmood": 3,
-    "wes streeting": 3, "john healey": 3,
-    "brexit": 3, "pound sterling": 3, "great british": 3, "oxford": 3, "cambridge": 3,
+    "london": 4, "parliament": 4, "westminster": 4, "downing street": 4, "buckingham palace": 4,
+    "nhs": 4, "bank of england": 4, "ofgem": 4, "bbc": 4, "itv": 4, "sky news": 4,
+    "manchester": 4, "birmingham": 4, "glasgow": 4, "edinburgh": 4, "cardiff": 4, "belfast": 4,
+    "liverpool": 4, "leeds": 4, "bristol": 4, "newcastle": 4, "sheffield": 4, "nottingham": 4,
+    "leominster": 4, "herefordshire": 4, "shropshire": 4, "worcestershire": 4, "devon": 4, "cornwall": 4,
+    "norfolk": 4, "suffolk": 4, "kent": 4, "sussex": 4, "essex": 4, "yorkshire": 4, "cumbria": 4,
+    "premier league": 4, "wimbledon": 4, "glastonbury": 4, "the ashes": 4, "royal ascot": 4,
+    "house of commons": 4, "house of lords": 4, "met police": 4, "scotland yard": 4,
+    "national trust": 4, "met office": 4, "british museum": 4, "tate modern": 4,
+    "level crossing": 4, "west midlands railway": 4, "network rail": 4,
+    "ofsted": 4, "dvla": 4, "hmrc": 4, "dwp": 4, "tory": 4, "labour party": 4, "reform uk": 4, "plaid cymru": 4,
+    "brighton": 4, "southampton": 4, "plymouth": 4, "hull": 4, "derby": 4,
+    "uk": 5, "britain": 5, "united kingdom": 5, "england": 5, "scotland": 5, "wales": 5, "northern ireland": 5,
+    "british": 4, "labour": 4, "conservative": 4, "lib dem": 4, "snp": 4, "green party": 4,
+    "king charles": 4, "queen camilla": 4, "prince william": 4, "princess kate": 4,
+    "keir starmer": 4, "rachel reeves": 4, "kemi badenoch": 4, "ed davey": 4, "john swinney": 4,
+    "angela rayner": 4, "nigel farage": 4, "carla denyer": 4, "adrian ramsay": 4,
+    "yvette cooper": 4, "david lammy": 4, "pat mcfadden": 4, "shabana mahmood": 4,
+    "wes streeting": 4, "john healey": 4,
+    "brexit": 4, "pound sterling": 4, "great british": 4, "oxford": 4, "cambridge": 4,
     "village": 2, "county": 2, "borough": 2, "railway": 2,
-    "government": 1, "economy": 1, "policy": 1, "election": 1, "inflation": 1, "cost of living": 1,
-    "prime minister": 2, "chancellor": 2, "home secretary": 2, "a-levels": 2, "gcse": 2,
-    "council tax": 2, "energy price cap": 2, "high street": 2, "pub": 2, "motorway": 2,
-    "council": 2, "home office": 2, "raducanu": 3, "councillor": 2, "hospital": 1,
-    "morrisons": 3, "co-op": 3, "iceland": 3, "whole foods": 3,
-    "sainsbury's": 3, "tesco": 3, "asda": 3, "marks and spencer": 3, "waitrose": 3,
-    "borough market": 3, "portobello market": 3, "covent garden": 3,
-    "stonehenge": 3, "lake district": 3, "snowdonia": 3, "giant's causeway": 3,
-    "hadrian's wall": 3, "edinburgh festival": 3, "notting hill carnival": 3,
-    "british airways": 3, "easyjet": 3, "ryanair": 3, "heathrow": 3, "gatwick": 3,
-    "london underground": 3, "tube": 3, "national rail": 3,
-    "stormont": 3, "senedd": 3, "holyrood": 3,
-    "sterling": 2, "british isles": 2, "english channel": 2, "north sea": 2,
-    "channel tunnel": 2, "eurostar": 2, "ferry": 2, "dover": 2, "calais": 2,
+    "government": 2, "economy": 2, "policy": 2, "election": 2, "inflation": 2, "cost of living": 2,
+    "prime minister": 3, "chancellor": 3, "home secretary": 3, "a-levels": 3, "gcse": 3,
+    "council tax": 3, "energy price cap": 3, "high street": 3, "pub": 3, "motorway": 3,
+    "council": 3, "home office": 3, "raducanu": 4, "councillor": 3, "hospital": 2,
+    "morrisons": 4, "co-op": 4, "iceland": 4, "whole foods": 4,
+    "sainsbury's": 4, "tesco": 4, "asda": 4, "marks and spencer": 4, "waitrose": 4,
+    "borough market": 4, "portobello market": 4, "covent garden": 4,
+    "stonehenge": 4, "lake district": 4, "snowdonia": 4, "giant's causeway": 4,
+    "hadrian's wall": 4, "edinburgh festival": 4, "notting hill carnival": 4,
+    "british airways": 4, "easyjet": 4, "ryanair": 4, "heathrow": 4, "gatwick": 4,
+    "london underground": 4, "tube": 4, "national rail": 4,
+    "stormont": 4, "senedd": 4, "holyrood": 4,
+    "sterling": 3, "british isles": 3, "english channel": 3, "north sea": 3,
+    "channel tunnel": 3, "eurostar": 3, "ferry": 3, "dover": 3, "calais": 3,
     "ireland": -1, "republic of ireland": -2
 }
 NEGATIVE_KEYWORDS = {
-    "washington dc": -3, "congress": -3, "senate": -3, "white house": -3, "capitol hill": -3,
+    "washington": -3, "washington dc": -3, "houston": -3, "arlington": -3, "charleston": -3, "newton": -3, "clinton": -3, "hampton": -3, "burlington": -3,
+    "congress": -3, "senate": -3, "white house": -3, "capitol hill": -3,
     "california": -3, "texas": -3, "new york": -3, "los angeles": -3, "chicago": -3,
     "florida": -3, "boston": -3, "miami": -3, "san francisco": -3, "seattle": -3,
     "fbi": -3, "cia": -3, "pentagon": -3, "supreme court": -3, "biden": -3, "trump": -3,
@@ -257,6 +258,7 @@ def calculate_uk_relevance_score(text, url=""):
     score = 0
     matched_keywords = {}
     text_lower = text.lower()
+    negative_keys = set(k.lower() for k in NEGATIVE_KEYWORDS)
     for keyword, weight in UK_KEYWORDS.items():
         count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text_lower))
         if count > 0:
@@ -273,6 +275,8 @@ def calculate_uk_relevance_score(text, url=""):
     placenames += re.findall(r'\b(\w+\s+\w+(shire|ford|ton|ham|bridge|cester))\b', text_lower)
     for pn in placenames:
         pn_lower = pn[0].lower()
+        if pn_lower in negative_keys:
+            continue
         if pn_lower not in UK_KEYWORDS:
             count = len(re.findall(r'\b' + re.escape(pn_lower) + r'\b', text_lower))
             score += 2 * count
