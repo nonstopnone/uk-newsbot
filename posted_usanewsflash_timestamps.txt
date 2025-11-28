@@ -7421,3 +7421,4 @@
 2025-11-28T04:30:07.470158+00:00|https://www.nytimes.com/2025/11/27/us/politics/trump-national-guard-shooting.html|trump uses national guard shooting to cast suspicion on refugees us news|1cd199a8219df2f508d241d775070da9
 2025-11-28T08:34:22.624847+00:00|https://www.nytimes.com/2025/11/28/us/national-guard-shooting-washington.html|national guard soldier dies after being shot in washington us news|9bd75aba083e388c75c0cd629129c690
 2025-11-28T08:34:23.270967+00:00|https://abcnews.go.com/International/hong-kong-fire-death-toll-rises-55-people/story|hong kong fire death toll rises to 128 people officials say us news|d06aa59e627e8f7060209b12c5f8bd13
+2025-11-28T08:53:34.763286+00:00|https://www.nytimes.com/2025/11/28/world/europe/ukraine-yermak-corruption-peace-talks.html|property tied to ukraines lead negotiator is searched in corruption case us news|90272a1350d8119c111afe1921c8ccaa
