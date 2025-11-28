@@ -7446,3 +7446,5 @@
 2025-11-28T18:34:23.869667+00:00|https://www.nytimes.com/2025/11/28/us/politics/trumps-response-to-shooting-shows-intensified-anti-migrant-stance.html|trumps response to shooting shows intensified antimigrant stance us news|92e931f9696bd2d43ffcfc03302af5d9
 2025-11-28T18:34:24.580128+00:00|https://www.nytimes.com/2025/11/28/arts/music/john-tesh-roundball-rock-nba-song.html|john tesh keeps bouncing bababababa back us news|355b40925360e85cf04ac8a085a53b85
 2025-11-28T18:34:25.753171+00:00|https://www.nytimes.com/2025/11/28/business/stock-markets-november-sp500.html|late rally pushes stocks back near record high us news|9d899de03e2a4a45c4d0d33a4a2581aa
+2025-11-28T18:50:52.941032+00:00|https://www.nytimes.com/2025/11/28/world/europe/yermak-zelensky-ukraine-what-to-know.html|andriy yermak resigns what to know about ukrainian official us news|cafeb2cd4fc792b8a309c84122ad8bcb
+2025-11-28T18:50:53.402886+00:00|https://www.nytimes.com/2025/11/28/us/politics/gas-works-park-teen-death.html|seattles gas works park seen as a public nuisance after a suicide us news|09b82e9738ecd94c128fdd8a29fdc38d
