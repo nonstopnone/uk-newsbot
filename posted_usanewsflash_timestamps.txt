@@ -7435,3 +7435,5 @@
 2025-11-28T13:47:10.640891+00:00|https://www.nytimes.com/2025/11/28/us/trump-immigration-pause-third-world-countries.html|trump says us will pause migration from third world countries after dc shooting us news|521d9f29f47f3743d12a2ac5a4131574
 2025-11-28T14:44:24.540107+00:00|https://www.nytimes.com/2025/11/28/world/middleeast/israel-west-bank-shooting-palestinians-video.html|israeli forces kill two palestinians in west bank after they appear to surrender video shows us news|7df05dd412d7837b93c9ca22698742ed
 2025-11-28T14:57:47.115957+00:00|https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html|pope leo visits turkey on his first trip as pontiff us news|e042d2c974591d2689ba18abc7677acc
+2025-11-28T15:57:44.983520+00:00|https://www.nytimes.com/2025/11/28/world/europe/israel-syria-raid-beit-jinn.html|israeli raid in southern syria kills at least 13 syrian officials say us news|9971a2a73834df27fe4b7be642e3aa86
+2025-11-28T15:57:45.489581+00:00|https://www.nytimes.com/2025/11/28/world/europe/zelensky-yermak-resigns-ukraine-corruption-scandal.html|andriy yermak zelenskys chief of staff resigns us news|4a4f56055cc2db09be3b643238808cb0
