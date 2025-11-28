@@ -7450,3 +7450,5 @@
 2025-11-28T18:50:53.402886+00:00|https://www.nytimes.com/2025/11/28/us/politics/gas-works-park-teen-death.html|seattles gas works park seen as a public nuisance after a suicide us news|09b82e9738ecd94c128fdd8a29fdc38d
 2025-11-28T19:38:58.560318+00:00|https://www.nytimes.com/2025/11/28/world/europe/austria-nuns-abbot-escape-senior-home.html|rebel nuns can live in old abbey if they give up social media us news|9bbd7c41c7b33f55f5b5b210091a6e7f
 2025-11-28T19:57:25.691069+00:00|https://www.nbcnews.com/video/shorts/dozens-killed-by-floods-and-landslides-in-sri-lanka-253260357763|dozens killed by floods and landslides in sri lanka us news|099aac64330150a738474b8ebdffc184
+2025-11-28T22:42:10.896346+00:00|https://www.bbc.com/news/articles/cly3e1261dko|how were afghan evacuees vetted under biden us news|9c182364b7ba9c940c81bd750dd03fba
+2025-11-28T22:42:11.431064+00:00|https://www.nbcnews.com/politics/trump-administration/trump-cancelling-biden-executive-orders-signed-autopen-rcna246373|trump cancelling biden executive orders signed by autopen us news|76cae92649d95b79dfc96fbee94c81f7
