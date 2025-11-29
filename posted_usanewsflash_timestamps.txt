@@ -7477,3 +7477,4 @@
 2025-11-29T20:57:36.755899+00:00|https://www.nytimes.com/2025/11/29/nyregion/ice-raids-protests-nyc.html|several arrested as protesters block ice agents from a potential raid in nyc us news|364b0432407d237c558b63b8bf2650a4
 2025-11-29T22:23:04.464154+00:00|https://www.nytimes.com/2025/11/29/us/politics/trump-aides-ukraine-florida-meeting.html|top trump aides to meet with ukrainians in florida on sunday us news|c6cfb238cab3b3fff182c3859e8891ec
 2025-11-29T23:22:50.598289+00:00|https://abcnews.go.com/US/afghan-national-arrested-alleged-bomb-threat-texas-dhs/story|afghan national arrested over alleged bomb threat in texas dhs us news|eeab7b2f3155567f7218959afe3f6d76
+2025-11-29T23:40:45.576399+00:00|https://www.nbcnews.com/news/us-news/protesters-block-federal-agents-leaving-parking-garage-nyc-raid-rcna246474|protesters block federal agents from leaving parking garage for nyc raid us news|3e8a334929befb3c6ef71c2bc138f850
