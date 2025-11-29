@@ -7469,3 +7469,4 @@
 2025-11-29T14:57:43.108336+00:00|https://www.nbcnews.com/world/venezuela/trump-airlines-venezuela-airspace-closed-entirety-tensions-rcna246422|trump tells airlines venezuelas airspace is closed in its entirety as tensions rise us news|6f9069b0b5f9ac6a6dc032558ce3f147
 2025-11-29T15:22:58.338265+00:00|https://www.nytimes.com/2025/11/29/us/politics/trump-venezuela-maduro-airspace.html|trump declares venezuelan airspace closed us news|3bb60cf7dc22d5f90ad472ca5deef1fc
 2025-11-29T16:57:49.256506+00:00|https://www.bbc.com/news/articles/c741mpdyw9no|consider airspace around venezuela closed trump says us news|73e39e4ef25ec2148ea289f9a689e0be
+2025-11-29T17:40:47.155490+00:00|https://abcnews.go.com/US/new-orleans-prepares-federal-immigration-crackdown/story|new orleans prepares for possible federal immigration crackdown us news|5867d39f7235935e57ea9a3197846b3b
