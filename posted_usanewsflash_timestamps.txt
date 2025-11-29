@@ -7460,3 +7460,4 @@
 2025-11-29T01:54:51.210896+00:00|https://abcnews.go.com/Politics/trump-permanently-pause-migration-countries-after-national-guard/story|trump admin announces pause on asylum decisions after national guardsmen shooting us news|29f2a4b37da779cc993948e473d71065
 2025-11-29T01:54:52.434603+00:00|https://www.nytimes.com/2025/11/28/us/politics/trump-affirmative-asylum.html|trump pauses domestic applications for asylum us news|91ee2f8562b37fb06d64f0a66ca9ba28
 2025-11-29T01:54:53.197821+00:00|https://abcnews.go.com/Politics/hegseth-declines-comment-report-boat-survivors-killed-result/story|hegseth declines to comment on report that boat survivors were killed on his orders us news|d77f76ddb0cbea0f7fcf820adad2725b
+2025-11-29T03:04:47.290632+00:00|https://www.nytimes.com/2025/11/28/us/national-guard-shooting-west-virginia.html|two west virginia communities bound together by grief us news|3ba2760d62a18a983e007331033255a3
