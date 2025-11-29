@@ -7470,3 +7470,5 @@
 2025-11-29T15:22:58.338265+00:00|https://www.nytimes.com/2025/11/29/us/politics/trump-venezuela-maduro-airspace.html|trump declares venezuelan airspace closed us news|3bb60cf7dc22d5f90ad472ca5deef1fc
 2025-11-29T16:57:49.256506+00:00|https://www.bbc.com/news/articles/c741mpdyw9no|consider airspace around venezuela closed trump says us news|73e39e4ef25ec2148ea289f9a689e0be
 2025-11-29T17:40:47.155490+00:00|https://abcnews.go.com/US/new-orleans-prepares-federal-immigration-crackdown/story|new orleans prepares for possible federal immigration crackdown us news|5867d39f7235935e57ea9a3197846b3b
+2025-11-29T18:33:16.976330+00:00|https://www.nytimes.com/2025/11/29/business/economy/black-friday-spending.html|us black friday sales defy tariffs and economic woes us news|cb42350794d8d3f9bd3b4eff922ce727
+2025-11-29T18:33:17.665478+00:00|https://www.nbcnews.com/video/shorts/three-injured-in-black-friday-shooting-at-bay-area-mall-253293125704|three injured in black friday shooting at bay area mall us news|9a8ff122d3af80a0d773453b88f9fbff
