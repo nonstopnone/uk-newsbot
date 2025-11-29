@@ -7462,3 +7462,4 @@
 2025-11-29T01:54:53.197821+00:00|https://abcnews.go.com/Politics/hegseth-declines-comment-report-boat-survivors-killed-result/story|hegseth declines to comment on report that boat survivors were killed on his orders us news|d77f76ddb0cbea0f7fcf820adad2725b
 2025-11-29T03:04:47.290632+00:00|https://www.nytimes.com/2025/11/28/us/national-guard-shooting-west-virginia.html|two west virginia communities bound together by grief us news|3ba2760d62a18a983e007331033255a3
 2025-11-29T05:43:07.067915+00:00|https://www.nytimes.com/2025/11/29/us/politics/state-dept-south-korea-visas.html|state department boosts resources to process business visas for south koreans us news|0a99ea6ba465f9c269331f6a27ce8b29
+2025-11-29T07:22:46.396029+00:00|https://abcnews.go.com/US/wireStory/shopping-mall-shooting-wounds-2-prompts-black-friday-127956673|shopping mall shooting wounds 2 prompts black friday evacuation in the bay area us news|ce27941a7f1f0363b721e8821bc11538
