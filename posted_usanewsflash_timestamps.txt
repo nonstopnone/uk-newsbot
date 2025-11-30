@@ -7504,3 +7504,5 @@
 2025-11-30T17:57:32.839147+00:00|https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html|pope leo calls for a twostate solution in mideast conflict us news|d9e303b44f28a3c7c555ed1053f6f965
 2025-11-30T17:57:33.389160+00:00|https://www.nytimes.com/2024/12/10/world/middleeast/the-netanyahu-corruption-trial-explained.html|the netanyahu corruption trial explained us news|2f03969e20196a8e41b302fefdd9d8fd
 2025-11-30T18:33:28.559353+00:00|https://www.nytimes.com/2025/11/30/us/politics/trump-boat-strikes-war-crime.html|lawmakers suggest followup boat strike could be a war crime us news|af46ad9ec700b94d9c36b0897a75c602
+2025-11-30T20:27:04.139342+00:00|https://www.nbcnews.com/video/shorts/shooting-at-california-banquet-hall-leaves-4-dead-253313605712|shooting at california banquet hall leaves 4 dead us news|b63040b3e397fbdee91635f5aa1fb004
+2025-11-30T20:27:04.743177+00:00|https://www.nbcnews.com/video/shorts/bear-takes-up-residence-in-california-home-s-crawlspace-253312581740|bear takes up residence in california homes crawlspace us news|3b24ba6892f85d06d78e1863ee55e61c
