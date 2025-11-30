@@ -7503,3 +7503,4 @@
 2025-11-30T16:29:20.590950+00:00|https://www.nbcnews.com/video/shorts/trump-venezuelan-airspace-should-be-deemed-closed-253308485961|trump venezuelan airspace should be deemed closed us news|ab3706fa6938358c0fd8d88d5df8c43b
 2025-11-30T17:57:32.839147+00:00|https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html|pope leo calls for a twostate solution in mideast conflict us news|d9e303b44f28a3c7c555ed1053f6f965
 2025-11-30T17:57:33.389160+00:00|https://www.nytimes.com/2024/12/10/world/middleeast/the-netanyahu-corruption-trial-explained.html|the netanyahu corruption trial explained us news|2f03969e20196a8e41b302fefdd9d8fd
+2025-11-30T18:33:28.559353+00:00|https://www.nytimes.com/2025/11/30/us/politics/trump-boat-strikes-war-crime.html|lawmakers suggest followup boat strike could be a war crime us news|af46ad9ec700b94d9c36b0897a75c602
