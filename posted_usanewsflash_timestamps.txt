@@ -7487,3 +7487,6 @@
 2025-11-30T06:36:39.454824+00:00|https://www.bbc.com/news/articles/cvg81p61dnmo|four killed in shooting at childs birthday party in california us news|86c719c213b827af08c6a3d08ee6994e
 2025-11-30T06:36:39.941709+00:00|https://www.nytimes.com/2025/11/30/style/cory-booker-wedding-alexis-lewis.html|cory booker weds alexis lewis in a private ceremony us news|810507600ceae98deea3ebd00f3f0d8a
 2025-11-30T07:21:53.223537+00:00|https://www.nbcnews.com/video/multiple-people-dead-several-others-injured-in-california-shooting-253303365834|multiple people dead several others injured in california shooting us news|967b09dd6dc0c73fa5059ab90783083f
+2025-11-30T10:57:34.524688+00:00|https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html|silicon valleys man in the white house is benefiting himself and his friends us news|a03b0aabf0afa0a4c8929b7c32b686b9
+2025-11-30T10:57:34.991641+00:00|https://www.nytimes.com/2025/11/30/nyregion/mamdani-tisch-nypd-surveillance.html|mamdani a sharp critic of police surveillance will soon oversee it us news|775d59949b6747a4a1e6463d9f6eb7d5
+2025-11-30T10:57:35.470290+00:00|https://www.nytimes.com/2025/11/30/world/asia/flooding-indonesia-thailand-southeast-asia.html|deadly floods in indonesia leave hundreds missing us news|7477ec613f61ad08bbe091931ce0916a
