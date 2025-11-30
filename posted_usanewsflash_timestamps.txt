@@ -7492,3 +7492,4 @@
 2025-11-30T10:57:35.470290+00:00|https://www.nytimes.com/2025/11/30/world/asia/flooding-indonesia-thailand-southeast-asia.html|deadly floods in indonesia leave hundreds missing us news|7477ec613f61ad08bbe091931ce0916a
 2025-11-30T11:18:53.885800+00:00|https://www.nytimes.com/2025/11/30/world/middleeast/netanyahu-pardon-request-israel.html|israels netanyahu requests pardon in corruption cases us news|59e215d7475a7bc74986d14030ce53db
 2025-11-30T12:47:28.267815+00:00|https://abcnews.go.com/International/death-toll-climbs-146-hong-kong-high-rise/story|death toll climbs to 146 in hong kong highrise fire officials say us news|b2b23b660ae1c3fd9280362949e33ff5
+2025-11-30T13:16:22.720599+00:00|https://www.nbcnews.com/health/mental-health/doctors-seek-understand-quitting-antidepressants-causes-withdrawal-rcna243744|doctors seek to understand why quitting antidepressants causes withdrawal for some us news|9792e0e71a7debf520553e2e8f195919
