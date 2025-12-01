@@ -7549,3 +7549,4 @@
 2025-12-01T19:10:51.930524+00:00|https://www.bbc.com/news/articles/clyx1ge9gg5o|starbucks to pay nyc workers $35m after alleged labour law violations us news|6896f065f8379e718193775ae9716be1
 2025-12-01T19:10:52.595526+00:00|https://www.nbcnews.com/politics/2026-election/indiana-republicans-swatting-attacks-redistricting-rcna246689|at least 9 indiana republicans were swatting targets amid redistricting pressure from trump us news|35126892fc910e36f442fdfa8dbb8f21
 2025-12-01T20:57:33.009205+00:00|https://abcnews.go.com/Politics/wireStory/schumer-new-york-offices-targeted-bomb-threats-128014232|schumer says three of his new york offices were targeted with bomb threats us news|4cb8bbaf96a728cbd7d266cc3a07895b
+2025-12-01T21:21:05.222826+00:00|https://abcnews.go.com/US/white-house-physician-trumps-imaging-test-results-perfectly/story|white house physician says trumps imaging test results were perfectly normal us news|ab0b67a86cf0f313d7214d2b4be5be33
