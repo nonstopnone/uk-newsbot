@@ -7555,3 +7555,5 @@
 2025-12-01T22:23:56.850131+00:00|https://www.nbcnews.com/politics/donald-trump/white-house-trump-underwent-mri-heart-abdomen-october-normal-rcna246837|white house says trump had mri on heart and abdomen last month and all was normal us news|165c257850fe5b2097fc0294af9179e6
 2025-12-01T22:23:57.427113+00:00|https://www.nytimes.com/2025/12/01/climate/fema-reinstates-workers-letter-leave.html|fema wont reinstate suspended workers who signed letter criticizing trump us news|a24755da5793b8235d4a4a089757cdea
 2025-12-01T22:43:47.165295+00:00|https://www.bbc.com/news/articles/cn5lx240greo|white house doctor releases trumps perfectly normal mri results us news|d5c3b76b2c962c08072ed1e8086ac2ce
+2025-12-01T23:42:20.513956+00:00|https://www.nytimes.com/2025/12/01/briefing/a-crucial-week-in-ukraine-peace-negotiations.html|a crucial week in ukraine peace negotiations us news|9d30794bc09afbaaf4cbe26c10c45190
+2025-12-01T23:42:21.204926+00:00|https://abcnews.go.com/Politics/sen-kelly-slams-trump-calls-investigation-caribbean-strikes/story|sen kelly slams trump calls for investigation into caribbean strikes us news|ee945badcb04de4333a26cbe7ff37228
