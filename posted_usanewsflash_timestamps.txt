@@ -7551,3 +7551,4 @@
 2025-12-01T20:57:33.009205+00:00|https://abcnews.go.com/Politics/wireStory/schumer-new-york-offices-targeted-bomb-threats-128014232|schumer says three of his new york offices were targeted with bomb threats us news|4cb8bbaf96a728cbd7d266cc3a07895b
 2025-12-01T21:21:05.222826+00:00|https://abcnews.go.com/US/white-house-physician-trumps-imaging-test-results-perfectly/story|white house physician says trumps imaging test results were perfectly normal us news|ab0b67a86cf0f313d7214d2b4be5be33
 2025-12-01T21:39:25.703333+00:00|https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834|white house confirms second sept 2 strike on alleged drug boat us news|0476be22bbfbf44cd3faac987c42faef
+2025-12-01T21:57:22.232332+00:00|https://www.bbc.com/news/articles/c0r95q9kv1go|us navy commander ordered second venezuela boat strike white house says us news|4e6afbec7d96cee84f44b4f920088b4b
