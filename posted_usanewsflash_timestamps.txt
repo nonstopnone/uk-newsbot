@@ -7526,3 +7526,4 @@
 2025-12-01T11:22:59.320010+00:00|https://abcnews.go.com/US/death-afghan-commander-financial-stress-surface-national-guard/story|national guardsmen shooting suspect afghan commanders death financial woes surface us news|e68b2b9d4b57ac7118394a78a55f7ce0
 2025-12-01T11:22:59.966945+00:00|https://www.nytimes.com/2025/12/01/world/middleeast/netanyahu-pardon-corruption-israel-trump.html|netanyahus pardon request borrows from trumps playbook us news|dee0e4f32a6dfaf4361111d165e8cd4e
 2025-12-01T11:23:00.633110+00:00|https://www.nytimes.com/2025/12/01/science/hawaii-bird-flu-h5n1-monk-seals.html|inside the birdflu vaccine trial for monk seals us news|c7cdecd42d7ecdd2c0dac27d39467ead
+2025-12-01T11:41:40.706784+00:00|https://www.nytimes.com/2025/12/01/us/politics/supreme-court-copyright-music-piracy.html|supreme court to hear copyright battle over online music piracy us news|047bf7b774b5dfaba26b795f7ab4bc58
