@@ -7557,3 +7557,4 @@
 2025-12-01T22:43:47.165295+00:00|https://www.bbc.com/news/articles/cn5lx240greo|white house doctor releases trumps perfectly normal mri results us news|d5c3b76b2c962c08072ed1e8086ac2ce
 2025-12-01T23:42:20.513956+00:00|https://www.nytimes.com/2025/12/01/briefing/a-crucial-week-in-ukraine-peace-negotiations.html|a crucial week in ukraine peace negotiations us news|9d30794bc09afbaaf4cbe26c10c45190
 2025-12-01T23:42:21.204926+00:00|https://abcnews.go.com/Politics/sen-kelly-slams-trump-calls-investigation-caribbean-strikes/story|sen kelly slams trump calls for investigation into caribbean strikes us news|ee945badcb04de4333a26cbe7ff37228
+2025-12-01T23:57:45.186480+00:00|https://www.nytimes.com/2025/12/01/us/politics/el-chapo-son-joaquin-guzman-lopez-guilty.html|son of el chapo pleads guilty to kidnapping fathers former cartel partner us news|e6078eb26139f9ea36b4ec7a5f818a9e
