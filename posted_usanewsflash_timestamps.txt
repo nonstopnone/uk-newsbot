@@ -7519,3 +7519,5 @@
 2025-12-01T04:54:32.606894+00:00|https://www.nbcnews.com/video/shorts/police-seek-suspects-in-deadly-birthday-party-shooting-253322821503|police seek suspects in deadly birthday party shooting us news|83f8c36abd05e821299dd12565d9bf98
 2025-12-01T07:02:01.709343+00:00|https://www.nytimes.com/2025/12/01/world/asia/sri-lanka-floods-cyclone.html|sri lanka declares largest disaster as cyclone death toll rises to 355 us news|c2a474fd4b50402f35e283eec2fd0bed
 2025-12-01T09:37:02.575570+00:00|https://abcnews.go.com/International/after-us-ukraine-meeting-florida-focus-shifts-putin/story|after usukraine meeting in florida focus shifts to putin us news|4f22f1e096fd6f11379e945381553bfe
+2025-12-01T10:30:25.484900+00:00|https://abcnews.go.com/Politics/supreme-court-hears-billion-dollar-battle-online-piracy/story|supreme court hears billiondollar battle over online piracy us news|0c0634d5a1faaed35690bffebeba6d31
+2025-12-01T10:30:26.006850+00:00|https://abcnews.go.com/Lifestyle/wireStory/rage-bait-named-oxford-university-press-word-year-127993376|rage bait named oxford university press word of year as outrage fuels social media us news|cdeea949cb60be7879bd470435198985
