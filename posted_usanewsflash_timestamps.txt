@@ -7514,3 +7514,4 @@
 2025-11-30T21:57:27.809570+00:00|https://www.nytimes.com/2025/11/30/us/politics/college-student-deported-thanksgiving-texas.html|college student is deported during trip home for thanksgiving us news|3207ea95b8fd64f57cf881dfccc7e1af
 2025-11-30T21:57:28.352043+00:00|https://www.nbcnews.com/video/shorts/rubio-targets-end-of-war-in-ukraine-long-term-prosperity-253311557934|rubio targets end of war in ukraine longterm prosperity us news|0a29460ec0503944ade1bdb1156e3af4
 2025-11-30T22:23:21.544323+00:00|https://www.nbcnews.com/video/rubio-meets-with-ukrainian-officials-for-peace-discussions-253314117536|rubio has very productive peace discussions with ukrainian officials us news|b6bb4df7874040abfdf1433ebfdcd193
+2025-12-01T02:23:15.266014+00:00|https://www.nytimes.com/2025/11/30/world/americas/honduras-election.html|how trumps actions could affect honduran elections us news|4cc3418fb80acc298427e808d0614081
