@@ -7539,3 +7539,8 @@
 2025-12-01T16:35:36.003246+00:00|https://www.nytimes.com/2025/12/01/business/us-uk-pharma-tariffs-prices.html|us pushes uk to spend more on medicines in deal to avoid tariffs us news|fa96c464148f792ae66cbd0281a3fe76
 2025-12-01T16:35:36.699343+00:00|https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html|college students choosing ai majors over computer science us news|4c93f3684bc314a5acf42b17c948a160
 2025-12-01T16:35:37.421897+00:00|https://www.nytimes.com/2025/12/01/business/young-workers-office.html|young workers learn to embrace the office us news|41039db176c6e9c7f4ffc771ef2bfa6d
+2025-12-01T17:02:14.661287+00:00|https://www.bbc.com/news/articles/cewjg272dq9o|appeals court disqualifies extrump lawyer alina habba as new jersey prosecutor us news|933b0c569bd2d9051f5ed371ee21b6f5
+2025-12-01T17:02:15.381095+00:00|https://www.bbc.com/news/articles/c7vmn61l75ro|trump releases fraudster executive days into prison sentence us news|7ce67fb2f7a603c670316bc851c0f75c
+2025-12-01T17:02:16.099002+00:00|https://www.nbcnews.com/politics/white-house/trump-commutes-7-year-prison-sentence-former-private-equity-ceo-david-rcna246744|trump commutes sentence of former private equity ceo david gentile who was convicted of fraud us news|04cd6c2f2b865f634d9daab89ddb19f5
+2025-12-01T17:02:16.828944+00:00|https://abcnews.go.com/Health/wireStory/uk-us-agree-zero-tariff-deal-pharmaceuticals-128003967|uk and us agree zerotariff deal on pharmaceuticals us news|c778604dda7bc3ba4b574e096c81133d
+2025-12-01T17:02:17.559329+00:00|https://www.nytimes.com/2025/12/01/nyregion/mangione-hearing-what-to-know.html|luigi mangione appears in court as his lawyers try to exclude evidence us news|0910b52af5a938476d0a8ae3e5f6ba2e
