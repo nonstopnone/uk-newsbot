@@ -7565,3 +7565,5 @@
 2025-12-02T01:59:50.666460+00:00|https://www.nbcnews.com/nightly-news/video/white-house-confirms-second-strike-on-alleged-drug-boat-253393477716|white house confirms second strike on alleged drug boat us news|03cff49042f03489c174d9647d24ef7d
 2025-12-02T03:22:25.335245+00:00|https://www.nbcnews.com/news/us-news/guard-member-survived-dc-attack-shows-signs-improvement-west-virginia-rcna246893|national guard member who survived dc shooting shows signs of improvement us news|8f9e99aca8fb6064de673dd565d8af09
 2025-12-02T03:22:25.839643+00:00|https://abcnews.go.com/US/judge-review-maurene-comeys-wrongful-termination-case-trump/story|judge to review maurene comeys wrongful termination case against trump admin us news|b957becb86abddcabb2b9d9b19a280fd
+2025-12-02T04:04:08.258917+00:00|https://www.bbc.com/news/articles/c3r78peyzzlo|costco sues trump administration for full refund of tariffs us news|30c074c77eca1798594976fcf62294f0
+2025-12-02T04:04:08.872627+00:00|https://www.nytimes.com/2025/12/01/health/trump-mri-results.html|after trumps mri claim his doctors memo offers little clarity us news|f33c79756e5a7b48380ea7afae2fc486
