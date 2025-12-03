@@ -7690,3 +7690,4 @@
 2025-12-03T23:22:01.140848+00:00|https://www.nytimes.com/2025/12/03/world/middleeast/yemen-militias-attack-oil-uae.html|in yemen separatist forces backed by uae march into oilrich region us news|8241eb45c975594d0247d0d494919321
 2025-12-03T23:41:02.876623+00:00|https://www.nytimes.com/2025/12/03/us/politics/venezuela-repatriation-flights-trump.html|repatriation flights with hundreds of migrants arrive in venezuela us news|26b1caa822b2dd0ef2e5ebbe5f696c20
 2025-12-03T23:41:03.493638+00:00|https://www.nytimes.com/2025/12/03/us/air-force-thunderbirds-crash.html|air force pilot ejects as thunderbirds f16 crashes in california us news|af44061736de1e0cfc88590545ece901
+2025-12-03T23:57:53.400848+00:00|https://www.nbcnews.com/health/health-news/brain-rot-research-short-form-video-consumption-rcna245739|is brain rot real researchers warn of emerging risks tied to shortform video us news|8afd714de15b8fa8a4cf2f1dfa583d91
