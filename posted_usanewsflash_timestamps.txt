@@ -7638,3 +7638,5 @@
 2025-12-03T07:01:05.477578+00:00|https://www.nytimes.com/2025/12/03/arts/television/late-night-trump-truth-social.html|late night reviews trumps social media blitzkrieg us news|8ac47754b9cbf9285a4d81fc50d7c03b
 2025-12-03T10:30:28.606747+00:00|https://abcnews.go.com/Politics/trump-hegseth-after-sept-2-strike-alleged-drug/story|what trump hegseth said after the sept 2 strike on an alleged drugsmuggling boat us news|c48faaae0e101a6e33df47e9b2263654
 2025-12-03T10:30:29.231696+00:00|https://www.nbcnews.com/health/health-news/cdc-advisers-reverse-newborn-hepatitis-b-vaccine-recommendations-rcna246812|cdc advisers could reverse newborn hepatitis b vaccine recommendations us news|9248552127b0a9044ef1e8e39c94bb80
+2025-12-03T10:50:18.186001+00:00|https://www.bbc.com/news/articles/c208x9v68w3o|trump says he does not want somalis in us as ice plans minnesota operation us news|c1b38b0739bb364b43596f2a8d726942
+2025-12-03T10:50:18.786192+00:00|https://abcnews.go.com/International/after-us-russia-meeting-ukraine-begin-regrouping-european/story|after usrussia meeting ukraine to regroup with european and american allies us news|b99259a76601b5ced67e40dd522a5657
