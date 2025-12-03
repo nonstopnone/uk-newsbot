@@ -7652,3 +7652,6 @@
 2025-12-03T12:55:53.824492+00:00|https://www.nytimes.com/2025/12/03/briefing/inside-venezuela.html|inside venezuela us news|d817d0db306affc03659ec4cf771e812
 2025-12-03T12:55:54.676910+00:00|https://www.nytimes.com/2025/12/03/world/asia/indonesia-sumatra-floods-timber-logs.html|storm floodwaters in indonesia turned logs into floating projectiles us news|1391bfc98b6fa2d03ca3484046a9d6cd
 2025-12-03T12:55:55.582011+00:00|https://abcnews.go.com/US/family-members-charged-death-pregnant-woman-michigan/story|family members charged in death of pregnant woman in michigan us news|d6843ebc0a0155dae7cce1c13dd0cbc4
+2025-12-03T13:39:46.694160+00:00|https://www.nytimes.com/2025/12/03/world/asia/south-korea-nuclear-reactor-fuel.html|south korea says the us agreed to help it secure fuel for reactors us news|8b250d9aba88b0fc9a8049f271a39765
+2025-12-03T13:39:47.267551+00:00|https://abcnews.go.com/US/video/alert-driver-avoids-collision-after-pickup-truck-loses-128069675|watch alert driver avoids collision after pickup truck loses control us news|000d5c1cf971e22e0fdba4cf8932d29b
+2025-12-03T13:39:47.838327+00:00|https://www.today.com/video/russia-ukraine-peace-talks-end-without-a-breakthrough-253554245749|russiaukraine peace talks end without a breakthrough us news|52b031b5974a14d29848c21918cb34bc
