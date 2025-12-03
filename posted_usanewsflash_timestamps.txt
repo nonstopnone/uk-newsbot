@@ -7648,3 +7648,7 @@
 2025-12-03T11:23:38.791414+00:00|https://www.nytimes.com/2025/12/03/us/politics/trump-harvard.html|why harvard has not reached a deal with trump us news|78e114c7594dc14a57435522a2fab743
 2025-12-03T11:23:39.236940+00:00|https://www.nytimes.com/2025/12/03/us/kenner-louisiana-border-patrol-immigration.html|police in a louisiana city welcome a federal crackdown immigrants are in hiding us news|d27076f42cc4b24ae4ded34f364ec781
 2025-12-03T11:23:39.701214+00:00|https://www.nytimes.com/2025/12/03/us/politics/supreme-court-street-preacher.html|supreme court considers whether street preacher can sue to be heard us news|c0f5cf4e8fca6dde215639d637ffbd50
+2025-12-03T12:55:52.952981+00:00|https://abcnews.go.com/International/family-colombian-fisherman-killed-us-boat-strike-files/story|family of fisherman killed in us boat strike files complaint alleging he was murdered us news|d8802e55221f61ccf49b6d8ef84f84be
+2025-12-03T12:55:53.824492+00:00|https://www.nytimes.com/2025/12/03/briefing/inside-venezuela.html|inside venezuela us news|d817d0db306affc03659ec4cf771e812
+2025-12-03T12:55:54.676910+00:00|https://www.nytimes.com/2025/12/03/world/asia/indonesia-sumatra-floods-timber-logs.html|storm floodwaters in indonesia turned logs into floating projectiles us news|1391bfc98b6fa2d03ca3484046a9d6cd
+2025-12-03T12:55:55.582011+00:00|https://abcnews.go.com/US/family-members-charged-death-pregnant-woman-michigan/story|family members charged in death of pregnant woman in michigan us news|d6843ebc0a0155dae7cce1c13dd0cbc4
