@@ -7663,3 +7663,5 @@
 2025-12-03T16:36:11.529654+00:00|https://abcnews.go.com/Politics/trump-pardoning-democratic-rep-henry-cuellar-after-bribery/story|trump says hes pardoning democratic rep henry cuellar after bribery indictment us news|7858e07f118895a5a6fefc7e0c8c5659
 2025-12-03T16:36:12.246572+00:00|https://www.nytimes.com/2025/12/03/nyregion/nyc-subway-fare-evasion-mta.html|how nyc is trying to stop subway fare evasion spikes fins guards us news|1a864910edbba5fed49ac3964cd0e8b6
 2025-12-03T17:11:22.669661+00:00|https://www.nytimes.com/2025/12/03/style/spotify-wrapped-2025-year-in-review.html|spotify wrapped isnt the only app quantifying our social lives us news|102f093f17dd5f8ee54e35638d9953ac
+2025-12-03T17:36:19.445934+00:00|https://www.nytimes.com/2025/12/03/us/politics/epstein-island-home.html|epstein files reveal private home photos in latest release by democrats us news|5b66420600385e805fca48017479349c
+2025-12-03T17:36:20.005300+00:00|https://www.nytimes.com/2025/12/03/us/border-patrol-new-orleans-immigration.html|trump administration begins immigration operation in new orleans us news|c0a05c47cdfab2fe4c3b64bca08faa19
