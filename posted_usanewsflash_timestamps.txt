@@ -7665,3 +7665,6 @@
 2025-12-03T17:11:22.669661+00:00|https://www.nytimes.com/2025/12/03/style/spotify-wrapped-2025-year-in-review.html|spotify wrapped isnt the only app quantifying our social lives us news|102f093f17dd5f8ee54e35638d9953ac
 2025-12-03T17:36:19.445934+00:00|https://www.nytimes.com/2025/12/03/us/politics/epstein-island-home.html|epstein files reveal private home photos in latest release by democrats us news|5b66420600385e805fca48017479349c
 2025-12-03T17:36:20.005300+00:00|https://www.nytimes.com/2025/12/03/us/border-patrol-new-orleans-immigration.html|trump administration begins immigration operation in new orleans us news|c0a05c47cdfab2fe4c3b64bca08faa19
+2025-12-03T17:57:48.018160+00:00|https://www.bbc.com/news/articles/c62v9z7z1z2o|trump says he is pardoning democratic congressman in bribery case us news|8cc7dc00ca3e16aba1b230fe3a13152a
+2025-12-03T17:57:48.489523+00:00|https://www.bbc.com/news/articles/cy7v0gpv2pgo|our only son matthew perrys parents want lengthy sentence for doctor who supplied ketamine us news|fe21d4d0cca35a95e6d9c4f8e273cc5f
+2025-12-03T17:57:49.019412+00:00|https://www.nytimes.com/2025/12/03/business/hong-kong-fire-china.html|hong kongs response to deadly fire shows chinas play book in action us news|b5cba255530a94f0dbde70a8ae72651a
