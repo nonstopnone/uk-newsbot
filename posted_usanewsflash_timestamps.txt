@@ -7636,3 +7636,5 @@
 2025-12-03T05:44:33.916981+00:00|https://www.nytimes.com/2025/12/02/upshot/election-tennessee-republicans-democrats.html|heading toward midterms the gop continues to slip us news|1760be71ca786efa37d0e05b338630a2
 2025-12-03T06:39:08.287871+00:00|https://www.nytimes.com/2025/12/02/us/politics/trump-somalia.html|trump calls somalis garbage he doesnt want in the country us news|ce6b139c8dd24b9f94b1139324742dee
 2025-12-03T07:01:05.477578+00:00|https://www.nytimes.com/2025/12/03/arts/television/late-night-trump-truth-social.html|late night reviews trumps social media blitzkrieg us news|8ac47754b9cbf9285a4d81fc50d7c03b
+2025-12-03T10:30:28.606747+00:00|https://abcnews.go.com/Politics/trump-hegseth-after-sept-2-strike-alleged-drug/story|what trump hegseth said after the sept 2 strike on an alleged drugsmuggling boat us news|c48faaae0e101a6e33df47e9b2263654
+2025-12-03T10:30:29.231696+00:00|https://www.nbcnews.com/health/health-news/cdc-advisers-reverse-newborn-hepatitis-b-vaccine-recommendations-rcna246812|cdc advisers could reverse newborn hepatitis b vaccine recommendations us news|9248552127b0a9044ef1e8e39c94bb80
