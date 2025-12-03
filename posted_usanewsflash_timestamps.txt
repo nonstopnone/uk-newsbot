@@ -7688,3 +7688,5 @@
 2025-12-03T22:57:39.759226+00:00|https://www.bbc.com/news/videos/c8dy1egqzv1o|watch what tennessees special election means for the republican party us news|f979641cc28d20672d2642ead0035c0a
 2025-12-03T22:57:40.287179+00:00|https://www.bbc.com/news/articles/cly13we8zxeo|trump administration to roll back fuel economy rules set under biden us news|8e95879dc2f08f6bc05beb67e5ca89f1
 2025-12-03T23:22:01.140848+00:00|https://www.nytimes.com/2025/12/03/world/middleeast/yemen-militias-attack-oil-uae.html|in yemen separatist forces backed by uae march into oilrich region us news|8241eb45c975594d0247d0d494919321
+2025-12-03T23:41:02.876623+00:00|https://www.nytimes.com/2025/12/03/us/politics/venezuela-repatriation-flights-trump.html|repatriation flights with hundreds of migrants arrive in venezuela us news|26b1caa822b2dd0ef2e5ebbe5f696c20
+2025-12-03T23:41:03.493638+00:00|https://www.nytimes.com/2025/12/03/us/air-force-thunderbirds-crash.html|air force pilot ejects as thunderbirds f16 crashes in california us news|af44061736de1e0cfc88590545ece901
