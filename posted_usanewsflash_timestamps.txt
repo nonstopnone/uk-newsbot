@@ -7645,3 +7645,6 @@
 2025-12-03T10:57:48.466521+00:00|https://www.nytimes.com/2025/12/03/us/politics/fed-chair-bessent-hassett.html|fed pick puts pressure on bessent to deliver for trump us news|90cb33872f9204b220df7f770f119979
 2025-12-03T10:57:48.886454+00:00|https://www.nytimes.com/2025/12/03/us/politics/demand-justice-attacks-senate-democrats.html|liberal group to air ads attacking democrats for confirming trump judges us news|e1adca0761e1fb90cf6a62deeae7107e
 2025-12-03T10:57:49.346150+00:00|https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html|bitcoins skyhigh prices have not panned out us news|763ded2a9d5288b5119df473a51ed9b1
+2025-12-03T11:23:38.791414+00:00|https://www.nytimes.com/2025/12/03/us/politics/trump-harvard.html|why harvard has not reached a deal with trump us news|78e114c7594dc14a57435522a2fab743
+2025-12-03T11:23:39.236940+00:00|https://www.nytimes.com/2025/12/03/us/kenner-louisiana-border-patrol-immigration.html|police in a louisiana city welcome a federal crackdown immigrants are in hiding us news|d27076f42cc4b24ae4ded34f364ec781
+2025-12-03T11:23:39.701214+00:00|https://www.nytimes.com/2025/12/03/us/politics/supreme-court-street-preacher.html|supreme court considers whether street preacher can sue to be heard us news|c0f5cf4e8fca6dde215639d637ffbd50
