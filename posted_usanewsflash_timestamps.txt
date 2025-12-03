@@ -7684,3 +7684,4 @@
 2025-12-03T21:57:27.977167+00:00|https://www.nbcnews.com/data-graphics/us-christmas-tree-farm-map-rcna247251|map where in the us christmas trees are grown us news|f27697aba9561f00b04c75b7c6cc8dd7
 2025-12-03T22:25:43.493532+00:00|https://www.nytimes.com/2025/12/03/us/politics/trump-pardons-henry-cuellar-texas-democrat.html|trump plans to pardon henry cuellar texas democrat indicted on bribery charges us news|a74d83a5146a2b23b11ada3ebe4af1a2
 2025-12-03T22:25:44.186081+00:00|https://www.nbcnews.com/business/consumer/trump-plans-roll-back-fuel-efficiency-rules-cars-rcna247236|trump says he will roll back fuel efficiency standards for vehicles us news|64a97657545f0f3f37d5d3c5d7de57af
+2025-12-03T22:44:59.518494+00:00|https://abcnews.go.com/US/democrats-release-epstein-island-photos-maxwell-argues-release/story|epstein island photos released as maxwell argues against grand jury transcripts us news|e3a03f7d5cf9932ee3348a1105f353eb
