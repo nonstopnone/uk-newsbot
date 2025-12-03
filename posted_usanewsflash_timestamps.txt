@@ -7628,3 +7628,6 @@
 2025-12-03T01:59:17.995419+00:00|https://abcnews.go.com/Technology/wireStory/san-franciscos-beloved-albino-alligator-claude-dies-30-128057373|san franciscos beloved albino alligator claude dies at 30 us news|d1f8bf0fedb11bddee439750426985d8
 2025-12-03T01:59:18.541695+00:00|https://www.nytimes.com/2025/12/02/us/politics/admiral-bradley-boat-strikes.html|trump and hegseth comments on boat strike leave adm bradley exposed us news|2ccf979e88019c13f6885b26792bee2b
 2025-12-03T01:59:19.124128+00:00|https://www.nytimes.com/2025/12/02/nyregion/james-solomon-jim-mcgreevey-jersey-city.html|james solomon beats jim mcgreevey a former governor in jersey city us news|55800da838a9f20d2e812a042189d3e8
+2025-12-03T03:21:04.904451+00:00|https://www.bbc.com/news/articles/c39pjgx3801o|police were doubtful of tip that led to luigi mangiones arrest us news|981ddac0757d81df343db8e494c0fcf3
+2025-12-03T03:21:05.415914+00:00|https://www.nytimes.com/2025/12/02/us/u-of-alabama-student-magazines-dei.html|u of alabama suspends black and female student magazines citing dei guidance us news|cc66d65e9dd85b7a7ded67944af8de4d
+2025-12-03T03:21:06.013189+00:00|https://www.nbcnews.com/video/shorts/sabrina-carpenter-slams-white-house-for-using-her-song-253495877639|sabrina carpenter slams white house for using her song us news|25bd7e758be129aba5536f4fb4bd9791
