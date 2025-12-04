@@ -7721,3 +7721,6 @@
 2025-12-04T11:24:27.510908+00:00|https://www.nytimes.com/2025/12/04/us/politics/rfk-vaccines-hhs-trump.html|inside kennedys methodical quest to shake up americas vaccine system us news|860d198f968ef0c2ae3570b75934b7f0
 2025-12-04T12:56:02.731820+00:00|https://www.bbc.com/news/articles/c1m8gx545k5o|they contracted hepatitis before the vaccine was given at birth now the shot may be delayed again us news|bd814a60943b12757db34a46c40d91e0
 2025-12-04T12:56:03.461670+00:00|https://www.nytimes.com/2025/12/04/briefing/immigrants-fears.html|immigrants fears us news|a882f03bcf5e2034982351f7d13ead61
+2025-12-04T13:40:14.708425+00:00|https://www.bbc.com/news/articles/cp39qx4ledeo|us institute of peace renamed after trump us news|84dda2da4830a0b8b17a236b5468bcc8
+2025-12-04T13:40:15.378071+00:00|https://www.nbcnews.com/politics/politics-news/new-york-sues-pentagon-reporting-rules-citing-first-amendment-rights-rcna247342|new york times sues pentagon over reporting rules citing first amendment rights us news|008d060b234bd7113765c07bf136611d
+2025-12-04T13:40:16.237609+00:00|https://www.nytimes.com/2025/12/04/us/politics/poll-republicans-health-insurance-subsidies-affordable-care-act.html|poll suggests voters may blame republicans more if affordable care act subsidies go away us news|467dca495fde478951a696be83dfe21e
