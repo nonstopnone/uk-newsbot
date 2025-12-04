@@ -7756,3 +7756,5 @@
 2025-12-04T21:42:38.397688+00:00|https://www.bbc.com/news/articles/cx2ejzy1ge1o|was harry referencing trump in joke for late show sketch us news|93c07697cd983671a8b332be89df6f06
 2025-12-04T21:57:27.841080+00:00|https://www.nytimes.com/2025/12/04/us/politics/biden-presidential-library.html|biden to attend first event for presidential library us news|f8a6f85173e282f42cb7e2474257d823
 2025-12-04T21:57:28.768326+00:00|https://www.nbcnews.com/meet-the-press/video/new-boat-strikes-video-sparked-different-understandings-of-what-we-saw-senator-says-253731909674|new boat strikes video sparked different understandings of what we saw senator says us news|4a825feb9aef5e1b6ce302f51cc6f53d
+2025-12-04T22:43:35.018384+00:00|https://www.nbcnews.com/politics/jd-vance/vance-says-antisemitism-isnt-exploding-right-rcna247414|vance says antisemitism isnt exploding on the right us news|24666d511c6829d6e9d4648d2fa241cd
+2025-12-04T22:43:35.610379+00:00|https://www.nbcnews.com/sports/nascar/michael-jordan-set-testify-nascar-antitrust-trial-sources-say-rcna247456|michael jordan is set to testify in nascar antitrust trial sources say us news|4b987cf237e23ace272a1ff2f9f8dd59
