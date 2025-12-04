@@ -7764,3 +7764,8 @@
 2025-12-04T23:24:08.013297+00:00|https://www.nytimes.com/2025/12/04/us/politics/drug-boat-strikes-sept-2-video-congress.html|boat strike video shown to lawmakers us news|75d1be0b0ecee0b75fe6341210b0d283
 2025-12-04T23:24:08.636522+00:00|https://abcnews.go.com/US/brian-walshe-murder-trial-man-affair-walshes-wife/story|man who had affair with alleged murder victim testifies as husband stands trial us news|e7246679526eaf9436e7f15852000195
 2025-12-04T23:41:38.103802+00:00|https://www.nytimes.com/2025/12/04/us/politics/supreme-court-texas-congressional-maps.html|supreme court clears way for texas to use republicanfriendly redistricting maps us news|4c882087e1106a8acda10901bad99ead
+2025-12-04T23:57:33.038717+00:00|https://www.bbc.com/news/articles/cvg1v21p3ydo|us supreme court allows texas to use redrawn voting maps in midterms us news|99f0ffa194673f9e106b587229f6ddc4
+2025-12-04T23:57:33.621436+00:00|https://www.bbc.com/news/articles/c62dg3x8931o|boat strike briefings help hegseth but shipwreck video release may hurt us news|f1e815dc80c84bb437f7fc47b53b507f
+2025-12-04T23:57:34.158829+00:00|https://www.nbcnews.com/video/shorts/supreme-court-allows-texas-to-use-new-congressional-map-253744709937|supreme court allows texas to use new congressional map us news|7f38520438fc33f258b61f34973f2eb0
+2025-12-04T23:57:34.695302+00:00|https://www.nytimes.com/2025/12/04/us/florida-redistricting-republicans.html|florida republicans start redistricting talks but some arent in a rush us news|c15fcc40cebc0abcb8b65ab6c0fcead2
+2025-12-04T23:57:35.295851+00:00|https://abcnews.go.com/US/grand-jury-rejects-dojs-attempt-revive-fraud-case/story|grand jury rejects dojs attempt to revive fraud case against letitia james sources us news|be7a693d1ba6940596ba88d024976cbc
