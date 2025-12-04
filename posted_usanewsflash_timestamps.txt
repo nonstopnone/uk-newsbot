@@ -7724,3 +7724,4 @@
 2025-12-04T13:40:14.708425+00:00|https://www.bbc.com/news/articles/cp39qx4ledeo|us institute of peace renamed after trump us news|84dda2da4830a0b8b17a236b5468bcc8
 2025-12-04T13:40:15.378071+00:00|https://www.nbcnews.com/politics/politics-news/new-york-sues-pentagon-reporting-rules-citing-first-amendment-rights-rcna247342|new york times sues pentagon over reporting rules citing first amendment rights us news|008d060b234bd7113765c07bf136611d
 2025-12-04T13:40:16.237609+00:00|https://www.nytimes.com/2025/12/04/us/politics/poll-republicans-health-insurance-subsidies-affordable-care-act.html|poll suggests voters may blame republicans more if affordable care act subsidies go away us news|467dca495fde478951a696be83dfe21e
+2025-12-04T13:59:19.220358+00:00|https://www.nbcnews.com/politics/politics-news/suspect-arrested-january-6-dc-pipe-bomb-case-rcna247308|suspect arrested in january 2021 dc pipe bomb case us news|cbe9c5ef9d2173c749c38d61b022ade4
