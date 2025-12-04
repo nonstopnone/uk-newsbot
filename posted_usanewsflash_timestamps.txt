@@ -7763,3 +7763,4 @@
 2025-12-04T23:24:07.385583+00:00|https://www.nytimes.com/2025/12/04/world/europe/spain-migration-latin-america.html|spain sees itself as a beacon for immigrants so do many latin americans us news|eaae8fd87555800d48e8e6261b544e09
 2025-12-04T23:24:08.013297+00:00|https://www.nytimes.com/2025/12/04/us/politics/drug-boat-strikes-sept-2-video-congress.html|boat strike video shown to lawmakers us news|75d1be0b0ecee0b75fe6341210b0d283
 2025-12-04T23:24:08.636522+00:00|https://abcnews.go.com/US/brian-walshe-murder-trial-man-affair-walshes-wife/story|man who had affair with alleged murder victim testifies as husband stands trial us news|e7246679526eaf9436e7f15852000195
+2025-12-04T23:41:38.103802+00:00|https://www.nytimes.com/2025/12/04/us/politics/supreme-court-texas-congressional-maps.html|supreme court clears way for texas to use republicanfriendly redistricting maps us news|4c882087e1106a8acda10901bad99ead
