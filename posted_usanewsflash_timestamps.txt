@@ -7829,3 +7829,6 @@
 2025-12-05T19:39:30.256018+00:00|https://www.nbcnews.com/now/video/fifa-world-cup-draw-puts-team-usa-against-australia-at-group-stage-253826629836|fifa world cup draw puts team usa against australia at group stage us news|7769d087317f6ccbc6b6e07996ab7f20
 2025-12-05T19:39:30.767962+00:00|https://www.nytimes.com/2025/12/05/arts/design/frank-gehry-dead.html|frank o gehry titan of architecture is dead at 96 us news|bdbd41fa0dbe322ba16b6bda8ddc4c00
 2025-12-05T19:57:44.766769+00:00|https://www.bbc.com/news/articles/c208j0wrzrvo|us supreme court agrees to hear case challenging birthright citizenship us news|89934e6d6cd056668244ef428c4f7a3c
+2025-12-05T20:29:11.528513+00:00|https://www.nytimes.com/2025/12/05/us/politics/florida-epstein-grand-jury-documents.html|judge approves release of epstein grand jury documents in florida case us news|49f76338d22fa11e7b531bb4ea5da5b7
+2025-12-05T20:29:12.235694+00:00|https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story|florida judge grants doj motion to unseal epstein grand jury transcripts us news|1ee2d57a5896bd7c5eba5fd0a0d07665
+2025-12-05T20:29:13.082165+00:00|https://www.nytimes.com/2025/12/05/arts/design/frank-gehry-buildings-photos.html|frank gehry 12 essential stunning projects us news|3dc1ec1da40c1d6cbdccbcf0f29fdf2b
