@@ -7832,3 +7832,5 @@
 2025-12-05T20:29:11.528513+00:00|https://www.nytimes.com/2025/12/05/us/politics/florida-epstein-grand-jury-documents.html|judge approves release of epstein grand jury documents in florida case us news|49f76338d22fa11e7b531bb4ea5da5b7
 2025-12-05T20:29:12.235694+00:00|https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story|florida judge grants doj motion to unseal epstein grand jury transcripts us news|1ee2d57a5896bd7c5eba5fd0a0d07665
 2025-12-05T20:29:13.082165+00:00|https://www.nytimes.com/2025/12/05/arts/design/frank-gehry-buildings-photos.html|frank gehry 12 essential stunning projects us news|3dc1ec1da40c1d6cbdccbcf0f29fdf2b
+2025-12-05T21:41:31.696252+00:00|https://www.nbcnews.com/politics/elections/voters-backed-trump-2024-democrats-2025-will-2026-rcna246847|these voters backed trump in 2024 and democrats in 2025 what will they do in 2026 us news|8f6420090a406777daa5ff2d10405174
+2025-12-05T21:41:32.172635+00:00|https://www.nbcnews.com/video/shorts/police-release-911-calls-from-texas-floods-253840453832|police release 911 calls from texas floods us news|ea25e2fe2a9cad828da5c38ca4a1494b
