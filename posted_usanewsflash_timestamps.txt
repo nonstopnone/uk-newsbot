@@ -7809,3 +7809,4 @@
 2025-12-05T15:57:36.931838+00:00|https://abcnews.go.com/Business/wireStory/us-consumer-sentiment-improved-month-remains-subdued-university-128143894|us consumer sentiment improved this month but remains subdued us news|f03252eeef1363aee88f087d2375f9a5
 2025-12-05T16:33:35.763236+00:00|https://abcnews.go.com/Health/video/cdc-vaccine-panel-votes-remove-universal-hepatitis-birth-128145369|watch cdc vaccine panel votes to remove universal hepatitis b birth dose recommendation us news|0e57a50e58c1b2e34b8dbc057f2f7d9e
 2025-12-05T16:33:36.265136+00:00|https://abcnews.go.com/US/video/coldest-temperatures-season-hit-midwest-northeast-128145081|watch coldest temperatures of the season hit midwest northeast us news|f292a538330f9a55008f0ff87768c6f3
+2025-12-05T16:52:47.572871+00:00|https://www.bbc.com/news/articles/cwypwznx9kqo|us vaccine panel votes to end recommendation for hepatitis b jabs for newborns us news|8a28b91f30cafedba2395c983a5a7c07
