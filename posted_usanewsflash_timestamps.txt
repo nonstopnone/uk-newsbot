@@ -7781,3 +7781,5 @@
 2025-12-05T03:23:02.529916+00:00|https://abcnews.go.com/US/man-arrested-florida-killing-woman-toddler-long-island/story|arrest in florida in killing of woman toddler once linked to gilgo serial murders us news|13c25dde7aa5203f6befa028c0795894
 2025-12-05T04:03:35.460775+00:00|https://www.nytimes.com/2025/12/04/us/human-remains-investigation-san-diego-home.html|human remains found buried at san diego home us news|0874cdce94f4a04ce885e55a1e857b5e
 2025-12-05T04:03:36.048189+00:00|https://www.nbcnews.com/video/shorts/trump-first-lady-light-national-christmas-tree-253757509816|trump first lady light national christmas tree us news|b6e9fba4682a9a4b880168f749336ac4
+2025-12-05T04:37:19.754512+00:00|https://www.nytimes.com/2025/12/04/us/politics/letitia-james-indict-trump.html|grand jury said to decline to reindict letitia james us news|7d1198541ff771f0938b9ebf135253d7
+2025-12-05T04:37:20.447508+00:00|https://www.nbcnews.com/video/shorts/tesla-collides-with-dump-truck-in-arizona-253765189574|tesla collides with dump truck in arizona us news|f2f3b0ce27931f6d641d197e7d0529f5
