@@ -7828,3 +7828,4 @@
 2025-12-05T19:39:29.751758+00:00|https://abcnews.go.com/US/1-set-human-remains-found-san-diego-property/story|1 set of human remains found at san diego property da us news|e6afbea5f0eb88adb1f866b8b1b17f41
 2025-12-05T19:39:30.256018+00:00|https://www.nbcnews.com/now/video/fifa-world-cup-draw-puts-team-usa-against-australia-at-group-stage-253826629836|fifa world cup draw puts team usa against australia at group stage us news|7769d087317f6ccbc6b6e07996ab7f20
 2025-12-05T19:39:30.767962+00:00|https://www.nytimes.com/2025/12/05/arts/design/frank-gehry-dead.html|frank o gehry titan of architecture is dead at 96 us news|bdbd41fa0dbe322ba16b6bda8ddc4c00
+2025-12-05T19:57:44.766769+00:00|https://www.bbc.com/news/articles/c208j0wrzrvo|us supreme court agrees to hear case challenging birthright citizenship us news|89934e6d6cd056668244ef428c4f7a3c
