@@ -7774,3 +7774,8 @@
 2025-12-05T02:00:42.101280+00:00|https://www.bbc.com/news/articles/cjdrzd41j9po|trump hires new architect for white house ballroom us news|845eafa908baf58040bc52adf5300269
 2025-12-05T02:00:43.234197+00:00|https://www.bbc.com/news/videos/cvg185pgm0po|watch awkward tensions test us mexico and canada ahead of world cup us news|c3726da3e01b072fcda43eb1e19e0943
 2025-12-05T02:00:43.909224+00:00|https://www.nytimes.com/2025/12/04/us/tim-walz-trump-somalia-minnesota.html|tim walz calls trumps tirade against somalis in minnesota vile us news|40beabccb9e56ef5a029aa8d56f94333
+2025-12-05T03:22:59.667425+00:00|https://www.bbc.com/news/articles/c1w93r2zn7yo|new orleans residents in fear as immigration crackdown descends on their city us news|edd21d981d35fe29939bf501b35f9281
+2025-12-05T03:23:00.334205+00:00|https://www.nytimes.com/2025/12/04/us/politics/trump-congo-rwanda-boat-strikes.html|trump trumpets peace in africa amid war on drug boats in day of dissonance us news|cdc957bb074954c8db01b96c4518c204
+2025-12-05T03:23:01.200341+00:00|https://www.nytimes.com/2025/12/04/us/politics/trump-ballroom-white-house-construction.html|trump switches architects for white house ballroom project us news|16151164c8fad712031f424d8488d2bb
+2025-12-05T03:23:01.860538+00:00|https://www.nytimes.com/2025/12/04/us/politics/trump-boat-attacks-killings.html|second strike scrutiny obscures larger question about trumps boat attacks us news|0a1444fbaebb00d82fba46aaeeaf48ec
+2025-12-05T03:23:02.529916+00:00|https://abcnews.go.com/US/man-arrested-florida-killing-woman-toddler-long-island/story|arrest in florida in killing of woman toddler once linked to gilgo serial murders us news|13c25dde7aa5203f6befa028c0795894
