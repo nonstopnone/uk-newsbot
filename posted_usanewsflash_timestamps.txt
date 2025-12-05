@@ -7839,3 +7839,4 @@
 2025-12-05T22:57:26.391805+00:00|https://www.nytimes.com/2025/12/05/us/politics/supreme-court-partisan-gerrymandering.html|the supreme court once wary of partisan gerrymandering goes all in us news|b14ec9a7e52f136acd97a31410dead03
 2025-12-05T22:57:26.944466+00:00|https://abcnews.go.com/Health/14-cases-legionnaires-disease-reported-florida-linked-gym/story|14 cases of legionnaires disease reported in florida may be linked to gym us news|9bd535010e67cb6247ce4e8313bfa48f
 2025-12-05T23:23:26.128038+00:00|https://www.nytimes.com/2025/12/05/us/politics/trump-national-security-strategy.html|trumps security strategy focuses on profit not spreading democracy us news|7763acc20db81fa2f37f39a88df7d891
+2025-12-05T23:40:46.334796+00:00|https://www.bbc.com/news/articles/cx25039ddlro|five takeaways from the blockbuster netflix warner brothers deal us news|dd3e1209dd73f8fbd0614cb7b4020786
