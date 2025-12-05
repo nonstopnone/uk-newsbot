@@ -7818,3 +7818,5 @@
 2025-12-05T18:34:21.137853+00:00|https://www.nytimes.com/2025/12/05/business/media/cnn-netflix-warner-bros-discovery-deal.html|cnn is excluded from netflixs warner bros deal for now us news|c6dc8e778856c9ce7996cfaf93e787d6
 2025-12-05T18:52:02.894201+00:00|https://www.nbcnews.com/politics/elections/indiana-house-passes-new-republican-drawn-congressional-map-rcna246750|indiana house passes new republicandrawn congressional map us news|be77a12e340f4d78df3575bb27df026c
 2025-12-05T18:52:03.389511+00:00|https://www.nytimes.com/2025/12/05/us/politics/halligan-us-attorney-judiciary.html|halligan continues as us attorney prompting criticism from judges us news|022e85ff86f73c49d4493d353865da7d
+2025-12-05T18:59:17.632123+00:00|https://www.nytimes.com/2025/12/05/business/energy-environment/venezuela-oil-trump.html|lots of oil little production what to know about venezuelan energy us news|6175681bdc10e8caafb668b9ae3ca524
+2025-12-05T18:59:18.276884+00:00|https://www.nytimes.com/2025/12/05/nyregion/nyc-income-tax-rich.html|rich new yorkers are again threatening to leave heres why they dont us news|9d0231355c56e297c493d2bbcf5c82e2
