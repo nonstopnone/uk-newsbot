@@ -7870,3 +7870,4 @@
 2025-12-06T17:57:40.944635+00:00|https://www.nytimes.com/2025/12/06/world/europe/trump-europe-strategy-document.html|trumps security doctrine leaves europe at a strategic crossroads us news|1c1eb955dd1799fd53d2b8a9b7c4178d
 2025-12-06T19:39:00.997635+00:00|https://www.nbcnews.com/video/shorts/national-guard-member-slowly-healing-after-shooting-253897285554|national guard member slowly healing after shooting us news|1c499924da6117d1e0dc9cb4905078a5
 2025-12-06T19:57:30.355036+00:00|https://www.nbcnews.com/video/shorts/lava-spills-as-hawaii-s-kilauea-resumes-eruptions-253899845711|lava spills as hawaiis kilauea resumes eruptions us news|ff3719fd57f63df8a7017f96b5e4ede5
+2025-12-06T21:21:16.407266+00:00|https://www.nytimes.com/2025/12/06/nyregion/gilgo-beach-murder-charges-peaches-andrew-dykes.html|florida man charged in murder of woman and child found near gilgo beach us news|dff75e7f0d81c18fe2e82090a71ef464
