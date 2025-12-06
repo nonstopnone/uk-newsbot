@@ -7849,3 +7849,4 @@
 2025-12-06T03:02:17.451751+00:00|https://www.nbcnews.com/nightly-news/video/emotional-911-calls-from-deadly-texas-flooding-released-253858885525|emotional 911 calls from deadly texas flooding released us news|bb53c090da8256be4e2dc93e928d021e
 2025-12-06T03:02:17.946736+00:00|https://abcnews.go.com/US/wireStory/high-school-student-18-charged-arson-fire-burned-128161883|high school student charged with arson in fire that burned subway passenger us news|25b0d2eddf87bb922735699894ce233e
 2025-12-06T03:02:18.460898+00:00|https://www.nytimes.com/2025/12/05/us/konoa-wilson-police-shooting-san-diego.html|san diego agrees to pay $30 million to family of konoa wilson teen killed by police us news|038f03902465e705849a6015ef92c543
+2025-12-06T05:57:31.807820+00:00|https://www.nbcnews.com/video/shorts/robocop-stands-watch-over-detroit-253873733915|robocop stands watch over detroit us news|a9e3aaffd6f7f17d8f65e0d127d7b24a
