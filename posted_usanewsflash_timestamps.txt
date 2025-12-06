@@ -7852,3 +7852,6 @@
 2025-12-06T05:57:31.807820+00:00|https://www.nbcnews.com/video/shorts/robocop-stands-watch-over-detroit-253873733915|robocop stands watch over detroit us news|a9e3aaffd6f7f17d8f65e0d127d7b24a
 2025-12-06T06:35:00.627840+00:00|https://abcnews.go.com/Politics/doj-detail-legal-advice-noem-el-salvador-deportations/story|doj does not detail advice to noem on el salvador deportations citing privilege us news|b1cbf343f23de06032166c71bbee2c1c
 2025-12-06T07:22:37.155361+00:00|https://www.bbc.com/news/articles/clydxj7my84o|us says progress made at talks with ukraine on plan to end war us news|5a9c0120ee9e8af327a9cbcd9e493503
+2025-12-06T10:57:42.086241+00:00|https://www.nytimes.com/2025/12/06/world/africa/south-africa-afrikaners-trump.html|afrikaner access soars amid trumps policy shift us news|caf843bd4c4d6717d1670e1aa13de77e
+2025-12-06T10:57:42.595734+00:00|https://www.nytimes.com/2025/12/06/world/europe/ukraine-pokrovsk-battlefield-russia.html|battlefield picture worsening for ukraine as trump pushes peace plan us news|27c8c23421b2bdd84cc7502478676203
+2025-12-06T10:57:43.407186+00:00|https://www.nytimes.com/2025/12/06/business/philanthropy-trump-accounts-baby-bonds.html|trump accounts baby bonds giving directly to kids is an idea right and left could love us news|e9cc40b5970adad78b8921468cd8504d
