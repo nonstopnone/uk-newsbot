@@ -1,4 +1,3 @@
-2025-11-29T12:39:39.045921+00:00|https://www.bbc.com/news/articles/c5yjvpwpj5yo|twicedeported man jailed for reentering country|0366b20fd54257f07f0e168706c570a8
 2025-11-29T14:25:19.201301+00:00|https://www.bbc.com/news/articles/cx23mzvdgjgo|tributes paid to boy 14 fatally struck by train|4385265f6745bf59954fc49a69413c5f
 2025-11-29T16:45:58.936218+00:00|https://news.sky.com/story/the-family-of-a-14-year-old-hit-by-a-train-say-they-will-miss-him-forever-13476980|the family of a 14yearold hit by a train say they will miss him forever|16dbaaad3d4dcd891f653c484a011496
 2025-11-29T17:46:02.668632+00:00|https://www.bbc.com/news/articles/c74xe49q7vlo|playwright sir tom stoppard dies at 88|b85b58cba017dc0c4b93cbc6236c10e3
@@ -122,3 +121,7 @@
 2025-12-06T08:48:21.925792+00:00|https://www.bbc.com/news/articles/c620e6p0e8zo|the blacksmith whose work protects the crown jewels and adorns royal palaces|d79282f471587511fd0c97fa8aede27c
 2025-12-06T08:48:32.450754+00:00|https://www.bbc.com/news/articles/c8xdv5gzez7o|elf movie costume sells for £239000 at auction|d73a03e5bdb4651ea53bb9fb7cea60d0
 2025-12-06T09:55:42.467618+00:00|https://www.bbc.com/news/articles/c8dy6395dqyo|charities welcome new law banning puppy smuggling|d3918010826f1aeaaf93ae85ea2c71da
+2025-12-06T12:40:40.258657+00:00|https://www.telegraph.co.uk/cricket/2025/12/06/ashes-second-test-live-score-england-australia-day-three|australia lay trap in brisbane and england walk straight into it as ashes dream goes up in smoke|c8a180c62f26bbe01622a445d8680b28
+2025-12-06T12:40:50.972493+00:00|https://www.telegraph.co.uk/formula-1/2025/12/06/abu-dhabi-grand-prix-2025-f1-live-qualifying-fp3-updates|russell pips norris in abu dhabi gp practice as hamilton crashes|006ee54d97b27fbc211e2c7ddb2be731
+2025-12-06T12:41:01.628270+00:00|https://news.sky.com/story/prostate-cancer-treatment-with-potential-for-fewer-side-effects-to-be-trialled-in-uk-13479965|prostate cancer treatment with potential for fewer side effects to be trialled in uk|a69b771407c6237f5fdc17f849b4ac5b
+2025-12-06T12:41:12.284085+00:00|https://www.bbc.com/news/articles/cpd61w22e3no|four arrested after tower of london display case containing state crown defaced|410cc8052682a623257eb75b3f86f3eb
