@@ -7840,3 +7840,8 @@
 2025-12-05T22:57:26.944466+00:00|https://abcnews.go.com/Health/14-cases-legionnaires-disease-reported-florida-linked-gym/story|14 cases of legionnaires disease reported in florida may be linked to gym us news|9bd535010e67cb6247ce4e8313bfa48f
 2025-12-05T23:23:26.128038+00:00|https://www.nytimes.com/2025/12/05/us/politics/trump-national-security-strategy.html|trumps security strategy focuses on profit not spreading democracy us news|7763acc20db81fa2f37f39a88df7d891
 2025-12-05T23:40:46.334796+00:00|https://www.bbc.com/news/articles/cx25039ddlro|five takeaways from the blockbuster netflix warner brothers deal us news|dd3e1209dd73f8fbd0614cb7b4020786
+2025-12-06T01:54:24.876444+00:00|https://www.bbc.com/news/videos/cdxwlgwyezlo|watch moment officers wrangle 600lb alligator from florida road us news|bd033767fdfe3b64982cecd87af41aad
+2025-12-06T01:54:25.574436+00:00|https://www.nbcnews.com/nightly-news/video/cdc-panel-votes-to-recommend-delaying-hepatitis-b-vaccine-for-babies-253856837776|cdc panel votes to recommend delaying hepatitis b vaccine for babies us news|59bd60444432228b10a7160d5f5d4538
+2025-12-06T01:54:26.253433+00:00|https://www.nytimes.com/2025/12/05/us/biden-lgbtq-award.html|biden says republicans aim to turn lgbtq identity into something scary us news|32fd1e96be093a692d661226c4472cf0
+2025-12-06T01:54:26.944556+00:00|https://www.nbcnews.com/nightly-news/video/netflix-announces-deal-to-buy-warner-bros-hbo-max-253858885591|netflix announces deal to buy warner bros hbo max us news|9a5e5a50b09891b8d77a88280b9996e1
+2025-12-06T01:54:27.716964+00:00|https://www.nytimes.com/2025/12/05/us/politics/republicans-congress-health-care.html|running out of time republicans in congress still lack a health plan us news|0228f0cd302497e671bbeb6d4309efa7
