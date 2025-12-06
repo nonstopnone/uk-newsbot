@@ -7869,3 +7869,4 @@
 2025-12-06T17:40:36.771531+00:00|https://www.bbc.com/news/articles/c0q5lejppeno|national guardsman slowly healing after being shot in washington dc us news|25256e7ec5953c4d18cab9c34b079a72
 2025-12-06T17:57:40.944635+00:00|https://www.nytimes.com/2025/12/06/world/europe/trump-europe-strategy-document.html|trumps security doctrine leaves europe at a strategic crossroads us news|1c1eb955dd1799fd53d2b8a9b7c4178d
 2025-12-06T19:39:00.997635+00:00|https://www.nbcnews.com/video/shorts/national-guard-member-slowly-healing-after-shooting-253897285554|national guard member slowly healing after shooting us news|1c499924da6117d1e0dc9cb4905078a5
+2025-12-06T19:57:30.355036+00:00|https://www.nbcnews.com/video/shorts/lava-spills-as-hawaii-s-kilauea-resumes-eruptions-253899845711|lava spills as hawaiis kilauea resumes eruptions us news|ff3719fd57f63df8a7017f96b5e4ede5
