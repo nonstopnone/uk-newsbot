@@ -7905,3 +7905,5 @@
 2025-12-07T20:41:51.523178+00:00|https://www.nytimes.com/2025/12/07/obituaries/fern-michaels-dead.html|fern michaels prolific author of romance novels dies at 92 us news|a24c7e4a038857b70f6d51875ddc54bf
 2025-12-07T21:20:18.720488+00:00|https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html|trump set to host the kennedy center honors us news|e940ce2b3e650a64c72d34aa9a97fa9f
 2025-12-07T21:39:15.396032+00:00|https://www.nytimes.com/2025/12/07/us/immigration-agents-family-deported-student.html|immigration agents target family of deported college student us news|592753d8f8cbc7af4893a4e3ac2b757f
+2025-12-07T23:22:16.538242+00:00|https://www.bbc.com/news/articles/c9vjd2lv3y0o|canadian airline to start cancelling flights ahead of planned strike us news|fad1aca9f07e5bfd3485e4b68870b7db
+2025-12-07T23:22:17.078827+00:00|https://www.nytimes.com/2025/12/07/nyregion/ancestry-dna-police.html|cold case inquiries stall after ancestrycom revisits policy for users us news|6cc47fc41f33cdc190a4b0cfaad41777
