@@ -7950,3 +7950,5 @@
 2025-12-08T16:55:22.027261+00:00|https://www.nytimes.com/2025/12/08/arts/trump-kennedy-center-honors-moments.html|6 memorable moments from the trump kennedy center honors us news|e997651aaef98ecc8b9ba0e86d94e451
 2025-12-08T16:55:22.687579+00:00|https://www.nytimes.com/2025/12/08/business/supreme-court-independent-regulators.html|planes trade and nuclear energy supreme court weighs fate of independent regulators us news|8089307214353d0badc694dcfebcdedb
 2025-12-08T17:34:32.518924+00:00|https://www.nytimes.com/2025/12/08/dining/best-nyc-dishes.html|best new york city dishes us news|c9c88db6c6aea7de1e2d6e61cda544d1
+2025-12-08T17:57:46.664430+00:00|https://www.bbc.com/news/articles/cjrj58qed2wo|trump to unveil $12bn farm aid package us news|e9337e62397a801300b31d01ee0f8d82
+2025-12-08T17:57:47.327511+00:00|https://www.nytimes.com/2025/12/08/world/europe/zelensky-ukraine-war-peace-talks-europe-london.html|trump criticizes zelensky as ukraine peace talks drag on with european leaders us news|477fdc260150b56e84e7e20b73bd18ec
