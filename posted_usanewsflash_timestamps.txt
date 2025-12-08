@@ -7952,3 +7952,8 @@
 2025-12-08T17:34:32.518924+00:00|https://www.nytimes.com/2025/12/08/dining/best-nyc-dishes.html|best new york city dishes us news|c9c88db6c6aea7de1e2d6e61cda544d1
 2025-12-08T17:57:46.664430+00:00|https://www.bbc.com/news/articles/cjrj58qed2wo|trump to unveil $12bn farm aid package us news|e9337e62397a801300b31d01ee0f8d82
 2025-12-08T17:57:47.327511+00:00|https://www.nytimes.com/2025/12/08/world/europe/zelensky-ukraine-war-peace-talks-europe-london.html|trump criticizes zelensky as ukraine peace talks drag on with european leaders us news|477fdc260150b56e84e7e20b73bd18ec
+2025-12-08T18:38:56.260442+00:00|https://www.bbc.com/news/articles/cj69xzpzrdyo|paramount launches rival bid for warner bros discovery us news|3f19d0641c00809ceaba8b29e73bee8a
+2025-12-08T18:38:56.843564+00:00|https://www.nytimes.com/2025/12/08/us/colin-allred-senate-texas-primary.html|colin allred drops out of democratic primary for us senate in texas us news|d8aaee48f112ced98902bd4579a83ca8
+2025-12-08T18:38:57.487563+00:00|https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html|who is andrew ferguson the ftc chairman who tilted the agency to trump us news|6bc7fc1b3b6f75883325ffdba96e68fb
+2025-12-08T18:38:58.310365+00:00|https://www.nytimes.com/2025/12/08/us/politics/kash-patel-fbi-lawsuit-george-floyd-protest.html|fbi agents sue patel after being fired over kneeling at george floyd protest us news|62e30002825d319c26db3efbcdd2b8ed
+2025-12-08T18:38:58.889382+00:00|https://www.nytimes.com/2025/12/08/us/politics/democratic-governors-midterms-2028-election.html|at a democratic governors event hope nerves and buzz for the midterms and 2028 election us news|27fbde3e8887670cef2ea22743a16f2b
