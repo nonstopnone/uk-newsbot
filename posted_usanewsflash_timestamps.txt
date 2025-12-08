@@ -7989,3 +7989,5 @@
 2025-12-08T23:41:44.612585+00:00|https://www.nytimes.com/2025/12/08/nyregion/terry-rozier-miami-heat-nba-gambling.html|terry rozier of miami heat pleads not guilty in gambling case us news|e571c413e4e457acf8279d90024c00ca
 2025-12-08T23:41:45.094458+00:00|https://www.nytimes.com/2025/12/08/us/oklahoma-university-removes-instructor-protest-bible-gender.html|university of oklahoma removes a teacher it says urged students to protest us news|90b4dd9f045eca7fa70e0342f6b3dae1
 2025-12-08T23:41:46.024011+00:00|https://www.nbcnews.com/video/shorts/camera-shows-over-a-dozen-ice-agents-raid-minnesota-home-253996613748|camera shows over a dozen ice agents raid minnesota home us news|7599ccb4100cbab296b0f53653feefff
+2025-12-08T23:57:34.505142+00:00|https://www.nytimes.com/2025/12/08/nyregion/immigration-legislation-dan-goldman.html|democrats proposal would halt dhs courthouse arrests of migrants us news|2a74b3402950bcc59768ff80234d9690
+2025-12-08T23:57:35.216863+00:00|https://www.nytimes.com/2025/12/08/nyregion/ny-school-vaccinations.html|supreme court questions ny ban on religious exemptions for vaccines us news|5ecce10aa3f73abce443faf4e2e4f092
