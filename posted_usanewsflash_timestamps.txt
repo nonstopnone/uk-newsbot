@@ -7968,3 +7968,5 @@
 2025-12-08T19:40:25.813044+00:00|https://www.nbcnews.com/video/watch-live-trump-participates-in-cabinet-roundtable-253973061609|trump participates in cabinet roundtable us news|28727aef38da13fa1bc429c2f59f5c20
 2025-12-08T19:40:26.497594+00:00|https://www.nytimes.com/2025/12/08/business/ai-slop-sora-social-media.html|ai videos have flooded social media no one was ready us news|fa093ff4e37f7707b507b72681ca7416
 2025-12-08T19:40:27.429124+00:00|https://www.nbcnews.com/video/shorts/first-lady-hosts-toys-for-tots-charity-drive-253975621806|first lady hosts toys for tots charity drive us news|c439baf92a974964f3c06e51489b366d
+2025-12-08T19:57:27.708317+00:00|https://abcnews.go.com/US/video/watch-camera-capture-demise-livestreaming-kilauea-eruption-128215958|watch watch a camera capture its own demise while livestreaming the kilauea eruption us news|70a53a48ccf9337aeff7cff202d8a4f9
+2025-12-08T19:57:28.403063+00:00|https://www.nytimes.com/2025/12/08/us/politics/trump-farmers-aid-bailout.html|trump plans $12 billion bailout to aid farmers hit by tariffs us news|2678b5d723f4428fe7fd3caaf7a5d912
