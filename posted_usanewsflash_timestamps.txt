@@ -7916,3 +7916,4 @@
 2025-12-08T03:36:12.351286+00:00|https://www.nytimes.com/2025/12/07/world/middleeast/us-deports-second-planeload-iranians.html|us deports second planeload of iranians officials say us news|a0ffcb67b919e77daf7e118de22b835f
 2025-12-08T04:21:52.785339+00:00|https://www.nytimes.com/2025/12/07/business/china-trade-surplus.html|chinas trade surplus climbs past $1 trillion for first time us news|5e8787a9af9bedc2ab3d2695fb4339e2
 2025-12-08T05:14:27.373703+00:00|https://www.nytimes.com/2025/12/08/world/united-nations-humanitarian-aid-cuts.html|united nations cuts its 2026 emergency aid budget in half us news|ef6e41a0afe344863f194dc9696f1ff0
+2025-12-08T06:41:55.426832+00:00|https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html|thailand launches airstrikes on cambodia in new wave of violence us news|871ea91b684d431d2566ae72bb8f2c7b
