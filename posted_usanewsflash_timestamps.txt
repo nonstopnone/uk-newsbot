@@ -7945,3 +7945,7 @@
 2025-12-08T15:57:26.045233+00:00|https://www.nytimes.com/2025/12/08/business/dealbook/berkshire-todd-combs-jpmorgan.html|todd combs a buffett protégé at berkshire jumps to jpmorgan us news|3b34ba1c51d93bee66f5f1be64dd33a0
 2025-12-08T16:35:06.961161+00:00|https://www.nbcnews.com/health/kids-health/parents-refusing-vitamin-k-shots-newborns-study-finds-rcna247580|more parents refusing vitamin k shots for newborns study finds us news|6479fe7d936803db17c8165d4dc688d7
 2025-12-08T16:35:07.662634+00:00|https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-border-fighting-strikes.html|why thailand and cambodia are fighting us news|2a00d6d1cc50512647374f624e8cc5ca
+2025-12-08T16:55:20.674584+00:00|https://www.bbc.com/news/articles/c3e073pglvzo|us supreme court hears fight over trumps power to fire federal agency official us news|f0a27de1e955ca5c990dd0debf898c56
+2025-12-08T16:55:21.375704+00:00|https://www.bbc.com/news/videos/c5yjevjqn5xo|watch trump takes on central role in kennedy center honors us news|219ba28a1f2518a090b75424c954b6ee
+2025-12-08T16:55:22.027261+00:00|https://www.nytimes.com/2025/12/08/arts/trump-kennedy-center-honors-moments.html|6 memorable moments from the trump kennedy center honors us news|e997651aaef98ecc8b9ba0e86d94e451
+2025-12-08T16:55:22.687579+00:00|https://www.nytimes.com/2025/12/08/business/supreme-court-independent-regulators.html|planes trade and nuclear energy supreme court weighs fate of independent regulators us news|8089307214353d0badc694dcfebcdedb
