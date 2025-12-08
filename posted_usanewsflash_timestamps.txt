@@ -7986,3 +7986,6 @@
 2025-12-08T23:24:45.369875+00:00|https://www.nytimes.com/2025/12/08/world/europe/russia-soldiers-sentence-murder-texas.html|russian court sentences 4 soldiers to prison for killing texan us news|cdd2566b2fa8c079524283a8d07976b2
 2025-12-08T23:24:46.019105+00:00|https://www.nytimes.com/2025/12/08/us/politics/obamacare-subsidy-vote-aca.html|gop senators push health care options as vote looms us news|1a929a32b225e689ddcfe3e972791881
 2025-12-08T23:24:46.689496+00:00|https://www.nytimes.com/2025/12/08/us/politics/democratic-governors-dga-2028.html|why democratic governors argue they are the partys best shot for 2028 us news|a35c545119618e33cf8f411423f8520c
+2025-12-08T23:41:44.612585+00:00|https://www.nytimes.com/2025/12/08/nyregion/terry-rozier-miami-heat-nba-gambling.html|terry rozier of miami heat pleads not guilty in gambling case us news|e571c413e4e457acf8279d90024c00ca
+2025-12-08T23:41:45.094458+00:00|https://www.nytimes.com/2025/12/08/us/oklahoma-university-removes-instructor-protest-bible-gender.html|university of oklahoma removes a teacher it says urged students to protest us news|90b4dd9f045eca7fa70e0342f6b3dae1
+2025-12-08T23:41:46.024011+00:00|https://www.nbcnews.com/video/shorts/camera-shows-over-a-dozen-ice-agents-raid-minnesota-home-253996613748|camera shows over a dozen ice agents raid minnesota home us news|7599ccb4100cbab296b0f53653feefff
