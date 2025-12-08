@@ -7981,3 +7981,8 @@
 2025-12-08T22:44:31.468619+00:00|https://abcnews.go.com/US/video/trump-announces-12-billion-bailout-plan-farmers-128223531|watch trump announces $12 billion bailout plan for farmers us news|d5ab80270870cac95a0ea4a3b848b4a4
 2025-12-08T22:44:31.948911+00:00|https://abcnews.go.com/US/video/commuter-train-hits-vehicle-chicago-suburbs-128223626|watch commuter train hits vehicle in chicago suburbs us news|61f11a7cf95714ca029959cc5bafdd4d
 2025-12-08T22:57:50.438290+00:00|https://abcnews.go.com/US/somalis-minnesota-ice-agents-targeting-community/story|somalis in minnesota say ice agents are already targeting their community us news|c53556145ed4850b94e8bf2e344217af
+2025-12-08T23:24:44.036888+00:00|https://www.nbcnews.com/business/corporations/trump-nvidia-h200-chips-ai-china-rcna248107|trump says he will allow nvidia to sell some ai chips in china us news|3c67d6c12d03fb2338f3cc914be12e9a
+2025-12-08T23:24:44.694296+00:00|https://www.nytimes.com/2025/12/08/nyregion/bruce-blakeman-new-york-governor.html|bruce blakeman moves to launch new york governor campaign us news|78474dac365b22edd3370c46cfa4d8d6
+2025-12-08T23:24:45.369875+00:00|https://www.nytimes.com/2025/12/08/world/europe/russia-soldiers-sentence-murder-texas.html|russian court sentences 4 soldiers to prison for killing texan us news|cdd2566b2fa8c079524283a8d07976b2
+2025-12-08T23:24:46.019105+00:00|https://www.nytimes.com/2025/12/08/us/politics/obamacare-subsidy-vote-aca.html|gop senators push health care options as vote looms us news|1a929a32b225e689ddcfe3e972791881
+2025-12-08T23:24:46.689496+00:00|https://www.nytimes.com/2025/12/08/us/politics/democratic-governors-dga-2028.html|why democratic governors argue they are the partys best shot for 2028 us news|a35c545119618e33cf8f411423f8520c
