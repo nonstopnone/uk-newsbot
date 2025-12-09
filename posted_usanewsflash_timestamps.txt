@@ -8008,3 +8008,5 @@
 2025-12-09T11:24:17.290269+00:00|https://www.nytimes.com/2025/12/09/podcasts/the-headlines/instacart-groceries-trump-bailout-netflix-warner-brothers.html|the business strategy that could drive up your grocery bill and trumps $12 billion bailout us news|8a55a510dc001e0cbbeb784bf30f018a
 2025-12-09T11:24:17.799318+00:00|https://www.nytimes.com/2025/12/09/us/politics/kamala-harris-interview-107-days-book-2028.html|kamala harris on 107 days 2028 and the democratic partys future us news|47eb7c14fe81fe7fbc0f7008e36340b7
 2025-12-09T11:24:18.269026+00:00|https://www.nytimes.com/2025/12/09/world/europe/ukraine-malevich-artist.html|another front in the war in ukraine who gets to claim a famed artist us news|9099e5dad07e72fa4af0dee0e96e289d
+2025-12-09T12:55:56.342876+00:00|https://www.bbc.com/news/articles/c773de38p2go|congress ups pressure to release boat strike video with threat to hegseths travel budget us news|c5fe9f897ed0760f7af5287fd55b0ca7
+2025-12-09T12:55:56.833633+00:00|https://www.nytimes.com/2025/12/09/briefing/the-supreme-court-considers-presidential-power.html|the supreme court considers presidential power us news|228fe3c0bb73b863928fe7c8f468737c
