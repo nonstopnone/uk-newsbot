@@ -8042,3 +8042,4 @@
 2025-12-09T21:41:25.126939+00:00|https://www.bbc.com/news/articles/c0r90lkzxr4o|suspect in custody after shooting at kentucky university us news|d7b184e5646648b8172d48c212a9add6
 2025-12-09T21:57:36.504231+00:00|https://abcnews.go.com/US/people-injured-reported-shooting-kentucky-state-university/story|multiple people injured in shooting at kentucky state university governor us news|86b0b281e8d3a759d5b3ec133467d953
 2025-12-09T22:24:34.615401+00:00|https://www.nytimes.com/2025/12/09/nyregion/aclu-lawsuit-justice-department-boat-strikes.html|legal groups sue justice dept for secret memo justifying boat strikes us news|c178ffbd2cf9163f5732e5b8bfc3fdc3
+2025-12-09T22:57:39.105012+00:00|https://www.nbcnews.com/politics/congress/senate-republicans-plan-vote-health-care-alternative-aca-funds-look-li-rcna248259|senate republicans plan vote on a health care alternative as aca funds look likely to expire us news|9d46d2a6f02ad48daecd6b6f8964ea67
