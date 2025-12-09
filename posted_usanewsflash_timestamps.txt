@@ -8029,3 +8029,5 @@
 2025-12-09T18:35:03.670887+00:00|https://www.bbc.com/news/articles/cn8e2kxp3m7o|canadian senator presses ottawa on only land disputed between the us and canada us news|fcaee4eb946f516b40a2f52d64e447d8
 2025-12-09T18:35:05.698423+00:00|https://abcnews.go.com/Politics/trump-backtracks-releasing-boat-strike-video-distances-controversy/story|trump backtracks on releasing boat strike video distances himself from controversy us news|55d3967fdb9090c8e0efa31f98612c63
 2025-12-09T18:35:06.358493+00:00|https://www.nbcnews.com/video/video-shows-massive-ice-raid-on-minnesota-home-254043205545|video shows a massive ice raid on a minnesota home us news|b663d4eaa59b6aa8f151ed7e9739e60d
+2025-12-09T18:53:53.563523+00:00|https://www.nytimes.com/2025/12/09/nyregion/kris-boyd-ny-jets-shooting-charges.html|man charged with attempted murder in shooting of jets player kris boyd us news|0af1e4070917802021c9b165676fd264
+2025-12-09T18:53:54.221773+00:00|https://abcnews.go.com/Politics/video/affordable-care-act-tax-credits-set-expire-years-128248826|watch affordable care act tax credits set to expire at years end us news|6aa7c194b4c4d893cd92c4696873197c
