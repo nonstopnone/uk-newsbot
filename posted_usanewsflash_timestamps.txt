@@ -8010,3 +8010,5 @@
 2025-12-09T11:24:18.269026+00:00|https://www.nytimes.com/2025/12/09/world/europe/ukraine-malevich-artist.html|another front in the war in ukraine who gets to claim a famed artist us news|9099e5dad07e72fa4af0dee0e96e289d
 2025-12-09T12:55:56.342876+00:00|https://www.bbc.com/news/articles/c773de38p2go|congress ups pressure to release boat strike video with threat to hegseths travel budget us news|c5fe9f897ed0760f7af5287fd55b0ca7
 2025-12-09T12:55:56.833633+00:00|https://www.nytimes.com/2025/12/09/briefing/the-supreme-court-considers-presidential-power.html|the supreme court considers presidential power us news|228fe3c0bb73b863928fe7c8f468737c
+2025-12-09T14:28:42.295285+00:00|https://www.nbcnews.com/politics/trump-administration/trump-doesnt-rule-troops-venezuela-says-president-nicolas-maduros-days-rcna248169|trump doesnt rule out troops in venezuela says president nicolás maduros days are numbered us news|e925e125699b74f8a22e909cee6fd803
+2025-12-09T14:28:42.971130+00:00|https://www.nytimes.com/2025/12/09/us/states-new-abortion-laws.html|three years after dobbs the state divide over abortion deepens us news|a581fa4ea4a877dc9180eba63f3786ef
