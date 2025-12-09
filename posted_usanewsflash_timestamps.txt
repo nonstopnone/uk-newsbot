@@ -8024,3 +8024,4 @@
 2025-12-09T16:54:40.937770+00:00|https://www.nytimes.com/2025/12/09/us/illinois-immigration-legislation-pritzker.html|gov pritzker signs bill imposing new limits on immigration enforcement in illinois us news|e355bd5afc2d5b3c2226f0fab729432d
 2025-12-09T17:13:41.460066+00:00|https://abcnews.go.com/Politics/trump-speak-pennsylvania-start-selling-economic-agenda-ahead/story|trump to speak in pennsylvania to start selling his economic agenda ahead of midterms us news|3cc4e3659e8b3ef2b847d9de9d33da46
 2025-12-09T17:13:42.114419+00:00|https://www.nytimes.com/2025/12/09/us/politics/evidence-comey-case.html|trump administration fights roadblock to pursuing comey case us news|97075533032ba873636145231c0c9096
+2025-12-09T17:35:08.298393+00:00|https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html|wall street is shaking off fears of an ai bubble for now us news|867f10912b0224ca88f514f4ec56e8e0
