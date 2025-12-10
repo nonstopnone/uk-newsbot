@@ -8059,3 +8059,4 @@
 2025-12-10T04:21:25.315623+00:00|https://www.nytimes.com/2025/12/09/us/politics/trump-somalis-immigrants.html|trumps speech on economy veers into an antiimmigrant tirade us news|d4bfc307c984c7d80d682a444658bf66
 2025-12-10T04:21:25.842410+00:00|https://www.nytimes.com/2025/12/09/us/politics/trump-homeless-aid-hud.html|trump administration withdraws plan to overhaul homeless aid us news|9b66328aedbfea624bfccacd97cad9bf
 2025-12-10T04:21:26.406182+00:00|https://www.nytimes.com/2025/12/09/world/middleeast/iran-egypt-world-cup-seattle-pride.html|seattles plans for a pride match at world cup infuriates iran and egypt us news|e16914cc36620c7256691dac7619e5bb
+2025-12-10T04:54:33.083049+00:00|https://www.nbcnews.com/science/science-news/death-cap-mushroom-poisonings-california-rcna248204|poisonings from death cap mushrooms in california prompt warning against foraging us news|c1a7d3ee66a32b60326019ee7a61b6a1
