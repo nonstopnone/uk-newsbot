@@ -8084,3 +8084,8 @@
 2025-12-10T12:56:14.821595+00:00|https://www.nytimes.com/2025/12/10/us/politics/haley-stevens-impeach-kennedy.html|house democrat seeks to impeach rfk jr for undercutting public health us news|1895f4d553e7f7a6f0f000057f3b466e
 2025-12-10T14:05:28.664018+00:00|https://www.nytimes.com/2025/12/09/climate/utah-beaver-rescue.html|utah tries relocating beavers to save them and remake the landscape us news|3d91383ae4295859569517629f7a0faf
 2025-12-10T15:00:59.887315+00:00|https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story|record flooding possible in pacific northwest as storms continue in northeast us news|98efebb43e7db9fa8f5a4ce70911fcbf
+2025-12-10T15:32:40.734277+00:00|https://www.bbc.com/news/articles/c0r9p1yr1y7o|us judge blocks trumps national guard deployment in los angeles us news|5d03374310def6640d5134dbc00287a0
+2025-12-10T15:32:41.342565+00:00|https://www.bbc.com/news/articles/clyz2vyzek9o|judge rules epstein grand jury records from 2019 case can be released us news|d728cb011c3ccca2c666f181711aaf9f
+2025-12-10T15:32:42.060632+00:00|https://www.bbc.com/news/articles/cy84vdngj2lo|canadas ambassador to the us to step down ahead of key trade talks us news|e62015426b57907b8c8fe209be570d6e
+2025-12-10T15:32:42.666973+00:00|https://www.nbcnews.com/politics/justice-department/new-york-judge-orders-release-jeffrey-epstein-grand-jury-records-rcna248393|new york judge orders release of jeffrey epstein grand jury records us news|3fc135ef11c4957def9ffb560ff2232a
+2025-12-10T15:32:43.324506+00:00|https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html|metas new ai superstars are chafing against the rest of the company us news|423c0d5a37fa8ad742786e307af45c45
