@@ -8121,3 +8121,7 @@
 2025-12-10T22:46:00.700818+00:00|https://www.nbcnews.com/sports/college-football/michigan-fires-coach-sherrone-moore-rcna248511|michigan fires head football coach accusing him of inappropriate relationship with staff member us news|0262999e91b8e2cde240d580151a3a97
 2025-12-10T22:57:33.014502+00:00|https://www.nytimes.com/2025/12/10/us/politics/oil-tanker-seized-us-venezuela-trump.html|trump says us seized oil tanker off venezuelan coast us news|6cfc4b260ef2d140f1b392d461c5bd80
 2025-12-10T22:57:33.679377+00:00|https://www.nytimes.com/2025/12/09/climate/wyoming-virtual-fences-livestock.html|wyoming cowboys are breaking down barriers literally us news|35d88aa39030490e98bfc9282238cbc8
+2025-12-10T23:22:51.862025+00:00|https://www.nytimes.com/2025/12/10/us/politics/defense-department-funds-immigration.html|$2 billion in pentagon funds said to go to antiimmigrant operations us news|29e7d7a92db55f7f4bb2870df18a1108
+2025-12-10T23:22:52.422941+00:00|https://www.nbcnews.com/video/shorts/how-trump-admin-is-preparing-for-world-cup-tourists-254182981542|how trump admin is preparing for world cup tourists us news|985becb6f0d981e2cfd1964cb296d2ff
+2025-12-10T23:22:52.979207+00:00|https://www.nytimes.com/2025/12/10/us/politics/shutdown-earmarks-democrats.html|after shutdown democrats claim credit for funding they opposed us news|cddf47815b46633eef419f13e851f783
+2025-12-10T23:22:53.511651+00:00|https://www.nytimes.com/2025/12/10/books/elaina-richardson-yaddo.html|the president of the yaddo artist retreat steps down us news|4aa949e804e65cd036252802b3c11d80
