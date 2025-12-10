@@ -8115,3 +8115,5 @@
 2025-12-10T21:27:42.529834+00:00|https://www.nytimes.com/2025/12/10/us/army-gynecologist-charged-texas.html|army gynecologist charged with secretly recording over 40 patients us news|a49d231be6a3f55b21b4a01395c506fd
 2025-12-10T21:27:43.022090+00:00|https://abcnews.go.com/WNT/video/commuter-train-slams-suv-suburban-chicago-128225994|watch commuter train slams into suv in suburban chicago us news|6fd8be7eaa3a0bc8ca97d7759adc75b2
 2025-12-10T21:27:43.522325+00:00|https://www.nbcnews.com/video/shorts/met-gala-co-chairs-announced-for-2026-254172229870|met gala cochairs announced for 2026 us news|4c6416292c6ed94b586de99066965abc
+2025-12-10T21:45:15.634595+00:00|https://abcnews.go.com/WNT/video/made-america-david-muir-oprahs-favorite-things-rubirosa-128225972|watch made in america david muir tries one of oprahs favorite things at rubirosa in nyc us news|47a8dd39100f9973e76a4e97922ff26d
+2025-12-10T21:45:16.337443+00:00|https://abcnews.go.com/Travel/video/waymo-cars-apparent-standoff-cause-traffic-jam-san-128229131|watch waymo cars in apparent standoff cause traffic jam in san francisco us news|cd80e21e59b60cd6b4429a26d91e2a39
