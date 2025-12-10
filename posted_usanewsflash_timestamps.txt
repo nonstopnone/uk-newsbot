@@ -8056,3 +8056,6 @@
 2025-12-10T03:37:13.421627+00:00|https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html|inside the pentagons scramble to deal with boat strike survivors us news|ba47aba61498eec40a83622fc034c057
 2025-12-10T03:37:14.060380+00:00|https://www.nbcnews.com/politics/donald-trump/trump-economy-campaign-speech-pennsylvania-rcna248291|trump tests his affordability message in a midterm battleground district us news|c9ebde627bec7be41567d270839c5446
 2025-12-10T03:37:14.605882+00:00|https://www.nytimes.com/2025/12/09/us/politics/hegseth-democrats-video-boat-strike.html|democrats say hegseth balked at call for full video of boat strike us news|54c8d25eebfb30c00c71036ac227ce8c
+2025-12-10T04:21:25.315623+00:00|https://www.nytimes.com/2025/12/09/us/politics/trump-somalis-immigrants.html|trumps speech on economy veers into an antiimmigrant tirade us news|d4bfc307c984c7d80d682a444658bf66
+2025-12-10T04:21:25.842410+00:00|https://www.nytimes.com/2025/12/09/us/politics/trump-homeless-aid-hud.html|trump administration withdraws plan to overhaul homeless aid us news|9b66328aedbfea624bfccacd97cad9bf
+2025-12-10T04:21:26.406182+00:00|https://www.nytimes.com/2025/12/09/world/middleeast/iran-egypt-world-cup-seattle-pride.html|seattles plans for a pride match at world cup infuriates iran and egypt us news|e16914cc36620c7256691dac7619e5bb
