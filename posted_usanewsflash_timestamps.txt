@@ -8126,3 +8126,4 @@
 2025-12-10T23:22:52.979207+00:00|https://www.nytimes.com/2025/12/10/us/politics/shutdown-earmarks-democrats.html|after shutdown democrats claim credit for funding they opposed us news|cddf47815b46633eef419f13e851f783
 2025-12-10T23:22:53.511651+00:00|https://www.nytimes.com/2025/12/10/books/elaina-richardson-yaddo.html|the president of the yaddo artist retreat steps down us news|4aa949e804e65cd036252802b3c11d80
 2025-12-10T23:41:23.320290+00:00|https://www.nytimes.com/2025/12/10/us/politics/trump-gold-card.html|what is a trump gold card applications open for milliondollar visas us news|12ba3e609ac24919f4cde6f70d6a5b43
+2025-12-10T23:57:52.626606+00:00|https://www.nytimes.com/2025/12/10/nyregion/new-jersey-nursing-homes-medicaid.html|nursing home owners pocketed millions as patients suffered report says us news|d600452d77cebab1e9b9d8ccb20841e9
