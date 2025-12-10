@@ -8051,3 +8051,8 @@
 2025-12-10T02:02:43.465240+00:00|https://www.nytimes.com/2025/12/09/world/europe/zelensky-ukraine-russia-elections.html|ukraine could be ready for elections zelensky says us news|91db5bab231d0838188af0c93bb8e0c0
 2025-12-10T02:02:44.095734+00:00|https://www.nytimes.com/2025/12/09/us/dead-vultures-bird-flu-ohio.html|bird flu is suspected after vulture carcasses sat rotting outside ohio school us news|b537c05cfaa8f3f6e7a9ae669a8571e2
 2025-12-10T02:02:44.791205+00:00|https://www.nytimes.com/2025/12/09/us/politics/trump-warner-bros.html|asserting a personal role in warner bros battle trump seeks to expand his powers again us news|8391e77d6a7c5f7f636a1793c450387d
+2025-12-10T03:37:12.339747+00:00|https://www.bbc.com/news/articles/ckgl63lrpkmo|trump touts upbeat message on economy as americans feel the pinch us news|6c0085edb3e6882c4aafb75c9a3db44c
+2025-12-10T03:37:12.869598+00:00|https://www.bbc.com/news/articles/czxpklvd10zo|canadian airline air transat and pilot union reach tentative agreement us news|21c99cd5fc82a0bb7740471ddd10ed92
+2025-12-10T03:37:13.421627+00:00|https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html|inside the pentagons scramble to deal with boat strike survivors us news|ba47aba61498eec40a83622fc034c057
+2025-12-10T03:37:14.060380+00:00|https://www.nbcnews.com/politics/donald-trump/trump-economy-campaign-speech-pennsylvania-rcna248291|trump tests his affordability message in a midterm battleground district us news|c9ebde627bec7be41567d270839c5446
+2025-12-10T03:37:14.605882+00:00|https://www.nytimes.com/2025/12/09/us/politics/hegseth-democrats-video-boat-strike.html|democrats say hegseth balked at call for full video of boat strike us news|54c8d25eebfb30c00c71036ac227ce8c
