@@ -8136,3 +8136,4 @@
 2025-12-11T09:02:32.420375+00:00|https://www.nytimes.com/2025/12/11/sports/ncaafootball/sherrone-moore-michigan-football-coach.html|michigan football coach is detained after being fired us news|c29bfba09f080c9dfcc636addbdcce75
 2025-12-11T09:50:12.265917+00:00|https://www.bbc.com/news/articles/c1w9lg11jw0o|us seizes oil tanker off venezuela as caracas condemns act of piracy us news|720eaed1aef7e72d0ee431e12bc45b31
 2025-12-11T10:51:01.247794+00:00|https://abcnews.go.com/Politics/senate-poised-cast-votes-competing-health-care-proposals/story|senate poised to cast votes on competing health care proposals us news|876753f867029c7c74d77366e0d1a9d7
+2025-12-11T10:58:38.325223+00:00|https://www.nbcnews.com/politics/elections/indiana-senate-vote-trump-backed-congressional-map-gop-resistance-rcna247833|indiana senate to vote on trumpbacked congressional map despite gop resistance us news|43dae402c50f96accbf4559c5f6a5ab2
