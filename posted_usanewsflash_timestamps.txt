@@ -8135,3 +8135,4 @@
 2025-12-11T07:13:00.569722+00:00|https://www.nytimes.com/2025/12/10/weather/washington-rivers-flood-evacuations.html|washington faces heavy rain and flooding from atmospheric river us news|32d8a4bd7c6dad511f218b8baa4dbdc9
 2025-12-11T09:02:32.420375+00:00|https://www.nytimes.com/2025/12/11/sports/ncaafootball/sherrone-moore-michigan-football-coach.html|michigan football coach is detained after being fired us news|c29bfba09f080c9dfcc636addbdcce75
 2025-12-11T09:50:12.265917+00:00|https://www.bbc.com/news/articles/c1w9lg11jw0o|us seizes oil tanker off venezuela as caracas condemns act of piracy us news|720eaed1aef7e72d0ee431e12bc45b31
+2025-12-11T10:51:01.247794+00:00|https://abcnews.go.com/Politics/senate-poised-cast-votes-competing-health-care-proposals/story|senate poised to cast votes on competing health care proposals us news|876753f867029c7c74d77366e0d1a9d7
