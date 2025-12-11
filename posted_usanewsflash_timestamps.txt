@@ -8142,3 +8142,6 @@
 2025-12-11T11:24:18.177381+00:00|https://www.nytimes.com/2025/12/11/world/asia/trump-call-cambodia-thailand.html|ahead of trump call fighting between thailand and cambodia intensifies us news|1c6a10783372b3c62fa57b22b1e3ebc3
 2025-12-11T11:24:18.855529+00:00|https://www.nytimes.com/2025/12/11/world/middleeast/syria-government-religion.html|syria rebuilding its military relies on loyalists and religious teaching us news|2a8784eae49ca5f9920a6571301f5dae
 2025-12-11T11:24:19.547851+00:00|https://www.nytimes.com/2025/12/11/arts/television/best-comedy-of-2025.html|best comedy of 2025 us news|becfa9f20a8ac32ca0d8d56475797ee0
+2025-12-11T11:42:43.245649+00:00|https://www.bbc.com/news/articles/cwyp7rkkgvdo|an elite coast guard squad and a dark fleet ship what we know about us seizure of oil tanker off venezuela us news|33a6fe06ef197fc1db6eac83d0a6e226
+2025-12-11T11:42:43.781684+00:00|https://www.nbcnews.com/video/shorts/north-dakota-highway-rollover-crash-caught-on-camera-254212677775|north dakota highway rollover crash caught on camera us news|0a95e714b8beddc461e8fe58dc0379d2
+2025-12-11T11:42:44.299079+00:00|https://abcnews.go.com/WNT/video/extreme-weather-wreaking-havoc-coast-coast-triggers-rescues-128297622|watch extreme weather wreaking havoc from coast to coast triggers rescues us news|b1a09c3cb38457f9e92b016cdc01e4f3
