@@ -8158,3 +8158,4 @@
 2025-12-11T15:31:22.775672+00:00|https://abcnews.go.com/US/judge-orders-immediate-release-kilmar-abrego-garcia-immigration/story|judge orders immediate release of kilmar abrego garcia from immigration detention us news|98544611c3cc8cc436f240fbb8f2efc8
 2025-12-11T15:31:23.521106+00:00|https://www.nytimes.com/2025/12/11/nyregion/kathy-hochul-new-york-climate-issues.html|new yorks environmental agenda stalls under kathy hochul us news|32d3ab9c7502571c5a8595024969c084
 2025-12-11T15:31:24.281783+00:00|https://www.nytimes.com/2025/12/11/business/dealbook/ai-spending-oracle-openai.html|why oracle is worrying investors about the ai boom us news|40309331588414d8bcde9d252d382b04
+2025-12-11T16:01:02.966046+00:00|https://www.nytimes.com/2025/12/11/business/federal-reserve-independence-trump.html|this isnt the first time the fed has struggled for independence us news|fb1d5f2f158c946d0e1f649bcd404e98
