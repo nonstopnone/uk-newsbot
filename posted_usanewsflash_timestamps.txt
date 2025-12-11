@@ -8192,3 +8192,5 @@
 2025-12-11T23:24:55.142871+00:00|https://www.bbc.com/news/articles/cgqzzy03p59o|indiana republicans join democrats rejecting trumps requested voting map us news|3854ec2352f8f50cb33b7c009615c7d8
 2025-12-11T23:42:28.134509+00:00|https://www.nytimes.com/2025/12/11/us/hayward-california-gas-line-explosion.html|bay area gas explosion injures 6 and starts fire in city of hayward us news|42134eff99dcf5407d9ccfbb3a110b8d
 2025-12-11T23:42:28.773733+00:00|https://www.nytimes.com/2025/12/11/briefing/senate-health-care-indiana-voting-map.html|affordable care act subsidies are set to expire us news|36b74a5c72fbafd48fcb5888382d4087
+2025-12-11T23:57:58.549889+00:00|https://www.nytimes.com/2025/12/11/climate/judge-blocks-fema-canceling-climate-grants.html|federal judge blocks fema from canceling climate resiliency grants us news|cc2a377a235c6c9e2bd319ea3ede40e8
+2025-12-11T23:57:59.152659+00:00|https://www.nytimes.com/2025/12/11/us/politics/maduro-oil-sanctions-venezuela-tanker.html|us issues new sanctions targeting maduros family and the oil sector us news|11de30f536e7a515fb5abd594e455a53
