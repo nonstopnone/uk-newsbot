@@ -8127,3 +8127,7 @@
 2025-12-10T23:22:53.511651+00:00|https://www.nytimes.com/2025/12/10/books/elaina-richardson-yaddo.html|the president of the yaddo artist retreat steps down us news|4aa949e804e65cd036252802b3c11d80
 2025-12-10T23:41:23.320290+00:00|https://www.nytimes.com/2025/12/10/us/politics/trump-gold-card.html|what is a trump gold card applications open for milliondollar visas us news|12ba3e609ac24919f4cde6f70d6a5b43
 2025-12-10T23:57:52.626606+00:00|https://www.nytimes.com/2025/12/10/nyregion/new-jersey-nursing-homes-medicaid.html|nursing home owners pocketed millions as patients suffered report says us news|d600452d77cebab1e9b9d8ccb20841e9
+2025-12-11T02:04:19.851600+00:00|https://abcnews.go.com/US/video/us-seizes-tanker-off-coast-venezuela-trump-128293885|watch us seizes tanker off coast of venezuela trump says us news|824a8af097642b6722eaaa16689a8f76
+2025-12-11T02:04:20.448660+00:00|https://www.nbcnews.com/nightly-news/video/u-s-seizes-oil-tanker-off-venezuela-coast-254185029791|us seizes oil tanker off venezuela coast us news|835fe93246e2412db46dac56c2d06ea2
+2025-12-11T02:04:21.060488+00:00|https://www.nbcnews.com/nightly-news/video/family-uses-external-review-to-overturn-insurance-denial-254186565663|family uses external review to overturn insurance denial us news|014814438322813c58e98fa3c58b5966
+2025-12-11T02:04:21.911262+00:00|https://www.nytimes.com/2025/12/10/us/politics/ntsb-defense-bill-dca-crash.html|defense bill will make dc skies less safe ntsb chair says us news|18011cea2f4830839a99f33cb6797fd9
