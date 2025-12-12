@@ -8255,3 +8255,5 @@
 2025-12-12T23:24:55.079657+00:00|https://www.nytimes.com/2025/12/12/world/canada/canada-american-liquor-ban-tariffs-charity.html|canadians rush to buy stockpiles of boycotted us liquor us news|57dfd5df8e98112ebdb67f0383e27bd4
 2025-12-12T23:24:55.693348+00:00|https://abcnews.go.com/US/video/newly-released-photos-epstein-estate-include-images-trump-128361073|watch newly released photos from epstein estate include images of trump clinton us news|57a2259f86fef76c01330b9dd05c4227
 2025-12-12T23:41:44.113057+00:00|https://abcnews.go.com/US/justice-department-sues-fulton-county-2020-election-records/story|justice department sues fulton county for 2020 election records us news|e11e9888298e506578de8cfbec03b36a
+2025-12-12T23:57:52.752115+00:00|https://www.nytimes.com/2025/12/12/us/politics/trump-republicans-obamacare-health-costs.html|for republicans trumps handsoff approach to health care is a problem us news|d5006f3d64bbeee103dee5e8879debd3
+2025-12-12T23:57:53.274828+00:00|https://www.nytimes.com/2025/12/12/us/florida-school-vaccine-mandates.html|in floridas panhandle a hearing on school vaccine mandates gets heated us news|b3f36694fbf487a70795292b325a024b
