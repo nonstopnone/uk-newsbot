@@ -8202,3 +8202,5 @@
 2025-12-12T03:38:42.398343+00:00|https://www.bbc.com/news/articles/crmddnge9yro|trump signs order to block states from enforcing own ai rules us news|d584df824f2ce6ce8f8ae88784061397
 2025-12-12T03:38:42.879749+00:00|https://www.nytimes.com/2025/12/11/business/media/arkansas-public-television-drops-pbs.html|arkansas public television drops pbs us news|233671b20240d2eb348de224ed428d8a
 2025-12-12T04:54:42.003122+00:00|https://www.nbcnews.com/video/shorts/gas-line-explosion-demolishes-california-house-injures-6-254275141514|gas line explosion demolishes california house injures 6 us news|09e073120b613ca0ae8aa4942a08db9b
+2025-12-12T05:14:08.376700+00:00|https://www.nytimes.com/2025/12/12/world/asia/nvidia-china-trump-security-japan.html|china is getting much of what it wants from the us including chips us news|fbcca52c15c740a6ded59835a02672e5
+2025-12-12T05:14:08.868593+00:00|https://www.nytimes.com/2025/12/11/world/asia/reddit-lawsuit-australia-social-media-ban.html|reddit sues australian government to block social media ban us news|c0c6462f0472f97b3c06003bc6149b7a
