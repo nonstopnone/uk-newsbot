@@ -8201,3 +8201,4 @@
 2025-12-12T02:03:47.867643+00:00|https://www.nytimes.com/2025/12/11/us/hiker-quicksand-rescue-utah.html|stuck in quicksand a hiker in utah has his sos answered us news|ab93626eadb420df70275bebe04f5fc3
 2025-12-12T03:38:42.398343+00:00|https://www.bbc.com/news/articles/crmddnge9yro|trump signs order to block states from enforcing own ai rules us news|d584df824f2ce6ce8f8ae88784061397
 2025-12-12T03:38:42.879749+00:00|https://www.nytimes.com/2025/12/11/business/media/arkansas-public-television-drops-pbs.html|arkansas public television drops pbs us news|233671b20240d2eb348de224ed428d8a
+2025-12-12T04:54:42.003122+00:00|https://www.nbcnews.com/video/shorts/gas-line-explosion-demolishes-california-house-injures-6-254275141514|gas line explosion demolishes california house injures 6 us news|09e073120b613ca0ae8aa4942a08db9b
