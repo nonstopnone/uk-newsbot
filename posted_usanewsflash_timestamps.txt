@@ -8194,3 +8194,8 @@
 2025-12-11T23:42:28.773733+00:00|https://www.nytimes.com/2025/12/11/briefing/senate-health-care-indiana-voting-map.html|affordable care act subsidies are set to expire us news|36b74a5c72fbafd48fcb5888382d4087
 2025-12-11T23:57:58.549889+00:00|https://www.nytimes.com/2025/12/11/climate/judge-blocks-fema-canceling-climate-grants.html|federal judge blocks fema from canceling climate resiliency grants us news|cc2a377a235c6c9e2bd319ea3ede40e8
 2025-12-11T23:57:59.152659+00:00|https://www.nytimes.com/2025/12/11/us/politics/maduro-oil-sanctions-venezuela-tanker.html|us issues new sanctions targeting maduros family and the oil sector us news|11de30f536e7a515fb5abd594e455a53
+2025-12-12T02:03:45.284370+00:00|https://www.bbc.com/news/articles/cz688jp90epo|us sanctions six more ships after seizing oil tanker off venezuela us news|6c7bca838c7123a8a4469a025b24d1af
+2025-12-12T02:03:45.975413+00:00|https://abcnews.go.com/GMA/Food/6-states-approved-waivers-remove-unhealthy-foods-snap/story|6 more states approved to remove unhealthy foods from snap benefits us news|967483e56cb7d2cda8c5d1e7b79e6a3d
+2025-12-12T02:03:46.610577+00:00|https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html|trump moves to stop states from regulating ai with a new executive order us news|983cdab565a090244a8e41591d4b8b35
+2025-12-12T02:03:47.230466+00:00|https://www.nytimes.com/2025/12/11/us/politics/indiana-trump-redistricting-takeaways.html|key takeaways after indiana lawmakers defy trumps redistricting push us news|fefeca0d46aad10e6aa51813a8bd368e
+2025-12-12T02:03:47.867643+00:00|https://www.nytimes.com/2025/12/11/us/hiker-quicksand-rescue-utah.html|stuck in quicksand a hiker in utah has his sos answered us news|ab93626eadb420df70275bebe04f5fc3
