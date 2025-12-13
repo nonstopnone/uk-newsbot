@@ -8290,3 +8290,4 @@
 2025-12-13T21:40:08.931780+00:00|https://abcnews.go.com/US/1-dead-haul-truck-explosion-idaho-parking-lot/story|1 dead in uhaul truck explosion in idaho parking lot officials us news|20a316f6497da079cf5dfbefc9bd783e
 2025-12-13T22:23:23.930286+00:00|https://www.nytimes.com/2025/12/13/us/brown-university-shooting.html|students told to hide from active shooter at brown university us news|e072f300bf71c49a1d84fffb3c85128f
 2025-12-13T23:23:14.972715+00:00|https://www.nbcnews.com/video/shorts/brown-university-warns-of-active-shooter-on-campus-254371397991|brown university warns of active shooter on campus us news|f63339506a24bf85117c0576b434cfd1
+2025-12-13T23:57:46.101431+00:00|https://www.nytimes.com/2025/12/13/us/california-national-guard-trump-los-angeles.html|appeals court says trump must end los angeles deployment by monday us news|cd6281154ff7fdcf1e9b42927cc898f1
