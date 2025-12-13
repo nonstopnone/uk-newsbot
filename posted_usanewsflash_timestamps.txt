@@ -8262,3 +8262,6 @@
 2025-12-13T01:56:57.948382+00:00|https://www.nytimes.com/2025/12/12/briefing/storm-flooding-washington-tsa-ice-data.html|rescuers work to evacuate flooded areas of washington us news|91845fc42eccdcef47f0d1292f852f9a
 2025-12-13T01:56:58.477458+00:00|https://www.nbcnews.com/video/shorts/trump-on-photos-with-epstein-i-know-nothing-about-it-254345797820|trump on photos with epstein i know nothing about it us news|92a85be9ebe942263703a60dc9051aa0
 2025-12-13T01:56:58.963927+00:00|https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html|elon musks spacex valued at $800 billion as it prepares to go public us news|02575026a03ba01f429ae76a773b03df
+2025-12-13T03:19:56.193757+00:00|https://www.bbc.com/news/articles/c7733m2rmz5o|trump officials sue georgia county to force release of 2020 voting records us news|0677658067b07ab0419ac4309bb4465c
+2025-12-13T03:19:56.834393+00:00|https://www.bbc.com/news/articles/c5y2271q20lo|from booze to black belts virginias drunk raccoon suspected in karate shop breakin us news|e5d227d26e0fdc6321154ffe9f03f1ba
+2025-12-13T03:19:57.352651+00:00|https://www.nytimes.com/2025/12/12/world/americas/venezuela-cuba-oil-tanker.html|venezuela oil tanker seized by us was part of effort to finance cuba us news|6dbbb7eb30f1b5b629ef80115c6143f9
