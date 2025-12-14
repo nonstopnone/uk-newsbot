@@ -8336,3 +8336,5 @@
 2025-12-14T19:39:18.652172+00:00|https://www.nytimes.com/2025/12/14/us/brown-shooting-witness-spencer-yang.html|hospitalized brown student describes hiding from shooter us news|a1dab0571c4a52c3cea1b83612c2d01d
 2025-12-14T20:43:35.056623+00:00|https://www.nytimes.com/2025/12/14/us/politics/clintons-epstein-inquiry.html|inside the clintons fight to avoid testifying in the house epstein inquiry us news|85def1aeaf383dbd21b2ef649c6f3c65
 2025-12-14T21:22:23.895661+00:00|https://www.bbc.com/news/articles/crrknvqn97no|everyone says itll never be me brown university student on surviving two mass shootings us news|96f1cdd28802e2bdac0574248bcd3ad3
+2025-12-14T21:57:32.769479+00:00|https://www.nytimes.com/2025/12/14/world/middleeast/syria-isis-attack.html|syrian who killed us soldiers was member of security forces officials say us news|dd8c620455eea241983786ce9f24ca66
+2025-12-14T21:57:33.533461+00:00|https://www.nbcnews.com/video/suspects-in-bondi-beach-shooting-identified-as-father-and-son-254402117816|suspects in bondi beach shooting identified as father and son us news|366b4524ea3e3f62eb62db4f6f0df160
