@@ -8311,3 +8311,4 @@
 2025-12-14T11:20:41.139410+00:00|https://www.nytimes.com/2025/12/14/world/americas/chile-election-candidates.html|chile votes in presidential runoff us news|561b8591e70f89fa392440bd0fb6e931
 2025-12-14T11:39:50.580264+00:00|https://www.nytimes.com/2025/12/14/us/politics/sec-crypto-firms-trump-investigation.html|the sec was tough on crypto it pulled back after trump returned to office us news|25e085e37fb4ca6cc1a9825d4497f911
 2025-12-14T11:39:51.226159+00:00|https://www.nytimes.com/2025/12/14/world/middleeast/gaza-floods-mud-disease.html|floods mud and cold add to gazans misery us news|f615ccf219f9aae9331efc37084ab218
+2025-12-14T11:57:24.794103+00:00|https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story|person of interest in custody after brown university shooting official says us news|e71d6698b43cd3210d4c0c988411c938
