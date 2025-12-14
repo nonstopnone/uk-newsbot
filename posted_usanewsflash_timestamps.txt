@@ -8345,3 +8345,5 @@
 2025-12-14T22:57:44.207851+00:00|https://www.nytimes.com/2025/12/14/us/politics/house-republicans-dc-crime.html|house republicans accuse dc police of manipulating crime statistics us news|fa2141981d5e717a9f4d0a5df4e3302a
 2025-12-14T23:23:13.664690+00:00|https://www.nbcnews.com/video/shorts/brown-university-students-shelter-in-place-during-shooting-254404165514|brown university students shelter in place during shooting us news|9d1db5e634265be0853bfdb6de1bee40
 2025-12-14T23:41:19.802990+00:00|https://www.nbcnews.com/news/us-news/oklahoma-ou-student-essay-culture-war-rcna248530|how an oklahoma students gender essay became a national culture war fight us news|a6a08b2cf2f91701e6f38eb978a49b37
+2025-12-14T23:57:31.631274+00:00|https://www.nbcnews.com/video/shorts/death-toll-in-bondi-beach-shooting-rises-to-16-254401605909|death toll in bondi beach shooting rises to 16 us news|5519d52b5c9f86587a85b154c287cfe9
+2025-12-14T23:57:32.436281+00:00|https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html|josé antonio kast elected president of chile us news|e747a6d962a82f45b5ad88e5b2eb7909
