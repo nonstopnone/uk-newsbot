@@ -8304,3 +8304,8 @@
 2025-12-14T06:36:48.174716+00:00|https://www.nytimes.com/2025/12/14/us/brown-shooting-classroom-victims.html|a brown university instructor hid from gunfire with his students us news|6e3edb429c955e983c0c809f35377d3e
 2025-12-14T07:23:32.290330+00:00|https://www.bbc.com/news/articles/cre329w709qo|manhunt continues after two killed in shooting at brown university us news|aadeeef4094a35f7e0e8f950742c3cd7
 2025-12-14T10:57:43.864360+00:00|https://www.nytimes.com/2025/12/14/world/asia/what-we-know-about-the-american-troops-in-syria.html|what we know about the american troops in syria us news|77f8545b4b23a2e0982b263b66a66f5b
+2025-12-14T11:20:38.748772+00:00|https://www.nytimes.com/2025/12/14/us/washington-flood-storm-damage.html|washington residents return home to extensive flood damage us news|642b2dca71ce9ac04f96d09e6e442e18
+2025-12-14T11:20:39.320447+00:00|https://www.nytimes.com/2025/12/14/us/politics/army-base-fitz-lee.html|the army made a blind black soldier a surrogate for robert e lee us news|9cf34933fbe37718977d9bbb9f72f748
+2025-12-14T11:20:39.926877+00:00|https://www.nytimes.com/2025/12/14/us/politics/times-sec-cryptocurrency-analysis.html|how the times analyzed the secs cryptocurrency enforcement us news|e9b8ad1fae597112c55227b8391d6160
+2025-12-14T11:20:40.543954+00:00|https://www.nytimes.com/2025/12/14/us/coins-us-250th-anniversary.html|the war on wokeness comes to the us mint us news|f9cfb75282ffc55484b3f2838d875809
+2025-12-14T11:20:41.139410+00:00|https://www.nytimes.com/2025/12/14/world/americas/chile-election-candidates.html|chile votes in presidential runoff us news|561b8591e70f89fa392440bd0fb6e931
