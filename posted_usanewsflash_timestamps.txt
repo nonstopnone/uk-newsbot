@@ -8343,3 +8343,4 @@
 2025-12-14T22:42:41.862526+00:00|https://www.nytimes.com/2025/12/14/us/gunshots-lockdown-brown-university.html|gunshots at brown university then 12 hours of lockdown and fear us news|651577edf66e299e791e50e2d5553f12
 2025-12-14T22:42:42.463008+00:00|https://www.nbcnews.com/world/asia/hong-kong-court-ruling-jimmy-lai-landmark-national-security-trial-rcna248787|hong kong court set to rule in jimmy lais landmark national security trial us news|44924590a21642063d4291b4d12dfdb4
 2025-12-14T22:57:44.207851+00:00|https://www.nytimes.com/2025/12/14/us/politics/house-republicans-dc-crime.html|house republicans accuse dc police of manipulating crime statistics us news|fa2141981d5e717a9f4d0a5df4e3302a
+2025-12-14T23:23:13.664690+00:00|https://www.nbcnews.com/video/shorts/brown-university-students-shelter-in-place-during-shooting-254404165514|brown university students shelter in place during shooting us news|9d1db5e634265be0853bfdb6de1bee40
