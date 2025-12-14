@@ -8312,3 +8312,5 @@
 2025-12-14T11:39:50.580264+00:00|https://www.nytimes.com/2025/12/14/us/politics/sec-crypto-firms-trump-investigation.html|the sec was tough on crypto it pulled back after trump returned to office us news|25e085e37fb4ca6cc1a9825d4497f911
 2025-12-14T11:39:51.226159+00:00|https://www.nytimes.com/2025/12/14/world/middleeast/gaza-floods-mud-disease.html|floods mud and cold add to gazans misery us news|f615ccf219f9aae9331efc37084ab218
 2025-12-14T11:57:24.794103+00:00|https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story|person of interest in custody after brown university shooting official says us news|e71d6698b43cd3210d4c0c988411c938
+2025-12-14T12:49:41.857317+00:00|https://abcnews.go.com/International/bondi-beach-australia-police-respond-incident/story|11 killed in australian shooting targeting jewish community premier says us news|4eabe1ef5df5a071cfb79101547d268a
+2025-12-14T12:49:42.584454+00:00|https://www.nbcnews.com/video/one-suspect-in-custody-in-brown-university-shooting-254386757878|one suspect in custody in brown university shooting us news|1fcd5a786f9ce29f27a4853a4d286bd2
