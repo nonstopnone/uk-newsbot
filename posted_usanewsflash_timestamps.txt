@@ -8338,3 +8338,5 @@
 2025-12-14T21:22:23.895661+00:00|https://www.bbc.com/news/articles/crrknvqn97no|everyone says itll never be me brown university student on surviving two mass shootings us news|96f1cdd28802e2bdac0574248bcd3ad3
 2025-12-14T21:57:32.769479+00:00|https://www.nytimes.com/2025/12/14/world/middleeast/syria-isis-attack.html|syrian who killed us soldiers was member of security forces officials say us news|dd8c620455eea241983786ce9f24ca66
 2025-12-14T21:57:33.533461+00:00|https://www.nbcnews.com/video/suspects-in-bondi-beach-shooting-identified-as-father-and-son-254402117816|suspects in bondi beach shooting identified as father and son us news|366b4524ea3e3f62eb62db4f6f0df160
+2025-12-14T22:23:18.063612+00:00|https://www.nbcnews.com/sports/nfl/chiefs-playoffs-patrick-mahomes-nfl-rcna249163|the chiefs will miss the playoffs for the first time in patrick mahomes career us news|3584c8b5085aa0e7f41762fee0a70f3c
+2025-12-14T22:23:18.802357+00:00|https://www.nbcnews.com/sports/nfl/chiefs-playoffs-patrick-mahomes-nfl-rcna249163|the chiefs will miss the playoffs for the first time in patrick mahomes career us news|3584c8b5085aa0e7f41762fee0a70f3c
