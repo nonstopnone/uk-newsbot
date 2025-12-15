@@ -8399,3 +8399,5 @@
 2025-12-15T21:43:55.987307+00:00|https://www.bbc.com/news/articles/ce8qnzd680ro|rob reiners son nick arrested for murder after director and wife found dead us news|56a5e04e82cdcee82a94dee649fe201a
 2025-12-15T21:57:56.521511+00:00|https://www.nytimes.com/2025/12/15/us/harvard-president-alan-garber-trump.html|harvards president will stay in the role indefinitely us news|b5cd6502cbcfb5f927ebacec86032b22
 2025-12-15T22:45:53.072269+00:00|https://www.nytimes.com/2025/12/15/arts/television/anthony-geary-dead.html|anthony geary luke on general hospital dies at 78 us news|530463ee423d6fe2974b36f6b452690c
+2025-12-15T23:25:30.169522+00:00|https://abcnews.go.com/US/flash-flood-warning-evacuation-notice-seattle-suburb-after/story|flash flood warning evacuation notice in seattle suburbs after levee breach us news|a35481e7d4a001f5aa649dd299dd21b0
+2025-12-15T23:25:30.838012+00:00|https://www.nbcnews.com/news/obituaries/anthony-geary-played-luke-spencer-general-hospital-dies-78-rcna249349|anthony geary who played luke spencer on general hospital dies at 78 us news|18285f14b95a21437d80d6d8395feea1
