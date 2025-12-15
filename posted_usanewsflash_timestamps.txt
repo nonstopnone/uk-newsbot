@@ -8374,3 +8374,7 @@
 2025-12-15T12:58:09.146978+00:00|https://abcnews.go.com/WNT/video/united-airlines-flight-loses-power-takeoff-128401943|watch united airlines flight loses power during takeoff us news|25296fb159f944a09396e0e736f99553
 2025-12-15T12:58:09.610175+00:00|https://www.nytimes.com/2025/12/15/briefing/an-update-on-two-shootings.html|an update on two shootings us news|b6097f05c87a584b6621a97a9092277f
 2025-12-15T12:58:10.061189+00:00|https://www.nytimes.com/2025/12/15/world/australia/bondi-beach-shooting-sydney-australia.html|how the bondi beach shooting unfolded us news|1cffc26325f2b79031014d359753be9d
+2025-12-15T13:44:25.336905+00:00|https://www.today.com/video/father-and-son-identified-as-bondi-beach-shooting-suspects-254426181564|father and son identified as bondi beach shooting suspects us news|5cc79c7e52ae7d1e4d96c8e0da355191
+2025-12-15T13:44:26.002841+00:00|https://abcnews.go.com/GMA/Culture/video/back-rob-reiners-life-career-128409271|watch a look back at rob reiners life and career us news|de7e24359bbc141e484e54f54022a975
+2025-12-15T13:44:26.835375+00:00|https://www.nbcnews.com/video/shorts/bondi-beach-shooting-suspects-identified-as-father-son-254425669918|bondi beach shooting suspects identified as father son us news|940870a7f803e727ed85c511700ecae3
+2025-12-15T13:44:27.667660+00:00|https://www.today.com/video/director-rob-reiner-and-his-wife-found-dead-in-their-la-home-254425157512|director rob reiner and his wife found dead in their la home us news|0d3c8a2c2f6cacc56e6af96811b75b1c
