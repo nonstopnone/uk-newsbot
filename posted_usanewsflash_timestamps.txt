@@ -8392,3 +8392,4 @@
 2025-12-15T19:02:59.811279+00:00|https://www.nytimes.com/2025/12/15/world/europe/ukraine-russia-submarine-drones.html|ukraine claims first strike by underwater drone on russian submarine us news|9f929486ecad895bf7e466d8e43e9901
 2025-12-15T19:27:14.259826+00:00|https://abcnews.go.com/Politics/fbi-disrupted-alleged-terrorist-bombing-plot-los-angeles/story|fbi disrupted alleged terrorist bombing plot in los angeles officials said us news|ef737bfc05baf6c94a0a0f634e850ec3
 2025-12-15T19:27:14.904256+00:00|https://www.nbcnews.com/video/shorts/nick-reiner-booked-on-suspicion-of-murder-254456389596|nick reiner booked on suspicion of murder us news|25e71a8cbf74ecfa9415b37e42512927
+2025-12-15T19:41:51.330218+00:00|https://www.nytimes.com/2025/12/15/us/politics/trump-tech-workers.html|trump administration begins program to increase governments tech worker ranks us news|d163f22c67b6ead26cdfdcae10d15c90
