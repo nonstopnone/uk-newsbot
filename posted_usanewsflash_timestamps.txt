@@ -8414,3 +8414,4 @@
 2025-12-16T05:28:24.592243+00:00|https://www.nytimes.com/2025/12/16/business/volkswagen-dresden-factory-closed.html|volkswagen to end production at german plant a first in company history us news|4f225a323683b293ec831e857ce86d5a
 2025-12-16T08:37:18.978423+00:00|https://www.nytimes.com/2025/12/16/arts/television/late-night-tribute-rob-reiner.html|late night pays tribute to rob reiner us news|8bbc9f4b810ad7ab397b0618d37f9d1b
 2025-12-16T09:14:01.794002+00:00|https://www.bbc.com/news/articles/crl938n0872o|how divides emerged at the heart of trumps maga world us news|873c7ce2c8e794d7478a57143552c601
+2025-12-16T09:40:37.812967+00:00|https://abcnews.go.com/International/wireStory/japan-lifts-megaquake-advisory-urges-caution-week-after-128442873|japan lifts megaquake advisory but urges caution a week after magnitude 75 temblor us news|fb99917f9a41f66cb6e5acd341aaae8e
