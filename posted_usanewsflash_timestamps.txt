@@ -8418,3 +8418,8 @@
 2025-12-16T09:58:41.406334+00:00|https://www.bbc.com/news/articles/c7413d9xvkeo|trump defends criticism of reiner after republican backlash us news|f0bea531f8cd54f346ac7ae3a42eebe3
 2025-12-16T10:31:14.441598+00:00|https://abcnews.go.com/US/jobs-report-reveal-health-us-economy-amid-government/story|jobs report to reveal health of us economy amid government shutdown inflation us news|9fcf7cc81984e8af96e1c405a4fd12e7
 2025-12-16T10:51:46.087736+00:00|https://abcnews.go.com/US/brown-university-shooting-manhunt-continues-fbi-offers-reward/story|as brown shooting manhunt continues fbi offers reward for info leading to conviction us news|8b5cbaf8091d481ac8a82eda53702585
+2025-12-16T11:24:57.480734+00:00|https://www.nytimes.com/2025/12/16/business/economy/jobs-report-unemployment-november.html|jobs report could provide overdue clarity on uncertain economy us news|4662aa9aa4467230c3218073b7bf2457
+2025-12-16T11:24:57.957327+00:00|https://www.nytimes.com/2025/12/16/us/politics/trump-maduro-venezuela-oil-tanker.html|venezuelas oil is a focus of trumps campaign against maduro us news|60e7cea8c58b5f2732b23c8787244f19
+2025-12-16T11:24:58.677639+00:00|https://www.nytimes.com/2025/12/16/business/jobs-data-economy.html|jobs data is finally back but the economic picture is still blurry us news|ec57bfe853a0dd8290430d76e4c30a62
+2025-12-16T11:24:59.144033+00:00|https://www.nytimes.com/2025/12/16/us/brown-shooting-campus-trust.html|brown shooting tests a fragile trust on campus us news|81baa62a3ded9d72d029efff381ecb7f
+2025-12-16T11:24:59.598596+00:00|https://www.nytimes.com/2025/12/16/world/europe/ukraine-war-europe-russia-frozen-assets.html|this week is pivotal for ukraine and for europes voice in its future us news|022b4cbe1ef7f90c6434f56159eb9aa2
