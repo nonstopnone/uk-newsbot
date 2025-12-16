@@ -8423,3 +8423,8 @@
 2025-12-16T11:24:58.677639+00:00|https://www.nytimes.com/2025/12/16/business/jobs-data-economy.html|jobs data is finally back but the economic picture is still blurry us news|ec57bfe853a0dd8290430d76e4c30a62
 2025-12-16T11:24:59.144033+00:00|https://www.nytimes.com/2025/12/16/us/brown-shooting-campus-trust.html|brown shooting tests a fragile trust on campus us news|81baa62a3ded9d72d029efff381ecb7f
 2025-12-16T11:24:59.598596+00:00|https://www.nytimes.com/2025/12/16/world/europe/ukraine-war-europe-russia-frozen-assets.html|this week is pivotal for ukraine and for europes voice in its future us news|022b4cbe1ef7f90c6434f56159eb9aa2
+2025-12-16T12:56:43.542732+00:00|https://www.bbc.com/news/articles/cvgj14l3v8vo|what we know about nick reiner son arrested in death of director rob reiner us news|6441091a42936b1c3f9ed7d104ace666
+2025-12-16T12:56:44.021056+00:00|https://www.bbc.com/news/articles/c79x54dprngo|negotiations over usuk tech deal stall us news|47644d72921bf7ae6fddabeb17bf3796
+2025-12-16T12:56:44.482057+00:00|https://abcnews.go.com/International/bondi-beach-evidence-suggests-shooting-inspired-isis-australia/story|bondi beach evidence suggests shooting was inspired by isis australia pm says us news|e93ac41d54c4fe70333384f6a3d9a185
+2025-12-16T12:56:44.963770+00:00|https://www.nytimes.com/2025/12/16/briefing/a-look-at-australias-gun-laws.html|a look at australias gun laws us news|1e4f32b74790d4d62351fc6bf5bef88f
+2025-12-16T12:56:45.419298+00:00|https://www.nytimes.com/2025/12/16/us/politics/trump-susie-wiles.html|susie wiles acknowledges trumps score settling behind prosecutions us news|0f92fe23afe4abeae7c77c6104833cb0
