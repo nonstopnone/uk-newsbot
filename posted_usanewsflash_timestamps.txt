@@ -8406,3 +8406,7 @@
 2025-12-16T02:04:16.883718+00:00|https://www.nytimes.com/2025/12/15/us/politics/pelosi-stock-trading-ban.html|pelosi long resisted stocktrading ban for congress fueling suspicion us news|1f2f30dee9d382d27e1144bdc05e39bd
 2025-12-16T02:04:17.503126+00:00|https://www.nbcnews.com/nightly-news/video/brian-walshe-found-guilty-for-murder-of-his-wife-254475333648|brian walshe found guilty for murder of his wife us news|17740bad3675e1530464cc86673aea29
 2025-12-16T02:04:18.001793+00:00|https://www.nytimes.com/2025/12/15/us/politics/kash-patel-fbi.html|fbi director kash patel eager for spotlight casts aside caution in social media posts us news|271e2f51e2f471d8fb37b97f0d6e90b9
+2025-12-16T03:39:48.029896+00:00|https://www.nytimes.com/2025/12/15/obituaries/joe-ely-dead.html|joe ely texasborn troubadour of the open road dies at 78 us news|a966e1606482faa35ee89a838e8f39b2
+2025-12-16T03:39:48.693257+00:00|https://www.nytimes.com/2025/12/15/nyregion/hanukkah-menorah-nyc-jews-australia.html|at a dark moment jews in new york celebrate the festival of lights us news|197c23e62e789ff194dd650e2f651966
+2025-12-16T03:39:49.321895+00:00|https://www.nytimes.com/2025/12/15/us/politics/kushner-trump-hotel-deal-serbia.html|kushners firm pulls out of trumpbranded hotel deal in serbia us news|cd574e85ada271c8a600864c431475be
+2025-12-16T03:39:49.972685+00:00|https://www.nytimes.com/2025/12/15/us/politics/trump-sues-bbc.html|trump files $10 billion suit over bbc documentary us news|4b1f5484ca5b448d961d83b1bf117c27
