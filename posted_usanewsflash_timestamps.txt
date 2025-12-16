@@ -8464,3 +8464,5 @@
 2025-12-16T23:42:32.218702+00:00|https://abcnews.go.com/US/video/los-angeles-county-da-announces-1st-degree-murder-128466771|watch los angeles county da announces 1stdegree murder charges against nick reiner us news|b5f00260a5b9c78c209c4caed62069df
 2025-12-16T23:42:32.869904+00:00|https://www.nytimes.com/article/nick-reiner-rob-reiner-son-murder.html|nick reiner accused of killing his parents what we know us news|3e833e9aba18d3ca7582ec37ba4b8dad
 2025-12-16T23:42:33.568112+00:00|https://www.nytimes.com/2025/12/16/briefing/rob-reiner-son-charges-unemployment-rate.html|reiners son to be charged with murder us news|7829d711cd291494c3e6aec477f972cb
+2025-12-16T23:57:32.690477+00:00|https://www.nbcnews.com/video/shorts/doctor-says-he-made-a-mistake-in-murder-case-254534725988|doctor says he made a mistake in murder case us news|c2cecfa646b78c648c993b37f6be8e00
+2025-12-16T23:57:33.210817+00:00|https://www.nbcnews.com/health/health-news/cdc-stops-recommending-hepatitis-b-vaccines-newborns-rcna248035|cdc formally stops recommending hepatitis b vaccines for all newborns us news|50d39bad623a170b1d9736a8540fdbf3
