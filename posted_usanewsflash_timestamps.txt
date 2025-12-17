@@ -8524,3 +8524,6 @@
 2025-12-17T21:43:04.455955+00:00|https://www.nbcnews.com/health/health-news/hhs-cuts-millions-grants-american-academy-pediatrics-rcna249769|hhs cuts millions in grants to the american academy of pediatrics us news|302541ae96c12e79f5f1feda08551ea2
 2025-12-17T21:43:05.038719+00:00|https://www.nytimes.com/2025/12/17/weather/california-tule-fog-central-valley.html|californias endless fog is finally clearing us news|12ad823434a9f3990740bceb4156e15f
 2025-12-17T21:43:06.043059+00:00|https://www.nbcnews.com/video/shorts/first-funerals-of-bondi-beach-victims-held-in-sydney-254607429780|first funerals of bondi beach victims held in sydney us news|e425e554b0e712fb122b3dd59cec2820
+2025-12-17T21:57:41.870811+00:00|https://www.bbc.com/news/articles/c9qedpnw0w0o|ghislaine maxwell asks court to set aside her 20year prison sentence us news|c0e2ceb3585e6dd0316e703ecf244abd
+2025-12-17T21:57:42.518890+00:00|https://www.nbcnews.com/video/shorts/razor-blades-found-in-bread-at-two-mississippi-walmarts-254610501976|razor blades found in bread at two mississippi walmarts us news|76ffe54b1579ea365bed345d5ff809d1
+2025-12-17T21:57:43.177298+00:00|https://www.nytimes.com/2025/12/17/us/nick-reiner-arrest-video-gas-station.html|video footage shows nick reiner enter store an hour before his arrest us news|7bc864c50d29bcfcc66d9feda90902d8
