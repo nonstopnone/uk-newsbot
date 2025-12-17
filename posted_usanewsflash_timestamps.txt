@@ -8487,3 +8487,5 @@
 2025-12-17T11:25:41.590320+00:00|https://www.nytimes.com/2025/12/17/us/politics/trump-cash-payments.html|trump dangles cash payments to assuage affordability concerns us news|d1549dd380737d1f12fac2ab8cfb63cf
 2025-12-17T11:25:42.116879+00:00|https://www.nytimes.com/2025/12/17/us/brown-attack-manhunt-gunman-escaped.html|one way the brown attack was unusual the gunman escaped us news|2098971ffbb5efc95333810845726fac
 2025-12-17T11:25:42.634665+00:00|https://www.nytimes.com/2025/12/17/us/harvard-investigates-students-larry-summers-video-epstein.html|harvard secretly investigates students over larry summers video on epstein us news|9bcc4c06911f9d11bde7a203dac02167
+2025-12-17T11:57:54.426288+00:00|https://www.nytimes.com/2025/12/17/world/americas/trump-chevron-venezuela-oil.html|trump revised chevrons venezuela deal maduros oil trader profited us news|2e7df299beb817e049dfff5c7b0fd45d
+2025-12-17T11:57:54.916062+00:00|https://abcnews.go.com/US/video/town-frankie-spreads-holiday-cheer-wild-lights-music-128477254|watch htown frankie spreads holiday cheer with wild lights music us news|570f202b4095a584f72f724fec86a67c
