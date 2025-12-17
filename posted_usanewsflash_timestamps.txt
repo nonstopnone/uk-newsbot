@@ -8513,3 +8513,5 @@
 2025-12-17T19:03:25.877117+00:00|https://www.nbcnews.com/video/shorts/nick-reiner-makes-no-plea-at-first-court-appearance-254597189525|nick reiner makes no plea at first court appearance us news|d9b172627c381f224a708520e06ad7a2
 2025-12-17T19:26:54.032086+00:00|https://www.nytimes.com/2025/12/17/us/politics/venezuela-blockade-military-escort-trump.html|venezuelan navy escorts vessels after trumps blockade threat us news|c2797734ff5f4edc1d8ed05266918813
 2025-12-17T19:41:42.508938+00:00|https://www.nbcnews.com/business/media/senate-testimony-fcc-chairman-says-agency-isnt-independent-rcna249724|in senate testimony fcc chairman says his agency isnt independent us news|c1e57bea5ba41fa09dee2acdfed9a3ee
+2025-12-17T20:30:58.615814+00:00|https://www.nytimes.com/2025/12/17/technology/fcc-brendan-carr-senate-hearing.html|brendan carr says fcc isnt independent amid concerns of how trump might use the agency us news|314761b602aa6a3c00807cea982ad67a
+2025-12-17T20:30:59.299011+00:00|https://www.nytimes.com/2025/12/17/us/politics/obamacare-subsidies-house.html|republicans clinch democrats bid to force vote on aca subsidies us news|a2ee28ed4071bf1e0b43f12b9c58c226
