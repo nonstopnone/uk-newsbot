@@ -8552,3 +8552,8 @@
 2025-12-18T04:07:58.634292+00:00|https://abcnews.go.com/Politics/video/president-trump-addresses-nation-end-year-remarks-128507759|watch president trump addresses nation in end of year remarks us news|88c9f866ca28ec08a5ae111b55a2b934
 2025-12-18T04:07:59.294046+00:00|https://abcnews.go.com/Politics/video/president-trump-addresses-nation-1st-year-office-2026-128507854|watch president trump addresses nation on 1st year in office 2026 agenda us news|500b3effc1b53145223153e96324758e
 2025-12-18T04:45:32.952368+00:00|https://www.bbc.com/news/articles/c8e9j84008jo|trump announces warrior dividend payments for troops us news|8addd6af1fb9cc4e031c8bcd87634040
+2025-12-18T05:57:56.302997+00:00|https://www.nytimes.com/2025/12/18/us/politics/6-takeaways-from-trumps-address-to-the-nation.html|6 takeaways from trumps address to the nation us news|3ac1818bb9e59c73325606017ce683e1
+2025-12-18T05:57:56.766905+00:00|https://www.nytimes.com/2025/12/18/us/politics/trump-taiwan-weapons-sale.html|trump officials announce more than $11 billion in arms sales for taiwan us news|6076694f2b22e50c65c74a57b9d95fb5
+2025-12-18T05:57:57.269768+00:00|https://www.nytimes.com/2025/12/17/us/politics/trump-speech-transcript-economy.html|full transcript of president trumps speech on the economy us news|58a30bde4689636197a2978a4355fce1
+2025-12-18T05:57:57.772725+00:00|https://www.nytimes.com/2025/12/17/us/politics/fact-checking-trumps-economy-address.html|factchecking trumps primetime address on the economy us news|0dbd2ef5fe4c629df554089a63e2abb2
+2025-12-18T05:57:58.314483+00:00|https://www.nytimes.com/2025/12/18/business/trump-xi-us-china.html|china is feeling strong and senses an american retreat us news|6624867b9eab7b28cade5c2097075c42
