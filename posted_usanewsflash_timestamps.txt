@@ -8591,3 +8591,5 @@
 2025-12-18T15:59:11.659942+00:00|https://www.nytimes.com/2025/12/18/nyregion/zohran-mamdani-sherif-soliman-omb.html|mamdani names budget director as he prepares to enact costly agenda us news|07b00be3118297e9471b782c0b96d714
 2025-12-18T15:59:12.168359+00:00|https://www.nbcnews.com/video/shorts/november-inflation-report-shows-an-ease-to-2-7-254658117917|november inflation report shows an ease to 27 us news|5d88990e07678734110b7a3337a48e35
 2025-12-18T15:59:12.873400+00:00|https://www.nbcnews.com/video/shorts/brian-walshe-sentenced-to-life-in-prison-for-wife-s-murder-254662725507|brian walshe sentenced to life in prison for wifes murder us news|52a4af23fcd298cf404b0f4fdb2fa58e
+2025-12-18T16:37:05.611164+00:00|https://www.nytimes.com/2025/12/18/business/economy/inflation-cpi-interest-rates.html|us inflation slowed to 27 in november as shutdown distorts data us news|20c75d825d01275531a35e9f9edc9a11
+2025-12-18T16:37:06.138982+00:00|https://www.nytimes.com/2025/12/18/health/trump-gender-affirming-care-funding.html|trump moves to end access to genderrelated care for minors us news|62e2f84dab2b2be231006c29e7821db8
