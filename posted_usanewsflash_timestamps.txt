@@ -8617,3 +8617,5 @@
 2025-12-18T20:26:36.230060+00:00|https://abcnews.go.com/US/small-plane-crashes-north-carolina-airport-6-board/story|small plane crashes at north carolina airport with 6 on board faa us news|2634eb1f1e45a5de84aa56b00c929214
 2025-12-18T20:26:36.897659+00:00|https://www.nytimes.com/2025/12/18/us/politics/trump-kennedy-center-name.html|kennedy center board moves to rename it the trumpkennedy center us news|43472450e3e3efe4a1298f8a5b9cec96
 2025-12-18T20:26:37.589310+00:00|https://www.nbcnews.com/video/shorts/small-plane-crashes-at-north-carolina-airport-254673990002|small plane crashes at north carolina airport us news|943f1a27b02a70d04e1f2ca86cb92186
+2025-12-18T21:22:08.964339+00:00|https://www.nytimes.com/2025/12/18/us/politics/robert-garcia-epstein.html|from bravo to cable news garcia is pushing republicans on epstein us news|2528444b6e9b7a97a617e752501e7e50
+2025-12-18T21:22:09.629606+00:00|https://www.nytimes.com/2025/12/18/us/brown-mit-shooting-person-of-interest.html|brown shooting authorities search for a person with possible connection to mit killing us news|a4f7dd04fc92476fb94fda2a706910ac
