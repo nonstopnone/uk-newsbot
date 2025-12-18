@@ -8600,3 +8600,6 @@
 2025-12-18T17:57:38.165234+00:00|https://www.bbc.com/news/articles/cp9kv9lld38o|trump media to merge with fusion energy firm in $6bn deal us news|bff0fffa051ea91cfd8370c2c02ae11c
 2025-12-18T17:57:38.741124+00:00|https://www.bbc.com/news/articles/c741r9ve3z7o|small aircraft crashes in north carolina while landing us news|b7858be0943451f88ddc33764651b0fd
 2025-12-18T17:57:39.270425+00:00|https://abcnews.go.com/US/house-democrats-release-batch-epstein-photos/story|house democrats release another batch of epstein photos us news|579aca0f5d3adb21fe04d41caaf4be0d
+2025-12-18T18:38:48.600823+00:00|https://www.nytimes.com/2025/12/18/us/statesville-plane-crash-north-carolina.html|statesville airport plane crash leaves multiple people dead officials say us news|07981e31216b1f866e7841031c3fe098
+2025-12-18T18:38:49.061666+00:00|https://www.nytimes.com/2025/12/18/business/trump-immigrants-trucks.html|trump administration tries to stop some immigrants from driving trucks us news|31e888030b73cabe1bb9fe9b3fb23cc5
+2025-12-18T18:38:49.554072+00:00|https://abcnews.go.com/US/video/small-plane-crashes-landing-regional-nc-airport-128527751|watch small plane crashes while landing at regional nc airport us news|e822a885048ca1cae02a7788be2d3da0
