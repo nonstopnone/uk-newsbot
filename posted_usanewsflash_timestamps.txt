@@ -8557,3 +8557,5 @@
 2025-12-18T05:57:57.269768+00:00|https://www.nytimes.com/2025/12/17/us/politics/trump-speech-transcript-economy.html|full transcript of president trumps speech on the economy us news|58a30bde4689636197a2978a4355fce1
 2025-12-18T05:57:57.772725+00:00|https://www.nytimes.com/2025/12/17/us/politics/fact-checking-trumps-economy-address.html|factchecking trumps primetime address on the economy us news|0dbd2ef5fe4c629df554089a63e2abb2
 2025-12-18T05:57:58.314483+00:00|https://www.nytimes.com/2025/12/18/business/trump-xi-us-china.html|china is feeling strong and senses an american retreat us news|6624867b9eab7b28cade5c2097075c42
+2025-12-18T06:40:19.925849+00:00|https://abcnews.go.com/Politics/wireStory/turning-point-youth-conference-begins-phoenix-founder-charlie-128510710|turning point youth conference begins in phoenix without founder charlie kirk us news|918443733ed543c3a9dd336916c7832e
+2025-12-18T06:40:20.594715+00:00|https://www.nytimes.com/2025/12/17/us/reiner-brentwood-mourning-scene.html|shock and sadness hang over the reiners neighborhood us news|1a66a4f8fa4c20edaf81fff4b373c55a
