@@ -8595,3 +8595,5 @@
 2025-12-18T16:37:06.138982+00:00|https://www.nytimes.com/2025/12/18/health/trump-gender-affirming-care-funding.html|trump moves to end access to genderrelated care for minors us news|62e2f84dab2b2be231006c29e7821db8
 2025-12-18T17:12:33.231745+00:00|https://www.bbc.com/news/articles/cp8z684r6vlo|trump expected to expand access to cannabis in a major shift in drug policy us news|6029732af8378282dea5e40bfe19d0b5
 2025-12-18T17:12:33.822021+00:00|https://www.nbcnews.com/video/watch-brian-walshe-sentenced-to-life-in-prison-for-murdering-his-wife-254658117858|watch brian walshe sentenced to life in prison for murdering his wife us news|172283eede97a09cf15d3c999ba9c621
+2025-12-18T17:37:17.246427+00:00|https://www.bbc.com/news/articles/c8e9jexe5k8o|factchecking white house plaques targeting former us presidents us news|914471ba949ee6c8ed1bd68456b9b43e
+2025-12-18T17:37:17.983362+00:00|https://www.nbcnews.com/video/shorts/fbi-deputy-director-dan-bongino-to-step-down-in-january-254667333887|fbi deputy director dan bongino to step down in january us news|9cee06bd41ee50c8d603b0bd9b5b50dc
