@@ -8603,3 +8603,6 @@
 2025-12-18T18:38:48.600823+00:00|https://www.nytimes.com/2025/12/18/us/statesville-plane-crash-north-carolina.html|statesville airport plane crash leaves multiple people dead officials say us news|07981e31216b1f866e7841031c3fe098
 2025-12-18T18:38:49.061666+00:00|https://www.nytimes.com/2025/12/18/business/trump-immigrants-trucks.html|trump administration tries to stop some immigrants from driving trucks us news|31e888030b73cabe1bb9fe9b3fb23cc5
 2025-12-18T18:38:49.554072+00:00|https://abcnews.go.com/US/video/small-plane-crashes-landing-regional-nc-airport-128527751|watch small plane crashes while landing at regional nc airport us news|e822a885048ca1cae02a7788be2d3da0
+2025-12-18T19:02:13.988557+00:00|https://www.bbc.com/news/articles/cp84pxvp87eo|kennedy center to be renamed trumpkennedy center white house says us news|b9d101e8b3821289bb63240bcebba0ae
+2025-12-18T19:02:14.595639+00:00|https://www.nytimes.com/2025/12/18/nyregion/nyc-subway-mta-safety-low-crime.html|nyc subway crime is down hochul says rebutting trump officials us news|9bbbfb40fbf1943cbc4324c1af1211ea
+2025-12-18T19:02:15.275393+00:00|https://www.nbcnews.com/video/watch-live-trump-signs-executive-order-reclassifying-cannabis-254663749512|trump signs executive order reclassifying cannabis us news|f9943972bb2d00e0d461053e82ba0ecd
