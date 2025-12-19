@@ -8665,3 +8665,5 @@
 2025-12-19T15:28:38.177989+00:00|https://abcnews.go.com/US/new-details-emerge-brown-mit-shooting-suspect-after/story|new details emerge on brown and mit shooting suspect after dayslong manhunt us news|31bf114570757f1fda3d921068149df3
 2025-12-19T15:28:38.849590+00:00|https://www.nytimes.com/2025/12/19/us/politics/erika-kirk-jd-vance-2028-election-endorsement.html|erika kirk endorses jd vance for 2028 us news|555381afe15d22d1f75eaed3e7682dc7
 2025-12-19T15:28:39.578861+00:00|https://www.nbcnews.com/video/shorts/suspect-in-deadly-brown-university-shooting-found-dead-254736965755|suspect in deadly brown university shooting found dead us news|9ec53ff3ccb00f8671951a73ca8ae294
+2025-12-19T15:57:26.465484+00:00|https://abcnews.go.com/US/tiktok-signs-deal-create-new-us-joint-venture/story|tiktok signs deal to create new us joint venture us news|2182e183018c02bfefb0f9d6b72af32d
+2025-12-19T15:57:26.954918+00:00|https://www.nytimes.com/2025/12/19/world/australia/bondi-shooting-attack-suspects.html|what we know about the suspects in the bondi beach shooting us news|12bbcc61ddcd54f4e7cad918ef965c04
