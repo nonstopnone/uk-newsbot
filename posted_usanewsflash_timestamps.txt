@@ -8702,3 +8702,5 @@
 2025-12-19T23:24:20.695828+00:00|https://www.nbcnews.com/video/u-s-launches-retaliatory-strikes-in-syria-254768709961|us launches retaliatory strikes in syria us news|0ec627f33c4f69a1c88d939a26745d1c
 2025-12-19T23:41:52.866848+00:00|https://www.nytimes.com/2025/12/19/us/suspect-brown-mit-autopsy.html|suspect in brown and mit killings died 2 days before he was found autopsy shows us news|bade3097d198964531ade91002510153
 2025-12-19T23:41:53.430727+00:00|https://www.nytimes.com/2025/12/19/us/politics/kennedy-center-trump-sign.html|kennedy center memorial to jfk is trumps now too us news|87b5af0b6b32e3c180c32525aa586904
+2025-12-19T23:57:42.733153+00:00|https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html|us strikes islamic state targets in syria us news|3d2550b6b4bdf717846c947d265e48c0
+2025-12-19T23:57:43.357030+00:00|https://www.nytimes.com/2025/12/19/us/politics/frank-donovan-southern-command-trump.html|trump picks new leader for southern command as venezuela pressure grows us news|2320facab0dd693cbfd46140247e2400
