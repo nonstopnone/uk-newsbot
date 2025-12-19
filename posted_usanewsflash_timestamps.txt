@@ -8643,3 +8643,4 @@
 2025-12-19T04:22:32.510270+00:00|https://www.nytimes.com/2025/12/18/us/judge-hannah-dugan-trial-verdict.html|judge convicted of obstructing agents as they sought undocumented immigrant us news|a75d7e4a9f01d9facbe260b7d5af3130
 2025-12-19T04:22:33.242198+00:00|https://www.nytimes.com/2025/12/18/us/judge-hannah-dugan-trial-takeaways.html|takeaways from the trial of wisconsin judge hannah dugan us news|4e9e4f02a8306db02b67464d2728ff99
 2025-12-19T04:22:33.912531+00:00|https://abcnews.go.com/US/milwaukee-judge-found-guilty-felony-obstruction-helping-undocumented/story|judge found guilty of felony obstruction in helping undocumented man evade arrest us news|ef40015874c62477af02f412297af3f2
+2025-12-19T05:27:48.611838+00:00|https://www.nytimes.com/2025/12/19/world/europe/uk-defense-russia.html|britain is preparing for attacks on its soil critics say it must move faster us news|ea7b460d605a7813ce6da003703408a1
