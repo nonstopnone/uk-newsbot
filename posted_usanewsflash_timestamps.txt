@@ -8655,3 +8655,5 @@
 2025-12-19T11:23:08.386330+00:00|https://www.nytimes.com/2025/12/19/us/florida-executions-record.html|florida executed a record 19 people in 2025 he witnessed them all us news|43e09e661f96782165164cdd96f543b6
 2025-12-19T11:23:08.856654+00:00|https://www.nytimes.com/2025/12/19/us/politics/how-the-army-caused-alarm-in-the-washington-skies-years-before-a-fatal-crash.html|how the army caused alarm in the washington skies years before a fatal crash us news|742bfc54edb1b4dcd430f981a3e50d9c
 2025-12-19T11:23:09.353954+00:00|https://www.nytimes.com/2025/12/19/us/wildfire-fighters-cancer.html|us will pay $450000 to wildfire fighters with cancer us news|7132c497819b06fa40454ed0034f5c33
+2025-12-19T11:41:38.324149+00:00|https://www.nytimes.com/2025/12/19/world/europe/ukraine-russia-frozen-assets-loan.html|with new eu loan ukraine avoids budget crunch and can plan war effort us news|390528185aafa5026605af099cd83fd3
+2025-12-19T11:41:39.082442+00:00|https://www.nytimes.com/2025/12/19/business/stock-market-forecast-wall-street.html|want to know where the market is going dont trust this or any forecast us news|2c8fc94664f0898fd673af14a73fc315
