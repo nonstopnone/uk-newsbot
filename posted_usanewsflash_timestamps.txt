@@ -8648,3 +8648,4 @@
 2025-12-19T05:46:30.862331+00:00|https://www.nytimes.com/2025/12/19/us/trump-administration-appeal-harvard-funding-case.html|trump administration to appeal harvard funding case us news|de5f4ac02d8c8073c99c322b5fdb3de1
 2025-12-19T06:39:13.995385+00:00|https://www.nytimes.com/2025/12/19/us/neves-valente-supect-what-we-know.html|what we know about the suspect in the brown and mit killings us news|cc9f198be0a337e761a0799d139a18bd
 2025-12-19T07:01:33.117456+00:00|https://www.nytimes.com/2025/12/19/us/brown-mit-shooting-investigation-reddit.html|a reddit post led to a breakthrough in the brown shooting investigation us news|dd3f87afaf746cc9815d7f422799ca85
+2025-12-19T09:02:03.902757+00:00|https://www.bbc.com/news/articles/c4gp4ze002mo|us suspends green card lottery scheme after brown university shooting us news|68e587e99fea375a31522fc3d6f7f53e
