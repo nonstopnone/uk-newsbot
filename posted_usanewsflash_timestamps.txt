@@ -8695,3 +8695,6 @@
 2025-12-19T22:25:05.752950+00:00|https://abcnews.go.com/US/video/doj-begins-releasing-documents-epstein-files-128569071|watch doj begins releasing documents from its epstein files us news|4ec99862cbe3018a863efcaa56b431be
 2025-12-19T22:25:06.492558+00:00|https://www.nytimes.com/2025/12/19/business/elon-musk-pay-ruling-delaware.html|elon musks 2018 tesla pay deal is restored by delaware supreme court us news|e8283364b154eacc9966b39f8c4bb9f3
 2025-12-19T22:25:07.284815+00:00|https://www.nbcnews.com/video/shorts/justice-department-begins-release-of-epstein-files-254766149928|justice department begins release of epstein files us news|cd56f04b107ff2742615d5c1c4d126d2
+2025-12-19T22:44:40.558309+00:00|https://www.bbc.com/news/articles/cwyp2l9el87o|republican elise stefanik ends new york governor bid us news|4add5dcd65e28b20e6c1b1db24888f90
+2025-12-19T22:44:41.241269+00:00|https://abcnews.go.com/Politics/stefanik-suspends-campaign-new-york-governor-run-reelection/story|stefanik suspends campaign for new york governor wont run for reelection to house us news|4a16b79c21a16f8584f2e0e34a8d402f
+2025-12-19T22:44:42.070833+00:00|https://abcnews.go.com/International/us-launches-retaliatory-strikes-syria-targeting-isis-hegseth/story|us launches retaliatory strikes in syria targeting isis hegseth announces us news|b80571ae238349ff2badc6025a09fc48
