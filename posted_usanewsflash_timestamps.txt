@@ -8688,3 +8688,5 @@
 2025-12-19T20:45:01.013310+00:00|https://www.nytimes.com/2025/12/19/nyregion/jam-master-jay-conviction-overturned.html|federal judge overturns conviction in killing of dj jam master jay us news|90c548f4a997ba50a5e088ba7dcffe64
 2025-12-19T20:57:35.164415+00:00|https://www.nbcnews.com/video/shorts/aerials-show-site-of-north-carolina-plane-crash-254758469510|aerials show site of north carolina plane crash us news|c184bb63fb11bf4d7bc3a02c8800145e
 2025-12-19T21:23:31.065484+00:00|https://www.nytimes.com/2025/12/19/nyregion/elise-stefanik-drops-out-governor.html|elise stefanik drops out of ny governors race and will leave congress us news|1c701438b050797745c8b5dd41b57c3a
+2025-12-19T21:41:45.020440+00:00|https://www.nbcnews.com/politics/2026-election/gop-rep-elise-stefanik-drops-new-york-governors-race-rcna250154|gop rep elise stefanik drops out of new york governors race us news|33e99b1e1d1fc871eddabe89f80e77a5
+2025-12-19T21:41:45.605017+00:00|https://www.nytimes.com/2025/12/19/health/kennedy-childhood-vaccine-schedule-denmark.html|rfk jr likely to swap us childhood vaccine schedule for denmarks us news|e02885458772375ae660abb78137b069
