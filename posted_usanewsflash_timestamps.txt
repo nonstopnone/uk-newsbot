@@ -8657,3 +8657,5 @@
 2025-12-19T11:23:09.353954+00:00|https://www.nytimes.com/2025/12/19/us/wildfire-fighters-cancer.html|us will pay $450000 to wildfire fighters with cancer us news|7132c497819b06fa40454ed0034f5c33
 2025-12-19T11:41:38.324149+00:00|https://www.nytimes.com/2025/12/19/world/europe/ukraine-russia-frozen-assets-loan.html|with new eu loan ukraine avoids budget crunch and can plan war effort us news|390528185aafa5026605af099cd83fd3
 2025-12-19T11:41:39.082442+00:00|https://www.nytimes.com/2025/12/19/business/stock-market-forecast-wall-street.html|want to know where the market is going dont trust this or any forecast us news|2c8fc94664f0898fd673af14a73fc315
+2025-12-19T13:25:19.118742+00:00|https://www.nbcnews.com/video/putin-tells-nbc-news-the-ball-is-in-ukraine-s-court-to-end-the-war-254728261510|putin tells nbc news the ball is in ukraines court to end the war us news|10a54922cf27699c09d0430db3654235
+2025-12-19T13:25:19.822497+00:00|https://www.nytimes.com/2025/12/19/world/middleeast/gaza-hunger-report-israel.html|global experts say most palestinians in gaza face major difficulties accessing food us news|1aadc68516eb920fd23b7252a5c77522
