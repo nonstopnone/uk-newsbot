@@ -8684,3 +8684,5 @@
 2025-12-19T20:28:54.457994+00:00|https://abcnews.go.com/US/brown-mit-suspect-200-rounds-laser-sights-authorities/story|brown mit suspect had 200 rounds as authorities feared hit list official us news|bd3717eb3040fc58275943032e2fe3db
 2025-12-19T20:28:55.163476+00:00|https://abcnews.go.com/US/video/work-begins-rename-kennedy-center-trump-kennedy-center-128566365|watch work begins to rename kennedy center as trumpkennedy center us news|9b0a115cdbc72b203a4f785fee9762ea
 2025-12-19T20:28:55.846557+00:00|https://www.nbcnews.com/video/shorts/wisconsin-judge-found-guilty-of-felony-obstruction-254757445638|wisconsin judge found guilty of felony obstruction us news|9300a8caa84271f7654b7c55d5ae5d0f
+2025-12-19T20:45:00.477738+00:00|https://www.nytimes.com/2025/12/19/us/uva-president-scott-beardsley.html|scott c beardsley named university of virginias new president us news|771297c8e7e3bea29c5d3647cd91e483
+2025-12-19T20:45:01.013310+00:00|https://www.nytimes.com/2025/12/19/nyregion/jam-master-jay-conviction-overturned.html|federal judge overturns conviction in killing of dj jam master jay us news|90c548f4a997ba50a5e088ba7dcffe64
