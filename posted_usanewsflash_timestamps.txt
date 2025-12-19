@@ -8650,3 +8650,8 @@
 2025-12-19T07:01:33.117456+00:00|https://www.nytimes.com/2025/12/19/us/brown-mit-shooting-investigation-reddit.html|a reddit post led to a breakthrough in the brown shooting investigation us news|dd3f87afaf746cc9815d7f422799ca85
 2025-12-19T09:02:03.902757+00:00|https://www.bbc.com/news/articles/c4gp4ze002mo|us suspends green card lottery scheme after brown university shooting us news|68e587e99fea375a31522fc3d6f7f53e
 2025-12-19T10:29:36.942066+00:00|https://www.nbcnews.com/politics/donald-trump/trump-not-ruling-war-venezuela-rcna250012|trump not ruling out war with venezuela us news|ea79a35caffb8305fbb62a6f4c9636e8
+2025-12-19T11:23:07.358918+00:00|https://www.nytimes.com/2025/12/19/us/brown-mit-shootings-what-we-know.html|what we know about the shootings at brown and of an mit professor us news|62b060fb7690eee9b0595fdf24627675
+2025-12-19T11:23:07.861529+00:00|https://www.nytimes.com/2025/12/19/health/fda-marty-makary-kennedy.html|fda turmoil keeps spotlight on its commissioner us news|c5d0ce5cb2df0d1bfc8da28a87c0ce37
+2025-12-19T11:23:08.386330+00:00|https://www.nytimes.com/2025/12/19/us/florida-executions-record.html|florida executed a record 19 people in 2025 he witnessed them all us news|43e09e661f96782165164cdd96f543b6
+2025-12-19T11:23:08.856654+00:00|https://www.nytimes.com/2025/12/19/us/politics/how-the-army-caused-alarm-in-the-washington-skies-years-before-a-fatal-crash.html|how the army caused alarm in the washington skies years before a fatal crash us news|742bfc54edb1b4dcd430f981a3e50d9c
+2025-12-19T11:23:09.353954+00:00|https://www.nytimes.com/2025/12/19/us/wildfire-fighters-cancer.html|us will pay $450000 to wildfire fighters with cancer us news|7132c497819b06fa40454ed0034f5c33
