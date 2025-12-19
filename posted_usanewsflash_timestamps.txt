@@ -8700,3 +8700,5 @@
 2025-12-19T22:44:42.070833+00:00|https://abcnews.go.com/International/us-launches-retaliatory-strikes-syria-targeting-isis-hegseth/story|us launches retaliatory strikes in syria targeting isis hegseth announces us news|b80571ae238349ff2badc6025a09fc48
 2025-12-19T23:24:20.121106+00:00|https://www.nytimes.com/2025/12/19/nyregion/emily-faust-korzenik-dead.html|emily korzenik 96 dies rabbi took a bar mitzvah to poland us news|8dd1355c6cf65b4965c6c6704c8cfc88
 2025-12-19T23:24:20.695828+00:00|https://www.nbcnews.com/video/u-s-launches-retaliatory-strikes-in-syria-254768709961|us launches retaliatory strikes in syria us news|0ec627f33c4f69a1c88d939a26745d1c
+2025-12-19T23:41:52.866848+00:00|https://www.nytimes.com/2025/12/19/us/suspect-brown-mit-autopsy.html|suspect in brown and mit killings died 2 days before he was found autopsy shows us news|bade3097d198964531ade91002510153
+2025-12-19T23:41:53.430727+00:00|https://www.nytimes.com/2025/12/19/us/politics/kennedy-center-trump-sign.html|kennedy center memorial to jfk is trumps now too us news|87b5af0b6b32e3c180c32525aa586904
