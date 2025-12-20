@@ -8729,3 +8729,6 @@
 2025-12-20T11:39:37.332044+00:00|https://www.nytimes.com/2025/12/20/us/nuno-loureiro-mit-professor.html|nuno loureiro slain mit professor was a brilliant scientist us news|3738e5a9f07f0bdf98760a8f8b633752
 2025-12-20T11:57:31.543987+00:00|https://abcnews.go.com/US/3-police-officers-shot-warning-responding-domestic-call/story|3 police officers shot without warning while responding to domestic call us news|34346797b652929acd0b68471d3ab539
 2025-12-20T13:18:15.899738+00:00|https://www.nytimes.com/2025/12/20/world/middleeast/us-strikes-syria-aftermath.html|us strikes on syria underscore scale of challenge for its president us news|c7a591eb6ae7381cc27dfc29793218e7
+2025-12-20T14:22:43.688683+00:00|https://www.nbcnews.com/politics/white-house/netanyahu-plans-brief-trump-possible-new-iran-strikes-rcna250112|netanyahu plans to brief trump on possible new iran strikes us news|29d596ece2320a53afe9693387414981
+2025-12-20T14:22:44.237312+00:00|https://www.today.com/video/doj-releases-jeffrey-epstein-files-what-happens-next-254794821522|justice department releases initial jeffrey epstein files us news|039b01b1a1360e5e8ca067f30b35d65e
+2025-12-20T14:22:44.813300+00:00|https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html|from ai to tariffs 14 charts that explain 2025 us news|5d077e789b3a04f7100903be0499bd60
