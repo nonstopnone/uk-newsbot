@@ -8715,3 +8715,6 @@
 2025-12-20T03:19:32.592813+00:00|https://www.nytimes.com/2025/12/19/us/politics/greg-biffle-plane-crash.html|greg biffles plane turned back minutes after takeoff us news|297718a9d2d98c81f4989823796027ee
 2025-12-20T03:19:33.165011+00:00|https://www.nytimes.com/2025/12/19/us/politics/marco-rubio-briefing-reporters.html|rubio meets and meets and meets the press us news|3108b30a99896baf2fbf4cc65471c753
 2025-12-20T04:48:25.438177+00:00|https://www.nytimes.com/2025/12/19/us/politics/epstein-files-takeaways.html|6 takeaways from the first batch of the epstein files us news|552e22ccd4554476bf2429fae27a3f58
+2025-12-20T05:25:59.701826+00:00|https://www.nbcnews.com/sports/boxing/anthony-joshua-knocks-out-jake-paul-boxing-rcna250188|anthony joshua knocks out jake paul in the sixth round us news|a2433122a7874be4fad47cf4a8b217ca
+2025-12-20T05:26:00.175205+00:00|https://www.nytimes.com/2025/12/20/world/africa/sudan-el-fasher-refugees-chad.html|sudanese refugees describe their escape from darfur us news|6adee32ce6823e4a90b529c380798b64
+2025-12-20T05:26:00.685788+00:00|https://www.nytimes.com/2025/12/20/us/wheres-the-humanity-bondi-attack-leaves-suspects-neighborhood-stunned.html|wheres the humanity bondi attack leaves suspects neighborhood stunned us news|cece7173d0aaa0941fb4ba9f49a8c394
