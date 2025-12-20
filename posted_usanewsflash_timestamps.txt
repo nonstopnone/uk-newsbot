@@ -8709,3 +8709,8 @@
 2025-12-20T01:56:46.710100+00:00|https://www.nytimes.com/2025/12/19/us/politics/elise-stefanik-trump-governor-congress.html|elise stefanik tried everything to please trump he still jilted her us news|73841d5c1d6ddfad299011e10eb05ff9
 2025-12-20T01:56:47.514793+00:00|https://www.nbcnews.com/nightly-news/video/u-s-forces-strike-dozens-of-isis-targets-in-syria-254774341859|us forces strike dozens of isis targets in syria us news|9d90dd223332f8146e8ff2c9ebcb3574
 2025-12-20T01:56:48.158850+00:00|https://www.nytimes.com/2025/12/19/nyregion/ai-bill-regulations-ny.html|hochul reaches deal on ai regulation in new york us news|5643839f72703a632052ac3b93642264
+2025-12-20T03:19:30.852749+00:00|https://www.nytimes.com/2025/12/19/us/politics/vivek-ramaswamy-anti-indian-hate.html|vivek ramaswamy challenges conservatives on surging antiindian hate us news|c418b36bb4b26ce682701cd3a6b2dd8a
+2025-12-20T03:19:31.431601+00:00|https://www.nbcnews.com/video/shorts/elise-stefanik-drops-out-of-new-york-governor-s-race-254782533779|elise stefanik drops out of new york governors race us news|5df1ea4ea2972cce9975da1a878cd034
+2025-12-20T03:19:31.994113+00:00|https://www.nytimes.com/2025/12/19/us/epstein-files-victims-reaction.html|epstein victims upset about lack of transparency in newly released files us news|b61722a9362b77d46697b502f78bd8a4
+2025-12-20T03:19:32.592813+00:00|https://www.nytimes.com/2025/12/19/us/politics/greg-biffle-plane-crash.html|greg biffles plane turned back minutes after takeoff us news|297718a9d2d98c81f4989823796027ee
+2025-12-20T03:19:33.165011+00:00|https://www.nytimes.com/2025/12/19/us/politics/marco-rubio-briefing-reporters.html|rubio meets and meets and meets the press us news|3108b30a99896baf2fbf4cc65471c753
