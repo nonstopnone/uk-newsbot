@@ -8725,3 +8725,5 @@
 2025-12-20T11:20:03.963232+00:00|https://www.nytimes.com/2025/12/20/us/politics/koch-network-2024-election-trump.html|koch political operation spent nearly $550 million during 2024 cycle us news|9551ca8274017e1e54f349611eb66a6c
 2025-12-20T11:20:05.905156+00:00|https://www.nytimes.com/2025/12/20/world/americas/us-venezuela-caribbean-gps-flight-hazard.html|us and venezuela jam caribbean gps signals to thwart attacks raising flight hazard us news|1cbb0fe925010449bd465f20b787cd1c
 2025-12-20T11:20:08.016925+00:00|https://www.nytimes.com/2025/12/20/us/trump-asylum-third-countries.html|trump administration pushes asylum seekers to apply in other countries us news|4575c05972b105534acc2b1d65b8a466
+2025-12-20T11:39:36.843399+00:00|https://www.nytimes.com/2025/12/20/us/politics/middle-class-us-economy-affordability.html|why middleclass americans say life is unaffordable us news|73974c715ce8123c3a9fa5e63ed598b5
+2025-12-20T11:39:37.332044+00:00|https://www.nytimes.com/2025/12/20/us/nuno-loureiro-mit-professor.html|nuno loureiro slain mit professor was a brilliant scientist us news|3738e5a9f07f0bdf98760a8f8b633752
