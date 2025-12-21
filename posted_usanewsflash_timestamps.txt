@@ -8746,3 +8746,6 @@
 2025-12-20T22:57:30.033120+00:00|https://www.bbc.com/news/articles/c0mpy1ynnzzo|us seizes second oil tanker off venezuelas coast us news|7c5158c27ce314258032fd9f5f267558
 2025-12-20T22:57:30.644096+00:00|https://www.nbcnews.com/video/shorts/german-engineer-first-wheelchair-user-to-go-to-space-254801477613|german engineer first wheelchair user to go to space us news|c5594b22ad3ddae503c14db6dcb24ace
 2025-12-20T23:41:28.626062+00:00|https://www.nytimes.com/2025/12/20/us/politics/trump-epstein-files-government-website.html|epstein files photos disappear from government website including one of trump us news|90ef1dc3a810405c38ea508d022f93e5
+2025-12-21T02:10:06.523751+00:00|https://www.nbcnews.com/video/u-s-coast-guard-intercepts-second-vessel-off-venezuelan-coast-254800453841|us coast guard intercepts second vessel off venezuelan coast us news|b9d9d3920d5e4be6c369550ff7f93820
+2025-12-21T02:10:07.086387+00:00|https://www.nytimes.com/2025/12/19/us/politics/venezuela-united-states-history.html|how venezuela went from us ally to trump target us news|db6feff0c467d5ab903b179349eb4b2f
+2025-12-21T02:10:08.265757+00:00|https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html|nearly a third of san francisco loses electricity us news|485e2fe8f786fded2ea1d3b2a8233835
