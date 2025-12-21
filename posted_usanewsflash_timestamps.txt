@@ -8751,3 +8751,7 @@
 2025-12-21T02:10:08.265757+00:00|https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html|nearly a third of san francisco loses electricity us news|485e2fe8f786fded2ea1d3b2a8233835
 2025-12-21T04:25:48.243185+00:00|https://www.nbcnews.com/video/shorts/florida-officer-pulls-people-over-as-grinch-254807621734|florida officer pulls people over as grinch us news|d4435cc815fd9fabe917e11f96595684
 2025-12-21T09:57:39.015361+00:00|https://www.nytimes.com/2025/12/21/world/asia/sydney-philippines-akram.html|sydney shooting suspects met muslim leaders in philippines officials say us news|10074db6d92369f94762ae90cb8f2399
+2025-12-21T11:20:31.803909+00:00|https://www.nytimes.com/2025/12/21/us/politics/trump-imperial-presidency.html|trump takes americas imperial presidency to a new level us news|02c9f0fe559bd0daf046ec432bdb2f38
+2025-12-21T11:20:32.336960+00:00|https://www.nytimes.com/2025/12/21/business/american-airlines-operations-hub.html|when something goes wrong with your flight these people take charge us news|2705f4d3931b1156d43ad7a658566db2
+2025-12-21T11:20:32.838617+00:00|https://www.nytimes.com/2025/12/21/us/wildfires-firefighters-immigration.html|its just us the firefighter his son and a treacherous choice us news|6d53658a1e419129c0dff28caee9c998
+2025-12-21T11:20:33.334087+00:00|https://abcnews.go.com/International/manhunt-underway-south-africa-after-group-assailants-fatally/story|suspects sought after 9 killed in south africa tavern mass shooting us news|692f432ef475a4e1e64162decd214f90
