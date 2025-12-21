@@ -8750,3 +8750,4 @@
 2025-12-21T02:10:07.086387+00:00|https://www.nytimes.com/2025/12/19/us/politics/venezuela-united-states-history.html|how venezuela went from us ally to trump target us news|db6feff0c467d5ab903b179349eb4b2f
 2025-12-21T02:10:08.265757+00:00|https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html|nearly a third of san francisco loses electricity us news|485e2fe8f786fded2ea1d3b2a8233835
 2025-12-21T04:25:48.243185+00:00|https://www.nbcnews.com/video/shorts/florida-officer-pulls-people-over-as-grinch-254807621734|florida officer pulls people over as grinch us news|d4435cc815fd9fabe917e11f96595684
+2025-12-21T09:57:39.015361+00:00|https://www.nytimes.com/2025/12/21/world/asia/sydney-philippines-akram.html|sydney shooting suspects met muslim leaders in philippines officials say us news|10074db6d92369f94762ae90cb8f2399
