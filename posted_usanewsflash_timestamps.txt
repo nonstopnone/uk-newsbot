@@ -8808,3 +8808,5 @@
 2025-12-22T14:46:41.522332+00:00|https://www.bbc.com/news/articles/ckgmd132ge4o|trump names envoy to greenland sparking fresh row with denmark us news|efa56ee0a8f49cd76868de24abfcd509
 2025-12-22T14:58:00.851287+00:00|https://www.nytimes.com/2025/12/22/us/politics/ilhan-omar-trump-attacks.html|in congress and at home omar faces trumps antisomali attacks us news|7d786bdced71ecb9aacd44f028f356ce
 2025-12-22T14:58:01.406452+00:00|https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story|epsteins alleged victims accuse doj of legal violations over state of files released us news|e8fa03dfbe82a3c573c73750bf558f97
+2025-12-22T15:28:07.489658+00:00|https://www.nbcnews.com/video/shorts/justice-department-facing-pressure-over-epstein-files-254847045787|justice department facing pressure over epstein files us news|fe5d3e27d7c7f7383daf5f1b2765d7a3
+2025-12-22T15:28:08.215493+00:00|https://www.nbcnews.com/video/shorts/california-swimmer-missing-after-possible-shark-attack-254844485989|california swimmer missing after possible shark attack us news|1fd128f43849778f2cdbbd2c53e866a4
