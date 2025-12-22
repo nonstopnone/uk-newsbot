@@ -8800,3 +8800,6 @@
 2025-12-22T12:53:58.539966+00:00|https://www.bbc.com/news/articles/cly5jrrj227o|avatar fire and ash tops us box office despite middling reviews us news|53ca3ec65773f02659813844f104262c
 2025-12-22T12:53:59.063102+00:00|https://www.nytimes.com/2025/12/22/nyregion/new-york-city-metrocard-end.html|goodbye and good riddance to the metrocard us news|6736c7b98d59e280c1e0a99ffed26960
 2025-12-22T12:53:59.584037+00:00|https://www.nbcnews.com/video/shorts/police-in-missouri-rescue-kidnapped-children-254837317957|police in missouri rescue kidnapped children us news|87305da90ce2841594d31953576f50f3
+2025-12-22T13:27:14.284642+00:00|https://www.today.com/video/us-coast-guard-in-active-pursuit-of-3rd-venezuelan-oil-tanker-254840389595|coast guard pursues 3rd venezuelan oil tanker as tensions rise us news|a42f2e74c7d010a7224ebc4edaa51ef3
+2025-12-22T13:27:15.160000+00:00|https://www.nytimes.com/2025/12/22/world/europe/trump-special-envoy-greenland-denmark-landry.html|angering denmark trump appoints special envoy to greenland us news|d7c453d0482841451c79b0e8638312ee
+2025-12-22T13:27:15.727875+00:00|https://www.nytimes.com/2025/12/22/world/asia/bangladesh-hindu-muslim-lynching.html|lynching of a hindu in bangladesh fans fears of rising intolerance us news|1d1ab27534bc6dac5081960674060dad
