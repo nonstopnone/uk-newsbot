@@ -8814,3 +8814,4 @@
 2025-12-22T16:33:36.536692+00:00|https://www.nytimes.com/2025/12/22/business/economy-unemployment-wages-affordability.html|the economy survived 2025 but many americans are reeling us news|1d67b68b1cdee8f4f3ad665ecf72994e
 2025-12-22T16:33:37.558662+00:00|https://www.nytimes.com/2025/12/22/business/china-vanke-real-estate-default.html|china vanke gets temporary lifeline to prevent debt default us news|a58baea37b337977e7c5be69f4c45a04
 2025-12-22T16:33:38.276399+00:00|https://abcnews.go.com/US/judge-hear-arguments-ice-detain-kilmar-abrego-garcia/story|judge to hear arguments over whether ice can redetain kilmar abrego garcia us news|59644c7aa647a06b6289e7d08bc1044d
+2025-12-22T17:08:48.816706+00:00|https://www.nytimes.com/2025/12/22/business/defense-industry-rare-earth-restrictions-china.html|how us defense industry dodged a rareearth shortage after chinas curbs us news|6615cfd06ee49f41dd1bfcda3a5ec460
