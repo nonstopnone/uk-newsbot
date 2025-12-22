@@ -8825,3 +8825,4 @@
 2025-12-22T20:57:56.351265+00:00|https://www.nytimes.com/2025/12/22/technology/google-intersect-data-centers.html|google buys data center company for $475 billion us news|0b31c1bbc6c1c7a05fba6c6197935bab
 2025-12-22T21:23:42.696458+00:00|https://www.nytimes.com/2025/12/22/us/politics/trump-doj-investigation-judge-cannon-brennan-cia.html|excia chief wants to block judge cannon from inquiry pushed by trumps allies us news|a34c812130cd65bc45d564babd1c3626
 2025-12-22T21:23:43.238955+00:00|https://www.nytimes.com/2025/12/22/business/epstein-victims-justice-dept-files-released.html|epstein victims ask congress to ensure justice dept releases all files us news|664994228699050217c41a08d6297dac
+2025-12-22T21:57:37.447789+00:00|https://www.bbc.com/news/articles/ceq1z9llng8o|carney names exblackrock executive as new us ambassador us news|cf63dc20efbd4f2dee2ce70c75329b71
