@@ -8821,3 +8821,5 @@
 2025-12-22T19:40:25.797508+00:00|https://www.nytimes.com/2025/12/22/nyregion/mamdani-sanders-inauguration.html|bernie sanders to lead zohran mamdanis public swearingin ceremony us news|660ad37d01f8a2e3fd5d6a59960697c5
 2025-12-22T20:28:53.910216+00:00|https://abcnews.go.com/US/wireStory/search-3-inmates-including-murder-suspect-escaped-georgia-128627087|search is on for 3 inmates including murder suspect who escaped from jail us news|1f7f567e5afb94c1ba0c6d55ddaea09d
 2025-12-22T20:28:54.676420+00:00|https://www.nbcnews.com/video/shorts/scuba-santa-goes-for-a-swim-in-the-florida-keys-254863941808|scuba santa goes for a swim in the florida keys us news|b5afad84e4d111a079cf3889b984529c
+2025-12-22T20:57:55.727771+00:00|https://www.nytimes.com/2025/12/22/nyregion/linda-sun-mistrial.html|mistrial in case of ny official charged with working for china us news|c233e5cf9c04295944031f538edae4cc
+2025-12-22T20:57:56.351265+00:00|https://www.nytimes.com/2025/12/22/technology/google-intersect-data-centers.html|google buys data center company for $475 billion us news|0b31c1bbc6c1c7a05fba6c6197935bab
