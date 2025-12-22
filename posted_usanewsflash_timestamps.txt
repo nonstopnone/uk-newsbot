@@ -8797,3 +8797,6 @@
 2025-12-22T11:23:27.688995+00:00|https://www.nytimes.com/2025/12/22/us/politics/pacific-northwest-floods.html|washington state faces climate change reality after storms us news|95babff40320bfc8e9020c9d843f8a19
 2025-12-22T11:23:28.257599+00:00|https://www.nytimes.com/2025/12/22/podcasts/the-headlines/epstein-files-american-guns-in-canada.html|what to know about the latest epstein files and a flood of us guns to canada us news|180abe0620224407e7067952b1c3e635
 2025-12-22T11:41:32.722985+00:00|https://www.bbc.com/news/articles/cdd5j9jdvy9o|us lawmakers threaten legal action against pam bondi over unreleased epstein material us news|924fe1b6c49db997a84fa8d27bd7fd54
+2025-12-22T12:53:58.539966+00:00|https://www.bbc.com/news/articles/cly5jrrj227o|avatar fire and ash tops us box office despite middling reviews us news|53ca3ec65773f02659813844f104262c
+2025-12-22T12:53:59.063102+00:00|https://www.nytimes.com/2025/12/22/nyregion/new-york-city-metrocard-end.html|goodbye and good riddance to the metrocard us news|6736c7b98d59e280c1e0a99ffed26960
+2025-12-22T12:53:59.584037+00:00|https://www.nbcnews.com/video/shorts/police-in-missouri-rescue-kidnapped-children-254837317957|police in missouri rescue kidnapped children us news|87305da90ce2841594d31953576f50f3
