@@ -8832,3 +8832,7 @@
 2025-12-22T22:57:25.414005+00:00|https://www.nytimes.com/2025/12/22/weather/warm-christmas-forecast.html|recordbreaking warm temperatures forecast for christmas across the us us news|182bb0071ebeef6e0d9c8ac02de657d6
 2025-12-22T23:24:47.314497+00:00|https://www.nytimes.com/2025/12/22/world/americas/trump-venezuela-oil-tankers-maduro.html|trump administration oil tanker seizures are meant to force maduro out officials say us news|420335653e2d8c30af760b211da62a48
 2025-12-22T23:24:47.991784+00:00|https://www.nbcnews.com/health/health-news/flu-season-rise-virus-symptoms-kids-vaccine-protection-what-know-rcna250481|what to know as flu season ramps up early us news|12a1eaa09d475d1d4cf69cb0119e04b0
+2025-12-23T02:04:48.549206+00:00|https://www.bbc.com/news/articles/cx25rled0ylo|call of duty cocreator vince zampella dies in california car crash us news|3812cfe547b352801e5107369495f237
+2025-12-23T02:04:49.344150+00:00|https://www.bbc.com/news/articles/c2084nq2npjo|trump unveils plans for golden fleet battleships named after himself us news|ca58a964c9f5b446408d56965e9d9f61
+2025-12-23T02:04:49.875214+00:00|https://www.nbcnews.com/video/shorts/epstein-survivor-calls-redacted-files-unacceptable-254887493552|epstein survivor calls redacted files unacceptable us news|b045c3675b3224ecd1a8846e2526ce75
+2025-12-23T02:04:50.409308+00:00|https://abcnews.go.com/US/holiday-weather-forecast-white-christmas/story|christmas weather forecast heavy rain in california to record high temps us news|98cfa46dcadaec5c6059dca202235d0c
