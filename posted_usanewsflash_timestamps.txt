@@ -8887,3 +8887,6 @@
 2025-12-23T21:42:06.026500+00:00|https://www.nytimes.com/2025/12/23/business/student-loan-debtors-default-wages-garnish.html|student loan borrowers in default could see wages garnished in early 2026 us news|fb740afbd7a962337f50410cf7e25c37
 2025-12-23T21:42:06.568243+00:00|https://www.nytimes.com/2025/12/23/us/explosion-bristol-nursing-home.html|multiple people injured in explosion at pennsylvania nursing home us news|ca4cf6384ef49ef7e76a68553d7454bb
 2025-12-23T22:44:47.981484+00:00|https://www.nytimes.com/2025/12/23/world/americas/trump-tankers-venezuela-oil-industry.html|trumps tanker crackdown paralyzes venezuelan oil exports us news|296465a27ea89fb391138b3cf2fb4b45
+2025-12-23T23:24:05.178562+00:00|https://www.nytimes.com/2025/12/23/us/politics/national-guard-new-orleans.html|national guard troops to arrive in new orleans us news|f778759f27ffbfdaed97ceed60d74e20
+2025-12-23T23:24:05.771867+00:00|https://www.nbcnews.com/video/shorts/russell-brand-charged-with-rape-and-sexual-assault-254939205855|russell brand charged with rape and sexual assault us news|3ed897a6675a0bef2cc79d2f16d991d5
+2025-12-23T23:24:06.399576+00:00|https://www.nytimes.com/2025/12/23/us/brown-university-shooting-suspect-portugal.html|suspect in brown university shooting worked in portugal after leaving university us news|a0791fbd4a3b7b39d5fdb67afcc7d74f
