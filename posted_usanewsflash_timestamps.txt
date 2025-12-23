@@ -8890,3 +8890,4 @@
 2025-12-23T23:24:05.178562+00:00|https://www.nytimes.com/2025/12/23/us/politics/national-guard-new-orleans.html|national guard troops to arrive in new orleans us news|f778759f27ffbfdaed97ceed60d74e20
 2025-12-23T23:24:05.771867+00:00|https://www.nbcnews.com/video/shorts/russell-brand-charged-with-rape-and-sexual-assault-254939205855|russell brand charged with rape and sexual assault us news|3ed897a6675a0bef2cc79d2f16d991d5
 2025-12-23T23:24:06.399576+00:00|https://www.nytimes.com/2025/12/23/us/brown-university-shooting-suspect-portugal.html|suspect in brown university shooting worked in portugal after leaving university us news|a0791fbd4a3b7b39d5fdb67afcc7d74f
+2025-12-23T23:42:10.849976+00:00|https://www.nytimes.com/2025/12/23/briefing/justices-block-national-guard-deployment-in-chicago.html|justices block national guard deployment in chicago us news|2af23a02d3d5d87a7bd9f52cbcc9170e
