@@ -8836,3 +8836,8 @@
 2025-12-23T02:04:49.344150+00:00|https://www.bbc.com/news/articles/c2084nq2npjo|trump unveils plans for golden fleet battleships named after himself us news|ca58a964c9f5b446408d56965e9d9f61
 2025-12-23T02:04:49.875214+00:00|https://www.nbcnews.com/video/shorts/epstein-survivor-calls-redacted-files-unacceptable-254887493552|epstein survivor calls redacted files unacceptable us news|b045c3675b3224ecd1a8846e2526ce75
 2025-12-23T02:04:50.409308+00:00|https://abcnews.go.com/US/holiday-weather-forecast-white-christmas/story|christmas weather forecast heavy rain in california to record high temps us news|98cfa46dcadaec5c6059dca202235d0c
+2025-12-23T03:42:05.961783+00:00|https://www.bbc.com/news/articles/ce86le5dyxyo|us regulator approves pill form of wegovy weightloss drug us news|ca32afe0223d6f0ad7610218840aebf0
+2025-12-23T03:42:06.569674+00:00|https://www.nytimes.com/2025/12/22/us/waymo-san-francisco-power-earthquake.html|after power outage san francisco wonders can waymo taxis handle a big earthquake us news|15c621b09dea58f67ee181df85c50eb2
+2025-12-23T03:42:07.167857+00:00|https://www.nytimes.com/2025/12/22/us/politics/lawsuit-trump-name-removal-kennedy-center.html|lawmaker sues to remove trumps name from the kennedy center us news|1bfe3ddd567afa57de6b62e4e924ca3b
+2025-12-23T03:42:07.738127+00:00|https://www.nytimes.com/2025/12/22/us/politics/white-house-donations-ballroom.html|white house invitees are asked about donations to trumps ballroom us news|4aacc3ec1cf32d8a00ecc71b3f2d6274
+2025-12-23T03:42:08.295312+00:00|https://www.nbcnews.com/politics/national-security/trump-class-battleships-nuclear-navy-john-phelan-rcna250601|trump announces new class of us battleships named after himself us news|6a015719c2c1e8b2027f490458e3bf85
