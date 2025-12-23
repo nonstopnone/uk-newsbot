@@ -8849,3 +8849,7 @@
 2025-12-23T07:46:50.661401+00:00|https://www.nytimes.com/2025/12/22/us/politics/new-trump-class-warships.html|trump announces new trump class of warships us news|8c4f0b8499261aeccd8ae77c6db98dd2
 2025-12-23T10:29:59.969007+00:00|https://www.nbcnews.com/politics/jd-vance/vance-begins-lock-parts-maga-coalition-2028-turning-point-americafest-rcna250421|vance begins to lock down parts of maga coalition for 2028 us news|a05e8e0886e68a9a92722de185796e05
 2025-12-23T10:30:00.496061+00:00|https://www.nbcnews.com/video/shorts/trap-captures-wrong-bear-in-california-254900805597|trap captures wrong bear in california us news|cdb44f8b05e77f48f314edb7401d851f
+2025-12-23T11:24:14.180756+00:00|https://www.nytimes.com/2025/12/23/climate/spacex-land-exchange-texas.html|trump may give spacex some land in a texas wildlife refuge us news|b1793a371899b6935c2b8b769fb4767b
+2025-12-23T11:24:14.713735+00:00|https://www.nytimes.com/2025/12/23/us/politics/bomb-sniffing-dogs-new-jersey-election.html|new jersey honors bombsniffing dogs who kept an election safe us news|008fe5143afeb0e153cb0ac51d1ec72a
+2025-12-23T11:24:15.685427+00:00|https://abcnews.go.com/Politics/citizenship-naturalization-ceremonies-canceled-finish-line-lawyer/story|some citizenship naturalization ceremonies canceled at the finish line lawyer says us news|7da5456e1380a328fad130a4bd3d8221
+2025-12-23T11:24:16.211419+00:00|https://abcnews.go.com/US/video/mom-rams-suspected-burglars-getaway-car-128642388|watch mom rams suspected burglars getaway car us news|15c30892bdb7feeadebd41b8e044ce3c
