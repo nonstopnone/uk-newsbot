@@ -8859,3 +8859,6 @@
 2025-12-23T12:55:39.576367+00:00|https://www.bbc.com/news/videos/c4g4v3yd28yo|ai app apologises over false crime alerts across us us news|627c57f98e397f1a4fd14c255a3761d3
 2025-12-23T12:55:40.132428+00:00|https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html|why the ai rally and the bubble talk could continue next year us news|da39c615e53710dc7924d19a0dbe95ab
 2025-12-23T13:39:43.821696+00:00|https://www.nbcnews.com/video/shorts/ohio-kids-lead-police-on-a-high-speed-stolen-car-chase-254904901679|ohio kids lead police on a high speed stolen car chase us news|71cda913201ed7723397a8d7516a105d
+2025-12-23T13:59:13.835375+00:00|https://www.bbc.com/news/articles/c62n9ynzrdpo|us economy grows at fastest pace in two years us news|9bbb127230cd3943a2a738ee94f58923
+2025-12-23T13:59:14.587726+00:00|https://www.nbcnews.com/politics/justice-department/justice-department-releases-3rd-batch-jeffrey-epstein-files-mention-tr-rcna250533|justice department releases 3rd batch of jeffrey epstein files including some that mention trump us news|74e0d512929b525c109986c6366efae4
+2025-12-23T13:59:15.302420+00:00|https://www.today.com/video/controversial-60-minutes-piece-pulled-accidentally-airs-in-canada-254902853649|controversial 60 minutes piece pulled accidentally airs in canada us news|77738886f9fea94827c6f6862064bd06
