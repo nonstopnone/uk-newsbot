@@ -8856,3 +8856,5 @@
 2025-12-23T11:42:45.401660+00:00|https://www.bbc.com/news/articles/c87lnn09yj8o|trump says us will keep or sell oil seized from venezuela us news|c08ee3eca3997746771ced372b8cc5a0
 2025-12-23T11:42:45.996761+00:00|https://www.bbc.com/news/articles/c1lr1yvqge5o|five dead after plane carrying child burns victim crashes in texas us news|030877ac195c6fe7cf8b57b291110d17
 2025-12-23T11:42:46.585682+00:00|https://www.nbcnews.com/sports/olympics/think-olympian-hard-try-new-mother-rcna219233|think being an olympian is hard try doing it as a new mother us news|b881a3cef9debb596612a17ab4649abf
+2025-12-23T12:55:39.576367+00:00|https://www.bbc.com/news/videos/c4g4v3yd28yo|ai app apologises over false crime alerts across us us news|627c57f98e397f1a4fd14c255a3761d3
+2025-12-23T12:55:40.132428+00:00|https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html|why the ai rally and the bubble talk could continue next year us news|da39c615e53710dc7924d19a0dbe95ab
