@@ -8841,3 +8841,7 @@
 2025-12-23T03:42:07.167857+00:00|https://www.nytimes.com/2025/12/22/us/politics/lawsuit-trump-name-removal-kennedy-center.html|lawmaker sues to remove trumps name from the kennedy center us news|1bfe3ddd567afa57de6b62e4e924ca3b
 2025-12-23T03:42:07.738127+00:00|https://www.nytimes.com/2025/12/22/us/politics/white-house-donations-ballroom.html|white house invitees are asked about donations to trumps ballroom us news|4aacc3ec1cf32d8a00ecc71b3f2d6274
 2025-12-23T03:42:08.295312+00:00|https://www.nbcnews.com/politics/national-security/trump-class-battleships-nuclear-navy-john-phelan-rcna250601|trump announces new class of us battleships named after himself us news|6a015719c2c1e8b2027f490458e3bf85
+2025-12-23T04:25:36.308757+00:00|https://www.bbc.com/news/articles/cy0p7d74ywgo|brown university places its police chief on leave after mass shooting attack us news|001f2fdc83012058d822a8d649595148
+2025-12-23T04:25:37.052987+00:00|https://abcnews.go.com/International/5-dead-1-missing-after-mexican-navy-plane/story|5 dead 1 missing after mexican navy plane crashes in texas us news|386883bc50e09144770f71e34336f2a6
+2025-12-23T04:25:37.639162+00:00|https://www.nbcnews.com/video/shorts/chiefs-announce-move-to-new-stadium-in-kansas-254891589802|chiefs announce move to new stadium in kansas us news|b9b213a35dae8d897935a53990e44e4a
+2025-12-23T04:25:38.293595+00:00|https://www.nytimes.com/2025/12/22/movies/may-britt-dead.html|may britt 91 dies her marriage to sammy davis jr sparked outrage us news|62d911fcf4c59ffe40ea845e103919bb
