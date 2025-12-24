@@ -8924,3 +8924,5 @@
 2025-12-24T17:57:25.360657+00:00|https://www.nytimes.com/2025/12/24/us/politics/georgetown-scholar-supreme-court.html|how a scholar nudged the supreme court toward its troop deployment ruling us news|6b3c6110c4855c8e7236ef40303ee783
 2025-12-24T18:37:03.992282+00:00|https://www.bbc.com/news/articles/c79x0x7v70go|democratic board member muted during kennedy center vote sues to remove trumps name us news|6e349eefbcc739de536c64cb9f299830
 2025-12-24T18:59:22.873284+00:00|https://abcnews.go.com/International/video/pope-leo-xiv-set-lead-christmas-eve-mass-128681939|watch pope leo xiv set to lead his first christmas eve mass us news|cafefc50e70d17cd15b8f3bc9577e551
+2025-12-24T20:28:14.250345+00:00|https://abcnews.go.com/US/2-wounded-shooting-involving-ice-agents-maryland-police/story|2 wounded in shooting involving ice agents us news|fd42b33a72424551c33b32593050f51f
+2025-12-24T20:28:14.783021+00:00|https://www.nytimes.com/2025/12/24/us/politics/nursing-home-blast.html|immigrant nurse is among 2 dead in pennsylvania nursing home explosions us news|4714945ad96ecd441333f4e85ee1e9ac
