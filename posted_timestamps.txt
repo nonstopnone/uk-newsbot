@@ -1,4 +1,3 @@
-2025-12-17T01:44:16.042158+00:00|https://www.bbc.com/news/articles/c997jd52evvo|latest search for remains of ira murder victim ends unsuccessfully|ba428f03d4e6342679e359e7311d0cd5
 2025-12-17T05:01:01.227723+00:00|https://www.bbc.com/news/articles/cn8er32715do|essay cheating at universities an open secret|a00bd174be5e3c358eb413db06073c14
 2025-12-17T05:01:11.677165+00:00|https://www.bbc.com/news/articles/c075j3ezvrgo|nicotine pouch rise driven by young men study|8e8bd575bad015f39ecc793b72b73cae
 2025-12-17T05:01:22.176110+00:00|https://www.bbc.com/news/articles/clyd1m47rkro|timothée chalamet susan boyle is one of the alltime great brits|9bae2725be1d72192fa485725afa115f
@@ -105,3 +104,5 @@
 2025-12-23T19:38:12.165182+00:00|https://news.sky.com/story/bob-vylan-rapper-will-not-be-prosecuted-over-death-to-the-idf-chant-13487102|bob vylan rapper will not be prosecuted over death to the idf chant|926a1ed6bbb3452a598dca956550ea0d
 2025-12-23T20:31:34.301004+00:00|https://news.sky.com/story/high-street-banking-giants-vie-for-16325bn-wealth-manager-evelyn160-13487136|high street banking giants vie for £25bn wealth manager evelyn|4dc592ae234b3f1c355f5af46cf2f5aa
 2025-12-23T23:40:33.130719+00:00|https://www.telegraph.co.uk/football/2025/12/23/arsenal-vs-crystal-palace-live-score-league-cup-quarters|arsenal prevail on penalties against gutsy crystal palace to reach league cup semifinals|aaf17a3be97b0615cc3060332fe42cdd
+2025-12-24T01:49:05.760464+00:00|https://news.sky.com/story/explosion-at-us-nursing-home-with-deaths-reported-and-people-missing-13487179|catastrophic explosion at us nursing home|f65e26e1fbf5d137d2a085eb82d07c6e
+2025-12-24T01:49:16.497338+00:00|https://news.sky.com/story/libyas-military-chief-and-four-others-killed-in-plane-crash-over-turkey-13487149|five dead in plane crash over turkey|bc716e20b1c60a4e5094ebb5305add90
