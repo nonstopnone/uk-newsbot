@@ -8901,3 +8901,8 @@
 2025-12-24T04:56:56.395482+00:00|https://www.nytimes.com/2025/12/23/us/states-lawsuit-kennedy-gender-care-hospitals.html|19 states sue to block white house plan to end genderrelated care for minors us news|faece8098a05aecc14b86b3ca0c853ea
 2025-12-24T04:56:56.861324+00:00|https://www.nbcnews.com/video/shorts/-scotus-blocks-deployment-of-national-guards-to-illinois-254954565889|scotus blocks deployment of national guards to illinois us news|50d1933efaf65a04011e5e1996ad00d6
 2025-12-24T05:29:39.443177+00:00|https://www.nytimes.com/2025/12/23/us/politics/epstein-files-redactions-doj.html|redacted material in some epstein files is easily recovered us news|632946645ee3753d2b0f41bdf95f638e
+2025-12-24T11:23:39.987615+00:00|https://www.bbc.com/weather/videos/ce8q736yrz6o|heavy rain threatens us west coast us news|d5d7304e5b787a5f2af0c72fd3523c42
+2025-12-24T11:23:40.632382+00:00|https://www.bbc.com/news/articles/c8r38ne1x2mo|who and what are in the epstein files us news|8d5b2ffe52a85fb0a51473a351db5a7f
+2025-12-24T11:23:41.306734+00:00|https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html|chasing an economic boom white house dismisses risks of ai us news|2f39919ce916362dffa08204cb2dee7b
+2025-12-24T11:23:41.968271+00:00|https://www.nytimes.com/2025/12/24/world/middleeast/assad-henchmen-retake-syria-plots.html|the deposed assad henchmen plotting to retake syria us news|3c8d9db73fb30cfd9ec2d66ca128336b
+2025-12-24T11:23:42.588028+00:00|https://www.nytimes.com/2025/12/24/us/ice-columbus-ohio-somalis-immigrants.html|ice sweeps into ohio stirring fear among somalis and other immigrants us news|bf6b729e437cb4fd6de60d3a612c9e10
