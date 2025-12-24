@@ -8896,3 +8896,5 @@
 2025-12-24T02:02:52.791282+00:00|https://www.nytimes.com/2025/12/23/nyregion/nyc-fire-commissioner-bonsignore-mamdani.html|mamdani named his fire commissioner then adams did too us news|8e08ba564a91e6e18c014e49c707ec09
 2025-12-24T02:02:53.385030+00:00|https://abcnews.go.com/US/wildfire-burn-scars-make-threat-flooding-la-severe/story|exceptionally dangerous major flooding mudslide risk in parts of southern calif us news|d1ace6a00a452241486e8d3ce537f7ca
 2025-12-24T02:02:53.956276+00:00|https://abcnews.go.com/US/wireStory/iran-us-reaffirm-commitment-diplomacy-gap-nuclear-deal-128666369|iran us reaffirm commitment to diplomacy at un us news|99d34721288bafed99c15a4cdbba9871
+2025-12-24T03:38:53.945445+00:00|https://www.nbcnews.com/video/scotus-rejects-trump-s-bid-to-deploy-national-guard-in-illinois-254947397689|scotus rejects trumps bid to deploy national guard in illinois us news|28fab048c5a9bb5626178048e12c5ba3
+2025-12-24T03:38:54.512549+00:00|https://abcnews.go.com/US/years-epstein-investigation-palm-beach-local-police-tip/story|years before epstein investigated in fla police got tip about ghislaine maxwell us news|e7ea7cd5592b3526b445c842d49ebc2f
