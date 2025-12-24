@@ -8911,3 +8911,6 @@
 2025-12-24T12:53:32.234291+00:00|https://www.nytimes.com/2025/12/24/briefing/inside-the-oval-office.html|inside the oval office us news|301cce2867452a58a3597a1ef16228f7
 2025-12-24T12:53:32.904269+00:00|https://www.nbcnews.com/politics/elections/national-redistricting-fight-heading-2026-rcna247836|where the national redistricting fight is heading in 2026 us news|69ae28840f40bee056f5e22ced1bc00c
 2025-12-24T12:53:33.561371+00:00|https://www.nytimes.com/2025/12/24/nyregion/nyc-airports-taxi-ride-share-fee-hike.html|$100 for a cab to the airport it may soon get worse us news|9ce7de347ba692de72e0fece9347d24e
+2025-12-24T13:24:27.251091+00:00|https://www.bbc.com/news/videos/c8dy3772m1lo|ho ho no santa pulled over for speeding in ohio us news|e80d0973aee205538b123a074c311f08
+2025-12-24T13:24:27.747898+00:00|https://www.today.com/video/doj-epstein-letter-to-larry-nassar-referencing-trump-is-fake-254964293791|doj epstein letter to larry nassar referencing trump is fake us news|a6379661194b7e8939ec710c4ca93509
+2025-12-24T13:24:28.340962+00:00|https://www.nytimes.com/2025/12/24/business/europe-us-online-censorship-free-speech.html|they seek to curb online hate the us accuses them of censorship us news|2ea5c7a2a239af702834f9e8d142743e
