@@ -8907,3 +8907,7 @@
 2025-12-24T11:23:41.968271+00:00|https://www.nytimes.com/2025/12/24/world/middleeast/assad-henchmen-retake-syria-plots.html|the deposed assad henchmen plotting to retake syria us news|3c8d9db73fb30cfd9ec2d66ca128336b
 2025-12-24T11:23:42.588028+00:00|https://www.nytimes.com/2025/12/24/us/ice-columbus-ohio-somalis-immigrants.html|ice sweeps into ohio stirring fear among somalis and other immigrants us news|bf6b729e437cb4fd6de60d3a612c9e10
 2025-12-24T11:57:27.479785+00:00|https://www.bbc.com/news/articles/cp39kngz008o|uk campaigners among five denied us visas us news|86a3a05f42249319646d9eb1633e4ee9
+2025-12-24T12:53:31.581167+00:00|https://www.nbcnews.com/health/kids-health/tetanus-cases-rise-vaccine-rates-down-dtap-children-shots-rcna244685|as tetanus vaccination rates decline doctors worry about rising case numbers us news|1c61274c826f41ab5196a3acefadfec4
+2025-12-24T12:53:32.234291+00:00|https://www.nytimes.com/2025/12/24/briefing/inside-the-oval-office.html|inside the oval office us news|301cce2867452a58a3597a1ef16228f7
+2025-12-24T12:53:32.904269+00:00|https://www.nbcnews.com/politics/elections/national-redistricting-fight-heading-2026-rcna247836|where the national redistricting fight is heading in 2026 us news|69ae28840f40bee056f5e22ced1bc00c
+2025-12-24T12:53:33.561371+00:00|https://www.nytimes.com/2025/12/24/nyregion/nyc-airports-taxi-ride-share-fee-hike.html|$100 for a cab to the airport it may soon get worse us news|9ce7de347ba692de72e0fece9347d24e
