@@ -8927,3 +8927,5 @@
 2025-12-24T20:28:14.250345+00:00|https://abcnews.go.com/US/2-wounded-shooting-involving-ice-agents-maryland-police/story|2 wounded in shooting involving ice agents us news|fd42b33a72424551c33b32593050f51f
 2025-12-24T20:28:14.783021+00:00|https://www.nytimes.com/2025/12/24/us/politics/nursing-home-blast.html|immigrant nurse is among 2 dead in pennsylvania nursing home explosions us news|4714945ad96ecd441333f4e85ee1e9ac
 2025-12-24T20:44:39.929046+00:00|https://abcnews.go.com/Politics/justice-department-million-documents-potentially-related-epstein/story|doj says it has over a million more documents potentially related to epstein us news|e003a8908b907c82c0aaf3b86ed3c886
+2025-12-24T20:57:20.917592+00:00|https://www.nbcnews.com/business/consumer/trump-cannabis-reclassification-dispensaries-banks-rcna250564|cannabis reclassification could finally end the industrys financial exile us news|0602409ecd79bf61ba3d0c837373b0f2
+2025-12-24T20:57:21.405469+00:00|https://www.nbcnews.com/video/shorts/security-footage-captures-taiwan-earthquake-254982725895|security footage captures taiwan earthquake us news|4b0bcadce56e52f7ac40e41c49925f28
