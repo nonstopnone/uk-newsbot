@@ -8892,3 +8892,7 @@
 2025-12-23T23:24:06.399576+00:00|https://www.nytimes.com/2025/12/23/us/brown-university-shooting-suspect-portugal.html|suspect in brown university shooting worked in portugal after leaving university us news|a0791fbd4a3b7b39d5fdb67afcc7d74f
 2025-12-23T23:42:10.849976+00:00|https://www.nytimes.com/2025/12/23/briefing/justices-block-national-guard-deployment-in-chicago.html|justices block national guard deployment in chicago us news|2af23a02d3d5d87a7bd9f52cbcc9170e
 2025-12-23T23:57:54.525446+00:00|https://www.nytimes.com/2025/12/23/movies/robert-nakamura-dead.html|robert nakamura godfather of asian american film dies at 88 us news|c9dfda3d5e4a2d4e1f46246629c518e7
+2025-12-24T02:02:52.144701+00:00|https://www.nbcnews.com/nightly-news/video/doj-releases-epstein-files-that-mention-trump-254943301828|doj releases epstein files that mention trump us news|eba7f5efcacd3b3fff7a8fc5d42bf363
+2025-12-24T02:02:52.791282+00:00|https://www.nytimes.com/2025/12/23/nyregion/nyc-fire-commissioner-bonsignore-mamdani.html|mamdani named his fire commissioner then adams did too us news|8e08ba564a91e6e18c014e49c707ec09
+2025-12-24T02:02:53.385030+00:00|https://abcnews.go.com/US/wildfire-burn-scars-make-threat-flooding-la-severe/story|exceptionally dangerous major flooding mudslide risk in parts of southern calif us news|d1ace6a00a452241486e8d3ce537f7ca
+2025-12-24T02:02:53.956276+00:00|https://abcnews.go.com/US/wireStory/iran-us-reaffirm-commitment-diplomacy-gap-nuclear-deal-128666369|iran us reaffirm commitment to diplomacy at un us news|99d34721288bafed99c15a4cdbba9871
