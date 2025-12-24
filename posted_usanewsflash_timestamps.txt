@@ -8906,3 +8906,4 @@
 2025-12-24T11:23:41.306734+00:00|https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html|chasing an economic boom white house dismisses risks of ai us news|2f39919ce916362dffa08204cb2dee7b
 2025-12-24T11:23:41.968271+00:00|https://www.nytimes.com/2025/12/24/world/middleeast/assad-henchmen-retake-syria-plots.html|the deposed assad henchmen plotting to retake syria us news|3c8d9db73fb30cfd9ec2d66ca128336b
 2025-12-24T11:23:42.588028+00:00|https://www.nytimes.com/2025/12/24/us/ice-columbus-ohio-somalis-immigrants.html|ice sweeps into ohio stirring fear among somalis and other immigrants us news|bf6b729e437cb4fd6de60d3a612c9e10
+2025-12-24T11:57:27.479785+00:00|https://www.bbc.com/news/articles/cp39kngz008o|uk campaigners among five denied us visas us news|86a3a05f42249319646d9eb1633e4ee9
