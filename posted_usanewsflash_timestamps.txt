@@ -8954,3 +8954,5 @@
 2025-12-25T11:22:21.389278+00:00|https://www.nytimes.com/2025/12/25/us/politics/trump-democrats-washington-midterm-elections.html|with trump in power democrats try to redefine themselves as disrupters us news|c78cf7d2d69413dc2cb74ca5477247c4
 2025-12-25T11:22:21.915829+00:00|https://www.nytimes.com/2025/12/25/us/politics/republicans-afghan-visas.html|republicans who backed afghan visas are mum as trump halts them us news|3e9a74f397dc2a2a2e4029b9a68ba43b
 2025-12-25T11:22:22.449850+00:00|https://www.nytimes.com/2025/12/25/weather/rain-flooding-los-angeles-storm.html|heavy rains and floods threaten california on christmas day us news|d022f8664447c32ccde42a363e586792
+2025-12-25T13:49:28.122983+00:00|https://www.nytimes.com/2025/12/25/world/asia/leo-christmas-first-speech-pope.html|pope leo makes christmas call for dialogue to address worlds conflicts us news|c5f7d2aa964c072d8656a92511d5cc65
+2025-12-25T13:49:28.765431+00:00|https://www.nytimes.com/2025/12/25/world/asia/bangladesh-tarique-rahman-return-exile.html|a top candidate for prime minister returns to bangladesh after 17 years in exile us news|53408dba85fd1828d298ba1796408d33
