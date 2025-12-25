@@ -8957,3 +8957,5 @@
 2025-12-25T13:49:28.122983+00:00|https://www.nytimes.com/2025/12/25/world/asia/leo-christmas-first-speech-pope.html|pope leo makes christmas call for dialogue to address worlds conflicts us news|c5f7d2aa964c072d8656a92511d5cc65
 2025-12-25T13:49:28.765431+00:00|https://www.nytimes.com/2025/12/25/world/asia/bangladesh-tarique-rahman-return-exile.html|a top candidate for prime minister returns to bangladesh after 17 years in exile us news|53408dba85fd1828d298ba1796408d33
 2025-12-25T15:57:37.488828+00:00|https://www.nbcnews.com/video/shorts/video-shows-dramatic-airlift-rescue-after-flooding-255005253934|video shows dramatic airlift rescue after flooding us news|caf630dcac3c6b7ca7c767d24603e78b
+2025-12-25T17:42:46.902655+00:00|https://www.nytimes.com/2025/12/25/technology/brown-university-shooting-disinformation-politicians.html|prominent leaders amplify disinformation about brown university shooting us news|82bd09d4aeec993c1e13ff539b34945f
+2025-12-25T17:42:47.645464+00:00|https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html|no power no heat no water odesas days of hell under russian fire us news|9f7dbc6848156c23eccc9a33f56a5050
