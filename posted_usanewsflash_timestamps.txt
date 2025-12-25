@@ -8949,3 +8949,5 @@
 2025-12-25T05:48:23.358349+00:00|https://www.nytimes.com/2025/12/25/world/asia/north-korea-nuclear-submarine.html|north korea unveils the completed hull of what it calls a nuclear submarine us news|0d64468015faf5b88be7106b7fc1233b
 2025-12-25T09:13:47.976150+00:00|https://abcnews.go.com/WNT/video/flood-emergency-california-128688438|watch flood emergency in california us news|f1adb268ac7b095e4188c1a143ae2608
 2025-12-25T10:27:53.895560+00:00|https://www.nbcnews.com/world/japan/trump-japans-cute-tiny-cars-america-experts-rcna248586|trump wants to bring japans cute tiny cars to america but it may not be easy us news|f5a1f749a384b584373beb0fe18796a7
+2025-12-25T10:47:27.111563+00:00|https://www.nytimes.com/2025/12/25/world/europe/ukraine-carol-of-the-bells-pokrovsk.html|carol of the bells once filled the air here now its only bombs us news|18431171ec9d0fd1445d11a0b7a4da27
+2025-12-25T10:47:27.637018+00:00|https://www.nytimes.com/2025/12/25/world/americas/venezuela-christmas-closed-airspace.html|with airspace closed a lonely christmas for many venezuelans us news|da4996476f69a1f521d6a43ae8135d56
