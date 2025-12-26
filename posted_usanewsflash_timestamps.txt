@@ -8982,3 +8982,8 @@
 2025-12-26T12:53:04.255651+00:00|https://www.nytimes.com/2025/12/26/us/alabama-redistricting-maps-college-student.html|a college freshman is the unlikely source of alabamas new political maps us news|9ab217955a00e2006e7952868b2f4db1
 2025-12-26T13:24:53.974155+00:00|https://www.nytimes.com/2025/12/26/weather/rain-flooding-southern-california-storm.html|more rain heading for southern california heightening flood risk us news|15e3546c3c508326fe4da60ec063ddd3
 2025-12-26T14:25:55.395652+00:00|https://www.nytimes.com/2025/12/26/nyregion/lina-khan-mamdani-affordability-new-york-city.html|with help of lina khan mamdani looks to quickly cut costs for new yorkers us news|f83001c6888f2be2439b6df65b605d04
+2025-12-26T15:26:47.179966+00:00|https://abcnews.go.com/GMA/Culture/video/new-york-city-subway-metrocard-retired-128702242|watch new york city subway metrocard to be retired us news|9261f8c0070d4dfbcb516670022ed811
+2025-12-26T15:26:47.922209+00:00|https://abcnews.go.com/US/video/klaueas-summit-eruption-marks-1-year-anniversary-128703147|watch kīlaueas summit eruption marks 1year anniversary us news|d1198415c079da5960ad0384158992ae
+2025-12-26T15:26:48.558375+00:00|https://abcnews.go.com/US/video/santa-claus-caught-speeding-streets-ohio-128702977|watch santa claus caught speeding through streets of ohio us news|8648be87e590ea8448b307133b888c52
+2025-12-26T15:26:49.169684+00:00|https://abcnews.go.com/GMA/News/video/hero-middle-schoolers-save-bus-driver-128702208|watch hero middle schoolers help save bus driver us news|301cfdfe8c1e5212200b6569453db36f
+2025-12-26T15:26:49.793737+00:00|https://www.nytimes.com/2025/12/26/world/middleeast/syria-homs-mosque-explosion.html|6 killed in syria mosque blast government says us news|3a72b17c669afb6c0bcad1057211ee67
