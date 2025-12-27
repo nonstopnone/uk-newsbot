@@ -9017,3 +9017,4 @@
 2025-12-27T05:57:34.436184+00:00|https://www.nytimes.com/2025/12/27/us/kennedy-center-concert-lawsuit.html|kennedy center chief threatens legal action over canceled christmas concert us news|4aa41f02fcd0e1adba91243ec76e40b1
 2025-12-27T05:57:34.967486+00:00|https://www.nytimes.com/2025/12/26/nyregion/stabbing-cvs-christmas-lindenhurst.html|man arrested in fatal stabbing of cvs worker on long island us news|af74dcb30be6d6846b32131f146ddd06
 2025-12-27T07:57:53.116229+00:00|https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html|russia attacks kyiv ahead of trumpzelensky meeting us news|6f6a8078fcf14e98385fe0112147bc16
+2025-12-27T09:43:04.351420+00:00|https://www.nytimes.com/2025/12/27/us/california-high-speed-rail-lawsuit-transportation-department.html|california drops lawsuit over $4 billion federal cut to highspeed rail project us news|a96302bfa3145ffb8c37fef581d6877d
