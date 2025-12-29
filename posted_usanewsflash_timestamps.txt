@@ -9065,3 +9065,4 @@
 2025-12-29T02:19:54.978995+00:00|https://www.nytimes.com/2025/12/28/us/politics/jan-6-pipe-bomb.html|suspect confessed to planting pipe bombs near the capitol before jan 6 us news|0e283cdc256914021c8fabd43a1f60be
 2025-12-29T02:19:55.839744+00:00|https://www.nbcnews.com/video/trump-zelenskyy-project-optimism-about-ukraine-peace-deal-255091269592|trump zelenskyy project optimism about ukraine peace deal us news|442eca19d27b11b89520ccc45ec2095f
 2025-12-29T02:19:56.723099+00:00|https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html|trump and zelensky meet to iron out peace plan but deal remains elusive us news|c67eba225bc8faaa497b3e4d156a15ad
+2025-12-29T04:00:49.165125+00:00|https://www.nytimes.com/2025/12/28/us/politics/trump-drug-facility-venezuela.html|trump says the us struck a big facility in campaign against venezuela us news|8ccc9ca5bee80e05e2c9f8d384410e41
