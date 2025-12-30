@@ -9141,3 +9141,5 @@
 2025-12-30T20:29:13.394340+00:00|https://www.nytimes.com/2025/12/30/us/politics/trump-venezuela-drone-strike-attack.html|the cia strike on venezuela what to know us news|4b477c39c92943060fd40a217a8c132f
 2025-12-30T21:43:04.921480+00:00|https://www.nbcnews.com/health/health-news/flu-season-virus-symptoms-surge-nationwide-variants-vaccines-children-rcna251534|flu is surging and doctors say were nowhere near the peak us news|38bbe1a8bde8157f900530cd8b3c93a8
 2025-12-30T21:57:29.432897+00:00|https://www.bbc.com/news/articles/crkrm0m02dko|nfl player stefon diggs faces felony strangulation charge us news|c9b07b4fe94a579643dc73e346d1ba51
+2025-12-30T22:25:01.443704+00:00|https://abcnews.go.com/US/video/coyote-spotted-chilling-new-yorks-central-park-128791436|watch coyote spotted chilling in new yorks central park us news|cb02601eea0043f09fb6a98c34e12ff9
+2025-12-30T22:25:01.950406+00:00|https://abcnews.go.com/US/video/oklahoma-police-struggle-stop-driver-dozed-off-wheel-128791434|watch oklahoma police struggle to stop driver who dozed off behind the wheel us news|99581711379f87e5f8401c19cbf09e71
