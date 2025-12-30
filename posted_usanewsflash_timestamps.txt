@@ -9108,3 +9108,5 @@
 2025-12-30T04:27:10.927096+00:00|https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html|khaleda zia bangladeshs first female prime minister dies us news|69e7a42f2da37f6e2329b5f8a8d1c8d8
 2025-12-30T04:27:12.416818+00:00|https://www.nytimes.com/2025/12/29/us/politics/cia-drone-strike-venezuela.html|cia conducted drone strike on port in venezuela us news|05e0125fe4afbe862ea6db627092d70c
 2025-12-30T05:28:50.397392+00:00|https://www.nytimes.com/2025/12/29/us/politics/us-sues-virginia-tuition-immigrants.html|justice department sues virginia over tuition aid for unauthorized immigrants us news|d2aaaa1e5c6c5c90ca4b8e6557b93b2a
+2025-12-30T07:02:17.244772+00:00|https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html|saudis say airstrike in yemen targeted arms from uae us news|919ec22addbcc2289a28f381c7d4b015
+2025-12-30T07:02:17.929756+00:00|https://www.nbcnews.com/video/shorts/masked-suspects-clear-out-chicago-shop-in-2-minute-heist-255162949592|masked suspects clear out chicago shop in 2minute heist us news|f01e508fb7bfb0261c9b834dcca8fe1e
