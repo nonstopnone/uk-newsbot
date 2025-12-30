@@ -9105,3 +9105,5 @@
 2025-12-30T03:44:07.337120+00:00|https://abcnews.go.com/US/nascar-driver-denny-hamlins-father-killed-mother-injured/story|nascar drivers father dies mother injured in house fire us news|468e87f180efeb734ddbf24dbc659326
 2025-12-30T03:44:07.863658+00:00|https://abcnews.go.com/US/video/thief-returns-stolen-mandolins-guitar-store-apology-note-128765956|watch thief returns stolen mandolins to guitar store with apology note us news|d95a7b30bd0a6edfc9258f0413ce22ff
 2025-12-30T03:44:08.387093+00:00|https://www.nytimes.com/2025/12/29/health/chesapeake-hospital-lawsuit-perwaiz.html|hundreds sue virginia hospital and executives over unneeded surgeries us news|3f310ff7c7a7e3d73161680ae2aec737
+2025-12-30T04:27:10.927096+00:00|https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html|khaleda zia bangladeshs first female prime minister dies us news|69e7a42f2da37f6e2329b5f8a8d1c8d8
+2025-12-30T04:27:12.416818+00:00|https://www.nytimes.com/2025/12/29/us/politics/cia-drone-strike-venezuela.html|cia conducted drone strike on port in venezuela us news|05e0125fe4afbe862ea6db627092d70c
