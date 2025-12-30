@@ -9110,3 +9110,6 @@
 2025-12-30T05:28:50.397392+00:00|https://www.nytimes.com/2025/12/29/us/politics/us-sues-virginia-tuition-immigrants.html|justice department sues virginia over tuition aid for unauthorized immigrants us news|d2aaaa1e5c6c5c90ca4b8e6557b93b2a
 2025-12-30T07:02:17.244772+00:00|https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html|saudis say airstrike in yemen targeted arms from uae us news|919ec22addbcc2289a28f381c7d4b015
 2025-12-30T07:02:17.929756+00:00|https://www.nbcnews.com/video/shorts/masked-suspects-clear-out-chicago-shop-in-2-minute-heist-255162949592|masked suspects clear out chicago shop in 2minute heist us news|f01e508fb7bfb0261c9b834dcca8fe1e
+2025-12-30T10:29:56.698739+00:00|https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-rcna249338|four big things congress did in 2025 us news|0f91520e5adf8639693dff3c490e6fdb
+2025-12-30T10:29:57.459927+00:00|https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story|scammers notched $333 million from bitcoin atm scams in 2025 fbi says us news|8b72fdaf6c4b14f679f8a4d3bc8dde40
+2025-12-30T10:29:57.960654+00:00|https://abcnews.go.com/International/russian-official-threatens-zelenskyy-moscow-claims-kyiv-attacked/story|russian official threatens zelenskyy as moscow claims kyiv attacked putin residence us news|747c5096a8dcf78a677cdbbe07893fca
