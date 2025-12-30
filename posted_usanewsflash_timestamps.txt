@@ -9125,3 +9125,8 @@
 2025-12-30T15:28:39.445267+00:00|https://www.nytimes.com/2025/12/30/weather/rain-los-angeles-new-years.html|more rain forecast for los angeles starting on new years eve us news|ee8ccd75f79051686b81cb2404be73cf
 2025-12-30T17:13:54.976770+00:00|https://www.nytimes.com/2025/12/30/us/politics/trump-federal-government-fallout.html|trump upended the federal government the full scope of the impact is still unclear us news|74331a37fbe0611a661c925712ec5da1
 2025-12-30T17:13:55.569808+00:00|https://www.nytimes.com/2025/12/30/style/she-tried-to-kill-a-president-he-loved-her-anyway.html|she tried to kill a president he loved her anyway us news|c7c4f90283b45463c5ffe554cfd5dcea
+2025-12-30T17:35:39.225216+00:00|https://www.bbc.com/sport/basketball/articles/c5yjy425dnwo|threetime mvp jokic suffers gutwrenching injury us news|793b80bfa2be96ba612480f997b6eda6
+2025-12-30T17:35:39.711467+00:00|https://www.bbc.com/news/videos/cdrell7ydpko|watch bomb cyclone hits parts of the us with heavy snow us news|682c0895b035f556eb9435a101fb888d
+2025-12-30T17:35:40.190103+00:00|https://www.bbc.com/news/articles/cdreljlx21mo|new video appears to show texas teen missing since christmas eve police say us news|45965f3582b6aa3aec3b4aed14caca01
+2025-12-30T17:35:40.718187+00:00|https://www.nytimes.com/2025/12/30/world/middleeast/iran-protests-currency-inflation-universities.html|protests over irans currency crash and inflation spread to universities us news|cc2a8495e7bf10353c4210d2a8862037
+2025-12-30T17:35:41.274613+00:00|https://abcnews.go.com/US/new-england-patriots-player-stefon-diggs-faces-strangulation/story|new england patriots player stefon diggs faces strangulation charge us news|bd46dd97f163bcc4345df8e77cd37aaa
