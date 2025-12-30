@@ -9095,3 +9095,8 @@
 2025-12-29T22:57:43.099385+00:00|https://www.bbc.com/news/articles/cp8484p7ggmo|trump says us hit big facility linked to alleged venezuelan drug boats us news|e17bbc6b60b8c48df071556675dd9d6f
 2025-12-29T23:57:49.812797+00:00|https://abcnews.go.com/US/wireStory/judge-halts-georgia-execution-inmates-concerns-clemency-process-128765377|judge halts georgia execution over inmates concerns about clemency process us news|7f33a35091ce026de628877b288252d6
 2025-12-29T23:57:50.397390+00:00|https://abcnews.go.com/International/fbi-releases-images-seized-motorcycles-believed-belong-former/story|fbi releases images of seized motorcycles believed to belong to ryan wedding us news|932b7fe985ce1d0a66642e17e96b35a4
+2025-12-30T02:05:18.071402+00:00|https://www.bbc.com/news/articles/cdj8jmxyzneo|trump hopes to reach phase two of gaza ceasefire very quickly us news|a11e726e5ca14a9ddae710997785c8a4
+2025-12-30T02:05:18.667600+00:00|https://www.bbc.com/news/articles/ce868w84kd1o|us man charged after shooting practice in backyard allegedly kills woman blocks away us news|af1e340077b850d0cec0c22fb8629028
+2025-12-30T02:05:19.280385+00:00|https://www.nytimes.com/2025/12/29/us/politics/jan-6-anniversary-trump.html|democrats aim to spotlight republican efforts to rewrite the jan 6 capitol riot us news|b9335bf58a186c767f622a0d470461e3
+2025-12-30T02:05:19.886612+00:00|https://www.nytimes.com/2025/12/29/nyregion/nyc-takes-over-maimonides.html|new york city takes over maimonides hospital in brooklyn us news|3b59837c02710b93e1dc25d478145c09
+2025-12-30T02:05:20.505223+00:00|https://www.nytimes.com/2025/12/29/us/politics/pacific-trump-venezuela-boat-strike.html|us kills 2 in strike in pacific as trump pressures venezuela us news|a5dde296854a77a1477a18230898347c
