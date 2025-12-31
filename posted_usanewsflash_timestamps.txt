@@ -9159,3 +9159,5 @@
 2025-12-31T03:43:41.927050+00:00|https://www.nytimes.com/2025/12/30/us/tatiana-schlossberg-journalist-kennedy.html|tatiana schlossberg was a kennedy and a rookie reporter us news|5b506a3f2a0687d02f7ec1508381cce9
 2025-12-31T04:26:22.419450+00:00|https://abcnews.go.com/WNT/video/ohio-officers-save-man-burning-car-daring-rescue-128793177|watch ohio officers save man from burning car in daring rescue us news|c4d544ef16edbb931fbf938fd1186bbd
 2025-12-31T05:30:19.478526+00:00|https://www.nytimes.com/2025/12/31/world/asia/indonesia-flood-recovery-aceh.html|slow flood recovery stirs anger in farflung corner of indonesia us news|f98ad3fb678a9a18e0b5c607fdd73998
+2025-12-31T10:28:19.077871+00:00|https://abcnews.go.com/International/zelenskyy-suggests-trump-fly-ukraine-end-war/story|zelenskyy suggests trump fly to ukraine to help end the war us news|799e8687b5d001d213306b2e1638f01a
+2025-12-31T10:28:19.574025+00:00|https://www.nbcnews.com/health/health-news/cosmetic-surgery-liposuction-butt-lift-pain-misleading-ads-rcna249540|ads promising cosmetic surgery patients a dream body with minimal risk get little scrutiny us news|dc9d34bd5436d56b6657eb9cb0288a48
