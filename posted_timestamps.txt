@@ -1,6 +1,3 @@
-2025-12-24T01:49:05.760464+00:00|https://news.sky.com/story/explosion-at-us-nursing-home-with-deaths-reported-and-people-missing-13487179|catastrophic explosion at us nursing home|f65e26e1fbf5d137d2a085eb82d07c6e
-2025-12-24T01:49:16.497338+00:00|https://news.sky.com/story/libyas-military-chief-and-four-others-killed-in-plane-crash-over-turkey-13487149|five dead in plane crash over turkey|bc716e20b1c60a4e5094ebb5305add90
-2025-12-24T03:14:54.420204+00:00|https://www.bbc.com/news/articles/cly07r675d9o|someone thought i was actually the woman from baby reindeer and screamed in my face says actress|d17b942b4c0d7cafca0e460531030b43
 2025-12-24T06:39:50.993124+00:00|https://www.bbc.com/news/articles/cev8mrgky9eo|buildings could still burn under spineless new safety law industry leader warns|d79fab954e7a103d995707d4c8d227ce
 2025-12-24T07:00:51.378235+00:00|https://www.bbc.com/news/articles/c9w709nx07go|canal collapse will massively affect business|1a418d587cd078f07e3b067b74bf709d
 2025-12-24T08:43:57.660053+00:00|https://news.sky.com/story/british-13-year-old-boy-stabbed-to-death-in-portugal-reports-say-13487203|british 13yearold boy stabbed to death in portugal reports say|f0312cfd25ec6f813acafdf2b4651fad
@@ -74,3 +71,4 @@
 2025-12-31T01:46:26.668455+00:00|https://www.bbc.com/news/articles/c0r9d14v5y7o|ronan keating on his new years eve show resolutions and boyzone reunion|053c672d0888ee3641264c5d228c98cd
 2025-12-31T01:46:37.146265+00:00|https://news.sky.com/story/israel-suspends-37-aid-organisations-from-operating-in-gaza-13488815|israel suspends 37 aid organisations from operating in gaza|e7ba9aa649b128efcd05e7722364c506
 2025-12-31T01:46:47.614683+00:00|https://news.sky.com/story/two-trains-carrying-tourists-to-machu-picchu-crash-as-one-person-killed-13488953|two trains carrying tourists to machu picchu crash as one person killed|a880afa5396a7c67d366343dc696346c
+2025-12-31T03:17:35.524759+00:00|https://news.sky.com/story/how-an-anti-knife-crime-project-saved-a-young-mans-life-13488927|even the sound of cutlery triggers my ptsd how an antiknife crime project saved a young mans life|cdaa00481301a2640f9bbd12c3e6b6b2
