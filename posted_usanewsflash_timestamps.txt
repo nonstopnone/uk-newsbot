@@ -9181,3 +9181,5 @@
 2025-12-31T19:20:17.935508+00:00|https://www.nytimes.com/2025/12/31/nyregion/metrocard-funeral-new-york.html|swipe swipe new yorkers give the metrocard a public funeral us news|fd08c2ea4d749f6ea026c6c3c11ffa27
 2025-12-31T19:20:18.470588+00:00|https://www.nbcnews.com/video/shorts/car-crashes-into-7-eleven-in-ohio-255235653941|car crashes into 7eleven in ohio us news|8a18ed2b557db2f11a9c181ebe61000c
 2025-12-31T19:57:23.468185+00:00|https://www.nytimes.com/2025/12/31/world/europe/macron-social-media-children-ban-france.html|emmanuel macron backs social media restrictions for children us news|a8f8ca805edbd28339f63542e37f71fc
+2025-12-31T20:28:34.919744+00:00|https://www.nytimes.com/2025/12/31/us/cop-city-activists-racketeering-charges.html|georgia judge dismisses racketeering charges against cop city activists us news|9613197b7e2b75bdc84d25f813504cb3
+2025-12-31T20:28:35.591145+00:00|https://abcnews.go.com/US/aca-subsidies-lower-monthly-insurance-premiums-millions-americans/story|aca subsidies that lower monthly premiums for millions of americans set to expire us news|51d77e5f16c3837f620fb64e88d89bc7
