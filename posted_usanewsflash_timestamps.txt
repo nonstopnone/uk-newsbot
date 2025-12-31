@@ -9176,3 +9176,5 @@
 2025-12-31T15:57:31.246957+00:00|https://www.nytimes.com/2025/12/31/movies/women-directed-fewer-box-office-hits-in-2025-report-finds.html|women directed fewer box office hits in 2025 report finds us news|431993f37dcf8387cebc9c4715644e62
 2025-12-31T17:23:06.250375+00:00|https://www.nytimes.com/2025/12/31/nyregion/ny-prison-deaths-beatings-brooks-nantwi.html|these inmates died after beatings by new york prison guards no one raised an alarm us news|00ffa365e7e02a3856649dd8063db296
 2025-12-31T17:42:58.774977+00:00|https://www.nytimes.com/2025/12/31/us/politics/abrego-garcia-timeline-trump.html|a timeline of key events in the trump administrations pursuit of abrego garcia us news|9a233aa227c7255ada73a7cd41dc4976
+2025-12-31T17:57:48.264994+00:00|https://www.bbc.com/news/articles/c74vl374mnyo|trump vetoes first bills of his second term us news|043ed801e037349298e76d87a33c313a
+2025-12-31T17:57:48.961693+00:00|https://www.nytimes.com/2025/12/31/style/tatiana-schlossberg-new-yorker-essay-david-remnick.html|tatiana schlossberg submitted a heartbreaking essay to the new yorker on her cancer diagnosis fully formed us news|8f1ff3e92cde4b7c0cb4ecd6c8c7b97b
