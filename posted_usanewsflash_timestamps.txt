@@ -9178,3 +9178,5 @@
 2025-12-31T17:42:58.774977+00:00|https://www.nytimes.com/2025/12/31/us/politics/abrego-garcia-timeline-trump.html|a timeline of key events in the trump administrations pursuit of abrego garcia us news|9a233aa227c7255ada73a7cd41dc4976
 2025-12-31T17:57:48.264994+00:00|https://www.bbc.com/news/articles/c74vl374mnyo|trump vetoes first bills of his second term us news|043ed801e037349298e76d87a33c313a
 2025-12-31T17:57:48.961693+00:00|https://www.nytimes.com/2025/12/31/style/tatiana-schlossberg-new-yorker-essay-david-remnick.html|tatiana schlossberg submitted a heartbreaking essay to the new yorker on her cancer diagnosis fully formed us news|8f1ff3e92cde4b7c0cb4ecd6c8c7b97b
+2025-12-31T19:20:17.935508+00:00|https://www.nytimes.com/2025/12/31/nyregion/metrocard-funeral-new-york.html|swipe swipe new yorkers give the metrocard a public funeral us news|fd08c2ea4d749f6ea026c6c3c11ffa27
+2025-12-31T19:20:18.470588+00:00|https://www.nbcnews.com/video/shorts/car-crashes-into-7-eleven-in-ohio-255235653941|car crashes into 7eleven in ohio us news|8a18ed2b557db2f11a9c181ebe61000c
