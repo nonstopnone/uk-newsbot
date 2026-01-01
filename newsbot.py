@@ -51,7 +51,7 @@ except Exception as e:
     sys.exit(1)
 
 DEDUP_FILE = './posted_urls.txt'
-JACCARD_DUPLICATE_THRESHOLD = 0.50  # Lowered to catch more paraphrased/similar titles
+JACCARD_DUPLICATE_THRESHOLD = 0.50
 
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
@@ -237,7 +237,6 @@ UK_KEYWORDS = {
     "wes streeting": 4, "john healey": 4,
     "brexit": 4, "pound sterling": 4, "great british": 4, "oxford": 4, "cambridge": 4,
     "village": 2, "county": 2, "borough": 2, "railway": 2,
-    "government": 2, "economy": 2, "policy": 2, "election": 2, "inflation": 2, "cost of living": 2,
     "prime minister": 3, "chancellor": 3, "home secretary": 3, "a-levels": 3, "gcse": 3,
     "council tax": 3, "energy price cap": 3, "high street": 3, "pub": 3, "motorway": 3,
     "council": 3, "home office": 3, "raducanu": 4, "councillor": 3, "hospital": 2,
@@ -530,7 +529,7 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
 
 def main():
     TARGET_POSTS_PER_RUN = 7
-    INITIAL_ARTICLES = 20  # Increased slightly to allow more candidates in short window
+    INITIAL_ARTICLES = 30  # Increased to consider more candidates in wider window
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
@@ -538,16 +537,17 @@ def main():
     }
     all_entries = []
     now = datetime.now(timezone.utc)
-    fifteen_minutes_ago = now - timedelta(minutes=15)
+    one_hour_ago = now - timedelta(minutes=60)  # Widened to 60 minutes to capture more breaking stories
     for name, url in feed_sources.items():
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries:
                 published_dt = get_entry_published_datetime(entry)
-                if published_dt and fifteen_minutes_ago <= published_dt <= now + timedelta(minutes=5):
+                if published_dt and one_hour_ago <= published_dt <= now + timedelta(minutes=5):
                     all_entries.append((name, entry, published_dt))
         except Exception as e:
             log_error(name, None, f"Error loading feed: {e}")
+    logger.info(f"Found {len(all_entries)} entries published in the last 60 minutes.")
     all_entries.sort(key=lambda x: x[2], reverse=True)
     all_articles = []
     category_counts = {cat: 0 for cat in specific_categories}
@@ -583,21 +583,14 @@ def main():
         if score < threshold or not has_uk_term:
             log_rejected(name, entry, f"Score {score} below threshold {threshold} or no UK terms")
             continue
-        has_strong_uk = any(kw in matched_keywords for kw in strong_uk_keywords)
         negative_matches = [k for k in matched_keywords if k.startswith("negative:")]
         if negative_matches:
             if -negative_sum > positive_sum * 0.5:
                 log_rejected(name, entry, "Foreign dominance")
                 continue
-            if not has_strong_uk:
-                log_rejected(name, entry, "Incidental UK mention")
-                continue
-        if not has_strong_uk:
-            log_rejected(name, entry, "Lacks strong UK keyword")
-            continue
         level = get_relevance_level(score, matched_keywords)
-        if level != "Very High":
-            log_rejected(name, entry, f"Relevance level {level} (requires Very High)")
+        if level not in ["High", "Very High"]:
+            log_rejected(name, entry, f"Relevance level {level} too low (requires High or Very High)")
             continue
         paragraphs = extract_first_paragraphs(entry.link)
         norm_title = normalize_title(get_post_title(entry))
