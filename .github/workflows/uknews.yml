@@ -2,7 +2,7 @@ name: UK News Bot
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Every 30 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 # Prevent concurrent runs to avoid file conflicts
@@ -13,10 +13,13 @@ concurrency:
 jobs:
   run-newsbot:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref || github.ref }}  # Ensure the latest branch is checked out
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,6 +28,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install feedparser praw beautifulsoup4 requests python-dateutil
 
       - name: Run newsbot
@@ -33,14 +37,14 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
-        run: python3.11 newsbot.py
+        run: |
+          python3.11 newsbot.py
 
-      - name: Commit and push deduplication file
+      - name: Commit deduplication state
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add posted_timestamps.txt || true  # Add file, ignore if unchanged
-          git commit -m "Update deduplication file" || true  # Commit only if changes exist
-          git push origin HEAD || true  # Push changes, ignore if no changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git add posted_urls.txt || true
+          git add run_log.txt || true
+          git diff --cached --quiet || git commit -m "Update deduplication state"
+          git push || true
