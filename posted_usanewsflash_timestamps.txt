@@ -9217,3 +9217,5 @@
 2026-01-01T14:45:42.153307+00:00|https://www.nbcnews.com/video/shorts/washington-monument-lit-up-for-america-s-250th-anniversary-255261765929|washington monument lit up for americas 250th anniversary us news|501e2f283075d8786ce7b4810ad9c384
 2026-01-01T15:44:27.119903+00:00|https://www.nytimes.com/2026/01/01/us/minnesota-child-care-funding-impact-fraud.html|threat to suspend aid for minnesota childcare centers rattles families us news|993104cea8503ddc692ead6076cb1aba
 2026-01-01T16:52:56.001304+00:00|https://www.nytimes.com/2026/01/01/nyregion/how-to-watch-zohran-mamdanis-inauguration.html|how to watch zohran mamdanis inauguration as new york mayor us news|9d367fbe8af48245ed8606df518da75e
+2026-01-01T19:00:21.805752+00:00|https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html|iran protests turn deadly as violence and anger spread us news|37b29e0fa65983eec54d186305d57158
+2026-01-01T19:00:22.492057+00:00|https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html|swiss alps ski resort fire what we know us news|fc35df0ee58dd66fab65704117dc1ae9
