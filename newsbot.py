@@ -17,7 +17,7 @@ import difflib
 logging.basicConfig(
     level=logging.INFO,
     format='[%(levelname)s] %(asctime)s %(message)s',
-    handlers=[logging.StreamHandler(sys.stdout)]
+    handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler('run_log.txt')]
 )
 logger = logging.getLogger(__name__)
 required_env_vars = [
@@ -179,7 +179,8 @@ OPINION_KEYWORDS = [
 IRRELEVANT_KEYWORDS = [
     "mattress", "back pain", "best mattresses", "celebrity", "gossip", "fashion", "diet",
     "workout", "product", "seasonal", "deals", "us open", "mixed doubles", "tennis tournament",
-    "nfl", "nba", "super bowl", "mlb", "nhl", "oscars", "grammy", "best", "tested", "recommended"
+    "nfl", "nba", "super bowl", "mlb", "nhl", "oscars", "grammy", "best", "tested", "recommended",
+    "anniversary", "celebrate", "re-enact", "birthday", "commemorate", "mark the occasion"  # Added to exclude low-newsworthy stories like anniversaries
 ]
 SPORTS_PREVIEW_KEYWORDS = [
     "boxing match", "fight night", "upcoming fight", "bout", "weigh-in", "fight card",
@@ -396,7 +397,7 @@ DEFAULT_UK_THRESHOLD = 3
 CATEGORY_THRESHOLDS = {
     "Sport": 8,
     "Royals": 6,
-    "Notable International": 4,
+    "Notable International": 10,  # Increased threshold for Notable International to require stronger relevance for breaking news
     "Economy": 2
 }
 def log_rejected(source, entry, reason):
