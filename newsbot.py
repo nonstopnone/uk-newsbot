@@ -14,6 +14,7 @@ import logging
 from dateutil import parser as dateparser
 from dateutil.parser import ParserError
 
+# ---------------- LOGGING ----------------
 logging.basicConfig(
     level=logging.INFO,
     format='[%(levelname)s] %(asctime)s %(message)s',
@@ -21,181 +22,179 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# ---------------- ENV VARS (flexible password name) ----------------
 required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
-    'REDDIT_USERNAME',
-    'REDDITPASSWORD'
+    'REDDIT_USERNAME'
 ]
-missing_vars = [var for var in required_env_vars if var not in os.environ]
-if missing_vars:
-    logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
+# Accept either REDDITPASSWORD or REDDIT_PASSWORD to be compatible with different deployments
+password_var = os.environ.get('REDDITPASSWORD') or os.environ.get('REDDIT_PASSWORD')
+missing = [v for v in required_env_vars if v not in os.environ] + (['REDDITPASSWORD or REDDIT_PASSWORD'] if not password_var else [])
+if missing:
+    logger.error(f"Missing required environment variables: {', '.join(missing)}")
     sys.exit(1)
 
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
-REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
+REDDIT_PASSWORD = password_var
 
+# ---------------- REDDIT INIT ----------------
 try:
     reddit = praw.Reddit(
         client_id=REDDIT_CLIENT_ID,
         client_secret=REDDIT_CLIENT_SECRET,
         username=REDDIT_USERNAME,
         password=REDDIT_PASSWORD,
-        user_agent='BreakingUKNewsBot/1.0'
+        user_agent='BreakingUKNewsBot/1.3'
     )
     subreddit = reddit.subreddit('BreakingUKNews')
 except Exception as e:
     logger.error(f"Failed to initialize Reddit API: {e}")
     sys.exit(1)
 
+# ---------------- DEDUP CONFIG ----------------
 DEDUP_FILE = './posted_urls.txt'
-JACCARD_DUPLICATE_THRESHOLD = 0.50
+DEDUP_DAYS = 7
+JACCARD_DUPLICATE_THRESHOLD = 0.45
 
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
-    return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
+    # canonicalize scheme and host and trim trailing slash in path
+    return urllib.parse.urlunparse((parsed.scheme, parsed.netloc.lower(), parsed.path.rstrip('/'), '', '', ''))
 
 def normalize_text(text):
-    text = html.unescape(text)
-    text = re.sub(r'[^\w\s£$€]', '', text)
-    text = re.sub(r'\s+', ' ', text).strip().lower()
-    return text
+    if not text:
+        return ""
+    txt = html.unescape(text)
+    txt = re.sub(r'[^\w\s£$€]', '', txt)
+    txt = re.sub(r'\s+', ' ', txt).strip().lower()
+    return txt
 
-def normalize_title(title):
-    return normalize_text(title)
-
-def get_post_title(entry):
-    return html.unescape(entry.title).strip()
-
-def get_content_hash(entry):
-    title_norm = normalize_text(entry.title)
-    summary_norm = normalize_text(getattr(entry, "summary", ""))
-    content = title_norm + " " + summary_norm
-    return hashlib.md5(content.encode('utf-8')).hexdigest()
+def content_hash(title, summary):
+    base = normalize_text(title) + " " + normalize_text(summary)
+    return hashlib.sha256(base.encode('utf-8')).hexdigest()
 
 def jaccard_similarity(a, b):
-    words_a = set(a.split())
-    words_b = set(b.split())
-    intersection = words_a.intersection(words_b)
-    union = words_a.union(words_b)
-    return len(intersection) / len(union) if union else 0.0
+    sa, sb = set(a.split()), set(b.split())
+    if not sa or not sb:
+        return 0.0
+    return len(sa & sb) / len(sa | sb)
 
 def load_dedup(filename=DEDUP_FILE):
     urls, titles, hashes = set(), set(), set()
-    cleaned_lines = []
-    seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
-    if os.path.exists(filename):
-        with open(filename, 'r', encoding='utf-8') as f:
-            for line in f:
-                parts = line.strip().split('|')
-                if len(parts) >= 4:
-                    try:
-                        timestamp = dateparser.parse(parts[0])
-                        if timestamp > seven_days_ago:
-                            url = parts[1]
-                            title = '|'.join(parts[2:-1])
-                            hash_ = parts[-1]
-                            urls.add(url)
-                            titles.add(title)
-                            hashes.add(hash_)
-                            cleaned_lines.append(line)
-                    except (ValueError, ParserError):
-                        logger.warning(f"Skipping invalid dedup line: {line.strip()}")
-                        continue
+    kept_lines = []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=DEDUP_DAYS)
+    if not os.path.exists(filename):
+        return urls, titles, hashes
+    with open(filename, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.rstrip('\n')
+            # Use maxsplit to preserve titles that might contain pipes
+            parts = line.split('|', 3)
+            if len(parts) != 4:
+                continue
+            ts_s, url, title, h = parts
+            try:
+                ts = dateparser.parse(ts_s)
+                if ts.tzinfo is None:
+                    ts = ts.replace(tzinfo=timezone.utc)
+                if ts >= cutoff:
+                    urls.add(url)
+                    titles.add(title)
+                    hashes.add(h)
+                    kept_lines.append(line + '\n')
+            except (ValueError, ParserError):
+                continue
+    # rewrite file with only kept lines (prune older than cutoff)
     with open(filename, 'w', encoding='utf-8') as f:
-        f.writelines(cleaned_lines)
-    logger.info(f"Loaded {len(urls)} unique entries from deduplication file (last 7 days)")
+        f.writelines(kept_lines)
+    logger.info(f"Loaded {len(urls)} dedup entries (last {DEDUP_DAYS} days)")
     return urls, titles, hashes
 
 posted_urls, posted_titles, posted_hashes = load_dedup()
 
 def is_duplicate(entry):
-    norm_link = normalize_url(entry.link)
-    post_title = get_post_title(entry)
-    norm_title = normalize_title(post_title)
-    content_hash = get_content_hash(entry)
+    try:
+        url = normalize_url(entry.link)
+    except Exception:
+        url = ""
+    title_norm = normalize_text(getattr(entry, 'title', ''))
+    summary = normalize_text(getattr(entry, 'summary', ''))
+    h = content_hash(getattr(entry, 'title', ''), getattr(entry, 'summary', ''))
 
-    if norm_link in posted_urls:
+    if url and url in posted_urls:
         return True, "Duplicate URL"
-    if content_hash in posted_hashes:
-        return True, "Duplicate Content Hash"
-    if any(jaccard_similarity(norm_title, pt) > JACCARD_DUPLICATE_THRESHOLD for pt in posted_titles):
-        return True, "Duplicate Title (Jaccard)"
+    if h in posted_hashes:
+        return True, "Duplicate HASH"
+    for pt in posted_titles:
+        if jaccard_similarity(title_norm, pt) >= JACCARD_DUPLICATE_THRESHOLD:
+            return True, "Duplicate Title (Jaccard)"
     return False, ""
 
 def add_to_dedup(entry):
-    norm_link = normalize_url(entry.link)
-    post_title = get_post_title(entry)
-    norm_title = normalize_title(post_title)
-    content_hash = get_content_hash(entry)
-    timestamp = datetime.now(timezone.utc).isoformat()
+    ts = datetime.now(timezone.utc).isoformat()
+    url = normalize_url(getattr(entry, 'link', ''))
+    title = normalize_text(getattr(entry, 'title', ''))
+    h = content_hash(getattr(entry, 'title', ''), getattr(entry, 'summary', ''))
     with open(DEDUP_FILE, 'a', encoding='utf-8') as f:
-        f.write(f"{timestamp}|{norm_link}|{norm_title}|{content_hash}\n")
-    posted_urls.add(norm_link)
-    posted_titles.add(norm_title)
-    posted_hashes.add(content_hash)
-    logger.info(f"Added to deduplication: {norm_title}")
+        f.write(f"{ts}|{url}|{title}|{h}\n")
+    posted_urls.add(url)
+    posted_titles.add(title)
+    posted_hashes.add(h)
+    logger.info(f"Added to dedup: {title}")
 
-def get_entry_published_datetime(entry):
-    for field in ['published', 'updated', 'created', 'date']:
-        if hasattr(entry, field):
-            try:
-                dt = dateparser.parse(getattr(entry, field))
-                if not dt.tzinfo:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                return dt.astimezone(timezone.utc)
-            except (ValueError, ParserError):
-                continue
-    return None
-
-def extract_first_paragraphs(url):
+# ---------------- ARTICLE FETCH / PARSING ----------------
+def extract_first_paragraphs(url, n=3):
+    """Return up to n cleaned first paragraphs suitable for the first reply."""
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        raw_paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
+        raw = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
         filtered = []
-        for p in raw_paragraphs:
-            p_lower = p.lower()
-            if ('browser' in p_lower and 'use' in p_lower) or 'view in browser' in p_lower or 'open in your browser' in p_lower or re.search(r'open (this|the) (article|page|link)', p_lower):
+        for p in raw:
+            pl = p.lower()
+            if ('view in browser' in pl) or ('open in your browser' in pl) or re.search(r'open (this|the) (article|page|link)', pl):
                 continue
-            if re.search(r'(^|\b)(written by|reported by)\b', p_lower) or re.search(r'(^|\n)\s*by\s+[A-Z][\w\-\']+', p):
+            if re.search(r'(^|\b)(written by|reported by)\b', pl) or re.search(r'(^|\n)\s*by\s+[A-Z][\w\-\'\.]+', p):
                 continue
-            if 'copyright' in p_lower or '(c)' in p_lower or '©' in p_lower or 'read our policy' in p_lower or 'external links' in p_lower or 'read more about' in p_lower:
+            if 'copyright' in pl or '(c)' in pl or '©' in pl:
                 continue
             filtered.append(p)
-            if len(filtered) >= 3:
+            if len(filtered) >= n:
                 break
-        while len(filtered) < 3:
+        while len(filtered) < n:
             filtered.append("")
-        return filtered[:3]
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Failed to fetch URL {url}: {e}")
-        return ["", "", ""]
+        return filtered[:n]
+    except Exception as e:
+        logger.debug(f"extract_first_paragraphs failed for {url}: {e}")
+        return [""] * n
 
 def get_full_article_text(url):
+    """Return concatenation of article paragraphs for scoring."""
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        raw_paragraphs = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
+        paras = [p.get_text(strip=True) for p in soup.find_all('p') if len(p.get_text(strip=True)) > 40]
         filtered = []
-        for p in raw_paragraphs:
-            p_lower = p.lower()
-            if ('browser' in p_lower and 'use' in p_lower) or 'view in browser' in p_lower or 'open in your browser' in p_lower or re.search(r'open (this|the) (article|page|link)', p_lower):
+        for p in paras:
+            pl = p.lower()
+            if ('view in browser' in pl) or ('open in your browser' in pl) or re.search(r'open (this|the) (article|page|link)', pl):
                 continue
-            if re.search(r'(^|\b)(written by|reported by)\b', p_lower) or re.search(r'(^|\n)\s*by\s+[A-Z][\w\-\']+', p):
+            if re.search(r'(^|\b)(written by|reported by)\b', pl) or re.search(r'(^|\n)\s*by\s+[A-Z][\w\-\'\.]+', p):
                 continue
-            if 'copyright' in p_lower or '(c)' in p_lower or '©' in p_lower or 'read our policy' in p_lower or 'external links' in p_lower or 'read more about' in p_lower:
+            if 'copyright' in pl or '(c)' in pl or '©' in pl:
                 continue
             filtered.append(p)
         return ' '.join(filtered)
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Failed to fetch full text from URL {url}: {e}")
+    except Exception as e:
+        logger.debug(f"get_full_article_text failed for {url}: {e}")
         return ""
 
+# ---------------- KEYWORD FILTERS ----------------
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "sponsor", "competition", "prize", "free",
     "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement",
@@ -206,318 +205,214 @@ OPINION_KEYWORDS = [
 ]
 IRRELEVANT_KEYWORDS = [
     "mattress", "back pain", "best mattresses", "celebrity", "gossip", "fashion", "diet",
-    "workout", "product", "seasonal", "deals", "us open", "mixed doubles", "tennis tournament",
-    "nfl", "nba", "super bowl", "mlb", "nhl", "oscars", "grammy", "best", "tested", "recommended",
-    "anniversary", "celebrate", "re-enact", "birthday", "commemorate", "mark the occasion"
+    "workout", "product", "seasonal", "deals", "anniversary", "celebrate", "birthday"
 ]
 SPORTS_PREVIEW_KEYWORDS = [
-    "boxing match", "fight night", "upcoming fight", "bout", "weigh-in", "fight card",
-    "preview", "prediction", "odds", "betting"
+    "preview", "when is", "how to watch", "start time", "fixtures", "schedule", "tv channel", "where to watch"
 ]
-
-UK_KEYWORDS = {
-    "london": 4, "parliament": 4, "westminster": 4, "downing street": 4, "buckingham palace": 4,
-    "nhs": 4, "bank of england": 4, "ofgem": 4, "bbc": 4, "itv": 4, "sky news": 4,
-    "manchester": 4, "birmingham": 4, "glasgow": 4, "edinburgh": 4, "cardiff": 4, "belfast": 4,
-    "liverpool": 4, "leeds": 4, "bristol": 4, "newcastle": 4, "sheffield": 4, "nottingham": 4,
-    "leominster": 4, "herefordshire": 4, "shropshire": 4, "worcestershire": 4, "devon": 4, "cornwall": 4,
-    "norfolk": 4, "suffolk": 4, "kent": 4, "sussex": 4, "essex": 4, "yorkshire": 4, "cumbria": 4,
-    "premier league": 4, "wimbledon": 4, "glastonbury": 4, "the ashes": 4, "royal ascot": 4,
-    "house of commons": 4, "house of lords": 4, "met police": 4, "scotland yard": 4,
-    "national trust": 4, "met office": 4, "british museum": 4, "tate modern": 4,
-    "level crossing": 4, "west midlands railway": 4, "network rail": 4,
-    "ofsted": 4, "dvla": 4, "hmrc": 4, "dwp": 4, "tory": 4, "labour party": 4, "reform uk": 4, "plaid cymru": 4,
-    "brighton": 4, "southampton": 4, "plymouth": 4, "hull": 4, "derby": 4,
-    "uk": 5, "britain": 5, "united kingdom": 5, "england": 5, "scotland": 5, "wales": 5, "northern ireland": 5,
-    "british": 4, "labour": 4, "conservative": 4, "lib dem": 4, "snp": 4, "green party": 4,
-    "king charles": 4, "queen camilla": 4, "prince william": 4, "princess kate": 4,
-    "keir starmer": 4, "rachel reeves": 4, "kemi badenoch": 4, "ed davey": 4, "john swinney": 4,
-    "angela rayner": 4, "nigel farage": 4, "carla denyer": 4, "adrian ramsay": 4,
-    "yvette cooper": 4, "david lammy": 4, "pat mcfadden": 4, "shabana mahmood": 4,
-    "wes streeting": 4, "john healey": 4,
-    "brexit": 4, "pound sterling": 4, "great british": 4, "oxford": 4, "cambridge": 4,
-    "village": 2, "county": 2, "borough": 2, "railway": 2,
-    "prime minister": 3, "chancellor": 3, "home secretary": 3, "a-levels": 3, "gcse": 3,
-    "council tax": 3, "energy price cap": 3, "high street": 3, "pub": 3, "motorway": 3,
-    "council": 3, "home office": 3, "raducanu": 4, "councillor": 3, "hospital": 2,
-    "morrisons": 4, "co-op": 4, "iceland": 4, "whole foods": 4,
-    "sainsbury's": 4, "tesco": 4, "asda": 4, "marks and spencer": 4, "waitrose": 4,
-    "borough market": 4, "portobello market": 4, "covent garden": 4,
-    "stonehenge": 4, "lake district": 4, "snowdonia": 4, "giant's causeway": 4,
-    "hadrian's wall": 4, "edinburgh festival": 4, "notting hill carnival": 4,
-    "british airways": 4, "easyjet": 4, "ryanair": 4, "heathrow": 4, "gatwick": 4,
-    "london underground": 4, "tube": 4, "national rail": 4,
-    "stormont": 4, "senedd": 4, "holyrood": 4,
-    "sterling": 3, "british isles": 3, "english channel": 3, "north sea": 3,
-    "channel tunnel": 3, "eurostar": 3, "ferry": 3, "dover": 3, "calais": 3,
-    "ireland": -1, "republic of ireland": -2
-}
-NEGATIVE_KEYWORDS = {
-    "washington": -3, "washington dc": -3, "houston": -3, "arlington": -3, "charleston": -3, "newton": -3, "clinton": -3, "hampton": -3, "burlington": -3,
-    "congress": -3, "senate": -3, "white house": -3, "capitol hill": -3,
-    "california": -3, "texas": -3, "new york": -3, "los angeles": -3, "chicago": -3,
-    "florida": -3, "boston": -3, "miami": -3, "san francisco": -3, "seattle": -3,
-    "fbi": -3, "cia": -3, "pentagon": -3, "supreme court": -3, "biden": -3, "trump": -3,
-    "kamala harris": -3, "jd vance": -3,
-    "super bowl": -3, "nfl": -3, "nba": -3, "wall street": -3,
-    "potus": -3, "scotus": -3, "arizona": -3, "nevada": -3, "georgia": -3,
-    "emmanuel macron": -2, "marine le pen": -2, "elysee": -2, "french parliament": -2,
-    "olaf scholz": -2, "bundestag": -2,
-    "vladimir putin": -2, "kremlin": -2,
-    "xi jinping": -2, "ccp": -2,
-    "narendra modi": -2, "lok sabha": -2,
-    "justin trudeau": -2, "ottawa": -2,
-    "anthony albanese": -2, "canberra": -2,
-    "france": -2, "germany": -2, "china": -2, "russia": -2, "india": -2,
-    "australia": -2, "canada": -2, "japan": -2, "brazil": -2, "south africa": -2,
-    "paris": -2, "berlin": -2, "tokyo": -2, "sydney": -2, "toronto": -2,
-    "nato": -2, "united nations": -2, "olympics": -2, "world cup": -2,
-    "brussels": -2, "rome": -2, "madrid": -2, "beijing": -2, "moscow": -2, "new delhi": -2,
-    "us open": -10, "mixed doubles": -5, "tennis tournament": -3,
-    "mattress": -5, "back pain": -3, "best mattresses": -10,
-    "celebrity": -4, "gossip": -5, "hollywood": -3,
-    "alabama": -3, "alaska": -3, "arkansas": -3, "colorado": -3, "connecticut": -3,
-    "delaware": -3, "hawaii": -3, "idaho": -3, "illinois": -3, "indiana": -3,
-    "iowa": -3, "kansas": -3, "kentucky": -3, "louisiana": -3, "maine": -3,
-    "maryland": -3, "massachusetts": -3, "michigan": -3, "minnesota": -3, "mississippi": -3,
-    "missouri": -3, "montana": -3, "nebraska": -3, "new hampshire": -3, "new jersey": -3,
-    "new mexico": -3, "north carolina": -3, "north dakota": -3, "ohio": -3, "oklahoma": -3,
-    "oregon": -3, "pennsylvania": -3, "rhode island": -3, "south carolina": -3, "south dakota": -3,
-    "tennessee": -3, "utah": -3, "vermont": -3, "virginia": -3, "west virginia": -3,
-    "wisconsin": -3, "wyoming": -3
-}
-strong_uk_keywords = [
-    "uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland",
-    "london", "manchester", "birmingham", "glasgow", "edinburgh", "cardiff", "belfast",
-    "liverpool", "leeds", "bristol", "newcastle", "sheffield", "nottingham", "brighton",
-    "southampton", "plymouth", "hull", "derby", "oxford", "cambridge"
-]
-
-def calculate_uk_relevance_score(text, url=""):
-    score = 0
-    positive_sum = 0
-    negative_sum = 0
-    matched_keywords = {}
-    text_lower = text.lower()
-    for keyword, weight in UK_KEYWORDS.items():
-        count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text_lower))
-        if count > 0:
-            score += weight * count
-            positive_sum += weight * count
-            matched_keywords[keyword] = count
-    for keyword, weight in NEGATIVE_KEYWORDS.items():
-        count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text_lower))
-        if count > 0:
-            score += weight * count
-            negative_sum += weight * count
-            matched_keywords[f"negative:{keyword}"] = count
-    placenames = re.findall(r'\b(\w+(shire|ford|ton|ham|bridge|cester))\b', text_lower)
-    placenames += re.findall(r'\b(\w+\s+\w+(shire|ford|ton|ham|bridge|cester))\b', text_lower)
-    negative_keys = set(k.lower() for k in NEGATIVE_KEYWORDS)
-    for pn in set(placenames):
-        pn_lower = pn[0].lower()
-        if pn_lower in negative_keys:
-            continue
-        if pn_lower not in UK_KEYWORDS:
-            count = len(re.findall(r'\b' + re.escape(pn_lower) + r'\b', text_lower))
-            score += 2 * count
-            positive_sum += 2 * count
-            matched_keywords[pn_lower] = count
-    postcodes = re.findall(r'\b([a-z]{1,2}\d{1,2}[a-z]?\s*\d[a-z]{2})\b', text_lower)
-    for pc in set(postcodes):
-        pc_upper = pc[0].upper().replace(' ', '')
-        count = len(re.findall(re.escape(pc[0]), text_lower))
-        score += 2 * count
-        positive_sum += 2 * count
-        matched_keywords[pc_upper] = count
-    return score, matched_keywords, positive_sum, negative_sum
-
-def get_relevance_level(score, matched_keywords):
-    has_strong_uk = any(kw in matched_keywords for kw in strong_uk_keywords)
-    if score >= 12:
-        level = "Very High"
-    elif score >= 8 or has_strong_uk:
-        level = "High"
-    elif score >= 5:
-        level = "Medium"
-    elif score >= 3:
-        level = "Low"
-    else:
-        level = "Very Low"
-    return level
 
 def is_promotional(entry):
-    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
-    if "offer" in combined:
-        if any(kw in combined for kw in ["government", "nhs", "pay", "policy", "public sector"]):
-            return False
+    combined = html.unescape(getattr(entry, 'title', '') + " " + getattr(entry, 'summary', '')).lower()
+    if "offer" in combined and any(kw in combined for kw in ["government", "nhs", "policy", "public sector"]):
+        return False
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
 
 def is_opinion(entry):
-    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    combined = html.unescape(getattr(entry, 'title', '') + " " + getattr(entry, 'summary', '')).lower()
     return any(kw in combined for kw in OPINION_KEYWORDS)
 
 def is_irrelevant_fluff(entry):
-    combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
+    combined = html.unescape(getattr(entry, 'title', '') + " " + getattr(entry, 'summary', '')).lower()
     return any(kw in combined for kw in IRRELEVANT_KEYWORDS)
 
 def is_sports_preview(text):
-    text_lower = text.lower()
-    has_preview = any(kw in text_lower for kw in SPORTS_PREVIEW_KEYWORDS)
-    result_keywords = ["won", "wins", "winner", "defeated", "beat", "victory", "champion", "result", "defeats", "beats", "crowned", "triumphs", "claims title"]
-    has_result = any(kw in text_lower for kw in result_keywords)
-    if has_preview and not has_result:
-        return True
-    return False
+    t = text.lower()
+    has_preview = any(kw in t for kw in SPORTS_PREVIEW_KEYWORDS)
+    result_keywords = ["won", "wins", "winner", "defeated", "beat", "victory", "champion", "result", "defeats", "beats", "crowned"]
+    has_result = any(kw in t for kw in result_keywords)
+    return has_preview and not has_result
 
-CATEGORY_KEYWORDS = {
-    "Politics": ["politics", "parliament", "government", "election", "policy", "minister", "mp", "prime minister", "brexit", "eu", "tory", "labour", "bill", "debate", "vote", "opposition", "party", "manifesto", "legislation", "budget", "cabinet"],
-    "Immigration": ["immigration", "immigrant", "asylum", "refugee", "migrant", "border control", "visa", "deportation", "home office", "rwanda", "channel crossing", "migration policy"],
-    "Trade and Diplomacy": ["trade", "diplomacy", "diplomatic", "ambassador", "summit", "bilateral", "multilateral", "agreement", "pact", "negotiation", "tariff", "export", "import", "foreign secretary", "embassy", "treaty"],
-    "Economy": ["economy", "budget", "inflation", "gdp", "recession", "bank of england", "chancellor", "cost of living", "company", "retail", "business", "stores", "closure", "investment", "market", "unemployment", "tax", "sterling"],
-    "Crime & Legal": ["crime", "police", "court", "legal", "arrest", "trial", "investigation", "prosecution", "murder", "killing", "death", "stabbed", "shot", "shooting", "assault", "attack", "robbery", "burglary", "theft", "fraud", "drugs", "knife crime", "gun crime", "arrested", "charged", "sentenced", "jailed", "prison", "offender", "victim", "metropolitan police", "suspect", "injured", "conviction", "bail"],
-    "Royals": ["royal", "monarchy", "king", "queen", "prince", "princess", "palace", "crown", "royal family", "succession"],
-    "Sport": ["sport", "football", "cricket", "tennis", "olympics", "match", "game", "tournament", "rugby", "formula 1", "premier league", "wimbledon", "athletics", "boxing", "mma", "ufc", "wrestling"],
-    "Culture": ["culture", "art", "music", "film", "theatre", "festival", "book", "literary", "concert", "album", "movie", "series", "tv show", "drama", "comedy", "museum", "gallery", "glastonbury", "exhibition", "heritage"],
-    "National Newspapers Front Pages": ["front page", "headlines", "newspaper", "today's papers", "daily mail", "guardian", "times", "telegraph", "mirror", "sun", "express", "ft", "financial times"],
-    "Notable International": ["international", "world", "global", "nasa", "space", "moon", "planet", "earth", "foreign", "un", "internationally", "science", "climate", "global summit"]
+# ---------------- UK RELEVANCE ----------------
+UK_KEYWORDS = {
+    "united kingdom": 6, "uk": 5, "britain": 5,
+    "parliament": 6, "westminster": 6, "downing street": 6,
+    "prime minister": 6, "home office": 5, "nhs": 5,
+    "court": 4, "charged": 4, "sentenced": 4, "arrested": 4,
+    "police": 4, "met police": 4, "network rail": 3
 }
-specific_categories = list(CATEGORY_KEYWORDS.keys()) + ["Notable International"]
-priority_order = ["Crime & Legal", "Politics", "Economy", "Immigration", "Trade and Diplomacy", "Royals", "Sport", "Culture", "National Newspapers Front Pages", "Notable International"]
+NEGATIVE_KEYWORDS = {
+    "washington": -3, "biden": -3, "trump": -3, "us": -3, "america": -3,
+    "australia": -2, "canada": -2
+}
+strong_uk_keywords = ["uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland", "parliament", "prime minister"]
 
-def get_category(full_combined, full_text):
-    text = html.unescape(full_text).lower()
-    matched_cats = {}
-    for cat, keywords in CATEGORY_KEYWORDS.items():
-        cat_matched = {}
-        for keyword in keywords:
-            count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text))
-            if count > 0:
-                cat_matched[keyword] = count
-        if cat_matched:
-            matched_cats[cat] = cat_matched
-    uk_score, uk_matched_keywords, positive_sum, negative_sum = calculate_uk_relevance_score(full_combined)
-    if not matched_cats:
-        return "Notable International", {}, {}, [], {}, uk_score, uk_matched_keywords, positive_sum, negative_sum
-    cat_scores = {cat: sum(matched.values()) for cat, matched in matched_cats.items()}
-    max_score = max(cat_scores.values())
-    candidates = [cat for cat, score in cat_scores.items() if score == max_score]
-    chosen_cat = min(candidates, key=lambda c: priority_order.index(c) if c in priority_order else len(priority_order))
-    has_foreign = any('negative:' in k for k in uk_matched_keywords)
-    has_strong_uk = any(k in uk_matched_keywords for k in strong_uk_keywords)
-    if chosen_cat == "Politics" and has_foreign and not has_strong_uk:
-        chosen_cat = "Notable International"
-    if chosen_cat == "Crime & Legal" and any(si in full_combined for si in ["boxing", "mma", "ufc", "wrestling", "fight", "bout"]) and not any(ci in full_combined for ci in ["police", "arrest", "charged", "court", "trial", "prosecution", "suspect"]):
-        chosen_cat = "Sport"
-    cat_keywords = matched_cats.get(chosen_cat, {})
-    all_matched_keywords = {kw: count for matched in matched_cats.values() for kw, count in matched.items()}
-    all_matched_cats = list(matched_cats.keys())
-    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, uk_score, uk_matched_keywords, positive_sum, negative_sum
+def calculate_uk_relevance_score(text):
+    score = 0
+    matched = {}
+    tl = text.lower()
+    for kw, w in UK_KEYWORDS.items():
+        c = len(re.findall(r'\b' + re.escape(kw) + r'\b', tl))
+        if c:
+            score += w * c
+            matched[kw] = c
+    for kw, w in NEGATIVE_KEYWORDS.items():
+        c = len(re.findall(r'\b' + re.escape(kw) + r'\b', tl))
+        if c:
+            score += w * c
+            matched[f"negative:{kw}"] = c
+    # simple placename heuristic - treat a 'shire' like 'someshire' as positive if not in negative keys
+    placenames = re.findall(r'\b(\w+(shire|ton|ham|bridge|ford))\b', tl)
+    for pn in set(placenames):
+        name = pn[0].lower()
+        if name not in matched and f"negative:{name}" not in matched:
+            count = len(re.findall(r'\b' + re.escape(name) + r'\b', tl))
+            if count:
+                score += 2 * count
+                matched[name] = count
+    return score, matched
 
+def get_relevance_level(score, matched_keywords):
+    has_strong = any(k in matched_keywords for k in strong_uk_keywords)
+    if score >= 12:
+        return "Very High"
+    if score >= 8 or has_strong:
+        return "High"
+    if score >= 5:
+        return "Medium"
+    if score >= 3:
+        return "Low"
+    return "Very Low"
+
+# ---------------- CATEGORISATION & FLAIRS ----------------
+CATEGORY_KEYWORDS = {
+    "Politics": ["politics", "parliament", "government", "election", "minister", "mp", "prime minister", "brexit"],
+    "Crime & Legal": ["crime", "police", "court", "arrest", "trial", "charged", "sentenced", "murder"],
+    "Sport": ["sport", "football", "cricket", "match", "won", "defeated", "beat", "injured"],
+    "Culture": ["culture", "museum", "festival", "exhibition", "book", "film", "theatre"],
+    "Economy": ["economy", "budget", "inflation", "bank of england", "chancellor"],
+    "Immigration": ["immigration", "asylum", "refugee", "migrant", "home office"]
+}
 FLAIR_MAPPING = {
     "Politics": "Politics",
-    "Culture": "Culture",
-    "Sport": "Sport",
     "Crime & Legal": "Crime & Legal",
-    "Royals": "Royals",
-    "Immigration": "Immigration",
+    "Sport": "Sport",
+    "Culture": "Culture",
     "Economy": "Economy",
-    "Notable International": "Notable International News🌍",
-    "National Newspapers Front Pages": "National Newspapers Front Pages",
-    "Trade and Diplomacy": "Trade and Diplomacy"
+    "Immigration": "Immigration",
+    "Notable International": "Notable International News🌍"
 }
+priority_order = ["Crime & Legal", "Politics", "Economy", "Immigration", "Sport", "Culture"]
 
-DEFAULT_UK_THRESHOLD = 5
-CATEGORY_THRESHOLDS = {
-    "Sport": 10,
-    "Royals": 8,
-    "Notable International": 15,
-    "Economy": 4,
-    "Politics": 6,
-    "Crime & Legal": 5,
-    "Immigration": 6,
-    "Trade and Diplomacy": 6
-}
+def get_category(combined_text, full_text):
+    t = full_text.lower()
+    matched = {}
+    for cat, kws in CATEGORY_KEYWORDS.items():
+        counts = {}
+        for kw in kws:
+            c = len(re.findall(r'\b' + re.escape(kw) + r'\b', t))
+            if c:
+                counts[kw] = c
+        if counts:
+            matched[cat] = counts
+    score, matched_uk = calculate_uk_relevance_score(combined_text)
+    if not matched:
+        return "Notable International", {}, {}, [], {}, score, matched_uk
+    cat_scores = {cat: sum(m.values()) for cat, m in matched.items()}
+    max_score = max(cat_scores.values())
+    candidates = [cat for cat, s in cat_scores.items() if s == max_score]
+    chosen = min(candidates, key=lambda c: priority_order.index(c) if c in priority_order else len(priority_order))
+    # special-case: if Politics content looks foreign and no strong UK term, downgrade
+    has_foreign = any(k.startswith("negative:") for k in matched_uk)
+    has_strong_uk = any(k in matched_uk for k in strong_uk_keywords)
+    if chosen == "Politics" and has_foreign and not has_strong_uk:
+        chosen = "Notable International"
+    return chosen, matched.get(chosen, {}), {kw: ct for m in matched.values() for kw, ct in m.items()}, list(matched.keys()), matched, score, matched_uk
 
+# ---------------- LOG HELPERS ----------------
 def log_rejected(source, entry, reason):
-    timestamp = datetime.now(timezone.utc).isoformat()
-    title = get_post_title(entry)
-    message = f"[REJECTED] {timestamp} | {source} | {title} | {reason}"
-    logger.warning("\033[31m" + message + "\033[0m")
+    ts = datetime.now(timezone.utc).isoformat()
+    title = getattr(entry, 'title', 'N/A')
+    logger.warning(f"[REJECTED] {ts} | {source} | {title} | {reason}")
 
 def log_posted(source, entry, score, category, level, matched_keywords):
-    timestamp = datetime.now(timezone.utc).isoformat()
-    title = get_post_title(entry)
-    top_kw = ', '.join([f"{k.upper()} ({v})" for k,v in sorted({k: v for k,v in matched_keywords.items() if not k.startswith("negative:")}.items(), key=lambda x: -x[1])[:3]])
+    ts = datetime.now(timezone.utc).isoformat()
+    title = getattr(entry, 'title', 'N/A')
+    top_kw = ', '.join([f"{k.upper()} ({v})" for k, v in sorted({k: v for k, v in matched_keywords.items() if not k.startswith('negative:')}.items(), key=lambda x: -x[1])[:3]])
     reason = f"Passed with {level} relevance, score: {score}, keywords: {top_kw}"
-    message = f"[POSTED] {timestamp} | {source} | {title} | {score} | {category} | {reason}"
-    logger.info("\033[32m" + message + "\033[0m")
+    logger.info(f"[POSTED] {ts} | {source} | {title} | {score} | {category} | {reason}")
 
 def log_error(source, entry, error_msg):
-    timestamp = datetime.now(timezone.utc).isoformat()
-    title = get_post_title(entry) if entry else "N/A"
-    message = f"[ERROR] {timestamp} | {source} | {title} | {error_msg}"
-    logger.error("\033[31m" + message + "\033[0m")
+    ts = datetime.now(timezone.utc).isoformat()
+    title = getattr(entry, 'title', 'N/A') if entry else "N/A"
+    logger.error(f"[ERROR] {ts} | {source} | {title} | {error_msg}")
 
+# ---------------- REDDIT POST + FIRST REPLY ----------------
 def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, retries=3, base_delay=10):
     flair_text = FLAIR_MAPPING.get(category, "Notable International News🌍")
     flair_id = None
     try:
         for flair in subreddit.flair.link_templates:
-            if flair['text'] == flair_text:
-                flair_id = flair['id']
+            if flair.get('text') == flair_text:
+                flair_id = flair.get('id')
                 break
     except Exception as e:
         log_error("", entry, f"Failed to fetch flairs: {e}")
 
-    cat_scores = {cat: sum(matched_cats.get(cat, {}).values()) for cat in all_matched_cats}
-    total_score = sum(cat_scores.values()) or 1
+    # compute category assignment confidence as fraction of matched keywords for chosen category
+    cat_scores = {cat: sum(matched_cats.get(cat, {}).values()) for cat in all_matched_cats} if all_matched_cats else {}
+    total = sum(cat_scores.values()) or 1
     chosen_score = cat_scores.get(category, 0)
-    confidence = int(100 * chosen_score / total_score) if total_score > 0 else 50
+    confidence = int(100 * chosen_score / total) if total > 0 else 50
 
     for attempt in range(retries):
         try:
-            post_title = get_post_title(entry)
-            submission = subreddit.submit(
-                title=post_title,
-                url=entry.link,
-                flair_id=flair_id
-            )
-            logger.info("\033[32m" + f"Posted: {submission.shortlink}" + "\033[0m")
+            post_title = html.unescape(getattr(entry, 'title', ''))
+            submission = subreddit.submit(title=post_title, url=getattr(entry, 'link', None), flair_id=flair_id)
+            logger.info(f"Posted: {getattr(submission, 'shortlink', submission)}")
+
+            # build first reply
             reply_lines = []
             for para in paragraphs:
                 if para:
-                    reply_lines.append("> " + para[:200])
+                    short = para.strip()
+                    if len(short) > 200:
+                        short = short[:197] + "..."
+                    reply_lines.append("> " + short)
                     reply_lines.append("")
-            reply_lines.append(f"[Read more]({entry.link})")
+            # include Read more link
+            reply_lines.append(f"[Read more]({getattr(entry, 'link', '')})")
             reply_lines.append("")
+            # UK relevance summary
             reply_lines.append("**UK Relevance**")
-            sorted_uk_keywords = sorted(
-                [(kw, count) for kw, count in matched_keywords.items() if not kw.startswith("negative:")],
-                key=lambda x: -x[1]
-            )[:3]
-            if sorted_uk_keywords:
+            sorted_uk = sorted([(kw, count) for kw, count in matched_keywords.items() if not kw.startswith("negative:")], key=lambda x: -x[1])[:3]
+            if sorted_uk:
                 kw_parts = []
-                for kw, count in sorted_uk_keywords:
+                for kw, count in sorted_uk:
                     times_str = "time" if count == 1 else "times"
                     kw_parts.append(f"{kw.upper()} ({count} {times_str})")
                 if len(kw_parts) > 1:
-                    formatted_keywords = ", ".join(kw_parts[:-1]) + " and " + kw_parts[-1]
+                    formatted = ", ".join(kw_parts[:-1]) + " and " + kw_parts[-1]
                 else:
-                    formatted_keywords = kw_parts[0]
-                reply_lines.append(f"This article was posted because the system detected key UK-related terms such as {formatted_keywords}, which indicate that it fits the {flair_text} category and is likely of interest to a UK audience.")
+                    formatted = kw_parts[0]
+                reply_lines.append(f"This article was posted because the system detected key UK-related terms such as {formatted}, indicating it fits the {flair_text} category and is likely of interest to a UK audience.")
             reply_lines.append(f"Based on this assessment, the system automatically assigned the {flair_text} flair with {confidence}% confidence.")
-            reply_lines.append("This was automatically posted by the 2026.1.2 system.")
-            reply_lines.append("(For more information about how this works, please see the [subreddit wiki](https://www.reddit.com/r/BreakingUKNews/wiki/index/))")
+            reply_lines.append("This was automatically posted by the BreakingUKNews automation system.")
+            reply_lines.append("(For more information, see the subreddit wiki.)")
+
             full_reply = "\n".join(reply_lines)
-            submission.reply(full_reply)
+            try:
+                submission.reply(full_reply)
+            except Exception as e:
+                log_error("", entry, f"Failed to post first reply: {e}")
+
             add_to_dedup(entry)
             return True
         except praw.exceptions.RedditAPIException as e:
-            if "RATELIMIT" in str(e):
+            if "RATELIMIT" in str(e).upper():
                 delay = base_delay * (2 ** attempt)
                 log_error("", entry, f"Rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{retries})")
                 time.sleep(delay)
+                continue
             else:
                 log_error("", entry, f"Reddit API error: {e}")
                 return False
@@ -527,104 +422,144 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
     log_error("", entry, f"Failed to post after {retries} attempts")
     return False
 
+# ---------------- MAIN PROCESS ----------------
+def get_entry_published_datetime(entry):
+    for field in ['published', 'updated', 'created', 'date']:
+        if hasattr(entry, field):
+            try:
+                dt = dateparser.parse(getattr(entry, field))
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except (ValueError, ParserError):
+                continue
+    return None
+
 def main():
     TARGET_POSTS_PER_RUN = 7
-    INITIAL_ARTICLES = 30  # Increased to consider more candidates in wider window
+    INITIAL_ARTICLES = 30
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
-        "Telegraph": "https://www.telegraph.co.uk/rss.xml",
+        "Telegraph": "https://www.telegraph.co.uk/rss.xml"
     }
-    all_entries = []
+
     now = datetime.now(timezone.utc)
-    one_hour_ago = now - timedelta(minutes=60)  # Widened to 60 minutes to capture more breaking stories
+    one_hour_ago = now - timedelta(minutes=60)
+
+    all_entries = []
     for name, url in feed_sources.items():
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries:
                 published_dt = get_entry_published_datetime(entry)
+                # allow small future skew
                 if published_dt and one_hour_ago <= published_dt <= now + timedelta(minutes=5):
                     all_entries.append((name, entry, published_dt))
         except Exception as e:
             log_error(name, None, f"Error loading feed: {e}")
+
     logger.info(f"Found {len(all_entries)} entries published in the last 60 minutes.")
     all_entries.sort(key=lambda x: x[2], reverse=True)
+
     all_articles = []
-    category_counts = {cat: 0 for cat in specific_categories}
+    category_counts = {cat: 0 for cat in list(CATEGORY_KEYWORDS.keys()) + ["Notable International"]}
     winner_keywords = ["wins", "defeats", "beats", "victory", "champion", "winner", "crowned", "triumphs", "claims title"]
+
     for name, entry, published_dt in all_entries:
         if len(all_articles) >= INITIAL_ARTICLES:
             break
-        is_dup, reason = is_duplicate(entry)
-        if is_dup:
+
+        dup, reason = is_duplicate(entry)
+        if dup:
             log_rejected(name, entry, f"Duplicate: {reason}")
             continue
+
         if is_promotional(entry):
             log_rejected(name, entry, "Promotional content")
             continue
+
         if is_opinion(entry):
             log_rejected(name, entry, "Opinion piece")
             continue
+
         if is_irrelevant_fluff(entry):
             log_rejected(name, entry, "Irrelevant fluff")
             continue
+
         full_text = get_full_article_text(entry.link)
         if not full_text:
             log_rejected(name, entry, "Failed to fetch full text")
             continue
-        full_combined = html.unescape(entry.title + " " + getattr(entry, "summary", "") + " " + full_text).lower()
-        category, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, score, matched_keywords, positive_sum, negative_sum = get_category(full_combined, full_text)
+
+        full_combined = html.unescape(getattr(entry, 'title', '') + " " + getattr(entry, 'summary', '') + " " + full_text).lower()
+        category, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, score, matched_keywords = get_category(full_combined, full_text)
+
         if category == "Sport":
             if is_sports_preview(full_combined) or not any(kw in full_combined for kw in winner_keywords):
                 log_rejected(name, entry, "Sports preview or non-result")
                 continue
+
         has_uk_term = any(not k.startswith("negative:") for k in matched_keywords)
-        threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
+        threshold = 8 if category == "Culture" else {**{k: v for k, v in {**{}}.items()}, **{}} and 5  # conservative default
+        # Use CATEGORY_THRESHOLDS from earlier fuller code if defined, otherwise default
+        try:
+            threshold = globals().get('CATEGORY_THRESHOLDS', {}).get(category, 5)
+        except Exception:
+            threshold = 5
+
         if score < threshold or not has_uk_term:
             log_rejected(name, entry, f"Score {score} below threshold {threshold} or no UK terms")
             continue
+
         negative_matches = [k for k in matched_keywords if k.startswith("negative:")]
-        if negative_matches:
-            if -negative_sum > positive_sum * 0.5:
-                log_rejected(name, entry, "Foreign dominance")
-                continue
+        positive_sum = sum(v for k, v in matched_keywords.items() if not k.startswith("negative:"))
+        negative_sum = sum(v for k, v in matched_keywords.items() if k.startswith("negative:"))
+        if negative_matches and (-negative_sum) > positive_sum * 0.5:
+            log_rejected(name, entry, "Foreign dominance")
+            continue
+
         level = get_relevance_level(score, matched_keywords)
         if level not in ["High", "Very High"]:
-            log_rejected(name, entry, f"Relevance level {level} too low (requires High or Very High)")
+            log_rejected(name, entry, f"Relevance level {level} too low")
             continue
+
         paragraphs = extract_first_paragraphs(entry.link)
-        norm_title = normalize_title(get_post_title(entry))
+        norm_title = normalize_text(getattr(entry, 'title', ''))
+
         if category_counts.get(category, 0) < 3:
-            logger.info(f"Selected article: {get_post_title(entry)} | Score: {score} | Category: {category}")
+            logger.info(f"Selected article: {getattr(entry, 'title', '')} | Score: {score} | Category: {category}")
             all_articles.append((name, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, level))
             category_counts[category] = category_counts.get(category, 0) + 1
 
+    # second-stage dedup within selected candidates
     unique_articles = []
     seen_urls = set()
     seen_titles = set()
     seen_hashes = set()
+
     for article in all_articles:
         source, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, level = article
-        norm_link = normalize_url(entry.link)
-        content_hash = get_content_hash(entry)
-        is_dup = norm_link in seen_urls
-        if not is_dup and content_hash in seen_hashes:
-            is_dup = True
+        norm_link = normalize_url(getattr(entry, 'link', ''))
+        h = content_hash(getattr(entry, 'title', ''), getattr(entry, 'summary', ''))
+        is_dup = norm_link in seen_urls or h in seen_hashes
         if not is_dup:
             for st in seen_titles:
-                if jaccard_similarity(norm_title, st) > JACCARD_DUPLICATE_THRESHOLD:
+                if jaccard_similarity(norm_title, st) >= JACCARD_DUPLICATE_THRESHOLD:
                     is_dup = True
                     break
         if not is_dup:
             unique_articles.append(article)
             seen_urls.add(norm_link)
             seen_titles.add(norm_title)
-            seen_hashes.add(content_hash)
-    all_articles = unique_articles
+            seen_hashes.add(h)
 
+    all_articles = unique_articles
     all_articles.sort(key=lambda x: x[2], reverse=True)
+
     selected_for_posting = []
-    temp_category_counts = {cat: 0 for cat in specific_categories}
+    temp_category_counts = {cat: 0 for cat in list(CATEGORY_KEYWORDS.keys()) + ["Notable International"]}
+
     for article in all_articles:
         if len(selected_for_posting) >= TARGET_POSTS_PER_RUN:
             break
@@ -632,6 +567,7 @@ def main():
         if temp_category_counts.get(category, 0) < 3:
             selected_for_posting.append(article)
             temp_category_counts[category] += 1
+
     posts_made = 0
     skipped = 0
     for article in selected_for_posting:
@@ -643,9 +579,10 @@ def main():
         else:
             skipped += 1
         time.sleep(10)
+
     summary = f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}. Skipped {skipped}."
     if posts_made > 0:
-        logger.info("\033[32m" + summary + "\033[0m")
+        logger.info(summary)
     else:
         logger.info(summary)
 
