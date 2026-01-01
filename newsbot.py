@@ -46,7 +46,7 @@ try:
 except Exception as e:
     logger.error(f"Failed to initialize Reddit API: {e}")
     sys.exit(1)
-DEDUP_FILE = './posted_timestamps.txt'
+DEDUP_FILE = './posted_urls.txt'  # Updated file name for daily URL tracking
 FUZZY_DUPLICATE_THRESHOLD = 0.40
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
@@ -246,7 +246,16 @@ NEGATIVE_KEYWORDS = {
     "brussels": -2, "rome": -2, "madrid": -2, "beijing": -2, "moscow": -2, "new delhi": -2,
     "us open": -10, "mixed doubles": -5, "tennis tournament": -3,
     "mattress": -5, "back pain": -3, "best mattresses": -10,
-    "celebrity": -4, "gossip": -5, "hollywood": -3
+    "celebrity": -4, "gossip": -5, "hollywood": -3,
+    "alabama": -3, "alaska": -3, "arkansas": -3, "colorado": -3, "connecticut": -3,  # Added more US states for stricter foreign rejection
+    "delaware": -3, "hawaii": -3, "idaho": -3, "illinois": -3, "indiana": -3,
+    "iowa": -3, "kansas": -3, "kentucky": -3, "louisiana": -3, "maine": -3,
+    "maryland": -3, "massachusetts": -3, "michigan": -3, "minnesota": -3, "mississippi": -3,
+    "missouri": -3, "montana": -3, "nebraska": -3, "new hampshire": -3, "new jersey": -3,
+    "new mexico": -3, "north carolina": -3, "north dakota": -3, "ohio": -3, "oklahoma": -3,
+    "oregon": -3, "pennsylvania": -3, "rhode island": -3, "south carolina": -3, "south dakota": -3,
+    "tennessee": -3, "utah": -3, "vermont": -3, "virginia": -3, "west virginia": -3,
+    "wisconsin": -3, "wyoming": -3
 }
 strong_uk_keywords = [
     "uk", "britain", "united kingdom", "england", "scotland", "wales", "northern ireland",
@@ -255,39 +264,47 @@ strong_uk_keywords = [
     "southampton", "plymouth", "hull", "derby", "oxford", "cambridge"
 ]
 def calculate_uk_relevance_score(text, url=""):
+    # UK relevance determination process: Calculate weighted score from UK keywords (positive) and foreign/negative keywords (subtract). 
+    # Placenames, postcodes add positive points. Return total score, matched keywords, positive sum, and negative sum for dominance checks.
     score = 0
+    positive_sum = 0
+    negative_sum = 0
     matched_keywords = {}
     text_lower = text.lower()
-    negative_keys = set(k.lower() for k in NEGATIVE_KEYWORDS)
     for keyword, weight in UK_KEYWORDS.items():
         count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text_lower))
         if count > 0:
             score += weight * count
+            positive_sum += weight * count
             matched_keywords[keyword] = count
     for keyword, weight in NEGATIVE_KEYWORDS.items():
         count = len(re.findall(r'\b' + re.escape(keyword) + r'\b', text_lower))
         if count > 0:
             score += weight * count
+            negative_sum += weight * count
             matched_keywords[f"negative:{keyword}"] = count
     # Single word places
     placenames = re.findall(r'\b(\w+(shire|ford|ton|ham|bridge|cester))\b', text_lower)
     # Multi word places
     placenames += re.findall(r'\b(\w+\s+\w+(shire|ford|ton|ham|bridge|cester))\b', text_lower)
-    for pn in placenames:
+    negative_keys = set(k.lower() for k in NEGATIVE_KEYWORDS)
+    for pn in set(placenames):  # Use set for unique
         pn_lower = pn[0].lower()
         if pn_lower in negative_keys:
             continue
         if pn_lower not in UK_KEYWORDS:
             count = len(re.findall(r'\b' + re.escape(pn_lower) + r'\b', text_lower))
             score += 2 * count
+            positive_sum += 2 * count
             matched_keywords[pn_lower] = count
     postcodes = re.findall(r'\b([a-z]{1,2}\d{1,2}[a-z]?\s*\d[a-z]{2})\b', text_lower)
-    for pc in postcodes:
-        pc_upper = pc.upper().replace(' ', '')
-        count = len(re.findall(re.escape(pc), text_lower))
+    for pc in set(postcodes):
+        pc_upper = pc[0].upper().replace(' ', '')
+        count = len(re.findall(re.escape(pc[0]), text_lower))
         score += 2 * count
+        positive_sum += 2 * count
         matched_keywords[pc_upper] = count
-    return score, matched_keywords
+    return score, matched_keywords, positive_sum, negative_sum
 def get_relevance_level(score, matched_keywords):
     has_strong_uk = any(kw in matched_keywords for kw in strong_uk_keywords)
     if score >= 10:
@@ -346,9 +363,9 @@ def get_category(full_combined, full_text):
                 cat_matched[keyword] = count
         if cat_matched:
             matched_cats[cat] = cat_matched
-    uk_score, uk_matched_keywords = calculate_uk_relevance_score(full_combined)
+    uk_score, uk_matched_keywords, positive_sum, negative_sum = calculate_uk_relevance_score(full_combined)
     if not matched_cats:
-        return "Notable International", {}, {}, [], {}, uk_score, uk_matched_keywords
+        return "Notable International", {}, {}, [], {}, uk_score, uk_matched_keywords, positive_sum, negative_sum
     cat_scores = {cat: sum(matched.values()) for cat, matched in matched_cats.items()}
     max_score = max(cat_scores.values())
     candidates = [cat for cat, score in cat_scores.items() if score == max_score]
@@ -362,7 +379,7 @@ def get_category(full_combined, full_text):
     cat_keywords = matched_cats.get(chosen_cat, {})
     all_matched_keywords = {kw: count for matched in matched_cats.values() for kw, count in matched.items()}
     all_matched_cats = list(matched_cats.keys())
-    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, uk_score, uk_matched_keywords
+    return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, uk_score, uk_matched_keywords, positive_sum, negative_sum
 FLAIR_MAPPING = {
     "Politics": "Politics",
     "Culture": "Culture",
@@ -382,6 +399,23 @@ CATEGORY_THRESHOLDS = {
     "Notable International": 4,
     "Economy": 2
 }
+def log_rejected(source, entry, reason):
+    # Enhanced logging for rejected articles: timestamp, source, title, rejection reason.
+    timestamp = datetime.now(timezone.utc).isoformat()
+    title = get_post_title(entry)
+    logger.warning(f"[REJECTED] {timestamp} | {source} | {title} | {reason}")
+def log_posted(source, entry, score, category, level, matched_keywords):
+    # Enhanced logging for posted articles: timestamp, source, title, score, category, passing reason.
+    timestamp = datetime.now(timezone.utc).isoformat()
+    title = get_post_title(entry)
+    top_kw = ', '.join([f"{k.upper()} ({v})" for k,v in sorted({k: v for k,v in matched_keywords.items() if not k.startswith("negative:")}.items(), key=lambda x: -x[1])[:3]])
+    reason = f"Passed with {level} relevance, score: {score}, keywords: {top_kw}"
+    logger.info(f"[POSTED] {timestamp} | {source} | {title} | {score} | {category} | {reason}")
+def log_error(source, entry, error_msg):
+    # Enhanced logging for errors/retries: timestamp, source, title, error message.
+    timestamp = datetime.now(timezone.utc).isoformat()
+    title = get_post_title(entry) if entry else "N/A"
+    logger.error(f"[ERROR] {timestamp} | {source} | {title} | {error_msg}")
 def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, retries=3, base_delay=10):
     flair_text = FLAIR_MAPPING.get(category, "Notable International News🌍")
     flair_id = None
@@ -391,7 +425,7 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
                 flair_id = flair['id']
                 break
     except Exception as e:
-        logger.error(f"Failed to fetch flairs: {e}")
+        log_error("", entry, f"Failed to fetch flairs: {e}")
     cat_scores = {cat: sum(matched_cats.get(cat, {}).values()) for cat in all_matched_cats}
     total_score = sum(cat_scores.values()) or 1
     chosen_score = cat_scores.get(category, 0)
@@ -428,7 +462,7 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
                     formatted_keywords = kw_parts[0]
                 reply_lines.append(f"This article was posted because the system detected key UK-related terms such as {formatted_keywords}, which indicate that it fits the {flair_text} category and is likely of interest to a UK audience.")
             reply_lines.append(f"Based on this assessment, the system automatically assigned the {flair_text} flair with {confidence}% confidence.")
-            reply_lines.append("This was posted automatically.")
+            reply_lines.append("This was automatically posted by the 2026.1 system.")  # Updated comment to mention 2026.1 system
             reply_lines.append("(For more information about how this works, please see the [subreddit wiki](https://www.reddit.com/r/BreakingUKNews/wiki/index/))")
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
@@ -437,17 +471,19 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
         except praw.exceptions.RedditAPIException as e:
             if "RATELIMIT" in str(e):
                 delay = base_delay * (2 ** attempt)
-                logger.warning(f"Rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{retries})")
+                log_error("", entry, f"Rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{retries})")
                 time.sleep(delay)
             else:
-                logger.error(f"Reddit API error: {e}")
+                log_error("", entry, f"Reddit API error: {e}")
                 return False
         except Exception as e:
-            logger.error(f"Failed to post: {e}")
+            log_error("", entry, f"Failed to post: {e}")
             return False
-    logger.error(f"Failed to post after {retries} attempts")
+    log_error("", entry, f"Failed to post after {retries} attempts")
     return False
 def main():
+    # Daily tracking and logs enable troubleshooting/audits: posted_urls.txt retains timestamped entries for 7 days, allowing date-based auditing. 
+    # Logs use [POSTED], [REJECTED], [ERROR] prefixes for clear distinction and visibility.
     TARGET_POSTS_PER_RUN = 7
     INITIAL_ARTICLES = 10
     feed_sources = {
@@ -466,7 +502,7 @@ def main():
                 if published_dt and six_hours_ago <= published_dt <= now + timedelta(minutes=5):
                     all_entries.append((name, entry, published_dt))
         except Exception as e:
-            logger.error(f"Error loading feed {name}: {e}")
+            log_error(name, None, f"Error loading feed: {e}")
     all_entries.sort(key=lambda x: x[2], reverse=True)
     all_articles = []
     category_counts = {cat: 0 for cat in specific_categories}
@@ -476,49 +512,58 @@ def main():
             break
         is_dup, reason = is_duplicate(entry)
         if is_dup:
-            logger.info(f"Skipped duplicate article ({reason}): {get_post_title(entry)}")
+            log_rejected(name, entry, f"Duplicate: {reason}")
             continue
         if is_promotional(entry):
-            logger.info(f"Skipped promotional article: {get_post_title(entry)}")
+            log_rejected(name, entry, "Promotional content")
             continue
         if is_opinion(entry):
-            logger.info(f"Skipped opinion article: {get_post_title(entry)}")
+            log_rejected(name, entry, "Opinion piece")
             continue
         if is_irrelevant_fluff(entry):
-            logger.info(f"Skipped irrelevant fluff article: {get_post_title(entry)}")
+            log_rejected(name, entry, "Irrelevant fluff")
             continue
         full_text = get_full_article_text(entry.link)
         if not full_text:
-            logger.info(f"Article rejected: {get_post_title(entry)} (Reason: Failed to fetch full text)")
+            log_rejected(name, entry, "Failed to fetch full text")
             continue
         full_combined = html.unescape(entry.title + " " + getattr(entry, "summary", "") + " " + full_text).lower()
-        category, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, score, matched_keywords = get_category(full_combined, full_text)
+        category, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, score, matched_keywords, positive_sum, negative_sum = get_category(full_combined, full_text)
         if category == "Sport":
             if is_sports_preview(full_combined) or not any(kw in full_combined for kw in winner_keywords):
-                logger.info(f"Skipped sports article not about winner or preview: {get_post_title(entry)}")
+                log_rejected(name, entry, "Sports preview or non-result")
                 continue
         logger.info(f"Article: {get_post_title(entry)} | Relevance Score: {score} | Matched: {len(matched_keywords)} keys | Category: {category}")
         has_uk_term = any(not k.startswith("negative:") for k in matched_keywords)
         threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
         if score < threshold or not has_uk_term:
-            logger.info(f"Article rejected: {get_post_title(entry)} (Reason: Score {score} below threshold {threshold} or no UK terms)")
+            log_rejected(name, entry, f"Score {score} below threshold {threshold} or no UK terms")
             continue
+        has_strong_uk = any(kw in matched_keywords for kw in strong_uk_keywords)
+        negative_matches = [k for k in matched_keywords if k.startswith("negative:")]
+        if negative_matches:
+            if -negative_sum > positive_sum * 0.5:
+                log_rejected(name, entry, "Foreign dominance")  # Rejection of foreign-dominant articles: If negative impact > 50% of positive, reject.
+                continue
+            if not has_strong_uk:
+                log_rejected(name, entry, "Incidental UK mention")
+                continue
         level = get_relevance_level(score, matched_keywords)
-        if level in ["Low", "Very Low"]:
-            logger.info(f"Article rejected: {get_post_title(entry)} (Reason: Low relevance level {level})")
+        if level not in ["High", "Very High"]:
+            log_rejected(name, entry, f"Relevance level {level} too low (requires High or Very High for dominant UK relevance)")
             continue
         paragraphs = extract_first_paragraphs(entry.link)
         norm_title = normalize_title(get_post_title(entry))
         if category_counts.get(category, 0) < 3:
             logger.info(f"Selected article: {get_post_title(entry)} | Score: {score} | Category: {category}")
-            all_articles.append((name, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats))
+            all_articles.append((name, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, level))
             category_counts[category] = category_counts.get(category, 0) + 1
     unique_articles = []
     seen_urls = set()
     seen_titles = set()
     seen_hashes = set()
     for article in all_articles:
-        source, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats = article
+        source, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, level = article
         norm_link = normalize_url(entry.link)
         content_hash = get_content_hash(entry)
         is_dup = norm_link in seen_urls
@@ -541,20 +586,19 @@ def main():
     for article in all_articles:
         if len(selected_for_posting) >= TARGET_POSTS_PER_RUN:
             break
-        source, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats = article
+        source, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, level = article
         if temp_category_counts.get(category, 0) < 3:
             selected_for_posting.append(article)
             temp_category_counts[category] += 1
     posts_made = 0
     skipped = 0
     for article in selected_for_posting:
-        source, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats = article
+        source, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, level = article
         success = post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats)
         if success:
-            logger.info(f"Successfully posted from {source}: {get_post_title(entry)}")
+            log_posted(source, entry, score, category, level, matched_keywords)
             posts_made += 1
         else:
-            logger.error(f"Failed to post an article from {source}: {get_post_title(entry)}")
             skipped += 1
         time.sleep(10)
     logger.info(f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}. Skipped {skipped}.")
