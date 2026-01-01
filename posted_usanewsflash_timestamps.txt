@@ -9212,3 +9212,4 @@
 2026-01-01T11:23:09.622599+00:00|https://www.nytimes.com/2026/01/01/business/cinema-hollywood-2025-ticket-sales.html|repeat moviegoers help hollywood eke out a slightly better 2025 us news|d33f19bedefa28b0b2d654640dda3a0f
 2026-01-01T11:23:10.263214+00:00|https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html|even the sky may not be the limit for ai data centers us news|7b03f69237262859887bc743b88b13b9
 2026-01-01T11:57:32.243208+00:00|https://www.nytimes.com/2026/01/01/briefing/hope-in-a-time-of-cynicism.html|hope in a time of cynicism us news|41d3b05b6a3f077b97ebe3af4c4d2411
+2026-01-01T12:53:57.822156+00:00|https://www.nbcnews.com/now/video/dozens-feared-dead-after-fire-at-swiss-ski-resort-bar-255257157911|dozens presumed dead after fire rips through swiss ski resort bar us news|54feeebe90ab3eacb5188737246b83ef
