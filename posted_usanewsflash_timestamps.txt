@@ -9220,3 +9220,6 @@
 2026-01-01T19:00:21.805752+00:00|https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html|iran protests turn deadly as violence and anger spread us news|37b29e0fa65983eec54d186305d57158
 2026-01-01T19:00:22.492057+00:00|https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html|swiss alps ski resort fire what we know us news|fc35df0ee58dd66fab65704117dc1ae9
 2026-01-01T19:41:02.898029+00:00|https://www.nbcnews.com/now/video/about-40-people-killed-in-swiss-alps-resort-fire-255266885772|about 40 people killed in swiss alps resort fire us news|bfd0d0e48255554285efca58b2e3a527
+2026-01-01T21:24:43.140154+00:00|https://abcnews.go.com/Politics/trump-ct-mri/story|trump says he got a ct scan instead of an mri us news|b553476b3430b1cb9e6dff3497794d09
+2026-01-01T21:24:43.631526+00:00|https://www.nbcnews.com/video/mayor-zohran-mamdani-hosts-inauguration-in-new-york-city-255268421851|mayor zohran mamdani hosts inauguration in new york city us news|5625b2c7a6cfa50ba202042cc8f29909
+2026-01-01T21:24:44.130114+00:00|https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-speech-transcript.html|the full transcript of zohran mamdanis inauguration speech us news|df06c6eff5658fcb7af8099883c022b5
