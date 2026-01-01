@@ -9201,3 +9201,5 @@
 2026-01-01T04:01:24.845296+00:00|https://www.nytimes.com/2025/12/31/nyregion/mamdani-mayor-swearing-in.html|the countdown begins new york city awaits mayor mamdani us news|81b42e611c60bc891c57865284c2387e
 2026-01-01T05:17:33.945488+00:00|https://www.nbcnews.com/politics/politics-news/zohran-mamdani-sworn-new-york-city-mayor-rcna247683|zohran mamdani sworn in as new york city mayor as he seeks to advance his progressive agenda us news|758a146c0ad5a87cd55312b5f433fdaf
 2026-01-01T05:17:34.739093+00:00|https://www.nbcnews.com/world/europe/us-finds-ukraine-not-target-putin-residence-alleged-drone-strike-sourc-rcna251776|us finds ukraine did not try to kill putin in alleged drone strike source says us news|928eb0ea28cf0dadc0c74966bc166417
+2026-01-01T07:11:47.033773+00:00|https://www.bbc.com/news/videos/c4glvg5yrlyo|zohran mamdani sworn in as first muslim new york city mayor us news|f784fc617ea06baadb30aa6fb20b377c
+2026-01-01T07:11:47.535812+00:00|https://www.nytimes.com/2026/01/01/nyregion/mamdani-transportation-commissioner-mike-flynn.html|mamdani names transit chief whose mandate is to improve bus service us news|e48e47ba8c16f4afd9ebe8eccf27f9c6
