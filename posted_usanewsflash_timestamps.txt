@@ -9223,3 +9223,4 @@
 2026-01-01T21:24:43.140154+00:00|https://abcnews.go.com/Politics/trump-ct-mri/story|trump says he got a ct scan instead of an mri us news|b553476b3430b1cb9e6dff3497794d09
 2026-01-01T21:24:43.631526+00:00|https://www.nbcnews.com/video/mayor-zohran-mamdani-hosts-inauguration-in-new-york-city-255268421851|mayor zohran mamdani hosts inauguration in new york city us news|5625b2c7a6cfa50ba202042cc8f29909
 2026-01-01T21:24:44.130114+00:00|https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-speech-transcript.html|the full transcript of zohran mamdanis inauguration speech us news|df06c6eff5658fcb7af8099883c022b5
+2026-01-01T21:57:29.531909+00:00|https://www.nbcnews.com/video/shorts/zohran-mamdani-inaugurated-at-new-york-city-hall-255273029786|zohran mamdani inaugurated at new york city hall us news|dab6e210f57b22e1bc4cb6e692dd14ef
