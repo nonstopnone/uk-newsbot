@@ -51,14 +51,13 @@ except Exception as e:
     sys.exit(1)
 
 DEDUP_FILE = './posted_urls.txt'
-JACCARD_DUPLICATE_THRESHOLD = 0.55  # Lower = more aggressive deduplication (catches more paraphrased titles); higher = fewer false positives
+JACCARD_DUPLICATE_THRESHOLD = 0.50  # Lowered to catch more paraphrased/similar titles
 
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
 
 def normalize_text(text):
-    """Normalize text: unescape HTML, remove punctuation (keep currency), collapse spaces, lowercase."""
     text = html.unescape(text)
     text = re.sub(r'[^\w\s£$€]', '', text)
     text = re.sub(r'\s+', ' ', text).strip().lower()
@@ -71,14 +70,12 @@ def get_post_title(entry):
     return html.unescape(entry.title).strip()
 
 def get_content_hash(entry):
-    """Generate MD5 hash from normalized title + full summary for robust content-based duplicate detection."""
     title_norm = normalize_text(entry.title)
     summary_norm = normalize_text(getattr(entry, "summary", ""))
     content = title_norm + " " + summary_norm
     return hashlib.md5(content.encode('utf-8')).hexdigest()
 
 def jaccard_similarity(a, b):
-    """Jaccard similarity on word sets – effective for detecting same story with paraphrased titles."""
     words_a = set(a.split())
     words_b = set(b.split())
     intersection = words_a.intersection(words_b)
@@ -86,7 +83,6 @@ def jaccard_similarity(a, b):
     return len(intersection) / len(union) if union else 0.0
 
 def load_dedup(filename=DEDUP_FILE):
-    """Load persistent deduplication data (URLs, titles, hashes) from file, retaining only entries from the last 7 days."""
     urls, titles, hashes = set(), set(), set()
     cleaned_lines = []
     seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
@@ -116,7 +112,6 @@ def load_dedup(filename=DEDUP_FILE):
 posted_urls, posted_titles, posted_hashes = load_dedup()
 
 def is_duplicate(entry):
-    """Check if entry is a duplicate: exact normalized URL, content hash, or high Jaccard title similarity (persistent across runs)."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
@@ -131,7 +126,6 @@ def is_duplicate(entry):
     return False, ""
 
 def add_to_dedup(entry):
-    """Add successfully posted entry to persistent dedup file and in-memory sets."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
@@ -220,6 +214,7 @@ SPORTS_PREVIEW_KEYWORDS = [
     "boxing match", "fight night", "upcoming fight", "bout", "weigh-in", "fight card",
     "preview", "prediction", "odds", "betting"
 ]
+
 UK_KEYWORDS = {
     "london": 4, "parliament": 4, "westminster": 4, "downing street": 4, "buckingham palace": 4,
     "nhs": 4, "bank of england": 4, "ofgem": 4, "bbc": 4, "itv": 4, "sky news": 4,
@@ -298,6 +293,7 @@ strong_uk_keywords = [
     "liverpool", "leeds", "bristol", "newcastle", "sheffield", "nottingham", "brighton",
     "southampton", "plymouth", "hull", "derby", "oxford", "cambridge"
 ]
+
 def calculate_uk_relevance_score(text, url=""):
     score = 0
     positive_sum = 0
@@ -339,13 +335,13 @@ def calculate_uk_relevance_score(text, url=""):
 
 def get_relevance_level(score, matched_keywords):
     has_strong_uk = any(kw in matched_keywords for kw in strong_uk_keywords)
-    if score >= 10:
+    if score >= 12:
         level = "Very High"
-    elif score >= 7 or has_strong_uk:
+    elif score >= 8 or has_strong_uk:
         level = "High"
-    elif score >= 4:
+    elif score >= 5:
         level = "Medium"
-    elif score >= 2:
+    elif score >= 3:
         level = "Low"
     else:
         level = "Very Low"
@@ -431,30 +427,38 @@ FLAIR_MAPPING = {
     "National Newspapers Front Pages": "National Newspapers Front Pages",
     "Trade and Diplomacy": "Trade and Diplomacy"
 }
-DEFAULT_UK_THRESHOLD = 3
+
+DEFAULT_UK_THRESHOLD = 5
 CATEGORY_THRESHOLDS = {
-    "Sport": 8,
-    "Royals": 6,
-    "Notable International": 10,
-    "Economy": 2
+    "Sport": 10,
+    "Royals": 8,
+    "Notable International": 15,
+    "Economy": 4,
+    "Politics": 6,
+    "Crime & Legal": 5,
+    "Immigration": 6,
+    "Trade and Diplomacy": 6
 }
 
 def log_rejected(source, entry, reason):
     timestamp = datetime.now(timezone.utc).isoformat()
     title = get_post_title(entry)
-    logger.warning(f"[REJECTED] {timestamp} | {source} | {title} | {reason}")
+    message = f"[REJECTED] {timestamp} | {source} | {title} | {reason}"
+    logger.warning("\033[31m" + message + "\033[0m")
 
 def log_posted(source, entry, score, category, level, matched_keywords):
     timestamp = datetime.now(timezone.utc).isoformat()
     title = get_post_title(entry)
     top_kw = ', '.join([f"{k.upper()} ({v})" for k,v in sorted({k: v for k,v in matched_keywords.items() if not k.startswith("negative:")}.items(), key=lambda x: -x[1])[:3]])
     reason = f"Passed with {level} relevance, score: {score}, keywords: {top_kw}"
-    logger.info(f"[POSTED] {timestamp} | {source} | {title} | {score} | {category} | {reason}")
+    message = f"[POSTED] {timestamp} | {source} | {title} | {score} | {category} | {reason}"
+    logger.info("\033[32m" + message + "\033[0m")
 
 def log_error(source, entry, error_msg):
     timestamp = datetime.now(timezone.utc).isoformat()
     title = get_post_title(entry) if entry else "N/A"
-    logger.error(f"[ERROR] {timestamp} | {source} | {title} | {error_msg}")
+    message = f"[ERROR] {timestamp} | {source} | {title} | {error_msg}"
+    logger.error("\033[31m" + message + "\033[0m")
 
 def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, retries=3, base_delay=10):
     flair_text = FLAIR_MAPPING.get(category, "Notable International News🌍")
@@ -480,7 +484,7 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
                 url=entry.link,
                 flair_id=flair_id
             )
-            logger.info(f"Posted: {submission.shortlink}")
+            logger.info("\033[32m" + f"Posted: {submission.shortlink}" + "\033[0m")
             reply_lines = []
             for para in paragraphs:
                 if para:
@@ -504,7 +508,7 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
                     formatted_keywords = kw_parts[0]
                 reply_lines.append(f"This article was posted because the system detected key UK-related terms such as {formatted_keywords}, which indicate that it fits the {flair_text} category and is likely of interest to a UK audience.")
             reply_lines.append(f"Based on this assessment, the system automatically assigned the {flair_text} flair with {confidence}% confidence.")
-            reply_lines.append("This was automatically posted by the 2026.1.1 system.")
+            reply_lines.append("This was automatically posted by the 2026.1.2 system.")
             reply_lines.append("(For more information about how this works, please see the [subreddit wiki](https://www.reddit.com/r/BreakingUKNews/wiki/index/))")
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
@@ -526,7 +530,7 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
 
 def main():
     TARGET_POSTS_PER_RUN = 7
-    INITIAL_ARTICLES = 10
+    INITIAL_ARTICLES = 20  # Increased slightly to allow more candidates in short window
     feed_sources = {
         "BBC UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
@@ -534,13 +538,13 @@ def main():
     }
     all_entries = []
     now = datetime.now(timezone.utc)
-    six_hours_ago = now - timedelta(hours=6)
+    fifteen_minutes_ago = now - timedelta(minutes=15)
     for name, url in feed_sources.items():
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries:
                 published_dt = get_entry_published_datetime(entry)
-                if published_dt and six_hours_ago <= published_dt <= now + timedelta(minutes=5):
+                if published_dt and fifteen_minutes_ago <= published_dt <= now + timedelta(minutes=5):
                     all_entries.append((name, entry, published_dt))
         except Exception as e:
             log_error(name, None, f"Error loading feed: {e}")
@@ -574,7 +578,6 @@ def main():
             if is_sports_preview(full_combined) or not any(kw in full_combined for kw in winner_keywords):
                 log_rejected(name, entry, "Sports preview or non-result")
                 continue
-        logger.info(f"Article: {get_post_title(entry)} | Relevance Score: {score} | Matched: {len(matched_keywords)} keys | Category: {category}")
         has_uk_term = any(not k.startswith("negative:") for k in matched_keywords)
         threshold = CATEGORY_THRESHOLDS.get(category, DEFAULT_UK_THRESHOLD)
         if score < threshold or not has_uk_term:
@@ -589,9 +592,12 @@ def main():
             if not has_strong_uk:
                 log_rejected(name, entry, "Incidental UK mention")
                 continue
+        if not has_strong_uk:
+            log_rejected(name, entry, "Lacks strong UK keyword")
+            continue
         level = get_relevance_level(score, matched_keywords)
-        if level not in ["High", "Very High"]:
-            log_rejected(name, entry, f"Relevance level {level} too low (requires High or Very High for dominant UK relevance)")
+        if level != "Very High":
+            log_rejected(name, entry, f"Relevance level {level} (requires Very High)")
             continue
         paragraphs = extract_first_paragraphs(entry.link)
         norm_title = normalize_title(get_post_title(entry))
@@ -644,7 +650,11 @@ def main():
         else:
             skipped += 1
         time.sleep(10)
-    logger.info(f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}. Skipped {skipped}.")
+    summary = f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}. Skipped {skipped}."
+    if posts_made > 0:
+        logger.info("\033[32m" + summary + "\033[0m")
+    else:
+        logger.info(summary)
 
 if __name__ == "__main__":
     main()
