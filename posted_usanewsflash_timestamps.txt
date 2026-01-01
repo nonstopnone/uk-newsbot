@@ -9219,3 +9219,4 @@
 2026-01-01T16:52:56.001304+00:00|https://www.nytimes.com/2026/01/01/nyregion/how-to-watch-zohran-mamdanis-inauguration.html|how to watch zohran mamdanis inauguration as new york mayor us news|9d367fbe8af48245ed8606df518da75e
 2026-01-01T19:00:21.805752+00:00|https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html|iran protests turn deadly as violence and anger spread us news|37b29e0fa65983eec54d186305d57158
 2026-01-01T19:00:22.492057+00:00|https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html|swiss alps ski resort fire what we know us news|fc35df0ee58dd66fab65704117dc1ae9
+2026-01-01T19:41:02.898029+00:00|https://www.nbcnews.com/now/video/about-40-people-killed-in-swiss-alps-resort-fire-255266885772|about 40 people killed in swiss alps resort fire us news|bfd0d0e48255554285efca58b2e3a527
