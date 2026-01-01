@@ -13,13 +13,14 @@ import html
 import logging
 from dateutil import parser as dateparser
 from dateutil.parser import ParserError
-import difflib
+
 logging.basicConfig(
     level=logging.INFO,
     format='[%(levelname)s] %(asctime)s %(message)s',
     handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler('run_log.txt')]
 )
 logger = logging.getLogger(__name__)
+
 required_env_vars = [
     'REDDIT_CLIENT_ID',
     'REDDIT_CLIENT_SECRET',
@@ -30,10 +31,12 @@ missing_vars = [var for var in required_env_vars if var not in os.environ]
 if missing_vars:
     logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
     sys.exit(1)
+
 REDDIT_CLIENT_ID = os.environ['REDDIT_CLIENT_ID']
 REDDIT_CLIENT_SECRET = os.environ['REDDIT_CLIENT_SECRET']
 REDDIT_USERNAME = os.environ['REDDIT_USERNAME']
 REDDIT_PASSWORD = os.environ['REDDITPASSWORD']
+
 try:
     reddit = praw.Reddit(
         client_id=REDDIT_CLIENT_ID,
@@ -46,22 +49,44 @@ try:
 except Exception as e:
     logger.error(f"Failed to initialize Reddit API: {e}")
     sys.exit(1)
-DEDUP_FILE = './posted_urls.txt'  # Updated file name for daily URL tracking
-FUZZY_DUPLICATE_THRESHOLD = 0.40
+
+DEDUP_FILE = './posted_urls.txt'
+JACCARD_DUPLICATE_THRESHOLD = 0.55  # Lower = more aggressive deduplication (catches more paraphrased titles); higher = fewer false positives
+
 def normalize_url(url):
     parsed = urllib.parse.urlparse(url)
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
+
+def normalize_text(text):
+    """Normalize text: unescape HTML, remove punctuation (keep currency), collapse spaces, lowercase."""
+    text = html.unescape(text)
+    text = re.sub(r'[^\w\s£$€]', '', text)
+    text = re.sub(r'\s+', ' ', text).strip().lower()
+    return text
+
 def normalize_title(title):
-    title = html.unescape(title)
-    title = re.sub(r'[^\w\s£$€]', '', title)
-    title = re.sub(r'\s+', ' ', title).strip().lower()
-    return title
+    return normalize_text(title)
+
 def get_post_title(entry):
     return html.unescape(entry.title).strip()
+
 def get_content_hash(entry):
-    content = html.unescape(entry.title + " " + getattr(entry, "summary", "")[:300])
+    """Generate MD5 hash from normalized title + full summary for robust content-based duplicate detection."""
+    title_norm = normalize_text(entry.title)
+    summary_norm = normalize_text(getattr(entry, "summary", ""))
+    content = title_norm + " " + summary_norm
     return hashlib.md5(content.encode('utf-8')).hexdigest()
+
+def jaccard_similarity(a, b):
+    """Jaccard similarity on word sets – effective for detecting same story with paraphrased titles."""
+    words_a = set(a.split())
+    words_b = set(b.split())
+    intersection = words_a.intersection(words_b)
+    union = words_a.union(words_b)
+    return len(intersection) / len(union) if union else 0.0
+
 def load_dedup(filename=DEDUP_FILE):
+    """Load persistent deduplication data (URLs, titles, hashes) from file, retaining only entries from the last 7 days."""
     urls, titles, hashes = set(), set(), set()
     cleaned_lines = []
     seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
@@ -87,21 +112,26 @@ def load_dedup(filename=DEDUP_FILE):
         f.writelines(cleaned_lines)
     logger.info(f"Loaded {len(urls)} unique entries from deduplication file (last 7 days)")
     return urls, titles, hashes
+
 posted_urls, posted_titles, posted_hashes = load_dedup()
+
 def is_duplicate(entry):
+    """Check if entry is a duplicate: exact normalized URL, content hash, or high Jaccard title similarity (persistent across runs)."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
     content_hash = get_content_hash(entry)
+
     if norm_link in posted_urls:
         return True, "Duplicate URL"
-    for pt in posted_titles:
-        if difflib.SequenceMatcher(None, pt, norm_title).ratio() > FUZZY_DUPLICATE_THRESHOLD:
-            return True, "Duplicate Title (Fuzzy Match)"
     if content_hash in posted_hashes:
         return True, "Duplicate Content Hash"
+    if any(jaccard_similarity(norm_title, pt) > JACCARD_DUPLICATE_THRESHOLD for pt in posted_titles):
+        return True, "Duplicate Title (Jaccard)"
     return False, ""
+
 def add_to_dedup(entry):
+    """Add successfully posted entry to persistent dedup file and in-memory sets."""
     norm_link = normalize_url(entry.link)
     post_title = get_post_title(entry)
     norm_title = normalize_title(post_title)
@@ -113,6 +143,7 @@ def add_to_dedup(entry):
     posted_titles.add(norm_title)
     posted_hashes.add(content_hash)
     logger.info(f"Added to deduplication: {norm_title}")
+
 def get_entry_published_datetime(entry):
     for field in ['published', 'updated', 'created', 'date']:
         if hasattr(entry, field):
@@ -124,6 +155,7 @@ def get_entry_published_datetime(entry):
             except (ValueError, ParserError):
                 continue
     return None
+
 def extract_first_paragraphs(url):
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
@@ -148,6 +180,7 @@ def extract_first_paragraphs(url):
     except requests.exceptions.RequestException as e:
         logger.error(f"Failed to fetch URL {url}: {e}")
         return ["", "", ""]
+
 def get_full_article_text(url):
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
@@ -168,6 +201,7 @@ def get_full_article_text(url):
     except requests.exceptions.RequestException as e:
         logger.error(f"Failed to fetch full text from URL {url}: {e}")
         return ""
+
 PROMOTIONAL_KEYWORDS = [
     "giveaway", "win", "sponsor", "competition", "prize", "free",
     "discount", "voucher", "promo code", "coupon", "partnered", "advert", "advertisement",
@@ -180,7 +214,7 @@ IRRELEVANT_KEYWORDS = [
     "mattress", "back pain", "best mattresses", "celebrity", "gossip", "fashion", "diet",
     "workout", "product", "seasonal", "deals", "us open", "mixed doubles", "tennis tournament",
     "nfl", "nba", "super bowl", "mlb", "nhl", "oscars", "grammy", "best", "tested", "recommended",
-    "anniversary", "celebrate", "re-enact", "birthday", "commemorate", "mark the occasion"  # Added to exclude low-newsworthy stories like anniversaries
+    "anniversary", "celebrate", "re-enact", "birthday", "commemorate", "mark the occasion"
 ]
 SPORTS_PREVIEW_KEYWORDS = [
     "boxing match", "fight night", "upcoming fight", "bout", "weigh-in", "fight card",
@@ -248,7 +282,7 @@ NEGATIVE_KEYWORDS = {
     "us open": -10, "mixed doubles": -5, "tennis tournament": -3,
     "mattress": -5, "back pain": -3, "best mattresses": -10,
     "celebrity": -4, "gossip": -5, "hollywood": -3,
-    "alabama": -3, "alaska": -3, "arkansas": -3, "colorado": -3, "connecticut": -3,  # Added more US states for stricter foreign rejection
+    "alabama": -3, "alaska": -3, "arkansas": -3, "colorado": -3, "connecticut": -3,
     "delaware": -3, "hawaii": -3, "idaho": -3, "illinois": -3, "indiana": -3,
     "iowa": -3, "kansas": -3, "kentucky": -3, "louisiana": -3, "maine": -3,
     "maryland": -3, "massachusetts": -3, "michigan": -3, "minnesota": -3, "mississippi": -3,
@@ -265,8 +299,6 @@ strong_uk_keywords = [
     "southampton", "plymouth", "hull", "derby", "oxford", "cambridge"
 ]
 def calculate_uk_relevance_score(text, url=""):
-    # UK relevance determination process: Calculate weighted score from UK keywords (positive) and foreign/negative keywords (subtract). 
-    # Placenames, postcodes add positive points. Return total score, matched keywords, positive sum, and negative sum for dominance checks.
     score = 0
     positive_sum = 0
     negative_sum = 0
@@ -284,12 +316,10 @@ def calculate_uk_relevance_score(text, url=""):
             score += weight * count
             negative_sum += weight * count
             matched_keywords[f"negative:{keyword}"] = count
-    # Single word places
     placenames = re.findall(r'\b(\w+(shire|ford|ton|ham|bridge|cester))\b', text_lower)
-    # Multi word places
     placenames += re.findall(r'\b(\w+\s+\w+(shire|ford|ton|ham|bridge|cester))\b', text_lower)
     negative_keys = set(k.lower() for k in NEGATIVE_KEYWORDS)
-    for pn in set(placenames):  # Use set for unique
+    for pn in set(placenames):
         pn_lower = pn[0].lower()
         if pn_lower in negative_keys:
             continue
@@ -306,6 +336,7 @@ def calculate_uk_relevance_score(text, url=""):
         positive_sum += 2 * count
         matched_keywords[pc_upper] = count
     return score, matched_keywords, positive_sum, negative_sum
+
 def get_relevance_level(score, matched_keywords):
     has_strong_uk = any(kw in matched_keywords for kw in strong_uk_keywords)
     if score >= 10:
@@ -319,18 +350,22 @@ def get_relevance_level(score, matched_keywords):
     else:
         level = "Very Low"
     return level
+
 def is_promotional(entry):
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     if "offer" in combined:
         if any(kw in combined for kw in ["government", "nhs", "pay", "policy", "public sector"]):
             return False
     return any(kw in combined for kw in PROMOTIONAL_KEYWORDS)
+
 def is_opinion(entry):
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in OPINION_KEYWORDS)
+
 def is_irrelevant_fluff(entry):
     combined = html.unescape(entry.title + " " + getattr(entry, "summary", "")).lower()
     return any(kw in combined for kw in IRRELEVANT_KEYWORDS)
+
 def is_sports_preview(text):
     text_lower = text.lower()
     has_preview = any(kw in text_lower for kw in SPORTS_PREVIEW_KEYWORDS)
@@ -339,6 +374,7 @@ def is_sports_preview(text):
     if has_preview and not has_result:
         return True
     return False
+
 CATEGORY_KEYWORDS = {
     "Politics": ["politics", "parliament", "government", "election", "policy", "minister", "mp", "prime minister", "brexit", "eu", "tory", "labour", "bill", "debate", "vote", "opposition", "party", "manifesto", "legislation", "budget", "cabinet"],
     "Immigration": ["immigration", "immigrant", "asylum", "refugee", "migrant", "border control", "visa", "deportation", "home office", "rwanda", "channel crossing", "migration policy"],
@@ -353,6 +389,7 @@ CATEGORY_KEYWORDS = {
 }
 specific_categories = list(CATEGORY_KEYWORDS.keys()) + ["Notable International"]
 priority_order = ["Crime & Legal", "Politics", "Economy", "Immigration", "Trade and Diplomacy", "Royals", "Sport", "Culture", "National Newspapers Front Pages", "Notable International"]
+
 def get_category(full_combined, full_text):
     text = html.unescape(full_text).lower()
     matched_cats = {}
@@ -381,6 +418,7 @@ def get_category(full_combined, full_text):
     all_matched_keywords = {kw: count for matched in matched_cats.values() for kw, count in matched.items()}
     all_matched_cats = list(matched_cats.keys())
     return chosen_cat, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, uk_score, uk_matched_keywords, positive_sum, negative_sum
+
 FLAIR_MAPPING = {
     "Politics": "Politics",
     "Culture": "Culture",
@@ -397,26 +435,27 @@ DEFAULT_UK_THRESHOLD = 3
 CATEGORY_THRESHOLDS = {
     "Sport": 8,
     "Royals": 6,
-    "Notable International": 10,  # Increased threshold for Notable International to require stronger relevance for breaking news
+    "Notable International": 10,
     "Economy": 2
 }
+
 def log_rejected(source, entry, reason):
-    # Enhanced logging for rejected articles: timestamp, source, title, rejection reason.
     timestamp = datetime.now(timezone.utc).isoformat()
     title = get_post_title(entry)
     logger.warning(f"[REJECTED] {timestamp} | {source} | {title} | {reason}")
+
 def log_posted(source, entry, score, category, level, matched_keywords):
-    # Enhanced logging for posted articles: timestamp, source, title, score, category, passing reason.
     timestamp = datetime.now(timezone.utc).isoformat()
     title = get_post_title(entry)
     top_kw = ', '.join([f"{k.upper()} ({v})" for k,v in sorted({k: v for k,v in matched_keywords.items() if not k.startswith("negative:")}.items(), key=lambda x: -x[1])[:3]])
     reason = f"Passed with {level} relevance, score: {score}, keywords: {top_kw}"
     logger.info(f"[POSTED] {timestamp} | {source} | {title} | {score} | {category} | {reason}")
+
 def log_error(source, entry, error_msg):
-    # Enhanced logging for errors/retries: timestamp, source, title, error message.
     timestamp = datetime.now(timezone.utc).isoformat()
     title = get_post_title(entry) if entry else "N/A"
     logger.error(f"[ERROR] {timestamp} | {source} | {title} | {error_msg}")
+
 def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, retries=3, base_delay=10):
     flair_text = FLAIR_MAPPING.get(category, "Notable International News🌍")
     flair_id = None
@@ -427,10 +466,12 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
                 break
     except Exception as e:
         log_error("", entry, f"Failed to fetch flairs: {e}")
+
     cat_scores = {cat: sum(matched_cats.get(cat, {}).values()) for cat in all_matched_cats}
     total_score = sum(cat_scores.values()) or 1
     chosen_score = cat_scores.get(category, 0)
     confidence = int(100 * chosen_score / total_score) if total_score > 0 else 50
+
     for attempt in range(retries):
         try:
             post_title = get_post_title(entry)
@@ -463,7 +504,7 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
                     formatted_keywords = kw_parts[0]
                 reply_lines.append(f"This article was posted because the system detected key UK-related terms such as {formatted_keywords}, which indicate that it fits the {flair_text} category and is likely of interest to a UK audience.")
             reply_lines.append(f"Based on this assessment, the system automatically assigned the {flair_text} flair with {confidence}% confidence.")
-            reply_lines.append("This was automatically posted by the 2026.1 system.")  # Updated comment to mention 2026.1 system
+            reply_lines.append("This was automatically posted by the 2026.1.1 system.")
             reply_lines.append("(For more information about how this works, please see the [subreddit wiki](https://www.reddit.com/r/BreakingUKNews/wiki/index/))")
             full_reply = "\n".join(reply_lines)
             submission.reply(full_reply)
@@ -482,9 +523,8 @@ def post_to_reddit(entry, score, matched_keywords, category, paragraphs, cat_key
             return False
     log_error("", entry, f"Failed to post after {retries} attempts")
     return False
+
 def main():
-    # Daily tracking and logs enable troubleshooting/audits: posted_urls.txt retains timestamped entries for 7 days, allowing date-based auditing. 
-    # Logs use [POSTED], [REJECTED], [ERROR] prefixes for clear distinction and visibility.
     TARGET_POSTS_PER_RUN = 7
     INITIAL_ARTICLES = 10
     feed_sources = {
@@ -544,7 +584,7 @@ def main():
         negative_matches = [k for k in matched_keywords if k.startswith("negative:")]
         if negative_matches:
             if -negative_sum > positive_sum * 0.5:
-                log_rejected(name, entry, "Foreign dominance")  # Rejection of foreign-dominant articles: If negative impact > 50% of positive, reject.
+                log_rejected(name, entry, "Foreign dominance")
                 continue
             if not has_strong_uk:
                 log_rejected(name, entry, "Incidental UK mention")
@@ -559,6 +599,7 @@ def main():
             logger.info(f"Selected article: {get_post_title(entry)} | Score: {score} | Category: {category}")
             all_articles.append((name, entry, score, matched_keywords, norm_title, category, paragraphs, cat_keywords, all_matched_keywords, all_matched_cats, matched_cats, level))
             category_counts[category] = category_counts.get(category, 0) + 1
+
     unique_articles = []
     seen_urls = set()
     seen_titles = set()
@@ -568,19 +609,20 @@ def main():
         norm_link = normalize_url(entry.link)
         content_hash = get_content_hash(entry)
         is_dup = norm_link in seen_urls
-        if not is_dup:
-            for st in seen_titles:
-                if difflib.SequenceMatcher(None, st, norm_title).ratio() > FUZZY_DUPLICATE_THRESHOLD:
-                    is_dup = True
-                    break
         if not is_dup and content_hash in seen_hashes:
             is_dup = True
+        if not is_dup:
+            for st in seen_titles:
+                if jaccard_similarity(norm_title, st) > JACCARD_DUPLICATE_THRESHOLD:
+                    is_dup = True
+                    break
         if not is_dup:
             unique_articles.append(article)
             seen_urls.add(norm_link)
             seen_titles.add(norm_title)
             seen_hashes.add(content_hash)
     all_articles = unique_articles
+
     all_articles.sort(key=lambda x: x[2], reverse=True)
     selected_for_posting = []
     temp_category_counts = {cat: 0 for cat in specific_categories}
@@ -603,5 +645,6 @@ def main():
             skipped += 1
         time.sleep(10)
     logger.info(f"Attempted to post {len(selected_for_posting)} articles. Successfully posted {posts_made}. Skipped {skipped}.")
+
 if __name__ == "__main__":
     main()
