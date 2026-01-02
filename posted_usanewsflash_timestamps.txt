@@ -9275,3 +9275,4 @@
 2026-01-02T21:41:06.776140+00:00|https://www.nytimes.com/2026/01/02/world/europe/zelensky-budanov-ukraine-chief-of-staff-yermak.html|ukraines zelensky names kyrylo budanov as new chief of staff us news|762b35246c4b2682e83169fed237f351
 2026-01-02T21:57:42.566923+00:00|https://www.nbcnews.com/video/shorts/authorities-find-body-of-missing-4-year-old-alabama-boy-255312453688|authorities find body of missing 4yearold alabama boy us news|76ff2afe05a5086d249c96a4460c0d60
 2026-01-02T22:26:27.933242+00:00|https://abcnews.go.com/US/video/zohran-mamdani-sworn-new-york-city-mayor-128853803|watch zohran mamdani sworn in as new york city mayor us news|4a7d92181c4902f7fbe01fb9c4111e51
+2026-01-02T23:24:10.138293+00:00|https://abcnews.go.com/US/missing-alabama-boy-4-found-dead-2-miles/story|missing alabama boy 4 found dead 2 miles from home police us news|eb6a769bd866fed14bbbc5f6a9ee965a
