@@ -9259,3 +9259,5 @@
 2026-01-02T17:43:28.299730+00:00|https://www.nytimes.com/2026/01/02/nyregion/2026-new-laws-new-york-state.html|new laws going into effect for new york in 2026 us news|38673e2648d4dee7272d432d7d61535d
 2026-01-02T17:43:28.954195+00:00|https://www.nbcnews.com/video/shorts/fbi-foils-terror-attack-planned-for-new-year-s-eve-255299141688|fbi foils terror attack planned for new years eve us news|8cf5f3a7fa7b99f589943d55b359ad24
 2026-01-02T17:57:49.586141+00:00|https://www.nytimes.com/2026/01/02/us/north-carolina-man-terrorist-attack-fbi.html|north carolina man accused of planning potential terrorist attack us news|8d775169048d254897d01947a125ed44
+2026-01-02T18:36:48.751658+00:00|https://abcnews.go.com/US/video/ohio-police-search-suspect-after-dentist-wife-found-128849867|watch ohio police search for suspect after dentist wife found murdered at home us news|7aadc07abd43f881ece2264e678e15fa
+2026-01-02T18:36:49.359244+00:00|https://www.nbcnews.com/video/shorts/fbi-offers-details-about-new-year-s-eve-terror-suspect-255302213535|fbi offers details about new years eve terror suspect us news|619865d495fed0706e24bb72d0ddf576
