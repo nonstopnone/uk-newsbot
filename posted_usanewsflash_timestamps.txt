@@ -9273,3 +9273,4 @@
 2026-01-02T21:20:24.096654+00:00|https://www.nytimes.com/2026/01/02/weather/california-rain-forecast.html|california cannot catch a break as another storm moves in us news|9a4ab188768497a49b4d1545578e6122
 2026-01-02T21:20:24.813595+00:00|https://www.nbcnews.com/now/video/authorities-find-remains-of-missing-4-year-old-alabama-boy-255309893953|authorities find remains of missing 4yearold alabama boy us news|de7637e8d1ccd2d456d13d82d8db6b5e
 2026-01-02T21:41:06.776140+00:00|https://www.nytimes.com/2026/01/02/world/europe/zelensky-budanov-ukraine-chief-of-staff-yermak.html|ukraines zelensky names kyrylo budanov as new chief of staff us news|762b35246c4b2682e83169fed237f351
+2026-01-02T21:57:42.566923+00:00|https://www.nbcnews.com/video/shorts/authorities-find-body-of-missing-4-year-old-alabama-boy-255312453688|authorities find body of missing 4yearold alabama boy us news|76ff2afe05a5086d249c96a4460c0d60
