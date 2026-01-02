@@ -9258,3 +9258,4 @@
 2026-01-02T17:43:27.640670+00:00|https://www.bbc.com/news/articles/c9vxp4ng8d8o|woman killed in suspected mountain lion attack in us us news|909cfff6f121657684e3a4c479b7a869
 2026-01-02T17:43:28.299730+00:00|https://www.nytimes.com/2026/01/02/nyregion/2026-new-laws-new-york-state.html|new laws going into effect for new york in 2026 us news|38673e2648d4dee7272d432d7d61535d
 2026-01-02T17:43:28.954195+00:00|https://www.nbcnews.com/video/shorts/fbi-foils-terror-attack-planned-for-new-year-s-eve-255299141688|fbi foils terror attack planned for new years eve us news|8cf5f3a7fa7b99f589943d55b359ad24
+2026-01-02T17:57:49.586141+00:00|https://www.nytimes.com/2026/01/02/us/north-carolina-man-terrorist-attack-fbi.html|north carolina man accused of planning potential terrorist attack us news|8d775169048d254897d01947a125ed44
