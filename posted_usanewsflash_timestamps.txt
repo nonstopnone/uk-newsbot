@@ -9227,3 +9227,6 @@
 2026-01-01T22:46:16.110404+00:00|https://abcnews.go.com/US/video/washington-monument-light-show-kicks-off-americas-250th-128822925|watch washington monument light show kicks off americas 250th celebrations us news|319d7b960e307a0641c942257ae0173c
 2026-01-01T23:25:07.667812+00:00|https://www.nytimes.com/2026/01/01/nyregion/nyc-food-mamdani.html|mamdani pays tribute to the foods that define and sustain new york us news|333b2ae9206766af39d0b8ad2dbd35e3
 2026-01-01T23:57:31.880280+00:00|https://abcnews.go.com/Politics/video/zohran-mamdani-speaks-public-inauguration-new-york-city-128836808|watch zohran mamdani speaks at public inauguration as new york city mayor us news|85039e1d59415558a68c8d9094237233
+2026-01-02T02:07:30.223030+00:00|https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-takeaways.html|7 takeaways from the inauguration of mayor zohran mamdani us news|9ee0918796c3ce569e5d7c97ddc84ac8
+2026-01-02T02:07:30.778409+00:00|https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-mayor.html|mamdani vows to govern audaciously and protect new yorks vulnerable us news|d2e0df3855d7c07cd72d9e8838f560eb
+2026-01-02T02:07:31.363367+00:00|https://www.nbcnews.com/nightly-news/video/trump-speaks-out-about-his-health-255275077806|trump speaks out about his health us news|868bfb8f79364d1c3c8c9b7791e75d29
