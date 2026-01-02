@@ -9240,3 +9240,6 @@
 2026-01-02T11:23:16.035580+00:00|https://www.nytimes.com/2026/01/02/health/obamacare-subsidies-higher-premiums.html|with obamacares higher premiums come difficult decisions us news|11aaf5afbde62416807b620c02ab8c40
 2026-01-02T11:41:24.181635+00:00|https://abcnews.go.com/US/video/extreme-weather-slams-coasts-us-128841554|watch extreme weather slams both coasts in us us news|f4b70bfccfc9c864334af81548612073
 2026-01-02T11:57:40.248352+00:00|https://www.bbc.com/news/articles/c0q4z33pnnyo|trump warns us will intervene if iran kills protesters us news|c309d8ec9538a14ca0ff3e1091d9927d
+2026-01-02T12:53:11.610122+00:00|https://www.nytimes.com/2026/01/02/business/dealbook/wall-street-market-prediction.html|wall street sees another banner year for markets could anything stop it us news|37cc1f12dd0053272834a7d05468e93e
+2026-01-02T12:53:12.137998+00:00|https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html|why do americans hate ai us news|e2123b24ea40bd4f37b8ce758b6479a4
+2026-01-02T12:53:12.659640+00:00|https://abcnews.go.com/US/seattle-police-arrest-armed-man-new-years-eve/story|seattle police arrest armed man during new years eve celebration us news|7d5dfe6b966a2ea195002412a378984f
