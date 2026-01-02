@@ -9243,3 +9243,4 @@
 2026-01-02T12:53:11.610122+00:00|https://www.nytimes.com/2026/01/02/business/dealbook/wall-street-market-prediction.html|wall street sees another banner year for markets could anything stop it us news|37cc1f12dd0053272834a7d05468e93e
 2026-01-02T12:53:12.137998+00:00|https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html|why do americans hate ai us news|e2123b24ea40bd4f37b8ce758b6479a4
 2026-01-02T12:53:12.659640+00:00|https://abcnews.go.com/US/seattle-police-arrest-armed-man-new-years-eve/story|seattle police arrest armed man during new years eve celebration us news|7d5dfe6b966a2ea195002412a378984f
+2026-01-02T13:50:09.930244+00:00|https://www.nytimes.com/2026/01/01/nyregion/new-york-magazine-cover-mamdani-aide-da-costa.html|new york magazine put mamdanis team on its cover one aide was erased us news|73aba4d9a275d93607e091b10b801c9b
