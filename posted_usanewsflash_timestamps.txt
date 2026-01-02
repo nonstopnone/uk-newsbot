@@ -9239,3 +9239,4 @@
 2026-01-02T11:23:15.437169+00:00|https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html|after watergate the presidency was tamed trump is unleashing it us news|d3cd89b749574cb3944ec5b71851a0c4
 2026-01-02T11:23:16.035580+00:00|https://www.nytimes.com/2026/01/02/health/obamacare-subsidies-higher-premiums.html|with obamacares higher premiums come difficult decisions us news|11aaf5afbde62416807b620c02ab8c40
 2026-01-02T11:41:24.181635+00:00|https://abcnews.go.com/US/video/extreme-weather-slams-coasts-us-128841554|watch extreme weather slams both coasts in us us news|f4b70bfccfc9c864334af81548612073
+2026-01-02T11:57:40.248352+00:00|https://www.bbc.com/news/articles/c0q4z33pnnyo|trump warns us will intervene if iran kills protesters us news|c309d8ec9538a14ca0ff3e1091d9927d
