@@ -9230,3 +9230,4 @@
 2026-01-02T02:07:30.223030+00:00|https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-takeaways.html|7 takeaways from the inauguration of mayor zohran mamdani us news|9ee0918796c3ce569e5d7c97ddc84ac8
 2026-01-02T02:07:30.778409+00:00|https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-mayor.html|mamdani vows to govern audaciously and protect new yorks vulnerable us news|d2e0df3855d7c07cd72d9e8838f560eb
 2026-01-02T02:07:31.363367+00:00|https://www.nbcnews.com/nightly-news/video/trump-speaks-out-about-his-health-255275077806|trump speaks out about his health us news|868bfb8f79364d1c3c8c9b7791e75d29
+2026-01-02T05:31:11.700944+00:00|https://www.nytimes.com/2026/01/02/world/europe/barcelona-debt-soccer.html|can the most indebted team in global soccer fix its finances us news|7dab7acb1dfd01471247c97e676f1a4b
