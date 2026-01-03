@@ -9291,3 +9291,4 @@
 2026-01-03T04:44:07.521969+00:00|https://www.nytimes.com/2026/01/02/us/ninth-circuit-california-gun-law.html|federal appeals court says california opencarry ban is unconstitutional us news|35f62f264943fd43ab1f962803d9f768
 2026-01-03T05:01:11.094484+00:00|https://abcnews.go.com/US/helicopter-crashes-arizona-mountains-crews-working-reach-remote/story|4 dead after helicopter crashes in arizona mountains authorities us news|343884acd0223d1618c0e5de3b0df5cd
 2026-01-03T05:29:42.543607+00:00|https://www.nytimes.com/2026/01/03/business/chinese-peptides-silicon-valley.html|chinese peptides are the latest biohacking trend in the tech world us news|9b7014e1da843584a682c5752aa6a186
+2026-01-03T05:46:14.515378+00:00|https://www.nytimes.com/2026/01/03/us/lenny-dykstra-drugs-charges.html|lenny dykstra faces charges after police find drugs during traffic stop us news|e08efcf0f0f31d0752f10f48dfb71101
