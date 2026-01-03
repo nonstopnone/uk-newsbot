@@ -9296,3 +9296,4 @@
 2026-01-03T06:38:24.323453+00:00|https://www.bbc.com/news/articles/c1ev8el75gyo|two people killed in magnitude 65 earthquake in mexico us news|d2b614e8b1c2ae90cb01b93aca88d422
 2026-01-03T06:38:25.014723+00:00|https://www.nbcnews.com/video/shorts/ohio-dentist-and-wife-shot-and-killed-in-home-255326789918|ohio dentist and wife shot and killed in home us news|60924c9a56ed7aec0fd67de7a80d52b9
 2026-01-03T07:00:41.172417+00:00|https://www.nytimes.com/2026/01/03/world/americas/venezuela-caracas-explosions.html|explosions reported in venezuelas capital us news|e7ca06d57c40ddd9ec03b6f5ae7d9244
+2026-01-03T09:26:07.178038+00:00|https://www.nytimes.com/2026/01/03/world/americas/us-military-buildup-caribbean-venezuela.html|the us has been building up forces off venezuela for months us news|7961d9c6979d5a4c89c39dd3a7d0c0d4
