@@ -9292,3 +9292,6 @@
 2026-01-03T05:01:11.094484+00:00|https://abcnews.go.com/US/helicopter-crashes-arizona-mountains-crews-working-reach-remote/story|4 dead after helicopter crashes in arizona mountains authorities us news|343884acd0223d1618c0e5de3b0df5cd
 2026-01-03T05:29:42.543607+00:00|https://www.nytimes.com/2026/01/03/business/chinese-peptides-silicon-valley.html|chinese peptides are the latest biohacking trend in the tech world us news|9b7014e1da843584a682c5752aa6a186
 2026-01-03T05:46:14.515378+00:00|https://www.nytimes.com/2026/01/03/us/lenny-dykstra-drugs-charges.html|lenny dykstra faces charges after police find drugs during traffic stop us news|e08efcf0f0f31d0752f10f48dfb71101
+2026-01-03T06:38:23.667331+00:00|https://www.bbc.com/news/articles/c2057md3gvro|trump promise to intervene over iran protests reckless says foreign minister us news|03814c4381e122019936adda7a35e4bb
+2026-01-03T06:38:24.323453+00:00|https://www.bbc.com/news/articles/c1ev8el75gyo|two people killed in magnitude 65 earthquake in mexico us news|d2b614e8b1c2ae90cb01b93aca88d422
+2026-01-03T06:38:25.014723+00:00|https://www.nbcnews.com/video/shorts/ohio-dentist-and-wife-shot-and-killed-in-home-255326789918|ohio dentist and wife shot and killed in home us news|60924c9a56ed7aec0fd67de7a80d52b9
