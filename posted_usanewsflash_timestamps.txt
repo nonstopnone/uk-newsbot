@@ -9334,3 +9334,4 @@
 2026-01-03T23:24:43.168383+00:00|https://www.bbc.com/news/videos/cx2x7dqek9lo|watch how the us attack on venezuela unfolded us news|3e3f8ce575241c34f1c3ef3498efcfd9
 2026-01-03T23:24:43.640203+00:00|https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html|inside operation absolute resolve the us effort to capture maduro us news|ad85b2449b8757b2a45cfd19b7f7f903
 2026-01-03T23:42:41.273200+00:00|https://www.nbcnews.com/video/shorts/nicolas-maduro-arrives-in-new-york-255345221867|nicolás maduro arrives in new york us news|553992870c87e7ba00345e5074455f29
+2026-01-03T23:57:24.123040+00:00|https://abcnews.go.com/International/trump-venezuelan-opposition-leader-respect-govern-after-maduro/story|trump says venezuelan opposition leader doesnt have the respect to govern us news|566cc4213cb40dab43937dafe6af30fc
