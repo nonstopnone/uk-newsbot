@@ -9304,3 +9304,4 @@
 2026-01-03T10:57:43.773820+00:00|https://www.nytimes.com/2026/01/03/nyregion/mamdani-pinnacle-housing.html|mamdani acts on vow to protect renters with move against a big landlord us news|a634ec2140ee4046ef7193a4f5e7f192
 2026-01-03T10:57:44.406061+00:00|https://www.nytimes.com/2026/01/03/world/europe/ukraine-russia-trump-peace-security-guarantees.html|why security guarantees are so crucial and thorny for ukraine us news|f5990d6b81cd22ae38c015d3cad84a91
 2026-01-03T10:57:44.960746+00:00|https://www.nytimes.com/2026/01/03/us/idaho-murders-bryan-kohberger-family.html|bryan kohbergers family stayed silent for years until now us news|320296a83d0c8539b9fe157ac67876a7
+2026-01-03T11:57:37.956329+00:00|https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985|alaskas court system built an ai chatbot it didnt go smoothly us news|60d2871124fa9765b20ee97337ffb1bf
