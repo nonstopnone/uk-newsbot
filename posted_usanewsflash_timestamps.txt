@@ -9343,3 +9343,5 @@
 2026-01-04T11:57:22.401802+00:00|https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-oil-risks.html|trump plunges the us into a new era of risk in venezuela us news|a1feedf43f625c592e053acf4048e6e2
 2026-01-04T12:51:50.287397+00:00|https://www.nytimes.com/2026/01/04/world/europe/kimberly-guilfoyle-trump-greece-ambassador.html|ambassador kimberly guilfoyle the talk of athens us news|41ecf820dc89a8898be5a654f0e021d4
 2026-01-04T12:51:50.941109+00:00|https://www.nytimes.com/2026/01/04/podcasts/the-daily/trump-maduro-venezuela.html|inside the us operation to oust venezuelas president us news|9500ee41bd2cb71921a179c9f5db2d65
+2026-01-04T14:23:01.789941+00:00|https://www.nbcnews.com/video/shorts/video-shows-maduro-in-dea-custody-in-new-york-255361093970|video shows maduro in dea custody in new york us news|8e4232765ca63776dcd36385f40b8fb5
+2026-01-04T14:23:02.440111+00:00|https://www.today.com/video/white-house-releases-video-of-nicolas-maduro-in-dea-custody-255363653983|new details into how us military captured nicolás maduro us news|a1c04874b2248a7272f59a7c11779a68
