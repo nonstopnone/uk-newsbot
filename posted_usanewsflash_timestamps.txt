@@ -9358,3 +9358,5 @@
 2026-01-04T16:30:59.654092+00:00|https://www.nytimes.com/2026/01/03/world/americas/trump-maduro-juan-orlando-hernandez.html|a pardon and a prosecution in new york show trumps personal geopolitics us news|0911102ddd6e6b3773dad3c4fe49b6db
 2026-01-04T17:57:31.077485+00:00|https://www.nytimes.com/2026/01/04/nyregion/nyc-subway-bus-fare-increase.html|subway and bus fare rises to $3 in new york city on sunday us news|e236a964a899103d7c44ebed563e74a3
 2026-01-04T18:35:46.860164+00:00|https://www.bbc.com/news/articles/crkr4y717k7o|trump wants venezuelas oil will his plan work us news|e604ff18530aee4219fd0387b29758cd
+2026-01-04T18:59:20.832590+00:00|https://www.nbcnews.com/video/shorts/mtg-says-maduro-s-capture-isn-t-america-first-255367749769|mtg says maduros capture isnt america first us news|1e98b70fe1f1eddfbadbaec4b3bc5483
+2026-01-04T18:59:21.500009+00:00|https://www.nbcnews.com/video/shorts/sec-marco-rubio-u-s-not-at-war-with-venezuela-255366213708|sec marco rubio us not at war with venezuela us news|f94f0c5833b2f3c798e307417c43dd6d
