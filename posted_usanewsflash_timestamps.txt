@@ -9393,3 +9393,5 @@
 2026-01-05T14:54:23.165981+00:00|https://abcnews.go.com/Politics/minnesota-gov-tim-walz-ends-reelection-bid/story|minnesota gov tim walz ends reelection bid us news|0df0bf0ecb7cd7c3c7073b44d38b14d9
 2026-01-05T15:14:28.832078+00:00|https://www.bbc.com/news/articles/cj9r0eyw0jno|thirtytwo cubans killed during us attack on venezuela us news|8460263793661b64cd4877c419abfacb
 2026-01-05T15:40:08.659025+00:00|https://www.bbc.com/news/articles/cx20ynr984po|minnesota governor tim walz says he will not seek reelection us news|3469d582c1ad6567d1b26b50c05d322f
+2026-01-05T16:34:31.938528+00:00|https://www.nytimes.com/article/trump-republican-critics-lawmakers-exit.html|republican lawmakers like mtg have criticized trump as they depart congress us news|b5bfdc6b912407097b9c8e626e105dbb
+2026-01-05T16:34:32.526588+00:00|https://abcnews.go.com/Business/wireStory/oil-stocks-sharply-higher-after-us-action-venezuela-128911586|oil stocks sharply higher after us action in venezuela us news|5eb2611cfeffea6e30cbb25b4d63cdd1
