@@ -9395,3 +9395,5 @@
 2026-01-05T15:40:08.659025+00:00|https://www.bbc.com/news/articles/cx20ynr984po|minnesota governor tim walz says he will not seek reelection us news|3469d582c1ad6567d1b26b50c05d322f
 2026-01-05T16:34:31.938528+00:00|https://www.nytimes.com/article/trump-republican-critics-lawmakers-exit.html|republican lawmakers like mtg have criticized trump as they depart congress us news|b5bfdc6b912407097b9c8e626e105dbb
 2026-01-05T16:34:32.526588+00:00|https://abcnews.go.com/Business/wireStory/oil-stocks-sharply-higher-after-us-action-venezuela-128911586|oil stocks sharply higher after us action in venezuela us news|5eb2611cfeffea6e30cbb25b4d63cdd1
+2026-01-05T16:54:54.891987+00:00|https://www.nbcnews.com/world/greenland/trump-venezuela-attack-maduro-greenland-threats-denmark-europe-rcna252289|next stop nuuk us allies fear trump may target greenland after venezuela us news|2420db3d9c0cfd0281aac58b155fd7da
+2026-01-05T16:54:55.402537+00:00|https://www.today.com/video/nicolas-maduro-set-to-appear-in-new-york-court-after-us-capture-255402053523|nicolás maduro set to appear in new york court after us capture us news|591715ce167f6c3a4efb7563fcfd91ba
