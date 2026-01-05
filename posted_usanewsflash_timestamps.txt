@@ -9384,3 +9384,5 @@
 2026-01-05T11:25:45.957530+00:00|https://www.nytimes.com/2026/01/05/us/politics/the-key-senate-races-to-watch-in-2026.html|the key senate races to watch in 2026 us news|ce47a86164e8483a132011e115802597
 2026-01-05T11:25:46.448585+00:00|https://www.nytimes.com/2026/01/05/us/politics/trump-venezuela-monroe-doctrine.html|after venezuela trump offers hints about what could be next us news|6defb45c388e47adeb8b023971ad32a5
 2026-01-05T11:43:56.793182+00:00|https://www.bbc.com/news/articles/cqxy8ezwee9o|timothées shoutout for kylie and other moments from critics choice awards us news|61e815b831f379d41ea4ac2dd2f4d9ca
+2026-01-05T12:58:30.957638+00:00|https://abcnews.go.com/US/man-custody-after-allegedly-causing-damage-vances-ohio/story|man allegedly causes damage to vances ohio home secret service says us news|842f2501166d7b89a3e0ecabd5d2f637
+2026-01-05T12:58:31.576767+00:00|https://www.nytimes.com/2026/01/03/business/chevron-kazakhstan-oil.html|how chevron aims to tap more oil below kazakhstans grassy plains us news|a9d96a77aeb478d916e9639bdf17f91b
