@@ -9415,3 +9415,5 @@
 2026-01-05T20:48:56.222018+00:00|https://www.nbcnews.com/video/shorts/view-from-the-courtroom-for-maduro-s-first-appearance-255417413858|view from the courtroom for maduros first appearance us news|ba4825215e8e04ee355750e3a7b3feb6
 2026-01-05T21:44:32.795845+00:00|https://www.nytimes.com/2026/01/05/us/waymo-kids-los-angeles.html|waymo has come for the kids in los angeles us news|a745c0703c4d1eb841272fc378836c22
 2026-01-05T21:57:28.652315+00:00|https://abcnews.go.com/Politics/mixed-messages-trump-rubio-running-venezuela/story|mixed messages from trump and rubio on whos running venezuela us news|7d471cc3514eb1e881f55664883806b4
+2026-01-05T22:26:55.588737+00:00|https://www.bbc.com/news/articles/cwyndnqqey5o|what is maduro charged with and what is the evidence us news|66de19dc2e026328288bec097f07f225
+2026-01-05T22:26:56.394419+00:00|https://www.nytimes.com/2026/01/05/world/americas/maduro-us-court-arraignment-kidnapped.html|maduro appearing in us court for arraignment says he was kidnapped and pleads not guilty us news|12291df0fc0ebbf278ba44c6340c2e1c
