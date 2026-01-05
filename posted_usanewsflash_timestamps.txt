@@ -9392,3 +9392,4 @@
 2026-01-05T14:34:52.588550+00:00|https://www.nytimes.com/2026/01/05/us/walz-governor-fraud-klobuchar.html|minnesota gov tim walz to abandon reelection bid and amy klobuchar may run instead us news|4170e1389fe21c9cf05a21ed5aeab129
 2026-01-05T14:54:23.165981+00:00|https://abcnews.go.com/Politics/minnesota-gov-tim-walz-ends-reelection-bid/story|minnesota gov tim walz ends reelection bid us news|0df0bf0ecb7cd7c3c7073b44d38b14d9
 2026-01-05T15:14:28.832078+00:00|https://www.bbc.com/news/articles/cj9r0eyw0jno|thirtytwo cubans killed during us attack on venezuela us news|8460263793661b64cd4877c419abfacb
+2026-01-05T15:40:08.659025+00:00|https://www.bbc.com/news/articles/cx20ynr984po|minnesota governor tim walz says he will not seek reelection us news|3469d582c1ad6567d1b26b50c05d322f
