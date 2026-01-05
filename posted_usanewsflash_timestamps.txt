@@ -9379,3 +9379,7 @@
 2026-01-05T06:52:15.838410+00:00|https://abcnews.go.com/Business/wireStory/markets-show-mixed-reactions-after-us-capture-venezuelan-128899522|markets show mixed reactions after us capture of venezuelan leader us news|9a4c375170d8741ffbf5e905b8d25ae0
 2026-01-05T09:17:47.360886+00:00|https://www.nytimes.com/2026/01/05/world/americas/oil-tankers-venezuela-blockade.html|sanctioned oil tankers flee venezuela in defiance of us blockade us news|b55913ca4636ef72c3ecadac74f74887
 2026-01-05T10:16:17.954256+00:00|https://abcnews.go.com/Politics/6-political-stories-watch-2026-midterms-maps/story|6 political stories to watch in 2026 from midterms to maps us news|212eddb5ec4a4e37b6b10fdbf3e884d2
+2026-01-05T11:25:44.982767+00:00|https://www.nytimes.com/2026/01/05/us/politics/uvalde-school-shooting-trial-robb.html|trial begins for former officer over uvalde school shooting response us news|8e7a8498e3c2bf2f842f5ac297b6a6c5
+2026-01-05T11:25:45.484297+00:00|https://www.nytimes.com/2026/01/05/us/politics/supreme-court-study-rich-poor.html|supreme court increasingly favors the rich economists say us news|6ec905fe6b1da4de7ef57876730318b3
+2026-01-05T11:25:45.957530+00:00|https://www.nytimes.com/2026/01/05/us/politics/the-key-senate-races-to-watch-in-2026.html|the key senate races to watch in 2026 us news|ce47a86164e8483a132011e115802597
+2026-01-05T11:25:46.448585+00:00|https://www.nytimes.com/2026/01/05/us/politics/trump-venezuela-monroe-doctrine.html|after venezuela trump offers hints about what could be next us news|6defb45c388e47adeb8b023971ad32a5
