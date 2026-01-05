@@ -9377,3 +9377,4 @@
 2026-01-05T06:01:59.946978+00:00|https://www.nytimes.com/2026/01/04/world/americas/venezuela-acting-president.html|venezuelas new leader calls for dialogue and coexistence with us us news|029ca7b9f1690a44b6410afd0bc52901
 2026-01-05T06:02:00.654415+00:00|https://www.nytimes.com/2026/01/04/us/politics/trump-cuba-greenland-colombia.html|trump suggests us could take action against more countries us news|7870a238870b2f3bae159e9efe5357a6
 2026-01-05T06:52:15.838410+00:00|https://abcnews.go.com/Business/wireStory/markets-show-mixed-reactions-after-us-capture-venezuelan-128899522|markets show mixed reactions after us capture of venezuelan leader us news|9a4c375170d8741ffbf5e905b8d25ae0
+2026-01-05T09:17:47.360886+00:00|https://www.nytimes.com/2026/01/05/world/americas/oil-tankers-venezuela-blockade.html|sanctioned oil tankers flee venezuela in defiance of us blockade us news|b55913ca4636ef72c3ecadac74f74887
