@@ -9403,3 +9403,5 @@
 2026-01-05T17:47:59.784299+00:00|https://www.nytimes.com/2026/01/05/business/new-car-sales.html|new car sales are rising thanks to purchases by the welloff us news|27f78593f3e8c309d449e385ef8b068b
 2026-01-05T17:48:00.354719+00:00|https://abcnews.go.com/US/maduro-wife-manhattan-federal-court-monday/story|maduro declares i am innocent and still president in manhattan court appearance us news|0a162821af71527ccbfdd7834c51b748
 2026-01-05T17:48:00.975194+00:00|https://www.nytimes.com/2026/01/05/world/middleeast/israel-mamdani-antisemitism.html|israels stinging retort to mamdani was meant as retaliation in kind us news|b80d514b2c4adba9b29096cd583778a0
+2026-01-05T18:40:37.438276+00:00|https://www.bbc.com/news/articles/cr4krkz7242o|trumps seizure of maduro raises thorny legal questions in us and abroad us news|2cda1be86a26f4bd6947d328f77e26f9
+2026-01-05T18:40:38.135232+00:00|https://www.nbcnews.com/video/shorts/maduro-makes-his-first-remarks-in-court-appearance-255416389521|maduro makes his first remarks in court appearance us news|6a8a7ed71f1d12ca3c8051fba165e41c
