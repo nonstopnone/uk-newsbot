@@ -9411,3 +9411,5 @@
 2026-01-05T20:31:40.558003+00:00|https://www.nytimes.com/2026/01/05/us/politics/white-house-updated-plans-ballroom.html|white house to present updated plans for trumps ballroom us news|9116cd8ba1c100089a223bfa3db0e097
 2026-01-05T20:31:41.251249+00:00|https://www.nytimes.com/2026/01/05/world/europe/berlin-power-failure-fire.html|thousands in berlin go days without power and cell service after cables are set on fire us news|e25788c78de6ebb66dec8ffcf6fe248a
 2026-01-05T20:31:41.768843+00:00|https://www.nbcnews.com/politics/national-security/rubio-takes-daunting-role-yet-rcna252440|marco rubio takes on his most daunting role yet us news|d4f60459df391f20f50e3090c766dccd
+2026-01-05T20:48:55.537341+00:00|https://www.nbcnews.com/video/shorts/rodriguez-sworn-in-as-venezuela-s-interim-president-255421509696|rodríguez sworn in as venezuelas interim president us news|1dfe4e4bd497b4a320ebdd8bcdc1df69
+2026-01-05T20:48:56.222018+00:00|https://www.nbcnews.com/video/shorts/view-from-the-courtroom-for-maduro-s-first-appearance-255417413858|view from the courtroom for maduros first appearance us news|ba4825215e8e04ee355750e3a7b3feb6
