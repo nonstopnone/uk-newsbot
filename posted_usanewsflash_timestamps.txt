@@ -9406,3 +9406,8 @@
 2026-01-05T18:40:37.438276+00:00|https://www.bbc.com/news/articles/cr4krkz7242o|trumps seizure of maduro raises thorny legal questions in us and abroad us news|2cda1be86a26f4bd6947d328f77e26f9
 2026-01-05T18:40:38.135232+00:00|https://www.nbcnews.com/video/shorts/maduro-makes-his-first-remarks-in-court-appearance-255416389521|maduro makes his first remarks in court appearance us news|6a8a7ed71f1d12ca3c8051fba165e41c
 2026-01-05T19:10:08.987367+00:00|https://www.nytimes.com/2026/01/05/health/children-vaccines-cdc-kennedy.html|kennedy scales back the number of vaccines recommended for children us news|f0ce55f6cf159ec8bff5bfa811203e06
+2026-01-05T20:31:39.465884+00:00|https://www.bbc.com/news/articles/ceqzlvg83wgo|us cuts universal childhood vaccine recommendations including covid and hepatitis us news|45a89ca12e1ccc8b6ee256af195ae59e
+2026-01-05T20:31:40.067118+00:00|https://www.bbc.com/news/videos/cy05933de12o|watch what it was like in the courtroom at maduros hearing us news|9f2280852ef2a319a10ff4f0724a54a6
+2026-01-05T20:31:40.558003+00:00|https://www.nytimes.com/2026/01/05/us/politics/white-house-updated-plans-ballroom.html|white house to present updated plans for trumps ballroom us news|9116cd8ba1c100089a223bfa3db0e097
+2026-01-05T20:31:41.251249+00:00|https://www.nytimes.com/2026/01/05/world/europe/berlin-power-failure-fire.html|thousands in berlin go days without power and cell service after cables are set on fire us news|e25788c78de6ebb66dec8ffcf6fe248a
+2026-01-05T20:31:41.768843+00:00|https://www.nbcnews.com/politics/national-security/rubio-takes-daunting-role-yet-rcna252440|marco rubio takes on his most daunting role yet us news|d4f60459df391f20f50e3090c766dccd
