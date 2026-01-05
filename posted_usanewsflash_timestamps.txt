@@ -9369,3 +9369,6 @@
 2026-01-05T02:23:41.463283+00:00|https://www.nytimes.com/2026/01/04/obituaries/robert-heide-dead.html|robert heide angsty playwright and warhol collaborator dies at 91 us news|4a9cca38cbd0f7c724a2c3515ef6cdce
 2026-01-05T02:23:42.071632+00:00|https://www.nbcnews.com/nightly-news/video/new-details-emerge-about-planning-before-venezuela-raid-255374917894|new details emerge about planning before venezuela raid us news|1867179ad5c1ecbbf147e054e87a3088
 2026-01-05T02:23:42.685233+00:00|https://www.nbcnews.com/business/energy/oil-prices-venezuela-trump-maduro-rcna252232|oil prices rise after us captures venezuelas nicolás maduro us news|8ce415fa8e7fd0dbdb7990943789b2ae
+2026-01-05T04:07:26.309520+00:00|https://www.bbc.com/news/articles/ckgnxvp477eo|trump warns new venezuelan leader as maduro set to appear in court us news|3a75331709cbeed4177eb9dca53d3267
+2026-01-05T04:07:26.814274+00:00|https://www.bbc.com/news/articles/c4g0zg974v1o|danish pm tells trump to stop threats against greenland us news|7227b499b908d300e9de67f6d86ae0b9
+2026-01-05T04:07:27.322523+00:00|https://www.nytimes.com/2026/01/04/us/politics/rubio-military-quarantine-venezuela-oil.html|trump says us is in charge of venezuela while rubio stresses coercing it us news|f1ea64e347014fe83ffea2bb33f68e84
