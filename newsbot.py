@@ -17,6 +17,12 @@ import json
 import difflib
 from dateutil import parser as dateparser
 from collections import Counter
+
+# =========================
+# Section: Global Regex Compilations (Performance)
+# =========================
+SPORTS_PREVIEW_REGEX = re.compile(r"\b(?:preview|odds|prediction|fight night|upcoming)\b", re.IGNORECASE)
+
 # =========================
 # Section: Reddit Setup
 # =========================
@@ -37,6 +43,7 @@ reddit = praw.Reddit(
     user_agent="BreakingUKNewsBot/2.3"
 )
 subreddit = reddit.subreddit("BreakingUKNews")
+
 # =========================
 # Section: Files and Constants
 # =========================
@@ -47,6 +54,7 @@ LEARNED_KEYWORDS_FILE = "learned_keywords.json"
 FUZZY_DUP_THRESHOLD = 0.40
 TARGET_POSTS = 7
 INITIAL_ARTICLES = 30
+
 # =========================
 # Section: UK Keyword Definitions (Full)
 # =========================
@@ -93,6 +101,7 @@ UK_KEYWORDS = {
     "tube": 3, "london underground": 3, "heathrow airport": 3,
     "gatwick airport": 3, "nhs england": 4
 }
+
 # =========================
 # Section: Negative / Foreign-Dominant Keywords (Full)
 # =========================
@@ -114,6 +123,7 @@ NEGATIVE_KEYWORDS = {
     "moscow": -6, "russia": -6, "putin": -8,
     "justin trudeau": -4, "ottawa": -4, "canberra": -4
 }
+
 # =========================
 # Section: Learned Keywords (Auto-Expansion Storage)
 # =========================
@@ -125,15 +135,17 @@ def load_learned_keywords():
         except Exception:
             return {}
     return {}
+
 def save_learned_keywords(data):
     try:
         with open(LEARNED_KEYWORDS_FILE, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
     except Exception:
         pass
+
 LEARNED_KEYWORDS = load_learned_keywords()
 
-# Incorporate highly frequent learned keywords into main UK scoring for better long-term relevancy
+# Incorporate frequent learned keywords for better relevancy
 for word, freq in LEARNED_KEYWORDS.items():
     if freq >= 30 and word not in UK_KEYWORDS and word not in NEGATIVE_KEYWORDS:
         UK_KEYWORDS[word] = 3
@@ -156,17 +168,20 @@ FLAIR_TEXTS = {
     "Trade and Diplomacy": "Trade and Diplomacy"
 }
 FLAIR_CACHE = {}
+
 # =========================
 # Section: Compile Keyword Patterns
 # =========================
 def compile_keywords_dict(d):
     return [(k, w, re.compile(r"\b" + re.escape(k) + r"\b", re.I)) for k, w in d.items()]
+
 UK_PATTERNS = compile_keywords_dict(UK_KEYWORDS)
 NEG_PATTERNS = compile_keywords_dict(NEGATIVE_KEYWORDS)
 PROMO_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "deal","discount","voucher","offer","buy","sale","promo","competition","giveaway"]]
 OPINION_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "opinion","comment","editorial","analysis","column","viewpoint","perspective"]]
+
 # =========================
 # Section: Utilities
 # =========================
@@ -175,15 +190,18 @@ def normalize_url(u):
         return ""
     p = urllib.parse.urlparse(u)
     return urllib.parse.urlunparse((p.scheme, p.netloc, p.path.rstrip('/'), '', '', ''))
+
 def normalize_title(t):
     if not t:
         return ""
     t = html.unescape(t)
     t = re.sub(r"[^\w\s£$€]", "", t)
     return re.sub(r"\s+", " ", t).strip().lower()
+
 def content_hash(entry):
     blob = (getattr(entry, 'title', '') + " " + getattr(entry, 'summary', ''))[:700]
     return hashlib.md5(blob.encode('utf-8')).hexdigest()
+
 # =========================
 # Section: Deduplication and Daily Tracking
 # =========================
@@ -210,7 +228,9 @@ def load_dedup():
     with open(DEDUP_FILE, 'w', encoding='utf-8') as f:
         f.writelines(cleaned_lines)
     return urls, titles, hashes
+
 POSTED_URLS, POSTED_TITLES, POSTED_HASHES = load_dedup()
+
 def add_to_dedup(entry):
     ts = datetime.now(timezone.utc).isoformat()
     norm_link = normalize_url(getattr(entry, 'link', ''))
@@ -224,6 +244,7 @@ def add_to_dedup(entry):
     POSTED_URLS.add(norm_link)
     POSTED_TITLES.add(norm_title)
     POSTED_HASHES.add(h)
+
 # =========================
 # Section: Fetching Article Text
 # =========================
@@ -240,6 +261,7 @@ def fetch_article_text(url):
         return paras
     except Exception:
         return []
+
 # =========================
 # Section: Scoring and Decision Logic
 # =========================
@@ -267,6 +289,7 @@ def calculate_uk_relevance_score(text):
         positive_total += 3 * len(postcodes)
         matched["UK_POSTCODE"] = matched.get("UK_POSTCODE", 0) + len(postcodes)
     return score, positive_total, negative_total, matched
+
 def is_hard_negative_rejection(text, positive_total, negative_total, matched):
     if negative_total > max(6, 1.5 * positive_total):
         return True, "negative_dominance"
@@ -276,6 +299,7 @@ def is_hard_negative_rejection(text, positive_total, negative_total, matched):
             if not has_strong_uk:
                 return True, f"banned_name:{banned}"
     return False, ""
+
 def compute_confidence(positive_total, negative_total, category_strength=1.0, hybrid=False):
     pos = max(0.0, float(positive_total))
     neg = float(negative_total)
@@ -286,18 +310,26 @@ def compute_confidence(positive_total, negative_total, category_strength=1.0, hy
         conf = max(20, int(conf * 0.7))
     conf = max(10, min(99, conf))
     return conf
+
 # =========================
 # Section: Content Heuristics
 # =========================
 def contains_promotional(text):
     t = text.lower()
     return any(p.search(t) for p in PROMO_PATTERNS)
+
 def contains_opinion(text):
     t = text.lower()
     return any(p.search(t) for p in OPINION_PATTERNS)
+
 def is_sports_preview(text):
+    if not text:
+        return False
     t = text.lower()
-    return any(re.search(r"\b(preview|odds|prediction|fight night|upcoming)\b", t)) and not any(w in t for w in ["won", "wins", "beat", "defeated", "victory"])
+    has_preview_word = SPORTS_PREVIEW_REGEX.search(t) is not None
+    has_result_word = any(w in t for w in ["won", "wins", "beat", "defeated", "victory"])
+    return has_preview_word and not has_result_word
+
 # =========================
 # Section: Categorisation
 # =========================
@@ -311,6 +343,7 @@ CATEGORY_KEYWORDS = {
     "Immigration": ["immigration", "asylum", "refugee", "border", "home office"],
     "Trade and Diplomacy": ["trade", "diplomacy", "ambassador", "summit", "treaty"]
 }
+
 def detect_category(full_text):
     txt = full_text.lower()
     scores = {}
@@ -325,6 +358,7 @@ def detect_category(full_text):
     chosen = max(scores.items(), key=lambda x: x[1])[0]
     strength = float(scores[chosen]) / (sum(scores.values()) or 1.0)
     return chosen, strength
+
 # =========================
 # Section: Flair ID Retrieval and Caching
 # =========================
@@ -341,6 +375,7 @@ def get_flair_id(flair_text):
         pass
     FLAIR_CACHE[flair_text] = None
     return None
+
 # =========================
 # Section: Posting, Replying and Logging
 # =========================
@@ -350,6 +385,7 @@ def write_run_log(data):
             f.write(json.dumps(data, ensure_ascii=False) + "\n")
     except Exception:
         pass
+
 def write_daily_post(data):
     try:
         name = DAILY_PREFIX + datetime.now(timezone.utc).strftime("%Y-%m-%d") + ".txt"
@@ -357,7 +393,8 @@ def write_daily_post(data):
             f.write(json.dumps(data, ensure_ascii=False) + "\n")
     except Exception:
         pass
-def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag):
+
+def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras):
     flair_text = FLAIR_TEXTS.get(category, FLAIR_TEXTS.get('Notable International'))
     flair_id = get_flair_id(flair_text)
     confidence = compute_confidence(positive_total, negative_total, category_strength, hybrid_flag)
@@ -367,11 +404,9 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
         write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "post_failed", "source": source, "title": getattr(entry, 'title', ''), "url": normalize_url(getattr(entry, 'link', '')), "error": str(e)})
         return False
 
-    # Build concise reply matching the requested style
     lines = []
 
-    # Quote first few actual paragraphs
-    full_paras = fetch_article_text(getattr(entry, 'link', ''))
+    # Quote first few paragraphs (passed in to avoid re-fetch)
     if full_paras:
         for para in full_paras[:3]:
             lines.append('> ' + para)
@@ -384,7 +419,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
         lines.append("UK–International (hybrid): this article has a meaningful UK connection but is primarily international in focus.")
         lines.append("")
 
-    # Top positive keywords (up to 3) with proper English phrasing
+    # Top positive keywords (up to 3)
     positive_matches = {k: v for k, v in matched.items() if not str(k).startswith('NEG:')}
     top_positive = sorted(positive_matches.items(), key=lambda x: x[1], reverse=True)[:3]
 
@@ -438,9 +473,9 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     write_run_log(record)
     write_daily_post(record)
 
-    # Learn from article content
+    # Learn from article content (use passed paras to avoid re-fetch)
     try:
-        article_text = ' '.join(fetch_article_text(getattr(entry, 'link', '')))
+        article_text = ' '.join(full_paras)
         tokens = re.findall(r"\b[a-z][a-z-]{3,}\b", (getattr(entry, 'title', '') + ' ' + getattr(entry, 'summary', '') + ' ' + article_text).lower())
         freq = Counter(tokens)
         for word, cnt in freq.items():
@@ -450,6 +485,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
         pass
     save_learned_keywords(LEARNED_KEYWORDS)
     return True
+
 # =========================
 # Section: Main Orchestration
 # =========================
@@ -464,6 +500,7 @@ def get_entry_published_datetime(entry):
             except Exception:
                 continue
     return None
+
 def is_duplicate(entry):
     norm_link = normalize_url(getattr(entry, 'link', ''))
     norm_title = normalize_title(getattr(entry, 'title', ''))
@@ -477,9 +514,10 @@ def is_duplicate(entry):
     if content_hash(entry) in POSTED_HASHES:
         return True, 'duplicate_hash'
     return False, ''
+
 def main():
     feeds = {
-        "BBC": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+        "BBC": "https://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
         "Telegraph": "https://www.telegraph.co.uk/rss.xml"
     }
@@ -496,37 +534,48 @@ def main():
         except Exception:
             continue
     entries.sort(key=lambda x: x[2], reverse=True)
+
     candidates = []
-    category_counts = {}
+    category_counts = Counter()
     for name, entry, published_dt in entries:
         if len(candidates) >= INITIAL_ARTICLES:
             break
         dup, reason = is_duplicate(entry)
         title = getattr(entry, 'title', '')
+        summary = getattr(entry, 'summary', '')
         if dup:
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "reason": reason})
             continue
-        preview = (getattr(entry, 'title', '') + ' ' + getattr(entry, 'summary', '')).lower()
-        if contains_promotional(preview):
+
+        preview_text = title + ' ' + summary
+        preview_lower = preview_text.lower()
+        if contains_promotional(preview_lower):
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "reason": "promotional"})
             continue
-        if contains_opinion(preview):
+        if contains_opinion(preview_lower):
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "reason": "opinion"})
             continue
+
         full_paras = fetch_article_text(getattr(entry, 'link', ''))
         if not full_paras:
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "reason": "fetch_failed"})
             continue
-        combined = (getattr(entry, 'title', '') + ' ' + getattr(entry, 'summary', '') + ' ' + ' '.join(full_paras))
+
+        article_text = ' '.join(full_paras)
+        combined = title + ' ' + summary + ' ' + article_text
+
         if is_sports_preview(combined):
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "reason": "sports_preview"})
             continue
+
         score, pos_total, neg_total, matched = calculate_uk_relevance_score(combined)
         hard_reject, hr_reason = is_hard_negative_rejection(combined, pos_total, neg_total, matched)
         if hard_reject:
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "reason": hr_reason, "score": score, "pos": pos_total, "neg": neg_total, "matched": matched})
             continue
+
         category, cat_strength = detect_category(combined)
+
         category_threshold = 3
         if category == 'Sport':
             category_threshold = 8
@@ -534,6 +583,7 @@ def main():
             category_threshold = 6
         if category == 'Notable International':
             category_threshold = 5
+
         has_uk_term = any(not str(k).startswith('NEG:') for k in matched)
         hybrid_flag = False
         if score < category_threshold or not has_uk_term:
@@ -542,6 +592,7 @@ def main():
             else:
                 write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "reason": "low_score_or_no_uk", "score": score, "pos": pos_total, "neg": neg_total})
                 continue
+
         def relevance_level(s, matched):
             has_strong_uk = any(k in matched for k in ["uk", "united kingdom", "britain", "london", "parliament", "nhs"])
             if s >= 10:
@@ -554,55 +605,59 @@ def main():
                 return "Low"
             else:
                 return "Very Low"
+
         level = relevance_level(score, matched)
         if level in ["Low", "Very Low"]:
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "reason": "low_relevance_level", "level": level, "score": score})
             continue
-        category_counts.setdefault(category, 0)
+
         if category_counts[category] < 3:
-            candidates.append((score, name, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag))
+            candidates.append((score, name, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras))
             category_counts[category] += 1
+
+    # Deduplicate across candidates
     unique = []
     seen_links = set()
     seen_titles = set()
     seen_hashes = set()
     for item in candidates:
-        _, source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag = item
+        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras = item
         link = normalize_url(getattr(entry, 'link', ''))
         ntitle = normalize_title(getattr(entry, 'title', ''))
         h = content_hash(entry)
         dup = False
-        if link in seen_links:
+        if link in seen_links or h in seen_hashes:
             dup = True
         else:
             for st in seen_titles:
                 if difflib.SequenceMatcher(None, st, ntitle).ratio() > FUZZY_DUP_THRESHOLD:
                     dup = True
                     break
-        if h in seen_hashes:
-            dup = True
         if not dup:
             unique.append(item)
             seen_links.add(link)
             seen_titles.add(ntitle)
             seen_hashes.add(h)
+
     unique.sort(key=lambda x: x[0], reverse=True)
+
+    # Final selection with category diversity
     selected = []
-    temp_cat_counts = {}
+    temp_cat_counts = Counter()
     for item in unique:
         if len(selected) >= TARGET_POSTS:
             break
-        _, source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag = item
-        temp_cat_counts.setdefault(category, 0)
+        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras = item
         if temp_cat_counts[category] < 3:
             selected.append(item)
             temp_cat_counts[category] += 1
+
     posts = 0
     skipped = 0
     for item in selected:
-        _, source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag = item
+        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras = item
         try:
-            post_success = post_with_flair_and_reply(source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag)
+            post_success = post_with_flair_and_reply(source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras)
             if post_success:
                 posts += 1
             else:
@@ -610,6 +665,8 @@ def main():
         except Exception:
             skipped += 1
         time.sleep(10)
+
     write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "run_summary", "attempted": len(selected), "posted": posts, "skipped": skipped})
+
 if __name__ == "__main__":
     main()
