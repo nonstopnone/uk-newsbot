@@ -347,17 +347,30 @@ CATEGORY_KEYWORDS = {
 def detect_category(full_text):
     txt = full_text.lower()
     scores = {}
+    keyword_contribs = {}
     for cat, keys in CATEGORY_KEYWORDS.items():
+        contrib = {}
         s = 0
         for k in keys:
-            s += len(re.findall(r"\b" + re.escape(k) + r"\b", txt))
-        if s:
+            c = len(re.findall(r"\b" + re.escape(k) + r"\b", txt))
+            if c > 0:
+                contrib[k] = c
+                s += c
+        if s > 0:
             scores[cat] = s
+            keyword_contribs[cat] = contrib
     if not scores:
-        return "Notable International", 0.0
-    chosen = max(scores.items(), key=lambda x: x[1])[0]
-    strength = float(scores[chosen]) / (sum(scores.values()) or 1.0)
-    return chosen, strength
+        return "Notable International", 0.0, "no dominant category keywords"
+    chosen = max(scores, key=scores.get)
+    strength = float(scores[chosen]) / sum(scores.values())
+    contrib = keyword_contribs.get(chosen, {})
+    if contrib:
+        top_k = max(contrib, key=contrib.get)
+        top_count = contrib[top_k]
+        top_trigger = f"{top_k} ({top_count} {'time' if top_count == 1 else 'times'})"
+    else:
+        top_trigger = "general category signals"
+    return chosen, strength, top_trigger
 
 # =========================
 # Section: Flair ID Retrieval and Caching
@@ -394,7 +407,7 @@ def write_daily_post(data):
     except Exception:
         pass
 
-def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras):
+def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras, top_trigger):
     flair_text = FLAIR_TEXTS.get(category, FLAIR_TEXTS.get('Notable International'))
     flair_id = get_flair_id(flair_text)
     confidence = compute_confidence(positive_total, negative_total, category_strength, hybrid_flag)
@@ -437,10 +450,11 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     else:
         keyword_list = "relevant UK-related terms"
 
-    lines.append("UK Relevance")
+    lines.append("**UK Relevance**")
     lines.append(f"This article was posted because the system detected key UK-related terms such as {keyword_list}, which indicate that it fits the {flair_text} category and is likely of interest to a UK audience.")
     lines.append("")
     lines.append(f"Based on this assessment, the system automatically assigned the {flair_text} flair with {confidence}% confidence.")
+    lines.append(f"Triggered by {top_trigger}")
     lines.append("")
     lines.append("This was posted automatically. (For more information about how this works, please see the subreddit wiki)")
 
@@ -574,7 +588,7 @@ def main():
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "reason": hr_reason, "score": score, "pos": pos_total, "neg": neg_total, "matched": matched})
             continue
 
-        category, cat_strength = detect_category(combined)
+        category, cat_strength, top_trigger = detect_category(combined)
 
         category_threshold = 3
         if category == 'Sport':
@@ -612,7 +626,7 @@ def main():
             continue
 
         if category_counts[category] < 3:
-            candidates.append((score, name, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras))
+            candidates.append((score, name, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras, top_trigger))
             category_counts[category] += 1
 
     # Deduplicate across candidates
@@ -621,7 +635,7 @@ def main():
     seen_titles = set()
     seen_hashes = set()
     for item in candidates:
-        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras = item
+        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras, top_trigger = item
         link = normalize_url(getattr(entry, 'link', ''))
         ntitle = normalize_title(getattr(entry, 'title', ''))
         h = content_hash(entry)
@@ -647,7 +661,7 @@ def main():
     for item in unique:
         if len(selected) >= TARGET_POSTS:
             break
-        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras = item
+        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras, top_trigger = item
         if temp_cat_counts[category] < 3:
             selected.append(item)
             temp_cat_counts[category] += 1
@@ -655,9 +669,9 @@ def main():
     posts = 0
     skipped = 0
     for item in selected:
-        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras = item
+        score, source, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras, top_trigger = item
         try:
-            post_success = post_with_flair_and_reply(source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras)
+            post_success = post_with_flair_and_reply(source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras, top_trigger)
             if post_success:
                 posts += 1
             else:
