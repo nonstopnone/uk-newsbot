@@ -479,9 +479,9 @@ def is_duplicate(entry):
     return False, ''
 def main():
     feeds = {
-        "BBC": "<http://feeds.bbci.co.uk/news/uk/rss.xml>",
-        "Sky": "<https://feeds.skynews.com/feeds/rss/home.xml>",
-        "Telegraph": "<https://www.telegraph.co.uk/rss.xml>"
+        "BBC": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+        "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
+        "Telegraph": "https://www.telegraph.co.uk/rss.xml"
     }
     now = datetime.now(timezone.utc)
     six_hours_ago = now - timedelta(hours=6)
@@ -567,7 +567,7 @@ def main():
     seen_titles = set()
     seen_hashes = set()
     for item in candidates:
-        *, source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag = item
+        _, source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag = item
         link = normalize_url(getattr(entry, 'link', ''))
         ntitle = normalize_title(getattr(entry, 'title', ''))
         h = content_hash(entry)
@@ -592,7 +592,7 @@ def main():
     for item in unique:
         if len(selected) >= TARGET_POSTS:
             break
-        *, source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag = item
+        _, source, entry, published_dt, score, pos_total, neg_total, matched, category, cat_strength, hybrid_flag = item
         temp_cat_counts.setdefault(category, 0)
         if temp_cat_counts[category] < 3:
             selected.append(item)
