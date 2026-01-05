@@ -9374,3 +9374,5 @@
 2026-01-05T04:07:27.322523+00:00|https://www.nytimes.com/2026/01/04/us/politics/rubio-military-quarantine-venezuela-oil.html|trump says us is in charge of venezuela while rubio stresses coercing it us news|f1ea64e347014fe83ffea2bb33f68e84
 2026-01-05T05:44:41.982376+00:00|https://www.nytimes.com/2026/01/05/world/africa/nigeria-us-strikes-muslims.html|after christmas day strikes fear grips muslims in rural nigeria us news|44719344f5014d96d1724c137fa43b54
 2026-01-05T05:44:42.596021+00:00|https://www.nytimes.com/2026/01/04/world/americas/cubans-killed-venezuela.html|cuba says 32 of its citizens died in venezuela including military personnel us news|34406883ffc6aabaa2a7013f5cf78096
+2026-01-05T06:01:59.946978+00:00|https://www.nytimes.com/2026/01/04/world/americas/venezuela-acting-president.html|venezuelas new leader calls for dialogue and coexistence with us us news|029ca7b9f1690a44b6410afd0bc52901
+2026-01-05T06:02:00.654415+00:00|https://www.nytimes.com/2026/01/04/us/politics/trump-cuba-greenland-colombia.html|trump suggests us could take action against more countries us news|7870a238870b2f3bae159e9efe5357a6
