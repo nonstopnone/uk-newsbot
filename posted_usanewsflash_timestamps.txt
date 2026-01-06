@@ -9425,3 +9425,7 @@
 2026-01-05T23:43:31.156176+00:00|https://www.nbcnews.com/business/energy/trump-venezuela-oil-companies-reimburse-rcna252434|trump says the us may reimburse oil companies for rebuilding venezuelas infrastructure us news|fd0aedb1234afb48ecc2ecaa66a73d5b
 2026-01-05T23:43:31.762358+00:00|https://www.nytimes.com/2026/01/05/us/david-r-young-dead.html|david r young 89 is dead nixon aide steered the watergate plumbers us news|367a245e5d7a9926996671f4b4f05873
 2026-01-05T23:43:32.221152+00:00|https://www.nytimes.com/2026/01/05/briefing/maduro-pleads-not-guilty.html|maduro pleads not guilty us news|af7745786de401ef2f945b71ea46cfd2
+2026-01-06T02:07:06.200289+00:00|https://www.bbc.com/news/articles/cx2gn93292do|a prediction market user made $436000 betting on maduros downfall us news|54546138a0656bd105e88e45fbc12bdf
+2026-01-06T02:07:06.692481+00:00|https://abcnews.go.com/US/dept-homeland-security-accuses-hotel-canceling-reservations-immigration/story|dept of homeland security accuses hotel of canceling rooms for immigration agents us news|eab30ae29a2166a5db888111ca224341
+2026-01-06T02:07:07.185112+00:00|https://www.nytimes.com/2026/01/05/nyregion/mamdani-anna-bahr-bernie-sanders.html|mamdani chooses a bernie sanders aide as his communications director us news|f0e5659308457e86fc91c6ec3849b4c7
+2026-01-06T02:07:07.858349+00:00|https://www.nytimes.com/2026/01/05/nyregion/nyc-congestion-pricing-anniversary-mamdani-hochul.html|mamdani and hochul celebrate congestion pricing a year after contentious debut us news|e46d03d58c9b6712b0f241d02604159e
