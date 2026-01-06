@@ -9470,3 +9470,4 @@
 2026-01-06T21:26:40.873343+00:00|https://www.nytimes.com/2026/01/06/nyregion/new-york-city-crime-statistics.html|murders in new york city fell 20 in 2025 though reported rapes rose us news|b1ed46768c4b739f36f1eeaf5d5f9fd0
 2026-01-06T21:26:41.529688+00:00|https://www.nytimes.com/2026/01/06/us/georgia-special-election-marjorie-taylor-greene.html|georgia schedules special election for marjorie taylor greenes seat us news|726e51874a1216fb278dd744ca137366
 2026-01-06T21:26:42.161382+00:00|https://www.nytimes.com/2026/01/06/us/politics/doug-lamalfa-house-republican-majority.html|doug lamalfas death further depletes house gop majority us news|bed0a42d9cd7c926a6501d0690249143
+2026-01-06T21:44:22.955069+00:00|https://www.nbcnews.com/video/shorts/couples-wait-overnight-to-secure-wedding-spots-at-oregon-parks-255494725680|couples wait overnight to secure wedding spots at oregon parks us news|51888cc2fab668e1283dcc0909c9475b
