@@ -9478,3 +9478,4 @@
 2026-01-06T23:26:19.334455+00:00|https://www.nytimes.com/2026/01/06/us/brown-mit-shootings-videos.html|suspect in brown and mit killings discussed attacks in videos officials say us news|1d12a0e6d706e07a730f6f8101fb69af
 2026-01-06T23:26:19.829597+00:00|https://abcnews.go.com/US/michael-reagan-son-former-president-ronald-reagan-died/story|michael reagan son of former president ronald reagan has died family says us news|767ea0568c35eacd6e6b9d1478234d19
 2026-01-06T23:26:20.364843+00:00|https://www.nbcnews.com/news/us-news/maduro-detained-new-york-city-jail-far-cry-anything-luxurious-rcna252579|maduro detained in new york city jail thats a far cry from anything luxurious us news|024b335c13c4fdc7a3c5f1ca01ebb6aa
+2026-01-06T23:42:32.051954+00:00|https://www.nytimes.com/2026/01/06/us/tim-walz-minnesota-fraud-trump.html|tim walz says he ended minnesota governor run to shield residents from trump us news|f399d490bebac1ea8802e79270ed467b
