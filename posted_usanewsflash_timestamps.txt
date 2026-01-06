@@ -9461,3 +9461,7 @@
 2026-01-06T19:42:00.231640+00:00|https://www.nytimes.com/2026/01/06/us/politics/homeland-security-minneapolis-immigration.html|homeland security steps up enforcement in minneapolis us news|75c4fe5c24f0a01d9cc5e71be6ce6d1c
 2026-01-06T20:30:26.454668+00:00|https://www.bbc.com/news/articles/cwywp4zxd9yo|abortion stays legal in wyoming after states top court strikes down bans us news|ca2a7d8a271c74444a55250072f8692a
 2026-01-06T20:30:27.316581+00:00|https://www.nytimes.com/2026/01/06/us/politics/rubio-venezuela-future.html|after maduros ouster marco rubio faces the challenge of running venezuela us news|5dd5b076cb256e2ed57c21e8ab6e0f7d
+2026-01-06T20:57:19.577011+00:00|https://www.nytimes.com/2026/01/06/us/politics/democrats-jan-6-milestone-trump.html|democrats commemorate jan 6 highlighting trumps role us news|9d59d5a7463fe10e3389b06bbcb868af
+2026-01-06T20:57:20.124283+00:00|https://www.nbcnews.com/business/energy/gas-prices-2026-gasbuddy-report-rcna252580|average nationwide gas cost will dip below $3 per gallon this year price tracking group projects us news|eda0040f1bf3c089ec639730e1ea1a39
+2026-01-06T20:57:20.718820+00:00|https://www.nbcnews.com/video/shorts/israeli-airstrikes-hit-multiple-sites-in-lebanon-255487557660|israeli airstrikes hit multiple sites in lebanon us news|cd7b78834bb14836fd15c708d0cacad9
+2026-01-06T20:57:21.344004+00:00|https://www.nbcnews.com/video/shorts/trial-over-officer-s-response-to-uvalde-shooting-begins-255491653860|trial over officers response to uvalde shooting begins us news|dc0491c8f42a22e36652e94c81630e90
