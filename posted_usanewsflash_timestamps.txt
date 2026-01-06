@@ -9429,3 +9429,4 @@
 2026-01-06T02:07:06.692481+00:00|https://abcnews.go.com/US/dept-homeland-security-accuses-hotel-canceling-reservations-immigration/story|dept of homeland security accuses hotel of canceling rooms for immigration agents us news|eab30ae29a2166a5db888111ca224341
 2026-01-06T02:07:07.185112+00:00|https://www.nytimes.com/2026/01/05/nyregion/mamdani-anna-bahr-bernie-sanders.html|mamdani chooses a bernie sanders aide as his communications director us news|f0e5659308457e86fc91c6ec3849b4c7
 2026-01-06T02:07:07.858349+00:00|https://www.nytimes.com/2026/01/05/nyregion/nyc-congestion-pricing-anniversary-mamdani-hochul.html|mamdani and hochul celebrate congestion pricing a year after contentious debut us news|e46d03d58c9b6712b0f241d02604159e
+2026-01-06T03:45:29.786325+00:00|https://www.nytimes.com/2026/01/05/us/trump-social-hortman-conspiracy-theory.html|trumps post about slain minnesota lawmaker dismays her children us news|1c96b2c077a9ee3012f2070773286676
