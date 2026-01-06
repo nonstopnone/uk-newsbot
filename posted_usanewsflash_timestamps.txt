@@ -9430,3 +9430,5 @@
 2026-01-06T02:07:07.185112+00:00|https://www.nytimes.com/2026/01/05/nyregion/mamdani-anna-bahr-bernie-sanders.html|mamdani chooses a bernie sanders aide as his communications director us news|f0e5659308457e86fc91c6ec3849b4c7
 2026-01-06T02:07:07.858349+00:00|https://www.nytimes.com/2026/01/05/nyregion/nyc-congestion-pricing-anniversary-mamdani-hochul.html|mamdani and hochul celebrate congestion pricing a year after contentious debut us news|e46d03d58c9b6712b0f241d02604159e
 2026-01-06T03:45:29.786325+00:00|https://www.nytimes.com/2026/01/05/us/trump-social-hortman-conspiracy-theory.html|trumps post about slain minnesota lawmaker dismays her children us news|1c96b2c077a9ee3012f2070773286676
+2026-01-06T04:28:25.543807+00:00|https://www.bbc.com/news/articles/ce8gen8nnvlo|venezuela swears in interim president after defiant maduro pleads not guilty in us court us news|e942e4492cac94852a054bb14378e67f
+2026-01-06T04:28:26.005933+00:00|https://www.nytimes.com/2026/01/05/us/politics/stephen-miller-greenland-venezuela.html|stephen miller asserts us has right to take greenland us news|b54bb1616e4bec97a008d13afe4fb1a4
