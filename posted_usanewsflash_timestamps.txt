@@ -9438,3 +9438,7 @@
 2026-01-06T10:59:05.578923+00:00|https://www.nytimes.com/2026/01/06/nyregion/dan-goldman-congress-brad-lander.html|facing challenge from lander dan goldman prepares to defend his seat us news|fd87946146826d6c83134e75ad06c174
 2026-01-06T10:59:06.069811+00:00|https://www.nytimes.com/2026/01/06/nyregion/george-conway-congress-manhattan.html|george conway a trump foe changes home and party to run for congress us news|800dbbf885b21b133f115abf8c13adee
 2026-01-06T10:59:06.561512+00:00|https://www.nytimes.com/2026/01/06/us/tim-walz-governor-minnesota.html|tim walzs 17 months in politics before ending his reelection bid us news|643b0c6bacd0c71a8a17a9cb7e4bd72a
+2026-01-06T12:56:08.140888+00:00|https://www.bbc.com/news/articles/c74x4m71pmjo|why does trump want greenland and what could it mean for nato us news|29b4076c1d2e2a9d0144416749dbc8fb
+2026-01-06T12:56:08.821849+00:00|https://www.bbc.com/news/articles/c07xkeee2k3o|trump aide says noone would fight us over greenland us news|bbb98faedab9830bb5c9fc2f7fbc58d3
+2026-01-06T12:56:09.520811+00:00|https://www.bbc.com/news/articles/c4grxzxjjd8o|trump claims us oil firms could be up and running in venezuela within 18 months us news|c856af73650882f315d56bc6a8b5a111
+2026-01-06T12:56:10.169555+00:00|https://www.nbcnews.com/world/ukraine/ukraine-security-guarantees-talks-trump-venezuela-greenland-europe-rcna252513|us allies warn trump over threats to seize greenland us news|e9c78fa3c99bc0bb8ac8d5fcfa29b6eb
