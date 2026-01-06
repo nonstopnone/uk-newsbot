@@ -9459,3 +9459,5 @@
 2026-01-06T17:58:34.677349+00:00|https://abcnews.go.com/GMA/News/video/students-develop-high-tech-fight-wildfires-128943477|watch students develop hightech way to fight wildfires us news|8663bac426a6b56e59e1c66a591641ba
 2026-01-06T19:21:40.640415+00:00|https://www.nytimes.com/2026/01/06/us/caltech-jayawardhana-new-president.html|caltech a science powerhouse hires ray jayawardhana as its new president us news|12c86ca7c7e8ed773b2c4ef6aac64fc1
 2026-01-06T19:42:00.231640+00:00|https://www.nytimes.com/2026/01/06/us/politics/homeland-security-minneapolis-immigration.html|homeland security steps up enforcement in minneapolis us news|75c4fe5c24f0a01d9cc5e71be6ce6d1c
+2026-01-06T20:30:26.454668+00:00|https://www.bbc.com/news/articles/cwywp4zxd9yo|abortion stays legal in wyoming after states top court strikes down bans us news|ca2a7d8a271c74444a55250072f8692a
+2026-01-06T20:30:27.316581+00:00|https://www.nytimes.com/2026/01/06/us/politics/rubio-venezuela-future.html|after maduros ouster marco rubio faces the challenge of running venezuela us news|5dd5b076cb256e2ed57c21e8ab6e0f7d
