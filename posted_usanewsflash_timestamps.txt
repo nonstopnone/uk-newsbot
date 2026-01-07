@@ -9508,3 +9508,7 @@
 2026-01-07T17:13:53.865049+00:00|https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story|icerelated shooting occurred in minnesota governor says us news|3826cbbc567e78db013f317b000f3249
 2026-01-07T17:13:55.004191+00:00|https://www.nbcnews.com/health/health-news/us-dietary-guidelines-protein-dairy-fat-rfk-jr-rcna252656|us rolls out new dietary guidelines backing more protein and fullfat dairy us news|c5acc59470a924c2aef1eb719a2cd3bc
 2026-01-07T17:13:55.730620+00:00|https://www.nytimes.com/2026/01/07/style/in-rome-they-call-him-maestro.html|abel ferrara in rome they call him maestro us news|7d053ded7c2876361f19424e6a9f7728
+2026-01-07T17:42:50.175345+00:00|https://www.bbc.com/news/articles/c0q4w1xnv35o|how could donald trump take greenland us news|6830cf2caa7000fb9075d0621f46855c
+2026-01-07T17:42:50.740188+00:00|https://www.bbc.com/news/articles/ckgn7p7g79wo|us will control venezuela oil sales indefinitely official says us news|82b7a67a70012da3e0f71c20c8e95064
+2026-01-07T17:42:51.495448+00:00|https://www.nytimes.com/2026/01/07/us/politics/trump-venezuela-congress-republicans.html|after maduro ouster trumps venezuela moves pose a challenge for gop in congress us news|317b6f83f5774403928bfce85bcd9002
+2026-01-07T17:42:52.071077+00:00|https://www.nbcnews.com/news/us-news/federal-law-enforcement-involved-ice-related-shooting-minneapolis-rcna252812|federal law enforcement involved in icerelated shooting in minneapolis us news|3f49322c220f31233ff989278227cf55
