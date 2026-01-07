@@ -9531,3 +9531,5 @@
 2026-01-07T22:47:06.352580+00:00|https://www.bbc.com/news/articles/c0lxz5wn2yzo|trump backs ban on institutional investor home purchases us news|37ffb2fb51f8d637e2c499b5f6dda543
 2026-01-07T23:26:31.371820+00:00|https://www.nytimes.com/2026/01/07/us/ice-shootings-minneapolis-other-cities.html|deadly minneapolis encounter is the 9th ice shooting since september us news|7af04ba39dbb9a287773aabdfaad4674
 2026-01-07T23:26:32.183475+00:00|https://www.nytimes.com/2026/01/07/technology/google-characterai-teenager-lawsuit.html|google and characterai to settle lawsuit over teenagers death us news|a2f1908971ac6578734fd5cc5f3eae01
+2026-01-07T23:57:29.280526+00:00|https://www.nytimes.com/2026/01/07/us/politics/venezuela-briefing-congress-rubio.html|lawmakers split after classified briefings on venezuela us news|66c01c919d0c9158fa4d17c9051c0d1e
+2026-01-07T23:57:29.892930+00:00|https://abcnews.go.com/Health/video/new-dietary-guidelines-rfk-jr-unviels-new-food-128995179|watch what are the new dietary guidelines rfk jr unveils new food pyramid us news|aa5f41e479bc31ee7151c95c8d3be9c7
