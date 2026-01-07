@@ -9505,3 +9505,6 @@
 2026-01-07T14:53:21.711386+00:00|https://www.nytimes.com/2026/01/07/us/politics/charlie-kirk-turning-point-usa-high-schools.html|as charlie kirks turning point pushes into high schools dissension follows us news|321e9b776915b7114e6b31ce500e5104
 2026-01-07T15:40:19.715296+00:00|https://www.nytimes.com/2026/01/07/business/alaska-airlines-boeing-planes.html|alaska airlines to buy 110 boeing planes as it seeks to expand us news|c5c278198f7df954607197524d63fdf3
 2026-01-07T16:39:02.928826+00:00|https://www.nytimes.com/2026/01/07/well/rfk-jr-food-pyramid-nutrition-guidelines-protein.html|rfk jr overhauls food pyramid to emphasize red meat and dairy us news|75046511b5fdcde84b817f9893ea282e
+2026-01-07T17:13:53.865049+00:00|https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story|icerelated shooting occurred in minnesota governor says us news|3826cbbc567e78db013f317b000f3249
+2026-01-07T17:13:55.004191+00:00|https://www.nbcnews.com/health/health-news/us-dietary-guidelines-protein-dairy-fat-rfk-jr-rcna252656|us rolls out new dietary guidelines backing more protein and fullfat dairy us news|c5acc59470a924c2aef1eb719a2cd3bc
+2026-01-07T17:13:55.730620+00:00|https://www.nytimes.com/2026/01/07/style/in-rome-they-call-him-maestro.html|abel ferrara in rome they call him maestro us news|7d053ded7c2876361f19424e6a9f7728
