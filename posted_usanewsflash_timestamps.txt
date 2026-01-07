@@ -9495,3 +9495,7 @@
 2026-01-07T12:57:20.111269+00:00|https://www.nbcnews.com/news/us-news/nick-reiner-court-hearing-michele-rob-reiner-death-rcna252673|nick reiner to be arraigned on murder charges after his parents were stabbed to death us news|7475a9e0a20c5cc44d6afa93d8378545
 2026-01-07T12:57:20.592010+00:00|https://www.nytimes.com/2026/01/05/world/europe/trump-greenland-why.html|why trump wants greenland us news|4be47e3a3266154ace5f2624f94fb554
 2026-01-07T12:57:21.078437+00:00|https://www.nytimes.com/2026/01/07/briefing/the-law-of-the-jungle.html|the law of the jungle us news|2aa08f8e4d2bd128f81949935cf6ea9f
+2026-01-07T13:42:52.854369+00:00|https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump|live updates trump says venezuela will send oil to us us news|9991d9bbef641c0089eb4db577f49c08
+2026-01-07T13:42:53.453440+00:00|https://abcnews.go.com/GMA/News/video/neighbors-save-mother-2-children-burning-home-128975392|watch neighbors save mother 2 children from burning home us news|05abdf7efccc6deac085d793f8e4d929
+2026-01-07T13:42:54.141252+00:00|https://abcnews.go.com/US/nick-reiner-expected-enter-plea-stabbing-deaths-parents/story|nick reiner to enter plea in stabbing deaths of parents rob and michele reiner us news|96006658288e76aaf328ca98b9a5e2e1
+2026-01-07T13:42:54.801993+00:00|https://www.today.com/video/nick-reiner-to-be-arraigned-in-murders-of-rob-and-michele-reiner-255532101717|nick reiner set to be arraigned in murder of parents us news|dba1f209271e65d6cb8c9a1cbc03a9a1
