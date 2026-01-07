@@ -9529,3 +9529,5 @@
 2026-01-07T21:57:30.236995+00:00|https://www.nytimes.com/2026/01/07/business/trump-wall-street-investors-homes.html|trump says he wants congress to stop wall st from buying singlefamily houses us news|3d742690e1dab0156337c203ca806de8
 2026-01-07T21:57:30.839146+00:00|https://www.nbcnews.com/video/shorts/gov-tim-walz-comments-on-ice-involved-shooting-255565381845|gov tim walz comments on iceinvolved shooting us news|15d882030096770a34d6f9794cd17b2d
 2026-01-07T22:47:06.352580+00:00|https://www.bbc.com/news/articles/c0lxz5wn2yzo|trump backs ban on institutional investor home purchases us news|37ffb2fb51f8d637e2c499b5f6dda543
+2026-01-07T23:26:31.371820+00:00|https://www.nytimes.com/2026/01/07/us/ice-shootings-minneapolis-other-cities.html|deadly minneapolis encounter is the 9th ice shooting since september us news|7af04ba39dbb9a287773aabdfaad4674
+2026-01-07T23:26:32.183475+00:00|https://www.nytimes.com/2026/01/07/technology/google-characterai-teenager-lawsuit.html|google and characterai to settle lawsuit over teenagers death us news|a2f1908971ac6578734fd5cc5f3eae01
