@@ -9609,3 +9609,6 @@
 2026-01-08T22:48:13.374689+00:00|https://www.nbcnews.com/politics/congress/house-votes-revive-obamacare-funds-senators-plot-scaled-back-bill-rcna252889|house votes to revive obamacare funds as senators plot a scaledback bill us news|0d12c3ff420a901e33a90f23ce55d706
 2026-01-08T22:48:13.897071+00:00|https://www.nytimes.com/2026/01/08/us/jd-vance-justice-dept-fraud-post.html|vance announces new justice dept fraud post to be run out of the white house us news|87478e3449e63d7bdeda5f9a467de480
 2026-01-08T22:57:38.520517+00:00|https://www.nytimes.com/2026/01/08/us/politics/house-bill-aca-subsidies.html|house passes doomed bill to restore aca subsidies us news|85b1d600338a0b71bb7b3289eb9a80e6
+2026-01-08T23:22:52.705497+00:00|https://www.bbc.com/news/videos/cdrex66pkm7o|watch bbc speaks to minneapolis residents gathered at shooting site us news|452d05cfc1fca74fb36230060cfe5f85
+2026-01-08T23:22:53.413898+00:00|https://www.nbcnews.com/science/space/nasa-bring-space-station-astronauts-home-early-medical-issue-rcna253077|nasa to bring astronauts home from space station early due to a medical issue us news|340ac42fd48ef151d0f0965527967d4d
+2026-01-08T23:22:54.131783+00:00|https://www.nytimes.com/2026/01/08/world/americas/navy-chasing-tankers-venezuela.html|us navy is chasing several oil tankers in the atlantic us news|5ed09cd6b16e541990cb44e2adff6af0
