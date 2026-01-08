@@ -9613,3 +9613,4 @@
 2026-01-08T23:22:53.413898+00:00|https://www.nbcnews.com/science/space/nasa-bring-space-station-astronauts-home-early-medical-issue-rcna253077|nasa to bring astronauts home from space station early due to a medical issue us news|340ac42fd48ef151d0f0965527967d4d
 2026-01-08T23:22:54.131783+00:00|https://www.nytimes.com/2026/01/08/world/americas/navy-chasing-tankers-venezuela.html|us navy is chasing several oil tankers in the atlantic us news|5ed09cd6b16e541990cb44e2adff6af0
 2026-01-08T23:42:31.455292+00:00|https://www.bbc.com/news/articles/cd9e2y7nkv8o|astronauts serious medical condition forces nasa to end space station mission early us news|5511993638d1888d2a0458478e7641b7
+2026-01-08T23:57:49.742571+00:00|https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story|2 shot by federal agents in portland sources us news|423d24db163f79157de4db30b0c2732a
