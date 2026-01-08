@@ -100,3 +100,4 @@
 2026-01-08T12:50:58.049560+00:00|https://www.bbc.com/news/articles/cr7j2nj02p1o|exreferee sentenced over child image offence|f4ce3bf76a94cb5bb693de93b383ad8e
 2026-01-08T14:40:57.311137+00:00|https://news.sky.com/story/what-is-a-weather-bomb-and-how-often-do-they-affect-the-uk-13492012|what is a weather bomb|56d14fdeb9ceb41b0baf4cf9c9a8ee35
 2026-01-08T15:38:01.449909+00:00|https://news.sky.com/story/tens-of-thousands-flee-fighting-in-aleppo-syria-after-evacuation-order-13492043|tens of thousands flee fighting in aleppo syria after evacuation order|013de0fb05662ee3f66e08bcb2ecf13e
+2026-01-08T17:01:09.919042+00:00|https://news.sky.com/story/maternal-death-rate-up-by-20-as-government-fails-to-meet-2025-target-13492085|maternal death rate up by 20 as government fails to meet 2025 target|54b7f2b4caf67a79c06bbb2f2943c513
