@@ -9569,3 +9569,5 @@
 2026-01-08T11:43:47.568794+00:00|https://www.nytimes.com/2026/01/08/world/americas/colombia-petro-trump-venezuela.html|colombias president feared a us attack then trump called us news|91cb5033b6b240b5e7439b278ca947d3
 2026-01-08T11:43:48.152141+00:00|https://www.nytimes.com/2026/01/08/arts/design/smithsonian-trump-pressure.html|the smithsonian faces new pressure to submit to trumps will us news|62b877b91b6c252392e6da710a85f4bb
 2026-01-08T11:43:48.749634+00:00|https://www.nytimes.com/2026/01/08/podcasts/the-headlines/ice-minneapolis-oil-tanker.html|the latest on the ice killing in minneapolis and a shadow fleet of oil tankers us news|96940de9165991f411f2c1c8f37c9927
+2026-01-08T12:58:00.535014+00:00|https://www.today.com/video/trump-admin-defends-fatal-shooting-of-minnesota-woman-by-ice-255606853619|outrage grows after ice fatally shoots woman in minneapolis us news|651319af33a1d0bcf06f7e7301fd0fda
+2026-01-08T12:58:01.098284+00:00|https://www.nbcnews.com/video/shorts/911-call-from-ohio-couple-s-home-months-before-murders-255605317851|911 call from ohio couples home months before murders us news|703e86ad090b6dd1292d047ed7a1e1a5
