@@ -9552,3 +9552,7 @@
 2026-01-08T05:57:58.186897+00:00|https://www.nbcnews.com/video/shorts/vigil-held-for-woman-killed-in-minneapolis-ice-shooting-255597125906|vigil held for woman killed in minneapolis ice shooting us news|b58f7a3573c3bf6ed0e43e2568813f57
 2026-01-08T07:13:23.770305+00:00|https://www.bbc.com/news/articles/cp80ln97py5o|trump withdraws us from key climate treaty and dozens of other groups us news|3c8c29fa92b63e807bed22d2cc12b523
 2026-01-08T07:13:24.445450+00:00|https://abcnews.go.com/Politics/former-democratic-house-majority-leader-steny-hoyer-announce/story|former democratic house majority leader steny hoyer to announce retirement us news|3521c59e29be9466761077696d90a25c
+2026-01-08T07:35:43.444715+00:00|https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html|trump says us oversight of venezuela could last for years us news|d84ccf7dca91d647c837363e10aaa874
+2026-01-08T07:35:43.953258+00:00|https://www.nytimes.com/2026/01/08/us/trump-sits-down-with-times-reporters-for-two-hour-interview.html|trump sits down with times reporters for twohour interview us news|86d0d75cfb3331c05e203236cbb1d9f8
+2026-01-08T07:35:44.453325+00:00|https://www.nytimes.com/2026/01/08/arts/television/late-night-trump-oil-venezuela.html|late night responds to trumps bid to be an oil baron us news|eae10bcd3ae44a4ef0134eacd87c191e
+2026-01-08T07:35:45.000931+00:00|https://www.nbcnews.com/video/shorts/protests-held-in-several-u-s-cities-after-ice-shooting-255602245757|protests held in several us cities after ice shooting us news|c223123cf00137a014a55d9810758acd
