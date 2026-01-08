@@ -9547,3 +9547,5 @@
 2026-01-08T04:27:49.892670+00:00|https://abcnews.go.com/US/state-terror-fear-eyewitness-shares-recount-fatal-minneapolis/story|a state of terror and fear eyewitness shares her recount of fatal ice shooting us news|7398fd64fa8b5957100d38d430602441
 2026-01-08T04:27:50.757544+00:00|https://abcnews.go.com/US/2-dead-6-wounded-after-shooting-salt-lake/story|2 dead 6 wounded after shooting outside salt lake city funeral us news|d0aa8cc4fd1a53a806d2451c7692ef06
 2026-01-08T04:27:51.469318+00:00|https://www.nbcnews.com/video/shorts/eyewitness-describes-scene-after-fatal-ice-shooting-255594053776|eyewitness describes scene after fatal ice shooting us news|e668f9fadbac5248414ccdf6360278c5
+2026-01-08T05:30:45.513743+00:00|https://www.nytimes.com/2026/01/08/us/politics/trump-russia-goals.html|when it comes to russia trump navigates conflicting goals us news|dbb91502101b327d791138db9801feac
+2026-01-08T05:30:46.155728+00:00|https://www.nbcnews.com/video/shorts/minneapolis-mayor-calls-ice-shooting-reckless-255595589532|minneapolis mayor calls ice shooting reckless us news|1a80def7e2fe8f1de9e10804782faee5
