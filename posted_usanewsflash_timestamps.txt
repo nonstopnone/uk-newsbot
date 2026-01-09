@@ -9643,3 +9643,5 @@
 2026-01-09T14:00:41.446736+00:00|https://www.nbcnews.com/world/venezuela/us-seizes-tanker-olina-caribbean-venezuela-russia-oil-rcna253170|us seizes another tanker in the caribbean us news|7e060e035487605c8d6f05ff4f188511
 2026-01-09T14:31:14.105952+00:00|https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html|elon musks ai is generating sexualized images of real people fueling outrage us news|2630d04f4726ec61cffaca1bbecf8415
 2026-01-09T14:31:14.716998+00:00|https://www.nbcnews.com/tech/internet/x-paywall-ai-image-grok-app-bikini-allows-sexual-deepfakes-rcna252647|elon musks x limits ai sexual images after backlash but xais grok app still makes them us news|3b076b2de033e8dd946ba137ec95bfa9
+2026-01-09T15:48:17.084992+00:00|https://abcnews.go.com/US/ice-force-policy/story|fatal ice shooting prompts questions on reasonable use of force experts us news|6112bccc8b1b6fd011d8ad4311bfdb83
+2026-01-09T15:48:17.626178+00:00|https://www.nbcnews.com/video/shorts/nationwide-protests-erupt-after-fatal-ice-shooting-255681605759|nationwide protests erupt after fatal ice shooting us news|3166023188459b43b2e190a9b319f742
