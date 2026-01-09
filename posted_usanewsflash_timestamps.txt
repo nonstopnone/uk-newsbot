@@ -9632,3 +9632,4 @@
 2026-01-09T11:24:43.564552+00:00|https://www.nytimes.com/2026/01/09/well/rfk-jr-uspstf-task-force.html|rfk jr weakens us preventive services task force us news|cefc67efef0e924367473152c1714840
 2026-01-09T11:24:44.203072+00:00|https://www.nytimes.com/2026/01/09/climate/supreme-court-weedkiller-roundup.html|the war over the weedkiller roundup might be headed to the supreme court us news|0bad1bee14ce1992761ca6aff6441385
 2026-01-09T11:24:44.873354+00:00|https://www.nytimes.com/2026/01/09/podcasts/the-daily/trump-interview.html|an interview with the president us news|beb5abdf443228fef5e69936c027ce97
+2026-01-09T11:57:39.208338+00:00|https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html|irans supreme leader vows to not back down as protests swell us news|e81e40a949bc1c9fa7ba15655a14a67d
