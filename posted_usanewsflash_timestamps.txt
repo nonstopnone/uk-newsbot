@@ -9674,3 +9674,6 @@
 2026-01-09T23:26:04.803876+00:00|https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html|washington national opera is leaving the kennedy center us news|7cd30b3c76325c3071ab3e90b2e7a27a
 2026-01-09T23:26:05.562363+00:00|https://www.nbcnews.com/now/video/trump-meets-with-oil-executives-to-discuss-future-of-industry-in-venezuela-255701573539|trump meets with oil executives to discuss future of industry in venezuela us news|9818178ae184ea1689184b39071b5362
 2026-01-09T23:26:06.317437+00:00|https://www.nytimes.com/2026/01/09/us/politics/fbi-deputy-director-christopher-raia.html|christopher raia to be fbi deputy director after bonginos departure us news|dd5fab0d81e8e36ce0959c4b4dad1332
+2026-01-09T23:43:19.926092+00:00|https://www.nytimes.com/2026/01/09/nyregion/mamdani-pinnacle-apartments.html|mamdanis first big move to help renters is dealt a blow by court us news|a5d2b6accc0c0ea975c6f77425e92f03
+2026-01-09T23:43:20.453060+00:00|https://abcnews.go.com/Politics/trump-us-greenland/story|trump says us will do something on greenland whether they like it or not us news|888db144f4ac4554648b1c643bdbd030
+2026-01-09T23:43:21.015524+00:00|https://www.nytimes.com/2026/01/09/nyregion/mamdani-hamas-israel-gaza-protest.html|mamdani condemns slurs and prohamas chant at heated queens protest us news|8c74af435f030f04a3d100fee9ad5f21
