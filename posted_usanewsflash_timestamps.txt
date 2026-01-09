@@ -9663,3 +9663,6 @@
 2026-01-09T20:57:50.581389+00:00|https://www.nytimes.com/2026/01/09/us/grave-robbery-bones-remains-pennsylvania.html|man charged with stealing dozens of skeletons from a pennsylvania cemetery authorities say us news|ad53ee53d46226203684265497091b91
 2026-01-09T20:57:51.079525+00:00|https://www.nytimes.com/2026/01/09/well/measles-outbreak-new-cases-south-carolina.html|measles outbreak in south carolina worsens us news|024fccd8f5774a86e65e6e042bbef26e
 2026-01-09T21:26:21.824448+00:00|https://www.bbc.com/news/articles/cz7yv4524gqo|video emerges of minneapolis shooting filmed by ice agent who opened fire us news|6a5f557aa94b128e896738b6ca2e818e
+2026-01-09T22:26:45.971028+00:00|https://www.nytimes.com/2026/01/09/us/politics/us-hiring-economy-trump-second-term.html|jobs report shows us hiring slowed one year into trumps second term us news|c9afc4dddad5cae08f13ae0401304f6f
+2026-01-09T22:26:46.638810+00:00|https://www.nytimes.com/2026/01/09/us/politics/congress-republicans-trump-distancing.html|gop seeks some distance from trump as midterm election year opens us news|7d6a6bcf194ad1ca9e35261eb551b8e4
+2026-01-09T22:26:47.164246+00:00|https://www.nbcnews.com/video/shorts/rep-omar-complete-outrage-in-minneapolis-after-ice-shooting-255705157635|rep omar complete outrage in minneapolis after ice shooting us news|b17c3593bf3f75775a1c88ae5b2d95db
