@@ -9651,3 +9651,5 @@
 2026-01-09T17:12:25.469024+00:00|https://www.nytimes.com/2026/01/09/technology/google-founders-california-wealth-tax.html|google guys say bye to california us news|d523bcf5e229285b93260e7bdbee9c7c
 2026-01-09T18:39:59.269105+00:00|https://www.nytimes.com/2026/01/09/arts/music/eaton-fire-mario-miralles-violin-cello.html|in the path of a raging wildfire a luthiers precious wood us news|6954e35de3b153bc3cc67cfb35e597a9
 2026-01-09T18:39:59.752050+00:00|https://abcnews.go.com/Health/south-carolina-reports-99-new-measles-cases/story|south carolina reports 99 new measles cases us news|b003c231e5c2d4245ad79acda99420a4
+2026-01-09T19:27:57.286968+00:00|https://www.nytimes.com/2026/01/09/well/dietary-guidelines-conflicts-of-interest.html|rfk jrs dietary guidelines face criticism for conflicts of interest us news|8b16edec678f3ba906a33a7d3aecd11e
+2026-01-09T19:27:57.810559+00:00|https://www.nytimes.com/2026/01/09/world/middleeast/yemeni-separatists-disband.html|yemeni separatists say they are disbanding but move is in dispute us news|9fb2368e6480257983402bb3be22eb95
