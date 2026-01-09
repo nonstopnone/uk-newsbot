@@ -9653,3 +9653,4 @@
 2026-01-09T18:39:59.752050+00:00|https://abcnews.go.com/Health/south-carolina-reports-99-new-measles-cases/story|south carolina reports 99 new measles cases us news|b003c231e5c2d4245ad79acda99420a4
 2026-01-09T19:27:57.286968+00:00|https://www.nytimes.com/2026/01/09/well/dietary-guidelines-conflicts-of-interest.html|rfk jrs dietary guidelines face criticism for conflicts of interest us news|8b16edec678f3ba906a33a7d3aecd11e
 2026-01-09T19:27:57.810559+00:00|https://www.nytimes.com/2026/01/09/world/middleeast/yemeni-separatists-disband.html|yemeni separatists say they are disbanding but move is in dispute us news|9fb2368e6480257983402bb3be22eb95
+2026-01-09T19:57:42.067689+00:00|https://www.nbcnews.com/video/shorts/ice-officer-s-video-shows-moments-before-minn-shooting-255695429913|ice officers video shows moments before minn shooting us news|1cbd47e9fb36c8b4dfff4c4900d25c14
