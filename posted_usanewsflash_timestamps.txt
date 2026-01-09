@@ -9666,3 +9666,5 @@
 2026-01-09T22:26:45.971028+00:00|https://www.nytimes.com/2026/01/09/us/politics/us-hiring-economy-trump-second-term.html|jobs report shows us hiring slowed one year into trumps second term us news|c9afc4dddad5cae08f13ae0401304f6f
 2026-01-09T22:26:46.638810+00:00|https://www.nytimes.com/2026/01/09/us/politics/congress-republicans-trump-distancing.html|gop seeks some distance from trump as midterm election year opens us news|7d6a6bcf194ad1ca9e35261eb551b8e4
 2026-01-09T22:26:47.164246+00:00|https://www.nbcnews.com/video/shorts/rep-omar-complete-outrage-in-minneapolis-after-ice-shooting-255705157635|rep omar complete outrage in minneapolis after ice shooting us news|b17c3593bf3f75775a1c88ae5b2d95db
+2026-01-09T22:46:54.901877+00:00|https://www.bbc.com/news/articles/c205dx61x76o|trumps venezuela oil meeting starts with few concrete promises us news|d35129db2323e6cf1abeb944d1080c18
+2026-01-09T22:46:55.509621+00:00|https://abcnews.go.com/US/video/cellphone-video-officer-shows-moment-leading-fatal-shooting-129068454|watch cellphone video from officer shows moment leading up to fatal shooting of renee good us news|6437658b64535b7b2e877b3d8c24f685
