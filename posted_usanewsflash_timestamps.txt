@@ -9638,3 +9638,5 @@
 2026-01-09T12:56:52.319450+00:00|https://www.nytimes.com/2026/01/03/world/middleeast/iran-protests-inflation-currency.html|what to know about the protests in iran us news|19aaebfebf48ceca80f1662fe93b5130
 2026-01-09T12:56:52.987620+00:00|https://www.nytimes.com/2026/01/09/business/economy/federal-reserve-labor-market-rate-cuts.html|fed keeps close eye on labor market as it assesses further cuts us news|32b0f3c8acce29622d6bc2afcc427cd9
 2026-01-09T12:56:53.666925+00:00|https://www.nytimes.com/2026/01/09/briefing/trump-oval-office-interview.html|president trumps vision of power us news|e330877453c44ae6ced22f888e56dd9e
+2026-01-09T13:41:25.087034+00:00|https://www.nytimes.com/2026/01/09/business/china-latin-america-trump-venezuela.html|trump is making a power play in latin america china is already there us news|660ec05d96e2b5a94d981bd5bc8d2e5d
+2026-01-09T13:41:25.565949+00:00|https://abcnews.go.com/International/wireStory/iran-judiciary-chief-vows-decisive-punishment-protesters-129046564|iran judiciary chief vows there will be decisive punishment for protesters us news|8c0050c36cf97ea5122e552b3bd62305
