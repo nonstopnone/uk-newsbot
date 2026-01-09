@@ -9640,3 +9640,4 @@
 2026-01-09T12:56:53.666925+00:00|https://www.nytimes.com/2026/01/09/briefing/trump-oval-office-interview.html|president trumps vision of power us news|e330877453c44ae6ced22f888e56dd9e
 2026-01-09T13:41:25.087034+00:00|https://www.nytimes.com/2026/01/09/business/china-latin-america-trump-venezuela.html|trump is making a power play in latin america china is already there us news|660ec05d96e2b5a94d981bd5bc8d2e5d
 2026-01-09T13:41:25.565949+00:00|https://abcnews.go.com/International/wireStory/iran-judiciary-chief-vows-decisive-punishment-protesters-129046564|iran judiciary chief vows there will be decisive punishment for protesters us news|8c0050c36cf97ea5122e552b3bd62305
+2026-01-09T14:00:41.446736+00:00|https://www.nbcnews.com/world/venezuela/us-seizes-tanker-olina-caribbean-venezuela-russia-oil-rcna253170|us seizes another tanker in the caribbean us news|7e060e035487605c8d6f05ff4f188511
