@@ -9633,3 +9633,8 @@
 2026-01-09T11:24:44.203072+00:00|https://www.nytimes.com/2026/01/09/climate/supreme-court-weedkiller-roundup.html|the war over the weedkiller roundup might be headed to the supreme court us news|0bad1bee14ce1992761ca6aff6441385
 2026-01-09T11:24:44.873354+00:00|https://www.nytimes.com/2026/01/09/podcasts/the-daily/trump-interview.html|an interview with the president us news|beb5abdf443228fef5e69936c027ce97
 2026-01-09T11:57:39.208338+00:00|https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html|irans supreme leader vows to not back down as protests swell us news|e81e40a949bc1c9fa7ba15655a14a67d
+2026-01-09T12:56:50.975544+00:00|https://www.bbc.com/news/articles/c99knmrx71go|second night of us protests over ice shooting of woman in minneapolis us news|75fad7c99496efceddfda8fab74f5343
+2026-01-09T12:56:51.650834+00:00|https://www.today.com/video/border-patrol-agents-shoot-2-people-during-traffic-stop-in-oregon-255673925751|border patrol agents shoot 2 people during traffic stop in oregon us news|a67ee05c95d2576551a91f6ef0e1570b
+2026-01-09T12:56:52.319450+00:00|https://www.nytimes.com/2026/01/03/world/middleeast/iran-protests-inflation-currency.html|what to know about the protests in iran us news|19aaebfebf48ceca80f1662fe93b5130
+2026-01-09T12:56:52.987620+00:00|https://www.nytimes.com/2026/01/09/business/economy/federal-reserve-labor-market-rate-cuts.html|fed keeps close eye on labor market as it assesses further cuts us news|32b0f3c8acce29622d6bc2afcc427cd9
+2026-01-09T12:56:53.666925+00:00|https://www.nytimes.com/2026/01/09/briefing/trump-oval-office-interview.html|president trumps vision of power us news|e330877453c44ae6ced22f888e56dd9e
