@@ -9721,3 +9721,4 @@
 2026-01-10T21:57:45.638493+00:00|https://www.nytimes.com/2026/01/10/us/monkeys-loose-st-louis.html|monkeys are on the loose in st louis city officials say us news|2ddf12ba3e2430f25ea06fd69f927f6c
 2026-01-10T22:44:58.329141+00:00|https://www.nytimes.com/2026/01/10/us/disinformation-minneapolis-shooting-ice.html|disinformation in minneapolis shooting points at people that were not involved us news|305f06f7af159d390916aeec767b58e8
 2026-01-10T22:44:58.785606+00:00|https://www.nbcnews.com/now/video/u-s-carries-out-new-strikes-against-isis-targets-in-syria-255748677938|us carries out new strikes against isis targets in syria us news|f923f4433935c74eb5fbc4409723ffea
+2026-01-10T23:57:39.954531+00:00|https://www.nytimes.com/2026/01/10/us/politics/us-strikes-islamic-state-syria.html|us launches major strikes on islamic state targets in syria us news|e5680b7cd067914edf1353935e64cf2b
