@@ -9704,3 +9704,5 @@
 2026-01-10T14:24:23.040779+00:00|https://www.nytimes.com/2026/01/10/nyregion/mamdani-cea-weaver-cat-da-costa.html|for mamdani 2 contentious hires yield 2 different outcomes us news|e58044c453b3aaeba6493b04a2c7eb08
 2026-01-10T14:57:28.619612+00:00|https://www.nytimes.com/2026/01/10/health/bird-flu-viruses-health.html|bird flu viruses raise mounting concerns among scientists us news|46e2155b5178a8b114be16790fe9be94
 2026-01-10T15:25:24.049075+00:00|https://www.nytimes.com/2026/01/09/business/energy-environment/trump-venezuela-oil-executives.html|trumps $100 billion venezuela oil plan gets a cool reception us news|a3ae6e42d41c5e120b1f7cd6127626fa
+2026-01-10T15:57:42.450028+00:00|https://www.nytimes.com/2026/01/10/us/shooting-west-point-mississippi.html|six people are fatally shot in mississippi sheriff says us news|63d42997665d9febe6dc594753131b6c
+2026-01-10T15:57:43.123466+00:00|https://www.nbcnews.com/video/shorts/video-captures-renee-good-s-car-crashing-after-shooting-255747141814|video captures renee goods car crashing after shooting us news|a9cef69260e4af81c7ed3b8fa589b6c8
