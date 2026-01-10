@@ -9690,3 +9690,4 @@
 2026-01-10T04:55:10.444274+00:00|https://www.nytimes.com/2026/01/09/us/politics/credit-card-interest-cap.html|trump calls for 10 percent credit card interest cap after killing other fee limits us news|cda76de1aa3a55ce32e21fc1df5da555
 2026-01-10T05:14:55.603354+00:00|https://www.nytimes.com/2026/01/10/world/europe/icc-judges-us-sanctions-trump.html|icc judges denounce effect of trumps sanctions us news|4c92cc4b038659f18529ecd757fb42bc
 2026-01-10T05:14:56.267514+00:00|https://www.nytimes.com/2026/01/10/business/volkswagen-tariffs-trump.html|volkswagen suffers more than rivals from auto industry woes us news|d5d181540ca4e103d32523b38cee6da4
+2026-01-10T05:36:58.402800+00:00|https://www.nbcnews.com/world/asia/venezuela-maduro-trump-china-south-america-oil-investment-rcna253162|why trumps venezuela raid may not stop chinas influence in south america us news|f158527903e0335fe699b202e5254655
