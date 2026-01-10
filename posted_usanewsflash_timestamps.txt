@@ -9688,3 +9688,5 @@
 2026-01-10T03:38:30.279621+00:00|https://www.nbcnews.com/video/grok-ai-model-still-generating-sexualized-content-after-changes-255722053882|grok ai model still generating sexualized content after changes us news|3b13acbbb37d59d94bec8101f1a2017b
 2026-01-10T04:55:09.777448+00:00|https://www.nbcnews.com/sports/college-football/indiana-oregon-college-football-playoff-result-rcna252476|indiana routs oregon to advance to college football playoff championship us news|4d69e82af435fda97006d92cf820acd3
 2026-01-10T04:55:10.444274+00:00|https://www.nytimes.com/2026/01/09/us/politics/credit-card-interest-cap.html|trump calls for 10 percent credit card interest cap after killing other fee limits us news|cda76de1aa3a55ce32e21fc1df5da555
+2026-01-10T05:14:55.603354+00:00|https://www.nytimes.com/2026/01/10/world/europe/icc-judges-us-sanctions-trump.html|icc judges denounce effect of trumps sanctions us news|4c92cc4b038659f18529ecd757fb42bc
+2026-01-10T05:14:56.267514+00:00|https://www.nytimes.com/2026/01/10/business/volkswagen-tariffs-trump.html|volkswagen suffers more than rivals from auto industry woes us news|d5d181540ca4e103d32523b38cee6da4
