@@ -17,7 +17,7 @@ import json
 import difflib
 from dateutil import parser as dateparser
 from collections import Counter
-import google.i as genai
+import google.generativeai as genai
 # =========================
 # Section: Global Regex Compilations (Performance)
 # =========================
