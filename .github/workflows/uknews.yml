@@ -31,10 +31,15 @@ jobs:
           REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u newsbot.py
-      - run: |
+      - name: Commit Logs
+        run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add posted_urls.txt run_log.txt posted_urls_*.txt || true
+          # Add standard files (always exist)
+          git add run_log.txt posted_urls.txt
+          # Add daily log files if they exist, but don't fail if they don't
+          git add posted_urls_*.txt || true
+          # Commit and push
           git commit -m "Update logs and dedup" || true
           git push || true
         env:
