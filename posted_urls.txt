@@ -142,3 +142,11 @@
 2026-01-11T16:00:16.090020+00:00|https://www.bbc.com/news/articles/c93vngqg97ko|mystery of wolftype dogs solved with dna test|c97fa6a6250c2d49ff113e1d42db2d9c
 2026-01-11T16:00:26.643434+00:00|https://www.bbc.com/news/articles/ckgj1m1ze8go|potholes map rates council road repair progress|8cbcd749a0e4696efd0664393f681f5d
 2026-01-11T16:00:37.323015+00:00|https://news.sky.com/story/former-newcastle-goalkeeper-shay-given-apologises-after-making-holocaust-remark-13493022|former premier league star apologises for holocaust remark|a9b23adb6e4adddd88ec503c69c0aaca
+2026-01-11T16:08:40.798591+00:00|https://www.bbc.com/news/articles/c0r45k245pvo|four killed and five injured in headon crash|f14cbca77f4f85162748bcee115cd446
+2026-01-11T16:08:51.411599+00:00|https://www.bbc.com/news/articles/c0r45k245pvo|four killed and five injured in headon crash|f14cbca77f4f85162748bcee115cd446
+2026-01-11T16:09:01.975002+00:00|https://news.sky.com/story/four-dead-and-five-injured-after-two-vehicle-crash-13493019|three teenagers thought to be among four dead after car and taxi crash|3f3779192d4538d07cba4c29f87a89b2
+2026-01-11T16:09:12.908443+00:00|https://news.sky.com/story/bride-and-groom-among-eight-killed-in-wedding-gas-cylinder-blast-13493004|bride and groom among eight killed in explosion at wedding|de64f18592b5adaecdaf6441d489696d
+2026-01-11T16:09:23.442340+00:00|https://news.sky.com/story/conservatives-pledge-to-ban-social-media-for-under-16s-13493015|conservatives pledge to ban social media for under16s|7c2cf41ecaaffd48aefa890e3248cc27
+2026-01-11T16:09:34.144329+00:00|https://www.bbc.com/sport/boxing/articles/cly5w9ne426o|briton smith stuns matias to become world champion|1b62b811787f92ac4ffd6368ccbf0ebb
+2026-01-11T16:09:44.688100+00:00|https://www.bbc.com/news/articles/cp3z475kxwpo|photographer over the moon with iconic et recreation two years in the making|bba3654ab75cf8e174eb1bf3603f9180
+2026-01-11T16:09:55.214264+00:00|https://www.bbc.com/news/articles/cx2lp6nnjjzo|i have 45 children applying to my special school each week|58ec29296d5834d21cbe14abcb39b40c
