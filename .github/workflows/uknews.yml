@@ -2,7 +2,7 @@ name: UK News Bot
 
 on:
   schedule:
-    - cron: '15,30,45,55, * * * *'  # Runs at 5, 15, 35, and 55 minutes past every hour
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 concurrency:
@@ -21,25 +21,23 @@ jobs:
         with:
           python-version: '3.11'
       - run: python -m pip install --upgrade pip
+      # Force install/upgrade google-genai to ensure V1 SDK access
       - name: Install dependencies
-        run: pip install feedparser praw beautifulsoup4 requests python-dateutil google-genai
+        run: pip install --upgrade feedparser praw beautifulsoup4 requests python-dateutil google-genai
       - name: Run newsbot
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }} # Ensure this matches your secret name
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u newsbot.py
       - name: Commit Logs
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # Add standard files (always exist)
           git add run_log.txt posted_urls.txt
-          # Add daily log files if they exist, but don't fail if they don't
           git add posted_urls_*.txt || true
-          # Commit and push
           git commit -m "Update logs and dedup" || true
           git push || true
         env:
