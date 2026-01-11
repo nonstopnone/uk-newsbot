@@ -9740,3 +9740,4 @@
 2026-01-11T11:21:52.468577+00:00|https://www.nytimes.com/2026/01/11/us/politics/trumps-appeals-court-judges.html|trumps superstar appellate judges have voted 133 to 12 in his favor us news|8a2b2182ba411f7b92727eb43b579388
 2026-01-11T14:44:32.409759+00:00|https://www.nytimes.com/2026/01/11/world/asia/malaysia-indonesia-grok-ban.html|malaysia and indonesia block access to grok because of sexually explicit content us news|b930b7e6276e57c5b9aa9c39eef5c8f7
 2026-01-11T14:44:33.045555+00:00|https://www.today.com/video/anti-ice-protests-grow-across-the-us-after-minneapolis-shooting-255765061571|antiice protests grow across the us after minneapolis shooting us news|0910141890865afbac88357c8865bf53
+2026-01-11T14:57:30.883748+00:00|https://abcnews.go.com/Politics/minnesota-senator-white-house-attempting-cover-good-shooting/story|minnesota senator white house attempting to cover up good shooting us news|c5aafc4d9ccb4b1abd999f4fa5891ce9
