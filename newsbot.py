@@ -20,7 +20,7 @@ from collections import Counter
 from google import genai
 
 # =========================
-# Section: Console Colors and Logging
+# Section: Console Colors & Logging
 # =========================
 class Col:
     RED = '\033[91m'
@@ -35,7 +35,7 @@ def log(tag, msg, color=Col.RESET):
     print(f"{color}[{ts}] [{tag}] {msg}{Col.RESET}", flush=True)
 
 # =========================
-# Section: Reddit and Gemini Setup
+# Section: Reddit & Gemini Setup
 # =========================
 REQUIRED_ENV = [
     "REDDIT_CLIENT_ID",
@@ -62,14 +62,14 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/5.1"
+    user_agent="BreakingUKNewsBot/5.2"
 )
 
 # Verify Auth
 try:
     log("SYSTEM", f"Logged in as: {reddit.user.me()}", Col.GREEN)
 except Exception as e:
-    log("CRITICAL", f"Login failed: {e}. Check REDDITPASSWORD.", Col.RED)
+    log("CRITICAL", f"Login failed: {e}", Col.RED)
     sys.exit(1)
 
 model_name = 'gemini-1.5-flash'
@@ -134,7 +134,7 @@ UK_KEYWORDS = {
 }
 
 # =========================
-# Section: Negative and Foreign-Dominant Keywords
+# Section: Negative / Foreign-Dominant Keywords
 # =========================
 NEGATIVE_KEYWORDS = {
     "clinton": -15, "bill clinton": -15, "hillary clinton": -15,
@@ -155,7 +155,6 @@ NEGATIVE_KEYWORDS = {
     "justin trudeau": -4, "ottawa": -4, "canberra": -4
 }
 
-# Phrases to catch non-UK specific tech reviews or availability
 BANNED_PHRASES = [
     "not coming to the uk", "isn't coming to the uk", "won't be available in the uk",
     "i tried the", "review:", "hands-on with", "best smartphone", "where to watch"
@@ -188,10 +187,8 @@ def compile_keywords_dict(d):
 
 UK_PATTERNS = compile_keywords_dict(UK_KEYWORDS)
 NEG_PATTERNS = compile_keywords_dict(NEGATIVE_KEYWORDS)
-
 PROMO_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "deal","discount","voucher","offer","buy","sale","promo","competition","giveaway"]]
-
 OPINION_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "opinion","comment","editorial","analysis","column","viewpoint","perspective"]]
 
@@ -280,7 +277,6 @@ def calculate_uk_relevance_score(text):
     negative_total = 0
     matched = {}
     
-    # Keyword Weights
     for k, w, pat in UK_PATTERNS:
         c = len(pat.findall(text_l))
         if c:
@@ -295,7 +291,6 @@ def calculate_uk_relevance_score(text):
             negative_total += abs(w) * c
             matched[f"NEG:{k}"] = matched.get(f"NEG:{k}", 0) + c
             
-    # Postcode Bonus
     postcodes = re.findall(r"\b([a-z]{1,2}\d{1,2}[a-z]?\s*\d[a-z]{2})\b", text_l)
     if postcodes:
         score += 3 * len(postcodes)
@@ -305,16 +300,13 @@ def calculate_uk_relevance_score(text):
     return score, positive_total, negative_total, matched
 
 def is_hard_negative_rejection(text, positive_total, negative_total, matched):
-    # 1. Banned Phrases (Reviews, Not in UK)
     for phrase in BANNED_PHRASES:
         if phrase in text.lower():
             return True, f"banned_phrase:{phrase}"
 
-    # 2. Negative Keyword Dominance
     if negative_total > max(6, 1.5 * positive_total):
         return True, "negative_dominance"
 
-    # 3. Specific US Politics Filters
     for banned in ["clinton", "bill clinton", "hillary clinton", "biden", "trump"]:
         if re.search(r"\b" + re.escape(banned) + r"\b", text.lower()):
             has_strong_uk = any(term in text.lower() for term in ["uk", "united kingdom", "britain", "london", "parliament", "nhs"])
@@ -475,7 +467,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
         log("ERROR", f"Post failed: {e}", Col.RED)
         return False
 
-    # Construct Reply (No Emojis)
+    # Construct Reply
     lines = []
     lines.append(f"**Source:** {source}")
     if full_paras:
@@ -587,7 +579,8 @@ def main():
             log("REJECTED", f"Low Score ({score}): {title[:40]}...", Col.RED)
             
         if is_candidate and category_counts[category] < 3:
-            candidates.append((score, name, entry, published_dt, pos, neg, matched, category, cat_strength, False, full_paras, top_trigger, ai_confirmed))
+            # Corrected Order: name, entry, published_dt...
+            candidates.append((name, entry, published_dt, score, pos, neg, matched, category, cat_strength, False, full_paras, top_trigger, ai_confirmed))
             category_counts[category] += 1
             
     # Posting Loop
