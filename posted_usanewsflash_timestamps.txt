@@ -9730,3 +9730,4 @@
 2026-01-11T04:01:27.196217+00:00|https://www.nytimes.com/2026/01/10/us/family-reunification-judge.html|judge pauses trump policy ending family reunification for some migrants us news|76e89096521e60e24ae57f3c230c6456
 2026-01-11T04:01:27.718621+00:00|https://www.nytimes.com/2026/01/10/us/ice-shooting-protests-minnesota.html|antiice protests spread nationwide after minneapolis shooting us news|a243055a9616173c15e3bcefa9a1c8a0
 2026-01-11T04:01:28.208288+00:00|https://www.nytimes.com/2026/01/10/world/americas/venezuela-oil-tanker-us.html|venezuelas new leader enlists us troops to bring a rogue ship back us news|42d47a4b0f53f02aaa82ed852dc92cf7
+2026-01-11T04:52:33.663831+00:00|https://www.nytimes.com/2026/01/10/arts/smithsonian-trump-impeachment-portrait-gallery.html|smithsonian removes label noting trump impeachments us news|7670b9fea226750aeb0bcfb2cfc9e3c6
