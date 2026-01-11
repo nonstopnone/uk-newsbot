@@ -2,7 +2,7 @@ name: UK News Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/13 * * * *'
   workflow_dispatch:
 
 concurrency:
