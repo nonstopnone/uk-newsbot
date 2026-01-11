@@ -9745,3 +9745,5 @@
 2026-01-11T16:31:26.841943+00:00|https://www.bbc.com/news/articles/cp9j1d3zgvgo|trump wont take greenland by force mandelson says us news|4262486e8d49c54b45653cd9909953de
 2026-01-11T16:31:27.544543+00:00|https://www.bbc.com/news/articles/cx2kv2gn62vo|trump tells cuba to make a deal before it is too late us news|c7b4867bb1383c6e1208e48e754ecb46
 2026-01-11T16:31:28.396822+00:00|https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html|irans president warns protesters not to destabilize the country us news|51c33d8d79a4550d648411c05674b188
+2026-01-11T16:49:39.012535+00:00|https://www.nytimes.com/2026/01/11/us/somalis-fled-civil-war-and-built-a-community-now-they-are-a-target.html|somalis fled civil war and built a community now they are a target us news|b4ddf4a4515966b221abf66b5c02c632
+2026-01-11T16:49:39.634810+00:00|https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html|thiel gives $3 million to group seeking to block california wealth tax us news|dece0ca91881d31271cc3e6a6ba9b1b1
