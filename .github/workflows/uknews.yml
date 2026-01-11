@@ -2,7 +2,7 @@ name: UK News Bot
 
 on:
   schedule:
-    - cron: '*/13 * * * *'
+    - cron: '15,30,45,55, * * * *'  # Runs at 5, 15, 35, and 55 minutes past every hour
   workflow_dispatch:
 
 concurrency:
