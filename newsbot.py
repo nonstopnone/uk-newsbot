@@ -62,7 +62,7 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/5.3"
+    user_agent="BreakingUKNewsBot/5.4"
 )
 
 # Verify Auth
@@ -72,7 +72,8 @@ except Exception as e:
     log("CRITICAL", f"Login failed: {e}", Col.RED)
     sys.exit(1)
 
-model_name = 'gemini-1.5-flash'
+# UPDATED MODEL TO 2.5-FLASH
+model_name = 'gemini-2.5-flash'
 subreddit = reddit.subreddit("BreakingUKNews")
 
 # =========================
@@ -349,7 +350,7 @@ def is_sports_preview(text):
 CATEGORY_KEYWORDS = {
     "Politics": ["parliament", "government", "minister", "mp", "prime minister", "election", "brexit"],
     "Economy": ["economy", "chancellor", "bank of england", "inflation", "budget", "sterling"],
-    "Crime & Legal": ["police", "court", "trial", "arrest", "murder", "charged", "prison", "jailed", "sentenced", "blast", "explosion", "killed", "stabbed"], # Added crime terms
+    "Crime & Legal": ["police", "court", "trial", "arrest", "murder", "charged", "prison", "jailed", "sentenced", "blast", "explosion", "killed", "stabbed"],
     "Sport": ["football", "cricket", "tennis", "match", "premier league", "wimbledon"],
     "Royals": ["royal", "monarchy", "king", "queen", "prince", "princess"],
     "Culture": ["culture", "art", "music", "film", "festival"],
@@ -373,13 +374,10 @@ def detect_category(full_text):
         
     chosen = max(scores, key=scores.get)
     
-    # Flair Fix: If it's a disaster/crime story, prioritize that over generic 'Politics' even if 'Prime Minister' is mentioned
-    # This helps prevents the "Pakistan explosion" story being flaired as Politics just because the PM sent condolences
+    # Flair Fix: If it's a disaster/crime story, prioritize that over generic 'Politics'
     if scores.get("Crime & Legal", 0) > 0 and chosen == "Politics":
-        # Check if political terms are generic (like 'minister', 'government') vs specific crime terms
         crime_score = scores.get("Crime & Legal", 0)
         politics_score = scores.get("Politics", 0)
-        # If crime score is comparable or significant, flip to Crime/Breaking
         if crime_score >= politics_score - 2: 
             return "Breaking News", float(crime_score) / sum(scores.values()), "crime_override"
 
@@ -497,7 +495,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     
     lines.append("")
     if ai_confirmed:
-        lines.append("This was posted automatically and checked by AI to ensure relevance.")
+        lines.append("This was posted automatically and checked by AI to be relevant.")
     else:
         lines.append("This was posted automatically.")
     
@@ -539,7 +537,6 @@ def main():
     category_counts = Counter()
     ai_check_count = 0  # Track AI usage
     
-    # Explicit strong indicators for auto-pass logic
     STRONG_UK_INDICATORS = {'uk', 'united kingdom', 'britain', 'england', 'scotland', 'wales', 'northern ireland', 'london'}
 
     for name, entry, published_dt in entries:
@@ -560,7 +557,7 @@ def main():
         article_text = ' '.join(full_paras)
         combined = title + ' ' + summary + ' ' + article_text
         
-        # Create strict 200 word excerpt for AI
+        # Strict 200 word excerpt
         combined_words = (title + " " + summary + " " + article_text).split()
         excerpt_200 = " ".join(combined_words[:200])
 
@@ -577,7 +574,6 @@ def main():
             
         category, cat_strength, top_trigger = detect_category(combined)
         
-        # Thresholds
         threshold = 4
         if category == 'Sport': threshold = 8
         if category == 'Royals': threshold = 6
@@ -585,17 +581,13 @@ def main():
         is_candidate = False
         ai_confirmed = False
         
-        # New Stricter Auto-Pass Logic
-        # Only auto-pass if score is high AND it contains explicit UK geolocation
-        # This stops generic "Prime Minister" stories from passing without context
+        # Strict Auto-Pass Check
         is_strong_geo_match = any(ind in combined.lower() for ind in STRONG_UK_INDICATORS)
         
         if score >= 15 and is_strong_geo_match:
             is_candidate = True 
             log("DETAIL", f"Auto-Pass (High Score + Strong Geo): {title[:40]}...", Col.GREEN)
         elif score >= threshold:
-            # Fallback to AI for everything else that hits the base threshold
-            # This covers score 10 stories with generic keywords like "Prime Minister"
             ai_check_count += 1
             if is_uk_relevant_gemini(title, summary, excerpt_200):
                 is_candidate = True
@@ -609,13 +601,11 @@ def main():
             candidates.append((name, entry, published_dt, score, pos, neg, matched, category, cat_strength, False, full_paras, top_trigger, ai_confirmed))
             category_counts[category] += 1
             
-    # Posting Loop
     log("INFO", f"Processing {len(candidates)} candidates for posting...", Col.CYAN)
     posted = 0
     
     for item in candidates:
         if posted >= TARGET_POSTS: break
-        
         if post_with_flair_and_reply(*item):
             posted += 1
             time.sleep(10)
