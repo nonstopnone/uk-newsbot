@@ -20,7 +20,7 @@ from collections import Counter
 from google import genai
 
 # =========================
-# Section: Console Colors & Logging
+# Section: Console Colors and Logging
 # =========================
 class Col:
     RED = '\033[91m'
@@ -35,7 +35,7 @@ def log(tag, msg, color=Col.RESET):
     print(f"{color}[{ts}] [{tag}] {msg}{Col.RESET}", flush=True)
 
 # =========================
-# Section: Reddit & Gemini Setup
+# Section: Reddit and Gemini Setup
 # =========================
 REQUIRED_ENV = [
     "REDDIT_CLIENT_ID",
@@ -62,14 +62,14 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/5.0"
+    user_agent="BreakingUKNewsBot/5.1"
 )
 
 # Verify Auth
 try:
     log("SYSTEM", f"Logged in as: {reddit.user.me()}", Col.GREEN)
 except Exception as e:
-    log("CRITICAL", f"Login failed: {e}", Col.RED)
+    log("CRITICAL", f"Login failed: {e}. Check REDDITPASSWORD.", Col.RED)
     sys.exit(1)
 
 model_name = 'gemini-1.5-flash'
@@ -87,7 +87,7 @@ INITIAL_ARTICLES = 60
 TIME_WINDOW_HOURS = 12
 
 # =========================
-# Section: UK Keyword Definitions (Full)
+# Section: UK Keyword Definitions
 # =========================
 UK_KEYWORDS = {
     "uk": 6, "united kingdom": 6, "britain": 6, "great britain": 6,
@@ -134,7 +134,7 @@ UK_KEYWORDS = {
 }
 
 # =========================
-# Section: Negative / Foreign-Dominant Keywords (Full)
+# Section: Negative and Foreign-Dominant Keywords
 # =========================
 NEGATIVE_KEYWORDS = {
     "clinton": -15, "bill clinton": -15, "hillary clinton": -15,
