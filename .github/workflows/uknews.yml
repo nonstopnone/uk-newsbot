@@ -27,8 +27,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser praw beautifulsoup4 requests python-dateutil google-generativeai
-
+          pip install feedparser praw beautifulsoup4 requests python-dateutil google-genai
       - name: Run newsbot
         env:
           REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
