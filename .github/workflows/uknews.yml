@@ -29,7 +29,7 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }} # Ensure this matches your secret name
+          REDDITPASSWORD: ${{ secrets.REDDIT_PASSWORD }} # Ensure this matches your secret name
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u newsbot.py
       - name: Commit Logs
