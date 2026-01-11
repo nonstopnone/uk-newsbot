@@ -17,7 +17,8 @@ import json
 import difflib
 from dateutil import parser as dateparser
 from collections import Counter
-from google import genai
+from google import genai  # Line 20
+client = genai.Client()
 # =========================
 # Section: Global Regex Compilations (Performance)
 # =========================
@@ -42,8 +43,8 @@ reddit = praw.Reddit(
     password=os.environ["REDDITPASSWORD"],
     user_agent="BreakingUKNewsBot/2.3"
 )
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel('gemini-1.5-flash')
+
+model_name = 'gemini-1.5-flash'
 subreddit = reddit.subreddit("BreakingUKNews")
 # =========================
 # Section: Files and Constants
@@ -462,8 +463,8 @@ Summary: {summary}
 Excerpt: {excerpt}
 """
     try:
-        response = model.generate_content(prompt)
-        decision = response.text.strip().lower()
+        response = client.models.generate_content(model=model_name, contents=prompt)
+decision = response.text.strip().lower()
         return decision.startswith('yes')
     except Exception as e:
         write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "gemini_error", "error": str(e)})
