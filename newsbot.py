@@ -17,7 +17,7 @@ import json
 import difflib
 from dateutil import parser as dateparser
 from collections import Counter
-import google.generativeai as genai
+import google.i as genai
 # =========================
 # Section: Global Regex Compilations (Performance)
 # =========================
@@ -42,8 +42,8 @@ reddit = praw.Reddit(
     password=os.environ["REDDITPASSWORD"],
     user_agent="BreakingUKNewsBot/2.3"
 )
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel('gemini-1.5-flash')
+i.configure(api_key=os.environ["GEMINI_API_KEY"])
+model = i.GenerativeModel('gemini-1.5-flash')
 subreddit = reddit.subreddit("BreakingUKNews")
 # =========================
 # Section: Files and Constants
