@@ -159,3 +159,6 @@
 2026-01-11T19:36:57.783705+00:00|https://www.bbc.com/news/articles/c0jvz020zzyo|tories will channel anger at labour vows badenoch|24cf76c841162f755956277bcb5314b2
 2026-01-11T19:37:08.191877+00:00|https://www.bbc.com/news/articles/cdjnlvv0y9ko|lorraine kelly pays tribute to father after shock death|ac035777742b569432d7d0e6f1e46e2e
 2026-01-11T19:37:20.284705+00:00|https://www.bbc.com/news/articles/c4gl2mnr2ymo|family home wrecked by electric scooter blaze in moments|ca5fa27ea188b2886f5d98a4d72296ef
+2026-01-11T20:25:41.421665+00:00|https://www.telegraph.co.uk/football/2026/01/11/man-utd-vs-brighton-live-score-latest-fa-cup-third-round|man utd crisis deepens with fa cup exit to brighton|e12804434df53c6fe358d3b79fa20b90
+2026-01-11T20:25:51.849096+00:00|https://www.bbc.com/sport/football/articles/c07x1ezk3pro|goals shocks and fan power on a recordbreaking fa cup weekend|ad2dbb1e3dc5146c45fddf88a1817c5e
+2026-01-11T20:26:02.268821+00:00|https://www.bbc.com/news/articles/c70lz06erw0o|harlow town football club goes into administration|fa010c47048a0c253670fedbc3b00c56
