@@ -18,9 +18,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install dependencies
-        run: |
-          pip install feedparser praw beautifulsoup4 requests python-dateutil google-genai
+    - name: Install dependencies
+  run: |
+    pip install feedparser praw beautifulsoup4 requests python-dateutil google-generativeai
       - name: Run newsbot
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
