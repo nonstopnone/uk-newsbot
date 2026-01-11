@@ -481,13 +481,12 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     keyword_list = ", ".join([k for k in matched.keys() if not k.startswith("NEG:")][:5])
     lines.append(f"**UK Relevance (Score: {score}):**")
     lines.append(f"Keywords: {keyword_list}")
+    lines.append("")
     
     if ai_confirmed:
-        lines.append("")
-        lines.append("**AI Verification:** Confirmed Relevant")
-        
-    lines.append("")
-    lines.append("This post was automatically curated by BreakingUKNewsBot.")
+        lines.append("This was posted automatically and relevance was confirmed by AI")
+    else:
+        lines.append("This was posted automatically, based on keyword analysis.")
     
     try:
         submission.reply('\n'.join(lines))
