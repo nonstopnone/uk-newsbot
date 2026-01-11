@@ -187,8 +187,11 @@ def compile_keywords_dict(d):
 
 UK_PATTERNS = compile_keywords_dict(UK_KEYWORDS)
 NEG_PATTERNS = compile_keywords_dict(NEGATIVE_KEYWORDS)
+
+# Removed 'deal', 'offer', 'buy' to prevent false positives on political news (e.g., "Trade deal")
 PROMO_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
-    "deal","discount","voucher","offer","buy","sale","promo","competition","giveaway"]]
+    "discount","voucher","sale","promo","competition","giveaway"]]
+
 OPINION_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "opinion","comment","editorial","analysis","column","viewpoint","perspective"]]
 
@@ -433,69 +436,6 @@ Excerpt: {excerpt}
 # =========================
 # Section: Main Orchestration
 # =========================
-def get_entry_published_datetime(entry):
-    for field in ['published', 'updated', 'created', 'date']:
-        if hasattr(entry, field):
-            try:
-                dt = dateparser.parse(getattr(entry, field))
-                if not dt.tzinfo: dt = dt.replace(tzinfo=timezone.utc)
-                return dt.astimezone(timezone.utc)
-            except: continue
-    return None
-
-def is_duplicate(entry):
-    norm_link = normalize_url(getattr(entry, 'link', ''))
-    norm_title = normalize_title(getattr(entry, 'title', ''))
-    if not norm_link: return True, 'missing_url'
-    if norm_link in POSTED_URLS: return True, 'duplicate_url'
-    if content_hash(entry) in POSTED_HASHES: return True, 'duplicate_hash'
-    return False, ''
-
-def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras, top_trigger, ai_confirmed=False):
-    flair_text = FLAIR_TEXTS.get(category, FLAIR_TEXTS.get('Notable International'))
-    flair_id = get_flair_id(flair_text)
-    title = getattr(entry, 'title', '')
-    url = getattr(entry, 'link', '')
-
-    try:
-        log("POSTING", f"Attempting to post: {title[:50]}...", Col.CYAN)
-        if flair_id:
-            submission = subreddit.submit(title=title, url=url, flair_id=flair_id)
-        else:
-            submission = subreddit.submit(title=title, url=url)
-    except Exception as e:
-        log("ERROR", f"Post failed: {e}", Col.RED)
-        return False
-
-    # Construct Reply
-    lines = []
-    lines.append(f"**Source:** {source}")
-    if full_paras:
-        lines.append("")
-        for para in full_paras[:3]:
-            lines.append(f"> {para}")
-            lines.append("")
-    lines.append(f"[Read more]({url})")
-    lines.append("")
-    
-    keyword_list = ", ".join([k for k in matched.keys() if not k.startswith("NEG:")][:5])
-    lines.append(f"**UK Relevance (Score: {score}):**")
-    lines.append(f"Keywords: {keyword_list}")
-    lines.append("")
-    
-    if ai_confirmed:
-        lines.append("This was posted automatically and relevance was confirmed by AI")
-    else:
-        lines.append("This was posted automatically, based on keyword analysis.")
-    
-    try:
-        submission.reply('\n'.join(lines))
-    except: pass
-    
-    add_to_dedup(entry)
-    log("SUCCESS", f"Posted: {title[:50]}...", Col.GREEN)
-    return True
-
 def main():
     log("START", "Starting Newsbot Run...", Col.CYAN)
     
@@ -524,6 +464,7 @@ def main():
     
     candidates = []
     category_counts = Counter()
+    ai_check_count = 0  # Track AI usage
     
     for name, entry, published_dt in entries:
         if len(candidates) >= INITIAL_ARTICLES: break
@@ -569,6 +510,7 @@ def main():
             log("DETAIL", f"High Score ({score}): {title[:40]}...", Col.GREEN)
         elif score >= threshold:
             # Borderline - Ask AI
+            ai_check_count += 1
             if is_uk_relevant_gemini(title, summary, full_paras):
                 is_candidate = True
                 ai_confirmed = True
@@ -593,7 +535,7 @@ def main():
             posted += 1
             time.sleep(10)
             
-    log("FINISHED", f"Run Complete. Posted {posted} articles.", Col.GREEN)
+    log("FINISHED", f"Run Complete. Posted {posted} articles. AI Checks performed: {ai_check_count}", Col.GREEN)
 
 if __name__ == "__main__":
     main()
