@@ -35,11 +35,16 @@ REQUIRED_ENV = [
     "GEMINI_API_KEY"
 ]
 
+def console_log(msg):
+    """Prints a timestamped message to stdout for GitHub Actions visibility."""
+    ts = datetime.now(timezone.utc).strftime('%H:%M:%S')
+    print(f"[{ts}] {msg}", flush=True)
+
 for v in REQUIRED_ENV:
     if v not in os.environ:
         sys.exit(f"Missing env var: {v}")
 
-# Initialize Gemini Client with the key from environment
+# Initialize Gemini Client
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 reddit = praw.Reddit(
@@ -388,14 +393,20 @@ def write_daily_post(data):
         pass
 
 def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras, top_trigger, ai_confirmed=False):
+    title = getattr(entry, 'title', '')
+    console_log(f"Attempting to post: {title}")
+    
     flair_text = FLAIR_TEXTS.get(category, FLAIR_TEXTS.get('Notable International'))
     flair_id = get_flair_id(flair_text)
     confidence = compute_confidence(positive_total, negative_total, category_strength, hybrid_flag)
     try:
-        submission = subreddit.submit(title=getattr(entry, 'title', ''), url=getattr(entry, 'link', '')) if not flair_id else subreddit.submit(title=getattr(entry, 'title', ''), url=getattr(entry, 'link', ''), flair_id=flair_id)
+        submission = subreddit.submit(title=title, url=getattr(entry, 'link', '')) if not flair_id else subreddit.submit(title=title, url=getattr(entry, 'link', ''), flair_id=flair_id)
+        console_log(f"SUCCESS: Posted to Reddit. Flair: {flair_text}")
     except Exception as e:
-        write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "post_failed", "source": source, "title": getattr(entry, 'title', ''), "url": normalize_url(getattr(entry, 'link', '')), "error": str(e)})
+        console_log(f"ERROR: Posting failed for {title}. Error: {e}")
+        write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "post_failed", "source": source, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "error": str(e)})
         return False
+        
     lines = []
     if full_paras:
         for para in full_paras[:3]:
@@ -440,7 +451,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "action": "posted",
         "source": source,
-        "title": getattr(entry, 'title', ''),
+        "title": title,
         "url": normalize_url(getattr(entry, 'link', '')),
         "published": published_dt.isoformat() if published_dt else None,
         "score": score,
@@ -462,6 +473,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
 # Section: Gemini UK Relevance Check
 # =========================
 def is_uk_relevant_gemini(title, summary, full_paras):
+    console_log(f"AI CHECK: Requesting Gemini relevance check for '{title}'...")
     excerpt = ' '.join(full_paras[:2])[:800]
     prompt = f"""You are a strict UK-news relevance classifier.
 Decide whether this article is meaningfully relevant to the United Kingdom.
@@ -497,8 +509,11 @@ Excerpt: {excerpt}
     try:
         response = client.models.generate_content(model=model_name, contents=prompt)
         decision = response.text.strip().lower()
-        return decision.startswith('yes')
+        is_relevant = decision.startswith('yes')
+        console_log(f"AI CHECK RESULT: {decision.upper()}")
+        return is_relevant
     except Exception as e:
+        console_log(f"AI ERROR: {str(e)}")
         write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "gemini_error", "error": str(e)})
         return False
 
@@ -532,6 +547,7 @@ def is_duplicate(entry):
     return False, ''
 
 def main():
+    console_log("Starting Newsbot Run...")
     feeds = {
         "BBC": "https://feeds.bbci.co.uk/news/uk/rss.xml",
         "Sky": "https://feeds.skynews.com/feeds/rss/home.xml",
@@ -540,6 +556,8 @@ def main():
     now = datetime.now(timezone.utc)
     six_hours_ago = now - timedelta(hours=6)
     entries = []
+    
+    console_log("Fetching RSS feeds...")
     for name, url in feeds.items():
         try:
             feed = feedparser.parse(url)
@@ -550,6 +568,8 @@ def main():
         except Exception:
             continue
     entries.sort(key=lambda x: x[2], reverse=True)
+    console_log(f"Fetched {len(entries)} recent entries.")
+    
     candidates = []
     category_counts = Counter()
     for name, entry, published_dt in entries:
@@ -581,6 +601,7 @@ def main():
         score, pos_total, neg_total, matched = calculate_uk_relevance_score(combined)
         hard_reject, hr_reason = is_hard_negative_rejection(combined, pos_total, neg_total, matched)
         if hard_reject:
+            console_log(f"REJECTED (Hard Negative): {title} ({hr_reason})")
             write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "reason": hr_reason, "score": score, "pos": pos_total, "neg": neg_total, "matched": matched})
             continue
         category, cat_strength, top_trigger = detect_category(combined)
@@ -620,11 +641,14 @@ def main():
             if is_uk_relevant_gemini(title, summary, full_paras):
                 ai_confirmed = True
             else:
+                console_log(f"REJECTED (AI): {title}")
                 write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "rejected", "source": name, "title": title, "url": normalize_url(getattr(entry, 'link', '')), "reason": "gemini_not_uk", "level": level, "score": score})
                 continue
         if category_counts[category] < 3:
             candidates.append((score, name, entry, published_dt, pos_total, neg_total, matched, category, cat_strength, hybrid_flag, full_paras, top_trigger, ai_confirmed))
             category_counts[category] += 1
+            console_log(f"CANDIDATE: {title} (Score: {score}, Category: {category})")
+            
     unique = []
     seen_links = set()
     seen_titles = set()
@@ -657,6 +681,8 @@ def main():
         if temp_cat_counts[category] < 3:
             selected.append(item)
             temp_cat_counts[category] += 1
+            
+    console_log(f"Processing {len(selected)} articles for posting...")
     posts = 0
     skipped = 0
     for item in selected:
@@ -670,6 +696,7 @@ def main():
         except Exception:
             skipped += 1
         time.sleep(10)
+    console_log(f"Run Finished. Posted: {posts}, Skipped: {skipped}")
     write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "run_summary", "attempted": len(selected), "posted": posts, "skipped": skipped})
 
 if __name__ == "__main__":
