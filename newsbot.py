@@ -497,7 +497,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     
     lines.append("")
     if ai_confirmed:
-        lines.append("This was posted automatically and checked by AI to be relevant.")
+        lines.append("This was posted automatically and checked by AI to ensure relevance.")
     else:
         lines.append("This was posted automatically.")
     
