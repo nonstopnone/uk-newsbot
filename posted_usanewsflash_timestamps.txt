@@ -9727,3 +9727,6 @@
 2026-01-11T02:23:47.760312+00:00|https://www.nbcnews.com/video/ex-husband-arrested-in-connection-with-murder-of-ohio-dentist-and-wife-255754821552|exhusband arrested in connection with murder of ohio dentist and wife us news|1dcde096333c89798f5306469e008ff3
 2026-01-11T02:23:48.414397+00:00|https://www.nbcnews.com/video/shorts/ex-husband-arrested-in-connection-with-ohio-murders-255756357703|exhusband arrested in connection with ohio murders us news|320f6a21d63d303d85f6f8f24881b90d
 2026-01-11T02:23:48.997361+00:00|https://www.nytimes.com/2026/01/10/us/politics/trump-iran-strikes.html|trump is briefed on options for striking iran as protests continue us news|80de87e41de4cdd1820e347edc827049
+2026-01-11T04:01:27.196217+00:00|https://www.nytimes.com/2026/01/10/us/family-reunification-judge.html|judge pauses trump policy ending family reunification for some migrants us news|76e89096521e60e24ae57f3c230c6456
+2026-01-11T04:01:27.718621+00:00|https://www.nytimes.com/2026/01/10/us/ice-shooting-protests-minnesota.html|antiice protests spread nationwide after minneapolis shooting us news|a243055a9616173c15e3bcefa9a1c8a0
+2026-01-11T04:01:28.208288+00:00|https://www.nytimes.com/2026/01/10/world/americas/venezuela-oil-tanker-us.html|venezuelas new leader enlists us troops to bring a rogue ship back us news|42d47a4b0f53f02aaa82ed852dc92cf7
