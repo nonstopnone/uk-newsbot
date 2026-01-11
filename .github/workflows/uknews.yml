@@ -1,41 +1,49 @@
 name: UK News Bot
+
 on:
   schedule:
-    - cron: '*/15 * * * *' # Every 15 minutes
+    - cron: '*/15 * * * *'  # Every 15 minutes
   workflow_dispatch:
-# Prevent concurrent runs to avoid file conflicts
+
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
+
 jobs:
   run-newsbot:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref || github.ref }}
-      - name: Set up Python
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-    - name: Install dependencies
-  run: |
-    pip install feedparser praw beautifulsoup4 requests python-dateutil google-generativeai
+
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser praw beautifulsoup4 requests python-dateutil google-generativeai
+
       - name: Run newsbot
         env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDITPASSWORD: ${{ secrets.REDDIT_PASSWORD }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          REDDIT_USERNAME:      ${{ secrets.REDDIT_USERNAME }}
+          REDDITPASSWORD:       ${{ secrets.REDDITPASSWORD }}
+          GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
+        run: python -u newsbot.py
+
+      - name: Commit and push logs & dedup files
         run: |
-          python3.11 -u newsbot.py
-      - name: Commit and push deduplication file
-        run: |
-          git config --global user.name 'github-actions[bot]'
+          git config --global user.name  'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add posted_urls.txt run_log.txt posted_urls_*.txt || true
-          git commit -m "Update logs and dedup" || true
-          git push origin HEAD || true
+          git commit -m "Update dedup & logs [ci skip]" || true
+          git push || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
