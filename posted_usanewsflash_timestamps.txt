@@ -9760,3 +9760,4 @@
 2026-01-11T22:25:29.812875+00:00|https://www.bbc.com/news/articles/cpv7knz8e8mo|more federal agents to be sent to minnesota trump administration says us news|44b7f66eae64376c9806a08b66cc4fb4
 2026-01-11T22:25:30.511023+00:00|https://www.nbcnews.com/politics/trump-administration/trump-threatened-gop-senators-voted-war-powers-resolution-angry-calls-rcna253491|trump threatened gop senators who voted for war powers resolution in angry calls us news|65c9a54efaed5780459719c6831771ac
 2026-01-11T22:45:13.780424+00:00|https://www.nbcnews.com/tech/tech-news/anthropic-health-care-rcna252872|anthropic joins openais push into health care with new claude tools us news|bbf951486a02d5a61393be00ed2aed50
+2026-01-11T22:57:31.482985+00:00|https://www.nytimes.com/2026/01/11/nyregion/new-york-mayor-zohran-mamdani-week-one.html|where does candidate mamdani end and mayor mamdani begin us news|5c7a218cfaef83ed95b7041c4fb7fbfa
