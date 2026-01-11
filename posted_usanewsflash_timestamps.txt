@@ -9738,3 +9738,5 @@
 2026-01-11T11:21:51.153846+00:00|https://www.nytimes.com/2026/01/11/climate/supreme-court-to-hear-case-on-louisianas-eroding-coast.html|supreme court to hear case on louisianas eroding coast us news|b6515864c5585e9e0e249d3325cb6f83
 2026-01-11T11:21:51.826680+00:00|https://www.nytimes.com/2026/01/11/world/americas/trump-is-the-political-earthquake-shaking-latin-america.html|trump shakes up latin american politics us news|93edae709727286eda1a3d0737d3b205
 2026-01-11T11:21:52.468577+00:00|https://www.nytimes.com/2026/01/11/us/politics/trumps-appeals-court-judges.html|trumps superstar appellate judges have voted 133 to 12 in his favor us news|8a2b2182ba411f7b92727eb43b579388
+2026-01-11T14:44:32.409759+00:00|https://www.nytimes.com/2026/01/11/world/asia/malaysia-indonesia-grok-ban.html|malaysia and indonesia block access to grok because of sexually explicit content us news|b930b7e6276e57c5b9aa9c39eef5c8f7
+2026-01-11T14:44:33.045555+00:00|https://www.today.com/video/anti-ice-protests-grow-across-the-us-after-minneapolis-shooting-255765061571|antiice protests grow across the us after minneapolis shooting us news|0910141890865afbac88357c8865bf53
