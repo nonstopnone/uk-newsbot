@@ -17,12 +17,13 @@ import json
 import difflib
 from dateutil import parser as dateparser
 from collections import Counter
-from google import genai  # Line 20
-client = genai.Client()
+from google import genai
+
 # =========================
 # Section: Global Regex Compilations (Performance)
 # =========================
 SPORTS_PREVIEW_REGEX = re.compile(r"\b(?:preview|odds|prediction|fight night|upcoming)\b", re.IGNORECASE)
+
 # =========================
 # Section: Reddit Setup
 # =========================
@@ -30,22 +31,28 @@ REQUIRED_ENV = [
     "REDDIT_CLIENT_ID",
     "REDDIT_CLIENT_SECRET",
     "REDDIT_USERNAME",
-    "REDDITPASSWORD",
+    "REDDIT_PASSWORD",
     "GEMINI_API_KEY"
 ]
+
 for v in REQUIRED_ENV:
     if v not in os.environ:
         sys.exit(f"Missing env var: {v}")
+
+# Initialize Gemini Client with the key from environment
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+
 reddit = praw.Reddit(
     client_id=os.environ["REDDIT_CLIENT_ID"],
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
-    password=os.environ["REDDITPASSWORD"],
+    password=os.environ["REDDIT_PASSWORD"],
     user_agent="BreakingUKNewsBot/2.3"
 )
 
 model_name = 'gemini-1.5-flash'
 subreddit = reddit.subreddit("BreakingUKNews")
+
 # =========================
 # Section: Files and Constants
 # =========================
@@ -55,6 +62,7 @@ DAILY_PREFIX = "posted_urls_"
 FUZZY_DUP_THRESHOLD = 0.40
 TARGET_POSTS = 7
 INITIAL_ARTICLES = 30
+
 # =========================
 # Section: UK Keyword Definitions (Full)
 # =========================
@@ -101,6 +109,7 @@ UK_KEYWORDS = {
     "tube": 3, "london underground": 3, "heathrow airport": 3,
     "gatwick airport": 3, "nhs england": 4
 }
+
 # =========================
 # Section: Negative / Foreign-Dominant Keywords (Full)
 # =========================
@@ -122,6 +131,7 @@ NEGATIVE_KEYWORDS = {
     "moscow": -6, "russia": -6, "putin": -8,
     "justin trudeau": -4, "ottawa": -4, "canberra": -4
 }
+
 # =========================
 # Section: Flair Mapping
 # =========================
@@ -138,17 +148,20 @@ FLAIR_TEXTS = {
     "Trade and Diplomacy": "Trade and Diplomacy"
 }
 FLAIR_CACHE = {}
+
 # =========================
 # Section: Compile Keyword Patterns
 # =========================
 def compile_keywords_dict(d):
     return [(k, w, re.compile(r"\b" + re.escape(k) + r"\b", re.I)) for k, w in d.items()]
+
 UK_PATTERNS = compile_keywords_dict(UK_KEYWORDS)
 NEG_PATTERNS = compile_keywords_dict(NEGATIVE_KEYWORDS)
 PROMO_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "deal","discount","voucher","offer","buy","sale","promo","competition","giveaway"]]
 OPINION_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "opinion","comment","editorial","analysis","column","viewpoint","perspective"]]
+
 # =========================
 # Section: Utilities
 # =========================
@@ -157,15 +170,18 @@ def normalize_url(u):
         return ""
     p = urllib.parse.urlparse(u)
     return urllib.parse.urlunparse((p.scheme, p.netloc, p.path.rstrip('/'), '', '', ''))
+
 def normalize_title(t):
     if not t:
         return ""
     t = html.unescape(t)
     t = re.sub(r"[^\w\s£$€]", "", t)
     return re.sub(r"\s+", " ", t).strip().lower()
+
 def content_hash(entry):
     blob = (getattr(entry, 'title', '') + " " + getattr(entry, 'summary', ''))[:700]
     return hashlib.md5(blob.encode('utf-8')).hexdigest()
+
 # =========================
 # Section: Deduplication and Daily Tracking
 # =========================
@@ -192,7 +208,9 @@ def load_dedup():
     with open(DEDUP_FILE, 'w', encoding='utf-8') as f:
         f.writelines(cleaned_lines)
     return urls, titles, hashes
+
 POSTED_URLS, POSTED_TITLES, POSTED_HASHES = load_dedup()
+
 def add_to_dedup(entry):
     ts = datetime.now(timezone.utc).isoformat()
     norm_link = normalize_url(getattr(entry, 'link', ''))
@@ -206,6 +224,7 @@ def add_to_dedup(entry):
     POSTED_URLS.add(norm_link)
     POSTED_TITLES.add(norm_title)
     POSTED_HASHES.add(h)
+
 # =========================
 # Section: Fetching Article Text
 # =========================
@@ -222,6 +241,7 @@ def fetch_article_text(url):
         return paras
     except Exception:
         return []
+
 # =========================
 # Section: Scoring and Decision Logic
 # =========================
@@ -249,6 +269,7 @@ def calculate_uk_relevance_score(text):
         positive_total += 3 * len(postcodes)
         matched["UK_POSTCODE"] = matched.get("UK_POSTCODE", 0) + len(postcodes)
     return score, positive_total, negative_total, matched
+
 def is_hard_negative_rejection(text, positive_total, negative_total, matched):
     if negative_total > max(6, 1.5 * positive_total):
         return True, "negative_dominance"
@@ -258,6 +279,7 @@ def is_hard_negative_rejection(text, positive_total, negative_total, matched):
             if not has_strong_uk:
                 return True, f"banned_name:{banned}"
     return False, ""
+
 def compute_confidence(positive_total, negative_total, category_strength=1.0, hybrid=False):
     pos = max(0.0, float(positive_total))
     neg = float(negative_total)
@@ -268,15 +290,18 @@ def compute_confidence(positive_total, negative_total, category_strength=1.0, hy
         conf = max(20, int(conf * 0.7))
     conf = max(10, min(99, conf))
     return conf
+
 # =========================
 # Section: Content Heuristics
 # =========================
 def contains_promotional(text):
     t = text.lower()
     return any(p.search(t) for p in PROMO_PATTERNS)
+
 def contains_opinion(text):
     t = text.lower()
     return any(p.search(t) for p in OPINION_PATTERNS)
+
 def is_sports_preview(text):
     if not text:
         return False
@@ -284,6 +309,7 @@ def is_sports_preview(text):
     has_preview_word = SPORTS_PREVIEW_REGEX.search(t) is not None
     has_result_word = any(w in t for w in ["won", "wins", "beat", "defeated", "victory"])
     return has_preview_word and not has_result_word
+
 # =========================
 # Section: Categorisation
 # =========================
@@ -297,6 +323,7 @@ CATEGORY_KEYWORDS = {
     "Immigration": ["immigration", "asylum", "refugee", "border", "home office"],
     "Trade and Diplomacy": ["trade", "diplomacy", "ambassador", "summit", "treaty"]
 }
+
 def detect_category(full_text):
     txt = full_text.lower()
     scores = {}
@@ -324,6 +351,7 @@ def detect_category(full_text):
     else:
         top_trigger = "general category signals"
     return chosen, strength, top_trigger
+
 # =========================
 # Section: Flair ID Retrieval and Caching
 # =========================
@@ -340,6 +368,7 @@ def get_flair_id(flair_text):
         pass
     FLAIR_CACHE[flair_text] = None
     return None
+
 # =========================
 # Section: Posting, Replying and Logging
 # =========================
@@ -349,6 +378,7 @@ def write_run_log(data):
             f.write(json.dumps(data, ensure_ascii=False) + "\n")
     except Exception:
         pass
+
 def write_daily_post(data):
     try:
         name = DAILY_PREFIX + datetime.now(timezone.utc).strftime("%Y-%m-%d") + ".txt"
@@ -356,6 +386,7 @@ def write_daily_post(data):
             f.write(json.dumps(data, ensure_ascii=False) + "\n")
     except Exception:
         pass
+
 def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras, top_trigger, ai_confirmed=False):
     flair_text = FLAIR_TEXTS.get(category, FLAIR_TEXTS.get('Notable International'))
     flair_id = get_flair_id(flair_text)
@@ -426,6 +457,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     write_run_log(record)
     write_daily_post(record)
     return True
+
 # =========================
 # Section: Gemini UK Relevance Check
 # =========================
@@ -464,11 +496,12 @@ Excerpt: {excerpt}
 """
     try:
         response = client.models.generate_content(model=model_name, contents=prompt)
-decision = response.text.strip().lower()
+        decision = response.text.strip().lower()
         return decision.startswith('yes')
     except Exception as e:
         write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "gemini_error", "error": str(e)})
         return False
+
 # =========================
 # Section: Main Orchestration
 # =========================
@@ -483,6 +516,7 @@ def get_entry_published_datetime(entry):
             except Exception:
                 continue
     return None
+
 def is_duplicate(entry):
     norm_link = normalize_url(getattr(entry, 'link', ''))
     norm_title = normalize_title(getattr(entry, 'title', ''))
@@ -496,6 +530,7 @@ def is_duplicate(entry):
     if content_hash(entry) in POSTED_HASHES:
         return True, 'duplicate_hash'
     return False, ''
+
 def main():
     feeds = {
         "BBC": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -636,5 +671,6 @@ def main():
             skipped += 1
         time.sleep(10)
     write_run_log({"timestamp": datetime.now(timezone.utc).isoformat(), "action": "run_summary", "attempted": len(selected), "posted": posts, "skipped": skipped})
+
 if __name__ == "__main__":
     main()
