@@ -9825,3 +9825,7 @@
 2026-01-12T22:57:31.694507+00:00|https://www.bbc.com/news/articles/clyev0kpk77o|trump announces 25 tariff on countries doing business with iran us news|5bc267df0f5ebc8dc50386277e58e2c3
 2026-01-12T22:57:32.344541+00:00|https://www.nytimes.com/2026/01/12/us/mississippi-synagogue-arson.html|arson suspect targeted mississippi synagogue for its jewish ties fbi says us news|ba14d8f902461fa87e48bd0f5a81ca26
 2026-01-12T23:21:25.214530+00:00|https://abcnews.go.com/US/federal-prosecutor-virginia-fired-unwilling-comey-prosecution-sources/story|federal prosecutor in virginia fired unwilling to take on comey prosecution sources us news|0c0248ac8681a00897629f1eff567eaa
+2026-01-12T23:41:35.143591+00:00|https://www.nytimes.com/2026/01/12/business/federal-reserve-john-williams-rates.html|top fed official conveys little urgency for immediate rate cuts us news|38d88838607554aebdf7fce2609816e4
+2026-01-12T23:41:35.649725+00:00|https://www.nbcnews.com/video/shorts/suspect-in-murder-of-ohio-couple-makes-first-court-appearance-255833157775|suspect in murder of ohio couple makes first court appearance us news|521134001cd4495384ff294791f642ab
+2026-01-12T23:41:36.141704+00:00|https://www.nytimes.com/2026/01/12/us/congressional-employee-stolen-phones.html|former congressional employee accused of stealing 240 phones us news|1bea94499db5b673041cb40b27d1adfe
+2026-01-12T23:41:36.609344+00:00|https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html|us attacked boat with aircraft that looked like a civilian plane us news|6810e95c7a88f642c9faccfd22f8f035
