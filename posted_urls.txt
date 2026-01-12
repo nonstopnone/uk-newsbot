@@ -199,3 +199,7 @@
 2026-01-12T12:18:45.547653+00:00|https://www.bbc.co.uk/news/articles/c0lxn75gw1do|fomer chancellor nadim zahawi defects to reform uk|235135f40c43c33e6059ef0111f76351
 2026-01-12T12:44:05.347413+00:00|https://www.telegraph.co.uk/politics/2026/01/12/politics-latest-news-nigel-farage-reform-uk-speech|nadhim zahawi defects to reform|ae9ffa06ec14174632e7ffbac2ebaa24
 2026-01-12T12:44:16.174781+00:00|https://www.bbc.com/news/articles/czjg4p2074jo|bottle attacker jailed for 12 years for attempted murder on train|b9722cc9dec3cca9d85accc82cc59deb
+2026-01-12T13:02:25.893635+00:00|https://news.sky.com/story/police-share-update-on-five-people-injured-in-fatal-crash-in-bolton-13492269|police share update on five people injured in fatal crash|bebc7021d70bd1a4dea7a4fb817d4e10
+2026-01-12T13:02:36.489742+00:00|https://www.bbc.com/news/articles/c0lxn75gw1do|former tory chancellor nadhim zahawi defects to reform uk|7984bf352abdfef523ff56d4d427073b
+2026-01-12T13:02:46.957380+00:00|https://www.bbc.com/news/articles/ckgvxd13p8ro|man trying to reach island on inflatable mattress rescued from sea|0a2d558b5ef8c92e1b7bff051fbee239
+2026-01-12T13:02:57.425098+00:00|https://news.sky.com/story/aberdeen-fan-who-struck-and-disfigured-footballer-jack-mackenzie-after-throwing-seat-at-game-jailed-13493325|man who struck and disfigured footballer after throwing seat at game jailed|773fd7814dcc4dd9d7bfc2501c9954d5
