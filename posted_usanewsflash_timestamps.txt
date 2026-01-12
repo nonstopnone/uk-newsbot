@@ -9780,3 +9780,4 @@
 2026-01-12T11:01:04.788388+00:00|https://www.nytimes.com/2026/01/12/climate/under-trump-us-adds-fuel-to-a-heating-planet.html|under trump us adds fuel to a heating planet us news|5166ac65843a63188f1b1904ffcc394c
 2026-01-12T11:27:31.056058+00:00|https://www.nytimes.com/2026/01/12/podcasts/the-headlines/jerome-powellfederal-agents-minnesota.html|the justice departments new target in dc and a surge of federal agents in minnesota us news|48cf2d7f908fada29fce77946dd07432
 2026-01-12T11:27:31.542398+00:00|https://www.nytimes.com/2026/01/12/us/politics/oregon-guard-undocumented-parents.html|us citizens are joining the military to protect undocumented parents us news|42f3fbb71c17e3feb8f885497e45d819
+2026-01-12T11:43:23.298829+00:00|https://www.nytimes.com/2026/01/12/nyregion/nurses-strike-hospitals-nyc.html|nearly 15000 nurses go on strike at major new york city hospitals us news|3a5699e955064395693f484c3afe175b
