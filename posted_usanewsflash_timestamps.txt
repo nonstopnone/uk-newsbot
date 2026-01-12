@@ -9829,3 +9829,6 @@
 2026-01-12T23:41:35.649725+00:00|https://www.nbcnews.com/video/shorts/suspect-in-murder-of-ohio-couple-makes-first-court-appearance-255833157775|suspect in murder of ohio couple makes first court appearance us news|521134001cd4495384ff294791f642ab
 2026-01-12T23:41:36.141704+00:00|https://www.nytimes.com/2026/01/12/us/congressional-employee-stolen-phones.html|former congressional employee accused of stealing 240 phones us news|1bea94499db5b673041cb40b27d1adfe
 2026-01-12T23:41:36.609344+00:00|https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html|us attacked boat with aircraft that looked like a civilian plane us news|6810e95c7a88f642c9faccfd22f8f035
+2026-01-12T23:57:26.981888+00:00|https://www.nytimes.com/2026/01/12/us/politics/border-patrol-minnesota-surge.html|trump officials are sending 1000 more immigration officers to minnesota us news|28237996a12e369365be7cc91d9dee4f
+2026-01-12T23:57:27.461044+00:00|https://abcnews.go.com/Politics/military-options-trump-iran-after-warning-big-trouble/story|some of the military options trump could consider on iran over protests us news|3f4eb82e5bfa3a4988af2354c5270013
+2026-01-12T23:57:27.929302+00:00|https://www.nytimes.com/2026/01/12/nyregion/new-jersey-groundhog-day-veto.html|in this town the groundhog may never see its shadow again us news|d6b6bb75c65b1ab72773b0374149c46e
