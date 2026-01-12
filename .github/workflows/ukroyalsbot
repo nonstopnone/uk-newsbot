@@ -1,0 +1,44 @@
+name: UK Royal News Bot
+
+on:
+  schedule:
+    # Runs every 30 minutes, offset by 5 mins from main bot to avoid rate clashes
+    - cron: '5,35 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  run-royal-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --upgrade pip
+      - name: Install dependencies
+        run: pip install --upgrade feedparser praw beautifulsoup4 requests python-dateutil google-genai
+      - name: Run Royal Bot
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -u royalbot.py
+      - name: Commit Logs
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Specific files for Royal Bot
+          git add posted_urls_royal.txt ai_cache_royal.json metrics_royal.json || true
+          git commit -m "Update Royal Bot logs" || true
+          git push || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
