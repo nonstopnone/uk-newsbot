@@ -9781,3 +9781,6 @@
 2026-01-12T11:27:31.056058+00:00|https://www.nytimes.com/2026/01/12/podcasts/the-headlines/jerome-powellfederal-agents-minnesota.html|the justice departments new target in dc and a surge of federal agents in minnesota us news|48cf2d7f908fada29fce77946dd07432
 2026-01-12T11:27:31.542398+00:00|https://www.nytimes.com/2026/01/12/us/politics/oregon-guard-undocumented-parents.html|us citizens are joining the military to protect undocumented parents us news|42f3fbb71c17e3feb8f885497e45d819
 2026-01-12T11:43:23.298829+00:00|https://www.nytimes.com/2026/01/12/nyregion/nurses-strike-hospitals-nyc.html|nearly 15000 nurses go on strike at major new york city hospitals us news|3a5699e955064395693f484c3afe175b
+2026-01-12T12:59:13.860308+00:00|https://www.bbc.com/news/articles/crmlkxjm88ko|trump plan to cap credit card costs hits bank shares us news|10b509b2d4e9c0407a51196a2428a663
+2026-01-12T12:59:14.460658+00:00|https://www.today.com/video/trump-denies-involvement-in-jerome-powell-subpoenas-255789125799|fed chair jerome powell says hes being investigated by doj us news|f63ef6d97be0ba50acefa33710418331
+2026-01-12T12:59:14.999916+00:00|https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates|minneapolis ice shooting live updates dhs adding hundreds of officers in minnesota us news|6ec443bcf01811f9f427d0ba832b629b
