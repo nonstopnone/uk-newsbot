@@ -186,3 +186,6 @@
 2026-01-12T07:56:13.899841+00:00|https://www.bbc.com/news/articles/ckgy840w9xno|old phone warning as 3g network switched off|d9af1eb17c189ee7dc9fd21ce6f5bdd5
 2026-01-12T07:56:24.434258+00:00|https://www.bbc.com/news/articles/cz9vel5pgdeo|the dangerous rise in tiktok urban explorers|00e74ae2a02dfae2688ed88e9a093287
 2026-01-12T07:56:34.954119+00:00|https://www.bbc.com/news/articles/cwy8gpvdd1go|london homicides at 11year low met police says|aada8971ccd599df648d0a3e7e7f6dc3
+2026-01-12T09:55:39.949283+00:00|https://www.bbc.com/news/articles/cn82439p4x4o|flood warnings issued as heavy rain forces road closures|633c837613d7cb99f6617a10a3455a4b
+2026-01-12T09:55:50.517112+00:00|https://news.sky.com/story/manchester-united-captain-bruno-fernandess-x-account-hacked-with-post-criticising-co-owners-13493295|manchester united captains x account hacked with post criticising coowners|a09b90017549df38ede2db4bb6569ab1
+2026-01-12T09:56:01.142320+00:00|https://news.sky.com/story/heavy-rain-and-melting-snow-could-cause-flooding-in-wake-of-storm-goretti-13493280|heavy rain and melting snow could cause flooding in wake of storm goretti|ef3d2bb909dacec97b974a452cecf9c7
