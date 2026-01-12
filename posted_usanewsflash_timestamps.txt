@@ -9790,3 +9790,4 @@
 2026-01-12T15:35:04.146954+00:00|https://www.nytimes.com/2026/01/12/nyregion/immigration-policy-new-jersey.html|a push to expand the rights of immigrants in defiance of trump us news|9d035c6e42ea2faea0060c2f16e89117
 2026-01-12T15:35:04.631598+00:00|https://abcnews.go.com/US/husband-charged-aggravated-murder-slaying-ohio-couple-due/story|exhusband charged with aggravated murder in slaying of ohio couple due in court us news|717398c6358be0b98cdef63c64162821
 2026-01-12T15:35:05.096064+00:00|https://www.nbcnews.com/sports/nfl/nfl-playoffs-new-generation-quarterbacks-rcna253541|a new guard of quarterbacks are taking over the nfl playoffs us news|c41907a38c8e69e1012e6a9aaf94413e
+2026-01-12T15:53:42.009390+00:00|https://www.nytimes.com/2026/01/12/business/federal-reserve-changes-course-trump-administration.html|fed changes course and takes on trumps political fight us news|730e4c53e5c8b8d6ae27c1f3da109902
