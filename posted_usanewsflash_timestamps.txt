@@ -9813,3 +9813,8 @@
 2026-01-12T20:48:48.337257+00:00|https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html|apple teams up with google for ai in its products us news|deb0664d94b1fbb2bc0633aca5bd348e
 2026-01-12T20:58:32.722517+00:00|https://www.nytimes.com/2026/01/12/us/politics/jerome-powell-investigation-fed-renovations.html|what to know about the criminal investigation of fed chair jerome powell us news|83eaf3b0d2fc5d9544a999d6ee663017
 2026-01-12T21:44:29.670122+00:00|https://www.nytimes.com/2026/01/12/us/politics/mark-kelly-pentagon-hegseth-suit.html|kelly sues pentagon over threats of punishment from hegseth us news|c1d312dae24e116c07b7aacbafe0d560
+2026-01-12T22:24:03.142421+00:00|https://www.bbc.com/news/articles/c394xywlj8jo|minnesota sues trump administration to block surge of ice agents us news|4b43b72fe9722613d0618299b9d86649
+2026-01-12T22:24:03.920535+00:00|https://www.bbc.com/news/articles/cr578pvlp8qo|trump warns of mess ahead of legal ruling on tariffs us news|0793d52e289c0d529ff43f1ec3d41df4
+2026-01-12T22:24:04.761089+00:00|https://www.bbc.com/news/videos/cwy160gd773o|watch how could trump respond to iran crackdown us news|a4c21aeb49098fc2c0bd3a9f38139f4c
+2026-01-12T22:24:05.564758+00:00|https://www.nytimes.com/2026/01/12/us/minnesota-llinois-lawsuit-ice-trump-administration.html|minnesota and illinois sue trump administration over ice deployments us news|db9c4e8f8bab7db3bfe3bec824360865
+2026-01-12T22:24:06.134459+00:00|https://www.nbcnews.com/news/us-news/minnesota-sues-federal-government-immigration-agent-rcna253686|minnesota sues federal government to end deployment of immigration agents us news|6fa94f088251e7d6a1221bbc827bcf5b
