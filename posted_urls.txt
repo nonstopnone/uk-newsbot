@@ -1,6 +1,3 @@
-2026-01-05T19:55:41.708332+00:00|https://www.bbc.com/news/articles/c0r4n9ne22eo|apprentice contestant accused of racist posts|91b12afc2be438cf3768d22589f1c2b4
-2026-01-05T20:27:21.566359+00:00|https://news.sky.com/story/ofcom-makes-urgent-contact-with-x-over-concerns-grok-ai-can-generate-sexualised-images-of-children-13490863|ofcom contacts x over serious concerns about aigenerated sexualised images of children|eec3b17781e9d62143f2a08a7cc01da9
-2026-01-05T20:27:32.259870+00:00|https://news.sky.com/story/celtic-manager-wilfried-nancy-sacked-after-eight-games-in-charge-13490745|celtic sack manager with familiar face to return again|28f14d41852d482b9fabad193ade9bec
 2026-01-05T22:24:45.848653+00:00|https://www.bbc.com/news/articles/crkr0r6lrdjo|manchester arena families say mi5 must be fully included in new law on coverups|b263755d9daa328e5321b4fdb9395687
 2026-01-05T22:46:05.362678+00:00|https://www.bbc.com/news/articles/c4gw3w9xvwxo|teacher who had sex with two pupils struck off|48b4dd7772850dba24837d33b6c975fa
 2026-01-05T22:56:49.630603+00:00|https://www.bbc.com/news/articles/c050p6e6093o|our children waited too long for the same diagnosis as jesy nelsons twins|ec05f742e6dc938d62396ef3d501cb86
@@ -204,3 +201,7 @@
 2026-01-12T19:03:32.454710+00:00|https://www.bbc.com/news/articles/cdre527zymzo|labour mps urge minister to reject chinese mega embassy|64d0d40d62a3f2399949c51e96abca45
 2026-01-12T19:53:50.699453+00:00|https://www.telegraph.co.uk/football/2026/01/12/fa-cup-fourth-round-draw-when-is-it-today|fa cup fourthround draw macclesfield rewarded with brentford tie arsenal host wigan|b70f280e4057d9488bd6f57a406af1bb
 2026-01-12T19:54:01.349701+00:00|https://news.sky.com/story/uk-has-no-defence-plan-despite-threat-from-putins-russia-13493493|uk has no defence plan despite threat from putins russia|ca4a65d4e046ef10876fea4b8de5cdb9
+2026-01-12T20:33:16.442464+00:00|https://news.sky.com/story/four-nhs-hospital-trusts-declare-critical-incidents-amid-rise-in-flu-and-norovirus-cases-13493521|four hospital trusts declare critical incidents amid high demand as flu and norovirus cases surge|626bdaf1e1bb6aeed407b96e9eb1dceb
+2026-01-12T20:33:27.151917+00:00|https://www.bbc.com/sport/football/articles/cy8pngd870vo|macclesfield to host brentford in fa cup fourth round|bc3d0de74751b717069e4af5d193b7dc
+2026-01-12T20:33:39.360127+00:00|https://www.bbc.com/news/articles/c4g0r40d5pzo|asylum seeker jailed for raping teenager in park|2ae50f682312f495cea7fdc421916bbb
+2026-01-12T20:33:49.940320+00:00|https://www.bbc.com/news/articles/cgk8d230m4go|woman brings suspected ww2 bomb to police station|7e7193ee0954ce24a39be7dd0b736b76
