@@ -9811,3 +9811,4 @@
 2026-01-12T20:31:38.202845+00:00|https://www.nytimes.com/2026/01/12/us/politics/elizabeth-warren-democrats.html|with democrats at a crossroads elizabeth warren urges a left turn us news|cce0a950f29b5db613faaacc4b985a64
 2026-01-12T20:48:47.835660+00:00|https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html|meta plans to cut 10 to 15 of employees in reality labs business us news|dd3e47382a80e14ada01ecfeefa74948
 2026-01-12T20:48:48.337257+00:00|https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html|apple teams up with google for ai in its products us news|deb0664d94b1fbb2bc0633aca5bd348e
+2026-01-12T20:58:32.722517+00:00|https://www.nytimes.com/2026/01/12/us/politics/jerome-powell-investigation-fed-renovations.html|what to know about the criminal investigation of fed chair jerome powell us news|83eaf3b0d2fc5d9544a999d6ee663017
