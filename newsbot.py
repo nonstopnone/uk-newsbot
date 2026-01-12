@@ -23,29 +23,36 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: python -m pip install --upgrade pip
+          
       - name: Install dependencies
-        run: pip install --upgrade feedparser praw beautifulsoup4 requests python-dateutil google-genai
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser praw beautifulsoup4 requests python-dateutil google-genai
+          
       - name: Run newsbot
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDIT_PASSWORD: ${{ secrets.REDDITPASSWORD }}
+          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # Pass the input to the script
           MANUAL_URL: ${{ github.event.inputs.manual_url }}
         run: python -u newsbot.py
+        
       - name: Commit Logs
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Ensure files exist before adding to prevent 'pathspec' errors
+          touch run_log.txt posted_urls.txt ai_cache.json metrics.json
           git add run_log.txt posted_urls.txt ai_cache.json metrics.json
           git add posted_urls_*.txt || true
-          git commit -m "Update Main Bot logs" || true
+          git commit -m "Update Main Bot logs [skip ci]" || true
           git push || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
