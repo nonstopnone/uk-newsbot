@@ -9798,3 +9798,5 @@
 2026-01-12T17:58:00.223695+00:00|https://www.bbc.com/news/articles/cdexdr08p05o|instagram denies breach after many receive emails asking to reset password us news|87534ff31ca77d7df0f2b8dad2602f1f
 2026-01-12T17:58:03.547789+00:00|https://www.bbc.com/sport/articles/cy8pngkvj5yo|skeleton race investigated as us slider accuses canada us news|78d9af84d23a395ef7feac2ad6cde042
 2026-01-12T17:58:04.422239+00:00|https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html|trump administration nears trade deal with taiwan us news|b1c2f2397e21dd040bb69df889b9f738
+2026-01-12T18:40:26.750206+00:00|https://www.nytimes.com/2026/01/11/us/politics/trump-interview-transcript.html|two hours scores of questions 23000 words our interview with president trump us news|89925b72ea44a18cb6d745020bae5e22
+2026-01-12T18:40:27.407939+00:00|https://www.nytimes.com/2026/01/12/world/americas/venezuela-political-prisoners-amnesty.html|n venezuela amnesty for political prisoners stokes hope and frustration us news|1fcff7e5493fc3e189a93a3eb975c0e7
