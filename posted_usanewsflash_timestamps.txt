@@ -9824,3 +9824,4 @@
 2026-01-12T22:45:11.060377+00:00|https://www.nytimes.com/2026/01/12/nyregion/maduro-lawyers-bruce-fein.html|lawyer whom maduro didnt hire is booted from his case us news|43908457384feb7ca254f20b3ef30bb5
 2026-01-12T22:57:31.694507+00:00|https://www.bbc.com/news/articles/clyev0kpk77o|trump announces 25 tariff on countries doing business with iran us news|5bc267df0f5ebc8dc50386277e58e2c3
 2026-01-12T22:57:32.344541+00:00|https://www.nytimes.com/2026/01/12/us/mississippi-synagogue-arson.html|arson suspect targeted mississippi synagogue for its jewish ties fbi says us news|ba14d8f902461fa87e48bd0f5a81ca26
+2026-01-12T23:21:25.214530+00:00|https://abcnews.go.com/US/federal-prosecutor-virginia-fired-unwilling-comey-prosecution-sources/story|federal prosecutor in virginia fired unwilling to take on comey prosecution sources us news|0c0248ac8681a00897629f1eff567eaa
