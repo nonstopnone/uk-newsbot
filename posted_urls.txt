@@ -1,4 +1,3 @@
-2026-01-05T22:56:49.630603+00:00|https://www.bbc.com/news/articles/c050p6e6093o|our children waited too long for the same diagnosis as jesy nelsons twins|ec05f742e6dc938d62396ef3d501cb86
 2026-01-06T01:52:57.558578+00:00|https://news.sky.com/story/amorim-sacked-whoever-the-manager-man-utds-prospects-dont-look-great-13490954|man utds new leadership may have just made things worse|0bb30969826717d3da65a0d217060af9
 2026-01-06T01:53:08.329854+00:00|https://news.sky.com/story/over-70s-face-driving-ban-if-they-fail-mandatory-eye-tests-13490951|over70s face driving ban if they fail mandatory eye tests|d1b277e7e315601153bec09ad36b71f0
 2026-01-06T03:38:51.721803+00:00|https://www.bbc.com/news/articles/cn0y8kl8kxeo|west midlands police to be questioned over israeli football fan ban|606c43a638707d1aba1bb51e10330f98
@@ -209,3 +208,6 @@
 2026-01-12T22:46:16.486873+00:00|https://www.bbc.com/news/articles/cevn4ny7wvyo|crackdown on illegal working leads to surge in arrests|17b2b5b3beb82cfe9762d861d61e6c6e
 2026-01-12T22:46:27.079261+00:00|https://news.sky.com/story/starmer-threatens-to-control-grok-if-elon-musks-x-keeps-creating-sexual-images-13493537|starmer threatens to control grok if elon musks x keeps creating sexual images|908d044d8e034af900e11af545661577
 2026-01-12T22:46:37.530771+00:00|https://news.sky.com/story/illegal-migrant-worker-crackdown-sees-record-numbers-of-raids-and-arrests-13493522|illegal migrant worker crackdown sees record numbers of raids and arrests|86fbb903a028c24874e93948e41511b6
+2026-01-12T23:23:08.242997+00:00|https://www.bbc.com/news/articles/c20g34wpgygo|skyrocketing cost of ruined and flytipped items hits charity shops|717c961add726e68ea54ff314a12aebd
+2026-01-12T23:23:18.856321+00:00|https://www.bbc.com/news/articles/ckgnryke8r0o|tax and spending plans to be revealed in scottish budget|aab0c2d7e0bc7b84c99a921edc29b826
+2026-01-12T23:23:29.453582+00:00|https://www.telegraph.co.uk/football/2026/01/12/liverpool-vs-barnsley-live-score-fa-cup-draw-updates-latest|liverpool beat barnsley on night of fa cup magic and madness at anfield|62fc2df6b22cfa7fcb08069b559ad430

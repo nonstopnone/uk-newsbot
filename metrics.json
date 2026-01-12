@@ -1,16 +1,16 @@
 {
   "sources": {
     "Manual Submission": 3,
-    "BBC": 20,
+    "BBC": 22,
     "Sky": 13,
-    "Telegraph": 1
+    "Telegraph": 2
   },
   "categories": {
-    "Politics": 14,
+    "Politics": 15,
     "Crime & Legal": 14,
     "Notable International": 2,
-    "Economy": 1,
-    "Sport": 2,
+    "Economy": 2,
+    "Sport": 3,
     "Royals": 2,
     "Immigration": 2
   }
