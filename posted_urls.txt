@@ -170,3 +170,7 @@
 2026-01-11T23:06:40.288432+00:00|https://www.bbc.com/news/articles/c3018n8yr38o|norwich city fan dies during fa cup home fixture|b712e0250c4fc64ce04ddff9866004b2
 2026-01-11T23:06:50.770743+00:00|https://news.sky.com/story/british-skier-killed-in-avalanche-in-french-alps-13493204|british skier killed in avalanche in french alps|2e79fa01ea9b328edebd6b0aaf84cae4
 2026-01-11T23:28:38.852326+00:00|https://news.sky.com/story/technical-issue-with-radar-halts-arrivals-at-birmingham-airport-13493244|technical issue with radar halts arrivals at birmingham airport|f8695892780a56c85af6596f3b1f74be
+2026-01-12T02:24:46.870268+00:00|https://news.sky.com/story/37c-temperatures-traps-thousands-of-tourists-in-finland-13493256|37c temperatures traps thousands of tourists in finland|dab7f2637f7148324fa8082d7e187dc5
+2026-01-12T02:24:57.569274+00:00|https://www.bbc.com/news/articles/c394vjm7n4vo|the vicious cycle that means the nhs still wastes billions on patients who dont need to be in hospital|a3c2c0b941932474ccb24f57ab7e71f7
+2026-01-12T02:25:08.298552+00:00|https://news.sky.com/story/number-of-homicides-in-london-falls-to-lowest-in-over-a-decade-says-met-police-13493148|number of homicides in london falls to lowest in over a decade says met police|b21a6aab2ac40bb26526e073c517e886
+2026-01-12T02:25:18.781181+00:00|https://www.bbc.com/news/articles/c89qyv98lzdo|revolutionary eye injection saved my sight says first ever patient|bc14f561f1e21a5ed50298ca63f71051
