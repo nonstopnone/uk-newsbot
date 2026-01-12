@@ -1,8 +1,10 @@
 {
   "sources": {
-    "Manual Submission": 1
+    "Manual Submission": 2,
+    "BBC": 1
   },
   "categories": {
-    "Politics": 1
+    "Politics": 2,
+    "Crime & Legal": 1
   }
 }
