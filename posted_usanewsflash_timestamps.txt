@@ -9787,3 +9787,6 @@
 2026-01-12T13:46:31.967362+00:00|https://www.bbc.com/news/articles/c801k7rkkd7o|fed chair powell hits out at unprecedented probe by us justice department us news|5d3b9689184c02d8141c428260cf7fe5
 2026-01-12T13:46:32.526371+00:00|https://www.nytimes.com/2026/01/12/us/politics/mary-peltola-senate-alaska.html|mary peltola runs for senate in alaska lifting democrats hopes us news|76fefd2927a9c9f882d18ba39aab076e
 2026-01-12T13:46:33.056762+00:00|https://www.today.com/video/trump-weighs-military-action-on-iran-after-500-protesters-killed-255788101997|trump weighs military action on iran after 500 protesters killed us news|7829815834932d6e7e23368720fcb6b5
+2026-01-12T15:35:04.146954+00:00|https://www.nytimes.com/2026/01/12/nyregion/immigration-policy-new-jersey.html|a push to expand the rights of immigrants in defiance of trump us news|9d035c6e42ea2faea0060c2f16e89117
+2026-01-12T15:35:04.631598+00:00|https://abcnews.go.com/US/husband-charged-aggravated-murder-slaying-ohio-couple-due/story|exhusband charged with aggravated murder in slaying of ohio couple due in court us news|717398c6358be0b98cdef63c64162821
+2026-01-12T15:35:05.096064+00:00|https://www.nbcnews.com/sports/nfl/nfl-playoffs-new-generation-quarterbacks-rcna253541|a new guard of quarterbacks are taking over the nfl playoffs us news|c41907a38c8e69e1012e6a9aaf94413e
