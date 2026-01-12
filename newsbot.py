@@ -62,7 +62,7 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/5.4"
+    user_agent="BreakingUKNewsBot/5.6"
 )
 
 # Verify Auth
@@ -72,15 +72,20 @@ except Exception as e:
     log("CRITICAL", f"Login failed: {e}", Col.RED)
     sys.exit(1)
 
-# UPDATED MODEL TO 2.5-FLASH
 model_name = 'gemini-2.5-flash'
-subreddit = reddit.subreddit("BreakingUKNews")
+
+# Initialize Subreddits
+subreddit_uk = reddit.subreddit("BreakingUKNews")
+subreddit_intl = reddit.subreddit("InternationalBulletin")
 
 # =========================
 # Section: Files and Constants
 # =========================
 DEDUP_FILE = "posted_urls.txt"
 RUN_LOG_FILE = "run_log.txt"
+AI_CACHE_FILE = "ai_cache.json"
+METRICS_FILE = "metrics.json"
+
 DAILY_PREFIX = "posted_urls_"
 FUZZY_DUP_THRESHOLD = 0.40
 TARGET_POSTS = 10
@@ -196,7 +201,7 @@ OPINION_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
     "opinion","comment","editorial","analysis","column","viewpoint","perspective"]]
 
 # =========================
-# Section: Utilities
+# Section: Utilities & JSON Helpers
 # =========================
 def normalize_url(u):
     if not u: return ""
@@ -212,6 +217,26 @@ def normalize_title(t):
 def content_hash(entry):
     blob = (getattr(entry, 'title', '') + " " + getattr(entry, 'summary', ''))[:700]
     return hashlib.md5(blob.encode('utf-8')).hexdigest()
+
+def load_json_data(filepath, default_val):
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except: pass
+    return default_val
+
+def save_json_data(filepath, data):
+    try:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+    except: pass
+
+def update_metrics(source, category):
+    data = load_json_data(METRICS_FILE, {"sources": {}, "categories": {}})
+    data["sources"][source] = data["sources"].get(source, 0) + 1
+    data["categories"][category] = data["categories"].get(category, 0) + 1
+    save_json_data(METRICS_FILE, data)
 
 # =========================
 # Section: Deduplication
@@ -387,21 +412,35 @@ def detect_category(full_text):
 # =========================
 # Section: Flair ID
 # =========================
-def get_flair_id(flair_text):
-    if flair_text in FLAIR_CACHE:
-        return FLAIR_CACHE[flair_text]
+def get_flair_id(target_sub, flair_text):
+    """Retrieves flair ID for the specific target subreddit (UK or International)."""
+    # Simple cache key combining sub name and flair text
+    cache_key = f"{target_sub.display_name}:{flair_text}"
+    if cache_key in FLAIR_CACHE:
+        return FLAIR_CACHE[cache_key]
     try:
-        for t in subreddit.flair.link_templates:
+        for t in target_sub.flair.link_templates:
             if t.get('text') == flair_text:
-                FLAIR_CACHE[flair_text] = t.get('id')
+                FLAIR_CACHE[cache_key] = t.get('id')
                 return t.get('id')
     except: pass
     return None
 
 # =========================
-# Section: Gemini AI Check
+# Section: Gemini AI Check (With Caching)
 # =========================
-def is_uk_relevant_gemini(title, summary, excerpt_200):
+def is_uk_relevant_gemini(title, summary, excerpt_200, entry_hash):
+    cache = load_json_data(AI_CACHE_FILE, {})
+    
+    # Prune old cache
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=7)).timestamp()
+    clean_cache = {k: v for k, v in cache.items() if v.get('timestamp', 0) > cutoff}
+    
+    if entry_hash in clean_cache:
+        cached_result = clean_cache[entry_hash]['is_relevant']
+        log("DETAIL", f"AI Cache Hit: {'RELEVANT' if cached_result else 'IRRELEVANT'}", Col.BLUE)
+        return cached_result
+
     log("DETAIL", f"Requesting AI check for: {title[:40]}...", Col.YELLOW)
     
     prompt = f"""You are a strict UK-news relevance classifier.
@@ -431,6 +470,12 @@ Excerpt (First 200 words): {excerpt_200}
         decision = response.text.strip().lower()
         is_relevant = decision.startswith('yes')
         
+        clean_cache[entry_hash] = {
+            "is_relevant": is_relevant,
+            "timestamp": datetime.now(timezone.utc).timestamp()
+        }
+        save_json_data(AI_CACHE_FILE, clean_cache)
+
         if is_relevant:
             log("DETAIL", f"AI Result: RELEVANT ({decision})", Col.GREEN)
         else:
@@ -462,23 +507,53 @@ def is_duplicate(entry):
     if content_hash(entry) in POSTED_HASHES: return True, 'duplicate_hash'
     return False, ''
 
-def post_with_flair_and_reply(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras, top_trigger, ai_confirmed=False):
+def post_to_international(source, entry, category, score):
+    """Reroutes AI-rejected stories to r/InternationalBulletin."""
+    title = getattr(entry, 'title', '')
+    url = getattr(entry, 'link', '')
+    
+    try:
+        log("REROUTE", f"Posting to International: {title[:50]}...", Col.YELLOW)
+        
+        # Try to find matching flair, or default to None
+        flair_id = get_flair_id(subreddit_intl, category)
+        
+        if flair_id:
+            sub = subreddit_intl.submit(title=title, url=url, flair_id=flair_id)
+        else:
+            sub = subreddit_intl.submit(title=title, url=url)
+            
+        lines = [
+            f"**Source:** {source}",
+            f"**Category:** {category} (Original Score: {score})",
+            "",
+            "This article was automatically routed to r/InternationalBulletin because it was identified as significant news but deemed not primarily UK-focused."
+        ]
+        sub.reply('\n'.join(lines))
+        
+        # KEY: We add to dedup because it IS now posted (just elsewhere)
+        add_to_dedup(entry) 
+        return True
+    except Exception as e:
+        log("ERROR", f"Failed to route International: {e}", Col.RED)
+        return False
+
+def post_to_uk(source, entry, published_dt, score, positive_total, negative_total, matched, category, category_strength, hybrid_flag, full_paras, top_trigger, ai_confirmed):
     flair_text = FLAIR_TEXTS.get(category, FLAIR_TEXTS.get('Notable International'))
-    flair_id = get_flair_id(flair_text)
+    flair_id = get_flair_id(subreddit_uk, flair_text)
     title = getattr(entry, 'title', '')
     url = getattr(entry, 'link', '')
 
     try:
-        log("POSTING", f"Attempting to post: {title[:50]}...", Col.CYAN)
+        log("POSTING", f"Attempting to post UK: {title[:50]}...", Col.CYAN)
         if flair_id:
-            submission = subreddit.submit(title=title, url=url, flair_id=flair_id)
+            submission = subreddit_uk.submit(title=title, url=url, flair_id=flair_id)
         else:
-            submission = subreddit.submit(title=title, url=url)
+            submission = subreddit_uk.submit(title=title, url=url)
     except Exception as e:
         log("ERROR", f"Post failed: {e}", Col.RED)
         return False
 
-    # Construct Reply
     lines = []
     lines.append(f"**Source:** {source}")
     if full_paras:
@@ -495,7 +570,7 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     
     lines.append("")
     if ai_confirmed:
-        lines.append("This was posted automatically and checked by AI to ensure it was relevant.")
+        lines.append("This was posted automatically and checked by AI to be relevant.")
     else:
         lines.append("This was posted automatically.")
     
@@ -504,7 +579,8 @@ def post_with_flair_and_reply(source, entry, published_dt, score, positive_total
     except: pass
     
     add_to_dedup(entry)
-    log("SUCCESS", f"Posted: {title[:50]}...", Col.GREEN)
+    update_metrics(source, category)
+    log("SUCCESS", f"Posted UK: {title[:50]}...", Col.GREEN)
     return True
 
 def main():
@@ -533,18 +609,19 @@ def main():
     entries.sort(key=lambda x: x[2], reverse=True)
     log("INFO", f"Found {len(entries)} recent articles.", Col.RESET)
     
-    candidates = []
+    uk_candidates = []
     category_counts = Counter()
-    ai_check_count = 0  # Track AI usage
+    ai_check_count = 0 
     
     STRONG_UK_INDICATORS = {'uk', 'united kingdom', 'britain', 'england', 'scotland', 'wales', 'northern ireland', 'london'}
 
     for name, entry, published_dt in entries:
-        if len(candidates) >= INITIAL_ARTICLES: break
+        if len(uk_candidates) >= INITIAL_ARTICLES: break
         
         dup, reason = is_duplicate(entry)
         title = getattr(entry, 'title', '')
         summary = getattr(entry, 'summary', '')
+        h = content_hash(entry)
         
         if dup: continue
         
@@ -557,7 +634,6 @@ def main():
         article_text = ' '.join(full_paras)
         combined = title + ' ' + summary + ' ' + article_text
         
-        # Strict 200 word excerpt
         combined_words = (title + " " + summary + " " + article_text).split()
         excerpt_200 = " ".join(combined_words[:200])
 
@@ -581,7 +657,6 @@ def main():
         is_candidate = False
         ai_confirmed = False
         
-        # Strict Auto-Pass Check
         is_strong_geo_match = any(ind in combined.lower() for ind in STRONG_UK_INDICATORS)
         
         if score >= 15 and is_strong_geo_match:
@@ -589,28 +664,34 @@ def main():
             log("DETAIL", f"Auto-Pass (High Score + Strong Geo): {title[:40]}...", Col.GREEN)
         elif score >= threshold:
             ai_check_count += 1
-            if is_uk_relevant_gemini(title, summary, excerpt_200):
+            # Check AI
+            is_relevant = is_uk_relevant_gemini(title, summary, excerpt_200, h)
+            
+            if is_relevant:
                 is_candidate = True
                 ai_confirmed = True
             else:
-                log("REJECTED", f"AI Veto: {title[:40]}...", Col.RED)
+                # ROUTING LOGIC: If significant news but not UK, send to International
+                log("REROUTE", f"AI Veto (Non-UK). Routing to Intl...", Col.YELLOW)
+                post_to_international(name, entry, category, score)
+                # Deduplication logic is handled inside post_to_international
         else:
             log("REJECTED", f"Low Score ({score}): {title[:40]}...", Col.RED)
             
         if is_candidate and category_counts[category] < 3:
-            candidates.append((name, entry, published_dt, score, pos, neg, matched, category, cat_strength, False, full_paras, top_trigger, ai_confirmed))
+            uk_candidates.append((name, entry, published_dt, score, pos, neg, matched, category, cat_strength, False, full_paras, top_trigger, ai_confirmed))
             category_counts[category] += 1
             
-    log("INFO", f"Processing {len(candidates)} candidates for posting...", Col.CYAN)
+    log("INFO", f"Processing {len(uk_candidates)} candidates for UK posting...", Col.CYAN)
     posted = 0
     
-    for item in candidates:
+    for item in uk_candidates:
         if posted >= TARGET_POSTS: break
-        if post_with_flair_and_reply(*item):
+        if post_to_uk(*item):
             posted += 1
             time.sleep(10)
             
-    log("FINISHED", f"Run Complete. Posted {posted} articles. AI Checks performed: {ai_check_count}", Col.GREEN)
+    log("FINISHED", f"Run Complete. UK Posted: {posted}. AI Checks: {ai_check_count}", Col.GREEN)
 
 if __name__ == "__main__":
     main()
