@@ -9778,3 +9778,5 @@
 2026-01-12T11:01:03.552347+00:00|https://www.nytimes.com/2026/01/12/us/politics/gerrymandering-redistricting-virginia-florida-maryland.html|the battle over house maps spills into 2026 where an xfactor awaits us news|bbf1b18f8e8af69e22450158d3e898c4
 2026-01-12T11:01:04.187671+00:00|https://www.nytimes.com/2026/01/07/us/ice-shooting-minneapolis-renee-good.html|what we know about the fatal ice shooting in minneapolis us news|449758a598f7660d9c59ee0cbf2c0530
 2026-01-12T11:01:04.788388+00:00|https://www.nytimes.com/2026/01/12/climate/under-trump-us-adds-fuel-to-a-heating-planet.html|under trump us adds fuel to a heating planet us news|5166ac65843a63188f1b1904ffcc394c
+2026-01-12T11:27:31.056058+00:00|https://www.nytimes.com/2026/01/12/podcasts/the-headlines/jerome-powellfederal-agents-minnesota.html|the justice departments new target in dc and a surge of federal agents in minnesota us news|48cf2d7f908fada29fce77946dd07432
+2026-01-12T11:27:31.542398+00:00|https://www.nytimes.com/2026/01/12/us/politics/oregon-guard-undocumented-parents.html|us citizens are joining the military to protect undocumented parents us news|42f3fbb71c17e3feb8f885497e45d819
