@@ -92,7 +92,7 @@ TIME_WINDOW_HOURS = 24 # Royals news moves slower, look back further
 ROYAL_KEYWORDS = {
     "king charles": 10, "queen camilla": 10, 
     "prince william": 10, "princess of wales": 10, "kate middleton": 10,
-    "prince harry": 10, "meghan markle": 10, "duke of sussex": 10, "duchess of sussex": 10,
+    "prince harry": 10, "duke of sussex": 10, "duchess of sussex": 10,
     "buckingham palace": 8, "kensington palace": 8, "windsor castle": 8,
     "royal family": 6, "british monarchy": 6,
     "prince george": 8, "princess charlotte": 8, "prince louis": 8,
@@ -274,7 +274,7 @@ def is_royal_relevant_gemini(title, summary, excerpt_200, entry_hash):
 Task: Determine if this article is about the CURRENT British Royal Family (Windsors).
 
 Rules for YES (Relevant):
-1. Primarily about King Charles, Camilla, William, Kate, Harry, Meghan, or their children.
+1. Primarily about King Charles, Camilla, William, Kate, or their children.
 2. Official Palace announcements or significant events involving the monarchy.
 
 Rules for NO (Irrelevant):
@@ -282,7 +282,7 @@ Rules for NO (Irrelevant):
 2. Historical articles about ancient kings (Richard III, Henry VIII) unless linked to current events.
 3. Archaeology stories (e.g., "Princely burial site found in Germany").
 4. Stories about foreign royals (Spanish, Dutch, etc.) unless visiting the UK.
-5. TV Show reviews (The Crown) unless discussing factual accuracy controversy.
+5. TV Show reviews (e.g The Crown)
 
 Output: Respond ONLY with 'YES' or 'NO'.
 
@@ -356,8 +356,6 @@ def main():
         ("BBC", "https://feeds.bbci.co.uk/news/uk/rss.xml"),
         ("Sky", "https://feeds.skynews.com/feeds/rss/home.xml"),
         ("Telegraph", "https://www.telegraph.co.uk/rss.xml"),
-        ("Standard", "https://www.standard.co.uk/news/royals/rss"),
-        ("Express", "https://feeds.feedburner.com/daily-express-royal-news")
     ]
     
     now = datetime.now(timezone.utc)
