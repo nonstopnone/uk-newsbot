@@ -9800,3 +9800,5 @@
 2026-01-12T17:58:04.422239+00:00|https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html|trump administration nears trade deal with taiwan us news|b1c2f2397e21dd040bb69df889b9f738
 2026-01-12T18:40:26.750206+00:00|https://www.nytimes.com/2026/01/11/us/politics/trump-interview-transcript.html|two hours scores of questions 23000 words our interview with president trump us news|89925b72ea44a18cb6d745020bae5e22
 2026-01-12T18:40:27.407939+00:00|https://www.nytimes.com/2026/01/12/world/americas/venezuela-political-prisoners-amnesty.html|n venezuela amnesty for political prisoners stokes hope and frustration us news|1fcff7e5493fc3e189a93a3eb975c0e7
+2026-01-12T19:10:54.055472+00:00|https://www.nytimes.com/2026/01/12/us/university-of-michigan-president-kent-syverud.html|university of michigan picks kent d syverud syracuse leader as its next president us news|9c5c77b19aa1ee78af9523fd4d0948e1
+2026-01-12T19:10:54.568662+00:00|https://abcnews.go.com/US/driver-shot-portland-immigration-operation-charged-assault-doj/story|driver shot during portland immigration operation charged with assault doj us news|897dd001fdfa721fd0b44f0da4d7d909
