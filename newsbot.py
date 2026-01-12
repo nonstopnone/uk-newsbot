@@ -62,7 +62,7 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/5.6"
+    user_agent="BreakingUKNewsBot/5.7"
 )
 
 # Verify Auth
@@ -203,6 +203,14 @@ OPINION_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b", re.I) for k in [
 # =========================
 # Section: Utilities & JSON Helpers
 # =========================
+class MockEntry:
+    """Helper class to convert manual URLs into Feedparser-like objects"""
+    def __init__(self, title, link, summary, published):
+        self.title = title
+        self.link = link
+        self.summary = summary
+        self.published = published
+
 def normalize_url(u):
     if not u: return ""
     p = urllib.parse.urlparse(u)
@@ -279,7 +287,7 @@ def add_to_dedup(entry):
     POSTED_HASHES.add(h)
 
 # =========================
-# Section: Fetching Article Text
+# Section: Fetching Article Text & Scraper
 # =========================
 def fetch_article_text(url):
     try:
@@ -294,6 +302,42 @@ def fetch_article_text(url):
         return paras
     except:
         return []
+
+def scrape_manual_entry(url):
+    """Scrapes a URL to create a mock feed entry for manual submissions."""
+    try:
+        log("MANUAL", f"Scraping {url}...", Col.CYAN)
+        r = requests.get(url, timeout=15, headers={'User-Agent': 'Mozilla/5.0'})
+        r.raise_for_status()
+        soup = BeautifulSoup(r.content, 'html.parser')
+        
+        # Get Title
+        title = ""
+        og_title = soup.find("meta", property="og:title")
+        if og_title and og_title.get("content"):
+            title = og_title["content"]
+        elif soup.title:
+            title = soup.title.string
+            
+        # Get Summary (Description)
+        summary = ""
+        og_desc = soup.find("meta", property="og:description")
+        meta_desc = soup.find("meta", attrs={"name": "description"})
+        
+        if og_desc and og_desc.get("content"):
+            summary = og_desc["content"]
+        elif meta_desc and meta_desc.get("content"):
+            summary = meta_desc["content"]
+            
+        if not title:
+            log("ERROR", "Could not scrape title from manual URL.", Col.RED)
+            return None
+            
+        return MockEntry(title=title.strip(), link=url, summary=summary.strip(), published=datetime.now(timezone.utc).isoformat())
+        
+    except Exception as e:
+        log("ERROR", f"Failed to scrape manual link: {e}", Col.RED)
+        return None
 
 # =========================
 # Section: Scoring and Decision Logic
@@ -527,7 +571,7 @@ def post_to_international(source, entry, category, score):
             f"**Source:** {source}",
             f"**Category:** {category} (Original Score: {score})",
             "",
-            "This article was automatically routed to r/InternationalBulletin because it was identified as significant news but deemed not primarily UK-focused."
+            "."
         ]
         sub.reply('\n'.join(lines))
         
@@ -596,6 +640,15 @@ def main():
     cutoff = now - timedelta(hours=TIME_WINDOW_HOURS)
     entries = []
     
+    # 1. Manual Submission Check
+    manual_url = os.environ.get("MANUAL_URL", "").strip()
+    if manual_url:
+        manual_entry = scrape_manual_entry(manual_url)
+        if manual_entry:
+            # Add to processing list (Source, Entry, Date)
+            entries.append(("Manual Submission", manual_entry, datetime.now(timezone.utc)))
+    
+    # 2. Automated Feed Fetching
     for name, url in feeds:
         try:
             log("FETCH", f"Checking {name}...", Col.BLUE)
@@ -607,7 +660,7 @@ def main():
         except: continue
         
     entries.sort(key=lambda x: x[2], reverse=True)
-    log("INFO", f"Found {len(entries)} recent articles.", Col.RESET)
+    log("INFO", f"Found {len(entries)} items to process.", Col.RESET)
     
     uk_candidates = []
     category_counts = Counter()
