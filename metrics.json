@@ -1,12 +1,12 @@
 {
   "sources": {
-    "Manual Submission": 2,
+    "Manual Submission": 3,
     "BBC": 8,
-    "Sky": 4
+    "Sky": 5
   },
   "categories": {
-    "Politics": 6,
-    "Crime & Legal": 7,
+    "Politics": 7,
+    "Crime & Legal": 8,
     "Notable International": 1
   }
 }
