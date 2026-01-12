@@ -1,4 +1,3 @@
-2026-01-05T22:46:05.362678+00:00|https://www.bbc.com/news/articles/c4gw3w9xvwxo|teacher who had sex with two pupils struck off|48b4dd7772850dba24837d33b6c975fa
 2026-01-05T22:56:49.630603+00:00|https://www.bbc.com/news/articles/c050p6e6093o|our children waited too long for the same diagnosis as jesy nelsons twins|ec05f742e6dc938d62396ef3d501cb86
 2026-01-06T01:52:57.558578+00:00|https://news.sky.com/story/amorim-sacked-whoever-the-manager-man-utds-prospects-dont-look-great-13490954|man utds new leadership may have just made things worse|0bb30969826717d3da65a0d217060af9
 2026-01-06T01:53:08.329854+00:00|https://news.sky.com/story/over-70s-face-driving-ban-if-they-fail-mandatory-eye-tests-13490951|over70s face driving ban if they fail mandatory eye tests|d1b277e7e315601153bec09ad36b71f0
@@ -207,3 +206,6 @@
 2026-01-12T21:30:36.721064+00:00|https://news.sky.com/story/van-driver-in-police-pursuit-fatally-hit-mother-of-three-who-was-looking-for-golf-ball-13493458|van driver in police pursuit fatally hit mumofthree who was looking for golf ball|da12500fb57cf71a5ba438aad923dbad
 2026-01-12T22:25:54.658256+00:00|https://www.bbc.com/news/articles/cqj271z1x5no|trusts declare critical incidents over high demand|0e581f61fc9a4b40617d3272c96e5f80
 2026-01-12T22:26:05.290106+00:00|https://www.bbc.com/news/articles/czx3y2055pgo|police to no longer have routine access to rape victims counselling notes|c2fa434ff3e7a9509aba5d332b169344
+2026-01-12T22:46:16.486873+00:00|https://www.bbc.com/news/articles/cevn4ny7wvyo|crackdown on illegal working leads to surge in arrests|17b2b5b3beb82cfe9762d861d61e6c6e
+2026-01-12T22:46:27.079261+00:00|https://news.sky.com/story/starmer-threatens-to-control-grok-if-elon-musks-x-keeps-creating-sexual-images-13493537|starmer threatens to control grok if elon musks x keeps creating sexual images|908d044d8e034af900e11af545661577
+2026-01-12T22:46:37.530771+00:00|https://news.sky.com/story/illegal-migrant-worker-crackdown-sees-record-numbers-of-raids-and-arrests-13493522|illegal migrant worker crackdown sees record numbers of raids and arrests|86fbb903a028c24874e93948e41511b6
