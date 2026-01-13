@@ -9844,3 +9844,4 @@
 2026-01-13T03:44:17.950759+00:00|https://abcnews.go.com/Politics/jack-smith-publicly-testify-house-judiciary-committee-jan/story|jack smith to publicly testify before house judiciary committee us news|2d6689cebdb79eb55a84b4162e17bc9e
 2026-01-13T04:59:14.430884+00:00|https://www.nbcnews.com/video/shorts/minnesota-sues-federal-government-over-ice-operations-255846981886|minnesota sues federal government over ice operations us news|1042c0831b3b1f28179304deab989135
 2026-01-13T04:59:15.039285+00:00|https://www.nytimes.com/2026/01/12/us/pasadena-synagogue-vandalized.html|synagogue is vandalized days after anniversary of la wildfire that leveled it us news|42d8b7df269f7d2275521911763393c7
+2026-01-13T05:30:55.636858+00:00|https://www.nytimes.com/2026/01/13/business/china-american-poverty.html|why china is suddenly obsessed with american poverty us news|ccf8b940de2bcefb5033efd1cb97fff4
