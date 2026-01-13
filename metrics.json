@@ -2,7 +2,7 @@
   "sources": {
     "Manual Submission": 3,
     "BBC": 30,
-    "Sky": 18,
+    "Sky": 20,
     "Telegraph": 3
   },
   "categories": {
@@ -13,6 +13,6 @@
     "Sport": 6,
     "Royals": 3,
     "Immigration": 2,
-    "Breaking News": 3
+    "Breaking News": 5
   }
 }
