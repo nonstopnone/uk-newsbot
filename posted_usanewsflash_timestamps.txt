@@ -9916,3 +9916,4 @@
 2026-01-13T22:27:46.200241+00:00|https://www.nytimes.com/2026/01/13/us/georgia-election-republicans-trump-transcripts.html|in secret testimony republicans derided trumps stolen election claims us news|265685f4f04c02f5e3c40e8bfa20476a
 2026-01-13T22:27:46.682728+00:00|https://www.nbcnews.com/politics/congress/democrats-push-fight-dhs-funds-ice-shooting-minneapolis-rcna253799|some democrats push for a fight over dhs funds after ice shooting in minneapolis us news|f785197df7df0e88a7ca748a010f1315
 2026-01-13T22:27:47.200677+00:00|https://www.nytimes.com/2026/01/13/nyregion/hochul-takeaways-speech.html|lower bills and go bills 8 takeaways from hochuls state of the state us news|26d3329a1f7fdbcaee2dbfc54e4c8969
+2026-01-13T22:48:28.013061+00:00|https://www.nbcnews.com/politics/donald-trump/trump-economic-boom-americans-worry-prices-rcna253629|trump declares an economic boom as americans continue to worry over prices us news|0344107ba5a5e75267edda1ed0e3c755
