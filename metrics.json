@@ -1,7 +1,7 @@
 {
   "sources": {
     "Manual Submission": 3,
-    "BBC": 26,
+    "BBC": 27,
     "Sky": 14,
     "Telegraph": 2
   },
@@ -13,6 +13,6 @@
     "Sport": 3,
     "Royals": 3,
     "Immigration": 2,
-    "Breaking News": 1
+    "Breaking News": 2
   }
 }
