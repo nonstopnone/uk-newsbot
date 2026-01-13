@@ -228,3 +228,11 @@
 2026-01-13T16:52:15.379621+00:00|https://www.bbc.com/news/articles/cdre56rlyp8o|ships captain did nothing to avoid fatal tanker crash court hears|c9a6bbde39340a7924d5682bfba80e9e
 2026-01-13T16:52:31.549966+00:00|https://www.bbc.com/news/articles/cz6ygl9zd7go|mps step up calls to block chinese megaembassy|6677d5fbf338d63f0aafbe7b8a9ea36d
 2026-01-13T16:53:06.923339+00:00|https://news.sky.com/story/cause-for-anxiety-over-ai-being-used-by-students-to-cheat-says-exams-regulator-boss-13493751|cause for anxiety over ai being used by students to cheat says exams regulator boss|76606aa936b3f418050881ab854558fd
+2026-01-13T17:33:38.895844+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/egypt-slashed-child-deaths-doctor-exodus-threatens-progress|egypt slashed child deaths now an exodus of doctors threatens progress|10137aaec7ded73147b032b911d6d379
+2026-01-13T17:33:43.903662+00:00|https://www.telegraph.co.uk/recommended/tech/phones-accessories/samsung-galaxy-z-trifold-review|this is the most expensive smartphone ive ever tried the idea is unhinged|5a2452e415a692917f511aae2eba8bd9
+2026-01-13T17:33:54.584373+00:00|https://www.bbc.com/news/articles/cj4le852wgeo|sacked grand theft auto workers refused pay relief by judge|afdd6282eb4c69a417da75f5ee6ef0c2
+2026-01-13T17:34:05.070429+00:00|https://www.bbc.com/news/articles/cwy1g3gp9jdo|diy sos thief caught out by tracking tag on cement mixer|dbdbcede3dd0f252758f005baf91859e
+2026-01-13T17:34:15.562839+00:00|https://www.bbc.com/news/articles/cn0kzy5rl85o|uk summons iranian ambassador over brutal killings|dcdb462d7571d99cd245e6ef5a72d5ed
+2026-01-13T17:34:25.961895+00:00|https://www.telegraph.co.uk/recommended/tech/best-basic-phones-dumbphones|the 13 best dumbphones for a digital detox in 2026|fc0737c5fcae7b146fc3456a3e564673
+2026-01-13T17:34:36.371593+00:00|https://news.sky.com/story/k-pop-stars-bts-reveal-comeback-tour-after-completing-military-service-13493833|bts reveal comeback tour after completing military service|5544d7573cb3ef22fb07cfe71a08b1d4
+2026-01-13T17:34:46.860671+00:00|https://news.sky.com/story/russian-ship-captain-accused-in-court-of-grossly-negligent-behaviour-leading-to-entirely-avoidable-death-of-crew-member-13493804|russian ship captain in court accused of grossly negligent behaviour over north sea crash|3d7641b5d820237f02f9beb0287e1e69
