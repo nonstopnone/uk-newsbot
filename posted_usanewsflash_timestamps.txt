@@ -9860,3 +9860,5 @@
 2026-01-13T11:26:31.110276+00:00|https://www.nytimes.com/2026/01/13/upshot/trump-renaming-presidents-comparisons.html|all the things named for trump and how long other presidents had to wait us news|e1196309c1e9d70caeecfae3c9835e36
 2026-01-13T11:26:31.659447+00:00|https://www.nytimes.com/2026/01/13/podcasts/the-headlines/minnesota-trump-lawsuit-iran-protests.html|minnesota sues to stop federal invasion and iranians describe a blood bath us news|d89a40982984dbfa2a4503636b9d9ce2
 2026-01-13T11:26:32.174276+00:00|https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html|son of deposed shah of iran seeks center stage amid protests us news|b725c2ed3dbe16eaa9b21fa96c1a9cdd
+2026-01-13T11:57:23.852814+00:00|https://www.bbc.com/news/articles/cp80ljjd5rwo|what is ice and what powers do its agents have to use force us news|8afe6610e23074947a240b359fc2db1a
+2026-01-13T11:57:24.505622+00:00|https://abcnews.go.com/US/video/youth-hockey-brawl-sparks-investigation-129157761|watch youth hockey brawl sparks investigation us news|29e997361968507ba8d7f4a6525c0619
