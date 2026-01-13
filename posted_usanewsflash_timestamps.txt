@@ -9898,3 +9898,6 @@
 2026-01-13T19:09:32.143544+00:00|https://abcnews.go.com/Health/south-carolina-reports-124-new-measles-cases-outbreak/story|south carolinas measles outbreak reaches 434 cases us news|cd506e472fce399446b7714a130c1db3
 2026-01-13T19:30:08.542412+00:00|https://www.nbcnews.com/video/shorts/carriage-horse-bolts-into-new-york-city-traffic-255879749723|carriage horse bolts into new york city traffic us news|1ebaaa2228f58f7c5b0974394e49dd3f
 2026-01-13T19:30:09.228584+00:00|https://www.nbcnews.com/video/shorts/bill-clinton-may-be-held-in-contempt-of-congress-255878725521|bill clinton may be held in contempt of congress us news|6e2fa2569a58e03d76e8b86389ea1284
+2026-01-13T19:57:34.434424+00:00|https://www.nytimes.com/2026/01/13/nyregion/breads-bakery-union-israel-gaza.html|nyc bakery workers demand owners stop supporting israeli occupation us news|279107aeb939d57ab39aa78be1651ba3
+2026-01-13T19:57:35.135965+00:00|https://www.nbcnews.com/video/shorts/women-who-accused-pastor-of-abuse-see-him-in-court-255876677770|women who accused pastor of abuse see him in court us news|6344c012db346adee4a2b1059cd45036
+2026-01-13T19:57:35.745220+00:00|https://www.nytimes.com/2026/01/13/world/europe/julio-iglesias-accused-sexual-assault.html|spanish singer julio iglesias accused of sexual assault us news|da00a2d4d5eca698054f1bd70bd8f6fb
