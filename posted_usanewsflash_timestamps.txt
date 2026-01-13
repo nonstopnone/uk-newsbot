@@ -9855,3 +9855,8 @@
 2026-01-13T11:00:31.855611+00:00|https://www.bbc.com/news/articles/c8j31728187o|kelly sues hegseth over attempted demotion us news|320c0c640f24e5ca9f5f0200b376dccd
 2026-01-13T11:00:32.415903+00:00|https://www.nbcnews.com/politics/donald-trump/trump-progressives-affordability-rcna253633|trump turns to progressives for ideas on affordability us news|5282e7fb916b81712d619cf8eecc9df1
 2026-01-13T11:00:32.907769+00:00|https://abcnews.go.com/International/iran-protests-646-killed-activists-trump-weighs-military/story|iran protests 646 killed activists say as trump weighs military action us news|c63b7e2e00bb872afa5ed797cae9a8f6
+2026-01-13T11:26:30.083340+00:00|https://www.nytimes.com/2026/01/13/us/politics/trump-housing-costs.html|facing political pressure trump seeks answer to rising housing costs us news|09968a405877f9a9c48d2bad0c467ba4
+2026-01-13T11:26:30.603407+00:00|https://www.nytimes.com/2026/01/13/us/politics/trump-birthrates-infertility.html|the quest to make america fertile again stalls under trump us news|6d8b93bab54beaea8ec78a85d8b19516
+2026-01-13T11:26:31.110276+00:00|https://www.nytimes.com/2026/01/13/upshot/trump-renaming-presidents-comparisons.html|all the things named for trump and how long other presidents had to wait us news|e1196309c1e9d70caeecfae3c9835e36
+2026-01-13T11:26:31.659447+00:00|https://www.nytimes.com/2026/01/13/podcasts/the-headlines/minnesota-trump-lawsuit-iran-protests.html|minnesota sues to stop federal invasion and iranians describe a blood bath us news|d89a40982984dbfa2a4503636b9d9ce2
+2026-01-13T11:26:32.174276+00:00|https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html|son of deposed shah of iran seeks center stage amid protests us news|b725c2ed3dbe16eaa9b21fa96c1a9cdd
