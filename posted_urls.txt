@@ -1,4 +1,3 @@
-2026-01-06T20:32:57.591370+00:00|https://news.sky.com/story/no-political-influence-in-decision-to-ban-maccabi-tel-aviv-fans-say-police-13491231|no political influence in decision to ban maccabi tel aviv fans say police|0f646c298f84e362c267f3acf8082a64
 2026-01-06T23:21:16.880289+00:00|https://www.bbc.com/news/articles/cn7jgrzee3vo|widow says her life cant go back to normal until brain tumour treatment changed|d9109bc2edbb116759ad0a5468b74b27
 2026-01-06T23:41:18.357547+00:00|https://www.bbc.com/news/articles/crkrexrk0xzo|assisted dying campaigners request extra time for peers to scrutinise bill|cde2211761c822051e7d2fc6d7fe51ca
 2026-01-07T01:51:55.744290+00:00|https://www.bbc.com/news/articles/cpqy9qpyx37o|awardwinning actor regains feeling in feet with new mnd drug|f0bd6a065b805a97b402340480642c1e
@@ -243,3 +242,6 @@
 2026-01-13T19:55:23.299546+00:00|https://news.sky.com/story/number-of-iranian-dead-passes-2000-as-protests-continue-13493859|verifying protests and deaths in iran amid brutal crackdown and internet shutdown|f23e7f5d882b9281d4eeb3d0bfcf1bcf
 2026-01-13T19:55:26.178489+00:00|https://news.sky.com/story/government-u-turns-on-mandatory-digital-id-cards-for-workers-13493917|government uturns on mandatory digital id cards for workers|4bb82b53b45d2ef21174c1630d4688dd
 2026-01-13T19:55:36.579021+00:00|https://www.bbc.com/news/articles/cew80xepjypo|starting gun fired on crucial election as wales parliament returns|40868b22fcb64c11bde753a71cdbc323
+2026-01-13T20:33:45.745651+00:00|https://www.bbc.com/news/articles/cew80kevxd2o|suspended london pride boss accused of frustrating theft investigation|216902f79817221be3c9d29e92f128c3
+2026-01-13T20:33:56.216107+00:00|https://news.sky.com/story/anders-breivik-inspired-teenager-prepared-attack-on-synagogue-after-joining-far-right-group-the-base-court-hears-13493864|schoolboy prepared farright attack on synagogue court hears|5465accf51684a5178e9ba91e0c5b7cd
+2026-01-13T20:34:07.741338+00:00|https://news.sky.com/story/man-who-killed-best-friend-in-mistaken-identity-case-jailed-with-second-attacker-13493669|man who killed best friend in mistaken identity case jailed with second attacker|bde4d4b71bdd4a7aacfd3748c900b8df
