@@ -9862,3 +9862,6 @@
 2026-01-13T11:26:32.174276+00:00|https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html|son of deposed shah of iran seeks center stage amid protests us news|b725c2ed3dbe16eaa9b21fa96c1a9cdd
 2026-01-13T11:57:23.852814+00:00|https://www.bbc.com/news/articles/cp80ljjd5rwo|what is ice and what powers do its agents have to use force us news|8afe6610e23074947a240b359fc2db1a
 2026-01-13T11:57:24.505622+00:00|https://abcnews.go.com/US/video/youth-hockey-brawl-sparks-investigation-129157761|watch youth hockey brawl sparks investigation us news|29e997361968507ba8d7f4a6525c0619
+2026-01-13T12:59:13.349690+00:00|https://www.nytimes.com/2026/01/13/business/trump-powell-central-bank-support.html|global central bankers express support for fed chair after criminal investigation us news|e866b5f16cde00645b696267a5f53f5f
+2026-01-13T12:59:14.075428+00:00|https://www.nbcnews.com/video/shorts/new-20-billion-xai-data-center-coming-to-mississippi-255854661640|new $20 billion xai data center coming to mississippi us news|a60405a2cd243887aa202f68fdd203f6
+2026-01-13T12:59:14.725912+00:00|https://abcnews.go.com/GMA/News/video/paraglider-survives-500-foot-fall-ocean-129159752|watch paraglider survives nearly 500foot fall into ocean us news|54db7d4cd078e139db52d12e65d71a7c
