@@ -9846,3 +9846,5 @@
 2026-01-13T04:59:15.039285+00:00|https://www.nytimes.com/2026/01/12/us/pasadena-synagogue-vandalized.html|synagogue is vandalized days after anniversary of la wildfire that leveled it us news|42d8b7df269f7d2275521911763393c7
 2026-01-13T05:30:55.636858+00:00|https://www.nytimes.com/2026/01/13/business/china-american-poverty.html|why china is suddenly obsessed with american poverty us news|ccf8b940de2bcefb5033efd1cb97fff4
 2026-01-13T05:49:27.109247+00:00|https://www.nytimes.com/2026/01/13/us/newsom-billionaire-tax-california.html|gavin newsom vows to stop proposed billionaire tax in california us news|869fa0886d10e3f52752b73030b2a61c
+2026-01-13T07:57:44.504395+00:00|https://www.nbcnews.com/video/shorts/pennsylvania-contest-honors-legendary-mullet-hairstyles-255850565979|pennsylvania contest honors legendary mullet hairstyles us news|9c8623b5ccd7cb5a465644b25728a839
+2026-01-13T07:57:45.136899+00:00|https://abcnews.go.com/Technology/wireStory/iranians-make-calls-abroad-internet-access-after-protests-129155256|people inside iran describe heavy security in first calls to outside world us news|efa5dc76314e46dfca3919ab2dc2f7a2
