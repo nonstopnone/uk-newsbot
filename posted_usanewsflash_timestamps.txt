@@ -9920,3 +9920,4 @@
 2026-01-13T23:24:20.469938+00:00|https://www.nbcnews.com/video/shorts/trial-begins-for-virginia-man-accused-of-murdering-wife-255898181919|trial begins for virginia man accused of murdering wife us news|09225c5a282f6a20aa6d5676358afb59
 2026-01-13T23:24:20.991290+00:00|https://www.nytimes.com/2026/01/13/world/middleeast/gaza-palestinian-committee.html|us to name palestinian committee to run gaza us news|f6918e985730a5c09d28f1178a530589
 2026-01-13T23:42:48.050028+00:00|https://abcnews.go.com/US/us-1st-time-50-years-experienced-negative-net/story|us for 1st time in 50 years experienced negative net migration in 2025 report us news|01446b726c450af52986b4c64bfccfc4
+2026-01-13T23:57:26.745731+00:00|https://www.nytimes.com/2026/01/13/us/louisiana-abortion-pills-california-indictment.html|louisiana indicts a california doctor over abortion pills us news|d6dbe1c489f5e20e684329941d67257d
