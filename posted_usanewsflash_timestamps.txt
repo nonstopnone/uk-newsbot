@@ -9872,3 +9872,6 @@
 2026-01-13T14:12:30.854615+00:00|https://abcnews.go.com/Business/inflation-expected-held-firm-posing-challenge-amid-doj/story|inflation held firm in december testing fed amid doj probe into powell us news|2ca738645040bac4ffa0b0861882a541
 2026-01-13T14:12:31.531457+00:00|https://abcnews.go.com/US/4-years-after-arrest-russia-american-david-barnes/story|4 years after his arrest in russia american david barnes sent to remote penal colony us news|570cc77bfe581a398daabecaa27d9e22
 2026-01-13T14:12:32.224371+00:00|https://www.nytimes.com/2026/01/13/world/europe/greenland-trump-size.html|greenland would be the largest us land acquisition if trump got his way us news|fb653718b11f0aa9a1461c0905b87471
+2026-01-13T15:02:18.938772+00:00|https://www.nbcnews.com/video/shorts/inflation-ticked-up-in-december-cpi-report-shows-255861317670|inflation ticked up in december cpi report shows us news|ba60f9b38d8e605145bb9df923898285
+2026-01-13T15:02:19.382617+00:00|https://www.nytimes.com/2026/01/13/business/economy/inflation-cpi-report-food-prices.html|cpi report shows food prices rose sharply in december us news|b3822efcf69d2d1e106138d987d931cf
+2026-01-13T15:02:20.032812+00:00|https://www.nytimes.com/2026/01/13/world/middleeast/trump-iran-tariffs-trade.html|trump says he will impose tariffs on irans trading partners what to know us news|ffd8b50d3cac05cee730027d9b387e9a
