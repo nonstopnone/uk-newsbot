@@ -1,4 +1,3 @@
-2026-01-06T07:00:58.433748+00:00|https://www.bbc.com/news/articles/c4g5l32j8jvo|ice warning may cause further disruption as cold snap continues|fa7574760aff87c900adfa7c3e691923
 2026-01-06T08:32:20.634377+00:00|https://www.bbc.com/news/articles/cx2yvx8gnnpo|nestle issues global recall of some baby formula products over toxin fears|dbae18366de0cfe4b8e9194f8f1fae0c
 2026-01-06T08:59:13.247113+00:00|https://news.sky.com/story/ftse-100-bosses-pay-overtakes-typical-workers-annual-salary-in-less-than-three-days-of-2026-13490984|ftse 100 bosses pay overtakes typical workers annual salary in less than three days of 2026|2820551449d7988977fa9c24faaddf85
 2026-01-06T09:53:01.178502+00:00|https://news.sky.com/story/swiss-bar-that-killed-40-in-new-years-fire-had-not-been-inspected-for-five-years-officials-say-13491030|swiss bar where fatal new years fire broke out had not been inspected for five years officials say|f9c41b6beb1cbbb0237508f2a7b67ad1
@@ -210,3 +209,5 @@
 2026-01-13T02:21:42.029003+00:00|https://www.bbc.com/news/articles/c1m8m47jl5eo|i spent months investigating whether gut health affects ageing and if i could hack my own gut to age better|800a0988915bf2eae10f482c9cb35d95
 2026-01-13T02:21:52.711017+00:00|https://www.bbc.com/news/articles/crrnwqj9kpno|why michael sheen put his money on the line for new welsh national theatre|c3a6985047ce3a3f8de4b8dac39e1db7
 2026-01-13T05:56:37.924320+00:00|https://www.bbc.com/news/articles/ce9yv73klx5o|mandelson makes personal apology for continuing epstein friendship|6ab99d1a49a640bc193efceaa8741de2
+2026-01-13T07:31:28.087444+00:00|https://www.bbc.com/news/articles/cpqye89nl2no|over 72000 appalling attacks on ni health staff in five years|666e51d98844898fd1341d0940b5f9f4
+2026-01-13T07:31:38.625939+00:00|https://news.sky.com/story/footballer-who-made-history-by-coming-out-as-gay-accuses-old-club-of-homophobia-13493575|footballer who made history by coming out as gay accuses old club of homophobia|9224d7da2bcfbf03744ea7a55c9d2ae3
