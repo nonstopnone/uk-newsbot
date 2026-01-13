@@ -1,4 +1,3 @@
-2026-01-06T18:32:57.045653+00:00|https://www.bbc.com/news/articles/cdxjnv1qzgxo|fujitsu not a parasite over horizon scandal|c1857c36399d330843dcf9c1902bd731
 2026-01-06T20:32:57.591370+00:00|https://news.sky.com/story/no-political-influence-in-decision-to-ban-maccabi-tel-aviv-fans-say-police-13491231|no political influence in decision to ban maccabi tel aviv fans say police|0f646c298f84e362c267f3acf8082a64
 2026-01-06T23:21:16.880289+00:00|https://www.bbc.com/news/articles/cn7jgrzee3vo|widow says her life cant go back to normal until brain tumour treatment changed|d9109bc2edbb116759ad0a5468b74b27
 2026-01-06T23:41:18.357547+00:00|https://www.bbc.com/news/articles/crkrexrk0xzo|assisted dying campaigners request extra time for peers to scrutinise bill|cde2211761c822051e7d2fc6d7fe51ca
@@ -235,3 +234,7 @@
 2026-01-13T17:34:25.961895+00:00|https://www.telegraph.co.uk/recommended/tech/best-basic-phones-dumbphones|the 13 best dumbphones for a digital detox in 2026|fc0737c5fcae7b146fc3456a3e564673
 2026-01-13T17:34:36.371593+00:00|https://news.sky.com/story/k-pop-stars-bts-reveal-comeback-tour-after-completing-military-service-13493833|bts reveal comeback tour after completing military service|5544d7573cb3ef22fb07cfe71a08b1d4
 2026-01-13T17:34:46.860671+00:00|https://news.sky.com/story/russian-ship-captain-accused-in-court-of-grossly-negligent-behaviour-leading-to-entirely-avoidable-death-of-crew-member-13493804|russian ship captain in court accused of grossly negligent behaviour over north sea crash|3d7641b5d820237f02f9beb0287e1e69
+2026-01-13T18:46:15.874697+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/cheaper-alcohol-sugary-drinks-fuel-rise-lifestyle-diseases|cheaper alcohol and sugary drinks fuelling rise in lifestyle diseases|698f6ef593de3fea6878c463ceecef0a
+2026-01-13T18:46:26.344435+00:00|https://news.sky.com/story/two-boys-16-among-three-arrested-as-murder-investigation-launched-after-fatal-stabbing-in-london-13493886|two boys 16 among three arrested after teenager stabbed to death|06efe286e2f5693c483cc124528b4ba0
+2026-01-13T18:46:36.756634+00:00|https://www.bbc.com/news/articles/c5y327280jeo|trial begins of former teacher accused of indecent assault|335ddc4143b92ebbb2b5431ca1152a38
+2026-01-13T18:46:47.245765+00:00|https://news.sky.com/story/who-are-all-the-former-conservative-mps-who-have-defected-to-reform-13493808|who are all the former conservative mps who have defected to reform|fc0ded5e54a49b8228084b2a1d03348c
