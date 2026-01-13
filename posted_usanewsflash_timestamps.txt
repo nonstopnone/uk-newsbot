@@ -9886,3 +9886,7 @@
 2026-01-13T17:31:24.039662+00:00|https://www.bbc.com/news/articles/c4g3kw5ezepo|we choose denmark over us greenlands pm says us news|46bd021ae7e3d94d9bb9bc8049356f6e
 2026-01-13T17:31:24.567035+00:00|https://www.bbc.com/news/articles/cj6w17ykd89o|republican lawmaker to launch contempt proceedings against bill clinton us news|c0a4fa8272a6e646edc3fe54bcfb9361
 2026-01-13T17:31:25.043208+00:00|https://www.bbc.com/news/videos/cz0p9l3rlv9o|business in front party in back at us mullet contest us news|3d9dde1a3ddf29e63cc118b1e511826e
+2026-01-13T17:52:59.312095+00:00|https://www.nytimes.com/2026/01/13/world/europe/trump-london-crime-homicide.html|trump says london is unsafe its murder rate just hit a historic low us news|58fc3e952e2bcaba6a4a42fc649985df
+2026-01-13T17:52:59.840085+00:00|https://www.nytimes.com/2026/01/13/us/3-prosecutors-quit-after-push-to-investigate-ice-shooting-victims-widow.html|3 prosecutors quit after push to investigate ice shooting victims widow us news|14203987cf4d9c61ac875451ce281b68
+2026-01-13T17:53:00.582232+00:00|https://www.nytimes.com/2026/01/13/nyregion/hochul-state-address-speech.html|hochuls state of the state quandary how far to the left will she lean us news|d314271b21b776f3f0cf3d9b5cd3180a
+2026-01-13T17:53:01.087066+00:00|https://www.nytimes.com/2026/01/13/us/politics/bill-hillary-clinton-testimony-epstein-inquiry-contempt.html|facing contempt threat clintons refuse to testify in epstein inquiry us news|10cb3765c74b7251a5150843d7eb1605
