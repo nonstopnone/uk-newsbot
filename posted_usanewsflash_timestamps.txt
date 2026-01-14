@@ -10000,3 +10000,8 @@
 2026-01-14T22:48:55.676790+00:00|https://www.bbc.com/news/articles/cx20vzz0g8vo|denmark warns of fundamental disagreement after white house talks on greenland us news|3f21bacd3657897846811e0f15132f84
 2026-01-14T22:48:56.191803+00:00|https://www.bbc.com/news/articles/c205r8n0276o|nasa astronauts begin bittersweet medical evacuation from space station us news|81077f34854d993c431839517709cfa6
 2026-01-14T22:48:56.646347+00:00|https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html|nasa begins astronaut space station medical evacuation what to know us news|ad2cbc9ae93c17f5bf1ab7eb8ad9b123
+2026-01-14T23:22:38.628563+00:00|https://www.bbc.com/news/videos/c801p804xzro|watch moment nasa astronauts undock from space station us news|c535a686ac00315edd9306f3b8dbe6c4
+2026-01-14T23:22:39.079107+00:00|https://www.nbcnews.com/meet-the-press/video/trump-renews-vow-to-annex-greenland-as-pentagon-readies-plans-on-iran-255982149708|trump renews vow to annex greenland as pentagon readies plans on iran us news|a9f61a8ad55af8e594beaef04f841ad3
+2026-01-14T23:22:39.528536+00:00|https://www.nytimes.com/2026/01/14/us/politics/congress-trump-spending-cuts.html|congress is spurning many of trumps proposed spending cuts us news|9eeb71ab32b0d933d8cd4d8c5697f25d
+2026-01-14T23:22:40.020506+00:00|https://www.nbcnews.com/video/shorts/fbi-searches-home-of-washington-post-reporter-255985221997|fbi searches home of washington post reporter us news|142bddb686ba3f6e051e0111c025f2d6
+2026-01-14T23:22:40.463976+00:00|https://www.nytimes.com/2026/01/14/health/medicare-advantage-kaiser-overbilling-fraud.html|kaiser permanente agrees to pay $556 million to settle medicare overbilling claims us news|001a4385c7e83d0688c55ca32c714b7e
