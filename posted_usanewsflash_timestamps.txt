@@ -9997,3 +9997,6 @@
 2026-01-14T22:28:42.995392+00:00|https://www.nytimes.com/2026/01/14/us/california-louisiana-extradite-abortion-doctor.html|newsom says california will not extradite abortion provider to louisiana us news|3fe596fe3c262e0a3e2fb48471a93eb4
 2026-01-14T22:28:43.783605+00:00|https://www.nytimes.com/2026/01/14/health/samhsa-funding-cuts.html|trump cuts $2 billion in federal funding for mental health and substance abuse services us news|040148eb64d4e13dc6a775aec6ba97e1
 2026-01-14T22:28:44.434452+00:00|https://www.nbcnews.com/news/us-news/timothy-busfield-faces-new-sexual-abuse-allegation-involving-16-year-o-rcna253998|timothy busfield faces new sexual abuse allegation involving 16yearold girl us news|4070e640a878f3386fac5b2c4655b75e
+2026-01-14T22:48:55.676790+00:00|https://www.bbc.com/news/articles/cx20vzz0g8vo|denmark warns of fundamental disagreement after white house talks on greenland us news|3f21bacd3657897846811e0f15132f84
+2026-01-14T22:48:56.191803+00:00|https://www.bbc.com/news/articles/c205r8n0276o|nasa astronauts begin bittersweet medical evacuation from space station us news|81077f34854d993c431839517709cfa6
+2026-01-14T22:48:56.646347+00:00|https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html|nasa begins astronaut space station medical evacuation what to know us news|ad2cbc9ae93c17f5bf1ab7eb8ad9b123
