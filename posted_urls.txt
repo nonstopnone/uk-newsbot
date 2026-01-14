@@ -1,4 +1,3 @@
-2026-01-07T23:20:40.195229+00:00|https://www.telegraph.co.uk/football/2026/01/07/man-city-vs-brighton-premier-league-live-score-spurs-villa|man city in danger of repeating last seasons slump in horror start to 2026|a78f984b15abaf3e8b40873cfa750647
 2026-01-08T03:39:30.877670+00:00|https://www.bbc.com/news/articles/cn9z3qrvr3wo|two rapists among met officers not properly vetted|7558c7485b579c95998f3f2b20514b09
 2026-01-08T03:39:41.580942+00:00|https://www.bbc.com/news/articles/ckgn7p198x9o|gcse results will be available online this summer|60b107f675b80a60a35189717ee78819
 2026-01-08T06:35:41.061787+00:00|https://www.bbc.com/news/articles/ckgyxyx91nvo|delayed discharges costing nhs scotland £440m a year|a2ae34806f9317f378106bed38ebf266
@@ -282,3 +281,5 @@
 2026-01-14T22:30:48.561897+00:00|https://www.bbc.com/news/articles/cd9e73elv17o|hillsborough law campaigners say they cannot back proposed bill|06d229f0f715d1b21610fb39f6e2fff3
 2026-01-14T22:30:59.009920+00:00|https://www.bbc.com/news/articles/cy7mn3rlggzo|why the northern powerhouse rail plan will really go ahead this time|a0132347695dcc96fd11007c7c0e62d1
 2026-01-14T22:56:45.447459+00:00|https://news.sky.com/story/international-space-station-astronauts-begin-evacuation-due-to-serious-medical-condition-13494356|astronauts evacuate space station over serious medical condition|c04da1db48752fb7b487aecb596c11b8
+2026-01-14T23:25:20.667505+00:00|https://www.bbc.com/news/articles/c4g3kyz4j25o|labour outspent rivals on historic byelection loss|167cdc22834fe608be7f45ff250430cd
+2026-01-14T23:25:31.177297+00:00|https://www.bbc.com/news/articles/cj0nm36jyzpo|teaching unions set to reveal strike ballot results|f543e1b40284e77e5e927ab668d0a6f9
