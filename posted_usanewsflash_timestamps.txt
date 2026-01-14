@@ -10005,3 +10005,4 @@
 2026-01-14T23:22:39.528536+00:00|https://www.nytimes.com/2026/01/14/us/politics/congress-trump-spending-cuts.html|congress is spurning many of trumps proposed spending cuts us news|9eeb71ab32b0d933d8cd4d8c5697f25d
 2026-01-14T23:22:40.020506+00:00|https://www.nbcnews.com/video/shorts/fbi-searches-home-of-washington-post-reporter-255985221997|fbi searches home of washington post reporter us news|142bddb686ba3f6e051e0111c025f2d6
 2026-01-14T23:22:40.463976+00:00|https://www.nytimes.com/2026/01/14/health/medicare-advantage-kaiser-overbilling-fraud.html|kaiser permanente agrees to pay $556 million to settle medicare overbilling claims us news|001a4385c7e83d0688c55ca32c714b7e
+2026-01-14T23:42:17.750710+00:00|https://abcnews.go.com/Health/171-measles-cases-confirmed-9-states-cdc/story|at least 171 measles cases confirmed in 9 states cdc data shows us news|62536d1c9d2269411782951369eeae62
