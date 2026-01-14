@@ -1,5 +1,3 @@
-2026-01-07T16:31:21.675406+00:00|https://www.bbc.com/news/articles/cvgje1pkr2po|beach hut owners hit back at council over second home tax plan|f5e254af8ce2e99e961a784b9b028bfa
-2026-01-07T16:31:32.328928+00:00|https://www.bbc.com/news/articles/c62nqjj29jgo|us planes land at scottish airport during operation to seize tanker|83e8bd26d8f084a2e6704700a0accc3a
 2026-01-07T17:00:08.063783+00:00|https://www.bbc.com/news/articles/ce9yg59y5r0o|prisoners who absconded on new years day caught|260c927c172d9b645344962a96b13cc3
 2026-01-07T18:34:12.719152+00:00|https://www.bbc.com/news/articles/c4gr3rlpgnqo|young people say new driving rules are condescending and expensive|d1863240db73c20c450d7269ddb5c0e5
 2026-01-07T18:34:23.205404+00:00|https://www.bbc.com/news/articles/c9qpj275ldlo|three children fall from window of doubledecker bus|cc20afabf6a6ce40ef1bcbf3318c0563
@@ -270,3 +268,8 @@
 2026-01-14T15:41:20.683525+00:00|https://www.bbc.com/news/articles/cz7yl53e11do|tgi fridays closes 16 uk stores with 456 job losses|e5415f476fbb9640a7018f17ce749ac4
 2026-01-14T15:41:31.337720+00:00|https://www.bbc.com/news/articles/c07xd024zexo|france bans 10 british farright activists over antimigrant activity|ff6801d353feca2791ae736703071754
 2026-01-14T15:41:41.843086+00:00|https://news.sky.com/story/black-cab-rapist-john-worboys-to-face-public-parole-hearing-13492319|black cab rapist john worboys to face public parole hearing|78eca1b0234112bf8264b800b9fb16fc
+2026-01-14T16:46:06.271673+00:00|https://www.bbc.com/news/articles/cwyvnm3re4zo|actor john alford jailed for sex assaults on teens|f4e62554888fdb31de82548b6261ce5c
+2026-01-14T16:46:16.836197+00:00|https://www.bbc.com/news/articles/czdqv5vvq1go|south east water licence to be reviewed after chaos|242d7b4936a301f8a4990631e2f3609b
+2026-01-14T16:46:27.482111+00:00|https://news.sky.com/story/ten-british-far-right-activists-banned-from-france-over-reconnaissance-and-destruction-against-small-boats-13494191|british activists banned from france over destruction of small boats|a68b93c2547fe2e462a7c5ad0118db85
+2026-01-14T16:46:37.918008+00:00|https://www.bbc.com/news/articles/c5y47z7076ko|runner died falling off knifeedge ridge while picking up his dog|80a9a4f465ad29a4c14bdbd29d665c52
+2026-01-14T16:46:48.390647+00:00|https://news.sky.com/story/londons-burning-actor-john-alford-jailed-for-sexually-assaulting-two-girls-aged-14-and-15-13494262|londons burning actor john alford jailed for sexually assaulting two girls aged 14 and 15|56ac586a995ccf41f96c92b8bd375db8
