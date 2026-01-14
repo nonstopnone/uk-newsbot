@@ -9932,3 +9932,5 @@
 2026-01-14T03:54:10.552967+00:00|https://www.nbcnews.com/video/shorts/trump-appears-to-flip-off-protester-in-detroit-255919685639|trump appears to flip off protester in detroit us news|139ce032364df3ebc4013b6f8afbfcd9
 2026-01-14T03:54:11.263895+00:00|https://www.nytimes.com/2026/01/13/climate/2025-extreme-weather.html|extreme weather events hit around the world in 2025 us news|f59608b3ce31868fc4f7ffbbbfeea7aa
 2026-01-14T04:38:11.024002+00:00|https://www.nbcnews.com/news/us-news/kiefer-sutherland-arrested-allegedly-assaulting-ride-share-driver-l-po-rcna253933|kiefer sutherland arrested and accused of assaulting rideshare driver la police say us news|a6540e1d9827ad5fe233787ddb54baab
+2026-01-14T05:58:24.739085+00:00|https://www.nytimes.com/2026/01/14/style/saks-neiman-marcus-bergdorf-goodman-bankruptcy.html|what the bankruptcy of saks means for you us news|bfe77691cc4d20571c218eccae7fc752
+2026-01-14T05:58:25.240528+00:00|https://www.nytimes.com/2026/01/14/business/saks-files-for-bankruptcy.html|saks files for bankruptcy as department stores fight for survival us news|9524c035e326281895ff7341630e5dba
