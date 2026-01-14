@@ -9947,3 +9947,5 @@
 2026-01-14T11:11:49.474529+00:00|https://www.nytimes.com/2026/01/14/world/europe/trump-greenland-nato.html|trumps threats to greenland raise serious questions for nato us news|af2e2fc56cb6aeb68fd4430c087faa75
 2026-01-14T11:11:50.116489+00:00|https://www.nytimes.com/2026/01/14/us/ice-protests-activism.html|how ice crackdowns set off a resistance in american cities us news|2623d47deafe084b35823dbc0c18a326
 2026-01-14T11:11:50.986295+00:00|https://www.nytimes.com/2026/01/14/upshot/home-construction-roofers-immigration.html|where did all the americanborn roofers go us news|de397afb15cfd0a86fbf080d18d344d6
+2026-01-14T11:33:36.783275+00:00|https://www.nbcnews.com/world/iran/trump-iran-protest-execution-death-toll-crackdown-us-military-rcna253952|iran expected to execute 1st protester despite trump warning of strong action us news|8ff4c0f6228a0706c3db957a9aa4e26f
+2026-01-14T11:33:37.333954+00:00|https://abcnews.go.com/International/iran-protests-2500-killed-activists-trump-us-act/story|iran protests 2500 killed activists say as judiciary promises swift trials us news|a50807bd727803ff422f2e4df91c4bdc
