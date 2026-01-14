@@ -9986,3 +9986,8 @@
 2026-01-14T20:28:18.233186+00:00|https://www.nytimes.com/2026/01/14/business/puregym-exits-fire-department.html|wheres the gym at puregym locations its through a tube us news|b270cf3f938df82580f4e35e7212dc56
 2026-01-14T20:46:26.739695+00:00|https://www.nytimes.com/2026/01/14/polls/gallup-independent-voters.html|gallup independents reach record high as democrats make voter gains us news|78fd1943ab6c5622ca5e18cb282e6817
 2026-01-14T20:58:14.936860+00:00|https://www.nytimes.com/2026/01/14/us/politics/federal-court-california-redistricting-decision.html|federal judges uphold californias new congressional maps us news|c0fe32e345e345d0b51c3c980199a09d
+2026-01-14T21:27:46.529462+00:00|https://www.bbc.com/news/videos/c3wz4v8xl8wo|watch paraglider survives 500ft drop into ocean us news|cfadbdf0cdce406bd8d9a4f4fbe3b26d
+2026-01-14T21:27:47.042136+00:00|https://www.bbc.com/news/articles/cpwnqlpw7gxo|california investigates grok over ai deepfakes us news|e58d1ae7f4c007e0038a34b21db4eb73
+2026-01-14T21:27:47.574453+00:00|https://www.nytimes.com/2026/01/14/world/americas/venezuela-oil-us-deal.html|us races to sell venezuelan oil transforming ties with former foe us news|c7e26278ed80f7f004bbf7d172cb44d7
+2026-01-14T21:27:48.127046+00:00|https://www.nytimes.com/2026/01/14/nyregion/nyc-nurses-striking-again-different.html|as nyc nurses strike continues both sides prepare for a long fight us news|365c6cb29c6013236adc250f37de09dc
+2026-01-14T21:27:48.676178+00:00|https://www.nytimes.com/2026/01/14/business/food-prices-tariffs-trump.html|food prices keep climbing rattling consumers and trump us news|c3060d8d49c9517ceaad32a7add9bbf9
