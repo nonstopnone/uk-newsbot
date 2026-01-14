@@ -9936,3 +9936,4 @@
 2026-01-14T05:58:25.240528+00:00|https://www.nytimes.com/2026/01/14/business/saks-files-for-bankruptcy.html|saks files for bankruptcy as department stores fight for survival us news|9524c035e326281895ff7341630e5dba
 2026-01-14T06:41:58.933281+00:00|https://www.nbcnews.com/video/shorts/protesters-pepper-sprayed-as-ice-shooting-tensions-grow-255926853811|protesters pepper sprayed as ice shooting tensions grow us news|02c8cf093b6db66210c1a3cd67420d0d
 2026-01-14T08:38:01.736452+00:00|https://www.nytimes.com/2026/01/14/arts/television/stephen-colbert-trump-minnesota.html|stephen colbert accuses trump of invading minnesota us news|69f9620601dec6da19702f1ad6725e06
+2026-01-14T09:15:57.513128+00:00|https://www.nytimes.com/2026/01/14/world/europe/trump-greenland-rubio-vance-white-house.html|tensions high as vance and rubio are to meet danish and greenlandic officials us news|d09b5144f4618ad6f0365a78a1d40060
