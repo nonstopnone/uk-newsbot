@@ -1,5 +1,3 @@
-2026-01-07T14:11:27.123805+00:00|https://www.bbc.com/news/articles/cx20jrw198zo|suspected gas explosion at belfast house|44465e40fbfd24b0d25a7f360d2d652f
-2026-01-07T14:11:37.583437+00:00|https://news.sky.com/story/girl-falls-from-back-of-ambulance-on-m6-causing-motorway-closure-13491514|girl falls from back of ambulance on m6 causing motorway closure|ef36824b55dd20fb54852126cd2952c7
 2026-01-07T15:35:17.716121+00:00|https://www.telegraph.co.uk/recommended/sleep/best-wake-light-alarm-clocks|the best sunrise alarm clocks to help you wake up in 2026|b8edf6e9c15ac278ba087182be0b15e7
 2026-01-07T16:31:21.675406+00:00|https://www.bbc.com/news/articles/cvgje1pkr2po|beach hut owners hit back at council over second home tax plan|f5e254af8ce2e99e961a784b9b028bfa
 2026-01-07T16:31:32.328928+00:00|https://www.bbc.com/news/articles/c62nqjj29jgo|us planes land at scottish airport during operation to seize tanker|83e8bd26d8f084a2e6704700a0accc3a
@@ -263,3 +261,5 @@
 2026-01-14T13:53:02.181230+00:00|https://www.bbc.com/news/articles/crkr60gnkv7o|exfootballer claims rogue surgeon eljamel ruined his career|21cec25fa722a8d576b943ebe80e04df
 2026-01-14T13:53:12.712940+00:00|https://news.sky.com/story/finishing-touches-being-made-to-key-part-of-1633m-diana-memorial-revamp-in-germany-13494157|finishing touches being made to key part of £3m diana memorial revamp|f19ce7d367d230c327fbc5b527957704
 2026-01-14T13:53:23.219458+00:00|https://news.sky.com/story/the-winners-and-losers-in-the-scottish-budget-13494104|the winners and losers in the scottish budget|90ccc70797570a372c5f9f0fecb9df3e
+2026-01-14T14:33:03.334346+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/israel-undermined-health-of-women-and-babies-in-gaza|israel undermined health of women and babies in gaza researchers say|bb804c6f3bbc8e1b68d0c545fc2d9dcd
+2026-01-14T14:33:05.538935+00:00|https://www.telegraph.co.uk/darts/2026/01/14/bahrain-darts-masters-2026-luke-littler-who-prize-money|bahrain darts masters 2026 when is it schedule draw and how to watch on tv|a3c16ee5f225dbc38aa550d0ee70ef64
