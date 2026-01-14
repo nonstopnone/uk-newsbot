@@ -9965,3 +9965,5 @@
 2026-01-14T15:59:56.596534+00:00|https://abcnews.go.com/US/wireStory/fbi-searches-home-washington-post-reporter-classified-documents-129202833|fbi searches home of washington post reporter in classified documents probe us news|3851e3154d561dc1ab755a16e004502b
 2026-01-14T15:59:57.113260+00:00|https://www.nbcnews.com/news/us-news/fbi-searched-washington-post-reporters-home-part-investigation-governm-rcna254008|fbi searched washington post reporters home as part of probe into government contractor us news|eabbcd4cbe90d78d3d541a7af9b67c6e
 2026-01-14T16:38:14.978228+00:00|https://www.nytimes.com/2026/01/14/world/middleeast/iran-protests-soltani-execution-trump.html|iran prepares to execute a protester as trump threatens strong action us news|ac8bb4138d0f0b101f9d788149729797
+2026-01-14T17:16:07.039730+00:00|https://www.bbc.com/news/articles/c62w8exgw1zo|appropriate and unambiguous white house defends trump over middlefinger gesture at heckler us news|0f8b004ede89c85319d04c24cbc1ff16
+2026-01-14T17:16:07.582773+00:00|https://www.bbc.com/news/articles/c701xywwxw8o|us and uk pulling some personnel from qatar military base us news|659aad0759fdd89d04500aa232f97a5d
