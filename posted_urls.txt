@@ -253,3 +253,5 @@
 2026-01-14T02:30:35.558322+00:00|https://www.bbc.com/news/articles/c62r56zzzq4o|first leukaemia patient to receive pioneering treatment on nhs says it is very scifi|ccad70ba490521b9d57cb01ee96228a0
 2026-01-14T02:30:46.037444+00:00|https://www.bbc.com/news/articles/cq6vmyqgz3qo|school heads warned of painful cuts due to budget|4453a2c0ef5766bd8d840bf6a225321d
 2026-01-14T05:33:49.876815+00:00|https://news.sky.com/story/at-least-12-dead-after-crane-falls-on-to-train-in-thailand-13494021|at least 12 dead after crane falls on to train in thailand|2630b17f216da2833745bee097a8276f
+2026-01-14T06:48:56.370191+00:00|https://www.bbc.com/news/articles/cly52nw0228o|we feel abandoned rural group to bring hospital campaign to stormont|59fcedf05274839f7112c9d7e410031a
+2026-01-14T06:49:07.002442+00:00|https://www.bbc.com/news/articles/c3dm1vd2xz5o|chef not embarrassed by onestar hygiene rating at michelinstarred restaurant|2e0841be97a98c2123d14586e011838e
