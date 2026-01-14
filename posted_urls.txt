@@ -276,3 +276,5 @@
 2026-01-14T18:48:37.956505+00:00|https://www.bbc.com/news/articles/cj9rv44krrmo|alleged assault by former teacher had a profound effect court hears|df33cb65708b9d2b947830316a16ebc2
 2026-01-14T18:48:48.434356+00:00|https://news.sky.com/story/thousands-of-properties-still-affected-by-water-outages-across-south-east-england-13494278|thousands of properties still without water across south east england|9a97d48a819926a55f33efe878656ce6
 2026-01-14T18:48:58.836400+00:00|https://news.sky.com/story/supreme-court-judge-lord-colbeck-appointed-new-chair-of-sheku-bayoh-inquiry-13494240|supreme court judge appointed new chair of sheku bayoh inquiry|55611dbcfae744b99a426e0f924c92bf
+2026-01-14T19:25:31.609603+00:00|https://www.bbc.com/news/articles/cx2xnzye903o|why banning of maccabi fans raises questions about police integrity|7ea86731f14377d88ff55673ce1175eb
+2026-01-14T19:25:42.133709+00:00|https://news.sky.com/story/watch-stolen-bmw-crash-into-care-home-in-sunderland-during-police-chase-as-watchdog-responds-to-terrifying-incident-13494270|watch car crash during police chase as watchdog responds to terrifying incident|3cc92b8b83c05eeb7be24a020f1be7e5
