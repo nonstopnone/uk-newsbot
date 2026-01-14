@@ -9991,3 +9991,6 @@
 2026-01-14T21:27:47.574453+00:00|https://www.nytimes.com/2026/01/14/world/americas/venezuela-oil-us-deal.html|us races to sell venezuelan oil transforming ties with former foe us news|c7e26278ed80f7f004bbf7d172cb44d7
 2026-01-14T21:27:48.127046+00:00|https://www.nytimes.com/2026/01/14/nyregion/nyc-nurses-striking-again-different.html|as nyc nurses strike continues both sides prepare for a long fight us news|365c6cb29c6013236adc250f37de09dc
 2026-01-14T21:27:48.676178+00:00|https://www.nytimes.com/2026/01/14/business/food-prices-tariffs-trump.html|food prices keep climbing rattling consumers and trump us news|c3060d8d49c9517ceaad32a7add9bbf9
+2026-01-14T21:45:31.299535+00:00|https://www.nytimes.com/2026/01/14/us/politics/trump-suspends-visa-75-countries.html|trump administration to halt immigrant visa processing for 75 countries us news|319aa11d9dabae3f4889a2e299a993d1
+2026-01-14T21:45:31.823338+00:00|https://www.nytimes.com/2026/01/14/business/trump-credit-card-interest-rate-cap-banks.html|why banks are so worried about a 10 credit card rate cap us news|296a4d6d8f68bbc8d23dc6e196a8ab53
+2026-01-14T21:45:32.337194+00:00|https://abcnews.go.com/US/video/clashes-federal-agents-escalate-minneapolis-129206298|watch clashes with federal agents escalate in minneapolis us news|915bd9c66adecdab3d4e27cdc4d69596
