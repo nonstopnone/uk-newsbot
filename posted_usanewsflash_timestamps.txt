@@ -10056,3 +10056,6 @@
 2026-01-15T19:36:49.974922+00:00|https://www.nytimes.com/2026/01/15/nyregion/kate-whiteman-alexander-brothers.html|alexander brothers accuser was found dead last year authorities say us news|2d1af10c9be3030551bb8ef8bae369d5
 2026-01-15T19:57:44.299596+00:00|https://www.nytimes.com/2026/01/15/business/fannie-and-freddie-ipo.html|big plan for fannie and freddie ipo in flux as trump pushes affordability us news|124a6085c32bd7a46ee35434ec4b7104
 2026-01-15T19:57:44.734533+00:00|https://abcnews.go.com/GMA/GMA3/video/visit-turtle-hospital-129251733|watch a visit to the turtle hospital us news|0a59453f6b93806ec28a68c05a48da87
+2026-01-15T20:32:34.397708+00:00|https://www.bbc.com/news/articles/cwy15596p98o|trump threatens to invoke insurrection act to quell antiice protests in minnesota us news|3dc64b140fed3fec8ea0de84fa622a09
+2026-01-15T20:32:35.068250+00:00|https://www.nytimes.com/2026/01/15/nyregion/nyc-motoclick-delivery-workers-lawsuit.html|mamdanis consumer protection commissioner vows more aggressive action us news|f0f490656c50b41e3f46a101f1425666
+2026-01-15T20:32:35.766730+00:00|https://www.nytimes.com/2026/01/15/nyregion/nydia-velazquez-antonio-reynoso-mamdani.html|nydia velázquez gives mamdani a warning as she endorses a successor us news|41cf2001d40498c9545478e7345ae949
