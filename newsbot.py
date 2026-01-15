@@ -60,7 +60,7 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/6.0"
+    user_agent="BreakingUKNewsBot/6.1"
 )
 
 try:
@@ -121,8 +121,10 @@ UK_KEYWORDS = {
 
 NEGATIVE_KEYWORDS = {
     "clinton": -15, "bill clinton": -15, "hillary clinton": -15,
-    "biden": -12, "joe biden": -12, "trump": -12, "donald trump": -12,
-    "kamala harris": -10, "white house": -8, "congress": -8, "senate": -8,
+    "biden": -12, "joe biden": -12,
+    "trump": -12, "donald trump": -12,
+    "kamala harris": -10,
+    "white house": -8, "congress": -8, "senate": -8,
     "washington": -6, "washington dc": -6,
     "california": -6, "texas": -6, "new york": -6, "florida": -6,
     "fbi": -6, "cia": -6, "pentagon": -6,
@@ -529,7 +531,8 @@ def main():
     # 2. RSS Fetch
     for source, url in feeds:
         try:
-            f = feedparser.parse(url)
+            log("FETCH", f"Checking {name}...", Col.BLUE)
+            feed = feedparser.parse(url)
             for e in f.entries:
                 # Time Check
                 dt = None
@@ -580,14 +583,14 @@ def main():
         excerpt = " ".join(words[:200])
         
         # 4. Hard Filters
-        reject, reason = is_hard_reject(full_text, 0, 0) # Pos/Neg recalc below
+        score, pos, neg, matched = calculate_score(full_text)
+        reject, reason = is_hard_reject(full_text, pos, neg)
         if reject:
             # log("REJECTED", f"{reason}: {entry.title[:30]}...", Col.RED)
             continue
             
-        # 5. Categorize & Score
+        # 5. Categorize & Score (Recalculated above for reject check)
         cat, cat_score, _ = detect_category(full_text)
-        score, pos, neg, matched = calculate_score(full_text)
         
         # 6. Category Specific Logic
         if cat in ["Sport", "Culture"]:
@@ -606,9 +609,8 @@ def main():
         ai_confirmed = False
         target = "UK"
         
-        # Check Negative Dominance again with real scores
-        if is_hard_negative_rejection(full_text, pos, neg, matched)[0]: 
-            continue
+        # Check Negative Dominance (Redundant but safe)
+        if is_hard_negative_rejection(full_text, pos, neg, matched)[0]: continue
 
         threshold = 4
         if cat == 'Sport': threshold = 8
