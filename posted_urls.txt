@@ -285,3 +285,7 @@
 2026-01-14T23:25:31.177297+00:00|https://www.bbc.com/news/articles/cj0nm36jyzpo|teaching unions set to reveal strike ballot results|f543e1b40284e77e5e927ab668d0a6f9
 2026-01-14T23:43:06.921956+00:00|https://www.telegraph.co.uk/football/2026/01/14/chelsea-vs-arsenal-live-score-latest-league-cup-semi-final|advantage arsenal after garnacho keeps chelseas league cup hopes alive|a46381a354a5abb52e4be57954fe0660
 2026-01-14T23:43:17.393790+00:00|https://www.telegraph.co.uk/football/2025/12/27/every-premier-league-player-africa-cup-of-nations-salah|afcon 2025 remaining premier league players and how to watch final|1b4694ae6cffd50327cab5d65dac95bd
+2026-01-15T02:14:58.969841+00:00|https://www.thetimes.com/uk/politics/article/shabana-mahmood-maccabi-tel-aviv-bkgfwl3cs|shabana mahmood powerless to sack police chief over maccabi ban|853a377b5a02e6edebaa449ed0b9f5a0
+2026-01-15T02:15:09.680899+00:00|https://www.bbc.com/news/articles/cd7z892jzdeo|twenty one english councils ask for election delays|248c5a5644b69934332388b69ead40df
+2026-01-15T02:15:20.193937+00:00|https://www.bbc.com/news/articles/cd7z892jzdeo|twenty one english councils ask for election delays|248c5a5644b69934332388b69ead40df
+2026-01-15T02:15:30.813858+00:00|https://news.sky.com/story/x-to-block-grok-ai-from-undressing-images-of-real-people-13494449|x to block grok ai from undressing images of real people|3b17b1c21ccfe97f1e55abbd8c271e3f
