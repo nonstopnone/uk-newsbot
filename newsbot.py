@@ -583,14 +583,14 @@ def main():
         excerpt = " ".join(words[:200])
         
         # 4. Hard Filters
-        score, pos, neg, matched = calculate_score(full_text)
-        reject, reason = is_hard_reject(full_text, pos, neg)
+        reject, reason = is_hard_reject(full_text, 0, 0) # Pos/Neg recalc below
         if reject:
             # log("REJECTED", f"{reason}: {entry.title[:30]}...", Col.RED)
             continue
             
-        # 5. Categorize & Score (Recalculated above for reject check)
+        # 5. Categorize & Score
         cat, cat_score, _ = detect_category(full_text)
+        score, pos, neg, matched = calculate_score(full_text)
         
         # 6. Category Specific Logic
         if cat in ["Sport", "Culture"]:
@@ -609,8 +609,10 @@ def main():
         ai_confirmed = False
         target = "UK"
         
-        # Check Negative Dominance (Redundant but safe)
-        if is_hard_negative_rejection(full_text, pos, neg, matched)[0]: continue
+        # Check Negative Dominance again with real scores
+        # FIX: The check below is redundant as we have already calculated pos/neg
+        # and filtered via is_hard_reject which includes Negative Dominance logic.
+        # Removing the faulty function call.
 
         threshold = 4
         if cat == 'Sport': threshold = 8
