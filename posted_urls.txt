@@ -324,3 +324,7 @@
 2026-01-15T20:35:50.118261+00:00|https://www.bbc.com/news/articles/cwyrpdy42n1o|jenrick defects to reform uk after being sacked by tories|7840c50a793f388ba646fe6fc5d8a4ac
 2026-01-15T21:54:11.661133+00:00|https://news.sky.com/story/teenager-accused-of-planning-synagogue-attack-had-to-do-list-of-weapons-and-explosives-court-hears-13494778|teenager accused of planning synagogue attack had todo list of weapons court told|3278d6e6becde8b51969c2f81b9e747a
 2026-01-15T21:54:17.242105+00:00|https://news.sky.com/story/uk-weather-potential-flight-delays-and-cancellations-after-met-office-issues-fog-warning-13494775|potential flight delays and cancellations after fog warning issued|d68f92fffd186ed668201cef164d026c
+2026-01-15T22:29:56.218149+00:00|https://www.bbc.com/news/articles/cy4g0pre01xo|man charged with murder after remains found|6bb5517e06f495e3bbb8436b321084f0
+2026-01-15T22:30:02.098065+00:00|https://news.sky.com/story/tiktoker-who-downloaded-manchester-arena-bomb-making-video-jailed-13494763|tiktoker who downloaded manchester arena bombmaking video jailed|18855544bdad5807cbb9eae0ee4a2ae4
+2026-01-15T22:30:07.702862+00:00|https://www.bbc.com/news/articles/c9wxyd780jgo|unexploded ww2 bomb to be disposed of at sea|0c67463bbd90e675fd115f49e3da699e
+2026-01-15T22:30:13.268425+00:00|https://www.bbc.com/news/articles/cgrd9gyny81o|ofsted inspects school over mp visit postponement|11eddd6ac0f4263cf0b9ac24d4195a3c
