@@ -10054,3 +10054,5 @@
 2026-01-15T18:44:29.405619+00:00|https://www.nytimes.com/2026/01/15/us/politics/trump-health-care-plan.html|trump outlines health care proposals as prices and premiums rise us news|cf4f4b097cf9a8ca37752fa40f490df3
 2026-01-15T19:36:49.383329+00:00|https://abcnews.go.com/US/video/white-house-unveils-president-trumps-great-healthcare-plan-129252637|watch white house unveils president trumps great healthcare plan us news|a65cc3a9e9ae8d4d2b24d15cdf3aaafe
 2026-01-15T19:36:49.974922+00:00|https://www.nytimes.com/2026/01/15/nyregion/kate-whiteman-alexander-brothers.html|alexander brothers accuser was found dead last year authorities say us news|2d1af10c9be3030551bb8ef8bae369d5
+2026-01-15T19:57:44.299596+00:00|https://www.nytimes.com/2026/01/15/business/fannie-and-freddie-ipo.html|big plan for fannie and freddie ipo in flux as trump pushes affordability us news|124a6085c32bd7a46ee35434ec4b7104
+2026-01-15T19:57:44.734533+00:00|https://abcnews.go.com/GMA/GMA3/video/visit-turtle-hospital-129251733|watch a visit to the turtle hospital us news|0a59453f6b93806ec28a68c05a48da87
