@@ -126,7 +126,8 @@ NEGATIVE_KEYWORDS = {
     "kamala harris": -10,
     "white house": -8, "congress": -8, "senate": -8,
     "washington": -6, "washington dc": -6,
-    "california": -6, "texas": -6, "new york": -6, "florida": -6,
+    "california": -6, "texas": -6, "new york": -6,
+    "florida": -6,
     "fbi": -6, "cia": -6, "pentagon": -6,
     "supreme court us": -8, "wall street": -6,
     "cnn": -5, "fox news": -5,
@@ -458,7 +459,7 @@ Excerpt: {excerpt}
 # =========================
 # Section: Posting Logic
 # =========================
-def post_article(target_sub, entry, category, score, matched, ai_checked, is_intl=False):
+def post_article(target_sub, entry, category, score, matched, ai_checked, full_paras, is_intl=False):
     title = entry.title
     url = entry.link
     
@@ -479,6 +480,11 @@ def post_article(target_sub, entry, category, score, matched, ai_checked, is_int
         lines = []
         lines.append(f"**Source:** {entry.source}")
         lines.append("")
+        
+        if full_paras:
+            for para in full_paras[:3]:
+                lines.append(f"> {para}")
+                lines.append("")
         
         if not is_intl:
             # Only show UK relevance stats on UK sub
@@ -583,14 +589,14 @@ def main():
         excerpt = " ".join(words[:200])
         
         # 4. Hard Filters
-        reject, reason = is_hard_reject(full_text, 0, 0) # Pos/Neg recalc below
+        score, pos, neg, matched = calculate_score(full_text)
+        reject, reason = is_hard_reject(full_text, pos, neg)
         if reject:
             # log("REJECTED", f"{reason}: {entry.title[:30]}...", Col.RED)
             continue
             
         # 5. Categorize & Score
         cat, cat_score, _ = detect_category(full_text)
-        score, pos, neg, matched = calculate_score(full_text)
         
         # 6. Category Specific Logic
         if cat in ["Sport", "Culture"]:
@@ -609,11 +615,6 @@ def main():
         ai_confirmed = False
         target = "UK"
         
-        # Check Negative Dominance again with real scores
-        # FIX: The check below is redundant as we have already calculated pos/neg
-        # and filtered via is_hard_reject which includes Negative Dominance logic.
-        # Removing the faulty function call.
-
         threshold = 4
         if cat == 'Sport': threshold = 8
         if cat == 'Royals': threshold = 6
@@ -641,7 +642,8 @@ def main():
                 "cat": cat,
                 "matched": matched,
                 "ai": ai_confirmed,
-                "target": target
+                "target": target,
+                "paras": paras
             })
             posted_titles_this_run.add(norm_title) # Mark as "taken" for this run
 
@@ -681,10 +683,10 @@ def main():
     for item in final_list:
         e = item['entry']
         if item['target'] == "UK":
-            if post_article(subreddit_uk, e, item['cat'], item['score'], item['matched'], item['ai']):
+            if post_article(subreddit_uk, e, item['cat'], item['score'], item['matched'], item['ai'], item['paras']):
                 count_uk += 1
         elif item['target'] == "INTL":
-            if post_article(subreddit_intl, e, item['cat'], 0, {}, False, is_intl=True):
+            if post_article(subreddit_intl, e, item['cat'], 0, {}, False, item['paras'], is_intl=True):
                 count_intl += 1
         
         time.sleep(5)
