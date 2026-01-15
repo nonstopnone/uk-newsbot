@@ -607,7 +607,8 @@ def main():
         target = "UK"
         
         # Check Negative Dominance again with real scores
-        if is_hard_negative_rejection(full_text, pos, neg, matched)[0]: continue
+        if is_hard_negative_rejection(full_text, pos, neg, matched)[0]: 
+            continue
 
         threshold = 4
         if cat == 'Sport': threshold = 8
