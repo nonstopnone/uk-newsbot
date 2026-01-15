@@ -60,7 +60,7 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/6.1"
+    user_agent="BreakingUKNewsBot/6.2"
 )
 
 try:
@@ -131,7 +131,8 @@ NEGATIVE_KEYWORDS = {
     "fbi": -6, "cia": -6, "pentagon": -6,
     "supreme court us": -8, "wall street": -6,
     "cnn": -5, "fox news": -5,
-    "nfl": -6, "nba": -6, "mlb": -6, "super bowl": -6,
+    "nfl": -6, "nba": -6, "mlb": -6,
+    "super bowl": -6,
     "eu commission": -4, "european commission": -4,
     "brussels": -4, "germany": -4, "france": -4,
     "beijing": -6, "china": -6, "xi jinping": -8,
@@ -513,7 +514,7 @@ def post_article(target_sub, entry, category, score, matched, ai_checked, full_p
 # Section: Main Run
 # =========================
 def main():
-    log("START", "Starting Run...", Col.CYAN)
+    log("START", "Starting Newsbot Run...", Col.CYAN)
     
     # Init Files
     if not os.path.exists(AI_CACHE_FILE): save_json_data(AI_CACHE_FILE, {})
@@ -557,13 +558,16 @@ def main():
         
     # Sort newest first
     raw_entries.sort(key=lambda x: x.published, reverse=True)
-    log("INFO", f"Processing {len(raw_entries)} items...", Col.RESET)
+    log("INFO", f"Found {len(raw_entries)} items to process.", Col.RESET)
     
     candidates = []
     posted_titles_this_run = set() # For aggressive in-run deduplication
     
     strong_geo = {'uk', 'united kingdom', 'britain', 'england', 'london', 'scotland', 'wales'}
     
+    ai_checks_done = 0
+    redirect_count = 0
+
     for entry in raw_entries:
         if len(candidates) >= INITIAL_ARTICLES: break
         
@@ -580,7 +584,9 @@ def main():
             if difflib.SequenceMatcher(None, norm_title, existing_t).ratio() > IN_RUN_FUZZY_THRESHOLD:
                 is_in_run_dupe = True
                 break
-        if is_in_run_dupe: continue
+        if is_in_run_dupe: 
+            # log("REJECTED", f"Semantic Duplicate: {entry.title[:30]}...", Col.RED)
+            continue
 
         # 3. Fetch Content
         paras = fetch_article_text(entry.link)
@@ -592,16 +598,17 @@ def main():
         score, pos, neg, matched = calculate_score(full_text)
         reject, reason = is_hard_reject(full_text, pos, neg)
         if reject:
-            # log("REJECTED", f"{reason}: {entry.title[:30]}...", Col.RED)
+            log("REJECTED", f"Hard Filter ({reason}): {entry.title[:30]}...", Col.RED)
             continue
             
-        # 5. Categorize & Score
+        # 5. Categorize & Score (Recalculated above for reject check)
         cat, cat_score, _ = detect_category(full_text)
         
         # 6. Category Specific Logic
         if cat in ["Sport", "Culture"]:
             # STRICT: Only allow if major event words present
             if not any(w in full_text.lower() for w in MAJOR_EVENT_KEYWORDS):
+                log("REJECTED", f"Minor Sport/Culture: {entry.title[:30]}...", Col.RED)
                 continue
                 
         if cat == "Royals":
@@ -623,8 +630,10 @@ def main():
         
         if score >= 15 and strong_geo_match and cat != "Royals":
             is_candidate = True # Auto-pass
+            log("DETAIL", f"Auto-Pass (High Score + Strong Geo): {entry.title[:40]}...", Col.GREEN)
         elif score >= threshold:
             # Borderline -> AI Check
+            ai_checks_done += 1
             if check_ai_relevance(entry.title, entry.summary, excerpt, h):
                 is_candidate = True
                 ai_confirmed = True
@@ -633,7 +642,13 @@ def main():
                 if score >= 4:
                     target = "INTL"
                     is_candidate = True # It IS a candidate, but for Intl
-        
+                    redirect_count += 1
+                    log("REROUTE", f"Redirecting to Intl: {entry.title[:40]}...", Col.YELLOW)
+                else:
+                    log("REJECTED", f"AI Veto: {entry.title[:40]}...", Col.RED)
+        else:
+            log("REJECTED", f"Low Score ({score}): {entry.title[:40]}...", Col.RED)
+            
         if is_candidate:
             candidates.append({
                 "entry": entry,
@@ -675,7 +690,7 @@ def main():
         if not added_this_round: break
         
     # 9. Execution
-    log("INFO", f"Posting {len(final_list)} articles (Source Balanced)...", Col.CYAN)
+    log("INFO", f"Processing {len(final_list)} candidates for UK posting...", Col.CYAN)
     
     count_uk = 0
     count_intl = 0
@@ -683,15 +698,19 @@ def main():
     for item in final_list:
         e = item['entry']
         if item['target'] == "UK":
+            log("POSTING", f"Attempting to post UK: {e.title}...", Col.CYAN)
             if post_article(subreddit_uk, e, item['cat'], item['score'], item['matched'], item['ai'], item['paras']):
+                log("SUCCESS", f"Posted UK: {e.title}", Col.GREEN)
                 count_uk += 1
         elif item['target'] == "INTL":
+            log("POSTING", f"Attempting to post Intl: {e.title}...", Col.CYAN)
             if post_article(subreddit_intl, e, item['cat'], 0, {}, False, item['paras'], is_intl=True):
+                log("SUCCESS", f"Posted Intl: {e.title}", Col.GREEN)
                 count_intl += 1
         
         time.sleep(5)
         
-    log("DONE", f"UK: {count_uk} | Intl: {count_intl}", Col.GREEN)
+    log("FINISHED", f"Run Complete. UK Posted: {count_uk}. AI Checks: {ai_checks_done} | Redirected: {redirect_count}", Col.GREEN)
 
 if __name__ == "__main__":
     main()
