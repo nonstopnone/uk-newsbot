@@ -3,10 +3,11 @@
     "Manual Submission": 4,
     "BBC": 104,
     "Sky": 67,
-    "Telegraph": 15
+    "Telegraph": 15,
+    "Manual": 1
   },
   "categories": {
-    "Politics": 71,
+    "Politics": 72,
     "Crime & Legal": 55,
     "Notable International": 9,
     "Economy": 13,
