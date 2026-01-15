@@ -10059,3 +10059,5 @@
 2026-01-15T20:32:34.397708+00:00|https://www.bbc.com/news/articles/cwy15596p98o|trump threatens to invoke insurrection act to quell antiice protests in minnesota us news|3dc64b140fed3fec8ea0de84fa622a09
 2026-01-15T20:32:35.068250+00:00|https://www.nytimes.com/2026/01/15/nyregion/nyc-motoclick-delivery-workers-lawsuit.html|mamdanis consumer protection commissioner vows more aggressive action us news|f0f490656c50b41e3f46a101f1425666
 2026-01-15T20:32:35.766730+00:00|https://www.nytimes.com/2026/01/15/nyregion/nydia-velazquez-antonio-reynoso-mamdani.html|nydia velázquez gives mamdani a warning as she endorses a successor us news|41cf2001d40498c9545478e7345ae949
+2026-01-15T20:50:47.785469+00:00|https://abcnews.go.com/US/video/pokmon-store-robbed-gunpoint-manhattan-129255033|watch pokémon store robbed at gunpoint in manhattan us news|08355c0129185f7c3e0dbb42bbf97990
+2026-01-15T20:50:48.368903+00:00|https://abcnews.go.com/US/video/rooster-crosses-road-ease-hawaii-129255026|watch rooster crosses the road with ease in hawaii us news|c7c9eaddc9924c436070f4c972aaea7d
