@@ -537,9 +537,9 @@ def main():
     # 2. RSS Fetch
     for source, url in feeds:
         try:
-            log("FETCH", f"Checking {name}...", Col.BLUE)
+            log("FETCH", f"Checking {source}...", Col.BLUE)
             feed = feedparser.parse(url)
-            for e in f.entries:
+            for e in feed.entries:
                 # Time Check
                 dt = None
                 for k in ['published', 'updated', 'created']:
