@@ -10061,3 +10061,4 @@
 2026-01-15T20:32:35.766730+00:00|https://www.nytimes.com/2026/01/15/nyregion/nydia-velazquez-antonio-reynoso-mamdani.html|nydia velázquez gives mamdani a warning as she endorses a successor us news|41cf2001d40498c9545478e7345ae949
 2026-01-15T20:50:47.785469+00:00|https://abcnews.go.com/US/video/pokmon-store-robbed-gunpoint-manhattan-129255033|watch pokémon store robbed at gunpoint in manhattan us news|08355c0129185f7c3e0dbb42bbf97990
 2026-01-15T20:50:48.368903+00:00|https://abcnews.go.com/US/video/rooster-crosses-road-ease-hawaii-129255026|watch rooster crosses the road with ease in hawaii us news|c7c9eaddc9924c436070f4c972aaea7d
+2026-01-15T21:57:41.214492+00:00|https://www.nytimes.com/2026/01/15/world/europe/chiara-ferragni-pandoro-cake-italy-influencer.html|italian court closes fraud case against influencer chiara ferragni us news|7dda2883ec1132a46458e58482cea750
