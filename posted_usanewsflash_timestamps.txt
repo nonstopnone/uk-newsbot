@@ -10094,3 +10094,4 @@
 2026-01-16T11:44:09.122152+00:00|https://www.nytimes.com/2026/01/16/us/politics/cia-director-ratcliffe-venezuela.html|cia director meets with venezuelas interim president in caracas us news|df37047948f7750d21b9e073a689e726
 2026-01-16T11:44:09.795930+00:00|https://www.nytimes.com/2026/01/16/arts/television/knight-of-the-seven-kingdoms.html|a knight of the seven kingdoms game of thrones goes smallscale us news|f1c025a8c13229dcd2c935c950b9005f
 2026-01-16T11:44:10.482843+00:00|https://abcnews.go.com/Entertainment/wireStory/julio-iglesias-denies-sexual-abuse-allegations-calling-absolutely-129271104|julio iglesias denies sexual abuse allegations calling them absolutely untrue us news|3ff4575d380590568d00f84266952a35
+2026-01-16T13:41:00.205771+00:00|https://www.nbcnews.com/video/shorts/ice-loses-support-among-americans-as-raids-continue-256086085804|ice loses support among americans as raids continue us news|486d76d749b03e408e101ce937641cef
