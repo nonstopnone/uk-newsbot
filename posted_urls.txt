@@ -1,6 +1,3 @@
-2026-01-09T12:50:56.923291+00:00|https://www.bbc.com/news/articles/cdxj2pnj757o|gabby logan pays tribute to her warrior dad terry yorath|12f95951be6f515761e6a60054571988
-2026-01-09T12:51:07.451864+00:00|https://www.telegraph.co.uk/cars/gallery/every-european-car-of-the-year-coty-winner-since-1964|every european car of the year coty winner since 1964|618274a027315aa01f612924dcd9ced4
-2026-01-09T12:51:17.948343+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/cakes/seed-cake-recipe|traditional seed cake|ca1a60bdf4d2c50233b283df6422b7df
 2026-01-09T13:37:51.430766+00:00|https://news.sky.com/story/grok-ai-image-editing-limited-to-paid-subscribers-after-reports-of-deepfakes-13492325|no 10 hits out at insulting changes to musks grok chatbot after deepfake warning|0d189332a77c942dea1987d90e4faa6e
 2026-01-09T13:58:08.804174+00:00|https://news.sky.com/story/why-robots-still-cant-match-humans-and-whats-holding-them-back-13492374|i fought a humanoid robot and won this is why physical ai cant replace us yet|819743ae57a3c4446ec8c1150dc12bbc
 2026-01-09T15:25:02.284493+00:00|https://news.sky.com/story/labour-mp-who-rebelled-over-jury-trial-plans-not-expecting-to-lose-whip-13492343|labour mp who rebelled over jury trial plans not expecting to lose whip|67f17d15765ae1cc38a786050e250e88
@@ -349,3 +346,10 @@
 2026-01-16T10:58:02.608602+00:00|https://news.sky.com/story/two-people-die-in-barnet-house-fire-13494281|two people die in house fire|e5b9dabebbe5081132324e76e08df652
 2026-01-16T11:47:23.987577+00:00|https://www.bbc.com/news/articles/cn9z2wl2ze3o|two people aged 90 die in north london house fire|c10458d8a5dd9344fa76ab03e228eca6
 2026-01-16T11:47:29.638699+00:00|https://news.sky.com/story/south-koreas-ex-president-jailed-for-five-years-over-martial-law-declaration-13494905|south koreas expresident jailed for five years over martial law declaration|5d645ad9515aab14a61d63b1f8631a89
+2026-01-16T12:59:56.774251+00:00|https://www.bbc.com/news/articles/c4grex82n7ro|teen obsessed with southport killer planned bomb attack at oasis concert|5158614be75b8d91718670af4fccdc6f
+2026-01-16T13:00:02.369895+00:00|https://www.telegraph.co.uk/recommended/travel-and-outdoors/arcteryx-beta-ar-waterproof-jacket-review|is this premium waterproof jacket worth the £600 price tag|2981a548ea42c7dc25ecadda4cc48344
+2026-01-16T13:00:07.919340+00:00|https://news.sky.com/story/anthony-joshua-back-in-gym-after-nigeria-car-crash-13494954|anthony joshua back in gym after car crash|5b83053dd1edb958dffc28c38aa2300b
+2026-01-16T13:00:13.430226+00:00|https://www.bbc.com/news/videos/c5y2k71jqlro|this is uniting the right says jenrick in bbc exclusive|ec521c1d5ded81bd438e7bd17a9795f6
+2026-01-16T13:00:19.091779+00:00|https://www.telegraph.co.uk/cars/advice/six-best-affordable-family-suvs|the best family suvs to buy in 2026 and the model you should avoid|890b8320b1a20e693cf8fd55a16ddec8
+2026-01-16T13:00:24.640570+00:00|https://news.sky.com/story/julio-iglesias-responds-to-sex-abuse-and-trafficking-allegations-13494936|julio iglesias responds to sex abuse and trafficking allegations|359012cb2a1f3b9ecd722ff5557f35e8
+2026-01-16T13:00:30.062621+00:00|https://www.bbc.com/news/articles/c3r140redx9o|police defend spending £16k on private jet to extradite influencer hstikkytokky|86a228872a18e5934de1a1f4cea4ec7b
