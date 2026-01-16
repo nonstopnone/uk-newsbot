@@ -10112,3 +10112,4 @@
 2026-01-16T18:40:23.700524+00:00|https://www.nytimes.com/2026/01/16/us/virginia-house-democrats-congressional-maps.html|virginia legislature passes amendment to redraw house maps us news|b39c0743f96cd2e92777a5ee9e6642ca
 2026-01-16T18:40:24.444399+00:00|https://www.nytimes.com/2026/01/16/us/politics/powell-trump-investigation.html|powell an unlikely foil takes on trump us news|737c797cbfee3596767475624cf1f9d0
 2026-01-16T19:09:41.503189+00:00|https://www.nbcnews.com/politics/2026-election/virginia-lawmakers-pass-redistricting-amendment-voters-approval-rcna254049|virginia lawmakers pass redistricting amendment sending it to voters for approval us news|b2783eb46dc8a36b6cdf608f8b079a7e
+2026-01-16T19:39:33.977660+00:00|https://www.nbcnews.com/news/us-news/charlie-kirk-shooting-suspect-seeks-disqualify-utah-county-attorneys-o-rcna254409|charlie kirk shooting suspect seeks to disqualify utah county attorneys office from case us news|fd6cb03b862e75d6a8a5ada1662c970b
