@@ -10124,3 +10124,4 @@
 2026-01-16T22:27:08.132522+00:00|https://www.nytimes.com/2026/01/16/us/uva-resignations-abigail-spanberger.html|some uva board members asked to resign as gov abigail spanberger takes power us news|1192add6a00c5dbfb17399d6fad456c1
 2026-01-16T22:57:23.393587+00:00|https://www.nbcnews.com/health/health-news/south-carolina-measles-outbreak-cases-double-vaccines-quarantine-rcna253989|staring over the edge south carolina measles outbreak doubles within a week us news|aed70dc2c4395c84c8a60e574f0f79be
 2026-01-16T23:25:44.892554+00:00|https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html|deported student hopes to return after us acknowledges error us news|f9f3db81549abb186822d700c0067379
+2026-01-16T23:43:46.876498+00:00|https://abcnews.go.com/Health/policy-experts-struggle-make-sense-new-trump-health/story|some policy experts struggle to make sense of new trump health plan us news|3ad6d0bb59a115f210265d98c5fa3849
