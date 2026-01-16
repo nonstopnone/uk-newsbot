@@ -10120,3 +10120,5 @@
 2026-01-16T19:57:50.055095+00:00|https://www.nytimes.com/2026/01/16/nyregion/budget-deficit-nyc.html|a $126 billion budget gap may complicate mamdanis affordability plans us news|3685925ba4ff003b786fdbc38be1ba81
 2026-01-16T20:27:59.159647+00:00|https://www.nbcnews.com/video/shorts/former-south-korean-president-gets-prison-term-256108101563|former south korean president gets prison term us news|14b89dedaf6c91487ccec7e6b30f2b5f
 2026-01-16T21:44:18.324033+00:00|https://www.bbc.com/news/articles/c4g907zekllo|who are the frontrunners for the top fed job us news|ae2159940975c605a17a547388a8c96c
+2026-01-16T22:27:07.656344+00:00|https://www.nytimes.com/2026/01/16/climate/supreme-court-roundup-pesticide.html|supreme court to decide if the pesticide roundup is shielded from lawsuits us news|2d873335748ea04451dd8cadb67fcadc
+2026-01-16T22:27:08.132522+00:00|https://www.nytimes.com/2026/01/16/us/uva-resignations-abigail-spanberger.html|some uva board members asked to resign as gov abigail spanberger takes power us news|1192add6a00c5dbfb17399d6fad456c1
