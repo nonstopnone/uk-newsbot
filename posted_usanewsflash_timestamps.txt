@@ -10091,3 +10091,6 @@
 2026-01-16T11:25:12.566253+00:00|https://www.nytimes.com/2026/01/16/world/americas/trump-petro-colombia-eln-cocaine.html|after trump call colombias petro turns up heat on farleft armed group us news|3716448c4be40dc702bba6896a957531
 2026-01-16T11:25:13.205316+00:00|https://www.nytimes.com/2026/01/16/climate/trump-coal-plants.html|trump wants to halt almost all coal plant shutdowns it could get messy us news|67535b49576a720c6c21eb83a9dfbd02
 2026-01-16T11:25:14.100424+00:00|https://www.nytimes.com/2026/01/16/business/media/ted-sarandos-netflix.html|ted sarandos says critics just misunderstand netflix us news|4dc7fb513aef9964ca215965a6971f44
+2026-01-16T11:44:09.122152+00:00|https://www.nytimes.com/2026/01/16/us/politics/cia-director-ratcliffe-venezuela.html|cia director meets with venezuelas interim president in caracas us news|df37047948f7750d21b9e073a689e726
+2026-01-16T11:44:09.795930+00:00|https://www.nytimes.com/2026/01/16/arts/television/knight-of-the-seven-kingdoms.html|a knight of the seven kingdoms game of thrones goes smallscale us news|f1c025a8c13229dcd2c935c950b9005f
+2026-01-16T11:44:10.482843+00:00|https://abcnews.go.com/Entertainment/wireStory/julio-iglesias-denies-sexual-abuse-allegations-calling-absolutely-129271104|julio iglesias denies sexual abuse allegations calling them absolutely untrue us news|3ff4575d380590568d00f84266952a35
