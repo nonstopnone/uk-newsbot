@@ -10078,3 +10078,5 @@
 2026-01-16T03:46:07.495946+00:00|https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html|taiwan strikes trade deal with trump vows more us chip factories us news|49e3640bcb3f8121e482b8fdb8294568
 2026-01-16T03:46:08.399656+00:00|https://www.nbcnews.com/tech/tech-news/ashley-st-clair-sues-xai-grok-sexual-images-rcna254302|ashley st clair the mother of one of elon musks children sues xai over grok sexual images us news|50b5b7f547ac5abd7eca4a5f9dc5e850
 2026-01-16T03:46:09.265081+00:00|https://www.nytimes.com/2026/01/15/us/politics/stars-and-stripes-pentagon.html|pentagon will refocus military publication stars and stripes us news|15d0fde4a57989a4e76f6d186ecc8a38
+2026-01-16T05:30:44.847552+00:00|https://www.nytimes.com/2026/01/16/business/battles-over-truth-rage-online-amid-irans-internet-blackout.html|battles over truth rage online amid irans internet blackout us news|37d298e0213d2b7f942d6fd319a620b4
+2026-01-16T05:30:45.369985+00:00|https://www.nytimes.com/2026/01/15/us/politics/trump-deportation-student-traveling-thanksgiving.html|us says it erred in deporting student traveling for thanksgiving us news|9afe355bc1e7e6f03704a20abdfc456a
