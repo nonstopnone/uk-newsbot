@@ -1,0 +1,38 @@
+name: Daily Newspaper Bot
+
+on:
+  schedule:
+    # 1. Run every 30 mins from 10 PM to Midnight (22:00, 22:30, 23:00, 23:30)
+    - cron: '*/30 22,23 * * *'
+    # 2. Run every 30 mins from Midnight to Noon (00:00 - 12:00)
+    - cron: '*/30 0-12 * * *'
+  workflow_dispatch:
+
+jobs:
+  post-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read # We no longer need write access since we aren't pushing to repo
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Run Bot Script
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
+          USER_AGENT: ${{ secrets.USER_AGENT }}
+        run: python newspaper_bot.py
