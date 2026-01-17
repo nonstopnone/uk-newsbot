@@ -10157,3 +10157,4 @@
 2026-01-17T15:42:50.600594+00:00|https://abcnews.go.com/GMA/News/video/nasa-inches-closer-lunar-return-129306063|watch nasa inches closer to lunar return us news|37d74da1c54e455194f204016a46efa1
 2026-01-17T16:57:24.343851+00:00|https://www.nbcnews.com/business/economy/trump-denmark-european-tariffs-greenland-deal-rcna254551|trump says he will hit denmark and 7 other countries with new tariffs until there is a deal to purchase greenland us news|78a04aeee649334894108930f3df4bf9
 2026-01-17T17:22:01.677646+00:00|https://www.nytimes.com/2026/01/17/us/politics/trump-eu-tariffs-greenland.html|trump announces 10 percent tariff on european countries in standoff over greenland us news|00ecce81734bcb3fb30cd325f5e3f127
+2026-01-17T17:42:09.422610+00:00|https://www.bbc.com/news/articles/cvgprwlplqwo|us judge restricts ice response to minneapolis protesters us news|ac738438022700fb55749042f605ec33
