@@ -10171,3 +10171,4 @@
 2026-01-17T22:44:55.327886+00:00|https://abcnews.go.com/International/3rd-attack-syria-us-kills-leader-linked-isis/story|in 3rd attack in syria us kills leader linked to isis ambush centcom us news|d7a0a9175d842bee25c99c4ef670f751
 2026-01-17T22:44:55.864491+00:00|https://www.nbcnews.com/video/shorts/driver-rescued-from-sinking-suv-at-virginia-beach-256150597768|driver rescued from sinking suv at virginia beach us news|4ee1e4d5a94b99c4724c2493442b394c
 2026-01-17T22:57:28.784755+00:00|https://www.nbcnews.com/world/syria/us-forces-kill-al-qaeda-affiliate-leader-strike-northwest-syria-rcna254581|us military says it killed al qaeda affiliate leader in northwest syria us news|304f099c0b50dc6339bca8b44d8d6fee
+2026-01-17T23:24:29.097762+00:00|https://www.bbc.com/news/articles/cm2jdklp5m8o|us strike in syria kills man linked to attack on soldiers officials say us news|bdc5547e7ce88aa93b85f8603694145e
