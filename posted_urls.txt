@@ -1,12 +1,3 @@
-2026-01-11T19:35:54.801831+00:00|https://www.telegraph.co.uk/rugby-union/2026/01/11/bordeaux-v-northampton-saints-live-score-champions-cup|henry pollock revels in villain role but northampton still thrashed|b0c928084d1c14e89400e265ae125caf
-2026-01-11T19:36:05.402513+00:00|https://news.sky.com/story/severe-delays-on-trains-to-and-from-heathrow-airport-after-fire-13493170|severe delays on trains to and from heathrow airport after fire|cc1c2aa59beceb723f71dbad7bd275b7
-2026-01-11T19:36:15.897997+00:00|https://www.bbc.com/news/articles/cr578n5egm9o|eastenders actor derek martin dies aged 92|4b775333397c8252b395eb6d6c6eb0ca
-2026-01-11T19:36:26.382899+00:00|https://www.telegraph.co.uk/football/2026/01/11/fa-cup-third-round-live-scores-latest-updates-watch|west ham scrape past qpr to end 10game winless run|575eea69da6d32fe5b62cc38cc7f3b82
-2026-01-11T19:36:36.891675+00:00|https://www.telegraph.co.uk/football/2026/01/11/portsmouth-vs-arsenal-live-score-fa-cup-third-round-latest|arsenal fans taunt gary neville as hattrick hero martinelli answers critics|e37ad86f1ca030b0b38af59864474f3a
-2026-01-11T19:36:47.362657+00:00|https://www.bbc.com/news/articles/c8e5pzwzpy3o|thousands of homes still without water in south east|32de1150db84d4e345911df3a4dd55ff
-2026-01-11T19:36:57.783705+00:00|https://www.bbc.com/news/articles/c0jvz020zzyo|tories will channel anger at labour vows badenoch|24cf76c841162f755956277bcb5314b2
-2026-01-11T19:37:08.191877+00:00|https://www.bbc.com/news/articles/cdjnlvv0y9ko|lorraine kelly pays tribute to father after shock death|ac035777742b569432d7d0e6f1e46e2e
-2026-01-11T19:37:20.284705+00:00|https://www.bbc.com/news/articles/c4gl2mnr2ymo|family home wrecked by electric scooter blaze in moments|ca5fa27ea188b2886f5d98a4d72296ef
 2026-01-11T20:25:41.421665+00:00|https://www.telegraph.co.uk/football/2026/01/11/man-utd-vs-brighton-live-score-latest-fa-cup-third-round|man utd crisis deepens with fa cup exit to brighton|e12804434df53c6fe358d3b79fa20b90
 2026-01-11T20:25:51.849096+00:00|https://www.bbc.com/sport/football/articles/c07x1ezk3pro|goals shocks and fan power on a recordbreaking fa cup weekend|ad2dbb1e3dc5146c45fddf88a1817c5e
 2026-01-11T20:26:02.268821+00:00|https://www.bbc.com/news/articles/c70lz06erw0o|harlow town football club goes into administration|fa010c47048a0c253670fedbc3b00c56
@@ -420,3 +411,4 @@
 2026-01-18T18:39:05.428130+00:00|https://news.sky.com/story/water-supply-issues-for-thousands-in-kent-days-after-week-long-outage-13495871|water supply issues for thousands of people days after weeklong outage|c838e4c5332028e0c315fe199e9d2b64
 2026-01-18T19:23:38.930133+00:00|https://www.bbc.com/news/articles/czx3n6p136do|cancer patients warned for years about hospital water infections|feded8006790cd386267ca406d77ecbb
 2026-01-18T19:23:44.369487+00:00|https://www.telegraph.co.uk/football/2026/01/18/aston-villa-v-everton-live-score-premier-league-updates|aston villas title hopes dented after martinez error punished by evertons barry|59971b2c63c84fafc915838408825440
+2026-01-18T19:41:08.145593+00:00|https://www.bbc.com/news/articles/cdexgnekd74o|man charged with murder of wayne reid in coleraine|dd206c9e4471bdc502019250a91a3543
