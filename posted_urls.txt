@@ -417,3 +417,4 @@
 2026-01-18T15:45:16.123393+00:00|https://www.bbc.com/news/articles/c62w8erwdk6o|sifting through the roman rubbish of the london lasagne|896da19d460287680a2bd1648b0f9508
 2026-01-18T16:35:30.661636+00:00|https://www.telegraph.co.uk/football/2026/01/18/wolves-v-newcastle-united-score-premier-league-updates|newcastle fire blanks in goalless draw with bottomofthetable side wolves|8107723f4a4d6b4cb91db223bdfdc6f0
 2026-01-18T16:56:51.029207+00:00|https://www.bbc.com/news/articles/cy05ygkw52po|boy 17 sustains serious head injury in assault|ceda44db9c75c8edd493d901fe56d641
+2026-01-18T18:39:05.428130+00:00|https://news.sky.com/story/water-supply-issues-for-thousands-in-kent-days-after-week-long-outage-13495871|water supply issues for thousands of people days after weeklong outage|c838e4c5332028e0c315fe199e9d2b64
