@@ -10172,3 +10172,8 @@
 2026-01-17T22:44:55.864491+00:00|https://www.nbcnews.com/video/shorts/driver-rescued-from-sinking-suv-at-virginia-beach-256150597768|driver rescued from sinking suv at virginia beach us news|4ee1e4d5a94b99c4724c2493442b394c
 2026-01-17T22:57:28.784755+00:00|https://www.nbcnews.com/world/syria/us-forces-kill-al-qaeda-affiliate-leader-strike-northwest-syria-rcna254581|us military says it killed al qaeda affiliate leader in northwest syria us news|304f099c0b50dc6339bca8b44d8d6fee
 2026-01-17T23:24:29.097762+00:00|https://www.bbc.com/news/articles/cm2jdklp5m8o|us strike in syria kills man linked to attack on soldiers officials say us news|bdc5547e7ce88aa93b85f8603694145e
+2026-01-18T02:22:30.556534+00:00|https://www.bbc.com/news/articles/cly148lvyevo|artemis ii nasas mega moon rocket arrives at launch pad us news|9e1d3f5c566b15e60c8179feb89dc35f
+2026-01-18T02:22:31.257419+00:00|https://www.bbc.com/news/videos/c89q0e9dvpwo|half american half canadian take a ride in a car welded from two front ends us news|0402940b26228212830cd8b1b0c60a3b
+2026-01-18T02:22:31.928206+00:00|https://www.bbc.com/news/articles/crmlvym2e3eo|from surge in patriotism to fewer us trips trumps impact on canada us news|53d0b12153c602aa66196c2cd7d4b371
+2026-01-18T02:22:32.622393+00:00|https://www.nbcnews.com/video/iran-s-leader-acknowledges-thousands-of-deaths-in-protests-denies-responsibility-256151621968|irans leader acknowledges thousands of deaths in protests denies responsibility us news|e04770b2d5a21074538cf1e15f562313
+2026-01-18T02:22:33.312074+00:00|https://www.nbcnews.com/video/dueling-protests-in-minneapolis-over-ice-s-presence-in-city-256152645968|dueling protests in minneapolis over ices presence in city us news|992e3c1f75670eedceaacdf8373206b1
