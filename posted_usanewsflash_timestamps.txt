@@ -10196,3 +10196,5 @@
 2026-01-18T16:49:14.279301+00:00|https://www.nytimes.com/2026/01/18/us/politics/pentagon-troops-minnesota.html|pentagon tells 1500 troops to prepare for possible deployment to minnesota us news|dfc304a77926d526c8f043607bafe863
 2026-01-18T18:34:40.279654+00:00|https://www.nbcnews.com/video/shorts/-deeply-concerning-minnesota-mayor-reacts-to-doj-investigation-256169029957|deeply concerning minnesota mayor reacts to doj investigation us news|358924f2cf5d076044cb56a70dd6b622
 2026-01-18T18:34:40.797472+00:00|https://www.nytimes.com/2026/01/18/world/americas/chile-wildfires.html|chile wildfires kill 16 and force wide evacuation us news|22e1492efe509e881a92abfb115eba97
+2026-01-18T18:52:29.679340+00:00|https://www.nbcnews.com/video/shorts/bessent-european-leaders-will-come-around-on-trump-s-greenland-stance-256169541688|bessent european leaders will come around on trumps greenland stance us news|67b264efd33cd921745f1cbe49c51f96
+2026-01-18T18:52:30.120612+00:00|https://www.nytimes.com/2026/01/18/business/media/axel-springer-editor-welt.html|top editor at axel springer is ousted after workplace investigation us news|cd6ba2fd577eb01c3305da47cda57a4b
