@@ -10183,3 +10183,7 @@
 2026-01-18T05:37:20.920910+00:00|https://www.nytimes.com/2026/01/18/us/politics/trump-bill-cassidy-julia-letlow-primary-challenge-endorsement.html|trump backs a potential primary challenger to bill cassidy a gop senator us news|555fe58d62de593399d460fdeeffdf1d
 2026-01-18T07:57:38.317138+00:00|https://www.bbc.com/news/articles/c74v0pxg2nvo|around 1500 soldiers on standby for deployment to minneapolis officials say us news|1bf725f73e4f8c785cfc620ec9af9de5
 2026-01-18T10:27:25.650316+00:00|https://abcnews.go.com/International/europe-united-face-trumps-greenland-threats-tariffs-eu/story|europe united in face of trumps greenland threats tariffs eu chief says us news|0fec59459a0d621ca032174b0d2b5aff
+2026-01-18T10:57:23.269123+00:00|https://www.nytimes.com/video/us/politics/100000010652139/inside-trumps-deportation-machine.html|inside trumps deportation machine us news|a41cdb6410658ba4389b28e4255a4f2b
+2026-01-18T10:57:23.771031+00:00|https://www.nytimes.com/2026/01/18/world/americas/venezuela-economy-food-prices.html|the biggest challenge in venezuela is soaring food prices us news|f48053451bcd710c3774b3c580085b40
+2026-01-18T10:57:24.274333+00:00|https://www.nytimes.com/2026/01/18/us/dhs-cities-bush-sept-11.html|dhss role questioned as immigration officers flood us cities us news|bd5ce8dc392b7f7e0d925a1d3eb5d3c3
+2026-01-18T10:57:24.785953+00:00|https://www.nytimes.com/2026/01/18/us/politics/kash-patel-grassley-payback.html|under patel fbi scours its records to discredit trump opponents us news|0ec8ce2c30ec02ac1cc4091f57e53595
