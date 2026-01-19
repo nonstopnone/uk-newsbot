@@ -1,9 +1,9 @@
 {
   "sources": {
     "Manual Submission": 4,
-    "BBC": 217,
+    "BBC": 218,
     "Sky": 139,
-    "Telegraph": 34,
+    "Telegraph": 35,
     "Manual": 2
   },
   "categories": {
@@ -14,7 +14,7 @@
     "Sport": 19,
     "Royals": 16,
     "Immigration": 3,
-    "Breaking News": 52,
-    "Culture": 12
+    "Breaking News": 53,
+    "Culture": 13
   }
 }
