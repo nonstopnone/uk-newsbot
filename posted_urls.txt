@@ -1,4 +1,3 @@
-2026-01-12T13:54:10.361292+00:00|https://www.bbc.com/news/articles/cy8ydv6lzp5o|man admits causing golf course crash death|5a0556c24680c9ba6c66f5fdf1c617d0
 2026-01-12T14:33:55.373366+00:00|https://www.bbc.com/news/articles/ckgyqkqy9k2o|woman dies following twocar crash|f5ccf25b24bfdad066029722c6906eec
 2026-01-12T15:01:12.898984+00:00|https://www.bbc.com/news/articles/cn0ygxnljzjo|daughter of taxi driver killed in bolton crash devastated|b2a39859b91786c660137aa5b96106fe
 2026-01-12T15:01:23.384232+00:00|https://www.bbc.com/news/articles/cgezg5rlz7wo|northern ireland politician targeted by deepfake quits x over grok ai concerns|9c9b04b8c83a3fe74324f45a8413fd49
@@ -395,3 +394,7 @@
 2026-01-19T13:05:45.464189+00:00|https://www.bbc.com/news/articles/ce8eg6nexkdo|nhs trust used charity funds for leaving party|faad3b661512fd24f5bbbcc501945a04
 2026-01-19T13:05:50.983800+00:00|https://news.sky.com/story/call-for-urgent-holyrood-statement-after-glasgow-health-boards-hospital-infections-admission-13496161|call for urgent holyrood statement after hospital infections admission|b085cb3502c3a4199cc3d8d906ae41cf
 2026-01-19T13:05:56.580307+00:00|https://news.sky.com/story/major-risk-to-global-economy-from-increased-tariffs-imf-says-13496112|major risk to global economy from increased tariffs imf says|73f7294be01a3c68fab66f2809847f73
+2026-01-19T13:55:50.502291+00:00|https://www.bbc.com/news/articles/c9dv6n49pwvo|sarwar calls for swinney and sturgeon to be investigated over qeuh|1c3e67cdff2576450d00242932d909b4
+2026-01-19T13:55:56.105466+00:00|https://news.sky.com/story/finger-prick-blood-test-trial-could-revolutionise-alzheimers-diagnosis-say-experts-13496188|finger prick blood test trial could revolutionise alzheimers diagnosis|31dd18c5dadc33d09c2a7f6f9e0bdfce
+2026-01-19T13:56:01.583118+00:00|https://www.bbc.com/news/articles/c1m738pyvxjo|volunteers clear washedup bags of chips from beach|3fd007ab1b9fdd021a855e520b33495f
+2026-01-19T13:56:07.085260+00:00|https://news.sky.com/story/ring-nebula-what-is-mysterious-iron-bar-in-space-13496185|what is mysterious iron bar in space|785d0a0f2ad29af16679712e31746115
