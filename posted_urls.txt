@@ -1,6 +1,3 @@
-2026-01-12T23:23:08.242997+00:00|https://www.bbc.com/news/articles/c20g34wpgygo|skyrocketing cost of ruined and flytipped items hits charity shops|717c961add726e68ea54ff314a12aebd
-2026-01-12T23:23:18.856321+00:00|https://www.bbc.com/news/articles/ckgnryke8r0o|tax and spending plans to be revealed in scottish budget|aab0c2d7e0bc7b84c99a921edc29b826
-2026-01-12T23:23:29.453582+00:00|https://www.telegraph.co.uk/football/2026/01/12/liverpool-vs-barnsley-live-score-fa-cup-draw-updates-latest|liverpool beat barnsley on night of fa cup magic and madness at anfield|62fc2df6b22cfa7fcb08069b559ad430
 2026-01-12T23:42:38.494923+00:00|https://news.sky.com/story/he-was-shot-in-the-heart-the-teen-victims-of-irans-ruthless-crackdown-13493544|he was shot in the heart the teen victims of irans ruthless crackdown|5b77706edf579dadb81f02fe89c27960
 2026-01-13T02:21:09.998067+00:00|https://www.bbc.com/news/articles/cvgnvqqk9p9o|the papers adhd care costs soar and bin diesel|b5833b206c1598195603ad4c3d222b39
 2026-01-13T02:21:20.736767+00:00|https://www.bbc.com/news/articles/cwyxle17jl8o|safe spaces needed for drugaddicted children say grieving mums|71487bc07db4c50bcfa08cfabc47b29f
@@ -385,3 +382,5 @@
 2026-01-19T22:50:19.922359+00:00|https://news.sky.com/story/ministers-to-launch-consultation-on-australia-style-under-16s-social-media-ban-13496366|ministers to launch consultation on banning under16s from social media|f2f8a4101ff9127e0f65f938bbbc8639
 2026-01-19T22:50:25.597455+00:00|https://www.bbc.com/news/articles/ckgkz2e5nr5o|hospitals inquiry holds final sessions after infected water admission|af179cc6a755fc3a858dc48f98d765bd
 2026-01-19T22:50:31.080571+00:00|https://www.bbc.com/news/articles/cwygpg281dno|water companies to face regular motstyle checks in industry shakeup|006719a1a1c65765565a5c2fd2ab9045
+2026-01-19T23:27:52.520625+00:00|https://www.bbc.com/news/articles/cgm4xpyxp7lo|uk to consult on social media ban for under 16s|3fc0c2161cc38a5c437dbdeddcded72a
+2026-01-19T23:27:57.955611+00:00|https://news.sky.com/story/nowhere-to-hide-for-water-companies-vows-government-in-industry-shake-up-13496279|nowhere to hide for water companies vows government in industry shake up|286e5688ed1bf73795c309f2136e7418
