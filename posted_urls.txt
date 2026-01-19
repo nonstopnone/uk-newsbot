@@ -1,7 +1,3 @@
-2026-01-12T02:24:46.870268+00:00|https://news.sky.com/story/37c-temperatures-traps-thousands-of-tourists-in-finland-13493256|37c temperatures traps thousands of tourists in finland|dab7f2637f7148324fa8082d7e187dc5
-2026-01-12T02:24:57.569274+00:00|https://www.bbc.com/news/articles/c394vjm7n4vo|the vicious cycle that means the nhs still wastes billions on patients who dont need to be in hospital|a3c2c0b941932474ccb24f57ab7e71f7
-2026-01-12T02:25:08.298552+00:00|https://news.sky.com/story/number-of-homicides-in-london-falls-to-lowest-in-over-a-decade-says-met-police-13493148|number of homicides in london falls to lowest in over a decade says met police|b21a6aab2ac40bb26526e073c517e886
-2026-01-12T02:25:18.781181+00:00|https://www.bbc.com/news/articles/c89qyv98lzdo|revolutionary eye injection saved my sight says first ever patient|bc14f561f1e21a5ed50298ca63f71051
 2026-01-12T05:01:33.413040+00:00|https://news.sky.com/story/police-hunt-robber-who-absconded-from-island-prison-13493260|police hunt robber who absconded from island prison|d3affe2c283822919af71bfc077323cd
 2026-01-12T05:01:43.923385+00:00|https://news.sky.com/story/how-newborns-with-jaundice-can-receive-vital-treatment-at-home-13493026|how newborns with jaundice can receive vital treatment at home|23d291e2df1961cf04b1abe56d8b0dfc
 2026-01-12T05:47:43.766484+00:00|https://www.bbc.com/news/articles/czr48lrr0v4o|the papers l protester death toll soars and eu demands farage clause|482458bc3bcbadd9e0baa26dd3f38b39
@@ -407,3 +403,6 @@
 2026-01-18T22:28:00.666831+00:00|https://www.bbc.com/news/articles/cgezg859zgqo|strictlys amy dowden says dancing in her lounge helped her through chemo|dd0e476be24d539d0f5e82bead6cf020
 2026-01-18T22:28:06.215206+00:00|https://www.bbc.com/news/articles/c1dk0g5yk06o|more than 60 labour mps urge pm to ban social media for under16s|81e9dd030b2fd1ff1e217d16b0ed38a9
 2026-01-18T23:56:34.630835+00:00|https://news.sky.com/story/conservative-mp-andrew-rosindell-defects-to-reform-uk-13496013|second conservative mp defects to reform uk in a week|2d8bd96622cf706e7e9a27e9f9569752
+2026-01-19T02:30:26.035530+00:00|https://www.bbc.com/news/articles/cq5y85e8d2xo|alzheimers fingerprick test could help diagnosis|a0da80e3001311de7cad2a5afa292e9e
+2026-01-19T02:30:31.603245+00:00|https://news.sky.com/story/hillsborough-law-debate-withdrawn-after-backlash-from-campaigners-and-mps-13495967|hillsborough law debate withdrawn after backlash from campaigners and mps|1a9a3d05e80fdf4240c1ad7ad9e82f9e
+2026-01-19T02:30:37.065073+00:00|https://www.bbc.com/news/articles/cql4e2yele4o|socks salsa and standup comedy easy ways to find joy in january|74f43d674393d0900ee998dd30703974
