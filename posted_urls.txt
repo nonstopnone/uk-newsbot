@@ -1,12 +1,3 @@
-2026-01-12T11:48:44.366849+00:00|https://news.sky.com/story/man-jailed-for-violent-bottle-attack-on-two-passengers-on-glasgow-to-perth-train-service-13493307|man jailed for violent glass bottle attack on two train passengers|7a6728cc264260c862cf9880d53e4080
-2026-01-12T12:18:44.181409+00:00|https://www.bbc.com/news/articles/cx2yx584lx5o|dad jailed for 35 years for trying to kill his baby daughter|16316231abc1a6641a1229da2e9b7b83
-2026-01-12T12:18:45.547653+00:00|https://www.bbc.co.uk/news/articles/c0lxn75gw1do|fomer chancellor nadim zahawi defects to reform uk|235135f40c43c33e6059ef0111f76351
-2026-01-12T12:44:05.347413+00:00|https://www.telegraph.co.uk/politics/2026/01/12/politics-latest-news-nigel-farage-reform-uk-speech|nadhim zahawi defects to reform|ae9ffa06ec14174632e7ffbac2ebaa24
-2026-01-12T12:44:16.174781+00:00|https://www.bbc.com/news/articles/czjg4p2074jo|bottle attacker jailed for 12 years for attempted murder on train|b9722cc9dec3cca9d85accc82cc59deb
-2026-01-12T13:02:25.893635+00:00|https://news.sky.com/story/police-share-update-on-five-people-injured-in-fatal-crash-in-bolton-13492269|police share update on five people injured in fatal crash|bebc7021d70bd1a4dea7a4fb817d4e10
-2026-01-12T13:02:36.489742+00:00|https://www.bbc.com/news/articles/c0lxn75gw1do|former tory chancellor nadhim zahawi defects to reform uk|7984bf352abdfef523ff56d4d427073b
-2026-01-12T13:02:46.957380+00:00|https://www.bbc.com/news/articles/ckgvxd13p8ro|man trying to reach island on inflatable mattress rescued from sea|0a2d558b5ef8c92e1b7bff051fbee239
-2026-01-12T13:02:57.425098+00:00|https://news.sky.com/story/aberdeen-fan-who-struck-and-disfigured-footballer-jack-mackenzie-after-throwing-seat-at-game-jailed-13493325|man who struck and disfigured footballer after throwing seat at game jailed|773fd7814dcc4dd9d7bfc2501c9954d5
 2026-01-12T13:54:10.361292+00:00|https://www.bbc.com/news/articles/cy8ydv6lzp5o|man admits causing golf course crash death|5a0556c24680c9ba6c66f5fdf1c617d0
 2026-01-12T14:33:55.373366+00:00|https://www.bbc.com/news/articles/ckgyqkqy9k2o|woman dies following twocar crash|f5ccf25b24bfdad066029722c6906eec
 2026-01-12T15:01:12.898984+00:00|https://www.bbc.com/news/articles/cn0ygxnljzjo|daughter of taxi driver killed in bolton crash devastated|b2a39859b91786c660137aa5b96106fe
@@ -399,3 +390,8 @@
 2026-01-19T10:49:29.795307+00:00|https://news.sky.com/story/hackers-target-iranian-state-tv-as-exiled-crown-prince-tells-military-to-join-the-people-13496091|hackers target iranian state tv as exiled crown prince tells military to join the people|b630137568937fceaca458fbd773939d
 2026-01-19T11:28:31.471894+00:00|https://news.sky.com/story/boy-12-and-man-critically-hurt-in-sydney-after-three-shark-attacks-in-two-days-13496063|boy 12 and man critically hurt after three shark attacks in two days|7e4f2cc4b455091d0e15f7037fb5bc09
 2026-01-19T11:48:03.528492+00:00|https://news.sky.com/story/five-charged-with-murder-after-man-dies-in-collision-at-county-durham-petrol-station-13496171|five charged with murder after man dies in collision at petrol station|564839d69c923486a85d8a27d50202a4
+2026-01-19T13:05:34.235562+00:00|https://www.bbc.com/news/articles/cg4e3gz3y01o|fewer than 10 pupils targeted in explicit ai images says principal|6d5a812ee5f97f0db775897d41b41d49
+2026-01-19T13:05:39.884782+00:00|https://news.sky.com/story/water-returned-to-last-500-homes-in-harrietsham-after-latest-outage-south-east-water-says-13496187|water returned to last kent homes after latest outage south east water says|ec1f4b80923c7d5e70ce4023df0a4751
+2026-01-19T13:05:45.464189+00:00|https://www.bbc.com/news/articles/ce8eg6nexkdo|nhs trust used charity funds for leaving party|faad3b661512fd24f5bbbcc501945a04
+2026-01-19T13:05:50.983800+00:00|https://news.sky.com/story/call-for-urgent-holyrood-statement-after-glasgow-health-boards-hospital-infections-admission-13496161|call for urgent holyrood statement after hospital infections admission|b085cb3502c3a4199cc3d8d906ae41cf
+2026-01-19T13:05:56.580307+00:00|https://news.sky.com/story/major-risk-to-global-economy-from-increased-tariffs-imf-says-13496112|major risk to global economy from increased tariffs imf says|73f7294be01a3c68fab66f2809847f73
