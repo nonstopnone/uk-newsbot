@@ -1,7 +1,3 @@
-2026-01-12T20:33:16.442464+00:00|https://news.sky.com/story/four-nhs-hospital-trusts-declare-critical-incidents-amid-rise-in-flu-and-norovirus-cases-13493521|four hospital trusts declare critical incidents amid high demand as flu and norovirus cases surge|626bdaf1e1bb6aeed407b96e9eb1dceb
-2026-01-12T20:33:27.151917+00:00|https://www.bbc.com/sport/football/articles/cy8pngd870vo|macclesfield to host brentford in fa cup fourth round|bc3d0de74751b717069e4af5d193b7dc
-2026-01-12T20:33:39.360127+00:00|https://www.bbc.com/news/articles/c4g0r40d5pzo|asylum seeker jailed for raping teenager in park|2ae50f682312f495cea7fdc421916bbb
-2026-01-12T20:33:49.940320+00:00|https://www.bbc.com/news/articles/cgk8d230m4go|woman brings suspected ww2 bomb to police station|7e7193ee0954ce24a39be7dd0b736b76
 2026-01-12T21:30:36.721064+00:00|https://news.sky.com/story/van-driver-in-police-pursuit-fatally-hit-mother-of-three-who-was-looking-for-golf-ball-13493458|van driver in police pursuit fatally hit mumofthree who was looking for golf ball|da12500fb57cf71a5ba438aad923dbad
 2026-01-12T22:25:54.658256+00:00|https://www.bbc.com/news/articles/cqj271z1x5no|trusts declare critical incidents over high demand|0e581f61fc9a4b40617d3272c96e5f80
 2026-01-12T22:26:05.290106+00:00|https://www.bbc.com/news/articles/czx3y2055pgo|police to no longer have routine access to rape victims counselling notes|c2fa434ff3e7a9509aba5d332b169344
@@ -386,3 +382,4 @@
 2026-01-19T18:41:52.113062+00:00|https://www.bbc.com/news/articles/c5yvl7vy2ylo|harry says he was made paranoid by daily mail publishers unlawful actions|a4bbf8a0c27f375d7280b6d893f5fce8
 2026-01-19T19:53:50.410995+00:00|https://news.sky.com/story/prince-harry-its-his-biggest-case-against-the-press-and-the-stakes-are-high-for-the-duke-and-the-publisher-of-the-daily-mail-13496351|its his biggest case against newspapers and the stakes are high for harry and the daily mail|17b933c82cfd3af7f8f5013cddb1cc8b
 2026-01-19T19:53:56.130358+00:00|https://news.sky.com/story/prince-harry-v-mail-publisher-accused-of-wrecking-lives-as-string-of-high-profile-figures-mentioned-in-court-13496303|publisher accused of wrecking lives as string of highprofile figures mentioned in court|45be1b307716365c4f24eb75326f3076
+2026-01-19T20:56:23.188659+00:00|https://news.sky.com/story/chief-constable-referred-to-police-watchdog-over-decision-to-ban-israeli-fans-from-football-match-at-villa-park-13496364|chief constable referred to police watchdog over israeli fan ban|4f386436a6046add9bbcbe45251338eb
