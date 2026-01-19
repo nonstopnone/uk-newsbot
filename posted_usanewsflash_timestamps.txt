@@ -10216,3 +10216,4 @@
 2026-01-19T04:02:28.358683+00:00|https://abcnews.go.com/US/lawyers-allege-dept-homeland-security-denying-legal-counsel/story|lawyers allege dhs is denying legal counsel to minnesota detainees us news|597ca134a14a5d0cb77be863d7016d5c
 2026-01-19T04:02:29.092248+00:00|https://www.nbcnews.com/video/shorts/video-captures-florida-snow-during-rare-southern-storm-256175685630|video captures florida snow during rare southern storm us news|32b081038edc5ffa92849492c95dca3d
 2026-01-19T04:02:29.633506+00:00|https://www.nbcnews.com/video/shorts/drone-video-shows-aftermath-of-deadly-chile-wildfires-256175685644|drone video shows aftermath of deadly chile wildfires us news|b640fb187247157eab10488c46fefc33
+2026-01-19T04:57:20.041292+00:00|https://www.nytimes.com/2026/01/18/world/europe/european-union-respond-trump-greenland.html|european union officials lean toward negotiating not retaliating over trump tariff threat us news|50a69ce301582df28e55c6aace794e12
