@@ -10329,3 +10329,6 @@
 2026-01-20T22:28:07.322520+00:00|https://www.nytimes.com/2026/01/20/us/politics/republicans-trump-greenland.html|some republicans begin to echo trumps case to acquire greenland us news|b6d323b5c1119d48427b20f8b5de327c
 2026-01-20T22:28:07.989878+00:00|https://abcnews.go.com/US/video/president-trump-greenlands-determination-129396881|watch president trump on greenlands selfdetermination us news|7c927ef48f3debe5e13879b1ad221aee
 2026-01-20T22:28:08.869596+00:00|https://www.nytimes.com/2026/01/20/us/los-angeles-schools-desegregation-lawsuit.html|los angeles school desegregation policy hurts white students lawsuit says us news|e76848bb53ecf744413875f1c244f730
+2026-01-20T22:45:40.433156+00:00|https://www.nytimes.com/2026/01/20/us/politics/california-supreme-court-congressional-map.html|california republicans ask supreme court to block new congressional map us news|d35e114b78d5cf7d616fb8e8eddabfb8
+2026-01-20T22:45:40.994221+00:00|https://www.nytimes.com/2026/01/20/world/spain-missing-part-undercarriage-key-investigation.html|photographer discovers train part that could hold key to spain train crash us news|51844c821ded90c69cc52f2249208737
+2026-01-20T22:45:41.487950+00:00|https://www.nytimes.com/2026/01/20/nyregion/cursive-new-jersey-schools.html|cursive makes a comeback in new jersey schools us news|fc9a35d0d82a031723ec5d5c87f3d223
