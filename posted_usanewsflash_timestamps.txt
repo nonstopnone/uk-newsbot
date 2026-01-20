@@ -10288,3 +10288,4 @@
 2026-01-20T11:46:22.903807+00:00|https://www.nytimes.com/2026/01/20/us/minnesota-groceries-church-volunteer-ice-trump.html|volunteers in minnesota deliver groceries so immigrants can hide at home us news|0f4502807e86f67e3cffe31590d30c5f
 2026-01-20T11:46:23.474782+00:00|https://www.nytimes.com/2026/01/20/us/politics/trump-falsehoods-fact-check-first-year.html|factchecking trumps misleading claims after one year back in office us news|2b90052aa1d36dd04aa1c7bd69ebe1b5
 2026-01-20T11:46:24.036224+00:00|https://www.nytimes.com/2026/01/20/world/americas/venezuela-prisoner-release.html|a venezuelan political prisoner finally comes home us news|2a532b93140a469ddb2f60ce76a0bd2c
+2026-01-20T11:58:24.071727+00:00|https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html|as spain mourns train crash victims investigators focus on track us news|e33bcb8d820b66e014d3e465d1afca84
