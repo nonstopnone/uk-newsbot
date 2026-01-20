@@ -10293,3 +10293,4 @@
 2026-01-20T13:02:42.138633+00:00|https://www.nbcnews.com/world/greenland/trump-leaks-macron-text-greenland-nato-rutte-europe-davos-rcna254907|trump shares texts from leaders and vows no going back on greenland us news|96bd863e8e06512b654e8743b0696a6e
 2026-01-20T13:52:20.422185+00:00|https://www.nbcnews.com/health/health-news/california-wildfire-smoke-pregnancy-autism-risk-children-rcna254429|california wildfire smoke exposure during pregnancy may be linked to autism risk in children us news|423c41dcfb5ae6a4b8523ffeeb129f53
 2026-01-20T13:52:20.945364+00:00|https://www.nytimes.com/2026/01/20/business/dealbook/trump-davos-tariffs-greenland.html|the trump drama hits davos us news|7714b43c7656164c8a18cd2961869401
+2026-01-20T14:58:09.742745+00:00|https://www.nbcnews.com/business/markets/stock-market-trump-tariffs-greenland-rcna254918|global markets drop sharply as trump reignites fears of a trade war over greenland us news|e84346cfd9c110f8c00b891e94630813
