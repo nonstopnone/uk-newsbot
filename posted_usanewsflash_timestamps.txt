@@ -10299,3 +10299,6 @@
 2026-01-20T16:16:59.904988+00:00|https://www.nytimes.com/2026/01/20/world/europe/davos-trump-europe.html|trump heckles europe before heading to davos us news|46196134d2d23a39065e5210209d495b
 2026-01-20T16:17:00.393555+00:00|https://www.nytimes.com/2026/01/20/world/middleeast/syria-isis-camp-al-hol-kurds.html|chaos as kurdishled forces stop guarding camp for isis families us news|be90db4cd574bae8b2d53e03a8c3804a
 2026-01-20T16:17:00.820316+00:00|https://www.nytimes.com/2026/01/20/us/politics/bessent-powell-supreme-court-fed.html|bessent attended a supreme court argument now hes telling powell not to us news|59fe4a3fe59e6db5a62c9ee7a0ac2aa6
+2026-01-20T17:00:25.723652+00:00|https://www.nbcnews.com/world/middle-east/isis-us-allies-syria-terrorism-al-hol-sdf-sharaa-rcna254930|us allies abandon huge isis camp amid fighting with syrian government us news|b3fdfe2fe14b37df74dae9471df71dd4
+2026-01-20T17:00:26.408930+00:00|https://www.nytimes.com/2026/01/20/us/mississippi-beth-israel-temple-judaism.html|mississippi temple says there is more to its story than facing hate us news|de295cec2a122c54be652522c141b921
+2026-01-20T17:00:27.244452+00:00|https://www.nytimes.com/2026/01/20/us/california-billionaires-wealth-tax.html|what to know about californias proposed wealth tax on billionaires us news|f0a27287a575228dfa1ad9ebae84e9ef
