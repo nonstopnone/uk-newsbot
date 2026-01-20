@@ -10332,3 +10332,4 @@
 2026-01-20T22:45:40.433156+00:00|https://www.nytimes.com/2026/01/20/us/politics/california-supreme-court-congressional-map.html|california republicans ask supreme court to block new congressional map us news|d35e114b78d5cf7d616fb8e8eddabfb8
 2026-01-20T22:45:40.994221+00:00|https://www.nytimes.com/2026/01/20/world/spain-missing-part-undercarriage-key-investigation.html|photographer discovers train part that could hold key to spain train crash us news|51844c821ded90c69cc52f2249208737
 2026-01-20T22:45:41.487950+00:00|https://www.nytimes.com/2026/01/20/nyregion/cursive-new-jersey-schools.html|cursive makes a comeback in new jersey schools us news|fc9a35d0d82a031723ec5d5c87f3d223
+2026-01-20T22:57:28.310906+00:00|https://www.nytimes.com/2026/01/20/us/politics/cia-operation-venezuela.html|cias new focus on latin america reflected in raid to seize maduro us news|1c71dea9ef202d3227549e34efaa040d
