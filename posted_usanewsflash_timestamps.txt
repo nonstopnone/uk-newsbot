@@ -10266,3 +10266,5 @@
 2026-01-20T02:08:42.642456+00:00|https://www.bbc.com/news/videos/cly9kdklzrlo|over a hundred vehicles pile up on motorway after crash us news|082b4d7dd61eff585f5e4d3ff899f964
 2026-01-20T02:08:43.624689+00:00|https://www.nytimes.com/2026/01/19/us/minnesota-ice-lawsuit-trump-administration.html|trump administration asks judge to reject minnesotas call to block ice surge us news|0bbaa8e84696ab6a155055f734312ddb
 2026-01-20T02:08:44.304347+00:00|https://abcnews.go.com/US/ice-detainee-dies-presumed-suicide-texas-detention-facility/story|ice detainee dies of presumed suicide at texas detention facility agency says us news|89354b081d708bdec235c2558401d026
+2026-01-20T03:51:10.185431+00:00|https://www.nytimes.com/2026/01/19/world/americas/death-toll-rises-in-guatemalan-gang-riots.html|death toll rises in guatemalan gang riots us news|ff80de1b91c8a97b7c331528aeec9ab1
+2026-01-20T03:51:10.881899+00:00|https://www.nbcnews.com/video/shorts/secretary-rubio-shares-his-indiana-vs-miami-prediction-256224837878|secretary rubio shares his indiana vs miami prediction us news|1d09d73ed2551b78fddd5e0bb54425c1
