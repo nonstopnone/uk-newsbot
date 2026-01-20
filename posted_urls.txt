@@ -389,3 +389,6 @@
 2026-01-20T03:56:39.859967+00:00|https://www.bbc.com/news/articles/cgl8gd5wkzjo|suspected cases of avian flu found in rivers swans|242ff0aedb5b505ec154f199bee4403e
 2026-01-20T04:52:43.031273+00:00|https://www.bbc.com/news/articles/c0q4pj5j729o|northern lights illuminate uk skies in hues of pink and green|97be46948dd37c0d04b34cb345988858
 2026-01-20T04:52:48.759611+00:00|https://news.sky.com/story/government-warned-of-potentially-catastrophic-legal-challenge-over-chinese-embassy-13496443|government warned of potentially catastrophic legal challenge over chinese embassy|4aa1f956d760071a81be1057e003c929
+2026-01-20T06:52:54.792596+00:00|https://www.bbc.com/news/articles/cy8yvl082y4o|confessions of double murderer to be heard for first time|5f409aa6a3483a479ac29a8aa11a120c
+2026-01-20T06:53:00.272469+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/napkins-for-bandages-how-doctors-survived-el-fasher-siege|napkins for bandages how 11 doctors survived the siege of el fasher|27b27034d53d40e4329ef74354f931a4
+2026-01-20T06:53:05.726591+00:00|https://www.bbc.com/news/articles/cgl8y9834dno|dads been in hospital mortuary for 15 months and will stay until we get answers|05bab4535afa9ab07c71d19c0fb5e4ce
