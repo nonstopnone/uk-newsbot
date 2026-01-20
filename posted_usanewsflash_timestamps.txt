@@ -10269,3 +10269,4 @@
 2026-01-20T03:51:10.185431+00:00|https://www.nytimes.com/2026/01/19/world/americas/death-toll-rises-in-guatemalan-gang-riots.html|death toll rises in guatemalan gang riots us news|ff80de1b91c8a97b7c331528aeec9ab1
 2026-01-20T03:51:10.881899+00:00|https://www.nbcnews.com/video/shorts/secretary-rubio-shares-his-indiana-vs-miami-prediction-256224837878|secretary rubio shares his indiana vs miami prediction us news|1d09d73ed2551b78fddd5e0bb54425c1
 2026-01-20T05:04:20.393750+00:00|https://www.nytimes.com/2026/01/19/us/politics/trump-mlk-day-proclamation.html|trump issues mlk day proclamation after criticism us news|0ca3e366ce2303a0d69044fd8aded71a
+2026-01-20T06:00:46.272226+00:00|https://www.nytimes.com/2026/01/20/world/asia/china-ocean-flower-island-real-estate.html|the chinese island where dreams of real estate glory never die us news|dbcaca91d2cb4c90b90c826d75f91ebc
