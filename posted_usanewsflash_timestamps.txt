@@ -10302,3 +10302,6 @@
 2026-01-20T17:00:25.723652+00:00|https://www.nbcnews.com/world/middle-east/isis-us-allies-syria-terrorism-al-hol-sdf-sharaa-rcna254930|us allies abandon huge isis camp amid fighting with syrian government us news|b3fdfe2fe14b37df74dae9471df71dd4
 2026-01-20T17:00:26.408930+00:00|https://www.nytimes.com/2026/01/20/us/mississippi-beth-israel-temple-judaism.html|mississippi temple says there is more to its story than facing hate us news|de295cec2a122c54be652522c141b921
 2026-01-20T17:00:27.244452+00:00|https://www.nytimes.com/2026/01/20/us/california-billionaires-wealth-tax.html|what to know about californias proposed wealth tax on billionaires us news|f0a27287a575228dfa1ad9ebae84e9ef
+2026-01-20T17:35:51.626530+00:00|https://www.bbc.com/news/articles/c0mkp021rvro|uk defends chagos deal after trump calls it act of great stupidity us news|b44d5ba0df1f7e36e9aee5b895bc59a9
+2026-01-20T17:35:52.312177+00:00|https://www.nbcnews.com/politics/trump-administration/trumps-approval-rating-takes-hit-first-year-back-office-rcna253192|trumps approval rating takes a hit in his first year back in office us news|7c5cb73683a21761ab2e8d231c9a6f37
+2026-01-20T17:35:53.026145+00:00|https://www.nytimes.com/2026/01/20/us/politics/judges-seek-to-fill-top-prosecutor-job-in-virginia.html|judges seek to fill top prosecutor job in virginia us news|1a54d5b5a933f45b1139d2def544a6ea
