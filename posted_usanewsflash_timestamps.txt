@@ -10318,3 +10318,7 @@
 2026-01-20T20:55:10.434133+00:00|https://www.nbcnews.com/video/trump-ice-is-going-to-make-mistakes-sometimes-256269381527|trump admits ice is going to make mistakes sometimes us news|79f72f70148e1c914ce787f07edf17c6
 2026-01-20T20:55:10.940691+00:00|https://www.nytimes.com/2026/01/20/us/ice-minnesota-police-axel-henry.html|minnesota police leaders criticize federal tactics in ice surge us news|5db1bfee4ef5558a3f7c9836f9243f48
 2026-01-20T20:55:11.467339+00:00|https://www.nytimes.com/2026/01/20/arts/music/met-opera-budget-cuts.html|despite drastic financial steps met opera turns to layoffs and cuts us news|3f0dc8cd9ab41f7e41eb4a396de13afc
+2026-01-20T21:14:01.838132+00:00|https://www.bbc.com/news/articles/cx2lej7d52po|analysis trump is shaking the world order more than any president since ww2 us news|8d07500e7a6fad4edebf3149cc269745
+2026-01-20T21:14:02.303578+00:00|https://www.nytimes.com/2026/01/20/us/politics/comer-clinton-interview-epstein.html|comer rejects clinton interview on epstein setting up contempt vote us news|07e699b21f8a511539f3b15fccb37251
+2026-01-20T21:14:02.774329+00:00|https://www.nytimes.com/2026/01/20/books/review/bernie-goetz-subway-heather-ann-thompson-elliot-williams.html|were still talking about bernie goetz after all these years us news|253fa6045bba5420dd32916ca6e235ad
+2026-01-20T21:14:03.224383+00:00|https://www.nytimes.com/2026/01/20/nyregion/phil-murphy-immigration-new-jersey.html|in final hours as governor murphy vetoes 2 immigrant rights bills us news|6b8ccee929522a05408b47479796861a
