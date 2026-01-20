@@ -1,8 +1,3 @@
-2026-01-13T22:51:34.698314+00:00|https://www.bbc.com/news/articles/c98p4214577o|quicker action would have stopped grok ai deepfakes victim says|24e848d4690a8fe99c4606b2fe7e12d7
-2026-01-13T22:51:45.285285+00:00|https://www.bbc.com/news/articles/c20dw4yrxnlo|government sets out plans for north of england rail investment|dd325e0e75507d7b147680f220e65401
-2026-01-13T22:51:55.814851+00:00|https://news.sky.com/story/new-birmingham-to-manchester-rail-line-to-be-built-but-govt-provides-no-timeline-13493926|new birmingham to manchester rail line to be built but govt provides no timeline|5d522b6bfdf8ba6e03abf45ec30015c8
-2026-01-13T23:26:03.650617+00:00|https://www.telegraph.co.uk/football/2026/01/13/newcastle-vs-man-city-live-score-latest-carabao-cup-semi|semenyo stars in win over newcastle after city benefit from rule change|0c5b9ced50885b2481fb3f4f518231d0
-2026-01-13T23:26:14.229852+00:00|https://news.sky.com/story/theres-still-a-long-way-to-go-inside-the-home-offices-crackdown-on-illegal-migration-13493970|theres still a long way to go inside the home offices crackdown on illegal migration|32e5495e7a10224dd750f9a3f71ba535
 2026-01-14T02:29:53.107209+00:00|https://www.bbc.com/news/articles/c23e523452vo|who are the winners and losers from the scottish budget|09233ebcb9fbd5fb1055166f9ea52394
 2026-01-14T02:30:03.631244+00:00|https://www.bbc.com/news/articles/c23e523452vo|who are the winners and losers from the scottish budget|09233ebcb9fbd5fb1055166f9ea52394
 2026-01-14T02:30:14.246870+00:00|https://www.bbc.com/news/articles/cwyegp0dnq9o|university application deadline is today how much does a degree cost|ba36520a72a4ad78f40942dbc654c038
@@ -373,3 +368,6 @@
 2026-01-20T21:30:38.720696+00:00|https://news.sky.com/story/man-killed-baby-stepson-while-full-of-rage-after-row-with-ex-court-hears-13496792|man killed baby stepson while full of rage after row with ex court hears|2d84c90db819bbd49bb8ce92725a4751
 2026-01-20T22:29:53.145703+00:00|https://www.telegraph.co.uk/football/2026/01/20/inter-milan-vs-arsenal-live-score-latest-champions-league|jesus and gyokeres maintain arsenals perfect champions league record with win over inter milan|7b6bb4b14b1936350d8f229cfd43c612
 2026-01-20T22:48:33.682661+00:00|https://www.bbc.com/news/articles/ckgj7me00p0o|uk households to get £15bn for solar and green tech to lower energy bills|f283c83d00f5125e3a06c751ef30d288
+2026-01-20T23:30:15.303594+00:00|https://www.bbc.com/news/articles/c931ng11x4ro|river of waste visible for miles dumped at mountain beauty spot|0a09754a569cfa56ed2a4752416bddff
+2026-01-20T23:30:20.899570+00:00|https://www.telegraph.co.uk/football/2026/01/20/tottenham-vs-dortmund-live-score-lineups-latest-updates-ucl|frank pulls himself back from brink in hope spurs resurrection has begun|ee1f9d6d164a47d5ce52835cc480989c
+2026-01-20T23:30:26.527890+00:00|https://www.bbc.com/news/articles/cp9j0p1v247o|mum demands answers over son found dead with stab wounds in a home office flat|56e8a592663aceaffeb541825f383a8b
