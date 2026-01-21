@@ -10411,3 +10411,5 @@
 2026-01-21T22:11:38.316547+00:00|https://www.nytimes.com/2026/01/21/us/politics/military-police-alert-minneapolis.html|military police troops put on alert for possible deployment to minnesota us news|bf849b33b94a4f438e8c314a12c9ff28
 2026-01-21T22:11:39.040718+00:00|https://www.nytimes.com/2026/01/21/us/los-angeles-shooting-ice.html|federal agent fires gun during immigration operation in la area officials say us news|e876a4f1b3f53ebb63890470c0ce8e4d
 2026-01-21T22:11:39.697271+00:00|https://www.nytimes.com/2026/01/21/us/barbara-aronstein-black-dead.html|barbara aronstein black a first as a law school dean dies at 92 us news|1a03df976d83c0c51be0dec216a78418
+2026-01-21T22:44:43.510855+00:00|https://www.bbc.com/news/articles/cgezx40r7d7o|trump drops tariffs threat over greenland after nato talks us news|6d294794d45da0c944599bb1b868030e
+2026-01-21T22:44:44.017948+00:00|https://www.nytimes.com/2026/01/21/us/austin-thompson-shooting-guilty-plea.html|austin thompson pleads guilty in north carolina shooting that left 5 dead us news|68a21c665fdcffc45f72946ec4aab250
