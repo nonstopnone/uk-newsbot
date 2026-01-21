@@ -10393,3 +10393,6 @@
 2026-01-21T19:06:28.834482+00:00|https://www.nytimes.com/2026/01/21/world/middleeast/us-pivot-in-syria-leaves-an-old-ally-in-the-lurch.html|us pivot in syria leaves an old ally in the lurch us news|330a99266b84de265219bc186f6295f2
 2026-01-21T19:06:29.264980+00:00|https://www.nytimes.com/2026/01/21/nyregion/zohran-mamdani-jessica-tisch-nypd.html|shes a billionaire hes a socialist can they get along us news|dff13ab84ea04590ee2147905bd96716
 2026-01-21T19:06:29.735069+00:00|https://www.nbcnews.com/video/shorts/video-shows-storm-surge-flood-restaurant-in-sicily-256331333830|video shows storm surge flood restaurant in sicily us news|f66e094da201c9fb151fcc565f887508
+2026-01-21T19:39:49.370364+00:00|https://www.nbcnews.com/news/us-news/north-carolina-woman-accused-poisoning-killing-daughter-rcna255216|north carolina woman accused of poisoning killing daughter us news|b65410dd7664ae48b5820122758c5307
+2026-01-21T19:39:50.283334+00:00|https://www.nytimes.com/2026/01/21/us/politics/fact-check-trump-davos-speech.html|factchecking president trumps davos speech us news|fdf15d7f0142359f3c5cfad6eabdd876
+2026-01-21T19:39:50.900757+00:00|https://www.nbcnews.com/video/shorts/white-house-bunker-to-be-rebuilt-and-upgraded-256328261885|white house bunker to be rebuilt and upgraded us news|e8e2d42053b68658b079e0900bf55ea0
