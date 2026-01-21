@@ -10362,3 +10362,5 @@
 2026-01-21T11:11:57.121754+00:00|https://www.nbcnews.com/politics/congress/democratic-lawmaker-bill-crippling-dhs-detain-immigrants-rcna254998|democratic lawmaker to introduce bill to cripple dhs ability to detain immigrants us news|de99b18d609c6f0c55060f4b860e6a31
 2026-01-21T11:11:57.609909+00:00|https://www.nytimes.com/2026/01/21/us/politics/supreme-court-trump-fed-cook.html|supreme court considers trumps attempt to fire fed governor lisa cook us news|03738caf71c9be7ad7013ccad0a8ebbf
 2026-01-21T11:11:58.117080+00:00|https://www.nytimes.com/2026/01/21/world/americas/in-latin-america-loathing-of-maduro-smothers-outcry-over-us-raid.html|majority of latin americans endorsed trumps intervention in venezuela polls show us news|0defc252ac95e8f77a2cc54020c2f826
+2026-01-21T11:35:25.512692+00:00|https://www.bbc.com/news/articles/c701rvrpjwko|could us congress stop trump from taking over greenland us news|a379f66744ca22653955569c2c1b4d31
+2026-01-21T11:35:26.039171+00:00|https://www.nytimes.com/2026/01/21/us/politics/trump-higher-education-2025.html|inside trumps campaign to tame higher education us news|4ef996145b2bdec687e7fad566dd71b7
