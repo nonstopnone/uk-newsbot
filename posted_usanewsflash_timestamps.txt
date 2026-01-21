@@ -10408,3 +10408,6 @@
 2026-01-21T21:33:28.238538+00:00|https://abcnews.go.com/Politics/trump-stands-nato-tariff-threat-citing-framework-deal/story|trump stands down on nato tariff threat citing framework for a deal on greenland us news|97683bae7c766326deae6c49bcef1770
 2026-01-21T21:53:12.283683+00:00|https://www.bbc.com/news/articles/ckgxxw0wx44o|congressional committee votes to hold clintons in contempt over epstein subpoena us news|feb9dee1de1154cd961f9ddabd0bb975
 2026-01-21T21:53:12.762337+00:00|https://www.nbcnews.com/video/shorts/nato-s-rutte-reassures-trump-of-support-during-conflict-256337477860|natos rutte reassures trump of support during conflict us news|dc2943ec66dd631eb41212e15def4fa7
+2026-01-21T22:11:38.316547+00:00|https://www.nytimes.com/2026/01/21/us/politics/military-police-alert-minneapolis.html|military police troops put on alert for possible deployment to minnesota us news|bf849b33b94a4f438e8c314a12c9ff28
+2026-01-21T22:11:39.040718+00:00|https://www.nytimes.com/2026/01/21/us/los-angeles-shooting-ice.html|federal agent fires gun during immigration operation in la area officials say us news|e876a4f1b3f53ebb63890470c0ce8e4d
+2026-01-21T22:11:39.697271+00:00|https://www.nytimes.com/2026/01/21/us/barbara-aronstein-black-dead.html|barbara aronstein black a first as a law school dean dies at 92 us news|1a03df976d83c0c51be0dec216a78418
