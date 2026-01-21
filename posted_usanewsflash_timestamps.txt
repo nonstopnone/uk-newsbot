@@ -10414,3 +10414,5 @@
 2026-01-21T22:44:43.510855+00:00|https://www.bbc.com/news/articles/cgezx40r7d7o|trump drops tariffs threat over greenland after nato talks us news|6d294794d45da0c944599bb1b868030e
 2026-01-21T22:44:44.017948+00:00|https://www.nytimes.com/2026/01/21/us/austin-thompson-shooting-guilty-plea.html|austin thompson pleads guilty in north carolina shooting that left 5 dead us news|68a21c665fdcffc45f72946ec4aab250
 2026-01-21T23:02:12.949857+00:00|https://www.nbcnews.com/news/us-news/st-paul-mayor-hmong-american-kaohly-her-immigration-arrests-rcna255174|st paul mayor a hmong american said it was heartbreaking to see man taken by immigration agents us news|0f0feff6ff0593c65592647158818d94
+2026-01-21T23:50:57.781468+00:00|https://www.nytimes.com/2026/01/21/nyregion/redistricting-congress-new-york.html|judge rules for democrats in push to redraw nyc house district us news|270927c6f42ecad429be57d34baf68c2
+2026-01-21T23:50:58.425858+00:00|https://www.nytimes.com/2026/01/21/briefing/trump-greenland-davos-supreme-court-fed.html|trump said he reached a deal over the future of greenland us news|5f05db0ef7a9a2b49dc26d02753c3345
