@@ -10364,3 +10364,8 @@
 2026-01-21T11:11:58.117080+00:00|https://www.nytimes.com/2026/01/21/world/americas/in-latin-america-loathing-of-maduro-smothers-outcry-over-us-raid.html|majority of latin americans endorsed trumps intervention in venezuela polls show us news|0defc252ac95e8f77a2cc54020c2f826
 2026-01-21T11:35:25.512692+00:00|https://www.bbc.com/news/articles/c701rvrpjwko|could us congress stop trump from taking over greenland us news|a379f66744ca22653955569c2c1b4d31
 2026-01-21T11:35:26.039171+00:00|https://www.nytimes.com/2026/01/21/us/politics/trump-higher-education-2025.html|inside trumps campaign to tame higher education us news|4ef996145b2bdec687e7fad566dd71b7
+2026-01-21T13:01:57.550461+00:00|https://www.bbc.com/news/articles/cn8jek4vv8ko|israeli pm netanyahu agrees to join trumps board of peace us news|f86d9b0577c7b1b1f6acb34b404ac55e
+2026-01-21T13:01:58.337267+00:00|https://www.today.com/video/trump-arrives-in-davos-as-tensions-run-high-over-greenland-256307781841|trump arrives in davos as tensions run high over greenland us news|fdd30f50169514b00c54ee1c575585ed
+2026-01-21T13:01:59.020254+00:00|https://www.nytimes.com/2026/01/21/briefing/trump-first-year-back.html|trump 20 us news|4408ae468fa9bb531a6847ad9c991064
+2026-01-21T13:01:59.674417+00:00|https://abcnews.go.com/US/video/city-mourns-rare-albino-alligator-129411906|watch city mourns its rare albino alligator us news|feec2c362488e9b0a824b06a1568f7eb
+2026-01-21T13:02:00.367342+00:00|https://abcnews.go.com/US/video/tiktoker-lands-big-break-jingle-tv-commercial-129412485|watch tiktoker lands big break with jingle for tv commercial us news|573f575b46f649b89f118e33cef88092
