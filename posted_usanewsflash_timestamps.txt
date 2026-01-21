@@ -10396,3 +10396,8 @@
 2026-01-21T19:39:49.370364+00:00|https://www.nbcnews.com/news/us-news/north-carolina-woman-accused-poisoning-killing-daughter-rcna255216|north carolina woman accused of poisoning killing daughter us news|b65410dd7664ae48b5820122758c5307
 2026-01-21T19:39:50.283334+00:00|https://www.nytimes.com/2026/01/21/us/politics/fact-check-trump-davos-speech.html|factchecking president trumps davos speech us news|fdf15d7f0142359f3c5cfad6eabdd876
 2026-01-21T19:39:50.900757+00:00|https://www.nbcnews.com/video/shorts/white-house-bunker-to-be-rebuilt-and-upgraded-256328261885|white house bunker to be rebuilt and upgraded us news|e8e2d42053b68658b079e0900bf55ea0
+2026-01-21T20:57:05.812491+00:00|https://www.bbc.com/news/articles/c301jgd1qj6o|factchecking trumps davos speech us news|fca268c8a65c7502dfdd891906abbee7
+2026-01-21T20:57:06.341489+00:00|https://www.bbc.com/news/articles/cr7jlylp5keo|ghislaine maxwell to testify before us congress in epstein probe us news|97a5309e2ab8c2d8dbc720999c07d679
+2026-01-21T20:57:06.923534+00:00|https://www.bbc.com/news/articles/cm24vjvy3n1o|faisal islam what it was like inside the room with donald trump at davos us news|34abd6ec1a72f5cd85d4321f577f9a93
+2026-01-21T20:57:07.472105+00:00|https://www.bbc.com/news/articles/clymd0d8zvyo|canada lives because of us trump digs at carney in davos speech us news|8f0e1b39044183d3bb29d6388b10aa4f
+2026-01-21T20:57:07.991009+00:00|https://www.nytimes.com/2026/01/21/us/politics/rahm-emanuel-age-limit-75.html|rahm emanuel calls for age limit of 75 for president congress and judges us news|efb3a4be987b2f46921f24772e8b9e84
