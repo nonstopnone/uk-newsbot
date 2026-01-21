@@ -1,5 +1,3 @@
-2026-01-14T06:48:56.370191+00:00|https://www.bbc.com/news/articles/cly52nw0228o|we feel abandoned rural group to bring hospital campaign to stormont|59fcedf05274839f7112c9d7e410031a
-2026-01-14T06:49:07.002442+00:00|https://www.bbc.com/news/articles/c3dm1vd2xz5o|chef not embarrassed by onestar hygiene rating at michelinstarred restaurant|2e0841be97a98c2123d14586e011838e
 2026-01-14T07:32:47.229762+00:00|https://www.bbc.com/news/articles/cn9zyx150xdo|uk secures record supply of offshore wind|e07f10862501f7b6fc580794474f7801
 2026-01-14T07:32:57.740390+00:00|https://www.bbc.com/news/articles/c14regjvk6no|chris mason the climbdowns stack up for starmer|89af9a460e2475e8e0915a543cd5a946
 2026-01-14T07:33:08.159625+00:00|https://news.sky.com/story/one-u-turn-ever-three-months-a-closer-look-at-labours-rowbacks-in-office-13493934|one uturn every three months a closer look at labours rowbacks in office|cb0a4981d2f9f7febc2bcf83b4376ca0
@@ -377,3 +375,4 @@
 2026-01-21T04:51:40.907967+00:00|https://news.sky.com/story/how-an-increasing-number-of-people-are-trying-to-cheat-on-their-driving-tests-13496922|man impersonated learners 12 times at driving test centres|e226d7a02b058f787ef392406e76af85
 2026-01-21T04:51:46.510261+00:00|https://www.bbc.com/news/articles/c620lvz95pvo|catherine and william try curling in stirling|c4b26ad3862fa3beba00e16e2c77e14a
 2026-01-21T05:35:32.531801+00:00|https://news.sky.com/story/children-could-be-screened-for-diabetes-in-nhs-clinics-after-landmark-study-13496926|children could be screened for diabetes after landmark study|9e3ddc83fc18ce09df1dbe3fe8f07d9b
+2026-01-21T06:52:41.736262+00:00|https://news.sky.com/story/man-who-killed-former-japanese-prime-minister-shinzo-abe-jailed-for-life-13496930|man who killed former japanese pm shinzo abe jailed for life|a5410af821b49a0b591617f2784d301f
