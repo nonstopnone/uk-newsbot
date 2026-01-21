@@ -1,4 +1,3 @@
-2026-01-14T05:33:49.876815+00:00|https://news.sky.com/story/at-least-12-dead-after-crane-falls-on-to-train-in-thailand-13494021|at least 12 dead after crane falls on to train in thailand|2630b17f216da2833745bee097a8276f
 2026-01-14T06:48:56.370191+00:00|https://www.bbc.com/news/articles/cly52nw0228o|we feel abandoned rural group to bring hospital campaign to stormont|59fcedf05274839f7112c9d7e410031a
 2026-01-14T06:49:07.002442+00:00|https://www.bbc.com/news/articles/c3dm1vd2xz5o|chef not embarrassed by onestar hygiene rating at michelinstarred restaurant|2e0841be97a98c2123d14586e011838e
 2026-01-14T07:32:47.229762+00:00|https://www.bbc.com/news/articles/cn9zyx150xdo|uk secures record supply of offshore wind|e07f10862501f7b6fc580794474f7801
@@ -377,3 +376,4 @@
 2026-01-21T03:56:08.719005+00:00|https://www.bbc.com/news/articles/c8x919v8g19o|plans for huge wind farm paused over unfair grid charges|65f7837f024d40be9cfff89b11b6c65d
 2026-01-21T04:51:40.907967+00:00|https://news.sky.com/story/how-an-increasing-number-of-people-are-trying-to-cheat-on-their-driving-tests-13496922|man impersonated learners 12 times at driving test centres|e226d7a02b058f787ef392406e76af85
 2026-01-21T04:51:46.510261+00:00|https://www.bbc.com/news/articles/c620lvz95pvo|catherine and william try curling in stirling|c4b26ad3862fa3beba00e16e2c77e14a
+2026-01-21T05:35:32.531801+00:00|https://news.sky.com/story/children-could-be-screened-for-diabetes-in-nhs-clinics-after-landmark-study-13496926|children could be screened for diabetes after landmark study|9e3ddc83fc18ce09df1dbe3fe8f07d9b
