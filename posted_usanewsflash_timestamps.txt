@@ -10344,3 +10344,5 @@
 2026-01-21T03:50:59.483273+00:00|https://abcnews.go.com/Politics/year-jan-6-rioters-emboldened-trumps-pardons/story|a year later some jan 6 rioters are emboldened by trumps pardons us news|846ce5d4cdb2e3cefdfc85302d96466a
 2026-01-21T03:50:59.961395+00:00|https://www.nytimes.com/2026/01/20/us/politics/trump-europe-tensions-greenland.html|trump escalates tensions with european allies with greenland and gaza efforts us news|ef506f060fd0df0578017936f5bdba08
 2026-01-21T03:51:00.427134+00:00|https://www.nytimes.com/2026/01/20/world/europe/train-crash-catalonia-spain.html|another train crash in spain kills 1 and hurts 37 officials say us news|8d41a13f2c594df82b89879cb30b398d
+2026-01-21T04:34:53.399557+00:00|https://www.nytimes.com/2026/01/20/us/politics/air-force-one-trump-turn-around.html|air force one turns back after electrical issue us news|95c4065884e4028437bdad064bca03a9
+2026-01-21T04:34:54.055144+00:00|https://www.nytimes.com/2026/01/20/us/ice-shooting-minneapolis-charges.html|in court record official describes assault before ice agent shot man in minneapolis us news|96a5851b5e120e25dda31b4579c97e30
