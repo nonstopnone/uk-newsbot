@@ -10369,3 +10369,6 @@
 2026-01-21T13:01:59.020254+00:00|https://www.nytimes.com/2026/01/21/briefing/trump-first-year-back.html|trump 20 us news|4408ae468fa9bb531a6847ad9c991064
 2026-01-21T13:01:59.674417+00:00|https://abcnews.go.com/US/video/city-mourns-rare-albino-alligator-129411906|watch city mourns its rare albino alligator us news|feec2c362488e9b0a824b06a1568f7eb
 2026-01-21T13:02:00.367342+00:00|https://abcnews.go.com/US/video/tiktoker-lands-big-break-jingle-tv-commercial-129412485|watch tiktoker lands big break with jingle for tv commercial us news|573f575b46f649b89f118e33cef88092
+2026-01-21T13:51:36.385597+00:00|https://www.nytimes.com/2026/01/21/us/politics/michele-tafoya-senate-minnesota.html|michele tafoya announces senate run in minnesota us news|a402045d3f62ccd736e783ea32567df8
+2026-01-21T13:51:36.916865+00:00|https://abcnews.go.com/International/greenland-relegated-stepping-stone-trump-europe-standoff-party/story|greenland relegated to stepping stone in trumpeurope standoff party leader says us news|3edc13ed84a2e94aaebf92594d00c069
+2026-01-21T13:51:37.467307+00:00|https://abcnews.go.com/GMA/News/video/helicopter-crash-caught-camera-129413959|watch helicopter crash caught on camera us news|f0e4cff67cb2e9aed0c14f46c24a7927
