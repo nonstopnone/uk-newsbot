@@ -10462,3 +10462,5 @@
 2026-01-22T18:01:06.202690+00:00|https://www.nytimes.com/2026/01/22/us/minneapolis-ice-crackdown.html|bovino says activists are stalking his federal agents in minneapolis us news|47a56d1fcc8273aced28b2ffba92ed93
 2026-01-22T18:01:06.651457+00:00|https://www.nbcnews.com/news/us-news/fbi-homeland-security-arrest-two-protesters-disrupted-minneapolis-chur-rcna255409|fbi and homeland security arrest two protesters who disrupted minneapolis church service us news|6173257f16feacc3ee8181c9dcd521dc
 2026-01-22T18:44:56.002687+00:00|https://www.bbc.com/news/articles/cg5gg05y0mlo|baron trump called uk police after seeing woman beat up court hears us news|cf15ff3c2f350deed9a4f59c20a2dcf2
+2026-01-22T19:13:28.974911+00:00|https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html|the drama at thinking machines a new ai startup is riveting silicon valley us news|a72d6d49c1ff554f9907f356d2008ac5
+2026-01-22T19:13:29.633970+00:00|https://www.nytimes.com/2026/01/22/nyregion/nyc-nurses-strike-pay-raises.html|nurses in new york city say they deserve $200000 a year heres why us news|9a3ff0bad611ed6c3ec978e7dc8e150b
