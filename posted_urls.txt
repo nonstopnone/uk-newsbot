@@ -1,6 +1,3 @@
-2026-01-15T11:30:23.040332+00:00|https://www.bbc.com/news/articles/cz7y1vq2qq0o|lord malcolm offord named as reform uks first scottish leader|f795049d9b6f0bece2d20c0fb3ed4da3
-2026-01-15T11:30:33.504606+00:00|https://www.bbc.com/news/articles/cz7y1vq2qq0o|lord malcolm offord named as reform uks first scottish leader|f795049d9b6f0bece2d20c0fb3ed4da3
-2026-01-15T11:30:44.001360+00:00|https://news.sky.com/story/ofcom-welcomes-grok-sexualised-image-restrictions-and-says-investigation-ongoing-13494532|ofcom welcomes grok sexualised image restrictions and says investigation ongoing|11fc9fca2151407beca195d75969b472
 2026-01-15T18:22:52.226790+00:00|https://www.telegraph.co.uk/politics/2026/01/15/politics-latest-news-kemi-badenoch-robert-jenrick|robert jenrick defects to reform uk latest|bbda26ca6bb369333543bde0854203d3
 2026-01-15T18:33:36.879081+00:00|https://www.bbc.com/news/articles/c17zwv58x99o|serial rail fare evader faces jail over 112 unpaid tickets|2de63046fa4ea31aaa7b3792c1d5aded
 2026-01-15T18:33:42.347970+00:00|https://news.sky.com/story/senior-conservative-robert-jenrick-defects-to-reform-after-badenoch-sacks-him-13494704|robert jenrick defects to reform after tory leader kemi badenoch sacks him|d590a9d4bb0e7237fee05b10803dbf2d
@@ -370,3 +367,5 @@
 2026-01-22T10:43:26.014375+00:00|https://news.sky.com/story/thousands-more-speeding-cases-could-be-overturned-due-to-faulty-cameras-13497488|thousands more speeding cases could be overturned due to faulty cameras|0499d482d5c3a1e6db3e47694b0a6f90
 2026-01-22T11:02:52.134240+00:00|https://news.sky.com/story/suspected-cable-thief-arrested-as-he-emerged-from-underground-13497479|suspected cable thief arrested as he emerged from underground|cfa2feb9095d046750a95716e5fea1a8
 2026-01-22T11:02:57.679119+00:00|https://www.telegraph.co.uk/recommended/tech/best-laptops-students|the best laptops for students tested by a tech expert and former teacher|03c4ce6903d99129f69e53da2e4f5666
+2026-01-22T11:37:50.545052+00:00|https://news.sky.com/story/we-were-lied-to-demeaned-and-smeared-hospital-inquiry-families-call-for-glasgow-health-board-bosses-to-face-a-reckoning-13497513|hospital inquiry families call for health board bosses to face a reckoning|4dff3a6e7b89dff4c1f289b23ce97457
+2026-01-22T11:37:55.970474+00:00|https://news.sky.com/story/gunman-at-large-in-lake-cargelligo-australia-after-three-people-shot-dead-13497500|gunman at large in australian town after three people shot dead|c3d37315645fa17e6c6138e503efde78
