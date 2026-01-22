@@ -10441,3 +10441,4 @@
 2026-01-22T11:28:05.808729+00:00|https://www.nytimes.com/2026/01/22/magazine/trump-fbi-kash-patel-takeaways.html|takeaways from the times look at kash patels fbi misleading stats mismanagement and meltdowns us news|1e57570dc6fa10431d1a2b6f209d6662
 2026-01-22T11:28:06.281848+00:00|https://www.nytimes.com/2026/01/22/us/minnesota-scene-ice.html|high alert all the time minneapolis sees ice around every corner us news|c7934f391a19c2e386a4141678b73929
 2026-01-22T11:46:27.720360+00:00|https://www.nytimes.com/2026/01/22/climate/park-service-erases-climate-facts-at-fort-sumter-where-the-civil-war-began.html|national park service removes sign on climate change from fort sumter us news|0f006d33efb4ac90c4ec3a16f0257dcb
+2026-01-22T11:58:08.221919+00:00|https://abcnews.go.com/WNT/video/luxury-jewelry-handbags-targeted-new-jersey-california-129436095|watch luxury jewelry handbags targeted in new jersey and california us news|df37f68023d8c8e9b239de3416d0c7c9
