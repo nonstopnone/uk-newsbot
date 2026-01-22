@@ -10464,3 +10464,4 @@
 2026-01-22T18:44:56.002687+00:00|https://www.bbc.com/news/articles/cg5gg05y0mlo|baron trump called uk police after seeing woman beat up court hears us news|cf15ff3c2f350deed9a4f59c20a2dcf2
 2026-01-22T19:13:28.974911+00:00|https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html|the drama at thinking machines a new ai startup is riveting silicon valley us news|a72d6d49c1ff554f9907f356d2008ac5
 2026-01-22T19:13:29.633970+00:00|https://www.nytimes.com/2026/01/22/nyregion/nyc-nurses-strike-pay-raises.html|nurses in new york city say they deserve $200000 a year heres why us news|9a3ff0bad611ed6c3ec978e7dc8e150b
+2026-01-22T19:35:36.517552+00:00|https://www.nytimes.com/2026/01/22/us/politics/amy-klobuchar-minnesota-governor-tim-walz.html|amy klobuchar files papers for run to succeed tim walz as minnesota governor us news|64ebc6ab5574fb7bbcffe7a397e2d2d6
