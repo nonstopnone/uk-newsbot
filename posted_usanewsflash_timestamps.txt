@@ -10454,3 +10454,5 @@
 2026-01-22T16:16:15.715984+00:00|https://www.nytimes.com/2026/01/22/business/consumer-prices-inflation-economy.html|consumer prices rose 28 percent through november 2025 a sign of sticky inflation us news|dab134ad973528cdfc12c91e5bea9349
 2026-01-22T16:16:16.248246+00:00|https://abcnews.go.com/Politics/us-russia-ukraine-hold-trilateral-talks-uae-zelenskyy/story|us russia and ukraine to hold trilateral talks in uae zelenskyy says us news|e8b0bb89346886115ddbdde84f05eac1
 2026-01-22T16:16:16.722362+00:00|https://abcnews.go.com/Politics/video/president-trump-framework-reached-greenland-deal-129457273|watch president trump says framework reached for greenland deal us news|6dd9d57091b3fe21f3f3030b0844bb90
+2026-01-22T17:36:47.196715+00:00|https://www.bbc.com/news/articles/cwyrrqwxpz7o|ice detains 5yearold during minnesota operation us news|68d392f13127e6b7a92527c4a936bd68
+2026-01-22T17:36:47.736434+00:00|https://abcnews.go.com/Politics/video/former-special-counsel-jack-smith-defends-decision-charge-129460902|watch former special counsel jack smith defends decision to charge president trump us news|ca60e58ac0f6f9a5d94a79751ffa62c2
