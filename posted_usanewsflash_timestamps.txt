@@ -10484,3 +10484,8 @@
 2026-01-22T22:49:49.516780+00:00|https://www.bbc.com/news/articles/cn8jj228g2vo|could trumps bid to become peacemakerinchief sideline the struggling un us news|71f783e65216cf77c9f1c00e6ac15e98
 2026-01-22T22:49:50.127614+00:00|https://www.bbc.com/news/articles/cy7mmpljze7o|us unveils plans for new gaza with skyscrapers us news|f347297cf0bb260ab4ba5cee2d86fc32
 2026-01-22T22:49:50.671410+00:00|https://abcnews.go.com/Health/us-officially-exits-world-health-organization-accusing-agency/story|us exits world health organization says agency strayed from core mission us news|aa9cd79eae9ee362e108e706c8145c18
+2026-01-22T23:27:09.694018+00:00|https://www.bbc.com/news/articles/cg7yy9xm1v1o|parts of us may see up to 12 inches of snow with lifethreatening cold air us news|96b17330dc8d8e567718e5326462cfa1
+2026-01-22T23:27:10.369895+00:00|https://www.nytimes.com/2026/01/22/us/gregory-bovino-murder-chicago-trial.html|chicago jury acquits immigrant accused in bovino murderforhire trial us news|979e5750b0d8e32d626acc2cb33074b9
+2026-01-22T23:27:11.005161+00:00|https://www.nbcnews.com/now/video/vance-reacts-to-ice-detainment-of-5-year-old-boy-in-minneapolis-256411717612|vance reacts to ice detainment of 5yearold boy in minneapolis us news|a60a7e6904d59f6265bd6f3051bb9efb
+2026-01-22T23:27:11.594378+00:00|https://abcnews.go.com/Politics/white-house-ballroom-judge-signals-skepticism-trump-administration/story|white house ballroom judge signals skepticism of trump administration arguments us news|0837341b109f255a7559d4c3ce82203b
+2026-01-22T23:27:12.173814+00:00|https://www.nytimes.com/2026/01/22/us/politics/house-spending-package-ice.html|house passes spending package over democratic revolt on ice us news|66fdba932e6d47a29e8d51922983a289
