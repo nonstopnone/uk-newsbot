@@ -10451,3 +10451,6 @@
 2026-01-22T15:37:08.071582+00:00|https://www.nytimes.com/live/2026/01/22/us/trump-davos-news|jack smith testifies before congress on trump investigations us news|4f867820b794e487ed4c8d63eea186d8
 2026-01-22T15:37:08.824655+00:00|https://www.nytimes.com/2026/01/22/us/nekima-levy-armstrong-arrest-minnesota-church.html|protester nekima levy armstrong who interrupted minnesota church service is arrested officials say us news|8d5e4ea9d4ca9fb7a0c5c20ad3d38528
 2026-01-22T15:37:09.481149+00:00|https://www.nytimes.com/2026/01/22/business/europe-trade-trump-bonds.html|the leverage that europe has over the us economy us news|148ba9b073dd136e98d701334a49dc62
+2026-01-22T16:16:15.715984+00:00|https://www.nytimes.com/2026/01/22/business/consumer-prices-inflation-economy.html|consumer prices rose 28 percent through november 2025 a sign of sticky inflation us news|dab134ad973528cdfc12c91e5bea9349
+2026-01-22T16:16:16.248246+00:00|https://abcnews.go.com/Politics/us-russia-ukraine-hold-trilateral-talks-uae-zelenskyy/story|us russia and ukraine to hold trilateral talks in uae zelenskyy says us news|e8b0bb89346886115ddbdde84f05eac1
+2026-01-22T16:16:16.722362+00:00|https://abcnews.go.com/Politics/video/president-trump-framework-reached-greenland-deal-129457273|watch president trump says framework reached for greenland deal us news|6dd9d57091b3fe21f3f3030b0844bb90
