@@ -10442,3 +10442,4 @@
 2026-01-22T11:28:06.281848+00:00|https://www.nytimes.com/2026/01/22/us/minnesota-scene-ice.html|high alert all the time minneapolis sees ice around every corner us news|c7934f391a19c2e386a4141678b73929
 2026-01-22T11:46:27.720360+00:00|https://www.nytimes.com/2026/01/22/climate/park-service-erases-climate-facts-at-fort-sumter-where-the-civil-war-began.html|national park service removes sign on climate change from fort sumter us news|0f006d33efb4ac90c4ec3a16f0257dcb
 2026-01-22T11:58:08.221919+00:00|https://abcnews.go.com/WNT/video/luxury-jewelry-handbags-targeted-new-jersey-california-129436095|watch luxury jewelry handbags targeted in new jersey and california us news|df37f68023d8c8e9b239de3416d0c7c9
+2026-01-22T13:02:34.431221+00:00|https://www.nbcnews.com/world/greenland/trump-greenland-deal-us-control-security-arctic-nato-denmark-rcna255360|trump sought greenland deal that would hand us more control over security us news|293b3e1c78a07d504171f10aaee8c0d8
