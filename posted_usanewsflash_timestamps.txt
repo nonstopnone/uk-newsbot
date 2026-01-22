@@ -10479,3 +10479,8 @@
 2026-01-22T21:59:09.857155+00:00|https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-foreign-policy.html|an emboldened trumps whipsaw approach to the world us news|9582202fc1ce18c4a03edb154d677a18
 2026-01-22T21:59:10.594232+00:00|https://www.nytimes.com/2026/01/22/science/space-junk-seismographs.html|sonic booms and seismic waves can reveal where space junk crashlands us news|dec4ef2a0d18b6a3a43f2367f40ec4f7
 2026-01-22T22:29:11.821103+00:00|https://www.nytimes.com/2026/01/22/us/politics/takeaways-jack-smith-congress-testimony.html|4 takeaways from jack smiths testimony before lawmakers us news|08fa0fbf0be41699e801907f2d71ded8
+2026-01-22T22:49:48.506916+00:00|https://www.bbc.com/news/articles/c9vxxj27nrro|trump engaged in criminal activity jack smith says in capitol hill testimony us news|c98f7771e95c77e5a8d4b04a762b4a3c
+2026-01-22T22:49:48.974750+00:00|https://www.bbc.com/news/articles/czr444j671vo|trump sparks anger over claim nato troops avoided afghanistan front line us news|436fa1687259c624ab204d7a2c001aa3
+2026-01-22T22:49:49.516780+00:00|https://www.bbc.com/news/articles/cn8jj228g2vo|could trumps bid to become peacemakerinchief sideline the struggling un us news|71f783e65216cf77c9f1c00e6ac15e98
+2026-01-22T22:49:50.127614+00:00|https://www.bbc.com/news/articles/cy7mmpljze7o|us unveils plans for new gaza with skyscrapers us news|f347297cf0bb260ab4ba5cee2d86fc32
+2026-01-22T22:49:50.671410+00:00|https://abcnews.go.com/Health/us-officially-exits-world-health-organization-accusing-agency/story|us exits world health organization says agency strayed from core mission us news|aa9cd79eae9ee362e108e706c8145c18
