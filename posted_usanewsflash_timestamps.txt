@@ -10426,3 +10426,4 @@
 2026-01-22T03:59:21.308928+00:00|https://www.nytimes.com/2026/01/21/us/el-paso-ice-detainee-homicide.html|cuban detainee in el paso ice facility died by homicide autopsy shows us news|4580cf645172c160324ddbb68cacd968
 2026-01-22T03:59:21.851807+00:00|https://www.nbcnews.com/nightly-news/video/uvalde-school-officer-found-not-guilty-on-all-counts-256366661556|uvalde school officer found not guilty on all counts us news|3aa6dfde25de3ba0d0fe0095aecfcc2b
 2026-01-22T03:59:22.371721+00:00|https://www.nbcnews.com/video/shorts/border-patrol-officer-injured-during-california-operation-256368709756|border patrol officer injured during california operation us news|608482308e3cf8212bbe902eb1dfde52
+2026-01-22T04:52:58.621951+00:00|https://abcnews.go.com/Politics/video/clintons-contempt-congress-resolutions-advance-house-committee-129438823|watch clintons contempt of congress resolutions advance out of house committee us news|e202925b0a849cf568ffed871b55b740
