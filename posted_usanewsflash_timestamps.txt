@@ -10469,3 +10469,4 @@
 2026-01-22T20:34:48.820928+00:00|https://www.nytimes.com/2026/01/22/business/jpmorgan-trump-lawsuit.html|trump sues jpmorgan for closing his bank accounts for political reasons us news|56e3ed5e65fb5f1be25de9b0169f8c15
 2026-01-22T20:54:02.306538+00:00|https://www.nbcnews.com/now/video/jack-smith-says-he-believes-trump-s-doj-will-try-to-indict-him-256410181624|i will not be intimidated jack smith says he believes doj will try to indict him us news|0cfbe0f1a704b0bb8e10c65409020164
 2026-01-22T20:54:02.807276+00:00|https://www.nytimes.com/2026/01/22/health/fetal-tissue-research-ban-trump-nih.html|trump administration cuts off funding for fetal tissue research again us news|4fb75dd65dfea785b5e36985e11393f8
+2026-01-22T21:13:28.018958+00:00|https://www.bbc.com/news/articles/c2e11m2w2meo|trump sues jpmorgan for $5bn over account closure after capitol riot us news|a15e283a05717520ab5c21dd4839ad2f
