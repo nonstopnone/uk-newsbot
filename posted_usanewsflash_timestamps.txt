@@ -10550,3 +10550,6 @@
 2026-01-23T18:41:46.871279+00:00|https://www.nbcnews.com/now/video/fbi-announces-arrest-of-alleged-drug-kingpin-ryan-wedding-256467013887|fbi announces arrest of alleged drug kingpin ryan wedding us news|4f01d0f3ec679831181766795238a79e
 2026-01-23T19:13:28.500088+00:00|https://www.nytimes.com/2026/01/23/world/europe/trump-greenland-military-bases.html|trump wants to build more us military bases in greenland how many are there now us news|430525d97007e3679a4a43e660c062d8
 2026-01-23T19:13:29.112239+00:00|https://www.nbcnews.com/politics/immigration/ice-entering-homes-judicial-warrants-last-summer-sources-say-rcna255619|ice has been entering homes without judicial warrants since last summer sources say us news|719b70d5d9440d257c48c1f4a4725ec7
+2026-01-23T19:33:18.738617+00:00|https://www.bbc.com/news/articles/c1dk67g4q91o|minnesota holds economic strike to protest ice presence us news|ec08d9a2a864e27e90d05234aa17454f
+2026-01-23T19:33:19.205149+00:00|https://www.nytimes.com/2026/01/23/world/europe/trump-putin-russia-us-greenland.html|trumps push to take greenland holds promise and peril for putin us news|aed2e01098b36f90c1ba65f9741a165d
+2026-01-23T19:33:19.664978+00:00|https://www.nytimes.com/2026/01/23/us/politics/wesley-hunt-texas-vote-house.html|defending his absence in house hunt celebrates casting a vote us news|951cba89bb7606e5e09924e0f164e5d6
