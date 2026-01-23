@@ -1,9 +1,3 @@
-2026-01-16T13:46:45.426268+00:00|https://news.sky.com/story/man-jailed-for-murdering-wife-after-child-revealed-plot-in-rare-retrial-13494754|man jailed for murdering wife after child revealed plot in rare retrial|b66fb1b85b2ac50f5e676ec0479803d6
-2026-01-16T13:46:50.956700+00:00|https://www.bbc.com/news/articles/c301zj60dnno|home office to scrap boris johnsons police staffing grant|75c2f1df7cfae5f8b7b091c18f4563a8
-2026-01-16T13:46:56.456599+00:00|https://news.sky.com/story/south-east-water-restores-supply-to-homes-in-kent-and-sussex-after-weeks-of-chaos-13494929|water finally restored to thousands of homes after week of chaos|13798848039edb17439c656777ac9b09
-2026-01-16T13:47:01.998183+00:00|https://www.bbc.com/news/articles/cedwv7x3j3go|church dioceses failed on safeguarding allegations says regulator|bfeedf6739f6034afa9c79b7efea425c
-2026-01-16T13:47:07.543789+00:00|https://news.sky.com/story/teenager-inspired-by-southport-killer-who-planned-attack-on-oasis-concert-sentenced-13494917|teenager inspired by southport killer who planned attack on oasis concert sentenced|41656b64a4f2b34b0a2fe7c34cae3dcf
-2026-01-16T13:47:12.968875+00:00|https://www.bbc.com/news/articles/c70lxgg0e6yo|hundreds of children placed at risk in unregistered homes for months mps warn|b8c6c77595023191eb8ea05f32826fc3
 2026-01-16T14:31:52.672484+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/baby-wraps-treated-with-insecticide-may-reduce-malaria|baby wraps treated with insecticide could help slash malaria cases say researchers|63504806b5eb9495a3435fa92c7e8258
 2026-01-16T14:31:58.222107+00:00|https://www.bbc.com/news/articles/c4g3l1qn3pwo|court throws out £50m claim over failed bottle return scheme|b53fb4c0c259e1e8b61f33c03c3f2a03
 2026-01-16T14:32:03.929697+00:00|https://news.sky.com/story/royal-navys-first-ever-full-size-self-flying-helicopter-takes-flight-13494992|britains first ever fullsize selfflying helicopter takes to the skies|c33bf1ad19da1861030c58950d2ce767
@@ -366,3 +360,6 @@
 2026-01-23T11:55:47.259861+00:00|https://www.bbc.com/news/articles/c98pn3rep1mo|customers lose thousands as luxury car dealer collapses|055225700ce62c3c3feb7e1081d358ac
 2026-01-23T13:04:23.614653+00:00|https://www.bbc.com/news/articles/c0r44zpprg7o|tesla fined for repeatedly failing to help uk police|f283f46f29f46a85075c6f8e063f4d7f
 2026-01-23T13:04:29.036854+00:00|https://www.bbc.com/news/articles/c7v002q924qo|driver admits killing teen freed from dubai jail|7579ea750510ca7f0b17482b58512442
+2026-01-23T13:54:28.099289+00:00|https://www.bbc.com/news/articles/cy055z0r7ywo|former teacher guilty of indecently assaulting five girls in 1970s|fa55dec50da9544624d2677acc39b946
+2026-01-23T13:54:33.631852+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|49298607e99d7a1950b2a330a9cbb651
+2026-01-23T13:54:39.029133+00:00|https://news.sky.com/story/driver-admits-killing-teenager-who-was-freed-from-dubai-prison-13498011|driver admits killing teenager who was freed from dubai prison|50bd9f8abf2f8d4d5a168597caeeec26
