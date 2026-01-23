@@ -10515,3 +10515,4 @@
 2026-01-23T05:36:56.641374+00:00|https://www.nbcnews.com/video/shorts/federal-judge-may-pause-white-house-ballroom-construction-256439365817|federal judge may pause white house ballroom construction us news|7545ba99ba68101aa3d89245ee9c3cc5
 2026-01-23T05:36:57.277077+00:00|https://www.nytimes.com/2026/01/22/us/politics/trump-rubio-student-speech.html|dhs cited foreign students writings and protests before their arrests us news|b842b2e1a1cb7ad33d88ae28b9077321
 2026-01-23T05:59:16.109415+00:00|https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html|trump rescinds canadas invitation to join his board of peace us news|a2c20e6069c939c99d81bceac9bcea38
+2026-01-23T07:14:43.596609+00:00|https://www.nytimes.com/2026/01/22/us/politics/europe-trump-greenland-tariffs-eu-meeting.html|europes leaders scramble to find a path forward with trump us news|b673b65fb6830a8e97ca8e7bb6d8eb79
