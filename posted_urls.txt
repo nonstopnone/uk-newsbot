@@ -1,6 +1,3 @@
-2026-01-16T15:58:34.075790+00:00|https://www.bbc.com/news/articles/cm2xn9np82vo|wife killer who manipulated child jailed for life|17d6b82fe8b59295f8d64a3a54014205
-2026-01-16T15:58:39.847116+00:00|https://news.sky.com/story/gas-prices-soar-by-40-amid-perfect-storm-of-pressures-13495025|gas prices soar 40 amid perfect storm of pressures|9a652a077e0c287f84e8d43bcd0d7f57
-2026-01-16T15:58:45.322149+00:00|https://www.bbc.com/news/articles/cgl8n7zw0wko|jenrick claims he is uniting the right by defecting to reform uk|df1645be00f5b58d0aaf5934714be9c6
 2026-01-16T16:42:03.187051+00:00|https://www.telegraph.co.uk/recommended/leisure/fitness/best-ski-goggles-sunglasses|the best ski goggles for 2026 reviewed by a ski expert plus the best ski sunglasses|20abcf144781f9191a7346d7c7ee2040
 2026-01-16T16:42:08.732273+00:00|https://news.sky.com/story/former-councillor-jailed-for-20-weeks-for-stalking-dame-penny-mordaunt-13494946|former councillor jailed for 20 weeks for stalking dame penny mordaunt|613720bfa706b0c366c49bf4b76991eb
 2026-01-16T16:42:14.267502+00:00|https://www.telegraph.co.uk/recommended/travel-and-outdoors/rab-downpour-light-waterproof-jacket-review|this ultralightweight waterproof jacket packs down to nearly nothing|90ce9652b735718cf256daf67dcfd95b
@@ -356,3 +353,5 @@
 2026-01-23T15:01:12.104981+00:00|https://news.sky.com/story/paranoid-schizophrenic-who-stabbed-grandmother-to-death-at-bus-stop-detained-indefinitely-13498030|paranoid schizophrenic who stabbed grandmother to death at bus stop detained indefinitely|5796db7b8382059cba2348a077d01f7f
 2026-01-23T15:43:34.422729+00:00|https://www.bbc.com/news/articles/crkrrgp0k5zo|nuclear bunker at mercy of sea after collapsing|77b430e69c4f6a6524a6a1aee217e79d
 2026-01-23T15:43:39.969444+00:00|https://news.sky.com/story/stars-of-fashion-and-film-say-farewell-to-italys-haute-couture-emperor-valentino-13498048|stars of fashion and film say farewell to italys haute couture emperor valentino|bf25f1399b7545716d2cb9966caef735
+2026-01-23T16:01:31.972838+00:00|https://www.bbc.com/news/articles/c4grr3368n3o|man pleads guilty to drugging and raping wife|a9d6db7765b886ab129f01c080c68284
+2026-01-23T16:01:37.429736+00:00|https://www.bbc.com/news/articles/c74vv4ldn7wo|deliberate infection accused told men of hiv|7f9441677b749872f2b0da7edf13a1de
