@@ -367,3 +367,8 @@
 2026-01-22T22:57:40.279756+00:00|https://www.bbc.com/news/articles/cvg553rk7zvo|andy burnham faces tricky run to win labour crown|b1c9b5a90ef16968cec32bc917063b4a
 2026-01-22T23:30:52.144313+00:00|https://www.telegraph.co.uk/football/2026/01/22/braga-vs-nottingham-forest-live-score-latest-europa-league|penalty saved own goal and red card on nightmare night for forest|b68a2d382a6a30314bf6da99de1daf14
 2026-01-22T23:30:57.817275+00:00|https://news.sky.com/story/number-of-police-forces-to-be-slashed-in-largest-reform-in-decades-13497814|number of police forces to be slashed in largest reform for decades|eb673abb29751e5b46a67b3bdeb8ca1f
+2026-01-23T02:20:17.702735+00:00|https://www.bbc.com/news/articles/c1ev4yg1j1lo|hundreds of illegal waste tips operating in england including 11 super sites|e50b8bf92daa8e370b987037158903c7
+2026-01-23T02:20:23.193963+00:00|https://news.sky.com/story/andy-burnham-next-pm-the-big-hurdle-facing-popular-mayor-13497844|andy burnham next pm the big hurdle facing popular mayor|84a4ca3806a717b7a6fba87fb563d395
+2026-01-23T02:20:28.681054+00:00|https://www.bbc.com/news/articles/cd0yyy1g842o|the papers zelenskys fiery davos speech and operation stop burnham|da554aadc7e18ad4d7b6df47b9ce854b
+2026-01-23T02:20:34.076403+00:00|https://news.sky.com/story/harriet-harman-why-labours-shambles-social-media-plan-wont-be-fixed-by-ban-13497710|harriet harman why labours shambles social media plan wont be fixed by ban|b0d9cb916dd358e7dd0c9fc420b55501
+2026-01-23T02:20:39.795196+00:00|https://www.bbc.com/news/articles/c4gll4r6v3eo|former muckamore patient illtreated in another facility committee told|4be6da6010c1a793b78705e48e007e33
