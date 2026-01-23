@@ -10509,3 +10509,5 @@
 2026-01-23T03:49:19.732399+00:00|https://www.nytimes.com/2026/01/22/us/ice-minnesota-inmates.html|ice demands more access to minnesota inmates but its complicated us news|0ef3b95752e8be2bf902edc7aa309b7b
 2026-01-23T03:49:20.254848+00:00|https://www.nbcnews.com/video/shorts/three-people-arrested-over-minnesota-church-protest-256434757932|three people arrested over minnesota church protest us news|078dcc01c311e17185610c15adf7dfa9
 2026-01-23T04:32:24.904549+00:00|https://www.nytimes.com/2026/01/22/weather/new-york-city-snow-forecast.html|new york could see its biggest snowfall in years us news|986ae6328ecd73db3e119a0c5643aeb8
+2026-01-23T05:01:57.646782+00:00|https://www.nytimes.com/2026/01/22/us/politics/park-service-philadelphia-slavery-exhibit.html|national park service dismantles slavery exhibit in philadelphia us news|4bc120c81cb9b3e15013b5c768c18496
+2026-01-23T05:01:58.249668+00:00|https://www.nbcnews.com/tech/security/chatgpt-can-embrace-authoritarian-ideas-just-one-prompt-researchers-sa-rcna255206|chatgpt can embrace authoritarian ideas after just one prompt researchers say us news|9bc82b6da4bf1afe89210e2dac5148cf
