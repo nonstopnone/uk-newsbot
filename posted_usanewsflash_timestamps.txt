@@ -10529,3 +10529,5 @@
 2026-01-23T12:59:44.812525+00:00|https://www.nytimes.com/2026/01/23/us/politics/trump-hand-bruise-aspirin-table.html|trump says he bruised his hand on a table us news|1e6d068f74d615aaefec3298bdf5c603
 2026-01-23T12:59:45.481438+00:00|https://abcnews.go.com/US/video/lake-michigan-covered-pancake-ice-129484449|watch pancake ice blankets lake michigan us news|fcde00947a0e933928a4cfcab012deeb
 2026-01-23T12:59:46.170151+00:00|https://www.nbcnews.com/video/shorts/rhode-island-could-discontinue-mr-potato-head-plates-256446533780|rhode island could discontinue mr potato head plates us news|2fbc0632d5253699f27636b91bc16415
+2026-01-23T13:47:19.086581+00:00|https://abcnews.go.com/International/russia-ukraine-us-set-hold-1st-trilateral-talks/story|russia ukraine and us set to hold 1st trilateral talks since start of war us news|e69d9d65e7395e793378a3ba8995b4c6
+2026-01-23T13:47:19.536818+00:00|https://abcnews.go.com/GMA/Travel/video/big-bends-night-skies-put-celestial-display-129484540|watch big bends night skies put on celestial display us news|5c235094e3492cbce586a9682332d057
