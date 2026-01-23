@@ -10498,3 +10498,8 @@
 2026-01-22T23:57:29.658006+00:00|https://www.nytimes.com/2026/01/22/world/canada/carney-trump-canada-speech.html|mark carney says firmly that canada doesnt live because of the united states us news|09744635f94b7098ccb2c25637ace540
 2026-01-22T23:57:30.224165+00:00|https://www.nytimes.com/2026/01/22/us/liam-detention-ice-minneapolis.html|immigration agents detain 5yearold boy in minnesota prompting outrage us news|f2ad94d96d8e3ec8103fa19f3ba6e617
 2026-01-22T23:57:30.818041+00:00|https://www.nytimes.com/2026/01/22/us/politics/trump-war-powers-house-vote.html|house rejects measure to bar military force in venezuela us news|c41280befb7803fbf5bf7985fed1f243
+2026-01-23T02:08:44.754953+00:00|https://www.nbcnews.com/nightly-news/video/vance-defends-ice-mission-in-minneapolis-256424517931|vance defends ice mission in minneapolis us news|6475a97256cf7e6d716b82faf1f3f8af
+2026-01-23T02:08:45.424923+00:00|https://www.nytimes.com/2026/01/22/us/tommy-lee-walker-dallas-execution-innocent.html|dallas county exonerates black man who was executed in 1956 us news|a780f604a167ab90d8a400d48a300ab3
+2026-01-23T02:08:46.066100+00:00|https://www.nbcnews.com/nightly-news/video/former-special-counsel-jack-smith-testifies-in-fiery-hearing-256427589528|former special counsel jack smith testifies in fiery hearing us news|47a4ea388734fdde2d5c1e66656ecf01
+2026-01-23T02:08:46.768641+00:00|https://www.nbcnews.com/video/u-s-and-china-finalize-tiktok-deal-256421445754|us and china finalize tiktok deal us news|caf388a5181dfb412c8fc412c3dd5d9c
+2026-01-23T02:08:47.465555+00:00|https://www.nytimes.com/2026/01/22/technology/tiktok-deal-oracle-bytedance-china-us.html|tiktok strikes deal to create new us entity and loosen apps ties to china us news|19320a8bd7d6ef5d7dc60595f7720270
