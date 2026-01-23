@@ -10503,3 +10503,8 @@
 2026-01-23T02:08:46.066100+00:00|https://www.nbcnews.com/nightly-news/video/former-special-counsel-jack-smith-testifies-in-fiery-hearing-256427589528|former special counsel jack smith testifies in fiery hearing us news|47a4ea388734fdde2d5c1e66656ecf01
 2026-01-23T02:08:46.768641+00:00|https://www.nbcnews.com/video/u-s-and-china-finalize-tiktok-deal-256421445754|us and china finalize tiktok deal us news|caf388a5181dfb412c8fc412c3dd5d9c
 2026-01-23T02:08:47.465555+00:00|https://www.nytimes.com/2026/01/22/technology/tiktok-deal-oracle-bytedance-china-us.html|tiktok strikes deal to create new us entity and loosen apps ties to china us news|19320a8bd7d6ef5d7dc60595f7720270
+2026-01-23T03:49:18.124388+00:00|https://www.nytimes.com/2026/01/22/business/media/tiktok-investors-oracle-mgx-silver-lake-bytedance.html|heres who just bought tiktok us news|4ca07bc302d11686ffde23b42bbdc040
+2026-01-23T03:49:18.618105+00:00|https://www.nytimes.com/2026/01/22/business/media/tiktok-sold-app-content-algorithm.html|will i have to download a new tiktok app and other big questions about the deal us news|436ea3971afa69b290042dca3c7a8b5e
+2026-01-23T03:49:19.198122+00:00|https://www.nbcnews.com/video/how-gaza-fits-into-trump-s-board-of-peace-256432709987|how gaza fits into trumps board of peace us news|1e6f0a5ff2597cefdeb82f3ed6bf6702
+2026-01-23T03:49:19.732399+00:00|https://www.nytimes.com/2026/01/22/us/ice-minnesota-inmates.html|ice demands more access to minnesota inmates but its complicated us news|0ef3b95752e8be2bf902edc7aa309b7b
+2026-01-23T03:49:20.254848+00:00|https://www.nbcnews.com/video/shorts/three-people-arrested-over-minnesota-church-protest-256434757932|three people arrested over minnesota church protest us news|078dcc01c311e17185610c15adf7dfa9
