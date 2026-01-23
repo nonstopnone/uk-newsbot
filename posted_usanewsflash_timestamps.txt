@@ -10564,3 +10564,7 @@
 2026-01-23T21:44:38.768304+00:00|https://www.nytimes.com/2026/01/23/us/march-for-life-trump-vance.html|at march for life some abortion opponents want more from trump us news|3a6e166ec66d96fed40888a6bdbb7919
 2026-01-23T21:57:25.162232+00:00|https://www.bbc.com/news/videos/c5yd675epx0o|watch three things to know about trumps board of peace us news|b41035211f45014a81b284ee59e4f132
 2026-01-23T21:57:25.722644+00:00|https://www.nbcnews.com/news/us-news/ice-out-rally-minneapolis-immigration-protest-rcna255631|thousands rally against ice in minneapolis amid belowzero temperatures us news|0693116d91b20440e5b15d0117890a34
+2026-01-23T22:24:03.136465+00:00|https://abcnews.go.com/US/philadelphia-sues-trump-admin-removal-memorial-honoring-people/story|philadelphia sues trump admin over removal of slavery memorial us news|15e488d20df8150af3deaaebf7705e83
+2026-01-23T22:24:03.629790+00:00|https://www.nytimes.com/2026/01/23/us/hunter-s-thompson-suicide.html|colorado authorities confirm suicide by hunter s thompson us news|0fe7bc610b2aaafdb56c9fbedc2067ec
+2026-01-23T22:24:04.101408+00:00|https://abcnews.go.com/GMA/Living/video/mattel-celebrates-grandmother-juneteenth-opal-lee-new-barbie-129503342|watch mattel celebrates grandmother of juneteenth opal lee with new barbie doll us news|7586c2d4ca4e6622f45bfb070f9f862a
+2026-01-23T22:24:04.915358+00:00|https://abcnews.go.com/US/video/ran-nj-hardware-store-owner-discusses-salt-demand-129503204|watch we just ran out nj hardware store owner discusses salt demand us news|adadfd859b1d36566d2fc27ad45a615c
