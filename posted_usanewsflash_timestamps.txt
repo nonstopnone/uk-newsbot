@@ -10526,3 +10526,6 @@
 2026-01-23T11:12:16.132974+00:00|https://www.nytimes.com/2026/01/23/nyregion/nyc-nurses-strike-mamdani-hochul.html|after pleas from mamdani and hochul talks resume in nurses strike us news|e6c5e7b7f97e0a27a5350b06912892f5
 2026-01-23T11:12:16.647426+00:00|https://www.nytimes.com/2026/01/23/us/minnesota-businesses-protest-ice.html|enough is enough hundreds of minnesota businesses take stand against ice us news|eb1ae8f36af1ca36f9e9d69fbe44af37
 2026-01-23T11:33:11.943868+00:00|https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html|perus president may be ousted over secret meetings with chinese businessmen us news|df3831f0eb85c8b6452305a4408ebdf4
+2026-01-23T12:59:44.812525+00:00|https://www.nytimes.com/2026/01/23/us/politics/trump-hand-bruise-aspirin-table.html|trump says he bruised his hand on a table us news|1e6d068f74d615aaefec3298bdf5c603
+2026-01-23T12:59:45.481438+00:00|https://abcnews.go.com/US/video/lake-michigan-covered-pancake-ice-129484449|watch pancake ice blankets lake michigan us news|fcde00947a0e933928a4cfcab012deeb
+2026-01-23T12:59:46.170151+00:00|https://www.nbcnews.com/video/shorts/rhode-island-could-discontinue-mr-potato-head-plates-256446533780|rhode island could discontinue mr potato head plates us news|2fbc0632d5253699f27636b91bc16415
