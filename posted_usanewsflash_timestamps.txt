@@ -10572,3 +10572,7 @@
 2026-01-23T23:26:51.323220+00:00|https://www.nytimes.com/2026/01/23/us/fbi-agent-ice-shooting-renee-good.html|fbi agent resigns after trying to investigate ice officer in renee good shooting us news|8b3e0c15d995e7d874c8460217959050
 2026-01-23T23:44:14.304801+00:00|https://www.nytimes.com/2026/01/23/briefing/america-prepares-for-a-major-storm.html|america prepares for a major storm us news|a2f989a43cc4af73d778262f697db909
 2026-01-23T23:44:15.072533+00:00|https://www.nytimes.com/2026/01/23/world/europe/denmark-greenland-prime-minister-trump.html|prime minister mette frederiksen of denmark visits greenland us news|79ab6f3192b613373d44e2820202f3f4
+2026-01-24T02:04:57.710589+00:00|https://www.bbc.com/news/articles/cvgnj7v2rr5o|tiktok us venture to collect precise user location data us news|ab94c261aa0eece5d96f2ee51b6860b5
+2026-01-24T02:04:58.335421+00:00|https://www.nbcnews.com/nightly-news/video/thousands-at-anti-ice-protest-in-minneapolis-256492613569|thousands at antiice protest in minneapolis us news|77baa31f80f4161fcb3be94393537ee0
+2026-01-24T02:04:58.869817+00:00|https://www.nbcnews.com/politics/white-house/exiled-crown-prince-says-can-lead-iran-democracy-trump-hasnt-endorsed-rcna255415|an exiled crown prince says he can lead iran to democracy but trump hasnt endorsed him us news|d538f77022e6a75fe154a7929b3f0732
+2026-01-24T02:04:59.485151+00:00|https://www.nytimes.com/2026/01/23/us/politics/boat-strike-pacific.html|us says first boat strike since maduros capture killed 2 in eastern pacific us news|f6008f4d2da329dfc1c2b31c110f5ea1
