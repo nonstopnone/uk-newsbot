@@ -353,3 +353,4 @@
 2026-01-24T12:55:34.578470+00:00|https://www.bbc.com/news/articles/c17z8pr47llo|man arrested after fire at bungalow|a6c86d092ffaec24fbf90a76fb6f7ffd
 2026-01-24T12:55:40.252357+00:00|https://news.sky.com/story/man-injured-and-six-arrested-after-shooting-in-manchester-city-centre-13498308|man injured and six arrested after manchester city centre shooting|7da1013f4e9a721f6d207ab51ed230fe
 2026-01-24T12:55:45.977779+00:00|https://www.bbc.com/news/articles/c2k98jw3xnxo|labour wants to shake up the police but will that solve everyday crime epidemic|0d4e76e0a8264b3b1744f9ba79153a7e
+2026-01-24T13:36:10.722225+00:00|https://news.sky.com/story/part-of-teignmouth-grand-pier-in-devon-washed-away-during-storm-ingrid-13498323|part of historic pier washed away during storm ingrid|b8222e2634bbf644de0e11f016333238
