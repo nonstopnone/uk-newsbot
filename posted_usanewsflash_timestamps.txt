@@ -10599,3 +10599,6 @@
 2026-01-24T16:31:41.303967+00:00|https://abcnews.go.com/Politics/video/federal-judge-halt-construction-white-house-ballroom-129520846|watch will a federal judge halt construction of the white house ballroom us news|b188f0f4ea68e86f6e231c057aa73a86
 2026-01-24T16:50:07.042275+00:00|https://www.nbcnews.com/news/us-news/minneapolis-investigating-ice-shooting-rcna255733|federal agents shoot person in minnesota governor says us news|20ea26fd6f214278f4c4332d0792c6c8
 2026-01-24T16:50:07.709841+00:00|https://www.nytimes.com/video/climate/100000010658848/setting-foot-on-the-melting-thwaites-glacier.html|setting foot on the melting thwaites glacier us news|71992e00d56447296484354613ebe73a
+2026-01-24T17:23:13.411933+00:00|https://www.bbc.com/news/articles/cy4qww3w72lo|trump threatens canada with 100 tariffs over china trade deal us news|47b60abda598c9778002e9e8180234a7
+2026-01-24T17:23:13.962571+00:00|https://www.nbcnews.com/video/video-appears-to-show-shooting-involving-federal-agents-in-minneapolis-256521285546|video appears to show shooting involving federal agents in minneapolis us news|278870d65dd8e221630cde96f1d686d9
+2026-01-24T17:23:14.545966+00:00|https://www.nbcnews.com/video/shorts/video-appears-to-show-shooting-involving-federal-agents-256521285530|video appears to show shooting involving federal agents us news|389a0407c561bbeb24f8a9a9db4a13ef
