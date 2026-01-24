@@ -1,5 +1,3 @@
-2026-01-17T11:22:56.390709+00:00|https://www.bbc.com/news/articles/c62rn7n0yrgo|teenage boys charged after youth seen with machete in city centre|98616bc9f65d01dd45b2125979ee7dcf
-2026-01-17T11:23:01.963571+00:00|https://news.sky.com/story/green-party-calls-for-free-bus-travel-in-england-for-under-22s-13495262|green party calls for free bus travel in england for under22s|d64e2b27beff1e6c2fce967d7bf7225a
 2026-01-17T12:53:50.155189+00:00|https://news.sky.com/story/jesss-rule-to-be-advertised-in-all-gp-clinics-in-england-to-prevent-avoidable-deaths-13495269|jesss rule to be advertised in all gp surgeries in england|e44105bc372b3b328bc87a0d7c903e94
 2026-01-17T14:45:11.315335+00:00|https://www.bbc.com/news/articles/c7018nl1v5po|body recovered in search for girl missing at sea|a816143c654af71e4de422bba4454ea7
 2026-01-17T14:58:22.939034+00:00|https://news.sky.com/story/uk-weather-temperatures-could-plunge-again-bringing-chance-of-snow-towards-end-of-january-13495294|uk temperatures could plunge again bringing chance of snow|5647f0efe99010653fdf4fd4fddcdc63
@@ -348,3 +346,5 @@
 2026-01-24T09:53:35.545949+00:00|https://news.sky.com/story/police-officers-warned-they-must-hold-work-licence-or-face-the-sack-13498279|police officers warned they must hold work licence or face the sack|8afb82c9658c33149f974fbf25723ee1
 2026-01-24T10:28:51.239494+00:00|https://www.bbc.com/news/articles/c9qp5ydq0zqo|part of historic pier washes away in wild storm|2e2be23ec2b94125e95bff1f6dcca834
 2026-01-24T10:28:56.840704+00:00|https://www.bbc.com/news/articles/c5y22v9p7vyo|my tooth gap feels like a goalpost but i cant get an nhs dentist|9beb9c06ba8466ba67f1a87f88587e48
+2026-01-24T11:23:56.172478+00:00|https://www.bbc.com/news/articles/ckgy13vlxk5o|burnham faces deadline on byelection decision|30ca177b9fee3befbb0403040987ff77
+2026-01-24T11:24:01.543936+00:00|https://www.bbc.com/news/articles/c62v7l4v7gro|nhs cancer gene database to identify patients at risk|d61a439b1109d9d1c8ebce02f0425740
