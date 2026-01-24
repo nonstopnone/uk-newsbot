@@ -348,3 +348,6 @@
 2026-01-24T10:28:56.840704+00:00|https://www.bbc.com/news/articles/c5y22v9p7vyo|my tooth gap feels like a goalpost but i cant get an nhs dentist|9beb9c06ba8466ba67f1a87f88587e48
 2026-01-24T11:23:56.172478+00:00|https://www.bbc.com/news/articles/ckgy13vlxk5o|burnham faces deadline on byelection decision|30ca177b9fee3befbb0403040987ff77
 2026-01-24T11:24:01.543936+00:00|https://www.bbc.com/news/articles/c62v7l4v7gro|nhs cancer gene database to identify patients at risk|d61a439b1109d9d1c8ebce02f0425740
+2026-01-24T11:42:28.445113+00:00|https://www.bbc.com/news/articles/c4g3qpkq9w0o|man shot in targeted city centre attack|22cad467463f6ac951cfb696562d5a96
+2026-01-24T11:42:33.900877+00:00|https://news.sky.com/story/eight-dead-and-dozens-missing-after-landslide-on-indonesias-java-island-13498297|eight dead and more than 80 missing after indonesia landslide|674f1803c0045c30c6901b37afe5364b
+2026-01-24T11:42:39.367810+00:00|https://www.bbc.com/news/articles/cevnn2dj8yeo|eilish mccolgan ive got a big year of sport but no wedding plans|f466c5b13fae076db3c84ceb5f522563
