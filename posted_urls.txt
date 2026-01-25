@@ -1,4 +1,3 @@
-2026-01-18T21:21:57.935535+00:00|https://www.bbc.co.uk/news/articles/c98jn1wywdyo|andrew rosindell quits tories and defects to reform uk|714098f373ddf962b7c44032fd450cb7
 2026-01-18T21:55:45.547026+00:00|https://www.bbc.com/news/articles/cdjnrdl8d24o|rail disruption warning after engineering overruns|d187656dc94c509f92b49a71f066594d
 2026-01-18T22:28:00.666831+00:00|https://www.bbc.com/news/articles/cgezg859zgqo|strictlys amy dowden says dancing in her lounge helped her through chemo|dd0e476be24d539d0f5e82bead6cf020
 2026-01-18T22:28:06.215206+00:00|https://www.bbc.com/news/articles/c1dk0g5yk06o|more than 60 labour mps urge pm to ban social media for under16s|81e9dd030b2fd1ff1e217d16b0ed38a9
@@ -364,3 +363,4 @@
 2026-01-25T18:39:10.945750+00:00|https://news.sky.com/story/minnesota-isnt-belfast-but-the-warning-signs-are-there-guns-beget-guns-13498877|minnesota isnt belfast but the warning signs are there guns beget guns|bd1ded1c06581393163ee4c0267b74c8
 2026-01-25T19:42:24.592266+00:00|https://www.telegraph.co.uk/football/2026/01/25/arsenal-vs-man-utd-live-score-latest-result-lineups-epl|michael carrick takes fresh scalp as manchester united stun nervy arsenal|c15089b5ab77980aa94118032d4cb81c
 2026-01-25T20:32:55.456543+00:00|https://www.bbc.com/sport/articles/c2lgrw7v5w7o|cunha scores dramatic winner as man utd beat arsenal|3d65c92a5af94f2b2d8e70fc1f3aa013
+2026-01-25T21:26:50.263405+00:00|https://www.bbc.com/news/articles/cd9eeklq93go|mum with cervical cancer begged for scan after years of being fobbed off|a3ade83acb7f58428d7c8107197cabb3
