@@ -10629,3 +10629,4 @@
 2026-01-25T11:22:38.121267+00:00|https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html|trump pushes ai data centers but the gop is cool to one in alabama us news|691a6473037242d77f01619baa49ffb9
 2026-01-25T11:22:38.606061+00:00|https://www.nbcnews.com/world/iran/iranians-return-daily-life-capital-scarred-deadly-protests-rcna255354|iranians return to daily life in a capital scarred by deadly protests us news|e2612b243d2f9120ca9fd2f1ff82407e
 2026-01-25T11:22:39.037427+00:00|https://www.nbcnews.com/world/iran/iranians-return-daily-life-capital-scarred-deadly-protests-rcna255354|iranians return to daily life in a capital scarred by deadly protests us news|e2612b243d2f9120ca9fd2f1ff82407e
+2026-01-25T11:57:36.377711+00:00|https://www.nytimes.com/2026/01/25/weather/winter-storm-public-transit-new-york-philadelphia.html|major us public transit systems brace for storm with detours and warnings us news|0c39611d8f1018b576affa4af9868468
