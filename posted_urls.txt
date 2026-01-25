@@ -361,3 +361,6 @@
 2026-01-25T16:34:25.287957+00:00|https://news.sky.com/story/sir-keir-starmer-blocks-andy-burnham-from-by-election-race-13498819|andy burnhams bid to return as mp blocked|e3b08a1b8c4616b93763f90e2afbf5cb
 2026-01-25T16:34:30.760435+00:00|https://www.bbc.com/news/articles/c4grxdvny9vo|home secretary would have sacked police chief|bec0b0754fdbd0c525d61535ca9dc9dd
 2026-01-25T16:58:07.172990+00:00|https://www.telegraph.co.uk/football/2026/01/25/newcastle-vs-aston-villa-live-score-updates-premier-league|aston villa make hay in bruno guimaraes absence|25a000f58c30b260b52446b91a026b90
+2026-01-25T17:27:46.800442+00:00|https://www.bbc.com/news/articles/c2e1vxj9yv8o|attempted murder arrest after car driven at police|e5a759d5bdc6c4a3a4395ea4a39ee704
+2026-01-25T17:27:52.562073+00:00|https://www.bbc.com/news/articles/cpwnnwx4dk8o|saint dwynwens the story of wales valentines day|3aa479406e8d8ddeab70e9509b13a90e
+2026-01-25T17:27:58.064305+00:00|https://www.bbc.com/news/articles/cx2pgnel9xeo|lost robert burns portrait discovered after 200 years|d189427c59842fa88c8995875f2f7333
