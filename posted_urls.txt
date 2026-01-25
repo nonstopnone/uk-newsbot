@@ -1,4 +1,3 @@
-2026-01-18T19:41:08.145593+00:00|https://www.bbc.com/news/articles/cdexgnekd74o|man charged with murder of wayne reid in coleraine|dd206c9e4471bdc502019250a91a3543
 2026-01-18T20:54:37.764736+00:00|https://www.telegraph.co.uk/rugby-union/2026/01/18/glasgow-warriors-v-saracens-live-score-champions-cup-update|beware scotland in the six nations after glasgow warriors hammer saracens|24987a0edc790fdc4910588b1e2bb826
 2026-01-18T21:21:57.935535+00:00|https://www.bbc.co.uk/news/articles/c98jn1wywdyo|andrew rosindell quits tories and defects to reform uk|714098f373ddf962b7c44032fd450cb7
 2026-01-18T21:55:45.547026+00:00|https://www.bbc.com/news/articles/cdjnrdl8d24o|rail disruption warning after engineering overruns|d187656dc94c509f92b49a71f066594d
@@ -364,3 +363,4 @@
 2026-01-25T17:46:26.470003+00:00|https://www.bbc.com/news/articles/c93v7nnk3vlo|tory pair aim to attract politically homeless with new movement|2c919a555c2eae2807f26672e350e72b
 2026-01-25T17:46:31.913770+00:00|https://news.sky.com/story/climber-alex-honnold-scales-taipei-101-skyscraper-without-ropes-13498734|climber alex honnold scales taipei 101 skyscraper without ropes|1d52a99b7a47ba0ecc9f05e6f696dec9
 2026-01-25T18:39:10.945750+00:00|https://news.sky.com/story/minnesota-isnt-belfast-but-the-warning-signs-are-there-guns-beget-guns-13498877|minnesota isnt belfast but the warning signs are there guns beget guns|bd1ded1c06581393163ee4c0267b74c8
+2026-01-25T19:42:24.592266+00:00|https://www.telegraph.co.uk/football/2026/01/25/arsenal-vs-man-utd-live-score-latest-result-lineups-epl|michael carrick takes fresh scalp as manchester united stun nervy arsenal|c15089b5ab77980aa94118032d4cb81c
