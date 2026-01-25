@@ -10636,3 +10636,4 @@
 2026-01-25T14:57:25.489455+00:00|https://abcnews.go.com/US/latest-minneapolis-shooting-federal-agents/story|what we know about the latest minneapolis shooting by federal agents us news|6287a2f0db956072dd4560001835a68d
 2026-01-25T15:26:18.277296+00:00|https://www.nytimes.com/2026/01/25/us/nyc-school-closure-remote-learning-storm.html|new york city schools announce remote learning day in response to storm us news|ea516cd722f9b6b1f9500b7b640e033f
 2026-01-25T15:57:28.769769+00:00|https://www.nbcnews.com/meet-the-press/video/todd-blanche-says-federal-agents-acting-humanely-amid-public-outcry-full-interview-256543301816|todd blanche says federal agents acting humanely amid public outcry full interview us news|bac4d87de588a0f05cc29a12c388371c
+2026-01-25T17:22:55.721398+00:00|https://www.nbcnews.com/video/shorts/icu-nurse-alex-pretti-honors-veteran-he-cared-for-256543813838|icu nurse alex pretti honors veteran he cared for us news|be1b74ed1d4e2bf7010552754a6bf12f
