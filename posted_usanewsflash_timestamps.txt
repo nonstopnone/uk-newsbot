@@ -10663,3 +10663,5 @@
 2026-01-26T05:02:20.355385+00:00|https://www.nbcnews.com/politics/immigration/-wake-call-every-american-former-presidents-obama-clinton-blast-trump-rcna255860|clinton and obama urge americans to speak out and take action after minneapolis shootings us news|db9f4622f10a32d02086a7b8f7349e73
 2026-01-26T05:02:21.033702+00:00|https://abcnews.go.com/US/private-jet-carrying-8-passengers-crashes-bangor-maine/story|private jet carrying 8 people crashes in bangor maine faa us news|bb05d52a17a394f9e3195a4deb77a4de
 2026-01-26T05:39:11.538129+00:00|https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html|the taliban say theyre ready to release us prisoners but which ones us news|f89c0ac380d6bd6b6c84ce31ffc35130
+2026-01-26T06:01:05.169886+00:00|https://www.bbc.com/news/articles/cr571qg4m61o|minneapolis protesters march against ice as governor urges trump to remove agents us news|f2ae4ffb127f97d7ddedd749ae7f338a
+2026-01-26T06:01:05.691234+00:00|https://www.bbc.com/news/articles/cvg50vv1ezko|this is horrifying minneapolis residents reel from second deadly shooting us news|a8614fda809e16040b885579cbdccfdc
