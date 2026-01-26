@@ -10701,3 +10701,6 @@
 2026-01-26T21:12:32.917006+00:00|https://www.nytimes.com/2026/01/26/us/politics/minnesota-trump-voter-rolls.html|why is the trump administration demanding minnesotas voter rolls us news|19b25b3abd3bb0b612114d5c54224f44
 2026-01-26T21:37:35.763413+00:00|https://www.nytimes.com/2026/01/26/us/politics/trump-minneapolis-nurse-shooting-video.html|white house distances trump from initial response to minnesota killing us news|a4915f81582713cf44b17ba0bcf0f7e3
 2026-01-26T21:37:36.636414+00:00|https://www.nytimes.com/2026/01/26/us/politics/ilhan-omar-investigation-finances.html|under biden administration justice dept began examining ilhan omars finances us news|f54f5c782ef21e1a253d6c7be2333370
+2026-01-26T22:28:55.765964+00:00|https://abcnews.go.com/US/video/anti-ice-protesters-march-snowy-chicago-129579788|watch antiice protesters march through snowy chicago us news|c68d7e37120f20346062d5d4644439c9
+2026-01-26T22:28:56.330954+00:00|https://www.nytimes.com/2026/01/26/us/politics/democrats-shutdown-ice-shooting.html|democrats embrace a shutdown fight they wanted to avoid us news|c5804f1b27df6ee3c5fb956a559dee3b
+2026-01-26T22:28:56.856882+00:00|https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html|nato chief says europe is dreaming if it thinks it can defend itself without us us news|7631d792a2caafb88d62a4c914f9b811
