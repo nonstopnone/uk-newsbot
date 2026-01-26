@@ -1,8 +1,4 @@
 {
-  "ec1f4b80923c7d5e70ce4023df0a4751": {
-    "is_relevant": true,
-    "timestamp": 1768827933.04166
-  },
   "31dd18c5dadc33d09c2a7f6f9e0bdfce": {
     "is_relevant": true,
     "timestamp": 1768830949.228215
@@ -378,5 +374,13 @@
   "1ebac5710e6c35bcf912922e0747c628": {
     "is_relevant": false,
     "timestamp": 1769431036.121711
+  },
+  "b451e9764872345b495761c8597bd449": {
+    "classification": "UK_NEWS",
+    "timestamp": 1769433125.46018
+  },
+  "10aa1acc5baefe772b0ad7ba6647b698": {
+    "classification": "GLOBAL_MAJOR",
+    "timestamp": 1769433128.549835
   }
 }
