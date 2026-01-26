@@ -10666,3 +10666,6 @@
 2026-01-26T06:01:05.169886+00:00|https://www.bbc.com/news/articles/cr571qg4m61o|minneapolis protesters march against ice as governor urges trump to remove agents us news|f2ae4ffb127f97d7ddedd749ae7f338a
 2026-01-26T06:01:05.691234+00:00|https://www.bbc.com/news/articles/cvg50vv1ezko|this is horrifying minneapolis residents reel from second deadly shooting us news|a8614fda809e16040b885579cbdccfdc
 2026-01-26T07:48:57.137720+00:00|https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html|gunmen kill 11 after soccer match in mexico us news|888be15b538fe90220e93f2b74d59329
+2026-01-26T11:14:54.290242+00:00|https://www.nytimes.com/2026/01/26/us/minnesota-lawsuit-ice-surge-hearing.html|federal court will hear minnesota claims that immigration surge is illegal us news|a419699b9e0e832bd032a0ab6f831921
+2026-01-26T11:14:55.052808+00:00|https://www.nytimes.com/2026/01/26/us/politics/trump-irs-taxes-bisignano.html|trump hobbled the irs this ceo now has to make it work us news|f8c301da3fe1645ce06b276afa90aeff
+2026-01-26T11:14:55.686088+00:00|https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html|silicon valley wants to build ai that can improve ai on its own us news|5416d530b2eaac0a2e059fb9030ae9cf
