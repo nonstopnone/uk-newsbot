@@ -10670,3 +10670,5 @@
 2026-01-26T11:14:55.052808+00:00|https://www.nytimes.com/2026/01/26/us/politics/trump-irs-taxes-bisignano.html|trump hobbled the irs this ceo now has to make it work us news|f8c301da3fe1645ce06b276afa90aeff
 2026-01-26T11:14:55.686088+00:00|https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html|silicon valley wants to build ai that can improve ai on its own us news|5416d530b2eaac0a2e059fb9030ae9cf
 2026-01-26T11:46:07.934639+00:00|https://www.nbcnews.com/sports/nfl/sam-darnold-seattle-seahawks-super-bowl-rcna255868|sam darnold was an nfl castoff now hes in the super bowl us news|30f820e587ead19dfef11c04590f3d20
+2026-01-26T13:49:52.815701+00:00|https://abcnews.go.com/WNT/video/american-climber-reaches-new-heights-129551795|watch american climber reaches new heights us news|ae9f2231c3a73ceb40381aea999ee39c
+2026-01-26T13:49:53.282111+00:00|https://www.nytimes.com/2026/01/26/nyregion/nyc-nurses-strike-patients-children.html|pedro lives in a hospital his nurses are on strike he misses them us news|9d0a07e6bdf6fa1bfc24c91021beae98
