@@ -10662,3 +10662,4 @@
 2026-01-26T04:08:19.849903+00:00|https://www.nbcnews.com/news/us-news/business-jet-8-board-crashes-takeoff-maine-rcna255865|business jet with 8 on board crashes during takeoff in maine us news|12ff924b75c0930317bb551e5941aa0a
 2026-01-26T05:02:20.355385+00:00|https://www.nbcnews.com/politics/immigration/-wake-call-every-american-former-presidents-obama-clinton-blast-trump-rcna255860|clinton and obama urge americans to speak out and take action after minneapolis shootings us news|db9f4622f10a32d02086a7b8f7349e73
 2026-01-26T05:02:21.033702+00:00|https://abcnews.go.com/US/private-jet-carrying-8-passengers-crashes-bangor-maine/story|private jet carrying 8 people crashes in bangor maine faa us news|bb05d52a17a394f9e3195a4deb77a4de
+2026-01-26T05:39:11.538129+00:00|https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html|the taliban say theyre ready to release us prisoners but which ones us news|f89c0ac380d6bd6b6c84ce31ffc35130
