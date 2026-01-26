@@ -10682,3 +10682,4 @@
 2026-01-26T17:01:28.827922+00:00|https://www.nytimes.com/2026/01/26/us/r-word-slur-disability.html|the rword returns dismaying those who fought to oust it us news|39ebb515fe7e9c60b5007d4780eccfeb
 2026-01-26T17:37:54.100114+00:00|https://www.nytimes.com/2026/01/26/us/politics/ice-minnesota-refugees.html|they had done everything right ice detained them anyway us news|5953c25c6e0d81c382355e38ba5e43cc
 2026-01-26T17:37:55.024310+00:00|https://www.nytimes.com/2026/01/26/business/goodwill-sales-economy.html|goodwill thrives as americans stretch their dollars us news|1d0ac001d0932ca4211d989a439b7c70
+2026-01-26T18:01:09.792889+00:00|https://www.nbcnews.com/politics/congress/trump-says-doj-congress-are-looking-rep-ilhan-omar-minnesota-rcna255950|trump says doj and congress are looking at rep ilhan omar of minnesota us news|e0ff5717c0a21cc78d5b24d8a096a2ae
