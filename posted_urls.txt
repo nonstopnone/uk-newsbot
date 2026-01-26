@@ -398,3 +398,4 @@
 2026-01-26T18:48:27.153916+00:00|https://www.bbc.com/news/articles/cgjw0xegxglo|uk loses measles elimination status|556e37053d764e3ac70bac2ce48c07fe
 2026-01-26T19:30:07.543116+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/uk-loses-measles-elimination-status-as-vaccine-rates-fall|uk loses measles elimination status as vaccine rates fall|3b434752cd42aa20937f0de24457675f
 2026-01-26T19:30:13.979820+00:00|https://news.sky.com/story/focus-turns-to-future-of-gaza-after-final-hostage-remains-returned-to-israel-13499322|focus turns to future of gaza after final hostage remains returned to israel|a6ea5635470f046307ba8aeb9ab7e989
+2026-01-26T19:49:08.763167+00:00|https://news.sky.com/story/uk-loses-measles-elimination-status-warns-who-13499336|uk loses measles elimination status|559eab4dbf7ec45b7ddb84440f0baee4
