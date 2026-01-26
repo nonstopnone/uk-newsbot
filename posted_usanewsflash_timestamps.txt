@@ -10698,3 +10698,4 @@
 2026-01-26T20:53:33.979595+00:00|https://www.nytimes.com/2026/01/26/us/politics/trump-supporters-foreign-policy-greenland-iran.html|on venezuela and greenland many trump fans give him the benefit of the doubt us news|11b698aed4d826ca2b6e392b09ce6263
 2026-01-26T20:53:34.813140+00:00|https://abcnews.go.com/US/wireStory/olympic-snowboarder-accused-drug-smuggling-ring-heads-court-129575968|exolympic snowboarder accused in drug smuggling ring heads to court us news|76456c285cfdce63eec76b7a42483097
 2026-01-26T20:53:35.497245+00:00|https://www.nytimes.com/2026/01/26/business/media/washington-post-olympics.html|washington post reverses decision on olympics coverage us news|c4dd39d244ef3b88c5a5923f854f639b
+2026-01-26T21:12:32.917006+00:00|https://www.nytimes.com/2026/01/26/us/politics/minnesota-trump-voter-rolls.html|why is the trump administration demanding minnesotas voter rolls us news|19b25b3abd3bb0b612114d5c54224f44
