@@ -396,3 +396,5 @@
 2026-01-26T18:48:16.085964+00:00|https://news.sky.com/story/facial-recognition-technology-to-be-rolled-out-nationally-and-police-to-also-get-ai-support-13499172|facial recognition technology to be rolled out nationally and police to also get ai support|1e6113d369fdbcd10889a99a81df8f8f
 2026-01-26T18:48:21.606390+00:00|https://www.bbc.com/news/articles/cly10jjmg92o|revolution bars to enter administration with 2200 jobs at risk|bc30d9bc03051b7051b3e18e8ecb866d
 2026-01-26T18:48:27.153916+00:00|https://www.bbc.com/news/articles/cgjw0xegxglo|uk loses measles elimination status|556e37053d764e3ac70bac2ce48c07fe
+2026-01-26T19:30:07.543116+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/uk-loses-measles-elimination-status-as-vaccine-rates-fall|uk loses measles elimination status as vaccine rates fall|3b434752cd42aa20937f0de24457675f
+2026-01-26T19:30:13.979820+00:00|https://news.sky.com/story/focus-turns-to-future-of-gaza-after-final-hostage-remains-returned-to-israel-13499322|focus turns to future of gaza after final hostage remains returned to israel|a6ea5635470f046307ba8aeb9ab7e989
