@@ -10790,3 +10790,4 @@
 2026-01-27T21:44:51.695017+00:00|https://www.nytimes.com/2026/01/27/business/media/bari-weiss-cbs-news-town-hall.html|bari weiss urges cbs news to think like a startup us news|ae366d3fdd85ccbd4b6f0774199e5b34
 2026-01-27T22:48:03.844157+00:00|https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html|former french senator convicted of drugging a colleague intending to assault her us news|754717acc8c5938dcbd720eecf7bc119
 2026-01-27T22:48:04.356104+00:00|https://www.nytimes.com/2026/01/27/nyregion/mamdani-storm-deaths-homeless.html|storm deaths reach 10 testing mamdanis handling of a weather emergency us news|80604103c59e4dd6e2cca5c645abcd98
+2026-01-27T22:58:14.361383+00:00|https://www.nbcnews.com/politics/immigration/5-year-old-was-detained-minnesota-cant-moved-judge-rules-rcna256228|5yearold who was detained in minnesota cant be moved judge rules us news|f3c0f4727cccde84ef6f69cc2de96584
