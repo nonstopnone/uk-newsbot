@@ -10781,3 +10781,4 @@
 2026-01-27T20:29:43.811067+00:00|https://abcnews.go.com/Politics/kristi-noem-met-trump-amid-scrutiny-deadly-minneapolis/story|kristi noem met with trump amid scrutiny over deadly minneapolis shooting sources us news|08ab8cc6f72824b8e6a75cb5a2d1379b
 2026-01-27T20:29:44.497800+00:00|https://www.nytimes.com/2026/01/27/us/border-shooting-arizona.html|one person is wounded in shooting involving us border patrol in arizona us news|c93c61d8bb050ff7d551dbe2f8008ba5
 2026-01-27T20:29:45.282164+00:00|https://www.nytimes.com/2026/01/27/us/minneapolis-nicollet-avenue-alex-pretti.html|photo shows ice agents deploying at minneapolis protest after alex pretti shooting us news|c58df06e7ffb9d0bf4b5df88313c0786
+2026-01-27T20:48:37.538935+00:00|https://www.nytimes.com/2026/01/27/nyregion/santos-murder-homeless-chintatown-trial.html|man went on trial run before killing 4 homeless men prosecutors say us news|fa2596523cb13048539f83ef44b63dfd
