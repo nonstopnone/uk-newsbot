@@ -1,4 +1,3 @@
-2026-01-20T07:57:11.141424+00:00|https://news.sky.com/story/private-sector-wage-rises-drop-to-a-five-year-low-13496453|private sector wage rises drop to a five year low|ba5a7d91ce85b251201121cba159e1c3
 2026-01-20T08:46:58.915408+00:00|https://www.bbc.com/news/articles/cddgrg87ly5o|wage growth slows as number of people employed falls|fe7622fb8a39c6978708921e1a08acd1
 2026-01-20T09:40:11.206646+00:00|https://news.sky.com/story/ms-technology-chief-quits-less-than-a-year-after-cyberattack-13496516|ms technology chief quits less than a year after cyber attack|a792a6bf420bfdf8242f3b4815ac1186
 2026-01-20T09:40:16.885802+00:00|https://news.sky.com/story/money-problem-163300-concert-tickets-and-a-singer-who-did-jail-time-we-intervene-in-readers-dispute-with-viagogo-13496519|£300 concert tickets and a singer who did jail time we intervene in readers dispute with viagogo|1a572967807c7630a3f37a91dfd97dee
@@ -403,3 +402,7 @@
 2026-01-27T07:35:24.516655+00:00|https://news.sky.com/story/energy-price-cap-facing-upwards-pressure-from-us-storm-13499160|energy price cap facing upwards pressure from us storm|0038026c6f88a411114648d2f1b4d74f
 2026-01-27T07:35:30.237977+00:00|https://www.bbc.com/news/articles/cq5y99d30wwo|erosion victim warns trauma tourists to stay away|0e81364c8a0419a4f200d032896bdf10
 2026-01-27T07:35:35.852119+00:00|https://www.bbc.com/news/articles/c70l555w79ro|thieves broke into my car to take parcel shelf|9dda057572d026fec2f2c20da29edc55
+2026-01-27T08:46:29.941084+00:00|https://www.bbc.com/news/articles/cedwp8w1j24o|weather presenter carol kirkwood to leave bbc|1dfa743a24d4658a8b69f3e070183950
+2026-01-27T08:46:35.435042+00:00|https://news.sky.com/story/millions-to-benefit-as-minister-announces-cap-on-scam-ground-rents-13499497|millions to benefit as minister announces cap on scam ground rents|e0ca1471dfa2652010516092017811b7
+2026-01-27T08:46:40.872567+00:00|https://www.bbc.com/news/articles/cn7jpgzr8xjo|warnings as storm chandra brings snow rain and strong winds to parts of scotland|8479a6a6d334b2ccfb11459385eb0661
+2026-01-27T08:46:46.236621+00:00|https://www.bbc.com/news/articles/cy8p2yey0gdo|storm chandra brings flooding and road closures with warnings across uk|8edc7dc9eeb9fb18db44ab1b19b9023b
