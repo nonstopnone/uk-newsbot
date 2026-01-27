@@ -10791,3 +10791,5 @@
 2026-01-27T22:48:03.844157+00:00|https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html|former french senator convicted of drugging a colleague intending to assault her us news|754717acc8c5938dcbd720eecf7bc119
 2026-01-27T22:48:04.356104+00:00|https://www.nytimes.com/2026/01/27/nyregion/mamdani-storm-deaths-homeless.html|storm deaths reach 10 testing mamdanis handling of a weather emergency us news|80604103c59e4dd6e2cca5c645abcd98
 2026-01-27T22:58:14.361383+00:00|https://www.nbcnews.com/politics/immigration/5-year-old-was-detained-minnesota-cant-moved-judge-rules-rcna256228|5yearold who was detained in minnesota cant be moved judge rules us news|f3c0f4727cccde84ef6f69cc2de96584
+2026-01-27T23:28:25.864510+00:00|https://abcnews.go.com/Politics/dhs-report-2-agents-fired-weapons-alex-pretti/story|dhs report says 2 agents fired weapons in alex pretti shooting us news|b185f6775c8f18caaeec191409fad1c2
+2026-01-27T23:28:26.468640+00:00|https://www.nytimes.com/2026/01/27/us/ice-liam-ramos-minneapolis-deportation.html|judge temporarily blocks deportation of 5yearold detained by ice in minnesota us news|6f50687818c0bef0cc62ab70f7f837b2
