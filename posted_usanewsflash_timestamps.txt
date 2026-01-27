@@ -10793,3 +10793,5 @@
 2026-01-27T22:58:14.361383+00:00|https://www.nbcnews.com/politics/immigration/5-year-old-was-detained-minnesota-cant-moved-judge-rules-rcna256228|5yearold who was detained in minnesota cant be moved judge rules us news|f3c0f4727cccde84ef6f69cc2de96584
 2026-01-27T23:28:25.864510+00:00|https://abcnews.go.com/Politics/dhs-report-2-agents-fired-weapons-alex-pretti/story|dhs report says 2 agents fired weapons in alex pretti shooting us news|b185f6775c8f18caaeec191409fad1c2
 2026-01-27T23:28:26.468640+00:00|https://www.nytimes.com/2026/01/27/us/ice-liam-ramos-minneapolis-deportation.html|judge temporarily blocks deportation of 5yearold detained by ice in minnesota us news|6f50687818c0bef0cc62ab70f7f837b2
+2026-01-27T23:46:21.995054+00:00|https://abcnews.go.com/Business/wireStory/strike-sends-31000-kaiser-permanente-health-care-workers-129612966|another strike sends 31000 kaiser permanente health care workers to picket lines us news|f82157038f22243e55d0730be61e34ef
+2026-01-27T23:46:22.508061+00:00|https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html|gladys west unsung figure in development of gps dies at 95 us news|e265e21a90768506b85d6dd4abd513b9
