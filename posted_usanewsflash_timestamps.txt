@@ -10765,3 +10765,7 @@
 2026-01-27T17:54:17.944292+00:00|https://www.bbc.com/news/articles/c9qp3x5x2jpo|carney denies walking back davos speech in phone call with trump us news|65358ebde2d6a5bfbd7e30cec60b5149
 2026-01-27T17:54:18.460952+00:00|https://www.bbc.com/news/articles/c24g8v6qr1mo|tiktok settles just before social media addiction trial to begin us news|64e1fcb1f10e459e863a3c11ba72a0af
 2026-01-27T17:54:18.928415+00:00|https://www.nytimes.com/2026/01/27/nyregion/columbia-president-jennifer-mnookin.html|an academic and a dealmaker takes on the challenge of running columbia us news|0ee2dbe1cd2cbd30c115c1de49a4cd16
+2026-01-27T18:23:16.691329+00:00|https://www.nbcnews.com/now/video/trump-says-administration-is-doing-a-big-investigation-into-death-of-alex-pretti-256671813850|trump on death of alex pretti i want to see the investigation us news|0a994619512c0487330f03dc4d516fca
+2026-01-27T18:23:17.363176+00:00|https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html|board of peace set to hand trump sweeping powers over gaza us news|ccc4fb2e5a23e442fee63c9c4eeca644
+2026-01-27T18:23:18.027810+00:00|https://www.nytimes.com/2026/01/27/nyregion/oren-tal-alexander-trial-sex-trafficking.html|trial to begin in sextrafficking case against alexander brothers us news|2dd79240d6d6e692e259de805888a770
+2026-01-27T18:23:18.689806+00:00|https://www.nytimes.com/2026/01/27/nyregion/alexander-brothers-public-relations-campaign.html|brothers charged with sex trafficking wage campaign to shame accusers us news|baf38d0e97afa5835f6ee567744b43fa
