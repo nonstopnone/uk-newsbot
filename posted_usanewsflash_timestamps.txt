@@ -10782,3 +10782,5 @@
 2026-01-27T20:29:44.497800+00:00|https://www.nytimes.com/2026/01/27/us/border-shooting-arizona.html|one person is wounded in shooting involving us border patrol in arizona us news|c93c61d8bb050ff7d551dbe2f8008ba5
 2026-01-27T20:29:45.282164+00:00|https://www.nytimes.com/2026/01/27/us/minneapolis-nicollet-avenue-alex-pretti.html|photo shows ice agents deploying at minneapolis protest after alex pretti shooting us news|c58df06e7ffb9d0bf4b5df88313c0786
 2026-01-27T20:48:37.538935+00:00|https://www.nytimes.com/2026/01/27/nyregion/santos-murder-homeless-chintatown-trial.html|man went on trial run before killing 4 homeless men prosecutors say us news|fa2596523cb13048539f83ef44b63dfd
+2026-01-27T21:24:01.938309+00:00|https://www.nbcnews.com/video/watch-live-trump-delivers-economic-remarks-in-iowa-256677445660|trump delivers economic remarks in iowa us news|0353ec58c2b59c7158b6321673856bf5
+2026-01-27T21:24:02.392640+00:00|https://www.nytimes.com/2026/01/27/us/texas-immigrants-h1b-visas.html|texas moves to curtail visas for skilled foreign workers us news|96b6be83534ca6ab6f962ca4ebe77d4d
