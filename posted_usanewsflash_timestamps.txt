@@ -10762,3 +10762,6 @@
 2026-01-27T17:16:35.048823+00:00|https://www.nytimes.com/2026/01/27/world/europe/mette-frederiksen-greenland-us-ally.html|as trump eyes greenland denmarks leader is unsure how long us will be an ally us news|b7d6627ccc7a9b1bb0b7295bc87fce84
 2026-01-27T17:16:35.610962+00:00|https://www.nytimes.com/2026/01/27/us/politics/trinidad-wrongful-death-lawsuit-boat-strike.html|trinidadian families file wrongful death lawsuit over boat strike by us military us news|f647c1b63722b9512bdf3e7a570ace90
 2026-01-27T17:16:36.134961+00:00|https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html|microsoft pledged to save water in the ai era it expects water use to soar us news|f4b705a784252286c96c3596180649fb
+2026-01-27T17:54:17.944292+00:00|https://www.bbc.com/news/articles/c9qp3x5x2jpo|carney denies walking back davos speech in phone call with trump us news|65358ebde2d6a5bfbd7e30cec60b5149
+2026-01-27T17:54:18.460952+00:00|https://www.bbc.com/news/articles/c24g8v6qr1mo|tiktok settles just before social media addiction trial to begin us news|64e1fcb1f10e459e863a3c11ba72a0af
+2026-01-27T17:54:18.928415+00:00|https://www.nytimes.com/2026/01/27/nyregion/columbia-president-jennifer-mnookin.html|an academic and a dealmaker takes on the challenge of running columbia us news|0ee2dbe1cd2cbd30c115c1de49a4cd16
