@@ -1,7 +1,3 @@
-2026-01-20T03:56:22.986127+00:00|https://news.sky.com/story/what-uk-social-media-ban-on-children-could-look-like-as-government-considers-action-13496437|what uk social media ban on children could look like as government considers action|75946cf6b7cdc6c70d46bcfa85e88746
-2026-01-20T03:56:28.668638+00:00|https://www.bbc.com/news/articles/c5y29ryvr1lo|woman found dead in flat prompts murder probe|caed005b1e48aa5c61a3d8cecd9d46fd
-2026-01-20T03:56:34.195218+00:00|https://www.bbc.com/news/articles/cvgr7mr2150o|cctv proposal for nurseries after abuse case|8cd66ca3dc17224b0f46182b10fd82a7
-2026-01-20T03:56:39.859967+00:00|https://www.bbc.com/news/articles/cgl8gd5wkzjo|suspected cases of avian flu found in rivers swans|242ff0aedb5b505ec154f199bee4403e
 2026-01-20T04:52:43.031273+00:00|https://www.bbc.com/news/articles/c0q4pj5j729o|northern lights illuminate uk skies in hues of pink and green|97be46948dd37c0d04b34cb345988858
 2026-01-20T04:52:48.759611+00:00|https://news.sky.com/story/government-warned-of-potentially-catastrophic-legal-challenge-over-chinese-embassy-13496443|government warned of potentially catastrophic legal challenge over chinese embassy|4aa1f956d760071a81be1057e003c929
 2026-01-20T06:52:54.792596+00:00|https://www.bbc.com/news/articles/cy8yvl082y4o|confessions of double murderer to be heard for first time|5f409aa6a3483a479ac29a8aa11a120c
@@ -397,3 +393,8 @@
 2026-01-27T02:31:47.675964+00:00|https://www.bbc.com/news/articles/cjrz09lx91vo|what to expect from todays bafta nominations|3cdde7d22cbd53dab5b976ae5f04f862
 2026-01-27T02:31:53.253651+00:00|https://www.bbc.com/news/articles/cew87q890pyo|ni to become first in the uk to introduce graduated driving licences|02f6b3c56ffe07d788220eee0e759048
 2026-01-27T02:31:58.732450+00:00|https://www.bbc.com/news/articles/cvg5079yr20o|airlines pay out millions after initially rejecting claims|147e33efc11d3aeeb13395cfd9b3cb9e
+2026-01-27T04:01:46.603974+00:00|https://news.sky.com/story/number-of-people-in-very-deep-poverty-at-highest-level-in-more-than-30-years-charity-warns-13499465|warning over record number of people in very deep poverty|6e007862d1ea2702d3977e77033aa39d
+2026-01-27T04:01:54.028967+00:00|https://www.bbc.com/news/articles/c5yv97e7j5lo|chris mason both tories and labour feel the reform heebiejeebies|c7460260873e70f955759d211793ca41
+2026-01-27T04:01:59.688898+00:00|https://www.bbc.com/news/articles/cp3zp58wqlno|starmer says he wont choose between the us or china|c4deb112bb207f091c8054274d509498
+2026-01-27T04:02:05.223151+00:00|https://www.bbc.com/news/articles/cpwnjpvyyvxo|singing can overcome teenage isolation says grammywinner|3be847c78a0ced81832716248763f9b7
+2026-01-27T04:02:10.874926+00:00|https://www.bbc.com/news/articles/cn9zqwvnx9ro|beckhams seen together in paris for first time since brooklyn row|49faeb7e230d7e66ee34d35a4bbc609f
