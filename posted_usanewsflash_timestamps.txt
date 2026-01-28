@@ -10837,3 +10837,4 @@
 2026-01-28T16:18:41.931620+00:00|https://abcnews.go.com/Politics/trump-massive-armada-heading-iran-warns-time-running/story|trump says massive armada heading to iran urges tehran to make nuclear deal us news|6e082a737cfede651056627fae446997
 2026-01-28T17:06:34.421649+00:00|https://www.nytimes.com/2026/01/28/upshot/poll-affordability-housing-prices.html|what americans really mean by affordability us news|1bf070ee4d5d4a33478e55cc9e6964e9
 2026-01-28T17:06:34.928522+00:00|https://abcnews.go.com/International/video/death-toll-protesters-killed-irans-bloody-crackdown-rising-129639489|watch death toll of protesters killed in irans bloody crackdown keeps rising us news|ef9e69ed6660013b09aa5994940e3fa3
+2026-01-28T17:48:33.594972+00:00|https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html|iraqs nominee for prime minister rejects trump threats us news|80b76987164638a3387331a88e44badf
