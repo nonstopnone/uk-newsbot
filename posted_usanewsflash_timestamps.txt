@@ -10817,3 +10817,4 @@
 2026-01-28T11:28:12.528991+00:00|https://www.nytimes.com/2026/01/28/business/media/sundance-film-festival-park-city-boulder.html|sundance film festival says goodbye to park city utah us news|388511dac8df5496bc1fd8eb9bf69ab3
 2026-01-28T11:28:12.949005+00:00|https://www.nytimes.com/2026/01/28/business/economy/fed-trump-powell-interest-rates.html|fed meeting comes at pivotal moment for central banks independence us news|0078b0cc71317430040c733e1f87da94
 2026-01-28T11:46:17.466754+00:00|https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878|to avoid accusations of ai cheating college students are turning to ai us news|30724507325b01f0235ea579ce986c82
+2026-01-28T11:58:12.009958+00:00|https://abcnews.go.com/WNT/video/investigation-underway-after-nasa-jets-fiery-hard-landing-129615794|watch investigation underway after nasa jets fiery hard landing in texas us news|0c18913807ae3bf61db2451fb847d715
