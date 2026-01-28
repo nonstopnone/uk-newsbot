@@ -411,3 +411,6 @@
 2026-01-28T03:56:29.378516+00:00|https://www.bbc.com/news/articles/c89q3keee79o|five ipp prisoners to be referred to court of appeal|f5e94de78988cfc8dc0f33d91e6d33e4
 2026-01-28T03:56:34.978676+00:00|https://news.sky.com/story/uk-rolls-out-free-ai-training-but-will-it-save-your-job-13499866|uk rolls out free ai training but will it save your job|a2205a6ffd6a57c3ba20b53af739f4bf
 2026-01-28T03:56:40.486626+00:00|https://www.bbc.com/news/articles/c1lz2rg0923o|the papers half measures and fake jobs for sale|bbe01ff50c6053b1ec32e89d71f2fb1b
+2026-01-28T06:52:09.066937+00:00|https://news.sky.com/story/its-genuinely-frightening-to-wonder-where-america-goes-next-13499886|its genuinely frightening to wonder where america goes next|a512017aa36a89dfa62cf3e0ec8acfa3
+2026-01-28T06:52:14.724652+00:00|https://www.telegraph.co.uk/business/2026/01/28/how-britain-banned-beauty|how britain banned beauty|c8ab1a959c9cf6910959d7713ba1183c
+2026-01-28T06:52:20.409026+00:00|https://www.bbc.com/news/articles/cqxyp2w0j03o|ice warning in force as power restored after storm chandra|8e37e5f00c3f42e09332538e968b96f8
