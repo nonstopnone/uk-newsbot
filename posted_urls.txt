@@ -415,3 +415,5 @@
 2026-01-28T08:46:25.268401+00:00|https://www.bbc.com/news/articles/ckgvn4rr03vo|gp behind firm that tried to evict people to house asylum seekers|9e839710a4a872a94e1d050d5914b316
 2026-01-28T09:41:07.602039+00:00|https://news.sky.com/story/congresswoman-ilhan-omar-attacked-with-unknown-substance-in-minneapolis-13499911|congresswoman attacked with unknown substance in minneapolis|a8f5d10e60937fb645e1c72f0ccccb0d
 2026-01-28T09:41:13.286104+00:00|https://www.bbc.com/news/articles/cn0kpz14884o|puffins struggle to survive as storm chandra sweeps country|ce065f5ccb8fad41cec3c1c38cb516ba
+2026-01-28T10:01:32.269097+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/the-catch-22-in-the-global-battle-to-eradicate-polio|the catch22 in the global battle to eradicate polio|d536f58e16b2b529c974fa8fcd587316
+2026-01-28T10:01:37.934160+00:00|https://news.sky.com/story/senior-politician-dies-in-india-plane-crash-13499953|senior politician dies in india plane crash|ab51cb63237204c8e0fa19a055508f08
