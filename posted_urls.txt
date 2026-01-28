@@ -1,6 +1,3 @@
-2026-01-21T10:50:01.700457+00:00|https://news.sky.com/story/actors-union-offered-better-deal-over-ai-protections-13496767|actors union offered better deal over ai protections|7dbc33e1ac5e9e5ac3701b08e22dc380
-2026-01-21T10:50:07.102014+00:00|https://news.sky.com/story/britain-will-not-be-buffeted-around-by-trump-tariffs-says-rachel-reeves-13497050|britain will not be buffeted around by trump tariffs says reeves|2e0d9e4e732cd9fbfee4be717b9a8491
-2026-01-21T10:50:12.628900+00:00|https://news.sky.com/story/tanning-ads-banned-over-misleading-information-about-safety-13496976|tanning ads banned over misleading safety claims|df3931e3a000e7ba3d9970c65c4f7b16
 2026-01-21T11:30:47.223918+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/health-experts-scramble-to-contain-nipah-outbreak-india|health experts scramble to contain outbreak of deadly nipah virus|11a0b6dbbf48d00a82903c31352ad463
 2026-01-21T11:30:53.254401+00:00|https://news.sky.com/story/plans-for-new-regulations-to-protect-tenants-in-scotland-from-damp-and-mould-13497041|plans for new regulations to protect tenants in scotland from damp and mould|579797b3bceddf7ace9c6db12cbcacce
 2026-01-21T11:30:58.964476+00:00|https://news.sky.com/story/emma-raducanu-to-re-evaluate-her-game-after-australian-open-defeat-13497048|raducanu to reevaluate her game after australian open defeat|d3397ff7a5f677da1b61a8c9d5e5274e
@@ -418,3 +415,7 @@
 2026-01-28T10:01:37.934160+00:00|https://news.sky.com/story/senior-politician-dies-in-india-plane-crash-13499953|senior politician dies in india plane crash|ab51cb63237204c8e0fa19a055508f08
 2026-01-28T10:50:01.188710+00:00|https://news.sky.com/story/dollar-has-become-a-falling-chainsaw-what-it-means-for-you-13499913|dollar has become a falling chainsaw what it means for you|6df9ac0ea757089bd65f4b926c346bef
 2026-01-28T10:50:06.800390+00:00|https://www.telegraph.co.uk/rugby-union/2026/01/28/six-nations-2026-start-fixtures-schedule-how-to-watch|six nations 2026 when does it start fixtures squads and how to watch on tv|3690e44518188d3a4117c17ec298253f
+2026-01-28T11:29:45.802425+00:00|https://news.sky.com/story/british-airways-flight-to-london-loses-wheel-during-take-off-13499966|londonbound ba plane loses wheel during takeoff|9eee053c28a3d81066bca36eebea18a6
+2026-01-28T11:29:53.235990+00:00|https://www.telegraph.co.uk/recommended/leisure/outdoor/best-bike-lights|after being told mine wasnt bright enough i tested newer better bike lights for a safer commute|b9c069a99b29582f7655023d7a4fdab9
+2026-01-28T11:29:58.896063+00:00|https://news.sky.com/story/amazon-to-cut-16000-jobs-globally-to-streamline-operations-13490208|amazon to cut 16000 jobs globally|1503db7b0084269d643c70e604840fd3
+2026-01-28T11:30:04.263927+00:00|https://news.sky.com/story/1200-jobs-at-risk-as-the-original-factory-shop-calls-in-administrators-13499997|1200 jobs at risk as the original factory shop calls in administrators|2f34b00723e85c7c049422e5e338a32a
