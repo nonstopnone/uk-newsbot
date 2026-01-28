@@ -428,3 +428,10 @@
 2026-01-28T16:00:12.712739+00:00|https://www.bbc.com/news/articles/c0er7j820p0o|exspandau ballet star ross davidson guilty of rape|e51d8e7586ea01a8d40128d01c86325b
 2026-01-28T16:00:18.302066+00:00|https://www.bbc.com/news/articles/cd6wpdpylj1o|man guilty of assault after barron trump reported attack to uk police|fc3b0b3f87b9efe22ec3dc0e64feddf0
 2026-01-28T16:00:23.803421+00:00|https://www.bbc.com/news/articles/c07x2lp9rj4o|tv chef kerridge tips restaurant with hygiene issues for third michelin star|84adb76814035d9b81630de76ad41dd2
+2026-01-28T16:53:37.600280+00:00|https://www.bbc.com/news/articles/czx32xkd7d7o|kaba family devastated as misconduct case paused|d7647a646a880e8e0562d809e948f891
+2026-01-28T16:53:43.097325+00:00|https://news.sky.com/story/bbc-announces-interim-director-general-13500196|bbc announces interim director general|1e17a2fc6755e0cc0421cf0434373fbb
+2026-01-28T16:53:48.562843+00:00|https://news.sky.com/story/chris-kabas-family-devastated-after-misconduct-case-against-officer-cleared-of-murder-paused-13500186|misconduct case against officer cleared of murder paused|99460eb4587f353c47f2b418702ea9ef
+2026-01-28T16:53:53.979631+00:00|https://news.sky.com/story/retired-engineer-kevin-rees-convicted-of-blowing-up-ulez-camera-with-homemade-bomb-13500177|man convicted of blowing up ulez camera with homemade bomb|fb2c85c52b74dd1d1c41729ca82e7083
+2026-01-28T16:53:59.411112+00:00|https://news.sky.com/story/fettes-college-shamefully-failed-to-protect-pupils-from-sexual-physical-and-emotional-abuse-inquiry-finds-13500173|private school shamefully failed to protect pupils from sexual physical and emotional abuse|5dc7d15a965d58c34a2c4340132189ab
+2026-01-28T16:54:04.930843+00:00|https://news.sky.com/story/got-an-instagram-notification-asking-if-you-want-to-pay-163399-heres-what-you-need-to-know-13500110|why are some britons getting £399 messages from facebook and instagram|a4cd9957e8bbe8bd07f80f205d6ebb66
+2026-01-28T16:54:10.342246+00:00|https://news.sky.com/story/does-kfc-have-something-to-worry-about-as-us-rivals-circle-13499937|could kfc be dethroned rivals circle as chicken shops boom in uk|945ec948bfc2e5f5e28bdf1a08cd3e4c
