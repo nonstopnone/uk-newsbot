@@ -10856,3 +10856,4 @@
 2026-01-28T21:54:00.649713+00:00|https://www.nbcnews.com/video/shorts/fbi-searches-fulton-county-election-office-256754245963|fbi searches fulton county election office us news|a3e56c41b7f5483b628a44a7d26226f9
 2026-01-28T21:54:01.159056+00:00|https://www.nbcnews.com/politics/congress/senators-seek-ways-prevent-government-shutdown-ice-dhs-reforms-rcna256357|senators explore offramps to prevent a shutdown as democrats lay out dhs reforms us news|51706657ef128639f778077e4695a5fe
 2026-01-28T21:54:01.653355+00:00|https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html|tesla profit slumps but investors may not care us news|33474628a17a8d8e3b686214b3b2b5fd
+2026-01-28T22:15:52.519968+00:00|https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html|meta forecasts spending of at least $115 billion this year us news|bedf33e6294573e0938b7a04cb2307f7
