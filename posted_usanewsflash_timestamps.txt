@@ -10839,3 +10839,4 @@
 2026-01-28T17:06:34.928522+00:00|https://abcnews.go.com/International/video/death-toll-protesters-killed-irans-bloody-crackdown-rising-129639489|watch death toll of protesters killed in irans bloody crackdown keeps rising us news|ef9e69ed6660013b09aa5994940e3fa3
 2026-01-28T17:48:33.594972+00:00|https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html|iraqs nominee for prime minister rejects trump threats us news|80b76987164638a3387331a88e44badf
 2026-01-28T18:18:38.163945+00:00|https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html|trump threatens iran with massive armada and presses a set of demands us news|e835ac360691456326ce2f6f434b3010
+2026-01-28T19:00:41.067563+00:00|https://www.nytimes.com/2026/01/28/us/trump-minnesota-protesters-domestic-terrorists.html|trump officials use of domestic terrorist in minnesota shootings doesnt match legal reality us news|0e5a5f53416d22f7e4db7625bfc21283
