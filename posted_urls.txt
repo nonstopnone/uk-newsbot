@@ -413,3 +413,11 @@
 2026-01-27T23:50:10.123692+00:00|https://www.bbc.com/news/articles/cy8p2rjeyveo|famous up helly aa festival sets shetlands skies ablaze|85df5d9e7e900f6681fc44d352668e4e
 2026-01-27T23:50:15.629657+00:00|https://news.sky.com/story/talk-to-me-goose-starmer-teases-macron-with-top-gun-mock-up-13499830|talk to me goose starmer teases macron with top gun mock up|5df3dcfd7b366d858306285fd6617d9a
 2026-01-27T23:50:21.036824+00:00|https://www.bbc.com/news/articles/ce3epjw2x20o|king and queen meet holocaust survivors at palace|d65dd5cbcea7e9e0beed274cf1ffcc34
+2026-01-28T02:22:30.037779+00:00|https://www.bbc.com/news/articles/czejjr7wz6ko|what if i just started shouting when to worry about intrusive thoughts|5d31c1ca22119cbbe1b2a69dbf60a7f2
+2026-01-28T02:22:35.688120+00:00|https://news.sky.com/story/trump-wants-to-de-escalate-in-minneapolis-but-says-ice-victim-shouldnt-have-carried-gun-13499878|trump wants to deescalate in minneapolis but says ice victim shouldnt have carried gun|bb6fd2f2ce3f8ecdee01201b968ba7e4
+2026-01-28T02:22:41.197628+00:00|https://www.bbc.com/news/articles/cddgp9jgjz1o|easyjet warned over misleading £599 cabin bag fee|a8feba37a9e5ccb7240cf606efebd4d9
+2026-01-28T02:22:46.730878+00:00|https://news.sky.com/story/pms-future-is-at-stake-in-pivotal-by-election-of-his-own-making-13499842|pms future is at stake in pivotal byelection of his own making|77c872d9b69d401eae405e38e8b7222d
+2026-01-28T02:22:52.389768+00:00|https://www.bbc.com/news/articles/c33827k6elxo|vulnerable missing out on benefits due to online tool|6115149660720373702bc6ceca13a643
+2026-01-28T02:22:57.917600+00:00|https://news.sky.com/story/bereaved-mother-describes-harrowing-stillbirth-aftercare-13499742|their jaws were on the floor bereaved mother describes harrowing stillbirth aftercare|0c4c3ba62eec2f6df41cdf0804a1e34c
+2026-01-28T02:23:03.468123+00:00|https://www.bbc.com/news/articles/cd7zpgn5n47o|vets may have to publish prices of common pet treatments|5e2e12705fa9aa3c2c3740fc3a93abc4
+2026-01-28T02:23:08.999757+00:00|https://www.bbc.com/news/articles/c9dv3x5yep4o|workers party of britain pick byelection candidate|313a0a03b51435b9050d720bacb046cd
