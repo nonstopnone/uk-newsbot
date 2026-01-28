@@ -1,7 +1,3 @@
-2026-01-21T11:30:47.223918+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/health-experts-scramble-to-contain-nipah-outbreak-india|health experts scramble to contain outbreak of deadly nipah virus|11a0b6dbbf48d00a82903c31352ad463
-2026-01-21T11:30:53.254401+00:00|https://news.sky.com/story/plans-for-new-regulations-to-protect-tenants-in-scotland-from-damp-and-mould-13497041|plans for new regulations to protect tenants in scotland from damp and mould|579797b3bceddf7ace9c6db12cbcacce
-2026-01-21T11:30:58.964476+00:00|https://news.sky.com/story/emma-raducanu-to-re-evaluate-her-game-after-australian-open-defeat-13497048|raducanu to reevaluate her game after australian open defeat|d3397ff7a5f677da1b61a8c9d5e5274e
-2026-01-21T11:31:04.659777+00:00|https://news.sky.com/story/south-koreas-former-prime-minister-han-duck-soo-jailed-for-23-years-over-martial-law-declaration-13497023|south koreas former prime minister jailed over martial law declaration|ad0d88476a2b83c39ee9e416061dd522
 2026-01-21T11:56:28.306694+00:00|https://www.bbc.com/news/articles/ce9y1pvy8e1o|farage inadvertently breached mps rules says watchdog|702212efe72f4c2b5d2bf934b22be625
 2026-01-21T11:56:33.991920+00:00|https://www.bbc.com/news/articles/c0q4521pg28o|bbc to make shows for youtube in new landmark deal|a7ab500c8eee5d694ed159a6ed20b1e1
 2026-01-21T11:56:39.463980+00:00|https://www.bbc.com/news/articles/cz0pnekxpn8o|peers urged to vote for social media ban for under16s|4efa87b233929680b546c4a94f54cb77
@@ -419,3 +415,6 @@
 2026-01-28T11:29:53.235990+00:00|https://www.telegraph.co.uk/recommended/leisure/outdoor/best-bike-lights|after being told mine wasnt bright enough i tested newer better bike lights for a safer commute|b9c069a99b29582f7655023d7a4fdab9
 2026-01-28T11:29:58.896063+00:00|https://news.sky.com/story/amazon-to-cut-16000-jobs-globally-to-streamline-operations-13490208|amazon to cut 16000 jobs globally|1503db7b0084269d643c70e604840fd3
 2026-01-28T11:30:04.263927+00:00|https://news.sky.com/story/1200-jobs-at-risk-as-the-original-factory-shop-calls-in-administrators-13499997|1200 jobs at risk as the original factory shop calls in administrators|2f34b00723e85c7c049422e5e338a32a
+2026-01-28T11:49:34.149547+00:00|https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952|south koreas former first lady jailed for 20 months for corruption|424f5400d140726d540a56bf0930b0ea
+2026-01-28T11:49:39.593295+00:00|https://www.bbc.com/news/articles/cdjnp02zevko|wales first minister refuses to support keir starmer|8fc9b6d318a17e4b3ce3cc05e0467566
+2026-01-28T11:49:44.978331+00:00|https://www.bbc.com/news/articles/c93vx98z5dno|teacher uses 40yearold law to withdraw from teaching religion|a11c08edb90bd014f167b7a550436106
