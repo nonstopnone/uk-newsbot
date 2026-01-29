@@ -1,9 +1,3 @@
-2026-01-22T02:30:37.019612+00:00|https://www.bbc.com/news/articles/czx3gz6pq90o|starmer warned of labour rebellion if leasehold reforms watered down|b1c6cabdd256521fa141a73c21311218
-2026-01-22T02:30:42.612113+00:00|https://news.sky.com/story/huge-rise-in-uk-adults-using-adhd-medication-13497088|huge rise in uk adults using adhd medication|47f1aac4f6cbaa6851bf821c104b962f
-2026-01-22T02:30:48.130174+00:00|https://www.bbc.com/news/articles/c4g0vy6yyqdo|my cancer prognosis was so good because i was seen quickly|7339c20a42eeea13ae3a1e62160f89d5
-2026-01-22T02:30:53.576569+00:00|https://news.sky.com/story/logging-off-kids-social-media-ban-now-feels-almost-certain-13497390|it seems almost certain uk will ban social media for children|395ad597bb7d3e4af963e9cc7262f863
-2026-01-22T02:30:59.123518+00:00|https://www.bbc.com/sport/football/articles/cx2kd52yxpdo|liverpool top english club in deloitte money league|346ff5370ce990743e479b2e1597cf78
-2026-01-22T02:31:04.637775+00:00|https://news.sky.com/story/16320000-reward-offered-to-catch-beast-of-birkenhead-13497240|a murder thats haunted merseyside for decades now police have a new line of inquiry|c0baa246d80aa4b565051beed9b1806d
 2026-01-22T04:03:04.731637+00:00|https://news.sky.com/story/nearly-a-third-of-kids-cant-use-books-when-starting-school-and-try-to-swipe-them-like-phones-13497398|nearly a third of kids cant use books when starting school and try to swipe them like phones|2cf942b4959baed9382863f17c731917
 2026-01-22T04:03:10.348891+00:00|https://www.bbc.com/news/articles/c4g4e17g7yyo|we were lied to demeaned and smeared say hospital inquiry families|ea9ec2d3eb16b660319103934a52cfac
 2026-01-22T04:03:15.989405+00:00|https://www.bbc.com/news/articles/cx2yed50nlno|cabbies killer still not found almost 50 years on|306eb3bf4603a33dd37c57172cc831bb
@@ -443,3 +437,11 @@
 2026-01-28T23:33:40.721459+00:00|https://www.bbc.com/news/articles/cg5gpj9ev8eo|house of horrors abuser had criminal record before he became foster carer|53401dc74162313b17ff7b118e137580
 2026-01-28T23:58:32.143682+00:00|https://www.bbc.com/news/articles/ckgjprg5828o|exnigerian minister in bribery trial went on spending sprees court hears|ccf127083a5e889101dfaead5518738e
 2026-01-28T23:58:37.561910+00:00|https://news.sky.com/story/sky-news-picks-up-three-trophies-at-2026-political-podcast-awards-13500415|sky news wins three political podcast awards|ab749d0fe20c1d935e933d948020930c
+2026-01-29T02:47:05.966041+00:00|https://www.telegraph.co.uk/football/2026/01/28/manchester-city-vs-galatasaray-live-score-champions-league|guardiola has mourinho to thank as city scrape into champions league top eight|aa6c76ad03a902d2939e7eb69ba98f2a
+2026-01-29T02:47:11.496260+00:00|https://news.sky.com/story/fbi-probes-attack-on-democrat-ilhan-omar-as-she-blames-trump-13500438|fbi probes attack on democrat as she blames trump|90785d44f73fb0be529e8831421c0ece
+2026-01-29T02:47:17.006936+00:00|https://www.bbc.com/news/articles/c0r425pyl57o|keep suspended pupils in school ministers say|797fdb86b9fc9e412b490b8816093986
+2026-01-29T02:47:22.506478+00:00|https://news.sky.com/story/video-shows-alex-pretti-clash-with-federal-agents-a-week-before-he-was-killed-13500437|video shows alex pretti clash with federal agents a week before he was killed|3176702a57774f3fef56de6085ef9f32
+2026-01-29T02:47:28.096717+00:00|https://www.bbc.com/news/articles/cn7j5m4kmx8o|the papers countdown to conflagration and restore high streets or lose election|793742e27c481f47b42919626ffbb546
+2026-01-29T02:47:33.681287+00:00|https://news.sky.com/story/the-doctors-who-want-you-to-know-what-happened-inside-iran-13500411|the doctors who want you to know what happened inside iran|f07c3bbf96cf05342db1daef8f6c8b8f
+2026-01-29T02:47:39.099169+00:00|https://www.bbc.com/news/articles/cy9y1wvq3pdo|you dont feel judged why we buy more at selfservice terminals|63520d2f685b70be58fc6c158e5dcd55
+2026-01-29T02:47:44.531619+00:00|https://news.sky.com/story/more-suspended-pupils-to-stay-in-school-under-new-government-behaviour-rules-13500279|changes announced for devalued school suspensions|d19033eed9bbc702dc3082a78da3de68
