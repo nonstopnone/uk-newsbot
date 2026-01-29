@@ -10931,3 +10931,6 @@
 2026-01-29T23:12:56.881311+00:00|https://www.nytimes.com/2026/01/29/us/politics/trump-2020-election-claims-fact-check.html|how trumps 2020 election claims have been debunked again and again us news|1f4c820fb262c7c08bfff95fc3dd623b
 2026-01-29T23:12:57.536143+00:00|https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html|murdoch and news corp take on the west coast with the california post us news|015a17b7e2dca7646181c25f79905f92
 2026-01-29T23:12:58.240326+00:00|https://www.nbcnews.com/video/shorts/record-number-of-manatees-spotted-in-florida-lagoon-256842309806|record number of manatees spotted in florida lagoon us news|68544fe10044edd3e09e1af1bbb78893
+2026-01-29T23:40:47.461224+00:00|https://www.nytimes.com/2026/01/29/briefing/democrats-reach-a-deal-with-the-white-house.html|democrats reach a deal with the white house us news|550fa50e273e3466fb0e20251e33adff
+2026-01-29T23:40:48.100443+00:00|https://www.nytimes.com/2026/01/29/us/politics/trump-putin-ceasefire-cold.html|trump says putin agreed to a weeklong pause in attacks amid extreme cold us news|417b6121ce50c645dfba3c5901a14698
+2026-01-29T23:40:48.733226+00:00|https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html|michael beck 65 dies first to report symptoms of havana syndrome us news|23ff734616b41e1cb8dd1fc43d4bb59c
