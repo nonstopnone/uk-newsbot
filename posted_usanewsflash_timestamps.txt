@@ -10865,3 +10865,4 @@
 2026-01-28T23:49:56.131806+00:00|https://www.nytimes.com/2026/01/28/world/canada/norad-us-canada-security-agreement.html|why the norad cold war pact between the us and canada is news us news|fdca8edf63911637646b5529ad48ad77
 2026-01-28T23:49:56.785854+00:00|https://www.nytimes.com/2026/01/28/briefing/agents-leave-trump-iran-fbi-georgia.html|agents who shot alex pretti are put on leave us news|afcf7a133529e1fdfade9074de2facb6
 2026-01-28T23:49:57.499386+00:00|https://www.nytimes.com/2026/01/28/nyregion/mamdani-budget.html|mamdani blames rivals for leaving new york with a poisoned budget us news|17ccd43359e14a8c2f818cb4dde4d7aa
+2026-01-29T00:00:21.245747+00:00|https://www.nytimes.com/2026/01/28/us/politics/california-billionaires-sergey-brin-campaign.html|sergey brin spends $20 million on california political effort amid wealth tax debate us news|4197ecbbfeedc5f6791753fac7178f6e
