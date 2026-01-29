@@ -10890,3 +10890,8 @@
 2026-01-29T11:20:02.809903+00:00|https://www.nytimes.com/2026/01/29/us/maxim-naumov-2026-olympics-dc-plane-crash.html|maxim naumov to skate at 2026 olympics after parents death in dc plane crash us news|3a2659ce222ca49f55c733c4a7c1124f
 2026-01-29T11:20:05.076782+00:00|https://www.nytimes.com/2026/01/29/us/politics/trump-lawsuits-tracker-takeaways.html|what we learned after tracking every lawsuit challenging trumps policies us news|4aff6b863344da8c4805743909ae318a
 2026-01-29T11:54:18.190319+00:00|https://www.nytimes.com/2026/01/29/arts/design/shakers-ica-philadelphia.html|the shakers utopian world sees a surge of modern interest us news|55c80c9a869f8fd443d9cf2c0323b1b7
+2026-01-29T12:31:11.406014+00:00|https://www.bbc.com/sport/basketball/articles/clymevmr2jyo|james brought to tears by cleveland video tribute us news|1fd84f95fca0c105963bbf872f8b7971
+2026-01-29T12:31:12.066710+00:00|https://www.nytimes.com/2026/01/29/briefing/a-crisis-for-president-trump.html|a crisis for president trump us news|00e67ce82130c489a242825c3c49fb4c
+2026-01-29T12:31:12.724255+00:00|https://abcnews.go.com/Politics/sen-amy-klobuchar-announces-run-minnesota-governor-amid/story|sen amy klobuchar announces run for minnesota governor amid immigration turmoil us news|64e1352db4d1be847cfbc31063230c14
+2026-01-29T12:31:13.411842+00:00|https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html|amy klobuchar announces run for minnesota governor us news|02b8d37027f40ec3f239a801ffc975ae
+2026-01-29T12:31:14.130238+00:00|https://www.nbcnews.com/politics/2026-election/sen-amy-klobuchar-jumps-minnesota-governors-race-rcna252390|sen amy klobuchar jumps into minnesota governors race us news|cad5651a3035ffca22f050266a076db5
