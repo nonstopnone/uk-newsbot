@@ -1,7 +1,3 @@
-2026-01-22T19:40:14.832861+00:00|https://news.sky.com/story/paul-john-lumber-bristol-man-died-after-falling-from-ladder-while-tying-union-flags-to-lampposts-at-night-13497738|man died in fall tying flags to lampposts inquest told|5f8605616b15332cf675d135519c9107
-2026-01-22T19:40:20.370217+00:00|https://www.bbc.com/news/articles/cpwnn10rgk4o|number of police forces to be cut in major shakeup|70338be9bd34c9fa0218d6b9e65f1bc8
-2026-01-22T19:40:25.912589+00:00|https://www.bbc.com/news/articles/c98jjnpg7gpo|inquest told actor william rush found unconscious|b3dff721799f14507fd40c0a03aca742
-2026-01-22T19:40:31.545641+00:00|https://www.bbc.com/news/articles/cg4ee14v069o|acid attack victim killed in plot involving exwife|4943c164a0250bed0efb2f2171dee642
 2026-01-22T19:55:53.263555+00:00|https://www.bbc.com/news/articles/cvgnnv4449ko|three people die at same waterfall beauty spot as warning issued|729e5ff5da9fd08be4ef4e1ced120bd0
 2026-01-22T19:55:58.667460+00:00|https://www.bbc.com/news/articles/cx2yy93xlx0o|former charlton athletic owner charged with fraud|1b8b3db988605a3f3e6c519120b6a187
 2026-01-22T20:38:10.621711+00:00|https://www.telegraph.co.uk/football/2026/01/22/fenerbahce-vs-aston-villa-live-score-latest-europa-league|emery shoves tielemans as villa win to book place in europa league last 16|4d9b347e0a1737c7a7ecd77724af98db
@@ -471,3 +467,8 @@
 2026-01-29T17:43:07.485544+00:00|https://news.sky.com/story/thank-god-for-my-mum-former-little-mix-singer-on-how-experts-missed-twins-rare-medical-condition-13500670|former little mix singer tells sky news how it was her mum who first noticed twins rare genetic condition|bb4a890b17cf95b854738c30fe777b31
 2026-01-29T18:25:22.274960+00:00|https://www.bbc.com/news/articles/c368yjy663zo|archbishop of york to face no action over sexual abuse case|33d4cc35372395300c359233f4e6eafd
 2026-01-29T18:25:27.677131+00:00|https://www.bbc.com/news/articles/cm2j0l85dvro|girl 7 swept out to sea on holiday in morocco|974200dce845cd8bb918d0d68da30bc8
+2026-01-29T19:46:20.623339+00:00|https://news.sky.com/story/body-found-in-search-for-missing-kayaker-13500762|body found in search for missing kayaker|49697b90d138ee697ca75d73a6f47592
+2026-01-29T19:46:26.295615+00:00|https://www.bbc.com/news/articles/cx2l3dy0llro|scotlands first deputy first minister lord jim wallace dies aged 71|5ce7b78c6125af5effb09388bdad4204
+2026-01-29T19:46:31.976919+00:00|https://news.sky.com/story/paedophile-nursery-worker-vincent-chan-admits-30-new-charges-13500751|paedophile nursery worker admits 30 new charges|8ee8eb2a7d4b5aaf62e47f26376e4a0a
+2026-01-29T19:46:37.686793+00:00|https://www.bbc.com/news/articles/c4gwyzxg90vo|uni rugby match abandoned after almost 30 players brawl on pitch|466ca1275706154900695e467a758ce2
+2026-01-29T19:46:43.336113+00:00|https://www.bbc.com/news/articles/c8e5293dp6ro|navy introduces new alcohol limits for sailors while on ship|05344828981ae49c8ff662928d5803fb
