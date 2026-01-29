@@ -10884,3 +10884,8 @@
 2026-01-29T06:05:37.954480+00:00|https://www.nytimes.com/2026/01/28/nyregion/chabad-crash-eastern-parkway.html|driver rams car into headquarters of chabad hasidic movemen us news|12dea2bb6ef2720fde81524133b9997d
 2026-01-29T07:49:14.474794+00:00|https://www.nytimes.com/2026/01/29/arts/television/late-night-ilhan-omar.html|late night praises ilhan omars quick reflexes us news|510412d712e436aa16a31c12d7be7d65
 2026-01-29T10:43:04.205486+00:00|https://www.nbcnews.com/video/shorts/protesters-clash-with-police-at-texas-detention-center-256790085925|protesters clash with police at texas detention center us news|97d9fdc02163007313c0d8fb10b895d2
+2026-01-29T11:19:59.410927+00:00|https://www.bbc.com/news/articles/cn9zp0nyvxdo|talks ramp up to avert us government shutdown after minneapolis shooting us news|553e4061b5c1992d040d087595ca3c01
+2026-01-29T11:20:00.074765+00:00|https://www.nytimes.com/2026/01/29/us/politics/taylor-rehmet-leigh-wambsganss-texas-election.html|a state senate race in texas offers republicans a warning us news|1af709946590da034e783ab3ead5304a
+2026-01-29T11:20:00.921983+00:00|https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html|netanyahu vows to cut israels reliance on us military aid us news|b8060abb1ff83ae1a8a012064dfbc6a5
+2026-01-29T11:20:02.809903+00:00|https://www.nytimes.com/2026/01/29/us/maxim-naumov-2026-olympics-dc-plane-crash.html|maxim naumov to skate at 2026 olympics after parents death in dc plane crash us news|3a2659ce222ca49f55c733c4a7c1124f
+2026-01-29T11:20:05.076782+00:00|https://www.nytimes.com/2026/01/29/us/politics/trump-lawsuits-tracker-takeaways.html|what we learned after tracking every lawsuit challenging trumps policies us news|4aff6b863344da8c4805743909ae318a
