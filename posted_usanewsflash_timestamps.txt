@@ -10882,3 +10882,4 @@
 2026-01-29T06:05:36.723004+00:00|https://www.nytimes.com/2026/01/28/us/politics/shooting-dhs-turmoil.html|shooting aftermath leaves homeland security department in turmoil us news|5028171c59ed45cf7ae8d261c4e5412d
 2026-01-29T06:05:37.334366+00:00|https://www.nbcnews.com/news/us-news/car-crash-headquarters-chabad-lubavitch-movement-nyc-investigated-hate-rcna256438|car crash into chabad headquarters in nyc is investigated as hate crime us news|b629b25a6faa958881d1ff3a19116974
 2026-01-29T06:05:37.954480+00:00|https://www.nytimes.com/2026/01/28/nyregion/chabad-crash-eastern-parkway.html|driver rams car into headquarters of chabad hasidic movemen us news|12dea2bb6ef2720fde81524133b9997d
+2026-01-29T07:49:14.474794+00:00|https://www.nytimes.com/2026/01/29/arts/television/late-night-ilhan-omar.html|late night praises ilhan omars quick reflexes us news|510412d712e436aa16a31c12d7be7d65
