@@ -14,6 +14,7 @@ import random
 import difflib
 import json
 import argparse
+import urllib.parse
 from dateutil import parser as dateparser
 from collections import defaultdict
 
@@ -44,11 +45,6 @@ class Col:
     RESET = '\033[0m'
 
 # ===== Section: Extensive Keyword Lists =====
-
-# Compiled Regex for efficiency
-def compile_list(word_list):
-    # Matches whole words only, case insensitive
-    return [re.compile(r'\b' + re.escape(w) + r'\b', re.IGNORECASE) for w in word_list]
 
 # A. Banned Phrases (Spam, fluff, shopping, opinions)
 BANNED_PHRASES = [
@@ -110,6 +106,11 @@ CATEGORY_KEYWORDS = {
         "disaster", "hurricane", "tornado", "earthquake", "wildfire", "flood", "explosion", "crash"
     ]
 }
+# Pre-compile Category Regex
+CATEGORY_PATTERNS = {
+    cat: [re.compile(r'\b' + re.escape(kw) + r'\b', re.IGNORECASE) for kw in keywords]
+    for cat, keywords in CATEGORY_KEYWORDS.items()
+}
 
 # C. US Relevance Keywords (Huge Expansion)
 US_RELEVANCE_TERMS = set([
@@ -146,6 +147,10 @@ NEGATIVE_TERMS = set([
     "eu", "european union", "australia", "canada", "india", "china", "russia", "ukraine", "gaza"
 ])
 
+# Pre-compile Relevance Regex
+US_RELEVANCE_PATTERNS = [re.compile(r'\b' + re.escape(term) + r'\b', re.IGNORECASE) for term in US_RELEVANCE_TERMS]
+NEGATIVE_PATTERNS = [re.compile(r'\b' + re.escape(term) + r'\b', re.IGNORECASE) for term in NEGATIVE_TERMS]
+
 # ===== Section: Utility Functions =====
 
 def log(tag, msg, color=Col.RESET):
@@ -157,8 +162,8 @@ def load_json(filepath, default_factory=dict):
         try:
             with open(filepath, 'r') as f:
                 return json.load(f)
-        except:
-            pass
+        except Exception as e:
+            log("JSON", f"Failed to load {filepath}: {e}", Col.RED)
     return default_factory()
 
 def save_json(filepath, data):
@@ -171,6 +176,14 @@ def normalize_text(text):
     text = re.sub(r'[^\w\s]', '', text)
     return text.lower().strip()
 
+def normalize_url(url):
+    """Properly normalize URL by removing query params and fragments."""
+    try:
+        parsed = urllib.parse.urlparse(url)
+        return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path.rstrip('/'), '', '', ''))
+    except:
+        return url.split('?')[0].rstrip('/')
+
 def get_content_hash(title, summary):
     raw = f"{normalize_text(title)}{normalize_text(summary)}"
     return hashlib.md5(raw.encode('utf-8')).hexdigest()
@@ -181,7 +194,8 @@ class DataManager:
     def __init__(self):
         self.history = self.load_dedup()
         self.metrics = load_json(METRICS_FILE)
-        self.posted_this_run = set()
+        self.posted_this_run_hashes = set()
+        self.posted_this_run_titles = set()
 
     def load_dedup(self):
         history = []
@@ -233,17 +247,17 @@ class DataManager:
             log("DB", f"Error saving history: {e}", Col.RED)
 
     def is_duplicate(self, url, title, content_hash):
-        # 1. URL Check (Normalize by stripping query params)
-        norm_url = url.split('?')[0].rstrip('/')
+        # 1. URL Check
+        norm_url = normalize_url(url)
         
         for item in self.history:
-            hist_url = item['url'].split('?')[0].rstrip('/')
+            hist_url = normalize_url(item['url'])
             if hist_url == norm_url:
                 return True, "URL Match"
             if item['hash'] == content_hash:
                 return True, "Hash Match"
         
-        # 2. Fuzzy Title Match (Historical)
+        # 2. Historical Fuzzy Title Match
         norm_title = normalize_text(title)
         for item in self.history:
             hist_title = normalize_text(item['title'])
@@ -251,10 +265,15 @@ class DataManager:
             if ratio > FUZZY_THRESHOLD:
                 return True, f"Hist Fuzzy Match ({ratio:.2f})"
 
-        # 3. In-Run Check
-        for p_hash in self.posted_this_run:
-            if p_hash == content_hash:
-                return True, "In-Run Duplicate"
+        # 3. In-Run Fuzzy Check
+        for posted_title in self.posted_this_run_titles:
+            ratio = difflib.SequenceMatcher(None, norm_title, posted_title).ratio()
+            if ratio > FUZZY_THRESHOLD:
+                return True, f"In-Run Fuzzy ({ratio:.2f})"
+
+        # 4. In-Run Hash Check
+        if content_hash in self.posted_this_run_hashes:
+            return True, "In-Run Hash"
             
         return False, None
 
@@ -266,7 +285,8 @@ class DataManager:
             'hash': content_hash
         }
         self.history.append(entry)
-        self.posted_this_run.add(content_hash)
+        self.posted_this_run_hashes.add(content_hash)
+        self.posted_this_run_titles.add(normalize_text(title))
         self.save_dedup_file(self.history)
         
         # Update Metrics
@@ -285,15 +305,19 @@ class Analyzer:
         text = f"{title} {summary}".lower()
         scores = {cat: 0 for cat in CATEGORY_KEYWORDS}
         
-        for cat, keywords in CATEGORY_KEYWORDS.items():
-            for kw in keywords:
-                if re.search(r'\b' + re.escape(kw) + r'\b', text):
+        for cat, patterns in CATEGORY_PATTERNS.items():
+            for pattern in patterns:
+                if pattern.search(text):
                     # Weighted scoring: Title matches worth 2, Summary 1
-                    weight = 2 if kw in title.lower() else 1
+                    weight = 2 if pattern.search(title.lower()) else 1
                     scores[cat] += weight
         
-        # Find max score
-        best_cat = max(scores, key=scores.get)
+        # Priority Tie-Breaking
+        priority = ["Breaking News", "Politics", "Crime & Legal", "Sports", "Entertainment", "Royals"]
+        # Logic: Maximize score. If scores equal, maximize priority (index 0 is best, so negative index)
+        # Non-priority items get index 99
+        best_cat = max(scores, key=lambda k: (scores[k], -priority.index(k) if k in priority else -99))
+        
         if scores[best_cat] == 0:
             return "Breaking News", 0 # Default
         
@@ -306,14 +330,24 @@ class Analyzer:
         matched = []
         
         # Positive
-        for term in US_RELEVANCE_TERMS:
-            if re.search(r'\b' + re.escape(term) + r'\b', text):
+        for pattern in US_RELEVANCE_PATTERNS:
+            matches = pattern.findall(text)
+            if matches:
+                score += len(matches) # Each occurrence adds to score? Or just +1 per term?
+                # Original logic implied +1 per term presence. Let's stick to unique term presence adding +1
+                # Actually, original code was: if re.search... score += 1. So 1 point per term.
+                # Regex findall returns all matches. Let's just give 1 point if match exists.
+                # Wait, pattern matches specific term. So if "USA" is there twice, pattern finds 2? 
+                # Original: for term in TERMS: if term in text: score += 1.
+                # So if text has "USA" and "America", score +2.
+                # If text has "USA" twice, score +1.
+                # Correct logic for parity:
                 score += 1
-                matched.append(term)
+                matched.append(pattern.pattern.replace(r'\b', '').replace(r'(?i)', '')) # Approximation for logging
         
         # Negative (Soft penalty)
-        for term in NEGATIVE_TERMS:
-             if re.search(r'\b' + re.escape(term) + r'\b', text):
+        for pattern in NEGATIVE_PATTERNS:
+             if pattern.search(text):
                 score -= 1
                 
         # Major Event Boost
@@ -391,7 +425,8 @@ class NewsBot:
             for f in self.subreddit.flair.link_templates:
                 if f['text'] == flair_text:
                     return f['id']
-        except: pass
+        except Exception as e:
+            log("FLAIR", f"Failed to fetch flair '{flair_text}': {e}", Col.YELLOW)
         return None
 
     def run_rss_cycle(self):
@@ -412,7 +447,12 @@ class NewsBot:
                             if not dt.tzinfo: dt = dt.replace(tzinfo=timezone.utc)
                             break
                     
-                    if not dt or dt < min_time: continue
+                    if not dt:
+                        log("SKIP", f"No timestamp: {entry.title[:40]}...", Col.YELLOW)
+                        continue
+                    if dt < min_time:
+                        log("SKIP", f"Too old: {entry.title[:40]}...", Col.YELLOW)
+                        continue
                     
                     # Basic Extraction
                     title = html.unescape(entry.title).strip()
@@ -422,11 +462,15 @@ class NewsBot:
                     
                     # Dedup Check
                     is_dup, reason = self.data.is_duplicate(link, title, c_hash)
-                    if is_dup: continue
+                    if is_dup: 
+                        log("SKIP", f"Duplicate ({reason}): {title[:40]}...", Col.YELLOW)
+                        continue
                     
                     # Hard Reject Check
                     is_rejected, reason = self.analyzer.is_hard_reject(title, summary)
-                    if is_rejected: continue
+                    if is_rejected: 
+                        log("REJECT", f"{reason}: {title[:40]}...", Col.YELLOW)
+                        continue
                     
                     # Scoring & Categorization
                     score, keywords = self.analyzer.calculate_us_score(title, summary)
@@ -447,6 +491,9 @@ class NewsBot:
                             'category': category,
                             'timestamp': dt
                         })
+                    else:
+                        log("REJECT", f"Low Score ({score}/{threshold}): {title[:40]}...", Col.YELLOW)
+
             except Exception as e:
                 log("RSS", f"Error {source}: {e}", Col.RED)
 
@@ -454,23 +501,32 @@ class NewsBot:
 
     def process_manual_url(self, url):
         log("MANUAL", f"Processing {url}", Col.BLUE)
-        # For manual, we don't have RSS metadata, so we must scrape first
-        # Simplified: We use the fetcher to get text, title from headers if possible? 
-        # Actually easier to use BS4 to get title.
         try:
             headers = {'User-Agent': 'Mozilla/5.0'}
             resp = requests.get(url, headers=headers)
             soup = BeautifulSoup(resp.content, 'html.parser')
             title = soup.title.string if soup.title else url
-            summary = "" # No summary avail
             
+            summary = ""
+            meta_desc = soup.find('meta', attrs={'name': 'description'})
+            if not meta_desc:
+                meta_desc = soup.find('meta', attrs={'property': 'og:description'})
+            if meta_desc and meta_desc.get('content'):
+                summary = meta_desc['content']
+            
+            c_hash = get_content_hash(title, summary)
+            is_dup, reason = self.data.is_duplicate(url, title, c_hash)
+            if is_dup:
+                log("MANUAL", f"Already posted ({reason})", Col.RED)
+                return
+
             # Create a mock candidate
             candidates = [{
                 'source': 'Manual Submission',
                 'title': title,
                 'summary': summary,
                 'link': url,
-                'hash': get_content_hash(title, summary),
+                'hash': c_hash,
                 'score': 10, # Force post
                 'keywords': ['manual'],
                 'category': 'Breaking News',
@@ -493,6 +549,7 @@ class NewsBot:
         active_sources = list(source_groups.keys())
         
         while len(selected) < TARGET_POSTS and active_sources:
+            made_progress = False
             for source in list(active_sources):
                 if not source_groups[source]:
                     active_sources.remove(source)
@@ -505,7 +562,11 @@ class NewsBot:
                     continue
                 
                 selected.append(source_groups[source].pop(0))
+                made_progress = True
                 if len(selected) >= TARGET_POSTS: break
+            
+            if not made_progress:
+                break
         
         log("SELECT", f"Selected {len(selected)} articles for posting", Col.GREEN)
         
