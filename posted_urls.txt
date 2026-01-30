@@ -1,5 +1,3 @@
-2026-01-23T06:50:11.639093+00:00|https://www.bbc.com/news/articles/c5ydd88vdkeo|scottish water bills to rise by 87 from april|1b9f359b64692b22182c18a5ff8267ef
-2026-01-23T06:50:17.149900+00:00|https://www.bbc.com/news/articles/cjdjrg9ymmxo|gang held sledgehammer to my head in £1m burglary|e187f055fcea23878c0cb8f17f59976b
 2026-01-23T07:32:53.538247+00:00|https://www.bbc.com/news/articles/cew84pdg2dgo|heathrow runway change will make our village unliveable|522956f9f7104093b22c8b545d5bf959
 2026-01-23T07:32:59.005290+00:00|https://www.bbc.com/news/articles/c8e59zrxrypo|i gave last 46p young people tell how they felt pressure to donate to emerging church|76095dc59d0cb861936ce60eb39f4d25
 2026-01-23T08:40:11.433084+00:00|https://www.bbc.com/news/articles/cy8y4qz9429o|demand for online jewellery boosts december retail sales|93f3695b3d7ab7315f495f63b93978ce
@@ -477,3 +475,7 @@
 2026-01-30T05:54:11.593489+00:00|https://www.bbc.com/news/articles/c20825qwgz2o|secret filming catches locksmith charging 10 times quote|dfd99d8e287372588048a1c182da6fad
 2026-01-30T05:54:17.280992+00:00|https://news.sky.com/story/starmer-in-china-to-improve-british-economy-harriet-harman-says-13500657|starmer in china to improve british economy harriet harman says|a1dc3640730a298d920bbe0295ce78f4
 2026-01-30T05:54:23.007153+00:00|https://news.sky.com/story/morning-rundown-trumps-uk-china-warning-mozambique-flood-crisis-and-joshuas-emotional-tribute-13500875|trumps ukchina warning mozambique flood crisis joshuas emotional tribute morning rundown|42ccb5787f134bce6e995cb4d28b9523
+2026-01-30T07:00:25.458554+00:00|https://www.bbc.com/news/articles/ce8ek65ed1po|mum of girl killed in blast asks government for direct talks|d00429698852aefe2e7d804fd1987fdc
+2026-01-30T07:00:31.150798+00:00|https://news.sky.com/story/trump-endorses-deal-struck-with-democrats-to-avert-government-shutdown-13500874|trump endorses deal struck with democrats to avert government shutdown|8906991a5fbff85ddfb707df37c6e190
+2026-01-30T07:00:36.928523+00:00|https://www.bbc.com/news/articles/c93v21q5xdvo|secret warehouse guards lost world of treasures found on hs2 route|046a77081fcf53d10589bd63b1f5c43a
+2026-01-30T07:00:42.465275+00:00|https://www.bbc.com/news/articles/cy7m3ezr80yo|arrests made over supersized illegal rubbish dump|663d39a61c9b61c2415930f06e364fd2
