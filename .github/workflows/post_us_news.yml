@@ -20,7 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Important for git history
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -50,16 +50,22 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # CRITICAL: Pull latest changes to avoid "Updates were rejected"
-          git pull origin main --rebase
+          # STRATEGY: Commit First, Then Pull --Rebase, Then Push
+          # This avoids "unstaged changes" errors because everything is committed before pull.
           
-          # Add potentially changed files
-          git add posted_usanewsflash_timestamps.txt metrics.json || true
+          # 1. Add all changes (tracked and untracked)
+          git add posted_usanewsflash_timestamps.txt metrics.json
           
-          # Commit and Push
+          # 2. Commit locally (if there are changes)
+          # We check status first to avoid empty commit errors
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto-update history and metrics [skip ci]"
+            
+            # 3. Pull with Rebase (Applies our commit on top of remote)
+            git pull origin main --rebase
+            
+            # 4. Push
             git push origin main
           fi
