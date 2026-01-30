@@ -10939,3 +10939,8 @@
 2026-01-30T02:38:20.500936+00:00|https://www.nytimes.com/2026/01/29/us/newsom-oz-fraud-armenians.html|newsom files civil rights complaint against dr oz over fraud video us news|12fd01a4f10c17f9383713b5050835c9
 2026-01-30T02:38:21.009964+00:00|https://www.nbcnews.com/video/white-house-strikes-deal-with-democrats-to-avert-government-shutdown-256846917590|white house strikes deal with democrats to avert government shutdown us news|e6cabb8c92c391ebe2f5ce21f8fe38ce
 2026-01-30T02:38:21.572039+00:00|https://www.nbcnews.com/video/shorts/president-trump-says-wife-s-film-brings-back-glamour-256871493783|president trump says wifes film brings back glamour us news|a84e485f437fb9f8dbabaed4ded2c9da
+2026-01-30T04:23:34.771839+00:00|https://www.bbc.com/news/articles/c23ryyrx40yo|trump and his sons sue irs and us treasury over leaked tax information us news|551f97dc735aabe660891ea5fc2f687e
+2026-01-30T04:23:35.450114+00:00|https://www.nbcnews.com/video/shorts/president-and-first-lady-attend-melania-premiere-256872005585|president and first lady attend melania premiere us news|32a4dd31bc9ab41b28058aeb8e2078ac
+2026-01-30T04:23:36.187162+00:00|https://abcnews.go.com/Politics/trump-sues-irs-treasury-10-billion-tax-returns/story|trump sues irs treasury for $10 billion over tax returns leak us news|267746479f4ac2be2791077292288ab4
+2026-01-30T04:23:36.919249+00:00|https://www.nytimes.com/2026/01/29/us/politics/trump-irs-lawsuit.html|trump sues irs over tax data leak demanding $10 billion us news|4b9eda3091cf1a54ba4d518655a22f89
+2026-01-30T04:23:37.590472+00:00|https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html|california jury convicts exgoogle engineer of stealing ai secrets us news|56747047620f65d08fd969efa53bdba4
