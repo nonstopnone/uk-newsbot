@@ -10952,3 +10952,8 @@
 2026-01-30T06:08:12.794533+00:00|https://www.nytimes.com/2026/01/29/world/asia/xi-zhang-military-purge-taiwan.html|xis military purge may set back his taiwan ambitions us news|8cccc2b97bf1118e6f67cf89e35348e7
 2026-01-30T06:08:13.595620+00:00|https://www.nbcnews.com/video/shorts/driverless-waymo-car-hits-child-in-california-256877125727|driverless waymo car hits child in california us news|b04caf3f271fd983959f7c0df6e87f92
 2026-01-30T08:21:43.837486+00:00|https://www.nytimes.com/video/us/100000010669504/what-domestic-terrorism-means-and-doesnt.html|what domestic terrorism means and doesnt us news|465ab74f2576886bf954f0319d9c8a65
+2026-01-30T11:02:57.854332+00:00|https://www.bbc.com/news/videos/cvgnqgl57p2o|shes done a great job donald trump praises melanias film us news|508bf88cfa6d8534647615fa3dc2a17b
+2026-01-30T11:02:58.442895+00:00|https://www.nytimes.com/2026/01/30/us/politics/minneapolis-trump-renee-good-alex-pretti.html|factchecking trump officials on minnesota after shootings by federal agents us news|8539f8c455ebe4f8138662fac0ebc9d5
+2026-01-30T11:02:59.025063+00:00|https://www.nytimes.com/2026/01/30/us/politics/georgia-trump-election.html|fbi search in georgia shows trumps willingness to pursue 2020 grievances us news|b0255a2180e9edc484b6c8f15a5177b5
+2026-01-30T11:02:59.589907+00:00|https://www.nytimes.com/2026/01/30/magazine/minnesota-investigation-state-federalism.html|in minnesota americas federal system is coming apart us news|03553fa5f9afb8e60a3af10637b12ed6
+2026-01-30T11:03:00.106019+00:00|https://www.nytimes.com/2026/01/30/movies/brett-ratner-melania-trump-documentary.html|brett ratner makes directing comeback with melania us news|5404c568f7e2578cf6b50f37d3d574d2
