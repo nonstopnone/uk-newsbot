@@ -25,7 +25,7 @@ MAX_PER_SOURCE = 3          # Max articles from one source per run
 TIME_WINDOW_HOURS = 4       # How far back to look
 DEDUP_FILE = 'posted_usanewsflash_timestamps.txt'
 METRICS_FILE = 'metrics.json'
-IN_RUN_FUZZY_THRESHOLD = 0.55  # Strict check for duplicates in the same run
+FUZZY_THRESHOLD = 0.75      # 75% similarity considers it a duplicate
 HISTORY_RETENTION_DAYS = 7     # Keep dedup history for 7 days
 
 # 2. Source Definitions (Strictly US Divisions of UK/Intl Media)
@@ -201,11 +201,17 @@ class DataManager:
                                 
                                 # Cleanup: Only keep recent
                                 if now - ts < retention_delta:
+                                    # Handle pipes in titles correctly
+                                    # URL is parts[1], Hash is parts[-1], Title is everything in between
+                                    url = parts[1]
+                                    content_hash = parts[-1]
+                                    title = "|".join(parts[2:-1])
+                                    
                                     history.append({
                                         'timestamp': ts,
-                                        'url': parts[1],
-                                        'title': parts[2],
-                                        'hash': parts[3]
+                                        'url': url,
+                                        'title': title,
+                                        'hash': content_hash
                                     })
                             except: continue
             except Exception as e:
@@ -220,15 +226,19 @@ class DataManager:
             with open(DEDUP_FILE, 'w', encoding='utf-8') as f:
                 for item in history_list:
                     ts_str = item['timestamp'].isoformat()
-                    f.write(f"{ts_str}|{item['url']}|{item['title']}|{item['hash']}\n")
+                    # Sanitize pipes in title just in case, though loading handles it
+                    clean_title = item['title'].replace('\n', ' ')
+                    f.write(f"{ts_str}|{item['url']}|{clean_title}|{item['hash']}\n")
         except Exception as e:
             log("DB", f"Error saving history: {e}", Col.RED)
 
     def is_duplicate(self, url, title, content_hash):
-        # 1. URL Check
-        norm_url = url.split('?')[0] # Remove query params
+        # 1. URL Check (Normalize by stripping query params)
+        norm_url = url.split('?')[0].rstrip('/')
+        
         for item in self.history:
-            if item['url'].split('?')[0] == norm_url:
+            hist_url = item['url'].split('?')[0].rstrip('/')
+            if hist_url == norm_url:
                 return True, "URL Match"
             if item['hash'] == content_hash:
                 return True, "Hash Match"
@@ -237,8 +247,9 @@ class DataManager:
         norm_title = normalize_text(title)
         for item in self.history:
             hist_title = normalize_text(item['title'])
-            if difflib.SequenceMatcher(None, norm_title, hist_title).ratio() > 0.85:
-                return True, "Hist Fuzzy Match"
+            ratio = difflib.SequenceMatcher(None, norm_title, hist_title).ratio()
+            if ratio > FUZZY_THRESHOLD:
+                return True, f"Hist Fuzzy Match ({ratio:.2f})"
 
         # 3. In-Run Check
         for p_hash in self.posted_this_run:
