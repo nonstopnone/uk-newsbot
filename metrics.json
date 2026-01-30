@@ -5,7 +5,8 @@
     "Sky": 428,
     "Telegraph": 123,
     "Manual": 3,
-    "BBC News US": 1
+    "BBC News US": 1,
+    "Sky News US": 1
   },
   "categories": {
     "Politics": 578,
@@ -15,7 +16,7 @@
     "Sport": 57,
     "Royals": 53,
     "Immigration": 3,
-    "Breaking News": 108,
+    "Breaking News": 109,
     "Culture": 38,
     "Environment": 14
   }
