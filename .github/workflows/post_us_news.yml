@@ -3,12 +3,16 @@ name: Post US News to Reddit
 on:
   schedule:
     - cron: '5,15,35,55 * * * *'  # Runs at 5, 15, 35, and 55 minutes past every hour
-  workflow_dispatch:              # This adds the "Run workflow" button in GitHub Actions
+  workflow_dispatch:
+    inputs:
+      manual_url:
+        description: 'Manual Article URL (Optional)'
+        required: false
+        type: string
 
 jobs:
   post_news:
     runs-on: ubuntu-latest
-    # Granting write permissions so the bot can push the dedup file back to the repo
     permissions:
       contents: write
 
@@ -16,8 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          # Using fetch-depth 0 ensures we have the history to handle the pull/push correctly
-          fetch-depth: 0
+          fetch-depth: 0 # Important for git history
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -35,19 +38,28 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
-        run: python post_us_news.py
+        run: |
+          if [ "${{ inputs.manual_url }}" != "" ]; then
+            python post_us_news.py --manual-url "${{ inputs.manual_url }}"
+          else
+            python post_us_news.py
+          fi
 
-      - name: Commit and push deduplication file
+      - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Pull first to ensure we don't have conflicts if a previous run updated the file
+          # CRITICAL: Pull latest changes to avoid "Updates were rejected"
           git pull origin main --rebase
           
-          # Only commit if the file actually changed
-          if [ -f posted_usanewsflash_timestamps.txt ]; then
-            git add posted_usanewsflash_timestamps.txt
-            git commit -m "Update deduplication file [skip ci]" || echo "No changes to commit"
+          # Add potentially changed files
+          git add posted_usanewsflash_timestamps.txt metrics.json || true
+          
+          # Commit and Push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update history and metrics [skip ci]"
             git push origin main
           fi
