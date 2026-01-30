@@ -10973,3 +10973,5 @@
 2026-01-30T14:02:29.030322+00:00|https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html|will kevin warsh do what trump wants us news|bc3fec6ffe6785605ca8e22d9f58a57b
 2026-01-30T14:02:29.792693+00:00|https://abcnews.go.com/GMA/Culture/jordan-chiles-granted-appeal-olympic-medal-case/story|usa gymnastics responds to new development in jordan chiles olympic medal case us news|84f4aebf076c928647155faf2d8bdab0
 2026-01-30T14:02:30.534619+00:00|https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html|iran rules out talks with us until trumps threats stop us news|fe5a5a857cfdd29663816ce0457a8e21
+2026-01-30T14:44:35.723719+00:00|https://www.nbcnews.com/news/us-news/don-lemon-arrested-federal-authorities-attorney-says-rcna256680|don lemon arrested by federal authorities in connection with minnesota church protest us news|04c71245387fb3e7422e42c402c37a75
+2026-01-30T14:44:36.248072+00:00|https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story|former cnn journalist arrested in connection with minnesota protest us news|82b198bdc265d9dd372b4dee4b622f0b
