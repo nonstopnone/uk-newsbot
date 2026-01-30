@@ -1,6 +1,3 @@
-2026-01-23T03:54:21.390075+00:00|https://www.bbc.com/news/articles/cly51dzw86wo|bbc apologises to sacked presenter over homophobic abuse|f77b1dd4ec9fe2a31dbadf579bd34b9a
-2026-01-23T03:54:26.852121+00:00|https://www.bbc.com/news/articles/cx2ll7z7l22o|queen elizabeth ii statue will be standing and not on horseback|d9ec907866e1e49de36d4d62dca9f606
-2026-01-23T03:54:32.298903+00:00|https://www.bbc.com/news/articles/cy4qqdy29d2o|behind the scenes of help 2 the starstudded charity album|c35b9609119244a38e892c1c37959df9
 2026-01-23T04:50:28.335815+00:00|https://www.bbc.com/news/articles/c8011kkdn5jo|botched insulation scheme was doomed to fail say mps|03458f888751eb400934e38ff504c3b6
 2026-01-23T04:50:33.815683+00:00|https://news.sky.com/story/it-cost-molly-her-life160is-this-one-of-uks-biggest-hospital-scandals-13497813|her life was cut short by their failings thats hard to forgive|525e744c61a6a420176372b63767028c
 2026-01-23T04:50:39.237398+00:00|https://www.bbc.com/news/articles/cp9jkdx1gp8o|retired civil servants left in pension limbo|693a061083f98af4d8d8151bd20bf518
@@ -477,3 +474,7 @@
 2026-01-30T02:48:32.062562+00:00|https://news.sky.com/story/postcode-lottery-means-groundbreaking-mnd-drug-is-a-lifeline-for-some-but-mental-torture-for-others-13500695|groundbreaking mnd drug is a lifeline for some but mental torture for others|ff32ae0a5a218d418bb20a6eadb5a68b
 2026-01-30T02:48:37.564339+00:00|https://www.bbc.com/news/articles/cqj2png5p9xo|newborn hearing screening makes world of difference|11de13410469bfea0db4caf24bedd8eb
 2026-01-30T02:48:43.085642+00:00|https://news.sky.com/story/ai-assisted-mammograms-result-in-fewer-aggressive-and-advanced-breast-cancers-study-suggests-13500748|ai mammograms result in fewer aggressive breast cancers study suggests|5ff89f373e79d6f65a8a21362c88526d
+2026-01-30T04:46:40.304311+00:00|https://www.bbc.com/news/articles/c0keyyeyr41o|trump says very dangerous for uk to deal with china|2f69b6f9c76216a4261b81444926dcdb
+2026-01-30T04:46:45.937214+00:00|https://news.sky.com/story/trump-endorses-deal-struck-with-democrats-to-end-government-shutdown-13500874|trump endorses deal struck with democrats to end government shutdown|5808d4425fa9296040a481e78637fa14
+2026-01-30T04:46:51.547527+00:00|https://www.bbc.com/news/articles/c24gg91z69eo|a legal blunder allowed the man who abused us at school to escape justice until now|b74a8e13c6e3a91196dbdadb6141b132
+2026-01-30T04:46:57.035258+00:00|https://www.bbc.com/news/articles/c62njv82n0wo|he calls me sweetheart and winks at me but hes not my boyfriend hes ai|ccc99a38e084cf140bea44500db6da3e
