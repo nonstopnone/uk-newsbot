@@ -10975,3 +10975,4 @@
 2026-01-30T14:02:30.534619+00:00|https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html|iran rules out talks with us until trumps threats stop us news|fe5a5a857cfdd29663816ce0457a8e21
 2026-01-30T14:44:35.723719+00:00|https://www.nbcnews.com/news/us-news/don-lemon-arrested-federal-authorities-attorney-says-rcna256680|don lemon arrested by federal authorities in connection with minnesota church protest us news|04c71245387fb3e7422e42c402c37a75
 2026-01-30T14:44:36.248072+00:00|https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story|former cnn journalist arrested in connection with minnesota protest us news|82b198bdc265d9dd372b4dee4b622f0b
+2026-01-30T15:19:39.930260+00:00|https://abcnews.go.com/US/luigi-mangione-latest-judge-rule-death-penalty-stays/story|luigi mangione latest death penalty off the table judge rules us news|f3f5ebb063d9fc0c78c69afc68142eb6
