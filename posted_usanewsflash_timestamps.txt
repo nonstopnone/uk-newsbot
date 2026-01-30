@@ -1,5 +1,3 @@
-2026-01-23T21:57:25.162232+00:00|https://www.bbc.com/news/videos/c5yd675epx0o|watch three things to know about trumps board of peace us news|b41035211f45014a81b284ee59e4f132
-2026-01-23T21:57:25.722644+00:00|https://www.nbcnews.com/news/us-news/ice-out-rally-minneapolis-immigration-protest-rcna255631|thousands rally against ice in minneapolis amid belowzero temperatures us news|0693116d91b20440e5b15d0117890a34
 2026-01-23T22:24:03.136465+00:00|https://abcnews.go.com/US/philadelphia-sues-trump-admin-removal-memorial-honoring-people/story|philadelphia sues trump admin over removal of slavery memorial us news|15e488d20df8150af3deaaebf7705e83
 2026-01-23T22:24:03.629790+00:00|https://www.nytimes.com/2026/01/23/us/hunter-s-thompson-suicide.html|colorado authorities confirm suicide by hunter s thompson us news|0fe7bc610b2aaafdb56c9fbedc2067ec
 2026-01-23T22:24:04.101408+00:00|https://abcnews.go.com/GMA/Living/video/mattel-celebrates-grandmother-juneteenth-opal-lee-new-barbie-129503342|watch mattel celebrates grandmother of juneteenth opal lee with new barbie doll us news|7586c2d4ca4e6622f45bfb070f9f862a
@@ -427,3 +425,4 @@
 2026-01-30T20:16:41.330533+00:00|https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html|children were arrested in irans brutal crackdown on protests us news|14a1651f9130e18e38b845976fec9d8a
 2026-01-30T21:23:29.120008+00:00|https://www.bbc.com/news/articles/c5yvw89p3p1o?at_medium=RSS&at_campaign=rss|Civil rights investigation opened into Alex Pretti shooting|b3d12ef1e953f982642336306613de29
 2026-01-30T21:38:53.467721+00:00|https://news.sky.com/story/former-cnn-presenter-don-lemon-charged-after-covering-anti-ice-protest-in-minnesota-13501191|Former CNN presenter charged after covering anti-ICE protest|11b1367538c8c7fc2c248f544d3d3760
+2026-01-30T21:59:05.926683+00:00|https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss|Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71|e4ad83c372a752d4c106bd9079d4b5fd
