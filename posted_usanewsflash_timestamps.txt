@@ -10944,3 +10944,8 @@
 2026-01-30T04:23:36.187162+00:00|https://abcnews.go.com/Politics/trump-sues-irs-treasury-10-billion-tax-returns/story|trump sues irs treasury for $10 billion over tax returns leak us news|267746479f4ac2be2791077292288ab4
 2026-01-30T04:23:36.919249+00:00|https://www.nytimes.com/2026/01/29/us/politics/trump-irs-lawsuit.html|trump sues irs over tax data leak demanding $10 billion us news|4b9eda3091cf1a54ba4d518655a22f89
 2026-01-30T04:23:37.590472+00:00|https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html|california jury convicts exgoogle engineer of stealing ai secrets us news|56747047620f65d08fd969efa53bdba4
+2026-01-30T05:32:59.976014+00:00|https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html|panama court strikes down hong kong firms canal contract us news|a12dfe04ffcc8696359c0f3c121ca0d5
+2026-01-30T05:33:00.484403+00:00|https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html|democrats reach spending deal with trump seeking to rein in ice us news|7e7886f800f9bda604a61703ea279f41
+2026-01-30T05:33:01.027192+00:00|https://www.nytimes.com/2026/01/29/business/trump-expected-to-announce-kevin-warsh-as-fed-chair.html|trump expected to announce kevin warsh as fed chair us news|d753a8c045793118f4bbdb0a248dfe3c
+2026-01-30T05:33:01.519304+00:00|https://abcnews.go.com/International/trump-threatens-tariffs-countries-selling-oil-cuba-declaring/story|trump threatens tariffs on countries selling oil to cuba declaring emergency us news|08c708cb499265b810ead7c05a9f134f
+2026-01-30T05:33:01.990056+00:00|https://www.nytimes.com/2026/01/29/arts/melania-movie-trump-kennedy-center.html|trump and first lady attend premiere of melania at kennedy center us news|7a0559e7d049397ffd2a8e36e8f8cf34
