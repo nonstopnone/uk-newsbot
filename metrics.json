@@ -5,7 +5,7 @@
     "Sky": 440,
     "Telegraph": 124,
     "Manual": 3,
-    "BBC News US": 5,
+    "BBC News US": 6,
     "Sky News US": 1
   },
   "categories": {
@@ -19,6 +19,6 @@
     "Breaking News": 110,
     "Culture": 38,
     "Environment": 15,
-    "Entertainment": 1
+    "Entertainment": 2
   }
 }
