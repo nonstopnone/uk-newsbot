@@ -1,6 +1,3 @@
-2026-01-24T09:30:45.220754+00:00|https://www.bbc.com/news/articles/ce8rr3lrp41o|suit us sir how social media gained the fast show a new audience 30 years on|57b56fb326630a6b2d98563c18117da6
-2026-01-24T09:30:50.742366+00:00|https://news.sky.com/story/boy-12-dies-after-shark-attack-in-sydney-harbour-13498258|boy 12 dies after shark attack in sydney harbour|d324470b7c5f1559e81a4b4e8cd08d2f
-2026-01-24T09:30:56.280066+00:00|https://www.bbc.com/news/articles/cq84dp4zvy1o|explosive bustups secret relationships and extreme reactions the traitors best moments|7254177a51f9adf53d7a6885878cfd8a
 2026-01-24T09:53:35.545949+00:00|https://news.sky.com/story/police-officers-warned-they-must-hold-work-licence-or-face-the-sack-13498279|police officers warned they must hold work licence or face the sack|8afb82c9658c33149f974fbf25723ee1
 2026-01-24T10:28:51.239494+00:00|https://www.bbc.com/news/articles/c9qp5ydq0zqo|part of historic pier washes away in wild storm|2e2be23ec2b94125e95bff1f6dcca834
 2026-01-24T10:28:56.840704+00:00|https://www.bbc.com/news/articles/c5y22v9p7vyo|my tooth gap feels like a goalpost but i cant get an nhs dentist|9beb9c06ba8466ba67f1a87f88587e48
@@ -505,3 +502,6 @@
 2026-01-31T04:20:26.610798+00:00|https://www.bbc.com/news/articles/cgm4kyw482eo|labubu to open seven uk shops after pms china visit|13eb5c0a1f119d138794d1158059abd5
 2026-01-31T04:20:32.322150+00:00|https://www.bbc.com/news/articles/cm21g4d7mp4o|sending my son to nursery in odd shoes helped me realise i was losing my sight|dfb9aac02be99f3411f9767858e44a0b
 2026-01-31T07:38:14.510276+00:00|https://www.bbc.com/news/articles/cwynly0vprpo|rugby match stopped due to dog fouling on pitch highlights huge problem|591638d012b92b68295dff2f4674930e
+2026-01-31T09:45:04.470818+00:00|https://www.bbc.com/news/articles/cy8pmj4kpdyo|sea search for missing girl hindered by storm|63b50f8620f7fa05a1ac48ed994c3a83
+2026-01-31T09:45:10.171453+00:00|https://news.sky.com/story/israeli-strikes-kill-at-least-12-palestinians-in-gaza-hospital-officials-say-13501292|israeli strikes kill at least 12 palestinians in gaza hospital officials say|c2d9ce43aa98d5437d3f4a5e123cebe5
+2026-01-31T09:45:15.888605+00:00|https://www.bbc.com/news/articles/ce9y7d9l8dpo|damage and disruption in stormbattered counties|de06ea7b2fa9dbacb566244a5af31181
