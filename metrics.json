@@ -6,11 +6,11 @@
     "Telegraph": 128,
     "Manual": 3,
     "BBC News US": 8,
-    "Sky News US": 2
+    "Sky News US": 3
   },
   "categories": {
     "Politics": 640,
-    "Crime & Legal": 262,
+    "Crime & Legal": 263,
     "Notable International": 12,
     "Economy": 35,
     "Sport": 59,
