@@ -1,5 +1,3 @@
-2026-01-25T08:36:00.119749+00:00|https://www.bbc.com/news/articles/ceqzvqe9z02o|decision day for labour on whether burnham can stand as mp|9cc438574edf99c43c04234b4624faf6
-2026-01-25T08:36:05.547223+00:00|https://www.bbc.com/news/articles/ce8gldd9zyyo|storm damage forces closure of railway line|140a03b41a6354ae0ef85afdf12e2b5b
 2026-01-25T09:32:15.657131+00:00|https://news.sky.com/story/us-weather-140000-without-power-as-winter-storm-stretches-from-colorado-to-new-england-13498718|140000 without power in us as storm stretches from colorado to new england|c49c2f677261648730bdc8b627dfda7f
 2026-01-25T09:54:03.971947+00:00|https://www.bbc.com/news/articles/c99kjkg4vy4o|traitors star planned to win with essex stereotype|1f15d947fc52ccfde9c4ef9baa68f788
 2026-01-25T11:23:43.188400+00:00|https://news.sky.com/story/strong-case-for-social-media-ban-on-children-says-home-secretary-but-police-wont-be-involved-13498763|strong case for social media ban on children says home secretary but police wont be involved|ab43060b0efa5d37dbd695655ee7b299
@@ -514,3 +512,6 @@
 2026-02-01T05:13:23.083746+00:00|https://news.sky.com/story/uks-top-100-taxpayers-revealed-and-who-has-contributed-the-most-to-a-record-16357bn-13501755|uks top 100 taxpayers revealed and who has contributed the most to a record £57bn|407cd1c243440809b54a61544b473742
 2026-02-01T06:09:51.261734+00:00|https://news.sky.com/story/starmer-calls-on-andrew-to-testify-before-us-congress-over-epstein-dealings-13501757|starmer calls on andrew to testify before us congress over epstein dealings|b02b25192fd02de3542887ae419fed0e
 2026-02-01T07:50:32.781189+00:00|https://www.bbc.com/news/articles/c62n68pxxlwo|id have to charge £15 for coffee and cake just to break even|872e17565aa8f17a35214e0a62dd773e
+2026-02-01T08:40:57.023656+00:00|https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758|iran has fingers on the trigger as trump sends very big powerful ships to region|f0c74261ac6f7c9ece26b80ca4b81e91
+2026-02-01T08:41:02.478921+00:00|https://www.bbc.com/news/articles/cwyr2qyrvxyo|singer trolled after asking rightwing protesters not to use his song|94e4b12c91b10cbc4276f481c60ca671
+2026-02-01T08:41:07.932450+00:00|https://www.bbc.com/news/articles/c5yvw41586do|trio appear in court charged with €10m seizure|e787b52ea511d4210fda2a6274e5da35
