@@ -1,5 +1,3 @@
-2026-01-25T13:57:08.005542+00:00|https://www.bbc.com/news/articles/cz9v0x1g2q0o|swinney says it looks like hospital inquiry families were lied to|0d87582c2fc3dbbbca21575bceaf4c9d
-2026-01-25T14:29:01.352078+00:00|https://www.bbc.com/news/articles/c20d35pvnr6o|reward to find killer who shot man in tower block|481a2d74a90dd3201ca28aa8e7c24068
 2026-01-25T15:27:45.288807+00:00|https://news.sky.com/story/any-survival-hope-for-pm-meant-shutting-burnham-out-but-starmer-and-his-team-cant-predict-what-comes-next-13498804|any survival hope for pm meant shutting burnham out but starmer and his team cant predict what comes next|0ecf5160f8b0ad91f98a91bcb62dc873
 2026-01-25T16:34:19.711917+00:00|https://www.telegraph.co.uk/football/2026/01/25/crystal-palace-chelsea-live-latest-score-updates|chelsea tear through hosts defence as palaces month goes from bad to worse|c9d7cab4c510600d65d6737b759a2300
 2026-01-25T16:34:25.287957+00:00|https://news.sky.com/story/sir-keir-starmer-blocks-andy-burnham-from-by-election-race-13498819|andy burnhams bid to return as mp blocked|e3b08a1b8c4616b93763f90e2afbf5cb
@@ -522,3 +520,4 @@
 2026-02-01T13:54:25.930812+00:00|https://www.bbc.com/news/articles/cy05zd4kw9wo|pensioner dies after being hit by car|aa5eda47b6c83a9548f2b66f27c1d5c2
 2026-02-01T13:54:31.999148+00:00|https://news.sky.com/story/boxer-loses-hairpiece-in-the-ring-and-blames-mothers-shampoo-13501837|boxer loses hairpiece in the ring|ef2f411891d2cf696db7c2cce3388905
 2026-02-01T13:54:37.545766+00:00|https://news.sky.com/story/ice-warnings-issued-for-parts-of-england-wales-and-northern-ireland-13501830|ice warnings issued for parts of uk|7fb72e57545dfdadd929dfe99c3e5859
+2026-02-01T14:33:43.571929+00:00|https://www.bbc.com/news/videos/c1lz6p7ng0do|ive never taken drugs or drunk alcohol says polanski|c08281f1127183fad8b1b47b3a19ce2b
