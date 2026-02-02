@@ -1,5 +1,3 @@
-2026-01-26T23:47:06.855002+00:00|https://www.bbc.com/news/articles/cedweq4lj25o|former olympian ryan wedding pleads not guilty to drug kingpin charges us news|8083528c4b5cd554e8fa847bbb5464d4
-2026-01-26T23:47:07.521620+00:00|https://www.nytimes.com/2026/01/26/briefing/trump-minnesota-winter-storm-cold.html|trump changes course in minnesota us news|4feabe5d7e4ea700da121f4bd2ec41dd
 2026-01-27T02:21:35.810469+00:00|https://abcnews.go.com/Politics/trump-send-border-czar-tom-homan-minneapolis-admin/story|trump white house distances itself from claims by noem others on pretti shooting us news|741324b7dfc492a0217016e52f2fa825
 2026-01-27T02:21:36.343944+00:00|https://www.nytimes.com/2026/01/26/us/politics/minneapolis-shooting-trump-ice-gop.html|alex pretti shooting poses a question for the right whos a conservative us news|64e51e0f40639f348a4bb62435edee1b
 2026-01-27T02:21:36.931914+00:00|https://www.nytimes.com/2026/01/26/us/politics/trump-rare-earth-howard-lutnick.html|trump administration takes another stake in rare earth sector us news|228fb0a21f51778a95fe549d8c7616c0
@@ -300,3 +298,4 @@
 2026-02-02T17:56:53.348842+00:00|https://www.bbc.com/news/articles/cx2kzzz3m51o?at_medium=RSS&at_campaign=rss|Multiple Minneapolis schools closed by hoax threat|e9c31778fa6bdd9373d6a9c25cccb11d
 2026-02-02T23:34:39.577905+00:00|https://www.bbc.com/news/articles/cwyw75ww9g9o?at_medium=RSS&at_campaign=rss|Federal officers in Minneapolis to get body cameras 'effective immediately'|0958122e5437abe2c9aa741427bc0c2c
 2026-02-02T23:34:45.369585+00:00|https://www.bbc.com/news/articles/cgk85kjk8lzo?at_medium=RSS&at_campaign=rss|Texas loss delivers stark warning to Republicans in critical election year|501cf4247530ad064c3df9fec91697ed
+2026-02-02T23:55:36.763396+00:00|https://news.sky.com/story/man-in-au-pair-affair-found-guilty-of-double-murder-13502532|Man in 'au pair affair' found guilty of double murder|d19956a3c2487514d4f4a996ae981c2f
