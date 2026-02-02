@@ -1,9 +1,3 @@
-2026-01-26T07:34:58.144977+00:00|https://www.bbc.com/news/articles/cn7j8k012kxo|second body found in search for missing swimmers|9813204cb12e134b0f7e8eed9a66a134
-2026-01-26T07:35:03.736980+00:00|https://www.bbc.com/news/articles/cy09qx1nz1qo|low pay and boredom led me to get a secret second job|5aac500b993bf025026f26e105481d0c
-2026-01-26T07:35:09.233521+00:00|https://www.bbc.com/news/articles/c0l97gnpyd5o|can a council do five days work in four|f8f002b024468579767d4499b64f0f07
-2026-01-26T07:56:46.638544+00:00|https://www.bbc.com/news/articles/ce8r20e66d0o|my toddlers rare disease was spotted with 24 hours to spare|38a5440bc9fb72147d1247d9accafefb
-2026-01-26T07:56:52.222754+00:00|https://www.bbc.com/news/articles/c98pl47ylgno|inquiry into fatal stonehaven train derailment to begin|7613893e3d9deba4ea8b50d40dc588a0
-2026-01-26T07:56:57.875809+00:00|https://www.bbc.com/news/articles/cm212lw3pleo|tributes paid as bbc presenter john randall dies|2f12c61f947430773d7c67243d803ef6
 2026-01-26T08:47:32.225122+00:00|https://www.bbc.com/news/articles/cj0nmj72v8ro|i spent £2000 on one event why gen z is obsessed with hyrox|89634b0c2be90754fa7a63addc0cf86a
 2026-01-26T08:47:37.600980+00:00|https://www.bbc.com/news/articles/cp372d37gxgo|uk to join major wind farm project with nine european countries|abdc08a1e56678d9e779b9082ce68d32
 2026-01-26T09:42:03.624772+00:00|https://www.bbc.com/news/articles/cql474q1565o|there is no evidence to back up finding that i broke ministerial code gordon lyons|0f8dee73729bb16c4e188e6a6668172f
@@ -537,3 +531,5 @@
 2026-02-02T06:16:54.821716+00:00|https://news.sky.com/story/four-britons-die-within-four-months-after-holidaying-in-cape-verde-13502147|families take legal action after cape verde holiday deaths|a2894f910fbfa80d582fb44f25449238
 2026-02-02T07:34:05.231469+00:00|https://www.bbc.com/news/articles/c9wx2dz2v44o|ai slop is transforming social media and a backlash is brewing|6a5fd32dfa1c95638a0f4366c8345433
 2026-02-02T07:34:10.673615+00:00|https://www.bbc.com/news/articles/c9wxx97jlveo|men covertly filming women at night and profiting from footage bbc finds|a9cb8ee9a72f08952e8b37affd75fc0b
+2026-02-02T08:26:23.587762+00:00|https://www.bbc.com/news/articles/c5y2lj3md8po|workers party of britain not contesting byelection|3d9d35cf20640d8af9d3a1233a3c8335
+2026-02-02T08:26:29.398008+00:00|https://news.sky.com/story/trump-to-close-kennedy-center-for-two-years-sparking-more-controversy-over-dc-venue-13502155|trump to close kennedy center for two years sparking more controversy over dc venue|6fe5159067d2794e059d8d211b603cbe
