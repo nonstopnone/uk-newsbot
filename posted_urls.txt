@@ -1,7 +1,3 @@
-2026-01-26T06:49:53.478360+00:00|https://www.bbc.com/news/articles/cql4gvrxdq7o|class bias should be illegal culture review says|9ea392a8e116650dc87c20176b2910a3
-2026-01-26T06:49:59.098680+00:00|https://news.sky.com/story/at-least-15-dead-and-hundreds-rescued-after-ferry-sinks-in-southern-philippines-13499059|at least 15 dead and hundreds rescued after ferry sinks in southern philippines|fd68a298ec945bd01110b893d7494bd0
-2026-01-26T06:50:04.723918+00:00|https://www.bbc.com/news/articles/c30193mll5mo|gigs planned to celebrate independent music venues|c5944399a6892acf3bc7cd6fe116ca5f
-2026-01-26T06:50:10.210531+00:00|https://www.bbc.com/news/articles/cjw11elgwnzo|im finally retiring aged 91 after fulfilling my wifes dying wish|b5958586af52bccbe37500efacb75bf1
 2026-01-26T07:34:58.144977+00:00|https://www.bbc.com/news/articles/cn7j8k012kxo|second body found in search for missing swimmers|9813204cb12e134b0f7e8eed9a66a134
 2026-01-26T07:35:03.736980+00:00|https://www.bbc.com/news/articles/cy09qx1nz1qo|low pay and boredom led me to get a secret second job|5aac500b993bf025026f26e105481d0c
 2026-01-26T07:35:09.233521+00:00|https://www.bbc.com/news/articles/c0l97gnpyd5o|can a council do five days work in four|f8f002b024468579767d4499b64f0f07
@@ -539,3 +535,5 @@
 2026-02-02T06:16:43.852204+00:00|https://www.bbc.com/news/articles/cz6yzp1dl1jo|new exams body plans to shakeup qualifications system|c6b2e3ca4c989511defaa063a8f3fc7f
 2026-02-02T06:16:49.393549+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/how-smallpox-eradication-cleared-the-way-for-new-threats|return of the pox how smallpox eradication cleared the way for new threats|ef63ccb12b44ff6b1d4b23e8f3cf2079
 2026-02-02T06:16:54.821716+00:00|https://news.sky.com/story/four-britons-die-within-four-months-after-holidaying-in-cape-verde-13502147|families take legal action after cape verde holiday deaths|a2894f910fbfa80d582fb44f25449238
+2026-02-02T07:34:05.231469+00:00|https://www.bbc.com/news/articles/c9wx2dz2v44o|ai slop is transforming social media and a backlash is brewing|6a5fd32dfa1c95638a0f4366c8345433
+2026-02-02T07:34:10.673615+00:00|https://www.bbc.com/news/articles/c9wxx97jlveo|men covertly filming women at night and profiting from footage bbc finds|a9cb8ee9a72f08952e8b37affd75fc0b
