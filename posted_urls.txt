@@ -1,8 +1,3 @@
-2026-01-27T04:01:46.603974+00:00|https://news.sky.com/story/number-of-people-in-very-deep-poverty-at-highest-level-in-more-than-30-years-charity-warns-13499465|warning over record number of people in very deep poverty|6e007862d1ea2702d3977e77033aa39d
-2026-01-27T04:01:54.028967+00:00|https://www.bbc.com/news/articles/c5yv97e7j5lo|chris mason both tories and labour feel the reform heebiejeebies|c7460260873e70f955759d211793ca41
-2026-01-27T04:01:59.688898+00:00|https://www.bbc.com/news/articles/cp3zp58wqlno|starmer says he wont choose between the us or china|c4deb112bb207f091c8054274d509498
-2026-01-27T04:02:05.223151+00:00|https://www.bbc.com/news/articles/cpwnjpvyyvxo|singing can overcome teenage isolation says grammywinner|3be847c78a0ced81832716248763f9b7
-2026-01-27T04:02:10.874926+00:00|https://www.bbc.com/news/articles/cn9zqwvnx9ro|beckhams seen together in paris for first time since brooklyn row|49faeb7e230d7e66ee34d35a4bbc609f
 2026-01-27T04:58:11.067160+00:00|https://news.sky.com/story/reform-and-greens-eye-major-by-election-scalp-amid-burnham-row-13499469|reform and greens eye major byelection scalp amid burnham row|1385e5e5e562fa3a3fa0d69af94385c9
 2026-01-27T06:51:58.945790+00:00|https://news.sky.com/story/nottingham-attack-survivor-demands-someone-take-the-blame-for-killing-spree-13499450|nottingham attack survivor demands someone take the blame for killing spree|97b2fd0974597c298da97909fbe1b579
 2026-01-27T06:52:04.579508+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/detainees-describe-the-horror-of-maduros-torture-prisons|they enjoyed every act they inflicted detainees describe the horror of maduros torture prisons|fd720ab874878713f9d8d89be6a6eb54
@@ -525,3 +520,8 @@
 2026-02-03T02:46:41.229983+00:00|https://www.bbc.com/news/articles/c0mk700rmkmo|jack thorne on remarkably tender lord of the flies|fe1318e5d0f33498379151995971f681
 2026-02-03T02:46:46.761617+00:00|https://www.bbc.com/news/articles/c0er2gpxdeqo|final moments of steve wrights first victim and the 26year wait for justice|4650354f4bc3a14cc07865484699b7cf
 2026-02-03T02:46:52.311303+00:00|https://www.bbc.com/news/articles/c8749lwl8jvo|you cant cut costs with animal welfare the british zoos fighting for survival|4c7dd4ff74ab05a0f794858ab0bd9e83
+2026-02-03T04:53:23.152455+00:00|https://www.bbc.com/news/articles/cm2jrpk1ydxo|the night manager villain inspired by john le carrés own father|5679667bdf6eb200ae9b6d684a4b8588
+2026-02-03T04:53:28.795234+00:00|https://news.sky.com/story/ice-agents-in-minneapolis-to-be-issued-with-body-worn-cameras-after-fatal-shootings-13502555|ice agents in minneapolis to be issued with bodyworn cameras after fatal shootings|91ec5f9f636d67403afb033d7543e3d0
+2026-02-03T04:53:34.381799+00:00|https://www.bbc.com/news/articles/cr4q61y399xo|peter mandelson rise and fall of labours political fixer|a7fd2239c6b99c4b3a42c9a22218aefe
+2026-02-03T04:53:39.905240+00:00|https://news.sky.com/story/sarah-fergusons-charity-to-close-after-epstein-revelations-13502540|sarah fergusons charity to close after epstein revelations|673c328c18e4a26a0078ead10ef625fd
+2026-02-03T04:53:45.517406+00:00|https://www.bbc.com/weather/articles/cx2lz3k65w5o|january rainfall in parts of uk breaks more than centurylong record|d7daa17ac964fd8e7c6fce398f612a9d
