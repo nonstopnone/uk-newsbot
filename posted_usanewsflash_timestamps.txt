@@ -1,5 +1,3 @@
-2026-01-27T23:28:25.864510+00:00|https://abcnews.go.com/Politics/dhs-report-2-agents-fired-weapons-alex-pretti/story|dhs report says 2 agents fired weapons in alex pretti shooting us news|b185f6775c8f18caaeec191409fad1c2
-2026-01-27T23:28:26.468640+00:00|https://www.nytimes.com/2026/01/27/us/ice-liam-ramos-minneapolis-deportation.html|judge temporarily blocks deportation of 5yearold detained by ice in minnesota us news|6f50687818c0bef0cc62ab70f7f837b2
 2026-01-27T23:46:21.995054+00:00|https://abcnews.go.com/Business/wireStory/strike-sends-31000-kaiser-permanente-health-care-workers-129612966|another strike sends 31000 kaiser permanente health care workers to picket lines us news|f82157038f22243e55d0730be61e34ef
 2026-01-27T23:46:22.508061+00:00|https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html|gladys west unsung figure in development of gps dies at 95 us news|e265e21a90768506b85d6dd4abd513b9
 2026-01-28T02:11:05.720934+00:00|https://abcnews.go.com/Politics/video/trump-calls-alex-pretti-shooting-unfortunate-incident-129619557|watch trump calls alex pretti shooting a very very unfortunate incident us news|cdba4a9bbbbfc81f16c3bbcf6e78fb74
@@ -225,3 +223,4 @@
 2026-02-03T17:29:59.299299+00:00|https://www.bbc.com/news/videos/cn9zr28jddzo?at_medium=RSS&at_campaign=rss|Why the Artemis II Moon mission has been delayed|5fc32929b968fa26efdc7b7ae64057d7
 2026-02-03T19:12:48.672636+00:00|https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss|US says it shot down Iranian drone flying towards aircraft carrier|a809afb1ccfc694b537d02165971f0b2
 2026-02-03T19:12:54.756257+00:00|https://news.sky.com/story/signs-of-forced-entry-at-home-of-missing-us-tv-presenter-savannah-guthries-mother-after-kidnap-13502819|Signs of forced entry at home of missing 84-year-old mother of US TV presenter|c443e579a450e8178b5bf68d3dfc35e8
+2026-02-03T23:34:02.554280+00:00|https://www.bbc.com/news/articles/c4g01vlwqp5o?at_medium=RSS&at_campaign=rss|After months of mutual insults, Trump hails White House talks with 'terrific' Petro|512273e2d271532efca16fdf765d03a2
