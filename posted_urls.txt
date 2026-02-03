@@ -1,5 +1,3 @@
-2026-01-27T23:29:57.845290+00:00|https://www.bbc.com/news/articles/cy7m258v404o|can scotlands ukrainian refugees ever go home|3575ed65052109c72c8bff27406e01ad
-2026-01-27T23:30:03.311711+00:00|https://www.bbc.com/news/articles/cn8jjz2zp5lo|mums scabies nightmare as reports of parasitic infestation rise|9e22180f278ae00fb22b7ed5f8357378
 2026-01-27T23:49:59.102092+00:00|https://www.bbc.com/news/articles/cy8p2re7gj5o|prime minister flies to china for threeday visit|f5b5c5f420d27873030e587d33373c0e
 2026-01-27T23:50:04.598431+00:00|https://news.sky.com/story/95-year-old-woman-tied-up-during-vile-attempted-robbery-by-man-who-offered-to-clean-windows-13499845|95yearold woman tied up during vile attempted robbery|986d2c56dd05dff9c5ca3d05fcf350e0
 2026-01-27T23:50:10.123692+00:00|https://www.bbc.com/news/articles/cy8p2rjeyveo|famous up helly aa festival sets shetlands skies ablaze|85df5d9e7e900f6681fc44d352668e4e
@@ -527,3 +525,7 @@
 2026-02-03T22:38:05.864031+00:00|https://www.bbc.com/news/articles/c4gr1egq1dno|alleged bullying harassment and toxic culture at hospital revealed in leaked report|0009fc5861cb010dd7fe4601b228842e
 2026-02-03T22:38:11.404015+00:00|https://news.sky.com/story/albanian-burglars-chased-by-ex-aston-villa-and-brentford-player-jailed-for-break-in-spree-13502892|albanians chased by exaston villa player jailed for breakin spree|4043a3cbb21f67d396ec47727125fc95
 2026-02-03T23:04:33.337995+00:00|https://news.sky.com/story/survivors-of-jeffrey-epsteins-abuse-condemn-us-governments-handling-of-files-13502871|survivors of epsteins abuse condemn us governments handling of files|a4e6e99f42d5cd78510b5efaed40892c
+2026-02-03T23:44:49.640035+00:00|https://news.sky.com/story/starmer-badenoch-and-mcsweeney-who-are-the-winners-and-losers-of-the-mandelson-epstein-scandal-13502982|who are the winners and losers of the mandelsonepstein scandal|0cb1fe0a70a46065107a188745db30e5
+2026-02-03T23:44:55.147666+00:00|https://www.telegraph.co.uk/football/2026/02/03/arsenal-vs-chelsea-live-score-latest-league-cup-semi-final|havertz gives fans moment they craved as arsenal beat chelsea to reach league cup final|6d5d924756f37dd822138cd8e9e85653
+2026-02-03T23:45:00.655357+00:00|https://news.sky.com/story/andrew-moves-out-of-royal-lodge-as-police-assess-new-allegation-epstein-sent-woman-to-former-duke-in-2010-13502991|andrew moves out of royal lodge as police assess new allegation|76716b14aa6379619d11a747b0f85fa3
+2026-02-03T23:45:06.089699+00:00|https://news.sky.com/story/criminal-investigation-launched-into-peter-mandelson-13502377|criminal investigation launched into mandelson|c066cfb4fb71895836b02a76c4ba3dd0
