@@ -1,12 +1,3 @@
-2026-01-26T23:56:05.789151+00:00|https://www.bbc.com/news/articles/cdjn7jdvn7no|cap for ground rent in england and wales due to be announced|252cfd8ed16d8c39b1d8ed78827b64ad
-2026-01-27T02:31:20.086393+00:00|https://news.sky.com/story/public-face-of-trumps-minneapolis-crackdown-set-to-leave-city-as-presidents-tone-shifts-13499461|public face of trumps minneapolis crackdown set to leave city as presidents tone shifts|2024e09a6dab41006ec17f059de76032
-2026-01-27T02:31:25.723867+00:00|https://www.bbc.com/news/articles/cg4enzg27xdo|travelling with a man id known for two days changed my life forever|0d56a02c3d9d9cb01cab3f7ff0ae8e98
-2026-01-27T02:31:31.240156+00:00|https://news.sky.com/story/lung-cancer-trailblazing-nhs-scheme-hailed-as-a-glimpse-of-the-future-13499296|trailblazing cancer scheme hailed as a glimpse of the future|fbb6a582446ec3028025a1b9fa4c411f
-2026-01-27T02:31:36.693708+00:00|https://www.bbc.com/news/articles/clye95952dko|the papers burnham rebellion growing and clan united|b8aa9a12900d9dff2bae0d3ff85610c8
-2026-01-27T02:31:42.184734+00:00|https://www.bbc.com/news/articles/ce3e53e34klo|fifty labour mps sign letter objecting to burnham decision|283aa1f6cead423bd8cd2d041864baec
-2026-01-27T02:31:47.675964+00:00|https://www.bbc.com/news/articles/cjrz09lx91vo|what to expect from todays bafta nominations|3cdde7d22cbd53dab5b976ae5f04f862
-2026-01-27T02:31:53.253651+00:00|https://www.bbc.com/news/articles/cew87q890pyo|ni to become first in the uk to introduce graduated driving licences|02f6b3c56ffe07d788220eee0e759048
-2026-01-27T02:31:58.732450+00:00|https://www.bbc.com/news/articles/cvg5079yr20o|airlines pay out millions after initially rejecting claims|147e33efc11d3aeeb13395cfd9b3cb9e
 2026-01-27T04:01:46.603974+00:00|https://news.sky.com/story/number-of-people-in-very-deep-poverty-at-highest-level-in-more-than-30-years-charity-warns-13499465|warning over record number of people in very deep poverty|6e007862d1ea2702d3977e77033aa39d
 2026-01-27T04:01:54.028967+00:00|https://www.bbc.com/news/articles/c5yv97e7j5lo|chris mason both tories and labour feel the reform heebiejeebies|c7460260873e70f955759d211793ca41
 2026-01-27T04:01:59.688898+00:00|https://www.bbc.com/news/articles/cp3zp58wqlno|starmer says he wont choose between the us or china|c4deb112bb207f091c8054274d509498
@@ -526,3 +517,11 @@
 2026-02-02T23:46:36.369960+00:00|https://news.sky.com/story/artificial-intelligences-now-have-their-own-social-network-and-things-have-been-getting-weird-on-there-13502426|humanity is cooked ais now have their own social network and things have been getting weird on there|5f0a79129031ba4a138678fcafa28499
 2026-02-02T23:46:41.890799+00:00|https://www.bbc.com/news/articles/ce9yekr4d9ro|mandelson revelations raise further questions about starmers judgement|c0690195e2c0b656b8896f5e74b55e89
 2026-02-02T23:46:47.334513+00:00|https://news.sky.com/story/teenager-died-from-blood-clot-linked-to-birth-control-pill-her-family-fear-tragedy-could-happen-again-13502351|teen died from blood clot linked to birth control pill her family fear tragedy could happen again|882c89a4fb6c2587be43626aadad61ca
+2026-02-03T02:46:13.035901+00:00|https://news.sky.com/story/elon-musks-spacex-buys-elon-musks-xai-13502553|elon musks spacex buys elon musks xai|7db6914bd264384d0afffbc9bbc8ef78
+2026-02-03T02:46:18.676546+00:00|https://www.bbc.com/news/articles/c4gr1d8nv58o|sarah fergusons charity to close days after new epstein revelations|6be0bd15734c37a4fc496ccb2637b948
+2026-02-03T02:46:24.449206+00:00|https://news.sky.com/story/man-in-au-pair-affair-found-guilty-of-double-murder-13502532|man in au pair affair found guilty of double murder|9162299835c6719273174d6d709942ae
+2026-02-03T02:46:30.029215+00:00|https://www.bbc.com/news/articles/c5yve1220xwo|families with children battling cancer to have travel costs covered|84770a344cf5c53dfb0b4b83232a493f
+2026-02-03T02:46:35.717957+00:00|https://news.sky.com/story/harvey-deserved-better-family-say-school-missed-opportunities-to-protect-murdered-schoolboy-13502493|harvey deserved better|a1ae251314a873eeb45617660910811a
+2026-02-03T02:46:41.229983+00:00|https://www.bbc.com/news/articles/c0mk700rmkmo|jack thorne on remarkably tender lord of the flies|fe1318e5d0f33498379151995971f681
+2026-02-03T02:46:46.761617+00:00|https://www.bbc.com/news/articles/c0er2gpxdeqo|final moments of steve wrights first victim and the 26year wait for justice|4650354f4bc3a14cc07865484699b7cf
+2026-02-03T02:46:52.311303+00:00|https://www.bbc.com/news/articles/c8749lwl8jvo|you cant cut costs with animal welfare the british zoos fighting for survival|4c7dd4ff74ab05a0f794858ab0bd9e83
