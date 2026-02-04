@@ -1,5 +1,3 @@
-2026-01-28T23:19:19.913598+00:00|https://www.bbc.com/news/videos/cj6wgelw62do|watch how alex pretti shooting led trump to shift course in minneapolis us news|40173042511330b8f01a3dd4920164f7
-2026-01-28T23:19:20.400781+00:00|https://www.nytimes.com/2026/01/28/us/politics/ilhan-omar-trump-attack.html|attack on ilhan omar follows years of trumps targeting her us news|ebcfb7fcb2b3f6548a180f879f02513f
 2026-01-28T23:49:56.131806+00:00|https://www.nytimes.com/2026/01/28/world/canada/norad-us-canada-security-agreement.html|why the norad cold war pact between the us and canada is news us news|fdca8edf63911637646b5529ad48ad77
 2026-01-28T23:49:56.785854+00:00|https://www.nytimes.com/2026/01/28/briefing/agents-leave-trump-iran-fbi-georgia.html|agents who shot alex pretti are put on leave us news|afcf7a133529e1fdfade9074de2facb6
 2026-01-28T23:49:57.499386+00:00|https://www.nytimes.com/2026/01/28/nyregion/mamdani-budget.html|mamdani blames rivals for leaving new york with a poisoned budget us news|17ccd43359e14a8c2f818cb4dde4d7aa
@@ -165,3 +163,4 @@
 2026-02-04T18:09:39.279267+00:00|https://www.bbc.com/news/articles/cre2gjj3pxpo?at_medium=RSS&at_campaign=rss|Man sentenced to life in prison for 2024 attempt on Trump's life|fbc13ff7f828d347a852d3fc6ba88a04
 2026-02-04T22:01:08.286205+00:00|https://www.bbc.com/news/articles/cy4gj71z0m0o?at_medium=RSS&at_campaign=rss|Trump says America should move on from Epstein - it may not be that easy|9fd70cbd9047104485cabe71883f197f
 2026-02-04T22:36:58.089442+00:00|https://news.sky.com/story/washington-post-sports-section-eliminated-ahead-of-olympic-winter-games-13503365|Washington Post lays off a third of its staff - eliminating its sports section|3e7f450845f639be22a1670cc09806e9
+2026-02-04T23:43:16.366287+00:00|https://news.sky.com/story/trump-orders-700-immigration-officers-to-leave-minnesota-13503441|Trump orders 700 immigration officers to leave Minnesota|82e2d8c4b34aa0c1e63dc3880ec69f5d
