@@ -1,11 +1,3 @@
-2026-01-28T02:22:30.037779+00:00|https://www.bbc.com/news/articles/czejjr7wz6ko|what if i just started shouting when to worry about intrusive thoughts|5d31c1ca22119cbbe1b2a69dbf60a7f2
-2026-01-28T02:22:35.688120+00:00|https://news.sky.com/story/trump-wants-to-de-escalate-in-minneapolis-but-says-ice-victim-shouldnt-have-carried-gun-13499878|trump wants to deescalate in minneapolis but says ice victim shouldnt have carried gun|bb6fd2f2ce3f8ecdee01201b968ba7e4
-2026-01-28T02:22:41.197628+00:00|https://www.bbc.com/news/articles/cddgp9jgjz1o|easyjet warned over misleading £599 cabin bag fee|a8feba37a9e5ccb7240cf606efebd4d9
-2026-01-28T02:22:46.730878+00:00|https://news.sky.com/story/pms-future-is-at-stake-in-pivotal-by-election-of-his-own-making-13499842|pms future is at stake in pivotal byelection of his own making|77c872d9b69d401eae405e38e8b7222d
-2026-01-28T02:22:52.389768+00:00|https://www.bbc.com/news/articles/c33827k6elxo|vulnerable missing out on benefits due to online tool|6115149660720373702bc6ceca13a643
-2026-01-28T02:22:57.917600+00:00|https://news.sky.com/story/bereaved-mother-describes-harrowing-stillbirth-aftercare-13499742|their jaws were on the floor bereaved mother describes harrowing stillbirth aftercare|0c4c3ba62eec2f6df41cdf0804a1e34c
-2026-01-28T02:23:03.468123+00:00|https://www.bbc.com/news/articles/cd7zpgn5n47o|vets may have to publish prices of common pet treatments|5e2e12705fa9aa3c2c3740fc3a93abc4
-2026-01-28T02:23:08.999757+00:00|https://www.bbc.com/news/articles/c9dv3x5yep4o|workers party of britain pick byelection candidate|313a0a03b51435b9050d720bacb046cd
 2026-01-28T03:56:29.378516+00:00|https://www.bbc.com/news/articles/c89q3keee79o|five ipp prisoners to be referred to court of appeal|f5e94de78988cfc8dc0f33d91e6d33e4
 2026-01-28T03:56:34.978676+00:00|https://news.sky.com/story/uk-rolls-out-free-ai-training-but-will-it-save-your-job-13499866|uk rolls out free ai training but will it save your job|a2205a6ffd6a57c3ba20b53af739f4bf
 2026-01-28T03:56:40.486626+00:00|https://www.bbc.com/news/articles/c1lz2rg0923o|the papers half measures and fake jobs for sale|bbe01ff50c6053b1ec32e89d71f2fb1b
@@ -524,3 +516,11 @@
 2026-02-03T23:44:55.147666+00:00|https://www.telegraph.co.uk/football/2026/02/03/arsenal-vs-chelsea-live-score-latest-league-cup-semi-final|havertz gives fans moment they craved as arsenal beat chelsea to reach league cup final|6d5d924756f37dd822138cd8e9e85653
 2026-02-03T23:45:00.655357+00:00|https://news.sky.com/story/andrew-moves-out-of-royal-lodge-as-police-assess-new-allegation-epstein-sent-woman-to-former-duke-in-2010-13502991|andrew moves out of royal lodge as police assess new allegation|76716b14aa6379619d11a747b0f85fa3
 2026-02-03T23:45:06.089699+00:00|https://news.sky.com/story/criminal-investigation-launched-into-peter-mandelson-13502377|criminal investigation launched into mandelson|c066cfb4fb71895836b02a76c4ba3dd0
+2026-02-04T03:10:18.645484+00:00|https://www.bbc.com/news/articles/ce8erj6z8x5o|chris mason mandelson revelations a scandal on another level|143ca64818945d8702b1cd98611e5d01
+2026-02-04T03:10:24.345618+00:00|https://news.sky.com/story/at-least-15-dead-after-migrant-boast-collides-with-greek-coastguard-13503012|at least 15 dead after migrant boat collides with greek coastguard|e390b611192dfbbcf454296f8ab1fb4f
+2026-02-04T03:10:29.979457+00:00|https://www.bbc.com/news/articles/c9dvz6ldevqo|investigator did unlawful stuff regarding harry court hears|136e5f09010996ec71473f9e74bac6b3
+2026-02-04T03:10:35.493672+00:00|https://news.sky.com/story/multi-million-pound-drive-launched-to-recruit-10000-foster-carers-amid-falling-numbers-13502916|multimillion pound drive launched to recruit 10000 foster carers amid falling numbers|9f6acf7c4eaf4ca9949effe77b3a618a
+2026-02-04T03:10:41.111078+00:00|https://www.bbc.com/news/articles/cevn1px71v4o|how we decluttered our home and you can too|f020d6937a3bcb5659076396aea23c4e
+2026-02-04T03:10:46.599708+00:00|https://news.sky.com/story/tories-to-use-ancient-mechanism-to-try-and-force-release-of-mandelson-vetting-papers-13502888|tories to use ancient mechanism to force release of mandelson vetting papers after criminal investigation launched|3aa512cbbad6eb9c29a9480d52aef9a5
+2026-02-04T03:10:52.082252+00:00|https://www.bbc.com/news/articles/cddgj450088o|noone knows what to expect when youre dying but hospices helped me|527defa739f9e3f9157004c853c98e49
+2026-02-04T03:10:57.678102+00:00|https://www.bbc.com/news/articles/ckgj5mdpg3zo|police told to reinvestigate mans death after suspected blackmail on grindr|0d5ebb091e93908ddc35d084ae69bdf6
