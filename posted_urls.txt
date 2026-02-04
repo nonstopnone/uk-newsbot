@@ -1,5 +1,3 @@
-2026-01-28T09:41:07.602039+00:00|https://news.sky.com/story/congresswoman-ilhan-omar-attacked-with-unknown-substance-in-minneapolis-13499911|congresswoman attacked with unknown substance in minneapolis|a8f5d10e60937fb645e1c72f0ccccb0d
-2026-01-28T09:41:13.286104+00:00|https://www.bbc.com/news/articles/cn0kpz14884o|puffins struggle to survive as storm chandra sweeps country|ce065f5ccb8fad41cec3c1c38cb516ba
 2026-01-28T10:01:32.269097+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/the-catch-22-in-the-global-battle-to-eradicate-polio|the catch22 in the global battle to eradicate polio|d536f58e16b2b529c974fa8fcd587316
 2026-01-28T10:01:37.934160+00:00|https://news.sky.com/story/senior-politician-dies-in-india-plane-crash-13499953|senior politician dies in india plane crash|ab51cb63237204c8e0fa19a055508f08
 2026-01-28T10:50:01.188710+00:00|https://news.sky.com/story/dollar-has-become-a-falling-chainsaw-what-it-means-for-you-13499913|dollar has become a falling chainsaw what it means for you|6df9ac0ea757089bd65f4b926c346bef
@@ -525,3 +523,9 @@
 2026-02-04T07:04:00.015367+00:00|https://www.bbc.com/news/articles/cwy8ded4890o|ive never hit anything so hard what its like to be attacked by a shark|21c23644d381653b56c8e22a57df3446
 2026-02-04T07:04:05.499468+00:00|https://www.bbc.com/news/articles/c89qzd37j14o|fewer schools and cashless meals in education reform plans|169cd53c28e36d98b9e4e593b82bf4bd
 2026-02-04T08:56:21.804960+00:00|https://news.sky.com/story/top-chef-on-what-brexit-has-done-for-uk-fishing-and-the-question-you-should-always-ask-when-buying-fish-13503061|top chef on what brexit has done for uk fishing and the question you should always ask when buying fish|7db77796ae3a4a223896681550567e40
+2026-02-04T09:56:37.025514+00:00|https://www.bbc.com/news/articles/cp87gg2rde2o|police officer names published on court website|e8cff4ae2c139abab2cfd11ec9179266
+2026-02-04T09:56:42.728623+00:00|https://news.sky.com/story/new-batch-of-nestle-baby-formula-recalled-due-to-toxin-13503068|new batch of nestle baby formula recalled due to toxin|b77fee4fce7ce91041b3705a2ba52dc1
+2026-02-04T09:56:48.380021+00:00|https://www.bbc.com/news/articles/cy09ekp5pj5o|beer and wine to cost more as minimum alcohol price to rise by 30|df34dcd0ac785f715d20abee1031bfb9
+2026-02-04T09:56:53.994876+00:00|https://news.sky.com/story/snooker-legend-john-virgo-dies-aged-79-13503060|snooker legend john virgo dies aged 79|f0ac091f40d1bfb30585c0f735db5e40
+2026-02-04T09:56:59.593055+00:00|https://www.bbc.com/news/articles/c62nyld3d60o|i needed to face letby in court says victims mum|8b42dc5dd5f5d376159c82c8b2393976
+2026-02-04T09:57:05.280285+00:00|https://news.sky.com/story/at-least-35-killed-after-weeks-of-heavy-snowfall-in-japan-13503063|at least 35 killed after weeks of heavy snowfall in japan|423dc31370cbbae6f4ec8e1dc08af12e
