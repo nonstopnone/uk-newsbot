@@ -1,5 +1,3 @@
-2026-01-28T17:06:34.421649+00:00|https://www.nytimes.com/2026/01/28/upshot/poll-affordability-housing-prices.html|what americans really mean by affordability us news|1bf070ee4d5d4a33478e55cc9e6964e9
-2026-01-28T17:06:34.928522+00:00|https://abcnews.go.com/International/video/death-toll-protesters-killed-irans-bloody-crackdown-rising-129639489|watch death toll of protesters killed in irans bloody crackdown keeps rising us news|ef9e69ed6660013b09aa5994940e3fa3
 2026-01-28T17:48:33.594972+00:00|https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html|iraqs nominee for prime minister rejects trump threats us news|80b76987164638a3387331a88e44badf
 2026-01-28T18:18:38.163945+00:00|https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html|trump threatens iran with massive armada and presses a set of demands us news|e835ac360691456326ce2f6f434b3010
 2026-01-28T19:00:41.067563+00:00|https://www.nytimes.com/2026/01/28/us/trump-minnesota-protesters-domestic-terrorists.html|trump officials use of domestic terrorist in minnesota shootings doesnt match legal reality us news|0e5a5f53416d22f7e4db7625bfc21283
@@ -184,3 +182,4 @@
 2026-02-03T23:34:02.554280+00:00|https://www.bbc.com/news/articles/c4g01vlwqp5o?at_medium=RSS&at_campaign=rss|After months of mutual insults, Trump hails White House talks with 'terrific' Petro|512273e2d271532efca16fdf765d03a2
 2026-02-04T03:36:21.101135+00:00|https://www.bbc.com/news/videos/c23rd925knxo?at_medium=RSS&at_campaign=rss|Watch: Florida iguanas are 'cold stunned' and falling from trees|335275c67c12080a8e2070393d7657f1
 2026-02-04T03:36:27.452950+00:00|https://news.sky.com/story/is-donald-trump-about-to-defy-the-us-constitution-13503014|Is Donald Trump about to defy the US Constitution?|ed21a7a0fc759f6350d0324bc318f2f4
+2026-02-04T17:25:55.539517+00:00|https://www.bbc.com/news/articles/c4g5nx130neo?at_medium=RSS&at_campaign=rss|Trump administration withdrawing 700 federal agents from Minnesota|2825263703f490be63d220ccec21259e
