@@ -1,7 +1,3 @@
-2026-01-28T21:54:00.110359+00:00|https://www.nytimes.com/2026/01/28/us/politics/federal-officers-pretti-leave.html|federal officers who fired at pretti placed on leave us news|b3627649b0df69a7f0ade5cbc02cf28d
-2026-01-28T21:54:00.649713+00:00|https://www.nbcnews.com/video/shorts/fbi-searches-fulton-county-election-office-256754245963|fbi searches fulton county election office us news|a3e56c41b7f5483b628a44a7d26226f9
-2026-01-28T21:54:01.159056+00:00|https://www.nbcnews.com/politics/congress/senators-seek-ways-prevent-government-shutdown-ice-dhs-reforms-rcna256357|senators explore offramps to prevent a shutdown as democrats lay out dhs reforms us news|51706657ef128639f778077e4695a5fe
-2026-01-28T21:54:01.653355+00:00|https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html|tesla profit slumps but investors may not care us news|33474628a17a8d8e3b686214b3b2b5fd
 2026-01-28T22:15:52.519968+00:00|https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html|meta forecasts spending of at least $115 billion this year us news|bedf33e6294573e0938b7a04cb2307f7
 2026-01-28T22:55:14.693145+00:00|https://www.bbc.com/news/articles/c1evy87qd1no|during heated hearing rubio insists us action in venezuela will lead to prosperity and security us news|81012263ae016fb661e9828f0fa42d9f
 2026-01-28T22:55:15.186270+00:00|https://www.nbcnews.com/politics/trump-administration/white-house-chaotic-hours-alex-pretti-shooting-rcna256160|inside the white house in the chaotic hours after alex prettis shooting us news|d18919a22118fcfeedee1fc543378ab2
@@ -171,3 +167,4 @@
 2026-02-04T18:09:27.630958+00:00|https://www.bbc.com/news/articles/c79r2n3j5dyo?at_medium=RSS&at_campaign=rss|Suspect in National Guard shooting near White House pleads not guilty|4da9169e4b7398adb793703d2df3bafd
 2026-02-04T18:09:33.493853+00:00|https://news.sky.com/story/man-jailed-for-life-for-trying-to-assassinate-donald-trump-13503278|Man jailed for trying assassinate Trump on Florida golf course|41c58fdbbd8fac91065d88947103e90f
 2026-02-04T18:09:39.279267+00:00|https://www.bbc.com/news/articles/cre2gjj3pxpo?at_medium=RSS&at_campaign=rss|Man sentenced to life in prison for 2024 attempt on Trump's life|fbc13ff7f828d347a852d3fc6ba88a04
+2026-02-04T22:01:08.286205+00:00|https://www.bbc.com/news/articles/cy4gj71z0m0o?at_medium=RSS&at_campaign=rss|Trump says America should move on from Epstein - it may not be that easy|9fd70cbd9047104485cabe71883f197f
