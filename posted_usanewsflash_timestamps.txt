@@ -1,4 +1,3 @@
-2026-01-28T22:15:52.519968+00:00|https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html|meta forecasts spending of at least $115 billion this year us news|bedf33e6294573e0938b7a04cb2307f7
 2026-01-28T22:55:14.693145+00:00|https://www.bbc.com/news/articles/c1evy87qd1no|during heated hearing rubio insists us action in venezuela will lead to prosperity and security us news|81012263ae016fb661e9828f0fa42d9f
 2026-01-28T22:55:15.186270+00:00|https://www.nbcnews.com/politics/trump-administration/white-house-chaotic-hours-alex-pretti-shooting-rcna256160|inside the white house in the chaotic hours after alex prettis shooting us news|d18919a22118fcfeedee1fc543378ab2
 2026-01-28T22:55:15.689288+00:00|https://abcnews.go.com/Politics/rubio-rules-military-action-venezuela-now/story|rubio rules out further military action in venezuela for now us news|97ef3be63e2fe63b1e213b619f4c4baa
@@ -168,3 +167,4 @@
 2026-02-04T18:09:33.493853+00:00|https://news.sky.com/story/man-jailed-for-life-for-trying-to-assassinate-donald-trump-13503278|Man jailed for trying assassinate Trump on Florida golf course|41c58fdbbd8fac91065d88947103e90f
 2026-02-04T18:09:39.279267+00:00|https://www.bbc.com/news/articles/cre2gjj3pxpo?at_medium=RSS&at_campaign=rss|Man sentenced to life in prison for 2024 attempt on Trump's life|fbc13ff7f828d347a852d3fc6ba88a04
 2026-02-04T22:01:08.286205+00:00|https://www.bbc.com/news/articles/cy4gj71z0m0o?at_medium=RSS&at_campaign=rss|Trump says America should move on from Epstein - it may not be that easy|9fd70cbd9047104485cabe71883f197f
+2026-02-04T22:36:58.089442+00:00|https://news.sky.com/story/washington-post-sports-section-eliminated-ahead-of-olympic-winter-games-13503365|Washington Post lays off a third of its staff - eliminating its sports section|3e7f450845f639be22a1670cc09806e9
