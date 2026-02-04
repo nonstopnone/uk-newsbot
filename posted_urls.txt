@@ -1,7 +1,3 @@
-2026-01-28T11:29:45.802425+00:00|https://news.sky.com/story/british-airways-flight-to-london-loses-wheel-during-take-off-13499966|londonbound ba plane loses wheel during takeoff|9eee053c28a3d81066bca36eebea18a6
-2026-01-28T11:29:53.235990+00:00|https://www.telegraph.co.uk/recommended/leisure/outdoor/best-bike-lights|after being told mine wasnt bright enough i tested newer better bike lights for a safer commute|b9c069a99b29582f7655023d7a4fdab9
-2026-01-28T11:29:58.896063+00:00|https://news.sky.com/story/amazon-to-cut-16000-jobs-globally-to-streamline-operations-13490208|amazon to cut 16000 jobs globally|1503db7b0084269d643c70e604840fd3
-2026-01-28T11:30:04.263927+00:00|https://news.sky.com/story/1200-jobs-at-risk-as-the-original-factory-shop-calls-in-administrators-13499997|1200 jobs at risk as the original factory shop calls in administrators|2f34b00723e85c7c049422e5e338a32a
 2026-01-28T11:49:34.149547+00:00|https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952|south koreas former first lady jailed for 20 months for corruption|424f5400d140726d540a56bf0930b0ea
 2026-01-28T11:49:39.593295+00:00|https://www.bbc.com/news/articles/cdjnp02zevko|wales first minister refuses to support keir starmer|8fc9b6d318a17e4b3ce3cc05e0467566
 2026-01-28T11:49:44.978331+00:00|https://www.bbc.com/news/articles/c93vx98z5dno|teacher uses 40yearold law to withdraw from teaching religion|a11c08edb90bd014f167b7a550436106
@@ -530,3 +526,5 @@
 2026-02-04T10:52:36.360679+00:00|https://news.sky.com/story/an-uncomfortable-truth-must-be-confronted-to-turn-the-tide-on-foster-care-13503086|an uncomfortable truth must be confronted to turn the tide on foster care|eaec9c277197358e627b37d35419fa73
 2026-02-04T10:52:41.982141+00:00|https://www.telegraph.co.uk/american-football/2026/02/04/super-bowl-2026-watch-stadium-show-results|super bowl 2026 uk time and date halftime show details and how to watch|b409953e170c0fe7752bf173d20f5be2
 2026-02-04T10:52:47.483810+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/04/six-nations-2026-start-fixtures-schedule-how-to-watch|six nations 2026 when does it start fixtures squads and how to watch on tv|3690e44518188d3a4117c17ec298253f
+2026-02-04T11:38:56.589137+00:00|https://news.sky.com/story/shell-paves-way-for-multimillion-pound-pay-hike-for-boss-sawan-13503109|shell paves way for multimillionpound pay hike for boss sawan|cbb5c13799b58abc0c16f826854fb7bb
+2026-02-04T11:39:02.021554+00:00|https://news.sky.com/story/son-of-former-libyan-dictator-muammar-gaddafi-shot-dead-13503083|son of former libyan dictator muammar gaddafi shot dead|5d6e5d34e33c6fe94361d588d5dda9a6
