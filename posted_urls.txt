@@ -1,8 +1,3 @@
-2026-01-29T11:37:34.031095+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/desserts/hazelnut-scones-recipe|hazelnut scones|7a8b9dfa24d632e530e41678db5cde8a
-2026-01-29T11:37:39.664258+00:00|https://news.sky.com/story/how-a-century-old-act-could-help-assisted-dying-supporters-override-the-lords-13500522|how a centuryold act could help assisted dying supporters override the lords|7cd590d37288f30bc1855022312f1de7
-2026-01-29T11:37:45.296600+00:00|https://www.bbc.com/news/articles/clyepw0w752o|number of termtime school holiday fines hits another record high|4ea18b27ebb33762f3aaeb510f90e6bd
-2026-01-29T11:37:50.957013+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/cakes/austrian-poppy-seed-walnut-cake-recipe|austrian poppyseed and walnut cake|28caddecab14be06b72f52856dae37ae
-2026-01-29T11:37:56.592972+00:00|https://news.sky.com/story/china-executes-11-members-of-notorious-myanmar-based-mafia-family-13500512|china executes 11 members of notorious mafia family|9bc1ee7902ad9c0c6e94ac95f0365e23
 2026-01-29T12:02:03.799821+00:00|https://news.sky.com/story/man-arrested-after-more-than-600-items-stolen-from-museum-13500579|man arrested after more than 600 items stolen from museum|45ca92bf5da39867cb14d87b7974bbf4
 2026-01-29T12:02:09.191238+00:00|https://www.bbc.com/news/articles/c8e524n23rno|emergency loans offered to civil servants waiting on pensions|2ef26153afa7c7514e9d179bb6ae0e03
 2026-01-29T12:02:14.681406+00:00|https://news.sky.com/story/at-least-11-killed-in-second-deadly-minibus-truck-crash-in-a-week-in-south-africa-13500567|at least 11 killed in second deadly minibustruck crash in a week|e86808371860e64ab0761776d1980b40
@@ -498,3 +493,8 @@
 2026-02-05T10:03:51.105892+00:00|https://www.bbc.com/news/articles/cdjn0ed8vj1o|mystery of abandoned village that could be from postapocalyptic horror movie|f6fd1b6f5980ca001e797102b9da2c58
 2026-02-05T10:03:56.615785+00:00|https://news.sky.com/story/family-of-woman-who-died-after-cape-verde-holiday-issue-warning-as-spike-in-illnesses-revealed-13503454|family of woman who died after cape verde holiday issue warning as spike in illnesses revealed|75c54c57cabf30e2dea0de58a21dce27
 2026-02-05T11:04:26.829282+00:00|https://www.bbc.com/news/articles/c8rm7v0zr24o|duke in court accused of strangling estranged wife|154b3404d9089b4ae4f9b3ebb8a1f274
+2026-02-05T11:51:39.665090+00:00|https://www.bbc.com/news/articles/cvgp2w95n93o|at least 30 deaths in small boat crossing avoidable inquiry finds|ea67e85b16f88a6af74fbbc7521d04e4
+2026-02-05T11:51:45.397716+00:00|https://news.sky.com/story/autism-rates-between-girls-and-boys-challenged-by-new-study-13503522|autism rates between girls and boys challenged by new study|3709c1ef52eef78f402392dd21075583
+2026-02-05T11:51:50.931711+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/scientists-discover-mutant-mosquito-gene-drug-resistance|scientists discover mutant mosquito gene that causes drug resistance|93a5909ec971c4fef75b3aa94b9ffa1c
+2026-02-05T11:51:56.573010+00:00|https://www.bbc.com/news/articles/cd0y143mljmo|nuclear constabulary officer exchanged sexual images with girl 12|13b79b4add39132101e8f439141a6b49
+2026-02-05T11:52:02.104627+00:00|https://www.bbc.com/news/articles/c931rxnwn3lo|36 uk infants ill after drinking contaminated baby formula|90810c53917a4d7cc50d3dc585da26e1
