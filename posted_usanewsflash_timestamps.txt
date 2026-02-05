@@ -1,7 +1,3 @@
-2026-01-29T04:18:37.780801+00:00|https://www.bbc.com/news/articles/ckgn0w129lqo|border agents involved in fatal shooting of alex pretti placed on leave us news|98079ba67289cfa0e06e8a45bf471376
-2026-01-29T04:18:38.383726+00:00|https://www.nytimes.com/2026/01/28/us/politics/trump-kennedy-center-resignation.html|another top kennedy center official resigns us news|5715d310c6ceef6812bb87a317f1490a
-2026-01-29T04:18:38.984276+00:00|https://abcnews.go.com/US/car-crashes-chabad-world-headquarters-brooklyn/story|car crashes into chabad world headquarters in brooklyn us news|310d050fa6e9c66d529d5320f8e6ebee
-2026-01-29T04:18:39.563205+00:00|https://www.nbcnews.com/video/shorts/rep-omar-speaks-out-after-assault-during-town-hall-256776261651|rep omar speaks out after assault during town hall us news|18146f1ca88f9838986fff8a88ab1618
 2026-01-29T05:29:39.335117+00:00|https://www.nytimes.com/2026/01/28/us/trump-schumer-deal-shutdown.html|trump and schumer move toward possible deal to avert a shutdown us news|5b1e51ec4e6637cacf8432259edec776
 2026-01-29T05:29:39.821709+00:00|https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html|how his duel with trump boosted emmanuel macron frances embattled president us news|5839e07e8c1dc20e392a3b60a4d3a407
 2026-01-29T05:29:40.292667+00:00|https://www.nytimes.com/2026/01/29/business/china-economy-duality.html|at worlds busiest port chinas unbalanced economy comes into view us news|46067b9e6a90c475d7ef55c7f5186d7f
