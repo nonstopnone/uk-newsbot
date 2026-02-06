@@ -1,8 +1,3 @@
-2026-01-30T05:32:59.976014+00:00|https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html|panama court strikes down hong kong firms canal contract us news|a12dfe04ffcc8696359c0f3c121ca0d5
-2026-01-30T05:33:00.484403+00:00|https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html|democrats reach spending deal with trump seeking to rein in ice us news|7e7886f800f9bda604a61703ea279f41
-2026-01-30T05:33:01.027192+00:00|https://www.nytimes.com/2026/01/29/business/trump-expected-to-announce-kevin-warsh-as-fed-chair.html|trump expected to announce kevin warsh as fed chair us news|d753a8c045793118f4bbdb0a248dfe3c
-2026-01-30T05:33:01.519304+00:00|https://abcnews.go.com/International/trump-threatens-tariffs-countries-selling-oil-cuba-declaring/story|trump threatens tariffs on countries selling oil to cuba declaring emergency us news|08c708cb499265b810ead7c05a9f134f
-2026-01-30T05:33:01.990056+00:00|https://www.nytimes.com/2026/01/29/arts/melania-movie-trump-kennedy-center.html|trump and first lady attend premiere of melania at kennedy center us news|7a0559e7d049397ffd2a8e36e8f8cf34
 2026-01-30T06:08:12.794533+00:00|https://www.nytimes.com/2026/01/29/world/asia/xi-zhang-military-purge-taiwan.html|xis military purge may set back his taiwan ambitions us news|8cccc2b97bf1118e6f67cf89e35348e7
 2026-01-30T06:08:13.595620+00:00|https://www.nbcnews.com/video/shorts/driverless-waymo-car-hits-child-in-california-256877125727|driverless waymo car hits child in california us news|b04caf3f271fd983959f7c0df6e87f92
 2026-01-30T08:21:43.837486+00:00|https://www.nytimes.com/video/us/100000010669504/what-domestic-terrorism-means-and-doesnt.html|what domestic terrorism means and doesnt us news|465ab74f2576886bf954f0319d9c8a65
@@ -86,3 +81,4 @@
 2026-02-05T19:00:08.498290+00:00|https://www.bbc.com/news/articles/cjdj7re9rr0o?at_medium=RSS&at_campaign=rss|Experts warn against drinking raw milk after New Mexico baby's listeria death|aa12654b5ab424ed51100ad146486aec
 2026-02-05T19:40:05.077394+00:00|https://www.bbc.com/news/articles/czx1v91rqxzo?at_medium=RSS&at_campaign=rss|Canadian  singer Tate McRae faces backlash for promoting Team USA|37c45351df63d7d6d1a120683ae643ba
 2026-02-05T21:36:09.184985+00:00|https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss|US police believe Savannah Guthrie's missing mother is 'still out there'|cc194e8473044fd064d537acbdf87c7b
+2026-02-06T05:37:04.897946+00:00|https://news.sky.com/story/nancy-guthrie-a-neighbourhood-left-stunned-by-a-crime-thats-mystifying-america-13503912|A neighbourhood left stunned by a crime that's mystifying America|9477a8036424fce883d5d0d1f2d65b88
