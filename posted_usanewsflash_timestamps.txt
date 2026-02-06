@@ -1,5 +1,3 @@
-2026-01-30T06:08:12.794533+00:00|https://www.nytimes.com/2026/01/29/world/asia/xi-zhang-military-purge-taiwan.html|xis military purge may set back his taiwan ambitions us news|8cccc2b97bf1118e6f67cf89e35348e7
-2026-01-30T06:08:13.595620+00:00|https://www.nbcnews.com/video/shorts/driverless-waymo-car-hits-child-in-california-256877125727|driverless waymo car hits child in california us news|b04caf3f271fd983959f7c0df6e87f92
 2026-01-30T08:21:43.837486+00:00|https://www.nytimes.com/video/us/100000010669504/what-domestic-terrorism-means-and-doesnt.html|what domestic terrorism means and doesnt us news|465ab74f2576886bf954f0319d9c8a65
 2026-01-30T11:02:57.854332+00:00|https://www.bbc.com/news/videos/cvgnqgl57p2o|shes done a great job donald trump praises melanias film us news|508bf88cfa6d8534647615fa3dc2a17b
 2026-01-30T11:02:58.442895+00:00|https://www.nytimes.com/2026/01/30/us/politics/minneapolis-trump-renee-good-alex-pretti.html|factchecking trump officials on minnesota after shootings by federal agents us news|8539f8c455ebe4f8138662fac0ebc9d5
@@ -82,3 +80,4 @@
 2026-02-05T19:40:05.077394+00:00|https://www.bbc.com/news/articles/czx1v91rqxzo?at_medium=RSS&at_campaign=rss|Canadian  singer Tate McRae faces backlash for promoting Team USA|37c45351df63d7d6d1a120683ae643ba
 2026-02-05T21:36:09.184985+00:00|https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss|US police believe Savannah Guthrie's missing mother is 'still out there'|cc194e8473044fd064d537acbdf87c7b
 2026-02-06T05:37:04.897946+00:00|https://news.sky.com/story/nancy-guthrie-a-neighbourhood-left-stunned-by-a-crime-thats-mystifying-america-13503912|A neighbourhood left stunned by a crime that's mystifying America|9477a8036424fce883d5d0d1f2d65b88
+2026-02-06T06:36:02.998139+00:00|https://news.sky.com/story/iran-and-us-to-begin-high-stakes-talks-amid-fears-of-conflict-13503914|Iran and US to begin high-stakes talks amid fears of conflict|775148673945a046aadad452c7a00821
