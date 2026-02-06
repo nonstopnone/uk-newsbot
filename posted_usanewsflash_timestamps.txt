@@ -1,13 +1,3 @@
-2026-01-30T13:14:51.628174+00:00|https://www.today.com/video/lawmakers-face-deadline-to-avert-partial-government-shutdown-256884805833|lawmakers face deadline to avert partial government shutdown us news|09ece2cbb28927e0f279ef88b5f0ea9b
-2026-01-30T13:14:52.167854+00:00|https://abcnews.go.com/Politics/trump-hell-announce-pick-federal-reserve-chair-friday/story|trump announces kevin warsh as fed chair pick us news|3565a04c3fead8cfb3f03da5096b85eb
-2026-01-30T13:14:52.683941+00:00|https://www.today.com/video/trump-names-kevin-warsh-to-replace-fed-chair-jerome-powell-256884805613|trump names kevin warsh to replace fed chair jerome powell us news|75a62e5812e9c5254e40a954290ff3b3
-2026-01-30T13:14:53.191326+00:00|https://www.nytimes.com/2026/01/30/us/don-lemon-arrest-minnesota-church-protest.html|federal agents arrest don lemon over minnesota church protest us news|d5c07297996abe09e2899859aaab72e3
-2026-01-30T13:14:53.680381+00:00|https://www.nbcnews.com/video/shorts/trump-taps-kevin-warsh-to-chair-federal-reserve-256887365723|trump taps kevin warsh to chair federal reserve us news|277a229adbe096de13b8875c219fd548
-2026-01-30T14:02:27.524325+00:00|https://www.bbc.com/news/articles/c2d7yddrl2xo|who is kevin warsh trumps pick for fed chair us news|3a79226eb742ffc295507d0a7e59f111
-2026-01-30T14:02:28.277039+00:00|https://www.bbc.com/news/articles/c24gm3dz36po|former cnn host don lemon arrested after antiice protests at minnesota church us news|6c51bc7ef7962f5e1145a876dd04a93b
-2026-01-30T14:02:29.030322+00:00|https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html|will kevin warsh do what trump wants us news|bc3fec6ffe6785605ca8e22d9f58a57b
-2026-01-30T14:02:29.792693+00:00|https://abcnews.go.com/GMA/Culture/jordan-chiles-granted-appeal-olympic-medal-case/story|usa gymnastics responds to new development in jordan chiles olympic medal case us news|84f4aebf076c928647155faf2d8bdab0
-2026-01-30T14:02:30.534619+00:00|https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html|iran rules out talks with us until trumps threats stop us news|fe5a5a857cfdd29663816ce0457a8e21
 2026-01-30T14:44:35.723719+00:00|https://www.nbcnews.com/news/us-news/don-lemon-arrested-federal-authorities-attorney-says-rcna256680|don lemon arrested by federal authorities in connection with minnesota church protest us news|04c71245387fb3e7422e42c402c37a75
 2026-01-30T14:44:36.248072+00:00|https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story|former cnn journalist arrested in connection with minnesota protest us news|82b198bdc265d9dd372b4dee4b622f0b
 2026-01-30T15:19:39.930260+00:00|https://abcnews.go.com/US/luigi-mangione-latest-judge-rule-death-penalty-stays/story|luigi mangione latest death penalty off the table judge rules us news|f3f5ebb063d9fc0c78c69afc68142eb6
@@ -71,3 +61,4 @@
 2026-02-06T06:36:02.998139+00:00|https://news.sky.com/story/iran-and-us-to-begin-high-stakes-talks-amid-fears-of-conflict-13503914|Iran and US to begin high-stakes talks amid fears of conflict|775148673945a046aadad452c7a00821
 2026-02-06T09:10:04.928509+00:00|https://www.bbc.com/news/videos/cn8287ndz0go?at_medium=RSS&at_campaign=rss|Watch: Bad Bunny lookalikes compete ahead of Super Bowl|1529930ae364ba719d80168a382202e2
 2026-02-06T11:56:11.215227+00:00|https://news.sky.com/story/fbi-most-wanted-terrorist-arrested-in-wales-can-be-extradited-judge-rules-13493689|FBI 'most wanted terrorist' arrested in Wales can be extradited, judge rules|bfbac6d83dc90ed5e2d3dd63caafba8f
+2026-02-06T14:08:07.644782+00:00|https://www.bbc.com/news/articles/c2e1e7nlegko?at_medium=RSS&at_campaign=rss|Savannah Guthrie's brother renews plea for proof mother is alive|b056f2ba8974fe4ff135b93ef4e2761a
