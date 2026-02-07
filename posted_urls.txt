@@ -1,5 +1,3 @@
-2026-01-31T19:57:46.954480+00:00|https://www.bbc.com/news/articles/c9wx02zw85qo|labour peer and former fa chairman lord triesman dies aged 82|ac756fdd2ec7541235b6d70345c777c1
-2026-01-31T20:36:14.723337+00:00|https://www.telegraph.co.uk/football/2026/01/31/chelsea-vs-west-ham-live-score-latest-premier-league-update|fernandez completes dramatic comeback as chelsea stun west ham|368a0754673f78a4b6ed703a87b9dcf3
 2026-01-31T20:58:56.937370+00:00|https://news.sky.com/story/weather-warning-for-parts-of-england-already-hit-by-severe-rain-13501643|rain warning for parts of england already suffering from saturated ground|4dc258fd0157ef4a03e91fb30741321e
 2026-01-31T21:32:17.529022+00:00|https://news.sky.com/story/lord-triesman-ex-labour-minister-and-fa-chairman-dies-13501629|former labour minister and fa chairman lord triesman dies|183a4f586707f943b134f0723d9c870b
 2026-01-31T21:55:57.156318+00:00|https://www.bbc.com/news/articles/cpqyp8yw8wyo|how forensics pieced together mystery of bones at beauty spot murder|6a541ef5eb593262384f323d9fe97651
@@ -499,3 +497,5 @@
 2026-02-07T17:59:03.284735+00:00|https://news.sky.com/story/japans-drum-playing-trump-hugging-china-provoking-pm-sanae-takaichi-raises-the-stakes-13504451|japans drumplaying trumphugging chinaprovoking pm raises the stakes|45b1728359d60204ef6cd0e2a51ed7ad
 2026-02-07T18:51:31.173875+00:00|https://www.bbc.com/news/articles/cx2k2zd87lzo|murder probe continues as boy 17 named|de31b7256821304251aac590c6ea9dbe
 2026-02-07T19:31:28.021083+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/07/england-v-wales-live-score-latest-six-nations-updates|england tear apart sorry wales to get six nations title bid under way|6d7e9d5b607bd2a02bc893779cfe830b
+2026-02-07T20:38:17.119744+00:00|https://news.sky.com/story/trump-and-netanyahu-to-meet-for-iran-discussions-13504734|trump and netanyahu to meet for iran discussions|cc59a05123608b833d8852df69d77a9a
+2026-02-07T20:38:22.497143+00:00|https://www.telegraph.co.uk/football/2026/02/07/newcastle-vs-brentford-live-score-latest-premier-league|late brentford winner plunges howe into biggest crisis of newcastle reign|c79e2745b47ad174b7ad55c5c0246303
