@@ -1,5 +1,3 @@
-2026-02-01T10:34:32.218058+00:00|https://www.bbc.com/news/articles/cly5xy73jp8o|my ketamine addiction put me in a japanese prison|ee92ca29212a4127f9ac2421d4cbc33a
-2026-02-01T10:34:37.728381+00:00|https://news.sky.com/story/major-incident-declared-after-fire-at-university-hospital-southampton-13501166|major incident declared after fire at hospital|85c7d5f8c9827617e6cc6ee28eaa8db2
 2026-02-01T11:01:17.167986+00:00|https://www.bbc.com/news/articles/c9qpr7y718do|major incident declared after fire breaks out at hospital|54cc74627094d35e32f0172c7d85fa71
 2026-02-01T11:01:22.916287+00:00|https://news.sky.com/story/five-year-old-detained-in-minnesota-ice-raid-must-be-freed-judge-rules-13501790|fiveyearold detained in minnesota ice raid must be freed judge rules|02062fa2859bce3d44f3ef9b0fb6180a
 2026-02-01T11:56:30.944235+00:00|https://www.bbc.com/news/articles/cql41le9drxo|tyrone factory hoping to turn dust into electricity|da99906db164502cea5c0b030993399a
@@ -490,3 +488,9 @@
 2026-02-08T09:38:29.702114+00:00|https://www.bbc.com/news/articles/c5yp08kmk4eo|my car was stolen here are six important things i learned|ca1b3ef1c6dfe9a0416b73098b57b243
 2026-02-08T09:38:35.065044+00:00|https://www.bbc.com/news/articles/c99k91gj09eo|why prince williams saudi arabia visit is a diplomatic maze|210720a16cac354327965021edab04a4
 2026-02-08T09:38:40.426254+00:00|https://www.bbc.com/news/articles/cje1eq9z08wo|dozens of flood warnings in england after days of nonstop rain|9ccbb84d982d74686c2ad8756c7c78a8
+2026-02-08T10:42:30.353822+00:00|https://www.bbc.com/news/articles/c93wjywz5p5o|i turned myself into an aigenerated deathbot heres what i found|18f8d3b1b8f5bb9715f742943e14dcfd
+2026-02-08T10:42:35.638651+00:00|https://www.bbc.com/news/articles/c5yvy6wg595o|connolly had hoops to jump through in first ni visit as irish president|947d0eec613b6a06eb6b0ffc4663d636
+2026-02-08T10:42:41.013911+00:00|https://www.bbc.com/news/articles/c5yvnqqv9n2o|how britain became a fried chicken nation|0fec0297cc51081f9497c54744c9a485
+2026-02-08T10:42:46.377649+00:00|https://www.bbc.com/news/articles/cn9z0d9pd2xo|im obsessed with bar livestreams all the drama of a night out from my sofa|5a310e3410c59cadeb98ab41714d7c3c
+2026-02-08T10:42:51.670542+00:00|https://www.bbc.com/news/articles/cq6vj3j0q2po|were unable to grieve for dad ahead of nottingham attacks inquiry|a125acf31b37e80b079ff31d965a03a3
+2026-02-08T10:42:57.140033+00:00|https://www.bbc.com/news/articles/cvg1g070zwlo|king charles to host nigerias first uk state visit in 37 years|7ce4034ea28ac2c40b9f8a6c401ed51f
