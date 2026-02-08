@@ -494,3 +494,5 @@
 2026-02-08T10:42:57.140033+00:00|https://www.bbc.com/news/articles/cvg1g070zwlo|king charles to host nigerias first uk state visit in 37 years|7ce4034ea28ac2c40b9f8a6c401ed51f
 2026-02-08T11:02:58.330180+00:00|https://news.sky.com/story/met-office-issues-fresh-weather-warning-amid-hundreds-of-flood-alerts-13504847|fresh heavy rain warning issued amid hundreds of flood alerts|c676e62e5636fdfe0cad0e9ca928e042
 2026-02-08T11:03:03.721840+00:00|https://news.sky.com/story/starmers-top-adviser-shouldnt-resign-over-mandelson-scandal-as-responsibility-lies-with-pm-minister-says-13504837|starmers top adviser shouldnt resign over mandelson scandal minister says|e78c58d29efa3639493a27a527ec2573
+2026-02-08T11:39:22.780321+00:00|https://news.sky.com/story/lindsey-vonn-crashes-in-downhill-skiing-final-at-winter-olympics-13504857|lindsey vonn suffers devastating crash in olympics downhill skiing final|34e3715e02580ce4d495f555dfecc20e
+2026-02-08T11:39:28.367441+00:00|https://news.sky.com/story/japans-ultra-conservative-prime-minister-set-to-seize-more-power-exit-poll-shows-13504853|japanese pms election gamble set to pay off|8e5b0e617c97d9ae03254f3c78ab9e43
