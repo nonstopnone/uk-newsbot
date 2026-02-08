@@ -1,4 +1,3 @@
-2026-02-01T20:37:32.745204+00:00|https://www.bbc.com/news/articles/ce8reg33mjmo|families take legal action over nursery workers abuse|3c7c11e6876aa26d9a66611a2825b695
 2026-02-01T21:34:37.717535+00:00|https://www.bbc.com/news/articles/ckgl62rx6l2o|people terrified of severe flood risk on street that could be bulldozed|3662e0e4503bac64ba345a5ad69763fc
 2026-02-01T21:34:43.648474+00:00|https://www.bbc.com/news/articles/cn42579x1njo|man charged over kidnap rape and sex assault|12aca96c21ca47b0d3fcad2271dd14ec
 2026-02-01T22:36:13.337177+00:00|https://news.sky.com/story/all-the-best-grammys-2026-fashion-as-celebrities-hit-the-red-carpet-13502110|all the best grammys fashion as celebrities hit the red carpet|e726b25bb6625d2906e571e3cf8ad915
@@ -479,3 +478,5 @@
 2026-02-08T17:59:51.167329+00:00|https://news.sky.com/story/russian-citizen-detained-in-dubai-over-shooting-of-general-in-moscow-13504947|russian citizen detained in dubai over shooting of general in moscow|0e8b03c1801b1bf332d1655365e9507c
 2026-02-08T17:59:56.545791+00:00|https://www.bbc.com/news/articles/c99j01p1yjro|andrew shared confidential information with epstein as trade envoy files suggest|eb169f361852b293c74f645d2ba53f2d
 2026-02-08T18:53:08.015905+00:00|https://news.sky.com/story/d-day-survivor-dedicated-to-fallen-comrades-dies-aged-100-13504960|dday survivor dedicated to fallen comrades dies aged 100|c27e9074c717d46b21d29f8a9b653536
+2026-02-08T20:38:51.797169+00:00|https://www.bbc.com/news/articles/cn9el55ddxno|why mcsweeneys departure could prove perilous for the pm|da2e2405e685e1536d89f49734050257
+2026-02-08T20:38:57.216912+00:00|https://www.bbc.com/news/articles/c8r1xp7j533o|pms chief aide mcsweeney quits over mandelson row|e4f15a413f574605a82044908c20cbc1
