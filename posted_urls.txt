@@ -1,7 +1,3 @@
-2026-02-01T13:08:53.699362+00:00|https://www.bbc.com/news/articles/c2k9w5zvgyxo|military veterans get preferential legacy treatment oneill|10471d58360473997c472bdc1cb46ce4
-2026-02-01T13:08:59.391810+00:00|https://news.sky.com/story/rafah-border-reopens-for-travel-between-gaza-and-egypt-amid-us-brokered-deal-13501800|rafah border to reopen to allow limited crossings between gaza and egypt|f55c30a40184118b5bc45922871fc6de
-2026-02-01T13:09:05.061486+00:00|https://www.bbc.com/news/articles/c0jv3nvplwwo|arrest after woman 50 stabbed to death on street|968888cf51fab2a960361d426506e7d8
-2026-02-01T13:09:10.578520+00:00|https://www.bbc.com/news/articles/c3wzje0egllo|man rescued after falling 30ft down well|7efe49d8f532b20333d59da0dd9736de
 2026-02-01T13:54:25.930812+00:00|https://www.bbc.com/news/articles/cy05zd4kw9wo|pensioner dies after being hit by car|aa5eda47b6c83a9548f2b66f27c1d5c2
 2026-02-01T13:54:31.999148+00:00|https://news.sky.com/story/boxer-loses-hairpiece-in-the-ring-and-blames-mothers-shampoo-13501837|boxer loses hairpiece in the ring|ef2f411891d2cf696db7c2cce3388905
 2026-02-01T13:54:37.545766+00:00|https://news.sky.com/story/ice-warnings-issued-for-parts-of-england-wales-and-northern-ireland-13501830|ice warnings issued for parts of uk|7fb72e57545dfdadd929dfe99c3e5859
@@ -493,3 +489,7 @@
 2026-02-08T11:03:03.721840+00:00|https://news.sky.com/story/starmers-top-adviser-shouldnt-resign-over-mandelson-scandal-as-responsibility-lies-with-pm-minister-says-13504837|starmers top adviser shouldnt resign over mandelson scandal minister says|e78c58d29efa3639493a27a527ec2573
 2026-02-08T11:39:22.780321+00:00|https://news.sky.com/story/lindsey-vonn-crashes-in-downhill-skiing-final-at-winter-olympics-13504857|lindsey vonn suffers devastating crash in olympics downhill skiing final|34e3715e02580ce4d495f555dfecc20e
 2026-02-08T11:39:28.367441+00:00|https://news.sky.com/story/japans-ultra-conservative-prime-minister-set-to-seize-more-power-exit-poll-shows-13504853|japanese pms election gamble set to pay off|8e5b0e617c97d9ae03254f3c78ab9e43
+2026-02-08T13:09:40.378471+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/08/six-nations-2026-start-fixtures-schedule-how-to-watch|six nations 2026 fixtures results squads and how to watch on tv|23fb15b85b2cfa4dfb715444c3d5164c
+2026-02-08T13:09:45.960265+00:00|https://news.sky.com/story/toddler-held-by-ice-nearly-died-in-detention-and-was-denied-medication-lawsuit-claims-13504850|toddler held by ice nearly died in detention and was denied medication lawsuit claims|a258ca31c39456eeb905f21cee56f56d
+2026-02-08T13:09:51.562316+00:00|https://www.bbc.com/news/articles/cy03nd2yxzdo|dont drop pm over mandelson minister urges labour mps|2ba14c21c5076789e03c2187a58381cc
+2026-02-08T13:09:56.999896+00:00|https://www.bbc.com/news/articles/cj3v306n6g2o|mp visits school in secret due to gaza protest plan|5c3036fab41f77a025d556425246996f
