@@ -1,11 +1,3 @@
-2026-02-02T23:02:39.335112+00:00|https://www.bbc.com/news/articles/cly17yv2xr9o|man dies after lorry crash in county tyrone|22c5919a4c34813a92e3f6d8ac7ce567
-2026-02-02T23:02:44.818654+00:00|https://www.telegraph.co.uk/football/2026/02/02/transfer-deadline-day-live-latest-updates-january-window|palace sign strand larsen but face mateta dilemma after milan move collapses|f1881936bcc40a7a115d8442011c27b4
-2026-02-02T23:02:50.297048+00:00|https://news.sky.com/story/ukraine-hits-out-at-infantile-fifa-boss-for-considering-lifting-russia-ban-13502506|ukraine hits out at infantile fifa boss|74cdefd1757fd7c7873fa3f2adb08243
-2026-02-02T23:02:55.762240+00:00|https://www.bbc.com/news/articles/cgl83ggln40o|rules over which jails house trans prisoners challenged in court|082bc7b5133192594a0d73682f07a22d
-2026-02-02T23:03:01.272619+00:00|https://www.telegraph.co.uk/business/2026/02/02/ftse-100-markets-gold-silver-bitcoin-kospi-oil-us-nasdaq-uk|ftse hits record high as gold and oil tumble|30846daaad97ae2b37145c0e79f1fd0b
-2026-02-02T23:03:06.664844+00:00|https://news.sky.com/story/dragons-den-star-jones-tees-off-with-takeover-of-american-golf-13502472|dragons den star jones tees off with takeover of american golf|1abd4c490a1cc5c555aa3d9ec2ce9a4d
-2026-02-02T23:03:12.046515+00:00|https://www.bbc.com/news/articles/cgm4rkn7x7po|police assess reports of alleged misconduct after mandelson emails published|e4dc27dacdc71645e6bc48def8fda40d
-2026-02-02T23:03:17.539341+00:00|https://news.sky.com/story/son-of-norways-crown-princess-arrested-ahead-of-rape-trial-on-new-allegations-of-assault-and-wielding-a-knife-13502454|son of norways crown princess arrested ahead of trial on rape and other charges|445839141a48ff604943888cd8e9c90b
 2026-02-02T23:46:08.710906+00:00|https://www.bbc.com/news/articles/c4g3vg87xv3o|sarah ferguson emailed epstein while he was in prison for child sex offence documents suggest|e8cb0b57a95f6f9ec465a659b85e2e41
 2026-02-02T23:46:14.393344+00:00|https://news.sky.com/story/police-investigating-disappearance-of-us-tv-presenters-mother-13502515|police investigating disappearance of us tv presenters mother|158b71f8585e3cd48744baa8378f35bb
 2026-02-02T23:46:19.939202+00:00|https://www.bbc.com/news/articles/cwy82lk40wpo|chicken in many school dinners imported from china and thailand|eef79c78cb544a5415fe0b439891dcd6
@@ -500,3 +492,7 @@
 2026-02-09T22:47:11.304457+00:00|https://news.sky.com/story/us-tv-host-savannah-guthrie-at-hour-of-desperation-in-search-for-missing-mother-13505486|us tv star at hour of desperation for missing mother as ransom deadline looms|d1f316cdb8d3a26b50b01a243f9897fc
 2026-02-09T22:47:16.641245+00:00|https://www.bbc.com/sport/articles/crrxlvpnw4ko|so close to a world first fourth for brookes on frustrating day for team gb|d03554dcddfb7d52268b47d1a0846140
 2026-02-09T22:47:22.052797+00:00|https://news.sky.com/story/home-alone-actress-catherine-oharas-cause-of-death-confirmed-13505474|home alone actress catherine oharas cause of death confirmed|59f43a5ed704cdccd57578156ce8061b
+2026-02-09T23:46:06.061989+00:00|https://news.sky.com/story/why-palace-chose-to-issue-extraordinary-statement-over-andrew-allegations-13505500|why palace chose to issue extraordinary statement over andrew allegations|0d11b539471e9479f6cf3354cc0eb5ae
+2026-02-09T23:46:11.453348+00:00|https://www.bbc.com/news/articles/cx2wzj9dwvzo|sepsis mistakes killed our daughter we fear it could happen again|426c291f806b67fd41dbf85a0ad3f107
+2026-02-09T23:46:16.860484+00:00|https://news.sky.com/story/epstein-affair-may-be-the-end-of-the-monarchy-says-us-congressman-13505487|epstein affair may be the end of the monarchy says us congressman|f88193ac7eacdeedf89d7524542abfa5
+2026-02-09T23:46:22.200808+00:00|https://news.sky.com/story/starmer-vows-to-stay-on-saying-hes-won-every-fight-hes-been-in-13505479|starmer vows not to walk away saying hes won every fight|0af10a31586828a82d131022be935179
