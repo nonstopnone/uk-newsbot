@@ -1,6 +1,3 @@
-2026-02-02T06:16:43.852204+00:00|https://www.bbc.com/news/articles/cz6yzp1dl1jo|new exams body plans to shakeup qualifications system|c6b2e3ca4c989511defaa063a8f3fc7f
-2026-02-02T06:16:49.393549+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/how-smallpox-eradication-cleared-the-way-for-new-threats|return of the pox how smallpox eradication cleared the way for new threats|ef63ccb12b44ff6b1d4b23e8f3cf2079
-2026-02-02T06:16:54.821716+00:00|https://news.sky.com/story/four-britons-die-within-four-months-after-holidaying-in-cape-verde-13502147|families take legal action after cape verde holiday deaths|a2894f910fbfa80d582fb44f25449238
 2026-02-02T07:34:05.231469+00:00|https://www.bbc.com/news/articles/c9wx2dz2v44o|ai slop is transforming social media and a backlash is brewing|6a5fd32dfa1c95638a0f4366c8345433
 2026-02-02T07:34:10.673615+00:00|https://www.bbc.com/news/articles/c9wxx97jlveo|men covertly filming women at night and profiting from footage bbc finds|a9cb8ee9a72f08952e8b37affd75fc0b
 2026-02-02T08:26:23.587762+00:00|https://www.bbc.com/news/articles/c5y2lj3md8po|workers party of britain not contesting byelection|3d9d35cf20640d8af9d3a1233a3c8335
@@ -479,3 +476,4 @@
 2026-02-09T05:18:14.885458+00:00|https://www.telegraph.co.uk/american-football/2026/02/08/super-bowl-2026-live-patriots-vs-seahawks-score-latest|british born defence coach inspires seahawks to super bowl lx victory over patriots|42cc819a12c308a5f7840862e076777e
 2026-02-09T05:18:20.568508+00:00|https://www.bbc.com/news/articles/cge8d0nnweyo|four charged with murder of 17yearold|a253316ce38fc025d9035c740e7a7b16
 2026-02-09T05:18:25.936342+00:00|https://news.sky.com/story/social-media-is-on-trial-in-la-heres-what-you-need-to-know-13504572|social media goes on trial in la heres what you need to know|f888bb7886c3cfeea6a72cf96d882a1b
+2026-02-09T06:43:48.352908+00:00|https://www.bbc.com/news/articles/cgrzj575541o|the artists struggling to survive the fall of glasgows cca|9b6ac19d738cd9becc8c92bb0f827795
