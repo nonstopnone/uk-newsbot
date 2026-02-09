@@ -1,5 +1,3 @@
-2026-02-02T10:09:14.909340+00:00|https://www.bbc.com/news/articles/c23rxr1lz8do|drone incidents near uk military bases double yearonyear|095421f47d65c80ac9fb5c14be78d219
-2026-02-02T10:09:20.608021+00:00|https://news.sky.com/story/china-executes-four-people-over-myanmar-based-scam-and-gambling-syndicate-13502173|china executes four people over myanmarbased scam and gambling syndicate|454d3e0dfb98286f801c32cfb57b1a81
 2026-02-02T11:08:24.410051+00:00|https://www.bbc.com/news/articles/c20z4g6lxpwo|mum killed in spain did everything for her children|d531a0948f0c836313f139c6aa436a13
 2026-02-02T11:08:29.894390+00:00|https://news.sky.com/story/suffolk-strangler-steve-wright-pleads-guilty-to-murder-of-teen-in-1999-13502246|suffolk strangler steve wright pleads guilty to murder of teen in 1999|442f03d5cf23540d02d9957920c202af
 2026-02-02T11:08:35.288076+00:00|https://www.bbc.com/news/articles/ckgx9pkq7w0o|warning after birds glued down by sticky traps|82be0dabdde8fe918520a8db754dc5f9
@@ -482,3 +480,6 @@
 2026-02-09T09:44:21.354973+00:00|https://www.bbc.com/news/articles/cde4yjj1830o|dday veteran who never thought of himself as a hero dies aged 100|c0f1000739724ff9fcb38452163037f0
 2026-02-09T09:44:26.746945+00:00|https://www.bbc.com/news/articles/c1kld9ppelwo|friends left in tears over £8k rental scam|02861babf2cf24574e8f41fdf6282892
 2026-02-09T09:44:32.256990+00:00|https://www.bbc.com/news/articles/czx394epp3vo|cardiff airports £205m handout challenged by bristol|1312b823b0f9bca6e29843549b83b40f
+2026-02-09T10:43:17.736836+00:00|https://news.sky.com/story/53-migrants-including-two-babies-dead-or-missing-after-boat-capsizes-off-libya-13505209|53 migrants dead or missing after boat capsizes off libya|b38a9d85305c0d11673470c2c05313a1
+2026-02-09T10:43:24.744464+00:00|https://news.sky.com/story/one-of-scotlands-last-d-day-veterans-dies-aged-100-13505200|dday veteran who never thought of himself as a hero dies aged 100|99fd250642cd677457de60be894799c7
+2026-02-09T10:43:30.393220+00:00|https://news.sky.com/story/im-a-mechanic-here-are-the-signs-youre-being-ripped-off-and-why-car-repairs-are-becoming-more-expensive-13505191|im a mechanic here are the signs youre being ripped off and why repairs are becoming more expensive|637400015c9402bb4dbda4a92acf9cf9
