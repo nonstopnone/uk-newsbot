@@ -1,9 +1,3 @@
-2026-02-04T07:03:38.083508+00:00|https://www.bbc.com/news/articles/cx2x3p67zxyo|womans narrow escape from serial killer steve wright|2235771594165eaea68324ba1bded270
-2026-02-04T07:03:43.568435+00:00|https://news.sky.com/story/andrew-moves-out-drones-delivering-weapons-to-prisons-and-is-cancer-strategy-bold-enough-morning-rundown-13503013|morning rundown the main headlines best video and what will shape todays news|e35787e5c855e31165e07644bd016451
-2026-02-04T07:03:49.067532+00:00|https://www.bbc.com/news/articles/cly5d7wj0d6o|hospital told to improve safety probes a decade after baby deaths|78cafd1b1c0306a332f24c095cd7d7a6
-2026-02-04T07:03:54.507703+00:00|https://www.bbc.com/news/articles/cjdjm1j34gko|inside reform laura kuenssberg follows farages party as it experiences the glare of scrutiny|e1feb1e0fef1a45d2cfaab7321dead5a
-2026-02-04T07:04:00.015367+00:00|https://www.bbc.com/news/articles/cwy8ded4890o|ive never hit anything so hard what its like to be attacked by a shark|21c23644d381653b56c8e22a57df3446
-2026-02-04T07:04:05.499468+00:00|https://www.bbc.com/news/articles/c89qzd37j14o|fewer schools and cashless meals in education reform plans|169cd53c28e36d98b9e4e593b82bf4bd
 2026-02-04T08:56:21.804960+00:00|https://news.sky.com/story/top-chef-on-what-brexit-has-done-for-uk-fishing-and-the-question-you-should-always-ask-when-buying-fish-13503061|top chef on what brexit has done for uk fishing and the question you should always ask when buying fish|7db77796ae3a4a223896681550567e40
 2026-02-04T09:56:37.025514+00:00|https://www.bbc.com/news/articles/cp87gg2rde2o|police officer names published on court website|e8cff4ae2c139abab2cfd11ec9179266
 2026-02-04T09:56:42.728623+00:00|https://news.sky.com/story/new-batch-of-nestle-baby-formula-recalled-due-to-toxin-13503068|new batch of nestle baby formula recalled due to toxin|b77fee4fce7ce91041b3705a2ba52dc1
@@ -495,3 +489,6 @@
 2026-02-11T06:17:26.888513+00:00|https://www.bbc.com/news/articles/c62grkyjxwgo|sunbed ads spreading harmful misinformation to young people|b58a7be25a9b113461f0e86c8b54bf23
 2026-02-11T06:17:32.444781+00:00|https://news.sky.com/story/the-english-city-where-volunteers-go-door-to-door-telling-people-to-stop-buying-israeli-products-13505817|the english city where volunteers go doortodoor telling people to stop buying israeli products|025d29710868225209b95b0dd16e1748
 2026-02-11T06:17:37.995056+00:00|https://www.bbc.com/news/articles/c9wnky140dko|cutting edge treatment for debilitating heart condition|a6bb31f24a860dda9bed9f26b1a8f5cd
+2026-02-11T07:36:23.743450+00:00|https://www.bbc.com/news/articles/cgl5k6w5l5lo|families have lost trust over maternity inquiry|28054265cb967415c9c815a0f26ad68c
+2026-02-11T07:36:29.105543+00:00|https://news.sky.com/story/trump-ice-crackdown-turns-irishmans-american-dream-into-detention-nightmare-13506039|trump ice crackdown turns irishmans american dream into detention nightmare|d3ba1e6bb66f88fdf05dd7bb5e0f292c
+2026-02-11T07:36:34.389014+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/british-made-wearable-tech-transform-dengue-treatment|the britishmade wearable tech poised to transform dengue treatment|b675ef7d6b3c2d34f693f2b67926fa33
