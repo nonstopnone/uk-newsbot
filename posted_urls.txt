@@ -1,15 +1,3 @@
-2026-02-04T03:10:18.645484+00:00|https://www.bbc.com/news/articles/ce8erj6z8x5o|chris mason mandelson revelations a scandal on another level|143ca64818945d8702b1cd98611e5d01
-2026-02-04T03:10:24.345618+00:00|https://news.sky.com/story/at-least-15-dead-after-migrant-boast-collides-with-greek-coastguard-13503012|at least 15 dead after migrant boat collides with greek coastguard|e390b611192dfbbcf454296f8ab1fb4f
-2026-02-04T03:10:29.979457+00:00|https://www.bbc.com/news/articles/c9dvz6ldevqo|investigator did unlawful stuff regarding harry court hears|136e5f09010996ec71473f9e74bac6b3
-2026-02-04T03:10:35.493672+00:00|https://news.sky.com/story/multi-million-pound-drive-launched-to-recruit-10000-foster-carers-amid-falling-numbers-13502916|multimillion pound drive launched to recruit 10000 foster carers amid falling numbers|9f6acf7c4eaf4ca9949effe77b3a618a
-2026-02-04T03:10:41.111078+00:00|https://www.bbc.com/news/articles/cevn1px71v4o|how we decluttered our home and you can too|f020d6937a3bcb5659076396aea23c4e
-2026-02-04T03:10:46.599708+00:00|https://news.sky.com/story/tories-to-use-ancient-mechanism-to-try-and-force-release-of-mandelson-vetting-papers-13502888|tories to use ancient mechanism to force release of mandelson vetting papers after criminal investigation launched|3aa512cbbad6eb9c29a9480d52aef9a5
-2026-02-04T03:10:52.082252+00:00|https://www.bbc.com/news/articles/cddgj450088o|noone knows what to expect when youre dying but hospices helped me|527defa739f9e3f9157004c853c98e49
-2026-02-04T03:10:57.678102+00:00|https://www.bbc.com/news/articles/ckgj5mdpg3zo|police told to reinvestigate mans death after suspected blackmail on grindr|0d5ebb091e93908ddc35d084ae69bdf6
-2026-02-04T04:51:58.900126+00:00|https://www.bbc.com/news/articles/c1evxve8q7jo|court system on brink of collapse former senior judge warns|722a42bdef60d081b1de9a4cc619ad18
-2026-02-04T04:52:04.350354+00:00|https://www.bbc.com/news/articles/c5y3npyjyl7o|ban on phones in schools backed by house of lords|5be57131b0dc1edeb543a7153fe63cdf
-2026-02-04T04:52:09.746055+00:00|https://www.bbc.com/news/articles/cpwngvlzgg4o|government pledges 10000 new foster care places in england|1b4663adfb816b24c89748b009e35137
-2026-02-04T04:52:15.138301+00:00|https://www.bbc.com/news/articles/cly139el05go|three quarters will survive cancer by 2035 government promises|4a5c19e2e8a572cf40e12485b440edfe
 2026-02-04T05:55:34.685334+00:00|https://news.sky.com/story/lucy-letby-inquests-to-open-into-deaths-of-five-babies-murdered-by-former-nurse-13503016|inquests to open into deaths of five babies murdered by lucy letby|089611d246aeff1c41fd59598011f8b7
 2026-02-04T07:03:38.083508+00:00|https://www.bbc.com/news/articles/cx2x3p67zxyo|womans narrow escape from serial killer steve wright|2235771594165eaea68324ba1bded270
 2026-02-04T07:03:43.568435+00:00|https://news.sky.com/story/andrew-moves-out-drones-delivering-weapons-to-prisons-and-is-cancer-strategy-bold-enough-morning-rundown-13503013|morning rundown the main headlines best video and what will shape todays news|e35787e5c855e31165e07644bd016451
@@ -497,3 +485,10 @@
 2026-02-11T02:57:01.468109+00:00|https://www.bbc.com/news/articles/ce8n132681no|disney advert banned for showing disturbing severed body|f80362ef1453788fe4b1fe8daf957a32
 2026-02-11T02:57:06.738525+00:00|https://www.bbc.com/news/articles/crrnkpyqdzyo|fear and alienation senior coop staff complain of toxic culture at the top|7f1c3ec501b31bc45a1e7427c2296ffe
 2026-02-11T02:57:12.086134+00:00|https://www.bbc.com/news/articles/ckgkjg76lvxo|afghan asylum seeker guilty of raping girl 12|01815d35ad57074b8344b0165453ade7
+2026-02-11T05:09:35.445624+00:00|https://www.bbc.com/news/articles/c8xyedpqvrko|how a tv journalist helped crack a murder cold case|1d618e4a108ef1ec5e1f8e59000e7b10
+2026-02-11T05:09:40.897101+00:00|https://www.telegraph.co.uk/world-news/2026/02/11/canada-school-shooting-tumbler-ridge-british-columbia|nine dead after school shooting in canada|ec7006b96a1d04633f7f074bd04b3041
+2026-02-11T05:09:46.197921+00:00|https://www.bbc.com/news/articles/czj198mk0l8o|chris mason smiles of a survivor as starmer attempts his latest reset|faa7129cd683a2f8bd5d4b31c5d0ad3d
+2026-02-11T05:09:51.599137+00:00|https://www.bbc.com/weather/articles/cx2r5p58lqwo|flooding concerns remain but shift in weather patterns on the way|544b88b7c6cbc397a2c8ac125c6326a0
+2026-02-11T05:09:56.909534+00:00|https://www.bbc.com/news/articles/c0rj84911qgo|new plan to fix ageing and fragile schools exposed by raac crisis|3e67311aaaa079906acd17f303d9964c
+2026-02-11T05:10:02.313170+00:00|https://www.bbc.com/news/articles/ce94jm1pp5xo|uk doubles troops in norway to counter russian threat to arctic|50771bcd02f2b6c39e7ad8423411e157
+2026-02-11T05:10:07.618958+00:00|https://www.bbc.com/news/articles/cvgjw0kpd89o|are wetter winters and frequent flooding here to stay|8664b56eadc2c68cb7f96be750359c49
