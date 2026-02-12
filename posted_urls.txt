@@ -1,13 +1,3 @@
-2026-02-05T03:12:12.946281+00:00|https://www.bbc.com/news/articles/cly90d21qexo|period blood test could offer less invasive alternative to cervical screening|4e987cf991c5f7a8923090a6bb7d0e2e
-2026-02-05T03:12:18.486342+00:00|https://news.sky.com/story/epstein-files-email-appears-to-contradict-andrews-claims-about-photo-with-accuser-13503459|email appears to contradict andrews claims about photo with accuser|3bca220a7a42f7dddd531ff10665f423
-2026-02-05T03:12:24.108560+00:00|https://www.bbc.com/news/articles/cp82gvgd3p2o|my support worker hasnt been paid for weeks after delays to disability scheme|9c7c45ad115e6f0190d7b29919422ab0
-2026-02-05T03:12:29.679890+00:00|https://news.sky.com/story/beth-rigby-even-starmers-allies-are-unsure-about-his-future-13503409|beth rigby starmers future uncertain after toughest day yet|ffbe6478fa277cb9ee90764ed1d2d78e
-2026-02-05T03:12:35.340465+00:00|https://www.bbc.com/news/articles/c1dk24xrpq7o|my breakup blindsided me heres how to tell if your relationship isnt working|7b30fc47b6585c8a9aed9ed6a0ad8fd9
-2026-02-05T03:12:41.049863+00:00|https://www.bbc.com/news/articles/c0jv0j3wpgwo|robbie williams british people are good at devaluing ourselves|e2435b7e6ee0b084d4fa155a96cdcfe9
-2026-02-05T03:12:46.621900+00:00|https://www.bbc.com/news/articles/cgk8vkydvm1o|horrified ill never voluntarily go to an ed after 20hour wait|a8a18d0ecf2e9b29d5ea5ea7b36c9464
-2026-02-05T03:12:52.191821+00:00|https://www.bbc.com/news/articles/czx1vly05pvo|bank of england expected to hold interest rates|4c553a4d2c274185dd06a9a016521076
-2026-02-05T05:00:22.105633+00:00|https://news.sky.com/story/assads-downfall-skys-coverage-wins-news-programme-of-the-year-at-broadcast-awards-13503464|sky wins best news programme at broadcast awards|39b8da14b93d187854cf9dba43fe718f
-2026-02-05T05:00:27.749735+00:00|https://news.sky.com/story/winter-olympics-show-respect-rather-than-jeer-the-americans-says-ioc-boss-13503461|dont boo the americans olympics boss tells spectators|ee50a8899b973821713b7ed819df5196
 2026-02-05T06:11:29.004465+00:00|https://news.sky.com/story/savannah-guthrie-makes-emotional-plea-to-mothers-captors-we-are-ready-to-talk-13503466|us tv host makes emotional plea to mothers captor|45a818fa4ddeac8e63d6b968690e5d2b
 2026-02-05T07:18:23.058938+00:00|https://www.bbc.com/news/articles/cm24j3lde1eo|the papers uturn on mandelson files and starmer in grave peril|20725f886348b53756453c24eaf769ce
 2026-02-05T08:04:45.337152+00:00|https://www.bbc.com/sport/rugby-union/articles/c4g31nddkx8o|ireland out to stop darting fish dupont and france|2771013df8f0e2b3b6183534f016a1cc
@@ -507,3 +497,7 @@
 2026-02-12T02:52:48.853079+00:00|https://www.bbc.com/news/articles/c0jvxwvdy4zo|i died for 40 minutes heres what it taught me about life|eaff0737b69cad8236a5f6f1a0269830
 2026-02-12T02:52:54.155275+00:00|https://www.bbc.com/news/articles/c5yjrvje8eeo|scrap proposed england holiday tax hospitality bosses urge|898bf4a68dd4d23bac8292aaf9e1bbea
 2026-02-12T02:52:59.463244+00:00|https://www.bbc.com/news/articles/cly2jjvx466o|bill to lower voting age to 16 to be introduced in parliament|85468f4a0316e599dadb9976f9b120aa
+2026-02-12T05:04:34.674689+00:00|https://www.bbc.com/news/articles/c0mgzr3e18jo|chris mason latest vetting row raises fresh concerns over starmers judgement|b522810463cc666ec5ecb6a8d5594c5f
+2026-02-12T05:04:40.107579+00:00|https://news.sky.com/story/eu-is-the-biggest-prize-reeves-says-as-labour-seek-closer-ties-13506568|we can win reeves sets up new battle over brexit|d0fb735fc9c558442177a8a14d2c75f8
+2026-02-12T05:04:45.532970+00:00|https://news.sky.com/story/beth-rigby160you-know-me-best-as-skys-political-editor-my-job-at-home-might-be-even-harder-13506571|beth rigby the constant challenges i face raising my kids|e7a2e0ec68f4ed6945a6bba0375d1187
+2026-02-12T05:04:51.123555+00:00|https://news.sky.com/story/tipping-point-reached-in-creation-of-brain-chips-to-help-unlock-minds-of-people-with-paralysis-13506470|brain chips have reached tipping point says leading scientist|ba1f4aec3821f5a3cf556dbdbc54fd59
