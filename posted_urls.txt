@@ -1,9 +1,3 @@
-2026-02-05T21:15:22.824641+00:00|https://www.bbc.com/news/articles/c5yx1wedww2o|trump signals us support for chagos handover deal|23d55ee6ecae3713d6b46d86c3aa571b
-2026-02-05T21:15:28.179712+00:00|https://www.bbc.com/news/articles/czdq9gzdq5qo|bank hints at rate cuts but dont expect covidera mortgage deals|347e101c3996723279287de686e1e26f
-2026-02-05T21:15:33.557205+00:00|https://www.bbc.com/news/articles/cvgn2wx9xnpo|the heinous child killing that shook a town and the fight for justice|2bcd84282fcb0dac28cd0ee40f261fbd
-2026-02-05T21:15:38.914632+00:00|https://www.bbc.com/news/articles/c338g8n334mo|could this be the beginning of the end for starmer|b90bc4653cafd6a43f8955852d62148a
-2026-02-05T21:15:44.269250+00:00|https://www.bbc.com/news/articles/c5yv1d7g2ldo|silence and inaction how audio helped prove captain guilty of north sea tanker crash|77ab1474704558f2ee6789f5b87a34d1
-2026-02-05T21:49:54.540334+00:00|https://news.sky.com/story/trump-grudgingly-supports-starmers-chagos-deal-13503828|trump grudgingly supports starmers chagos deal|f6779125f2a2b3485a63301d9abf835c
 2026-02-05T22:36:06.589796+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/05/france-vs-ireland-live-score-updates-six-nations-2026|france make title statement by obliterating ireland in six nations opener|923c6578209423ead0b530e6a395ee8c
 2026-02-05T22:36:12.075925+00:00|https://news.sky.com/story/bank-of-england-chief-andrew-bailey-shocked-by-peter-mandelsons-alleged-leaks-to-jeffrey-epstein-13503814|bank of england chief shocked by mandelsons alleged leaks to epstein|27d1bfc4bccf5cc8eaaaee6f3af0dd93
 2026-02-05T22:36:17.444935+00:00|https://news.sky.com/story/northern-towns-shafted-in-new-funding-formula-that-favours-london-mps-say-13503707|northern towns shafted in new funding formula that favours london mps say|5c7e9695a1db20113be4ba8c0551f17b
@@ -529,3 +523,4 @@
 2026-02-12T20:18:35.988756+00:00|https://www.bbc.com/news/articles/cd03z3gerx9o|we warned nursery about abuser vincent chan they dismissed us parents tell bbc|1b97f1908beef8a3b4e8faf6886185f5
 2026-02-12T20:18:41.405496+00:00|https://www.bbc.com/news/articles/c6274rjr311o|nurses and other nhs staff to get 33 pay rise|5ccd185b6e41592407099818c378ffbd
 2026-02-12T21:00:59.659282+00:00|https://news.sky.com/story/defend-yourselves-and-dont-rely-on-the-us-senior-washington-official-tells-europe-13506864|defend yourselves and dont rely on the us senior washington official tells europe|234f0c7e365b7f2de4a0625a348ccb81
+2026-02-12T21:50:32.221052+00:00|https://news.sky.com/story/european-nations-are-now-being-judged-not-just-on-how-much-they-spend-but-on-military-credibility-and-the-uk-is-falling-short-13506872|european nations are now being judged on military credibility and the uk is falling short|326fef7e3d2a84a0de8ee9468377f615
