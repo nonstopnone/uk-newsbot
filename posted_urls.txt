@@ -1,7 +1,3 @@
-2026-02-05T10:03:40.136073+00:00|https://www.bbc.com/news/articles/cy8yz3n4ggeo|our daughters cancer symptoms were dismissed because she was a child|7010fdb5a8f12d7913a5cabceaefa381
-2026-02-05T10:03:45.671572+00:00|https://news.sky.com/story/36-clinical-reports-of-children-suffering-symptoms-linked-to-recent-baby-formula-recalls-ukhsa-says-13503525|ukhsa investigating 36 cases of children falling ill linked to recalled batches of baby formula|684e3346fe374ccaafe55b83a5a6ac09
-2026-02-05T10:03:51.105892+00:00|https://www.bbc.com/news/articles/cdjn0ed8vj1o|mystery of abandoned village that could be from postapocalyptic horror movie|f6fd1b6f5980ca001e797102b9da2c58
-2026-02-05T10:03:56.615785+00:00|https://news.sky.com/story/family-of-woman-who-died-after-cape-verde-holiday-issue-warning-as-spike-in-illnesses-revealed-13503454|family of woman who died after cape verde holiday issue warning as spike in illnesses revealed|75c54c57cabf30e2dea0de58a21dce27
 2026-02-05T11:04:26.829282+00:00|https://www.bbc.com/news/articles/c8rm7v0zr24o|duke in court accused of strangling estranged wife|154b3404d9089b4ae4f9b3ebb8a1f274
 2026-02-05T11:51:39.665090+00:00|https://www.bbc.com/news/articles/cvgp2w95n93o|at least 30 deaths in small boat crossing avoidable inquiry finds|ea67e85b16f88a6af74fbbc7521d04e4
 2026-02-05T11:51:45.397716+00:00|https://news.sky.com/story/autism-rates-between-girls-and-boys-challenged-by-new-study-13503522|autism rates between girls and boys challenged by new study|3709c1ef52eef78f402392dd21075583
@@ -509,3 +505,11 @@
 2026-02-12T08:27:44.506592+00:00|https://www.bbc.com/news/articles/crm8znegxelo|lockerbie bomb suspect appears in us court over confession claim|5f07d0ed36b37f09188d2f6d13d14c49
 2026-02-12T09:28:32.815194+00:00|https://news.sky.com/story/bangladesh-votes-in-first-general-election-since-bloody-ousting-of-sheikh-hasina-13506618|bangladesh votes in first general election since bloody ousting of sheikh hasina|ebab773b86b4160f3d16d0cadc1c25d0
 2026-02-12T09:28:38.386528+00:00|https://www.bbc.com/news/articles/cd6zq1xqndlo|boy 13 charged after two boys stabbed in school|6c4b016d27528173c82a525d116b4f0c
+2026-02-12T10:26:52.031459+00:00|https://news.sky.com/story/england-football-manager-thomas-tuchel-extends-contract-to-2028-euros-13506663|england football manager thomas tuchel extends contract to 2028 euros|3528c2e007c7c954dc5e1c793576227b
+2026-02-12T10:26:57.651955+00:00|https://www.bbc.com/news/articles/c4gjmm7dlggo|uk economy grew by subdued 01 at end of 2025|d97fd1ae560d3cfd06a2fcfbac950606
+2026-02-12T10:27:03.165271+00:00|https://news.sky.com/story/katie-holmes-pays-tribute-to-hero-dawsons-creek-star-james-van-der-beek-13506644|katie holmes pays tribute to hero dawsons creek star james van der beek|ccfa739fcf5d26d2c58129cea7950646
+2026-02-12T10:27:08.646752+00:00|https://www.bbc.com/news/articles/cd9gn7x8v08o|sex offenders should tell police about pregnancies review finds|bb7f0cebdec829a388c116b0ae1bfaf2
+2026-02-12T10:27:14.137605+00:00|https://news.sky.com/story/ukrainian-olympian-banned-from-competing-over-helmet-honouring-war-dead-13506639|ukrainian olympian banned from competing over helmet honouring war dead|2cc1f99b9064ec7968801f59e19a7ffe
+2026-02-12T10:27:19.636561+00:00|https://www.bbc.com/news/articles/c39wlplgd2jo|top businesswoman says wru chair must go after spineless regions process|cfd9a1ea7446a1158fc661eed2a7097a
+2026-02-12T10:27:25.004424+00:00|https://www.bbc.com/news/articles/c98qene0gpdo|dont sack cabinet secretary until mandelson files published badenoch says|73f05480e1b4b720783b85d113ee3aab
+2026-02-12T10:27:30.409623+00:00|https://www.bbc.com/news/articles/c78x966g75xo|supersized dump fire risk report kept from public|fc0ea0c95db7b111d5342c9ac171a42c
