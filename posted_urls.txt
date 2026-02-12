@@ -1,4 +1,3 @@
-2026-02-05T23:03:13.452351+00:00|https://www.bbc.com/news/articles/c20zv56626zo|blizzards thaw then relentless rain why is the north east getting such a soaking|e58ab0916b0b5b01f8c74508bb0b4a20
 2026-02-05T23:42:46.559811+00:00|https://news.sky.com/story/kirsty-gallacher-calls-for-more-police-on-streets-after-she-was-attacked-in-london-13503874|kirsty gallacher calls for more police on streets after she was kicked like a football|8256f297e1bb6253651b245380346bcf
 2026-02-05T23:42:51.945908+00:00|https://news.sky.com/story/authorities-believe-nancy-guthrie-still-out-there-as-ransom-deadline-approaches-13503837|kidnapped mum of tv host still out there authorities believe|efc4152c6dd7accc61cdfec91d519f13
 2026-02-06T02:51:01.706510+00:00|https://news.sky.com/story/starmer-branded-weak-over-mandelson-saga-as-top-labour-figure-warns-it-could-bring-him-down-13503904|pm fighting for his political life as labour peer excoriates handling of mandelson|c8359cccccc5cc922fe2010765147f52
@@ -524,3 +523,5 @@
 2026-02-12T22:38:53.661471+00:00|https://news.sky.com/story/police-name-leicester-man-last-seen-in-2024-as-digging-begins-at-property-in-the-city-13506885|police investigating disappearance of man last seen more than a year ago begin digging at property|82646f4023998e02467975b2f0d6f561
 2026-02-12T22:38:59.130206+00:00|https://www.bbc.com/news/articles/cp9mz34184po|church of england abandons proposals for samesex blessing ceremonies|d58135be490a3b1cd40e86568deff72f
 2026-02-12T22:39:04.467421+00:00|https://www.bbc.com/news/articles/c1e975z4qw8o|major sea rescue launched for three climbers on welsh coast|c7a0e4299c687096a18be53484dda04e
+2026-02-12T23:03:47.172624+00:00|https://news.sky.com/story/sir-jim-ratcliffes-comments-go-beyond-reputational-damage-for-man-utd-13506919|sir jim ratcliffes comments go beyond reputational damage for man utd|62b61d8de9fce1c8e9dfea0f263a9bf1
+2026-02-12T23:03:52.580180+00:00|https://www.bbc.com/news/articles/c78x5878dzgo|tens of thousands of six nations tickets unsold amid welsh rugby turmoil|5cd3d788e3ea8ea0dff05c6b5ee0e405
