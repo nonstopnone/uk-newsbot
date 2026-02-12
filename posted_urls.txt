@@ -1,9 +1,3 @@
-2026-02-05T14:27:32.949842+00:00|https://www.bbc.com/news/articles/c07xlljn595o|man guilty of murdering girl 9 playing in street|07747fc4da48902e0d6168d05e84cb21
-2026-02-05T14:27:38.486607+00:00|https://news.sky.com/story/police-call-on-witnesses-after-west-london-daylight-jewellery-store-robbery-13503596|sledgehammerwielding robbers raid family jewellers|c4342f9c975efbe67acae03073a761f9
-2026-02-05T14:27:43.969887+00:00|https://www.bbc.com/news/articles/cq5yvyg35x4o|officer recalls answering call from noahs mum to his phone|1e93f23686a00e10d16aa29637b4db8c
-2026-02-05T14:27:49.480701+00:00|https://www.bbc.com/news/articles/ckgndvkv80ro|extory councillor unveiled by nigel farage as reforms welsh leader|8e6abb2e3b9cd4808a8fe1a7a4136b86
-2026-02-05T14:27:55.037279+00:00|https://www.bbc.com/news/articles/cwy84541y9eo|chief nurses disneyland hospital scandal comment shameful sarwar|bd3107edcbf96b689edbf138b84f3a9b
-2026-02-05T14:28:00.833351+00:00|https://www.bbc.com/weather/articles/cy8y652jy96o|will it ever stop raining|072a7623759745fc2b096357a4ef8a9c
 2026-02-05T16:09:40.419354+00:00|https://www.bbc.com/news/articles/cp37v4kyv3eo|starmer apologises to epstein victims for believing mandelsons lies|99eb7a7c834636ac87bf9443863c8a95
 2026-02-05T16:09:47.414172+00:00|https://www.telegraph.co.uk/fantasy-sports/fantasy-football/telegraph-fantasy-football-tips|telegraph fantasy football tips game week 23|b032b5ee16b915ad5cdb5325ed521803
 2026-02-05T16:09:52.933788+00:00|https://news.sky.com/story/finland-and-canada-winter-olympics-ice-hockey-match-postponed-after-norovirus-outbreak-13503679|winter olympics struck by norovirus outbreak|54ba5654177d011ee2dd925a589c8b2c
@@ -513,3 +507,11 @@
 2026-02-12T13:46:07.954134+00:00|https://www.bbc.com/news/articles/c8r1lm5152vo|police need to investigate andrew says former victims commissioner|905f06eeaf3bf519f617ab828329851c
 2026-02-12T13:46:13.286996+00:00|https://www.bbc.com/news/articles/cy4wnwwg738o|footballer thomas partey facing two additional rape charges|87e6a91fdc26b191ad312af7b55f5dcd
 2026-02-12T13:46:18.744199+00:00|https://www.bbc.com/news/articles/ce8w968y7p1o|prince harry thanks bereaved families taking on social media firms|02b0608c79ef4e5a80c3b1a5adb49c93
+2026-02-12T14:55:50.762647+00:00|https://www.bbc.com/news/articles/cp851lrmj70o|xl bully owner jailed over dog attack death|1bbc58ac1b8c9b34ed1a102a26fd1352
+2026-02-12T14:55:56.295101+00:00|https://news.sky.com/story/donald-trump-agrees-to-end-ice-operation-in-minnesota-13506766|donald trump agrees to end ice operation in minnesota|01896b3af5b9f6a72a920ed41038e770
+2026-02-12T14:56:01.827177+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/chicken-basil-spinach-lemon-meatballs-orzo-recipe|chicken basil spinach and lemon meatballs with orzo|a6b63bdcc4fd19a7bf182bfd0a3fd17c
+2026-02-12T14:56:07.325654+00:00|https://www.bbc.com/news/articles/c8jxykg93xro|gang rift members admit fire attack on businessmans cars|fbf98b40e489d5c6e240b8ccfd749496
+2026-02-12T14:56:12.841116+00:00|https://news.sky.com/story/epstein-survivors-accuse-pam-bondi-of-lacking-humanity-and-integrity-after-fiery-justice-committee-testimony-13506633|epstein survivors accuse bondi of lacking humanity and integrity after fiery testimony|cadb820d7cb327d2f10f84d5b85f0d55
+2026-02-12T14:56:18.226875+00:00|https://www.bbc.com/news/articles/c8xyp9xjxr4o|who is billionaire sir jim ratcliffe and how did he make his money|932e4c175cd83b5cf091f959bfec30e0
+2026-02-12T14:56:23.589481+00:00|https://www.bbc.com/news/articles/c5yjr9mp92po|mps fear data centre boom could derail milibands net zero plans|dd91c1582dcf57e6ea92aebb412ec9a2
+2026-02-12T14:56:28.988441+00:00|https://www.bbc.com/news/articles/cz6ejedj59no|porn site fined £800000 for not rolling out age checks|6ed29c1ff06093a5637f609dd809deb5
