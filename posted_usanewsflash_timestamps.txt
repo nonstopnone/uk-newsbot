@@ -1,6 +1,3 @@
-2026-02-06T17:22:14.322413+00:00|https://www.bbc.com/news/articles/czjgj3pwjxgo?at_medium=RSS&at_campaign=rss|'Double jeopardy': Luigi Mangione led from court yelling after New York judge sets June trial date|c74c62cd395ab938ab341b11b5b75dfc
-2026-02-06T17:22:19.783819+00:00|https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss|Trump removes video with racist clip depicting Obamas as apes|9cac9173bd9eed711f3aabaf3be98eea
-2026-02-06T17:22:25.256897+00:00|https://www.bbc.com/sport/articles/c2e1ex3k29zo?at_medium=RSS&at_campaign=rss|Veteran Vonn completes training run despite torn ACL|3c1f21223307738dadc735a9363b9b75
 2026-02-06T20:17:03.281072+00:00|https://www.bbc.com/news/articles/c4g4gxd49weo?at_medium=RSS&at_campaign=rss|Suspect in deadly 2012 Benghazi attack in custody, officials say|9551d7a1a80124bf11e1dd226cecaa3f
 2026-02-06T22:00:06.506475+00:00|https://news.sky.com/story/trump-administration-wants-to-deport-five-year-old-detained-by-ice-in-minnesota-13504253|Trump administration wants to deport five-year-old detained by ICE in Minnesota|86e5efff10ed564216a82ff262c308f2
 2026-02-06T22:00:12.033843+00:00|https://www.bbc.com/news/articles/c4grg64l892o?at_medium=RSS&at_campaign=rss|Son of rapper Lil Jon believed dead, days after going missing|d1a392299b4fc3b74182e0aeb1f88e18
@@ -56,3 +53,4 @@
 2026-02-13T03:41:59.502825+00:00|https://www.bbc.com/news/articles/c78x9256pn7o?at_medium=RSS&at_campaign=rss|Costs from Trump's tariffs paid almost entirely by US consumers, NY Fed says|70822d0fa8bc8470bec8b4e51d87e877
 2026-02-13T03:42:05.216586+00:00|https://news.sky.com/story/epstein-asked-staff-to-install-hidden-video-cameras-at-his-florida-home-email-exchange-shows-13506953|Epstein asked staff to install hidden cameras at Florida home, emails show|079a1d96bd563773a7abff76d81f9956
 2026-02-13T03:42:10.912087+00:00|https://news.sky.com/story/fbi-releases-new-details-about-suspect-in-nancy-guthrie-disappearance-and-increases-reward-for-information-13506951|FBI releases new details about suspect in disappearance of US TV host's mother|7efada9fce98a30eb6c3ea8eac01a44e
+2026-02-13T17:42:38.427078+00:00|https://www.bbc.com/news/articles/cd6z05p56xyo?at_medium=RSS&at_campaign=rss|Inflation eases in US as prices for used cars fall|be6c4da217fbaed972fdc37009a463a7
