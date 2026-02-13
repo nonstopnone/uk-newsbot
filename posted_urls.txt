@@ -1,8 +1,3 @@
-2026-02-06T08:56:58.352176+00:00|https://www.bbc.com/news/articles/c0jvjp14qjzo|average house price tops £300000 for first time says halifax|bb126529f1bedd0053e53c23f22cd899
-2026-02-06T08:57:03.718870+00:00|https://news.sky.com/story/my-five-year-old-son-has-nightmares-after-ice-detention-in-minneapolis-says-father-13503944|my son 5 has nightmares after ice detention says father|97d94ad81728bbf0d850f414c44d117f
-2026-02-06T08:57:09.061620+00:00|https://www.bbc.com/news/articles/ckgkmljj6dvo|julia donaldson reveals new character and title for third gruffalo book|c62909f9ab20626e5d2d5ff596c338c9
-2026-02-06T08:57:14.441786+00:00|https://www.bbc.com/news/articles/c75x2qg17q1o|serial killer steve wright stalked me before he murdered|a990d39ef86fd6409fdae85df37cd1b1
-2026-02-06T08:57:19.728730+00:00|https://www.bbc.com/news/articles/c75xpq9v4r5o|dad who nearly lost tongue to cancer urges mens virus awareness|23a47989e1d7cf23987bbfd5ea4fcf1e
 2026-02-06T09:55:38.178532+00:00|https://www.bbc.com/news/videos/cgl8lkkw6eko|moment julia donaldson reveals name for third gruffalo book|641fb172417f4149cce20400ca6860da
 2026-02-06T10:51:24.126272+00:00|https://news.sky.com/story/the-gloomy-weather-warning-for-rain-lashed-uk-as-met-office-forecasts-more-downpours-13503969|when will the rain end what the met office are saying|5042480e4eb55250f331cb6f9885e4ef
 2026-02-06T11:40:01.971290+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/cheaper-hpv-jabs-boost-global-rush-to-end-cervical-cancer|cheaper hpv jabs boost global rush to eliminate cervical cancer|6ef0ad1b95c234c933b452265e603a57
@@ -522,3 +517,4 @@
 2026-02-13T06:09:20.673524+00:00|https://www.bbc.com/news/articles/ckg8r43zpv2o|reform replacing old fuddyduddy tory party says farage|e79144e83b3f73f6d021d88f1fd8977b
 2026-02-13T07:16:34.639857+00:00|https://www.bbc.com/news/articles/c4gjlwe8jxyo|i lost three tyres in one week to potholes|2526bdfbcc8d4d04cfc8121fc0f29b94
 2026-02-13T08:04:47.071472+00:00|https://news.sky.com/story/robert-f-kennedy-jr-admits-he-used-to-snort-cocaine-off-toilet-seats-13506969|rfk jr admits he used to snort cocaine off toilet seats|c5993b4f5081029a63a3007ccdfa6d55
+2026-02-13T09:04:01.277977+00:00|https://news.sky.com/story/cold-weather-health-alert-issued-as-met-office-warns-of-snow-and-ice-13506958|cold weather health alert issued as met office warns of snow and ice|09e8198f9c813226066afb504210e58b
