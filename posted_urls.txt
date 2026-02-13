@@ -1,7 +1,3 @@
-2026-02-06T04:53:13.988432+00:00|https://news.sky.com/story/louvre-releases-photos-of-crown-damaged-in-heist-but-insists-it-will-be-restored-13503909|historic crown crushed during louvre heist pictured|ad03a689a7eeb1d6aeaa04e9b876e8b5
-2026-02-06T04:53:19.429018+00:00|https://www.bbc.com/news/articles/cy9y3n43192o|number of homeless refugees in england soars bbc finds|37817474b1ca29100f9f607ab934032f
-2026-02-06T04:53:24.994539+00:00|https://www.bbc.com/news/articles/c301g391mpro|governments claim on sex offenders assets a thump in the jaw say victims|e0468a2c180cbaca21abaa0b9e8e222e
-2026-02-06T04:53:30.567533+00:00|https://www.bbc.com/news/articles/cq5ypxgl1l0o|the hotel ice rink producing some of the worlds finest curlers|7452d831bc4c311b0cf05d381325b7f5
 2026-02-06T05:59:07.799743+00:00|https://www.bbc.com/news/articles/c0q4jk5pnl9o|top government figures to hand over private messages with mandelson|a64286922fc7acac56257bdba588d772
 2026-02-06T05:59:13.467270+00:00|https://news.sky.com/story/iran-and-us-to-begin-high-stakes-talks-amid-fears-of-conflict-13503914|iran and us to begin highstakes talks amid fears of conflict|c078ddd060fcdb04bba457beaad8c768
 2026-02-06T05:59:18.875435+00:00|https://www.bbc.com/news/articles/cp8204g8lejo|three african countries agree to uk migrant returns after visa penalty threat|cc306a9089bfbc5e53876a1ac2cbe181
@@ -525,3 +521,6 @@
 2026-02-13T02:53:20.592201+00:00|https://www.bbc.com/news/articles/cwy61zlg10vo|vaping in cars with children could be banned under new plans|40f4ae3779c849914b218be470411411
 2026-02-13T02:53:26.151639+00:00|https://www.bbc.com/news/articles/cpw05yv4y9po|wuthering heights soundtrack the perfect pivot for charli xcx says brat cowriter|a2d067fd61b56a0848daa7f47e858b2d
 2026-02-13T02:53:31.625979+00:00|https://www.bbc.com/news/articles/c3ew90z9jezo|rise in halfterm holiday bookings after rainy january|6a68e06fab92719a934f47274a31906b
+2026-02-13T04:59:20.246249+00:00|https://www.bbc.com/weather/articles/clyx2x85qdvo|arctic blast on the way for uk with snow and ice warnings|5455fc312c2f29bb03205c22918ea3bd
+2026-02-13T04:59:25.637584+00:00|https://news.sky.com/story/bangladeshs-nationalist-party-claims-victory-in-historic-election-13506956|bangladeshs nationalist party claims victory in historic election|759a2764ca22115d5d8be3459afb0cbd
+2026-02-13T04:59:31.050207+00:00|https://news.sky.com/story/epstein-asked-staff-to-install-hidden-video-cameras-at-his-florida-home-email-exchange-shows-13506953|epstein asked staff to install hidden cameras at florida home emails show|618ac5a480fabe992b1c9c8d17bc3cc1
