@@ -1,4 +1,3 @@
-2026-02-07T18:51:31.173875+00:00|https://www.bbc.com/news/articles/cx2k2zd87lzo|murder probe continues as boy 17 named|de31b7256821304251aac590c6ea9dbe
 2026-02-07T19:31:28.021083+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/07/england-v-wales-live-score-latest-six-nations-updates|england tear apart sorry wales to get six nations title bid under way|6d7e9d5b607bd2a02bc893779cfe830b
 2026-02-07T20:38:17.119744+00:00|https://news.sky.com/story/trump-and-netanyahu-to-meet-for-iran-discussions-13504734|trump and netanyahu to meet for iran discussions|cc59a05123608b833d8852df69d77a9a
 2026-02-07T20:38:22.497143+00:00|https://www.telegraph.co.uk/football/2026/02/07/newcastle-vs-brentford-live-score-latest-premier-league|late brentford winner plunges howe into biggest crisis of newcastle reign|c79e2745b47ad174b7ad55c5c0246303
@@ -506,3 +505,7 @@
 2026-02-14T17:32:10.502962+00:00|https://www.telegraph.co.uk/football/2026/02/14/man-city-vs-salford-city-live-score-latest-fa-cup-burnley|dismal burnley knocked out of fa cup by league one mansfield|efc580106d66049e538e9fee4d1ed89d
 2026-02-14T18:50:32.805602+00:00|https://news.sky.com/story/us-strikes-dozens-of-islamic-state-targets-in-syria-in-retaliation-for-deadly-ambush-13507580|us strikes dozens of islamic state targets in syria in retaliation for deadly ambush|c1d94688018bcbe263f6ea4f4c4d857c
 2026-02-14T18:50:38.484893+00:00|https://www.bbc.com/news/articles/c5yv718pyz7o|former foreign office cat palmerston dies in bermuda|6eb8e06a07353992c3d2163ee682e98a
+2026-02-14T19:30:45.197662+00:00|https://www.bbc.com/sport/rugby-union/articles/c98q3zn6p0ro|rejuvenated scotland sweep england aside in stunning calcutta cup win|b8ef4e5318596fa6709f1591e5d73e3a
+2026-02-14T19:30:50.747095+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/14/scotland-v-england-live-score-latest-six-nations-updates|errorstrewn england humbled by scotland in wakeup call for borthwick|2d151d917d6ab3fa88aee6145755c93a
+2026-02-14T19:30:56.311432+00:00|https://news.sky.com/story/200000-people-protest-against-iran-regime-as-world-leaders-gather-nearby-13507668|200000 people protest against iran regime as world leaders gather nearby|25389929721ca26b4075417a54252868
+2026-02-14T19:31:01.926682+00:00|https://news.sky.com/story/demi-edmunds-funny-kind-and-caring-teenager-killed-in-three-car-collision-in-cwmbran-south-wales-13507673|funny kind and caring teenager killed in threecar collision|0b849586028a891db5e9330932a7a96a
