@@ -1,6 +1,3 @@
-2026-02-08T16:50:28.265842+00:00|https://news.sky.com/story/lonely-starmer-looks-like-he-doesnt-know-his-own-mind-13504940|lonely starmer looks like he doesnt know his own mind|34d3c706808d03ef7c51f95ef18e3785
-2026-02-08T16:50:33.916816+00:00|https://www.telegraph.co.uk/football/2026/02/08/brighton-vs-crystal-palace-live-score-latest-premier-league|brighton fans turn on hurzeler with chants of youre getting sacked in the morning|51321c0395b57e3d25d060b5af5cc292
-2026-02-08T16:50:39.479114+00:00|https://www.bbc.com/news/articles/cy0l9z7qv0lo|who is starmers former chief of staff morgan mcsweeney|e014d3a42fa185c76947d34b0216b9b1
 2026-02-08T17:33:47.297210+00:00|https://news.sky.com/story/morgan-mcsweeneys-exit-shows-no-10-in-full-blown-survival-mode-13504982|mcsweeneys exit shows no 10 in fullblown survival mode|bd61d3ff85a452657d860c47d94d652b
 2026-02-08T17:33:52.678483+00:00|https://www.bbc.com/news/articles/cnv6y7e732lo|churches should feel emboldened to counteract racism minister|9f1b9b3dff916e03a54c6eb674f100f5
 2026-02-08T17:59:51.167329+00:00|https://news.sky.com/story/russian-citizen-detained-in-dubai-over-shooting-of-general-in-moscow-13504947|russian citizen detained in dubai over shooting of general in moscow|0e8b03c1801b1bf332d1655365e9507c
@@ -524,3 +521,5 @@
 2026-02-15T16:50:14.067600+00:00|https://www.bbc.com/news/articles/cn9e32yv9g5o|delivery van stuck on deadliest mudflat footpath|8a2618a8e9b1f6f5a691fa8af5f85bfc
 2026-02-15T16:50:19.452140+00:00|https://news.sky.com/story/man-dies-after-entering-floodwater-while-fleeing-police-13507913|man dies after being pulled from flooded brook following police chase|feb1df7b20d69069638bfb9f3c431032
 2026-02-15T16:50:24.809426+00:00|https://news.sky.com/story/environment-agency-has-serious-questions-to-answer-over-britains-latest-massive-dump-13507866|environment agency has serious questions to answer over britains latest massive dump|1bcdf9888f696e423ba16a2e9f19403b
+2026-02-15T17:32:21.878659+00:00|https://news.sky.com/story/airstrikes-in-gaza-kill-11-people-locals-say-as-israel-claims-hamas-violated-ceasefire-13507915|airstrikes in gaza kill 11 people locals say as israel claims hamas violated ceasefire|7294380188b8410717aa714484e765e4
+2026-02-15T17:32:27.416522+00:00|https://www.bbc.com/news/articles/cvg8m32ykz4o|i only speak english outside my home after racist graffiti says woman|81d3df1f4858e6088b9908daa72512cd
