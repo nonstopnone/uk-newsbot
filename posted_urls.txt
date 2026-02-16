@@ -1,7 +1,3 @@
-2026-02-09T03:17:16.712628+00:00|https://www.bbc.com/news/articles/cx2dgej5weeo|the papers pms aide quits and how long can starmer cling on|85e70b14c4e58e82ec76d78d57fa97d6
-2026-02-09T03:17:22.257620+00:00|https://news.sky.com/story/starmer-battling-for-survival-after-his-chief-of-staff-resigns-13505133|starmer battling for survival after his chief of staff resigns|57605e7308108d9fb18f3392f12bb21b
-2026-02-09T03:17:27.693078+00:00|https://www.bbc.com/news/articles/cwygyxwm9jlo|naming stakeknife would send signal to other rogue agents|f3e1dea23d4ff1382734bfdc0f49d682
-2026-02-09T03:17:33.327275+00:00|https://news.sky.com/story/briton-jimmy-lai-sentenced-to-20-years-after-national-security-conviction-in-hong-kong-13505129|briton jimmy lai sentenced to 20 years after national security conviction in hong kong|29adad20da280297db0afa669a5b8fec
 2026-02-09T05:18:14.885458+00:00|https://www.telegraph.co.uk/american-football/2026/02/08/super-bowl-2026-live-patriots-vs-seahawks-score-latest|british born defence coach inspires seahawks to super bowl lx victory over patriots|42cc819a12c308a5f7840862e076777e
 2026-02-09T05:18:20.568508+00:00|https://www.bbc.com/news/articles/cge8d0nnweyo|four charged with murder of 17yearold|a253316ce38fc025d9035c740e7a7b16
 2026-02-09T05:18:25.936342+00:00|https://news.sky.com/story/social-media-is-on-trial-in-la-heres-what-you-need-to-know-13504572|social media goes on trial in la heres what you need to know|f888bb7886c3cfeea6a72cf96d882a1b
@@ -526,3 +522,11 @@
 2026-02-15T22:37:44.132508+00:00|https://news.sky.com/story/government-announces-sweeping-crackdown-on-social-media-firms-13507847|government announces sweeping crackdown on social media firms|04a176fc4383c1d917d3c2a84da39127
 2026-02-15T23:01:16.381816+00:00|https://www.bbc.com/news/articles/cvg38x13x5yo|no free pass for internet platforms on child safety starmer says|1be4729b6c26b8c33f1e7e557af9399e
 2026-02-15T23:01:21.684094+00:00|https://www.bbc.com/news/articles/c24g1jyl3vmo|female athletes hit back at weird and derogatory comments about their appearance|cc20f8661c15df2c249a2e97cc34f016
+2026-02-16T03:21:05.241567+00:00|https://www.bbc.com/news/articles/cd6zqqgv9yeo|why this school will ditch a shirt tie and blazer from its uniform|0c10eff1f826e387c9e9d1b14591eb5b
+2026-02-16T03:21:10.665600+00:00|https://news.sky.com/story/i-was-pressing-the-call-button-and-no-one-came-black-mothers-on-dehumanising-maternity-care-13507105|i was pressing the call button and no one came black mothers on dehumanising maternity care|0a7ce391eb612e8e88022444b93bdd3b
+2026-02-16T03:21:16.011667+00:00|https://www.bbc.com/news/articles/cpqwl10lvr2o|uk considering significant increase to defence spending|f8e59d07eb675603e9013f908ef0a0b3
+2026-02-16T03:21:21.499044+00:00|https://news.sky.com/story/family-of-iranian-protester-forced-to-pay-for-the-bullet-that-killed-their-son-13508060|iranian protesters family forced to pay for the bullet that killed their son|e126177314a1f64046d44d1c55f4c45a
+2026-02-16T03:21:26.832439+00:00|https://www.bbc.com/news/articles/c5yqvqw12p0o|the papers truth is antidote to putins poison and europe sabotage campaign|2c2077af13cd424ab05aaba606fb4761
+2026-02-16T03:21:32.171074+00:00|https://news.sky.com/story/despondent-even-mutinous-mood-at-uks-foreign-office-as-government-plans-cuts-13508055|despondent even mutinous mood at uks foreign office as government plans cuts|a059fc7d6a071c897baa39d026257672
+2026-02-16T03:21:37.488700+00:00|https://www.bbc.com/news/articles/c7951dzg9npo|ministers want to reform send but they are treading very carefully|d2d298b342d8249af2061b85ca28da05
+2026-02-16T03:21:42.820244+00:00|https://www.bbc.com/news/articles/cpqwlwndj9yo|cabinet secretary frontrunner previously spoken to about management style|cbb0f0bd1393a637db91137fa327416e
