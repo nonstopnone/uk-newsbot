@@ -1,8 +1,3 @@
-2026-02-09T17:29:09.334404+00:00|https://www.bbc.com/news/articles/cdxg6xr2d55o|chris mason starmer prepares to face labour mps knowing his future is in the balance|cf3dabf819e60e18d7f3af6435a4644d
-2026-02-09T17:29:14.902659+00:00|https://news.sky.com/story/suffolk-police-sorry-over-how-only-surviving-steve-wright-victim-feels-case-dealt-with-13505378|suffolk police sorry over how surviving steve wright victim feels case dealt with|8c0e348f1d856fba9786b75023d2a1cf
-2026-02-09T17:29:20.359790+00:00|https://www.bbc.com/news/articles/c3wl6vdgqw2o|police assessing claims about andrew sharing confidential trade details|4341a17c2b949cd6101e65b15f5f6fb6
-2026-02-09T17:29:25.946132+00:00|https://news.sky.com/story/police-launch-investigation-after-golden-eagle-found-with-shotgun-injuries-in-scottish-borders-13505221|police launch investigation after golden eagle found with shotgun injuries|ea976fdba250d1172c7461a6dc0d8d53
-2026-02-09T17:29:31.530928+00:00|https://www.bbc.com/news/articles/cx2yv25l8dro|my songs get tens of thousands of likes but each spotify stream earns me just £0003|7f2b00cbd775ba9ee46a3dac110d72d5
 2026-02-09T18:31:26.836605+00:00|https://www.bbc.com/news/articles/c20z4p01qndo|flights from st helena island grounded by airport safety concerns|e10e6fe34622bc0abc8a16a7fa1b51c0
 2026-02-09T18:31:32.327061+00:00|https://news.sky.com/story/police-apologise-to-surviving-victim-of-suffolk-strangler-steve-wright-13505378|police apologise to surviving victim of suffolk strangler|24d83f8ca33f8a87cc2eb61841f6669b
 2026-02-09T18:31:37.695451+00:00|https://news.sky.com/story/who-could-replace-starmer-as-prime-minister-13505363|who could replace starmer as prime minister|48d3119866e2f3409af18bb5206c37c6
@@ -536,3 +531,5 @@
 2026-02-16T17:04:39.532882+00:00|https://www.bbc.com/news/articles/cewzklx8gxgo|murder trial jury told of dog walkers shotgun injuries|2beadc61ed4fbac7ad96ea91041607f8
 2026-02-16T17:04:44.853176+00:00|https://news.sky.com/story/prison-guard-charged-over-relationship-with-inmate-at-hmp-barlinnie-13508263|prison guard charged over relationship with inmate at notorious jail|12be924bfb044fa4dbef41473ee0e941
 2026-02-16T17:04:50.270060+00:00|https://news.sky.com/story/dancer-took-her-life-three-days-after-arrest-over-alleged-sexual-offence-inquest-hears-13508222|bgt dancer took her life three days after arrest over alleged sexual offence inquest hears|fa8c7f75ca3054b30779f2cc76814f27
+2026-02-16T17:57:08.892537+00:00|https://news.sky.com/story/man-charged-with-terrorism-offences-over-taylor-swift-concert-attack-plot-13508272|man charged over taylor swift concert terror attack plot|68083b63e369abd85d102155a6565a97
+2026-02-16T17:57:14.315696+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/uk-cuts-aid-further-than-any-g7-country-including-the-us|uk cuts aid further than any g7 country including the us|818c3fdd1286327a469a07536f901424
