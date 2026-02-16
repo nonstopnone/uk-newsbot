@@ -1,5 +1,3 @@
-2026-02-09T12:34:48.776254+00:00|https://www.bbc.com/news/articles/c0k14ldxd11o|police officers investigated over camp abuse response|3a573520cfffb954949795a284b88bfd
-2026-02-09T12:34:54.399868+00:00|https://www.bbc.com/news/articles/c98q50gd2vmo|barry m bought by makeup for men brand warpaint|ad379b7c051b1628600c605b5a43486a
 2026-02-09T14:03:28.264081+00:00|https://news.sky.com/story/father-tygue-crowther-jailed-for-trying-to-recruit-white-supremacists-on-social-media-after-his-wife-left-him-13505249|father jailed for trying to recruit white supremacists on social media after his wife left him|0cfe6dae4df6c7c02efad3a8e3f632f6
 2026-02-09T14:03:33.837408+00:00|https://www.bbc.com/news/articles/cwy9wzd6l36o|stabbing of soldier was vicious and deliberate|12bb82b32b7c5d44b38ed78a666afb97
 2026-02-09T14:03:39.432144+00:00|https://www.telegraph.co.uk/winter-olympics/2026/02/09/live-kirsty-muir-winter-olympics-medal-ski-slopestyle|kirsty muir in tears after agonising fourth in ski slopestyle final|6f61ba8738f031b1cf8a511af8d9d97a
@@ -528,3 +526,10 @@
 2026-02-16T11:29:36.211761+00:00|https://news.sky.com/story/new-weather-warnings-for-snow-and-ice-issued-for-large-swathes-of-uk-13508091|new weather warnings for snow and ice issued for large swathes of uk|ab57391974042d5842db5605aa53281f
 2026-02-16T12:02:36.356499+00:00|https://www.bbc.com/news/articles/c99jyexve1jo|measles outbreak could see unvaccinated pupils excluded from schools in north london|3d99b84e6c501051a6f0563d46f734ea
 2026-02-16T12:02:41.962623+00:00|https://www.bbc.com/news/articles/c2e4xg77y0lo|i needed help for addiction 30 years later im running the service|0eb3c2118dfe782f8db5b3bcd22db0de
+2026-02-16T13:41:02.749686+00:00|https://www.telegraph.co.uk/cricket/2026/02/16/england-vs-italy-live-t20-world-cup-score-latest-watch|england survive italy scare to reach t20 world cup super eights|16b0073ed79b3e5b1f37ed585fa6594a
+2026-02-16T13:41:08.259420+00:00|https://news.sky.com/story/train-derails-in-switzerland-after-suspected-avalanche-13508191|train derails after suspected avalanche|58dd1d8866eb0d88f952b6be585a2659
+2026-02-16T13:41:13.774575+00:00|https://www.bbc.com/news/articles/cq6qge7rmm1o|students begin covid compensation claim against 36 more universities|8056fe67ab92658b7909e9c0027cc95f
+2026-02-16T13:41:19.273914+00:00|https://news.sky.com/story/tehran-producer-dana-eden-found-dead-in-athens-hotel-room-while-filming-new-season-13508177|producer of hit tv spy thriller found dead in hotel room|833d54408605fa2e3c1a9c1c739789df
+2026-02-16T13:41:24.674852+00:00|https://www.bbc.com/sport/rugby-union/articles/cm21365z5ezo|irfu turns off social media comments over edogbo abuse|0c301457ff6c10aedfda2aab98cde0c2
+2026-02-16T13:41:30.203454+00:00|https://news.sky.com/story/chadwick-bosemans-brothers-say-late-stars-play-will-help-preserve-his-memory-13508155|chadwick bosemans brothers say late stars play will help preserve his memory|0a226a1d1d424ebdfd600485b25a1872
+2026-02-16T13:41:35.719978+00:00|https://news.sky.com/story/the-2026-olympic-curling-cheating-controversy-explained-13508143|how the olympic curling cheating controversy rocked the winter games|e32ce8284ca5e9131e159d8b2ff69eb1
