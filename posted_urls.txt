@@ -531,3 +531,6 @@
 2026-02-16T15:27:31.605490+00:00|https://www.bbc.com/news/articles/cq8gknj0jd4o|officers call for police cars to be equipped with guns|94e5da26ba73d4a95d9431f11fa301aa
 2026-02-16T15:27:37.060918+00:00|https://news.sky.com/story/royal-mail-warns-of-service-delays-here-are-the-postcodes-affected-13508238|royal mail warns of service delays here are the postcodes affected|375e0039761e66d3ca4502dc402cc75d
 2026-02-16T15:27:42.372832+00:00|https://www.bbc.com/news/articles/c2lr04xegzdo|teacher guilty of whispering exam help to pupils|7a83545c62f02e6e4ccd800dfa1c54eb
+2026-02-16T16:08:28.744781+00:00|https://www.bbc.com/news/articles/c2lr91enp9po|three teenagers guilty of killing man on beach|549b9347bd6133a01f9264aecb6e56da
+2026-02-16T16:08:34.453633+00:00|https://www.telegraph.co.uk/tennis/2026/02/16/emma-raducanu-vs-antonia-ruzic-live-score-latest-updates|raducanu beaten by lucky loser after needing medical help in dubai|a6d99b5d03929edb4dd7c6a677c0b876
+2026-02-16T16:08:40.045425+00:00|https://www.bbc.com/news/articles/cpqw2j95zq7o|woman admits selling fake taylor swift tickets|a5607eb3820f99429fc6e8e36313e6ad
