@@ -1,11 +1,3 @@
-2026-02-09T19:53:50.624743+00:00|https://www.bbc.com/news/articles/c8r3rpg4xpmo|violinist sent hundreds of nude images to women|4e229c0aed2378c9a0bdae16959e5fc0
-2026-02-09T19:53:56.017733+00:00|https://news.sky.com/story/buckingham-palace-ready-to-support-police-if-contacted-over-andrew-allegations-13505432|buckingham palace ready to support police if contacted over andrew allegations|5b054fb2a741903551cf3193e65a800f
-2026-02-09T19:54:01.335593+00:00|https://www.bbc.com/news/articles/cqlgv3z79klo|kings profound concern as police consider andrew claims over epstein|750ac4a1577859951437a5c112ff1667
-2026-02-09T19:54:06.659731+00:00|https://news.sky.com/story/smart-motorway-system-wasnt-working-as-it-should-be-at-time-of-fatal-m4-crash-court-told-13505373|smart motorway system wasnt working as it should be at time of fatal crash court told|28904058d48a6f35fe203a7a8f8fec83
-2026-02-09T19:54:12.046466+00:00|https://www.bbc.com/news/articles/cpv8ygnrgpxo|police probe after golden eagle found with shotgun injuries|8e3ba90937ae98e624df7f6476462ba9
-2026-02-09T19:54:17.485034+00:00|https://news.sky.com/story/streeting-shares-his-mandelson-texts-with-sky-news-13505331|streeting shares his mandelson texts with sky news|65c80bb7435e6af9f39df9f6b140d4ea
-2026-02-09T19:54:22.864593+00:00|https://www.bbc.com/news/articles/cly3yn4kjwzo|nursery worker guilty of raping children|8375fb6fcb953f9440f5d6add9b35c38
-2026-02-09T19:54:28.148742+00:00|https://www.bbc.com/news/articles/c795wpn3v54o|exblair aide becomes latest departure from starmers team|e1620d977bd62e742df332bfc8da59ab
 2026-02-09T20:52:16.620272+00:00|https://news.sky.com/story/read-wes-streetings-messages-with-mandelson-in-full-13505439|read wes streetings messages with mandelson in full|0416c42383e130cfeada5c798fbe6a3e
 2026-02-09T20:52:21.960215+00:00|https://www.telegraph.co.uk/winter-olympics/2026/02/09/mia-brookes-bid-winter-olympics-medal-snowboard-big-air|mia brookes misses out on winter olympics medal in snowboard big air|f5addce1b3d4cabafb708f063f213930
 2026-02-09T20:52:27.319485+00:00|https://news.sky.com/story/soldier-repeatedly-stabbed-in-street-compared-assault-to-lee-rigby-attack-court-hears-13505361|soldier repeatedly stabbed in street compared assault to lee rigby attack court hears|172e629553374d2f6797d4e92cda9277
@@ -532,3 +524,5 @@
 2026-02-16T17:57:14.315696+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/uk-cuts-aid-further-than-any-g7-country-including-the-us|uk cuts aid further than any g7 country including the us|818c3fdd1286327a469a07536f901424
 2026-02-16T18:58:15.890225+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/government-vaccination-campaign-london-measles-outbreak|government launches vaccination campaign in wake of london measles outbreak|ec59cff72e6383689206e2df6cc00327
 2026-02-16T19:38:59.174996+00:00|https://www.bbc.com/news/articles/cjrqy41r32wo|disability and lgbt hate crimes set to become aggravated offences|97909ef85d3e8deb12991c8f698cfd5b
+2026-02-16T20:01:06.286340+00:00|https://www.bbc.com/news/articles/cd9g28yzy0no|six of sarah fergusons companies winding down|42ded3dcf6e7bfb9252c97e8fa243fce
+2026-02-16T20:01:11.888850+00:00|https://news.sky.com/story/uk-gang-jailed-after-cocaine-found-hidden-in-books-destined-for-australia-13508309|gang jailed after cocaine found hidden in books|968ff6479539c8b711e6ba1fe32f3bbd
