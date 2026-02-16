@@ -1,7 +1,3 @@
-2026-02-09T22:47:05.896266+00:00|https://www.bbc.com/news/articles/cjd95572xpeo|£5bn council send debts to be paid off by government|9e88b5bfa365d99b39e5f8fff5c6f759
-2026-02-09T22:47:11.304457+00:00|https://news.sky.com/story/us-tv-host-savannah-guthrie-at-hour-of-desperation-in-search-for-missing-mother-13505486|us tv star at hour of desperation for missing mother as ransom deadline looms|d1f316cdb8d3a26b50b01a243f9897fc
-2026-02-09T22:47:16.641245+00:00|https://www.bbc.com/sport/articles/crrxlvpnw4ko|so close to a world first fourth for brookes on frustrating day for team gb|d03554dcddfb7d52268b47d1a0846140
-2026-02-09T22:47:22.052797+00:00|https://news.sky.com/story/home-alone-actress-catherine-oharas-cause-of-death-confirmed-13505474|home alone actress catherine oharas cause of death confirmed|59f43a5ed704cdccd57578156ce8061b
 2026-02-09T23:46:06.061989+00:00|https://news.sky.com/story/why-palace-chose-to-issue-extraordinary-statement-over-andrew-allegations-13505500|why palace chose to issue extraordinary statement over andrew allegations|0d11b539471e9479f6cf3354cc0eb5ae
 2026-02-09T23:46:11.453348+00:00|https://www.bbc.com/news/articles/cx2wzj9dwvzo|sepsis mistakes killed our daughter we fear it could happen again|426c291f806b67fd41dbf85a0ad3f107
 2026-02-09T23:46:16.860484+00:00|https://news.sky.com/story/epstein-affair-may-be-the-end-of-the-monarchy-says-us-congressman-13505487|epstein affair may be the end of the monarchy says us congressman|f88193ac7eacdeedf89d7524542abfa5
@@ -525,3 +521,8 @@
 2026-02-16T21:36:45.513240+00:00|https://news.sky.com/story/imran-khans-doctor-not-allowed-to-treat-him-in-jail-spokesman-claims-13508283|imran khans doctor not allowed to treat him in jail spokesman claims|8865d1e301d3e363bdd0978902b1bfe7
 2026-02-16T21:36:51.062975+00:00|https://news.sky.com/story/hollywood-legend-robert-duvall-star-of-apocalypse-now-and-the-godfather-star-dies-aged-95-13508328|apocalypse now and the godfather star robert duvall dies|b75d2d5c51c2fa385dc84b3f7359333c
 2026-02-16T22:00:57.493722+00:00|https://www.bbc.com/news/articles/c1l7vrj6z31o|jet2 hands passengers life ban after midair brawl|d933ef56d1d867e211966c2d40e1f9d9
+2026-02-16T22:50:31.071063+00:00|https://www.bbc.com/news/articles/c5y5xzypxp4o|doctor who called junior colleague bad girl and squeezed her waist is struck off|0327fde408c7939ada8f602805a54125
+2026-02-16T22:50:36.555241+00:00|https://news.sky.com/story/three-people-killed-and-others-injured-in-shooting-at-us-ice-rink-13508381|three people killed and others injured in shooting at ice rink|bdc5d368e6a5062df290aa8edce9bb93
+2026-02-16T22:50:42.056834+00:00|https://www.bbc.com/sport/articles/c363w01jrwxo|muir fourth in big air in another medal nearmiss|38b3df8d3e105a048447d3cfb91e632d
+2026-02-16T22:50:47.562471+00:00|https://news.sky.com/story/why-sir-keir-starmers-latest-u-turn-may-see-him-lose-more-than-just-face-13508358|why starmers latest uturn may see him lose more than just face|03d9bc83941e3731814a3bdf6862a6fc
+2026-02-16T22:50:52.948045+00:00|https://www.bbc.com/news/articles/cg4gkzw971go|tube passengers targeted in text scam court told|d5e6357508db7a0d6b2deda7c8cf82d5
