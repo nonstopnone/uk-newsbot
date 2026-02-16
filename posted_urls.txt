@@ -1,6 +1,3 @@
-2026-02-09T18:31:26.836605+00:00|https://www.bbc.com/news/articles/c20z4p01qndo|flights from st helena island grounded by airport safety concerns|e10e6fe34622bc0abc8a16a7fa1b51c0
-2026-02-09T18:31:32.327061+00:00|https://news.sky.com/story/police-apologise-to-surviving-victim-of-suffolk-strangler-steve-wright-13505378|police apologise to surviving victim of suffolk strangler|24d83f8ca33f8a87cc2eb61841f6669b
-2026-02-09T18:31:37.695451+00:00|https://news.sky.com/story/who-could-replace-starmer-as-prime-minister-13505363|who could replace starmer as prime minister|48d3119866e2f3409af18bb5206c37c6
 2026-02-09T19:53:50.624743+00:00|https://www.bbc.com/news/articles/c8r3rpg4xpmo|violinist sent hundreds of nude images to women|4e229c0aed2378c9a0bdae16959e5fc0
 2026-02-09T19:53:56.017733+00:00|https://news.sky.com/story/buckingham-palace-ready-to-support-police-if-contacted-over-andrew-allegations-13505432|buckingham palace ready to support police if contacted over andrew allegations|5b054fb2a741903551cf3193e65a800f
 2026-02-09T19:54:01.335593+00:00|https://www.bbc.com/news/articles/cqlgv3z79klo|kings profound concern as police consider andrew claims over epstein|750ac4a1577859951437a5c112ff1667
@@ -533,3 +530,4 @@
 2026-02-16T17:04:50.270060+00:00|https://news.sky.com/story/dancer-took-her-life-three-days-after-arrest-over-alleged-sexual-offence-inquest-hears-13508222|bgt dancer took her life three days after arrest over alleged sexual offence inquest hears|fa8c7f75ca3054b30779f2cc76814f27
 2026-02-16T17:57:08.892537+00:00|https://news.sky.com/story/man-charged-with-terrorism-offences-over-taylor-swift-concert-attack-plot-13508272|man charged over taylor swift concert terror attack plot|68083b63e369abd85d102155a6565a97
 2026-02-16T17:57:14.315696+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/uk-cuts-aid-further-than-any-g7-country-including-the-us|uk cuts aid further than any g7 country including the us|818c3fdd1286327a469a07536f901424
+2026-02-16T18:58:15.890225+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/government-vaccination-campaign-london-measles-outbreak|government launches vaccination campaign in wake of london measles outbreak|ec59cff72e6383689206e2df6cc00327
