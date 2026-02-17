@@ -1,8 +1,3 @@
-2026-02-10T10:12:58.581544+00:00|https://www.bbc.com/news/articles/cp329k4qvx3o|starmer and sarwar can still work together scottish secretary claims|75087961719d5fe4351ee1085b7e746e
-2026-02-10T10:13:04.868463+00:00|https://news.sky.com/story/hundreds-of-homes-flooded-with-record-levels-of-rain-set-to-continue-13505552|hundreds of homes flooded with record levels of rain set to continue|85005a462cc80294108e17d314aeffbb
-2026-02-10T10:13:10.285002+00:00|https://www.bbc.com/news/articles/cgml7mzd290o|londons albert bridge closes to traffic as precaution|102b82370c7a2ae74a0253e8193ed601
-2026-02-10T10:13:15.700177+00:00|https://www.bbc.com/news/articles/cp85n416n3vo|more solar farms on the way after record renewables auction|9b9447f2bf30e951151e8afee2670306
-2026-02-10T10:13:21.110308+00:00|https://www.bbc.com/news/articles/cgqeww4w4ywo|cambridge university wins rowing trademark case|471a4c788d2ddb75374b65ed355d1dc9
 2026-02-10T11:14:56.162940+00:00|https://www.bbc.com/news/articles/cq6qr37z0reo|woman guilty of killing partner she cut up and buried|f66e31b8ad884b05488435adc00c1bfc
 2026-02-10T11:15:01.676006+00:00|https://news.sky.com/story/irish-man-detained-for-five-months-in-concentration-camp-by-ice-13505571|irish man detained for months in concentration camp by ice|33755549f14a9fcb030da6720e300dd1
 2026-02-10T11:15:06.993643+00:00|https://www.bbc.com/news/articles/cewzlvqj590o|police defend taking 26 years to find teens killer|74f526ab8c9de61d2d9707fbf4058bc3
@@ -531,3 +526,10 @@
 2026-02-17T10:08:06.965343+00:00|https://news.sky.com/story/five-dead-after-fire-at-apartment-building-in-spain-13507943|five dead after fire at apartment building in spain|f8f3f83f1fc98417c22fb9ee05724bea
 2026-02-17T10:08:12.418577+00:00|https://www.telegraph.co.uk/travel/advice/best-holidays-march-sun-where-travel-destinations|the 15 best holiday destinations for march sun|37de0e684a12d80738492c9379578e3a
 2026-02-17T10:08:17.869770+00:00|https://www.telegraph.co.uk/recommended/home/interiors/how-to-set-up-a-sewing-machine|how to set up your sewing machine according to a sewing bee winner|5f0ee073432b8da0cc8082a849092c27
+2026-02-17T11:08:52.458802+00:00|https://www.bbc.com/news/articles/cdx4762znr6o|met using ebikes and drones to catch phone thieves|25895f88b6f3c904bc43734a431bf1ce
+2026-02-17T11:08:58.117486+00:00|https://news.sky.com/story/uks-eurovision-entry-is-youtuber-and-electronic-artist-look-mum-no-computer-13508454|uks eurovision 2026 entry revealed|1324c2fcc505826e034d5b0c6bf76018
+2026-02-17T11:09:03.555390+00:00|https://www.bbc.com/news/articles/clygz17y5kdo|electronic artist and youtuber look mum no computer to represent uk at eurovision|f239936255fc1eed242f5f6adfe2eba2
+2026-02-17T11:09:09.133235+00:00|https://news.sky.com/story/trump-warns-iran-of-consequences-of-failing-to-reach-nuclear-deal-13508423|trump warns iran of consequences of failing to reach nuclear deal|4ac2341312ae82518d40ce3f2ba318b8
+2026-02-17T11:09:14.575938+00:00|https://www.bbc.com/news/articles/cx24n5174r2o|bizarre 24metre shipwreck spotted off welsh coast|c82eed1be81be86b799b734e6b274460
+2026-02-17T11:09:20.194751+00:00|https://news.sky.com/story/cold-health-alert-issued-with-snow-forecast-for-parts-of-uk-13507941|cold health alert issued with snow forecast for parts of uk|3bacc8014bad2f9695ee92252c78d7e2
+2026-02-17T11:09:25.765342+00:00|https://www.bbc.com/news/articles/ce8wd6pzl72o|can you really depuff your face the truth about three common treatments|ba81586ea2e2f392696ea80495d086bc
