@@ -1,10 +1,3 @@
-2026-02-10T15:08:31.220542+00:00|https://www.bbc.com/news/articles/cge8yrlwqvlo|exmet inspector due in court over rape charges|c036768596381b72e59a581f0fa8197e
-2026-02-10T15:08:36.581173+00:00|https://news.sky.com/story/drug-dealer-inspired-by-home-alone-rigged-house-with-booby-traps-13505690|drug dealer inspired by home alone rigged house with boobytraps|6088441b80a9ff6cb115d4f3ac8b6656
-2026-02-10T15:08:41.917087+00:00|https://www.bbc.com/news/articles/cx2r5qzre27o|man rigged house with traps to protect drug den|1067bd9fda60e2e1a4b1946bd678560c
-2026-02-10T15:08:47.230867+00:00|https://news.sky.com/story/licences-to-control-wild-birds-have-been-suspended-following-golden-eagles-disappearance-13505677|licences to control wild birds have been suspended following golden eagles disappearance|1c07983f8002da22ae74913ab8d41b9f
-2026-02-10T15:08:52.539958+00:00|https://www.bbc.com/news/articles/cwyk98e37klo|woman settles age discrimination case for £150000|735010bbeea8b6ae3860862df6eebafe
-2026-02-10T15:08:57.885528+00:00|https://www.bbc.com/news/articles/c0q3zg37d78o|student society bans reform uk for racism transphobia and homophobia|c9be2cfcc49ac8060e3a850d725801bb
-2026-02-10T15:09:03.187934+00:00|https://www.bbc.com/news/articles/c8d5je92j2ro|brutalist southbank centre granted listed status|6ed7f182c7970adf0add4053870a50bb
 2026-02-10T16:18:47.355742+00:00|https://news.sky.com/story/afghan-national-found-guilty-of-abducting-and-raping-12-year-old-girl-13505786|afghan asylum seeker found guilty of abducting and raping 12yearold girl|4ddf583a1c5f1e63da4e990267298fce
 2026-02-10T16:18:52.859659+00:00|https://www.bbc.com/news/articles/c5yqwepn9zeo|man guilty of murdering partners fivemonthold baby|5bf26791f2cc154f8a31a2418d85817f
 2026-02-10T16:18:58.421141+00:00|https://www.telegraph.co.uk/recommended/tech/reviews/best-samsung-tablets|i tested 7 samsung tablets to find out if any of them can finally beat the ipad|3bd80f995658e9d37c744a40558c27ab
@@ -529,3 +522,11 @@
 2026-02-17T14:29:57.640477+00:00|https://news.sky.com/story/jesse-jackson-obituary-the-civil-rights-activist-who-sowed-the-seeds-of-possibility-13508556|jesse jackson obituary the civil rights activist who sowed the seeds of possibility|4785d9d10e34a32ad84e5c0714b8f1a3
 2026-02-17T14:30:03.450868+00:00|https://www.bbc.com/news/articles/c99jn31ky3do|no guarantee bus drivers killer will have free pass removed|54e47f878992e743194c5e5ab13bb4f1
 2026-02-17T14:30:09.038388+00:00|https://news.sky.com/story/calls-for-us-congressman-randy-fine-to-quit-for-suggesting-he-would-choose-dogs-over-muslims-13508488|calls for us congressman to quit for suggesting he would choose dogs over muslims|655680ee0b2dfa066c9a3a2bc8c6fc16
+2026-02-17T15:30:16.989084+00:00|https://news.sky.com/story/jesse-jackson-built-on-martin-luther-kings-legacy-and-never-forgot-the-hardships-that-shaped-his-life-13508575|jesse jackson built on martin luther kings legacy and never forgot the hardships that shaped his life|6c19c330fbcd2aea5ceb3d884253ca6a
+2026-02-17T15:30:22.571883+00:00|https://www.bbc.com/news/articles/c1kgjwlmdv0o|ancient crocodile named jones after inspirational teacher|0c40d7a2e4ffb7993979cfd7a45e7e76
+2026-02-17T15:30:28.153993+00:00|https://news.sky.com/story/irishman-held-in-filthy-ice-facility-in-texas-given-10-day-reprieve-from-deportation-13508561|irishman held in filthy ice facility given reprieve from deportation|9585bf8b71e90f40a19ffb61c90972c7
+2026-02-17T15:30:33.613752+00:00|https://www.bbc.com/news/articles/c0e5gdvj719o|expriest receives second lifetime ban for child sexual abuse|f4c89dd7289c4f91ee8c19fa327128f7
+2026-02-17T15:30:39.269987+00:00|https://news.sky.com/story/prime-minister-urges-parents-to-check-vaccines-are-up-to-date-after-measles-outbreak-13508557|pm warns public health isnt a culture war after measles outbreak|74ffa3d6ca4f855375c7e8a676b91b72
+2026-02-17T15:30:44.737376+00:00|https://www.bbc.com/news/articles/cx2d9yk2kpjo|dual nationals face scramble for uk passports as new rules come into force|32d84d7555fb5c386b2421b8c7df2abb
+2026-02-17T15:30:50.150740+00:00|https://www.bbc.com/news/articles/czj1708v1ejo|adoption breakdown ended my career and relationship were told to get on with it|746cda36d57feff3a1b3ec16de2f581b
+2026-02-17T15:30:55.722260+00:00|https://www.bbc.com/news/articles/c5y4nyxwd7eo|patients describe culture of abuse as 15 hospital staff arrested|45c2bbb5e0bb7ffc58631ed9ed9ccc30
