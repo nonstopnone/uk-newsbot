@@ -1,8 +1,3 @@
-2026-02-10T11:14:56.162940+00:00|https://www.bbc.com/news/articles/cq6qr37z0reo|woman guilty of killing partner she cut up and buried|f66e31b8ad884b05488435adc00c1bfc
-2026-02-10T11:15:01.676006+00:00|https://news.sky.com/story/irish-man-detained-for-five-months-in-concentration-camp-by-ice-13505571|irish man detained for months in concentration camp by ice|33755549f14a9fcb030da6720e300dd1
-2026-02-10T11:15:06.993643+00:00|https://www.bbc.com/news/articles/cewzlvqj590o|police defend taking 26 years to find teens killer|74f526ab8c9de61d2d9707fbf4058bc3
-2026-02-10T11:15:12.431272+00:00|https://news.sky.com/story/prince-william-asked-to-raise-case-of-detained-manchester-man-during-visit-to-saudi-arabia-13505616|prince william asked to raise case of detained manchester man during visit to saudi arabia|52fd336466f97b8d6940c0971e2f8453
-2026-02-10T11:15:17.864828+00:00|https://news.sky.com/story/drinking-tea-and-coffee-may-help-preserve-brain-function-and-reduce-risk-of-dementia-study-suggests-13505607|drinking tea or coffee may reduce risk of dementia study suggests|011d41ef0657504eeec09334209713a8
 2026-02-10T12:03:21.419465+00:00|https://news.sky.com/story/turkey-butcher-guilty-of-killing-and-cutting-up-girlfriend-15-years-ago-13505646|butcher guilty of killing and cutting up girlfriend|6bdec4f9debc06a92ccac45b151ee1a6
 2026-02-10T12:03:26.716413+00:00|https://news.sky.com/story/man-sought-after-rape-on-university-campus-13505628|man sought after rape on university campus|3fcff81a3265e78708725f89a80d04f3
 2026-02-10T12:03:32.034676+00:00|https://news.sky.com/story/murder-investigation-launched-after-man-killed-in-targeted-glasgow-attack-13505624|murder investigation launched after man killed in targeted attack|c629b263f2bc9e13f0e5a5296d1afafe
@@ -533,3 +528,6 @@
 2026-02-17T11:09:14.575938+00:00|https://www.bbc.com/news/articles/cx24n5174r2o|bizarre 24metre shipwreck spotted off welsh coast|c82eed1be81be86b799b734e6b274460
 2026-02-17T11:09:20.194751+00:00|https://news.sky.com/story/cold-health-alert-issued-with-snow-forecast-for-parts-of-uk-13507941|cold health alert issued with snow forecast for parts of uk|3bacc8014bad2f9695ee92252c78d7e2
 2026-02-17T11:09:25.765342+00:00|https://www.bbc.com/news/articles/ce8wd6pzl72o|can you really depuff your face the truth about three common treatments|ba81586ea2e2f392696ea80495d086bc
+2026-02-17T11:56:04.458714+00:00|https://www.bbc.com/news/articles/cly86125nqno|legal challenge to mets freemasons policy thrown out|2b658e8fc551fbc40b6781e8e46f5917
+2026-02-17T11:56:10.040011+00:00|https://news.sky.com/story/italys-lovers-arch-collapses-into-the-sea-on-valentines-day-13508446|lovers arch collapses into the sea on valentines day|1fef9e1439363a2fe940633b9f29076f
+2026-02-17T11:56:15.606266+00:00|https://www.bbc.com/news/articles/c2lrjp0lz4go|when robert duvall fell in love with scottish football|f11cfc135683dd3bb5fda432804452d3
