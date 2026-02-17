@@ -1,4 +1,3 @@
-2026-02-10T06:38:38.966543+00:00|https://www.bbc.com/weather/articles/cn9el029173o|one hundred flood warnings as heavy downpours persist|0e4ff1a25530a47cfeb7c5739cb46743
 2026-02-10T10:12:58.581544+00:00|https://www.bbc.com/news/articles/cp329k4qvx3o|starmer and sarwar can still work together scottish secretary claims|75087961719d5fe4351ee1085b7e746e
 2026-02-10T10:13:04.868463+00:00|https://news.sky.com/story/hundreds-of-homes-flooded-with-record-levels-of-rain-set-to-continue-13505552|hundreds of homes flooded with record levels of rain set to continue|85005a462cc80294108e17d314aeffbb
 2026-02-10T10:13:10.285002+00:00|https://www.bbc.com/news/articles/cgml7mzd290o|londons albert bridge closes to traffic as precaution|102b82370c7a2ae74a0253e8193ed601
@@ -524,3 +523,6 @@
 2026-02-17T05:06:07.893791+00:00|https://news.sky.com/story/british-skiers-killed-in-alps-avalanche-named-13508408|british skiers killed in alps avalanche named|41f702f9db7fb0caa91fc83bdecbb840
 2026-02-17T06:12:04.257099+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/fiji-methamphetamine-crisis-hiv-epidemic|the island paradise with the worlds fastest growing hiv epidemic|96c498b70e6c83047e143e6b75288722
 2026-02-17T06:12:09.612503+00:00|https://news.sky.com/story/six-of-sarah-fergusons-companies-to-close-in-wake-of-latest-epstein-files-13508407|six of sarah fergusons companies to close|8225aceee6c8b0de95f863fffcdf3e07
+2026-02-17T07:17:43.050053+00:00|https://www.bbc.com/news/articles/cm2xy9x27mvo|royal mail allegedly choosing not to deliver letters mp claims|bdc2b49e1c8714b95c7209542cdd4e83
+2026-02-17T07:17:48.503075+00:00|https://news.sky.com/story/unemployment-hits-highest-rate-in-nearly-5-years-13508415|unemployment hits highest rate in nearly five years|419eff42a88d34e8acbb3d80c126e0f8
+2026-02-17T07:17:53.828697+00:00|https://www.bbc.com/news/articles/ckgz1wqpv0po|free tuition under threat without revenue boost report warns|6e4fdbd1d380623b37c0d419088812af
