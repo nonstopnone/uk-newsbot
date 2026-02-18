@@ -1,9 +1,3 @@
-2026-02-11T12:33:56.912365+00:00|https://www.bbc.com/news/articles/cr5l453g1npo|woman who murdered cut up and buried partner jailed|39bab9459fd4001b390f728922bda341
-2026-02-11T12:34:02.426722+00:00|https://news.sky.com/story/prince-williams-first-tour-of-saudi-arabia-ends-with-nature-reserve-visit-13506150|prince williams first tour of saudi arabia ends with nature reserve visit|2cd938d994e39beb79e371b42ad0e92d
-2026-02-11T12:34:07.781860+00:00|https://www.bbc.com/news/articles/ckg19gz8l1do|expupil threatened to cut and stab students and staff in youtube video|2c3c58357b51a3cae1286f9607b6b1fa
-2026-02-11T12:34:13.126226+00:00|https://news.sky.com/story/butcher-who-cut-her-girlfriend-in-half-and-buried-her-in-their-derby-garden-jailed-for-life-13506114|woman who cut her girlfriend in half and buried her body in garden jailed for life|111d313d183b4d2c123235e6babbc2d3
-2026-02-11T12:34:18.597193+00:00|https://news.sky.com/story/celtic-facing-fresh-legal-action-amid-allegations-of-historical-sex-abuse-at-boys-club-13506097|celtic facing fresh sixfigure claim amid allegations of sex abuse at boys club|469643d8f06040386e0e5d1d0a2fda1d
-2026-02-11T12:34:23.966440+00:00|https://news.sky.com/story/sky-to-bring-disney-netflix-hayu-and-hbo-max-together-under-one-subscription-13506086|world first as sky brings four major streaming platforms into its subscription|9a9d485d77d5c4a1e4499710606a6a81
 2026-02-11T14:04:20.461608+00:00|https://news.sky.com/story/motorist-gets-ban-in-court-and-then-tries-to-drive-himself-home-13506223|motorist gets ban in court and then tries to drive himself home|141ad23973ad68d97368c489480b5bf5
 2026-02-11T14:04:26.012443+00:00|https://www.bbc.com/news/articles/cvg3lgdne60o|dead flies and dirty knife michelinstarred restaurants hygiene failings revealed|cff6f85b10a4f1007ead0ac981b7dbdc
 2026-02-11T14:04:31.459754+00:00|https://news.sky.com/story/two-boys-stabbed-at-school-in-stable-condition-with-non-life-threatening-injuries-13506193|school stabbing victims not in lifethreatening condition as teen still in custody|c09dc6aaa0effed8b975ac614db71c7a
@@ -522,3 +516,11 @@
 2026-02-18T11:08:30.651057+00:00|https://www.bbc.com/news/articles/c1l756vy74go|meeting my dad was a dream pop stars 50year search for his birth father|e622f9a8edb4431fc0040706a400ac29
 2026-02-18T11:56:12.031183+00:00|https://news.sky.com/story/drones-flown-into-north-korea-by-civilians-are-harming-relations-says-south-korea-13508998|drones flown into north korea by civilians are harming relations says south korea|c9cdbff0d2ef9b7cdf64ab2ddb0494e4
 2026-02-18T11:56:17.604746+00:00|https://www.bbc.com/news/articles/cg5nq7ylmppo|double decker hits london theatre in twobus crash|0ec154985c071cb2a3afb57658dcadd7
+2026-02-18T13:25:46.220452+00:00|https://www.bbc.com/news/articles/clyxqv99yw5o|heartbreaking to consider what noah experienced witness tells inquest|b756d49eb3a8d272214fd2037e0b9f75
+2026-02-18T13:25:51.736183+00:00|https://news.sky.com/story/ukrainian-officials-to-boycott-winter-paralympics-over-decision-to-allow-russians-to-compete-under-their-flag-13509072|ukrainian officials to boycott winter paralympics over russia decision|b0626d6919396d3c6689a49c6df7e3d8
+2026-02-18T13:25:57.110901+00:00|https://www.bbc.com/news/articles/c8r1k0d2nreo|driver guilty over fatal smart motorway crash|23fd2617809f39f2390648849ba45999
+2026-02-18T13:26:02.511602+00:00|https://news.sky.com/story/uefa-investigating-alleged-racist-abuse-directed-at-real-madrids-vinicius-junior-13509064|uefa investigating alleged racist abuse directed at real madrids vinicius junior|5405dfcb9f80d1a4a0ea77f08bdf5dc9
+2026-02-18T13:26:07.893083+00:00|https://www.bbc.com/news/articles/c5yrgp0pjlvo|reform uk would reimpose twochild benefit cap|5e9af012b1fead48124e7c918d660eea
+2026-02-18T13:26:13.391036+00:00|https://news.sky.com/story/big-fall-in-household-energy-bills-predicted-from-april-13508979|big fall in household energy bills predicted from april|f8830ed2c19c79f917f885fad02e33d0
+2026-02-18T13:26:18.893526+00:00|https://www.bbc.com/news/articles/crk8xd4m6v0o|palestine action activists to face retrial|abd4803a4450882b37a3e0afc1733c8e
+2026-02-18T13:26:24.267514+00:00|https://www.bbc.com/news/articles/cy57ry1vne0o|met making initial inquiries into andrew protection officers|f3949754964329dc107509f7819438bb
