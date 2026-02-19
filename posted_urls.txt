@@ -1,7 +1,3 @@
-2026-02-12T06:16:12.674796+00:00|https://www.telegraph.co.uk/news/2026/02/12/telegraph-nominated-for-20-press-awards|telegraph nominated for 20 press awards|bae5c23cac3b49a7acdd20d0bf103740
-2026-02-12T06:16:17.978255+00:00|https://www.bbc.com/news/articles/ce3enqnnpy8o|his loss is massive inquests show spread of deadly synthetic drugs|d3a5986d6e9966335bae8081070d5a7c
-2026-02-12T06:16:23.304976+00:00|https://www.bbc.com/news/articles/ckg2n644l44o|two mothers two tragedies baby deaths highlight failings at one nhs trust|4f9a0d200cd2400fe83f7f3f6016302f
-2026-02-12T06:16:28.756613+00:00|https://www.bbc.com/weather/articles/cy9gje95w5zo|snow and ice warnings issued for uk after relentless rain|a109f69b84d0f5d80df19c5fb9e60e80
 2026-02-12T07:35:40.331120+00:00|https://www.telegraph.co.uk/news/2026/02/12/ministers-crackdown-on-foreign-political-donations|ministers to announce crackdown on foreign political donations|6e645a8a38f95305b0d7803307526196
 2026-02-12T07:35:45.613174+00:00|https://www.bbc.com/news/articles/c875xxggqeno|widows frustration at pat finucane public inquiry delay|2ae22535a04c25449a5e4fbcfd3f8085
 2026-02-12T07:35:50.941722+00:00|https://www.bbc.com/news/articles/c3wzvd5l36yo|i racked up £145k of debt pharmacists struggling to stay afloat as costs soar|fe24c71accc6b1bb7d2e726af2ab38c6
@@ -511,3 +507,7 @@
 2026-02-19T04:59:23.943439+00:00|https://www.bbc.com/news/articles/cj6d87jy2w6o|lack of support to scrap aslevels public consultation finds|a1fd7918229519949fbd8b8ccf48a39f
 2026-02-19T04:59:29.251359+00:00|https://news.sky.com/story/pubs-can-stay-open-until-2am-if-home-nations-reach-world-cup-knockout-stages-13509362|pubs can stay open late for the world cup but theres a catch|09caa6fdea1743e8d2a3a028c8494568
 2026-02-19T04:59:34.551318+00:00|https://news.sky.com/story/gorton-and-denton-by-election-its-the-uks-first-crucial-vote-of-the-year-and-something-striking-seems-to-be-happening-13509296|its the pms first ballot box test of the year and something striking seems to be happening|061109ec6f10ccd55a0494d448b875db
+2026-02-19T07:17:21.766192+00:00|https://news.sky.com/story/former-south-korean-president-yoon-suk-yeol-handed-life-sentence-after-declaring-martial-law-in-2024-13509369|former south korean president handed life sentence after declaring martial law in 2024|ba2fa2512e79897c04640a9e7f5f4bf9
+2026-02-19T07:17:27.196238+00:00|https://www.bbc.com/news/articles/c75edlrp62xo|teen psychiatric patients felt belittled and bullied report|6e220c3a928637ba313c1c2b4f308429
+2026-02-19T07:17:32.755444+00:00|https://news.sky.com/story/this-was-addiction-by-design-i-call-it-murder-parents-anger-as-zuckerberg-faces-court-13509367|this was addiction by design i call it murder parents anger as zuckerberg faces court|bd5427343c4cbcf31d9569c73b2bdde9
+2026-02-19T07:17:38.358611+00:00|https://www.bbc.com/news/articles/c747nqply93o|british couple jailed by iran for 10 years family says|b0a4bd4870d042c680b8f5ca2d4446f7
