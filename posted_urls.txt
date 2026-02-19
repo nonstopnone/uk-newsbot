@@ -1,6 +1,3 @@
-2026-02-12T11:25:08.273474+00:00|https://news.sky.com/story/dozens-dead-and-thousands-displaced-in-madagascar-by-cyclone-with-167mph-winds-13506670|dozens dead and thousands displaced by 167mph cyclone|65d4bd9a52c3cacd8356937ccd5c7ec0
-2026-02-12T11:25:13.692486+00:00|https://www.bbc.com/news/articles/cn0e32y2ywxo|mum might still be alive without tui errors|f57a384821b0ec56d0fcb813584a130d
-2026-02-12T11:25:19.110987+00:00|https://news.sky.com/story/holiday-tax-could-make-holidays-unaffordable-for-many-campaigners-say-13506608|holiday tax could make holidays unaffordable for many campaigners say|ec0ecbfe8d850321d1f70e98638eaa11
 2026-02-12T12:03:05.089420+00:00|https://news.sky.com/story/an-era-defining-election-for-bangladesh-where-gen-z-toppled-an-autocrat-13506682|an eradefining election for the country where gen z toppled an autocrat|e078f0813aea2661d29b763b66c3ff1e
 2026-02-12T12:03:10.537464+00:00|https://www.telegraph.co.uk/winter-olympics/2026/02/12/winter-olympics-2026-ukrainian-skeleton-helmet-ioc|ukrainians in tears after winter olympics disqualification over skeleton helmet row|8fe8592f213754e55a2ca717edcc7afb
 2026-02-12T13:45:40.939250+00:00|https://news.sky.com/story/daily-mail-takeover-of-telegraph-faces-competition-probe-13506621|daily mail takeover of telegraph faces competition probe|0266a5f916711df573c1304ab568d49d
@@ -504,3 +501,9 @@
 2026-02-19T11:09:01.764295+00:00|https://news.sky.com/story/police-launch-manhunt-after-woman-stabbed-several-times-in-coventry-13509405|police launch manhunt after woman stabbed several times|9142e987799cdaf639071cfb34faaa11
 2026-02-19T11:09:07.086937+00:00|https://www.bbc.com/news/articles/cy03xk3jw4go|speed limit could be lowered to 20mph on dozens of roads|04775717736b996d181e2e256b2b5091
 2026-02-19T11:09:12.412962+00:00|https://www.bbc.com/news/articles/c70k55g04rzo|one dead in stabbing after skate park altercation|465915d35f59c735c0bc203978cacd44
+2026-02-19T11:56:26.798275+00:00|https://www.bbc.com/news/articles/clygw95k1llo|stormont assembly members in line for £14000 pay rise|7559ae7f4aafc86612b5d09e6750a3f1
+2026-02-19T11:56:32.520066+00:00|https://news.sky.com/story/prolific-waste-criminal-ordered-to-pay-16314m-for-illegal-dumping-at-16-sites-13509436|prolific waste criminal ordered to pay £14m for illegal dumping at 16 sites|23387d3d426c495e6d4e8ac6b4a20069
+2026-02-19T11:56:38.125821+00:00|https://www.telegraph.co.uk/recommended/leisure/fitness/best-running-headphones|the best running headphones that actually dont fall out|70c91972945d7513b660ea2502aa4ba2
+2026-02-19T11:56:43.569403+00:00|https://www.bbc.com/news/articles/ce8w2jknnk0o|chagossians trying to resettle on islands defy removal order issued by british authorities|ef15915f25f1027cfd4d0acabfab1c46
+2026-02-19T11:56:49.171969+00:00|https://www.bbc.com/news/articles/c9q5wdw0vrgo|dennis the menace featured on 50p coin to mark 75 years|d068c5b343f6858439a0be7a233213e4
+2026-02-19T11:56:54.587839+00:00|https://www.bbc.com/news/articles/cx2d041wl6po|pupils with send to have support reviewed after primary leaked plans suggest|b4a503c95b74eaba83ad0f75c7178384
