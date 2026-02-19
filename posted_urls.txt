@@ -1,11 +1,3 @@
-2026-02-12T13:45:40.939250+00:00|https://news.sky.com/story/daily-mail-takeover-of-telegraph-faces-competition-probe-13506621|daily mail takeover of telegraph faces competition probe|0266a5f916711df573c1304ab568d49d
-2026-02-12T13:45:46.369470+00:00|https://www.bbc.com/news/articles/cm21080x1k6o|killer of 12yearold leo ross named|094051a76dd9402e8fdff1584a92dc23
-2026-02-12T13:45:51.802646+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/trump-plays-catch-up-to-china-in-african-minerals-rush|mine baby mine trump races to catch up to china in new scramble for africas minerals|cdef43a4138c511a99259bfcbfca7735
-2026-02-12T13:45:57.252050+00:00|https://news.sky.com/story/blake-lively-and-justin-baldoni-appear-in-court-together-for-first-time-in-legal-showdown-13506688|blake lively and justin baldoni appear in court together for first time|48879ae90138ee915c9207d84c1594f2
-2026-02-12T13:46:02.590518+00:00|https://www.bbc.com/news/articles/cre0z3rrzxlo|strictly star robin windsor took own life after mental health deterioration|b834d63fcc84bae37fcff8321acc558e
-2026-02-12T13:46:07.954134+00:00|https://www.bbc.com/news/articles/c8r1lm5152vo|police need to investigate andrew says former victims commissioner|905f06eeaf3bf519f617ab828329851c
-2026-02-12T13:46:13.286996+00:00|https://www.bbc.com/news/articles/cy4wnwwg738o|footballer thomas partey facing two additional rape charges|87e6a91fdc26b191ad312af7b55f5dcd
-2026-02-12T13:46:18.744199+00:00|https://www.bbc.com/news/articles/ce8w968y7p1o|prince harry thanks bereaved families taking on social media firms|02b0608c79ef4e5a80c3b1a5adb49c93
 2026-02-12T14:55:50.762647+00:00|https://www.bbc.com/news/articles/cp851lrmj70o|xl bully owner jailed over dog attack death|1bbc58ac1b8c9b34ed1a102a26fd1352
 2026-02-12T14:55:56.295101+00:00|https://news.sky.com/story/donald-trump-agrees-to-end-ice-operation-in-minnesota-13506766|donald trump agrees to end ice operation in minnesota|01896b3af5b9f6a72a920ed41038e770
 2026-02-12T14:56:01.827177+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/chicken-basil-spinach-lemon-meatballs-orzo-recipe|chicken basil spinach and lemon meatballs with orzo|a6b63bdcc4fd19a7bf182bfd0a3fd17c
@@ -513,3 +505,9 @@
 2026-02-19T13:27:31.215005+00:00|https://news.sky.com/story/bill-gates-withdraws-from-indian-ai-impact-summit-13509392|bill gates withdraws from indian ai impact summit|6c4269ddaf1d133f76ed3a2c7d812f8a
 2026-02-19T13:27:36.605104+00:00|https://www.bbc.com/news/articles/crl4d14z3wro|girl 11 and man 45 die after takeaway fire|2d2721b7deae65647b90a164a46007b7
 2026-02-19T13:27:42.098191+00:00|https://www.bbc.com/news/articles/cz7g9ge2lr2o|warmer weather hits profits at british gas owner|35e090f658bd5267d1ce364ea907dec4
+2026-02-19T14:32:43.675844+00:00|https://news.sky.com/story/number-of-norovirus-patients-in-england-at-highest-level-this-winter-as-nhs-warns-of-second-surge-13509551|number of norovirus patients in england at highest level this winter|940378a53ff3c86a948f9509b64bd095
+2026-02-19T14:32:49.246348+00:00|https://www.bbc.com/news/articles/c23z02nege4o|drug dealers who killed elderly couple in fire jailed|cf6af30af40763acce8e894b43750a87
+2026-02-19T14:32:54.852911+00:00|https://www.telegraph.co.uk/recommended/home/best-clothes-steamer|the 17 best clothes steamers of 2026 tested for quickly removing creases from clothes|42f15d1b12576e495e374163ff0fde62
+2026-02-19T14:33:00.759422+00:00|https://news.sky.com/story/andrew-mountbatten-windsor-arrest-worst-possible-thing-for-the-crown-skys-royal-commentator-says-13509473|andrews arrest worst possible thing for the crown|a72d154387ec7b964f8b0a8955368bb8
+2026-02-19T14:33:06.349665+00:00|https://www.bbc.com/news/articles/cgrzgpld152o|climber survives 1500ft fall before running four miles for help|eb4203c639bcb610e9d60aad21b559ae
+2026-02-19T14:33:11.772868+00:00|https://www.bbc.com/news/articles/cgml8e1dn84o|healthy life expectancy falls across scotland|c79cc7b050e8ca4a583efd5be772097a
