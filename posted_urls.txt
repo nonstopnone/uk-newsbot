@@ -1,5 +1,3 @@
-2026-02-12T12:03:05.089420+00:00|https://news.sky.com/story/an-era-defining-election-for-bangladesh-where-gen-z-toppled-an-autocrat-13506682|an eradefining election for the country where gen z toppled an autocrat|e078f0813aea2661d29b763b66c3ff1e
-2026-02-12T12:03:10.537464+00:00|https://www.telegraph.co.uk/winter-olympics/2026/02/12/winter-olympics-2026-ukrainian-skeleton-helmet-ioc|ukrainians in tears after winter olympics disqualification over skeleton helmet row|8fe8592f213754e55a2ca717edcc7afb
 2026-02-12T13:45:40.939250+00:00|https://news.sky.com/story/daily-mail-takeover-of-telegraph-faces-competition-probe-13506621|daily mail takeover of telegraph faces competition probe|0266a5f916711df573c1304ab568d49d
 2026-02-12T13:45:46.369470+00:00|https://www.bbc.com/news/articles/cm21080x1k6o|killer of 12yearold leo ross named|094051a76dd9402e8fdff1584a92dc23
 2026-02-12T13:45:51.802646+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/trump-plays-catch-up-to-china-in-african-minerals-rush|mine baby mine trump races to catch up to china in new scramble for africas minerals|cdef43a4138c511a99259bfcbfca7735
@@ -507,3 +505,11 @@
 2026-02-19T11:56:43.569403+00:00|https://www.bbc.com/news/articles/ce8w2jknnk0o|chagossians trying to resettle on islands defy removal order issued by british authorities|ef15915f25f1027cfd4d0acabfab1c46
 2026-02-19T11:56:49.171969+00:00|https://www.bbc.com/news/articles/c9q5wdw0vrgo|dennis the menace featured on 50p coin to mark 75 years|d068c5b343f6858439a0be7a233213e4
 2026-02-19T11:56:54.587839+00:00|https://www.bbc.com/news/articles/cx2d041wl6po|pupils with send to have support reviewed after primary leaked plans suggest|b4a503c95b74eaba83ad0f75c7178384
+2026-02-19T13:27:03.833500+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/sudan-war-el-fasher-seige-genocide-united-nations|seige of sudan city bore hallmarks of genocide say unbacked investigators|d839fd7cdab08e9bf4f451c9975d3452
+2026-02-19T13:27:09.336587+00:00|https://news.sky.com/story/toxic-gas-leak-in-nigeria-kills-nearly-40-miners-and-leaves-many-more-in-hospital-13509467|toxic gas leak kills nearly 40 miners|d76e0966150e8c439e6b81f5c877ba83
+2026-02-19T13:27:14.832142+00:00|https://www.bbc.com/news/articles/cn9e1q4797wo|why has andrew mountbattenwindsor been arrested|a8f8ffc023d7f7461f37eba2c27bbe24
+2026-02-19T13:27:20.221229+00:00|https://news.sky.com/story/sudanese-rebels-capture-of-darfur-city-bears-hallmarks-of-genocide-un-officials-say-13509390|sudanese rebels 18month siege bears hallmarks of genocide un officials say|b2ec6756214edaf118124c85ca2da108
+2026-02-19T13:27:25.727026+00:00|https://www.bbc.com/news/articles/cx28yel4811o|andrew arrested on suspicion of misconduct in public office|9c39b2d033555bb4b155e74129462f29
+2026-02-19T13:27:31.215005+00:00|https://news.sky.com/story/bill-gates-withdraws-from-indian-ai-impact-summit-13509392|bill gates withdraws from indian ai impact summit|6c4269ddaf1d133f76ed3a2c7d812f8a
+2026-02-19T13:27:36.605104+00:00|https://www.bbc.com/news/articles/crl4d14z3wro|girl 11 and man 45 die after takeaway fire|2d2721b7deae65647b90a164a46007b7
+2026-02-19T13:27:42.098191+00:00|https://www.bbc.com/news/articles/cz7g9ge2lr2o|warmer weather hits profits at british gas owner|35e090f658bd5267d1ce364ea907dec4
