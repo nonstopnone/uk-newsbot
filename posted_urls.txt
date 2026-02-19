@@ -1,11 +1,3 @@
-2026-02-12T14:55:50.762647+00:00|https://www.bbc.com/news/articles/cp851lrmj70o|xl bully owner jailed over dog attack death|1bbc58ac1b8c9b34ed1a102a26fd1352
-2026-02-12T14:55:56.295101+00:00|https://news.sky.com/story/donald-trump-agrees-to-end-ice-operation-in-minnesota-13506766|donald trump agrees to end ice operation in minnesota|01896b3af5b9f6a72a920ed41038e770
-2026-02-12T14:56:01.827177+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/chicken-basil-spinach-lemon-meatballs-orzo-recipe|chicken basil spinach and lemon meatballs with orzo|a6b63bdcc4fd19a7bf182bfd0a3fd17c
-2026-02-12T14:56:07.325654+00:00|https://www.bbc.com/news/articles/c8jxykg93xro|gang rift members admit fire attack on businessmans cars|fbf98b40e489d5c6e240b8ccfd749496
-2026-02-12T14:56:12.841116+00:00|https://news.sky.com/story/epstein-survivors-accuse-pam-bondi-of-lacking-humanity-and-integrity-after-fiery-justice-committee-testimony-13506633|epstein survivors accuse bondi of lacking humanity and integrity after fiery testimony|cadb820d7cb327d2f10f84d5b85f0d55
-2026-02-12T14:56:18.226875+00:00|https://www.bbc.com/news/articles/c8xyp9xjxr4o|who is billionaire sir jim ratcliffe and how did he make his money|932e4c175cd83b5cf091f959bfec30e0
-2026-02-12T14:56:23.589481+00:00|https://www.bbc.com/news/articles/c5yjr9mp92po|mps fear data centre boom could derail milibands net zero plans|dd91c1582dcf57e6ea92aebb412ec9a2
-2026-02-12T14:56:28.988441+00:00|https://www.bbc.com/news/articles/cz6ejedj59no|porn site fined £800000 for not rolling out age checks|6ed29c1ff06093a5637f609dd809deb5
 2026-02-12T16:00:43.201581+00:00|https://www.bbc.com/news/articles/cd6zvlywz77o|ratcliffe sorry language offended some after immigration comments|5e21ad64f6e6b447cbaba3d2b534c2cc
 2026-02-12T16:00:48.639798+00:00|https://www.telegraph.co.uk/recommended/home/annie-phillips-reader-questions|sewing should be a core part of the curriculum sewing bees annie phillips answers your questions|b2255e3d7e6f56f2c3a9440646fb8d2a
 2026-02-12T16:00:54.061006+00:00|https://news.sky.com/story/kim-jong-un-set-to-name-daughter-as-next-leader-of-north-korea-spy-agency-says-13506751|kim jong un set to name daughter as next leader of north korea spy agency says|6e958c0dc589fc5bda6efa8c2ebd3d6a
@@ -511,3 +503,11 @@
 2026-02-19T14:33:00.759422+00:00|https://news.sky.com/story/andrew-mountbatten-windsor-arrest-worst-possible-thing-for-the-crown-skys-royal-commentator-says-13509473|andrews arrest worst possible thing for the crown|a72d154387ec7b964f8b0a8955368bb8
 2026-02-19T14:33:06.349665+00:00|https://www.bbc.com/news/articles/cgrzgpld152o|climber survives 1500ft fall before running four miles for help|eb4203c639bcb610e9d60aad21b559ae
 2026-02-19T14:33:11.772868+00:00|https://www.bbc.com/news/articles/cgml8e1dn84o|healthy life expectancy falls across scotland|c79cc7b050e8ca4a583efd5be772097a
+2026-02-19T15:33:22.084452+00:00|https://www.telegraph.co.uk/recommended/home/best-cordless-vacuums|the best cordless vacuum cleaners tested by experts|3614730cb16f0dbc5811d31f71f6747e
+2026-02-19T15:33:27.472321+00:00|https://www.bbc.com/news/articles/c1e98d8l2l3o|man guilty of xl bully offence after fatal attack|42069909c5dae0b8716089c09829d714
+2026-02-19T15:33:32.830109+00:00|https://news.sky.com/story/aberfeldy-murder-suspect-denies-shooting-ex-colleague-out-of-sheer-malice-as-he-rebukes-prosecutor-for-calling-him-a-liar-13509268|man denies shooting excolleague out of sheer malice as he rebukes prosecutor for calling him a liar|bf7301b7ac0c31eea814e9b503920310
+2026-02-19T15:33:38.106712+00:00|https://www.bbc.com/news/articles/czx41qqgzlko|arrest after two teens found dead at holiday park|beb6e838c54f942df23c400d691966d4
+2026-02-19T15:33:43.445783+00:00|https://news.sky.com/story/now-even-more-important-andrew-gives-evidence-to-us-congress-harman-says-13509490|now even more important andrew gives evidence to us congress harman says|77bf54b7e0470d67dc7545c23cf76a98
+2026-02-19T15:33:48.738099+00:00|https://www.bbc.com/news/articles/ce8w2j07zk6o|passengers hurt as tram derailed in bus crash|8cc39d04eec99f8862c1436bb17cf785
+2026-02-19T15:33:54.129873+00:00|https://www.bbc.com/news/articles/ceqvrdx2r7po|bgt dancer took own life after arrest coroner rules|039d32fe2a6fb771d152d29f74d1deaa
+2026-02-19T15:33:59.501716+00:00|https://www.bbc.com/news/articles/cwy8qkl7ypqo|prolific waste dumper to pay £12m compensation|fe02b9a39c24c436c06cc07823134929
