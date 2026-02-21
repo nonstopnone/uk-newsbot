@@ -1,7 +1,3 @@
-2026-02-14T10:34:48.112619+00:00|https://www.bbc.com/news/articles/cdjmgkyw7yvo|william and catherine all smiles in valentines day photograph|735c89c42530dcd467ace63ee5568042
-2026-02-14T10:34:53.497509+00:00|https://www.bbc.com/weather/articles/cvgv6ede327o|uk basks in sunshine ahead of snow and ice weather warnings|f08feca5e0038ec3af4f5dea1672a69f
-2026-02-14T10:34:58.909796+00:00|https://www.bbc.com/news/articles/czdqgezr87vo|a lot of love and a bit of luck 100 couples on the secret to a happy relationship|4896828df69cea9d775e94d7dc61599a
-2026-02-14T10:35:04.320862+00:00|https://www.bbc.com/news/articles/c0ljpxek5w2o|is dining out dying out|0a39aeb89cedd721ec15d399ee2ad736
 2026-02-14T11:01:27.952057+00:00|https://news.sky.com/story/brewdog-owners-call-time-on-craft-beer-pioneer-13507398|brewdog owners call time on craft beer pioneer|836c09ca907a5e40e4b21dd75eb6f411
 2026-02-14T11:01:33.526385+00:00|https://www.bbc.com/news/articles/ce82x17k1y4o|cuddling carrots steal hearts at food waste hub|fdb208cfa4f5b6a21dc3fe5300447201
 2026-02-14T11:38:16.751141+00:00|https://www.bbc.com/news/videos/c8758251e30o|dimbleby i strongly believe king wants andrew to testify on epstein|0ee110fab81a78dd623b2b540137c05a
@@ -499,3 +495,6 @@
 2026-02-21T09:37:44.705286+00:00|https://news.sky.com/story/bishop-of-lincoln-arrested-on-suspicion-of-sexual-assault-13510228|bishop of lincoln arrested on suspicion of sexual assault|e824420b7dafc8e373aace56823359a5
 2026-02-21T09:37:50.122049+00:00|https://www.bbc.com/news/articles/cg5n65l0nv7o|the animal rescue centre that became a mass graveyard of dogs|a402187521bb27039440405bbfedb74a
 2026-02-21T09:59:03.993228+00:00|https://www.bbc.com/news/articles/cy4wvll2y78o|cash may be rotting after uks biggest raid say police|bca5db6d3659571dc2675ba24fa2ca9f
+2026-02-21T10:39:43.633247+00:00|https://www.bbc.com/news/articles/c5y6k450247o|two men aged 19 and 20 die after going missing on yr wyddfa|1dc54bb9915c5171f53fa474d90e88b9
+2026-02-21T10:39:49.038286+00:00|https://www.bbc.com/news/articles/ce94vr487pjo|woman handed gift card receipt for £63 quadrillion|5a6c3fdbf33e50dadebfe9a0a59ad7d7
+2026-02-21T10:39:54.367239+00:00|https://www.bbc.com/news/articles/cwy6d69evxeo|when satnavs go wrong why drivers end up following gps into danger|729df04e3bdd689be7f8e73cfd73c518
