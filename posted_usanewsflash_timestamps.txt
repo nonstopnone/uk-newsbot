@@ -55,3 +55,4 @@
 2026-02-21T17:13:22.863065+00:00|https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss|Trump says he will increase global tariffs to 15%|5a771176412c68af459c83f79652cab9
 2026-02-21T18:45:46.988330+00:00|https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss|Nasa astronauts' moon mission likely to be delayed due to rocket issue|08c07256afe2ccad1e6d9ee1f472225a
 2026-02-21T18:45:52.496356+00:00|https://www.bbc.com/news/articles/c4gqegwgp7wo?at_medium=RSS&at_campaign=rss|Trump administration fires Virginia prosecutor hours after judges appointed him|ea1b3400d9ad2899a4f726b5f1ab3f5b
+2026-02-21T19:13:42.649203+00:00|https://news.sky.com/story/nasa-says-moon-mission-could-be-delayed-after-discovering-rocket-fault-13510481|Houston, NASA's next moon mission has a problem|02d60717b9fc9cb3b75013ce83ed688f
