@@ -1,5 +1,3 @@
-2026-02-14T16:50:20.386654+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/14/ireland-v-italy-live-score-and-latest-six-nations-updates|ireland still look in decline after clinging on for victory against italy|a0eba6e731753145aa6865f7878d90bc
-2026-02-14T16:50:25.828494+00:00|https://news.sky.com/story/the-science-behind-the-frog-poison-that-allegedly-killed-alexei-navalny-13507513|the science behind the frog poison that allegedly killed navalny|247f0576fc0f2c0c11a719c2fc789690
 2026-02-14T17:31:58.730071+00:00|https://news.sky.com/story/sixteen-year-old-boy-charged-with-murder-after-fatal-stabbing-of-18-year-old-13507509|sixteenyearold charged with murder after fatal stabbing of 18yearold|56c8ba971b83db7aa3c64bfcbcd46070
 2026-02-14T17:32:04.336575+00:00|https://www.bbc.com/news/articles/ce8nerv00vno|church must learn from abuse victims says new catholic archbishop|fc692cbdfb3df66836277b7006b39597
 2026-02-14T17:32:10.502962+00:00|https://www.telegraph.co.uk/football/2026/02/14/man-city-vs-salford-city-live-score-latest-fa-cup-burnley|dismal burnley knocked out of fa cup by league one mansfield|efc580106d66049e538e9fee4d1ed89d
@@ -488,3 +486,6 @@
 2026-02-21T15:59:31.542877+00:00|https://www.bbc.com/news/articles/cjd9zdl89vdo|alba party unlikely to stand in scottish parliament election|21f2072753fc04a73a8eabde26d085e6
 2026-02-21T15:59:37.088460+00:00|https://www.bbc.com/news/articles/cp32n6vxqplo|uk should send noncombat troops to ukraine now former pm johnson tells bbc|47995833ca11605d634a116dc23acf9b
 2026-02-21T16:43:05.070010+00:00|https://www.bbc.com/news/articles/cqxde59d3gwo|mps to discuss inquiry into trade envoy role after andrew arrest|9efea25dafb996a27f38958fd57eb1f5
+2026-02-21T17:12:22.227435+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/21/england-v-ireland-live-score-latest-six-nations-updates|englands six nations in tatters after humiliation by ireland at twickenham|81ca1f611beda84c3dcf166ffece5ca6
+2026-02-21T17:12:27.560379+00:00|https://www.bbc.com/news/articles/cm21y6r5r32o|arrests amid britain first march and counter protests|b9a1540384d2f1a580aab41f9a8ca42a
+2026-02-21T17:12:33.065745+00:00|https://news.sky.com/story/us-support-is-critically-important-for-ukraines-war-effort-says-kyiv-mayor-vitali-klitschko-13510284|us support is critically important for ukraine says kyiv mayor vitali klitschko|0890ce5e2f9c7daa430e885c8cb90cf1
