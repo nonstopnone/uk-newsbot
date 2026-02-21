@@ -1,4 +1,3 @@
-2026-02-14T18:43:22.286309+00:00|https://news.sky.com/story/us-strikes-dozens-of-islamic-state-targets-in-syria-in-retaliation-for-deadly-ambush-13507580|US strikes dozens of Islamic State targets in Syria in retaliation for deadly ambush|bb2b75d2ca287bb8d2d8ac554cd235b9
 2026-02-15T15:39:22.401549+00:00|https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss|'Trump will be gone in three years': Top Democrats try to reassure Europe|e78084266670d48de7de3bb1d7fb7c9c
 2026-02-15T20:34:06.174343+00:00|https://news.sky.com/story/more-than-1000-ice-agents-leave-minnesota-after-controversial-immigration-crackdown-13508011|More than 1,000 ICE agents leave Minnesota after controversial immigration crackdown|aec1d6f093400936298a8b6d069aaee8
 2026-02-15T21:41:11.225574+00:00|https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss|DNA found on glove appearing to match those in Nancy Guthrie suspect video|6ca7338c44581850dbd5916eb33a83a7
@@ -54,3 +53,5 @@
 2026-02-21T04:52:29.980783+00:00|https://www.bbc.com/news/articles/cly8r1n46yqo?at_medium=RSS&at_campaign=rss|Canada looks to trade talks after US Supreme Court tosses Trump's tariffs|1a84d2be6e073fea67b2718c8ab534fb
 2026-02-21T11:02:12.674556+00:00|https://news.sky.com/story/court-approves-law-requiring-louisiana-schools-to-display-ten-commandments-13510225|Court approves law requiring Louisiana schools to display Ten Commandments|31a552943c761421a2313c34d2a6a1a6
 2026-02-21T17:13:22.863065+00:00|https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss|Trump says he will increase global tariffs to 15%|5a771176412c68af459c83f79652cab9
+2026-02-21T18:45:46.988330+00:00|https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss|Nasa astronauts' moon mission likely to be delayed due to rocket issue|08c07256afe2ccad1e6d9ee1f472225a
+2026-02-21T18:45:52.496356+00:00|https://www.bbc.com/news/articles/c4gqegwgp7wo?at_medium=RSS&at_campaign=rss|Trump administration fires Virginia prosecutor hours after judges appointed him|ea1b3400d9ad2899a4f726b5f1ab3f5b
