@@ -1,7 +1,3 @@
-2026-02-15T15:43:04.329738+00:00|https://www.bbc.com/news/articles/cd70dypr1n5o|man dies after entering flood water in police chase|c47d36f5961136ee94befc6522bb3ffe
-2026-02-15T15:43:09.827292+00:00|https://www.telegraph.co.uk/football/2026/02/15/birmingham-city-vs-leeds-united-live-score-fa-cup-updates|leeds survive birmingham test to win penalty shootout and reach fa cup fifth round|34bfe306364d8d987529d79bd107918a
-2026-02-15T15:43:15.286975+00:00|https://news.sky.com/story/putins-kremlin-had-possession-of-frog-poison-used-to-kill-alexei-navalny-foreign-secretary-claims-13507879|kremlin had possession of frog poison used to kill navalny foreign secretary claims|ff1c6653140d44e06cb95a90a5b0a86a
-2026-02-15T15:43:20.750734+00:00|https://news.sky.com/story/thieves-raid-german-bank-just-months-after-huge-raid-in-nearby-city-13507873|thieves raid german bank just months after huge raid in nearby city|9894e6e0f4790c4247430b9cdd26b549
 2026-02-15T16:50:08.553609+00:00|https://news.sky.com/story/former-liverpool-player-jordon-ibe-to-appear-in-court-over-alleged-assault-13507918|former liverpool and bournemouth winger jordon ibe to appear in court over alleged assault|cf37c05babe6afdde10d47c7ade70b39
 2026-02-15T16:50:14.067600+00:00|https://www.bbc.com/news/articles/cn9e32yv9g5o|delivery van stuck on deadliest mudflat footpath|8a2618a8e9b1f6f5a691fa8af5f85bfc
 2026-02-15T16:50:19.452140+00:00|https://news.sky.com/story/man-dies-after-entering-floodwater-while-fleeing-police-13507913|man dies after being pulled from flooded brook following police chase|feb1df7b20d69069638bfb9f3c431032
@@ -484,3 +480,5 @@
 2026-02-22T14:33:47.341766+00:00|https://news.sky.com/story/three-dead-and-four-injured-in-crash-in-northern-ireland-13510749|three dead and four injured in crash|46106a5a84eb1843eb831ae7c71c2546
 2026-02-22T14:33:52.782197+00:00|https://www.bbc.com/news/articles/crk86lx2k4do|rail signs call after runners death at crossing|9ee351abcea51b8655898ef7f3ef896a
 2026-02-22T14:33:58.107895+00:00|https://www.bbc.com/news/articles/cz9qkjvg033o|met police officers working for andrew told to guard epsteins home emails show|5912ba6d597a51b7aab7b5dda2bd1913
+2026-02-22T15:59:37.267563+00:00|https://www.bbc.com/news/articles/cjwzny3l3ndo|river diesel spill clearing but water still not safe watchdog|8979de77161a7ce08b8a03bdf514abf3
+2026-02-22T15:59:42.728549+00:00|https://news.sky.com/story/us-ambassador-mike-huckabee-sparks-backlash-from-arab-nations-with-israel-remarks-13510686|arab nations condemn us ambassadors israel remarks|58560b2694703ca030c336a6d0c35a0e
