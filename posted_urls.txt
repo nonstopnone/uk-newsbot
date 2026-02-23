@@ -1,6 +1,3 @@
-2026-02-16T17:57:08.892537+00:00|https://news.sky.com/story/man-charged-with-terrorism-offences-over-taylor-swift-concert-attack-plot-13508272|man charged over taylor swift concert terror attack plot|68083b63e369abd85d102155a6565a97
-2026-02-16T17:57:14.315696+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/uk-cuts-aid-further-than-any-g7-country-including-the-us|uk cuts aid further than any g7 country including the us|818c3fdd1286327a469a07536f901424
-2026-02-16T18:58:15.890225+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/government-vaccination-campaign-london-measles-outbreak|government launches vaccination campaign in wake of london measles outbreak|ec59cff72e6383689206e2df6cc00327
 2026-02-16T19:38:59.174996+00:00|https://www.bbc.com/news/articles/cjrqy41r32wo|disability and lgbt hate crimes set to become aggravated offences|97909ef85d3e8deb12991c8f698cfd5b
 2026-02-16T20:01:06.286340+00:00|https://www.bbc.com/news/articles/cd9g28yzy0no|six of sarah fergusons companies winding down|42ded3dcf6e7bfb9252c97e8fa243fce
 2026-02-16T20:01:11.888850+00:00|https://news.sky.com/story/uk-gang-jailed-after-cocaine-found-hidden-in-books-destined-for-australia-13508309|gang jailed after cocaine found hidden in books|968ff6479539c8b711e6ba1fe32f3bbd
@@ -472,3 +469,8 @@
 2026-02-23T17:48:34.739767+00:00|https://www.telegraph.co.uk/recommended/sleep/best-mattress-back-pain|these are the best mattresses for back pain recommended by an osteopath|6c06d6d2adb3bf996b5a01297d36d94e
 2026-02-23T17:48:40.229659+00:00|https://news.sky.com/story/police-investigating-abhorrent-online-racist-abuse-of-top-flight-footballers-13511186|police investigating abhorrent online racist abuse of top flight footballers|9a31e40768faa57a3901f6840c3e6f68
 2026-02-23T17:48:45.579827+00:00|https://www.bbc.com/news/articles/clyg72g9w2go|woman cowered before man accused of killing her trial hears|a733ca057532d94ef864c4c7cf83e46b
+2026-02-23T19:15:42.825718+00:00|https://www.bbc.com/news/articles/cn712rmvdnzo|motorcyclist fled scene for own safety after hitting boy court told|4676c108fb9db0e488393d8456e76169
+2026-02-23T19:15:48.425399+00:00|https://news.sky.com/story/queen-meets-gisele-pelicot-and-praises-rape-survivors-extraordinary-dignity-13511258|queen meets gisele pelicot and praises rape survivors extraordinary dignity|8fdead40c17929cb6b7f42d0c2fde93f
+2026-02-23T19:15:54.014843+00:00|https://www.bbc.com/news/articles/c309zp49zdno|special educational needs system to be overhauled in england|e1e48009c91d7fb5b2d111b06b19c9e4
+2026-02-23T19:15:59.581722+00:00|https://news.sky.com/story/shake-up-of-support-for-children-with-special-needs-and-disabilities-unveiled-13511201|shakeup of support for children with special needs and disabilities unveiled|ead1ee604062cecf189a27bd6ae70818
+2026-02-23T19:16:04.991912+00:00|https://www.bbc.com/news/articles/cwyke5n1z4po|the key changes being made to special educational needs at a glance|c93759439e430a02a4fbcce1f0ef5ece
