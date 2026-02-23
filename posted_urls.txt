@@ -1,4 +1,3 @@
-2026-02-16T05:16:36.314822+00:00|https://news.sky.com/story/bondi-beach-terror-attack-suspect-appears-in-court-via-video-link-13508063|bondi beach terror attack suspect appears in court via video link|3b007704ed896c2ff2697cb2933c146a
 2026-02-16T06:41:53.163671+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/botswana-health-crisis-as-diamond-trade-drains-finances|botswana health crisis deepens as diamond trade drains the countrys finances|b1590fd5177caa9f06cb25fb6c405b7c
 2026-02-16T06:41:58.594129+00:00|https://www.bbc.com/news/articles/c39wlryn20vo|royal mail letters sit undelivered for weeks as parcels prioritised staff say|4ec26f9e5e6e0183340f126407b9b5bc
 2026-02-16T06:42:04.031929+00:00|https://www.bbc.com/news/articles/cvg36pknpl5o|police framed man for murder new evidence suggests|0f0cd3286b7e50486f54ce066bbf87fb
@@ -479,3 +478,4 @@
 2026-02-23T05:15:05.325542+00:00|https://news.sky.com/story/tributes-paid-to-two-young-best-friends-found-dead-in-eryri-mountain-range-13510987|tributes paid to two young best friends found dead in eryri mountain range|62f18d430c9f54cd6ca9af23e349b670
 2026-02-23T05:15:10.818776+00:00|https://news.sky.com/story/the-kalashnikov-is-the-most-effective-tool-fighting-the-enemy-in-the-sky-with-ukraines-drone-hunter-unit-13510976|the kalashnikov is the most effective tool fighting the enemy in the sky with ukraines drone hunter unit|d84aa00b097bd4d44b449aa5ab6b729c
 2026-02-23T05:15:17.012989+00:00|https://news.sky.com/story/how-have-four-years-of-war-changed-volodymyr-zelenskyy-and-vladimir-putin-13509979|how have four years of war in ukraine changed its two central figures|7f81bb13b44561bfbd9725d58f9f3a05
+2026-02-23T06:17:33.034630+00:00|https://www.bbc.com/news/articles/c043eq7q9kvo|violence against teachers still widespread and harmful|a1017bd3d4db45ba1e0546add3da11be
