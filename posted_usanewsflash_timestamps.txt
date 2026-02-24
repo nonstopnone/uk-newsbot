@@ -1,4 +1,3 @@
-2026-02-17T10:32:14.636440+00:00|https://www.bbc.com/news/articles/cx77214zz9eo?at_medium=RSS&at_campaign=rss|Jesse Jackson: Veteran civil rights leader who helped reshape America|83f8a29fdecff8a938aae28fc2ad3a38
 2026-02-17T14:29:14.858815+00:00|https://news.sky.com/story/jesse-jackson-obituary-the-civil-rights-activist-who-sowed-the-seeds-of-possibility-13508556|Jesse Jackson obituary: The civil rights activist who sowed the seeds of possibility|f315d1d9f2181da28864371c43e07354
 2026-02-17T17:34:06.563879+00:00|https://www.bbc.com/news/articles/c75e7wqqq6no?at_medium=RSS&at_campaign=rss|Police identify suspect in Rhode Island ice rink shooting|f87f14407139d31c0bff6b2e2fc32b38
 2026-02-17T17:34:12.438157+00:00|https://news.sky.com/story/actor-shia-labeouf-arrested-after-allegedly-assaulting-two-men-police-say-13508626|Actor Shia LaBeouf arrested after allegedly assaulting two men|40f12a34aa03136f148b7df8c67cdac6
@@ -60,3 +59,5 @@
 2026-02-23T18:42:31.505686+00:00|https://www.bbc.com/news/articles/cly3vm7ddjmo?at_medium=RSS&at_campaign=rss|Nick Reiner pleads not guilty in the killing of parents Rob and Michele|8f09257e14e59bbe99d07c360fa29f70
 2026-02-23T22:51:49.700399+00:00|https://www.bbc.com/news/videos/c77e6824pgxo?at_medium=RSS&at_campaign=rss|Watch: What to watch for during Trump's State of the Union address|f8750c0da6a35b18aa0cbdce644d5c71
 2026-02-24T01:14:04.382336+00:00|https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&at_campaign=rss|FedEx sues for Trump tariff refund|44d5e01151b7158681a93fc8ccb88a0c
+2026-02-24T11:05:39.205480+00:00|https://www.bbc.com/news/articles/cp859d8rn78o?at_medium=RSS&at_campaign=rss|Trump to address a changed America at vital moment for his presidency|c5d2896de07842b476782a701ac1a5c9
+2026-02-24T11:05:44.992381+00:00|https://www.bbc.com/news/articles/c3v79dz99eko?at_medium=RSS&at_campaign=rss|What to know about Trump's State of the Union address|958a22f66056010c909bd56f994c4148
