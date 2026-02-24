@@ -1,5 +1,3 @@
-2026-02-17T05:06:02.485341+00:00|https://www.bbc.com/news/articles/c043z5rzwg7o|councils face uphill struggle to be ready for local elections|ed9b08656582cd101389643dfb85568c
-2026-02-17T05:06:07.893791+00:00|https://news.sky.com/story/british-skiers-killed-in-alps-avalanche-named-13508408|british skiers killed in alps avalanche named|41f702f9db7fb0caa91fc83bdecbb840
 2026-02-17T06:12:04.257099+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/fiji-methamphetamine-crisis-hiv-epidemic|the island paradise with the worlds fastest growing hiv epidemic|96c498b70e6c83047e143e6b75288722
 2026-02-17T06:12:09.612503+00:00|https://news.sky.com/story/six-of-sarah-fergusons-companies-to-close-in-wake-of-latest-epstein-files-13508407|six of sarah fergusons companies to close|8225aceee6c8b0de95f863fffcdf3e07
 2026-02-17T07:17:43.050053+00:00|https://www.bbc.com/news/articles/cm2xy9x27mvo|royal mail allegedly choosing not to deliver letters mp claims|bdc2b49e1c8714b95c7209542cdd4e83
@@ -475,3 +473,9 @@
 2026-02-24T04:58:15.647422+00:00|https://news.sky.com/story/police-still-using-ai-tool-despite-inaccurate-evidence-in-israeli-football-fan-ban-13511330|police still using ai tool that invented fake football match|e4df5014c2c9deeb200579eeb023f25d
 2026-02-24T04:58:21.118815+00:00|https://news.sky.com/story/its-a-disaster-in-the-making-empathy-but-mostly-concern-in-town-set-to-house-hundreds-of-asylum-seekers-13511276|warning of disaster in the making in town set to house hundreds of asylum seekers|887c58633d6e4c930278e17a2f205418
 2026-02-24T04:58:26.742188+00:00|https://news.sky.com/story/putin-believes-he-can-still-win-the-war-and-ukrainians-think-hes-seduced-trump-with-fantasy-deals-13511241|putin appears delusional but trump has left ukraine baffled|bbde0a3d24d64a6b911883a66ea5f494
+2026-02-24T06:07:13.648505+00:00|https://www.bbc.com/news/articles/czj1m7d4gxpo|number of zerohours contracts hits record high ahead of crackdown|248067be3a821a096788b02cb7112c26
+2026-02-24T06:07:19.062204+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/british-antarctic-team-dig-for-ancient-pathogens|british antarctic team dig deep for ancient pathogens in penguin poo|c65273a2ece23664ebb87735472f3b14
+2026-02-24T06:07:24.522465+00:00|https://news.sky.com/story/suddenly-theres-a-loud-bang-airstrikes-blackouts-and-frustration-in-russias-frontline-city-13511167|quick get out the sleeper drone laden with explosives that lay in wait and hit our car|dd3d9c3f153f27cefa1b8033426ae8b5
+2026-02-24T06:07:29.838190+00:00|https://www.bbc.com/news/articles/cwy6746rydro|victims devastated by train cctv failures that allow sex offenders to go untraced|a5c91d07fed0aca55579fd7dab427389
+2026-02-24T06:07:35.229818+00:00|https://www.bbc.com/news/videos/cx2d7rgj8l9o|watch lord mandelson arrives at home after being released on bail|55e086ea0644806460f5ed519e724426
+2026-02-24T06:07:40.541229+00:00|https://www.bbc.com/news/articles/cqxdg01w4rno|lib dems in bid to release files on andrew trade role|66754decf7d5e64a79781c50914f227c
