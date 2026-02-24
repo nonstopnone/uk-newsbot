@@ -1,9 +1,3 @@
-2026-02-17T03:15:11.880682+00:00|https://news.sky.com/story/farage-claims-victory-as-councils-face-race-against-time-to-reinstate-plans-after-elections-u-turn-13508404|farage claims victory as councils face race against time after elections uturn|54a7a868094e29e118d699010eed998d
-2026-02-17T03:15:17.199925+00:00|https://www.bbc.com/news/articles/cvg59579q16o|bailiffs used to pursue nhs staff over pay errors|425d66202afeafc414926a9262729841
-2026-02-17T03:15:22.667747+00:00|https://news.sky.com/story/uk-at-risk-of-more-flooding-for-months-to-come-after-record-breaking-january-13508402|uk at risk of more flooding for months to come|3bb234dcc04a63367bcb74bf96fc90b7
-2026-02-17T03:15:27.972008+00:00|https://www.bbc.com/news/articles/cev7xe8w3veo|the papers farage forces elections uturn and tributes to godfather star|34948e511432bae30da6972d8fccc8d0
-2026-02-17T03:15:33.402413+00:00|https://news.sky.com/story/hundreds-arrested-for-phone-theft-in-london-as-met-chief-calls-on-courts-to-stop-releasing-offenders-13508291|hundreds arrested for stealing phones in london|41485a2dace50d08525d4e1cad31c3ab
-2026-02-17T03:15:38.707429+00:00|https://www.bbc.com/news/articles/c20znn792g1o|my friend told me we would be killed if we didnt pay protection money|190199f9e326b5ad3c91d07e661f072a
 2026-02-17T05:06:02.485341+00:00|https://www.bbc.com/news/articles/c043z5rzwg7o|councils face uphill struggle to be ready for local elections|ed9b08656582cd101389643dfb85568c
 2026-02-17T05:06:07.893791+00:00|https://news.sky.com/story/british-skiers-killed-in-alps-avalanche-named-13508408|british skiers killed in alps avalanche named|41f702f9db7fb0caa91fc83bdecbb840
 2026-02-17T06:12:04.257099+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/fiji-methamphetamine-crisis-hiv-epidemic|the island paradise with the worlds fastest growing hiv epidemic|96c498b70e6c83047e143e6b75288722
@@ -478,3 +472,6 @@
 2026-02-24T02:47:09.197129+00:00|https://news.sky.com/story/childrens-home-manager-abused-vulnerable-boys-and-girls-in-18-year-regime-of-fear-13511277|childrens home manager abused vulnerable boys and girls in 18 year regime of fear|226c5c139cd0d20729374c4692a56021
 2026-02-24T02:47:14.619054+00:00|https://www.bbc.com/news/articles/ce3gqr7p0lqo|chocolate kept in antitheft boxes as retailers warn its being stolen to order|90e75d1e3ffdabbe86778cc63ee765be
 2026-02-24T02:47:20.072612+00:00|https://www.bbc.com/news/articles/ckg12030ye3o|a conman stole my money and bought his wife a 10carat diamond ring|7f411999fa7bd333dcc29b2d65e2e71e
+2026-02-24T04:58:15.647422+00:00|https://news.sky.com/story/police-still-using-ai-tool-despite-inaccurate-evidence-in-israeli-football-fan-ban-13511330|police still using ai tool that invented fake football match|e4df5014c2c9deeb200579eeb023f25d
+2026-02-24T04:58:21.118815+00:00|https://news.sky.com/story/its-a-disaster-in-the-making-empathy-but-mostly-concern-in-town-set-to-house-hundreds-of-asylum-seekers-13511276|warning of disaster in the making in town set to house hundreds of asylum seekers|887c58633d6e4c930278e17a2f205418
+2026-02-24T04:58:26.742188+00:00|https://news.sky.com/story/putin-believes-he-can-still-win-the-war-and-ukrainians-think-hes-seduced-trump-with-fantasy-deals-13511241|putin appears delusional but trump has left ukraine baffled|bbde0a3d24d64a6b911883a66ea5f494
