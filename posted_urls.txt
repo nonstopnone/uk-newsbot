@@ -1,6 +1,3 @@
-2026-02-17T11:08:52.458802+00:00|https://www.bbc.com/news/articles/cdx4762znr6o|met using ebikes and drones to catch phone thieves|25895f88b6f3c904bc43734a431bf1ce
-2026-02-17T11:08:58.117486+00:00|https://news.sky.com/story/uks-eurovision-entry-is-youtuber-and-electronic-artist-look-mum-no-computer-13508454|uks eurovision 2026 entry revealed|1324c2fcc505826e034d5b0c6bf76018
-2026-02-17T11:09:03.555390+00:00|https://www.bbc.com/news/articles/clygz17y5kdo|electronic artist and youtuber look mum no computer to represent uk at eurovision|f239936255fc1eed242f5f6adfe2eba2
 2026-02-17T11:09:09.133235+00:00|https://news.sky.com/story/trump-warns-iran-of-consequences-of-failing-to-reach-nuclear-deal-13508423|trump warns iran of consequences of failing to reach nuclear deal|4ac2341312ae82518d40ce3f2ba318b8
 2026-02-17T11:09:14.575938+00:00|https://www.bbc.com/news/articles/cx24n5174r2o|bizarre 24metre shipwreck spotted off welsh coast|c82eed1be81be86b799b734e6b274460
 2026-02-17T11:09:20.194751+00:00|https://news.sky.com/story/cold-health-alert-issued-with-snow-forecast-for-parts-of-uk-13507941|cold health alert issued with snow forecast for parts of uk|3bacc8014bad2f9695ee92252c78d7e2
@@ -473,3 +470,6 @@
 2026-02-24T09:08:34.017455+00:00|https://www.bbc.com/news/articles/cvg899dkrgno|i reported rape in hong kong now i could face prison|8d891f00502396e68126bc60bcd4dac6
 2026-02-24T09:08:39.617673+00:00|https://www.bbc.com/news/articles/cm2rvln34m0o|pair found dead on mountain had hearts of gold|9772c84fd41c1746ae91d4bb3ca6cf59
 2026-02-24T10:10:39.874696+00:00|https://news.sky.com/story/gp-practices-to-be-offered-1633000-bonus-for-prescribing-weight-loss-jabs-13511392|gp practices to be offered £3000 bonus for prescribing weight loss jabs|9e881ca530b8a445fe98b864e3cb5c72
+2026-02-24T11:09:10.843938+00:00|https://www.bbc.com/news/articles/c8jxpww8mp7o|russell brand pleads not guilty to rape and sexual assault charges|cc310acacb2cac9b54789592db3881ec
+2026-02-24T11:09:16.223192+00:00|https://www.telegraph.co.uk/financial-services/currency-exchange/international-money-transfers/moving-abroad-from-uk|moving abroad from the uk 10 things to get right|16f295c1c330569777c84ddad7f76326
+2026-02-24T11:09:21.524334+00:00|https://www.bbc.com/news/articles/cn712kvkreeo|labour mp dawn butler asks bbc for explanation over racial slur during baftas broadcast|a52888232dad248786ea69573b0f2180
