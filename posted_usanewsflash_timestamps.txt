@@ -1,5 +1,3 @@
-2026-02-17T17:34:06.563879+00:00|https://www.bbc.com/news/articles/c75e7wqqq6no?at_medium=RSS&at_campaign=rss|Police identify suspect in Rhode Island ice rink shooting|f87f14407139d31c0bff6b2e2fc32b38
-2026-02-17T17:34:12.438157+00:00|https://news.sky.com/story/actor-shia-labeouf-arrested-after-allegedly-assaulting-two-men-police-say-13508626|Actor Shia LaBeouf arrested after allegedly assaulting two men|40f12a34aa03136f148b7df8c67cdac6
 2026-02-17T18:30:54.263539+00:00|https://www.bbc.com/news/articles/cn5g2g56qggo?at_medium=RSS&at_campaign=rss|Eleven killed in multiple strikes on alleged drug boats, US military says|2756c7fa788a79edcc637cb67a4c2d1c
 2026-02-17T18:30:59.979369+00:00|https://www.bbc.com/news/articles/cn0zjz58nzqo?at_medium=RSS&at_campaign=rss|Jesse Jackson: A life in pictures|a1935fd6755c7801f09e5eb59219afbf
 2026-02-17T20:44:27.905850+00:00|https://www.bbc.com/news/videos/c39wv242jvxo?at_medium=RSS&at_campaign=rss|Hockey players recount Rhode Island ice rink shooting|f82fb68ba44a54ce4ad95ba293f84be0
@@ -61,3 +59,6 @@
 2026-02-24T11:05:39.205480+00:00|https://www.bbc.com/news/articles/cp859d8rn78o?at_medium=RSS&at_campaign=rss|Trump to address a changed America at vital moment for his presidency|c5d2896de07842b476782a701ac1a5c9
 2026-02-24T11:05:44.992381+00:00|https://www.bbc.com/news/articles/c3v79dz99eko?at_medium=RSS&at_campaign=rss|What to know about Trump's State of the Union address|958a22f66056010c909bd56f994c4148
 2026-02-24T11:53:49.924641+00:00|https://news.sky.com/story/frances-row-with-us-ambassador-charles-kushner-heats-up-after-meeting-no-show-13511425|France's row with US ambassador heats up after meeting no-show|69640ac4cee96f450df73276753b24ba
+2026-02-24T17:45:41.404799+00:00|https://news.sky.com/story/man-who-killed-shop-owner-to-become-second-person-executed-in-florida-this-year-13511555|Man convicted of first-degree murder to be second person executed in Florida this year|0e0f06bcf0590eefa7411e3dd0f0f767
+2026-02-24T17:45:46.938490+00:00|https://www.bbc.com/news/articles/cy4wd11j0evo?at_medium=RSS&at_campaign=rss|Nancy Guthrie's family offers $1m reward to bring home missing mother|eb488b22073d9eb21add6e74b971003f
+2026-02-24T17:45:52.458144+00:00|https://www.bbc.com/news/articles/c5yjpx2lgdjo?at_medium=RSS&at_campaign=rss|Two dead after winter storm hammers the US northeast|ce2df0141bc197808cb58e1534387b00
