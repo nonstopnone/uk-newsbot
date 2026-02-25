@@ -1,16 +1,3 @@
-2026-02-18T13:25:46.220452+00:00|https://www.bbc.com/news/articles/clyxqv99yw5o|heartbreaking to consider what noah experienced witness tells inquest|b756d49eb3a8d272214fd2037e0b9f75
-2026-02-18T13:25:51.736183+00:00|https://news.sky.com/story/ukrainian-officials-to-boycott-winter-paralympics-over-decision-to-allow-russians-to-compete-under-their-flag-13509072|ukrainian officials to boycott winter paralympics over russia decision|b0626d6919396d3c6689a49c6df7e3d8
-2026-02-18T13:25:57.110901+00:00|https://www.bbc.com/news/articles/c8r1k0d2nreo|driver guilty over fatal smart motorway crash|23fd2617809f39f2390648849ba45999
-2026-02-18T13:26:02.511602+00:00|https://news.sky.com/story/uefa-investigating-alleged-racist-abuse-directed-at-real-madrids-vinicius-junior-13509064|uefa investigating alleged racist abuse directed at real madrids vinicius junior|5405dfcb9f80d1a4a0ea77f08bdf5dc9
-2026-02-18T13:26:07.893083+00:00|https://www.bbc.com/news/articles/c5yrgp0pjlvo|reform uk would reimpose twochild benefit cap|5e9af012b1fead48124e7c918d660eea
-2026-02-18T13:26:13.391036+00:00|https://news.sky.com/story/big-fall-in-household-energy-bills-predicted-from-april-13508979|big fall in household energy bills predicted from april|f8830ed2c19c79f917f885fad02e33d0
-2026-02-18T13:26:18.893526+00:00|https://www.bbc.com/news/articles/crk8xd4m6v0o|palestine action activists to face retrial|abd4803a4450882b37a3e0afc1733c8e
-2026-02-18T13:26:24.267514+00:00|https://www.bbc.com/news/articles/cy57ry1vne0o|met making initial inquiries into andrew protection officers|f3949754964329dc107509f7819438bb
-2026-02-18T14:29:35.813765+00:00|https://news.sky.com/story/twelve-people-die-in-fireworks-explosion-at-lunar-new-year-celebrations-in-eastern-china-13509070|twelve people die in fireworks explosion at new year celebrations|b9b9e779ee861cef660585911cc88cc8
-2026-02-18T14:29:41.372356+00:00|https://www.bbc.com/news/articles/cdxgnzpzygpo|islanders lose legal challenge over new school location|ef2505c9bbaad548884b71c91bb1331f
-2026-02-18T14:29:46.877401+00:00|https://news.sky.com/story/six-people-taken-to-hospital-after-two-double-decker-buses-crash-13509053|six taken to hospital after two doubledecker buses crash|cacdc1020dfe72ba622908ef8e110084
-2026-02-18T14:29:52.318483+00:00|https://www.bbc.com/news/articles/c4g82znj294o|man who threw corrosive liquid on guest at spiritual retreat and fled country is jailed|5eac32ec2da172c9d3800745848974fd
-2026-02-18T14:29:57.707152+00:00|https://www.bbc.com/news/articles/cpw0zrn919po|otter cubs rescued after sheltering in car engine|57d4c104c9fe65e930f4ab04d68e024e
 2026-02-18T15:30:57.141178+00:00|https://www.bbc.com/news/articles/clygw74z9dzo|children injured by nhs can claim damages for lifetime of lost earnings court rules|4a03d971ae04d7b371b0a1d83f8edb72
 2026-02-18T15:31:02.573623+00:00|https://news.sky.com/story/van-driver-found-guilty-over-fatal-crash-on-m4-smart-motorway-in-berkshire-13509110|van driver found guilty over fatal crash on smart motorway|a17ecb0586d6d8352d94928ed28bff73
 2026-02-18T15:31:08.204284+00:00|https://www.telegraph.co.uk/recommended/home/cleaning/best-dishwasher-tablets-telegraph-readers|anything more expensive youre a snob your views on the dishwasher tablets that actually work|f53be42b7d928740b5c20a326b4b5805
@@ -473,3 +460,10 @@
 2026-02-25T13:22:54.689441+00:00|https://www.bbc.com/news/articles/cm2x1nxv5epo|life sentence for man who shook girlfriends fivemonthold baby to death|be3ce7938df5a7ffe076655196be543c
 2026-02-25T13:23:00.112305+00:00|https://www.bbc.com/news/articles/cx2lpwg366do|man jailed for minimum of 25 years for murder of nineyearold girl in the street|dcc0da6bf3a251769a1092c075935896
 2026-02-25T13:23:05.542630+00:00|https://www.bbc.com/news/articles/cx2lpwg366do|man jailed for murdering girl playing with hula hoop|8aca20e6e0e6b60c822c637b2e272245
+2026-02-25T14:33:08.564871+00:00|https://www.telegraph.co.uk/recommended/tech/phones-accessories/motorola-signature-review|this motorola phone is cheaper and better looking than the iphone air but it has its drawbacks|042cb5d5e47149f84c482eafff958577
+2026-02-25T14:33:13.967601+00:00|https://www.bbc.com/news/articles/c1789qxgwywo|scottish government to order fresh inquiry into grooming gangs|7d3d6fc8405a15ec0bd79806c7fe7794
+2026-02-25T14:33:19.524456+00:00|https://news.sky.com/story/switzerland-to-make-one-off-payment-to-bar-fire-victims-13512004|switzerland bar fire victims to receive oneoff payment|6a6ed99e1b3b4e640d2c731035129379
+2026-02-25T14:33:24.952333+00:00|https://www.bbc.com/news/articles/cx2drw12z51o|not even potholes will hold up selfdriving cars uk firm predicts|660cac05755f0cc9871fbff84f802455
+2026-02-25T14:33:30.379354+00:00|https://news.sky.com/story/ex-techno-dj-jailed-for-selling-1637m-worth-of-fake-plane-parts-to-airlines-13511945|planes grounded after extechno dj sold fake plane parts to airlines|993768607a87df3dc1d5e9800cf89e56
+2026-02-25T14:33:36.088511+00:00|https://www.bbc.com/news/articles/cn0erx6x228o|scotland fans secure fifa approval to wear sporrans at world cup|c240ba680f035b90db298ad289b956e1
+2026-02-25T14:33:41.724601+00:00|https://news.sky.com/story/energy-price-cap-to-fall-in-april-but-threat-of-war-hangs-over-outlook-13511831|energy price cap to fall in april but threat of war hangs over outlook|e519c986fe9e4e4caa89f110938e22fb
