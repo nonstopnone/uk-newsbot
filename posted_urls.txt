@@ -464,3 +464,9 @@
 2026-02-25T11:12:05.854600+00:00|https://www.bbc.com/news/articles/c8xy52wndx1o|exceptionally rare roman lead blocks found on farmland|8665f271eb7b8730d2e0962c6e049a21
 2026-02-25T11:12:11.161662+00:00|https://www.bbc.com/news/articles/cwy895lz221o|man arrested after axe carried into mosque|f3c0401c06b59ef3c11381686e6b4f0f
 2026-02-25T11:12:16.579675+00:00|https://www.bbc.com/news/articles/czr0m6kkxvmo|it runs in the family weve almost 300 years in the fire service between us|9a929ef78c2599c3aa0b32541b28972a
+2026-02-25T11:55:18.102769+00:00|https://www.bbc.com/news/articles/cy8g528lxv9o|tvs doctor foster to return for third and final series|a28a8d20ede39954178b37060aa953b6
+2026-02-25T11:55:23.557467+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/south-africa-devastating-foot-and-mouth|south africa caught sleeping by devastating foot and mouth outbreak|0948d2285fd85300ca6c806c2b715b4c
+2026-02-25T11:55:28.899849+00:00|https://news.sky.com/story/starmer-concerned-after-serious-incident-at-manchester-mosque-13511949|starmer concerned after serious incident at mosque|816e0d46f598b6c13338a9bef60ad6fb
+2026-02-25T11:55:34.237748+00:00|https://www.bbc.com/news/articles/cg4g2ldegdwo|tourettes campaigner says bbc should have worked harder to stop slur being aired|704451a112933d6d9d4b265d183fa9e4
+2026-02-25T11:55:39.561800+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/battle-lines-drugs-hiv-and-gangs-fiji-triple-epidemic|drugs hiv and gangs the pacific island paradise hit by a triple epidemic|608a2f99000ebb835bbff7380ebbbe43
+2026-02-25T11:55:44.980501+00:00|https://news.sky.com/story/king-of-norway-taken-to-tenerife-hospital-after-falling-ill-during-holiday-13511906|king of norway taken to hospital after falling ill on holiday|7000ca8977025fcb6c57cc6d15143a20
