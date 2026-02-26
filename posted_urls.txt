@@ -1,11 +1,3 @@
-2026-02-19T15:33:22.084452+00:00|https://www.telegraph.co.uk/recommended/home/best-cordless-vacuums|the best cordless vacuum cleaners tested by experts|3614730cb16f0dbc5811d31f71f6747e
-2026-02-19T15:33:27.472321+00:00|https://www.bbc.com/news/articles/c1e98d8l2l3o|man guilty of xl bully offence after fatal attack|42069909c5dae0b8716089c09829d714
-2026-02-19T15:33:32.830109+00:00|https://news.sky.com/story/aberfeldy-murder-suspect-denies-shooting-ex-colleague-out-of-sheer-malice-as-he-rebukes-prosecutor-for-calling-him-a-liar-13509268|man denies shooting excolleague out of sheer malice as he rebukes prosecutor for calling him a liar|bf7301b7ac0c31eea814e9b503920310
-2026-02-19T15:33:38.106712+00:00|https://www.bbc.com/news/articles/czx41qqgzlko|arrest after two teens found dead at holiday park|beb6e838c54f942df23c400d691966d4
-2026-02-19T15:33:43.445783+00:00|https://news.sky.com/story/now-even-more-important-andrew-gives-evidence-to-us-congress-harman-says-13509490|now even more important andrew gives evidence to us congress harman says|77bf54b7e0470d67dc7545c23cf76a98
-2026-02-19T15:33:48.738099+00:00|https://www.bbc.com/news/articles/ce8w2j07zk6o|passengers hurt as tram derailed in bus crash|8cc39d04eec99f8862c1436bb17cf785
-2026-02-19T15:33:54.129873+00:00|https://www.bbc.com/news/articles/ceqvrdx2r7po|bgt dancer took own life after arrest coroner rules|039d32fe2a6fb771d152d29f74d1deaa
-2026-02-19T15:33:59.501716+00:00|https://www.bbc.com/news/articles/cwy8qkl7ypqo|prolific waste dumper to pay £12m compensation|fe02b9a39c24c436c06cc07823134929
 2026-02-19T16:35:05.260221+00:00|https://www.bbc.com/news/articles/c86y3z61635o|jailed funeral bosses betrayed trust of bereaved|eb728d925bcfd1c1ddfd13697573321a
 2026-02-19T16:35:10.755413+00:00|https://news.sky.com/story/peter-mandelson-founded-lobbying-firm-global-counsel-on-brink-of-closure-13509596|lobbying firm founded by mandelson on brink of closure|2dafb3e9a07259abce5e0d67f3df5067
 2026-02-19T16:35:16.118948+00:00|https://www.bbc.com/news/articles/c875p22jypxo|womans body found in freezer as man arrested|84f5a9e28124a847c5614ff13f341223
@@ -453,3 +445,11 @@
 2026-02-26T14:37:18.203674+00:00|https://www.bbc.com/news/articles/c1mjx1grj3yo|soham murderer ian huntley seriously injured in prison attack|fd805d963c1564e971d59fc5259878b0
 2026-02-26T14:37:23.627082+00:00|https://www.bbc.com/news/articles/cvg3qe2yk3wo|nine local authorities to set council tax rises above rate of inflation|98fa660a1c5069b809c776161aa5780a
 2026-02-26T14:37:29.043847+00:00|https://www.bbc.com/news/articles/cx2j3q9488zo|fortyday moor fire caused by cooking in forest|202c03c1e86f3954a6d788ab5efa746b
+2026-02-26T15:38:36.647799+00:00|https://www.bbc.com/news/articles/clyg1rx15qqo|woman fell from window trying to flee triple killer|8ff16d54fac649dd1fd47737298ecafb
+2026-02-26T15:38:42.237500+00:00|https://news.sky.com/story/schengen-rules-will-apply-at-gibraltar-border-under-finalised-post-brexit-deal-13512475|schengen rules will apply at gibraltar border under finalised postbrexit deal|b115860d56e51f81a3dbfa35aeb138ab
+2026-02-26T15:38:47.802738+00:00|https://www.bbc.com/news/articles/c626q15ymyjo|british men jailed for smuggling cocaine into bali|15c3169f098869d0cad422aaa02b8679
+2026-02-26T15:38:53.309745+00:00|https://news.sky.com/story/soham-murderer-ian-huntley-seriously-injured-in-prison-assault-13512440|soham murderer ian huntley seriously injured in prison assault|4c813a4e3a2f86d8cfade263219b7382
+2026-02-26T15:38:58.747073+00:00|https://www.bbc.com/news/articles/c5y68z4kjz0o|step backwards looms for welsh rugby warns wru chair|e2a2b1e53a5b1fb4d2e02d17d9fe5fb0
+2026-02-26T15:39:04.343091+00:00|https://www.bbc.com/news/articles/c7479yjl594o|community numb over deaths of two young friends|0760b7d31cd1b3f648c2901e52451709
+2026-02-26T15:39:09.756197+00:00|https://www.bbc.com/news/articles/cly07pyde00o|uk asylum claims drop slightly in 2025 as small boat arrivals rise by 13|2c825498910f00a3a5667e2827ba643c
+2026-02-26T15:39:15.179394+00:00|https://www.bbc.com/news/articles/cgmlzdr3y7mo|met apologises to lord speaker after mandelson tipoff error|47ec77a8253ed2b43db77ebf35dad23f
