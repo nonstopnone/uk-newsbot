@@ -1,11 +1,3 @@
-2026-02-19T02:48:01.962744+00:00|https://news.sky.com/story/tetris-can-help-tackle-memories-of-past-trauma-study-finds-13509361|block it out tetris can help tackle memories of past trauma|ed6a01a4f6fa62c35a46c50e2d93dd57
-2026-02-19T02:48:07.709382+00:00|https://www.bbc.com/weather/articles/cvgkpemk2kno|cornish village expected to be confirmed to have had 50 days of rain|577ab278d7280e8c211670dab25b61f3
-2026-02-19T02:48:13.303246+00:00|https://news.sky.com/story/man-dead-and-teen-critically-injured-after-skate-park-stabbing-13509360|man dead and boy fighting for his life after double stabbing|f42c2c864579ddf8e6dbef40f76ba0ec
-2026-02-19T02:48:18.885593+00:00|https://www.bbc.com/news/articles/cn71xyjpdl2o|why theres no quick fix in sight for the problem of dazzling headlights|8eece38e5dc5d010a46b5d795ce35495
-2026-02-19T02:48:24.495256+00:00|https://news.sky.com/story/starmer-must-bring-trump-back-from-the-brink-or-chagos-deal-is-dead-13509338|trump could be about to force yet another labour uturn|9751e0387215db93f760cf4b9a0deaa2
-2026-02-19T02:48:29.922348+00:00|https://www.bbc.com/news/articles/c3rz8q3qpwzo|child poverty figures in the uk expected to be revised down|ec5d2f27525bec7b7bc1ee2441b5154a
-2026-02-19T02:48:35.358601+00:00|https://news.sky.com/story/retail-warns-of-high-price-for-workers-from-government-costs-ahead-13509197|retail warns of more job losses|185188bad2ac9a0f67d74923d4e0e245
-2026-02-19T02:48:40.950634+00:00|https://www.bbc.com/news/articles/cx2l5n096eko|the papers trump pulls support for chagos and britain faces 1936 moment|e498eaf00b394e493e3144cde177dbe1
 2026-02-19T04:59:18.638701+00:00|https://news.sky.com/story/ebay-to-buy-depop-from-etsy-in-12bn-cash-deal-13509364|ebay to buy depop from etsy|0877509650a85bf9d81a7d5e9fb41aa9
 2026-02-19T04:59:23.943439+00:00|https://www.bbc.com/news/articles/cj6d87jy2w6o|lack of support to scrap aslevels public consultation finds|a1fd7918229519949fbd8b8ccf48a39f
 2026-02-19T04:59:29.251359+00:00|https://news.sky.com/story/pubs-can-stay-open-until-2am-if-home-nations-reach-world-cup-knockout-stages-13509362|pubs can stay open late for the world cup but theres a catch|09caa6fdea1743e8d2a3a028c8494568
@@ -461,3 +453,11 @@
 2026-02-25T23:37:59.616190+00:00|https://www.bbc.com/news/articles/c743w422vl1o|vampireobsessed teen killed 91yearold woman in macabre ritual|dc35a9f826bd5317b9a5d9e0d9dde65c
 2026-02-25T23:38:05.156793+00:00|https://news.sky.com/story/met-police-apologises-to-commons-speaker-over-lord-mandelson-tip-off-13512284|met apologises to speaker over mandelson tipoff|757451ef593e5638b60af0b60bd3a430
 2026-02-26T00:01:40.135780+00:00|https://news.sky.com/story/eu-not-doing-enough-to-stop-russian-shadow-fleet-european-parliament-president-says-13512277|eu not doing enough to stop russian shadow fleet european parliament president says|f01395ac6856be00185282dfd741b7eb
+2026-02-26T03:12:25.989718+00:00|https://www.bbc.com/news/articles/c14m77rrr8no|the papers met exposed hoyle and iran tempts trump|4f0e32283578b7d8171885ccaee882e1
+2026-02-26T03:12:31.554295+00:00|https://news.sky.com/story/uk-weather-explosion-of-spring-colour-to-come-despite-temperatures-dropping-after-hottest-day-of-the-year-so-far-13512292|uk set for explosion of spring colour but itll get colder first after hottest day of year|c5cb6dda8ecc3438bb6d209bc7c15495
+2026-02-26T03:12:37.104629+00:00|https://www.bbc.com/news/articles/cy59gznnz0zo|this coastal idyll banned harmful holiday lets eight years on has it worked|14b4271876ca6976871de6a9106eab75
+2026-02-26T03:12:42.605010+00:00|https://news.sky.com/story/its-tense-here-jerusalem-braces-for-prospect-of-war-in-the-middle-east-13512263|in this worryingly quiet part of the city its people brace for possible war|1994b65af7082a7383b90ead8d87386d
+2026-02-26T03:12:47.984480+00:00|https://www.bbc.com/news/articles/c2d1ne15w5go|theres a solution for ebike parking chaos but its not problem free|01c4c6afd467beac30843c6b37da36ae
+2026-02-26T03:12:53.373017+00:00|https://news.sky.com/story/shocking-allegations-of-bullying-racism-and-undignified-births-revealed-in-damning-maternity-report-13512175|shocking allegations of bullying racism and undignified births revealed in damning maternity report|aae648dd3cb47bf2cbb0f50ddeabebc8
+2026-02-26T03:12:59.333370+00:00|https://www.bbc.com/news/articles/cwygr3p3e8go|aldi shop staff to receive two pay rises this year|34ea8a44bc6407ca86f2dfe387530155
+2026-02-26T03:13:04.925866+00:00|https://www.bbc.com/news/articles/c30968817q3o|racism and poor staff relationships factors in maternity care failings report finds|bc0373b354f2569e9b579476daa8edb9
