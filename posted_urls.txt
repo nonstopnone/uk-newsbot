@@ -467,3 +467,6 @@
 2026-02-26T10:08:56.160754+00:00|https://www.bbc.com/news/articles/c9dnx445w4do|royal mail bosses to be called to parliament over letter delivery failures|7220775cb242e1dfda0535eec5043655
 2026-02-26T10:09:01.523131+00:00|https://news.sky.com/story/kim-jong-un-warns-north-korea-could-completely-destroy-south-if-threatened-13512338|kim jong un warns north korea could completely destroy south if threatened|02a79e6de4e0fa7d90833c9802edde06
 2026-02-26T10:09:06.827150+00:00|https://news.sky.com/story/ocado-to-cut-1000-jobs-under-restructuring-plan-13512335|ocado to cut 1000 jobs under restructuring plan|83d738fdcec6e07a2971323e8517158b
+2026-02-26T11:08:22.575225+00:00|https://www.bbc.com/news/articles/c62gzl2yl24o|number of young people out of work or education edges closer to one million|fc02f821d1d350e66a94515c6ea6c5c1
+2026-02-26T11:08:27.902992+00:00|https://news.sky.com/story/sky-news-joins-media-leaders-to-drive-push-for-ai-standards-to-protect-original-journalism-13512156|sky news joins media leaders to drive push for ai standards to protect original journalism|2074b2fd1304717e56312fa0493f269f
+2026-02-26T11:08:33.342479+00:00|https://news.sky.com/story/american-jailed-over-suitcase-murder-deported-from-bali-13512350|american jailed over suitcase murder deported from bali|dd703c0530808bcaaa9e050618968a54
