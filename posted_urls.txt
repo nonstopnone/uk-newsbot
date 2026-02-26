@@ -1,7 +1,3 @@
-2026-02-19T16:35:05.260221+00:00|https://www.bbc.com/news/articles/c86y3z61635o|jailed funeral bosses betrayed trust of bereaved|eb728d925bcfd1c1ddfd13697573321a
-2026-02-19T16:35:10.755413+00:00|https://news.sky.com/story/peter-mandelson-founded-lobbying-firm-global-counsel-on-brink-of-closure-13509596|lobbying firm founded by mandelson on brink of closure|2dafb3e9a07259abce5e0d67f3df5067
-2026-02-19T16:35:16.118948+00:00|https://www.bbc.com/news/articles/c875p22jypxo|womans body found in freezer as man arrested|84f5a9e28124a847c5614ff13f341223
-2026-02-19T16:35:21.436531+00:00|https://www.bbc.com/news/articles/c1l7m7j6lzjo|bbc plans david attenborough celebration for 100th birthday|a32603f14000182fefbb984666a9a0e9
 2026-02-19T17:38:34.134056+00:00|https://news.sky.com/story/two-teenagers-found-dead-at-holiday-park-in-yorkshire-13509621|two teenagers found dead at holiday park|7484f7d14c8eafec881e67170cb71715
 2026-02-19T17:38:39.561511+00:00|https://www.telegraph.co.uk/recommended/home/fans-heaters/best-electric-heater|beat the chill with electric heaters tested for energy efficiency and warmth|40926672a2fb3c6062879c9e10c42124
 2026-02-19T17:38:44.896130+00:00|https://www.bbc.com/news/articles/cpqw78d5y54o|briton dies following motorbike crash in thailand|13b1031230a25305318a10d54c6c36c3
@@ -453,3 +449,11 @@
 2026-02-26T15:39:04.343091+00:00|https://www.bbc.com/news/articles/c7479yjl594o|community numb over deaths of two young friends|0760b7d31cd1b3f648c2901e52451709
 2026-02-26T15:39:09.756197+00:00|https://www.bbc.com/news/articles/cly07pyde00o|uk asylum claims drop slightly in 2025 as small boat arrivals rise by 13|2c825498910f00a3a5667e2827ba643c
 2026-02-26T15:39:15.179394+00:00|https://www.bbc.com/news/articles/cgmlzdr3y7mo|met apologises to lord speaker after mandelson tipoff error|47ec77a8253ed2b43db77ebf35dad23f
+2026-02-26T16:40:27.622572+00:00|https://news.sky.com/story/child-killer-ian-huntley-will-be-vulnerable-to-another-attack-if-he-survives-13512553|child killer ian huntley will be vulnerable to another attack if he survives|db1d78806245e521472270c20f03423f
+2026-02-26T16:40:33.169183+00:00|https://www.bbc.com/news/articles/c8jxm2n9lm1o|tracey emin says her artwork my bed would be tidy clean and boring if she made it today|0e9c4064fb1eb566598e3cd197c93764
+2026-02-26T16:40:38.695857+00:00|https://news.sky.com/story/danish-pm-calls-snap-election-after-surge-in-support-over-greenland-crisis-13512506|danish pm calls snap election after surge in support over greenland crisis|502cb04f0f6f4b8a40e03b06f9e2f0ef
+2026-02-26T16:40:44.075042+00:00|https://www.bbc.com/news/articles/c2lrxjp1vqeo|jersey approves assisted dying law where do proposals for change stand in the uk|8e9a31c9fc41f0f9f3913572e6186dbc
+2026-02-26T16:40:49.442298+00:00|https://news.sky.com/story/instagram-to-notify-parents-if-teens-search-for-suicide-content-13512502|instagram to notify parents if teens search for suicide content|61a34a8d53e83ef671af355bc8aee9bf
+2026-02-26T16:40:54.826631+00:00|https://www.bbc.com/news/articles/cwy6pwyqyn5o|im going to stick at it until i get a home|57e598861f4dc6c5c130a5e48f3a7c7a
+2026-02-26T16:41:00.204744+00:00|https://news.sky.com/story/assisted-dying-bill-will-almost-certainly-fail-due-to-a-lack-of-time-13512476|assisted dying bill will almost certainly fail due to a lack of time|8748409f3645194648cf4234a4bd9366
+2026-02-26T16:41:05.586717+00:00|https://www.bbc.com/news/articles/clyg1ll59vvo|crash caused by phone gambler led to premature birth|75be12b6c2e0590fb7326307ec73d4e2
