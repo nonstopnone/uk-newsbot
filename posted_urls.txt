@@ -483,3 +483,6 @@
 2026-02-28T14:00:12.049818+00:00|https://www.bbc.com/news/videos/cr5le5pqvplo|the huntley interview that led to his arrest|260f101c387c351430b63d033a2039b5
 2026-02-28T14:57:19.058269+00:00|https://www.bbc.com/news/articles/c0rjpr575g9o|flights cancelled as travel warnings issued after strikes on iran|3903d434b2d6c6979c3b3e1070010d86
 2026-02-28T14:57:24.461264+00:00|https://www.bbc.com/news/articles/cd037p0z1gxo|polanski and farage dont agree but they have more in common than you might think|e4f27a83fb90ee6336238407365df5ce
+2026-02-28T15:32:03.832310+00:00|https://news.sky.com/story/big-blasts-heard-over-dubai-as-people-run-for-cover-from-iranian-missiles-13513313|big blasts heard over dubai as people run for cover from iranian missiles|a796ee2b9353402c0effb33e156212fe
+2026-02-28T15:32:09.270747+00:00|https://www.bbc.com/news/articles/c620ed3z6ygo|train fares in wales to be frozen for a year|c78554c4574a2036804d9720e182c79b
+2026-02-28T15:32:14.753781+00:00|https://news.sky.com/story/trump-has-tipped-the-middle-east-into-a-massive-war-that-could-last-weeks-13513261|trump has tipped the middle east into a massive war that could last weeks|6ff515e4980b93fc3066cf880d8512e7
