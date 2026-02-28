@@ -1,6 +1,3 @@
-2026-02-21T10:39:43.633247+00:00|https://www.bbc.com/news/articles/c5y6k450247o|two men aged 19 and 20 die after going missing on yr wyddfa|1dc54bb9915c5171f53fa474d90e88b9
-2026-02-21T10:39:49.038286+00:00|https://www.bbc.com/news/articles/ce94vr487pjo|woman handed gift card receipt for £63 quadrillion|5a6c3fdbf33e50dadebfe9a0a59ad7d7
-2026-02-21T10:39:54.367239+00:00|https://www.bbc.com/news/articles/cwy6d69evxeo|when satnavs go wrong why drivers end up following gps into danger|729df04e3bdd689be7f8e73cfd73c518
 2026-02-21T11:00:50.106434+00:00|https://news.sky.com/story/court-approves-law-requiring-louisiana-schools-to-display-ten-commandments-13510225|court approves law requiring louisiana schools to display ten commandments|0dceb8e0e32d05a0489bd44f2540e921
 2026-02-21T11:36:28.891519+00:00|https://news.sky.com/story/bodies-found-in-eryri-mountain-range-during-search-for-two-missing-men-13510256|bodies found in eryri mountain range during search for two missing men|bc77699bf7f6454657d76546e57ede05
 2026-02-21T14:33:46.846706+00:00|https://www.bbc.com/news/articles/cp32qe1vy0wo|third man arrested after teens die at holiday park|5d443423e7779ce15e454c6acacd08dd
@@ -478,3 +475,8 @@
 2026-02-28T07:33:47.017193+00:00|https://www.bbc.com/news/articles/c89kdzk4le9o|race hate is up again in northern ireland what needs to change|4c31a8cf19739e9f6bbc4b6ad6cf2eaf
 2026-02-28T08:40:31.191146+00:00|https://www.telegraph.co.uk/recommended/gifting/graham-e-hancock-lego-reader-questions|why is lego so expensive and what makes it so popular a lego master answers your questions|e61eca0dbc0994617155bc2dc48edc74
 2026-02-28T09:41:43.353728+00:00|https://news.sky.com/story/trumps-iran-attack-is-a-gamble-and-the-outcome-is-unclear-13513250|trumps iran attack is a gamble and the outcome is unclear|36e4082037761e6e98c5598c2c42853c
+2026-02-28T10:57:49.092259+00:00|https://news.sky.com/story/trump-is-going-for-regime-change-despite-positive-talks-with-iran-13513259|trump is going for regime change despite positive talks with iran|5768db17cbca61322736d386396055f8
+2026-02-28T10:57:54.627003+00:00|https://www.bbc.com/news/articles/c20l1v0ldqzo|starmer chairs cobra meeting over usisraeli strikes on iran|5db6062ec3990bc4102b42563c7c4da1
+2026-02-28T10:58:00.174428+00:00|https://www.bbc.com/weather/articles/cr45q6qqre7o|first full moon of spring set to rise in uk skies this week|705951387c9acbfd539c261c45755d57
+2026-02-28T10:58:05.739230+00:00|https://www.bbc.com/news/articles/cr5le06lq03o|man charged after churchill statue defaced|85884b57ab8706d9ca055f23c239ba7f
+2026-02-28T10:58:11.145925+00:00|https://www.bbc.com/news/articles/c99j3448944o|im finally a british citizen after 48 years|257d750aa6f5138ebade8057abfa4d70
