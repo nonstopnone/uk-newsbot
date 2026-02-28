@@ -1,6 +1,3 @@
-2026-02-21T03:31:41.102057+00:00|https://www.bbc.com/news/articles/cp8150xj36wo?at_medium=RSS&at_campaign=rss|Anna Murdoch-Mann, mother of News Corp heir, dies aged 81|e95e670b657c0f91b408bcdd9421f374
-2026-02-21T03:31:46.806902+00:00|https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss|Trump lashes out at Supreme Court justices over tariffs ruling|c47e3d7e02c335894eb00cea63ee9315
-2026-02-21T03:31:52.497742+00:00|https://www.bbc.com/news/articles/c8r1e327z46o?at_medium=RSS&at_campaign=rss|How will Trump's new 10% global tariffs work and what's next?|09c1bbcf51ea30b798026b6fe024ced4
 2026-02-21T04:52:29.980783+00:00|https://www.bbc.com/news/articles/cly8r1n46yqo?at_medium=RSS&at_campaign=rss|Canada looks to trade talks after US Supreme Court tosses Trump's tariffs|1a84d2be6e073fea67b2718c8ab534fb
 2026-02-21T11:02:12.674556+00:00|https://news.sky.com/story/court-approves-law-requiring-louisiana-schools-to-display-ten-commandments-13510225|Court approves law requiring Louisiana schools to display Ten Commandments|31a552943c761421a2313c34d2a6a1a6
 2026-02-21T17:13:22.863065+00:00|https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss|Trump says he will increase global tariffs to 15%|5a771176412c68af459c83f79652cab9
@@ -41,3 +38,4 @@
 2026-02-27T19:10:22.273198+00:00|https://news.sky.com/story/american-olympic-hockey-star-brady-tkachuk-attacks-clearly-fake-tiktok-video-shared-by-white-house-13513058|Olympic hockey star attacks 'clearly fake' TikTok video shared by White House|446af8f1fc8632ad1a2ac0ae591e4a2b
 2026-02-27T22:53:26.581951+00:00|https://www.bbc.com/news/articles/c5yrdr5d43yo?at_medium=RSS&at_campaign=rss|Neil Sedaka, singer of Breaking Up Is Hard To Do, dies at 86|9546fb71b8c0521b3641465896d20e7e
 2026-02-28T02:24:37.908769+00:00|https://news.sky.com/story/neil-sedaka-singer-of-breaking-up-is-hard-to-do-and-laughter-in-the-rain-has-died-13513180|Singer-songwriter Neil Sedaka has died|b03118c6020903453f37524b021b268b
+2026-02-28T04:06:49.568445+00:00|https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss|DOJ charges 30 more people in Minnesota anti-ICE church protest|55aa0dd52b2a1e4f75f50813c1e4fc4a
