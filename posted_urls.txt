@@ -1,4 +1,3 @@
-2026-02-22T21:59:01.116690+00:00|https://www.bbc.com/news/articles/c15xwk8dnpgo|firefighters tackling large blaze at school|d4a2521f34e82acbb762fbc54e5ba119
 2026-02-22T22:37:43.394929+00:00|https://news.sky.com/story/british-rising-star-robert-aramayo-beats-timothee-chalamet-and-leonardo-dicaprio-to-acting-bafta-as-one-battle-after-another-named-best-film-13510746|british rising star beats alisters to acting bafta as one battle after another named best film|e6c510978f94ff5f172f8b9ed8edf05c
 2026-02-22T22:37:48.811781+00:00|https://www.bbc.com/news/articles/c8r1pmz3zgzo|billions in send funding to make schools more inclusive ministers say|b198ceea0ab9b114726fd2c6b28e8a8e
 2026-02-22T22:37:54.197766+00:00|https://www.bbc.com/news/articles/czx7e100r48o|hamnets jessie buckley and i swears robert aramayo win big at the baftas|fe12a8c8206545e8e7570ed2ea1563fa
@@ -492,3 +491,6 @@
 2026-03-01T21:33:30.466555+00:00|https://www.bbc.com/news/articles/cz6e8v2y7g1o|murder charge after security guard stabbed|55f537847570bb864fb7e312a820e3b2
 2026-03-01T21:33:35.899279+00:00|https://www.bbc.com/news/articles/c89k1dvx9lyo|boy seriously injured in motorbike hitandrun not the same child he used to be|dd1101d76f02aab0fd691dd1014e5c46
 2026-03-01T21:55:49.781908+00:00|https://news.sky.com/story/irans-regime-looks-vulnerable-but-clerics-and-their-supporters-still-control-the-streets-13514029|irans regime looks vulnerable but clerics and their supporters still control the streets|a5dbecbce06181e9d536c6c2df289355
+2026-03-01T22:33:46.685094+00:00|https://news.sky.com/story/the-horror-story-at-beit-shemesh-where-an-iranian-missile-evaded-israels-formidable-defences-13514045|the horror story at beit shemesh where an iranian missile evaded israels formidable defences|d6f26bb3239fde7f9f67d811756fa914
+2026-03-01T22:33:52.202387+00:00|https://www.bbc.com/news/articles/cdjm8pn0ld8o|uk mounts operation to support thousands of britons in middle east|82542b476b2332f52f51fa7b20ada0ea
+2026-03-01T22:33:57.574591+00:00|https://www.bbc.com/news/articles/cp32ddzdjxko|major changes to asylum system set to come into force|1e4c99444a4823bdb4ef2a63f5deaca1
