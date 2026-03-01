@@ -1,15 +1,3 @@
-2026-02-22T02:56:07.299956+00:00|https://www.bbc.com/news/articles/cn71mvz8ne5o|i cleaned toilets while studying at cambridge|ab3c660612bf66b9c9b1f824f4cd3cb9
-2026-02-22T02:56:12.681729+00:00|https://news.sky.com/story/trump-bumps-up-global-tariffs-creating-more-mess-and-uncertainty-for-the-world-13510596|trump bumps up global tariffs creating more mess and uncertainty for the world|b9d1d7d5fc63b31768876ea4d297ee1b
-2026-02-22T02:56:17.997271+00:00|https://www.bbc.com/news/articles/cvgvqm6zv6mo|we want the truth families of nottingham attacks victims speak ahead of public inquiry|b03c15ca50b5ae0ac947fb384e0c7d2f
-2026-02-22T02:56:23.310133+00:00|https://news.sky.com/story/inaccurate-evidence-from-ai-tool-led-to-police-pursuing-ban-on-israeli-football-fans-mps-find-13510249|inaccurate evidence from ai led to police pursuing ban on israeli football fans mps find|c15faa73e72f199f1b20d2095473cb67
-2026-02-22T02:56:28.609577+00:00|https://www.bbc.com/news/articles/c0r4l1gn801o|i didnt know i was experiencing burnout until it was too late|08774f964fece84f674ecf1c32dc404a
-2026-02-22T02:56:34.017032+00:00|https://www.bbc.com/news/articles/cx28ldj544jo|the papers andrew inquiry calls and hiding from putins killer drones|aa4b1584a2dfb437aa26f10296d4a72a
-2026-02-22T02:56:39.308281+00:00|https://www.bbc.com/news/articles/c93jg4vl3jxo|are ties and blazers over why some schools are pushing for active uniforms|01cd52e6c4595e2586548c6bf4b37138
-2026-02-22T02:56:44.612441+00:00|https://www.bbc.com/news/articles/c0k1jddl51no|we thought gen z had started going to church in droves but the truth is more complicated|b6a7a713aafa5431b62b0296f224e40b
-2026-02-22T04:56:55.713950+00:00|https://www.bbc.com/news/articles/cj98319yzlgo|13000 calls in three months how one city is keeping ahead of measles|fe70ca179fb92ea5afb408db57821b7e
-2026-02-22T04:57:01.147399+00:00|https://news.sky.com/story/the-nightmares-still-come-back-inside-gaza-city-a-virtual-reality-escape-for-the-children-caught-in-war-13510034|she started to forget little by little virtual reality offers escape to gazas children|1b0dd4e9cc994f7128d6ebb6910525d1
-2026-02-22T04:57:06.516954+00:00|https://www.bbc.com/news/articles/c4gqwnlv01do|all you need to know ahead of the bafta film awards 2026|41d72add6d78b02c0f0b21243392de7d
-2026-02-22T04:57:11.892476+00:00|https://news.sky.com/story/close-friends-and-sisters-among-nine-skiers-killed-in-california-avalanche-13510632|devastated beyond words close friends and sisters among nine skiers killed in avalanche|5c4c434461cee0b1e7240fb6cadcf970
 2026-02-22T05:59:09.634629+00:00|https://news.sky.com/story/weight-loss-jabs-could-be-banned-by-next-olympics-13510642|weight loss jabs could be banned by next olympics|d8a7fae8f71e9c7cb0f7a75cd5c6c7d8
 2026-02-22T05:59:15.060521+00:00|https://www.bbc.com/news/articles/c15xwvn707xo|tories vow to lower interest on some student loans|13e7f32fea93d5bf880f6b97f6ee4d53
 2026-02-22T05:59:20.386445+00:00|https://news.sky.com/story/inconceivable-andrews-guards-didnt-see-anything-says-ex-head-of-uk-royal-protection-13510640|inconceivable andrews guards didnt see anything says exhead of uk royal protection|d53bdddc8547b3e67c27556cc24330ee
@@ -487,3 +475,11 @@
 2026-03-01T02:56:07.037990+00:00|https://news.sky.com/story/paranoia-and-absolute-power-ali-khamenei-led-iran-with-supreme-self-confidence-13497943|the death of irans ayatollah khamenei ends decades of paranoiafuelled absolute power|ff6f9e4992ae7c5a2058bbbadb0eb648
 2026-03-01T02:56:12.650910+00:00|https://news.sky.com/story/the-fear-of-dying-pushes-you-to-live-stories-from-ukraines-children-13512512|the fear of dying pushes you to live stories from ukraines children|ccba8dc28722edb85ebb47d431731dbd
 2026-03-01T02:56:18.255429+00:00|https://news.sky.com/story/brits-2026-olivia-dean-dominates-awards-winning-album-of-the-year-13513671|olivia dean dominates brit awards winning album of the year|633c020566d3f0fbd53e86044c8a2dd7
+2026-03-01T05:00:35.480943+00:00|https://www.bbc.com/news/articles/c79572zx234o|brit awards 2026 the real winners and losers|2779571a03c08d927fb2f1238f2e0a6a
+2026-03-01T05:00:41.002273+00:00|https://news.sky.com/story/brit-awards-2026-the-surprise-performers-tributes-and-bits-you-might-not-have-seen-13513718|brit awards 2026 the surprise performers tributes and bits you might not have seen|20b90937afe90110cb27aa84d8d519a8
+2026-03-01T05:00:46.680234+00:00|https://www.bbc.com/news/articles/c20z83lpp1jo|khamenei dead in rubble and middle east in flames|60572df83fb2ebafd454d9fe6383ee8d
+2026-03-01T05:00:52.179027+00:00|https://news.sky.com/story/iranians-take-to-streets-with-different-reactions-to-death-of-supreme-leader-ali-khamenei-13513700|how have iranians reacted to death of supreme leader|37a5cb712583173350fae7fba9581f10
+2026-03-01T05:00:57.667870+00:00|https://www.bbc.com/news/articles/c3wln1dlev6o|why are more gps opting to work outside the nhs|59b83725b431ea475a9b1d9b43568e54
+2026-03-01T05:01:03.163610+00:00|https://www.bbc.com/news/articles/c8eg97x5446o|chris mason trump calls starmer as us and europe diverge on iran strikes|6b980424d1c1022609d7acb385f1f3f3
+2026-03-01T05:01:08.563863+00:00|https://www.bbc.com/news/articles/cq6q0l9e7plo|minister josh simons resigns after labour together claims|3c9eb673eccae607df4a729983264083
+2026-03-01T05:01:13.955140+00:00|https://www.bbc.com/news/articles/c24dle3mv97o|brits red carpet in pictures harry styles olivia dean and lola young at the uks biggest night in music|3b0070475875a4e3266f829fc52c2a91
