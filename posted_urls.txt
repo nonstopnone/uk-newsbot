@@ -486,3 +486,9 @@
 2026-03-01T22:33:52.202387+00:00|https://www.bbc.com/news/articles/cdjm8pn0ld8o|uk mounts operation to support thousands of britons in middle east|82542b476b2332f52f51fa7b20ada0ea
 2026-03-01T22:33:57.574591+00:00|https://www.bbc.com/news/articles/cp32ddzdjxko|major changes to asylum system set to come into force|1e4c99444a4823bdb4ef2a63f5deaca1
 2026-03-01T22:59:05.420324+00:00|https://news.sky.com/story/trumps-war-with-iran-has-become-personal-for-people-in-dubai-13514039|trumps war with iran has become personal for people in dubai|2fe961db516204c866a307327988bafe
+2026-03-02T02:50:21.309253+00:00|https://www.bbc.com/news/articles/cm2r0q310e3o|raf responding to suspected drone strike at uk base in cyprus mod says|7a15082eb315ac3a2e625c4084c5db9d
+2026-03-02T02:50:26.758209+00:00|https://news.sky.com/story/raf-base-in-cyprus-hit-by-suspected-drone-strike-ministry-of-defence-says-13514072|raf base in cyprus hit by suspected drone strike|737da82af59a8acd6e67dbf40998a6d1
+2026-03-02T02:50:33.022005+00:00|https://www.bbc.com/news/articles/cwy8przxx78o|the papers britain backs war on iran and trump vows to press on|c457a2c7eba8f48b34b0e8193ff6b7d9
+2026-03-02T02:50:38.637345+00:00|https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000|oil prices spike as key shipping route disrupted by iran attacks|35f33377af91b4849da8b1484e3ae548
+2026-03-02T02:50:44.273798+00:00|https://www.bbc.com/news/articles/cj6dnrwnx01o|sir john curtice which issues will decide the elections in scotland and wales|655ada4ab44a57ea651c6bd65d7319d1
+2026-03-02T02:50:49.714848+00:00|https://www.bbc.com/news/articles/cqj9g11p1ezo|uk will allow us to use bases to strike iranian missile sites pm says|f5bb0984748a8865f674a9e4be2f32e9
