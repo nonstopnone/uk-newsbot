@@ -1,8 +1,3 @@
-2026-02-23T16:37:43.659652+00:00|https://news.sky.com/story/robert-aramayo-the-hull-actor-whos-taken-the-baftas-by-storm-13511125|who is bafta winner robert aramayo|97c8204ae65e41483489a6b7436a113a
-2026-02-23T16:37:49.090257+00:00|https://www.bbc.com/news/articles/c8xy5jepevno|pm orders ethics investigation into minister over labour together claims|19a2329e69cd4e2fb7b66d9ba23a1d05
-2026-02-23T16:37:54.591225+00:00|https://news.sky.com/story/teenager-found-guilty-of-terror-offences-after-joining-banned-far-right-group-and-researching-synagogue-13511106|teenager found guilty of terror offences after joining banned farright group|d5c13e65748bc41d3b073b8ae2a8669a
-2026-02-23T16:38:00.016455+00:00|https://www.bbc.com/news/articles/cx2g9e3q3gdo|sadistic pair behind bars for blowing up sheep|afe324fba4f1dd18e3401918c5c294ab
-2026-02-23T16:38:05.436405+00:00|https://www.bbc.com/news/articles/cn48xg1pz7xo|care home boss sexually abused children for decades|2490dca1f4309027442b31eb99a1edb4
 2026-02-23T17:48:34.739767+00:00|https://www.telegraph.co.uk/recommended/sleep/best-mattress-back-pain|these are the best mattresses for back pain recommended by an osteopath|6c06d6d2adb3bf996b5a01297d36d94e
 2026-02-23T17:48:40.229659+00:00|https://news.sky.com/story/police-investigating-abhorrent-online-racist-abuse-of-top-flight-footballers-13511186|police investigating abhorrent online racist abuse of top flight footballers|9a31e40768faa57a3901f6840c3e6f68
 2026-02-23T17:48:45.579827+00:00|https://www.bbc.com/news/articles/clyg72g9w2go|woman cowered before man accused of killing her trial hears|a733ca057532d94ef864c4c7cf83e46b
@@ -495,3 +490,8 @@
 2026-03-02T15:57:32.060294+00:00|https://news.sky.com/story/wettest-winter-on-record-for-parts-of-the-uk-says-met-office-13514283|wettest winter on record for parts of the uk says met office|7acfe1710bf1acc0f815f7dc2928bb25
 2026-03-02T15:57:38.329643+00:00|https://www.telegraph.co.uk/recommended/sleep/best-cooling-pillow|i spent months testing cooling pillows to find the best for hot sleepers|68308d359c506fdf476076546f8dc2f2
 2026-03-02T15:57:43.746720+00:00|https://www.telegraph.co.uk/recipes/everyday/salads/salad-of-roast-tomatoes-and-fennel-with-preserved-lemon|salad of roast tomatoes and fennel with preserved lemon|679404209f95dbf25614dad3bafb9fcd
+2026-03-02T17:01:18.877702+00:00|https://www.bbc.com/news/articles/c05v0p1d0peo|bars close and hundreds lose jobs as us firm buys brewdog in £33m deal|088d044e15a3f0bd61f166a0a3e458d7
+2026-03-02T17:01:24.274644+00:00|https://www.bbc.com/news/articles/cy8ly0gpl1xo|tour or residency top artists give their views on live music debate|eb111a8f90a7f23e9d189e6e8c2ecd6d
+2026-03-02T17:01:29.718368+00:00|https://www.bbc.com/news/articles/c93w17k95vno|killer grey seals suspected of claiming first dolphin in welsh waters|6f03cd71dbfc48063a5d6c8846bf6d50
+2026-03-02T17:01:35.189987+00:00|https://www.bbc.com/news/articles/c0rj4nvw07do|starmer seeks to carve out distinct uk approach to this conflict|ab53396381a2a6dfc1bc83b3954dbc27
+2026-03-02T17:01:40.755003+00:00|https://www.bbc.com/news/articles/c4gjk5l471xo|souvenir ticket for cruz beckhams wales gig says cardiff is in england|3954cf01f96a278ed77c06b6dbcb6eec
