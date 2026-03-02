@@ -1,5 +1,3 @@
-2026-02-23T07:38:23.807701+00:00|https://www.bbc.com/news/articles/cjwz01gzwy2o|the 102yearold kitman who left his mark on the world cup|f94ba9da59427f72e12a69552854b76d
-2026-02-23T07:38:29.415944+00:00|https://www.bbc.com/news/articles/cdr232j8kgvo|andrew charged taxpayers for massage when uk trade envoy claim excivil servants|da631c7e833e45a461c3f9d2ea481902
 2026-02-23T09:37:57.807590+00:00|https://news.sky.com/story/bbc-apologises-for-strong-and-offensive-language-heard-at-baftas-after-racial-slur-yelled-during-ceremony-13511003|bbc apologises after strong and offensive language heard at baftas|add6990fce69c50f9065159d0ceee287
 2026-02-23T09:38:03.195624+00:00|https://www.bbc.com/news/articles/c3wl4gg0jeno|unimaginable grief after crash kills three|b69b9a6f98734841fbdad3a964a7914b
 2026-02-23T10:35:55.837540+00:00|https://news.sky.com/story/new-yorkers-told-to-stay-at-home-as-blizzard-threatens-to-become-bomb-cyclone-13511039|new yorkers told to stay at home as blizzard threatens to become bomb cyclone|4d80e5cb28b6d07c8e0851991c10a547
@@ -492,3 +490,6 @@
 2026-03-02T07:12:02.297421+00:00|https://news.sky.com/story/do-you-want-to-ban-kids-from-social-media-the-government-is-asking-13513247|do you want to ban kids from social media the government is asking|7318729cf142184b14f431c074740279
 2026-03-02T07:12:07.620807+00:00|https://www.bbc.com/news/articles/cly0g7xyp97o|missing students family continue to keep hope alive|f63050623706f9ea5ba77b9a9eb97cfa
 2026-03-02T07:12:13.029056+00:00|https://www.telegraph.co.uk/fashion/events/actor-awards-2026-best-dressed-red-carpet|actor awards 2026 timothée chalamet takes his mother on the red carpet|38662ad07e81b4f6bea43cc7b9e3822f
+2026-03-02T07:58:12.628708+00:00|https://www.bbc.com/news/articles/cy8lvjn66zxo|bbc investigation finds 50000 people waited over 24 hours in ae corridor care|d8c1a8ea0fe1c7fec268a195f628afc7
+2026-03-02T07:58:18.028514+00:00|https://news.sky.com/story/raf-base-in-cyprus-hit-by-drone-strike-ministry-of-defence-says-13514072|raf base in cyprus hit by drone strike|f0e3402167a43fd4b59306b9076f303a
+2026-03-02T07:58:23.444508+00:00|https://www.bbc.com/news/articles/cvg3vjkx9d7o|consultation on social media ban for under16s to begin|3e7a5b4545fc7becf2f13114bab75c94
