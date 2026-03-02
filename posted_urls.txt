@@ -1,4 +1,3 @@
-2026-02-23T06:17:33.034630+00:00|https://www.bbc.com/news/articles/c043eq7q9kvo|violence against teachers still widespread and harmful|a1017bd3d4db45ba1e0546add3da11be
 2026-02-23T07:38:23.807701+00:00|https://www.bbc.com/news/articles/cjwz01gzwy2o|the 102yearold kitman who left his mark on the world cup|f94ba9da59427f72e12a69552854b76d
 2026-02-23T07:38:29.415944+00:00|https://www.bbc.com/news/articles/cdr232j8kgvo|andrew charged taxpayers for massage when uk trade envoy claim excivil servants|da631c7e833e45a461c3f9d2ea481902
 2026-02-23T09:37:57.807590+00:00|https://news.sky.com/story/bbc-apologises-for-strong-and-offensive-language-heard-at-baftas-after-racial-slur-yelled-during-ceremony-13511003|bbc apologises after strong and offensive language heard at baftas|add6990fce69c50f9065159d0ceee287
@@ -488,3 +487,8 @@
 2026-03-02T02:50:49.714848+00:00|https://www.bbc.com/news/articles/cqj9g11p1ezo|uk will allow us to use bases to strike iranian missile sites pm says|f5bb0984748a8865f674a9e4be2f32e9
 2026-03-02T04:54:12.138765+00:00|https://news.sky.com/story/starmer-denies-u-turn-claims-after-giving-go-ahead-for-us-to-use-uk-military-for-strikes-on-iran-13514065|starmer denies uturn claims on uk bases goahead for iran strikes|33ba9e9f4446eb8ce9237f056c7b88b6
 2026-03-02T05:58:20.786386+00:00|https://news.sky.com/story/fresh-concerns-at-glasgows-queen-elizabeth-university-hospital-as-mould-and-water-ingress-closes-parts-of-cancer-ward-13513891|fresh concerns at scandalhit hospital as mould and water ingress closes parts of cancer ward|8268af739bc00d1e871b47d46fa7abae
+2026-03-02T07:11:51.661431+00:00|https://www.bbc.com/news/articles/c20j828eg4lo|woman sheltered in dubai hotel basement after air strikes|2a5c5be1ef788f390fb5a192ca32068c
+2026-03-02T07:11:56.972366+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/wildlife-insurance-protecting-humans-from-animal-attacks|the wildlife insurance protecting humans from animal attacks|61c8723905e3fe5bcaf418b9c41ade7b
+2026-03-02T07:12:02.297421+00:00|https://news.sky.com/story/do-you-want-to-ban-kids-from-social-media-the-government-is-asking-13513247|do you want to ban kids from social media the government is asking|7318729cf142184b14f431c074740279
+2026-03-02T07:12:07.620807+00:00|https://www.bbc.com/news/articles/cly0g7xyp97o|missing students family continue to keep hope alive|f63050623706f9ea5ba77b9a9eb97cfa
+2026-03-02T07:12:13.029056+00:00|https://www.telegraph.co.uk/fashion/events/actor-awards-2026-best-dressed-red-carpet|actor awards 2026 timothée chalamet takes his mother on the red carpet|38662ad07e81b4f6bea43cc7b9e3822f
