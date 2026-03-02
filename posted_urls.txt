@@ -1,6 +1,3 @@
-2026-02-23T03:20:51.732605+00:00|https://www.bbc.com/news/articles/cy8lg27wvn1o|the papers william not calm but carrying on after andrew arrest and a bafta for buckley|7469ed7ed06c40fcb3ef35ef835a078f
-2026-02-23T03:20:57.152102+00:00|https://www.bbc.com/news/articles/cy9gd52r4gro|i thought i was going to die woman calls for tighter weightloss jabs checks|ce70d9e55b97ca69a77aa123a0926bc2
-2026-02-23T03:21:02.575988+00:00|https://www.bbc.com/news/articles/c86ygl6821go|mescal and abrams go red carpet official a strong language apology and other bafta highlights|74ccd280c27e410fcad809d69439ac32
 2026-02-23T05:15:05.325542+00:00|https://news.sky.com/story/tributes-paid-to-two-young-best-friends-found-dead-in-eryri-mountain-range-13510987|tributes paid to two young best friends found dead in eryri mountain range|62f18d430c9f54cd6ca9af23e349b670
 2026-02-23T05:15:10.818776+00:00|https://news.sky.com/story/the-kalashnikov-is-the-most-effective-tool-fighting-the-enemy-in-the-sky-with-ukraines-drone-hunter-unit-13510976|the kalashnikov is the most effective tool fighting the enemy in the sky with ukraines drone hunter unit|d84aa00b097bd4d44b449aa5ab6b729c
 2026-02-23T05:15:17.012989+00:00|https://news.sky.com/story/how-have-four-years-of-war-changed-volodymyr-zelenskyy-and-vladimir-putin-13509979|how have four years of war in ukraine changed its two central figures|7f81bb13b44561bfbd9725d58f9f3a05
@@ -492,3 +489,4 @@
 2026-03-02T02:50:38.637345+00:00|https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000|oil prices spike as key shipping route disrupted by iran attacks|35f33377af91b4849da8b1484e3ae548
 2026-03-02T02:50:44.273798+00:00|https://www.bbc.com/news/articles/cj6dnrwnx01o|sir john curtice which issues will decide the elections in scotland and wales|655ada4ab44a57ea651c6bd65d7319d1
 2026-03-02T02:50:49.714848+00:00|https://www.bbc.com/news/articles/cqj9g11p1ezo|uk will allow us to use bases to strike iranian missile sites pm says|f5bb0984748a8865f674a9e4be2f32e9
+2026-03-02T04:54:12.138765+00:00|https://news.sky.com/story/starmer-denies-u-turn-claims-after-giving-go-ahead-for-us-to-use-uk-military-for-strikes-on-iran-13514065|starmer denies uturn claims on uk bases goahead for iran strikes|33ba9e9f4446eb8ce9237f056c7b88b6
