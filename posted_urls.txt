@@ -494,3 +494,6 @@
 2026-03-03T18:08:13.868319+00:00|https://www.bbc.com/news/articles/cd9gepe7z4yo|andrew gives up lease on crown estate property|37ff2e063dfac68a27a4422848251847
 2026-03-03T18:08:19.189846+00:00|https://www.bbc.com/news/articles/cy8lyez4e44o|man charged in connection with stabbing in edinburgh|48b4c9e8c8ff1e48e8d8c9be0413226a
 2026-03-03T18:08:24.514863+00:00|https://www.bbc.com/news/articles/cj6dwg4deewo|no new tax rises in spring statement but dont be fooled they are still set to rise|c381ff5590a5ee0a1102a46c62b64387
+2026-03-03T19:11:51.363257+00:00|https://www.bbc.com/news/articles/c89kq5d5vepo|elton johns family photo hung in national portrait gallery|39d8c3fbae3c8a11174583994c46ce28
+2026-03-03T19:11:56.737825+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/iran-faces-food-shortages-if-shipping-disruption-continues|iran faces food shortages if shipping disruption continues analysts warn|66cba982541cd695c4529ce27a89ef6b
+2026-03-03T19:12:02.252191+00:00|https://news.sky.com/story/iran-war-leaves-forecast-for-low-uk-inflation-not-worth-the-paper-it-was-written-on-13514770|iran war leaves forecast for low uk inflation not worth the paper it was written on|d67050ff7536dd7a70ccec60163da3ff
