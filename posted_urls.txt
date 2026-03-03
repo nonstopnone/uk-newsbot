@@ -1,6 +1,3 @@
-2026-02-24T04:58:15.647422+00:00|https://news.sky.com/story/police-still-using-ai-tool-despite-inaccurate-evidence-in-israeli-football-fan-ban-13511330|police still using ai tool that invented fake football match|e4df5014c2c9deeb200579eeb023f25d
-2026-02-24T04:58:21.118815+00:00|https://news.sky.com/story/its-a-disaster-in-the-making-empathy-but-mostly-concern-in-town-set-to-house-hundreds-of-asylum-seekers-13511276|warning of disaster in the making in town set to house hundreds of asylum seekers|887c58633d6e4c930278e17a2f205418
-2026-02-24T04:58:26.742188+00:00|https://news.sky.com/story/putin-believes-he-can-still-win-the-war-and-ukrainians-think-hes-seduced-trump-with-fantasy-deals-13511241|putin appears delusional but trump has left ukraine baffled|bbde0a3d24d64a6b911883a66ea5f494
 2026-02-24T06:07:13.648505+00:00|https://www.bbc.com/news/articles/czj1m7d4gxpo|number of zerohours contracts hits record high ahead of crackdown|248067be3a821a096788b02cb7112c26
 2026-02-24T06:07:19.062204+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/british-antarctic-team-dig-for-ancient-pathogens|british antarctic team dig deep for ancient pathogens in penguin poo|c65273a2ece23664ebb87735472f3b14
 2026-02-24T06:07:24.522465+00:00|https://news.sky.com/story/suddenly-theres-a-loud-bang-airstrikes-blackouts-and-frustration-in-russias-frontline-city-13511167|quick get out the sleeper drone laden with explosives that lay in wait and hit our car|dd3d9c3f153f27cefa1b8033426ae8b5
@@ -491,3 +488,7 @@
 2026-03-03T03:15:21.811008+00:00|https://news.sky.com/story/rachel-reeves-to-deliver-spring-forecast-13514439|chancellor to deliver spring forecast|4dfae541458dc068c5ec44340d9eeb38
 2026-03-03T03:15:27.318389+00:00|https://www.bbc.com/news/articles/crm8lvdw297o|the papers operation epic chaos and trump very disappointed in keir|6c2b48828a842d2ea0eb6fb86b76b8bb
 2026-03-03T03:15:32.714688+00:00|https://www.bbc.com/news/articles/cq57ylzz4dlo|heating oil prices rise by more than £100 amid middle east conflict|401d2e6bcf764ae01ea32bfd8299e17e
+2026-03-03T04:59:25.043352+00:00|https://news.sky.com/story/england-stars-concerned-about-pressure-to-speak-out-about-political-issues-at-world-cup-13514473|england stars concerned about pressure to speak out about political issues at world cup|c8d72ad92f22d942d7b8081c07867c60
+2026-03-03T04:59:30.558711+00:00|https://www.bbc.com/news/articles/cy5706ep1l3o|deeply misleading school talks compared student loans to £30 phone contracts|b70524171531c5b51033851a2bf730ac
+2026-03-03T04:59:36.128910+00:00|https://www.bbc.com/news/articles/cdr2exyvyxpo|met chief can see why women dont trust police|a1dbca162d88a02f7f6d1e1a915f0755
+2026-03-03T04:59:41.534531+00:00|https://www.bbc.com/news/articles/c20lz7rkqv4o|ive given up on working in hospitality the £15000 pay isnt worth the stress|f4bf3261d9fa8d9291859ecf7d2207c3
