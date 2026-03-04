@@ -1,10 +1,3 @@
-2026-02-25T14:33:08.564871+00:00|https://www.telegraph.co.uk/recommended/tech/phones-accessories/motorola-signature-review|this motorola phone is cheaper and better looking than the iphone air but it has its drawbacks|042cb5d5e47149f84c482eafff958577
-2026-02-25T14:33:13.967601+00:00|https://www.bbc.com/news/articles/c1789qxgwywo|scottish government to order fresh inquiry into grooming gangs|7d3d6fc8405a15ec0bd79806c7fe7794
-2026-02-25T14:33:19.524456+00:00|https://news.sky.com/story/switzerland-to-make-one-off-payment-to-bar-fire-victims-13512004|switzerland bar fire victims to receive oneoff payment|6a6ed99e1b3b4e640d2c731035129379
-2026-02-25T14:33:24.952333+00:00|https://www.bbc.com/news/articles/cx2drw12z51o|not even potholes will hold up selfdriving cars uk firm predicts|660cac05755f0cc9871fbff84f802455
-2026-02-25T14:33:30.379354+00:00|https://news.sky.com/story/ex-techno-dj-jailed-for-selling-1637m-worth-of-fake-plane-parts-to-airlines-13511945|planes grounded after extechno dj sold fake plane parts to airlines|993768607a87df3dc1d5e9800cf89e56
-2026-02-25T14:33:36.088511+00:00|https://www.bbc.com/news/articles/cn0erx6x228o|scotland fans secure fifa approval to wear sporrans at world cup|c240ba680f035b90db298ad289b956e1
-2026-02-25T14:33:41.724601+00:00|https://news.sky.com/story/energy-price-cap-to-fall-in-april-but-threat-of-war-hangs-over-outlook-13511831|energy price cap to fall in april but threat of war hangs over outlook|e519c986fe9e4e4caa89f110938e22fb
 2026-02-25T15:45:10.425769+00:00|https://news.sky.com/story/harry-and-meghan-arrive-in-jordan-for-visit-highlighting-needs-of-refugees-13511950|harry and meghan arrive in jordan for refugee summit|53967247ee822b5b244372ae7e2a3809
 2026-02-25T15:45:15.735790+00:00|https://www.bbc.com/news/articles/c39w187jkj1o|jekyll and hyde killer guilty of shooting excolleague on remote country path|b13461ce4c54fb3bf95a45a9ecdd04f4
 2026-02-25T15:45:21.120150+00:00|https://www.bbc.com/news/articles/c23z744k7kro|starmer promises to look at making student loans fairer|82b7013da04810d7a2c6c30223a481af
@@ -502,3 +495,5 @@
 2026-03-04T14:28:07.941956+00:00|https://www.bbc.com/news/articles/c5y4458d9jdo|starmer defends iran response as badenoch calls for more action|d8a1efcb60b9366acefb00c7c72852de
 2026-03-04T14:28:13.392402+00:00|https://news.sky.com/story/three-men-arrested-on-suspicion-of-spying-for-china-met-police-say-13514935|three men arrested on suspicion of spying for china|fe4ea35f1b9cc025d74dd10c70089a1d
 2026-03-04T14:28:18.933312+00:00|https://www.telegraph.co.uk/recipes/everyday/fish/stephen-harriss-fish-soup-recipe|rich tomato and gurnard soup|7b06bdec45db9c60e107b941f36771bb
+2026-03-04T15:07:55.379181+00:00|https://news.sky.com/story/harry-maguire-manchester-united-and-england-defender-handed-15-month-suspended-sentence-over-2020-mykonos-incident-13503057|harry maguire sentenced over mykonos incident|eda8f85f0559a82e1d14f71d6565201d
+2026-03-04T15:08:00.731849+00:00|https://news.sky.com/story/first-minister-john-swinney-confident-of-queen-elizabeth-university-hospital-safety-despite-dirty-water-revelations-13515063|first minister confident of hospital safety despite dirty water revelations|09f1b63973c77e1debab7d44048b11e7
