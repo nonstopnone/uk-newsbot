@@ -494,3 +494,5 @@
 2026-03-04T03:06:51.062809+00:00|https://www.bbc.com/news/articles/ceqvze4z2xwo|father of student killed by drunk driver welcomes tougher sentencing|b2176e37cda588989da0715a8bf5e2b1
 2026-03-04T03:06:56.592029+00:00|https://news.sky.com/story/uk-to-impose-unprecedented-visa-ban-in-asylum-crackdown-13514914|uk to impose unprecedented visa ban in asylum crackdown|9325f797243eff2ff52dc098ef3f2678
 2026-03-04T03:07:01.977067+00:00|https://www.bbc.com/news/articles/cx2jy74895eo|mahmood to stop study visas from four countries due to abuse|8c2ba82f877065e835795321c417cd6d
+2026-03-04T04:51:14.185735+00:00|https://news.sky.com/story/us-joins-ecuador-in-operations-against-narcoterrorists-13514921|us joins ecuador in operations against narcoterrorists|53ccc915f8cd4bb764d45b6f6bfeecf0
+2026-03-04T04:51:19.748274+00:00|https://www.bbc.com/news/articles/cy4wwd2jlypo|uk announces first middle east repatriation flight|e7daa6b161c8c65d339e201a9cd59e65
