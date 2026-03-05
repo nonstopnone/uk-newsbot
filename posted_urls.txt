@@ -1,6 +1,3 @@
-2026-02-26T11:08:22.575225+00:00|https://www.bbc.com/news/articles/c62gzl2yl24o|number of young people out of work or education edges closer to one million|fc02f821d1d350e66a94515c6ea6c5c1
-2026-02-26T11:08:27.902992+00:00|https://news.sky.com/story/sky-news-joins-media-leaders-to-drive-push-for-ai-standards-to-protect-original-journalism-13512156|sky news joins media leaders to drive push for ai standards to protect original journalism|2074b2fd1304717e56312fa0493f269f
-2026-02-26T11:08:33.342479+00:00|https://news.sky.com/story/american-jailed-over-suitcase-murder-deported-from-bali-13512350|american jailed over suitcase murder deported from bali|dd703c0530808bcaaa9e050618968a54
 2026-02-26T11:56:44.927398+00:00|https://news.sky.com/story/number-of-asylum-seekers-housed-in-hotels-drops-with-a-rise-in-small-boat-arrivals-13512376|number of asylum seekers housed in hotels drops with a rise in small boat arrivals|397123ae3313df3a76736ba4af2b4a2a
 2026-02-26T11:56:50.492820+00:00|https://news.sky.com/story/theres-no-shame-in-having-an-addiction-prince-harry-tells-recovered-users-on-jordan-trip-13512367|theres no shame in having an addiction prince harry tells recovered users|05d19a53d7bd5e1ea5e913a38f211032
 2026-02-26T11:56:55.955691+00:00|https://news.sky.com/story/at-least-46-killed-in-brazils-floods-while-thousands-are-displaced-13512360|at least 46 killed in brazils floods while thousands are displaced|9b76f7abe7b571e0fa5313c094a05bf4
@@ -504,3 +501,4 @@
 2026-03-05T08:22:31.660869+00:00|https://www.bbc.com/sport/tennis/articles/cly88dz44m1o|my natural way of playing has been coached out of me says raducanu|dc253c839aa9dcb0675e90eed570ab24
 2026-03-05T11:02:39.159658+00:00|https://www.bbc.com/news/articles/cwykkwz17xwo|messy singer lola young back on stage and on form after taking break to work on myself|120501978285d6e2794bb063924e9e36
 2026-03-05T11:02:44.584667+00:00|https://www.bbc.com/news/articles/ckgzz5xwqyno|teenager sells banger car to banksy show|efb7dd3f6a7de2c6165bdadb5bc76cc0
+2026-03-05T11:49:22.590303+00:00|https://www.bbc.com/news/articles/cx288zwqgz4o|shoplifter jailed for killing asda security guard during struggle|775e8fa429c4ad2810b08e50d5c867b7
