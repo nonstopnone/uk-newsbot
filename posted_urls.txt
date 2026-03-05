@@ -1,11 +1,3 @@
-2026-02-26T03:12:25.989718+00:00|https://www.bbc.com/news/articles/c14m77rrr8no|the papers met exposed hoyle and iran tempts trump|4f0e32283578b7d8171885ccaee882e1
-2026-02-26T03:12:31.554295+00:00|https://news.sky.com/story/uk-weather-explosion-of-spring-colour-to-come-despite-temperatures-dropping-after-hottest-day-of-the-year-so-far-13512292|uk set for explosion of spring colour but itll get colder first after hottest day of year|c5cb6dda8ecc3438bb6d209bc7c15495
-2026-02-26T03:12:37.104629+00:00|https://www.bbc.com/news/articles/cy59gznnz0zo|this coastal idyll banned harmful holiday lets eight years on has it worked|14b4271876ca6976871de6a9106eab75
-2026-02-26T03:12:42.605010+00:00|https://news.sky.com/story/its-tense-here-jerusalem-braces-for-prospect-of-war-in-the-middle-east-13512263|in this worryingly quiet part of the city its people brace for possible war|1994b65af7082a7383b90ead8d87386d
-2026-02-26T03:12:47.984480+00:00|https://www.bbc.com/news/articles/c2d1ne15w5go|theres a solution for ebike parking chaos but its not problem free|01c4c6afd467beac30843c6b37da36ae
-2026-02-26T03:12:53.373017+00:00|https://news.sky.com/story/shocking-allegations-of-bullying-racism-and-undignified-births-revealed-in-damning-maternity-report-13512175|shocking allegations of bullying racism and undignified births revealed in damning maternity report|aae648dd3cb47bf2cbb0f50ddeabebc8
-2026-02-26T03:12:59.333370+00:00|https://www.bbc.com/news/articles/cwygr3p3e8go|aldi shop staff to receive two pay rises this year|34ea8a44bc6407ca86f2dfe387530155
-2026-02-26T03:13:04.925866+00:00|https://www.bbc.com/news/articles/c30968817q3o|racism and poor staff relationships factors in maternity care failings report finds|bc0373b354f2569e9b579476daa8edb9
 2026-02-26T05:03:27.626072+00:00|https://www.bbc.com/news/articles/cewzg77k721o|earths heat to power 10000 homes in renewable energy first for uk|69864dae1c64eb755ec63e1a42558578
 2026-02-26T05:03:33.390840+00:00|https://www.bbc.com/news/articles/cvg5q70lv95o|man and woman arrested on suspicion of lisa dorrians murder|2d0a19b07fdd5a1274500a867282fb45
 2026-02-26T05:03:38.941158+00:00|https://www.bbc.com/news/articles/cq6q8q8lmrro|oneoff led zeppelin album photo sells for £16k|994f53534f933590788f11b8d2c83ead
@@ -513,3 +505,6 @@
 2026-03-05T02:42:22.609484+00:00|https://news.sky.com/story/israel-is-trying-something-its-always-wanted-the-fight-is-on-13515343|israel is trying something its always wanted the fight is on|0991f4cc3ecdf2ccefea525c7780b3e5
 2026-03-05T02:42:28.054537+00:00|https://www.bbc.com/weather/articles/cpqww7l55rwo|spring sunshine means parts of the uk to bask in temperatures of 19c|ecc2318d895ceaf5cb78e4069a6bcc0a
 2026-03-05T02:42:33.481359+00:00|https://news.sky.com/story/boy-9-died-in-agony-after-being-operated-on-by-suspended-surgeon-13515328|boy died in agony after operation by suspended surgeon|fd651776021b1015e8c40a69d65eddf7
+2026-03-05T04:26:05.680662+00:00|https://www.bbc.com/news/articles/cpqwwvnp7z8o|dentists return £900m for not seeing nhs patients|6b251e9ed6a566c02cc92fe9e7eb64bb
+2026-03-05T04:26:11.146753+00:00|https://news.sky.com/story/ive-seen-nothing-to-suspect-my-husband-says-labour-mp-after-china-spying-arrests-13515431|ive seen nothing to suspect my husband says labour mp after china spying arrests|83d374c78e0b8b2b5eafe128d1c576e5
+2026-03-05T04:26:16.743227+00:00|https://news.sky.com/story/congress-votes-to-summon-pam-bondi-over-handling-of-epstein-files-13515419|congress votes to summon bondi over handling of epstein files|8fad2d28856c3bd5f91ccc2c73377ac7
