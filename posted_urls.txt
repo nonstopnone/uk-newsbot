@@ -1,8 +1,3 @@
-2026-02-27T20:36:13.743303+00:00|https://news.sky.com/story/three-dead-and-dozens-injured-after-milan-tram-derails-13513116|three dead and dozens injured after milan tram derails|e8c990c10954ff0c4a7fed56679207b4
-2026-02-27T20:36:19.242410+00:00|https://www.bbc.com/news/articles/cpqw15xywdzo|i swear director says baftas let down tourettes campaigner|fa1cde87c0b9e3099ba70a613415c5d8
-2026-02-27T20:36:25.006272+00:00|https://news.sky.com/story/us-opens-pop-up-consulate-in-israeli-settlement-considered-illegal-under-international-law-13513109|us opens popup consulate in israeli settlement considered illegal under international law|d5ef7d6bc21854d528175612496f554e
-2026-02-27T20:36:30.428327+00:00|https://www.bbc.com/news/articles/crl42556w06o|teen motorcyclist who told lies fled scene after seriously injuring boy|e0d0692c579a1da71fea9e161023f418
-2026-02-27T20:36:35.863084+00:00|https://www.bbc.com/news/articles/cy4w0k29yg7o|jekyll and hyde monster paralysed his partner|7ea4a4fa846cc9991b1ef8118db5b1c1
 2026-02-27T21:03:00.842150+00:00|https://www.bbc.com/news/articles/c5yvpk7ydw7o|hillwalker dead and two rescued from highland mountain|72a10c97ddd56b1b77dae2010b0dd615
 2026-02-27T22:31:42.458757+00:00|https://www.bbc.com/news/articles/ce3gxkn453ro|new child cruelty register for parents after boy 11 wins campaign|e91e92e6865f88e4ffa2ff43dc5d4f5b
 2026-02-27T22:31:48.034451+00:00|https://news.sky.com/story/paramount-agrees-to-buy-warner-bros-discovery-in-110bn-deal-13513157|paramount strikes deal to buy warner bros discovery for $110bn|6d960f062109faad2fc6d9c5dc723604
@@ -486,3 +481,5 @@
 2026-03-06T19:11:14.139322+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|49298607e99d7a1950b2a330a9cbb651
 2026-03-06T19:49:35.901797+00:00|https://news.sky.com/story/more-than-300-people-abducted-by-islamic-militants-in-northeastern-nigeria-officials-say-13516231|hundreds abducted by islamic militants after military kills three boko haram officers|e7db9cecb1cb63a2e9a8ade82f05e834
 2026-03-06T19:49:41.400514+00:00|https://www.bbc.com/news/articles/cx2jjz13jv9o|rare coincidence as three cousins born on same day|9e138348abe6e947751d210f80a8ad1d
+2026-03-06T20:40:03.484574+00:00|https://www.telegraph.co.uk/business/2026/03/06/oil-gas-uk-us-iran-ftse-100-markets-latest|oil price soars as iran war threatens energy exports|5d177e32ca16f56a164ef2f812b0b8cf
+2026-03-06T20:40:08.943597+00:00|https://news.sky.com/story/weve-taught-toddlers-to-take-cover-living-in-dubai-as-iran-attacks-13516244|weve taught toddlers to take cover living in dubai as iran attacks|9edfab89e0048ebcaea657b102aae03c
