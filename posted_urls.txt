@@ -1,11 +1,3 @@
-2026-02-27T13:33:55.632782+00:00|https://www.bbc.com/news/articles/cly81my10ryo|man admits killing chloe mitchell barrister tells court|de0d1bb62b9dcabf99848f7f6ba9defa
-2026-02-27T13:34:01.099190+00:00|https://news.sky.com/story/ex-masterchef-host-gregg-wallace-drops-legal-claim-against-bbc-13512906|exmasterchef host gregg wallace drops legal claim against bbc|4036babe3d718226a6d5f8c9e99f7001
-2026-02-27T13:34:06.536356+00:00|https://www.telegraph.co.uk/football/2026/02/27/champions-league-draw-live-six-english-clubs-learn-fate|champions league draw our predicted winner for each last16 match|a5c5230db8d655dc7a2fd533c1f8c11f
-2026-02-27T13:34:11.948300+00:00|https://www.bbc.com/news/articles/c62d05wr5ylo|ghosts tv sitcom brought back to life as a feature film|5cae216c3ef9e9487343306e484ed626
-2026-02-27T13:34:17.290878+00:00|https://news.sky.com/story/nhs-tayside-u-turn-paves-the-way-for-hundreds-of-alleged-victims-of-butcher-brain-surgeon-to-sue-13512882|nhs uturn paves the way for hundreds of alleged victims of butcher brain surgeon to sue|e8f4897a7ed9cc765ce096fd9e180fa9
-2026-02-27T13:34:22.594883+00:00|https://www.bbc.com/news/articles/cwy8pnd4z77o|the wanteds max george says heart condition was a blessing in ways|4825943a2ef93349e6a8c90a48455f5a
-2026-02-27T13:34:27.993581+00:00|https://news.sky.com/story/what-sky-news-has-uncovered-about-bill-clinton-and-jeffrey-epsteins-relationship-13512817|what sky news has uncovered about bill clinton and jeffrey epsteins relationship|6a2508f6f9dedb10cbdf4a87d8026720
-2026-02-27T13:34:33.304460+00:00|https://www.bbc.com/news/articles/czr01vz501ro|plaque dedicated to andrew removed from inverness town house|909c3ec90cba128a2ac581fc0cb823aa
 2026-02-27T14:27:37.322425+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/vaccine-sovereignty-is-a-national-security-imperative|vaccine sovereignty is not a luxury it is a national security imperative|867b387c2cffa927dcc5834801179675
 2026-02-27T14:27:42.726502+00:00|https://www.bbc.com/news/articles/cgl5gee07xzo|waitrose to suspend mackerel sales due to overfishing concerns|3d9223c2c302c7f9fc5341114622bb67
 2026-02-27T14:27:48.283681+00:00|https://www.bbc.com/news/articles/cy4wp0p9dp0o|man appears in court charged with murder of english tourist|008acbc221525aa7f96ca9515ea91148
@@ -500,3 +492,7 @@
 2026-03-06T13:30:08.570064+00:00|https://news.sky.com/story/man-who-killed-his-ex-partners-sister-and-her-three-children-in-a-house-fire-jailed-for-life-13515999|man who killed his expartners sister and her three children in a house fire jailed for life|61bb58d18acf5a0555034fdd951b34e1
 2026-03-06T13:30:13.897929+00:00|https://www.bbc.com/news/articles/c93we0076rlo|bbc says broadcast of racial slur at baftas was genuine mistake|cdb4900d8a8b39ca60eb30222c215554
 2026-03-06T13:30:19.230476+00:00|https://www.bbc.com/news/articles/c5yvwkzlxyko|person killed by tube was blocked from safe spot|f36ffd47f0ae17414dc9645f2a65b390
+2026-03-06T14:08:31.556489+00:00|https://news.sky.com/story/bbc-8216profoundly-regrets8217-baftas-incident-says-director-general-tim-davie-13516129|bbc profoundly regrets baftas incident says director general|8fa515140dcc2ae3a0e56cb0a3f9156c
+2026-03-06T14:08:37.151035+00:00|https://www.bbc.com/news/articles/c93we0x146go|gavin and staceys ruth jones in the running for author of the year|13cb35c3b45273fdf49c7fdf6e339d9b
+2026-03-06T14:08:42.603541+00:00|https://news.sky.com/story/van-driver-jailed-after-killing-london-student-13515989|van driver jailed after killing student|50e7f2c2d9c4a059c499ed43b94e934d
+2026-03-06T14:08:48.158512+00:00|https://www.bbc.com/news/articles/cp32239lle3o|woman drove off from escooter crash that killed siblings|4a573b2e00b78b735dba79a89fdc2a20
