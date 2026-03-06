@@ -1,11 +1,3 @@
-2026-02-27T10:49:15.629104+00:00|https://www.bbc.com/news/articles/c07jm1kp228o|arrest after churchill statue defaced with graffiti|0a8175c5f5a45039f632d9dcb8a745b3
-2026-02-27T10:49:20.999667+00:00|https://news.sky.com/story/collagen-supplements-may-boost-skin-health-but-theyre-not-an-anti-wrinkle-quick-fix-study-suggests-13512847|collagen supplements may boost skin health but theyre not an antiwrinkle quick fix study|80a31c00350f952084362669e00544a7
-2026-02-27T10:49:26.320096+00:00|https://www.bbc.com/news/articles/cwygp3dqenwo|from plumber to parliament who is the green partys new mp|969a2220def9edec15bdb0171f523306
-2026-02-27T10:49:31.635417+00:00|https://www.bbc.com/news/articles/cx2ly3p4q7qo|gregg wallace discontinues data claim against bbc|b5643451f6ef7e873f54c6c6d33ab292
-2026-02-27T10:49:37.997867+00:00|https://www.bbc.com/news/articles/cddnry8dnl7o|dyson settles forced labour suit in landmark uk case|5be31dcfb7bfb7465ff4ebe3a19bfa89
-2026-02-27T10:49:43.294522+00:00|https://www.bbc.com/news/articles/c5yqpr28jrwo|family voting concerns raised by election observers|5f4ea9760d1200334dae2d072cd72ccb
-2026-02-27T10:49:48.587365+00:00|https://www.bbc.co.uk/sounds/play/p0n35rr6|listen to byelectioncast greens win gorton and denton|831365ff94341e42c7c74588374fcfaa
-2026-02-27T10:49:53.947550+00:00|https://www.bbc.com/news/articles/cvg1vyp882mo|the heavy metal star returning to the stage with his local theatre group|d70f4c5d91f41475bd2b0bf68d3931fc
 2026-02-27T11:38:24.533427+00:00|https://news.sky.com/story/man-charged-with-possession-of-offensive-weapon-after-incident-at-manchester-mosque-13512903|man charged with possession of offensive weapon after manchester mosque incident|9ee84418bbfc1ed1f646604c87021f69
 2026-02-27T11:38:29.932815+00:00|https://www.bbc.com/news/articles/cnv6e5l588jo|why has the worlds first hydrogen doubledecker fleet failed|389baddaafad5765df655bc559117da3
 2026-02-27T11:38:35.360303+00:00|https://news.sky.com/story/by-election-result-bruising-but-replacing-starmer-wont-solve-the-problem-says-harman-13512845|byelection result bruising but replacing starmer wont solve problem says harman|e097c3b7c751f47fe09215e2b7c5315f
@@ -504,3 +496,7 @@
 2026-03-06T09:50:02.321033+00:00|https://news.sky.com/story/elon-gust-and-dame-judi-drench-among-storm-names-sent-to-met-office-13516014|elon gust and dame judi drench among storm names sent to met office|f1a11772c8819c04a12cf926ec09a74a
 2026-03-06T09:50:07.759851+00:00|https://www.bbc.com/news/articles/c4gjjn71gr4o|fatboy slim and sonny fodera to headline first day of radio 1s big weekend|75def7e3273f5166822f06567431c85a
 2026-03-06T10:45:51.326820+00:00|https://www.bbc.com/news/articles/c4g7jz7kjl7o|man dies after falling from window during tower block fire|4271420e6cfe4f7fb6e7456df2529c10
+2026-03-06T11:36:17.145504+00:00|https://www.bbc.com/news/articles/cly1jxdv439o|lenders lift mortgage rates as iran war hits borrowing costs|97ba3c8c1a0efd5b3f5d0bb33f691b15
+2026-03-06T11:36:22.644834+00:00|https://news.sky.com/story/indonesia-to-ban-high-risk-social-media-for-under-16s-13516062|indonesia to ban high risk social media for under16s|7734f5d0f2e3307f453c41f11a7f87cf
+2026-03-06T11:36:28.131500+00:00|https://www.bbc.com/sport/articles/czr0643d8gmo|what happens when at the winter paralympics|a580c2fe10ec69b0d68a9a31779b32c4
+2026-03-06T11:36:33.500858+00:00|https://www.bbc.com/news/articles/cx2r48dkk7zo|pilot whales difficult birth may have triggered mass stranding|4aad72a027f52b9a1e0271ae864aaee3
