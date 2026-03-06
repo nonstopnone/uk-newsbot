@@ -1,6 +1,3 @@
-2026-02-27T04:56:51.567851+00:00|https://news.sky.com/story/pakistan-in-open-war-with-afghanistan-says-pakistani-defence-minister-13512788|pakistan in open war with afghanistan pakistani defence minister says|035fd09ccc35828a77e9b8d8e3b86c65
-2026-02-27T04:56:56.924363+00:00|https://news.sky.com/story/green-party-wins-gorton-and-denton-by-election-13512774|green party wins gorton and denton byelection|0da7a3fdc020b547a31a2c98018f77bd
-2026-02-27T04:57:02.279295+00:00|https://news.sky.com/story/vegetarian-diet-can-slash-risk-of-five-cancers-by-up-to-30-study-finds-13512538|vegetarian diet can slash risk of five cancers by up to 30 study finds|3ecfa64d3e19eb05777d4d324e9de85c
 2026-02-27T05:59:55.928244+00:00|https://www.bbc.com/news/articles/ckg3ek2pjzdo|christian groups outraged at reform conference held in church house|b5a2960fdcac3fc753709e566a8cb4dc
 2026-02-27T06:00:01.449462+00:00|https://www.bbc.com/news/videos/clyz4ellkd7o|watch working hard used to get you something says green partys hannah spencer|189de82c78ed9472cfae955dca646a86
 2026-02-27T07:08:59.426321+00:00|https://www.bbc.com/news/articles/cwygpdjq9jjo|sir john curtice greens win means future of british politics is more uncertain than ever|39e5d3f58043670dd15f5f82575f4856
@@ -504,3 +501,7 @@
 2026-03-06T03:33:58.507488+00:00|https://www.bbc.com/news/articles/cn9eqgdjwg1o|the papers pm vows to shield brits and panic in dubai|00ca337fcd5c5eb6e0baa1c53e117e0d
 2026-03-06T03:34:03.919540+00:00|https://news.sky.com/story/panic-on-the-streets-of-beirut-as-israeli-rhetoric-sparks-fears-of-all-out-war-13515928|you brought hell on yourselves panic and fear as israeli rhetoric raises spectre of allout war|9ada90a9ea4da799f4c2ad3285ade433
 2026-03-06T03:34:09.410294+00:00|https://news.sky.com/story/leak-from-uk-security-meeting-on-trumps-war-request-branded-utterly-destructive-13515771|leak from uk security meeting on trumps war request branded utterly destructive|9ece5c441f3051fed359082ab4738aeb
+2026-03-06T05:02:41.919564+00:00|https://www.bbc.com/news/articles/c93wxxe9410o|im still haunted that he died alone the last voices of the covid inquiry|5f9668a1a72ab3dbdb9b4baca8476bf5
+2026-03-06T05:02:47.326187+00:00|https://www.bbc.com/news/articles/cgrzd72wp5zo|sheep are disappearing from the uks hills and its dinner plates|6cd2b924273246a6fa8ef7b2dd31f944
+2026-03-06T05:02:53.572890+00:00|https://www.bbc.com/news/articles/c3v77w5d437o|travelodge staff gave attacker key to womans room|1798346a90186ed6a4ac9f43e17a5454
+2026-03-06T05:02:59.003890+00:00|https://www.bbc.com/news/articles/cm211jnz568o|one in 7 shops in uk has turned cashless in the past year survey finds|322bab68c7bd324e82ff8edf918487ef
