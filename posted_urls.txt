@@ -1,4 +1,3 @@
-2026-02-28T21:30:55.685153+00:00|https://www.bbc.com/news/articles/cdxze91k0rzo|man 49 dies taking part in skydive at airfield|d361942a010c1de48f2c3a2cb484596b
 2026-02-28T21:54:25.559847+00:00|https://www.bbc.com/news/articles/clyv42emzdko|man said he was a good samaritan attacked by exschool friend but forensics revealed a frenzied murder|cc46fcfd5849ca7c221cddc094767786
 2026-02-28T22:30:10.403958+00:00|https://www.bbc.com/news/articles/c78jv571xd3o|pilot survives as light aircraft crashes into sea|c80ef3bfe9b2543cfd6b95aac8b76f0b
 2026-02-28T23:29:38.781115+00:00|https://news.sky.com/story/starmer-is-cautious-on-iran-because-he-knows-the-chaos-trumps-strikes-could-trigger-13513689|starmer is cautious on iran because he knows the chaos trumps strikes could trigger|841f924556aef1d5cba6de8fdc7f4ae0
@@ -487,3 +486,5 @@
 2026-03-07T19:28:18.226448+00:00|https://www.bbc.com/news/articles/cze02ngw3r7o|hunt for driver after girl 5 hit by car outside cemetery|35c8e391769c5ddcfaada5d7d484c7b1
 2026-03-07T20:34:03.988267+00:00|https://news.sky.com/story/donald-trumps-war-with-iran-is-going-global-this-is-a-chaotic-and-dangerous-moment-13516684|trumps war with iran is going global this is a chaotic and dangerous moment|420e4ff2a37a5b77174b721210348646
 2026-03-07T20:34:09.590598+00:00|https://news.sky.com/story/nigerian-soldiers-kill-45-bandits-in-gun-battle-in-katsina-13516659|nigerian soldiers kill 45 bandits in gun battle|55044ecd0bca26a383bbabc3c596e469
+2026-03-07T21:31:39.115611+00:00|https://www.telegraph.co.uk/football/2026/03/07/wrexham-vs-chelsea-live-score-latest-fa-cup-fifth-round|wrexham denied hollywood ending to fa cup classic as chelsea reach quarterfinals|2d397ba32aac7b2ba14403cee7112e68
+2026-03-07T21:31:44.555249+00:00|https://news.sky.com/story/boy-7-dies-after-being-struck-by-car-in-staffordshire-13516698|boy 7 dies after being struck by car|6e78f76caca7c9ba8f449c41e0815fb5
