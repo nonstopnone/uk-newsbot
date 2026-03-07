@@ -1,5 +1,3 @@
-2026-02-28T14:57:19.058269+00:00|https://www.bbc.com/news/articles/c0rjpr575g9o|flights cancelled as travel warnings issued after strikes on iran|3903d434b2d6c6979c3b3e1070010d86
-2026-02-28T14:57:24.461264+00:00|https://www.bbc.com/news/articles/cd037p0z1gxo|polanski and farage dont agree but they have more in common than you might think|e4f27a83fb90ee6336238407365df5ce
 2026-02-28T15:32:03.832310+00:00|https://news.sky.com/story/big-blasts-heard-over-dubai-as-people-run-for-cover-from-iranian-missiles-13513313|big blasts heard over dubai as people run for cover from iranian missiles|a796ee2b9353402c0effb33e156212fe
 2026-02-28T15:32:09.270747+00:00|https://www.bbc.com/news/articles/c620ed3z6ygo|train fares in wales to be frozen for a year|c78554c4574a2036804d9720e182c79b
 2026-02-28T15:32:14.753781+00:00|https://news.sky.com/story/trump-has-tipped-the-middle-east-into-a-massive-war-that-could-last-weeks-13513261|trump has tipped the middle east into a massive war that could last weeks|6ff515e4980b93fc3066cf880d8512e7
@@ -484,3 +482,7 @@
 2026-03-07T13:02:21.741685+00:00|https://news.sky.com/story/nairobi-flash-floods-kill-more-than-20-people-and-cause-widespread-airport-disruption-13516437|nairobi flash floods kill more than 20 people and cause widespread airport disruption|7dac4c522dc1a3abf93b8b6a09712e6c
 2026-03-07T13:02:27.065715+00:00|https://www.bbc.com/news/articles/c620je7gw84o|locked door made incel teen give up southport copycat massacre plan|36601283500810ca114ce89df9b91515
 2026-03-07T13:50:17.959825+00:00|https://news.sky.com/story/revealed160what-donald-trump-told-iraqi-kurdish-leaders-about-iran-ground-operation-13516353|revealed no orders to invade no cia plot what trump told iraqi kurdish leaders|03ce5bf2e05f9589e3ff42b4e65990a5
+2026-03-07T14:58:32.564478+00:00|https://www.telegraph.co.uk/football/2026/03/07/england-vs-iceland-live-score-womens-world-cup-qualifier|bronze and stanway on target as england beat iceland in womens world cup qualifier|232a53bd59ba5f32271583f551f6499a
+2026-03-07T14:58:37.963624+00:00|https://www.bbc.com/news/articles/cddnqd2z864o|military chief defends uk response to middle east conflict|c91b8df82a3dc6509063e8583f609434
+2026-03-07T14:58:43.482485+00:00|https://www.telegraph.co.uk/football/2026/03/07/mansfield-vs-arsenal-live-score-latest-fa-cup-fifth-round|dowman delights as arsenal survive scare to reach fa cup quarterfinals|f4d1533aadd2e8dc2289ae4f32744c76
+2026-03-07T14:58:48.860606+00:00|https://www.bbc.com/news/videos/ce824zygjxjo|the karting track where f1 drivers race|d990871247e38373421804ec012059fe
