@@ -1,4 +1,3 @@
-2026-02-28T09:41:43.353728+00:00|https://news.sky.com/story/trumps-iran-attack-is-a-gamble-and-the-outcome-is-unclear-13513250|trumps iran attack is a gamble and the outcome is unclear|36e4082037761e6e98c5598c2c42853c
 2026-02-28T10:57:49.092259+00:00|https://news.sky.com/story/trump-is-going-for-regime-change-despite-positive-talks-with-iran-13513259|trump is going for regime change despite positive talks with iran|5768db17cbca61322736d386396055f8
 2026-02-28T10:57:54.627003+00:00|https://www.bbc.com/news/articles/c20l1v0ldqzo|starmer chairs cobra meeting over usisraeli strikes on iran|5db6062ec3990bc4102b42563c7c4da1
 2026-02-28T10:58:00.174428+00:00|https://www.bbc.com/weather/articles/cr45q6qqre7o|first full moon of spring set to rise in uk skies this week|705951387c9acbfd539c261c45755d57
@@ -483,3 +482,5 @@
 2026-03-07T08:43:58.559889+00:00|https://www.bbc.com/news/articles/cy9gyz0yx4go|i still dream of owning a home in the town i grew up in|830e9281a89ac14ee6f57a3f773249a0
 2026-03-07T09:14:41.962707+00:00|https://www.bbc.com/news/articles/cze0xj0n7jpo|swinney would consider us military plane ban from prestwick airport|9878630246e9fd0b964ca93a3d9ade79
 2026-03-07T09:14:47.268838+00:00|https://www.bbc.com/sport/tennis/articles/c1e9q19je74o|brit tennis star patten describes escape from dubai after iran attacks|ef110bffae8a266b7b0ecccc2249429b
+2026-03-07T09:46:25.690369+00:00|https://www.bbc.com/news/articles/cx249wdemzyo|man who tried to recruit child to islamic state jailed|4b66f172a9257c058cf1dcfafde2f192
+2026-03-07T09:46:31.153867+00:00|https://www.bbc.com/news/articles/cr5l1q6lrn4o|fruit and veg driver hopes to retire and buy racehorse after lotto win|7e60d8572d0efd9def99785e4e8d0874
