@@ -1,4 +1,3 @@
-2026-02-28T19:02:35.415455+00:00|https://www.bbc.com/news/articles/ce3gwzg5225o|deputy fm briefed on situation for people from ni in middle east|036eadd5ffb3892e89dcf9f14da93012
 2026-02-28T20:33:56.176604+00:00|https://www.telegraph.co.uk/football/2026/02/28/leeds-united-vs-man-city-live-score-latest-premier-league|city shrug off haaland absence to put the pressure back on arsenal|801f3de5184cc4f7b9b729583203cdbf
 2026-02-28T20:34:01.741719+00:00|https://www.bbc.com/news/articles/cwyxv9527njo|two boys charged with murder over mosque stabbing|90a9b4f44bb22bb585468eefc873c852
 2026-02-28T21:30:55.685153+00:00|https://www.bbc.com/news/articles/cdxze91k0rzo|man 49 dies taking part in skydive at airfield|d361942a010c1de48f2c3a2cb484596b
@@ -484,3 +483,7 @@
 2026-03-07T17:00:12.438460+00:00|https://www.telegraph.co.uk/rugby-union/2026/03/07/scotland-v-france-live-score-latest-six-nations-updates|inspired scotland stun france in 90point epic to blow six nations wide open|c7c32ae37fb05004690693ff40f15fcf
 2026-03-07T17:33:22.270670+00:00|https://www.bbc.com/news/articles/cq8gpvdz1j2o|former irish president condemns illegal attacks on iran|fce6d656f6f410d8e1bf66a1488910b4
 2026-03-07T17:56:28.892024+00:00|https://news.sky.com/story/us-v-iran-how-did-we-get-here-13516544|us v iran how did we get here|d5cd031e7a7df93ab93a9b32aabae313
+2026-03-07T19:28:02.250632+00:00|https://www.telegraph.co.uk/rugby-union/2026/03/07/italy-v-england-live-score-latest-six-nations-updates|desperate england slump to first defeat by italy to pile pressure on borthwick|45e80cd3d033542cc2bbf92e43bef6aa
+2026-03-07T19:28:07.632766+00:00|https://www.bbc.com/news/articles/clygp7gp8nqo|police given more time to question iran spying suspects|f18940c75f80e02b56aea0ce882d6704
+2026-03-07T19:28:12.933492+00:00|https://www.bbc.com/news/articles/c0432n5gl1zo|uk to charter flight for british nationals out of dubai|7818a1f4d32fcd5908d32d4dd40c2c7e
+2026-03-07T19:28:18.226448+00:00|https://www.bbc.com/news/articles/cze02ngw3r7o|hunt for driver after girl 5 hit by car outside cemetery|35c8e391769c5ddcfaada5d7d484c7b1
