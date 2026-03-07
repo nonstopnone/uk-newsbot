@@ -484,3 +484,5 @@
 2026-03-07T15:33:48.055449+00:00|https://www.bbc.com/news/articles/c77e5l2vxvgo|fox photographed swimming with ducks and geese|3db30b99fc45ceec6428ec1c5f9db3d6
 2026-03-07T15:57:23.829074+00:00|https://news.sky.com/story/russian-athletes-back-on-podium-after-winning-winter-paralympic-medals-13516495|russian athletes back on podium after winning winter paralympic medals|49b67521ec7ec380891d7e6a764389a6
 2026-03-07T16:39:05.635618+00:00|https://www.bbc.com/news/articles/c1jk2dk074ko|antiwar protest at raf base being used by us|90dd1f6142329e8bdde2b9c0004d0755
+2026-03-07T17:00:07.049359+00:00|https://www.bbc.com/news/articles/c23z2k50780o|coastguards lower dog owner down cliff to rescue pet|6a053b4ddd8699359b4844bee583c4ab
+2026-03-07T17:00:12.438460+00:00|https://www.telegraph.co.uk/rugby-union/2026/03/07/scotland-v-france-live-score-latest-six-nations-updates|inspired scotland stun france in 90point epic to blow six nations wide open|c7c32ae37fb05004690693ff40f15fcf
