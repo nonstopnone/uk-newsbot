@@ -1,5 +1,3 @@
-2026-02-28T07:33:41.700282+00:00|https://news.sky.com/story/man-charged-over-graffiti-on-sir-winston-churchill-statue-in-parliament-square-13513201|man charged over graffiti on churchill statue|304e6b23c3a43aedfa4da22d06e9dd82
-2026-02-28T07:33:47.017193+00:00|https://www.bbc.com/news/articles/c89kdzk4le9o|race hate is up again in northern ireland what needs to change|4c31a8cf19739e9f6bbc4b6ad6cf2eaf
 2026-02-28T08:40:31.191146+00:00|https://www.telegraph.co.uk/recommended/gifting/graham-e-hancock-lego-reader-questions|why is lego so expensive and what makes it so popular a lego master answers your questions|e61eca0dbc0994617155bc2dc48edc74
 2026-02-28T09:41:43.353728+00:00|https://news.sky.com/story/trumps-iran-attack-is-a-gamble-and-the-outcome-is-unclear-13513250|trumps iran attack is a gamble and the outcome is unclear|36e4082037761e6e98c5598c2c42853c
 2026-02-28T10:57:49.092259+00:00|https://news.sky.com/story/trump-is-going-for-regime-change-despite-positive-talks-with-iran-13513259|trump is going for regime change despite positive talks with iran|5768db17cbca61322736d386396055f8
@@ -479,3 +477,6 @@
 2026-03-07T05:22:06.534789+00:00|https://news.sky.com/story/asif-merchant-man-convicted-of-planning-to-kill-trump-amid-allegations-of-iran-backed-plotting-on-us-soil-13516360|man convicted of planning to kill trump amid allegations of iranbacked plotting on us soil|0a0633b265ac533571c063a1ec44ee1b
 2026-03-07T05:22:11.987713+00:00|https://www.bbc.com/weather/articles/c627k6j3kpjo|uk sees highest temperature of the year snow and blood rain in last 48hrs|8ac05aa57adc48ab1d7825cbaeb3bc68
 2026-03-07T06:59:27.824375+00:00|https://news.sky.com/story/four-killed-as-tornadoes-and-powerful-storms-leave-trail-of-destruction-13516366|four killed as tornadoes and powerful storms leave trail of destruction|db0ac348c35a41b703b89dee0893120d
+2026-03-07T07:38:04.823610+00:00|https://news.sky.com/story/two-children-among-seven-dead-in-russian-missile-strikes-in-ukraine-13516381|seven killed in russian missile strikes in ukraines second largest city|e0f935a808feae28bd91894bd173b943
+2026-03-07T07:38:10.425923+00:00|https://www.telegraph.co.uk/formula-1/2026/03/07/f1-australian-grand-prix-qualifying-live-latest-updates|george russell storms to australian gp pole after max verstappen crashes|df07e4cf59a4d5790a56e7d2ed8f014b
+2026-03-07T07:38:16.011783+00:00|https://www.bbc.com/news/articles/c75ekve9yq9o|huge us bomber lands at uk air base|672a768146ece7e8d419a1698d327d5f
