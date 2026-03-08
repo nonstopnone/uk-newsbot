@@ -1,11 +1,3 @@
-2026-03-01T13:03:47.060584+00:00|https://www.bbc.com/news/articles/c875l4rdgllo|man who died in skydive was highly experienced|a4e23ad25733b6dd30da3caad4f582ad
-2026-03-01T13:03:52.631864+00:00|https://news.sky.com/story/at-least-three-killed-and-14-injured-in-texas-bar-shooting-13513825|at least three killed and 14 injured in texas bar shooting|0a43c3ec766c13f8faa28a2966344558
-2026-03-01T13:03:58.189407+00:00|https://www.bbc.com/news/articles/c178xp8r5wno|man arrested over 2021 bedroom killing of teenager|358aff4d9939cf101c2a6399dd934731
-2026-03-01T13:04:03.587215+00:00|https://news.sky.com/story/defence-secretary-reveals-details-of-uks-middle-east-operations-including-taking-down-iran-drones-13513788|defence sec reveals details of uks middle east operations including taking down iran drones|1eeca201e9c693fb34c5e19b15b64448
-2026-03-01T13:04:09.003057+00:00|https://www.bbc.com/news/articles/c4g54w481d5o|birmingham meant everything to ozzy osbourne|97cc300d3449f6c4e10e821779c55b45
-2026-03-01T13:04:14.532821+00:00|https://www.bbc.com/news/articles/cvg3141z13go|honeymoon couples hotel shook by missile strike|79baacf42078dbddcdf4ce14e159a562
-2026-03-01T13:04:19.955362+00:00|https://www.bbc.com/news/articles/c4gqpl4wpx0o|i stay in a camper to be close to my injured son|89a213deb1913c2a10c63f62e1834180
-2026-03-01T13:04:25.376265+00:00|https://www.bbc.com/news/articles/c17894vz7zxo|mum pulls out of council byelection after her teenage son is harassed|b8b3633287246a039afd10f5feddebcd
 2026-03-01T13:50:29.643959+00:00|https://www.bbc.com/news/articles/c07jv23lz4po|overdue library books returned 50 years late|06970ce17e33c33f74393efc0cdd981d
 2026-03-01T14:31:32.605608+00:00|https://news.sky.com/story/thousands-stranded-as-iranian-strikes-force-airports-to-close-including-dubai-and-doha-13513797|thousands stranded as iranian strikes force airports to close including dubai and doha|d7e9733a40df35143dfd80fdeca7d11b
 2026-03-01T14:31:37.944895+00:00|https://www.bbc.com/news/articles/c0lj9x8271ro|british and irish citizens in the middle east urged to register|c7edbca1b0c85610e0ea5ad4e5ece074
@@ -483,3 +475,6 @@
 2026-03-08T11:31:53.156624+00:00|https://www.bbc.com/news/articles/c62dxvldpgeo|man charged after woman found dead at property|644b91e62f6624d85ad845c1aec93796
 2026-03-08T11:56:10.456988+00:00|https://news.sky.com/story/russias-uk-ambassador-denies-kremlin-used-frog-poison-to-kill-alexei-navalny-13516883|russian ambassador denies kremlin used frog poison to kill navalny|99e3226ff11e6515380f12aab1b8f86c
 2026-03-08T11:56:15.839702+00:00|https://www.bbc.com/news/articles/c0mgjklmzwvo|vigilante plants flowers in potholes|760eba24f543ceecb6edaf9b30213520
+2026-03-08T13:06:47.192097+00:00|https://www.bbc.com/news/articles/c05v28eqjyvo|pm is standing up for uk interests says cooper after trump criticism|32ab8c4de0dcd8d6e8a9731ebbbd65bf
+2026-03-08T13:06:52.488554+00:00|https://www.bbc.com/news/articles/cq57pgdp1e2o|swinney sorry for glasgow hospital distress but believes it is safe|59b60cdeb062044cf32bbef21696fb1c
+2026-03-08T13:06:57.867652+00:00|https://www.bbc.com/news/articles/czr02k0851no|armed police arrest man in street with samurai sword|3e947ab663e830d618455d4539c78647
