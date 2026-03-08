@@ -1,4 +1,3 @@
-2026-03-01T13:50:29.643959+00:00|https://www.bbc.com/news/articles/c07jv23lz4po|overdue library books returned 50 years late|06970ce17e33c33f74393efc0cdd981d
 2026-03-01T14:31:32.605608+00:00|https://news.sky.com/story/thousands-stranded-as-iranian-strikes-force-airports-to-close-including-dubai-and-doha-13513797|thousands stranded as iranian strikes force airports to close including dubai and doha|d7e9733a40df35143dfd80fdeca7d11b
 2026-03-01T14:31:37.944895+00:00|https://www.bbc.com/news/articles/c0lj9x8271ro|british and irish citizens in the middle east urged to register|c7edbca1b0c85610e0ea5ad4e5ece074
 2026-03-01T14:31:43.301740+00:00|https://www.bbc.com/news/articles/c0q354pn431o|scot in dubai says children heard bangs of antimissile defences|a268ef201b6f77c69f27d3faddd3bcd0
@@ -478,3 +477,4 @@
 2026-03-08T13:06:47.192097+00:00|https://www.bbc.com/news/articles/c05v28eqjyvo|pm is standing up for uk interests says cooper after trump criticism|32ab8c4de0dcd8d6e8a9731ebbbd65bf
 2026-03-08T13:06:52.488554+00:00|https://www.bbc.com/news/articles/cq57pgdp1e2o|swinney sorry for glasgow hospital distress but believes it is safe|59b60cdeb062044cf32bbef21696fb1c
 2026-03-08T13:06:57.867652+00:00|https://www.bbc.com/news/articles/czr02k0851no|armed police arrest man in street with samurai sword|3e947ab663e830d618455d4539c78647
+2026-03-08T13:51:15.452293+00:00|https://news.sky.com/story/why-hasnt-the-iranian-regime-collapsed-13516892|why hasnt the iranian regime collapsed|44436dea4b85449b197d2c89cdfc770e
