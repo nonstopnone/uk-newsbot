@@ -1,5 +1,3 @@
-2026-03-01T19:29:13.995519+00:00|https://news.sky.com/story/ship-tracking-reveals-tankers-and-millions-of-barrels-of-oil-stuck-in-the-gulf-13513961|ship tracking reveals tankers and millions of barrels of oil stuck in the gulf|93d4dd22c421ee9f7dc802eadace7a42
-2026-03-01T19:29:19.495660+00:00|https://www.telegraph.co.uk/football/2026/03/01/arsenal-vs-chelsea-live-score-latest-premier-league-watch|setpiece fc do it again but they are a hard watch|1f581fd02d07899b783f2b1f2fae288f
 2026-03-01T19:47:25.901178+00:00|https://www.bbc.com/news/articles/cvg1jzqqlnxo|former mp ashworth recovering after suffering stroke|78a75056722779be7e2ea585731a40f6
 2026-03-01T19:47:31.200640+00:00|https://news.sky.com/story/what-we-know-so-far-about-us-israeli-strikes-and-retaliatory-attacks-by-iran-13513943|what we know so far about usisraeli strikes and retaliatory attacks by iran|0a2ba58ea1d1ac9712489093e34f0be5
 2026-03-01T20:35:41.981775+00:00|https://news.sky.com/story/a-single-iranian-missile-penetrating-us-defences-could-throw-trump-off-course-13513983|a single iranian missile penetrating us defences could throw trump off course|edc6c04b4aabcee775c3c368f4b9dd91
@@ -481,3 +479,4 @@
 2026-03-08T17:41:34.510347+00:00|https://www.bbc.com/news/articles/c1jk22rd653o|teenage footballer dies during academy match|63121e073aac76a12b68107352d478be
 2026-03-08T17:41:39.860596+00:00|https://news.sky.com/story/two-israeli-soldiers-killed-as-latest-attacks-in-lebanon-leave-nearly-400-dead-13516918|two israeli soldiers killed as attacks in lebanon leave nearly 400 dead|203efb06537a746f6a7263ed82ff9b82
 2026-03-08T18:49:59.461251+00:00|https://www.telegraph.co.uk/cricket/2026/03/08/t20-world-cup-final-live-india-vs-new-zealand-score-latest|india were preordained to win this t20 world cup and they did not disappoint|211451326062c3d3e7a02e32ac12ffd9
+2026-03-08T19:30:20.101807+00:00|https://news.sky.com/story/two-drivers-dead-after-four-vehicle-collision-near-bristol-13517021|two drivers dead after fourvehicle collision|badffb8de78118807467b5143dfb54c6
