@@ -1,5 +1,3 @@
-2026-03-01T09:45:32.433443+00:00|https://www.bbc.com/news/articles/c204p0pprvxo|unprecedented resistance the battle over north berwicks parking meters|36bc0baaba94547609381b658d6c4615
-2026-03-01T09:45:37.998158+00:00|https://www.bbc.com/news/articles/cy0dpqqx5ngo|arrest after man dies in shopping centre attack|4e017e54a2348933a9bd458d8e1520d8
 2026-03-01T10:33:02.604832+00:00|https://news.sky.com/story/whos-in-charge-of-iran-now-and-who-will-be-its-new-leader-13513739|whos in charge of iran now and who will be its new leader|65b7d11d13013c48588c5567f4c043c4
 2026-03-01T10:59:10.595759+00:00|https://www.bbc.com/news/articles/c0e5z004z7eo|rise in romanian speakers sees calls for language to be a gcse option|050efebbb8c914c1dc572db6a37968e3
 2026-03-01T10:59:15.973478+00:00|https://www.telegraph.co.uk/racing/2026/02/20/grand-national-runners-riders-favourites-odds-2026|grand national runners favourites and odds for 2026 key horses to note|54a5f3725200643f14378a5273f41cdc
@@ -480,3 +478,4 @@
 2026-03-08T05:50:22.395212+00:00|https://news.sky.com/story/new-search-for-malaysia-airlines-flight-mh370-unsuccessful-13516801|new update on search for malaysia airlines flight mh370 12 years after it disappeared|e86f13f1120fc26c2b8d30f1fcb818fa
 2026-03-08T06:54:21.402322+00:00|https://www.telegraph.co.uk/formula-1/2026/03/08/australian-grand-prix-2026-live-latest-f1-updates-russell|britains russell wins australian gp as wacky race signals new era of overtakes|5c728e9dae8a9f13a9e7e545f04c5a7a
 2026-03-08T09:15:23.682686+00:00|https://www.bbc.com/sport/formula1/articles/c1l72e7mrn4o|russell wins first race of new f1 era in australia|9a258f6f0814e0b2aa00a5a70b98cd79
+2026-03-08T09:53:12.597137+00:00|https://www.bbc.com/news/articles/c5ykknpvprno|i met elvis on his one visit to scotland it was like a dream|b2cfe2894cae05057d7d0c15b77ddaf0
