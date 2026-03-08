@@ -1,6 +1,3 @@
-2026-03-01T22:33:46.685094+00:00|https://news.sky.com/story/the-horror-story-at-beit-shemesh-where-an-iranian-missile-evaded-israels-formidable-defences-13514045|the horror story at beit shemesh where an iranian missile evaded israels formidable defences|d6f26bb3239fde7f9f67d811756fa914
-2026-03-01T22:33:52.202387+00:00|https://www.bbc.com/news/articles/cdjm8pn0ld8o|uk mounts operation to support thousands of britons in middle east|82542b476b2332f52f51fa7b20ada0ea
-2026-03-01T22:33:57.574591+00:00|https://www.bbc.com/news/articles/cp32ddzdjxko|major changes to asylum system set to come into force|1e4c99444a4823bdb4ef2a63f5deaca1
 2026-03-01T22:59:05.420324+00:00|https://news.sky.com/story/trumps-war-with-iran-has-become-personal-for-people-in-dubai-13514039|trumps war with iran has become personal for people in dubai|2fe961db516204c866a307327988bafe
 2026-03-02T02:50:21.309253+00:00|https://www.bbc.com/news/articles/cm2r0q310e3o|raf responding to suspected drone strike at uk base in cyprus mod says|7a15082eb315ac3a2e625c4084c5db9d
 2026-03-02T02:50:26.758209+00:00|https://news.sky.com/story/raf-base-in-cyprus-hit-by-suspected-drone-strike-ministry-of-defence-says-13514072|raf base in cyprus hit by suspected drone strike|737da82af59a8acd6e67dbf40998a6d1
@@ -479,3 +476,6 @@
 2026-03-08T21:34:33.467620+00:00|https://www.bbc.com/news/articles/cy8l2wx0027o|vape shop fire causes major disruption at glasgow central station|002869a8a215ec5652e3a18bf991e357
 2026-03-08T21:34:38.825424+00:00|https://www.bbc.com/news/articles/c78x4qvp44vo|mums disbelief at sentence for show off driver who killed daughter on zebra crossing|d9fcd0f0bcdc3e99bc7ce9dd0f908b16
 2026-03-08T21:57:12.193768+00:00|https://news.sky.com/story/vape-shop-fire-closes-scotlands-busiest-railway-station-until-further-notice-13517078|vape shop fire closes scotlands busiest railway station until further notice|9de0f0dbb8c44e5b80b0b1d0fd56628c
+2026-03-08T22:34:58.846677+00:00|https://www.bbc.com/news/articles/crrxp4p8p77o|clumber spaniel named bruin wins best in show at crufts 2026|5a168c952527f8a8e819db670d14fdc4
+2026-03-08T22:35:04.292500+00:00|https://www.bbc.com/sport/football/articles/c1w5221prjgo|clubs complain to x about sickening grok posts|e7f48781bd328c102069059c2fa84c66
+2026-03-08T22:35:09.632562+00:00|https://www.bbc.com/news/articles/cp8rp70x4n4o|uk opens charter flights booking portal for britons in dubai|bbe3970716522fd1ff357b7d9a0cae75
