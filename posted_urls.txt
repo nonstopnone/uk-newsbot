@@ -479,3 +479,4 @@
 2026-03-08T04:49:10.486816+00:00|https://www.bbc.com/news/articles/c2k82v8qjzyo|death of a monster and blair rebukes starmer|be58f12eea1ba04057d2af0e66a0ef24
 2026-03-08T05:50:22.395212+00:00|https://news.sky.com/story/new-search-for-malaysia-airlines-flight-mh370-unsuccessful-13516801|new update on search for malaysia airlines flight mh370 12 years after it disappeared|e86f13f1120fc26c2b8d30f1fcb818fa
 2026-03-08T06:54:21.402322+00:00|https://www.telegraph.co.uk/formula-1/2026/03/08/australian-grand-prix-2026-live-latest-f1-updates-russell|britains russell wins australian gp as wacky race signals new era of overtakes|5c728e9dae8a9f13a9e7e545f04c5a7a
+2026-03-08T09:15:23.682686+00:00|https://www.bbc.com/sport/formula1/articles/c1l72e7mrn4o|russell wins first race of new f1 era in australia|9a258f6f0814e0b2aa00a5a70b98cd79
