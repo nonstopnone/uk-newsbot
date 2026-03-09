@@ -1,11 +1,3 @@
-2026-03-02T11:04:25.042992+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-london-theatre-shows-musicals-plays-tickets-family|the best childrens theatre shows to book for the year ahead|e338b929c6d8120e4c23993f019b85ed
-2026-03-02T11:04:30.450671+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/desserts/mango-passionfruit-mess-basil-pistachios-recipe|mango and passionfruit mess with basil and pistachios|bb618d81a3a04525dc8c499637a12501
-2026-03-02T11:04:35.887584+00:00|https://www.telegraph.co.uk/recipes/everyday/fish/egg-and-salmon-japanese-rice-bowl-with-soy|egg and salmon japanese rice bowl with soy|ffde453036875f11cd614a193031125e
-2026-03-02T11:04:41.266503+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/orange-and-ginger-roast-chicken|roast chicken with caramelised orange and ginger|5a0fab007c8cb10588675a705c5f244d
-2026-03-02T11:04:46.687501+00:00|https://www.telegraph.co.uk/recipes/everyday/lamb/turkish-spiced-lamb-onions-yogurt-pasta-recipe|turkishspiced lamb with onions yogurt and pasta|29241434ccb0a050268f2c3a63229ee6
-2026-03-02T11:04:52.048610+00:00|https://www.telegraph.co.uk/recipes/everyday/lunch/puff-pastry-tart-with-smoked-bacon-onion-and-potato|puff pastry tart with smoked bacon onion and potato|16f179ae0c381cb589c0a874b7ff024d
-2026-03-02T11:04:57.425564+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/cakes/sticky-toffee-pudding-cake-recipe|sticky toffee pudding cake|e7a0e1edc5082b480125846af7026db2
-2026-03-02T11:05:02.812458+00:00|https://www.telegraph.co.uk/recipes/everyday/vegetarian/roast-celeriac-wedges-with-kale-and-walnut-pesto|roast celeriac wedges with kale and walnut pesto|9b98c46467cae50126840b47cf8dbb1d
 2026-03-02T11:47:15.212826+00:00|https://www.bbc.com/news/articles/cn0ek3e6zk3o|two people hurt as armed police called to reports of man with knife|f8fa3be59e49f7cca30807558016df5c
 2026-03-02T11:47:20.627629+00:00|https://www.telegraph.co.uk/recommended/home/upcycling-ideas|a beginners guide to upcycling clothes according to a sewing bee winner|b0343d0a59c1729de9ba3cc96dbe31b2
 2026-03-02T11:47:26.061846+00:00|https://www.bbc.com/news/articles/c5yvx33wp1qo|girl 17 died after being hit by multiple vehicles after leaving hospital|3c76ece28c6538e36c9dd906fbb496bc
@@ -473,3 +465,11 @@
 2026-03-09T08:03:44.517271+00:00|https://www.bbc.com/news/articles/cy577wd1xgro|images of face released in bid to solve mystery of man found dead in wetsuit|37a10a9c1b03ef859384fa6a97df027e
 2026-03-09T08:03:49.891593+00:00|https://www.bbc.com/news/articles/cwy6wn3lnyyo|paddington first new musical to win nine whatsonstage awards in recordsetting haul|6ed59588bd77f1ee65aabe2ef4852db0
 2026-03-09T10:08:47.587329+00:00|https://news.sky.com/story/masked-fan-unplugs-var-monitor-during-german-football-match-13517158|masked fan unplugs var monitor during penalty in football match|3c633093c10bd72afbea839205b72cd7
+2026-03-09T11:05:35.625712+00:00|https://www.telegraph.co.uk/recommended/leisure/outdoor/best-head-torches|the best head torches for running hiking and walking the dog in the dark|a113afe0c99347ff8d20d88983ad7f8f
+2026-03-09T11:05:41.044617+00:00|https://www.bbc.com/news/articles/cz6evlwl68do|call off kings us visit over iran urge lib dems|c49ef942144e670bb6c14b643841940a
+2026-03-09T11:05:46.470814+00:00|https://news.sky.com/story/synagogue-in-belgium-damaged-in-explosion-13517202|synagogue in belgium damaged in explosion|f64a9a323faff49159835db37fa7b1e4
+2026-03-09T11:05:51.908752+00:00|https://www.telegraph.co.uk/recommended/home/best-carpet-cleaners|the best carpet cleaners for removing stains tested at home with expert advice|3773b9657eb31529b59cd557b8aedc2a
+2026-03-09T11:05:57.336998+00:00|https://www.bbc.com/news/articles/czx75r7n205o|tributes to enormously talented teen goalkeeper|f9e6306bea232a90e925e737a4df80d2
+2026-03-09T11:06:03.059574+00:00|https://www.telegraph.co.uk/recommended/leisure/fitness/best-gym-leggings|i work out every day and these are my favourite gym leggings yes they are squatproof|d1c7e44812faa5035135d1bb37114d3d
+2026-03-09T11:06:08.488698+00:00|https://www.telegraph.co.uk/recommended/tech/best-projectors-cinema-experience-home|the best home cinema projectors of 2026 tested for ultimate picture quality|6d06bfdaea9dcd20e2cd2af252b13425
+2026-03-09T11:06:13.897025+00:00|https://www.telegraph.co.uk/recommended/beauty-style/best-beard-trimmers|the best beard trimmers tested for precision and styling versatility|656c798f9c53b8be128f76d7ac76f9d7
