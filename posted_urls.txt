@@ -1,11 +1,3 @@
-2026-03-02T13:15:40.754442+00:00|https://www.bbc.com/news/articles/c62drgvk263o|why is raf fairford being used in iran conflict|1d5a63df738ca98e5e3c7eed6834d8c9
-2026-03-02T13:15:46.167902+00:00|https://www.telegraph.co.uk/recipes/everyday/soups/cold-weather-soupe-au-pistou-recipe|cold weather soupe au pistou|11b782914b63bd0957909340f395c0af
-2026-03-02T13:15:51.540018+00:00|https://www.bbc.com/news/articles/cj6dwk052ndo|oneill criticises decision to let us use uk bases to strike iran|39cf609f31009b0375ae70664e7e4263
-2026-03-02T13:15:56.827435+00:00|https://www.telegraph.co.uk/recommended/sleep/best-cooling-mattress|im a hot sleeper and these cooling mattresses gave me a more comfortable nights sleep|e6f23eddc7c7c2f6bb99bb6ac1a7e1fd
-2026-03-02T13:16:02.104894+00:00|https://www.bbc.com/news/articles/c62drgzled6o|more than 100000 britons register for help in middle east|27107078b6905ec099328b5541c66be7
-2026-03-02T13:16:07.420862+00:00|https://www.telegraph.co.uk/recommended/sleep/best-anti-snore-pillow|i tested antisnore pillows and one transformed my nights sleep and saved my wifes sanity|df33f73af0e6698f9bf7db5e598e2a9f
-2026-03-02T13:16:12.719163+00:00|https://www.bbc.com/news/articles/c04319pzeg5o|brewdog closes all bars for a day as it looks to complete sale|523fe067e4b2e94ad68231c918d4d4a4
-2026-03-02T13:16:18.031410+00:00|https://www.bbc.com/news/articles/cn87v1j9glxo|villagers fear collapsing road will never reopen|f0a6cf694c97bde6ddb1395c6832ff1e
 2026-03-02T14:24:46.082394+00:00|https://news.sky.com/story/man-denies-criminal-damage-after-winston-churchill-statue-outside-parliament-sprayed-with-graffiti-13514228|man denies criminal damage after churchill statue in westminster sprayed with graffiti|7615571924b35b7b23a556ed1d68b741
 2026-03-02T15:57:21.282755+00:00|https://www.bbc.com/news/articles/cvgv899led4o|man found guilty of saudi arabian student murder|b2de9602af5eabe6093430dd76541007
 2026-03-02T15:57:26.678456+00:00|https://www.telegraph.co.uk/recipes/everyday/vegetarian/lentil-carrot-date-salad-mint-harissa-recipe|lentil carrot and date salad with mint and harissa|92bb414439a09d9ec36cd2cac65d25a5
@@ -475,3 +467,11 @@
 2026-03-09T11:51:33.698609+00:00|https://news.sky.com/story/homemade-bomb-hurled-during-protest-outside-new-york-mayor-mamdanis-house-police-say-13517146|homemade bomb hurled during protest outside new york mayors house police say|13b0352634545ba69fdc2369c61ad6d6
 2026-03-09T11:51:39.276107+00:00|https://www.telegraph.co.uk/recommended/leisure/fitness/best-home-gym-equipment|the best home gym equipment for effective workouts at home|f7ff101faa66bcbdba3859aefd186f1c
 2026-03-09T11:51:44.820381+00:00|https://www.telegraph.co.uk/recommended/home/cleaning/best-robot-vacuum-cleaners-tried-tested|does anyone really need a robot vacuum we tested 14 to find out|8f505d9ac86a4457a8813894efe1c6d8
+2026-03-09T13:20:50.604526+00:00|https://www.bbc.com/news/articles/cd70wdxrrn4o|passerby tried to tackle vape shop blaze that led to inferno|a6404cfa298f6a9e6e915462c8e0fcde
+2026-03-09T13:20:56.171954+00:00|https://www.telegraph.co.uk/recommended/tech/reviews/apple-iphone-17e-review|theres a lot to love with apples cheaper iphone if you can forgive the compromises|87757c6d74ebbccdb1591a3a12df3e8d
+2026-03-09T13:21:01.631971+00:00|https://www.bbc.com/news/articles/czj1833lyddo|pm warns of impact of iran conflict on uk economy|64c7eed883a69dcdc78d6b6acf86f865
+2026-03-09T13:21:07.065177+00:00|https://www.telegraph.co.uk/recommended/home/fans-heaters/best-electric-heater|beat the chill with electric heaters tested for energy efficiency and warmth|40926672a2fb3c6062879c9e10c42124
+2026-03-09T13:21:12.625770+00:00|https://www.telegraph.co.uk/recommended/home/kitchen/best-air-fryers-healthy-home-cooking|is ninja still king we put the latest air fryers to the test to find out|b63a067aae2d9ad34b6d89e562b45cea
+2026-03-09T13:21:18.167154+00:00|https://www.telegraph.co.uk/recommended/tech/best-white-noise-machine|the best white noise machines tested with advice from a neuroscientist|5075c1ec1457dd2c72395b4920251d4b
+2026-03-09T13:21:23.582893+00:00|https://www.telegraph.co.uk/recommended/sleep/best-wake-light-alarm-clocks|beat groggy mornings with a sunrise alarm clock to help you wake up|85fe0e1fbe1fe510eebf45771cf85822
+2026-03-09T13:21:29.122692+00:00|https://www.telegraph.co.uk/recommended/beauty-style/best-bathroom-weighing-scales-weight-smart-body-monitors-heart|the 10 best bathroom scales including mechanical digital and smart models|b68b153a40355ecad2eaa9a228fb11c8
