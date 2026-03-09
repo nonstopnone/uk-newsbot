@@ -490,3 +490,7 @@
 2026-03-09T18:32:27.776631+00:00|https://www.bbc.com/news/articles/c1w5yjjylzzo|days of disruption expected as glasgow central closed after fire near station|92dbf28cb3a9602b03b04c61ebe5bd64
 2026-03-09T18:32:33.245436+00:00|https://news.sky.com/story/taxpayers-could-fund-funeral-for-soham-murderer-ian-huntley-13517397|taxpayers could fund funeral for soham murderer ian huntley|2582f91f83acab16b57a3ef3843451b0
 2026-03-09T18:32:38.660133+00:00|https://www.bbc.com/news/articles/cde4j20jr6jo|rape victim warned police about innocent suspect|05594b41c8f4fb15715678e2638cedad
+2026-03-09T19:28:33.775857+00:00|https://www.bbc.com/news/articles/c3v7y5z7w21o|frost pregnancy tip came from good source exmail journalist tells court|745c65d0d924ff3808070276793a7bf3
+2026-03-09T19:28:39.355543+00:00|https://news.sky.com/story/ai-tech-firm-anthropic-sues-over-blacklisting-by-pentagon-13517427|ai tech firm anthropic sues over blacklisting by pentagon|74a2c5f300bb665bedd49e76346855a6
+2026-03-09T19:28:44.805223+00:00|https://news.sky.com/story/starmer-facing-new-labour-rebellion-as-mps-fight-to-extend-porn-ban-13517382|starmer facing new labour rebellion as mps fight to extend porn ban|f0c4e1d799f55af3d0405893fe026932
+2026-03-09T19:28:50.374844+00:00|https://news.sky.com/story/players-from-iran-womens-football-team-seek-refuge-in-australia-13517229|iranian women footballers seek refuge in australia|a7a705ac37c22148a661998158f13ae4
