@@ -1,8 +1,3 @@
-2026-03-02T15:57:21.282755+00:00|https://www.bbc.com/news/articles/cvgv899led4o|man found guilty of saudi arabian student murder|b2de9602af5eabe6093430dd76541007
-2026-03-02T15:57:26.678456+00:00|https://www.telegraph.co.uk/recipes/everyday/vegetarian/lentil-carrot-date-salad-mint-harissa-recipe|lentil carrot and date salad with mint and harissa|92bb414439a09d9ec36cd2cac65d25a5
-2026-03-02T15:57:32.060294+00:00|https://news.sky.com/story/wettest-winter-on-record-for-parts-of-the-uk-says-met-office-13514283|wettest winter on record for parts of the uk says met office|7acfe1710bf1acc0f815f7dc2928bb25
-2026-03-02T15:57:38.329643+00:00|https://www.telegraph.co.uk/recommended/sleep/best-cooling-pillow|i spent months testing cooling pillows to find the best for hot sleepers|68308d359c506fdf476076546f8dc2f2
-2026-03-02T15:57:43.746720+00:00|https://www.telegraph.co.uk/recipes/everyday/salads/salad-of-roast-tomatoes-and-fennel-with-preserved-lemon|salad of roast tomatoes and fennel with preserved lemon|679404209f95dbf25614dad3bafb9fcd
 2026-03-02T17:01:18.877702+00:00|https://www.bbc.com/news/articles/c05v0p1d0peo|bars close and hundreds lose jobs as us firm buys brewdog in £33m deal|088d044e15a3f0bd61f166a0a3e458d7
 2026-03-02T17:01:24.274644+00:00|https://www.bbc.com/news/articles/cy8ly0gpl1xo|tour or residency top artists give their views on live music debate|eb111a8f90a7f23e9d189e6e8c2ecd6d
 2026-03-02T17:01:29.718368+00:00|https://www.bbc.com/news/articles/c93w17k95vno|killer grey seals suspected of claiming first dolphin in welsh waters|6f03cd71dbfc48063a5d6c8846bf6d50
@@ -488,3 +483,7 @@
 2026-03-09T15:42:39.647679+00:00|https://www.bbc.com/news/articles/ckgl81npdm0o|police officer told woman i know the law before alleged sexual assault court|23918b527b8acb062f6b31354ea4bb84
 2026-03-09T15:42:45.082189+00:00|https://www.bbc.com/news/articles/c98q2ymej6po|gisèle pelicot among headliners at this years hay festival|2390d3ce4da70bf651e47c5577fc0c2c
 2026-03-09T15:42:50.500117+00:00|https://www.bbc.com/news/articles/cqxd10y1egjo|man who broke stained glass window fined £11000|ee42d454d4c4abb99e5be48c226376d1
+2026-03-09T16:41:52.163909+00:00|https://news.sky.com/story/man-who-broke-into-grade-il-listed-church-and-smashed-stained-glass-window-fined-16311k-13517333|man who broke into grade illisted church fined £11k|0f1c2a7e453dda96a8af43d4f1e4f877
+2026-03-09T16:41:57.573413+00:00|https://www.bbc.com/news/articles/c24dy787revo|send reforms to strip away childrens legal protections charity says|f027cf5b89e2720fccbe71e1f785e668
+2026-03-09T16:42:02.933533+00:00|https://www.telegraph.co.uk/rugby-union/2026/03/09/france-v-england-six-nations-2026-watch-tv-kick-off-odds|france v england six nations 2026 when is it odds and how to watch|ecea6b54558d988dff6d5f53289d6645
+2026-03-09T16:42:08.349777+00:00|https://www.bbc.com/news/articles/c5yqzvjzgg4o|king hails commonwealth at biggest royal gathering since andrew arrest|fc683610929bdb205c65af91c063f4bb
