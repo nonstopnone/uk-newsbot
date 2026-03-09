@@ -1,6 +1,3 @@
-2026-03-02T07:58:12.628708+00:00|https://www.bbc.com/news/articles/cy8lvjn66zxo|bbc investigation finds 50000 people waited over 24 hours in ae corridor care|d8c1a8ea0fe1c7fec268a195f628afc7
-2026-03-02T07:58:18.028514+00:00|https://news.sky.com/story/raf-base-in-cyprus-hit-by-drone-strike-ministry-of-defence-says-13514072|raf base in cyprus hit by drone strike|f0e3402167a43fd4b59306b9076f303a
-2026-03-02T07:58:23.444508+00:00|https://www.bbc.com/news/articles/cvg3vjkx9d7o|consultation on social media ban for under16s to begin|3e7a5b4545fc7becf2f13114bab75c94
 2026-03-02T08:57:35.108662+00:00|https://www.bbc.com/news/articles/cy7jvj18nnpo|tipping point contestant who promised to use winnings on ivf now has triplets|2a839bf15a8bfaa7e20b6e3080f7b44c
 2026-03-02T08:57:40.591400+00:00|https://news.sky.com/story/american-deaths-will-dictate-political-cost-of-donald-trumps-strikes-on-iran-13514097|the loss of us lives in war redraws the political battlefield for trump|5d23f6caf0afbd2589ae8a28482445c5
 2026-03-02T10:01:23.949038+00:00|https://www.telegraph.co.uk/rugby-union/2026/02/27/six-nations-2026-start-fixtures-schedule-how-to-watch|six nations 2026 fixtures results squads and how to watch on tv|23fb15b85b2cfa4dfb715444c3d5164c
@@ -477,3 +474,5 @@
 2026-03-09T04:58:38.040319+00:00|https://news.sky.com/story/iran-war-markets-are-plummeting-as-the-conflict-escalates-but-not-every-industry-is-affected-13516947|markets are plummeting as the war escalates but not every industry is affected|6e3ad7209f3fa2331123919aa77ee3b5
 2026-03-09T06:06:17.072093+00:00|https://news.sky.com/story/cancer-death-rates-fall-to-historic-low-as-types-with-biggest-drop-in-fatalities-revealed-13516976|cancer death rates fall to historic low as types with biggest drop in fatalities revealed|763ed931c720350280be5e988d24ecd3
 2026-03-09T07:18:54.772859+00:00|https://www.bbc.com/news/articles/cy4ww4dp33jo|ira bomb victims civil court case begins against gerry adams|8874f65cca81da82b683fab450ab9b1b
+2026-03-09T08:03:44.517271+00:00|https://www.bbc.com/news/articles/cy577wd1xgro|images of face released in bid to solve mystery of man found dead in wetsuit|37a10a9c1b03ef859384fa6a97df027e
+2026-03-09T08:03:49.891593+00:00|https://www.bbc.com/news/articles/cwy6wn3lnyyo|paddington first new musical to win nine whatsonstage awards in recordsetting haul|6ed59588bd77f1ee65aabe2ef4852db0
