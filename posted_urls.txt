@@ -1,4 +1,3 @@
-2026-03-02T21:20:49.328324+00:00|https://www.bbc.com/news/articles/cz0gp3xvve2o|rayner felt great concern at threats court told|3ef8f31979eb037f856ccf66e142f962
 2026-03-02T21:58:36.931250+00:00|https://news.sky.com/story/nearly-500-jobs-to-be-lost-in-brewdogs-takeover-by-american-firm-tilray-13514417|nearly 500 jobs to be lost in brewdogs american takeover|52a590c73ea6a353950642f495674f75
 2026-03-02T21:58:42.252113+00:00|https://news.sky.com/story/britain-has-limited-means-to-fight-back-after-years-of-underinvestment-13514399|britain has limited means to fight back after years of underinvestment|c137a41a6b215a451d3111f27b5b8dde
 2026-03-02T22:39:05.015762+00:00|https://www.telegraph.co.uk/business/2026/03/02/oil-prices-brent-iran-us-strait-of-hormuz-ftse-100-markets|city slashes bets on rate cuts after energy price shock|6a7b9fb087b64fa086817325e1553a27
@@ -487,3 +486,4 @@
 2026-03-09T19:28:50.374844+00:00|https://news.sky.com/story/players-from-iran-womens-football-team-seek-refuge-in-australia-13517229|iranian women footballers seek refuge in australia|a7a705ac37c22148a661998158f13ae4
 2026-03-09T20:52:00.833195+00:00|https://news.sky.com/story/raf-jets-shoot-down-drones-heading-towards-jordan-and-bahrain-13517461|raf jets shoot down drones heading towards jordan and bahrain|74c41a967b21d520189cc419aa4ba5c2
 2026-03-09T20:52:07.642644+00:00|https://www.bbc.com/news/articles/c07jyd0rrz2o|reeves to look at how to help households with heating oil bills|5dac53e5cf997c8e9d46fa8ebce6b1ea
+2026-03-09T21:39:43.591996+00:00|https://news.sky.com/story/new-evidence-challenges-trump-claim-about-deadly-girls-school-strike-13517324|new evidence challenges trump claim about deadly girls school strike|08609c7ddc2f26464f53fcb8c51fbaa6
