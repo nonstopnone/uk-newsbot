@@ -1,8 +1,3 @@
-2026-03-02T07:11:51.661431+00:00|https://www.bbc.com/news/articles/c20j828eg4lo|woman sheltered in dubai hotel basement after air strikes|2a5c5be1ef788f390fb5a192ca32068c
-2026-03-02T07:11:56.972366+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/wildlife-insurance-protecting-humans-from-animal-attacks|the wildlife insurance protecting humans from animal attacks|61c8723905e3fe5bcaf418b9c41ade7b
-2026-03-02T07:12:02.297421+00:00|https://news.sky.com/story/do-you-want-to-ban-kids-from-social-media-the-government-is-asking-13513247|do you want to ban kids from social media the government is asking|7318729cf142184b14f431c074740279
-2026-03-02T07:12:07.620807+00:00|https://www.bbc.com/news/articles/cly0g7xyp97o|missing students family continue to keep hope alive|f63050623706f9ea5ba77b9a9eb97cfa
-2026-03-02T07:12:13.029056+00:00|https://www.telegraph.co.uk/fashion/events/actor-awards-2026-best-dressed-red-carpet|actor awards 2026 timothée chalamet takes his mother on the red carpet|38662ad07e81b4f6bea43cc7b9e3822f
 2026-03-02T07:58:12.628708+00:00|https://www.bbc.com/news/articles/cy8lvjn66zxo|bbc investigation finds 50000 people waited over 24 hours in ae corridor care|d8c1a8ea0fe1c7fec268a195f628afc7
 2026-03-02T07:58:18.028514+00:00|https://news.sky.com/story/raf-base-in-cyprus-hit-by-drone-strike-ministry-of-defence-says-13514072|raf base in cyprus hit by drone strike|f0e3402167a43fd4b59306b9076f303a
 2026-03-02T07:58:23.444508+00:00|https://www.bbc.com/news/articles/cvg3vjkx9d7o|consultation on social media ban for under16s to begin|3e7a5b4545fc7becf2f13114bab75c94
@@ -481,3 +476,4 @@
 2026-03-09T04:58:32.597143+00:00|https://news.sky.com/story/uk-must-urgently-boost-defence-spending-or-risk-being-vulnerable-to-missile-attacks-general-warns-13517130|uk must urgently boost defence spending or risk being vulnerable to missile attacks general warns|fc794d05c2d93d191ca4353b197767fe
 2026-03-09T04:58:38.040319+00:00|https://news.sky.com/story/iran-war-markets-are-plummeting-as-the-conflict-escalates-but-not-every-industry-is-affected-13516947|markets are plummeting as the war escalates but not every industry is affected|6e3ad7209f3fa2331123919aa77ee3b5
 2026-03-09T06:06:17.072093+00:00|https://news.sky.com/story/cancer-death-rates-fall-to-historic-low-as-types-with-biggest-drop-in-fatalities-revealed-13516976|cancer death rates fall to historic low as types with biggest drop in fatalities revealed|763ed931c720350280be5e988d24ecd3
+2026-03-09T07:18:54.772859+00:00|https://www.bbc.com/news/articles/cy4ww4dp33jo|ira bomb victims civil court case begins against gerry adams|8874f65cca81da82b683fab450ab9b1b
