@@ -1,8 +1,3 @@
-2026-03-03T17:26:14.367759+00:00|https://www.bbc.com/news/articles/c5yg46zg27xo|london prison escapee arrested in france|d4b6de4f667bdf07fc59afa82f348d4b
-2026-03-03T17:26:19.816603+00:00|https://news.sky.com/story/one-person-dies-in-collision-involving-car-and-train-at-level-crossing-13514675|person dies in collision involving car and train at level crossing|f7b41d15a3f87df94932beacb83a72d4
-2026-03-03T17:26:25.339777+00:00|https://www.telegraph.co.uk/racing/2026/02/20/cheltenham-festival-2026-dates-race-times-watch-course-tv|cheltenham festival 2026 explained dates race times course guide and where to watch|e28958dae50607737583d597a3d6d40d
-2026-03-03T17:26:30.784451+00:00|https://www.bbc.com/news/articles/cdr2e4pmr7zo|grand national trainer beat pensioner with hockey stick court told|6fbcb87db3a25f05451321d0139b8a43
-2026-03-03T17:26:36.170300+00:00|https://news.sky.com/story/man-charged-after-two-people-injured-in-edinburgh-tower-block-stand-off-13514514|man charged after edinburgh stabbing and tower block standoff|a577382be73071c15c4e2e2af3cb3931
 2026-03-03T18:07:46.644958+00:00|https://www.bbc.com/news/articles/cpd8y5x27pjo|triple killers exhousemate left flat out of fear|725c78805b2099ef6b898990a0e98e99
 2026-03-03T18:07:51.958919+00:00|https://news.sky.com/story/uk-will-deploy-hms-dragon-in-cyprus-sir-keir-starmer-confirms-13514741|uk will deploy hms dragon in cyprus sir keir starmer confirms|3c84b2ce5aa66b9e01be5f481737d77f
 2026-03-03T18:07:57.706958+00:00|https://www.telegraph.co.uk/travel/destinations/europe/spain/majorca/articles/best-family-friendly-hotels-majorca|the best family hotels in majorca|1046eb019340c1d5c3b8928b6f76d37d
@@ -500,3 +495,9 @@
 2026-03-10T15:45:04.951776+00:00|https://news.sky.com/story/teens-headache-before-death-in-suspected-holiday-park-carbon-monoxide-poisoning-13517734|teens headache before death in suspected holiday park poisoning|c34908054b3825a218329fc0199d24c7
 2026-03-10T15:45:10.450306+00:00|https://www.bbc.com/news/articles/cdxz78q8yxxo|boss repeatedly shouted potato at irish employee|b4dcb648592cc68de7c5b4714dd80737
 2026-03-10T16:41:51.489042+00:00|https://news.sky.com/story/glasgow-fire-more-than-163150000-raised-for-businesses-13517757|more than £150000 raised for businesses hit by glasgow fire|55d07f41ddc0a3b218d406c1df793a15
+2026-03-10T17:34:13.041799+00:00|https://www.telegraph.co.uk/football/2026/03/10/atletico-madrid-vs-spurs-score-champions-league-updates|antonin kinsky expected to start against atletico instead of guglielmo vicario|fe53a113cc86509c4d2a2a4325dc43ce
+2026-03-10T17:34:18.552062+00:00|https://www.bbc.com/news/articles/c0k1yyg475ko|hms dragon departs uk for eastern mediterranean|40dc20c5095e038226d3ecb378100629
+2026-03-10T17:34:24.063618+00:00|https://news.sky.com/story/nottingham-triple-killer-punched-colleague-in-face-month-before-fatal-stabbings-13517766|nottingham triple killer punched colleague in face month before fatal stabbings|38fcc8fbc21943824f81b34d1967f56a
+2026-03-10T17:34:29.473443+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/sudan-militia-intentionally-starved-civilians-in-el-fasher|sudan militia intentionally starved civilians in el fasher|6f940247f62658aa3de69ee003ae1a4b
+2026-03-10T17:34:34.864599+00:00|https://www.bbc.com/news/articles/cze094zdelko|killer assaulted couple weeks before attacks|b4bfff5f77d210627ea3b6e09423874c
+2026-03-10T17:34:40.363491+00:00|https://www.telegraph.co.uk/racing/2026/03/10/cheltenham-festival-2026-dates-race-times-watch-course-tv|cheltenham festival 2026 explained dates race times course guide and where to watch|e28958dae50607737583d597a3d6d40d
