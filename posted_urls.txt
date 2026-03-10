@@ -1,4 +1,3 @@
-2026-03-03T00:01:25.535258+00:00|https://news.sky.com/story/macron-says-france-must-be-feared-as-he-announces-increase-in-nuclear-arsenal-13514459|macron says france must be feared as he announces increase in nuclear arsenal|c34faf452ba4c69e0049861daa3f4440
 2026-03-03T03:15:10.993686+00:00|https://news.sky.com/story/vincent-chan-parents-demand-answers-over-how-nursery-became-perfect-hunting-ground-for-paedophile-13514216|parents demand answers over how nursery became perfect hunting ground for paedophile|330a4bf705f937091af45c9ec13ac427
 2026-03-03T03:15:16.386675+00:00|https://www.bbc.com/news/articles/cvg35lxp32no|parents of nursery abuse victims to meet minister|e9642be2a693d10b6f58f846fc8a413d
 2026-03-03T03:15:21.811008+00:00|https://news.sky.com/story/rachel-reeves-to-deliver-spring-forecast-13514439|chancellor to deliver spring forecast|4dfae541458dc068c5ec44340d9eeb38
@@ -490,3 +489,11 @@
 2026-03-09T23:35:37.252904+00:00|https://www.bbc.com/news/articles/c07jj7d72yzo|overseas content farms creating political deepfakes uncovered|72f2c4305882d56a3a12bfa07c06e3bb
 2026-03-09T23:35:42.590705+00:00|https://www.bbc.com/news/articles/cewzqxg17yzo|antimuslim hatred definition safeguards fundamental right to free speech says reed|050b4fa8bc0d2f55d2074297c5c8581a
 2026-03-09T23:58:34.800335+00:00|https://news.sky.com/story/government-announces-new-definition-of-anti-muslim-hostility-13517508|new definition of antimuslim hate announced by government|d5b0246f960c47539388b0964e5b54b2
+2026-03-10T02:46:35.975754+00:00|https://news.sky.com/story/iran-war-is-trump-trying-to-end-it-because-hes-over-a-barrel-13517542|trump talks big on end to war but one thing speaks even louder|077037cc02f2ab077073a6bf62165f20
+2026-03-10T02:46:41.453698+00:00|https://www.bbc.com/news/articles/ce945rrde1yo|the papers drive less to save on fuel and war is near end|bac20a3c45a09944c82b09a8027460f8
+2026-03-10T02:46:46.908933+00:00|https://news.sky.com/story/the-fighting-feels-like-were-going-to-finish-it-once-and-for-all-13517537|the fighting feels like were going to finish it once and for all|268d39856d9c2e980518c59434b692f4
+2026-03-10T02:46:52.357652+00:00|https://www.bbc.com/weather/articles/cp32x44kllko|snow for some as winter weather returns to uk this week|5b618fa2d84c2db69089077400a33997
+2026-03-10T02:46:57.743410+00:00|https://news.sky.com/story/rethink-plans-for-jury-trials-thousands-of-lawyers-tell-starmer-13517487|rethink plans for jury trials thousands of lawyers tell starmer|c69c5ab1b143cdeb93b2ae950a172240
+2026-03-10T02:47:03.127655+00:00|https://www.bbc.com/news/articles/cm2x01yne13o|thousands of lawyers oppose jury restriction plan|df777845c0c4e248645cfa00668396a9
+2026-03-10T02:47:08.603492+00:00|https://news.sky.com/story/the-planet-just-got-incredibly-close-to-breaching-landmark-global-warming-target-13517440|the planet just got incredibly close to breaching landmark global warming target|185a577677711ecbfcb3425505b53ddf
+2026-03-10T02:47:13.960633+00:00|https://www.bbc.com/news/articles/cz6e7004dj9o|first vlevel subjects announced with aim to prepare for future jobs|8005e45ed0b263950082096cf39cb505
