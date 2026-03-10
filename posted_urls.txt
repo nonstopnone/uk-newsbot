@@ -1,11 +1,3 @@
-2026-03-03T18:07:46.644958+00:00|https://www.bbc.com/news/articles/cpd8y5x27pjo|triple killers exhousemate left flat out of fear|725c78805b2099ef6b898990a0e98e99
-2026-03-03T18:07:51.958919+00:00|https://news.sky.com/story/uk-will-deploy-hms-dragon-in-cyprus-sir-keir-starmer-confirms-13514741|uk will deploy hms dragon in cyprus sir keir starmer confirms|3c84b2ce5aa66b9e01be5f481737d77f
-2026-03-03T18:07:57.706958+00:00|https://www.telegraph.co.uk/travel/destinations/europe/spain/majorca/articles/best-family-friendly-hotels-majorca|the best family hotels in majorca|1046eb019340c1d5c3b8928b6f76d37d
-2026-03-03T18:08:03.044361+00:00|https://www.bbc.com/news/articles/cd70zjvwjpdo|the 15minute call where hundreds of devastated brewdog staff were made redundant|28e6e524632e7b42c61c6dce5cfa12d9
-2026-03-03T18:08:08.464449+00:00|https://news.sky.com/story/drill-rapper-who-twice-escaped-police-custody-is-caught-in-france-13514739|drill rapper who twice escaped police custody is caught in france|78d577663dec3c59f97647da8aa197a2
-2026-03-03T18:08:13.868319+00:00|https://www.bbc.com/news/articles/cd9gepe7z4yo|andrew gives up lease on crown estate property|37ff2e063dfac68a27a4422848251847
-2026-03-03T18:08:19.189846+00:00|https://www.bbc.com/news/articles/cy8lyez4e44o|man charged in connection with stabbing in edinburgh|48b4c9e8c8ff1e48e8d8c9be0413226a
-2026-03-03T18:08:24.514863+00:00|https://www.bbc.com/news/articles/cj6dwg4deewo|no new tax rises in spring statement but dont be fooled they are still set to rise|c381ff5590a5ee0a1102a46c62b64387
 2026-03-03T19:11:51.363257+00:00|https://www.bbc.com/news/articles/c89kq5d5vepo|elton johns family photo hung in national portrait gallery|39d8c3fbae3c8a11174583994c46ce28
 2026-03-03T19:11:56.737825+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/iran-faces-food-shortages-if-shipping-disruption-continues|iran faces food shortages if shipping disruption continues analysts warn|66cba982541cd695c4529ce27a89ef6b
 2026-03-03T19:12:02.252191+00:00|https://news.sky.com/story/iran-war-leaves-forecast-for-low-uk-inflation-not-worth-the-paper-it-was-written-on-13514770|iran war leaves forecast for low uk inflation not worth the paper it was written on|d67050ff7536dd7a70ccec60163da3ff
@@ -501,3 +493,9 @@
 2026-03-10T17:34:29.473443+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/sudan-militia-intentionally-starved-civilians-in-el-fasher|sudan militia intentionally starved civilians in el fasher|6f940247f62658aa3de69ee003ae1a4b
 2026-03-10T17:34:34.864599+00:00|https://www.bbc.com/news/articles/cze094zdelko|killer assaulted couple weeks before attacks|b4bfff5f77d210627ea3b6e09423874c
 2026-03-10T17:34:40.363491+00:00|https://www.telegraph.co.uk/racing/2026/03/10/cheltenham-festival-2026-dates-race-times-watch-course-tv|cheltenham festival 2026 explained dates race times course guide and where to watch|e28958dae50607737583d597a3d6d40d
+2026-03-10T18:30:11.539097+00:00|https://www.bbc.com/news/articles/cpw0eg9q7kwo|lammy urges labour mps to back jury trial cuts|d433d5206ba524943736116fab5caa1d
+2026-03-10T18:30:17.030260+00:00|https://www.telegraph.co.uk/racing/2026/03/10/cheltenham-festival-live-latest-updates-champion-hurdle|lossiemouth confirms status as cheltenham great with champion hurdle win|d9b266e0c352118c3bf098f422085e52
+2026-03-10T18:30:22.422126+00:00|https://news.sky.com/story/playstation-gamers-could-receive-1632bn-compensation-if-lawsuit-succeeds-13517819|playstation gamers could receive £2bn compensation if lawsuit succeeds|8d8a3df4bf40a8360bbdd78419bd559d
+2026-03-10T18:30:27.890929+00:00|https://www.bbc.com/news/articles/cre0lg840ngo|no evidence anyone else involved in noahs death pathologist tells inquest|61cf389696e5435c604bc0733f8b8a69
+2026-03-10T18:30:33.344176+00:00|https://www.telegraph.co.uk/racing/2026/03/10/cheltenham-festival-day-2-tips-races-odds-weather-wednesday|cheltenham festival day 2 tips races odds and weather for wednesday|99b5051f7ed8be3a6ce383d70ef6f583
+2026-03-10T18:30:38.680965+00:00|https://www.bbc.com/news/articles/ckg88jl7424o|bridgerton star on dealing with one piece casting backlash|0d3585b74d45f21486587fe0f2dbb8b0
