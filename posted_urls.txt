@@ -1,11 +1,3 @@
-2026-03-03T15:34:20.286645+00:00|https://www.bbc.com/news/articles/cvgjn1rpwn7o|rapper ghetts jailed for hitandrun student death|144dfc073d2c489e32bdf80c265fd02a
-2026-03-03T15:34:25.626592+00:00|https://news.sky.com/story/dangerous-and-selfish-learner-driver-arrested-for-drug-driving-during-test-13514669|learner driver arrested for drug driving during test|c5d7bf4999becd34804fd68413100563
-2026-03-03T15:34:31.055005+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/overlooked-bird-flu-strain-could-pose-pandemic-risk|overlooked bird flu strain could pose pandemic risk|924c9e5099c4e53f7e1f7cda882bcff2
-2026-03-03T15:34:36.496440+00:00|https://www.bbc.com/news/articles/cgl5835w8g8o|ardrossan harbour to be taken into public ownership|53fc08be327c94b48e2a8ecf7d59ed8f
-2026-03-03T15:34:41.808811+00:00|https://news.sky.com/story/uk-bills-can-not-escape-the-forces-of-iran-war-13514662|uk bills cannot escape the forces of iran war|fe7ddf9d21795fb0d6055ef66ea4ce2f
-2026-03-03T15:34:47.132129+00:00|https://www.bbc.com/news/articles/c4g40yp2p13o|uk considers sending royal navy warship to cyprus|313d2fd3016d57eff19c94b5fbf3805e
-2026-03-03T15:34:52.456555+00:00|https://www.bbc.com/news/articles/czx43r561w9o|new bylaw to stop people roaming at first scottish center parcs|07c1401be317b15cb3407e908dc5d455
-2026-03-03T15:34:57.889529+00:00|https://www.bbc.com/weather/articles/cpd8yyw5deyo|full worm and blood moon shines in night sky|13c07225372b10c05ca9580933575627
 2026-03-03T16:29:10.147414+00:00|https://news.sky.com/story/deliveroo-for-prisons-drones-gang-jailed-for-flying-in-drugs-weapons-and-phones-13514648|deliveroo for prisons drones gang jailed for flying in drugs weapons and phones|11012210097dc40b542889fe709800c1
 2026-03-03T16:29:15.548298+00:00|https://www.bbc.com/news/articles/c9v0x2ld43po|ferguson shipyard to be given contracts to build four ships|3da1e01a28b982859d2effce5e71d167
 2026-03-03T16:29:20.961295+00:00|https://www.bbc.com/news/articles/cm28xp0w7v3o|sarah everard added to beauty of world her mother says|6afa6a931ec5e11d23a17bf6b875799c
@@ -508,3 +500,6 @@
 2026-03-10T14:33:35.797579+00:00|https://www.bbc.com/news/articles/c8eg2n83y1eo|eni aluko wins joey barton libel case over x posts|250c41135496567e7288b8eb2294708d
 2026-03-10T14:33:41.176499+00:00|https://www.bbc.com/news/articles/c62d1ql5w0vo|government pushes ahead with revamped digital id|6a3f4352d9dae8e9d56e1a06c071bc68
 2026-03-10T14:33:46.530863+00:00|https://www.bbc.com/sport/articles/c1l7y1vq02yo|simpson and guide poth win paralympic silver for gb|d69cd808a40d14cf3e72da7515e44cfb
+2026-03-10T15:44:59.421529+00:00|https://www.telegraph.co.uk/recommended/beauty-style/best-hot-brushes|in search of an easy morning routine i tested 9 of the best hot brushes on my long bob|b3726ac160d34cd6aaf5c1791037a285
+2026-03-10T15:45:04.951776+00:00|https://news.sky.com/story/teens-headache-before-death-in-suspected-holiday-park-carbon-monoxide-poisoning-13517734|teens headache before death in suspected holiday park poisoning|c34908054b3825a218329fc0199d24c7
+2026-03-10T15:45:10.450306+00:00|https://www.bbc.com/news/articles/cdxz78q8yxxo|boss repeatedly shouted potato at irish employee|b4dcb648592cc68de7c5b4714dd80737
