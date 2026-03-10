@@ -1,4 +1,3 @@
-2026-03-03T07:55:49.683803+00:00|https://www.bbc.com/news/articles/c5yv255914xo|what to expect from the spring statement|3bb56f2e395e815f547d78040f26a034
 2026-03-03T07:55:55.324230+00:00|https://www.bbc.com/news/articles/cd9gennp9plo|why independence is still a political dividing line in scotland|5419ccc480fe1f9c48f998a66f63b26b
 2026-03-03T09:53:32.877425+00:00|https://news.sky.com/story/this-is-the-dilemma-trump-is-facing-as-war-with-iran-escalates-13514464|gulf states are reportedly begging trump to end his war on iran soon heres why|ead8aa6d6366003ef4efb1eb0333eb34
 2026-03-03T09:53:38.267998+00:00|https://www.bbc.com/news/articles/cvgvrlnpq11o|i dodged a £30 flight luggage fee by posting my clothes for £259|3834d9ea0e5c6532f23d11468181b1ff
@@ -497,3 +496,5 @@
 2026-03-10T07:00:58.488581+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/venezuelan-youth-leader-optimistic-for-change|we have a totally different country venezuelan youth leader optimistic for change|8bbb3f886ec1319a60eaf8e16ea2d31f
 2026-03-10T07:01:04.193789+00:00|https://www.bbc.com/news/articles/c4gqyp8q594o|chris mason the cost of living is catapulted centre stage yet again|61d27220a9420fab625cc08aded94b25
 2026-03-10T07:01:09.631636+00:00|https://www.bbc.com/news/articles/cg5nelp5enpo|an epidemic of violence the women and girls killed by men last year|ee373cf2182d8e85c3741ee90e13eff3
+2026-03-10T07:55:56.331264+00:00|https://www.bbc.com/news/articles/c78xq32wdlgo|grieving dunblane dad says gun laws are still too lax|c68e7671b26022dc4e4f9732ffd4d200
+2026-03-10T07:56:01.712055+00:00|https://www.bbc.com/news/articles/cqlgglnqqpro|legal costs in asylum seeker hotel case hit £566k|9b284363e3e100aebe35c96e9576194c
