@@ -5,7 +5,7 @@
     "Sky": 1446,
     "Telegraph": 457,
     "Manual": 3,
-    "BBC News US": 203,
+    "BBC News US": 204,
     "Sky News US": 62
   },
   "categories": {
@@ -20,6 +20,6 @@
     "Culture": 38,
     "Environment": 87,
     "Entertainment": 21,
-    "Sports": 15
+    "Sports": 16
   }
 }
