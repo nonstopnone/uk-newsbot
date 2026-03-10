@@ -1,6 +1,3 @@
-2026-03-03T22:40:12.385891+00:00|https://news.sky.com/story/iran-made-a-mistake-targeting-civilians-in-middle-east-says-former-cia-director-13514824|iran made a mistake targeting civilians in middle east says former cia director|37bbd70bb41521a82fd81ec028358522
-2026-03-03T22:40:17.950169+00:00|https://www.bbc.com/sport/football/articles/c98qp2lzj13o|lionesses deliver wiegmans clear win to make world cup statement|a5ece8017c05dcaad656d7a630b1db74
-2026-03-03T22:40:23.481831+00:00|https://www.bbc.com/news/articles/c62gwkjg0k9o|trump says starmer is no winston churchill over iran strikes|dc400b60bc9e28fb0bc222da27c51b57
 2026-03-03T23:00:22.706574+00:00|https://www.telegraph.co.uk/football/2026/03/03/wolves-vs-liverpool-live-score-premier-league-updates|liverpool stunned after bottomofthetable wolves beat champions in stoppage time|43896a7e1a85e4d69cc7f27365ec3cb0
 2026-03-03T23:00:29.149018+00:00|https://www.bbc.com/news/articles/cj4zwgveeleo|villagers trapped and fears animals could starve as landslip shuts road for weeks|1d15bee86592a7b5d1aa73ed3a22d666
 2026-03-03T23:37:58.019237+00:00|https://www.bbc.com/news/articles/c9v079zpmvmo|my son lived in squalor with his dying mother the system failed him|1a43b5478701d8e6f6c52b627eea3d93
@@ -500,3 +497,6 @@
 2026-03-10T21:58:56.830110+00:00|https://www.bbc.com/news/articles/cdxg76rgdp7o|hereditary peers to be removed from lords as bill passes|2c16297a27cd91ae6d9aab1b5b4eef82
 2026-03-10T21:59:02.195594+00:00|https://news.sky.com/story/jury-trial-changes-survive-labour-rebellion-to-clear-first-commons-hurdle-13517843|jury trial changes survive labour rebellion to clear first hurdle|1648fe6563bb7906f694345b873c5641
 2026-03-10T21:59:07.519373+00:00|https://www.bbc.com/news/articles/c8r1nxe1rp4o|google employee loses tribunal claim after sexual harassment complaint|66833e0cb1a7e19878a1639370848baf
+2026-03-10T22:40:54.961029+00:00|https://news.sky.com/story/six-dead-and-five-injured-in-deliberate-swiss-bus-fire-13517932|six dead and five injured in deliberate swiss bus fire|799d37c0a74ea25adf70f4c2539db4fc
+2026-03-10T22:41:00.529048+00:00|https://www.bbc.com/news/articles/c75eydwyp0yo|msps back six month amendment to assisted dying bill|f3a688171e62972b5673a0ea6d719614
+2026-03-10T22:41:06.361377+00:00|https://www.bbc.com/news/articles/cvg37wj5ezpo|queen says she stands by survivors of sexual violence|45dbccdf6cf4b83dd4dfdf6fc8e303c6
