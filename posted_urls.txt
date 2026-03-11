@@ -1,6 +1,3 @@
-2026-03-04T11:37:35.926234+00:00|https://www.bbc.com/news/articles/cze00ddyw27o|brewdog founder admits many mistakes as hundreds lose jobs in sale|ba95e4d6f67574685cb025efeb03bb47
-2026-03-04T11:37:41.333734+00:00|https://news.sky.com/story/police-anti-organised-crime-operation-locks-down-anfield-area-of-liverpool-13514985|police anti organised crime operation locks down part of liverpool|dd511ef3eb959ff8ceb86b19120e3cba
-2026-03-04T11:37:46.657090+00:00|https://www.bbc.com/news/articles/cd6zwlg8nlqo|scotland needs new approach to deal with feral pigs report says|e95ec4e1060ee053e7fb29d95add4bf1
 2026-03-04T12:00:41.179138+00:00|https://www.bbc.com/news/articles/cy8gpm3nvzdo|gaza protesters found guilty of factory damage|13bbe6f0d58aed2e8baa22d520cbd49b
 2026-03-04T12:00:59.519969+00:00|https://news.sky.com/story/ex-england-footballer-andy-carroll-pleads-not-guilty-to-breaching-order-against-ex-wife-13515052|exengland footballer andy carroll pleads not guilty to breaching court order against exwife|acc19e867bdb7e54dcfa39c8bc4eca02
 2026-03-04T12:01:05.106349+00:00|https://news.sky.com/story/uk-weather-potent-cloud-of-saharan-dust-to-bring-vibrant-sunsets-and-hazy-skies-13515036|potent cloud of saharan dust to bring vibrant sunsets and hazy skies to uk|c3e61702987271ffd85407251560d993
@@ -510,3 +507,9 @@
 2026-03-11T09:53:40.572433+00:00|https://www.telegraph.co.uk/racing/2026/03/11/cheltenham-festival-day-2-tips-races-odds-weather-wednesday|cheltenham festival day 2 tips races odds and weather for today|5bf1883df9b7a19a2760cea1bbdb2178
 2026-03-11T10:51:04.704868+00:00|https://news.sky.com/story/weather-warning-for-strong-winds-issued-for-parts-of-uk-13517246|weather warnings for strong winds issued for parts of uk|575782f7bbc39a7dc9a4e4184918f4be
 2026-03-11T10:51:10.251599+00:00|https://www.bbc.com/news/articles/c24dm9vgrz7o|mortgage rates rise and deals pulled over iran war turmoil|88e0d9af115e3dd8874661def4f2a024
+2026-03-11T11:39:29.853502+00:00|https://www.bbc.com/news/articles/c15x1wnd7yqo|emergency services called to high school|ffd8ae47385435fa355377e6dd94259e
+2026-03-11T11:39:35.302398+00:00|https://news.sky.com/story/uk-wildlife-to-replace-historical-figures-on-next-series-of-banknotes-13518137|churchill and shakespeare to be replaced on banknotes|da6170b52ff88aa958d6ff138525cc3f
+2026-03-11T11:39:40.763870+00:00|https://www.telegraph.co.uk/racing/2026/03/11/cheltenham-festival-2026-dates-race-times-watch-course-tv|cheltenham festival 2026 everything you need to know about this years festival|845cadfbbbbd102bdf4db5c7c128ce55
+2026-03-11T11:39:46.136656+00:00|https://www.bbc.com/news/articles/c4gex41ww0lo|some glasgow central trains resume but station remains closed after fire|f95f3257e0ae811f402fb68be1196c9b
+2026-03-11T11:39:51.715292+00:00|https://news.sky.com/story/trump-says-iran-welcome-to-play-in-world-cup-fifa-boss-13518094|trump says iran welcome to play in world cup fifa boss|656e8f4fae8003160952da5268db496f
+2026-03-11T11:39:57.207515+00:00|https://news.sky.com/story/british-couple-drown-at-popular-australian-beach-13518078|british couple drown at popular australian beach|18becc1377c5771a711f72fb1993a60f
