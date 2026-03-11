@@ -508,3 +508,5 @@
 2026-03-11T07:56:14.401012+00:00|https://www.bbc.com/news/articles/czx4e6zzlkdo|glen sannox ferry needs £32m repairs after one year in service|e6a7f03037b877e8e9a183b73809e867
 2026-03-11T07:56:19.947958+00:00|https://news.sky.com/story/iranian-footballer-changes-mind-on-asylum-in-australia-13517229|iranian footballer changes her mind on asylum in australia|e2cdb99954144310b5e9ff3455735cca
 2026-03-11T09:53:40.572433+00:00|https://www.telegraph.co.uk/racing/2026/03/11/cheltenham-festival-day-2-tips-races-odds-weather-wednesday|cheltenham festival day 2 tips races odds and weather for today|5bf1883df9b7a19a2760cea1bbdb2178
+2026-03-11T10:51:04.704868+00:00|https://news.sky.com/story/weather-warning-for-strong-winds-issued-for-parts-of-uk-13517246|weather warnings for strong winds issued for parts of uk|575782f7bbc39a7dc9a4e4184918f4be
+2026-03-11T10:51:10.251599+00:00|https://www.bbc.com/news/articles/c24dm9vgrz7o|mortgage rates rise and deals pulled over iran war turmoil|88e0d9af115e3dd8874661def4f2a024
