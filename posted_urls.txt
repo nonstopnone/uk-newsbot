@@ -1,4 +1,3 @@
-2026-03-04T23:53:37.939532+00:00|https://news.sky.com/story/sky-news-wins-best-news-channel-at-royal-television-awards-as-yalda-hakim-named-presenter-of-the-year-13515413|sky news wins best news channel at royal television awards as yalda hakim named presenter of the year|7e49ca60737147b8977d062c6726f09e
 2026-03-05T02:41:59.333082+00:00|https://www.bbc.com/news/articles/c1jkk9zjn25o|the papers trumps war goes global and labour ensnared by china spy probe|52d1a3b6ef80d9908a76c55d1b95cecf
 2026-03-05T02:42:04.809289+00:00|https://news.sky.com/story/stopping-weight-loss-jabs-can-lead-to-rapid-weight-regain-in-one-year-study-suggests-13515059|quitting weight loss jabs can leave you worse off than before|667c90249caaafed486f134a7d80eca6
 2026-03-05T02:42:10.147474+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/uk-launches-first-bird-flu-vaccine-trial-for-poultry|uk launches first bird flu vaccine trial for poultry|39c556883dcbca188265abdae710c3bf
@@ -512,3 +511,4 @@
 2026-03-11T23:43:37.737532+00:00|https://www.bbc.com/news/articles/cy9gwg9pxglo|man charged with murder of ellie flanagan|61b246ef4a94226604f5902852a2ce2e
 2026-03-11T23:43:43.360747+00:00|https://www.telegraph.co.uk/football/2026/03/11/real-madrid-man-city-live-score-champions-league-updates|pep guardiola gets tactics horribly wrong as city torn to shreds by real madrid|39cfe801f4b17f2e877120c463fe1f7b
 2026-03-11T23:43:49.163391+00:00|https://www.bbc.com/news/articles/cwy93p4dj8vo|how a lost suitcase led to a twoyear compensation battle with ryanair|274a451e8afaabe4e08a7091f99dc7a0
+2026-03-12T00:01:14.461194+00:00|https://www.bbc.com/news/articles/c627x7g2l4vo|chris mason some nuggets but no huge revelations in first batch of mandelson files|473cf295d40edd749d3e8d20216acf9a
