@@ -1,10 +1,3 @@
-2026-03-06T14:58:46.169686+00:00|https://www.bbc.com/news/articles/cpv8xlp9ppeo|natalie mcnally murder accused beat expartner court hears|936cf8f4d63223e96d3a30dc28142894
-2026-03-06T14:58:51.569991+00:00|https://news.sky.com/story/german-media-giant-axel-springer-to-buy-telegraph-media-group-in-163575m-deal-13516157|german media giant to buy telegraph in £575m deal|9a15e0af22ff96fe3b5f488fef97345c
-2026-03-06T14:58:56.872083+00:00|https://www.bbc.com/news/articles/cvg88v948d8o|wholelife term for man who killed family in fire|7bf4e14b1b1513a974d9950e7dc617c9
-2026-03-06T14:59:02.194090+00:00|https://news.sky.com/story/the-global-economys-worst-nightmare-is-here-and-the-consequences-could-be-scary-13516139|the global economys worst nightmare is here and the consequences could be scary|3e2beff2dfb25e59538fdea725a77c7b
-2026-03-06T14:59:07.504345+00:00|https://www.bbc.com/news/articles/cvg88v948d8o|man who killed exs sister and her three children in fire given wholelife sentence|fdd4fca44b0e0ab908db8a6644a4e908
-2026-03-06T14:59:12.786605+00:00|https://www.bbc.com/news/articles/ce8wjg507yro|mandelsons bail conditions lifted after misconduct in public office arrest|1acb63af8b110a10ed7649f804947608
-2026-03-06T14:59:18.089028+00:00|https://www.bbc.com/news/articles/c4ge52x4w37o|emirates resumes some dubai flights whats the latest on travel to uk|aafa6e793c67d569a4c748e0a84bc665
 2026-03-06T15:49:55.785514+00:00|https://news.sky.com/story/cyprus-foreign-minister-says-british-bases-the-target-of-military-action-not-his-country-13516126|cyprus foreign minister says british bases the target of military action not his country|5e5801998230d6ddc1cdb83eb3ba9a58
 2026-03-06T15:50:01.573523+00:00|https://www.bbc.com/weather/articles/c20jd86lvevo|in pictures saharan dust casts an eerie glow across parts of southern england|cc9706125bde44198e0110016f5b02a5
 2026-03-06T15:50:07.065385+00:00|https://news.sky.com/story/the-water-companies-using-bailiffs-to-collect-customer-debt-more-than-6000-times-a-year-13516046|the water companies using bailiffs to collect customer debt more than 6000 times a year|72e18c746097dfad8ab566f1370f7665
@@ -511,3 +504,10 @@
 2026-03-13T14:30:57.783672+00:00|https://www.bbc.com/news/articles/crrx4lgjjl9o|tvs carol vorderman wouldnt say no to a career in politics|cfddaf5e6a72029f89889d7677dff841
 2026-03-13T14:31:03.218860+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/oregano-roast-chicken-with-roast-pepper-recipe|oreganoroast chicken with roast pepper and sourdough stuffing and smoky chilli aioli|194d80bbaf5c2047e4091feb9058cc4b
 2026-03-13T14:31:08.748048+00:00|https://www.bbc.com/news/articles/c4gqv9x3p40o|exarsenal star to deny rape charges court hears|f44770b6582c36e095766127781df235
+2026-03-13T15:28:40.132198+00:00|https://www.telegraph.co.uk/recipes/everyday/soups/creamy-leek-potato-cider-soup-with-cheese-apple-toasts-recipe|creamy leek potato and cider soup with cheese and apple toasts|44eab0201bf7affba8cfcafeaf2334f3
+2026-03-13T15:28:45.657185+00:00|https://news.sky.com/story/no-respite-from-rain-as-cold-showers-and-blustery-winds-set-to-sweep-across-parts-of-uk-13519168|arctic air to sweep uk with cold showers and icy conditions|d505bf8655019449142c12e7953fba29
+2026-03-13T15:28:51.180084+00:00|https://www.bbc.com/news/articles/c6204d300ndo|global leaders urged to help iran detainees|137b60c3b728ca29b7caae7863d0bf16
+2026-03-13T15:28:56.685294+00:00|https://news.sky.com/story/jury-to-begin-deliberations-in-landmark-social-media-addiction-trial-13519129|jury to begin deliberations in landmark social media addiction trial|55140b6406bc20e3ad3d8ffdd71fac32
+2026-03-13T15:29:02.070804+00:00|https://www.bbc.com/news/articles/cr73dm1zv1lo|teachers union calls off strikes after workload deal|33f6afa5f573f2465ccd689193357ad2
+2026-03-13T15:29:07.610773+00:00|https://www.bbc.com/news/articles/cpqw01zg7qjo|planters demoralised as council mows down 30k bulbs|bde3b25928b7acdfa6fcd2ee722cbf28
+2026-03-13T15:29:13.810953+00:00|https://www.bbc.com/news/articles/cn0z7971r4zo|dharshini david economy on shaky ground even before iran war|569e4eb9deeca006cb6164d684b495f0
