@@ -1,5 +1,3 @@
-2026-03-06T19:11:08.728150+00:00|https://www.bbc.com/news/articles/cm2xkj9xyd2o|journalist baffled after police raid his home in china spy probe|f33b52e20e156756f4a517833c66141a
-2026-03-06T19:11:14.139322+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|49298607e99d7a1950b2a330a9cbb651
 2026-03-06T19:49:35.901797+00:00|https://news.sky.com/story/more-than-300-people-abducted-by-islamic-militants-in-northeastern-nigeria-officials-say-13516231|hundreds abducted by islamic militants after military kills three boko haram officers|e7db9cecb1cb63a2e9a8ade82f05e834
 2026-03-06T19:49:41.400514+00:00|https://www.bbc.com/news/articles/cx2jjz13jv9o|rare coincidence as three cousins born on same day|9e138348abe6e947751d210f80a8ad1d
 2026-03-06T20:40:03.484574+00:00|https://www.telegraph.co.uk/business/2026/03/06/oil-gas-uk-us-iran-ftse-100-markets-latest|oil price soars as iran war threatens energy exports|5d177e32ca16f56a164ef2f812b0b8cf
@@ -514,3 +512,5 @@
 2026-03-13T18:54:09.924693+00:00|https://www.bbc.com/news/articles/clyg4wx6nxgo|ai toys for children misread emotions and respond inappropriately researchers warn|0da5845ae3fc230e377c3f2ed972df7b
 2026-03-13T18:54:15.282976+00:00|https://news.sky.com/story/at-least-80-killed-and-many-more-missing-after-deadly-landslides-in-ethiopia-13519323|at least 80 killed and many more missing after landslides in ethiopia|abd6e1de911bf95f54d8d4bba1755af3
 2026-03-13T18:54:20.700778+00:00|https://news.sky.com/story/disruption-at-glasgow-central-to-last-until-at-least-wednesday-officials-say-13519315|disruption at glasgow central to last until at least wednesday officials say|7dc4164124ab03c2e84310727b66ec39
+2026-03-13T19:36:32.339214+00:00|https://www.bbc.com/news/articles/cd709jel19xo|two more horses die on final day of cheltenham|8d6a6a19ac8fc0fff7cc999f9b1361a1
+2026-03-13T19:36:37.894170+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|49298607e99d7a1950b2a330a9cbb651
