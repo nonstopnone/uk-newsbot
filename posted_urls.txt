@@ -1,4 +1,3 @@
-2026-03-06T10:45:51.326820+00:00|https://www.bbc.com/news/articles/c4g7jz7kjl7o|man dies after falling from window during tower block fire|4271420e6cfe4f7fb6e7456df2529c10
 2026-03-06T11:36:17.145504+00:00|https://www.bbc.com/news/articles/cly1jxdv439o|lenders lift mortgage rates as iran war hits borrowing costs|97ba3c8c1a0efd5b3f5d0bb33f691b15
 2026-03-06T11:36:22.644834+00:00|https://news.sky.com/story/indonesia-to-ban-high-risk-social-media-for-under-16s-13516062|indonesia to ban high risk social media for under16s|7734f5d0f2e3307f453c41f11a7f87cf
 2026-03-06T11:36:28.131500+00:00|https://www.bbc.com/sport/articles/czr0643d8gmo|what happens when at the winter paralympics|a580c2fe10ec69b0d68a9a31779b32c4
@@ -507,3 +506,5 @@
 2026-03-13T09:50:20.807714+00:00|https://www.bbc.com/news/articles/c626mrzmv26o|i was jailed while pregnant during post office scandal im still waiting for compensation|48b1f5319caa57db0ecae02962234ba7
 2026-03-13T09:50:26.358330+00:00|https://news.sky.com/story/seven-year-old-boy-dies-after-being-struck-by-car-in-nottinghamshire-13519003|sevenyearold boy dies after being struck by car|714a1b9d4705f7ac33c5ff1f0ee5aadd
 2026-03-13T09:50:31.665842+00:00|https://www.bbc.com/news/articles/cvg1ye879r1o|romance conman posed as mi6 and bbc worker to scam women out of £50k|497a8afeddc879b7e2954bc3d984d18e
+2026-03-13T10:47:36.350477+00:00|https://news.sky.com/story/kpop-demon-hunters-2-gets-the-green-light-13519081|this is only the beginning kpop demon hunters 2 is on the way|ffbc30a6e8cb342d9f754c5be96af789
+2026-03-13T10:47:41.748977+00:00|https://news.sky.com/story/trade-war-uk-among-economies-included-in-fresh-investigation-13519053|uk among economies investigated in fresh us trade war move|e4118beaffabd31744a02a797e2e86a2
