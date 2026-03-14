@@ -1,6 +1,3 @@
-2026-03-07T17:00:07.049359+00:00|https://www.bbc.com/news/articles/c23z2k50780o|coastguards lower dog owner down cliff to rescue pet|6a053b4ddd8699359b4844bee583c4ab
-2026-03-07T17:00:12.438460+00:00|https://www.telegraph.co.uk/rugby-union/2026/03/07/scotland-v-france-live-score-latest-six-nations-updates|inspired scotland stun france in 90point epic to blow six nations wide open|c7c32ae37fb05004690693ff40f15fcf
-2026-03-07T17:33:22.270670+00:00|https://www.bbc.com/news/articles/cq8gpvdz1j2o|former irish president condemns illegal attacks on iran|fce6d656f6f410d8e1bf66a1488910b4
 2026-03-07T17:56:28.892024+00:00|https://news.sky.com/story/us-v-iran-how-did-we-get-here-13516544|us v iran how did we get here|d5cd031e7a7df93ab93a9b32aabae313
 2026-03-07T19:28:02.250632+00:00|https://www.telegraph.co.uk/rugby-union/2026/03/07/italy-v-england-live-score-latest-six-nations-updates|desperate england slump to first defeat by italy to pile pressure on borthwick|45e80cd3d033542cc2bbf92e43bef6aa
 2026-03-07T19:28:07.632766+00:00|https://www.bbc.com/news/articles/clygp7gp8nqo|police given more time to question iran spying suspects|f18940c75f80e02b56aea0ce882d6704
@@ -507,3 +504,5 @@
 2026-03-14T16:50:41.247602+00:00|https://www.bbc.com/news/articles/c5y5np10j9zo|the pain of being falsely accused of rape will last a lifetime|1661f853d05bd24591084e3bfa945896
 2026-03-14T16:50:46.794791+00:00|https://news.sky.com/story/wales-face-showdown-with-italy-to-avoid-wooden-spoon-after-ireland-claim-triple-crown-13519645|a hrefhttpswwwskysportscomrugbyunionliveblog1204013518138sixnationslivefrancevsenglandirelandvsscotlandwalesvsitalyscoresandupdatesinsupersaturdayfinalewales face showdown with italy to avoid wooden spoon after ireland claim triple crowna|381d562a30f84ad35ee337ea73f2893d
 2026-03-14T16:50:52.209194+00:00|https://news.sky.com/story/rachel-reeves-is-taking-a-gamble-as-the-gulf-conflict-hits-energy-prices-13519592|rachel reeves is taking a gamble as the gulf conflict hits energy prices|a54a589900e0121408f8eec97ca163a4
+2026-03-14T17:34:00.664210+00:00|https://www.bbc.com/news/articles/c70npeg4lj9o|murder investigation launched after babys death|19f647d515773f51c11c54837d7e8917
+2026-03-14T17:34:05.976060+00:00|https://news.sky.com/story/girl-15-killed-in-motorbike-crash-with-boy-arrested-13519615|girl 15 killed in threevehicle motorbike crash with boy arrested|92011a1a3d25ac04a1a070020c5687a1
