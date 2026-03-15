@@ -1,4 +1,3 @@
-2026-03-08T19:49:22.464908+00:00|https://www.bbc.com/news/articles/cqxdp7e5rrno|boy 15 charged after school stabbing|9f8c21ef10e2cb848881ba48178215f6
 2026-03-08T20:35:26.691970+00:00|https://news.sky.com/story/rangers-and-celtic-fans-clash-on-pitch-after-scottish-cup-tie-13516980|rangers and celtic fans in shameful clashes on pitch after cup tie|36597d24f19761668ec2b36bced45791
 2026-03-08T21:00:02.614495+00:00|https://news.sky.com/story/iran-has-betrayed-us-but-all-sides-must-de-escalate-says-qatar-pm-13517019|iran has betrayed us but all sides must deescalate says qatar pm|0f8bc968a3bdf5418a6cd384742e5851
 2026-03-08T21:34:33.467620+00:00|https://www.bbc.com/news/articles/cy8l2wx0027o|vape shop fire causes major disruption at glasgow central station|002869a8a215ec5652e3a18bf991e357
@@ -503,3 +502,4 @@
 2026-03-15T19:34:40.602340+00:00|https://www.telegraph.co.uk/football/2026/03/15/liverpool-vs-tottenham-live-score-premier-league-updates|richarlison may have saved igor tudors job and kept spurs up|a020d22634ca58bfe19dfdba54bd7fe5
 2026-03-15T19:34:46.052484+00:00|https://news.sky.com/story/bob-vylan-rapper-repeats-death-to-the-idf-chant-at-al-quds-day-demonstration-13520216|bob vylan rapper repeats death to the idf chant at al quds day demonstration|6b9982ca29fa99b4c257df6967eb8921
 2026-03-15T19:34:52.202060+00:00|https://www.bbc.com/news/articles/cdxg35dv7npo|two students die in university meningitis outbreak|39d87ccccf94dc13b04d3a2dbe7d1a4a
+2026-03-15T19:59:36.375260+00:00|https://news.sky.com/story/ed-miliband-says-labour-will-fight-peoples-corner-on-energy-costs-but-not-how-13520112|ed miliband says labour will fight peoples corner on energy costs but he doesnt say how|8f758a100d58801c80a2c1e894985022
