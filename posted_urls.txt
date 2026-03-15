@@ -1,6 +1,3 @@
-2026-03-08T13:06:47.192097+00:00|https://www.bbc.com/news/articles/c05v28eqjyvo|pm is standing up for uk interests says cooper after trump criticism|32ab8c4de0dcd8d6e8a9731ebbbd65bf
-2026-03-08T13:06:52.488554+00:00|https://www.bbc.com/news/articles/cq57pgdp1e2o|swinney sorry for glasgow hospital distress but believes it is safe|59b60cdeb062044cf32bbef21696fb1c
-2026-03-08T13:06:57.867652+00:00|https://www.bbc.com/news/articles/czr02k0851no|armed police arrest man in street with samurai sword|3e947ab663e830d618455d4539c78647
 2026-03-08T13:51:15.452293+00:00|https://news.sky.com/story/why-hasnt-the-iranian-regime-collapsed-13516892|why hasnt the iranian regime collapsed|44436dea4b85449b197d2c89cdfc770e
 2026-03-08T14:32:16.937884+00:00|https://www.bbc.com/news/articles/czd827vj880o|man dies outside uks first drug consumption room|c5308275cb4439b25814139297f3c127
 2026-03-08T14:32:22.303704+00:00|https://news.sky.com/story/hospital-scandal-families-accuse-scottish-first-minister-john-swinney-of-not-telling-truth-over-apology-claim-13516898|hospital scandal families accuse first minister of not telling truth over apology claim|8cac779fbf7a8306def6d342b6e6a110
@@ -509,3 +506,6 @@
 2026-03-15T11:41:37.597663+00:00|https://www.bbc.com/news/articles/c07j30zerxgo|man 87 dies and four in hospital after twocar crash in fife|79c085a956dec9fa735bb6bfd1a3a486
 2026-03-15T11:41:43.042034+00:00|https://www.bbc.com/news/articles/crrxvnnrvj8o|what to say on mothers day after pregnancy or baby loss|d6e0527bc59a1b92a0c2e9fb910ecf3f
 2026-03-15T11:59:09.527584+00:00|https://news.sky.com/story/environment-agency-enforcement-officers-could-be-given-police-style-powers-to-tackle-waste-crime-13520009|environment agency enforcement officers could get policestyle powers|43e54800c87052e276f8fc4b99363ac6
+2026-03-15T13:13:42.616844+00:00|https://www.bbc.com/news/articles/crl4ypd6802o|swinney tells uk government to get a move on with heating oil support|bb4923055e43ac5633abe27a49be8500
+2026-03-15T13:13:48.043036+00:00|https://www.bbc.com/news/articles/clyzlxkeed2o|reform council seeks to declare migration emergency|cb37a861cb82137dcff85576caf46f3a
+2026-03-15T13:13:53.458064+00:00|https://www.bbc.com/news/articles/cj4z7zr4kd8o|we will intervene on energy bills if necessary says miliband|8c731dcfe2079d8ae3ae8f546f8a60fc
