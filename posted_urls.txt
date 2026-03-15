@@ -1,5 +1,3 @@
-2026-03-08T21:34:33.467620+00:00|https://www.bbc.com/news/articles/cy8l2wx0027o|vape shop fire causes major disruption at glasgow central station|002869a8a215ec5652e3a18bf991e357
-2026-03-08T21:34:38.825424+00:00|https://www.bbc.com/news/articles/c78x4qvp44vo|mums disbelief at sentence for show off driver who killed daughter on zebra crossing|d9fcd0f0bcdc3e99bc7ce9dd0f908b16
 2026-03-08T21:57:12.193768+00:00|https://news.sky.com/story/vape-shop-fire-closes-scotlands-busiest-railway-station-until-further-notice-13517078|vape shop fire closes scotlands busiest railway station until further notice|9de0f0dbb8c44e5b80b0b1d0fd56628c
 2026-03-08T22:34:58.846677+00:00|https://www.bbc.com/news/articles/crrxp4p8p77o|clumber spaniel named bruin wins best in show at crufts 2026|5a168c952527f8a8e819db670d14fdc4
 2026-03-08T22:35:04.292500+00:00|https://www.bbc.com/sport/football/articles/c1w5221prjgo|clubs complain to x about sickening grok posts|e7f48781bd328c102069059c2fa84c66
@@ -504,3 +502,4 @@
 2026-03-15T20:42:56.732356+00:00|https://news.sky.com/story/mother-charged-with-murder-over-death-of-her-newborn-baby-who-fell-from-height-in-london-13520258|mother charged with murder after her newborn baby died in fall from residential building|4aab97a9d5acdfbb209211cd706d62fa
 2026-03-15T20:43:02.081138+00:00|https://www.bbc.com/news/articles/cge8l8z4qj2o|mother charged with murder of 18dayold baby|bb3b7091e3d08156a36abdb89b25c52c
 2026-03-15T20:43:07.544001+00:00|https://news.sky.com/story/two-people-die-in-meningitis-outbreak-in-kent-13520252|two people die in meningitis outbreak in kent|c772c13838c0134607f25d9a93d2a977
+2026-03-15T21:45:29.389417+00:00|https://www.bbc.com/news/articles/c363yylxjrxo|injuries blown tyres and repair bills frustration over spike in potholes|4c772a6fd00974b745243d17e92c5e4f
