@@ -1,11 +1,3 @@
-2026-03-09T13:20:50.604526+00:00|https://www.bbc.com/news/articles/cd70wdxrrn4o|passerby tried to tackle vape shop blaze that led to inferno|a6404cfa298f6a9e6e915462c8e0fcde
-2026-03-09T13:20:56.171954+00:00|https://www.telegraph.co.uk/recommended/tech/reviews/apple-iphone-17e-review|theres a lot to love with apples cheaper iphone if you can forgive the compromises|87757c6d74ebbccdb1591a3a12df3e8d
-2026-03-09T13:21:01.631971+00:00|https://www.bbc.com/news/articles/czj1833lyddo|pm warns of impact of iran conflict on uk economy|64c7eed883a69dcdc78d6b6acf86f865
-2026-03-09T13:21:07.065177+00:00|https://www.telegraph.co.uk/recommended/home/fans-heaters/best-electric-heater|beat the chill with electric heaters tested for energy efficiency and warmth|40926672a2fb3c6062879c9e10c42124
-2026-03-09T13:21:12.625770+00:00|https://www.telegraph.co.uk/recommended/home/kitchen/best-air-fryers-healthy-home-cooking|is ninja still king we put the latest air fryers to the test to find out|b63a067aae2d9ad34b6d89e562b45cea
-2026-03-09T13:21:18.167154+00:00|https://www.telegraph.co.uk/recommended/tech/best-white-noise-machine|the best white noise machines tested with advice from a neuroscientist|5075c1ec1457dd2c72395b4920251d4b
-2026-03-09T13:21:23.582893+00:00|https://www.telegraph.co.uk/recommended/sleep/best-wake-light-alarm-clocks|beat groggy mornings with a sunrise alarm clock to help you wake up|85fe0e1fbe1fe510eebf45771cf85822
-2026-03-09T13:21:29.122692+00:00|https://www.telegraph.co.uk/recommended/beauty-style/best-bathroom-weighing-scales-weight-smart-body-monitors-heart|the 10 best bathroom scales including mechanical digital and smart models|b68b153a40355ecad2eaa9a228fb11c8
 2026-03-09T14:31:31.747729+00:00|https://news.sky.com/story/gerry-adams-directly-responsible-for-bomb-decisions-high-court-told-13517304|gerry adams directly responsible for bomb decisions court told|be7113062790954defde329654f0204f
 2026-03-09T14:31:37.098679+00:00|https://www.bbc.com/news/articles/c93w2kgvkvgo|b52s arrive at uk air base amid conflict with iran|19cb734da1d4aebc1d2ea400c9025a05
 2026-03-09T14:31:42.457182+00:00|https://www.telegraph.co.uk/recommended/tech/best-home-security-cameras|the 10 best home security cameras to watch over your property|c53ce920ba87980479c27c4f11d4ad9e
@@ -491,3 +483,11 @@
 2026-03-16T10:33:09.044875+00:00|https://www.bbc.com/news/articles/c8eg3g4lklno|alcoholfree beer and pet grooming used to measure inflation|9fd2b7d3c3146f10cadf671e9eacd5d8
 2026-03-16T10:33:14.418311+00:00|https://news.sky.com/story/emergency-workers-called-to-15-vehicle-crash-on-motorway-five-people-taken-to-hospital-13520389|15 vehicles involved in crash on motorway|744be3a72342434a76fa5d8c0c7a0111
 2026-03-16T12:36:52.296170+00:00|https://news.sky.com/story/donald-trump-says-us-will-do-what-we-have-to-over-cuba-days-after-rare-riot-13520436|trump says us will do what we have to over cuba days after rare riot|f6460176c3f6bff07f4275101ff189e7
+2026-03-16T14:08:17.343512+00:00|https://www.bbc.com/news/articles/ckgldr4mm8eo|nursery worker sentenced to 30 years for raping children|86ee94c136598be22cc59d51965ff8e5
+2026-03-16T14:08:22.877432+00:00|https://news.sky.com/story/mother-appears-in-court-charged-with-murder-after-baby-falls-from-building-13520487|mother appears in court charged with murder after baby falls from building|f8a99e605bd399b5c5b9aaff2eda20ac
+2026-03-16T14:08:28.465872+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/cakes/guinness-brown-sugar-chocolate-cake-recipe|guinness brown sugar and chocolate cake|996ff28e2420535a012ef988b119d425
+2026-03-16T14:08:33.889670+00:00|https://www.bbc.com/news/articles/ckg87eel724o|edinburgh to dubai flight turned back over egypt due to airport drone attack|b234894282c0cb016e129635005a8547
+2026-03-16T14:08:39.395786+00:00|https://news.sky.com/story/three-arrested-after-mans-body-found-in-wheelie-bin-13520354|three arrested after mans body found in wheelie bin|cb6d1fc8dad16cf971ca4f42e2872b4f
+2026-03-16T14:08:45.094699+00:00|https://www.bbc.com/news/articles/c39wgjpgg4ko|ai crowd counter confuses people with rock columns at giants causeway|8ce799f2edd4e17f9a658a20a70d04a8
+2026-03-16T14:08:50.534559+00:00|https://news.sky.com/story/keir-starmer-denies-misleading-commons-over-peter-mandelson-vetting-process-13520513|starmer denies misleading mps over mandelson vetting process|76fbb69acad05cdd7c928d79aaa38cc4
+2026-03-16T14:08:56.125742+00:00|https://www.bbc.com/news/articles/cdjm4mnvpp1o|journalist becomes surprise kidney donor for teen|14a6fdf220519ad309773d8661e2979e
