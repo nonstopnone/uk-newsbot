@@ -1,4 +1,3 @@
-2026-03-09T10:08:47.587329+00:00|https://news.sky.com/story/masked-fan-unplugs-var-monitor-during-german-football-match-13517158|masked fan unplugs var monitor during penalty in football match|3c633093c10bd72afbea839205b72cd7
 2026-03-09T11:05:35.625712+00:00|https://www.telegraph.co.uk/recommended/leisure/outdoor/best-head-torches|the best head torches for running hiking and walking the dog in the dark|a113afe0c99347ff8d20d88983ad7f8f
 2026-03-09T11:05:41.044617+00:00|https://www.bbc.com/news/articles/cz6evlwl68do|call off kings us visit over iran urge lib dems|c49ef942144e670bb6c14b643841940a
 2026-03-09T11:05:46.470814+00:00|https://news.sky.com/story/synagogue-in-belgium-damaged-in-explosion-13517202|synagogue in belgium damaged in explosion|f64a9a323faff49159835db37fa7b1e4
@@ -502,3 +501,8 @@
 2026-03-16T09:15:23.647874+00:00|https://www.bbc.com/news/articles/c4g01m82vn2o|travelodge changes policy after attacker given room key|26fa41aabf1f68ef11c5045890e7dbf4
 2026-03-16T09:15:28.959468+00:00|https://www.bbc.com/news/articles/c3rzypdq22vo|ill carry on till i cant walk says paperboy 79|c2b3175e67d8c4e2e38a6824c7e2edc8
 2026-03-16T09:15:34.288135+00:00|https://www.bbc.com/news/articles/c75e0epln5do|man died after gps calls to hospital were missed|bf3f8fdb8467733ebf1b0e4154d7eef6
+2026-03-16T10:32:52.858162+00:00|https://www.bbc.com/news/articles/cwy84jwlxyno|five taken to hospital after 15vehicle crash on m73|6a56eda5310243bfece9d0749383e0eb
+2026-03-16T10:32:58.238840+00:00|https://www.telegraph.co.uk/recommended/leisure/fitness/best-water-bottles1|ive been testing water bottles for years to find the best for the gym work and travel|2f5a79a9d836e5aa00ca5741675d09da
+2026-03-16T10:33:03.629605+00:00|https://news.sky.com/story/businesses-to-get-1633000-state-bonus-for-hiring-unemployed-young-people-13520395|businesses to get state bonus for hiring unemployed young people|d0c254f060261d421554c6c49ed46636
+2026-03-16T10:33:09.044875+00:00|https://www.bbc.com/news/articles/c8eg3g4lklno|alcoholfree beer and pet grooming used to measure inflation|9fd2b7d3c3146f10cadf671e9eacd5d8
+2026-03-16T10:33:14.418311+00:00|https://news.sky.com/story/emergency-workers-called-to-15-vehicle-crash-on-motorway-five-people-taken-to-hospital-13520389|15 vehicles involved in crash on motorway|744be3a72342434a76fa5d8c0c7a0111
