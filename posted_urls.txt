@@ -1,4 +1,3 @@
-2026-03-09T22:48:37.164611+00:00|https://www.bbc.com/news/articles/crm8043z09mo|head of police federation of england and wales suspended|67168ab4953d7246b77585bdc49afd65
 2026-03-09T23:35:26.591341+00:00|https://www.bbc.com/news/articles/cd70wvj2xnyo|business owners heartbroken after retail units destroyed in glasgow fire|8d632e6da729db982c1242394036836d
 2026-03-09T23:35:31.900877+00:00|https://www.bbc.com/news/articles/cqj91egkelko|mps reject call for under16s social media ban backing more flexible powers|ea8fd1b2dc729f3271b2bebe19d3ed68
 2026-03-09T23:35:37.252904+00:00|https://www.bbc.com/news/articles/c07jj7d72yzo|overseas content farms creating political deepfakes uncovered|72f2c4305882d56a3a12bfa07c06e3bb
@@ -485,3 +484,5 @@
 2026-03-16T22:41:44.346488+00:00|https://www.bbc.com/news/articles/cy57xqrx3zno|tina fey riz ahmed and jamie dornan named saturday night live uk hosts|cfc526c4985fef3f9af26f6a7b118588
 2026-03-16T22:41:49.919716+00:00|https://news.sky.com/story/taliban-accuses-pakistan-of-killing-more-than-200-in-strike-on-drug-treatment-hospital-in-kabul-13520654|afghanistan accuses pakistan of killing more than 200 in strike on drug treatment hospital|59c5d9f8b8ffaf813be50ae31013d1c3
 2026-03-16T22:41:55.497555+00:00|https://news.sky.com/story/deeper-ties-to-europe-and-ai-the-best-ways-to-boost-economic-growth-chancellor-to-say-13520561|deeper ties to europe and ai the best ways to boost growth reeves to say|57811d65322ab23f20760467aa86e643
+2026-03-16T23:15:19.502755+00:00|https://www.bbc.com/news/articles/cg5nrv7nm56o|will scotland be the first to legalise assisted dying|59233373e29613f064679d73a358a62b
+2026-03-16T23:15:24.986441+00:00|https://news.sky.com/story/russian-shadow-fleet-gas-tanker-adrift-in-mediterranean-poses-imminent-and-serious-threat-eu-states-say-13520686|russian tanker adrift in mediterranean poses imminent and serious threat eu states say|d44938079ad2ae301b98d5c0ca865c46
