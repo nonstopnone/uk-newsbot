@@ -1,10 +1,3 @@
-2026-03-09T02:54:51.960777+00:00|https://www.bbc.com/news/videos/c9wne9yxqn8o|watch fire crews fight blaze near glasgow central station|c73888e5dd31f7c02cff7ac8200c2dbc
-2026-03-09T02:54:57.465500+00:00|https://news.sky.com/story/iran-war-oil-suffers-biggest-one-day-gain-in-six-years-as-stocks-plunge-13517128|oil suffers biggest oneday gain in six years as stocks plunge|91ae9620539130b7b9b2718d1fa567cf
-2026-03-09T02:55:02.913939+00:00|https://www.bbc.com/news/articles/c78x14w295lo|sent 90 miles after giving birth while soaked in urine|784fc785b73642c0c50a37418bda67c7
-2026-03-09T02:55:08.342958+00:00|https://news.sky.com/story/woman-armed-with-ar-15-rifle-fires-gunshots-into-rihannas-california-home-13517125|seven to nine rounds from ar15 rifle fired into rihannas home|c74a8365585330eecfa96ac3f58b977c
-2026-03-09T02:55:13.679851+00:00|https://www.bbc.com/news/articles/cly0ppdzj2yo|nhs england pauses new prescriptions of crosssex hormones for under18s|e6069bf95211905ec2f3ff7ebf9b6fc0
-2026-03-09T02:55:19.015319+00:00|https://www.bbc.com/news/articles/cwy62z5p93zo|ayatollahs son chosen and iran threatens oil facilities|80cf95c5bf2df4edcbb1b9779341496a
-2026-03-09T02:55:24.357897+00:00|https://www.bbc.com/news/articles/ce3g5e79y4jo|two deaths reported to drug watchdog over potential link to weightloss jabs|4df1b4cb14299dc92ccb9e689a3475bd
 2026-03-09T04:58:32.597143+00:00|https://news.sky.com/story/uk-must-urgently-boost-defence-spending-or-risk-being-vulnerable-to-missile-attacks-general-warns-13517130|uk must urgently boost defence spending or risk being vulnerable to missile attacks general warns|fc794d05c2d93d191ca4353b197767fe
 2026-03-09T04:58:38.040319+00:00|https://news.sky.com/story/iran-war-markets-are-plummeting-as-the-conflict-escalates-but-not-every-industry-is-affected-13516947|markets are plummeting as the war escalates but not every industry is affected|6e3ad7209f3fa2331123919aa77ee3b5
 2026-03-09T06:06:17.072093+00:00|https://news.sky.com/story/cancer-death-rates-fall-to-historic-low-as-types-with-biggest-drop-in-fatalities-revealed-13516976|cancer death rates fall to historic low as types with biggest drop in fatalities revealed|763ed931c720350280be5e988d24ecd3
@@ -503,3 +496,9 @@
 2026-03-15T23:03:15.688403+00:00|https://news.sky.com/story/keir-starmer-to-unveil-emergency-support-for-households-worst-hit-by-energy-price-rises-13520195|starmer to unveil emergency support for households worst hit by energy price rises|28b6cf5e8cacf2041779d0672d8c6b3f
 2026-03-15T23:45:21.359797+00:00|https://www.bbc.com/news/articles/clyz0ep9g8lo|labour calls for tax investigation into reforms tice|249db1df8efdaed397555ccbe012280b
 2026-03-15T23:45:26.733844+00:00|https://www.bbc.com/news/articles/cp9mgpzn901o|pm to set out support plan for heating oil costs|b2a3697b41c8180e4f907a84dc05b83b
+2026-03-16T03:20:35.166778+00:00|https://www.bbc.com/news/articles/cwyxl65yz9yo|we didnt view dads body after being told it had changed so much|898e20a30ffc53adccea1349a85eca1f
+2026-03-16T03:20:40.604770+00:00|https://www.bbc.com/news/articles/cx24z8rvw1go|oneoff £2000 grant gives care leavers head start study finds|bd052aeff026c38b97c42dc3a2dfea16
+2026-03-16T03:20:46.045160+00:00|https://www.bbc.com/news/articles/c62dy26gg0qo|the papers help for energy bills and pm resists trump warships call|efc04733daa8ef9b1eff7b77c31cb777
+2026-03-16T03:20:51.458236+00:00|https://www.bbc.com/news/articles/cn4892wnv2zo|people turn to private health care to beat nhs waits says watchdog|955faf0fdaeadeecf76cac72470f3567
+2026-03-16T03:20:57.101111+00:00|https://www.bbc.com/news/articles/cx2dl5j0w23o|how us groups are driving a new generation of antiabortion activism in the uk|94d1c10fdaafe5cdeb470cf4024038fb
+2026-03-16T03:21:02.647224+00:00|https://www.bbc.com/news/articles/cp32kwe2280o|schoolgirl traumatised after being wrongly sent to england for abortion|c259611d538f6dea6bf7de08c8383a62
