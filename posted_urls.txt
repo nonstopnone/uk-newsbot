@@ -1,6 +1,3 @@
-2026-03-10T23:44:02.755555+00:00|https://www.bbc.com/news/articles/c4gqj5z4qwqo|first mandelson files expected to be published on wednesday|81e0f89f91c938acf92a029d098862ae
-2026-03-10T23:44:08.293881+00:00|https://news.sky.com/story/boy-13-arrested-in-sheffield-over-social-media-posts-encouraging-school-violence-13517853|boy arrested over social media posts encouraging school violence|f9f9bfeabb75e52be8d1585db7c91be5
-2026-03-10T23:44:13.850174+00:00|https://news.sky.com/story/labour-mp-says-her-rape-case-took-1088-days-to-reach-court-13517887|labour mp reveals she was raped at work event and case took 1088 days to reach court|160f72977bb5cd23f623cf8f3235e2b2
 2026-03-11T02:47:05.005951+00:00|https://www.bbc.com/news/articles/cwykl5d02rno|meghan to headline girls weekend in australia for 300 women|9e1bb74de91cf7c06b7c65021caedf77
 2026-03-11T02:47:10.456139+00:00|https://news.sky.com/story/british-theatre-is-beating-broadway-but-still-has-one-massive-problem-13517690|uk theatre is beating broadway but still has a big problem|7bf810cdf3af1ebb60962afbee85027a
 2026-03-11T02:47:15.774684+00:00|https://www.bbc.com/news/articles/c3v70xy7l12o|the papers us bombers take off and heading out at last|ae65786989a90ca735c9628301cf853f
@@ -458,3 +455,5 @@
 2026-03-17T22:41:36.307836+00:00|https://www.telegraph.co.uk/football/2026/03/17/chelsea-vs-psg-live-score-latest-champions-league-last-16|chelsea humiliated by psg as fans sing abramovichs name and boo rosenior decisions|d963fa9a74b03221046637b3c246ee37
 2026-03-17T22:41:41.748983+00:00|https://www.telegraph.co.uk/football/2026/03/17/arsenal-vs-bayer-leverkusen-live-score-champions-league|arsenal swagger into quarterfinals in message to style critics|df9678d9c5292b41887c79aee859e8fb
 2026-03-17T23:17:12.992629+00:00|https://news.sky.com/story/senegal-stripped-of-africa-cup-of-nations-over-misconduct-in-final-13521079|senegal stripped of africa cup of nations over misconduct in final|f6c5637324e76e53c91aa2372262e40e
+2026-03-17T23:57:01.576847+00:00|https://www.bbc.com/news/articles/c33j3nd1kvko|scotlands assisted dying bill rejected after emotional debate|8ea9298d24d7645401c315e55623e96e
+2026-03-17T23:57:07.613512+00:00|https://www.bbc.com/news/articles/cp8r813x66jo|zelensky calls for trump and starmer to meet and find common ground|cc60cb55b721e41a9938cf29df7511cc
