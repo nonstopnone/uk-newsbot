@@ -1,11 +1,3 @@
-2026-03-10T02:46:35.975754+00:00|https://news.sky.com/story/iran-war-is-trump-trying-to-end-it-because-hes-over-a-barrel-13517542|trump talks big on end to war but one thing speaks even louder|077037cc02f2ab077073a6bf62165f20
-2026-03-10T02:46:41.453698+00:00|https://www.bbc.com/news/articles/ce945rrde1yo|the papers drive less to save on fuel and war is near end|bac20a3c45a09944c82b09a8027460f8
-2026-03-10T02:46:46.908933+00:00|https://news.sky.com/story/the-fighting-feels-like-were-going-to-finish-it-once-and-for-all-13517537|the fighting feels like were going to finish it once and for all|268d39856d9c2e980518c59434b692f4
-2026-03-10T02:46:52.357652+00:00|https://www.bbc.com/weather/articles/cp32x44kllko|snow for some as winter weather returns to uk this week|5b618fa2d84c2db69089077400a33997
-2026-03-10T02:46:57.743410+00:00|https://news.sky.com/story/rethink-plans-for-jury-trials-thousands-of-lawyers-tell-starmer-13517487|rethink plans for jury trials thousands of lawyers tell starmer|c69c5ab1b143cdeb93b2ae950a172240
-2026-03-10T02:47:03.127655+00:00|https://www.bbc.com/news/articles/cm2x01yne13o|thousands of lawyers oppose jury restriction plan|df777845c0c4e248645cfa00668396a9
-2026-03-10T02:47:08.603492+00:00|https://news.sky.com/story/the-planet-just-got-incredibly-close-to-breaching-landmark-global-warming-target-13517440|the planet just got incredibly close to breaching landmark global warming target|185a577677711ecbfcb3425505b53ddf
-2026-03-10T02:47:13.960633+00:00|https://www.bbc.com/news/articles/cz6e7004dj9o|first vlevel subjects announced with aim to prepare for future jobs|8005e45ed0b263950082096cf39cb505
 2026-03-10T04:47:36.700002+00:00|https://www.bbc.com/news/articles/cqlg4vl61kro|more whales are stranding now more people are needed to help them|f43ad5fb5663fe88c9cdef254b46d481
 2026-03-10T04:47:42.035103+00:00|https://news.sky.com/story/mps-vote-down-social-media-ban-for-under-16s-13517545|mps vote down social media ban for under16s|c3d0b3f90da6c3fad80a95c9fdb4faac
 2026-03-10T04:47:47.451243+00:00|https://www.bbc.com/news/articles/cy4wgzdydkeo|how the red v blue school wars exposed the social media gap between children and parents|7e0b798a340b4e5ceb000738346983dd
@@ -484,3 +476,11 @@
 2026-03-17T02:43:56.328667+00:00|https://news.sky.com/story/four-things-we-learned-from-trumps-latest-public-appearances-about-iran-ai-starmer-and-lebanon-13520700|four things we learned from trumps latest public appearances|c22204155e2e958bbfd5018f33e42ddc
 2026-03-17T02:44:01.895743+00:00|https://www.bbc.com/news/articles/c363gz31dppo|the papers race to stop meningitis spreading and donalds trumped|c8c0d72cf28af13024b81f317fb3907a
 2026-03-17T02:44:07.316683+00:00|https://www.bbc.com/news/articles/c1kgx0xppzeo|scammed out of £17k one woman flew across uk to try to confront the suspect|20f70fe307e3fb8b231e0d9e5066c79f
+2026-03-17T04:31:31.118151+00:00|https://news.sky.com/story/former-brazilian-president-jair-bolsonaro-moved-out-of-intensive-care-after-medical-condition-improves-13520733|bolsonaro moved out of intensive care after medical condition improves|6b3565898eb83cdf56640e86f14bae20
+2026-03-17T04:31:36.545347+00:00|https://www.bbc.com/news/articles/cm2rm8evv7eo|£18bn needed to fix england and wales potholes road surfacing experts estimate|0e198f1adcd64b280d25b2890e544a5e
+2026-03-17T04:31:41.859635+00:00|https://www.bbc.com/news/articles/cn9e0zr5qy2o|chris mason why starmer thinks hes called it right on war despite trump barbs|687bc8df90f9646301ab9c942deb45df
+2026-03-17T04:31:47.194254+00:00|https://www.bbc.com/news/articles/c8xy05enzj7o|moving english tests for migrants online risks criminal abuse providers warn|53b066caeba437ec91f4fb4252682eb2
+2026-03-17T04:31:52.615511+00:00|https://www.bbc.com/weather/articles/cp8r3kgjmd5o|spring to make a comeback with warmest day of the year forecast|f1ffb56b00b5f89b079c9c191249e4a4
+2026-03-17T04:31:58.049422+00:00|https://www.bbc.com/news/articles/ce94k3v3rvro|train delay repay rule changes to make claims easier|441603f3578ab7402b7726fa2867b533
+2026-03-17T04:32:03.361552+00:00|https://www.bbc.com/news/articles/cm21gv3133zo|easter holidaymakers switching from dubai to spain as flights fill up|11cc48aca8bd4fa03060022ad42ad554
+2026-03-17T04:32:08.693931+00:00|https://www.bbc.com/news/articles/c0k16zdr1r1o|reeves vows to stop uk tech from drifting abroad|537097af69267ace7e9e35395778e330
