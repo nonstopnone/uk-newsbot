@@ -1,5 +1,3 @@
-2026-03-10T08:56:07.349045+00:00|https://news.sky.com/story/energy-prices-ease-on-hope-trump-will-call-halt-to-iran-war-soon-13517548|energy prices ease amid hopes trump will soon call halt to iran war|9d5393c2922567d36e97e97e918c593c
-2026-03-10T08:56:12.756661+00:00|https://www.telegraph.co.uk/recommended/tech/best-wireless-earbuds|the best wireless earbuds tested with music calls and during exercise|e9572918de44a3078773df2748581ab0
 2026-03-10T09:55:35.090314+00:00|https://www.bbc.com/news/articles/cvgjqzl7wrzo|glasgow central station remains closed in aftermath of fire|a9bca631f4350ee144836c8fcf5ce293
 2026-03-10T09:55:40.672171+00:00|https://news.sky.com/story/wintry-weather-to-return-to-uk-with-heavy-rain-and-chance-of-snow-13517579|wintry weather to return to uk with heavy rain and chance of snow|8257f35eb074bbcf8d169877a99a5b60
 2026-03-10T09:55:46.255558+00:00|https://www.telegraph.co.uk/recommended/tech/best-smartphones|best smartphone guide our experts test the best mobile phones of 2026|9ba324941939f0ddcaac8b1ee35031b1
@@ -478,3 +476,8 @@
 2026-03-17T07:14:35.674731+00:00|https://www.bbc.com/news/articles/cly0j6nnk4zo|reform pledges to scrap vat and green levies on energy bills|e75b7339b4109f2ecd975fbe6a38e317
 2026-03-17T07:14:41.148126+00:00|https://news.sky.com/story/reform-uk-maintain-poll-lead-after-row-with-yougov-13520702|reform uk maintain poll lead after row with yougov|12e24fc12aa3551285b9cc5e6bbff798
 2026-03-17T08:04:29.566478+00:00|https://www.bbc.com/news/articles/c4g7yd202ngo|woman not shortlisted for job as car is too old|dfe15e76da7360aff01f6b870bb7539d
+2026-03-17T09:09:28.496571+00:00|https://www.bbc.com/news/articles/cgqgx5kpzxko|glasgow central station to partially reopen after huge blaze|e71d3023e628bea39530a332b2d09bd8
+2026-03-17T09:09:34.053126+00:00|https://www.bbc.com/news/articles/c7432klgyldo|what are the symptoms of meningitis and is there a vaccine|0412362dfc809da236b79f9eb30e7db1
+2026-03-17T09:09:39.478463+00:00|https://www.bbc.com/news/articles/c15xeyny73wo|zelensky to visit starmer to sign new ukraineuk defence pact|003cd231e1e353d1ff505bd7d164ed8b
+2026-03-17T09:09:45.203523+00:00|https://www.bbc.com/news/articles/cgk2lr7xg3vo|mum of stabbed schoolgirl was abroad and terrified|ea415cc714369a14e9d427980c2d1d52
+2026-03-17T09:09:50.615173+00:00|https://www.bbc.com/news/articles/ckg2md2vzvdo|gerry adams to testify in court over claims he had role in ira bombings|e87c5b948263aaad6208a435f9d82b04
