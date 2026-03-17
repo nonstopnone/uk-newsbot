@@ -1,5 +1,3 @@
-2026-03-10T10:52:02.643910+00:00|https://www.bbc.com/news/articles/cvg8ll4l7d9o|man charged with murder of soham killer ian huntley|ef3096a66b2d5d7dddb21580c87705e0
-2026-03-10T10:52:08.031731+00:00|https://www.telegraph.co.uk/recommended/home/best-air-purifiers|we tested 14 air purifiers at home and these are the models that banished dust the best|1b61a9d2cc1e0bba66a219ae8e260bfc
 2026-03-10T11:38:52.745454+00:00|https://www.bbc.com/news/articles/c0j5yyyygp2o|joey barton arrested after assault near golf club|9846808c16fd438afa73ad7d3a217e63
 2026-03-10T11:38:58.365784+00:00|https://www.telegraph.co.uk/recommended/home/garden/best-pressure-washers|the 13 best pressure washers for cleaning cars decking and patios|cba371598af3488bad1451a3fd725447
 2026-03-10T11:39:03.964601+00:00|https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570|the outlook for your finances if the iran war were to end and if it doesnt|bc655fb67e73e151a81cdea3b0f7865d
@@ -475,3 +473,8 @@
 2026-03-17T09:09:39.478463+00:00|https://www.bbc.com/news/articles/c15xeyny73wo|zelensky to visit starmer to sign new ukraineuk defence pact|003cd231e1e353d1ff505bd7d164ed8b
 2026-03-17T09:09:45.203523+00:00|https://www.bbc.com/news/articles/cgk2lr7xg3vo|mum of stabbed schoolgirl was abroad and terrified|ea415cc714369a14e9d427980c2d1d52
 2026-03-17T09:09:50.615173+00:00|https://www.bbc.com/news/articles/ckg2md2vzvdo|gerry adams to testify in court over claims he had role in ira bombings|e87c5b948263aaad6208a435f9d82b04
+2026-03-17T11:10:07.161930+00:00|https://www.bbc.com/news/articles/c0mgd3z1e9ko|new mortgage costs soar £788 a year in two weeks|943e0e1b23c087320492fe55debabbd1
+2026-03-17T11:10:12.615573+00:00|https://news.sky.com/story/glasgow-central-station-to-partially-reopen-after-devastating-fire-but-it-will-look-different-13520786|scotlands busiest railway station to partially reopen after devastating fire|d2ddc19560f26d4c93d6d40a9185b465
+2026-03-17T11:10:17.932339+00:00|https://www.bbc.com/news/articles/c8eg0n6n1ygo|another former sub postmaster dies awaiting payout|afbfa971e95a8e462ffa918812e83e85
+2026-03-17T11:10:23.284127+00:00|https://news.sky.com/story/britain-could-see-temperatures-as-high-as-20c-as-spring-weather-arrives-13520777|uk could see temperatures as high as 20c|d4a0c4f82e17b2126dc15b9d0720162a
+2026-03-17T11:10:28.617893+00:00|https://www.bbc.com/news/articles/ckgzdjkl7q7o|rural areas let down by lack of oil regulation|b5837fa6d690eaf3cdd9a7fe83c93070
