@@ -1,9 +1,3 @@
-2026-03-10T17:34:13.041799+00:00|https://www.telegraph.co.uk/football/2026/03/10/atletico-madrid-vs-spurs-score-champions-league-updates|antonin kinsky expected to start against atletico instead of guglielmo vicario|fe53a113cc86509c4d2a2a4325dc43ce
-2026-03-10T17:34:18.552062+00:00|https://www.bbc.com/news/articles/c0k1yyg475ko|hms dragon departs uk for eastern mediterranean|40dc20c5095e038226d3ecb378100629
-2026-03-10T17:34:24.063618+00:00|https://news.sky.com/story/nottingham-triple-killer-punched-colleague-in-face-month-before-fatal-stabbings-13517766|nottingham triple killer punched colleague in face month before fatal stabbings|38fcc8fbc21943824f81b34d1967f56a
-2026-03-10T17:34:29.473443+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/sudan-militia-intentionally-starved-civilians-in-el-fasher|sudan militia intentionally starved civilians in el fasher|6f940247f62658aa3de69ee003ae1a4b
-2026-03-10T17:34:34.864599+00:00|https://www.bbc.com/news/articles/cze094zdelko|killer assaulted couple weeks before attacks|b4bfff5f77d210627ea3b6e09423874c
-2026-03-10T17:34:40.363491+00:00|https://www.telegraph.co.uk/racing/2026/03/10/cheltenham-festival-2026-dates-race-times-watch-course-tv|cheltenham festival 2026 explained dates race times course guide and where to watch|e28958dae50607737583d597a3d6d40d
 2026-03-10T18:30:11.539097+00:00|https://www.bbc.com/news/articles/cpw0eg9q7kwo|lammy urges labour mps to back jury trial cuts|d433d5206ba524943736116fab5caa1d
 2026-03-10T18:30:17.030260+00:00|https://www.telegraph.co.uk/racing/2026/03/10/cheltenham-festival-live-latest-updates-champion-hurdle|lossiemouth confirms status as cheltenham great with champion hurdle win|d9b266e0c352118c3bf098f422085e52
 2026-03-10T18:30:22.422126+00:00|https://news.sky.com/story/playstation-gamers-could-receive-1632bn-compensation-if-lawsuit-succeeds-13517819|playstation gamers could receive £2bn compensation if lawsuit succeeds|8d8a3df4bf40a8360bbdd78419bd559d
@@ -468,3 +462,7 @@
 2026-03-17T17:12:03.225458+00:00|https://www.bbc.com/news/articles/c79522r09qqo|dates confirmed for new driving test booking rules|74c557b5920049d4ba386ddba0bde4c5
 2026-03-17T17:12:08.831457+00:00|https://www.telegraph.co.uk/recommended/home/garden/best-garden-parasols-umbrellas-summer|the best garden parasols for optimum sun coverage tested in our interiors experts garden|1d429786062a98cc15e793b33b1e5b5f
 2026-03-17T17:12:14.245036+00:00|https://news.sky.com/story/andrew-tate-should-be-extradited-to-uk-from-hong-kong-to-face-charges-say-mps-13520875|andrew tate should be extradited to uk from hong kong say mps|f2741440c303bf0ca3992ac35e4a4bd6
+2026-03-17T18:10:01.477303+00:00|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/cumbria/lake-district/articles/best-dog-friendly-hotels-in-the-lake-district|the best dogfriendly hotels in the lake district|70529ce6d2c595066a2f38ea186b11b8
+2026-03-17T18:10:06.853990+00:00|https://www.bbc.com/news/articles/cx2j2nnqezqo|organisers confirm 10k race in city was 400m short|0a708aaa040d16628e382d8ba9332176
+2026-03-17T18:10:12.139519+00:00|https://www.bbc.com/news/articles/c07j44vpr1yo|killer kicked officer at station inquiry shown|a1991fc9d518bf4d0a9db4e0410e17b6
+2026-03-17T18:10:17.493951+00:00|https://www.bbc.com/news/articles/c7vjv57evnro|man found dead in wheelie bin named|fc99ea500038eff1e73b39387506360a
