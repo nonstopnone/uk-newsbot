@@ -1,8 +1,3 @@
-2026-03-10T04:47:36.700002+00:00|https://www.bbc.com/news/articles/cqlg4vl61kro|more whales are stranding now more people are needed to help them|f43ad5fb5663fe88c9cdef254b46d481
-2026-03-10T04:47:42.035103+00:00|https://news.sky.com/story/mps-vote-down-social-media-ban-for-under-16s-13517545|mps vote down social media ban for under16s|c3d0b3f90da6c3fad80a95c9fdb4faac
-2026-03-10T04:47:47.451243+00:00|https://www.bbc.com/news/articles/cy4wgzdydkeo|how the red v blue school wars exposed the social media gap between children and parents|7e0b798a340b4e5ceb000738346983dd
-2026-03-10T04:47:52.772333+00:00|https://news.sky.com/story/glasgow-central-scotlands-busiest-station-still-closed-after-blitz-like-fire-13517543|scotlands busiest station still closed after blitzlike fire|267e7ff49058f87881eadb2898a951e0
-2026-03-10T04:47:58.086519+00:00|https://www.bbc.com/news/articles/cly1wndx1nwo|im in constant pain woman harmed by vaginal mesh urges action on redress scheme|cf736327018cb8ff0fd3265481917240
 2026-03-10T05:52:56.496026+00:00|https://www.bbc.com/news/articles/c5y2l0glqeyo|like brooklyn beckham i dont speak to my family we need to talk about estrangement|f6e3e8ab360cfbb241796a052c183a9b
 2026-03-10T07:00:52.727099+00:00|https://www.bbc.com/news/articles/cz7g50jr8rgo|i thought my unborn baby had died in ebike crash|1c03876ba686e5eec5f57c4e47340a80
 2026-03-10T07:00:58.488581+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/venezuelan-youth-leader-optimistic-for-change|we have a totally different country venezuelan youth leader optimistic for change|8bbb3f886ec1319a60eaf8e16ea2d31f
@@ -484,3 +479,5 @@
 2026-03-17T04:31:58.049422+00:00|https://www.bbc.com/news/articles/ce94k3v3rvro|train delay repay rule changes to make claims easier|441603f3578ab7402b7726fa2867b533
 2026-03-17T04:32:03.361552+00:00|https://www.bbc.com/news/articles/cm21gv3133zo|easter holidaymakers switching from dubai to spain as flights fill up|11cc48aca8bd4fa03060022ad42ad554
 2026-03-17T04:32:08.693931+00:00|https://www.bbc.com/news/articles/c0k16zdr1r1o|reeves vows to stop uk tech from drifting abroad|537097af69267ace7e9e35395778e330
+2026-03-17T05:46:37.619011+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/women-burned-at-the-stake-in-modern-day-witch-trials-papua-new-guinea|women burned at the stake in modernday witch trial epidemic|1afff7a6d32f84840c33bcb7dcf86bfa
+2026-03-17T05:46:43.109458+00:00|https://www.bbc.com/sport/tennis/articles/c77e2r520yno|raducanu withdraws from miami open because of illness|6c23b19c0d490c3e5ce5084e9df3fc1a
