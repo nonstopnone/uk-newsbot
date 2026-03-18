@@ -1,4 +1,3 @@
-2026-03-11T20:04:21.200038+00:00|https://www.telegraph.co.uk/business/2026/03/11/oil-price-reserves-iea-iran-us-trump-ftse-100-markets|putins shadow fleet races to india after trump lifts oil sanctions|b83029cc28f23247b051c1c0eb259ef7
 2026-03-11T20:50:41.623140+00:00|https://www.telegraph.co.uk/football/2026/03/11/bayer-leverkusen-vs-arsenal-live-champions-league-score|arsenal handed dose of own setpiece medicine by leverkusen before havertz aids recovery|133e4715bfa35ae62af302804f20d445
 2026-03-11T20:50:46.991044+00:00|https://www.bbc.com/news/articles/ckg893yd499o|bbc decision to axe lgbtq dating show is two steps back say contestants|29634706a47344235959ecffe1b7519b
 2026-03-11T21:40:44.420142+00:00|https://news.sky.com/story/psychologist-missing-for-a-week-may-have-taken-boat-from-boatyard-say-police-13518368|psychologist missing for a week may have taken boat from boatyard|8caf47c2a27d8fb591b87bc95852410a
@@ -453,3 +452,9 @@
 2026-03-18T19:12:48.324629+00:00|https://news.sky.com/story/us-central-bank-eyes-iran-war-lift-to-inflation-as-oil-prices-surge-again-13521369|us central bank predicts inflation rise from iran war as oil prices surge again|9e003a2343104fe2fd75486dd77a4025
 2026-03-18T19:54:36.519978+00:00|https://www.bbc.com/news/articles/c20z08rdd9ro|all doctors in england warned to watch for meningitis symptoms after kent outbreak|f75353c0898adda5aa75826d4bc1d967
 2026-03-18T19:54:41.844992+00:00|https://www.bbc.com/news/articles/c20z08rdd9ro|public health alert as kent meningitis cases rise|57793e52b7f8201143890506636a8bbb
+2026-03-18T20:48:42.762538+00:00|https://www.bbc.com/news/articles/czx7x7wy1e2o|cost of online passport application could rise to over £100|827c8ecc1be18793a96a445c21fa49ec
+2026-03-18T20:48:48.247710+00:00|https://news.sky.com/story/pair-charged-with-spying-on-jewish-targets-for-iran-13521528|pair charged with spying on jewish targets for iran|da1c5a31374f713ad5e1b13893702f58
+2026-03-18T20:48:53.652387+00:00|https://www.telegraph.co.uk/football/2026/03/18/barcelona-vs-newcastle-live-score-champions-league-updates|newcastle suffer humiliating champions league defeat against barcelona|a758411e5dc1be68e6c70e4237b15549
+2026-03-18T20:48:58.945735+00:00|https://www.bbc.com/news/articles/c4gegvde4wlo|nursery employee worked with children after arrest|ad215c02bfe195334c56703945e7fd69
+2026-03-18T20:49:04.275126+00:00|https://news.sky.com/story/angela-rayner-eyeing-frontline-politics-return-with-allies-confident-tax-probe-will-end-by-may-elections-13521487|rayner eyeing frontline politics return with allies confident tax probe will end by may elections|921a1c3284e8744f33f5f1266fd610fa
+2026-03-18T20:49:09.548905+00:00|https://www.bbc.com/news/articles/c8757y5yj7zo|greyhound racing to be outlawed in scotland|71616a30a7be39bab11c563de7b8594b
