@@ -462,3 +462,7 @@
 2026-03-19T05:11:51.114275+00:00|https://www.bbc.com/news/articles/c5yq1yg9ldwo|im in agony six years after treatment for anal cancer|f7521c3d48f83084c664179323d86a4b
 2026-03-19T06:12:40.601981+00:00|https://www.telegraph.co.uk/recommended/tech/amazon-alexa-plus-review|tough night for chelsea mate new chatty alexa comes to uk and i saw it in action|89864ff59fcfc6cd659aeabb2ab85192
 2026-03-19T07:17:26.739090+00:00|https://news.sky.com/story/new-uk-unemployment-figures-released-13521630|unemployment remains at highest rate in five years|240d246139a4587d19240eef1fffd057
+2026-03-19T09:03:02.911901+00:00|https://www.bbc.com/news/articles/cn0z0x82r00o|pay grows at slowest rate in more than five years|27fbc0ca80162b51ccb5119f095102a1
+2026-03-19T09:03:08.323895+00:00|https://www.bbc.com/news/articles/cz9qq8d7l1ko|better nhs care might have saved 58 babies bbc finds|ffcf91dabc1dca68172241ff40d22a10
+2026-03-19T09:03:13.761109+00:00|https://www.bbc.com/weather/articles/crm8mexxlm7o|warm settled weather set to continue into the weekend|2418dd14cf9a56ece4b881ebf7bae451
+2026-03-19T09:03:19.213363+00:00|https://www.bbc.com/news/articles/c0q3q4e8zvpo|uturn after job applicant told car is too old|311d313daaa26dd455ec08feda40c4b2
