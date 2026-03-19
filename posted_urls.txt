@@ -1,6 +1,3 @@
-2026-03-12T20:53:20.317489+00:00|https://news.sky.com/story/british-fragrance-entrepreneur-jo-malone-facing-legal-action-over-use-of-her-own-name-13518802|british fragrance entrepreneur facing legal action over use of her own name|e69d92dc5ac6cc04332a521d3beea3e4
-2026-03-12T20:53:25.632920+00:00|https://www.bbc.com/news/articles/c0e531gve7do|uk troops at iraq base shot down iranian drones healey says|3a7128b4859654c0476bb6a6001a467a
-2026-03-12T20:53:31.099649+00:00|https://www.telegraph.co.uk/football/2026/03/12/lille-aston-villa-live-score-latest-europa-league-updates|aston villa turn into prime wimbledon to earn precious firstleg lead against lille|92ace2628828cc86995b2fe6c707efb9
 2026-03-12T21:40:19.874222+00:00|https://www.telegraph.co.uk/business/2026/03/12/oil-price-iran-us-strait-of-hormuz-trump-ftse-100-markets|trump calls for interest rate cut as energy prices climb|afe7c9ca885aa81692ee46d8e6d95b26
 2026-03-12T22:46:32.912829+00:00|https://www.bbc.com/news/articles/cx247vd1v48o|boy charged over stabbing of teenage girl at school|101edfcfd9495cf0d2dfa9591efceb35
 2026-03-12T22:46:38.428125+00:00|https://www.bbc.com/news/articles/cm287ylyydjo|pottery firm denby to appoint administrators|6e0d59f0a7c527edc60522311c159a3d
@@ -484,3 +481,5 @@
 2026-03-19T19:36:44.526155+00:00|https://news.sky.com/story/crossbows-to-be-banned-after-series-of-violent-attacks-13521929|crossbows to be banned after series of violent attacks|48945284d54db82e32fdbf9808df126a
 2026-03-19T20:20:43.399644+00:00|https://news.sky.com/story/iran-war-last-24-hours-show-a-prolonged-conflict-could-do-calamitous-damage-to-global-economy-13521949|last 24 hours show a prolonged iran war could do calamitous damage to global economy|55059b8463b3b5dd095550d6f13efc79
 2026-03-19T20:20:48.820887+00:00|https://www.bbc.com/news/articles/clyzy0y20qlo|reports of children as young as 11 abused in west midlands minimarts bbc reveals|3a1ea1b1aed693f104facff7a0959403
+2026-03-19T21:04:40.975479+00:00|https://www.telegraph.co.uk/business/2026/03/19/uk-unemployment-oil-price-iran-war-gas-fields-ftse-markets|uk borrowing costs rise three times faster than rest of europe|1f3ede472b752434a49e4b818581b876
+2026-03-19T21:04:46.336925+00:00|https://news.sky.com/story/essex-police-pauses-use-of-live-facial-recognition-cameras-due-to-racial-bias-concerns-13521951|essex police pauses use of facial recognition cameras due to racial bias concerns|25640fd582efd597c9176f66d593696b
