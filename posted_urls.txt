@@ -1,6 +1,3 @@
-2026-03-12T12:00:18.706504+00:00|https://www.bbc.com/news/articles/cy7j4rmlk47o|man appears in court charged with murder of ellie flanagan|c0be4ab0679b00499f65fb4d4b56aca7
-2026-03-12T12:00:24.143620+00:00|https://news.sky.com/story/teenage-girl-shot-in-legs-in-targeted-attack-in-liverpool-13518575|teenage girl shot in legs in targeted attack in liverpool|e7f7329144f03e42c70e7353866a53f6
-2026-03-12T12:00:29.506303+00:00|https://www.bbc.com/news/articles/c2e4l9k9yd1o|water company to pay £45m after excessive sewage spills|cac370fedd3f6d86ca7675c6aa9893ce
 2026-03-12T13:24:12.770715+00:00|https://www.bbc.com/news/articles/cn71n7krrk4o|remaining section of glasgow fire building to be demolished|58a4f65f29c3d30e6cf52b10c31d7da7
 2026-03-12T13:24:18.316246+00:00|https://news.sky.com/story/ex-mi5-contractor-flew-to-latvia-to-pass-secrets-to-foreign-power-court-hears-13518567|exmi5 contractor flew to latvia to pass secrets to foreign power court hears|19f0b4b42d2659d53baec19b4d72ca85
 2026-03-12T13:24:23.725912+00:00|https://www.bbc.com/news/articles/c627x25y8yyo|prison inmate charged with huntley murder appears in crown court|89d2b31b02afb8372b0acd59a18e0a7b
@@ -472,3 +469,9 @@
 2026-03-19T11:52:24.912356+00:00|https://news.sky.com/story/ai-generated-val-kilmer-to-star-in-new-movie-a-year-after-actors-death-13521693|val kilmer to star in new movie a year after his death|c2bb5d725310a008c0bd325a2b12f829
 2026-03-19T11:52:30.526565+00:00|https://www.telegraph.co.uk/recommended/home/best-heated-clothes-airer|it dried shirts in an hour the best heated clothes airers to save time and money|5d733f80a3d1ab3fbc53da51beec041c
 2026-03-19T11:52:36.148544+00:00|https://news.sky.com/story/apple-issues-iphone-spyware-alert-and-tells-users-to-update-ios-operating-system-13521654|apple issues spyware alert to iphone users|755e14bf4ac9c37a3249eb2a7206a542
+2026-03-19T13:22:37.872011+00:00|https://www.telegraph.co.uk/recommended/sleep/best-side-sleeper-pillows|these are the best pillows for side sleepers tested for support and comfort|8748ae52b2ba300ac93dde83441dcbee
+2026-03-19T13:22:43.411412+00:00|https://news.sky.com/story/4chan-website-fined-by-ofcom-for-failing-to-protect-children-from-seeing-pornography-13521707|4chan website fined by ofcom for failing to protect children from seeing pornography|25fc9dbe8cb5d4b68bdcfef8270548e3
+2026-03-19T13:22:48.759533+00:00|https://www.bbc.com/news/articles/c7959959r00o|tories only party with a plan says badenoch as she launches election campaign|7d59ced3b31d4ac66187db17e6727d9d
+2026-03-19T13:22:54.240828+00:00|https://news.sky.com/story/china-not-planning-to-invade-taiwan-in-2027-us-intelligence-agencies-say-13521682|china not planning to invade taiwan in 2027 us says|3c93de9f469a6b5739f64159a7b4eb13
+2026-03-19T13:22:59.578151+00:00|https://www.bbc.com/news/articles/cwyky8l23g1o|snoop dogg wants to turn swansea into vegas but some think he should leave us alone|d3f3d27eb6f24f08eeb86e621c0cffe7
+2026-03-19T13:23:04.925297+00:00|https://www.bbc.com/news/articles/cj0d50g1y59o|oil price rise adds £64000 to firms weekly fuel bill|2d7dbc03ce14c1f47fe1683f5eb88c86
