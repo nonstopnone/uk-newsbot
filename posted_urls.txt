@@ -1,6 +1,3 @@
-2026-03-12T11:36:47.975742+00:00|https://news.sky.com/story/prisoner-charged-with-ian-huntleys-murder-appears-in-court-13518596|ian huntleys alleged killer appears in court|64dfc1883741971962841ff3e25e75bf
-2026-03-12T11:36:53.376363+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/women-and-children-bear-brunt-of-israeli-strikes-on-lebanon|israeli strikes in lebanon killing more women and children|2f96ffc8b2e618bc9021c2a60dd0bee3
-2026-03-12T11:36:58.756105+00:00|https://news.sky.com/story/kim-jong-un-and-teenage-daughter-fire-guns-as-north-korea-debuts-new-weapon-13518573|kim jong un and teenage daughter fire guns as north korea debuts new weapon|a475997e789370bd027ac12b0814c323
 2026-03-12T12:00:18.706504+00:00|https://www.bbc.com/news/articles/cy7j4rmlk47o|man appears in court charged with murder of ellie flanagan|c0be4ab0679b00499f65fb4d4b56aca7
 2026-03-12T12:00:24.143620+00:00|https://news.sky.com/story/teenage-girl-shot-in-legs-in-targeted-attack-in-liverpool-13518575|teenage girl shot in legs in targeted attack in liverpool|e7f7329144f03e42c70e7353866a53f6
 2026-03-12T12:00:29.506303+00:00|https://www.bbc.com/news/articles/c2e4l9k9yd1o|water company to pay £45m after excessive sewage spills|cac370fedd3f6d86ca7675c6aa9893ce
@@ -472,3 +469,6 @@
 2026-03-19T11:03:47.088819+00:00|https://www.bbc.com/news/articles/cddndd407pqo|one in three probation appointments missed due to staff workloads figures show|7cedec6a4d81f9a3ad2fe5af5db440d2
 2026-03-19T11:03:52.462805+00:00|https://www.bbc.com/news/articles/c98g6ne43j7o|sheep shearing takes me all over the world uk visa changes could make scotland a nogo area for some|547dbb911e89e0c48aa17e7e2e054bff
 2026-03-19T11:03:57.975667+00:00|https://www.bbc.com/sport/football/articles/cqxd55dxrejo|four english teams out of champions league in 24 hours what went wrong|428dce0606bf20afd71e51ac88af080d
+2026-03-19T11:52:24.912356+00:00|https://news.sky.com/story/ai-generated-val-kilmer-to-star-in-new-movie-a-year-after-actors-death-13521693|val kilmer to star in new movie a year after his death|c2bb5d725310a008c0bd325a2b12f829
+2026-03-19T11:52:30.526565+00:00|https://www.telegraph.co.uk/recommended/home/best-heated-clothes-airer|it dried shirts in an hour the best heated clothes airers to save time and money|5d733f80a3d1ab3fbc53da51beec041c
+2026-03-19T11:52:36.148544+00:00|https://news.sky.com/story/apple-issues-iphone-spyware-alert-and-tells-users-to-update-ios-operating-system-13521654|apple issues spyware alert to iphone users|755e14bf4ac9c37a3249eb2a7206a542
