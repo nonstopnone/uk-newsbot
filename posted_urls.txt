@@ -1,9 +1,3 @@
-2026-03-12T13:24:12.770715+00:00|https://www.bbc.com/news/articles/cn71n7krrk4o|remaining section of glasgow fire building to be demolished|58a4f65f29c3d30e6cf52b10c31d7da7
-2026-03-12T13:24:18.316246+00:00|https://news.sky.com/story/ex-mi5-contractor-flew-to-latvia-to-pass-secrets-to-foreign-power-court-hears-13518567|exmi5 contractor flew to latvia to pass secrets to foreign power court hears|19f0b4b42d2659d53baec19b4d72ca85
-2026-03-12T13:24:23.725912+00:00|https://www.bbc.com/news/articles/c627x25y8yyo|prison inmate charged with huntley murder appears in crown court|89d2b31b02afb8372b0acd59a18e0a7b
-2026-03-12T14:27:56.344954+00:00|https://news.sky.com/story/ian-huntley-to-get-minimalist-funeral-with-taxpayers-contributing-up-to-1633k-13518640|ian huntley to get minimalist funeral with taxpayers contributing up to £3k|db8a07cf9bf63d0a5a944ec7ec95a7fe
-2026-03-12T14:28:01.738252+00:00|https://news.sky.com/story/worst-cancer-diagnosis-performance-in-two-years-for-england-13518621|worst cancer diagnosis performance in two years for england|bc4db56954dce021c43df549a073fd18
-2026-03-12T14:28:07.163697+00:00|https://news.sky.com/story/oil-rebounds-above-100-as-market-counts-cost-of-attacks-on-energy-13518533|oil rebounds above $100 as market counts cost of attacks on energy|0d24fd26f3ef86215e22b93b34af5845
 2026-03-12T15:33:51.882047+00:00|https://www.bbc.com/news/articles/cvgkj148p7no|mother is jailed for enslaving woman for 25 years|4461049c04cdf1fc5cde4348c87000c0
 2026-03-12T15:33:57.323078+00:00|https://news.sky.com/story/putin-likely-helping-iran-with-drones-uk-defence-secretary-says-13518703|putins hidden hand likely helping iran against trump says uk minister|7457e610f46cae69c0e8d82324b2a8bd
 2026-03-12T15:34:02.765454+00:00|https://www.bbc.com/news/articles/c743g4yn4k8o|british man charged in dubai for alleged filming of iranian missiles|b35bdef3fb631a4a9b53130fe8bc2d80
@@ -475,3 +469,11 @@
 2026-03-19T13:22:54.240828+00:00|https://news.sky.com/story/china-not-planning-to-invade-taiwan-in-2027-us-intelligence-agencies-say-13521682|china not planning to invade taiwan in 2027 us says|3c93de9f469a6b5739f64159a7b4eb13
 2026-03-19T13:22:59.578151+00:00|https://www.bbc.com/news/articles/cwyky8l23g1o|snoop dogg wants to turn swansea into vegas but some think he should leave us alone|d3f3d27eb6f24f08eeb86e621c0cffe7
 2026-03-19T13:23:04.925297+00:00|https://www.bbc.com/news/articles/cj0d50g1y59o|oil price rise adds £64000 to firms weekly fuel bill|2d7dbc03ce14c1f47fe1683f5eb88c86
+2026-03-19T14:30:11.463835+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/aid-cuts-africa-fcdo-malaria-disease-polio|uk to cut bilateral aid to africa by £900m by 2028|47ce4b01238ee35b9a858455f341ec2a
+2026-03-19T14:30:16.908916+00:00|https://www.bbc.com/news/articles/cd9g9gnkxq2o|parents jailed after letting skeletal fivestone daughter die|a3a00a319987e7e52fa1e1ab638a8efb
+2026-03-19T14:30:22.246605+00:00|https://news.sky.com/story/ex-mi5-contractor-had-ninja-style-training-in-swords-and-knives-court-told-13521748|exmi5 contractor had ninjastyle training in swords and knives court told|58c04195805f09391ccfdf583908996b
+2026-03-19T14:30:27.593670+00:00|https://www.bbc.com/news/articles/crm1w24p8p7o|starmer meets nigerian president as record steel deal agreed|a60371e29e15c7c75cc555232d617169
+2026-03-19T14:30:32.944495+00:00|https://news.sky.com/story/social-media-blamed-for-stark-decline-in-young-peoples-happiness-13521713|social media blamed for stark decline in young peoples happiness|63dabfb990dc48dbf25582069e033f97
+2026-03-19T14:30:38.287870+00:00|https://www.bbc.com/news/articles/crl1r8n3eepo|two men in court accused of spying on london jewish community for iran|f3e53e0fd9d9ab0d7919ecd59073c2f3
+2026-03-19T14:30:43.629774+00:00|https://news.sky.com/story/kevin-spacey-settles-sexual-assault-cases-with-three-british-men-13521711|kevin spacey settles sexual assault cases with three british men|d91f2d02a281bc28034228af297b8079
+2026-03-19T14:30:49.049720+00:00|https://www.bbc.com/sport/football/articles/ckg8gp88m8xo|the man utd prodigy still too young to play senior football|f68352f7ca97e78b3d67af9fea7d8d36
