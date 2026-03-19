@@ -1,4 +1,3 @@
-2026-03-12T09:55:20.930588+00:00|https://www.bbc.com/news/articles/c875nzlv7ddo|minister defends pms handling of mandelson appointment|cf52c6b398864e98548d532be326e0a5
 2026-03-12T10:50:27.597774+00:00|https://news.sky.com/story/noma-chef-steps-down-over-workplace-bullying-and-abuse-allegations-13518520|noma chef steps down over bullying and abuse allegations|c03213563792f065124db34a964990e5
 2026-03-12T10:50:33.101404+00:00|https://www.bbc.com/news/articles/c4g23npxpwgo|lloyds bank of scotland and halifax apps showed customers other users transactions|73a37eb53ec21b45f4134fb309f4d420
 2026-03-12T10:50:38.626970+00:00|https://www.telegraph.co.uk/recommended/home/best-dehumidifiers|it dried my clothes in three hours the best dehumidifiers for laundry condensation and mould|9cda3c3bbeb99a6663f88f79cfdd89f7
@@ -466,3 +465,8 @@
 2026-03-19T09:03:08.323895+00:00|https://www.bbc.com/news/articles/cz9qq8d7l1ko|better nhs care might have saved 58 babies bbc finds|ffcf91dabc1dca68172241ff40d22a10
 2026-03-19T09:03:13.761109+00:00|https://www.bbc.com/weather/articles/crm8mexxlm7o|warm settled weather set to continue into the weekend|2418dd14cf9a56ece4b881ebf7bae451
 2026-03-19T09:03:19.213363+00:00|https://www.bbc.com/news/articles/c0q3q4e8zvpo|uturn after job applicant told car is too old|311d313daaa26dd455ec08feda40c4b2
+2026-03-19T10:02:34.197025+00:00|https://news.sky.com/story/incredibly-brave-man-traps-armed-robber-inside-shop-he-tried-to-raid-13521653|incredibly brave man traps armed robber inside shop he tried to raid|c0517d266f6c8b429ec3c1a8524324c8
+2026-03-19T10:02:39.666166+00:00|https://www.bbc.com/news/articles/c4g8ggelrd5o|police investigating bailout email from mandelson to epstein|568dcc1200718cad94671e6b54c97e0d
+2026-03-19T10:02:45.192339+00:00|https://www.telegraph.co.uk/recommended/tech/best-water-flosser|the water flossers i recommend for whiter and healthier teeth with tips from a dentist|7180e91c6c272e75e02f33d23acc4b2c
+2026-03-19T10:02:50.579645+00:00|https://www.bbc.com/news/articles/c89k99e8pwjo|three killed and three arrested after fatal crash|afc48c03d65821908cc3c6a094a96ae6
+2026-03-19T10:02:56.086549+00:00|https://www.bbc.com/news/articles/cp323zpxp11o|house of lords backs bid to decriminalise abortion|4cbb3711bc4d7a7ef506699b3e4aa6df
