@@ -1,12 +1,3 @@
-2026-03-12T00:01:14.461194+00:00|https://www.bbc.com/news/articles/c627x7g2l4vo|chris mason some nuggets but no huge revelations in first batch of mandelson files|473cf295d40edd749d3e8d20216acf9a
-2026-03-12T03:13:02.187774+00:00|https://news.sky.com/story/mps-launch-investigation-into-student-loans-system-13518324|mps launch investigation into student loans system|b81a6e7b31967cea3759e70e0a5c361a
-2026-03-12T03:13:07.832533+00:00|https://www.bbc.com/news/articles/cm21g1lzll6o|the papers starmer did ignore epstein warnings and record oil release|61340122231a6c84dd6c3ba4b62d40c7
-2026-03-12T03:13:13.423060+00:00|https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316|the nature of war is changing and its a death trap for civilians|2fd6696da98ae8bc4e34df72fc2e9205
-2026-03-12T03:13:18.972410+00:00|https://www.bbc.com/weather/articles/cz9q7y44ep4o|wind warnings issued as colder weather and mountain snow head south|cd6acb8a7cbc937e61ed6ce9b69c3faf
-2026-03-12T03:13:24.403611+00:00|https://news.sky.com/story/tech-giants-warned-to-protect-children-online-as-ofcom-hands-down-deadline-13518297|big tech given warning and deadline by uk regulator|509446126c2de7b337fbf1f947e0bd9a
-2026-03-12T03:13:29.948894+00:00|https://www.bbc.com/news/articles/cdxg70rr2geo|inquiry into student loans launched by mps|a24e95e46e4575144beddbc59af0d4d7
-2026-03-12T03:13:35.349433+00:00|https://www.bbc.com/news/articles/c20lew24kngo|hundreds of gps tell bbc they have never refused a sick note over mental health concerns|e0c7487de5cb5380feba1ba0bb767133
-2026-03-12T03:13:40.783837+00:00|https://www.bbc.com/news/articles/cn48n18pg1eo|social media firms asked to toughen up age checks for under13s|85f7ef31367da371f77ba4d5f14edf6f
 2026-03-12T04:59:13.154436+00:00|https://www.bbc.com/news/articles/c2lrq2n7l9eo|liza tarbuck leaves radio 2 saturday show after 14 years|fe05e40cef31a58c5b8e60c988464ef1
 2026-03-12T07:14:20.507515+00:00|https://www.bbc.com/news/articles/cglgnx26kwgo|where did fridgecarrying fundraisers donations go|95ca11d976a614f2911400a24b52fc3d
 2026-03-12T07:14:25.852855+00:00|https://www.bbc.com/news/articles/cr5l9egglrro|starmer vows to crack down on profiteering from fuel crisis|c3fde461d4c22c3be16ebcd716b34824
@@ -459,3 +450,11 @@
 2026-03-18T23:38:29.265550+00:00|https://news.sky.com/story/senegal-vows-to-appeal-unfair-unacceptable-ruling-stripping-it-of-african-football-trophy-13521590|senegal vows to appeal unfair unacceptable ruling stripping it of african football trophy|152d28da74bb6184e2c95ab329154f6e
 2026-03-18T23:38:34.711812+00:00|https://www.bbc.com/news/articles/c4gjg8n40z7o|bereaved father wants suicide prevention training in every school|51205b0371ab30d73f9026ee34cb0852
 2026-03-19T00:00:32.167389+00:00|https://www.bbc.com/news/articles/c62g2e08jpno|sadiq khan says labour should pledge to rejoin eu|7a8a8997b55b603ed9d42194d379952b
+2026-03-19T03:22:15.464555+00:00|https://news.sky.com/story/hellish-scenes-and-body-bag-shortages-what-we-could-learn-from-covid-report-today-13521386|hellish scenes and body bag shortages what we could learn from covid report today|ee7b01f788db1bcdddca95273ed70a6f
+2026-03-19T03:22:20.837245+00:00|https://www.telegraph.co.uk/business/2026/03/18/oil-petrol-prices-us-fed-interest-rates-ftse-100-markets|iran strikes huge qatari gas facility|025137eee5662c35520739df27814e1d
+2026-03-19T03:22:26.203107+00:00|https://www.bbc.com/news/articles/cy0dxexdd8xo|worlds longest coastal path opens in england|1798f9d43da87227e1d72a796a7d355b
+2026-03-19T03:22:31.562348+00:00|https://news.sky.com/story/exclusive-poll-reveals-what-officers-public-and-victims-think-about-uk-policing-13521475|revealed what officers public and victims think about uk policing|0b96853feafdecd77d0e5fdc183e8b65
+2026-03-19T03:22:37.005090+00:00|https://www.bbc.com/news/articles/cwyx81517jxo|designer dog owners report more problem behaviours vets warn|f2328beebb88144cd931a1a3d201eea4
+2026-03-19T03:22:42.442693+00:00|https://news.sky.com/story/nottingham-attack-victims-mum-validated-as-officer-says-he-felt-killings-were-murder-13521610|nottingham attack victims mum validated as officer says he felt killings were murder|fafad5842edf9e92934c83f7b889a8e1
+2026-03-19T03:22:47.792154+00:00|https://www.bbc.com/news/articles/cjenegnl0ngo|analysis is government going wobbly on its migration plans|71f35017af842fb691cffdc9226e390f
+2026-03-19T03:22:53.247643+00:00|https://news.sky.com/story/watershed-moment-as-uk-levies-steel-tariff-in-new-strategy-13521500|why uks new steel tariff is a watershed moment|ce1696e0b698d03f1c813350bc7851c5
