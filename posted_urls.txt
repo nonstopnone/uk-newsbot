@@ -1,4 +1,3 @@
-2026-03-13T20:02:48.996500+00:00|https://news.sky.com/story/third-horse-dies-at-cheltenham-in-his-last-race-13519361|third horse dies at cheltenham in his last race|89ef570d5be780187cf76c6464ce01c7
 2026-03-13T20:54:02.698550+00:00|https://www.telegraph.co.uk/business/2026/03/13/oil-prices-rise-despite-trump-lifting-russian-sanctions|petrol hits 18month high as miliband attacks unfair practices|6dd3c749989c623928f205e00d52f89d
 2026-03-13T21:40:34.704510+00:00|https://news.sky.com/story/man-who-murdered-ex-wife-and-buried-her-in-garden-is-jailed-for-life-13519382|man who murdered exwife and buried her in garden is jailed|e7d9f06e86062bc076acb7691c1ac3a6
 2026-03-13T21:40:40.251299+00:00|https://www.bbc.com/news/articles/c1d6l9v3qk1o|trial starts in case of explosives sent to uk and poland|f31c1f30f24327dce8f6a1139f925651
@@ -468,3 +467,4 @@
 2026-03-20T19:00:14.206898+00:00|https://www.bbc.com/news/videos/cp3ld6dq4d1o|i feel so grateful to be alive kent university meningitis survivor says|e2e46b0e9382eea511757dcc6f639dcf
 2026-03-20T19:45:34.583157+00:00|https://www.bbc.com/news/articles/cp385808jk2o|starmer most popular pm in toby jug sales|a9adbf88a66c4404ad74b1d1c86ac43a
 2026-03-20T19:45:40.136666+00:00|https://www.bbc.com/news/articles/cm29n77771go|thousands attend europes biggest eid celebration|e44723e6d4a537feb09ee3060f51576b
+2026-03-20T20:41:08.363392+00:00|https://www.telegraph.co.uk/business/2026/03/20/oil-gas-iran-war-energy-crisis-iea-hormuz-ftse-100-markets|borrowing costs surge to highest level since 2008|f4f35f947108ec5df966ec9988bf4f4d
