@@ -1,5 +1,3 @@
-2026-03-14T13:55:38.092203+00:00|https://www.bbc.com/news/articles/c0q3k04wxylo|motörhead guitarist phil campbell dies aged 64|09b8644f1a0c9edb05bba16bc0124ee6
-2026-03-14T13:55:43.541494+00:00|https://news.sky.com/story/man-found-dead-in-wheelie-bin-in-coventry-police-say-13519557|man found dead in wheelie bin|01946e0b35c8b2bc3776d63a2ca27cb5
 2026-03-14T14:36:52.601499+00:00|https://www.bbc.com/news/articles/crrxywl5e2ko|heating oil support needs to be delivered now|4cd643969407b3f804d7caee1ac2a955
 2026-03-14T14:36:57.971659+00:00|https://news.sky.com/story/book-claiming-meghan-brainwashed-harry-is-deranged-conspiracy-says-his-spokesperson-13519546|book claiming meghan brainwashed harry is deranged conspiracy says his spokesperson|640f62af093ef771c2dd4ff96be16173
 2026-03-14T15:02:47.745986+00:00|https://www.bbc.com/news/articles/cvgky84z6lro|we expect government help in a crisis will reeves intervene on energy bills this time|810be24680ef8a73bbd794b27f473dde
@@ -463,3 +461,6 @@
 2026-03-21T11:57:41.028669+00:00|https://www.bbc.com/news/articles/cwyxy54pv9po|as starmer faces war overseas his party cant find peace at home|41395ca6929c8ca8f2540d689ad28d5c
 2026-03-21T13:09:16.654487+00:00|https://www.bbc.com/news/articles/c79jndd344zo|first female archbishop nears end of pilgrimage|f7eea782ece9e3c521d716f0a7599f96
 2026-03-21T13:09:22.231776+00:00|https://news.sky.com/story/russian-drones-kill-at-least-two-in-ukraine-and-cut-power-to-most-of-a-region-13522485|russian drones kill at least two in ukraine and hit power|890b4c51a6a652fcd058360a32ed3e19
+2026-03-21T14:34:24.932208+00:00|https://www.bbc.com/news/articles/ce84vm147ryo|greyhound racing ban legal challenge rejected|b515ce3bc0086df781429d6966bfab0a
+2026-03-21T14:34:30.314874+00:00|https://www.bbc.com/sport/football/articles/cz67w1lnv6vo|swansea criticise tv coverage of wrexham defeat|9e27e1034557d53b89ab1041c7198455
+2026-03-21T14:34:35.705258+00:00|https://www.bbc.com/news/articles/c4gxd2z0y7go|drunk driver killed man then went to buy alcohol|874e893fc220832e16c830086eed8fc3
