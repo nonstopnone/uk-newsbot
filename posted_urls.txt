@@ -1,5 +1,3 @@
-2026-03-15T22:35:35.937298+00:00|https://news.sky.com/story/israelis-have-confidence-in-the-countrys-defence-systems-8211-but-some-missiles-are-getting-through-13520274|israelis have confidence in the countrys defence systems but some missiles are getting through|7b8e3394851410b48fb91dab441bf4eb
-2026-03-15T22:35:41.390653+00:00|https://news.sky.com/story/more-than-60-dead-after-severe-flooding-in-kenya-with-nairobi-worst-hit-13520238|more than 60 dead after severe flooding in kenya|169686bcc68c35dddffb9fb6ee9f6051
 2026-03-15T23:03:15.688403+00:00|https://news.sky.com/story/keir-starmer-to-unveil-emergency-support-for-households-worst-hit-by-energy-price-rises-13520195|starmer to unveil emergency support for households worst hit by energy price rises|28b6cf5e8cacf2041779d0672d8c6b3f
 2026-03-15T23:45:21.359797+00:00|https://www.bbc.com/news/articles/clyz0ep9g8lo|labour calls for tax investigation into reforms tice|249db1df8efdaed397555ccbe012280b
 2026-03-15T23:45:26.733844+00:00|https://www.bbc.com/news/articles/cp9mgpzn901o|pm to set out support plan for heating oil costs|b2a3697b41c8180e4f907a84dc05b83b
@@ -450,3 +448,5 @@
 2026-03-22T18:52:58.740905+00:00|https://news.sky.com/story/manchester-city-stun-arsenal-to-win-carabao-cup-final-as-oreilly-scores-two-goals-in-four-minutes-13523140|manchester city stun arsenal to win carabao cup final|3a4562a70c7c34095c3d9fb517a7fe2b
 2026-03-22T18:53:04.170941+00:00|https://news.sky.com/story/chappell-roan-really-sad-over-claims-her-security-guard-upset-footballers-daughter-13523069|us singer chappell roan really sad over claims her security guard upset footballers daughter|de817fb530b68aa4fda6d3c23260c4c4
 2026-03-22T19:57:32.507067+00:00|https://www.telegraph.co.uk/football/2026/03/22/arsenal-vs-manchester-city-live-score-updates-carabao-cup|city humble arsenal after oreilly double seals league cup|f4814efa40c2d39c0bf9f22420dbdaab
+2026-03-22T22:39:14.717942+00:00|https://www.bbc.com/news/articles/c98kdyye33no|starmer and trump discuss need to reopen hormuz strait|be87624aa9758e414b002212349aaa55
+2026-03-22T22:39:20.307831+00:00|https://www.bbc.com/news/articles/cpv8e71p3evo|our son loved being outdoors now me means he cant walk or talk|60d2c292cfe2f899fe9b2191973b4599
