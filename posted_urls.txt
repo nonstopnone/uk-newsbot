@@ -1,4 +1,3 @@
-2026-03-15T17:04:27.961131+00:00|https://www.telegraph.co.uk/football/2026/03/15/chelsea-vs-ma-utd-live-score-womens-league-cup-final|lauren james inspires chelsea to womens league cup victory over man utd|1d7c0942151cc00e5203a9abba43aba6
 2026-03-15T17:46:22.771913+00:00|https://news.sky.com/story/the-drones-the-uk-is-considering-deploying-to-the-middle-east-13519993|the drones the uk is considering deploying to the middle east|93c74294db73cdabc35db9115a389951
 2026-03-15T17:46:28.129274+00:00|https://www.bbc.com/news/articles/c93jz4gykwko|twelve arrested at al quds day protest in london|6628b29d34698aa9aa5233bcfb532e3e
 2026-03-15T19:34:40.602340+00:00|https://www.telegraph.co.uk/football/2026/03/15/liverpool-vs-tottenham-live-score-premier-league-updates|richarlison may have saved igor tudors job and kept spurs up|a020d22634ca58bfe19dfdba54bd7fe5
@@ -454,3 +453,7 @@
 2026-03-22T16:00:48.329588+00:00|https://news.sky.com/story/east-sussex-man-who-told-boarding-school-pupil-i-love-you-banned-from-teaching-13523025|teacher who repeatedly told pupil i love you struck off|14ab4b66a0c74e537031901653873cc3
 2026-03-22T16:00:53.639485+00:00|https://www.bbc.com/news/articles/c4gj5k9pxzgo|army joins search for remains of mother and son killed 50 years ago|03966407904f1f9635fe5fe0a9d29285
 2026-03-22T16:48:52.904381+00:00|https://www.telegraph.co.uk/football/2026/03/22/aston-villa-west-ham-report-premier-league-mcginn-watkins|watkins ends goal drought as villa strengthen grip on champions league spot|e9d0fd89c8657110ac15627e1ba1632a
+2026-03-22T17:32:17.356918+00:00|https://news.sky.com/story/starmer-to-chair-cobra-meeting-over-iran-wars-impact-on-the-economy-sky-news-understands-13523061|starmer to chair cobra meeting over iran wars impact on the economy sky news understands|f9a98af77f103973eb8df74a236475cc
+2026-03-22T17:32:22.900710+00:00|https://www.telegraph.co.uk/football/2026/03/22/tottenham-hotspur-vs-nottingham-forest-live-score-updates|spurs inch closer to abyss after forest thrashing in relegation sixpointer|e7353a9988159a63cdfce2891f1d956d
+2026-03-22T17:32:28.394801+00:00|https://www.bbc.com/news/articles/cvg43m2edvjo|woman charged with murder after man dies in park|c953c5ab3e2bf02147a876948e28fd74
+2026-03-22T17:32:33.952165+00:00|https://news.sky.com/story/donald-trump-orders-ice-agents-into-us-airports-to-arrest-all-illegal-immigrants-13523045|trump orders ice agents into airports to arrest all illegal immigrants|852726d83558fe26ee559996fef99614
