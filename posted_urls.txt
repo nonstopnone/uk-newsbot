@@ -1,9 +1,3 @@
-2026-03-16T03:20:35.166778+00:00|https://www.bbc.com/news/articles/cwyxl65yz9yo|we didnt view dads body after being told it had changed so much|898e20a30ffc53adccea1349a85eca1f
-2026-03-16T03:20:40.604770+00:00|https://www.bbc.com/news/articles/cx24z8rvw1go|oneoff £2000 grant gives care leavers head start study finds|bd052aeff026c38b97c42dc3a2dfea16
-2026-03-16T03:20:46.045160+00:00|https://www.bbc.com/news/articles/c62dy26gg0qo|the papers help for energy bills and pm resists trump warships call|efc04733daa8ef9b1eff7b77c31cb777
-2026-03-16T03:20:51.458236+00:00|https://www.bbc.com/news/articles/cn4892wnv2zo|people turn to private health care to beat nhs waits says watchdog|955faf0fdaeadeecf76cac72470f3567
-2026-03-16T03:20:57.101111+00:00|https://www.bbc.com/news/articles/cx2dl5j0w23o|how us groups are driving a new generation of antiabortion activism in the uk|94d1c10fdaafe5cdeb470cf4024038fb
-2026-03-16T03:21:02.647224+00:00|https://www.bbc.com/news/articles/cp32kwe2280o|schoolgirl traumatised after being wrongly sent to england for abortion|c259611d538f6dea6bf7de08c8383a62
 2026-03-16T05:29:19.319332+00:00|https://www.bbc.com/news/articles/cz9qdpzqnl2o|firms to be paid to hire unemployed young people|bab874ba8a0c53b8e6c62dac31659976
 2026-03-16T06:55:14.006808+00:00|https://www.bbc.com/news/articles/cp854zygjjdo|assisted dying debate reaches final stages on eve of vote|dec81eb34bda7c52f7fa6a94468b1700
 2026-03-16T09:15:18.112258+00:00|https://www.bbc.com/news/articles/cp9mdxz4dd2o|school confirms pupil died in kent meningitis outbreak|4c86b4302f5963731b1db76ffca60b15
@@ -456,3 +450,7 @@
 2026-03-23T02:53:24.399926+00:00|https://www.bbc.com/news/articles/c75kne7qdy6o|call to cancel threat of prison for council tax nonpayment|0b06d3b482e27b702881efd29ecaf0da
 2026-03-23T02:53:29.969310+00:00|https://www.bbc.com/news/articles/c5y9310vyleo|the magic faraway trees andrew garfield our attention is abused by tech companies|34022672a2a8fbaac70948bb2ae0152f
 2026-03-23T02:53:35.363786+00:00|https://www.bbc.com/news/articles/c393l8w7me2o|potential sites for labours new towns cut to seven|9216faab9a0ca7d4ea4b414ed96818b6
+2026-03-23T05:09:53.370142+00:00|https://www.telegraph.co.uk/news/2026/03/23/golders-green-fire-jewish-volunteer-ambulances|ambulances set on fire outside london synagogue in antisemitic attack|f1027eaa32546faa57734deb92459885
+2026-03-23T05:09:58.695377+00:00|https://www.bbc.com/news/articles/cwyj1p49gdpo|arson attack on ambulances in london being treated as antisemitic hate crime metropolitan police says|40e573de1181c1b86b0bf8033d43f990
+2026-03-23T05:10:04.093005+00:00|https://www.bbc.com/news/articles/cddnv945g2po|apology for poor care over boys bleed death|e84019569c93d2f743a43e79843fd756
+2026-03-23T05:10:09.419383+00:00|https://www.bbc.com/news/articles/cx26glrw310o|scotland begins testing newborn babies for rare genetic condition|c811f0f2430837a95f3754602a87b7a3
