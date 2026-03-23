@@ -452,3 +452,5 @@
 2026-03-23T20:24:00.063625+00:00|https://news.sky.com/story/laguardia-crash-air-traffic-controller-repeatedly-told-fire-engine-to-stop-ahead-of-deadly-plane-colllision-13523599|air traffic controller repeatedly told fire engine to stop ahead of deadly plane crash|1f7413ea11f224ea89b9e75d1902bbac
 2026-03-23T21:05:04.493240+00:00|https://www.bbc.com/news/articles/c2d8ln16p8eo|private investigator denies switching sides in mail publisher case|55868830a9ce4a98d7d54ab5872f66b9
 2026-03-23T21:05:10.063634+00:00|https://news.sky.com/story/weather-whiplash-warning-as-england-recovers-from-drought-after-heavy-rain-13523629|weather whiplash warning as england recovers from drought|339da10e0abb3fcf833094d6aa0d76be
+2026-03-23T22:40:05.404638+00:00|https://www.bbc.com/news/articles/cx2dxz4nejpo|how villagers overturned second home crackdown in david and goliath moment|cb7c3365f7300e99f9d5afb3fed39ba0
+2026-03-23T22:40:10.844263+00:00|https://news.sky.com/story/woman-awarded-1925m-after-bill-cosby-found-liable-for-1972-rape-13523647|woman awarded $1925m after bill cosby found liable for 1972 rape|9f7e9c34f25e8a1df48ff04f1e0c5579
