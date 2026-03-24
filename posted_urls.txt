@@ -1,7 +1,3 @@
-2026-03-17T18:10:01.477303+00:00|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/cumbria/lake-district/articles/best-dog-friendly-hotels-in-the-lake-district|the best dogfriendly hotels in the lake district|70529ce6d2c595066a2f38ea186b11b8
-2026-03-17T18:10:06.853990+00:00|https://www.bbc.com/news/articles/cx2j2nnqezqo|organisers confirm 10k race in city was 400m short|0a708aaa040d16628e382d8ba9332176
-2026-03-17T18:10:12.139519+00:00|https://www.bbc.com/news/articles/c07j44vpr1yo|killer kicked officer at station inquiry shown|a1991fc9d518bf4d0a9db4e0410e17b6
-2026-03-17T18:10:17.493951+00:00|https://www.bbc.com/news/articles/c7vjv57evnro|man found dead in wheelie bin named|fc99ea500038eff1e73b39387506360a
 2026-03-17T19:30:27.586230+00:00|https://news.sky.com/story/polanski-to-warn-starmer-hasnt-done-enough-to-protect-energy-customers-from-bill-hikes-13520939|polanski to warn starmer hasnt done enough to protect energy customers from bill hikes|1c778bf2ef0241aae7b65132838d1a83
 2026-03-17T19:30:33.049847+00:00|https://www.bbc.com/news/articles/cev7rl437epo|students to be offered vaccine in meningitis outbreak|5fe5a1b5de6f7a97aa1ceb18ce5bcc56
 2026-03-17T19:30:38.684955+00:00|https://news.sky.com/story/what-we-know-about-joe-kent-the-top-us-counterterrorism-official-who-has-resigned-over-trumps-iran-war-13520905|what we know about joe kent the top us counterterrorism official who has resigned over trumps iran war|2cb6f8fc85157a8ba72c26ea844c2594
@@ -460,3 +456,6 @@
 2026-03-24T17:43:27.646376+00:00|https://www.bbc.com/news/articles/c3930ln0l8vo|replacement ambulances delivered after london arson attack|7aac2f8f85849068df930327fd6b6e9b
 2026-03-24T17:43:32.948281+00:00|https://www.bbc.com/news/articles/c5y7gnkez3lo|firsttime buyers hit as mortgage rates keep rising|a14cfc1cc699e3632884bb7ece18cbaa
 2026-03-24T17:43:38.359678+00:00|https://www.bbc.com/news/articles/clydvm19g35o|shop owner gets £100 and apology 15 years after student stole sign|2a0d68b01790bbec4084d011646db67e
+2026-03-24T18:42:02.645957+00:00|https://news.sky.com/story/hong-kong-booksellers-arrested-for-seditious-publications-as-jimmy-lais-biography-seized-13523939|hong kong booksellers arrested for seditious publications as jimmy lais biography seized|126a7e6c593de89d9136481f65d54266
+2026-03-24T18:42:08.077430+00:00|https://www.bbc.com/news/articles/c5yw3d3115zo|man crashed car before murdering stranger cctv shows|fd161261b3b52cda00549e637c5b7845
+2026-03-24T18:42:13.519460+00:00|https://news.sky.com/story/xl-bully-savaged-84-year-old-man-and-guarded-him-like-prey-13523926|xl bully savaged 84yearold man and guarded him like prey|6aee1526736ecfbd2b7ac8e65f16eab9
