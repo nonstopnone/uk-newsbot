@@ -1,4 +1,3 @@
-2026-03-17T11:57:14.731367+00:00|https://news.sky.com/story/police-appeal-to-find-two-teenagers-missing-for-10-days-from-west-london-13520830|hunt for girl and boy missing for 10 days|d7483a261116c0f9269f166b5b138dd7
 2026-03-17T13:45:07.037377+00:00|https://www.telegraph.co.uk/recommended/home/best-washer-dryer|the 8 best washerdryers for a twoinone solution to laundry|9aef1f5d09374ddc37e8482dfa02c4eb
 2026-03-17T13:45:12.658059+00:00|https://news.sky.com/story/woman-who-wrote-childrens-book-about-grief-found-guilty-of-murdering-husband-13520791|black widow who wrote childrens book about grief found guilty of fatally poisoning her husband|c572b5bad27e54dc74e1f0e58a50061f
 2026-03-17T13:45:18.392892+00:00|https://www.bbc.com/news/articles/ce94kl701kxo|police officer tells inquiry how he shot glasgow hotel attacker|21054880b49b92da46a42854ec5fe3e4
@@ -452,3 +451,7 @@
 2026-03-24T11:33:44.574668+00:00|https://news.sky.com/story/married-at-first-sight-star-mel-schilling-dies-13523776|married at first sight star mel schilling dies|76523948b1a777b991031c9b84faa188
 2026-03-24T11:33:50.119201+00:00|https://news.sky.com/story/war-delivers-biggest-leap-in-uk-manufacturers-costs-since-1992-13523777|uk firms hit as iran war delivers biggest costs rise in 44 years|3d2bcb111235f86b7871d678f208ae9b
 2026-03-24T11:33:55.650796+00:00|https://news.sky.com/story/murder-investigation-launched-into-death-of-woman-88-at-sleaford-care-home-13523763|murder investigation launched into death of woman 88 at care home|027db6077f795e3918688db597f36428
+2026-03-24T12:35:37.643424+00:00|https://news.sky.com/story/man-found-guilty-of-killing-woman-found-in-woodland-shallow-grave-13522142|man found guilty of killing woman discovered in woodland shallow grave|d5b63feb2af99c18c34ab94802df8c9b
+2026-03-24T12:35:42.976403+00:00|https://www.bbc.com/news/articles/ce9mgle94g5o|out of control rapist who abducted teenage girl faces life sentence|13b4795ca0dde34177975019129953ca
+2026-03-24T12:35:48.384870+00:00|https://news.sky.com/story/adolescence-dominates-bafta-tv-awards-nominations-13523794|adolescence dominates bafta tv awards nominations|0d15e078f6b17ec4f675e3ab3bf435e0
+2026-03-24T12:35:53.819935+00:00|https://news.sky.com/story/transgender-girls-given-until-september-to-leave-guides-13523781|transgender girls given until september to leave guides|f1c2d99688e858f5df859548c30c65ce
