@@ -1,6 +1,3 @@
-2026-03-17T19:30:27.586230+00:00|https://news.sky.com/story/polanski-to-warn-starmer-hasnt-done-enough-to-protect-energy-customers-from-bill-hikes-13520939|polanski to warn starmer hasnt done enough to protect energy customers from bill hikes|1c778bf2ef0241aae7b65132838d1a83
-2026-03-17T19:30:33.049847+00:00|https://www.bbc.com/news/articles/cev7rl437epo|students to be offered vaccine in meningitis outbreak|5fe5a1b5de6f7a97aa1ceb18ce5bcc56
-2026-03-17T19:30:38.684955+00:00|https://news.sky.com/story/what-we-know-about-joe-kent-the-top-us-counterterrorism-official-who-has-resigned-over-trumps-iran-war-13520905|what we know about joe kent the top us counterterrorism official who has resigned over trumps iran war|2cb6f8fc85157a8ba72c26ea844c2594
 2026-03-17T20:22:24.171853+00:00|https://www.bbc.com/news/articles/czd899emn1yo|greyhound racing to be banned in wales after senedd vote|00c9c757c89ea4ae5c8ee7d723e4c878
 2026-03-17T20:22:29.622232+00:00|https://news.sky.com/story/zelenskyy-boasts-about-ukrainian-drone-tech-in-more-upbeat-speech-to-mps-and-peers-13520999|zelenskyy boasts about ukrainian drone tech in more upbeat speech to mps and peers|6595231975ab470b1730b9ba5b75a0a9
 2026-03-17T20:22:35.052341+00:00|https://www.bbc.com/news/articles/cjd9dk2v0z3o|was response to unprecedented outbreak too slow|b681e4bc27454d4d45d8882bb20f5863
@@ -459,3 +456,7 @@
 2026-03-24T18:42:02.645957+00:00|https://news.sky.com/story/hong-kong-booksellers-arrested-for-seditious-publications-as-jimmy-lais-biography-seized-13523939|hong kong booksellers arrested for seditious publications as jimmy lais biography seized|126a7e6c593de89d9136481f65d54266
 2026-03-24T18:42:08.077430+00:00|https://www.bbc.com/news/articles/c5yw3d3115zo|man crashed car before murdering stranger cctv shows|fd161261b3b52cda00549e637c5b7845
 2026-03-24T18:42:13.519460+00:00|https://news.sky.com/story/xl-bully-savaged-84-year-old-man-and-guarded-him-like-prey-13523926|xl bully savaged 84yearold man and guarded him like prey|6aee1526736ecfbd2b7ac8e65f16eab9
+2026-03-24T19:43:16.425705+00:00|https://www.bbc.com/news/articles/cly64g15j3wo|offord denies homophobia after apologising for joke|1e103092e888cf319bb5c69df7339d8d
+2026-03-24T19:43:21.896248+00:00|https://news.sky.com/story/mo-salah-to-leave-liverpool-at-end-of-season-club-say-13524001|mohamed salah to leave liverpool at end of season club say|1529e021e97cd76c3250d31f90ecb383
+2026-03-24T19:43:27.335680+00:00|https://news.sky.com/story/man-charged-with-murder-a-year-on-from-death-following-reported-aggravated-burglary-13523990|man charged with murder a year on from death following burglary|ea90e9ac6244fdaf86b1d5dae8c677e1
+2026-03-24T19:43:32.661700+00:00|https://news.sky.com/story/five-people-escape-and-two-injured-after-building-collapses-in-oldham-13523977|five people escape and two injured after building collapses|a7c85dc949e9e249557b96f1f221f628
