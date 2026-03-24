@@ -1,8 +1,3 @@
-2026-03-17T09:09:28.496571+00:00|https://www.bbc.com/news/articles/cgqgx5kpzxko|glasgow central station to partially reopen after huge blaze|e71d3023e628bea39530a332b2d09bd8
-2026-03-17T09:09:34.053126+00:00|https://www.bbc.com/news/articles/c7432klgyldo|what are the symptoms of meningitis and is there a vaccine|0412362dfc809da236b79f9eb30e7db1
-2026-03-17T09:09:39.478463+00:00|https://www.bbc.com/news/articles/c15xeyny73wo|zelensky to visit starmer to sign new ukraineuk defence pact|003cd231e1e353d1ff505bd7d164ed8b
-2026-03-17T09:09:45.203523+00:00|https://www.bbc.com/news/articles/cgk2lr7xg3vo|mum of stabbed schoolgirl was abroad and terrified|ea415cc714369a14e9d427980c2d1d52
-2026-03-17T09:09:50.615173+00:00|https://www.bbc.com/news/articles/ckg2md2vzvdo|gerry adams to testify in court over claims he had role in ira bombings|e87c5b948263aaad6208a435f9d82b04
 2026-03-17T11:10:07.161930+00:00|https://www.bbc.com/news/articles/c0mgd3z1e9ko|new mortgage costs soar £788 a year in two weeks|943e0e1b23c087320492fe55debabbd1
 2026-03-17T11:10:12.615573+00:00|https://news.sky.com/story/glasgow-central-station-to-partially-reopen-after-devastating-fire-but-it-will-look-different-13520786|scotlands busiest railway station to partially reopen after devastating fire|d2ddc19560f26d4c93d6d40a9185b465
 2026-03-17T11:10:17.932339+00:00|https://www.bbc.com/news/articles/c8eg0n6n1ygo|another former sub postmaster dies awaiting payout|afbfa971e95a8e462ffa918812e83e85
@@ -454,3 +449,5 @@
 2026-03-24T07:31:28.553813+00:00|https://www.bbc.com/news/articles/c98medpy422o|killer father called his baby son it on 999 call|351efe4c7c80e862491503528190797d
 2026-03-24T07:31:34.049592+00:00|https://www.bbc.com/news/articles/c9qdln5jwy4o|police told £900k trump costs will not be paid|8fb12f7476dd5f2cfbb2ce95c1688a8f
 2026-03-24T08:33:11.853169+00:00|https://www.bbc.com/news/articles/cj32d05x702o|vet prescription fees to be capped at £21|14d7816e7c0e42517bd9f549ace3a964
+2026-03-24T09:40:24.694999+00:00|https://www.bbc.com/news/articles/c2087v35p34o|youtube removes account of man who murdered natalie mcnally|45c0db7e96ea34e9920cbccc8a2c1877
+2026-03-24T09:40:30.129311+00:00|https://news.sky.com/story/denmark-goes-to-the-polls-in-a-snap-election-after-trumps-greenland-bid-13523746|denmark goes to the polls in a snap election after trumps greenland bid|4d7ffe4a635711b8a964cff5e7aec17b
