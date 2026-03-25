@@ -1,6 +1,3 @@
-2026-03-18T05:10:04.793353+00:00|https://www.bbc.com/news/articles/c20z50xxv93o|blackpool ipswich milton keynes among nine finalists for uk city of culture 2029|64956be52dfb00dcc0cbeca229967b3b
-2026-03-18T05:10:10.230336+00:00|https://www.bbc.com/news/articles/cx2g8888q53o|ad for ai editing app which said it could remove anything banned|facd792e6c8dfd379afbe322b1dff5cb
-2026-03-18T05:10:15.680780+00:00|https://www.bbc.com/news/articles/c3ewgljx0ngo|dont ignore nurseries while expanding childcare says principal|248fea53839ed648edd3c9d9a7a84613
 2026-03-18T06:15:13.772981+00:00|https://www.bbc.com/news/articles/cddn18v959qo|government admits adoption system needs to improve after bbc investigation highlights failures|8b819894b60afce481bc3a70c52a6f59
 2026-03-18T06:15:19.140032+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/one-in-nine-african-mothers-will-face-life-threatening-seps|oneinnine african mothers will face lifethreatening sepsis|02d42bed28e2acefa096ebef5e63aac0
 2026-03-18T06:15:24.544560+00:00|https://www.bbc.com/news/articles/ckg1gd7lnvdo|the papers first cracks in trump camp over iran war and uk tackles meningitis outbreak|747452a5f74ba2bfde6872d7efb36f9b
@@ -462,3 +459,8 @@
 2026-03-25T05:01:45.776545+00:00|https://news.sky.com/story/the-tough-job-facing-first-female-archbishop-of-canterbury-13523962|the tough job facing first female archbishop of canterbury|590922b22adde6d83d0cf7954e8b64e6
 2026-03-25T05:01:51.180181+00:00|https://www.bbc.com/news/articles/c4g4px01380o|the papers us troops gather in gulf and strictly no baftas|605b9de48b75332575942e91fcd745f6
 2026-03-25T05:01:56.493217+00:00|https://www.bbc.com/news/articles/c4g5z9n6442o|my sons carer was asked to demonstrate how he bites people|c35b47b11077954f3309bebebc563f2f
+2026-03-25T06:15:08.716566+00:00|https://www.bbc.com/news/articles/c20356v74k7o|new archbishop of canterbury to be enthroned in service celebrating women|509e166d8687e9209adf6cb5068621a7
+2026-03-25T06:15:14.183854+00:00|https://news.sky.com/story/democrat-flips-florida-seat-in-district-that-includes-trumps-mar-a-lago-home-13524103|democrat flips seat on trumps home turf|7a1cbe1559be87db2ff98bed5c47e4fb
+2026-03-25T06:15:19.497339+00:00|https://www.bbc.com/news/articles/cj60kn2w32ko|families urged not to cuddle lambs after infection outbreak left dozens sick|d8722cb6afeafed87f8a9ceae8a19001
+2026-03-25T06:15:24.825293+00:00|https://www.bbc.com/sport/football/articles/c0e7ww12w2qo|salah to leave liverpool at end of season|76e12ce1253f0ecb906b54ac0b093b72
+2026-03-25T06:15:30.145043+00:00|https://www.bbc.com/news/articles/c0ljrp76ywxo|is there an election in my area|9311d6b5f392072622d2b8e81591f9d1
