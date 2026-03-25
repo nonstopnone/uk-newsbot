@@ -1,8 +1,3 @@
-2026-03-18T22:58:20.574797+00:00|https://news.sky.com/story/rwanda-demands-more-than-163100m-from-uk-over-failed-migrant-deportation-deal-13521514|rwanda demands more than £100m from uk over failed migrant deportation deal|071e93c1bc0297342b2e4d2713bafc92
-2026-03-18T22:58:26.086573+00:00|https://www.telegraph.co.uk/football/2026/03/18/liverpool-vs-galatasaray-live-score-latest-champions-league|szoboszlai is gerrard reincarnate as liverpool thrash galatasaray|f3f833c69ce6aa26163a58f97add0138
-2026-03-18T22:58:31.848185+00:00|https://www.telegraph.co.uk/football/2026/03/18/tottenham-vs-atletico-madrid-live-score-champions-league|spurs go down fighting against atletico to finally hand tudor his first win|9d5555ec2d817401b53177feff12dd99
-2026-03-18T23:38:29.265550+00:00|https://news.sky.com/story/senegal-vows-to-appeal-unfair-unacceptable-ruling-stripping-it-of-african-football-trophy-13521590|senegal vows to appeal unfair unacceptable ruling stripping it of african football trophy|152d28da74bb6184e2c95ab329154f6e
-2026-03-18T23:38:34.711812+00:00|https://www.bbc.com/news/articles/c4gjg8n40z7o|bereaved father wants suicide prevention training in every school|51205b0371ab30d73f9026ee34cb0852
 2026-03-19T00:00:32.167389+00:00|https://www.bbc.com/news/articles/c62g2e08jpno|sadiq khan says labour should pledge to rejoin eu|7a8a8997b55b603ed9d42194d379952b
 2026-03-19T03:22:15.464555+00:00|https://news.sky.com/story/hellish-scenes-and-body-bag-shortages-what-we-could-learn-from-covid-report-today-13521386|hellish scenes and body bag shortages what we could learn from covid report today|ee7b01f788db1bcdddca95273ed70a6f
 2026-03-19T03:22:20.837245+00:00|https://www.telegraph.co.uk/business/2026/03/18/oil-petrol-prices-us-fed-interest-rates-ftse-100-markets|iran strikes huge qatari gas facility|025137eee5662c35520739df27814e1d
@@ -467,3 +462,8 @@
 2026-03-25T21:03:40.839071+00:00|https://www.bbc.com/news/articles/cq6j20zp9n6o|harry potter tv show trailer everything we know so far|838d4eafc2e1b98be4f44d2940cb6c0c
 2026-03-25T21:03:46.166109+00:00|https://www.bbc.com/news/articles/cevkg7k01j2o|calls for urgent inquiry into high street child abuse claims|c5c78fb0f67fe4647b50ca1e9673c257
 2026-03-25T21:03:51.485981+00:00|https://www.bbc.com/sport/football/articles/c86ew5d52d9o|saudi pro league the us or europe what are salahs options|59810df6157fb7a2fd72ce9b431f70a7
+2026-03-25T23:41:51.082399+00:00|https://news.sky.com/story/palestinian-teenager-was-starved-in-prison-before-death-judge-rules-13524471|palestinian teenager was starved in prison before death judge rules|977f3a80082d4487b133dfdeb34670b1
+2026-03-25T23:41:56.584868+00:00|https://www.bbc.com/news/articles/cvg0n9z3jlvo|british forces preparing to board russian shadow fleet ships in uk waters|765e22a3001c8f6aafeeaff1e7fe57d3
+2026-03-25T23:42:02.088247+00:00|https://www.bbc.com/news/articles/c0rxnp11y7yo|health education tax and more has the snp delivered on its promises at holyrood|ca5c4cd3c62d93d4dac24238ff427347
+2026-03-25T23:42:07.626929+00:00|https://www.bbc.com/news/articles/c20351v9ll1o|mystery murdered man dumped in woods had unique teeth and back pain|7a8c7b8624c6bd5aedf9580ec2d5f7a9
+2026-03-25T23:42:13.010547+00:00|https://www.bbc.com/news/articles/ce84xjl0gx8o|peers defy government by pushing for uk social media ban for under16s|96ecabd18b92c5bdbf1fc913d4c957fa
