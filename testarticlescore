@@ -1,0 +1,361 @@
+# =========================
+# Section: Imports and Configuration
+# =========================
+import feedparser
+import requests
+from bs4 import BeautifulSoup
+from datetime import datetime, timedelta, timezone
+import os
+import sys
+import urllib.parse
+import re
+import hashlib
+import html
+import json
+import difflib
+from dateutil import parser as dateparser
+from google import genai
+
+# =========================
+# Section: Console Colors & Logging
+# =========================
+class Col:
+    RED = '\033[91m'
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    BLUE = '\033[94m'
+    CYAN = '\033[96m'
+    RESET = '\033[0m'
+
+def log(tag, msg, color=Col.RESET):
+    ts = datetime.now(timezone.utc).strftime('%H:%M:%S')
+    print(f"{color}[{ts}] [{tag}] {msg}{Col.RESET}", flush=True)
+
+# =========================
+# Section: Gemini Setup (Reddit removed)
+# =========================
+REQUIRED_ENV = ["GEMINI_API_KEY"]
+
+for v in REQUIRED_ENV:
+    if v not in os.environ:
+        sys.exit(f"Missing env var: {v}")
+
+try:
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+except Exception as e:
+    log("ERROR", f"Failed to init Gemini: {e}", Col.RED)
+    sys.exit(1)
+
+model_name = 'gemini-2.5-flash'
+
+# =========================
+# Section: Constants
+# =========================
+AI_CACHE_FILE = "ai_cache.json"
+
+IN_RUN_FUZZY_THRESHOLD = 0.55
+INITIAL_ARTICLES = 80
+TIME_WINDOW_HOURS = 12
+
+# =========================
+# Section: Keyword Definitions
+# =========================
+UK_KEYWORDS = {
+    "uk": 6, "united kingdom": 6, "britain": 6, "great britain": 6,
+    "england": 5, "scotland": 5, "wales": 5, "northern ireland": 5,
+    "london": 5, "westminster": 5, "parliament": 5, "downing street": 5,
+    "house of commons": 5, "house of lords": 5,
+    "prime minister": 5, "home office": 4, "foreign office": 4,
+    "treasury": 4, "bank of england": 4, "chancellor": 4,
+    "nhs": 6, "national health service": 6,
+    "met police": 4, "metropolitan police": 4, "scotland yard": 4,
+    "bbc": 4, "itv": 4, "sky news": 4, "guardian": 4, "telegraph": 4,
+    "labour": 4, "labour party": 4, "conservative": 4, "tory": 4,
+    "lib dem": 4, "liberal democrat": 4, "snp": 4,
+    "reform uk": 4, "green party": 3, "king charles": 5, "royal": 4
+}
+
+NEGATIVE_KEYWORDS = {
+    "clinton": -15, "biden": -12, "trump": -12, "harris": -10,
+    "white house": -8, "congress": -8, "senate": -8, "washington": -6,
+    "fbi": -6, "cia": -6, "pentagon": -6, "wall street": -6,
+    "nfl": -6, "nba": -6, "mlb": -6, "super bowl": -6,
+    "beijing": -6, "china": -6, "moscow": -6, "russia": -6, "putin": -8
+}
+
+BANNED_PHRASES = [
+    "not coming to the uk", "isn't coming to the uk", "won't be available in the uk",
+    "i tried the", "review:", "hands-on with", "best smartphone", "where to watch",
+    "fantasy football", "fpl", "opinion:", "comment:", "letters:", "wordle", "crossword"
+]
+
+FLUFF_PATTERNS = [
+    re.compile(r"^Why\s", re.I),
+    re.compile(r"^How\s", re.I),
+    re.compile(r"^Here'?s\s", re.I),
+    re.compile(r"^\d+\s(ways|things|reasons)", re.I)
+]
+
+# =========================
+# Section: Compilation & Utilities
+# =========================
+def compile_keywords_dict(d):
+    return [(k, w, re.compile(r"\b" + re.escape(k) + r"\b", re.I)) for k, w in d.items()]
+
+UK_PATTERNS = compile_keywords_dict(UK_KEYWORDS)
+NEG_PATTERNS = compile_keywords_dict(NEGATIVE_KEYWORDS)
+
+class NewsEntry:
+    def __init__(self, source, title, link, summary, published):
+        self.source = source
+        self.title = title
+        self.link = link
+        self.summary = summary
+        self.published = published
+
+def normalize_url(u):
+    if not u: return ""
+    p = urllib.parse.urlparse(u)
+    return urllib.parse.urlunparse((p.scheme, p.netloc, p.path.rstrip('/'), '', '', ''))
+
+def normalize_title(t):
+    if not t: return ""
+    t = html.unescape(t)
+    t = re.sub(r"[^\w\s£$€]", "", t)
+    return re.sub(r"\s+", " ", t).strip().lower()
+
+def content_hash(text_blob):
+    return hashlib.md5(text_blob.encode('utf-8')).hexdigest()
+
+def load_json_data(filepath, default_val):
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except: pass
+    return default_val
+
+def save_json_data(filepath, data):
+    try:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+    except: pass
+
+# =========================
+# Section: Fetching
+# =========================
+def fetch_article_text(url):
+    try:
+        r = requests.get(url, timeout=12, headers={'User-Agent': 'Mozilla/5.0'})
+        if r.status_code != 200: return []
+        soup = BeautifulSoup(r.content, 'html.parser')
+        return [p.get_text(" ", strip=True) for p in soup.find_all('p') if len(p.get_text()) > 40]
+    except: return []
+
+# =========================
+# Section: Analysis
+# =========================
+def calculate_score(text):
+    text_l = text.lower()
+    score, pos, neg, matched = 0, 0, 0, {}
+    for k, w, pat in UK_PATTERNS:
+        count = len(pat.findall(text_l))
+        if count: score += w * count; pos += w * count; matched[k] = matched.get(k, 0) + count
+    for k, w, pat in NEG_PATTERNS:
+        count = len(pat.findall(text_l))
+        if count: score += w * count; neg += abs(w) * count; matched[f"NEG:{k}"] = matched.get(f"NEG:{k}", 0) + count
+    return score, pos, neg, matched
+
+def is_hard_reject(text, pos, neg):
+    t_l = text.lower()
+    for phrase in BANNED_PHRASES:
+        if phrase in t_l: return True, f"banned: {phrase}"
+    for pat in FLUFF_PATTERNS:
+        if pat.search(text): return True, "fluff/opinion"
+    if neg > max(10, 2.0 * pos): return True, "negative dominance"
+    return False, ""
+
+def detect_category(text):
+    t_l = text.lower()
+    cats = {
+        "Politics": ["parliament", "government", "minister", "mp", "election", "brexit", "labour", "tory"],
+        "Economy": ["economy", "inflation", "budget", "tax", "bank"],
+        "Crime & Legal": ["police", "court", "trial", "arrest", "murder", "prison"],
+        "Sport": ["football", "cricket", "match", "cup", "trophy"],
+        "Royals": ["royal", "king", "queen", "palace"],
+        "Environment": ["storm", "weather", "flood", "climate", "met office"],
+    }
+    scores = {c: sum(1 for k in v if k in t_l) for c, v in cats.items()}
+    if all(v == 0 for v in scores.values()): return "Notable International", 0.0
+    best = max(scores, key=scores.get)
+    return best, 1.0
+
+def check_ai_relevance(title, summary, excerpt, entry_hash):
+    cache = load_json_data(AI_CACHE_FILE, {})
+    if entry_hash in cache and cache[entry_hash].get('timestamp', 0) > (datetime.now(timezone.utc) - timedelta(days=7)).timestamp():
+        cached = cache[entry_hash]['is_relevant']
+        log("AI", f"Cache hit → {'YES' if cached else 'NO'}", Col.YELLOW)
+        return cached
+    prompt = f"Strict UK news filter. Respond YES or NO. Is this hard news relevant to the UK? (No fluff/sports previews/lifestyle).\nTitle: {title}\nSummary: {summary}\nExcerpt: {excerpt}"
+    try:
+        res = client.models.generate_content(model=model_name, contents=prompt).text.strip().lower()
+        is_rel = "yes" in res
+        cache[entry_hash] = {"is_relevant": is_rel, "timestamp": datetime.now(timezone.utc).timestamp()}
+        save_json_data(AI_CACHE_FILE, cache)
+        return is_rel
+    except: return False
+
+# =========================
+# Section: Dry-Run Reporter
+# =========================
+def print_dry_run_result(rank, item):
+    entry   = item['entry']
+    target  = item['target']
+    cat     = item['cat']
+    score   = item['score']
+    matched = item['matched']
+    ai      = item['ai']
+    reject  = item.get('reject_reason', '')
+
+    flair_label = "Notable International News🌍" if target == "INTL" else cat
+    sub_name    = "InternationalBulletin" if target == "INTL" else "BreakingUKNews"
+
+    pos_keys = [k for k in matched if not k.startswith("NEG:")]
+    neg_keys = [k for k in matched if k.startswith("NEG:")]
+
+    print(f"\n{'='*70}")
+    print(f"  #{rank}  {entry.title}")
+    print(f"{'='*70}")
+    print(f"  Source       : {entry.source}")
+    print(f"  URL          : {entry.link}")
+    print(f"  Published    : {entry.published}")
+    print(f"  {'─'*64}")
+    print(f"  Decision     : {Col.GREEN if target != 'NONE' else Col.RED}{target}{Col.RESET}")
+    if reject:
+        print(f"  Reject Reason: {Col.RED}{reject}{Col.RESET}")
+    print(f"  Subreddit    : r/{sub_name}")
+    print(f"  Flair        : {flair_label}")
+    print(f"  Category     : {cat}")
+    print(f"  UK Score     : {score}")
+    print(f"  AI Confirmed : {'Yes' if ai else 'No'}")
+    if pos_keys:
+        print(f"  +Keywords    : {', '.join(pos_keys)}")
+    if neg_keys:
+        print(f"  -Keywords    : {', '.join(k.replace('NEG:','') for k in neg_keys)}")
+    print(f"{'='*70}")
+
+# =========================
+# Section: Main (Dry Run)
+# =========================
+def main():
+    log("START", "Dry-run mode — no posts will be made.", Col.CYAN)
+
+    feeds = [
+        ("BBC",       "https://feeds.bbci.co.uk/news/uk/rss.xml"),
+        ("Sky",       "https://feeds.skynews.com/feeds/rss/home.xml"),
+        ("Telegraph", "https://www.telegraph.co.uk/rss.xml"),
+    ]
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=TIME_WINDOW_HOURS)
+    raw_entries = []
+
+    for source, url in feeds:
+        try:
+            feed = feedparser.parse(url)
+            for e in feed.entries:
+                dt = None
+                for k in ['published', 'updated']:
+                    if hasattr(e, k):
+                        try: dt = dateparser.parse(getattr(e, k)); break
+                        except: pass
+                if dt:
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    if dt > cutoff:
+                        raw_entries.append(NewsEntry(source, e.title, e.link, getattr(e, 'summary', ''), dt))
+        except Exception as ex:
+            log("WARN", f"Feed error ({source}): {ex}", Col.YELLOW)
+            continue
+
+    raw_entries.sort(key=lambda x: x.published, reverse=True)
+    log("INFO", f"Fetched {len(raw_entries)} items within the time window.", Col.RESET)
+
+    candidates, posted_titles_this_run = [], set()
+
+    for entry in raw_entries:
+        if len(candidates) >= INITIAL_ARTICLES:
+            break
+
+        norm_title = normalize_title(entry.title)
+        h = content_hash(entry.title + entry.summary)
+
+        if any(difflib.SequenceMatcher(None, norm_title, t).ratio() > IN_RUN_FUZZY_THRESHOLD
+               for t in posted_titles_this_run):
+            log("SKIPPED", f"In-run duplicate: {entry.title[:50]}", Col.RESET)
+            continue
+
+        paras = fetch_article_text(entry.link)
+        full_text = entry.title + " " + entry.summary + " " + " ".join(paras)
+        score, pos, neg, matched = calculate_score(full_text)
+        cat, _ = detect_category(full_text)
+        reject, reason = is_hard_reject(full_text, pos, neg)
+
+        target = "NONE"
+        ai_confirmed = False
+        reject_reason = reason if reject else ""
+
+        if not reject:
+            if score >= 15 and any(g in full_text.lower() for g in ['uk', 'britain', 'london', 'england']):
+                target = "UK"
+            elif score >= 4:
+                if check_ai_relevance(entry.title, entry.summary, " ".join(full_text.split()[:200]), h):
+                    target = "UK"; ai_confirmed = True
+                else:
+                    target = "INTL"
+
+        if target == "NONE":
+            if (reject and "negative dominance" in reason) or (score >= 2 or "NEG:" in str(matched)):
+                target = "INTL"
+
+        candidates.append({
+            "entry": entry,
+            "score": score,
+            "cat": cat,
+            "matched": matched,
+            "ai": ai_confirmed,
+            "target": target,
+            "paras": paras,
+            "reject_reason": reject_reason,
+        })
+        posted_titles_this_run.add(norm_title)
+
+    # Round-robin to mirror live selection logic
+    TARGET_POSTS = 8
+    final_list = []
+    source_map = {s: [c for c in candidates if c['entry'].source == s]
+                  for s in set(c['entry'].source for c in candidates)}
+    while len(final_list) < TARGET_POSTS:
+        added = False
+        for s in list(source_map.keys()):
+            if source_map[s]:
+                final_list.append(source_map[s].pop(0)); added = True
+                if len(final_list) >= TARGET_POSTS: break
+        if not added: break
+
+    log("INFO", f"Would post {len(final_list)} articles. Full results below.", Col.CYAN)
+
+    for i, item in enumerate(final_list, 1):
+        print_dry_run_result(i, item)
+
+    # Summary table
+    print(f"\n{'='*70}")
+    print(f"  DRY-RUN SUMMARY  ({len(final_list)} articles)")
+    print(f"{'─'*70}")
+    print(f"  {'#':<4} {'Target':<6} {'Score':<7} {'Flair':<28} {'Source'}")
+    print(f"  {'─'*64}")
+    for i, item in enumerate(final_list, 1):
+        flair = "Notable International News🌍" if item['target'] == "INTL" else item['cat']
+        print(f"  {i:<4} {item['target']:<6} {item['score']:<7} {flair:<28} {item['entry'].source}")
+    print(f"{'='*70}\n")
+
+if __name__ == "__main__":
+    main()
