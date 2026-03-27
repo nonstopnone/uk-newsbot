@@ -1,7 +1,3 @@
-2026-03-20T11:37:39.953819+00:00|https://www.telegraph.co.uk/financial-services/retirement-solutions/equity-release-service/borrowing-extra-on-mortgage-for-renovations|how can i pay for home improvements a guide to borrowing and alternatives|83938423221585631f3a98657c4cdfb4
-2026-03-20T11:37:45.528733+00:00|https://www.bbc.com/news/articles/cede1nn8wp5o|typical energy bill forecast to rise by £332 a year in july|4b82ac126ee3dc7dba4943cc616613c5
-2026-03-20T11:37:50.966424+00:00|https://www.bbc.com/news/articles/c79jwxypp1ro|farage pauses cameo account for security reasons says reform uk|7e7fad1077620153a503c96f84f9a4fc
-2026-03-20T11:37:56.506115+00:00|https://www.bbc.com/news/articles/c33j0rdnry1o|inside the world of preppers getting ready for societys collapse|9b4abc6b441c0901cb89e3316ee9fc21
 2026-03-20T12:01:50.318883+00:00|https://news.sky.com/story/us-suffers-hottest-march-day-ever-recorded-as-heat-dome-drives-up-temperatures-13522180|us suffers hottest march day ever recorded as heat dome drives up temperatures|081aedab347a502d142de517df14f0e1
 2026-03-20T13:35:34.888291+00:00|https://www.bbc.com/news/articles/c80mej47xz0o|iranian man arrested trying to enter faslane nuclear base|a827b9026c639a9c603005aedee3d07c
 2026-03-20T13:35:40.331003+00:00|https://www.telegraph.co.uk/recommended/home/kitchen/best-frying-pans|it cooks a killer steak the best frying pans you can buy with advice from chefs|0df028bb6a565d26560bc4475529f65d
@@ -480,3 +476,7 @@
 2026-03-27T11:08:31.497996+00:00|https://www.telegraph.co.uk/recommended/garden/maintenance/mark-lane-reader-questions|bbc garden expert mark lane i call gardening my green pill|982cf79931361f30f5b23167bd92b54c
 2026-03-27T11:08:37.119297+00:00|https://news.sky.com/story/oscars-to-leave-hollywood-organisers-announce-move-to-downtown-los-angeles-for-2029-13524987|the oscars ceremony is leaving hollywood|647cc469ecca8afb001bc135207cfb2d
 2026-03-27T11:08:42.614042+00:00|https://www.bbc.com/news/articles/c1eqzlpv8yno|last one laughing star on torture of stifling a giggle and her nightmare opponent|4f0215566e049adb28e81737d1b884ba
+2026-03-27T11:57:51.392436+00:00|https://www.telegraph.co.uk/recommended/leisure/fitness/best-running-shoes-men|im training for my fifth marathon these are my favourite mens running shoes|63b2a993daaf20108d0805f956b8ef1f
+2026-03-27T11:57:56.809295+00:00|https://www.bbc.com/news/articles/cgk0jp7xg2po|police investigate murder of man in portadown|82e4645029570caf32fad66ed0d25617
+2026-03-27T11:58:02.163635+00:00|https://news.sky.com/story/cloned-predecessor-to-dolly-the-sheep-goes-on-permanent-display-at-scottish-museum-13524993|cloned predecessor to dolly the sheep goes on display|172be9e82b3b08f2a36f3edc4e2fd1df
+2026-03-27T11:58:07.573120+00:00|https://news.sky.com/story/military-intelligence-specialists-and-police-to-analyse-findings-in-hunt-for-remains-of-murdered-mother-and-son-in-scotland-13524976|military and police to analyse findings in hunt for remains of murdered mother and son|3dff39b95754b0e7661d047b9f782b73
