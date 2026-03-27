@@ -1,5 +1,3 @@
-2026-03-20T10:45:54.230488+00:00|https://news.sky.com/story/nasa-prepares-artemis-ii-launch-with-rocket-back-on-site-and-crew-in-quarantine-13522109|NASA's Artemis II now back on launchpad for first lunar mission in more than 50 years|08e1e9e975147f8b65c927b163643762
-2026-03-20T10:45:59.766411+00:00|https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss|Trump's Pearl Harbor remark overshadows Japan PM visit|48e5ef4cf0e38a9b9e758935fcaa9e9a
 2026-03-20T11:54:50.357818+00:00|https://news.sky.com/story/us-suffers-hottest-march-day-ever-recorded-as-heat-dome-drives-up-temperatures-13522180|US suffers hottest March day ever recorded as heat dome drives up temperatures|a1c34302ee3da2ab696b1cd62ff9cc64
 2026-03-20T12:35:31.820585+00:00|https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss|Mexican teen dies while being held in US immigration custody|64b908c13e2c561ecf960e8c760ff01b
 2026-03-20T16:07:18.820228+00:00|https://www.bbc.com/news/videos/c9d413gd74do?at_medium=RSS&at_campaign=rss|Record-breaking heatwave hits the US West|7a0fcf88ea1ffbd8e7512d2edfa8e542
@@ -43,3 +41,4 @@
 2026-03-27T02:53:01.083720+00:00|https://www.bbc.com/news/articles/cr513dnq61mo?at_medium=RSS&at_campaign=rss|Trump orders airport security paid as travellers face hours-long queues|2ad35806f210821452768d331b5c9c71
 2026-03-27T02:53:06.732233+00:00|https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss|Judge rejects Pentagon's attempt to 'cripple' Anthropic|f6e6bee21136015f676d91eff33d8062
 2026-03-27T06:14:30.333703+00:00|https://news.sky.com/story/does-america-think-theyre-fighting-a-holy-war-in-iran-13524924|Does America think they're fighting a 'holy war' in Iran?|cbbd4bbb34c30df3189616ff2ef1bcbd
+2026-03-27T11:23:36.232167+00:00|https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss|US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded|375ada44d886326e104dea8cc4a910a7
