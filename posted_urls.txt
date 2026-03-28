@@ -1,4 +1,3 @@
-2026-03-21T08:48:19.107326+00:00|https://www.bbc.com/news/articles/ckg1g4ek3y0o|dog finds canadian message in a bottle on aberdeenshire beach|7afe2a1eda3d929c6a06636b4bed64a9
 2026-03-21T09:39:33.889230+00:00|https://news.sky.com/story/meningitis-outbreak-total-cases-rise-to-34-13522491|meningitis outbreak total cases rise to 34|7a35bae24fc48e0201c350a30ebcd978
 2026-03-21T09:39:39.352037+00:00|https://www.bbc.com/news/articles/cx2v46gexr7o|iranian man and romanian woman charged after trying to enter nuclear base|daa2306da523f6fb3805cf6f031cddd3
 2026-03-21T09:39:44.839758+00:00|https://www.bbc.com/weather/articles/ckgwmr9ve10o|northern lights forecast to reappear across uk on saturday|b8b987c2649e750b90c9cba22728f821
@@ -485,3 +484,5 @@
 2026-03-28T07:16:07.236542+00:00|https://www.telegraph.co.uk/recipes/everyday/vegetarian/herbed-tomato-onion-galette-recipe|herbed tomato and onion galette|c81829f9846941fb26841b506d861cae
 2026-03-28T07:16:12.634755+00:00|https://www.bbc.com/news/articles/c995yyr1xnno|our daughters got on a school bus and never came home|6fcb693f1642ca258d56912635fdfda1
 2026-03-28T08:02:03.497108+00:00|https://news.sky.com/story/investigation-launched-following-case-of-man-who-was-wrongly-jailed-for-38-years-13525352|probe launched into policing of man wrongly jailed for 38 years|f054cc9b9f564ef077e61c1b3f096620
+2026-03-28T08:58:43.664314+00:00|https://www.bbc.com/news/articles/cd7jdp9gxjdo|ultrasound delays putting pregnant women and cancer patients at risk sonographers say|7a1306b9bd631c2d17154642e858f723
+2026-03-28T08:58:49.170080+00:00|https://www.telegraph.co.uk/formula-1/2026/03/28/japanese-gp-qualifying-live-updates-suzuka|antonelli beats russell to japanese gp pole as verstappens misery continues|db25a63bc79c119205f13afe7c730e7f
