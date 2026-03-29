@@ -1,4 +1,3 @@
-2026-03-22T09:17:34.418629+00:00|https://www.bbc.com/news/articles/c363dk662xyo|killed by the same abuser families demand answers|f67ba12bc04b424c489c97bfdfb44a6c
 2026-03-22T09:56:19.967608+00:00|https://www.bbc.com/news/articles/cwydl214dplo|another college sees suspected meningitis case|37749c8bdf7910eae8ff2d0b1b21fb86
 2026-03-22T09:56:25.452476+00:00|https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977|meningitis outbreak number of cases fall|1b35fa8e5187a23272bebd17f241bb41
 2026-03-22T09:56:30.872740+00:00|https://www.bbc.com/news/articles/cqj8lznrjvro|outgoing msps leave holyrood with relief regret and unfinished business|d688d4fd9f67f13186c6d439090f78cc
@@ -495,3 +494,5 @@
 2026-03-29T08:24:09.922152+00:00|https://news.sky.com/story/derby-man-arrested-on-suspicion-of-attempted-murder-after-multiple-pedestrians-struck-by-car-13525693|man arrested on suspicion of attempted murder after pedestrians struck by car in derby|ec32f0a754bc49ca0eddbf7d3f911455
 2026-03-29T09:07:16.917520+00:00|https://www.bbc.com/news/articles/cn78gx51m32o|the nine year island mystery of the artist who disappeared|3471e81e576cbfb1ad7a3caf976d4abc
 2026-03-29T09:07:22.240548+00:00|https://www.bbc.com/news/articles/c5yvrpl6502o|road could be shut for days after major mill fire|658dbb3e5f210e564ee5a88425caaa7a
+2026-03-29T09:54:49.669102+00:00|https://news.sky.com/story/motorists-should-fill-up-as-normal-despite-fuel-prices-soaring-minister-says-13525774|motorists should fill up as normal despite fuel prices soaring minister says|e8b5ea485d13a5e3fe6b37df8c9d7824
+2026-03-29T09:54:55.236351+00:00|https://news.sky.com/story/public-transport-fares-waived-in-two-australian-states-to-combat-rising-fuel-costs-13525726|free public transport introduced in australia to combat rising fuel costs|aca3e93b78f537721d9f4e82889cbf07
