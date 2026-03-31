@@ -1,7 +1,3 @@
-2026-03-24T15:34:42.924376+00:00|https://www.bbc.com/news/articles/cgld4w7dlkdo|son learned of stab victims death through instagram|b5c9decaffcdc563febac1dacf6b4a97
-2026-03-24T15:34:48.273631+00:00|https://news.sky.com/story/it-felt-like-hed-been-killed-twice-partner-of-nottingham-attack-victim-tells-inquiry-13523798|it felt like hed been killed twice partner of nottingham attack victim tells inquiry|f8ca7d91fbd5ee6e784efe800dd1e1df
-2026-03-24T15:34:53.767442+00:00|https://www.bbc.com/news/articles/cr516nmer5eo|reeves plans energy bill help for those who need it most|6c4060b2a798ac17b00d909bb23d8d6a
-2026-03-24T15:34:59.236213+00:00|https://news.sky.com/story/children-play-around-missiles-as-remnants-of-projectiles-pictured-across-middle-east-13523793|children play around missiles as remnants of projectiles pictured across middle east|e9719a6a3b85efb98e16d0094f37278d
 2026-03-24T16:42:42.203079+00:00|https://news.sky.com/story/family-of-police-officer-who-died-while-on-duty-pay-tribute-13523919|family of police officer who died while on duty pay tribute|e781f4e375353dbc7e09ad1126249c8e
 2026-03-24T16:42:47.592669+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/new-therapies-transform-treatment-for-drug-resistant-tb|new therapies are transforming treatment for drugresistant tb so why arent people getting them|84ae8ccf4bd00efb279d30f1484e8946
 2026-03-24T16:42:53.033094+00:00|https://news.sky.com/story/violent-mob-at-asylum-hotel-protest-turned-epping-into-scene-of-chaos-court-told-13523891|violent mob at asylum hotel protest turned epping into scene of chaos court told|3a2c2324099f3bcb390f70329e6794d8
@@ -485,3 +481,8 @@
 2026-03-31T14:18:13.294292+00:00|https://www.bbc.com/news/articles/c4gx2lv8888o|rapper jailed after xl bully kills motherinlaw|c488e7dd33817980ac0d6b948e50e9f8
 2026-03-31T14:18:18.735948+00:00|https://news.sky.com/story/labour-mp-critical-of-jury-trials-reform-has-whip-suspended-13526487|a hrefhttpsnewsskycomstorypoliticslatestkeirstarmerlabouriranwar12593360postid11440777liveblogbodylabour jury trial rebel has whip suspendeda|b67c0f1df4054205f4fc7608ba8a176e
 2026-03-31T14:18:24.060453+00:00|https://www.bbc.com/news/articles/cg54v6p98rjo|outspoken backbench mp suspended by labour|9ec9fc9375340d0da7df5d01da011a73
+2026-03-31T15:47:34.291104+00:00|https://news.sky.com/story/england-cricketer-ben-duckett-fined-for-speeding-after-being-caught-driving-at-93mph-13526460|england cricket star fined for speeding at 93mph|7653df17cf9c4cacf5fe7a1179e06ce4
+2026-03-31T15:47:39.972698+00:00|https://www.bbc.com/news/articles/c7vq76g45rvo|more uk troops to be sent to middle east defence secretary announces|76200c59831ab6aafe6e7218636bc77b
+2026-03-31T15:47:45.543586+00:00|https://news.sky.com/story/owner-of-xl-bully-that-savaged-84-year-old-man-found-guilty-13524972|owner of xl bully that savaged 84yearold man found guilty|185b8be0e25b1e3d07675de48742ee6c
+2026-03-31T15:47:50.874340+00:00|https://www.bbc.com/news/articles/cg54v6y1en9o|bus firm alexander dennis to close falkirk site with loss of 115 jobs|c7683811275093def77626be7e41017a
+2026-03-31T15:47:56.258479+00:00|https://news.sky.com/story/ban-on-living-on-the-outer-chagos-islands-is-overturned-13526479|ban on living on the outer chagos islands is overturned|48ecdeba296ef99299a69266e6e8e51a
