@@ -1,4 +1,3 @@
-2026-03-24T08:33:11.853169+00:00|https://www.bbc.com/news/articles/cj32d05x702o|vet prescription fees to be capped at £21|14d7816e7c0e42517bd9f549ace3a964
 2026-03-24T09:40:24.694999+00:00|https://www.bbc.com/news/articles/c2087v35p34o|youtube removes account of man who murdered natalie mcnally|45c0db7e96ea34e9920cbccc8a2c1877
 2026-03-24T09:40:30.129311+00:00|https://news.sky.com/story/denmark-goes-to-the-polls-in-a-snap-election-after-trumps-greenland-bid-13523746|denmark goes to the polls in a snap election after trumps greenland bid|4d7ffe4a635711b8a964cff5e7aec17b
 2026-03-24T10:36:15.745456+00:00|https://www.telegraph.co.uk/recommended/home/pets/best-vacuum-pet-hair|the best vacuums for picking up pet hair and banishing doggy smells|4017fb2b4910ef36371dfff838927593
@@ -484,3 +483,8 @@
 2026-03-31T06:51:08.978840+00:00|https://www.bbc.com/news/articles/c2k3vezpwlko|police station target of serious security alert|2558ad021ec6a4e6038ca18dd92eab4e
 2026-03-31T08:12:02.951332+00:00|https://news.sky.com/story/grooming-gangs-inquiry-chair-promises-to-confront-uncomfortable-truths-13526226|grooming gangs inquiry chair promises to confront uncomfortable truths|5ec00b86774662b114a539c3cb13c92d
 2026-03-31T08:12:08.518968+00:00|https://www.bbc.com/news/articles/cwykq2lqjw7o|scott mills questioned by police in 2018 over sexual offence allegations against teenage boy|54eac2b9ba066ea89646b642f40a70da
+2026-03-31T09:34:12.045972+00:00|https://www.bbc.com/news/articles/cn0w50dwd2jo|three charged with murder over death of girl 16|1186a50f2e69064c2e7f1821bbfbd684
+2026-03-31T09:34:17.363066+00:00|https://news.sky.com/story/man-arrested-over-suspected-murder-of-donna-keogh-17-whose-body-was-never-found-13526363|man arrested over suspected murder of 17yearold girl whose body was never found|a5d733cb51204fabfdbeb22ffd536c95
+2026-03-31T09:34:22.733518+00:00|https://www.bbc.com/news/articles/cpvxr7wv74mo|hundreds of my abusers are still out there says victim as grooming inquiry launched|b7f01ccc66b08ed98796f2971f3c6a5c
+2026-03-31T09:34:28.039642+00:00|https://news.sky.com/story/scott-mills-was-investigated-over-allegations-of-serious-sexual-offences-against-teenage-boy-13526344|scott mills was investigated over allegations of serious sexual offences against teenage boy|58a62ec1dd054d69f12813285fa3c723
+2026-03-31T09:34:33.427702+00:00|https://www.bbc.com/news/articles/clyx17vznz0o|ww2 veteran who fought on dday dies aged 100|8abb129a5a9aa8ceaffc6246c34df0dc
