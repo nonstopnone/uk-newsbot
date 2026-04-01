@@ -466,3 +466,7 @@
 2026-04-01T16:40:14.433330+00:00|https://www.bbc.com/news/articles/cr518ppng30o|cps giving investigative advice to police over andrew and mandelson probes|4e88dd2d4786870f90e040cd931949e4
 2026-04-01T16:40:19.861966+00:00|https://news.sky.com/story/two-migrants-die-during-attempt-to-cross-english-channel-13526918|two migrants die during attempt to cross english channel|2e3aeddf8c91382e878e164a468765b4
 2026-04-01T16:40:25.397691+00:00|https://www.bbc.com/news/articles/cly9vgvddkxo|three more arrests after golders green ambulance attack|7d7419fc4af06357f846336928e31e39
+2026-04-01T17:40:53.137405+00:00|https://www.telegraph.co.uk/business/2026/04/01/iran-war-oil-price-trump-ftse-100-markets-inflation-rates|reeves backs north sea drilling|7dfdef78fcd62f453577635e66b59867
+2026-04-01T17:40:58.557173+00:00|https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925|chelsea reveal largest pretax loss in premier league history|39f586e0c2dec1bfe859d2af093c679f
+2026-04-01T17:41:03.876218+00:00|https://www.bbc.com/news/articles/c4gv7yj71llo|scott mills confirms he was investigated by police in first statement since sacking|666ac82cfa89fd42d3b5fa776c87f136
+2026-04-01T17:41:09.258821+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/water-wars-the-final-escalation|water wars the final escalation|3053586f7cdfbb3837dc84686a0e499c
