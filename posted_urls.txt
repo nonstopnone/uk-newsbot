@@ -1,10 +1,3 @@
-2026-03-25T19:35:18.567386+00:00|https://news.sky.com/story/womans-ex-boyfriend-found-guilty-of-the-manslaughter-of-young-son-left-with-brain-damage-after-beating-13524373|womans exboyfriend found guilty of the manslaughter of young son left with brain damage after beating|cc0f3a0cd6ff7955bfb05f4c785edf18
-2026-03-25T19:35:24.136171+00:00|https://www.telegraph.co.uk/recipes/0/blueberry-gin-lemon-trifle1|blueberry gin and lemon trifle|cd027d40c33c5740173d8fad1feae1be
-2026-03-25T19:35:29.700481+00:00|https://news.sky.com/story/woman-pleads-not-guilty-to-attempted-murder-of-rihanna-after-shooting-at-stars-home-13524319|woman pleads not guilty to attempted murder of rihanna after home shooting|7361de3eff8dc5a0c20b61bcb9237656
-2026-03-25T19:35:35.279351+00:00|https://www.telegraph.co.uk/recipes/entertaining/cocktails/french-75-cocktail-recipe|french 75 cocktail|af8816de19c938c7f0b96477686bfc1c
-2026-03-25T19:35:40.848121+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/pies-and-tarts/lemon-tart-blueberries-recipe|lemon tart with blueberries|e0bf777fbd40b5b5e09c666b536884a7
-2026-03-25T19:35:46.402412+00:00|https://www.telegraph.co.uk/racing/0/marlborough-racing-tips-best-bets-todays-races|marlborough racing tips and best bets for todays races|e87a12f913d78bfb0ba4c4d0b3414801
-2026-03-25T19:35:51.959598+00:00|https://www.telegraph.co.uk/recipes/everyday/fish/baked-side-salmon-roast-lemon-salsa-verde-recipe|baked side of salmon with roast lemon salsa verde|c6f3c243c78027caeb5203155a782d0d
 2026-03-25T20:23:04.592227+00:00|https://news.sky.com/story/london-marathon-could-be-extended-to-two-days-in-2027-13524417|london marathon could be extended to two days|649d36e4c473da194853d2f22e3bcda2
 2026-03-25T20:23:09.969329+00:00|https://www.bbc.com/news/articles/ce3dlpxqz3no|police watchdog investigates handling of andrew tate abuse claims|25eb1031565e27895fe6bb379e69548b
 2026-03-25T21:03:40.839071+00:00|https://www.bbc.com/news/articles/cq6j20zp9n6o|harry potter tv show trailer everything we know so far|838d4eafc2e1b98be4f44d2940cb6c0c
@@ -456,3 +449,6 @@
 2026-04-01T17:41:09.258821+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/water-wars-the-final-escalation|water wars the final escalation|3053586f7cdfbb3837dc84686a0e499c
 2026-04-01T18:39:46.313414+00:00|https://news.sky.com/story/police-probing-peter-mandelson-and-andrew-mountbatten-windsors-links-to-epstein-given-early-investigative-advice-13526945|police probing mandelson and andrew links to epstein given early investigative advice|0b3ab59cd0a584bf6e713e8855b81f65
 2026-04-01T18:39:51.621342+00:00|https://www.bbc.com/news/articles/c1krv2x1k4zo|hunt for gunman who fled on ebike after bristol shooting|1cd04dab228bd0e6d98fa9412a8e8142
+2026-04-01T19:46:26.348267+00:00|https://news.sky.com/story/trump-attends-supreme-court-hearing-on-birthright-citizenship-in-presidential-first-13526873|trump attends supreme court hearing on birthright citizenship in historic first|6796af1d29188bc8b0c71b969edce01b
+2026-04-01T19:46:31.744578+00:00|https://www.telegraph.co.uk/football/2026/04/01/bayern-munich-vs-manchester-united-live-score-womens-cl|manchester united fall short of womens champions league comeback against bayern munich|daa874c03dfa557cf77ed195c7d4c58c
+2026-04-01T19:46:37.135364+00:00|https://www.telegraph.co.uk/racing/0/marlborough-racing-tips-best-bets-todays-races|marlborough racing tips and best bets for todays races|e87a12f913d78bfb0ba4c4d0b3414801
