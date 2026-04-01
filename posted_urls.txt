@@ -1,9 +1,3 @@
-2026-03-25T06:15:08.716566+00:00|https://www.bbc.com/news/articles/c20356v74k7o|new archbishop of canterbury to be enthroned in service celebrating women|509e166d8687e9209adf6cb5068621a7
-2026-03-25T06:15:14.183854+00:00|https://news.sky.com/story/democrat-flips-florida-seat-in-district-that-includes-trumps-mar-a-lago-home-13524103|democrat flips seat on trumps home turf|7a1cbe1559be87db2ff98bed5c47e4fb
-2026-03-25T06:15:19.497339+00:00|https://www.bbc.com/news/articles/cj60kn2w32ko|families urged not to cuddle lambs after infection outbreak left dozens sick|d8722cb6afeafed87f8a9ceae8a19001
-2026-03-25T06:15:24.825293+00:00|https://www.bbc.com/sport/football/articles/c0e7ww12w2qo|salah to leave liverpool at end of season|76e12ce1253f0ecb906b54ac0b093b72
-2026-03-25T06:15:30.145043+00:00|https://www.bbc.com/news/articles/c0ljrp76ywxo|is there an election in my area|9311d6b5f392072622d2b8e81591f9d1
-2026-03-25T07:32:42.339762+00:00|https://news.sky.com/story/lily-allen-olivia-dean-and-wolf-alice-among-stars-nominated-for-ivor-novello-awards-2026-13523947|lily allen olivia dean and wolf alice among stars nominated for ivor novello awards|aec29b898672b2d3f33cf5bc23922cd6
 2026-03-25T09:37:46.130024+00:00|https://www.bbc.com/news/articles/c3v6rx6dxz6o|two men arrested over jewish charity ambulance arson attacks|95b609d7314dadc752fba16855854561
 2026-03-25T09:37:53.571783+00:00|https://www.bbc.com/news/articles/cp8dnj8v831o|amy doherty murder suspect medically unfit for interview|59bad3fdba875f575cf6f0a60fc6dd2f
 2026-03-25T09:37:58.997734+00:00|https://www.bbc.com/news/articles/cx2w47e9v2vo|uk inflation rate steady in february ahead of iran war|a0154c5ded20b0f6cd1eb601c97cd652
@@ -477,3 +471,5 @@
 2026-04-01T05:48:19.710955+00:00|https://www.bbc.com/news/articles/cgk0d76yg8po|energy bill support would be based on household income reeves says|4d0f245db64a5045b99c90988ceb59b6
 2026-04-01T05:48:25.162786+00:00|https://news.sky.com/story/youngsters-incentivised-to-get-adhd-and-autism-diagnoses-13526679|youngsters incentivised to get adhd and autism diagnoses|f454ce8a076c963348b5c1f0c8eff9eb
 2026-04-01T05:48:30.574527+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/could-underwater-living-help-save-the-worlds-oceans|could underwater living help save the worlds oceans|fe30adba788f8d4ddab75d7f3721b72c
+2026-04-01T07:44:38.769139+00:00|https://www.bbc.com/news/articles/c5yj634ml71o|my daughter has childhood dementia and may not live past 16|3f8503b5145af92e6b935c76f1c8093a
+2026-04-01T07:44:44.229592+00:00|https://www.telegraph.co.uk/football/2026/04/01/world-cup-2026-dates-format-tv-venue-tickets|world cup 2026 who qualified dates schedule and ticket details|a1f8e69e5531b2639adc9f3744656249
