@@ -1,6 +1,3 @@
-2026-03-26T07:20:17.979899+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/riding-the-floatplane-serving-papua-new-guineas-remote-regions|lets say hello to some crocodiles on board the floatplane serving one of the worlds most remote regions|98a910a717a4a229809fb1ab9d9799e2
-2026-03-26T07:20:23.277442+00:00|https://news.sky.com/story/pm-warns-travelodge-ceo-to-seriously-engage-with-mps-after-appalling-hotel-sex-attack160-13524436|starmer warns travelodge boss after hotel sex attack|e9dc445500ff00c78217e8a33ed6dbcb
-2026-03-26T08:11:40.796259+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/floatplane-serving-one-of-papua-new-guineas-remote-regions|lets say hello to some crocodiles the floatplane serving one of the worlds most remote regions|7157ebfb4b0ad17dc3e546c57379c2c4
 2026-03-26T08:11:46.216930+00:00|https://news.sky.com/story/starmer-far-fetched-to-link-mcsweeney-phone-theft-to-mandelson-files-13524538|starmer farfetched to link mcsweeney phone theft to mandelson files|34a26b0c99911d23391260399a1a2cf0
 2026-03-26T08:11:51.614971+00:00|https://news.sky.com/story/taxpayers-could-foot-big-bill-for-nsi-bereavement-blunder-13524525|taxpayers could foot big bill for nsi bereavement blunder|0aca3473c6bd244d1fb0e23fdd95b7d4
 2026-03-26T09:15:35.716285+00:00|https://www.bbc.com/news/articles/clyj9gdpygdo|rates of violence against women should horrify every individual|11e339f80316b97587490d57e550a083
@@ -452,3 +449,8 @@
 2026-04-02T06:56:09.665334+00:00|https://www.bbc.com/news/articles/c9vlg89nrjeo|most and least affordable areas to buy a home in wales revealed|f818ce1ff644f65d518852accbb54e73
 2026-04-02T06:56:15.051885+00:00|https://www.bbc.com/news/articles/c4g6r51jjglo|letter writer could hold key to murder case|53e46ec8209eacc1d3d0b91cc010ae2f
 2026-04-02T06:56:20.414989+00:00|https://www.bbc.com/news/articles/cly0g7vv4g1o|plan for irish street sign near stormont is voted down|2b4029ee3f8a38ff26b616b9dc067bc0
+2026-04-02T08:11:53.368949+00:00|https://www.bbc.com/news/articles/c4g0xl3enyjo|london pride boss sacked after allegedly spending donations on perfume|b6d6ee1076907a1b3cb29d3920a0056b
+2026-04-02T08:11:58.874360+00:00|https://news.sky.com/story/alleged-bondi-beach-gunman-loses-bid-to-suppress-his-familys-identities-13527085|alleged bondi beach gunman loses bid to suppress identities of family|37f056c5efc464d65df1eef9aa8b2331
+2026-04-02T08:12:04.234602+00:00|https://www.bbc.com/news/articles/c0mjrp4k0g7o|family find dead lambs in bag on country road|b888017f5b0126cb3c1f2117a897114a
+2026-04-02T08:12:09.612965+00:00|https://www.bbc.com/news/articles/cz6732p2vpjo|blind marathon runner to be guided by smart glasses|ecb309d98603c9cd47fac57dd4a2c580
+2026-04-02T08:12:15.038957+00:00|https://www.bbc.com/news/articles/cx2e7xxxx0qo|warm clothing handed out to detainees in cold court custody cells|77478a68732f4af67c7d8dd17698b37c
