@@ -1,4 +1,3 @@
-2026-03-26T05:50:46.110298+00:00|https://www.bbc.com/news/articles/c3w3eg4n9zwo|nsi set to pay millions in compensation to customers|09e5c2ded6af4b572c4c60add5070c1d
 2026-03-26T07:20:17.979899+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/riding-the-floatplane-serving-papua-new-guineas-remote-regions|lets say hello to some crocodiles on board the floatplane serving one of the worlds most remote regions|98a910a717a4a229809fb1ab9d9799e2
 2026-03-26T07:20:23.277442+00:00|https://news.sky.com/story/pm-warns-travelodge-ceo-to-seriously-engage-with-mps-after-appalling-hotel-sex-attack160-13524436|starmer warns travelodge boss after hotel sex attack|e9dc445500ff00c78217e8a33ed6dbcb
 2026-03-26T08:11:40.796259+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/floatplane-serving-one-of-papua-new-guineas-remote-regions|lets say hello to some crocodiles the floatplane serving one of the worlds most remote regions|7157ebfb4b0ad17dc3e546c57379c2c4
@@ -448,3 +447,8 @@
 2026-04-02T05:44:28.234936+00:00|https://www.telegraph.co.uk/recommended/health-and-fitness/running/alistair-brownlee-reader-questions-triathlon|alistair brownlee ive been in a swimming pool zero times since retiring|7dc8e084fee33669f165a9963c68eba3
 2026-04-02T05:44:33.582961+00:00|https://news.sky.com/story/stop-censoring-books-teachers-warn-school-libraries-13527067|stop censoring books teachers warn school libraries|b54a203f5725a9fb42a9e47c15bb2094
 2026-04-02T05:44:38.973686+00:00|https://www.bbc.com/news/articles/c5ywq35q94vo|womans travelodge naked man ordeal as claims mount|258b4ebcafedfcd9e43feb25b5a13cf9
+2026-04-02T06:55:58.920287+00:00|https://www.bbc.com/news/articles/cqxl2r44qp5o|three arrested overnight following shooting|d07947f0dea5b371af6fdd52ebbdaf4e
+2026-04-02T06:56:04.292123+00:00|https://www.bbc.com/sport/football/articles/ckge7014m5yo|the remarkable rise of the only english coach in tuchels team|b16347fc6e140c32356b86685b1f1981
+2026-04-02T06:56:09.665334+00:00|https://www.bbc.com/news/articles/c9vlg89nrjeo|most and least affordable areas to buy a home in wales revealed|f818ce1ff644f65d518852accbb54e73
+2026-04-02T06:56:15.051885+00:00|https://www.bbc.com/news/articles/c4g6r51jjglo|letter writer could hold key to murder case|53e46ec8209eacc1d3d0b91cc010ae2f
+2026-04-02T06:56:20.414989+00:00|https://www.bbc.com/news/articles/cly0g7vv4g1o|plan for irish street sign near stormont is voted down|2b4029ee3f8a38ff26b616b9dc067bc0
