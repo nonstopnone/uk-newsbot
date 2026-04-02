@@ -458,3 +458,6 @@
 2026-04-02T11:34:23.794160+00:00|https://www.bbc.com/news/articles/crr1qwn2178o|bbc announces editor of radio 4s today programme|eb01ed70be39b6bf7405ce60f6aadedc
 2026-04-02T11:34:29.213458+00:00|https://news.sky.com/story/jonathan-the-giant-tortoise-the-worlds-oldest-living-land-animal-is-alive-after-getting-caught-up-in-alleged-crypto-scam-13527112|worlds oldest living land animal alive after getting caught up in alleged crypto scam|c31f42ed806e6337aa54cb74e408df19
 2026-04-02T11:34:34.514921+00:00|https://www.bbc.com/weather/articles/ce3d7n10ypyo|storm dave set to batter uk with gales and blizzards over easter weekend|2a5e9fff7f812cb624d0d637ffa8b33e
+2026-04-02T12:38:45.629809+00:00|https://news.sky.com/story/bbc-sacked-scott-mills-after-discovering-alleged-victim-in-police-investigation-was-under-16-13527184|bbc sacked scott mills after discovering alleged victim in police investigation was under 16|9f14c01c40a3a3ef5d86bb38c9b3ea00
+2026-04-02T12:38:51.022525+00:00|https://www.bbc.com/news/articles/cdxd5ndknq5o|man who tried to abduct two children from water park sentenced|817ae8c0418b99e22ce06171a969eefa
+2026-04-02T12:38:56.407451+00:00|https://www.bbc.com/news/articles/c77mvj2l3z4o|storm dave warning for snow and high winds over easter weekend|c98ca801a4cc4f640d7f04f59d7e693a
