@@ -417,3 +417,5 @@
 2026-04-03T13:19:48.905176+00:00|https://www.bbc.com/news/articles/cnv8mn91drlo|thousands of students facing it disruption ahead of exam season|2cd2cee0f3510f0f378954a47dd3b7db
 2026-04-03T13:19:54.488243+00:00|https://news.sky.com/story/speculation-miliband-will-approve-drilling-new-oil-and-gas-field-unfounded-government-claims-13527502|speculation miliband will approve drilling new oil and gas field unfounded|2957d2906a354d55e68e086668255977
 2026-04-03T13:19:59.904447+00:00|https://news.sky.com/story/boy-14-shot-dead-in-london-as-three-teenagers-arrested-on-suspicion-of-murder-13527205|boy 14 shot dead in london as three teenagers arrested on suspicion of murder|6bfbf2e3625d10d9c73cbba89da900f7
+2026-04-03T14:23:41.829493+00:00|https://www.bbc.com/news/articles/ckgxdw4520no|son charged with fatal stabbing of 84yearold mum|110d810485fdd69e8fed19bade03ac6c
+2026-04-03T14:23:47.156383+00:00|https://www.bbc.com/news/articles/cj40ekewqrgo|boy 14 shot dead and teens arrested for murder|0500de3eef64329ebdec81a7a3fb75e0
