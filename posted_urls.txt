@@ -1,7 +1,3 @@
-2026-03-27T11:57:51.392436+00:00|https://www.telegraph.co.uk/recommended/leisure/fitness/best-running-shoes-men|im training for my fifth marathon these are my favourite mens running shoes|63b2a993daaf20108d0805f956b8ef1f
-2026-03-27T11:57:56.809295+00:00|https://www.bbc.com/news/articles/cgk0jp7xg2po|police investigate murder of man in portadown|82e4645029570caf32fad66ed0d25617
-2026-03-27T11:58:02.163635+00:00|https://news.sky.com/story/cloned-predecessor-to-dolly-the-sheep-goes-on-permanent-display-at-scottish-museum-13524993|cloned predecessor to dolly the sheep goes on display|172be9e82b3b08f2a36f3edc4e2fd1df
-2026-03-27T11:58:07.573120+00:00|https://news.sky.com/story/military-intelligence-specialists-and-police-to-analyse-findings-in-hunt-for-remains-of-murdered-mother-and-son-in-scotland-13524976|military and police to analyse findings in hunt for remains of murdered mother and son|3dff39b95754b0e7661d047b9f782b73
 2026-03-27T14:39:02.033340+00:00|https://news.sky.com/story/ex-snp-council-leader-jordan-linden-guilty-of-multiple-sex-offences-against-young-men-and-boys-13525044|former council leader guilty of preying on young men and boys|7c390c33e3a765667613d0a9c8b48d68
 2026-03-27T14:39:07.421461+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/britain-is-one-step-from-eradicating-polio|we are one step from eradicating polio britain must not walk away|d990516868529743e2fd1cdbcbe80c9f
 2026-03-27T14:39:12.769301+00:00|https://www.bbc.com/news/articles/cdxdnd87v78o|petrol price above 150p a litre for first time in nearly two years|3bcd0b423c5250da6b54ce88ee24953b
@@ -416,3 +412,8 @@
 2026-04-03T10:05:11.555641+00:00|https://news.sky.com/story/boy-14-arrested-on-suspicion-of-murdering-chloe-watson-16-in-leeds-13527473|boy 14 arrested over murder of 16yearold girl|3fdd25729ee6aca8460c93dd42fbcdfc
 2026-04-03T10:05:17.313094+00:00|https://www.bbc.com/news/articles/cy01w2yjzr8o|funeral boss will pay for what he did babys mum|5c23b31db806456499585153df0ed442
 2026-04-03T10:05:22.864813+00:00|https://www.bbc.com/news/articles/cvg58ydn4jpo|researchers spent years interviewing 160 bigfoot hunters this is what they learnt|b5b22f7fa69ee416ff7da78fddc6c262
+2026-04-03T13:19:37.905952+00:00|https://www.bbc.com/news/articles/cvg38x7k9v7o|calmac in better place as third ferry returns after repairs|57873df1912f4af9d0979150d673f241
+2026-04-03T13:19:43.473830+00:00|https://news.sky.com/story/two-men-arrested-on-suspicion-of-drug-driving-after-girl-9-killed-in-crash-13527519|two men arrested after girl 9 killed in crash|4b92aa6acef71a8388b35fa47ad002c7
+2026-04-03T13:19:48.905176+00:00|https://www.bbc.com/news/articles/cnv8mn91drlo|thousands of students facing it disruption ahead of exam season|2cd2cee0f3510f0f378954a47dd3b7db
+2026-04-03T13:19:54.488243+00:00|https://news.sky.com/story/speculation-miliband-will-approve-drilling-new-oil-and-gas-field-unfounded-government-claims-13527502|speculation miliband will approve drilling new oil and gas field unfounded|2957d2906a354d55e68e086668255977
+2026-04-03T13:19:59.904447+00:00|https://news.sky.com/story/boy-14-shot-dead-in-london-as-three-teenagers-arrested-on-suspicion-of-murder-13527205|boy 14 shot dead in london as three teenagers arrested on suspicion of murder|6bfbf2e3625d10d9c73cbba89da900f7
