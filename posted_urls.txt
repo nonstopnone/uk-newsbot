@@ -1,5 +1,3 @@
-2026-03-27T23:54:42.196088+00:00|https://news.sky.com/story/alarming-report-reveals-number-of-uk-meningitis-deaths-with-warning-over-falling-vaccination-rates-13525055|alarming report reveals number of uk meningitis deaths|36272bd836ae4b78db69f16885f9a30a
-2026-03-27T23:54:47.597169+00:00|https://news.sky.com/story/tiger-woods-charged-with-driving-under-the-influence-after-hitting-another-vehicle-and-rolling-his-car-13525329|tiger woods charged with driving under the influence after hitting another vehicle and rolling his car|9cb1e21070d2467ffe49a90346963522
 2026-03-28T02:48:05.216149+00:00|https://www.bbc.com/news/articles/c79jd9d0n4zo|the papers war to end in weeks and 50 of public cut their spending|9599981287018914d144360972f4c5bf
 2026-03-28T02:48:10.652570+00:00|https://www.bbc.com/news/articles/cwywxlvelevo|where have weekend jobs for teenagers gone|ce51d67fe20c3afbf8fc5befbe8e4ac4
 2026-03-28T02:48:15.953019+00:00|https://www.bbc.com/news/articles/clyenwrz23go|tiramisu hot cross buns doughnut eggs have easter treats gone too far|7de00997fa4e2597d01b7262f13a7963
@@ -394,3 +392,10 @@
 2026-04-03T23:50:13.945586+00:00|https://news.sky.com/story/trump-proposes-historic-15trn-defence-budget-13527774|trump proposes historic $15trn defence budget|6fda7bca271dc2c051eddcf3e2e281af
 2026-04-03T23:50:19.370578+00:00|https://www.bbc.com/news/articles/cx2e7e90kneo|state pension age starts rising to 67 heres how much you get and when|a1549123c556ec29baea4d124aecc386
 2026-04-03T23:50:24.802468+00:00|https://www.bbc.com/news/articles/cz0ey7z2jx3o|three charged over jewish charity ambulance fires|6f317c309fe9b19a40d6021da0870fbe
+2026-04-04T02:46:52.417400+00:00|https://news.sky.com/story/why-britains-most-common-crime-has-been-poorly-investigated-for-decades-13527495|why britains most common crime has been poorly investigated for decades|2744c8e251c067a442f2cbee11f115f2
+2026-04-04T02:46:57.860981+00:00|https://www.bbc.com/news/articles/cz903wjlejyo|iran shoots down us jet and race to find pilot|64d159f37be76d4c79602b29c6ef7f16
+2026-04-04T02:47:03.319206+00:00|https://news.sky.com/story/armed-police-officers-left-bag-of-guns-outside-sadiq-khans-home-13527800|armed police officers left bag of guns outside sadiq khans home|dab72689b19cea2d83ec47b072f4c616
+2026-04-04T02:47:08.742757+00:00|https://www.bbc.com/news/articles/cvgk8yxxkvpo|what not to say to a friend who is struggling to conceive|baf3cd5a4a5894021f1d618f1dc8bb42
+2026-04-04T02:47:14.196738+00:00|https://news.sky.com/story/from-the-white-house-to-the-moon-this-week-has-been-far-from-normal-13527799|this week has been far from normal for several reasons|844b1472ba10d8a2e55e0884a612ecca
+2026-04-04T02:47:19.519823+00:00|https://www.bbc.com/news/articles/cvg04839gljo|bus or lime bike new subscription heats up the race for a cheaper commute|eee415b366c52bc70a52d4740ff4d822
+2026-04-04T02:47:24.861441+00:00|https://news.sky.com/story/three-people-charged-over-arson-attack-on-golders-green-jewish-charity-ambulances-13527099|three charged over arson attack on jewish charity ambulances|b05cf50cb80d1667a3281a0b82b27e0e
