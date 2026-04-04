@@ -1,8 +1,3 @@
-2026-03-28T02:48:05.216149+00:00|https://www.bbc.com/news/articles/c79jd9d0n4zo|the papers war to end in weeks and 50 of public cut their spending|9599981287018914d144360972f4c5bf
-2026-03-28T02:48:10.652570+00:00|https://www.bbc.com/news/articles/cwywxlvelevo|where have weekend jobs for teenagers gone|ce51d67fe20c3afbf8fc5befbe8e4ac4
-2026-03-28T02:48:15.953019+00:00|https://www.bbc.com/news/articles/clyenwrz23go|tiramisu hot cross buns doughnut eggs have easter treats gone too far|7de00997fa4e2597d01b7262f13a7963
-2026-03-28T02:48:21.254997+00:00|https://www.bbc.com/news/articles/c93eqvxydzqo|are uk students at risk of more deadly meningitis outbreaks|eda1cab47f792c51db8233a2a4800702
-2026-03-28T02:48:26.558446+00:00|https://www.bbc.com/news/articles/c74vedxjq8zo|maldives tells uk it does not recognise chagos islands deal with mauritius|3336d76a7a166b7bbf5c0d86c495291e
 2026-03-28T06:06:28.765785+00:00|https://www.telegraph.co.uk/recipes/everyday/salads/artichoke-broad-bean-shallot-salad-saffron-dressing-recipe|artichoke broad bean and shallot salad with saffron dressing|ae45b1f3222ad0f6f41181a9a126b87b
 2026-03-28T06:06:34.332522+00:00|https://news.sky.com/story/all-we-want-is-justice-for-amy-thousands-gather-at-vigil-for-mother-after-man-charged-with-murder-13525384|all we want is justice for amy thousands gather at vigil for mother after man charged with murder|7ea1faf5c2b9069c7e486950c281dbd4
 2026-03-28T06:06:39.894500+00:00|https://www.bbc.com/news/articles/ckg0xxwn041o|he would have been horrified error in drug warnings misled families|4b7b3f748f95c83f24d168ab38a390fc
@@ -399,3 +394,5 @@
 2026-04-04T02:47:14.196738+00:00|https://news.sky.com/story/from-the-white-house-to-the-moon-this-week-has-been-far-from-normal-13527799|this week has been far from normal for several reasons|844b1472ba10d8a2e55e0884a612ecca
 2026-04-04T02:47:19.519823+00:00|https://www.bbc.com/news/articles/cvg04839gljo|bus or lime bike new subscription heats up the race for a cheaper commute|eee415b366c52bc70a52d4740ff4d822
 2026-04-04T02:47:24.861441+00:00|https://news.sky.com/story/three-people-charged-over-arson-attack-on-golders-green-jewish-charity-ambulances-13527099|three charged over arson attack on jewish charity ambulances|b05cf50cb80d1667a3281a0b82b27e0e
+2026-04-04T04:57:18.679984+00:00|https://news.sky.com/story/uk-weather-storm-dave-to-hit-hard-forecasters-warn-heres-when-and-where-13527802|storm dave to hit uk hard forecasters warn heres when|09fdb23a18e9c6131e99bbc8888bc02b
+2026-04-04T04:57:24.044409+00:00|https://news.sky.com/story/it-beggars-belief-uk-military-reveal-locations-inside-sensitive-bases-through-exercise-app-13527801|it beggars belief uk military reveal locations inside sensitive bases through exercise app|30846ec3df218102493661029e200b69
