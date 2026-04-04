@@ -380,3 +380,6 @@
 2026-04-04T13:12:03.633665+00:00|https://www.bbc.com/news/articles/c3dlp4k41g2o|homes without water for third day after burst pipe|8d6d8eee71b3786c01a63d8fc204f308
 2026-04-04T14:00:42.479900+00:00|https://news.sky.com/story/alcatraz-trump-wants-152m-to-reopen-jail-as-state-of-the-art-8288prison-13527855|trump wants $152m to reopen alcatraz as stateoftheart prison|883baa55dec875bb7d5e744385065334
 2026-04-04T14:00:47.885958+00:00|https://www.bbc.com/news/articles/clyjrrl17j1o|fourth suspect arrested over jewish charity ambulance arson attack|d1d5a0a8965552524b5fc56e30c5c28d
+2026-04-04T14:53:19.123030+00:00|https://www.telegraph.co.uk/football/2026/04/04/man-city-vs-liverpool-live-fa-cup-quarter-final-score|slot taunted with sacked in the morning chants as liverpool demolished by city|458e86b385435dc1642f42ea34b2c31b
+2026-04-04T14:53:24.564289+00:00|https://news.sky.com/story/arrests-made-after-teenager-killed-in-crash-in-flitwick-13527890|arrests made after teenager killed in crash|382470878d4a9b43d10163688d2ee690
+2026-04-04T14:53:30.025356+00:00|https://news.sky.com/story/12-year-old-arrested-over-death-of-girl-hit-in-head-with-metal-water-bottle-at-school-13527803|12yearold arrested over death of girl hit in head with metal water bottle at school|a9c34025657943b38141110fdf249086
