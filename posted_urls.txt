@@ -1,5 +1,3 @@
-2026-03-28T23:38:36.962500+00:00|https://www.telegraph.co.uk/boxing/2026/03/28/itauma-vs-franklin-latest-fight-updates-scores-result|itauma proves credentials for world title shot with brutal knockout of franklin|a18f72ef1b53e4e43d82ecc516320dab
-2026-03-28T23:38:42.339969+00:00|https://news.sky.com/story/large-crowds-attend-no-kings-rallies-against-trump-across-us-13525674|large crowds attend no kings rallies against trump across us|0266de8a7dddae74f871e9f223cc10a4
 2026-03-29T03:39:38.434129+00:00|https://news.sky.com/story/countless-horror-stories-linked-to-social-media-but-a-ban-for-children-isnt-cut-and-dried-case-13521317|countless horror stories linked to social media but a ban for children isnt cutanddried case|6aef43bbdfc0c2e8a595d4952cc4e6d7
 2026-03-29T03:39:43.809522+00:00|https://www.bbc.com/news/articles/c36rwzzxyn8o|the papers us marines head to war and well stop antisocial media|28b7c847c0dab279ddd851501569af8f
 2026-03-29T03:39:49.177668+00:00|https://www.bbc.com/news/articles/cn78v1yg7p1o|arrest after car strikes multiple pedestrians in derby police|c93dd5ee44ed97726cc8bca5346ef5f8
@@ -380,3 +378,8 @@
 2026-04-04T21:49:55.932555+00:00|https://www.telegraph.co.uk/football/2026/04/04/southampton-vs-arsenal-live-fa-cup-quarter-final-score|arsenal must wake up or there will be nothing to celebrate this season|5a3acdd75b00f23620154035cf3146ee
 2026-04-04T22:37:48.058422+00:00|https://www.bbc.com/news/articles/c93edxr57d0o|archbishop to pray for middle east peace in first easter sermon|2001db8b8b41c201aa06afd98a08bd9e
 2026-04-04T22:37:53.479753+00:00|https://news.sky.com/story/keir-starmer-deeply-concerned-by-kanye-wests-wireless-festival-booking-despite-antisemitic-remarks-13528071|starmer deeply concerned by kanye wests uk festival booking|80f6145124ef4d88773d080fabf2e1e1
+2026-04-04T23:48:10.389891+00:00|https://www.bbc.com/weather/articles/cpd5n97418go|how likely is a white easter|b52f928516a2394c8950eaa583d74334
+2026-04-04T23:48:15.859966+00:00|https://www.telegraph.co.uk/boxing/2026/04/04/chisora-vs-wilder-latest-fight-updates-result-heavyweight|wilder beats chisora via split decision after gruelling contest|74a4c4bc70563aafbbeb44a7d6088fee
+2026-04-04T23:48:21.310539+00:00|https://www.bbc.com/news/articles/c5y73z94xzeo|comedians tell ministers lack of funding is no laughing matter|fdea4df841b9b1d2b3f29877328e5713
+2026-04-04T23:48:26.724217+00:00|https://www.bbc.com/news/articles/c30r89lrq8eo|our new reality show leaves nothing out|ec266fc4cbdd31444b44cc075a53e1dd
+2026-04-04T23:48:32.135076+00:00|https://www.bbc.com/news/articles/cjr9l2p950do|how will rising fuel costs affect driving lessons|2bc553848cf1d43753b7782ca83fc9aa
