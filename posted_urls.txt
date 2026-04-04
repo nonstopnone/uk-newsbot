@@ -1,8 +1,3 @@
-2026-03-28T09:49:59.990119+00:00|https://www.bbc.com/news/articles/c1w40e82w98o|major fire tears through towns historic mill|e6229035f1b2ad822ee575394449ea05
-2026-03-28T09:50:05.495789+00:00|https://www.bbc.com/news/articles/cq8wkl3dyypo|first paisley arts festival celebrates late designer pam hogg|9288686943e735c90248b08776f3a2b7
-2026-03-28T09:50:11.026585+00:00|https://www.bbc.com/news/articles/cn8dgdvnwgqo|alan carr bought a scottish castle could you|a01cc7feae9ec9e63b43f3447b879386
-2026-03-28T09:50:16.428290+00:00|https://www.bbc.com/news/articles/cj409prxzg5o|breast cancer patient died due to trusts failings|502f6b9b5b01e51b4cf6a3c5a0703399
-2026-03-28T09:50:21.899108+00:00|https://www.bbc.com/news/articles/cwykjzv2zz9o|gamings glastonbury arrives in birmingham|44aeccc03db0a6be688246eef0ad8f1a
 2026-03-28T10:40:03.367570+00:00|https://www.bbc.com/sport/boxing/articles/c7vqd9y9g98o|why quick kos are not enough for heavyweight itauma|d7202ee4425613606494966c2dec9be3
 2026-03-28T10:40:09.047852+00:00|https://news.sky.com/story/huge-fire-rips-through-historic-big-mill-in-staffordshire-13525428|huge fire rips through historic big mill in staffordshire|4a7dc4b0ed0f6dc6496085750de271dc
 2026-03-28T11:13:28.980940+00:00|https://news.sky.com/story/pregnant-women-and-cancer-patients-at-risk-from-sonographer-shortage-13525418|pregnant women and cancer patients at risk from ultrasound delays|3a74f2733e31d3bc91ab0b9eae52e5c6
@@ -389,3 +384,5 @@
 2026-04-04T09:01:00.240475+00:00|https://www.bbc.com/news/articles/clye237165ko|final support call for businesses affected by glasgow fire|6b8a1a1ee385f0bce0f649457943c7e4
 2026-04-04T09:01:05.809706+00:00|https://www.bbc.com/news/articles/c7vqlz2rqepo|murder arrests after man hit by car dies|6f1aee62f0fdba91f848a95ffed76a57
 2026-04-04T09:01:11.224762+00:00|https://www.bbc.com/news/articles/cjd8y33ze08o|five met officers taken off duty after weapons find|c914d3a845d219364a1e102aac0e396b
+2026-04-04T09:55:21.536840+00:00|https://www.bbc.com/news/articles/cpd5j4lnnq0o|teachers union warns of masculinity crisis brewing in schools|36660849be5d56f2b28261908eb682d1
+2026-04-04T09:55:26.927569+00:00|https://www.bbc.com/news/articles/c62jw8xgv0lo|nine officers and child injured in disorder before football match|a87e04247b7380b9efff09a13db014e1
