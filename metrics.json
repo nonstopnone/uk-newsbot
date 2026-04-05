@@ -1,15 +1,15 @@
 {
   "sources": {
     "Manual Submission": 4,
-    "BBC": 2763,
-    "Sky": 2037,
+    "BBC": 2764,
+    "Sky": 2039,
     "Telegraph": 711,
     "Manual": 3,
     "BBC News US": 322,
     "Sky News US": 85
   },
   "categories": {
-    "Politics": 3684,
+    "Politics": 3686,
     "Crime & Legal": 1216,
     "Notable International": 18,
     "Economy": 108,
@@ -18,7 +18,7 @@
     "Immigration": 3,
     "Breaking News": 235,
     "Culture": 38,
-    "Environment": 123,
+    "Environment": 124,
     "Entertainment": 29,
     "Sports": 19
   }

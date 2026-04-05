@@ -383,3 +383,6 @@
 2026-04-04T23:48:21.310539+00:00|https://www.bbc.com/news/articles/c5y73z94xzeo|comedians tell ministers lack of funding is no laughing matter|fdea4df841b9b1d2b3f29877328e5713
 2026-04-04T23:48:26.724217+00:00|https://www.bbc.com/news/articles/c30r89lrq8eo|our new reality show leaves nothing out|ec266fc4cbdd31444b44cc075a53e1dd
 2026-04-04T23:48:32.135076+00:00|https://www.bbc.com/news/articles/cjr9l2p950do|how will rising fuel costs affect driving lessons|2bc553848cf1d43753b7782ca83fc9aa
+2026-04-05T03:23:53.365697+00:00|https://news.sky.com/story/over-12m-people-to-benefit-from-state-pension-increase-tomorrow-13528096|over 12m people to benefit from state pension increase tomorrow|c0648b580d16948e7aa1414b4649c363
+2026-04-05T03:23:58.927061+00:00|https://www.bbc.com/news/articles/c0e79re1w89o|trumps hellfire ultimatum to iran and pm slams kanye gig|2513982750cda3acead4ae12d51224cf
+2026-04-05T03:24:04.585619+00:00|https://news.sky.com/story/uk-weather-battered-coasts-wobbly-planes-and-closed-roads-as-storm-dave-sweeps-through-13528095|battered coasts wobbly planes and closed roads as storm dave sweeps through the uk|6880c96e7ecfbbf95683313d664468e0
