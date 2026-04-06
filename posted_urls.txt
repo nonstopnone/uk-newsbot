@@ -1,4 +1,3 @@
-2026-03-30T09:21:51.201835+00:00|https://news.sky.com/story/discovery-offers-hope-to-children-with-rare-and-severe-epilepsy-13526005|discovery offers hope to children with rare and severe epilepsy|f6c758e7c6746aac3d110e9fde68f8f0
 2026-03-30T10:46:01.731942+00:00|https://news.sky.com/story/paintings-worth-millions-stolen-from-museum-in-italy-13526038|paintings worth millions stolen from museum in italy|8b8efdaf5a9dd44a0c520b768dfe9bb3
 2026-03-30T10:46:07.111938+00:00|https://www.bbc.com/news/articles/ckg02jl9ngpo|partner of crime boss steven lyons arrested in dubai|5041967c8e71e4c8121d74ab52b656be
 2026-03-30T10:46:12.499573+00:00|https://news.sky.com/story/im-a-florist-and-the-thing-everyone-does-to-preserve-their-flowers-is-a-complete-waste-of-time-13526037|im a florist and the thing everyone does to preserve their flowers is a complete waste of time|40c22d4741573cfe757720384433b43c
@@ -367,3 +366,6 @@
 2026-04-06T09:17:49.808471+00:00|https://www.bbc.com/news/articles/c5y9j02dvq5o|dont put off treatment during doctors strike nhs tells patients|89c8aa98547d00bfcfaa7ae8c5b0b98e
 2026-04-06T09:17:55.229129+00:00|https://www.bbc.com/news/articles/ckgedgdx72zo|new youth clubs for antisocial behaviour hotspots|8308b4e924df39f17a45de0337c3376f
 2026-04-06T09:18:00.880635+00:00|https://www.bbc.com/news/articles/cddqm316mvjo|missiles thrown at police as illegal rave halted|d2bb379cf8aee52a259d77c260876755
+2026-04-06T10:39:14.076473+00:00|https://www.bbc.com/news/articles/ckgxe1p28jpo|murder arrests after man dies outside cocktail bar|2aa9d5ef792f365fa25512a68fa51d7a
+2026-04-06T10:39:19.468733+00:00|https://news.sky.com/story/man-dies-after-attack-outside-bar-as-three-people-arrested-on-suspicion-of-murder-13528438|man dies after attack outside bar as three people arrested on suspicion of murder|ffcfa85b4268e29d8a1fa818d83d99e2
+2026-04-06T10:39:24.839225+00:00|https://news.sky.com/story/fifth-person-arrested-in-murder-investigation-after-pedestrian-hit-by-car-13528429|fifth person arrested in murder investigation after pedestrian hit by car|833944b3ad956661ec0875e94032f625
