@@ -1,5 +1,3 @@
-2026-03-30T21:23:44.414142+00:00|https://www.bbc.com/news/articles/c62kg3j4k7go|woman accused of helping group smuggle people on small boats to uk|a1104d2452288495b8d6854f4912efc6
-2026-03-30T21:23:49.820841+00:00|https://news.sky.com/story/former-police-inspector-guilty-of-sex-attacks-on-young-men-in-custody-13526234|former police inspector guilty of sex attacks on young men in custody|63601927576bc51e77bc733bee0b4f8f
 2026-03-30T22:04:57.697661+00:00|https://www.bbc.com/news/articles/cn8dv2ld42qo|new ferry to enter service but calmac vessel shortage still critical|84536b045af3c675b23200b146096103
 2026-03-30T23:46:40.890822+00:00|https://news.sky.com/story/starmer-issues-48-hour-ultimatum-over-reckless-doctors-strikes-13526295|pm issues 48hour ultimatum over reckless doctors strikes|a169e666fd8c15b12dc98f7f8f0a4c50
 2026-03-30T23:46:46.338457+00:00|https://news.sky.com/story/artemis-ii-countdown-begins-to-nasas-trip-around-the-moon-the-first-manned-mission-there-in-more-than-50-years-13526290|countdown begins to nasas historic moon mission|e47f59f7e786969ae4dbc00844475f41
@@ -346,3 +344,4 @@
 2026-04-06T20:24:33.198243+00:00|https://www.bbc.com/weather/articles/cn7866klrp2o|warmest weather of the year expected with 24c this week|2d508b45bd64265b132844e9de3d062c
 2026-04-06T21:06:56.259327+00:00|https://www.bbc.com/news/articles/cly6826p8j8o|holiday let owner says legislation will destroy me|1a39d8a793d92425177cec98f1aeea9c
 2026-04-06T21:07:01.719033+00:00|https://news.sky.com/story/wireless-festival-boss-says-kanye-west-will-still-headline-despite-abhorrent-comments-13528415|wireless festival boss defends decision to have kanye west headline and calls for rapper to be forgiven|6d664c698f63af8e5474588d89f3af26
+2026-04-06T21:52:55.027542+00:00|https://www.bbc.com/news/articles/c4gxz5zw348o|schools in knife crime hotspots to get specialist training|cca6264491cd65a94b58c27d32866347
