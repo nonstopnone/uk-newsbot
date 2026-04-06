@@ -363,3 +363,6 @@
 2026-04-06T12:38:02.279197+00:00|https://www.bbc.com/news/articles/cn0wxkzg0rjo|murder probe launched after much loved man found dead|8a2af9adb11539ca760c5ffdddbdaffa
 2026-04-06T12:38:07.920302+00:00|https://www.bbc.com/news/articles/cwywnkdn3zno|pressure mounts over kanye wests uk festival appearance|d0ebe67203b0bd9275f7897feacd5291
 2026-04-06T12:38:13.369543+00:00|https://www.bbc.com/news/articles/c625jp08zl1o|could saunas become the new pub when it comes to socialising|7600b7eccc9cc94f09b931e2b0f8a5ed
+2026-04-06T14:00:40.036706+00:00|https://news.sky.com/story/murder-investigation-launched-after-death-of-much-loved-man-in-glasgow-13528454|murder investigation launched as detectives piece together mans last movements|0e80f1242afb3b1965cc706f2d96f5b3
+2026-04-06T14:00:45.547294+00:00|https://www.bbc.com/news/articles/cx24jdnre75o|i learned korean to understand kpop|cb70143618d1eae13eab621697c6ef24
+2026-04-06T14:00:51.050899+00:00|https://news.sky.com/story/waitrose-employee-sacked-after-tackling-easter-egg-shoplifter-should-be-reinstated-tories-say-13528451|waitrose employee sacked after tackling easter egg shoplifter should be reinstated tories say|49a07671f536c1689bae6e026ee76e14
