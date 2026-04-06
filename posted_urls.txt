@@ -1,6 +1,3 @@
-2026-03-29T23:59:24.755074+00:00|https://www.bbc.com/news/articles/cy81e75vy7mo|the papers horror on the street and fears grow over shortages|9062afbcc82655de74614db2561dac86
-2026-03-30T03:33:07.322562+00:00|https://news.sky.com/story/our-daughter-was-killed-in-nursery-three-things-must-happen-to-ensure-theres-no-repeat-13525095|our daughter was killed in nursery three things must happen to ensure theres no repeat|234794883225f235ad0d24c0c360a654
-2026-03-30T03:33:12.739557+00:00|https://news.sky.com/story/warning-food-prices-are-set-to-spike-in-the-uk-due-to-iran-war-13525118|its a really serious situation warning food prices are set to spike in the uk|bc80fd5d32f112af3df5ede947a0ad82
 2026-03-30T05:52:06.169087+00:00|https://www.telegraph.co.uk/politics/0/live-event-the-daily-t-on-the-road|live event the daily t on the road|eab1a6473deaf9c1dd1833587364503b
 2026-03-30T05:52:11.537267+00:00|https://www.bbc.com/news/articles/c86e3dpj2d9o|i turned down mma fighter on a night out so he punched me|255f1ce4abcf4b599357ca1309820f13
 2026-03-30T05:52:16.946865+00:00|https://news.sky.com/story/australian-fugitive-dezi-freeman-accused-of-killing-police-officers-believed-to-have-been-shot-dead-13525963|fugitive accused of killing two police officers shot dead|19784cc0542731415f6fbc06fc00988e
@@ -374,3 +371,4 @@
 2026-04-05T23:18:39.721136+00:00|https://www.bbc.com/news/articles/cn085pdly86o|benefits and pensions rise as twochild cap ends|f6a59202fb20ca392d269f05aebd1db1
 2026-04-05T23:18:45.693025+00:00|https://www.bbc.com/news/articles/cedegj8v5yyo|paramedic recruitment freeze driving students abroad as ukwide impact expected|84b2869ca61d598a3605c98082f7c86b
 2026-04-05T23:59:13.829082+00:00|https://www.bbc.com/news/articles/c0lekzk59z5o|trumps expletiveladen tirade and us airmans got gun miracle escape|730cdc96f2717501d881786f1060ec88
+2026-04-06T03:35:36.138760+00:00|https://www.bbc.com/news/articles/c9d4g24y5x8o|two weeks will make such a difference uk first as ni brings in miscarriage leave|712dc81b05ac91d57671c9bc98c9eec9
