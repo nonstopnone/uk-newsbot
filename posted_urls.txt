@@ -1,10 +1,3 @@
-2026-03-30T11:58:13.642806+00:00|https://www.bbc.com/news/articles/c8r4gp71l5mo|pm launches labours local election campaign with focus on cost of living|4da129191b4d9b93bcc492c82bda219f
-2026-03-30T11:58:19.159426+00:00|https://news.sky.com/story/irans-allies-could-close-second-crucial-sea-route-with-clear-and-significant-impact-on-uk-13526029|irans allies could close second crucial sea route with clear and significant impact on uk|a1e4088e7acff0337480c8914b3126c6
-2026-03-30T11:58:24.532541+00:00|https://www.bbc.com/news/articles/cn89r8dy7m4o|sir billy connolly creates audio guide for kelvingrove museum|df5e3c35b280587aab89eade29bd388c
-2026-03-30T11:58:29.832468+00:00|https://news.sky.com/story/radio-2-dj-scott-mills-sacked-by-bbc-over-personal-conduct-13526018|radio 2 dj scott mills sacked by bbc|ed192798497ea4eff7cd154b0dc74531
-2026-03-30T11:58:35.117219+00:00|https://www.bbc.com/news/articles/ckge1yn50y8o|scott mills sacked from bbc radio 2 over personal conduct|d0c344bf173cc8ebbae589e355007ec0
-2026-03-30T11:58:40.439710+00:00|https://news.sky.com/story/russell-brand8217s-rape-trial-delayed-for-six-months-13526016|russell brands rape trial delayed for six months|138bfa7bb14dd587559a17d13cb27f19
-2026-03-30T11:58:45.796311+00:00|https://www.bbc.com/news/articles/czx94e7j5jpo|russia expels british diplomat over spying allegations|a3059264380767c45a9aedda18955e7b
 2026-03-30T15:14:54.000165+00:00|https://www.telegraph.co.uk/recommended/tech/best-white-noise-machine|i have tinnitus these white noise machines and apps helped me sleep with options for babies too|bf544e577bf7edd754778035b74eca6a
 2026-03-30T15:14:59.616980+00:00|https://news.sky.com/story/serial-abuser-handed-life-sentence-for-attacking-women-in-scottish-highlands-13526092|serial abuser handed life sentence for attacking women in scottish highlands|2b2cd5e8d372d5d92ccbb36b0dbeecf9
 2026-03-30T15:15:05.188661+00:00|https://www.bbc.com/news/articles/cge09xvp499o|arnold schwarzenegger awarded honorary degree in belfast|2f8612404008c088e54cc77106bedba7
@@ -366,3 +359,7 @@
 2026-04-06T10:39:19.468733+00:00|https://news.sky.com/story/man-dies-after-attack-outside-bar-as-three-people-arrested-on-suspicion-of-murder-13528438|man dies after attack outside bar as three people arrested on suspicion of murder|ffcfa85b4268e29d8a1fa818d83d99e2
 2026-04-06T10:39:24.839225+00:00|https://news.sky.com/story/fifth-person-arrested-in-murder-investigation-after-pedestrian-hit-by-car-13528429|fifth person arrested in murder investigation after pedestrian hit by car|833944b3ad956661ec0875e94032f625
 2026-04-06T11:36:27.934133+00:00|https://news.sky.com/story/body-found-in-cumbernauld-amid-search-for-man-who-disappeared-five-months-ago-13528433|body found in woods amid search for man who disappeared five months ago|db6c661f408c1ff88fd7077dce3b1c69
+2026-04-06T12:37:56.586833+00:00|https://news.sky.com/story/kim-jong-uns-teenage-daughter-could-be-considered-his-successor-seouls-spy-agency-reportedly-says-13528430|kim jong uns teenage daughter could be considered his successor|5f0e98c60a8bf2d423c7e06b813d492a
+2026-04-06T12:38:02.279197+00:00|https://www.bbc.com/news/articles/cn0wxkzg0rjo|murder probe launched after much loved man found dead|8a2af9adb11539ca760c5ffdddbdaffa
+2026-04-06T12:38:07.920302+00:00|https://www.bbc.com/news/articles/cwywnkdn3zno|pressure mounts over kanye wests uk festival appearance|d0ebe67203b0bd9275f7897feacd5291
+2026-04-06T12:38:13.369543+00:00|https://www.bbc.com/news/articles/c625jp08zl1o|could saunas become the new pub when it comes to socialising|7600b7eccc9cc94f09b931e2b0f8a5ed
