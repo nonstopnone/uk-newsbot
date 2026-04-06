@@ -1,7 +1,3 @@
-2026-03-30T10:46:01.731942+00:00|https://news.sky.com/story/paintings-worth-millions-stolen-from-museum-in-italy-13526038|paintings worth millions stolen from museum in italy|8b8efdaf5a9dd44a0c520b768dfe9bb3
-2026-03-30T10:46:07.111938+00:00|https://www.bbc.com/news/articles/ckg02jl9ngpo|partner of crime boss steven lyons arrested in dubai|5041967c8e71e4c8121d74ab52b656be
-2026-03-30T10:46:12.499573+00:00|https://news.sky.com/story/im-a-florist-and-the-thing-everyone-does-to-preserve-their-flowers-is-a-complete-waste-of-time-13526037|im a florist and the thing everyone does to preserve their flowers is a complete waste of time|40c22d4741573cfe757720384433b43c
-2026-03-30T10:46:17.869981+00:00|https://news.sky.com/story/campfire-and-barbeque-ban-to-come-into-force-at-cairngorms-national-park-this-week-13526024|campfire and barbeque ban to come into force at uks largest national park this week|6468383078171aaed0d320b7fff74aee
 2026-03-30T11:58:13.642806+00:00|https://www.bbc.com/news/articles/c8r4gp71l5mo|pm launches labours local election campaign with focus on cost of living|4da129191b4d9b93bcc492c82bda219f
 2026-03-30T11:58:19.159426+00:00|https://news.sky.com/story/irans-allies-could-close-second-crucial-sea-route-with-clear-and-significant-impact-on-uk-13526029|irans allies could close second crucial sea route with clear and significant impact on uk|a1e4088e7acff0337480c8914b3126c6
 2026-03-30T11:58:24.532541+00:00|https://www.bbc.com/news/articles/cn89r8dy7m4o|sir billy connolly creates audio guide for kelvingrove museum|df5e3c35b280587aab89eade29bd388c
@@ -369,3 +365,4 @@
 2026-04-06T10:39:14.076473+00:00|https://www.bbc.com/news/articles/ckgxe1p28jpo|murder arrests after man dies outside cocktail bar|2aa9d5ef792f365fa25512a68fa51d7a
 2026-04-06T10:39:19.468733+00:00|https://news.sky.com/story/man-dies-after-attack-outside-bar-as-three-people-arrested-on-suspicion-of-murder-13528438|man dies after attack outside bar as three people arrested on suspicion of murder|ffcfa85b4268e29d8a1fa818d83d99e2
 2026-04-06T10:39:24.839225+00:00|https://news.sky.com/story/fifth-person-arrested-in-murder-investigation-after-pedestrian-hit-by-car-13528429|fifth person arrested in murder investigation after pedestrian hit by car|833944b3ad956661ec0875e94032f625
+2026-04-06T11:36:27.934133+00:00|https://news.sky.com/story/body-found-in-cumbernauld-amid-search-for-man-who-disappeared-five-months-ago-13528433|body found in woods amid search for man who disappeared five months ago|db6c661f408c1ff88fd7077dce3b1c69
