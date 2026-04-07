@@ -1,11 +1,3 @@
-2026-03-31T21:50:48.175587+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/desserts/rhubarb-apple-raspberry-pudding-sour-cream-marmalade-sponge|rhubarb apple and raspberry pudding with sour cream and marmalade sponge|58696393d999108045b4cdb9516dfb79
-2026-03-31T21:50:54.639799+00:00|https://news.sky.com/story/man-charged-after-car-hit-pedestrians-in-derby-city-centre-13525748|man charged after car hit pedestrians in city centre|228355aea950cf73076741f692a441d6
-2026-03-31T21:51:00.039247+00:00|https://www.telegraph.co.uk/recipes/everyday/dinner/fish-with-turmeric-dill-and-coconut-recipe|fish with turmeric dill and coconut|fc9266d56ca783dc66aeec5e77eff374
-2026-03-31T21:51:05.344794+00:00|https://news.sky.com/story/police-given-stronger-powers-to-combat-public-sexual-harassment-13526452|police given stronger powers to combat public sexual harassment|1f1df06fa499f56194bfb1abb56f16eb
-2026-03-31T21:51:10.745005+00:00|https://www.telegraph.co.uk/recipes/everyday/vegetarian/persian-rice-dill-broad-beans-recipe|persian rice with dill and broad beans|efa0862c9e82d1fb56c143de1e14bacd
-2026-03-31T21:51:16.151395+00:00|https://www.telegraph.co.uk/recipes/everyday/pork/pork-chops-spring-onion-salad-korean-dipping-sauce-recipe|pork chops with spring onion salad and korean dipping sauce|7ab91d51c7c2bf5bd9a5fc57639e2f43
-2026-03-31T21:51:21.577179+00:00|https://www.telegraph.co.uk/football/2026/03/31/england-vs-japan-live-score-latest-updates-friendly-wembley|thomas tuchel shoehorns in the fun players and looks foolish|98bc6941fb4ce72c389fb04be53f9105
-2026-03-31T21:51:26.969711+00:00|https://www.telegraph.co.uk/recipes/entertaining/dinner-party/cauliflower-cheese-nutmeg-tart-diana-henry-recipe|roast cauliflower lancashire cheese and nutmeg tart|694995ee6981992f9e0bf0dcca12b721
 2026-03-31T22:41:27.954251+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/cakes/lemony-lemon-cake-recipe|very lemony lemon cake|1339f7f10caf7effc83f73256330db46
 2026-03-31T22:41:33.420039+00:00|https://www.bbc.com/news/articles/cwywd5ek9x9o|man charged after seven people hit by car in derby|89ca75476f3b9f1102de64fa737da3ce
 2026-03-31T22:41:38.954943+00:00|https://news.sky.com/story/us-army-suspends-helicopter-crews-that-flew-near-kid-rocks-home-13526628|army suspends helicopter crews that flew near kid rocks home|c576542d2ca2a099899e7480a1f44380
@@ -345,3 +337,6 @@
 2026-04-07T19:33:35.811581+00:00|https://www.bbc.com/news/videos/cx29p017449o|what do people think of kanye west being blocked from entering the uk|646baab3ac02ddf8898f351be3548446
 2026-04-07T20:26:57.912575+00:00|https://news.sky.com/story/hms-dragon-docks-with-minor-technical-issue-in-eastern-mediterranean-as-iran-war-escalates-13529035|hms dragon docks with minor technical issue as iran war escalates|6f9087ffba8ea3cfb1adb515368a0eaa
 2026-04-07T21:25:13.073756+00:00|https://news.sky.com/story/man-21-dies-after-being-stabbed-at-primrose-hill-viewpoint-13529075|man 21 dies after being stabbed at primrose hill viewpoint|7905b8cca2d1e83102fd0a0b161f972a
+2026-04-07T22:06:54.436555+00:00|https://www.bbc.com/news/articles/cy91p4qzn24o|family of onepunch attack victim fear £500k compensation could run out|f90227143d9eece1e3ca2075b5d67cd2
+2026-04-07T22:07:00.017617+00:00|https://www.telegraph.co.uk/football/2026/04/07/sporting-cp-lisbon-vs-arsenal-score-latest-updates-ucl-qf|supersub havertz strikes late as arsenal beat sporting cp in champions league|6034229b20c24a8dcfd67d0c94c8e327
+2026-04-07T22:07:05.556839+00:00|https://www.telegraph.co.uk/football/2026/04/07/real-madrid-vs-bayern-munich-live-score-champions-league|harry kane and trent alexanderarnold put on a show for thomas tuchel as bayern beat real|7f404d132f4762e5601e8e39d6354c94
