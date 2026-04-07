@@ -1,5 +1,3 @@
-2026-03-31T23:18:19.063463+00:00|https://www.bbc.com/news/articles/c87wpw7d880o|gp shocked by bowel cancer diagnosis at 49 urges changes to screening|4f9748c88e30237f8dec424fa0f19f7b
-2026-03-31T23:18:24.618073+00:00|https://news.sky.com/story/tiger-woods-stepping-away-for-treatment-after-not-guilty-plea-13526673|tiger woods stepping away for treatment after not guilty plea|48d3b8e97d58058c4316ead840bf67bd
 2026-04-01T00:00:01.616908+00:00|https://news.sky.com/story/shelly-kittleson-what-we-know-about-the-kidnapping-of-us-journalist-in-iraq-13526637|what we know about the kidnapping of us journalist in iraq|525ca86ed51dc9bf919efa4197d7041b
 2026-04-01T03:38:06.514308+00:00|https://www.bbc.com/news/articles/c1l9dmj7mplo|the papers trump tells uk go get your own oil and king sent to us|67ea59418a6af2b11617ee49ccc169d4
 2026-04-01T03:38:12.080208+00:00|https://www.bbc.com/news/articles/cz90595pgzlo|weightloss jabs will be offered on nhs for people at risk of further heart attacks|9bcd28309a8df49805308b4ca1338636
@@ -335,3 +333,6 @@
 2026-04-07T22:06:54.436555+00:00|https://www.bbc.com/news/articles/cy91p4qzn24o|family of onepunch attack victim fear £500k compensation could run out|f90227143d9eece1e3ca2075b5d67cd2
 2026-04-07T22:07:00.017617+00:00|https://www.telegraph.co.uk/football/2026/04/07/sporting-cp-lisbon-vs-arsenal-score-latest-updates-ucl-qf|supersub havertz strikes late as arsenal beat sporting cp in champions league|6034229b20c24a8dcfd67d0c94c8e327
 2026-04-07T22:07:05.556839+00:00|https://www.telegraph.co.uk/football/2026/04/07/real-madrid-vs-bayern-munich-live-score-champions-league|harry kane and trent alexanderarnold put on a show for thomas tuchel as bayern beat real|7f404d132f4762e5601e8e39d6354c94
+2026-04-07T23:51:49.429644+00:00|https://www.bbc.com/news/articles/c1kgz7pnwd8o|he stalked me but i was the one arrested|b287cb40ea3b5d87f189a3b870cfaaa1
+2026-04-07T23:51:54.876002+00:00|https://www.bbc.com/news/articles/c75k13wz6k2o|man 21 fatally stabbed at primrose hill|bc72c7189ac537e420cc5b251d0cd9be
+2026-04-07T23:52:00.211216+00:00|https://www.bbc.com/news/articles/cvgld1vjdewo|strictly star will not face rape charges police say|39b7ea0ff32cff4ee9410c4140e84fa3
