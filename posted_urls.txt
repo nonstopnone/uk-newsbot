@@ -1,11 +1,3 @@
-2026-03-31T15:47:34.291104+00:00|https://news.sky.com/story/england-cricketer-ben-duckett-fined-for-speeding-after-being-caught-driving-at-93mph-13526460|england cricket star fined for speeding at 93mph|7653df17cf9c4cacf5fe7a1179e06ce4
-2026-03-31T15:47:39.972698+00:00|https://www.bbc.com/news/articles/c7vq76g45rvo|more uk troops to be sent to middle east defence secretary announces|76200c59831ab6aafe6e7218636bc77b
-2026-03-31T15:47:45.543586+00:00|https://news.sky.com/story/owner-of-xl-bully-that-savaged-84-year-old-man-found-guilty-13524972|owner of xl bully that savaged 84yearold man found guilty|185b8be0e25b1e3d07675de48742ee6c
-2026-03-31T15:47:50.874340+00:00|https://www.bbc.com/news/articles/cg54v6y1en9o|bus firm alexander dennis to close falkirk site with loss of 115 jobs|c7683811275093def77626be7e41017a
-2026-03-31T15:47:56.258479+00:00|https://news.sky.com/story/ban-on-living-on-the-outer-chagos-islands-is-overturned-13526479|ban on living on the outer chagos islands is overturned|48ecdeba296ef99299a69266e6e8e51a
-2026-03-31T17:07:38.666506+00:00|https://www.bbc.com/news/articles/c3exveglpe3o|uk and france extend talks over new small boats deal|63a481e9f717d0a269420a867d706089
-2026-03-31T17:07:44.237633+00:00|https://news.sky.com/story/suspect-accused-of-murder-and-attempting-to-defeat-ends-of-justice-after-death-of-man-13526543|man appears in court charged with glasgow murder|fbaef675cc101da22ac7fd961a540434
-2026-03-31T17:07:49.827585+00:00|https://news.sky.com/story/roberto-de-zerbi-appointed-as-spurs-third-head-coach-of-season-13526533|spurs appoint third head coach of the season|a92fc05134ddded05dfdf0497aa6e993
 2026-03-31T18:07:31.867021+00:00|https://www.telegraph.co.uk/business/2026/03/31/oil-prices-iran-war-strait-hormuz-trump-ftse-100-markets|world recession warning as trump loses control of iran war|03c7cde8a91062a825375aa788666fe0
 2026-03-31T18:07:37.426572+00:00|https://www.bbc.com/news/articles/c5y8gdwqklxo|british billionaire to donate £190m to cambridge university|7bba9f24ecb133d02890260d6ce1aa9c
 2026-03-31T18:07:42.880999+00:00|https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551|what business cost increases are being introduced in april|39ec774576c7dd99570637ce425494fa
@@ -351,3 +343,9 @@
 2026-04-07T15:45:46.935403+00:00|https://www.bbc.com/news/articles/cly0922zj0vo|dad 84 under awful stress as sons care package set to end|222e63120b236d91e0e4bcf1ad64cb60
 2026-04-07T15:45:52.324329+00:00|https://news.sky.com/story/is-the-us-about-to-commit-war-crimes-in-iran-13528916|is the us about to commit war crimes in iran|9517546dcd36abfc67c221150556463e
 2026-04-07T15:45:57.663279+00:00|https://news.sky.com/story/ex-premier-league-footballer-joey-barton-denies-alleged-assault-outside-golf-club-13528963|expremier league footballer denies alleged assault outside golf club|95cddb5a3ccd682c3aa9546d9256bceb
+2026-04-07T17:10:04.637703+00:00|https://news.sky.com/story/scott-mills-stepping-back-from-ms-society-charity-role-after-bbc-sacking-13528995|scott mills stepping back from charity role after bbc sacking|63ae850047f590b24ea18018ab675b5f
+2026-04-07T17:10:09.936550+00:00|https://www.bbc.com/news/articles/cg54174pqjmo|almost a third of calmacs ferry fleet out of action|eee22cf49dc18962d1ec43ecc4f9d8f3
+2026-04-07T17:10:15.235847+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/bangladesh-measles-death-toll-surges-overwhelming-hospitals|measles death toll surges in bangladesh as outbreak overwhelms hospitals|1b3c71b2544d14d2395549b13cdd2d4a
+2026-04-07T17:10:20.647266+00:00|https://news.sky.com/story/wireless-festival-cancelled-after-kanye-west-blocked-from-entering-uk-13528975|music festival cancelled after kanye west blocked from entering uk|a853cd76d24b2f90a6cca899f25a1d1a
+2026-04-07T17:10:26.059330+00:00|https://www.telegraph.co.uk/business/2026/04/07/trump-iran-war-deadline-ftse-100-markets-oil-price-hormuz|borrowing costs jump as trump threatens to end irans whole civilisation|6985c15051689e12bcb1e8fa124382f6
+2026-04-07T17:10:31.389980+00:00|https://news.sky.com/story/train-driver-dead-and-16-injured-after-crash-with-lorry-carrying-military-equipment-13528973|train driver dead after crash with lorry carrying military equipment|d64e28dabcc0e4146b1a728d41ebc40d
