@@ -1,5 +1,3 @@
-2026-03-31T05:18:07.683529+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/tens-of-millions-face-hunger-poverty-in-wake-of-iran-war|why tens of millions face hunger and poverty in wake of trumps iran war|d7614f4933b55ee75fdfdb2c9cb843de
-2026-03-31T05:18:13.093328+00:00|https://www.bbc.com/news/articles/c3r3w0w1gepo|why the benefit used by over 8 million people may not be fit for the future|5a993193541508d6a47921ed2d29d36d
 2026-03-31T06:51:08.978840+00:00|https://www.bbc.com/news/articles/c2k3vezpwlko|police station target of serious security alert|2558ad021ec6a4e6038ca18dd92eab4e
 2026-03-31T08:12:02.951332+00:00|https://news.sky.com/story/grooming-gangs-inquiry-chair-promises-to-confront-uncomfortable-truths-13526226|grooming gangs inquiry chair promises to confront uncomfortable truths|5ec00b86774662b114a539c3cb13c92d
 2026-03-31T08:12:08.518968+00:00|https://www.bbc.com/news/articles/cwykq2lqjw7o|scott mills questioned by police in 2018 over sexual offence allegations against teenage boy|54eac2b9ba066ea89646b642f40a70da
@@ -344,3 +342,5 @@
 2026-04-07T04:06:21.101244+00:00|https://news.sky.com/story/uk-weather-warmest-start-to-april-in-six-years-possible-as-temperatures-climb-13528773|unusually warm temperatures are on the way but it isnt good news for everyone|f6718201fa07c8c23d1e9b6f1244caf7
 2026-04-07T04:06:26.449339+00:00|https://www.bbc.com/news/articles/czxr0nz43kwo|hundreds gather for dissident republican easter parade|03d95e13c11bfd3496f6a6e835e86c56
 2026-04-07T04:06:31.796677+00:00|https://news.sky.com/story/e-bike-and-e-scooter-fires-have-hit-a-record-high-this-is-why-13528772|ebike and escooter fires have hit a record high this is why|f83172d285efc9c69c53fffeb7d51b37
+2026-04-07T05:56:52.159841+00:00|https://www.bbc.com/news/articles/c0krn1m327jo|police shutting down illegal rave accused of unethical violence|c27041599014edd68dfa38365f54be8c
+2026-04-07T05:56:57.611935+00:00|https://www.bbc.com/news/articles/c70d8dn1nrpo|more than 1700 brits who fell ill in cape verde join action against tui|e35fb1355f71675b95bef4211850536b
