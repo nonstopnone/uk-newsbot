@@ -1,5 +1,3 @@
-2026-04-01T11:15:15.981361+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/explosive-measles-outbreak-kills-46-children-in-bangladesh|explosive measles outbreak kills 46 children in bangladesh|67e4eca9776e02762edb32e0538efeae
-2026-04-01T11:15:21.384502+00:00|https://news.sky.com/story/man-appears-in-court-after-seven-pedestrians-hit-by-car-in-derby-city-centre-13526732|man appears in court after pedestrians hit by car in derby city centre|238a8b3ae342f0383a3be0b6b1a1672d
 2026-04-01T12:05:02.213655+00:00|https://www.bbc.com/news/articles/cwywvrye76lo|bbc knew about scott mills sexual offences investigation in 2017|6b4cedbebe5005120f1ddde5f31f9373
 2026-04-01T12:05:07.633116+00:00|https://news.sky.com/story/three-more-people-arrested-over-arson-attack-on-golders-green-jewish-charity-ambulances-13526807|three more arrested over arson attack on jewish charity ambulances|8ad2c9c32367fe65b07196a6c6f12a44
 2026-04-01T12:05:13.188795+00:00|https://www.bbc.com/news/articles/c62l6w03lwzo|uk will seek closer ties with eu in light of iran war starmer says|864cef9fe707481fb032e5095a520f9b
@@ -341,3 +339,7 @@
 2026-04-08T11:07:00.169338+00:00|https://www.telegraph.co.uk/recipes/0/diana-henrys-potato-salad-recipe|jersey royal potato salad|e5952129db01cf0cf12c45281df39179
 2026-04-08T11:07:05.559233+00:00|https://news.sky.com/story/uk-weather-temperatures-set-to-reach-26c-but-cooler-conditions-on-the-way-13529222|uk temperatures to reach 26c before cooler weather arrives|ad7df244954c0ba5014a0265588f451d
 2026-04-08T11:07:10.869664+00:00|https://www.bbc.com/news/articles/ce35kly8xzyo|crime boss steven lyons deported from bali to amsterdam|4a8dbefa1abf4bcd89ef9b5fcf03c389
+2026-04-08T12:04:14.142670+00:00|https://www.bbc.com/news/articles/c3dln2e93ypo|bbc upholds complaints over racial slur in baftas broadcast|fd11caa6e29b4e7a8ffb1b21186bcc4f
+2026-04-08T12:04:19.542967+00:00|https://www.bbc.com/news/articles/clyrzrp0x5go|hospitals coping well with doctors strike so far nhs boss|47d31c6071cb2ad98f7434d7511653d7
+2026-04-08T12:04:24.934349+00:00|https://www.bbc.com/sport/horse-racing/articles/cwywnkgxv4xo|i am maximus heads grand national field|66d6f6da072acb0a20f64595315e8f31
+2026-04-08T12:04:30.298659+00:00|https://www.bbc.com/news/articles/cp86e1r7ljyo|sevenyearolds wish to own a library comes true|22b4f42020e9fff378140c4676075103
