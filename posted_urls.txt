@@ -1,8 +1,3 @@
-2026-04-01T10:11:18.190321+00:00|https://www.bbc.com/news/articles/c4g8epx01gqo|man appears in court after pedestrians hit by car in derby|d6384de2226a0275e6151e5a4f6d44d7
-2026-04-01T10:11:23.495599+00:00|https://news.sky.com/story/yellow-warning-for-strong-winds-issued-for-parts-of-uk-over-easter-weekend-13526777|warning of very strong winds issued for parts of uk over easter weekend|140fb736799cdf2ac5ecf209795d15fe
-2026-04-01T10:11:28.869946+00:00|https://www.bbc.com/news/articles/cdxdk4z717jo|carol kirkwood bids emotional farewell to bbc breakfast|455ad64520c2a7430215a5ebb6bad3c1
-2026-04-01T10:11:34.188461+00:00|https://news.sky.com/story/migrant-boat-sinks-off-turkish-coast-after-high-speed-chase-killing-18-13526742|migrant boat sinks off holiday resort after highspeed chase killing 18|06abc3bd9069f6a83067eb4b42718d1a
-2026-04-01T10:11:39.471105+00:00|https://www.bbc.com/news/articles/cn0yle5rrp8o|estate agents accuse rightmove of charging excessive fees|4f02ea9f650fbdc9ce21763c16ee2c9c
 2026-04-01T11:15:15.981361+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/explosive-measles-outbreak-kills-46-children-in-bangladesh|explosive measles outbreak kills 46 children in bangladesh|67e4eca9776e02762edb32e0538efeae
 2026-04-01T11:15:21.384502+00:00|https://news.sky.com/story/man-appears-in-court-after-seven-pedestrians-hit-by-car-in-derby-city-centre-13526732|man appears in court after pedestrians hit by car in derby city centre|238a8b3ae342f0383a3be0b6b1a1672d
 2026-04-01T12:05:02.213655+00:00|https://www.bbc.com/news/articles/cwywvrye76lo|bbc knew about scott mills sexual offences investigation in 2017|6b4cedbebe5005120f1ddde5f31f9373
@@ -341,3 +336,8 @@
 2026-04-08T09:46:20.261012+00:00|https://www.bbc.com/news/articles/c4gjp7xwjyzo|katie price banned from driving for seventh time|f4e4b54ca0e19959088d58cd4713acaf
 2026-04-08T09:46:25.812196+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/chipotle-griddled-chicken-avocado-chorizo-quinoa-lime-creme|chipotlegriddled chicken with avocado chorizo quinoa and lime creme fraiche|2495967b04fcc4355f3bc9a56c077057
 2026-04-08T09:46:31.367270+00:00|https://www.bbc.com/news/articles/crl124j92kko|man charged after viable device found in security alert|2475be344d2468882d1d5e598b4c6d8a
+2026-04-08T11:06:49.088686+00:00|https://news.sky.com/story/bbc-breached-editorial-standards-over-baftas-racial-slur-investigation-finds-13529270|bbc breached editorial standards over baftas racial slur|970a27c48209af66d62a48b844110304
+2026-04-08T11:06:54.462024+00:00|https://www.bbc.com/news/articles/cvgek88npppo|channel 4 scraps bake off episode starring scott mills|ee26ab2f7e67704aaea2bd38a615b364
+2026-04-08T11:07:00.169338+00:00|https://www.telegraph.co.uk/recipes/0/diana-henrys-potato-salad-recipe|jersey royal potato salad|e5952129db01cf0cf12c45281df39179
+2026-04-08T11:07:05.559233+00:00|https://news.sky.com/story/uk-weather-temperatures-set-to-reach-26c-but-cooler-conditions-on-the-way-13529222|uk temperatures to reach 26c before cooler weather arrives|ad7df244954c0ba5014a0265588f451d
+2026-04-08T11:07:10.869664+00:00|https://www.bbc.com/news/articles/ce35kly8xzyo|crime boss steven lyons deported from bali to amsterdam|4a8dbefa1abf4bcd89ef9b5fcf03c389
