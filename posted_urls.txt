@@ -1,5 +1,3 @@
-2026-04-01T07:44:38.769139+00:00|https://www.bbc.com/news/articles/c5yj634ml71o|my daughter has childhood dementia and may not live past 16|3f8503b5145af92e6b935c76f1c8093a
-2026-04-01T07:44:44.229592+00:00|https://www.telegraph.co.uk/football/2026/04/01/world-cup-2026-dates-format-tv-venue-tickets|world cup 2026 who qualified dates schedule and ticket details|a1f8e69e5531b2639adc9f3744656249
 2026-04-01T08:49:28.555644+00:00|https://www.bbc.com/news/videos/cp38qjvl7d5o|watch carol kirkwoods funniest moments on air|9bedb449e51f3f82bd928cdcee089a11
 2026-04-01T08:49:33.984289+00:00|https://news.sky.com/story/dwindling-diesel-and-jet-fuel-supplies-due-to-iran-war-prompt-warning-from-eu-as-return-to-2022-measures-considered-13526706|dwindling diesel and jet fuel supplies due to iran war prompt eu warning of shortages|25cd709fcd29a934a6e89c3f20fa9c63
 2026-04-01T08:49:39.450420+00:00|https://www.bbc.com/news/articles/cx2rxpegqn0o|dissident groups still have capacity and desire to attack police|0eceb105f4e01486201799085f23a544
@@ -338,3 +336,6 @@
 2026-04-08T06:57:18.519230+00:00|https://www.bbc.com/news/articles/cj0ve1006g9o|starmer to visit middle east after us and iran reach ceasefire deal|4207d3138ae88d39c03f60d96671ca8f
 2026-04-08T06:57:24.094557+00:00|https://news.sky.com/story/oil-prices-fall-sharply-after-trump-announces-two-week-iran-war-ceasefire-13529148|oil prices fall sharply after trump announces twoweek iran war ceasefire|e0d82acdf8e0290609a90f9d3ea2979e
 2026-04-08T06:57:29.662541+00:00|https://www.bbc.com/weather/articles/c9d46yx0ndwo|last day of unusually warm temperatures before cooler weather returns|97529c49ea9d0e4aea7a26d797c481ae
+2026-04-08T08:16:58.092371+00:00|https://www.bbc.com/news/articles/cj401ll8j5zo|uk house prices fall as iran war uncertainty dampens demand|2cbc76bb7a49b5e990da6aa8d544928c
+2026-04-08T08:17:03.473049+00:00|https://www.bbc.com/news/articles/ce3dxyl97eqo|arrest as £200k stolen from scouts trip fund|8afa7590a31cec46cf0420572de76260
+2026-04-08T08:17:08.842428+00:00|https://www.bbc.com/news/articles/c75k1z7k6ero|health service misogyny left me in serious pain|69f0faa0e07a6b227eb2639459302a73
