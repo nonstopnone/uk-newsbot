@@ -1,9 +1,3 @@
-2026-04-01T12:05:02.213655+00:00|https://www.bbc.com/news/articles/cwywvrye76lo|bbc knew about scott mills sexual offences investigation in 2017|6b4cedbebe5005120f1ddde5f31f9373
-2026-04-01T12:05:07.633116+00:00|https://news.sky.com/story/three-more-people-arrested-over-arson-attack-on-golders-green-jewish-charity-ambulances-13526807|three more arrested over arson attack on jewish charity ambulances|8ad2c9c32367fe65b07196a6c6f12a44
-2026-04-01T12:05:13.188795+00:00|https://www.bbc.com/news/articles/c62l6w03lwzo|uk will seek closer ties with eu in light of iran war starmer says|864cef9fe707481fb032e5095a520f9b
-2026-04-01T12:05:18.625761+00:00|https://news.sky.com/story/six-london-police-officers-investigated-after-boy-16-forced-off-e-bike-and-left-with-fractured-knee-13526789|six police officers under investigation after boy 16 forced off ebike|7a41727bf3d37079f34fb1798d81d3c7
-2026-04-01T12:05:24.030400+00:00|https://news.sky.com/story/two-arrested-after-crowds-of-young-people-swarm-london-high-street-in-social-media-flash-mob-13526755|two arrested after crowds flood high street in social media craze|2f8832dbd138a1577541484e763bf920
-2026-04-01T12:05:29.446527+00:00|https://news.sky.com/story/migrant-boat-sinks-off-turkish-coast-after-high-speed-chase-killing-19-13526742|migrant boat sinks off holiday resort after highspeed chase killing 19|9cfe758c576e7914a2b6d66eb4587b22
 2026-04-01T14:06:51.140252+00:00|https://news.sky.com/story/king-invited-to-address-congress-and-reaffirm-us-uk-alliance-during-state-visit-13526831|king invited to address congress and reaffirm usuk alliance during state visit|38b7b8edb79e6a6e99a48bef2bde8676
 2026-04-01T14:06:56.653439+00:00|https://www.bbc.com/news/articles/cm25yv7z3jko|girls arrested as online trends fuel disturbance|940c977ba304a2633e1fb77e42ff16eb
 2026-04-01T14:07:02.135557+00:00|https://www.telegraph.co.uk/racing/2026/4/01/grand-national-runners-riders-favourites-odds-2026|grand national runners favourites and odds for 2026 key horses to note|7477ac9e60e3b73cf5e7707ca598cb60
@@ -343,3 +337,10 @@
 2026-04-08T12:04:19.542967+00:00|https://www.bbc.com/news/articles/clyrzrp0x5go|hospitals coping well with doctors strike so far nhs boss|47d31c6071cb2ad98f7434d7511653d7
 2026-04-08T12:04:24.934349+00:00|https://www.bbc.com/sport/horse-racing/articles/cwywnkgxv4xo|i am maximus heads grand national field|66d6f6da072acb0a20f64595315e8f31
 2026-04-08T12:04:30.298659+00:00|https://www.bbc.com/news/articles/cp86e1r7ljyo|sevenyearolds wish to own a library comes true|22b4f42020e9fff378140c4676075103
+2026-04-08T14:03:40.267019+00:00|https://www.bbc.com/news/articles/c20zgjzz0e4o|will uk petrol and diesel prices start going down|aea6aedca82768485f29d4318e1ec08b
+2026-04-08T14:03:45.819817+00:00|https://www.bbc.com/news/articles/cy71e27k83po|murder arrest over businessmans death in 2004|378985d6ff518a2ba9dc5b5bf3792478
+2026-04-08T14:03:51.234325+00:00|https://www.bbc.com/news/articles/cx2e4eqqq7lo|church of england to apologise for role in historical forced adoption|2170d25b38e4986469221564f5254e70
+2026-04-08T14:03:56.655892+00:00|https://www.bbc.com/news/articles/c0q9p2ln35yo|murderaccused fugitive in court over fire deaths|7a37ed1613f886f1ea6092af88b3dfb6
+2026-04-08T14:04:02.082763+00:00|https://www.bbc.com/news/articles/c8dlr8j92p2o|home office sued over migrant sites contract bid|8ff9443b91680514875bdd35ad696247
+2026-04-08T14:04:07.483227+00:00|https://www.bbc.com/news/articles/c5ywlwj65n6o|dozens of ww2 phosphorus devices found at beach|cbb29fac2c56b81981f1f47252d2b6e9
+2026-04-08T14:04:12.875414+00:00|https://www.bbc.com/news/articles/cn08zw77139o|one of the uks prettiest shopping towns is feeling the pinch|cd42c283b8d415e0df219ac539f7c2ce
