@@ -1,6 +1,3 @@
-2026-04-01T08:49:28.555644+00:00|https://www.bbc.com/news/videos/cp38qjvl7d5o|watch carol kirkwoods funniest moments on air|9bedb449e51f3f82bd928cdcee089a11
-2026-04-01T08:49:33.984289+00:00|https://news.sky.com/story/dwindling-diesel-and-jet-fuel-supplies-due-to-iran-war-prompt-warning-from-eu-as-return-to-2022-measures-considered-13526706|dwindling diesel and jet fuel supplies due to iran war prompt eu warning of shortages|25cd709fcd29a934a6e89c3f20fa9c63
-2026-04-01T08:49:39.450420+00:00|https://www.bbc.com/news/articles/cx2rxpegqn0o|dissident groups still have capacity and desire to attack police|0eceb105f4e01486201799085f23a544
 2026-04-01T10:11:18.190321+00:00|https://www.bbc.com/news/articles/c4g8epx01gqo|man appears in court after pedestrians hit by car in derby|d6384de2226a0275e6151e5a4f6d44d7
 2026-04-01T10:11:23.495599+00:00|https://news.sky.com/story/yellow-warning-for-strong-winds-issued-for-parts-of-uk-over-easter-weekend-13526777|warning of very strong winds issued for parts of uk over easter weekend|140fb736799cdf2ac5ecf209795d15fe
 2026-04-01T10:11:28.869946+00:00|https://www.bbc.com/news/articles/cdxdk4z717jo|carol kirkwood bids emotional farewell to bbc breakfast|455ad64520c2a7430215a5ebb6bad3c1
@@ -339,3 +336,8 @@
 2026-04-08T08:16:58.092371+00:00|https://www.bbc.com/news/articles/cj401ll8j5zo|uk house prices fall as iran war uncertainty dampens demand|2cbc76bb7a49b5e990da6aa8d544928c
 2026-04-08T08:17:03.473049+00:00|https://www.bbc.com/news/articles/ce3dxyl97eqo|arrest as £200k stolen from scouts trip fund|8afa7590a31cec46cf0420572de76260
 2026-04-08T08:17:08.842428+00:00|https://www.bbc.com/news/articles/c75k1z7k6ero|health service misogyny left me in serious pain|69f0faa0e07a6b227eb2639459302a73
+2026-04-08T09:46:09.044635+00:00|https://www.bbc.com/news/articles/c0e7xr83j72o|four stabbed after disorder breaks out at railway station|f8b6bc370a3044fd360f1ad0ef91d30d
+2026-04-08T09:46:14.702305+00:00|https://www.telegraph.co.uk/racing/2026/04/08/grand-national-runners-riders-favourites-odds-2026|grand national runners favourites and odds for 2026 key horses to note|9ad2e90297dbbacd2e72d0ce9a94111b
+2026-04-08T09:46:20.261012+00:00|https://www.bbc.com/news/articles/c4gjp7xwjyzo|katie price banned from driving for seventh time|f4e4b54ca0e19959088d58cd4713acaf
+2026-04-08T09:46:25.812196+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/chipotle-griddled-chicken-avocado-chorizo-quinoa-lime-creme|chipotlegriddled chicken with avocado chorizo quinoa and lime creme fraiche|2495967b04fcc4355f3bc9a56c077057
+2026-04-08T09:46:31.367270+00:00|https://www.bbc.com/news/articles/crl124j92kko|man charged after viable device found in security alert|2475be344d2468882d1d5e598b4c6d8a
