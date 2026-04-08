@@ -1,7 +1,3 @@
-2026-04-01T03:38:06.514308+00:00|https://www.bbc.com/news/articles/c1l9dmj7mplo|the papers trump tells uk go get your own oil and king sent to us|67ea59418a6af2b11617ee49ccc169d4
-2026-04-01T03:38:12.080208+00:00|https://www.bbc.com/news/articles/cz90595pgzlo|weightloss jabs will be offered on nhs for people at risk of further heart attacks|9bcd28309a8df49805308b4ca1338636
-2026-04-01T03:38:17.514075+00:00|https://www.bbc.com/news/articles/c36r7jk6093o|pay rise for 27 million people as minimum wage increase comes into force|0d5f0354d80a8dba03f8ed666b2c223c
-2026-04-01T03:38:22.916488+00:00|https://www.bbc.com/news/articles/clyeke8z871o|from water to council tax how the bill rises and one drop affect you|711141bf95bff042444f3c38041bfb5a
 2026-04-01T05:48:19.710955+00:00|https://www.bbc.com/news/articles/cgk0d76yg8po|energy bill support would be based on household income reeves says|4d0f245db64a5045b99c90988ceb59b6
 2026-04-01T05:48:25.162786+00:00|https://news.sky.com/story/youngsters-incentivised-to-get-adhd-and-autism-diagnoses-13526679|youngsters incentivised to get adhd and autism diagnoses|f454ce8a076c963348b5c1f0c8eff9eb
 2026-04-01T05:48:30.574527+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/could-underwater-living-help-save-the-worlds-oceans|could underwater living help save the worlds oceans|fe30adba788f8d4ddab75d7f3721b72c
@@ -339,3 +335,5 @@
 2026-04-08T03:19:13.334539+00:00|https://news.sky.com/story/epstein-files-bill-gates-to-testify-before-congress-13529108|bill gates to testify before congress in epstein investigation|567e66157114195d1c103b71cd311101
 2026-04-08T03:19:18.753011+00:00|https://www.bbc.com/news/articles/cr413wnk3klo|the papers world holds its breath and no kan do|b3a21de5f512454a19d9a0cc4c032e2e
 2026-04-08T03:19:24.200013+00:00|https://news.sky.com/story/2026-scottish-parliament-election-key-challenges-next-holyrood-government-will-face-13526478|the key challenges the next scottish government will face|5e800fbed6b3807a7742e1722177ed04
+2026-04-08T05:27:17.506661+00:00|https://news.sky.com/story/has-trump-capitulated-13529128|trump steps back from the brink|40d936c591d6efa9b4cde241013afc7d
+2026-04-08T05:27:22.865335+00:00|https://news.sky.com/story/british-teen-dies-in-vietnam-13529126|british teen dies in vietnam|fa0234a5f2bfa1c8fdc32c79e489d74d
