@@ -1,4 +1,3 @@
-2026-04-01T00:00:01.616908+00:00|https://news.sky.com/story/shelly-kittleson-what-we-know-about-the-kidnapping-of-us-journalist-in-iraq-13526637|what we know about the kidnapping of us journalist in iraq|525ca86ed51dc9bf919efa4197d7041b
 2026-04-01T03:38:06.514308+00:00|https://www.bbc.com/news/articles/c1l9dmj7mplo|the papers trump tells uk go get your own oil and king sent to us|67ea59418a6af2b11617ee49ccc169d4
 2026-04-01T03:38:12.080208+00:00|https://www.bbc.com/news/articles/cz90595pgzlo|weightloss jabs will be offered on nhs for people at risk of further heart attacks|9bcd28309a8df49805308b4ca1338636
 2026-04-01T03:38:17.514075+00:00|https://www.bbc.com/news/articles/c36r7jk6093o|pay rise for 27 million people as minimum wage increase comes into force|0d5f0354d80a8dba03f8ed666b2c223c
@@ -336,3 +335,7 @@
 2026-04-07T23:51:49.429644+00:00|https://www.bbc.com/news/articles/c1kgz7pnwd8o|he stalked me but i was the one arrested|b287cb40ea3b5d87f189a3b870cfaaa1
 2026-04-07T23:51:54.876002+00:00|https://www.bbc.com/news/articles/c75k13wz6k2o|man 21 fatally stabbed at primrose hill|bc72c7189ac537e420cc5b251d0cd9be
 2026-04-07T23:52:00.211216+00:00|https://www.bbc.com/news/articles/cvgld1vjdewo|strictly star will not face rape charges police say|39b7ea0ff32cff4ee9410c4140e84fa3
+2026-04-08T03:19:07.863272+00:00|https://www.bbc.com/news/articles/c5y9lg10595o|tributes after british teenager dies while visiting vietnam|ff83bd43d35108461ec4d12d2d0f109b
+2026-04-08T03:19:13.334539+00:00|https://news.sky.com/story/epstein-files-bill-gates-to-testify-before-congress-13529108|bill gates to testify before congress in epstein investigation|567e66157114195d1c103b71cd311101
+2026-04-08T03:19:18.753011+00:00|https://www.bbc.com/news/articles/cr413wnk3klo|the papers world holds its breath and no kan do|b3a21de5f512454a19d9a0cc4c032e2e
+2026-04-08T03:19:24.200013+00:00|https://news.sky.com/story/2026-scottish-parliament-election-key-challenges-next-holyrood-government-will-face-13526478|the key challenges the next scottish government will face|5e800fbed6b3807a7742e1722177ed04
