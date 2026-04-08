@@ -1,9 +1,3 @@
-2026-04-01T17:40:53.137405+00:00|https://www.telegraph.co.uk/business/2026/04/01/iran-war-oil-price-trump-ftse-100-markets-inflation-rates|reeves backs north sea drilling|7dfdef78fcd62f453577635e66b59867
-2026-04-01T17:40:58.557173+00:00|https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925|chelsea reveal largest pretax loss in premier league history|39f586e0c2dec1bfe859d2af093c679f
-2026-04-01T17:41:03.876218+00:00|https://www.bbc.com/news/articles/c4gv7yj71llo|scott mills confirms he was investigated by police in first statement since sacking|666ac82cfa89fd42d3b5fa776c87f136
-2026-04-01T17:41:09.258821+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/water-wars-the-final-escalation|water wars the final escalation|3053586f7cdfbb3837dc84686a0e499c
-2026-04-01T18:39:46.313414+00:00|https://news.sky.com/story/police-probing-peter-mandelson-and-andrew-mountbatten-windsors-links-to-epstein-given-early-investigative-advice-13526945|police probing mandelson and andrew links to epstein given early investigative advice|0b3ab59cd0a584bf6e713e8855b81f65
-2026-04-01T18:39:51.621342+00:00|https://www.bbc.com/news/articles/c1krv2x1k4zo|hunt for gunman who fled on ebike after bristol shooting|1cd04dab228bd0e6d98fa9412a8e8142
 2026-04-01T19:46:26.348267+00:00|https://news.sky.com/story/trump-attends-supreme-court-hearing-on-birthright-citizenship-in-presidential-first-13526873|trump attends supreme court hearing on birthright citizenship in historic first|6796af1d29188bc8b0c71b969edce01b
 2026-04-01T19:46:31.744578+00:00|https://www.telegraph.co.uk/football/2026/04/01/bayern-munich-vs-manchester-united-live-score-womens-cl|manchester united fall short of womens champions league comeback against bayern munich|daa874c03dfa557cf77ed195c7d4c58c
 2026-04-01T19:46:37.135364+00:00|https://www.telegraph.co.uk/racing/0/marlborough-racing-tips-best-bets-todays-races|marlborough racing tips and best bets for todays races|e87a12f913d78bfb0ba4c4d0b3414801
@@ -332,3 +326,6 @@
 2026-04-08T15:47:42.669053+00:00|https://www.bbc.com/news/articles/c5ywpv1d4geo|why it could take months for fuel and food prices to return to normal|0c11898827b8bc04d68a374964a255d4
 2026-04-08T15:47:48.250554+00:00|https://www.bbc.com/news/articles/c0krp7vp26mo|cannabis farm discovered in stately home which once hosted the king|222652bd4dade9d3b9301717b9ebb2d1
 2026-04-08T17:13:26.651497+00:00|https://www.bbc.com/news/articles/cvg3kx8r139o|pastor charged after man drowned during baptism|50bb8b8b75e2b7a97a53300149a60fdf
+2026-04-08T18:41:20.768693+00:00|https://www.telegraph.co.uk/business/2026/04/08/oil-plunges-below-100-after-trump-announces-ceasefire|gas tumbles as qatar prepares to restart production|8c74c3284fcfe98374ce9ec82c4a9222
+2026-04-08T18:41:26.203123+00:00|https://www.bbc.com/news/articles/c78rzygn30jo|maritime drone sector to get £50m boost|b776515d31c0183a210fdb100c47f88c
+2026-04-08T18:41:31.643154+00:00|https://www.bbc.com/news/articles/c4gxkdeyk7ko|rspca says 250 dogs found crammed into one home|cf121fa26eccc5aa76970520b427f27a
