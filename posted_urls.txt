@@ -1,8 +1,3 @@
-2026-04-02T08:11:53.368949+00:00|https://www.bbc.com/news/articles/c4g0xl3enyjo|london pride boss sacked after allegedly spending donations on perfume|b6d6ee1076907a1b3cb29d3920a0056b
-2026-04-02T08:11:58.874360+00:00|https://news.sky.com/story/alleged-bondi-beach-gunman-loses-bid-to-suppress-his-familys-identities-13527085|alleged bondi beach gunman loses bid to suppress identities of family|37f056c5efc464d65df1eef9aa8b2331
-2026-04-02T08:12:04.234602+00:00|https://www.bbc.com/news/articles/c0mjrp4k0g7o|family find dead lambs in bag on country road|b888017f5b0126cb3c1f2117a897114a
-2026-04-02T08:12:09.612965+00:00|https://www.bbc.com/news/articles/cz6732p2vpjo|blind marathon runner to be guided by smart glasses|ecb309d98603c9cd47fac57dd4a2c580
-2026-04-02T08:12:15.038957+00:00|https://www.bbc.com/news/articles/cx2e7xxxx0qo|warm clothing handed out to detainees in cold court custody cells|77478a68732f4af67c7d8dd17698b37c
 2026-04-02T09:17:08.833789+00:00|https://news.sky.com/story/clear-market-uncertainty-despite-latest-trump-attempt-too-soothe-concerns-13527080|clear market uncertainty despite latest trump attempt too soothe concerns|0445f6b68ee9947c87351231093b8ad8
 2026-04-02T09:17:14.266491+00:00|https://www.bbc.com/news/articles/cx2d0md89v2o|uk to host talks on plan to reopen strait of hormuz|a9cbc59469e5c8df88373adc4343e341
 2026-04-02T09:17:19.806752+00:00|https://www.bbc.com/news/articles/cvgk5k7lkv0o|human wee made into fertiliser to help grow new forest|28194219c6229fb53c84895388495a51
@@ -317,3 +312,5 @@
 2026-04-09T06:58:09.105825+00:00|https://news.sky.com/story/the-young-military-leader-strengthening-relations-with-russia-and-china-13529478|democracy kills the young military leader strengthening relations with russia and china|90363517ec27db6eec25011bf67ca120
 2026-04-09T06:58:14.499000+00:00|https://www.bbc.com/news/articles/c0le75ddd6xo|dup mla stepping down due to significant mental health issues|3ecbf952e2d78af1f2120cbcc2ce1dfb
 2026-04-09T06:58:19.801401+00:00|https://www.bbc.com/news/articles/c04xg2xq9nno|titan of a man tributes to actor with mnd who played richard iii in wheelchair|16de29f868597a11c5166f0cfa33703f
+2026-04-09T08:24:02.592710+00:00|https://www.bbc.com/news/articles/cgmenyllyz7o|four people die in channel crossing attempt french authorities say|4ab4b08a7fda9f632101aeaabc88f086
+2026-04-09T08:24:07.947776+00:00|https://www.bbc.com/news/articles/cn78e1vzk5vo|bored retiree creates supersized household objects|cf14dbdd7c5def255bcbf45bc035197d
