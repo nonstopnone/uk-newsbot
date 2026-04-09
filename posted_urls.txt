@@ -1,9 +1,3 @@
-2026-04-02T16:31:51.625483+00:00|https://www.bbc.com/news/articles/c4gvd994x15o|prince william praises £20m milestone for bowelbabe fund|e9a4ba80279ed0f367310791a64f4e79
-2026-04-02T16:31:57.062564+00:00|https://news.sky.com/story/woman-dies-in-m23-collision-which-has-shut-motorway-near-gatwick-airport-13527293|woman dies in m23 collision which has shut motorway near gatwick airport|b58545d9dbc768622c4214d0aa82a045
-2026-04-02T16:32:02.788972+00:00|https://www.bbc.com/news/articles/ce9mx2ggdg3o|investigation into ivf clinics in northern cyprus after uk families given wrong sperm|1f17e443eaed2474f48b13533a06048e
-2026-04-02T16:32:08.100233+00:00|https://news.sky.com/story/police-appeal-for-letter-writer-13-years-after-mother-and-five-children-died-in-house-fire-13527245|police appeal for letter writer 13 years after mother and five children died in house fire|15c518af67e892a9fd61d6711728573c
-2026-04-02T16:32:13.430723+00:00|https://www.bbc.com/news/articles/cgqk718l4neo|fewer uk adults posting on social media ofcom finds|d38595a220a78b246265ecc3f4cf7dd6
-2026-04-02T16:32:18.863937+00:00|https://news.sky.com/story/storm-dave-met-office-names-latest-storm-as-it-warns-of-damaging-winds-and-disruptive-snow-over-easter-weekend-13527190|storm dave to bring 90mph winds to uk as forecasters warn of travel disruption|438fd3963a919420069ebb84f1707d8d
 2026-04-02T17:36:56.849743+00:00|https://news.sky.com/story/baby-in-buggy-shot-dead-in-suspected-new-york-gang-shooting-13527307|baby in buggy shot dead in suspected gang shooting|ab1cfd617669732087f3aee088482090
 2026-04-02T17:37:02.338422+00:00|https://www.telegraph.co.uk/business/2026/04/02/trump-speech-ftse-100-markets-oil-price-iran-war-hormuz|mortgage rates hit threeyear high as trump vows more strikes|94619af9931f09c2923a112e11c49a7a
 2026-04-02T17:37:07.843927+00:00|https://news.sky.com/story/police-bodycam-footage-shows-tiger-woods-arrest-13527301|police bodycam footage shows tiger woods arrest|9443a777fb9b54b268426d89e16bb7a1
@@ -299,3 +293,11 @@
 2026-04-09T14:15:34.065535+00:00|https://www.bbc.com/news/articles/cgqkl8j75k3o|man jailed after grooming girl he met on roblox|8edc23b4be918cdbdd6e3cbd5ec5d598
 2026-04-09T14:15:39.467956+00:00|https://news.sky.com/story/four-arrested-as-hundreds-of-suspected-stolen-phones-are-found-13529638|four arrested as hundreds of suspected stolen phones are found|ee9be21a2e73393f5a1d73a8bf918bda
 2026-04-09T14:15:44.865585+00:00|https://www.telegraph.co.uk/travel/cruises/articles/the-ultimate-guide-to-a-disney-cruise|five essential things to know before you board a disney cruise line ship|4d3ea72f64b023c390aa8052c5015bd9
+2026-04-09T17:32:34.393680+00:00|https://www.bbc.com/news/articles/cj6098jngryo|pub thief jailed over £22m fabergé theft|bc4df64b867ef64fe0370635023b2fc3
+2026-04-09T17:32:39.808602+00:00|https://www.telegraph.co.uk/business/2026/04/09/oil-spikes-as-cracks-emerge-in-iran-ceasefire|world economy faces growth shock imf warns|3a745ccc0f8b6058002ad9d9d5462ba7
+2026-04-09T17:32:45.257617+00:00|https://www.bbc.com/news/articles/cre13qn9z7do|uk says russia ran submarine operation over cables and pipelines|27f8430ff058d6a5ee6c1756b49e200a
+2026-04-09T17:32:50.591059+00:00|https://www.bbc.com/news/articles/clyd032ej70o|openai pauses uk data centre deal over energy costs and regulation|f529fd298e09d40bea71b0ec1fcfa2d2
+2026-04-09T17:32:55.929647+00:00|https://www.bbc.com/news/articles/c239egj4zzdo|cmat date cancelled at lido festival after park problems|5bcfb8d97af6f880262dbe0dc02420d7
+2026-04-09T17:33:01.286476+00:00|https://www.bbc.com/news/articles/c7471n0lm2vo|jo malone hopes sense will prevail in lawsuit over her name|9068d8058294747fe8449c5c18d2fa95
+2026-04-09T17:33:06.616899+00:00|https://www.bbc.com/news/articles/cq6j0rnvlzeo|petrol and diesel prices rise again as concerns grow over ceasefire|4ab00a5f6bfe63567f785289f5413b55
+2026-04-09T17:33:11.926494+00:00|https://www.bbc.com/news/articles/c625l7qen3jo|dogs doing really well after 250 found crammed in living room rspca says|2a7e68e7b25f61cd7fb964083d171e0e
