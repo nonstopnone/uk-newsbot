@@ -1,4 +1,3 @@
-2026-04-02T13:55:00.971087+00:00|https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss|Baby shot dead in pram in New York City, police say|9bdecb61fe056ff36f2acce282867c07
 2026-04-02T17:38:21.076372+00:00|https://news.sky.com/story/police-bodycam-footage-shows-tiger-woods-arrest-13527301|Police bodycam footage shows Tiger Woods' arrest|6e678a133bb1b471d77756c02869cda6
 2026-04-02T20:20:28.272978+00:00|https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss|Trump removes US Attorney General Pam Bondi|6c13d4aea228d5154d27309f4a495071
 2026-04-02T23:01:17.525314+00:00|https://news.sky.com/story/trumps-ballroom-gets-final-approval-days-after-judge-ordered-halt-to-construction-13527384|Trump's ballroom gets approval days after judge orders construction halt|994986e1a5daf88ace9f6c4df6a06ec2
@@ -29,3 +28,4 @@
 2026-04-08T19:47:15.491289+00:00|https://www.bbc.com/news/videos/cn89vd725ezo?at_medium=RSS&at_campaign=rss|Key moments in the Gilgo Beach serial killings case|b87802158c97063f7a99e6d43ae330d5
 2026-04-09T02:49:42.355530+00:00|https://news.sky.com/story/trump-hits-out-at-nato-after-meeting-alliance-chief-13529515|Trump hits out at NATO after meeting alliance chief|e21ccded1befa89e1a32b5a524636b6a
 2026-04-09T11:41:03.508573+00:00|https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&at_campaign=rss|Husband arrested over disappearance of Michigan woman in Bahamas|13b57a7eb6f64e4ff72989ec9788263d
+2026-04-09T14:31:24.326733+00:00|https://www.bbc.com/news/articles/cx2we6733jvo?at_medium=RSS&at_campaign=rss|Hawaii doctor found guilty of trying to kill wife on hike|8dd81a96f13d0dca4b95bcb083833cf4
