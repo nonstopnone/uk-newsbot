@@ -1,8 +1,3 @@
-2026-04-02T10:31:31.510702+00:00|https://news.sky.com/story/woman-88-dies-after-being-hit-by-lorry-in-largs-13527155|woman 88 dies after being hit by lorry|53d287437d53296ae3582fc70966d9a8
-2026-04-02T10:31:36.913910+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-london-theatre-shows-musicals-plays-tickets-family|the best childrens theatre shows to book for the year ahead|e338b929c6d8120e4c23993f019b85ed
-2026-04-02T10:31:42.181641+00:00|https://www.bbc.com/news/articles/c70kenjyjr8o|funeral director admits preventing 30 burials and theft|57530d91a83bb3fd2c40be2bf0df0d53
-2026-04-02T10:31:47.529877+00:00|https://news.sky.com/story/greek-island-of-crete-is-cloaked-by-saharan-dust-storm-turning-its-blue-skies-blood-red-13527132|holiday island is cloaked by saharan dust storm turning its blue skies blood red|6d5b9ae70136acdb062ce088cf95fb39
-2026-04-02T10:31:54.752706+00:00|https://news.sky.com/story/grenfell-survivors-call-reform-uk-housing-chiefs-comments-on-tragedy-deeply-dehumanising-13526842|reform uk housing chief sacked over deeply dehumanising grenfell comments|a5826ccf3c4daa42dc003a19797db48d
 2026-04-02T11:34:02.259265+00:00|https://www.bbc.com/news/articles/cvgke0qjn1yo|king and queen give away money in ancient easter tradition|361e7a3be3c5e6a005ff9c85cb28f520
 2026-04-02T11:34:07.635063+00:00|https://news.sky.com/story/met-office-names-latest-storm-forecasting-damaging-winds-and-disruptive-snow-13527190|met office names latest storm forecasting damaging winds and disruptive snow|b61feddad96f77f619264232f4a3b8b8
 2026-04-02T11:34:12.930117+00:00|https://www.bbc.com/news/articles/cy91xqxn2jdo|fewer heatrelated deaths in 2025 despite warmest summer|fb0ebb99c95fef330d9cb525c5cf829d
@@ -316,3 +311,5 @@
 2026-04-09T09:52:18.525890+00:00|https://www.telegraph.co.uk/fantasy-sports/fantasy-football/telegraph-fantasy-football-tips|telegraph fantasy football tips game week 31|dbf04bbf0043cbb71352402d1142b73e
 2026-04-09T09:52:23.832408+00:00|https://www.bbc.com/news/articles/cwywgegn2qyo|rave violence probe continues as suspects released|b1754c86999d26cee28087fe2130699c
 2026-04-09T09:52:29.225615+00:00|https://www.bbc.com/news/articles/cly05k592ryo|spanish police dismantle scottish drugs gang as crime boss arrested|d6f62f728a0cdc321d5f65430ec204c8
+2026-04-09T11:06:25.694325+00:00|https://www.bbc.com/weather/articles/cr51z6418z0o|rain wind and frost to follow uks warmest early april day in 80 years|268fd100f925953c57c3c19e0bd33696
+2026-04-09T11:06:31.100208+00:00|https://www.bbc.com/news/articles/cgmej4yz0gzo|i want my heart attack story to inspire people to live life|402da2ef479590480b2cd11d7c858e36
