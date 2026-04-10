@@ -1,4 +1,3 @@
-2026-04-03T22:15:52.788746+00:00|https://www.bbc.com/news/articles/c5y80nj5v50o|scotland braced for worst of storm dave with wind and snow warnings in place|f4828da5ddadeb6f6073dbd7bd646199
 2026-04-03T23:02:16.556577+00:00|https://www.bbc.com/news/articles/cp3lnld4lpzo|the most serious issue for schools whats being done about smartphones in class|da42cbcfefdd033d4ba9febd71bf8531
 2026-04-03T23:50:13.945586+00:00|https://news.sky.com/story/trump-proposes-historic-15trn-defence-budget-13527774|trump proposes historic $15trn defence budget|6fda7bca271dc2c051eddcf3e2e281af
 2026-04-03T23:50:19.370578+00:00|https://www.bbc.com/news/articles/cx2e7e90kneo|state pension age starts rising to 67 heres how much you get and when|a1549123c556ec29baea4d124aecc386
@@ -325,3 +324,5 @@
 2026-04-10T20:50:36.899309+00:00|https://news.sky.com/story/one-dead-and-dozens-injured-after-bus-carrying-british-tourists-crashes-in-canary-islands-13530225|one dead and 27 injured after bus carrying uk tourists crashes in canary islands|a11bedce1a82f8388ddfe7c2039e645f
 2026-04-10T21:48:42.347949+00:00|https://www.telegraph.co.uk/rugby-union/2026/04/10/bath-vs-northampton-live-score-latest-updates-champions-cup|bath strike late in pulsating champions cup victory over northampton|494e935def3e166cb4c94d698e7f9212
 2026-04-10T21:48:47.782989+00:00|https://news.sky.com/story/chagos-islands-deal-pulled-by-government-after-trump-brands-it-act-of-great-stupidity-13530280|chagos islands deal pulled by government after trump brands it act of great stupidity|a17014aadc8d843d5d91bc274bd56433
+2026-04-10T22:46:32.710739+00:00|https://www.bbc.com/news/articles/c705jy13yp9o|i shed my dad bod but a health company stole my photos to promote its business|0ced544924fb2ae3de42745f1fc252c3
+2026-04-10T22:46:38.022295+00:00|https://www.bbc.com/news/articles/crk1lv7n7kpo|we got legal threats for taking part in care home documentary|0baa83b8f7e7670cb142244c842c2d3c
