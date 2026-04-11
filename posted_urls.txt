@@ -1,5 +1,3 @@
-2026-04-04T14:00:42.479900+00:00|https://news.sky.com/story/alcatraz-trump-wants-152m-to-reopen-jail-as-state-of-the-art-8288prison-13527855|trump wants $152m to reopen alcatraz as stateoftheart prison|883baa55dec875bb7d5e744385065334
-2026-04-04T14:00:47.885958+00:00|https://www.bbc.com/news/articles/clyjrrl17j1o|fourth suspect arrested over jewish charity ambulance arson attack|d1d5a0a8965552524b5fc56e30c5c28d
 2026-04-04T14:53:19.123030+00:00|https://www.telegraph.co.uk/football/2026/04/04/man-city-vs-liverpool-live-fa-cup-quarter-final-score|slot taunted with sacked in the morning chants as liverpool demolished by city|458e86b385435dc1642f42ea34b2c31b
 2026-04-04T14:53:24.564289+00:00|https://news.sky.com/story/arrests-made-after-teenager-killed-in-crash-in-flitwick-13527890|arrests made after teenager killed in crash|382470878d4a9b43d10163688d2ee690
 2026-04-04T14:53:30.025356+00:00|https://news.sky.com/story/12-year-old-arrested-over-death-of-girl-hit-in-head-with-metal-water-bottle-at-school-13527803|12yearold arrested over death of girl hit in head with metal water bottle at school|a9c34025657943b38141110fdf249086
@@ -328,3 +326,6 @@
 2026-04-11T12:01:52.495194+00:00|https://www.bbc.com/news/articles/c8r4mvyrdl3o|eamonn holmes recovering in hospital after stroke|ca4053df82c535c73806b599425399db
 2026-04-11T13:31:58.063102+00:00|https://www.bbc.com/news/articles/cew78nrdykqo|woman 19 killed in dog attack at house|fbc150121c793f040a9f3279172c334f
 2026-04-11T13:32:03.493298+00:00|https://news.sky.com/story/two-men-arrested-over-fatal-stabbing-of-21-year-old-in-londons-primrose-hill-13530434|two men arrested over fatal stabbing of 21yearold in londons primrose hill|4697854d1178d4045ef872f5b41eb8a2
+2026-04-11T14:23:26.960424+00:00|https://news.sky.com/story/police-review-complaint-about-reform-uks-free-energy-bills-competition-13530419|police review complaint about reform uks free energy bills competition|a7053c6e67b32ff6b94c889357e0d6cd
+2026-04-11T14:23:32.243871+00:00|https://www.telegraph.co.uk/racing/2026/04/11/grand-national-runners-guide-favourites-odds-2026|grand national runners and riders 2026 full horse guide|f6b2414dc9f9cc4505d16a242590d64b
+2026-04-11T14:23:38.020918+00:00|https://www.telegraph.co.uk/football/2026/04/11/arsenal-vs-bournemouth-live-score-updates-premier-league|arsenal booed off after bournemouth defeat sets off alarm bells for arteta|cf70df792dc525c34b03af099587cabf
