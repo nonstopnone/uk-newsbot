@@ -322,3 +322,7 @@
 2026-04-11T09:10:59.696061+00:00|https://www.bbc.com/news/articles/cg73vm8yzv2o|energy bills are set to rise but not just due to the iran war|92cf54f8e17f005bab1054204731cfc5
 2026-04-11T09:58:11.244615+00:00|https://www.bbc.com/news/articles/c9wqx1w82reo|james bulgers grave vandalised for second time|a54e50b33664757faa1f2d09c77b6454
 2026-04-11T09:58:16.623533+00:00|https://www.bbc.com/weather/articles/cgqkzw8plzpo|wind and showers return this weekend as temperatures tumble|baaba43084e6e18d7fe647ba645c4be6
+2026-04-11T10:49:26.648815+00:00|https://www.bbc.com/news/articles/c17vz9d905qo|murder arrest over fatal primrose hill stabbing|c6311ab385fcb7745a2d1959688f727c
+2026-04-11T10:49:32.153638+00:00|https://www.bbc.com/news/articles/cy519pv15lyo|man charged over deaths of four people who drowned crossing channel|8f17a4073d55ffc062d7e0752dd2a7f8
+2026-04-11T10:49:37.594613+00:00|https://www.bbc.com/news/articles/c62lw098gj5o|welcome to wrexham streaming series renewed for three more seasons|c118e20bab71c8564aa60dc91aa71327
+2026-04-11T10:49:43.062540+00:00|https://www.bbc.com/news/articles/cqxlyepd09no|nhs to offer second dose of menb vaccine after kent outbreak|dae439038836f72f9d7fdab24791af48
