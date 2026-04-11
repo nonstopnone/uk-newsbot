@@ -1,6 +1,3 @@
-2026-04-04T13:11:52.842971+00:00|https://www.bbc.com/news/articles/cg40xx110peo|amber wind warning issued as storm dave set to hit parts of uk|01dac7bae647666142fb0b8c4a8edba2
-2026-04-04T13:11:58.278245+00:00|https://www.bbc.com/news/articles/c2k31510y7xo|worlds only fullscale jaws boat replica to open|86eed7bec2b2b8dc49517db7b6c90216
-2026-04-04T13:12:03.633665+00:00|https://www.bbc.com/news/articles/c3dlp4k41g2o|homes without water for third day after burst pipe|8d6d8eee71b3786c01a63d8fc204f308
 2026-04-04T14:00:42.479900+00:00|https://news.sky.com/story/alcatraz-trump-wants-152m-to-reopen-jail-as-state-of-the-art-8288prison-13527855|trump wants $152m to reopen alcatraz as stateoftheart prison|883baa55dec875bb7d5e744385065334
 2026-04-04T14:00:47.885958+00:00|https://www.bbc.com/news/articles/clyjrrl17j1o|fourth suspect arrested over jewish charity ambulance arson attack|d1d5a0a8965552524b5fc56e30c5c28d
 2026-04-04T14:53:19.123030+00:00|https://www.telegraph.co.uk/football/2026/04/04/man-city-vs-liverpool-live-fa-cup-quarter-final-score|slot taunted with sacked in the morning chants as liverpool demolished by city|458e86b385435dc1642f42ea34b2c31b
@@ -329,3 +326,5 @@
 2026-04-11T11:37:21.534126+00:00|https://www.telegraph.co.uk/racing/2026/04/11/grand-national-runners-favourites-odds-2026|grand national runners riders and odds for 2026 all horses for todays aintree race|b4d86050987e5f8eee9182647dce6a74
 2026-04-11T11:37:27.102610+00:00|https://www.bbc.com/news/articles/c0e7rpjqw5po|hundreds of irish petrol stations run out of fuel as protests continue|89c4e146830efc52a61c10388ff1ebe6
 2026-04-11T12:01:52.495194+00:00|https://www.bbc.com/news/articles/c8r4mvyrdl3o|eamonn holmes recovering in hospital after stroke|ca4053df82c535c73806b599425399db
+2026-04-11T13:31:58.063102+00:00|https://www.bbc.com/news/articles/cew78nrdykqo|woman 19 killed in dog attack at house|fbc150121c793f040a9f3279172c334f
+2026-04-11T13:32:03.493298+00:00|https://news.sky.com/story/two-men-arrested-over-fatal-stabbing-of-21-year-old-in-londons-primrose-hill-13530434|two men arrested over fatal stabbing of 21yearold in londons primrose hill|4697854d1178d4045ef872f5b41eb8a2
