@@ -1,5 +1,3 @@
-2026-04-04T09:55:21.536840+00:00|https://www.bbc.com/news/articles/cpd5j4lnnq0o|teachers union warns of masculinity crisis brewing in schools|36660849be5d56f2b28261908eb682d1
-2026-04-04T09:55:26.927569+00:00|https://www.bbc.com/news/articles/c62jw8xgv0lo|nine officers and child injured in disorder before football match|a87e04247b7380b9efff09a13db014e1
 2026-04-04T13:11:52.842971+00:00|https://www.bbc.com/news/articles/cg40xx110peo|amber wind warning issued as storm dave set to hit parts of uk|01dac7bae647666142fb0b8c4a8edba2
 2026-04-04T13:11:58.278245+00:00|https://www.bbc.com/news/articles/c2k31510y7xo|worlds only fullscale jaws boat replica to open|86eed7bec2b2b8dc49517db7b6c90216
 2026-04-04T13:12:03.633665+00:00|https://www.bbc.com/news/articles/c3dlp4k41g2o|homes without water for third day after burst pipe|8d6d8eee71b3786c01a63d8fc204f308
@@ -322,3 +320,5 @@
 2026-04-11T09:10:48.868186+00:00|https://www.bbc.com/news/articles/c4gjlep7ed0o|our rural dream is under threat from a huge battery storage plant|d5628165e4feb38e8d80f786d66bf5bc
 2026-04-11T09:10:54.294302+00:00|https://www.bbc.com/news/articles/c93eqg4l05no|meet the kids hoping to become european cupstacking champions|a6d4c1508d0ead337e97d6892679f1f7
 2026-04-11T09:10:59.696061+00:00|https://www.bbc.com/news/articles/cg73vm8yzv2o|energy bills are set to rise but not just due to the iran war|92cf54f8e17f005bab1054204731cfc5
+2026-04-11T09:58:11.244615+00:00|https://www.bbc.com/news/articles/c9wqx1w82reo|james bulgers grave vandalised for second time|a54e50b33664757faa1f2d09c77b6454
+2026-04-11T09:58:16.623533+00:00|https://www.bbc.com/weather/articles/cgqkzw8plzpo|wind and showers return this weekend as temperatures tumble|baaba43084e6e18d7fe647ba645c4be6
