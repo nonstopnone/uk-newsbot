@@ -1,6 +1,3 @@
-2026-04-05T14:22:15.381903+00:00|https://www.bbc.com/news/articles/cvg0ng23dv2o|families left homeless as tree falls into houses during storm daves winds|bceebaee6fbb9c266e287ab6930f5e3e
-2026-04-05T14:22:20.818148+00:00|https://www.bbc.com/news/articles/c3v63vwz0x4o|man charged with riotous behaviour after football match disorder|f8453753396e258776093d8be127dccc
-2026-04-05T14:22:26.241366+00:00|https://www.bbc.com/news/articles/cn43le7y7kyo|i bought the theme park i loved growing up|dbe58f4d605fab27d3a3e1bd7801e1aa
 2026-04-05T15:48:36.983471+00:00|https://news.sky.com/story/explosives-with-devastating-power-found-near-pipeline-supplying-russian-gas-to-hungary-and-serbia-13528189|devastating explosives found near pipeline supplying russian gas to hungary and serbia|3ec8e72cc68cda795212ddcdc4acb859
 2026-04-05T16:46:21.956394+00:00|https://www.bbc.com/news/articles/cx29jypzrxjo|man 20 dies in traffic collision near dervock|d38a8cc076303b86be18525c7d3e929a
 2026-04-05T17:38:59.665963+00:00|https://news.sky.com/story/family-of-13-year-old-boy-killed-in-flitwick-crash-utterly-devastated-as-two-people-charged-13528262|family of 13yearold boy who died in crash utterly devastated as man and woman charged|b71554f57e213bbcfc6c5f1ff0b7e515
@@ -327,3 +324,5 @@
 2026-04-12T13:16:52.749766+00:00|https://www.bbc.com/news/articles/crk18mke8gjo|woman raped by several men outside church|5cd32332cea06f6869696e755fc5f1aa
 2026-04-12T14:10:11.119394+00:00|https://www.bbc.com/news/articles/cddqn72l1n9o|streeting denies changing pay deal for resident doctors|2b09e7542923e6f134c546c52ee73c76
 2026-04-12T14:10:16.689872+00:00|https://www.bbc.com/news/articles/cwyx94488wqo|two in hospital after bus crashes down embankment on a9|86b1374ec82ac6b58c311d1b927b1577
+2026-04-12T14:58:31.961873+00:00|https://www.bbc.com/news/articles/cx2e8kj3yn4o|four arrested over murder of scottish businessman in kenya|af2a3bd9a6769f36d343bc00ac8afb60
+2026-04-12T14:58:37.365246+00:00|https://www.bbc.com/news/articles/cwyd87y97ewo|welsh election not about independence plaid cymru candidate says|f4ca84435b71ae41d8f77ad07619ae7c
