@@ -1,6 +1,3 @@
-2026-04-05T10:49:21.899716+00:00|https://news.sky.com/story/german-men-could-require-military-permission-to-leave-country-for-more-than-three-months-13528140|german men could require military permission to leave country for more than three months|624e78a7e6eb8081425469205ccce3e2
-2026-04-05T10:49:27.515334+00:00|https://www.bbc.com/news/articles/cn4v3ex0k19o|two arrested after man dies in suspected hitandrun|f64d3215af6d1a78f56e48ef0d670fe3
-2026-04-05T10:49:32.914078+00:00|https://www.bbc.com/news/articles/c80md8v473do|royals gather for windsor easter sunday service|39a5b60669bed4202e26b2d016acae1e
 2026-04-05T11:37:04.061377+00:00|https://www.bbc.com/news/articles/cn8j3y2mr91o|is taking your cat for a walk good for them or just good for tiktok|d4195ef3d8e342864d5ceea483aa45ac
 2026-04-05T11:37:09.437903+00:00|https://news.sky.com/story/two-more-people-arrested-on-suspicion-of-murder-after-14-year-old-boy-shot-dead-in-london-13528157|two more people arrested on suspicion of murder after 14yearold boy shot dead in london|9f8d463d57f8bf6680879b9da5daa981
 2026-04-05T12:00:37.940229+00:00|https://www.bbc.com/news/articles/czx9yzz01veo|water supply issues resolved after three days|9d512957b3a79e6fc25393f48e8ee110
@@ -327,3 +324,5 @@
 2026-04-12T03:47:42.224587+00:00|https://www.bbc.com/news/articles/cn0wywl5dx2o|the papers le humiliation and us and iran start historic peace talks|88fd2f578b206e99a0d226d36ca113dc
 2026-04-12T05:58:37.558059+00:00|https://news.sky.com/story/hungary-goes-to-the-polls-as-its-hardman-leader-faces-end-of-his-16-year-reign-13530836|hungary goes to the polls as its hardman leader faces end of his 16year reign|88dd4baa65c313cb52d398eca5bac995
 2026-04-12T10:24:42.161796+00:00|https://www.bbc.com/news/articles/c3dlmdl1v57o|usiran talks ending without deal disappointing streeting says|4f5ef8730ec673f4af5891cebe99e77c
+2026-04-12T11:08:32.404886+00:00|https://www.bbc.com/news/articles/c79jr971p5do|woman killed in dog attack at house named locally|c59aed1a25d99520f6bdcfdd505246ab
+2026-04-12T11:08:37.802035+00:00|https://news.sky.com/story/china-unveils-measures-to-improve-ties-with-taiwan-after-visit-by-opposition-leader-13530870|china unveils measures to improve ties with taiwan after visit by opposition leader|edd996c92410423fb47f20032a5cfb2a
