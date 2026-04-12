@@ -326,3 +326,5 @@
 2026-04-12T14:10:16.689872+00:00|https://www.bbc.com/news/articles/cwyx94488wqo|two in hospital after bus crashes down embankment on a9|86b1374ec82ac6b58c311d1b927b1577
 2026-04-12T14:58:31.961873+00:00|https://www.bbc.com/news/articles/cx2e8kj3yn4o|four arrested over murder of scottish businessman in kenya|af2a3bd9a6769f36d343bc00ac8afb60
 2026-04-12T14:58:37.365246+00:00|https://www.bbc.com/news/articles/cwyd87y97ewo|welsh election not about independence plaid cymru candidate says|f4ca84435b71ae41d8f77ad07619ae7c
+2026-04-12T15:48:30.402896+00:00|https://www.telegraph.co.uk/cycling/2026/04/12/paris-roubaix-2026-live-latest-updates-pogacar-van-der-poel|wout van aert wins parisroubaix stopping tadej pogacar from making history|fa6eecadd10f4e2ed2d08207ad6646f6
+2026-04-12T15:48:35.965646+00:00|https://www.telegraph.co.uk/football/2026/04/12/crystal-palace-newcastle-mateta-howe-penalty-osula-europe|late mateta winner piles pressure on eddie howe at newcastle|f0b96d60cf01712b4c280be142310a9d
