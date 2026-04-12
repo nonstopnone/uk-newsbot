@@ -331,3 +331,7 @@
 2026-04-12T19:23:10.871807+00:00|https://www.bbc.com/news/articles/cvg03lly7w7o|motorcycle rider dies during race competition|1c62bfc4b1d4bb3ec871fbabda085dce
 2026-04-12T20:53:54.788060+00:00|https://news.sky.com/story/unauthorised-traveller-sites-trigger-legal-challenges-by-councils-13530925|unauthorised traveller sites trigger legal challenges by councils|762ec2088b18efe1dd772253aaac6ba9
 2026-04-12T20:54:00.188101+00:00|https://www.bbc.com/news/articles/c0lenp4r70eo|cold sore virus left mum with brain damage|85539a449d2019a6fc64d55502144512
+2026-04-12T21:41:54.044294+00:00|https://news.sky.com/story/high-sugar-and-deep-fried-foods-off-the-menu-in-schools-in-government-bid-to-tackle-childhood-obesity-13530966|highsugar and deepfried foods off the menu in schools in government bid to tackle childhood obesity|befcd07973c8462135cbb5a5fd2c683b
+2026-04-12T21:42:00.672451+00:00|https://www.bbc.com/news/articles/c3v6n7wqd07o|paddington musical dominates olivier awards|5d9195ef48e899c9773c3e4b00745053
+2026-04-12T21:42:05.965248+00:00|https://www.bbc.com/news/articles/cm2r89y9n3go|swinney says scottish independence referendum could be held in 2028|da79af90cd12e63ef38e82af76f63c8e
+2026-04-12T21:42:11.437175+00:00|https://www.bbc.com/news/articles/c8r402zz2gpo|tom hiddleston cate blanchett and paddington walk oliviers red carpet|43717698bd56b7a20808fd5c42c02a7f
