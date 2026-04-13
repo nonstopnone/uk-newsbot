@@ -1,4 +1,3 @@
-2026-04-06T21:52:55.027542+00:00|https://www.bbc.com/news/articles/c4gxz5zw348o|schools in knife crime hotspots to get specialist training|cca6264491cd65a94b58c27d32866347
 2026-04-06T22:45:25.649519+00:00|https://www.bbc.com/news/articles/c2d80457d1ro|womans ordeal after abduction and rape by fake taxi driver|b27ceea0380fe4311013a37bf754d161
 2026-04-06T23:43:24.429171+00:00|https://www.bbc.com/news/articles/c624n11yqpgo|the papers doctors hold patients hostage and the whole of the moon|b313905351df0e8b28a4569ba6072ed1
 2026-04-06T23:43:29.899282+00:00|https://www.bbc.com/news/articles/c070v00xzl5o|call for parents to teach online privacy like road safety|8ba823e984e8630fec7a3d67f47f2ed0
@@ -344,3 +343,7 @@
 2026-04-13T20:09:57.527701+00:00|https://www.bbc.com/news/articles/c0rxj4yygdwo|pm embraces brexit divisions as he seeks closer ties with europe|17ce21d2e0b07d150b66c4981048a5b7
 2026-04-13T20:10:03.081806+00:00|https://www.bbc.com/sport/football/articles/cj40qw1ennwo|how crucial is 99cap walsh to the lionesses|544dce2b6a07ffa61c8cd1523e5b83b7
 2026-04-13T21:09:56.560436+00:00|https://www.bbc.com/news/articles/c0e75282xn8o|man 74 dies after being hit by car in broughty ferry|a3d756b8d73338b1e0ccb0950a95e3be
+2026-04-13T22:04:36.968938+00:00|https://www.telegraph.co.uk/football/2026/04/13/man-utd-vs-leeds-live-score-latest-premier-league-updates|leeds stun harebrained united at old trafford to boost survival hopes|89143b6fd3f4907bb26dfd7a1e243d51
+2026-04-13T22:04:42.489591+00:00|https://www.bbc.com/news/articles/ckg0kelq9x5o|the small town hoping to stop its young people leaving|e80783a7ee685e24d0416e3ad907c3a6
+2026-04-13T22:04:48.005052+00:00|https://www.bbc.com/news/articles/ce9m47y1ez2o|chagos deal paused due to trump opposition minister confirms|ff6125e7b8c237599e49f922dd7a4ca0
+2026-04-13T22:04:53.492715+00:00|https://www.bbc.com/news/articles/c2lw08ezekzo|why one school has banned phones for some pupils but not others|0849bd4ab2e9ee6b70cc31baf53617a7
