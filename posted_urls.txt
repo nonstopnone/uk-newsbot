@@ -1,8 +1,3 @@
-2026-04-06T09:17:38.825737+00:00|https://news.sky.com/story/savannah-guthrie-to-return-to-today-show-for-first-time-since-her-mothers-disappearance-13528386|savannah guthrie to return to today show for first time since mothers disappearance|55d2dbf227e3688ff26cb2b3bc0d4fd3
-2026-04-06T09:17:44.397795+00:00|https://www.bbc.com/news/articles/cddqm31dvq2o|snp chief told of linden complaints 10 years ago says exofficial|e17eb79b9a3afad4c357193cac761f1c
-2026-04-06T09:17:49.808471+00:00|https://www.bbc.com/news/articles/c5y9j02dvq5o|dont put off treatment during doctors strike nhs tells patients|89c8aa98547d00bfcfaa7ae8c5b0b98e
-2026-04-06T09:17:55.229129+00:00|https://www.bbc.com/news/articles/ckgedgdx72zo|new youth clubs for antisocial behaviour hotspots|8308b4e924df39f17a45de0337c3376f
-2026-04-06T09:18:00.880635+00:00|https://www.bbc.com/news/articles/cddqm316mvjo|missiles thrown at police as illegal rave halted|d2bb379cf8aee52a259d77c260876755
 2026-04-06T10:39:14.076473+00:00|https://www.bbc.com/news/articles/ckgxe1p28jpo|murder arrests after man dies outside cocktail bar|2aa9d5ef792f365fa25512a68fa51d7a
 2026-04-06T10:39:19.468733+00:00|https://news.sky.com/story/man-dies-after-attack-outside-bar-as-three-people-arrested-on-suspicion-of-murder-13528438|man dies after attack outside bar as three people arrested on suspicion of murder|ffcfa85b4268e29d8a1fa818d83d99e2
 2026-04-06T10:39:24.839225+00:00|https://news.sky.com/story/fifth-person-arrested-in-murder-investigation-after-pedestrian-hit-by-car-13528429|fifth person arrested in murder investigation after pedestrian hit by car|833944b3ad956661ec0875e94032f625
@@ -340,3 +335,5 @@
 2026-04-13T06:03:53.239856+00:00|https://www.bbc.com/news/articles/c20q97yy21ro|how do you rebuild your life after marrying a conman|5ebd7d36ee774331f75f5d700f95f9bc
 2026-04-13T08:23:53.151168+00:00|https://www.bbc.com/news/articles/c77mezv330lo|pm to scrap spy chiefs hillsborough law veto|f7d3f06521041ee07702764725791922
 2026-04-13T08:23:58.628840+00:00|https://news.sky.com/story/oil-back-over-100-a-barrel-after-just-four-days-13531204|oil back over $100 a barrel after just four days|9d314e27b4f56ff10ec83d7b280699f8
+2026-04-13T10:16:43.409279+00:00|https://www.bbc.com/news/articles/c5y8qjdqrdwo|four teens arrested over fatal stabbing of boy 16|ff554ca6970829c801903f98035cae06
+2026-04-13T10:16:48.775088+00:00|https://www.bbc.com/news/articles/c87w5ld0p80o|work begins in wales on uks first small modular reactor nuclear power station|efc7e09646fd383b959602083f2a285e
