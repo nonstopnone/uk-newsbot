@@ -1,8 +1,3 @@
-2026-04-06T14:00:40.036706+00:00|https://news.sky.com/story/murder-investigation-launched-after-death-of-much-loved-man-in-glasgow-13528454|murder investigation launched as detectives piece together mans last movements|0e80f1242afb3b1965cc706f2d96f5b3
-2026-04-06T14:00:45.547294+00:00|https://www.bbc.com/news/articles/cx24jdnre75o|i learned korean to understand kpop|cb70143618d1eae13eab621697c6ef24
-2026-04-06T14:00:51.050899+00:00|https://news.sky.com/story/waitrose-employee-sacked-after-tackling-easter-egg-shoplifter-should-be-reinstated-tories-say-13528451|waitrose employee sacked after tackling easter egg shoplifter should be reinstated tories say|49a07671f536c1689bae6e026ee76e14
-2026-04-06T15:07:33.326974+00:00|https://news.sky.com/story/fourth-company-distances-itself-from-wireless-festival-as-calls-grow-to-ban-kanye-west-from-uk-13528480|fourth company distances itself from wireless festival as calls grow to ban kanye west from uk|a8d6fa869359e0eaadc69eb879f7ff54
-2026-04-06T15:07:38.899198+00:00|https://news.sky.com/story/savannah-guthrie-returns-to-today-show-for-first-time-since-her-mothers-disappearance-13528386|here we go ready or not savannah guthrie returns to today show for first time since mothers disappearance|3a35545a87d49c13c15b9a18dcc85819
 2026-04-06T16:02:43.982915+00:00|https://news.sky.com/story/record-for-hottest-day-to-be-topped-multiple-times-this-week-13528487|record for hottest day to be topped multiple times this week|cfc4a2a5daf97616ab3e38dab9cf3e9c
 2026-04-06T16:02:49.541910+00:00|https://www.bbc.com/news/articles/crl1590w7w8o|hundreds take part in easter coalcarrying race|96d746638bf9da78b49b76a38dfd009d
 2026-04-06T16:02:55.117241+00:00|https://www.bbc.com/news/articles/ce9mr1djx48o|couple in court after boy 13 dies in crash|936a907eb5206f550266a5cc252b917f
@@ -338,3 +333,11 @@
 2026-04-13T13:58:19.564729+00:00|https://www.bbc.com/news/articles/cn897e8280do|easyjet passengers describe eu border nightmare|31664ca8d89a310ff7d6e7291c0cdb34
 2026-04-13T13:58:24.954216+00:00|https://www.bbc.com/news/articles/czxr4455p2vo|farmers ask stormont for financial help with fuel costs|40ddbad128d4a0370bdee7ef772c8409
 2026-04-13T13:58:30.326870+00:00|https://www.bbc.com/news/articles/cx2vlxdnnpqo|nurse wins settlement in trans pronouns dispute|ef798ae23522ecb834782bbdd24d2251
+2026-04-13T15:24:12.173780+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-diphtheria|diphtheria|e7ab6624ea299514fd3b094159f391a1
+2026-04-13T15:24:17.562930+00:00|https://news.sky.com/story/judge-dismisses-trumps-10bn-lawsuit-against-wall-street-journal-and-murdoch-over-reporting-on-epstein-ties-13529907|judge throws out $10bn trump lawsuit|1b7e4ab332fa6fb1b2891e2a7256c073
+2026-04-13T15:24:22.950093+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-dengue-fever|dengue fever|b72898796aa279c5bff662c71d5912a9
+2026-04-13T15:24:28.348621+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-crimean-congo-haemorrhagic-fever|crimeancongo haemorrhagic fever|ef84b3d14fc8aabd5dced79efbe4e7e7
+2026-04-13T15:24:33.722832+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-covid-19|covid19|4fdfd50f9923f353cdc82acf55157b66
+2026-04-13T15:24:39.094755+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-bubonic-plague|bubonic plague|c2b8589227996c06cea576f20e314fd5
+2026-04-13T15:24:44.464379+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-cholera|cholera|c6064528a00be82415b0e9ce19942ca5
+2026-04-13T15:24:49.836612+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-bacterial-meningitis|bacterial meningitis|a142df2e6f28930831dd4af57e952a78
