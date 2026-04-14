@@ -1,13 +1,3 @@
-2026-04-07T15:45:46.935403+00:00|https://www.bbc.com/news/articles/cly0922zj0vo|dad 84 under awful stress as sons care package set to end|222e63120b236d91e0e4bcf1ad64cb60
-2026-04-07T15:45:52.324329+00:00|https://news.sky.com/story/is-the-us-about-to-commit-war-crimes-in-iran-13528916|is the us about to commit war crimes in iran|9517546dcd36abfc67c221150556463e
-2026-04-07T15:45:57.663279+00:00|https://news.sky.com/story/ex-premier-league-footballer-joey-barton-denies-alleged-assault-outside-golf-club-13528963|expremier league footballer denies alleged assault outside golf club|95cddb5a3ccd682c3aa9546d9256bceb
-2026-04-07T17:10:04.637703+00:00|https://news.sky.com/story/scott-mills-stepping-back-from-ms-society-charity-role-after-bbc-sacking-13528995|scott mills stepping back from charity role after bbc sacking|63ae850047f590b24ea18018ab675b5f
-2026-04-07T17:10:09.936550+00:00|https://www.bbc.com/news/articles/cg54174pqjmo|almost a third of calmacs ferry fleet out of action|eee22cf49dc18962d1ec43ecc4f9d8f3
-2026-04-07T17:10:15.235847+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/bangladesh-measles-death-toll-surges-overwhelming-hospitals|measles death toll surges in bangladesh as outbreak overwhelms hospitals|1b3c71b2544d14d2395549b13cdd2d4a
-2026-04-07T17:10:20.647266+00:00|https://news.sky.com/story/wireless-festival-cancelled-after-kanye-west-blocked-from-entering-uk-13528975|music festival cancelled after kanye west blocked from entering uk|a853cd76d24b2f90a6cca899f25a1d1a
-2026-04-07T17:10:26.059330+00:00|https://www.telegraph.co.uk/business/2026/04/07/trump-iran-war-deadline-ftse-100-markets-oil-price-hormuz|borrowing costs jump as trump threatens to end irans whole civilisation|6985c15051689e12bcb1e8fa124382f6
-2026-04-07T17:10:31.389980+00:00|https://news.sky.com/story/train-driver-dead-and-16-injured-after-crash-with-lorry-carrying-military-equipment-13528973|train driver dead after crash with lorry carrying military equipment|d64e28dabcc0e4146b1a728d41ebc40d
-2026-04-07T18:10:04.300141+00:00|https://www.bbc.com/news/articles/c4gxk3kxjr0o|wireless festival cancelled after kanye west blocked from coming to uk|4948b7d99fc9b716556c6d2eedfb316a
 2026-04-07T19:33:25.168746+00:00|https://www.bbc.com/news/articles/c4gxw7px8glo|hms dragon docks after minor technical issue|93a94b3e7395aafe19eca0825d9723b0
 2026-04-07T19:33:30.484698+00:00|https://news.sky.com/story/asylum-seeker-filmed-alleged-rape-on-beach-to-try-to-stop-it-court-hears-13529027|asylum seeker filmed alleged rape on beach to try to stop it court hears|dc540e75e3071043451e352a2c63a605
 2026-04-07T19:33:35.811581+00:00|https://www.bbc.com/news/videos/cx29p017449o|what do people think of kanye west being blocked from entering the uk|646baab3ac02ddf8898f351be3548446
@@ -345,3 +335,9 @@
 2026-04-14T15:44:47.337625+00:00|https://www.bbc.com/news/articles/c9377n5lxeeo|mum jailed after covering for her hitandrun biker son|472451fa70190470b1ea23db3a1bf084
 2026-04-14T15:44:52.911940+00:00|https://www.bbc.com/news/articles/cn08849wz07o|singlesex space guidance for organisations to be published after may elections|d9864cccac4f1a02ec56a65593b88872
 2026-04-14T15:44:58.474872+00:00|https://www.bbc.com/news/articles/cn8ddgy8qx9o|baby found under floorboards may be 300 years old|6e6df95143e459db64031f6d2945ab60
+2026-04-14T18:10:22.643359+00:00|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/northumberland/articles/the-best-hotels-on-the-northumberland-coast|the best hotels on the northumberland coast|911e26606fada8e71a507ca340b33516
+2026-04-14T18:10:27.983315+00:00|https://www.bbc.com/news/articles/c4gllpll2rno|number of asylum hotels falls to 185 after 11 close|0b6abff3acb94b697530c0a0e2d2d4ed
+2026-04-14T18:10:33.307625+00:00|https://www.bbc.com/news/articles/c3v670qwz97o|uk faces biggest hit to growth from iran war of major economies imf says|cda216b876824f60d8286565fc338384
+2026-04-14T18:10:38.766224+00:00|https://www.bbc.com/news/articles/cvgk39n05yyo|driver jailed after his crane hit mum pushing pram|2e4fda277152ef48d513d19051c80f65
+2026-04-14T18:10:44.078041+00:00|https://www.bbc.com/news/articles/cp388j32wnvo|criticism of complacency on defence spending will sting government|64b00cae7a3df84f2608ad660a2b920e
+2026-04-14T18:10:49.530571+00:00|https://www.bbc.com/news/articles/c4ge479xpvpo|how primark trainer ended gangs £1m burglary spree|e07ca4f3ea9cd25d1cd98d1d6c68c7dd
