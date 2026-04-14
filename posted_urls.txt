@@ -1,8 +1,3 @@
-2026-04-07T04:06:10.090443+00:00|https://news.sky.com/story/womans-birth-in-mid-air-creates-tricky-legal-situation-13528774|womans birth in midair creates tricky legal situation|1f3c19a94fa58bdbd13d5130b314db0d
-2026-04-07T04:06:15.570936+00:00|https://www.bbc.com/news/articles/ce846jxg3xro|police search for two men after fatal stabbing|c2999a74b29c06ed2cfb4dda05f37c3d
-2026-04-07T04:06:21.101244+00:00|https://news.sky.com/story/uk-weather-warmest-start-to-april-in-six-years-possible-as-temperatures-climb-13528773|unusually warm temperatures are on the way but it isnt good news for everyone|f6718201fa07c8c23d1e9b6f1244caf7
-2026-04-07T04:06:26.449339+00:00|https://www.bbc.com/news/articles/czxr0nz43kwo|hundreds gather for dissident republican easter parade|03d95e13c11bfd3496f6a6e835e86c56
-2026-04-07T04:06:31.796677+00:00|https://news.sky.com/story/e-bike-and-e-scooter-fires-have-hit-a-record-high-this-is-why-13528772|ebike and escooter fires have hit a record high this is why|f83172d285efc9c69c53fffeb7d51b37
 2026-04-07T05:56:52.159841+00:00|https://www.bbc.com/news/articles/c0krn1m327jo|police shutting down illegal rave accused of unethical violence|c27041599014edd68dfa38365f54be8c
 2026-04-07T05:56:57.611935+00:00|https://www.bbc.com/news/articles/c70d8dn1nrpo|more than 1700 brits who fell ill in cape verde join action against tui|e35fb1355f71675b95bef4211850536b
 2026-04-07T07:45:06.910127+00:00|https://www.telegraph.co.uk/racing/2026/04/06/grand-national-runners-riders-favourites-odds-2026|grand national runners favourites and odds for 2026 key horses to note|f46d8484ea7b2119bb39c444b9e1e311
@@ -352,3 +347,6 @@
 2026-04-14T03:44:19.457524+00:00|https://www.bbc.com/news/articles/cd0r383kr71o|the papers they didnt have to die and youre not the messiah|73a11afa8bcea7363716b4b7bedb4b35
 2026-04-14T03:44:25.012724+00:00|https://www.bbc.com/news/articles/cvgk3vpyzdqo|harry and meghan arrive in australia for fourday tour|78e019326964b2abc98cbd3dc94c9180
 2026-04-14T03:44:30.589745+00:00|https://www.bbc.com/news/videos/crk18gnepmgo|i dont know why theyre coming australians on harry and meghans visit|10233b17b046a993fbfb40444adc7edd
+2026-04-14T05:51:57.874062+00:00|https://www.bbc.com/news/articles/cx2937d1r4jo|i was minutes from dying then i heard the lifeboat crewmans voice|a676902c35b985ff9bdeb2f15a5aa341
+2026-04-14T05:52:03.316799+00:00|https://www.bbc.com/news/articles/clye0jr8wpxo|chris mason how lammy and vances unlikely friendship is being leveraged|c035a7cfa43ea4675d2728adbdc65b55
+2026-04-14T05:52:08.670958+00:00|https://www.bbc.com/news/articles/c1d96220wyro|misconduct inquiry over fatal schoolgirl crash|f0f5ae05332b9252a2bb5807688fecec
