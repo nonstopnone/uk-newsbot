@@ -1,6 +1,3 @@
-2026-04-07T10:12:13.987558+00:00|https://www.bbc.com/news/articles/c393rwvzejyo|my greataunt shot mussolini in the face|025218815f1e992e27cecdce62c2344e
-2026-04-07T10:12:19.443943+00:00|https://news.sky.com/story/australian-sas-veteran-ben-roberts-smith-charged-with-war-crime-murders-in-afghanistan-13528789|australias most decorated veteran charged with afghanistan war crimes|b45a71bb7a7aa0bd84ce2749aadc044e
-2026-04-07T10:12:24.945475+00:00|https://www.bbc.com/news/articles/cn0qyl4ljjko|why are resident doctors striking and how much are they paid|116cb09752a2ff5b00423a49c977e20a
 2026-04-07T11:16:14.124738+00:00|https://www.bbc.com/news/articles/cr413lknz7yo|woman jailed for defrauding aunt out of £300k to build gym|0e0aa587169a9a5b42141f68836a31ff
 2026-04-07T11:16:19.696994+00:00|https://www.telegraph.co.uk/food-and-drink/features/best-foods-cook-air-fryer-ones-avoid|the best and worst foods to cook in an air fryer|508c8aeb43e6dc3cb7c1d616db525a34
 2026-04-07T11:16:25.278983+00:00|https://www.bbc.com/news/articles/crr1e5zqdyko|plan 2 student loan interest rates capped at 6 in england|e43189c8b9080a62657a455f0d214a4b
@@ -344,3 +341,7 @@
 2026-04-14T09:44:11.364438+00:00|https://www.bbc.com/news/articles/cx234k8g1mko|unsung titanic heros gold watch could go for £100k|3cea3781769798e56e3716698578c2c8
 2026-04-14T09:44:16.724326+00:00|https://www.telegraph.co.uk/recipes/everyday/salads/crab-salad-radishes-cucumber-avocado-tarragon-dressing-recipe|crab and potato salad with a tarragon dressing|061a17d247ed8b5883bd5b86066aeae2
 2026-04-14T09:44:22.345670+00:00|https://www.telegraph.co.uk/fantasy-sports/fantasy-football/telegraph-fantasy-football-team-of-the-week|telegraph fantasy football team of the week game week 31|5770bd3a5ece2229cc183ed1f73a006e
+2026-04-14T10:52:32.796164+00:00|https://www.telegraph.co.uk/recipes/everyday/salads/salad-crab-oranges-nam-jim-dressing|salad of crab and oranges with nam jim dressing|37a601cf26173745cb32e08606a5f7f1
+2026-04-14T10:52:38.234496+00:00|https://www.bbc.com/news/articles/c9d44ld97dyo|households could get free electricity for doing washing on sunny weekends|8ae71312d0f3b99afe2b6ae7e50ddb69
+2026-04-14T10:52:43.637587+00:00|https://www.bbc.com/news/articles/cdj77dejxw0o|teenager charged over primrose hill stabbing|3430cc5b799afe320f7da4fa3a91ab86
+2026-04-14T10:52:49.055485+00:00|https://www.bbc.com/news/articles/cr411lzn1qwo|we will name police and social workers unless action taken southport families lawyer says|46f1436f5b9000a62d2451f17c7ec032
