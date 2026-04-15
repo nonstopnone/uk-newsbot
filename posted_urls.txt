@@ -1,5 +1,3 @@
-2026-04-08T05:27:17.506661+00:00|https://news.sky.com/story/has-trump-capitulated-13529128|trump steps back from the brink|40d936c591d6efa9b4cde241013afc7d
-2026-04-08T05:27:22.865335+00:00|https://news.sky.com/story/british-teen-dies-in-vietnam-13529126|british teen dies in vietnam|fa0234a5f2bfa1c8fdc32c79e489d74d
 2026-04-08T06:57:12.900839+00:00|https://news.sky.com/story/trump-speaks-to-trump100160-13529152|trump speaks to trump100|b1ac450647e729a79786c24861c10f3a
 2026-04-08T06:57:18.519230+00:00|https://www.bbc.com/news/articles/cj0ve1006g9o|starmer to visit middle east after us and iran reach ceasefire deal|4207d3138ae88d39c03f60d96671ca8f
 2026-04-08T06:57:24.094557+00:00|https://news.sky.com/story/oil-prices-fall-sharply-after-trump-announces-two-week-iran-war-ceasefire-13529148|oil prices fall sharply after trump announces twoweek iran war ceasefire|e0d82acdf8e0290609a90f9d3ea2979e
@@ -342,3 +340,11 @@
 2026-04-15T01:07:59.309554+00:00|https://www.bbc.com/news/articles/cd030k5kkpeo|how belfast rose to the occasion during one of the uks worst ww2 raids|b068e7950d3425136b1ad025530a42e3
 2026-04-15T04:18:17.795324+00:00|https://news.sky.com/story/kanye-west-postpones-concert-indefinitely-a-week-after-uk-ban-13531936|kanye west postpones concert indefinitely a week after uk ban|655e70884cfb7e6c17d4ca8a69477b0a
 2026-04-15T04:18:23.245451+00:00|https://www.bbc.com/news/articles/c93ee1dp93lo|harry says children should be an upgrade of their parents|9022a74bfc5e49760ed491fea6fed0ff
+2026-04-15T06:17:57.797175+00:00|https://news.sky.com/story/trump-swings-from-gushing-praise-for-king-to-scathing-criticism-of-starmer-in-five-minute-call-with-sky-news-13531954|trump swings from gushing praise for king to scathing criticism of starmer in fiveminute call with sky news|2382672bc08c6d82877ddc3656f6ab1f
+2026-04-15T06:18:03.235313+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/the-world-can-no-longer-plead-ignorance-to-sudan-war|the world can no longer plead ignorance to sudans suffering|2206c174e2bd0fbe97d23be2c2494d04
+2026-04-15T06:18:08.666784+00:00|https://www.bbc.com/news/articles/cm2kk8242jpo|ukraines military to get biggestever shipment of uk drones|406cc15bd4c7ab20e2da1abad627a25d
+2026-04-15T06:18:13.993785+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/the-charts-that-show-sudans-war-is-the-worlds-deadliest|the charts that show sudans war is the worlds deadliest and getting worse|4a90101643c454e0297eca0aadf8ea73
+2026-04-15T06:18:19.419168+00:00|https://www.bbc.com/news/articles/c145ej273evo|a cold could kill my daughter hospital visits feel like a death sentence|e59cc172aae78bf581cc7964a754f02d
+2026-04-15T06:18:24.858502+00:00|https://www.bbc.com/news/articles/cpvxxk0pe0go|pot noodleloving gran has snack in her coffin and mourners get one too|0f7cfa14a5295ae8ba7a5eff60a3854e
+2026-04-15T06:18:30.195228+00:00|https://www.bbc.com/news/articles/ce8ll6pyvdzo|chris mason iran war means governments vicious circles tighten and darken|cbed30bbe5d924587709f4bf09379303
+2026-04-15T06:18:35.824567+00:00|https://www.bbc.com/news/articles/cly8771r016o|being secretly filmed in my own home ruined my life voyeurism victim says|a964784bcf5e1b21fb605b0884dbd679
