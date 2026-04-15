@@ -1,10 +1,3 @@
-2026-04-08T15:47:15.021032+00:00|https://news.sky.com/story/finbar-sullivan-named-as-21-year-old-victim-of-primrose-hill-stabbing-13529319|police name 21yearold killed in primrose hill stabbing|262f66133128285eccfede880b321c2c
-2026-04-08T15:47:20.578307+00:00|https://www.bbc.com/news/articles/cde5gj3wr79o|man jailed after blowing up his house|f4ccf115ad7597849dd535ce1cd09866
-2026-04-08T15:47:26.155144+00:00|https://www.telegraph.co.uk/recommended/home/garden/best-garden-hose|we tested garden hoses in spaces of all sizes these are the best for watering your plants|3074aa6b6a4d262d06370229a4460fbc
-2026-04-08T15:47:31.563680+00:00|https://www.bbc.com/news/articles/c62591119m1o|primrose hill stab victim named as finbar sullivan|55ab2f3aabd6be592529a5f6d49a7a01
-2026-04-08T15:47:37.103733+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/droughts-driving-spread-of-drug-resistant-infections|droughts driving spread of drugresistant infections research shows|530564dca2a128423fd5eda497c8f5d1
-2026-04-08T15:47:42.669053+00:00|https://www.bbc.com/news/articles/c5ywpv1d4geo|why it could take months for fuel and food prices to return to normal|0c11898827b8bc04d68a374964a255d4
-2026-04-08T15:47:48.250554+00:00|https://www.bbc.com/news/articles/c0krp7vp26mo|cannabis farm discovered in stately home which once hosted the king|222652bd4dade9d3b9301717b9ebb2d1
 2026-04-08T17:13:26.651497+00:00|https://www.bbc.com/news/articles/cvg3kx8r139o|pastor charged after man drowned during baptism|50bb8b8b75e2b7a97a53300149a60fdf
 2026-04-08T18:41:20.768693+00:00|https://www.telegraph.co.uk/business/2026/04/08/oil-plunges-below-100-after-trump-announces-ceasefire|gas tumbles as qatar prepares to restart production|8c74c3284fcfe98374ce9ec82c4a9222
 2026-04-08T18:41:26.203123+00:00|https://www.bbc.com/news/articles/c78rzygn30jo|maritime drone sector to get £50m boost|b776515d31c0183a210fdb100c47f88c
@@ -350,3 +343,6 @@
 2026-04-15T15:39:22.122965+00:00|https://www.bbc.com/news/articles/cd9vvw8njn5o|sad step backwards in recovery for tate fall boy|a07e74f7b1e5d7b25f4a7b9001992fa9
 2026-04-15T15:39:27.574348+00:00|https://news.sky.com/story/hungarys-new-pm-peter-magyar-tells-unworthy-president-to-resign-13532102|hungarys new pm tells unworthy president to resign|55820bdd77ac7e56218d400fa83a991d
 2026-04-15T15:39:32.999188+00:00|https://www.bbc.com/sport/rugby-union/articles/c87wwj073pqo|world cup winner kildunne reveals body dysmorphia struggle|5cb6e26a4e9330cf11f8f008159ebfce
+2026-04-15T16:43:56.831006+00:00|https://www.bbc.com/news/articles/cyv11lryv7ro|bbc to cut almost one in 10 staff to make £500m savings|bc4126c7ed2bc210571dc438d06737d8
+2026-04-15T16:44:05.780290+00:00|https://news.sky.com/story/bbc-to-cut-up-to-2000-jobs-in-biggest-downsize-for-15-years-13532192|bbc to cut up to 2000 jobs in biggest downsize for 15 years|925efff72878efd2f235963e2941ae87
+2026-04-15T16:44:11.339379+00:00|https://www.bbc.com/news/articles/czx99j89rkno|student stabbed to death was gentle say family|a97144a9c58109e7c66d7b0a217e88df
