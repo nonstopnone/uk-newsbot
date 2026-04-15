@@ -1,4 +1,3 @@
-2026-04-08T17:13:26.651497+00:00|https://www.bbc.com/news/articles/cvg3kx8r139o|pastor charged after man drowned during baptism|50bb8b8b75e2b7a97a53300149a60fdf
 2026-04-08T18:41:20.768693+00:00|https://www.telegraph.co.uk/business/2026/04/08/oil-plunges-below-100-after-trump-announces-ceasefire|gas tumbles as qatar prepares to restart production|8c74c3284fcfe98374ce9ec82c4a9222
 2026-04-08T18:41:26.203123+00:00|https://www.bbc.com/news/articles/c78rzygn30jo|maritime drone sector to get £50m boost|b776515d31c0183a210fdb100c47f88c
 2026-04-08T18:41:31.643154+00:00|https://www.bbc.com/news/articles/c4gxkdeyk7ko|rspca says 250 dogs found crammed into one home|cf121fa26eccc5aa76970520b427f27a
@@ -346,3 +345,5 @@
 2026-04-15T16:43:56.831006+00:00|https://www.bbc.com/news/articles/cyv11lryv7ro|bbc to cut almost one in 10 staff to make £500m savings|bc4126c7ed2bc210571dc438d06737d8
 2026-04-15T16:44:05.780290+00:00|https://news.sky.com/story/bbc-to-cut-up-to-2000-jobs-in-biggest-downsize-for-15-years-13532192|bbc to cut up to 2000 jobs in biggest downsize for 15 years|925efff72878efd2f235963e2941ae87
 2026-04-15T16:44:11.339379+00:00|https://www.bbc.com/news/articles/czx99j89rkno|student stabbed to death was gentle say family|a97144a9c58109e7c66d7b0a217e88df
+2026-04-15T17:53:52.589963+00:00|https://www.bbc.com/news/articles/cwykk05q48zo|murderer died in hospital from cancer and liver cirrhosis|4959f9bcb6d33cd5f064a78be5b73741
+2026-04-15T17:53:58.162141+00:00|https://www.bbc.com/news/articles/c5ywwjx6r2jo|theatre touring in crisis as performances of plays drop 70|faac575517ff9243af624faa9c91801d
