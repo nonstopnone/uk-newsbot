@@ -1,4 +1,3 @@
-2026-04-08T20:54:30.722230+00:00|https://www.bbc.com/news/articles/cd0r4mxevdvo|government approves uks largest solar farm|bd0f9161316e20bd50904f499573b5d6
 2026-04-08T22:51:00.453414+00:00|https://www.bbc.com/news/articles/czx9kvqxeq5o|pioneering wildlife cameraman doug allan dies in nepal|56dd761c79499312d5b6a85e21adac1e
 2026-04-08T22:51:05.846510+00:00|https://www.telegraph.co.uk/football/2026/04/08/psg-vs-liverpool-live-score-latest-updates-lineups-ucl-qf|liverpool refuse to wave white flag but dont bet on another famous comeback|43523da6318e944dbdaffb571565c465
 2026-04-08T22:51:11.244176+00:00|https://www.bbc.com/news/articles/cy51e25xyr9o|he killed my sister in a crash but is still allowed to drive|768305ad2d5cdcc5dca3b8d054fc74d1
@@ -347,3 +346,6 @@
 2026-04-15T20:34:23.846960+00:00|https://www.telegraph.co.uk/racing/0/marlborough-racing-tips-best-bets-todays-races|marlborough racing tips and best bets for todays races|e87a12f913d78bfb0ba4c4d0b3414801
 2026-04-15T20:34:29.253676+00:00|https://www.bbc.com/news/articles/cn0wwl4jjj2o|man who felled sycamore gap tree released early|fb03d60bd3eb372f2b1d5553bf7de26b
 2026-04-15T20:34:34.713997+00:00|https://news.sky.com/story/two-people-arrested-after-attempted-arson-attack-on-synagogue-in-north-london-13532194|arrests after attempted arson attack on synagogue|1997348ab328da37c9d9f86d8598e8f9
+2026-04-15T21:37:06.925889+00:00|https://news.sky.com/story/new-investigation-launched-into-owners-of-swiss-bar-after-41-died-in-new-years-fire-13532265|new investigation launched into owners of swiss bar after 41 died in new years fire|419782b06657b1f75c6c3ee76f4e24cf
+2026-04-15T21:37:12.316009+00:00|https://www.bbc.com/news/articles/c5yklvrvgwdo|first minister admits north wales nhs not a pretty sight|a4c245422666e7c271b3a978bd6c257f
+2026-04-15T21:37:17.722834+00:00|https://news.sky.com/story/grand-slam-and-davis-cup-winner-jamie-murray-retires-from-tennis-13532273|grand slam and davis cup winner jamie murray retires from tennis|5e7c9c042b861337de64482181851142
