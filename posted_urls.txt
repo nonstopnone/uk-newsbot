@@ -1,10 +1,3 @@
-2026-04-08T14:03:40.267019+00:00|https://www.bbc.com/news/articles/c20zgjzz0e4o|will uk petrol and diesel prices start going down|aea6aedca82768485f29d4318e1ec08b
-2026-04-08T14:03:45.819817+00:00|https://www.bbc.com/news/articles/cy71e27k83po|murder arrest over businessmans death in 2004|378985d6ff518a2ba9dc5b5bf3792478
-2026-04-08T14:03:51.234325+00:00|https://www.bbc.com/news/articles/cx2e4eqqq7lo|church of england to apologise for role in historical forced adoption|2170d25b38e4986469221564f5254e70
-2026-04-08T14:03:56.655892+00:00|https://www.bbc.com/news/articles/c0q9p2ln35yo|murderaccused fugitive in court over fire deaths|7a37ed1613f886f1ea6092af88b3dfb6
-2026-04-08T14:04:02.082763+00:00|https://www.bbc.com/news/articles/c8dlr8j92p2o|home office sued over migrant sites contract bid|8ff9443b91680514875bdd35ad696247
-2026-04-08T14:04:07.483227+00:00|https://www.bbc.com/news/articles/c5ywlwj65n6o|dozens of ww2 phosphorus devices found at beach|cbb29fac2c56b81981f1f47252d2b6e9
-2026-04-08T14:04:12.875414+00:00|https://www.bbc.com/news/articles/cn08zw77139o|one of the uks prettiest shopping towns is feeling the pinch|cd42c283b8d415e0df219ac539f7c2ce
 2026-04-08T15:47:15.021032+00:00|https://news.sky.com/story/finbar-sullivan-named-as-21-year-old-victim-of-primrose-hill-stabbing-13529319|police name 21yearold killed in primrose hill stabbing|262f66133128285eccfede880b321c2c
 2026-04-08T15:47:20.578307+00:00|https://www.bbc.com/news/articles/cde5gj3wr79o|man jailed after blowing up his house|f4ccf115ad7597849dd535ce1cd09866
 2026-04-08T15:47:26.155144+00:00|https://www.telegraph.co.uk/recommended/home/garden/best-garden-hose|we tested garden hoses in spaces of all sizes these are the best for watering your plants|3074aa6b6a4d262d06370229a4460fbc
@@ -344,3 +337,11 @@
 2026-04-15T11:07:42.777252+00:00|https://www.bbc.com/news/articles/cdxdd7ddzgdo|trump warns that uk trade deal can always be changed|328013f74a972017c9befc4b42aaca56
 2026-04-15T11:07:48.238951+00:00|https://www.bbc.com/news/articles/c86eew6jpjgo|bogus websites staged protests and pretend atheists inside the fake asylum industry|f4cb4b4b767f7f9711a37210827163af
 2026-04-15T11:07:53.589278+00:00|https://www.bbc.com/news/articles/cn5339yvq2zo|womans body found in chest freezer at home inquest told|ca9054f39eae98b756ba4fe34921596c
+2026-04-15T14:06:23.043132+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threat-rabies|rabies|961d88ba87b21e4e8deddda565f09d4b
+2026-04-15T14:06:28.626615+00:00|https://news.sky.com/story/boy-believed-to-be-first-charged-under-new-border-law-due-in-court-13532075|boy believed to be first charged under new border law due in court|0a28691d59673dd507da129eff2abfe0
+2026-04-15T14:06:34.044136+00:00|https://www.bbc.com/news/articles/c05ddqe6gv6o|starmer challenged over defence investment plan delay|e268adb3ebec3308f78a7f272fa08690
+2026-04-15T14:06:39.457728+00:00|https://www.bbc.com/news/articles/ce844e6rjnyo|two met pcs charged over death of pregnant woman|f0896412d421610a7a459f42e83f6afd
+2026-04-15T14:06:44.883146+00:00|https://www.bbc.com/news/articles/cgrll78q4z1o|stop welsh space radar station because of trumps contempt first minister says|0ce3fd7e3835652b9ad25169463a8f07
+2026-04-15T14:06:50.282720+00:00|https://www.bbc.com/news/articles/cew77rwrevdo|manhunt after attempted arson attack on synagogue|c06b2daa206774a00f72bd41e9215a35
+2026-04-15T14:06:55.676577+00:00|https://www.bbc.com/news/articles/cn533derkxko|ulster university to cut up to 450 jobs|80de038701f1d45e2adc64ae18b5b43c
+2026-04-15T14:07:01.083781+00:00|https://www.bbc.com/news/articles/cly00jnnxypo|bookingcom customers warned of reservation hijacking after hack|bad8f4de4e992a368fce33300a83b116
