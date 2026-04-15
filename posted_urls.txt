@@ -345,3 +345,8 @@
 2026-04-15T14:06:50.282720+00:00|https://www.bbc.com/news/articles/cew77rwrevdo|manhunt after attempted arson attack on synagogue|c06b2daa206774a00f72bd41e9215a35
 2026-04-15T14:06:55.676577+00:00|https://www.bbc.com/news/articles/cn533derkxko|ulster university to cut up to 450 jobs|80de038701f1d45e2adc64ae18b5b43c
 2026-04-15T14:07:01.083781+00:00|https://www.bbc.com/news/articles/cly00jnnxypo|bookingcom customers warned of reservation hijacking after hack|bad8f4de4e992a368fce33300a83b116
+2026-04-15T15:39:11.384974+00:00|https://www.bbc.com/news/articles/cj944dgwvm8o|mahmood promises action against sham lawyers abusing asylum system|df7496e1eda5d82d69bcc0ae640a3b3d
+2026-04-15T15:39:16.709333+00:00|https://news.sky.com/story/179-prisoners-freed-in-error-in-england-and-wales-in-single-year-13532187|179 prisoners freed in error in england and wales in single year|8a908b7b9cd6696573506f460c87b168
+2026-04-15T15:39:22.122965+00:00|https://www.bbc.com/news/articles/cd9vvw8njn5o|sad step backwards in recovery for tate fall boy|a07e74f7b1e5d7b25f4a7b9001992fa9
+2026-04-15T15:39:27.574348+00:00|https://news.sky.com/story/hungarys-new-pm-peter-magyar-tells-unworthy-president-to-resign-13532102|hungarys new pm tells unworthy president to resign|55820bdd77ac7e56218d400fa83a991d
+2026-04-15T15:39:32.999188+00:00|https://www.bbc.com/sport/rugby-union/articles/c87wwj073pqo|world cup winner kildunne reveals body dysmorphia struggle|5cb6e26a4e9330cf11f8f008159ebfce
