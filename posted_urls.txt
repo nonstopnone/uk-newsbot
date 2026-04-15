@@ -1,11 +1,3 @@
-2026-04-08T08:16:58.092371+00:00|https://www.bbc.com/news/articles/cj401ll8j5zo|uk house prices fall as iran war uncertainty dampens demand|2cbc76bb7a49b5e990da6aa8d544928c
-2026-04-08T08:17:03.473049+00:00|https://www.bbc.com/news/articles/ce3dxyl97eqo|arrest as £200k stolen from scouts trip fund|8afa7590a31cec46cf0420572de76260
-2026-04-08T08:17:08.842428+00:00|https://www.bbc.com/news/articles/c75k1z7k6ero|health service misogyny left me in serious pain|69f0faa0e07a6b227eb2639459302a73
-2026-04-08T09:46:09.044635+00:00|https://www.bbc.com/news/articles/c0e7xr83j72o|four stabbed after disorder breaks out at railway station|f8b6bc370a3044fd360f1ad0ef91d30d
-2026-04-08T09:46:14.702305+00:00|https://www.telegraph.co.uk/racing/2026/04/08/grand-national-runners-riders-favourites-odds-2026|grand national runners favourites and odds for 2026 key horses to note|9ad2e90297dbbacd2e72d0ce9a94111b
-2026-04-08T09:46:20.261012+00:00|https://www.bbc.com/news/articles/c4gjp7xwjyzo|katie price banned from driving for seventh time|f4e4b54ca0e19959088d58cd4713acaf
-2026-04-08T09:46:25.812196+00:00|https://www.telegraph.co.uk/recipes/everyday/chicken/chipotle-griddled-chicken-avocado-chorizo-quinoa-lime-creme|chipotlegriddled chicken with avocado chorizo quinoa and lime creme fraiche|2495967b04fcc4355f3bc9a56c077057
-2026-04-08T09:46:31.367270+00:00|https://www.bbc.com/news/articles/crl124j92kko|man charged after viable device found in security alert|2475be344d2468882d1d5e598b4c6d8a
 2026-04-08T11:06:49.088686+00:00|https://news.sky.com/story/bbc-breached-editorial-standards-over-baftas-racial-slur-investigation-finds-13529270|bbc breached editorial standards over baftas racial slur|970a27c48209af66d62a48b844110304
 2026-04-08T11:06:54.462024+00:00|https://www.bbc.com/news/articles/cvgek88npppo|channel 4 scraps bake off episode starring scott mills|ee26ab2f7e67704aaea2bd38a615b364
 2026-04-08T11:07:00.169338+00:00|https://www.telegraph.co.uk/recipes/0/diana-henrys-potato-salad-recipe|jersey royal potato salad|e5952129db01cf0cf12c45281df39179
@@ -349,3 +341,11 @@
 2026-04-15T08:14:30.975987+00:00|https://www.bbc.com/news/articles/clyxxdljdx8o|bold as brass my brothers killer brags on tiktok about partying in jail|60f9719b6d18add9235eddbfdfd14386
 2026-04-15T08:14:36.354960+00:00|https://www.bbc.com/news/articles/ckgeerp8y7mo|titanic life jacket to be auctioned for £350000|0815bb9e864b4900163ab2f5b530bb20
 2026-04-15T08:14:41.621337+00:00|https://www.bbc.com/news/articles/cp841900np6o|burger kitchen boss defends turning away people with allergies|759b8e3f5c2c06b75d6e82e113235f67
+2026-04-15T09:52:44.956290+00:00|https://www.bbc.com/news/articles/c2ev4vzkl77o|driver jailed for causing friends death in 108mph crash|668899436889b4b108df285a96df25cb
+2026-04-15T09:52:50.239734+00:00|https://news.sky.com/story/badenoch-calls-for-axel-rudakubanas-parents-to-be-deported-after-damning-southport-attack-report-13531993|tory leader calls for axel rudakubanas parents to be deported|ef0d5062be096f23e1dffee8ed50154b
+2026-04-15T09:52:55.532381+00:00|https://www.bbc.com/news/articles/c07000dzg9do|aa and bsm ordered to refund learner drivers for hidden fees|7d5ac79bf7da9c9ea3be638a925aa30f
+2026-04-15T09:53:00.977720+00:00|https://news.sky.com/story/uk-cant-succeed-says-trump-read-full-transcript-of-his-sky-news-interview-13531950|uk cant succeed says trump read full transcript of his sky news interview|6362dbd1a08fc59dc87a0a55229b663d
+2026-04-15T09:53:06.284299+00:00|https://www.bbc.com/news/articles/c36rrrg9k9do|reforms scottish leader defends labour deal claim|25befa95470656f7c63487d3c884d8bd
+2026-04-15T09:53:11.585939+00:00|https://news.sky.com/story/british-job-hunters-turning-up-to-find-their-interviewer-is-an-ai-robot-13531971|unemployed britons turning up to job interviews to find the interviewer is an ai robot|14a1826521e4d6f7f5e6b719b7e754e4
+2026-04-15T09:53:16.925952+00:00|https://www.bbc.com/weather/articles/c1d902y90g5o|oldest known meteor shower to light up uk skies this week|9915823b1b6f1a464d1c86364cc75f93
+2026-04-15T09:53:22.242706+00:00|https://www.bbc.com/news/videos/cjd89jy7lp7o|watch reporter told to pose as gay for asylum claim|fc882de71f30af82e30ee63277dcb39d
