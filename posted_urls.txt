@@ -1,7 +1,3 @@
-2026-04-08T03:19:07.863272+00:00|https://www.bbc.com/news/articles/c5y9lg10595o|tributes after british teenager dies while visiting vietnam|ff83bd43d35108461ec4d12d2d0f109b
-2026-04-08T03:19:13.334539+00:00|https://news.sky.com/story/epstein-files-bill-gates-to-testify-before-congress-13529108|bill gates to testify before congress in epstein investigation|567e66157114195d1c103b71cd311101
-2026-04-08T03:19:18.753011+00:00|https://www.bbc.com/news/articles/cr413wnk3klo|the papers world holds its breath and no kan do|b3a21de5f512454a19d9a0cc4c032e2e
-2026-04-08T03:19:24.200013+00:00|https://news.sky.com/story/2026-scottish-parliament-election-key-challenges-next-holyrood-government-will-face-13526478|the key challenges the next scottish government will face|5e800fbed6b3807a7742e1722177ed04
 2026-04-08T05:27:17.506661+00:00|https://news.sky.com/story/has-trump-capitulated-13529128|trump steps back from the brink|40d936c591d6efa9b4cde241013afc7d
 2026-04-08T05:27:22.865335+00:00|https://news.sky.com/story/british-teen-dies-in-vietnam-13529126|british teen dies in vietnam|fa0234a5f2bfa1c8fdc32c79e489d74d
 2026-04-08T06:57:12.900839+00:00|https://news.sky.com/story/trump-speaks-to-trump100160-13529152|trump speaks to trump100|b1ac450647e729a79786c24861c10f3a
@@ -344,3 +340,5 @@
 2026-04-15T01:07:48.571600+00:00|https://www.bbc.com/news/articles/cm2kke1jn8xo|im not being listened to new health plan launched as women say they are still ignored|93032f04e954f4bacb73d07f12c1f234
 2026-04-15T01:07:53.936540+00:00|https://www.bbc.com/news/articles/cd6lzpxwx50o|dont feel like exercising maybe its the wrong time of day for you|3953aaedad6fcb8facdee79957d6c7e0
 2026-04-15T01:07:59.309554+00:00|https://www.bbc.com/news/articles/cd030k5kkpeo|how belfast rose to the occasion during one of the uks worst ww2 raids|b068e7950d3425136b1ad025530a42e3
+2026-04-15T04:18:17.795324+00:00|https://news.sky.com/story/kanye-west-postpones-concert-indefinitely-a-week-after-uk-ban-13531936|kanye west postpones concert indefinitely a week after uk ban|655e70884cfb7e6c17d4ca8a69477b0a
+2026-04-15T04:18:23.245451+00:00|https://www.bbc.com/news/articles/c93ee1dp93lo|harry says children should be an upgrade of their parents|9022a74bfc5e49760ed491fea6fed0ff
