@@ -1,11 +1,3 @@
-2026-04-09T17:32:34.393680+00:00|https://www.bbc.com/news/articles/cj6098jngryo|pub thief jailed over £22m fabergé theft|bc4df64b867ef64fe0370635023b2fc3
-2026-04-09T17:32:39.808602+00:00|https://www.telegraph.co.uk/business/2026/04/09/oil-spikes-as-cracks-emerge-in-iran-ceasefire|world economy faces growth shock imf warns|3a745ccc0f8b6058002ad9d9d5462ba7
-2026-04-09T17:32:45.257617+00:00|https://www.bbc.com/news/articles/cre13qn9z7do|uk says russia ran submarine operation over cables and pipelines|27f8430ff058d6a5ee6c1756b49e200a
-2026-04-09T17:32:50.591059+00:00|https://www.bbc.com/news/articles/clyd032ej70o|openai pauses uk data centre deal over energy costs and regulation|f529fd298e09d40bea71b0ec1fcfa2d2
-2026-04-09T17:32:55.929647+00:00|https://www.bbc.com/news/articles/c239egj4zzdo|cmat date cancelled at lido festival after park problems|5bcfb8d97af6f880262dbe0dc02420d7
-2026-04-09T17:33:01.286476+00:00|https://www.bbc.com/news/articles/c7471n0lm2vo|jo malone hopes sense will prevail in lawsuit over her name|9068d8058294747fe8449c5c18d2fa95
-2026-04-09T17:33:06.616899+00:00|https://www.bbc.com/news/articles/cq6j0rnvlzeo|petrol and diesel prices rise again as concerns grow over ceasefire|4ab00a5f6bfe63567f785289f5413b55
-2026-04-09T17:33:11.926494+00:00|https://www.bbc.com/news/articles/c625l7qen3jo|dogs doing really well after 250 found crammed in living room rspca says|2a7e68e7b25f61cd7fb964083d171e0e
 2026-04-09T18:39:51.570471+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/trafficked-animals-more-likely-to-share-pathogens-with-huma|trafficked animals more likely to share pathogens with humans says study|a82b92f42688c3b7c7676831e288db8b
 2026-04-09T19:52:21.299001+00:00|https://news.sky.com/story/melania-trump-appears-in-surprise-live-video-from-white-house-to-address-epstein-relationship-lies-13529799|melania trump appears in surprise live video from white house to address epstein relationship lies|5658bd11916cca6103db701080c367c6
 2026-04-09T20:59:11.241846+00:00|https://news.sky.com/story/melania-trump-delivers-surprise-statement-at-white-house-to-address-epstein-relationship-lies-13529799|melania trump delivers surprise statement at white house to address epstein relationship lies|a7acab1d5a1e4152647824d696bd0857
@@ -368,3 +360,8 @@
 2026-04-16T16:07:37.574584+00:00|https://www.bbc.com/news/articles/c3w33y0z818o|woman in pyjamas wanted after alleged fuel thefts|4b213f38bdd56aed56824f000caa10f2
 2026-04-16T16:07:42.938813+00:00|https://www.bbc.com/news/articles/cp9vp4gr1lyo|about 15000 drivers can pursue arnold clark data breach claim|c5098b5f1b75e8f65ec5b084d502bc5b
 2026-04-16T16:07:48.442472+00:00|https://www.bbc.com/sport/football/articles/c4g84l14e5eo|exkeeper manninger dies after car hit by train|eb569ea85dd500248f442533c6b443c6
+2026-04-16T17:45:48.450642+00:00|https://www.telegraph.co.uk/business/2026/04/16/uk-economy-grew-ahead-of-the-iran-war|european airlines cancel hundreds of flights|b573ae981a52a5b7ab5d9540a48a473d
+2026-04-16T17:45:53.910746+00:00|https://www.bbc.com/news/articles/cx2r15151xgo|starmer did not know mandelson failed vetting government says|fd8d8f3ad21502574372c86eb829751d
+2026-04-16T17:46:01.121953+00:00|https://www.bbc.com/news/articles/c239219g7l5o|andrew invited to relinquish freedom of city|16ec50826378ae185846a1246a484993
+2026-04-16T17:46:07.151559+00:00|https://www.bbc.com/news/articles/cevkpz38yymo|my son died alone scared and in pain|f5aca22fb64e934998eaa23b631a10cf
+2026-04-16T17:46:12.548374+00:00|https://www.bbc.com/news/articles/c93elnv973ro|churchwarden jailed for murdering pensioner has conviction quashed|963bf79b851b99c6bbaff6bcbcfd0c46
