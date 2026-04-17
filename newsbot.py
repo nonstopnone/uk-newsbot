@@ -338,7 +338,7 @@ def check_ai_relevance(title, summary, excerpt, entry_hash):
         return cache[entry_hash]['is_relevant']
     prompt = (
         "Strict UK news filter. Respond YES or NO. "
-        "Is this hard news relevant to the UK? (No fluff/sports previews/lifestyle).\n"
+        "Is this a current or developing UK news story of public interest or significance (politics, emergencies, legal developments, culture, sports, or actions involving public figures such as royals or MPs)? Exclude fluff, previews, or lifestyle content..\n"
         f"Title: {title}\nSummary: {summary}\nExcerpt: {excerpt}"
     )
     try:
@@ -364,9 +364,9 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
         neg_hits = {k[4:]: v for k, v in matched.items() if k.startswith("NEG:")}
 
         lines = [
-            f"**Source:** {entry.source}  |  **Ref:** `{ref}`  |  *{posted_at}*",
-            ""
-        ]
+    f"**Source:** {entry.source}",
+    ""
+]
 
         if paras:
             lines.extend([f"> {p}" for p in paras[:3]] + [""])
