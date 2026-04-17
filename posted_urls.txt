@@ -1,8 +1,3 @@
-2026-04-10T11:35:43.663489+00:00|https://www.bbc.com/news/articles/cy017z179z9o|bafta fell short in duty of care when racial slur was shouted review finds|9cd2a1b922bff00016df28467b70ea51
-2026-04-10T11:35:49.242928+00:00|https://news.sky.com/story/cuba8217s-president-has-a-message-for-the-us-after-donald-trump-said-the-island-was-8216next8217-for-a-takeover-13529991|cubas president says hes not stepping down despite trump threats|c44aea08b065ba918f628b378bec143a
-2026-04-10T11:35:54.806251+00:00|https://www.bbc.com/news/articles/clyrdxx0yero|pc sent racist messages in chat with sex offender|0e60a12c74518dc0bce64a1c7982acf6
-2026-04-10T11:36:00.389657+00:00|https://www.bbc.com/news/articles/cj3786x28eeo|tourism worries after delay to new harry potter train season|22abc6b076061379b5fed2d3825f3a82
-2026-04-10T11:36:06.002160+00:00|https://www.bbc.com/news/articles/cj94yxlnx09o|labrinth not involved in euphorias third season|16dcca6a6ed220855291d4af313a524e
 2026-04-10T12:36:35.645415+00:00|https://www.telegraph.co.uk/recipes/everyday/vegetarian/salt-baked-jersey-royals-asparagus-leeks-radishes-sauce-gribiche|saltbaked jersey royals with asparagus leeks radishes and sauce gribiche|de098e68fd81416df480ed6f82bc36e5
 2026-04-10T12:36:41.016274+00:00|https://news.sky.com/story/sir-keir-starmer-im-fed-up-with-actions-of-trump-and-putin-causing-energy-bills-to-skyrocket-13530058|starmer fed up with trump and putin causing energy bills to skyrocket|5729e195dad9b9a18ddbdc8d45782fb9
 2026-04-10T12:36:46.382569+00:00|https://www.bbc.com/news/articles/cy915wr1074o|child killed in suspected dog attack was baby girl|8cc5a9fb46d61712e27b62e48fcf5025
@@ -361,3 +356,8 @@
 2026-04-17T09:42:56.325342+00:00|https://www.bbc.com/news/articles/clyr7dmry5mo|lamborghini among 160000 cars seized as uninsured driving reaches 17year high|eaf36f038c3d85c75d81100cd8a754f2
 2026-04-17T09:43:01.765520+00:00|https://news.sky.com/story/three-charged-over-arson-attack-on-persian-language-media-group-in-london-13525901|three charged over arson attack on media group|4365d11e2dd038a684d5047a0c608672
 2026-04-17T10:42:46.870631+00:00|https://news.sky.com/story/david-seamans-tribute-after-fellow-ex-arsenal-goalie-alex-manningers-shock-death-13532841|seamans tribute after fellow exarsenal goalie manningers shock death|1c11dcfad7ff554114a82b2748926c0c
+2026-04-17T11:38:40.291720+00:00|https://www.bbc.com/news/articles/cwyv2pw01leo|royal mail denies hiding undelivered post from mp visiting sorting office|1bf23b47754b4639a81b54bac5702fa5
+2026-04-17T11:38:45.743666+00:00|https://news.sky.com/story/tesco-swapping-barcodes-for-qr-codes-in-uk-first-heres-why-13532875|tesco swapping barcodes for qr codes in uk first heres why|fd37e42c0b11b7a1219d3970a8bd7a00
+2026-04-17T11:38:51.273342+00:00|https://www.telegraph.co.uk/recipes/baking-and-desserts/cakes/coconut-and-lime-cake-recipe|coconut and lime cake|d04bb10c9340165fe5690d408b36b183
+2026-04-17T11:38:56.719326+00:00|https://www.bbc.com/news/articles/cm2rp4j4k73o|its like climbing half the eiger escalator plan for notorious aberdeen staircase|12c30787577161d4af700783982e02da
+2026-04-17T11:39:02.055402+00:00|https://www.telegraph.co.uk/politics/0/live-event-the-daily-t-on-the-road|live event the daily t on the road|eab1a6473deaf9c1dd1833587364503b
