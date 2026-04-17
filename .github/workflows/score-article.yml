@@ -1,0 +1,94 @@
+# .github/workflows/score-article.yml
+#
+# Score a news article for UK relevance.
+#
+# Trigger manually from Actions tab → "Run workflow", supply a URL or paste text.
+# Gemini AI step only runs when GEMINI_API_KEY is set in repo secrets.
+
+name: Score News Article
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Article URL (leave blank to use manual text fields)"
+        required: false
+        default: ""
+      title:
+        description: "Article title  (used when URL is blank)"
+        required: false
+        default: ""
+      summary:
+        description: "Article summary / standfirst  (used when URL is blank)"
+        required: false
+        default: ""
+      body:
+        description: "Article body text  (used when URL is blank)"
+        required: false
+        default: ""
+      skip_ai:
+        description: "Skip the Gemini AI confirmation step? (true/false)"
+        required: false
+        default: "false"
+
+jobs:
+  score:
+    name: Score Article
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout your repo (score_article.py must live at repo root) ──
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # ── 2. Python ──────────────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # ── 3. Dependencies ────────────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install \
+            requests \
+            beautifulsoup4 \
+            google-genai
+
+      # ── 4. Build CLI args dynamically ──────────────────────────────────────
+      - name: Build scorer arguments
+        id: build-args
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.url }}" ]; then
+            ARGS="--url '${{ github.event.inputs.url }}'"
+          else
+            [ -n "${{ github.event.inputs.title }}"   ] && ARGS="$ARGS --title   '${{ github.event.inputs.title }}'"
+            [ -n "${{ github.event.inputs.summary }}" ] && ARGS="$ARGS --summary '${{ github.event.inputs.summary }}'"
+            [ -n "${{ github.event.inputs.body }}"    ] && ARGS="$ARGS --body    '${{ github.event.inputs.body }}'"
+          fi
+          [ "${{ github.event.inputs.skip_ai }}" = "true" ] && ARGS="$ARGS --no-ai"
+          echo "args=$ARGS" >> "$GITHUB_OUTPUT"
+
+      # ── 5. Run scorer ──────────────────────────────────────────────────────
+      - name: Run scorer
+        id: scorer
+        env:
+          # Store your key in Settings → Secrets → Actions → New secret
+          # Name it GEMINI_API_KEY (leave the secret absent to skip AI step)
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          eval python score_article.py ${{ steps.build-args.outputs.args }}
+
+      # ── 6. Surface outputs in the Actions summary ──────────────────────────
+      - name: Write job summary
+        if: always()
+        run: |
+          echo "## 📰 Article Score Result" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Field    | Value |"                     >> "$GITHUB_STEP_SUMMARY"
+          echo "|----------|-------|"                     >> "$GITHUB_STEP_SUMMARY"
+          echo "| Score    | ${{ steps.scorer.outputs.score }}    |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Category | ${{ steps.scorer.outputs.category }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Verdict  | ${{ steps.scorer.outputs.verdict }}  |" >> "$GITHUB_STEP_SUMMARY"
