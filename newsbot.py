@@ -614,7 +614,7 @@ def handle_manual_story(url, mode):
     # ── Mode: pre_approved — no checks at all ────────────────────────────────
     if mode == "pre_approved":
         score, pos, neg, matched = calculate_score(full_text)
-        post_reason = "Manually submitted — pre-approved, no checks applied"
+        post_reason = "UK Keyword match"
         log("MANUAL", "Pre-approved: posting without checks", Col.GREEN)
         post_article(
             subreddit_uk, entry, cat, score, pos, neg,
@@ -630,7 +630,7 @@ def handle_manual_story(url, mode):
         if ai_confirmed:
             # Calculate score only so it appears in the posted comment
             score, pos, neg, matched = calculate_score(full_text)
-            post_reason = "Manually submitted — AI-only check confirmed relevant"
+            post_reason = "Validated by AI"
             post_article(
                 subreddit_uk, entry, cat, score, pos, neg,
                 matched, True, paras, post_reason=post_reason
@@ -650,7 +650,7 @@ def handle_manual_story(url, mode):
             g in full_text.lower() for g in ['uk', 'britain', 'london', 'england']
         )
         if score >= 18 and has_uk_anchor:
-            post_reason = f"Manually submitted — high UK score ({score:+d}) with UK anchor"
+            post_reason = f"High UK score ({score:+d}) with UK anchor"
             post_article(
                 subreddit_uk, entry, cat, score, pos, neg,
                 matched, False, paras, post_reason=post_reason
@@ -661,7 +661,7 @@ def handle_manual_story(url, mode):
                 title, summary, " ".join(full_text.split()[:200]), h
             )
             if ai_confirmed:
-                post_reason = f"Manually submitted — score ({score:+d}), AI confirmed relevant"
+                post_reason = f"Score ({score:+d}), AI confirmed relevant"
                 post_article(
                     subreddit_uk, entry, cat, score, pos, neg,
                     matched, True, paras, post_reason=post_reason
