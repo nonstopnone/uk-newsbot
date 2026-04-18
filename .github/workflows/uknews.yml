@@ -1,29 +1,21 @@
-name: UK Newsbot
+name: BreakingUKNewsBot
 
 on:
   schedule:
-    # Runs every 3 hours
-    - cron: "0 */3 * * *"
+    - cron: "0 */0.3 * * *"
 
   workflow_dispatch:
     inputs:
       manual_story_url:
-        description: "URL of the story to post manually (leave blank for a normal automated run)"
+        description: "URL of story to post (leave blank for normal automated run)"
         required: false
         default: ""
         type: string
-      manual_post_mode:
-        description: >
-          Posting mode:
-            check        = score + optional AI (same logic as automated run),
-            ai_check     = always run AI confirmation before posting,
-            pre_approved = skip all checks and post immediately
-        required: true
-        type: choice
-        options:
-          - check
-          - ai_check
-          - pre_approved
+      manual_story_title:
+        description: "Title override — required for sites that block scraping (e.g. Sky News)"
+        required: false
+        default: ""
+        type: string
 
 jobs:
   run-bot:
@@ -74,7 +66,6 @@ jobs:
           REDDIT_USERNAME:      ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD:       ${{ secrets.REDDITPASSWORD }}
           GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
-          # Only populated on manual dispatch; empty string on scheduled runs
           MANUAL_STORY_URL:     ${{ github.event.inputs.manual_story_url }}
-          MANUAL_POST_MODE:     ${{ github.event.inputs.manual_post_mode }}
+          MANUAL_STORY_TITLE:   ${{ github.event.inputs.manual_story_title }}
         run: python newsbot.py
