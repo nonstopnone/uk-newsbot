@@ -600,25 +600,25 @@ def main():
     log("INFO", f"Total articles to evaluate: {len(raw_entries)}", Col.WHITE)
     candidates, posted_titles_this_run = [], set()
     stats = {"duplicate": 0, "in_run_dup": 0, "rejected": 0, "uk": 0, "intl": 0, "ai_checked": 0}
-    # Handle manually submitted stories from GitHub Actions workflow_dispatch.
-    # Supports three modes ("boxes"): "with_check" (identical to current automatic logic),
-    # "with_ai_check" (forces AI relevance validation), and "pre_approved" (posts without validation).
-    # Env vars required: MANUAL_MODE, MANUAL_TITLE, MANUAL_LINK.
-    # Optional: MANUAL_SOURCE (default "Manual Submission"), MANUAL_SUMMARY, MANUAL_TARGET ("UK" or "INTL", defaults to "UK").
-    # The posted reply comment remains completely unchanged and always states "This was posted automatically".
+
+    # ====================== MANUAL SUBMISSION HANDLING ======================
+    # Only run manual logic when MANUAL_MODE is explicitly one of the three options
     manual_mode = os.environ.get("MANUAL_MODE", "").strip().lower()
     if manual_mode in ("with_check", "with_ai_check", "pre_approved"):
-        manual_title = os.environ.get("MANUAL_TITLE")
-        manual_link = os.environ.get("MANUAL_LINK")
+        manual_title = os.environ.get("MANUAL_TITLE", "").strip()
+        manual_link = os.environ.get("MANUAL_LINK", "").strip()
+        
         if not manual_title or not manual_link:
-            log("MANUAL", "Missing MANUAL_TITLE or MANUAL_LINK env var", Col.YELLOW)
+            log("MANUAL", "Missing MANUAL_TITLE or MANUAL_LINK — skipping manual submission", Col.YELLOW)
         else:
             manual_source = os.environ.get("MANUAL_SOURCE", "Manual Submission")
             manual_summary = os.environ.get("MANUAL_SUMMARY", "")
             manual_target_input = os.environ.get("MANUAL_TARGET", "UK").strip().upper()
+            
             norm_link = normalize_url(manual_link)
             norm_title = normalize_title(manual_title)
             h = content_hash(manual_title + manual_summary)
+
             if norm_link in POSTED_URLS or h in POSTED_HASHES:
                 log("SKIP", f"[DUP] [MANUAL] {manual_title[:55]}…", Col.DIM)
                 stats["duplicate"] += 1
@@ -633,16 +633,17 @@ def main():
                 score, pos, neg, matched = calculate_score(full_text)
                 cat, _ = detect_category(full_text)
                 reject, reason = is_hard_reject(full_text, pos, neg)
+
                 target = "NONE"
                 ai_confirmed = False
                 post_reason = f"Manual submission via {manual_mode}"
+
                 if manual_mode == "pre_approved":
                     target = manual_target_input if manual_target_input in ("UK", "INTL") else "UK"
                     reject = False
                     post_reason = "Pre-approved manual submission"
                     ai_confirmed = False
                 elif manual_mode == "with_ai_check":
-                    target = "NONE"
                     stats["ai_checked"] += 1
                     if check_ai_relevance(manual_title, manual_summary, " ".join(full_text.split()[:200]), h):
                         target = "UK"
@@ -652,10 +653,7 @@ def main():
                         target = "NONE"
                         post_reason = "Manual with AI check - AI rejected"
                         reason = "AI deemed not relevant"
-                if manual_mode == "with_check":
-                    target = "NONE"
-                    ai_confirmed = False
-                    post_reason = ""
+                else:  # with_check
                     if not reject:
                         has_uk_anchor = any(g in full_text.lower() for g in ['uk', 'britain', 'london', 'england'])
                         if score >= 15 and has_uk_anchor:
@@ -678,8 +676,10 @@ def main():
                                 if reject else
                                 f"Low UK score ({score:+d}), routed to International"
                             )
+
                 log_reason = post_reason or (reason if reject else "Low score / no path")
                 log_score_detail(manual_title, score, pos, neg, matched, target, log_reason)
+
                 if target != "NONE":
                     candidates.append({
                         "entry": entry, "score": score, "pos": pos, "neg": neg,
@@ -693,12 +693,14 @@ def main():
                 else:
                     log("REJECTED", f"[MANUAL {manual_mode}] {reason}: {manual_title[:55]}…", Col.RED)
                     stats["rejected"] += 1
-    # ── Candidate summary ────────────────────────────────────────────────────
+
+    # ====================== NORMAL FEED PROCESSING ======================
     log("INFO", "=" * 60, Col.CYAN)
     log("INFO", f"Candidates found: UK={stats['uk']} INTL={stats['intl']} "
                 f"Rejected={stats['rejected']} Dupes={stats['duplicate']} "
                 f"AI calls={stats['ai_checked']}", Col.CYAN)
     log("INFO", "=" * 60, Col.CYAN)
+
     # ── Round-robin by source ────────────────────────────────────────────────
     final_list = []
     source_map = {
@@ -713,6 +715,7 @@ def main():
                 added = True
                 if len(final_list) >= TARGET_POSTS: break
         if not added: break
+
     log("INFO", f"Posting {len(final_list)} articles (target={TARGET_POSTS})", Col.CYAN)
     posted_count = 0
     for item in final_list:
@@ -729,8 +732,10 @@ def main():
         )
         if ok: posted_count += 1
         time.sleep(5)
+
     log("DONE", "=" * 60, Col.GREEN)
     log("DONE", f"Run complete. Posted {posted_count}/{len(final_list)} articles.", Col.GREEN)
     log("DONE", "=" * 60, Col.GREEN)
+
 if __name__ == "__main__":
     main()
