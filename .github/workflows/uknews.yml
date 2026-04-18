@@ -1,4 +1,4 @@
-name: BreakingUKNewsBot
+name: UK Newsbot
 
 on:
   schedule:
@@ -8,8 +8,9 @@ on:
   workflow_dispatch:
     inputs:
       manual_story_url:
-        description: "URL of the story to post manually"
-        required: true
+        description: "URL of the story to post manually (leave blank for a normal automated run)"
+        required: false
+        default: ""
         type: string
       manual_post_mode:
         description: >
@@ -46,7 +47,9 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          pip install google-genai
 
       - name: Restore deduplication file
         uses: actions/cache@v4
