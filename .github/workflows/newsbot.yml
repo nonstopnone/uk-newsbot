@@ -1,4 +1,4 @@
-name: BreakingUKNewsBot
+name: uknewsbot
 
 on:
   schedule:
