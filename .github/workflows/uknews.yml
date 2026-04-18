@@ -1,99 +1,77 @@
-name: UK News Bot
+name: BreakingUKNewsBot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # Runs every 3 hours
+    - cron: "0 */3 * * *"
 
   workflow_dispatch:
     inputs:
-      MANUAL_MODE:
-        description: 'Submission mode (select one box - leave blank for scheduled run)'
-        required: false
-        default: ''
+      manual_story_url:
+        description: "URL of the story to post manually"
+        required: true
+        type: string
+      manual_post_mode:
+        description: >
+          Posting mode:
+            check        = score + optional AI (same logic as automated run),
+            ai_check     = always run AI confirmation before posting,
+            pre_approved = skip all checks and post immediately
+        required: true
         type: choice
         options:
-          - ''
-          - with_check
-          - with_ai_check
+          - check
+          - ai_check
           - pre_approved
 
-      MANUAL_TITLE:
-        description: 'Article title (required only for manual submission)'
-        required: false
-        type: string
-
-      MANUAL_LINK:
-        description: 'Full URL of the article (required only for manual submission)'
-        required: false
-        type: string
-
-      MANUAL_SOURCE:
-        description: 'Source name (optional)'
-        required: false
-        default: 'Manual Submission'
-        type: string
-
-      MANUAL_SUMMARY:
-        description: 'Optional article summary or excerpt'
-        required: false
-        type: string
-
-      MANUAL_TARGET:
-        description: 'Target subreddit (only used in pre_approved mode)'
-        required: false
-        default: 'UK'
-        type: choice
-        options:
-          - UK
-          - INTL
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
-permissions:
-  contents: write
-
 jobs:
-  run-newsbot:
+  run-bot:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-     
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-         
+          python-version: "3.12"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser praw beautifulsoup4 requests python-dateutil google-genai
-         
+        run: pip install -r requirements.txt
+
+      - name: Restore deduplication file
+        uses: actions/cache@v4
+        with:
+          path: posted_urls.txt
+          key: dedup-${{ github.run_id }}
+          restore-keys: |
+            dedup-
+
+      - name: Restore AI cache
+        uses: actions/cache@v4
+        with:
+          path: ai_cache.json
+          key: ai-cache-${{ github.run_id }}
+          restore-keys: |
+            ai-cache-
+
       - name: Run newsbot
         env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # Manual submission parameters (passed to the Python script)
-          MANUAL_MODE: ${{ github.event.inputs.MANUAL_MODE }}
-          MANUAL_TITLE: ${{ github.event.inputs.MANUAL_TITLE }}
-          MANUAL_LINK: ${{ github.event.inputs.MANUAL_LINK }}
-          MANUAL_SOURCE: ${{ github.event.inputs.MANUAL_SOURCE }}
-          MANUAL_SUMMARY: ${{ github.event.inputs.MANUAL_SUMMARY }}
-          MANUAL_TARGET: ${{ github.event.inputs.MANUAL_TARGET }}
-        run: python -u newsbot.py
-       
-      - name: Commit Logs
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # Ensure files exist before adding to prevent 'pathspec' errors
-          touch run_log.txt posted_urls.txt ai_cache.json metrics.json
-          git add run_log.txt posted_urls.txt ai_cache.json metrics.json
-          git add posted_urls_*.txt || true
-          git commit -m "Update Main Bot logs [skip ci]" || true
-          git push || true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REDDIT_USERNAME:      ${{ secrets.REDDIT_USERNAME }}
+          REDDITPASSWORD:       ${{ secrets.REDDITPASSWORD }}
+          GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
+          # Only populated on manual dispatch; empty string on scheduled runs
+          MANUAL_STORY_URL:     ${{ github.event.inputs.manual_story_url }}
+          MANUAL_POST_MODE:     ${{ github.event.inputs.manual_post_mode }}
+        run: python newsbot.py
