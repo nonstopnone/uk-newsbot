@@ -7,27 +7,28 @@ on:
   workflow_dispatch:
     inputs:
       MANUAL_MODE:
-        description: 'Submission mode (select one box)'
-        required: true
-        default: 'with_check'
+        description: 'Submission mode (select one box - leave blank for scheduled run)'
+        required: false
+        default: ''
         type: choice
         options:
+          - ''
           - with_check
           - with_ai_check
           - pre_approved
 
       MANUAL_TITLE:
-        description: 'Article title (required for manual submission)'
-        required: true
+        description: 'Article title (required only for manual submission)'
+        required: false
         type: string
 
       MANUAL_LINK:
-        description: 'Full URL of the article (required for manual submission)'
-        required: true
+        description: 'Full URL of the article (required only for manual submission)'
+        required: false
         type: string
 
       MANUAL_SOURCE:
-        description: 'Source name (optional, defaults to "Manual Submission")'
+        description: 'Source name (optional)'
         required: false
         default: 'Manual Submission'
         type: string
