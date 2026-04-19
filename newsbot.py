@@ -583,7 +583,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
         neg_hits = {k[4:]: v for k, v in matched.items() if k.startswith("NEG:")}
 
         lines = [
-            f"**Source:** {entry.source}  |  **Ref:** `{ref}`*",
+            f"**Source:** {entry.source}  |  **Ref:** `{ref}`",
             ""
         ]
 
