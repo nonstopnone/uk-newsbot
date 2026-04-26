@@ -1,4 +1,3 @@
-2026-04-19T11:59:22.439693+00:00|https://www.bbc.com/news/videos/c0le5pdgdzwo?at_medium=RSS&at_campaign=rss|Watch: Obama and Mamdani sing with children in New York|caab7e38aa374a29d8332c57a4793420
 2026-04-19T15:27:24.797275+00:00|https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&at_campaign=rss|Why are gray whales dying in San Francisco's waters? US scientists search for clues|70beda32071062cf65d1b9c93bbc993c
 2026-04-19T16:54:08.774627+00:00|https://news.sky.com/story/eight-children-killed-in-shooting-in-louisiana-police-say-13533382|Eight children killed in shooting in Louisiana, police say|1f5bb483c1f1e40c132fc7710ecab207
 2026-04-19T19:04:46.991215+00:00|https://news.sky.com/story/iranian-national-arrested-in-la-on-suspicion-of-arms-trafficking-for-iran-reports-us-attorney-13533805|Iranian national arrested in LA on suspicion of arms trafficking for Iran, reports US attorney|9186729dc1613606521a42ff7caa7d43
@@ -47,3 +46,4 @@
 2026-04-26T08:04:56.251377+00:00|https://www.bbc.com/news/articles/cgk0ky5zgvlo?at_medium=RSS&at_campaign=rss|In pictures: Chaos as gunfire heard in Washington DC ballroom|28e7151bf15ab973a6fd897fc25073c1
 2026-04-26T09:11:42.836209+00:00|https://news.sky.com/story/how-shooting-unfolded-at-the-white-house-correspondents-dinner-13536662|How shooting unfolded at the White House correspondents' dinner|5f3fb42bd87fdfdcd245a58ee5a0d700
 2026-04-26T10:05:32.266417+00:00|https://news.sky.com/story/the-threats-against-trumps-life-over-years-after-shooting-at-white-house-correspondents-dinner-13536700|The threats against Trump's life over years|a8dc57144882be103ac2a9273ec2dd59
+2026-04-26T12:32:28.010244+00:00|https://www.bbc.com/news/articles/c2484nln8zeo?at_medium=RSS&at_campaign=rss|Washington hotel shooting raises questions about Trump security|ceb5e9fb877d1517c889d5271accdb94
