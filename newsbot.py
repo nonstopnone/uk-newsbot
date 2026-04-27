@@ -583,7 +583,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
         neg_hits = {k[4:]: v for k, v in matched.items() if k.startswith("NEG:")}
 
         lines = [
-            f"**Source:** {entry.source}  |  **Ref:** `{ref}`",
+            f"**Source:** {entry.source},
             ""
         ]
 
@@ -596,8 +596,6 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
             )
             lines += [
                 f"**UK Relevance Score:** {score:+d}  "
-                f"(UK signal: +{pos} / Non-UK signal: -{neg})",
-                f"**Matched keywords:** {k_list}",
                 ""
             ]
 
@@ -605,9 +603,6 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
                 neg_list = ", ".join(
                     f"`{k}`" for k in sorted(neg_hits, key=neg_hits.get, reverse=True)[:3]
                 )
-                lines += [f"**Non-UK signals detected:** {neg_list}", ""]
-
-        lines.append(f"**Why posted:** {post_reason}")
         lines.append("")
         lines.append(
             "This was posted automatically"
