@@ -583,7 +583,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
         neg_hits = {k[4:]: v for k, v in matched.items() if k.startswith("NEG:")}
 
         lines = [
-            f"**Source:** {entry.source},
+            f"**Source:** {entry.source}",
             ""
         ]
 
@@ -808,49 +808,4 @@ def main():
             stats["rejected"] += 1
 
     # ── Candidate summary ────────────────────────────────────────────────────
-    log("INFO", "=" * 60, Col.CYAN)
-    log("INFO", f"Candidates: UK={stats['uk']}  INTL={stats['intl']}  "
-                f"Rejected={stats['rejected']}  Dupes={stats['duplicate']}  "
-                f"AI calls={stats['ai_checked']}", Col.CYAN)
-    log("INFO", "=" * 60, Col.CYAN)
-
-    # ── Round-robin by source ────────────────────────────────────────────────
-    final_list = []
-    source_map = {
-        s: [c for c in candidates if c['entry'].source == s]
-        for s in set(c['entry'].source for c in candidates)
-    }
-    while len(final_list) < TARGET_POSTS:
-        added = False
-        for s in list(source_map.keys()):
-            if source_map[s]:
-                final_list.append(source_map[s].pop(0))
-                added = True
-                if len(final_list) >= TARGET_POSTS: break
-        if not added: break
-
-    log("INFO", f"Posting {len(final_list)} articles (target={TARGET_POSTS})", Col.CYAN)
-
-    posted_count = 0
-    for item in final_list:
-        sub = subreddit_uk if item['target'] == "UK" else subreddit_intl
-        log("POSTING", f"[{item['target']}] [{item['entry'].source}] {item['entry'].title[:50]}…", Col.CYAN)
-        log("POSTING", f"  Score={item['score']:+d}  Category={item['cat']}  AI={item['ai']}", Col.CYAN)
-        log("POSTING", f"  Reason: {item['post_reason']}", Col.CYAN)
-
-        ok = post_article(
-            sub, item['entry'], item['cat'],
-            item['score'], item['pos'], item['neg'],
-            item['matched'], item['ai'], item['paras'],
-            is_intl=(item['target'] == "INTL"),
-            post_reason=item['post_reason']
-        )
-        if ok: posted_count += 1
-        time.sleep(5)
-
-    log("DONE", "=" * 60, Col.GREEN)
-    log("DONE", f"Run complete. Posted {posted_count}/{len(final_list)} articles.", Col.GREEN)
-    log("DONE", "=" * 60, Col.GREEN)
-
-if __name__ == "__main__":
-    main()
+    log("INFO", "=" * 60,
