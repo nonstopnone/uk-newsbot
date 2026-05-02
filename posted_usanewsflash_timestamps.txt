@@ -1,4 +1,3 @@
-2026-04-25T21:06:17.346211+00:00|https://www.bbc.com/news/articles/c1mkdvpzzpno?at_medium=RSS&at_campaign=rss|Georgia declares state of emergency as wildfires destroy dozens of homes|55dbf58a0a49828d767ee31acf7b3fa9
 2026-04-26T08:04:56.251377+00:00|https://www.bbc.com/news/articles/cgk0ky5zgvlo?at_medium=RSS&at_campaign=rss|In pictures: Chaos as gunfire heard in Washington DC ballroom|28e7151bf15ab973a6fd897fc25073c1
 2026-04-26T09:11:42.836209+00:00|https://news.sky.com/story/how-shooting-unfolded-at-the-white-house-correspondents-dinner-13536662|How shooting unfolded at the White House correspondents' dinner|5f3fb42bd87fdfdcd245a58ee5a0d700
 2026-04-26T10:05:32.266417+00:00|https://news.sky.com/story/the-threats-against-trumps-life-over-years-after-shooting-at-white-house-correspondents-dinner-13536700|The threats against Trump's life over years|a8dc57144882be103ac2a9273ec2dd59
@@ -56,3 +55,4 @@
 2026-05-01T21:39:44.799914+00:00|https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss|Pentagon says US military to be an 'AI-first' fighting force|dbeb7088238262a5540fbcfc44e29f01
 2026-05-02T04:43:50.117154+00:00|https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss|Trump claims other presidents flouted war powers law. It's a mixed record|e2cb759d0683e75ddd23a0c43b1d3bb5
 2026-05-02T16:26:15.591854+00:00|https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss|California to begin ticketing driverless cars that violate traffic laws|80f42e91bb8d984911f09b8f6e4de227
+2026-05-02T21:30:45.571245+00:00|https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss|US Supreme Court asked to restore abortion pill access|ad92608644ab567a780da4bbe8a4e111
