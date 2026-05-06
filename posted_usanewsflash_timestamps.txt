@@ -1,4 +1,3 @@
-2026-04-29T21:15:43.875029+00:00|https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss|Four key takeaways from Jerome Powell's last rate decision as Fed chair|de225e8ba9e0957a6da3733bc7aa86f2
 2026-04-29T22:32:42.998446+00:00|https://www.bbc.com/news/articles/ce8pd1kr387o?at_medium=RSS&at_campaign=rss|Smiles and wonder: How the US reacted to King Charles|02acb9f2267264281ea90dfdd59e8265
 2026-04-30T01:16:34.811431+00:00|https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss|Watch: Aerial video shows destruction after tornado strikes small Texas town|64c4fba1a21ade29c6f59e5a3373e1bb
 2026-04-30T01:16:40.334324+00:00|https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss|The King and Queen in the Big Apple: What the royals did on their third day in the US|6797266472aac536dd6e6dadcd4adefe
@@ -40,3 +39,4 @@
 2026-05-06T09:12:16.761549+00:00|https://news.sky.com/story/former-delivery-driver-tanner-horner-sentenced-to-death-for-murdering-seven-year-old-athena-strand-in-texas-13540586|Driver sentenced to death for killing seven-year-old girl after delivering her Christmas present|cee6b14209740c6e3be82cde158a4508
 2026-05-06T13:00:45.674031+00:00|https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss|Massive Alaska megatsunami was second largest ever recorded|b5a9e774deed23f298b660ec9b7d99eb
 2026-05-06T15:27:54.536187+00:00|https://news.sky.com/story/man-accused-of-using-famous-familys-name-to-steal-450m-from-mexican-billionaire-13540737|Man accused of using famous family's name to take $450m from billionaire|c07d673d750facb3186db632bec1f1df
+2026-05-06T21:32:07.862778+00:00|https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss|Brazil President Lula to discuss economy and security with Trump at White House|193b1253c8df2a22675269be25699bbb
