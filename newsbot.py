@@ -125,14 +125,11 @@ DISTINCT_UK_KW_REQUIRED = 2
 # =========================
 # Section: Manual Dispatch Configuration
 # =========================
-# Set via GitHub Actions workflow_dispatch inputs.
-# MANUAL_STORY_URL   — URL to post; if blank the normal scheduled feed run executes.
-# MANUAL_STORY_TITLE — optional title override (needed for sites that block scraping).
 MANUAL_URL   = os.environ.get("MANUAL_STORY_URL",   "").strip()
 MANUAL_TITLE = os.environ.get("MANUAL_STORY_TITLE", "").strip()
 
 # =========================
-# Section: Keyword Definitions
+# Section: Keyword Definitions (Refined for Hard News)
 # =========================
 
 # ── Tier 1 (6 pts): Core UK identifiers ──────────────────────────────────────
@@ -146,50 +143,44 @@ UK_KEYWORDS = {
     "house of commons": 5, "house of lords": 5, "prime minister": 5,
     "holyrood": 5, "stormont": 5, "senedd": 5, "devolution": 5,
     "king charles": 5, "prince william": 5, "princess of wales": 5,
-    "buckingham palace": 5, "windsor castle": 5,
 
 # ── Tier 3 (4 pts): Major institutions, departments, regulators ───────────────
     "home office": 4, "foreign office": 4, "foreign commonwealth": 4,
     "treasury": 4, "bank of england": 4, "chancellor": 4,
     "met police": 4, "metropolitan police": 4, "scotland yard": 4,
-    "hmrc": 4, "companies house": 4, "ofcom": 4, "ofsted": 4,
+    "hmrc": 4, "companies house": 4, "ofcom": 4, "ofsted": 4, "ofgem": 4,
     "environment agency": 4, "electoral commission": 4,
-    "financial conduct authority": 4, "fca": 4,
+    "financial conduct authority": 4, "fca": 4, "serious fraud office": 4,
     "uk health security agency": 4, "ukhsa": 4, "mhra": 4,
     "office for national statistics": 4, "ons": 4,
     "office for budget responsibility": 4, "obr": 4,
     "care quality commission": 4, "cqc": 4,
     "ministry of defence": 4, "mod": 4,
     "gchq": 4, "mi5": 4, "mi6": 4, "secret intelligence service": 4,
-    "british army": 4, "royal navy": 4, "royal air force": 4, "raf": 4,
     "dvla": 4, "dvsa": 4,
     "network rail": 4, "hs2": 4, "transport for london": 4, "tfl": 4,
     "met office": 4, "national grid": 4,
-    "bbc": 4, "itv": 4, "sky news": 4, "channel 4": 4, "channel 5": 4,
-    "guardian": 4, "telegraph": 4,
+    "bbc news": 4, "sky news": 4,
     "ftse": 4, "ftse 100": 4, "ftse 250": 4,
-    "royal": 4,
+    "cbi": 4, "tuc": 4,
 
 # ── Tier 3 (4 pts): Political parties ────────────────────────────────────────
-    "labour": 4, "labour party": 4, "conservative": 4, "tory": 4,
-    "tories": 4, "lib dem": 4, "liberal democrat": 4, "liberal democrats": 4,
+    "labour party": 4, "conservative party": 4, "tory": 4, "tories": 4,
+    "lib dem": 4, "liberal democrat": 4, "liberal democrats": 4,
     "snp": 4, "scottish national party": 4, "reform uk": 4,
     "plaid cymru": 4, "dup": 4, "sinn fein": 4, "alliance party": 4,
-    "green party": 3, "alba party": 3,
+    "green party": 3,
 
-# ── Tier 3 (4 pts): Named politicians (current & recent prominent) ────────────
-    "keir starmer": 4, "rishi sunak": 4, "boris johnson": 4,
-    "theresa may": 4, "gordon brown": 4, "tony blair": 4,
-    "jeremy hunt": 4, "rachel reeves": 4, "yvette cooper": 4,
+# ── Tier 3 (4 pts): Named politicians (Current breaking news focus) ───────────
+    "keir starmer": 4, "rachel reeves": 4, "yvette cooper": 4,
     "angela rayner": 4, "david lammy": 4, "wes streeting": 4,
     "pat mcfadden": 4, "bridget phillipson": 4, "ed miliband": 4,
-    "nigel farage": 4, "kemi badenoch": 4,
+    "nigel farage": 4, "kemi badenoch": 4, "ed davey": 4, "john swinney": 4,
 
 # ── Tier 3 (4 pts): Major UK cities ──────────────────────────────────────────
     "manchester": 4, "birmingham": 4, "leeds": 4, "glasgow": 4,
     "edinburgh": 4, "cardiff": 4, "belfast": 4, "liverpool": 4,
     "sheffield": 4, "bristol": 4, "newcastle": 4, "nottingham": 4,
-    "leicester": 4, "southampton": 4, "portsmouth": 4,
 
 # ── Tier 3 (4 pts): Legal & judicial ─────────────────────────────────────────
     "old bailey": 4, "crown court": 4, "supreme court": 4,
@@ -202,44 +193,27 @@ UK_KEYWORDS = {
     "autumn statement": 4, "spring statement": 4, "spending review": 4,
     "universal credit": 4, "personal independence payment": 4,
     "council tax": 4, "stamp duty": 4, "national insurance": 4,
+    "cost of living": 4,
 
 # ── Tier 3 (4 pts): Health-specific UK terms ─────────────────────────────────
     "nhs england": 4, "nhs scotland": 4, "nhs wales": 4,
     "nice": 4, "accident and emergency": 4,
     "ambulance trust": 4, "integrated care": 4, "icb": 4,
 
-# ── Tier 3 (4 pts): Major UK transport hubs ──────────────────────────────────
+# ── Tier 3 (4 pts): Major UK transport hubs & Brands ─────────────────────────
     "heathrow": 4, "gatwick": 4, "stansted": 4, "luton airport": 4,
-    "manchester airport": 4, "national rail": 4, "eurostar": 4,
-
-# ── Tier 3 (4 pts): Major UK companies & brands ──────────────────────────────
+    "national rail": 4, "eurostar": 4, "royal mail": 4, "post office": 4,
     "rolls-royce": 4, "bae systems": 4, "bp": 4, "shell uk": 4,
     "barclays": 4, "lloyds": 4, "natwest": 4, "hsbc uk": 4,
     "tesco": 4, "sainsbury": 4, "asda": 4, "marks and spencer": 4,
-    "john lewis": 4, "bt group": 4, "vodafone uk": 4, "astrazeneca": 4,
-    "glaxosmithkline": 4, "gsk": 4, "unilever": 4,
-
-# ── Tier 3 (4 pts): UK sport institutions ────────────────────────────────────
-    "premier league": 4, "fa cup": 4,
-    "the ashes": 4, "six nations": 4, "british lions": 4,
-    "wimbledon": 4, "british grand prix": 4,
 
 # ── Tier 2 (3 pts): Secondary cities, regions, cultural terms ────────────────
-    "brighton": 3, "oxford": 3, "cambridge": 3, "york": 3,
-    "aberdeen": 3, "dundee": 3, "inverness": 3, "swansea": 3,
-    "newport": 3, "derby": 3, "coventry": 3, "hull": 3,
-    "middlesbrough": 3, "sunderland": 3, "stoke": 3, "exeter": 3,
+    "oxford": 3, "cambridge": 3, "york": 3, "aberdeen": 3, "dundee": 3,
+    "swansea": 3, "newport": 3, "derby": 3, "coventry": 3, "hull": 3,
     "english channel": 3, "north sea": 3, "irish sea": 3,
-    "the midlands": 3, "east anglia": 3,
-    "cornwall": 3, "devon": 3, "kent": 3, "surrey": 3,
-    "yorkshire": 3, "lancashire": 3, "cumbria": 3,
-    "radio 4": 3, "radio 1": 3, "bbc one": 3, "bbc two": 3,
-    "daily mail": 3, "the sun": 3, "daily mirror": 3,
-    "the independent": 3, "evening standard": 3,
+    "the midlands": 3, "east anglia": 3, "cornwall": 3, "yorkshire": 3,
     "russell group": 3, "ucl": 3, "imperial college": 3, "lse": 3,
-    "oxford university": 3, "cambridge university": 3,
-    "nhs trust": 3, "mental health trust": 3,
-    "british": 3,
+    "nhs trust": 3, "mental health trust": 3, "british": 3,
 
 # ── Tier 1 (2 pts): Supporting / weaker signals ──────────────────────────────
     "english": 2, "scottish": 2, "welsh": 2,
@@ -250,40 +224,26 @@ UK_KEYWORDS = {
     "shadow chancellor": 2, "shadow home secretary": 2,
     "welsh government": 2, "scottish government": 2,
     "northern ireland executive": 2,
-    "george osborne": 2, "alastair campbell": 2,
-    "ukip": 2, "george galloway": 2,
-    "armed forces": 2, "british forces": 2,
-    "special air service": 2, "sas": 2, "parachute regiment": 2,
-    "old trafford": 2, "wembley": 2, "twickenham": 2,
-    "lord's cricket": 2, "ryder cup": 2, "british open": 2,
-    "bedroom tax": 2, "furlough": 2, "help to buy": 2,
-    "british passport": 2, "right to remain": 2,
-    "a&e": 2, "gp surgery": 2,
-    "pip": 2,
+    "armed forces": 2, "special air service": 2, "sas": 2,
+    "help to buy": 2, "british passport": 2, "right to remain": 2,
+    "a&e": 2, "gp surgery": 2, "pip": 2,
 }
 
 # ── Negative keywords ─────────────────────────────────────────────────────────
 NEGATIVE_KEYWORDS = {
 # US politics — very strong negatives
-    "clinton":                  -15,
     "biden":                    -12,
     "trump":                    -12,
-    "obama":                    -12,
     "harris":                   -10,
     "maga":                     -10,
     "republican party":          -8,
     "democratic party":          -8,
     "white house":               -8,
     "oval office":               -8,
-    "air force one":             -6,
     "congress":                  -8,
     "senate":                    -8,
     "house of representatives":  -8,
     "capitol hill":              -8,
-    "desantis":                  -8,
-    "pelosi":                    -6,
-    "aoc":                       -6,
-    "mcconnell":                 -6,
 
 # US institutions & finance
     "fbi":                       -6,
@@ -296,8 +256,6 @@ NEGATIVE_KEYWORDS = {
     "sec":                       -5,
     "fda":                       -6,
     "cdc":                       -6,
-    "nasa":                      -4,
-    "silicon valley":            -6,
 
 # US geography
     "washington":                -6,
@@ -306,58 +264,28 @@ NEGATIVE_KEYWORDS = {
     "california":                -5,
     "texas":                     -5,
     "florida":                   -5,
-    "chicago":                   -4,
-    "hollywood":                 -4,
 
-# Russia / former Soviet
+# Russia / China / Int
     "putin":                     -8,
     "kremlin":                   -8,
-    "moscow":                    -6,
-    "russia":                    -6,
-    "lukashenko":                -6,
-    "belarus":                   -4,
-
-# China
-    "beijing":                   -6,
     "xi jinping":                -8,
     "chinese communist party":   -6,
-    "politburo":                 -6,
-
-# Middle East (stories not touching UK policy/troops)
     "netanyahu":                 -5,
-    "tel aviv":                  -4,
-    "ayatollah":                 -6,
-    "hezbollah":                 -5,
-
-# Other non-UK governments
     "narendra modi":             -6,
-    "new delhi":                 -4,
-    "scott morrison":            -6,
     "anthony albanese":          -6,
     "justin trudeau":            -6,
-    "ottawa":                    -4,
-    "canberra":                  -4,
     "macron":                    -3,
 
-# US sports (very safe negatives)
+# US sports & media
     "nfl":                       -6,
     "nba":                       -6,
     "mlb":                       -6,
     "nhl":                       -5,
     "super bowl":                -8,
-    "world series":              -6,
-    "stanley cup":               -5,
-    "march madness":             -5,
-    "ncaa":                      -5,
-    "mls":                       -4,
-
-# US media outlets
     "fox news":                  -6,
     "cnn":                       -4,
     "msnbc":                     -5,
     "new york times":            -4,
-    "washington post":           -4,
-    "wall street journal":       -5,
 }
 
 BANNED_PHRASES = [
@@ -372,8 +300,6 @@ FLUFF_PATTERNS = [
     re.compile(r"^Here'?s\s", re.I),
     re.compile(r"^\d+\s(ways|things|reasons)", re.I)
 ]
-
-MAJOR_EVENT_KEYWORDS = ["final", "champion", "trophy", "gold", "won", "wins", "victory", "defeat", "dead", "died"]
 
 FLAIR_CACHE = {}
 
@@ -410,7 +336,6 @@ def content_hash(text_blob):
     return hashlib.md5(text_blob.encode('utf-8')).hexdigest()
 
 def generate_ref():
-    """Generate a short reference: 3 letters + 4 digits, e.g. XKP-4821."""
     letters = ''.join(random.choices(string.ascii_uppercase, k=3))
     digits  = ''.join(random.choices(string.digits, k=4))
     return f"{letters}-{digits}"
@@ -574,7 +499,6 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
     flair_label = "Notable International News🌍" if is_intl else category
     flair_id    = get_flair_id(target_sub, flair_label)
     ref         = generate_ref()
-    posted_at   = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 
     try:
         sub = target_sub.submit(title=entry.title, url=entry.link, flair_id=flair_id)
@@ -595,7 +519,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
                 f"`{k}`" for k in sorted(pos_hits, key=pos_hits.get, reverse=True)[:5]
             )
             lines += [
-                f"**UK Relevance Score:** {score:+d}  "
+                f"**UK Relevance Score:** {score:+d}  ",
                 ""
             ]
 
@@ -625,17 +549,9 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
 # Section: Manual Dispatch Handler
 # =========================
 def handle_manual_story(url, title_override):
-    """
-    Post a single URL supplied via GitHub Actions workflow_dispatch.
-    No relevance checks — the submission is posted unconditionally.
-    An optional title override handles sites that block scraping (e.g. Sky News).
-    The posted comment is identical to any automatically posted article.
-    """
     log("MANUAL", f"Posting URL: {url}", Col.CYAN)
-
     paras = fetch_article_text(url)
 
-    # Resolve title: override → og:title → <title> tag → URL slug
     title = title_override
     if not title:
         try:
@@ -670,7 +586,6 @@ def handle_manual_story(url, title_override):
 # Section: Main
 # =========================
 def main():
-    # ── Manual dispatch: post one story and exit ──────────────────────────────
     if MANUAL_URL:
         log("START", "Manual dispatch — single story post", Col.CYAN)
         handle_manual_story(MANUAL_URL, MANUAL_TITLE)
@@ -733,10 +648,18 @@ def main():
             stats["in_run_dup"] += 1
             continue
 
+        # ==========================================
+        # PIPELINE LOGGING
+        # ==========================================
+        log("PIPELINE", f"Evaluating: [{entry.source}] {entry.title[:60]}...", Col.CYAN)
+        log("PIPELINE", " ➔ Fetching article body text...", Col.DIM)
+
         paras     = fetch_article_text(entry.link)
         full_text = entry.title + " " + entry.summary + " " + " ".join(paras)
-        score, pos, neg, matched = calculate_score(full_text)
 
+        log("PIPELINE", " ➔ Scoring keywords & checking hard rejections...", Col.DIM)
+
+        score, pos, neg, matched = calculate_score(full_text)
         cat, _         = detect_category(full_text)
         reject, reason = is_hard_reject(full_text, pos, neg)
 
@@ -806,6 +729,10 @@ def main():
         else:
             log("REJECTED", f"{reason}: {entry.title[:55]}…", Col.RED)
             stats["rejected"] += 1
-# ── Candidate summary ────────────────────────────────────────────────────
-    log("INFO", "=" * 60, Col.CYAN)
 
+    # ── Candidate summary ────────────────────────────────────────────────────
+    log("INFO", "=" * 60)
+    log("INFO", f"Run Complete. Stats: {stats}")
+
+if __name__ == "__main__":
+    main()
