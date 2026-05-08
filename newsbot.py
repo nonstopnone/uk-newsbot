@@ -806,6 +806,6 @@ def main():
         else:
             log("REJECTED", f"{reason}: {entry.title[:55]}…", Col.RED)
             stats["rejected"] += 1
+# ── Candidate summary ────────────────────────────────────────────────────
+    log("INFO", "=" * 60, Col.CYAN)
 
-    # ── Candidate summary ────────────────────────────────────────────────────
-    log("INFO", "=" * 60,
