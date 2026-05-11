@@ -732,7 +732,53 @@ def main():
 
     # ── Candidate summary ────────────────────────────────────────────────────
     log("INFO", "=" * 60)
-    log("INFO", f"Run Complete. Stats: {stats}")
+    log("INFO", f"Evaluation Complete. Stats: {stats}")
+    log("INFO", f"Attempting to post up to {TARGET_POSTS} articles...", Col.CYAN)
+
+    # ==========================================
+    # SECTION: Actually Post the Candidates
+    # ==========================================
+    posts_made = 0
+    source_counts = Counter()
+
+    for c in candidates:
+        # Stop if we hit our global run limit
+        if posts_made >= TARGET_POSTS:
+            log("INFO", f"Reached target of {TARGET_POSTS} posts. Stopping.", Col.GREEN)
+            break
+        
+        # Skip if we've already posted too many from this specific source (e.g., max 3 BBC articles)
+        src = c["entry"].source
+        if source_counts[src] >= MAX_PER_SOURCE:
+            log("SKIP", f"Max posts ({MAX_PER_SOURCE}) reached for source: {src}", Col.DIM)
+            continue
+
+        # Route to the correct subreddit
+        target_sub = subreddit_uk if c["target"] == "UK" else subreddit_intl
+        is_intl = (c["target"] == "INTL")
+
+        # Dispatch the post
+        success = post_article(
+            target_sub=target_sub,
+            entry=c["entry"],
+            category=c["cat"],
+            score=c["score"],
+            pos=c["pos"],
+            neg=c["neg"],
+            matched=c["matched"],
+            ai=c["ai"],
+            paras=c["paras"],
+            is_intl=is_intl,
+            post_reason=c["post_reason"]
+        )
+
+        if success:
+            posts_made += 1
+            source_counts[src] += 1
+            time.sleep(2) # Recommended: Small sleep to avoid tripping Reddit's rate limit filters
+
+    log("INFO", f"Automated run finished. Total posts made: {posts_made}", Col.GREEN)
+
 
 if __name__ == "__main__":
     main()
