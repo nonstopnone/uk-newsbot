@@ -1,4 +1,3 @@
-2026-05-05T22:12:09.148953+00:00|https://www.bbc.com/news/videos/c707k7krn99o?at_medium=RSS&at_campaign=rss|Watch: Hundreds of beagles rescued from breeding facility being rehomed|e8fa50006165611d39de509404ef7002
 2026-05-06T03:49:12.219396+00:00|https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss|Vivek Ramaswamy wins Republican nomination for Ohio governor|eaa69350887a69d5d125074f4c57b062
 2026-05-06T03:49:17.891625+00:00|https://www.bbc.com/news/articles/c8jv8v3rrrno?at_medium=RSS&at_campaign=rss|Researchers discover where coyote who made epic swim to Alcatraz really came from|36c5a1164d852c4400980cafd3712382
 2026-05-06T09:12:16.761549+00:00|https://news.sky.com/story/former-delivery-driver-tanner-horner-sentenced-to-death-for-murdering-seven-year-old-athena-strand-in-texas-13540586|Driver sentenced to death for killing seven-year-old girl after delivering her Christmas present|cee6b14209740c6e3be82cde158a4508
@@ -38,3 +37,5 @@
 2026-05-12T15:22:33.570927+00:00|https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss|US inflation jumps to 3.8% as energy costs surge from Iran war|2b126fd2e302bcfdb90f4c51318509e4
 2026-05-12T17:34:00.674592+00:00|https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss|Dali ship operator charged over deadly  Baltimore bridge collapse|70d46188ae8d500e70d0a3efd754f3ab
 2026-05-12T19:19:33.673689+00:00|https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss|NBA player Clarke dies aged 29|e34a317f9ef71818d3948b35642d480f
+2026-05-12T22:20:14.289900+00:00|https://news.sky.com/story/nba-forward-brandon-clarke-who-played-basketball-for-the-memphis-grizzlies-dies-at-29-13543289|NBA forward Brandon Clarke dies at 29|bffb4f477a5807a1bdcad97dd59dacd0
+2026-05-12T22:20:20.126648+00:00|https://www.bbc.com/news/articles/c202nj46p7wo?at_medium=RSS&at_campaign=rss|Lawsuit seeks to halt $13m makeover of Lincoln Memorial Reflecting Pool|2c5e09aeecf43551aa86e9fed295fdde
