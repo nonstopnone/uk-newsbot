@@ -1,4 +1,3 @@
-2026-05-10T21:58:21.780398+00:00|https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&at_campaign=rss|What next for US passengers evacuated from hantavirus-hit cruise ship?|0cf392339d8dcd1ddca9a02ddf1c73ac
 2026-05-11T08:49:23.776929+00:00|https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss|BBC tours England and Argentina's World Cup training grounds|1e0cd07f9c92a12dbd7c21f348aa4424
 2026-05-11T14:11:40.221001+00:00|https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss|US and French nationals test positive for hantavirus after leaving ship|80ebabb49a62348f2f29150bad930c37
 2026-05-11T14:11:45.998690+00:00|https://news.sky.com/story/white-house-correspondents-dinner-shooting-suspect-pleads-not-guilty-13542732|Man accused of trying to assassinate Trump at dinner event pleads not guilty|448ae7d32ebd2511db96cb5ce0aaefa0
@@ -32,3 +31,4 @@
 2026-05-15T20:08:17.167583+00:00|https://www.bbc.com/news/articles/cgep2273d5go?at_medium=RSS&at_campaign=rss|US to seek death penalty for suspect in killing of Israeli embassy staff members|ab8b59a667ec350a299e7f31ed481348
 2026-05-15T22:31:02.247465+00:00|https://www.bbc.com/news/videos/czx20g00ly1o?at_medium=RSS&at_campaign=rss|Waymo driverless cars become trapped in Atlanta suburb after glitch|d6b4a1bc520376838137e6c15b345eec
 2026-05-16T21:28:23.323772+00:00|https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss|Republican senator who voted to convict Trump battles for re-election|2e77169fe26cd4c2413e46717602c7b7
+2026-05-17T21:58:51.442264+00:00|https://news.sky.com/story/four-crew-members-ejected-after-military-jets-crash-during-us-air-show-13545329|Four crew members ejected after military jets crash during US air show|53ec36e9648dfb47b5516eea264ce6ac
