@@ -1,6 +1,3 @@
-2026-05-11T14:11:40.221001+00:00|https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss|US and French nationals test positive for hantavirus after leaving ship|80ebabb49a62348f2f29150bad930c37
-2026-05-11T14:11:45.998690+00:00|https://news.sky.com/story/white-house-correspondents-dinner-shooting-suspect-pleads-not-guilty-13542732|Man accused of trying to assassinate Trump at dinner event pleads not guilty|448ae7d32ebd2511db96cb5ce0aaefa0
-2026-05-11T14:11:51.619244+00:00|https://www.bbc.com/news/articles/cqlp2lv5l7zo?at_medium=RSS&at_campaign=rss|Pentagon will review Senator Mark Kelly's comments about US weapon stockpiles, Hegseth says|0950a1d04acce1538163f5f0391b6392
 2026-05-11T16:45:43.901790+00:00|https://www.bbc.com/news/videos/cy92xe1nnwvo?at_medium=RSS&at_campaign=rss|Police dog locates missing 96-year-old man in Florida woods|83313113c424ed0da23ee7f2fbab401b
 2026-05-11T16:45:49.593506+00:00|https://www.bbc.com/news/videos/cx21j0mge62o?at_medium=RSS&at_campaign=rss|US health officials: Hantavirus risk to Americans 'very low'|e473ed392575c4c2f5fac49f4f3fdfe1
 2026-05-11T16:45:55.260048+00:00|https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss|Washington dinner shooting suspect pleads not guilty|dcdd62f92b2bfe57647f04aad850d669
@@ -31,3 +28,6 @@
 2026-05-15T22:31:02.247465+00:00|https://www.bbc.com/news/videos/czx20g00ly1o?at_medium=RSS&at_campaign=rss|Waymo driverless cars become trapped in Atlanta suburb after glitch|d6b4a1bc520376838137e6c15b345eec
 2026-05-16T21:28:23.323772+00:00|https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss|Republican senator who voted to convict Trump battles for re-election|2e77169fe26cd4c2413e46717602c7b7
 2026-05-17T21:58:51.442264+00:00|https://news.sky.com/story/four-crew-members-ejected-after-military-jets-crash-during-us-air-show-13545329|Four crew members ejected after military jets crash during US air show|53ec36e9648dfb47b5516eea264ce6ac
+2026-05-18T15:45:15.121343+00:00|https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss|Judge rules gun, writings are admissible in Luigi Mangione's New York murder trial|7a894de87bd9ef002c3cf0ad7e80e983
+2026-05-18T15:45:20.791309+00:00|https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss|At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed|1fd57825176b3c3f036ce23a81a6ddb9
+2026-05-18T15:45:26.264674+00:00|https://www.bbc.com/news/articles/cdjp839lxzvo?at_medium=RSS&at_campaign=rss|Rush-hour chaos sweeps New York after busiest rail system shutdown|2d1d3114e228894a35a7d11935aaa1a1
