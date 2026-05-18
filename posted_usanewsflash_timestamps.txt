@@ -1,4 +1,3 @@
-2026-05-11T21:49:55.696882+00:00|https://www.bbc.com/news/videos/cgjpg20xgy5o?at_medium=RSS&at_campaign=rss|Watch: Alaska town sees its last sunset until August|f4b6963bacd12fc0636f55f12f9bb5b7
 2026-05-12T10:16:29.355259+00:00|https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss|Texas accuses Netflix of spying on users, including children|9a769e2430d61863a40b5bf518d721ef
 2026-05-12T10:16:34.946272+00:00|https://www.bbc.com/sport/basketball/articles/cg7p5jer8jmo?at_medium=RSS&at_campaign=rss|James unsure over future after Lakers eliminated|bfc01220d9d11c6abf105ce30f95c045
 2026-05-12T12:25:02.253651+00:00|https://news.sky.com/story/uk-seizes-thousands-from-former-fbi-most-wanted-us-gangster-james-whitey-bulger-13543057|UK seizes thousands from former FBI Most Wanted US gangster|fac171ab384fede925433a33272a36cc
@@ -28,3 +27,5 @@
 2026-05-18T15:45:20.791309+00:00|https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss|At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed|1fd57825176b3c3f036ce23a81a6ddb9
 2026-05-18T15:45:26.264674+00:00|https://www.bbc.com/news/articles/cdjp839lxzvo?at_medium=RSS&at_campaign=rss|Rush-hour chaos sweeps New York after busiest rail system shutdown|2d1d3114e228894a35a7d11935aaa1a1
 2026-05-18T20:52:36.748838+00:00|https://www.bbc.com/news/articles/cjwpy2qww5do?at_medium=RSS&at_campaign=rss|American who contracted Ebola in DR Congo evacuated for treatment|836a69cf209eb2d4b9d6728315fa6527
+2026-05-18T21:55:51.375151+00:00|https://news.sky.com/story/three-people-killed-after-shooting-by-two-teenage-suspects-at-california-islamic-centre-13545699|Three people killed after shooting by two teenage suspects at California Islamic centre|6faa7a0a628a163b3d02ab7954047d72
+2026-05-18T21:55:57.083650+00:00|https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss|Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?|2423349d3ea7b2a48ae11d1baf9a8d89
