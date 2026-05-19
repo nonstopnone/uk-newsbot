@@ -1,5 +1,3 @@
-2026-05-12T12:25:02.253651+00:00|https://news.sky.com/story/uk-seizes-thousands-from-former-fbi-most-wanted-us-gangster-james-whitey-bulger-13543057|UK seizes thousands from former FBI Most Wanted US gangster|fac171ab384fede925433a33272a36cc
-2026-05-12T12:25:07.883517+00:00|https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss|US in closely guarded talks to open new bases in Greenland|01625cd6c5c5bc097fc0a54fd0996bef
 2026-05-12T15:22:33.570927+00:00|https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss|US inflation jumps to 3.8% as energy costs surge from Iran war|2b126fd2e302bcfdb90f4c51318509e4
 2026-05-12T17:34:00.674592+00:00|https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss|Dali ship operator charged over deadly  Baltimore bridge collapse|70d46188ae8d500e70d0a3efd754f3ab
 2026-05-12T19:19:33.673689+00:00|https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss|NBA player Clarke dies aged 29|e34a317f9ef71818d3948b35642d480f
@@ -28,3 +26,5 @@
 2026-05-18T21:55:51.375151+00:00|https://news.sky.com/story/three-people-killed-after-shooting-by-two-teenage-suspects-at-california-islamic-centre-13545699|Three people killed after shooting by two teenage suspects at California Islamic centre|6faa7a0a628a163b3d02ab7954047d72
 2026-05-18T21:55:57.083650+00:00|https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss|Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?|2423349d3ea7b2a48ae11d1baf9a8d89
 2026-05-19T04:43:12.477977+00:00|https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss|Teen suspects fatally shoot three in suspected hate crime at San Diego mosque|7b826b40e107698056070885e3c2b90e
+2026-05-19T14:20:41.450496+00:00|https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss|Father-of-8 killed in San Diego mosque shooting hailed as a hero|f5bff7469645923319f5f34b245f8dff
+2026-05-19T14:20:47.216239+00:00|https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss|How two new California wildfires look from space|ab4e6710a1df3b03b33a833435c16d9e
