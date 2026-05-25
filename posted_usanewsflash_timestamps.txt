@@ -1,6 +1,3 @@
-2026-05-18T15:45:15.121343+00:00|https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss|Judge rules gun, writings are admissible in Luigi Mangione's New York murder trial|7a894de87bd9ef002c3cf0ad7e80e983
-2026-05-18T15:45:20.791309+00:00|https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss|At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed|1fd57825176b3c3f036ce23a81a6ddb9
-2026-05-18T15:45:26.264674+00:00|https://www.bbc.com/news/articles/cdjp839lxzvo?at_medium=RSS&at_campaign=rss|Rush-hour chaos sweeps New York after busiest rail system shutdown|2d1d3114e228894a35a7d11935aaa1a1
 2026-05-18T20:52:36.748838+00:00|https://www.bbc.com/news/articles/cjwpy2qww5do?at_medium=RSS&at_campaign=rss|American who contracted Ebola in DR Congo evacuated for treatment|836a69cf209eb2d4b9d6728315fa6527
 2026-05-18T21:55:51.375151+00:00|https://news.sky.com/story/three-people-killed-after-shooting-by-two-teenage-suspects-at-california-islamic-centre-13545699|Three people killed after shooting by two teenage suspects at California Islamic centre|6faa7a0a628a163b3d02ab7954047d72
 2026-05-18T21:55:57.083650+00:00|https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss|Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?|2423349d3ea7b2a48ae11d1baf9a8d89
@@ -37,3 +34,4 @@
 2026-05-23T22:57:27.997075+00:00|https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss|Journalists run for cover as they report possible gunfire near White House|4c55c44994c1ee8d6389ad806f944254
 2026-05-24T07:37:27.894029+00:00|https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss|It's like the Olympics - except steroids are allowed|b36aa9e74c34c082ee3b40fc977b2c7c
 2026-05-25T10:56:25.099712+00:00|https://www.bbc.com/sport/articles/cx211xyd298o?at_medium=RSS&at_campaign=rss|Record 50m freestyle time at controversial Enhanced Games|b984b9b79c200178a53089ccb379680c
+2026-05-25T16:31:34.046355+00:00|https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss|White House gunman had previous run-ins with Secret Service, court documents show|9c9219066e7439c625683c50285f83e2
