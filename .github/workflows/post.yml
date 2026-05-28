@@ -45,4 +45,4 @@ jobs:
           PHASE: ${{ github.event.inputs.phase || 'auto' }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
           SUBREDDIT: robronaddicts
-        run: python robron_bot.py
+        run: python robronbot.py
