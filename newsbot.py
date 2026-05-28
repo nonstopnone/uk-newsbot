@@ -122,6 +122,19 @@ TIME_WINDOW_HOURS       = 12
 MAX_KEYWORD_REPEATS     = 3
 DISTINCT_UK_KW_REQUIRED = 2
 
+REQUEST_HEADERS = {
+    'User-Agent': ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                   'AppleWebKit/537.36 (KHTML, like Gecko) '
+                   'Chrome/124.0.0.0 Safari/537.36'),
+    'Accept': ('text/html,application/xhtml+xml,application/xml;q=0.9,'
+               'image/avif,image/webp,image/apng,*/*;q=0.8'),
+    'Accept-Language': 'en-GB,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate',
+    'Referer': 'https://www.google.com/',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+}
+
 # =========================
 # Section: Manual Dispatch Configuration
 # =========================
@@ -407,13 +420,70 @@ def add_to_dedup(entry_obj, title_override=None, url_override=None):
 # =========================
 # Section: Fetching
 # =========================
+def extract_jsonld_paragraphs(soup):
+    bodies = []
+    for tag in soup.find_all('script', type='application/ld+json'):
+        raw = tag.string or tag.get_text()
+        if not raw:
+            continue
+        try:
+            data = json.loads(raw)
+        except Exception:
+            continue
+        stack = data if isinstance(data, list) else [data]
+        while stack:
+            node = stack.pop()
+            if isinstance(node, list):
+                stack.extend(node)
+            elif isinstance(node, dict):
+                graph = node.get('@graph')
+                if isinstance(graph, list):
+                    stack.extend(graph)
+                body = node.get('articleBody')
+                if isinstance(body, str) and len(body.strip()) > 80:
+                    bodies.append(body.strip())
+    if not bodies:
+        return []
+    body = max(bodies, key=len)
+    parts = [s.strip() for s in re.split(r'\n+', body) if len(s.strip()) > 40]
+    if len(parts) < 2:
+        sentences = re.split(r'(?<=[.!?])\s+', body)
+        parts, buf = [], ''
+        for s in sentences:
+            buf = (buf + ' ' + s).strip()
+            if len(buf) > 220:
+                parts.append(buf)
+                buf = ''
+        if buf and len(buf) > 40:
+            parts.append(buf)
+    return parts
+
+def extract_paragraphs(soup):
+    paras = extract_jsonld_paragraphs(soup)
+    if paras:
+        return paras
+    for selector in ('article', 'main'):
+        container = soup.find(selector)
+        if container:
+            scoped = [p.get_text(" ", strip=True)
+                      for p in container.find_all('p')
+                      if len(p.get_text(strip=True)) > 40]
+            if scoped:
+                return scoped
+    return [p.get_text(" ", strip=True) for p in soup.find_all('p')
+            if len(p.get_text(strip=True)) > 40]
+
 def fetch_article_text(url):
     try:
-        r = requests.get(url, timeout=12, headers={'User-Agent': 'Mozilla/5.0'})
-        if r.status_code != 200: return []
+        r = requests.get(url, timeout=15, headers=REQUEST_HEADERS, allow_redirects=True)
+        if r.status_code != 200:
+            log("FETCH", f"HTTP {r.status_code} for {url[:60]}", Col.YELLOW)
+            return []
         soup = BeautifulSoup(r.content, 'html.parser')
-        return [p.get_text(" ", strip=True) for p in soup.find_all('p') if len(p.get_text()) > 40]
-    except: return []
+        return extract_paragraphs(soup)
+    except Exception as e:
+        log("FETCH", f"Error fetching {url[:60]}: {e}", Col.YELLOW)
+        return []
 
 # =========================
 # Section: Analysis
@@ -555,7 +625,7 @@ def handle_manual_story(url, title_override):
     title = title_override
     if not title:
         try:
-            r    = requests.get(url, timeout=12, headers={'User-Agent': 'Mozilla/5.0'})
+            r    = requests.get(url, timeout=15, headers=REQUEST_HEADERS, allow_redirects=True)
             soup = BeautifulSoup(r.content, 'html.parser')
             og   = soup.find('meta', property='og:title')
             if og and og.get('content'):
@@ -746,7 +816,7 @@ def main():
         if posts_made >= TARGET_POSTS:
             log("INFO", f"Reached target of {TARGET_POSTS} posts. Stopping.", Col.GREEN)
             break
-        
+
         # Skip if we've already posted too many from this specific source (e.g., max 3 BBC articles)
         src = c["entry"].source
         if source_counts[src] >= MAX_PER_SOURCE:
