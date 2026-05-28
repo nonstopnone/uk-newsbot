@@ -2,19 +2,18 @@ name: Post episode threads
 
 on:
   schedule:
-    # Morning / ITVX early-access window (UK ~07:00).
-    #   BST: 06:00-07:30 UTC   GMT: 07:00-08:30 UTC
     - cron: "*/15 6-8 * * *"
-    # Evening / ITV1 broadcast window (UK ~20:00).
-    #   BST: 19:00-20:30 UTC   GMT: 20:00-21:30 UTC
     - cron: "*/15 19-21 * * *"
   workflow_dispatch:
     inputs:
       phase:
         description: "Force a phase (early/broadcast/auto)"
-        default: "auto"
+        default: "broadcast"
       dry_run:
         description: "Dry run (true/false)"
+        default: "true"
+      force_phase:
+        description: "Ignore time window check (true/false)"
         default: "true"
 
 concurrency:
@@ -33,7 +32,7 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - run: pip install -r requirements.txt
+      - run: pip install praw requests
 
       - name: Run bot
         env:
@@ -44,5 +43,6 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PHASE: ${{ github.event.inputs.phase || 'auto' }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+          FORCE_PHASE: ${{ github.event.inputs.force_phase || 'false' }}
           SUBREDDIT: robronaddicts
         run: python robronbot.py
