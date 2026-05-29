@@ -34,3 +34,5 @@
 2026-05-29T08:35:14.712903+00:00|https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss|Watch: Moment 14-year-old wins US national spelling bee|c059d1dad92356a255ccb1e11e766b75
 2026-05-29T14:29:34.217756+00:00|https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss|Former US attorney general Pam Bondi testifies in congressional Epstein probe|f77a516e3063ad49f40be6e525ce0b21
 2026-05-29T14:29:39.911009+00:00|https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss|What does Blue Origin rocket mishap mean for Nasa's Moon mission?|69e720dbde0c1d7dc7dc9d4c3968b148
+2026-05-29T17:50:39.980920+00:00|https://news.sky.com/story/five-killed-and-35-injured-after-bus-collides-with-six-vehicles-in-virginia-13549080|Bus collision kills five and leaves 35 injured in Virginia|fac8f12cb652e38099aef4e01c68e5b6
+2026-05-29T17:50:45.753534+00:00|https://www.bbc.com/news/articles/c5yrv5lel23o?at_medium=RSS&at_campaign=rss|Bus crashes into six cars in Virginia, killing 5 and injuring dozens|27e3a3942b0e827cad6ceec0d4b2e614
