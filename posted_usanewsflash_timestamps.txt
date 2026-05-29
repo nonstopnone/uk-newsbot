@@ -1,5 +1,3 @@
-2026-05-22T18:16:47.173015+00:00|https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss|Tulsi Gabbard resigns as US director of national intelligence|abfbf6aa9d0e0f327fb7eb208e40d3aa
-2026-05-22T18:16:52.826036+00:00|https://www.bbc.com/news/videos/c052v12650go?at_medium=RSS&at_campaign=rss|Residents wade through flood waters and submerged cars in New York City|9b9d68cb28528c91bffb8ca0d9e4fde3
 2026-05-22T20:20:31.708764+00:00|https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss|Trump wants new Fed chair to be 'totally independent'|73016561d6ede652941437eff8b685fb
 2026-05-22T21:43:41.304496+00:00|https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss|Judge dismisses criminal case against Kilmar Abrego Garcia|b185bb04791848c7c57ac9a8073fdbc4
 2026-05-23T14:20:58.635109+00:00|https://news.sky.com/story/southern-california-40000-ordered-to-evacuate-over-threat-of-chemical-explosion-13547270|40,000 ordered to evacuate in California over chemical explosion threat|3cc2323dbabbfc1dc718816ea928eb8d
@@ -36,3 +34,4 @@
 2026-05-29T14:29:39.911009+00:00|https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss|What does Blue Origin rocket mishap mean for Nasa's Moon mission?|69e720dbde0c1d7dc7dc9d4c3968b148
 2026-05-29T17:50:39.980920+00:00|https://news.sky.com/story/five-killed-and-35-injured-after-bus-collides-with-six-vehicles-in-virginia-13549080|Bus collision kills five and leaves 35 injured in Virginia|fac8f12cb652e38099aef4e01c68e5b6
 2026-05-29T17:50:45.753534+00:00|https://www.bbc.com/news/articles/c5yrv5lel23o?at_medium=RSS&at_campaign=rss|Bus crashes into six cars in Virginia, killing 5 and injuring dozens|27e3a3942b0e827cad6ceec0d4b2e614
+2026-05-29T19:59:40.405223+00:00|https://news.sky.com/story/donald-trump-affiliated-us-birthday-celebration-hit-by-wave-of-cancellations-13549133|Trump-affiliated US celebration hit by wave of cancellations|2b2f949855ba2c3330c7e288a7a97be5
