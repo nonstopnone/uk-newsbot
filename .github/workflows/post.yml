@@ -2,23 +2,21 @@ name: Post episode threads
 
 on:
   schedule:
-    # 7am UK episode window (BST 06:00 UTC / GMT 07:00 UTC) -> cover 06:00-08:00.
+    # 7am UK window: episode-thread check (Robron days) + a morning spoilers sweep.
+    # BST 06:00 UTC / GMT 07:00 UTC -> cover 06:00-08:00.
     - cron: "*/15 6-8 * * *"
-    # Midnight UK for the weekly spoiler threads. In BST, 00:00 UK = 23:00 UTC
-    # the previous day; in GMT it's 00:00 UTC. The bot checks the UK-local
-    # weekday itself, so we just fire around midnight every day.
-    - cron: "*/15 23 * * *"
-    - cron: "*/15 0-1 * * *"
+    # Evening spoilers sweep (~18:00 UK). BST 17:00 UTC / GMT 18:00 UTC.
+    - cron: "0 17-18 * * *"
   workflow_dispatch:
     inputs:
       job:
-        description: "Force a job (auto/episode/articles/clips)"
-        default: "episode"
+        description: "Force a job (auto/episode/spoilers)"
+        default: "spoilers"
       dry_run:
         description: "Dry run (true/false)"
         default: "true"
       force_window:
-        description: "Ignore the time/day gate (true/false)"
+        description: "Ignore the time/window gate (true/false)"
         default: "true"
 
 concurrency:
