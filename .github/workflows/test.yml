@@ -1,0 +1,37 @@
+name: Test bot
+
+on:
+  push:
+    paths:
+      - "robronbot.py"
+      - "test_robronbot.py"
+      - ".github/workflows/test.yml"
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      live:
+        description: "Also run live checks against the spoiler site + TVMaze (true/false)"
+        default: "true"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install praw requests beautifulsoup4
+
+      - name: Offline tests (always)
+        run: python -m unittest test_robronbot -v
+
+      - name: Live checks (spoiler site + TVMaze)
+        if: ${{ github.event_name != 'pull_request' && (github.event_name != 'workflow_dispatch' || github.event.inputs.live == 'true') }}
+        env:
+          LIVE_TESTS: "1"
+        run: python -m unittest test_robronbot.TestLive -v
