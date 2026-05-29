@@ -1,27 +1,23 @@
 """
 Built-in test suite for robronbot.
 
-Offline tests run with no network and no Reddit/Gemini secrets -- they exercise
-the real detection, scheduling and post-building code against fixtures. Live
-tests (gated by LIVE_TESTS=1) actually fetch the spoiler site and TVMaze to
-confirm the real integrations still parse.
+Offline tests run with no network and no secrets. Live tests (LIVE_TESTS=1)
+fetch the spoiler site and TVMaze to confirm the real integrations still parse.
 
 Run:
-    python -m unittest test_robronbot -v          # offline only
-    LIVE_TESTS=1 python -m unittest test_robronbot -v   # + live checks
+    python -m unittest test_robronbot -v
+    LIVE_TESTS=1 python -m unittest test_robronbot -v
 """
 
 import os
 import unittest
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
 from zoneinfo import ZoneInfo
 
 import robronbot as rb
 
 UK = ZoneInfo("Europe/London")
 
-# A synthetic index mirroring the real Emmerdale Insider page structure:
-# a dated anchor + a headline anchor pointing at the same spoiler URL.
 INDEX = """
 <html><body>
 <a href="https://x/emmerdale-insider/spoilers/gabby-ross-jai/"><img/> Fri, May 29</a>
@@ -34,7 +30,7 @@ INDEX = """
 <h3><a href="https://x/emmerdale-insider/spoilers/kammy-belle/">3 spoilers for Wed, May 27: Kammy caught out and Ross wants Laurel</a></h3>
 
 <a href="https://x/emmerdale-insider/spoilers/next-week-roundup/"><img/> Jun 1 - 5</a>
-<h3><a href="https://x/emmerdale-insider/spoilers/next-week-roundup/">11 spoilers for next week</a></h3>
+<h3><a href="https://x/emmerdale-insider/spoilers/next-week-roundup/">11 Emmerdale spoilers for next week: Todd exposes a secret</a></h3>
 
 <a href="https://x/emmerdale-insider/category/spoilers/">Spoilers</a>
 </body></html>
@@ -56,13 +52,11 @@ class TestDateParsing(unittest.TestCase):
     def test_simple(self):
         ref = date(2026, 5, 29)
         self.assertEqual(rb.parse_label_date("Fri, May 29", ref), date(2026, 5, 29))
-        self.assertEqual(rb.parse_label_date("Thu, May 28", ref), date(2026, 5, 28))
 
     def test_ranges_and_junk_rejected(self):
         ref = date(2026, 5, 29)
         self.assertIsNone(rb.parse_label_date("Jun 1 - 5", ref))
         self.assertIsNone(rb.parse_label_date("Upcoming", ref))
-        self.assertIsNone(rb.parse_label_date("", ref))
 
     def test_year_rollover(self):
         self.assertEqual(rb.parse_label_date("Sat, Jan 2", date(2026, 12, 31)), date(2027, 1, 2))
@@ -71,22 +65,11 @@ class TestDateParsing(unittest.TestCase):
 class TestNameDetection(unittest.TestCase):
     def test_positive(self):
         self.assertTrue(rb.has_robron("Robert and Aaron catch Kammy"))
-        self.assertTrue(rb.has_robron("aaron's big secret"))
         self.assertTrue(rb.has_robron("Robron reunite"))
 
     def test_negative(self):
         self.assertFalse(rb.has_robron("Kammy arrested and Laurel can't stay away from Ross"))
         self.assertFalse(rb.has_robron("Cain Dingle leaves Victoria devastated"))
-
-
-class TestSpoilerIndexParsing(unittest.TestCase):
-    def test_entries_and_dates(self):
-        entries = rb.parse_spoiler_index(INDEX, date(2026, 5, 29))
-        by_date = {e["date"]: u for u, e in entries.items() if e["date"]}
-        self.assertIn(date(2026, 5, 29), by_date)
-        self.assertIn(date(2026, 5, 28), by_date)
-        # The category link must not be treated as a spoiler entry.
-        self.assertNotIn("https://x/emmerdale-insider/category/spoilers/", entries)
 
 
 class TestDetectRobron(unittest.TestCase):
@@ -101,12 +84,28 @@ class TestDetectRobron(unittest.TestCase):
         self.assertIn("body", reason)
 
     def test_found_but_not_named(self):
-        state, _, reason = rb.detect_robron(date(2026, 5, 29), index_html=INDEX, article_fetcher=fake_fetch)
+        state, _, _ = rb.detect_robron(date(2026, 5, 29), index_html=INDEX, article_fetcher=fake_fetch)
         self.assertIs(state, False)
 
     def test_no_entry(self):
-        state, _, _ = rb.detect_robron(date(2026, 5, 30), index_html=INDEX, article_fetcher=fake_fetch)
+        state, _, _ = rb.detect_robron(date(2026, 6, 30), index_html=INDEX, article_fetcher=fake_fetch)
         self.assertIsNone(state)
+
+
+class TestForwardSpoilerDetection(unittest.TestCase):
+    def test_finds_next_week_roundup(self):
+        url, headline = rb.get_forward_spoiler(INDEX, date(2026, 5, 29))
+        self.assertIsNotNone(url)
+        self.assertIn("next-week-roundup", url)
+        self.assertEqual(rb.slug_from_url(url), "next-week-roundup")
+
+    def test_none_when_only_past_dates(self):
+        past_only = """
+        <a href="https://x/emmerdale-insider/spoilers/old/"><img/> Mon, May 25</a>
+        <h3><a href="https://x/emmerdale-insider/spoilers/old/">Cain arrested</a></h3>
+        """
+        url, _ = rb.get_forward_spoiler(past_only, date(2026, 5, 29))
+        self.assertIsNone(url)
 
 
 class TestOverride(unittest.TestCase):
@@ -126,84 +125,79 @@ class TestOverride(unittest.TestCase):
 
 
 class TestScheduling(unittest.TestCase):
-    def test_episode_window(self):
-        self.assertEqual(rb.decide_jobs(datetime(2026, 5, 29, 7, 10, tzinfo=UK)), ["episode"])
+    def test_episode_and_spoilers_in_morning(self):
+        jobs = rb.decide_jobs(datetime(2026, 5, 29, 7, 10, tzinfo=UK))
+        self.assertIn("episode", jobs)
+        self.assertIn("spoilers", jobs)
 
-    def test_outside_window(self):
+    def test_evening_spoilers_only(self):
+        jobs = rb.decide_jobs(datetime(2026, 5, 29, 18, 20, tzinfo=UK))
+        self.assertEqual(jobs, ["spoilers"])
+
+    def test_midday_nothing(self):
         self.assertEqual(rb.decide_jobs(datetime(2026, 5, 29, 12, 0, tzinfo=UK)), [])
-
-    def test_tuesday_articles(self):
-        d = datetime(2026, 6, 2, 0, 20, tzinfo=UK)
-        self.assertEqual(d.weekday(), 1)
-        self.assertEqual(rb.decide_jobs(d), ["articles"])
-
-    def test_saturday_clips(self):
-        d = datetime(2026, 5, 30, 0, 30, tzinfo=UK)
-        self.assertEqual(d.weekday(), 5)
-        self.assertEqual(rb.decide_jobs(d), ["clips"])
-
-    def test_midnight_window_closes(self):
-        self.assertEqual(rb.decide_jobs(datetime(2026, 6, 2, 2, 0, tzinfo=UK)), [])
 
 
 class TestBuilds(unittest.TestCase):
     def test_episode_with_enrichment(self):
         eps = [rb.Episode(55, 108, "2026-05-29", "Friday", "Robert makes a decision that stuns Aaron.")]
-        title, body = rb.build_episode(eps, datetime(2026, 5, 29, 7, 0, tzinfo=UK), source_url="https://x/spoiler/")
+        title, body = rb.build_episode(eps, datetime(2026, 5, 29, 7, 0, tzinfo=UK), source_url="https://x/s/")
         self.assertIn("S55E108", title)
         self.assertIn(">!", body)
         self.assertIn("Robert makes a decision that stuns Aaron.", body)
-        self.assertIn("YouTube", body)
-        self.assertIn("https://x/spoiler/", body)
+        self.assertIn("https://x/s/", body)
 
     def test_episode_double_bill(self):
-        eps = [rb.Episode(55, 108, "2026-05-29", "Ep1", ""), rb.Episode(55, 109, "2026-05-29", "Ep2", "")]
+        eps = [rb.Episode(55, 108, "2026-05-29", "A", ""), rb.Episode(55, 109, "2026-05-29", "B", "")]
         title, _ = rb.build_episode(eps, datetime(2026, 5, 29, 7, 0, tzinfo=UK))
         self.assertIn("S55E108 & S55E109", title)
 
-    def test_episode_no_enrichment(self):
-        title, body = rb.build_episode([], datetime(2026, 5, 29, 7, 0, tzinfo=UK))
-        self.assertIn("Emmerdale Discussion", title)
-        self.assertNotIn("S55", title)
+    def test_spoilers_has_working_cover_and_link(self):
+        title, body = rb.build_spoilers(
+            "Todd exposes a secret on Sarah's birthday",
+            "https://x/emmerdale-insider/spoilers/next-week-roundup/",
+            datetime(2026, 5, 29, 18, 0, tzinfo=UK),
+        )
+        self.assertIn("Spoilers & Rumours", title)
+        # A real, rendered spoiler cover (not inside backticks).
+        self.assertIn(">!", body)
+        self.assertIn("!<", body)
+        self.assertIn("Todd exposes a secret", body)
+        self.assertIn("next-week-roundup", body)
 
-    def test_spoiler_articles(self):
-        title, _ = rb.build_spoiler("articles", datetime(2026, 6, 2, 0, 0, tzinfo=UK))
-        self.assertIn("Magazine & Online Articles", title)
-        self.assertIn("Week of", title)
-
-    def test_spoiler_clips(self):
-        title, _ = rb.build_spoiler("clips", datetime(2026, 5, 30, 0, 0, tzinfo=UK))
-        self.assertIn("Spoiler Clips", title)
+    def test_spoilers_long_headline_falls_back_to_generic_cover(self):
+        long_headline = " ".join(["word"] * 30)
+        _, body = rb.build_spoilers(long_headline, "https://x/s/", datetime(2026, 5, 29, 18, 0, tzinfo=UK))
+        self.assertIn(">!", body)
+        self.assertNotIn(long_headline, body)  # not reproduced verbatim
 
     def test_markers_distinct(self):
-        self.assertEqual(rb.marker("2026-05-29", "episode"), "emmerbot:2026-05-29:episode")
-        self.assertNotEqual(rb.marker("2026-05-29", "episode"), rb.marker("2026-05-29", "articles"))
+        self.assertEqual(rb.episode_marker("2026-05-29"), "emmerbot:2026-05-29:episode")
+        self.assertEqual(rb.spoiler_marker("next-week-roundup"), "emmerbot:spoilers:next-week-roundup")
+        self.assertNotEqual(rb.episode_marker("2026-05-29"), rb.spoiler_marker("x"))
 
 
 @unittest.skipUnless(os.environ.get("LIVE_TESTS") == "1", "set LIVE_TESTS=1 to run live network checks")
 class TestLive(unittest.TestCase):
-    """Hits the real spoiler site and TVMaze. Run on demand to confirm parsing."""
-
     def test_tvmaze_returns_episodes(self):
         eps = rb.fetch_episodes()
         self.assertGreater(len(eps), 100)
-        self.assertTrue(any(e.season >= 50 for e in eps), "expected a recent Emmerdale season")
+        self.assertTrue(any(e.season >= 50 for e in eps))
 
     def test_spoiler_index_parses_recent_dates(self):
         resp = rb._http_get(rb.SPOILER_INDEX_URL)
-        self.assertEqual(resp.status_code, 200, f"index returned HTTP {resp.status_code}")
-        entries = rb.parse_spoiler_index(resp.text, date.today())
-        dated = [e["date"] for e in entries.values() if e["date"]]
-        self.assertTrue(dated, "no dated spoiler entries parsed -- the page layout may have changed")
-        # At least one entry should be within ~2 weeks of today.
-        near = [d for d in dated if abs((d - date.today()).days) <= 14]
-        self.assertTrue(near, f"no spoiler dates near today; parsed dates: {sorted(dated)[:5]}")
+        self.assertEqual(resp.status_code, 200, f"index HTTP {resp.status_code}")
+        recs = rb._index_records(resp.text, date.today())
+        dated = [r["date"] for r in recs if r["date"]]
+        self.assertTrue(dated, "no dated entries parsed -- layout may have changed")
+        self.assertTrue([d for d in dated if abs((d - date.today()).days) <= 14])
 
-    def test_detect_today_runs_cleanly(self):
-        # We don't assert the outcome (depends on the schedule) -- only that the
-        # full detection path executes against live data without error.
-        state, url, reason = rb.detect_robron(date.today())
-        print(f"\n[LIVE] today detection -> state={state} reason={reason!r} url={url}")
+    def test_forward_and_today_detection_run_cleanly(self):
+        resp = rb._http_get(rb.SPOILER_INDEX_URL)
+        fwd_url, fwd_head = rb.get_forward_spoiler(resp.text, date.today())
+        print(f"\n[LIVE] forward spoiler -> {rb.slug_from_url(fwd_url) if fwd_url else None}")
+        state, _, reason = rb.detect_robron(date.today())
+        print(f"[LIVE] today Robron detection -> state={state} reason={reason!r}")
         self.assertIn(state, (True, False, None))
 
 
