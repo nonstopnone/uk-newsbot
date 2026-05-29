@@ -4,7 +4,8 @@ import sys
 import html
 import time
 from dataclasses import dataclass
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
+from urllib.parse import urljoin, urlparse
 from zoneinfo import ZoneInfo
 
 import requests
@@ -22,41 +23,50 @@ TVMAZE_BASE = "https://api.tvmaze.com"
 LOCAL_TZ = _env("LOCAL_TZ", "Europe/London")
 SUBREDDIT = _env("SUBREDDIT", "robronaddicts")
 
-SPOILER_INDEX_URL = _env(
-    "SPOILER_INDEX_URL",
-    "https://www.tvguide.co.uk/emmerdale-insider/category/spoilers/",
-)
-SPOILER_PATH_HINT = _env("SPOILER_PATH_HINT", "/emmerdale-insider/spoilers/")
-ROBRON_TERMS = [t.strip().lower() for t in _env("ROBRON_TERMS", "robron,aaron,robert").split(",") if t.strip()]
-ROBRON_OVERRIDE = _env("ROBRON_OVERRIDE", "auto").lower()
+SITE_BASE = _env("SITE_BASE", "https://www.tvguide.co.uk")
+SITE_SECTION_HINT = _env("SITE_SECTION_HINT", "/emmerdale-insider/")
+SPOILER_INDEX_URL = _env("SPOILER_INDEX_URL", f"{SITE_BASE}/emmerdale-insider/category/spoilers/")
+# Section index pages we sweep for new Robron mentions.
+SITE_SECTION_URLS = [u.strip() for u in _env(
+    "SITE_SECTION_URLS",
+    f"{SITE_BASE}/emmerdale-insider/category/spoilers/,"
+    f"{SITE_BASE}/emmerdale-insider/category/news/,"
+    f"{SITE_BASE}/emmerdale-insider/category/episode-recaps/",
+).split(",") if u.strip()]
+# Don't surface an article older than this many days.
+ROBRON_MENTION_MAX_AGE_DAYS = int(_env("ROBRON_MENTION_MAX_AGE_DAYS", "3"))
+# How many candidate articles to fetch per sweep at most (politeness + speed).
+ROBRON_MAX_ARTICLES_PER_SWEEP = int(_env("ROBRON_MAX_ARTICLES_PER_SWEEP", "12"))
 
-EPISODE_HOUR = int(_env("EPISODE_HOUR", "7"))
-EPISODE_MINUTE = int(_env("EPISODE_MINUTE", "0"))
-EPISODE_WINDOW_MIN = int(_env("EPISODE_WINDOW_MIN", "90"))
+ROBRON_TERMS = [t.strip().lower() for t in _env("ROBRON_TERMS", "robron,aaron dingle,robert sugden,aaron,robert").split(",") if t.strip()]
 
-# Hours (UK local) at which to sweep the site for a new forward-spoiler article.
-SPOILERS_CHECK_HOURS = [int(h) for h in _env("SPOILERS_CHECK_HOURS", "7,18").split(",") if h.strip()]
-SPOILERS_WINDOW_MIN = int(_env("SPOILERS_WINDOW_MIN", "90"))
-# Only reproduce a source headline behind the spoiler cover if it's short
-# enough to be a brief attributed quote; otherwise use a generic covered line.
+POST_EP_HOUR = int(_env("POST_EP_HOUR", "7"))
+POST_EP_MINUTE = int(_env("POST_EP_MINUTE", "0"))
+POST_EP_WINDOW_MIN = int(_env("POST_EP_WINDOW_MIN", "90"))
+POST_EP_WEEKDAYS = set(int(d) for d in _env("POST_EP_WEEKDAYS", "0,1,2,3,4").split(",") if d.strip())
+
+# Hours (UK local) at which to sweep for new forward-spoiler articles and new Robron mentions.
+SWEEP_HOURS = [int(h) for h in _env("SWEEP_HOURS", "7,18").split(",") if h.strip()]
+SWEEP_WINDOW_MIN = int(_env("SWEEP_WINDOW_MIN", "90"))
 SPOILER_HEADLINE_MAX_WORDS = int(_env("SPOILER_HEADLINE_MAX_WORDS", "14"))
 
 JOB = _env("JOB", "auto")
 FORCE_WINDOW = _env("FORCE_WINDOW", "false").lower() == "true"
 
-POST_FLAIR_EPISODE = _env("POST_FLAIR_EPISODE", "Episode Discussion")
+POST_FLAIR_POST_EP = _env("POST_FLAIR_POST_EP", "Post-Episode Discussion ")
 POST_FLAIR_SPOILER = _env("POST_FLAIR_SPOILER", "Spoilers")
 STICKY = _env("STICKY", "true").lower() == "true"
 STICKY_SLOT = int(_env("STICKY_SLOT", "2"))
 SUGGESTED_SORT = _env("SUGGESTED_SORT", "new")
 
 DEDUPE_SCAN_LIMIT = int(_env("DEDUPE_SCAN_LIMIT", "80"))
+ROBRON_COMMENT_SCAN_LIMIT = int(_env("ROBRON_COMMENT_SCAN_LIMIT", "100"))
 
 USE_GEMINI_INTRO = _env("USE_GEMINI_INTRO", "false").lower() == "true"
 GEMINI_MODEL = _env("GEMINI_MODEL", "gemini-1.5-flash")
 
 DRY_RUN = _env("DRY_RUN", "false").lower() == "true"
-USER_AGENT = _env("USER_AGENT", "python:robronaddicts-episode-bot:v4.0 (by /u/robronaddicts mods)")
+USER_AGENT = _env("USER_AGENT", "python:robronaddicts-episode-bot:v5.0 (by /u/robronaddicts mods)")
 
 BROWSER_HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -68,19 +78,6 @@ BROWSER_HEADERS = {
 
 MONTHS = {m: i for i, m in enumerate(
     ["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"], start=1)}
-
-
-@dataclass
-class Episode:
-    season: int
-    number: int
-    airdate: str
-    name: str
-    summary_text: str
-
-    @property
-    def code(self):
-        return f"S{self.season}E{self.number}"
 
 
 def strip_html(raw):
@@ -138,12 +135,11 @@ def slug_from_url(url):
 
 
 def _index_records(html_text, ref):
-    """Document-order list of {url,date,headline,is_range} from the index page."""
     soup = BeautifulSoup(html_text, "html.parser")
     order, seen = [], {}
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if SPOILER_PATH_HINT not in href or href.rstrip("/").endswith("category/spoilers"):
+        if "/emmerdale-insider/spoilers/" not in href or href.rstrip("/").endswith("category/spoilers"):
             continue
         rec = seen.get(href)
         if rec is None:
@@ -163,14 +159,7 @@ def _index_records(html_text, ref):
     return order
 
 
-def parse_spoiler_index(html_text, ref):
-    """Back-compat: {url: {'date', 'headline'}} used by episode detection."""
-    return {r["url"]: {"date": r["date"], "headline": r["headline"]}
-            for r in _index_records(html_text, ref)}
-
-
 def get_forward_spoiler(html_text, today):
-    """Newest forward-looking spoiler entry (next week / upcoming / future date)."""
     for rec in _index_records(html_text, today):
         hl = rec["headline"].lower()
         forward = (rec["is_range"] or "next week" in hl or "upcoming" in hl
@@ -180,55 +169,127 @@ def get_forward_spoiler(html_text, today):
     return None, None
 
 
-def detect_robron(target_date, index_html=None, article_fetcher=None):
-    try:
-        if index_html is None:
-            resp = _http_get(SPOILER_INDEX_URL)
-            if resp.status_code != 200:
-                return None, None, f"index HTTP {resp.status_code}"
-            index_html = resp.text
-    except Exception as e:
-        return None, None, f"index fetch failed: {e}"
+# --- whole-site Robron sweep ----------------------------------------------
 
-    entries = parse_spoiler_index(index_html, target_date)
-    match = next((u for u, e in entries.items() if e["date"] == target_date), None)
-    if not match:
-        return None, None, "no per-day spoiler entry for this date yet"
-
-    if has_robron(entries[match]["headline"]):
-        return True, match, "named in spoiler headline"
-
-    fetch = article_fetcher or (lambda u: _http_get(u).text)
-    try:
-        body_html = fetch(match)
-        body_text = BeautifulSoup(body_html, "html.parser").get_text(" ", strip=True)
-    except Exception as e:
-        return None, match, f"article fetch failed: {e}"
-
-    if has_robron(body_text):
-        return True, match, "named in spoiler body"
-    return False, match, "spoiler found but Robron not named"
+def _collect_article_links(html_text, base_url):
+    """Return [(absolute_url, link_text)] from any anchor pointing into the Emmerdale Insider section."""
+    soup = BeautifulSoup(html_text, "html.parser")
+    out, seen = [], set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if SITE_SECTION_HINT not in href:
+            continue
+        absu = urljoin(base_url, href).split("#", 1)[0]
+        if absu.rstrip("/").endswith("/category") or "/category/" in absu:
+            continue
+        if absu in seen:
+            continue
+        seen.add(absu)
+        out.append((absu, a.get_text(" ", strip=True)))
+    return out
 
 
-def is_robron_day(target_date, **kw):
-    if ROBRON_OVERRIDE == "on":
-        return True, None, "override ON"
-    if ROBRON_OVERRIDE == "off":
-        return False, None, "override OFF"
-    state, url, reason = detect_robron(target_date, **kw)
-    return (state is True), url, reason
+def _extract_pubdate(soup):
+    for sel in ("meta[property='article:published_time']",
+                "meta[name='article:published_time']",
+                "meta[property='og:updated_time']",
+                "time[datetime]"):
+        el = soup.select_one(sel)
+        if not el:
+            continue
+        val = el.get("content") or el.get("datetime")
+        if not val:
+            continue
+        try:
+            return datetime.fromisoformat(val.replace("Z", "+00:00")).date()
+        except Exception:
+            pass
+    return None
 
 
-def decide_jobs(when=None):
-    when = when or now_local()
-    jobs = []
-    if _in_window(when, EPISODE_HOUR, EPISODE_MINUTE, EPISODE_WINDOW_MIN):
-        jobs.append("episode")
-    for h in SPOILERS_CHECK_HOURS:
-        if _in_window(when, h, 0, SPOILERS_WINDOW_MIN):
-            jobs.append("spoilers")
-            break
-    return jobs
+def _article_snippet(soup, max_chars=240):
+    md = soup.select_one("meta[name='description']") or soup.select_one("meta[property='og:description']")
+    if md and md.get("content"):
+        s = strip_html(md["content"])
+        if s:
+            return s[:max_chars]
+    p = soup.select_one("article p, main p, p")
+    return strip_html(p.get_text(" ", strip=True)) [:max_chars] if p else ""
+
+
+@dataclass
+class RobronMention:
+    url: str
+    title: str
+    snippet: str
+    pubdate: "date | None"
+
+
+def sweep_robron_mentions(today, http_get=None, max_articles=None):
+    """Crawl section index pages, return [RobronMention] for recent articles naming Robron."""
+    http = http_get or _http_get
+    max_articles = max_articles or ROBRON_MAX_ARTICLES_PER_SWEEP
+    candidates, candidate_urls = [], set()
+
+    for section in SITE_SECTION_URLS:
+        try:
+            resp = http(section)
+            if hasattr(resp, "status_code") and resp.status_code != 200:
+                print(f"[sweep] {section} HTTP {resp.status_code}")
+                continue
+            text = resp.text if hasattr(resp, "text") else resp
+        except Exception as e:
+            print(f"[sweep] {section} failed: {e}")
+            continue
+        for url, link_text in _collect_article_links(text, section):
+            if url in candidate_urls:
+                continue
+            candidate_urls.add(url)
+            candidates.append((url, link_text))
+            # Headline-stage filter to limit how many we fetch.
+            if has_robron(link_text):
+                candidates[-1] = (url, link_text)
+
+    # Prefer those with Robron in the link text -- cheaper signal.
+    candidates.sort(key=lambda x: 0 if has_robron(x[1]) else 1)
+    candidates = candidates[:max_articles]
+
+    mentions = []
+    for url, link_text in candidates:
+        try:
+            resp = http(url)
+            if hasattr(resp, "status_code") and resp.status_code != 200:
+                continue
+            body = resp.text if hasattr(resp, "text") else resp
+        except Exception:
+            continue
+        soup = BeautifulSoup(body, "html.parser")
+        title = (soup.title.get_text(strip=True) if soup.title else "") or link_text
+        text = soup.get_text(" ", strip=True)
+        if not has_robron(text):
+            continue
+        pubdate = _extract_pubdate(soup)
+        if pubdate and (today - pubdate).days > ROBRON_MENTION_MAX_AGE_DAYS:
+            continue
+        snippet = _article_snippet(soup)
+        mentions.append(RobronMention(url=url, title=title, snippet=snippet, pubdate=pubdate))
+
+    return mentions
+
+
+# --- TVMaze / dataclass (kept for any future re-use) -----------------------
+
+@dataclass
+class Episode:
+    season: int
+    number: int
+    airdate: str
+    name: str
+    summary_text: str
+
+    @property
+    def code(self):
+        return f"S{self.season}E{self.number}"
 
 
 def fetch_episodes(session=None, retries=4):
@@ -239,29 +300,36 @@ def fetch_episodes(session=None, retries=4):
         try:
             resp = sess.get(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"}, timeout=20)
             if resp.status_code == 429:
-                time.sleep(2 ** attempt)
-                continue
+                time.sleep(2 ** attempt); continue
             resp.raise_for_status()
             return [
-                Episode(
-                    season=int(e.get("season") or 0),
-                    number=int(e.get("number") or 0),
-                    airdate=e.get("airdate") or "",
-                    name=e.get("name") or "",
-                    summary_text=strip_html(e.get("summary")),
-                )
+                Episode(int(e.get("season") or 0), int(e.get("number") or 0),
+                        e.get("airdate") or "", e.get("name") or "",
+                        strip_html(e.get("summary")))
                 for e in resp.json()
             ]
         except Exception as err:
             last_err = err
             time.sleep(1.5 * (attempt + 1))
-    raise RuntimeError(f"Could not fetch TVMaze episodes after {retries} tries: {last_err}")
+    raise RuntimeError(f"TVMaze fetch failed: {last_err}")
 
 
-def episodes_for_date(episodes, date_str):
-    found = [e for e in episodes if e.airdate == date_str]
-    return sorted(found, key=lambda e: (e.season, e.number))
+# --- scheduling ------------------------------------------------------------
 
+def decide_jobs(when=None):
+    when = when or now_local()
+    jobs = []
+    if (when.weekday() in POST_EP_WEEKDAYS
+            and _in_window(when, POST_EP_HOUR, POST_EP_MINUTE, POST_EP_WINDOW_MIN)):
+        jobs.append("post_episode")
+    for h in SWEEP_HOURS:
+        if _in_window(when, h, 0, SWEEP_WINDOW_MIN):
+            jobs.append("sweep")
+            break
+    return jobs
+
+
+# --- post bodies -----------------------------------------------------------
 
 def _spoiler(text):
     safe = text.replace("!<", "! <").replace(">!", "> !")
@@ -274,47 +342,25 @@ SPOILER_RULE = (
 )
 
 
-def build_episode(eps, date_obj, source_url=None):
+def build_post_episode(date_obj):
     weekday = date_obj.strftime("%A")
     date_s = date_obj.strftime("%-d %B %Y")
-    if eps:
-        codes = " & ".join(e.code for e in eps)
-        title = f"Emmerdale Discussion \u2014 {weekday} {date_s} \u2014 {codes}"
-    else:
-        title = f"Emmerdale Discussion \u2014 {weekday} {date_s}"
-
-    lines = [
-        f"Episode discussion for **{weekday} {date_s}** \u2014 Robron are on today.",
-        "",
-        "Out now on **ITVX** and **YouTube** from 7am, and on **ITV1** tonight.",
-        "",
-        "Talk about everything Robron (and the wider episode) here. " + SPOILER_RULE,
-        "",
-        "---",
-        "",
-    ]
-    for e in eps:
-        lines.append(f"**{e.code}** \u2014 {e.name}".rstrip(" \u2014"))
-        lines.append("")
-        if e.summary_text:
-            lines.append("Synopsis (spoiler-tagged): " + _spoiler(e.summary_text))
-        else:
-            lines.append("_No synopsis available yet._")
-        lines.append("")
-    if source_url:
-        lines.append(f"[Spoiler preview for today]({source_url}) (external; spoilers).")
-    return title, "\n".join(lines).strip()
+    title = f"Post-Episode Discussion for {weekday} {date_s}"
+    body = (
+        "I have spoilered this for anyone wanting to talk about the early "
+        "release on YouTube.\n\n"
+        + SPOILER_RULE
+    )
+    return title, body
 
 
 def build_spoilers(headline, source_url, date_obj):
     date_s = date_obj.strftime("%-d %B %Y")
     title = f"Spoilers & Rumours \u2014 Upcoming Emmerdale ({date_s})"
-
     if headline and 0 < len(headline.split()) <= SPOILER_HEADLINE_MAX_WORDS:
         covered = _spoiler(f"\u201c{headline}\u201d \u2014 via Emmerdale Insider")
     else:
         covered = _spoiler("New forward spoilers have been published \u2014 see the source link below.")
-
     lines = [
         "New spoilers for upcoming Emmerdale episodes have been published. Robron "
         "don't always feature \u2014 drop anything in that does, plus any rumours, here.",
@@ -329,26 +375,23 @@ def build_spoilers(headline, source_url, date_obj):
     return title, "\n".join(lines).strip()
 
 
-def _gemini_intro(kind):
-    key = os.environ.get("GEMINI_API_KEY")
-    if not key:
-        return ""
-    topic = {"episode": "tonight's episode discussion",
-             "spoilers": "this week's upcoming spoilers and rumours"}.get(kind, "the discussion")
-    try:
-        prompt = (f"Write ONE short, warm, spoiler-free sentence opening a fan thread for "
-                  f"{topic} on the soap Emmerdale, focused on the couple 'Robron' (Robert "
-                  f"Sugden and Aaron Dingle). Do NOT invent plot details, names or events. "
-                  f"No emojis. Under 25 words.")
-        url = ("https://generativelanguage.googleapis.com/v1beta/models/"
-               f"{GEMINI_MODEL}:generateContent?key={key}")
-        r = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=15)
-        r.raise_for_status()
-        return r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
-    except Exception as e:
-        print(f"[warn] Gemini intro failed: {e}")
-        return ""
+def build_mentions_comment(mentions):
+    lines = [
+        "**Robron in today's Emmerdale Insider coverage** \u2014 fresh articles "
+        "mentioning Robert / Aaron / Robron. Spoiler-tagged previews; full pieces "
+        "at the source links (external; spoilers).",
+        "",
+    ]
+    for m in mentions:
+        date_tag = f" ({m.pubdate.strftime('%-d %b')})" if m.pubdate else ""
+        clean_title = re.sub(r"\s+\|\s+TV Guide.*$", "", m.title or "").strip()
+        lines.append(f"* [{clean_title or m.url}]({m.url}){date_tag}")
+        if m.snippet:
+            lines.append(f"  * Preview: {_spoiler(m.snippet)}")
+    return "\n".join(lines)
 
+
+# --- reddit ----------------------------------------------------------------
 
 def make_reddit():
     reddit = praw.Reddit(
@@ -370,18 +413,37 @@ def _recent_bot_posts(reddit):
     return out
 
 
-def episode_already_posted(reddit, title_prefix):
-    """An episode thread for this day exists if a recent title starts the same."""
+def post_episode_title_prefix(date_obj):
+    return f"Post-Episode Discussion for {date_obj.strftime('%A')} {date_obj.strftime('%-d %B %Y')}"
+
+
+def post_episode_already_posted(reddit, title_prefix):
     return any((s.title or "").startswith(title_prefix) for s in _recent_bot_posts(reddit))
 
 
+def find_today_post_episode(reddit, date_obj):
+    prefix = post_episode_title_prefix(date_obj)
+    for s in _recent_bot_posts(reddit):
+        if (s.title or "").startswith(prefix):
+            return s
+    return None
+
+
 def spoiler_already_posted(reddit, source_url):
-    """A spoilers thread for this batch exists if its source link is already up."""
     return any(source_url and source_url in (s.selftext or "") for s in _recent_bot_posts(reddit))
 
 
-def episode_title_prefix(date_obj):
-    return f"Emmerdale Discussion \u2014 {date_obj.strftime('%A')} {date_obj.strftime('%-d %B %Y')}"
+def urls_already_commented(submission):
+    seen = set()
+    try:
+        submission.comments.replace_more(limit=0)
+        for c in submission.comments.list()[:ROBRON_COMMENT_SCAN_LIMIT]:
+            body = getattr(c, "body", "") or ""
+            for u in re.findall(r"https?://[^\s)\]]+", body):
+                seen.add(u.rstrip("/"))
+    except Exception as e:
+        print(f"[warn] could not scan comments: {e}")
+    return seen
 
 
 def _apply_flair(submission, flair_text):
@@ -394,14 +456,22 @@ def _apply_flair(submission, flair_text):
     submission.mod.flair(text=flair_text)
 
 
-def submit_thread(reddit, title, body, job):
+JOB_FLAIRS = {"post_episode": "POST_FLAIR_POST_EP", "spoilers": "POST_FLAIR_SPOILER"}
+
+
+def submit_thread(reddit, title, body, job, spoiler=False):
     sub = reddit.subreddit(SUBREDDIT)
     submission = sub.submit(title=title, selftext=body, send_replies=False)
+    if spoiler:
+        try:
+            submission.mod.spoiler()
+        except Exception as e:
+            print(f"[warn] could not mark spoiler: {e}")
     try:
         submission.mod.suggested_sort(SUGGESTED_SORT)
     except Exception as e:
         print(f"[warn] suggested sort: {e}")
-    flair = POST_FLAIR_EPISODE if job == "episode" else POST_FLAIR_SPOILER
+    flair = globals().get(JOB_FLAIRS.get(job, ""), "")
     try:
         _apply_flair(submission, flair)
     except Exception as e:
@@ -415,7 +485,7 @@ def submit_thread(reddit, title, body, job):
 
 
 def resolve_jobs(now):
-    if JOB in ("episode", "spoilers"):
+    if JOB in ("post_episode", "sweep"):
         if FORCE_WINDOW or JOB in decide_jobs(now):
             return [JOB]
         print(f"[skip] forced job '{JOB}' is outside its window (set FORCE_WINDOW=true).")
@@ -426,72 +496,86 @@ def resolve_jobs(now):
     return []
 
 
-def run_episode(reddit, now):
+# --- run --------------------------------------------------------------------
+
+def run_post_episode(reddit, now):
     date_str = now.strftime("%Y-%m-%d")
-    on, source_url, reason = is_robron_day(now.date())
-    print(f"[detect] Robron on {date_str}? {on} \u2014 {reason}")
-    if not on:
-        print("[skip] not detected as a Robron day; no episode thread.")
-        return reddit
-    try:
-        eps = episodes_for_date(fetch_episodes(), date_str)
-    except Exception as e:
-        print(f"[warn] TVMaze enrichment failed, posting without it: {e}")
-        eps = []
-
-    title, body = build_episode(eps, now, source_url)
-    if USE_GEMINI_INTRO:
-        intro = _gemini_intro("episode")
-        if intro:
-            body = intro + "\n\n" + body
-
-    needle = episode_title_prefix(now)
+    title, body = build_post_episode(now)
+    prefix = post_episode_title_prefix(now)
     if DRY_RUN:
-        print("=== DRY RUN [episode] ===\nTITLE:", title, "\n---- BODY ----\n" + body)
+        print("=== DRY RUN [post_episode] ===\nTITLE:", title, "\n---- BODY ----\n" + body)
         return reddit
     if reddit is None:
         reddit = make_reddit()
-    if episode_already_posted(reddit, needle):
-        print(f"[skip] already posted {date_str}/episode.")
+    if post_episode_already_posted(reddit, prefix):
+        print(f"[skip] already posted {date_str}/post_episode.")
         return reddit
-    sub = submit_thread(reddit, title, body, "episode")
-    print(f"[ok] posted [episode]: https://redd.it/{sub.id}")
+    sub = submit_thread(reddit, title, body, "post_episode", spoiler=True)
+    print(f"[ok] posted [post_episode]: https://redd.it/{sub.id}")
     return reddit
 
 
-def run_spoilers(reddit, now):
+def run_sweep(reddit, now):
+    # Forward-spoiler thread first.
     try:
         resp = _http_get(SPOILER_INDEX_URL)
-        if resp.status_code != 200:
-            print(f"[skip] spoiler index HTTP {resp.status_code}")
-            return reddit
-        url, headline = get_forward_spoiler(resp.text, now.date())
+        if resp.status_code == 200:
+            url, headline = get_forward_spoiler(resp.text, now.date())
+            if url:
+                slug = slug_from_url(url)
+                print(f"[detect] forward spoilers found: {slug}")
+                stitle, sbody = build_spoilers(headline, url, now)
+                if DRY_RUN:
+                    print("=== DRY RUN [spoilers] ===\nTITLE:", stitle, "\n---- BODY ----\n" + sbody)
+                else:
+                    if reddit is None:
+                        reddit = make_reddit()
+                    if not spoiler_already_posted(reddit, url):
+                        sub = submit_thread(reddit, stitle, sbody, "spoilers")
+                        print(f"[ok] posted [spoilers]: https://redd.it/{sub.id}")
+                    else:
+                        print(f"[skip] already posted spoilers for {slug}.")
+            else:
+                print("[detect] no new forward-spoiler article.")
+        else:
+            print(f"[warn] spoiler index HTTP {resp.status_code}")
     except Exception as e:
-        print(f"[warn] spoiler index fetch failed: {e}")
-        return reddit
+        print(f"[warn] spoiler sweep failed: {e}")
 
-    if not url:
-        print("[skip] no new forward-spoiler article detected.")
+    # Robron mentions comment.
+    try:
+        mentions = sweep_robron_mentions(now.date())
+    except Exception as e:
+        print(f"[warn] robron sweep failed: {e}")
+        mentions = []
+    print(f"[detect] Robron mentions found: {len(mentions)}")
+    if not mentions:
         return reddit
-
-    slug = slug_from_url(url)
-    print(f"[detect] forward spoilers found: {slug}")
-    title, body = build_spoilers(headline, url, now)
-    if USE_GEMINI_INTRO:
-        intro = _gemini_intro("spoilers")
-        if intro:
-            body = intro + "\n\n" + body
 
     if DRY_RUN:
-        print("=== DRY RUN [spoilers] ===\nTITLE:", title, "\n---- BODY ----\n" + body)
+        print("=== DRY RUN [robron mentions] ===")
+        for m in mentions:
+            print(f"  - {m.title} :: {m.url}")
+        print("\n---- COMMENT BODY ----\n" + build_mentions_comment(mentions))
         return reddit
+
     if reddit is None:
         reddit = make_reddit()
-    if spoiler_already_posted(reddit, url):
-        print(f"[skip] already posted spoilers for {slug}.")
+    target = find_today_post_episode(reddit, now)
+    if target is None:
+        print("[skip] no post-episode thread today to attach mentions to.")
         return reddit
-    sub = submit_thread(reddit, title, body, "spoilers")
-    print(f"[ok] posted [spoilers]: https://redd.it/{sub.id}")
+    already = urls_already_commented(target)
+    fresh = [m for m in mentions if m.url.rstrip("/") not in already]
+    if not fresh:
+        print("[skip] all Robron mentions already commented on today's thread.")
+        return reddit
+    body = build_mentions_comment(fresh)
+    try:
+        c = target.reply(body)
+        print(f"[ok] commented {len(fresh)} mention(s) on https://redd.it/{target.id} :: {getattr(c,'id','?')}")
+    except Exception as e:
+        print(f"[error] reply failed: {e}")
     return reddit
 
 
@@ -504,10 +588,10 @@ def main():
     print(f"[info] UK {now:%a %Y-%m-%d %H:%M} \u2014 jobs: {', '.join(jobs)}")
     reddit = None
     for job in jobs:
-        if job == "episode":
-            reddit = run_episode(reddit, now)
-        elif job == "spoilers":
-            reddit = run_spoilers(reddit, now)
+        if job == "post_episode":
+            reddit = run_post_episode(reddit, now)
+        elif job == "sweep":
+            reddit = run_sweep(reddit, now)
     return 0
 
 
