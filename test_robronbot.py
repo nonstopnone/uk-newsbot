@@ -171,10 +171,64 @@ class TestBuilds(unittest.TestCase):
         self.assertIn(">!", body)
         self.assertNotIn(long_headline, body)  # not reproduced verbatim
 
-    def test_markers_distinct(self):
-        self.assertEqual(rb.episode_marker("2026-05-29"), "emmerbot:2026-05-29:episode")
-        self.assertEqual(rb.spoiler_marker("next-week-roundup"), "emmerbot:spoilers:next-week-roundup")
-        self.assertNotEqual(rb.episode_marker("2026-05-29"), rb.spoiler_marker("x"))
+    def test_markers_removed(self):
+        # The hidden emmerbot marker is gone; these helpers no longer exist.
+        self.assertFalse(hasattr(rb, "episode_marker"))
+        self.assertFalse(hasattr(rb, "spoiler_marker"))
+
+
+class _FakeSub:
+    def __init__(self, title="", selftext=""):
+        self.title = title
+        self.selftext = selftext
+        self.subreddit = type("S", (), {"display_name": rb.SUBREDDIT})()
+
+
+class _FakeMe:
+    def __init__(self, subs):
+        self._subs = subs
+
+    @property
+    def submissions(self):
+        outer = self
+
+        class _S:
+            def new(self, limit=80):
+                return list(outer._subs)
+        return _S()
+
+
+class _FakeReddit:
+    def __init__(self, subs):
+        self._me = _FakeMe(subs)
+
+    @property
+    def user(self):
+        outer = self
+
+        class _U:
+            def me(self):
+                return outer._me
+        return _U()
+
+
+class TestDedupe(unittest.TestCase):
+    def test_episode_dedupe_by_title_prefix(self):
+        from datetime import datetime as _dt
+        now = _dt(2026, 5, 29, 7, 0, tzinfo=UK)
+        prefix = rb.episode_title_prefix(now)
+        posted = _FakeReddit([_FakeSub(title=prefix + " \u2014 S55E108")])
+        empty = _FakeReddit([_FakeSub(title="Something else")])
+        self.assertTrue(rb.episode_already_posted(posted, prefix))
+        self.assertFalse(rb.episode_already_posted(empty, prefix))
+
+    def test_spoiler_dedupe_by_source_url(self):
+        url = "https://x/emmerdale-insider/spoilers/next-week-roundup/"
+        body = f"...[Full spoilers at the source]({url})..."
+        posted = _FakeReddit([_FakeSub(selftext=body)])
+        empty = _FakeReddit([_FakeSub(selftext="no link here")])
+        self.assertTrue(rb.spoiler_already_posted(posted, url))
+        self.assertFalse(rb.spoiler_already_posted(empty, url))
 
 
 @unittest.skipUnless(os.environ.get("LIVE_TESTS") == "1", "set LIVE_TESTS=1 to run live network checks")
