@@ -2,25 +2,22 @@ name: Post episode threads
 
 on:
   schedule:
-    # 7am UK window: episode-thread check (Robron days) + a morning spoilers sweep.
+    # 7am UK weekday post-episode thread + morning sweep.
     # BST 06:00 UTC / GMT 07:00 UTC -> cover 06:00-08:00.
     - cron: "*/15 6-8 * * *"
-    # Evening spoilers sweep (~18:00 UK). BST 17:00 UTC / GMT 18:00 UTC.
+    # Evening sweep (~18:00 UK). BST 17:00 UTC / GMT 18:00 UTC.
     - cron: "0 17-18 * * *"
   workflow_dispatch:
     inputs:
       job:
-        description: "Force a job (auto/episode/spoilers)"
-        default: "spoilers"
+        description: "Force a job (auto/post_episode/sweep)"
+        default: "post_episode"
       dry_run:
         description: "Dry run (true/false)"
         default: "true"
       force_window:
         description: "Ignore the time/window gate (true/false)"
         default: "true"
-      robron_override:
-        description: "Episode detection: auto (detect) / on (force post) / off (suppress)"
-        default: "auto"
 
 concurrency:
   group: post-thread
@@ -50,6 +47,5 @@ jobs:
           JOB: ${{ github.event.inputs.job || 'auto' }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
           FORCE_WINDOW: ${{ github.event.inputs.force_window || 'false' }}
-          ROBRON_OVERRIDE: ${{ github.event.inputs.robron_override || 'auto' }}
           SUBREDDIT: robronaddicts
         run: python robronbot.py
