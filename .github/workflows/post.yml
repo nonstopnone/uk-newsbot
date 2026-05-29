@@ -2,18 +2,23 @@ name: Post episode threads
 
 on:
   schedule:
+    # 7am UK episode window (BST 06:00 UTC / GMT 07:00 UTC) -> cover 06:00-08:00.
     - cron: "*/15 6-8 * * *"
-    - cron: "*/15 19-21 * * *"
+    # Midnight UK for the weekly spoiler threads. In BST, 00:00 UK = 23:00 UTC
+    # the previous day; in GMT it's 00:00 UTC. The bot checks the UK-local
+    # weekday itself, so we just fire around midnight every day.
+    - cron: "*/15 23 * * *"
+    - cron: "*/15 0-1 * * *"
   workflow_dispatch:
     inputs:
-      phase:
-        description: "Force a phase (early/broadcast/auto)"
-        default: "broadcast"
+      job:
+        description: "Force a job (auto/episode/articles/clips)"
+        default: "episode"
       dry_run:
         description: "Dry run (true/false)"
         default: "true"
-      force_phase:
-        description: "Ignore time window check (true/false)"
+      force_window:
+        description: "Ignore the time/day gate (true/false)"
         default: "true"
 
 concurrency:
@@ -32,7 +37,7 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - run: pip install praw requests
+      - run: pip install praw requests beautifulsoup4
 
       - name: Run bot
         env:
@@ -41,8 +46,8 @@ jobs:
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          PHASE: ${{ github.event.inputs.phase || 'auto' }}
+          JOB: ${{ github.event.inputs.job || 'auto' }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
-          FORCE_PHASE: ${{ github.event.inputs.force_phase || 'false' }}
+          FORCE_WINDOW: ${{ github.event.inputs.force_window || 'false' }}
           SUBREDDIT: robronaddicts
         run: python robronbot.py
