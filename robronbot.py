@@ -50,7 +50,6 @@ STICKY = _env("STICKY", "true").lower() == "true"
 STICKY_SLOT = int(_env("STICKY_SLOT", "2"))
 SUGGESTED_SORT = _env("SUGGESTED_SORT", "new")
 
-MARKER_PREFIX = _env("MARKER_PREFIX", "emmerbot")
 DEDUPE_SCAN_LIMIT = int(_env("DEDUPE_SCAN_LIMIT", "80"))
 
 USE_GEMINI_INTRO = _env("USE_GEMINI_INTRO", "false").lower() == "true"
@@ -363,21 +362,26 @@ def make_reddit():
     return reddit
 
 
-def episode_marker(date_str):
-    return f"{MARKER_PREFIX}:{date_str}:episode"
-
-
-def spoiler_marker(slug):
-    return f"{MARKER_PREFIX}:spoilers:{slug}"
-
-
-def already_posted(reddit, needle):
+def _recent_bot_posts(reddit):
+    out = []
     for submission in reddit.user.me().submissions.new(limit=DEDUPE_SCAN_LIMIT):
-        if submission.subreddit.display_name.lower() != SUBREDDIT.lower():
-            continue
-        if needle in (submission.selftext or ""):
-            return True
-    return False
+        if submission.subreddit.display_name.lower() == SUBREDDIT.lower():
+            out.append(submission)
+    return out
+
+
+def episode_already_posted(reddit, title_prefix):
+    """An episode thread for this day exists if a recent title starts the same."""
+    return any((s.title or "").startswith(title_prefix) for s in _recent_bot_posts(reddit))
+
+
+def spoiler_already_posted(reddit, source_url):
+    """A spoilers thread for this batch exists if its source link is already up."""
+    return any(source_url and source_url in (s.selftext or "") for s in _recent_bot_posts(reddit))
+
+
+def episode_title_prefix(date_obj):
+    return f"Emmerdale Discussion \u2014 {date_obj.strftime('%A')} {date_obj.strftime('%-d %B %Y')}"
 
 
 def _apply_flair(submission, flair_text):
@@ -390,10 +394,9 @@ def _apply_flair(submission, flair_text):
     submission.mod.flair(text=flair_text)
 
 
-def submit_thread(reddit, title, body, needle, job):
+def submit_thread(reddit, title, body, job):
     sub = reddit.subreddit(SUBREDDIT)
-    full_body = f"{body}\n\n&#32;\n\n^({needle})"
-    submission = sub.submit(title=title, selftext=full_body, send_replies=False)
+    submission = sub.submit(title=title, selftext=body, send_replies=False)
     try:
         submission.mod.suggested_sort(SUGGESTED_SORT)
     except Exception as e:
@@ -442,16 +445,16 @@ def run_episode(reddit, now):
         if intro:
             body = intro + "\n\n" + body
 
-    needle = episode_marker(date_str)
+    needle = episode_title_prefix(now)
     if DRY_RUN:
         print("=== DRY RUN [episode] ===\nTITLE:", title, "\n---- BODY ----\n" + body)
         return reddit
     if reddit is None:
         reddit = make_reddit()
-    if already_posted(reddit, needle):
+    if episode_already_posted(reddit, needle):
         print(f"[skip] already posted {date_str}/episode.")
         return reddit
-    sub = submit_thread(reddit, title, body, needle, "episode")
+    sub = submit_thread(reddit, title, body, "episode")
     print(f"[ok] posted [episode]: https://redd.it/{sub.id}")
     return reddit
 
@@ -479,16 +482,15 @@ def run_spoilers(reddit, now):
         if intro:
             body = intro + "\n\n" + body
 
-    needle = spoiler_marker(slug)
     if DRY_RUN:
         print("=== DRY RUN [spoilers] ===\nTITLE:", title, "\n---- BODY ----\n" + body)
         return reddit
     if reddit is None:
         reddit = make_reddit()
-    if already_posted(reddit, needle):
+    if spoiler_already_posted(reddit, url):
         print(f"[skip] already posted spoilers for {slug}.")
         return reddit
-    sub = submit_thread(reddit, title, body, needle, "spoilers")
+    sub = submit_thread(reddit, title, body, "spoilers")
     print(f"[ok] posted [spoilers]: https://redd.it/{sub.id}")
     return reddit
 
