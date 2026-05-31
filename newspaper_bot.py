@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+Daily Newspaper Bot.
 """
 
 from __future__ import annotations
@@ -125,19 +126,31 @@ def parse_post_time(post_text: str) -> Optional[datetime]:
 # Reddit helpers
 # ---------------------------------------------------------------------------
 
+def _clean_env(name: str) -> str:
+    """Read an env var and strip surrounding whitespace/newlines.
+
+    GitHub Actions secrets can pick up trailing whitespace or newlines when
+    pasted from a clipboard, which causes HTTP-header errors (any leading or
+    trailing whitespace makes the header value invalid). Always sanitise.
+    """
+    return os.environ.get(name, "").strip()
+
+
 def build_reddit() -> praw.Reddit:
+    username = _clean_env("REDDIT_USERNAME")
+    # USER_AGENT secret is optional; if empty / whitespace-only, build a default.
+    user_agent = _clean_env("USER_AGENT") or f"python:uk-papers-bot:v2.0 (by /u/{username})"
+
     reddit = praw.Reddit(
-        client_id=os.environ["REDDIT_CLIENT_ID"],
-        client_secret=os.environ["REDDIT_CLIENT_SECRET"],
-        username=os.environ["REDDIT_USERNAME"],
-        password=os.environ["REDDITPASSWORD"],
-        user_agent=os.environ.get(
-            "USER_AGENT",
-            f"python:uk-papers-bot:v2.0 (by /u/{os.environ['REDDIT_USERNAME']})",
-        ),
+        client_id=_clean_env("REDDIT_CLIENT_ID"),
+        client_secret=_clean_env("REDDIT_CLIENT_SECRET"),
+        username=username,
+        password=_clean_env("REDDITPASSWORD"),
+        user_agent=user_agent,
         ratelimit_seconds=300,
     )
     reddit.validate_on_submit = True
+    log.info("Using user agent: %r", user_agent)
     me = reddit.user.me()
     if me is None:
         raise RuntimeError("Reddit authentication returned no user — check credentials.")
