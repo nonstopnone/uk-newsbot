@@ -1,23 +1,5 @@
 #!/usr/bin/env python3
 """
-Daily Newspaper Bot.
-
-Scrapes Sky News' live "Tomorrow's national newspaper front pages" blog and
-mirrors each front page to a subreddit as the papers are added through the
-evening / overnight. Each Reddit post is an image of the front page; the
-blurb from Sky News editors is added as the first comment.
-
-Designed to be run repeatedly (every 30 minutes) by GitHub Actions over the
-window 22:00 UTC → 12:00 UTC. Idempotent — re-runs won't double-post.
-
-Environment variables (set as GitHub Actions secrets):
-    REDDIT_CLIENT_ID
-    REDDIT_CLIENT_SECRET
-    REDDIT_USERNAME
-    REDDITPASSWORD        (note: no underscore, intentional to match existing workflow)
-    USER_AGENT            optional — defaults to a PRAW-recommended format
-    SUBREDDIT             optional — overrides the default subreddit (handy for testing)
-    SKY_ARTICLE_ID        optional — overrides the Sky News article ID
 """
 
 from __future__ import annotations
