@@ -1,42 +1,58 @@
-name: Post BBC Papers to Reddit
+name: Run Breaking UK News Bot
 
 on:
   schedule:
-    - cron: "*/30 22,23 * * *"   # 22:00–23:59 UTC
-    - cron: "*/30 0-12 * * *"    # 00:00–12:59 UTC
-  workflow_dispatch:              # allow manual trigger
-
-concurrency:
-  group: newspaper-bot
-  cancel-in-progress: false       # never cancel a run mid-post
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      manual_story_url:
+        required: false
+        default: ''
+      manual_story_title:
+        required: false
+        default: ''
 
 jobs:
-  post-papers:
+  run-bot:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      # ── Step 1: Checkout ─────────────────────────────────────────────────
-      - name: "Step 1: Checkout repository"
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # ── Step 2: Set up Python ────────────────────────────────────────────
-      - name: "Step 2: Set up Python"
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.11'
+          cache: 'pip'
 
-      # ── Step 3: Install dependencies (no requirements.txt) ───────────────
-      - name: "Step 3: Install dependencies"
-        run: pip install praw requests beautifulsoup4
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests beautifulsoup4 praw python-dateutil google-genai
 
-      # ── Step 4: Run the bot ──────────────────────────────────────────────
-      - name: "Step 4: Run newspaper bot"
+      - name: Execute News Bot
         env:
-          REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USERNAME:      ${{ secrets.REDDIT_USERNAME }}
-          REDDITPASSWORD:       ${{ secrets.REDDITPASSWORD }}
-          USER_AGENT:           ${{ secrets.USER_AGENT }}
-          SUBREDDIT:            ${{ secrets.SUBREDDIT }}
-        run: python newspaper_bot.py
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MANUAL_STORY_URL: ${{ github.event.inputs.manual_story_url || '' }}
+          MANUAL_STORY_TITLE: ${{ github.event.inputs.manual_story_title || '' }}
+        run: |
+          python main.py
+
+      - name: Commit and Push State Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posted_urls.txt ai_cache.json metrics.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated state sync: Update logs and tracking files [skip ci]"
+            git push
+          else
+            echo "No state modifications found. Skipping commit."
+          fi
