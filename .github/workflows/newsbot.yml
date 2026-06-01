@@ -1,71 +1,42 @@
-name: uknewsbot
+name: Post BBC Papers to Reddit
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/30 22,23 * * *"   # 22:00–23:59 UTC
+    - cron: "*/30 0-12 * * *"    # 00:00–12:59 UTC
+  workflow_dispatch:              # allow manual trigger
 
-  workflow_dispatch:
-    inputs:
-      manual_story_url:
-        description: "URL of story to post (leave blank for normal automated run)"
-        required: false
-        default: ""
-        type: string
-      manual_story_title:
-        description: "Title override — required for sites that block scraping (e.g. Sky News)"
-        required: false
-        default: ""
-        type: string
+concurrency:
+  group: newspaper-bot
+  cancel-in-progress: false       # never cancel a run mid-post
 
 jobs:
-  run-bot:
+  post-papers:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
+      # ── Step 1: Checkout ─────────────────────────────────────────────────
+      - name: "Step 1: Checkout repository"
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      # ── Step 2: Set up Python ────────────────────────────────────────────
+      - name: "Step 2: Set up Python"
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Cache pip dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+      # ── Step 3: Install dependencies (no requirements.txt) ───────────────
+      - name: "Step 3: Install dependencies"
+        run: pip install praw requests beautifulsoup4
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          pip install google-genai
-
-      - name: Restore deduplication file
-        uses: actions/cache@v4
-        with:
-          path: posted_urls.txt
-          key: dedup-${{ github.run_id }}
-          restore-keys: |
-            dedup-
-
-      - name: Restore AI cache
-        uses: actions/cache@v4
-        with:
-          path: ai_cache.json
-          key: ai-cache-${{ github.run_id }}
-          restore-keys: |
-            ai-cache-
-
-      - name: Run newsbot
+      # ── Step 4: Run the bot ──────────────────────────────────────────────
+      - name: "Step 4: Run newspaper bot"
         env:
           REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME:      ${{ secrets.REDDIT_USERNAME }}
           REDDITPASSWORD:       ${{ secrets.REDDITPASSWORD }}
-          GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
-          MANUAL_STORY_URL:     ${{ github.event.inputs.manual_story_url }}
-          MANUAL_STORY_TITLE:   ${{ github.event.inputs.manual_story_title }}
-        run: python newsbot.py
+          USER_AGENT:           ${{ secrets.USER_AGENT }}
+          SUBREDDIT:            ${{ secrets.SUBREDDIT }}
+        run: python newspaper_bot.py
