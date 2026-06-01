@@ -1,494 +1,273 @@
 #!/usr/bin/env python3
-"""
-Daily Newspaper Bot.
+"""BBC The Papers → Reddit image poster
+
+Scrapes today's newspaper front-page images and BBC editorial blurbs from
+the BBC "The Papers" feature, then posts each one as an image post to
+the configured subreddit with the blurb as the first comment.
+
+Idempotent: checks subreddit.new() titles before posting.
 """
 
-from __future__ import annotations
-
-import logging
 import os
 import re
 import sys
-import tempfile
 import time
-from datetime import datetime, timedelta
-from pathlib import Path
-from typing import Optional
-from urllib.parse import urljoin
-from zoneinfo import ZoneInfo
+import tempfile
+from datetime import datetime
 
-import praw
 import requests
-from playwright.sync_api import (
-    Page,
-    TimeoutError as PlaywrightTimeoutError,
-    sync_playwright,
-)
-from prawcore.exceptions import PrawcoreException
+from bs4 import BeautifulSoup
+import praw
 
 
-# ---------------------------------------------------------------------------
-# Config
-# ---------------------------------------------------------------------------
+# ── 1. Configuration ──────────────────────────────────────────────────────────
 
-UK_TZ = ZoneInfo("Europe/London")
+def _e(key):
+    """Read env var and strip whitespace (guards against trailing-space secrets)."""
+    return os.environ[key].strip()
 
-DEFAULT_SUBREDDIT = "uknews_approvals"
+REDDIT_CLIENT_ID     = _e("REDDIT_CLIENT_ID")
+REDDIT_CLIENT_SECRET = _e("REDDIT_CLIENT_SECRET")
+REDDIT_USERNAME      = _e("REDDIT_USERNAME")
+REDDIT_PASSWORD      = _e("REDDITPASSWORD")   # no underscore – deliberate
+USER_AGENT           = _e("USER_AGENT")
+SUBREDDIT_NAME       = os.environ.get("SUBREDDIT", "uknews_approvals").strip()
 
-# Sky News uses a slug like "tuesdays-national-newspaper-front-pages-<ID>".
-# The day prefix rotates with the day of the week the article is about; the ID
-# at the end is the article's database ID and (in our testing) is stable.
-SKY_ARTICLE_ID_DEFAULT = "12427754"
-SKY_URL_TEMPLATE = "https://news.sky.com/story/{day_lower}s-national-newspaper-front-pages-{article_id}"
-SKY_URL_FALLBACK = "https://news.sky.com/story/{article_id}"  # bare ID; Sky often redirects to canonical
+TOPIC_URL  = "https://www.bbc.co.uk/news/topics/cpml2v678pxt"
+BBC_BASE   = "https://www.bbc.co.uk"
+IMG_WIDTH  = 1024   # px width to request from BBC CDN (they resize dynamically)
 
-SCAN_LIMIT = 15                # how many posts from the top of the live blog to look at
-STALE_HOURS = 18               # skip posts older than this
-INTER_POST_SLEEP = 6           # seconds between Reddit submissions
-IMAGE_MIN_BYTES = 4_096        # anything smaller is almost certainly a placeholder / 404
-HTTP_TIMEOUT = 30
-PAGE_LOAD_TIMEOUT = 45_000     # ms
-SELECTOR_TIMEOUT = 30_000      # ms
-
-# Realistic browser UA — Sky News may otherwise block headless Chromium.
-BROWSER_UA = (
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-)
+HTTP_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; UKNewsPapersBot/1.0)",
+    "Accept-Language": "en-GB,en;q=0.9",
+}
 
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s  %(levelname)-7s  %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S",
-)
-log = logging.getLogger("papers")
+# ── 2. Scrape topic page → today's article URL ───────────────────────────────
+
+def get_latest_article_url():
+    """Return the URL of the most-recent BBC The Papers article."""
+    resp = requests.get(TOPIC_URL, headers=HTTP_HEADERS, timeout=30)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    link = soup.select_one("a[href^='/news/articles/']")
+    if not link:
+        raise RuntimeError("No article link found on BBC The Papers topic page")
+
+    return BBC_BASE + link["href"]
 
 
-# ---------------------------------------------------------------------------
-# Time / URL helpers
-# ---------------------------------------------------------------------------
+# ── 3. Scrape article page → list of paper dicts ────────────────────────────
 
-def expected_paper_day() -> str:
+def _parse_article_date(soup):
+    """Return (day_name, date_str) from the article's <time> element.
+
+    Prefers the text content ("31 May 2026, 00:22 BST") which is already
+    in UK local time, avoiding timezone library dependencies.
     """
-    Day-of-week name (e.g. "Tuesday") that the current Sky News article is FOR.
-
-    Sky News posts "Tomorrow's papers" from ~22:00 UK time. The article stays
-    live through the next morning. So:
-      * Evening (UK hour >= 18)  -> tomorrow's day name
-      * Morning (UK hour <  18)  -> today's day name (article from last night)
-    """
-    now_uk = datetime.now(UK_TZ)
-    target = now_uk + timedelta(days=1) if now_uk.hour >= 18 else now_uk
-    return target.strftime("%A")
-
-
-def expected_paper_date() -> datetime:
-    now_uk = datetime.now(UK_TZ)
-    return now_uk + timedelta(days=1) if now_uk.hour >= 18 else now_uk
-
-
-def candidate_urls(article_id: str) -> list[str]:
-    """URLs to try in order. Today's expected slug first, then the
-    previous day's slug (for edge cases where the article hasn't yet rotated),
-    then the bare-ID URL which Sky often redirects to the canonical slug."""
-    now_uk = datetime.now(UK_TZ)
-    today_paper = expected_paper_day()
-    # The "other" day to try is the one we'd be on if we were on the opposite
-    # side of the 18:00 cutoff.
-    other = (now_uk - timedelta(days=1) if now_uk.hour >= 18 else now_uk + timedelta(days=1)).strftime("%A")
-    seen, urls = set(), []
-    for day in (today_paper, other):
-        u = SKY_URL_TEMPLATE.format(day_lower=day.lower(), article_id=article_id)
-        if u not in seen:
-            urls.append(u)
-            seen.add(u)
-    urls.append(SKY_URL_FALLBACK.format(article_id=article_id))
-    return urls
-
-
-def parse_post_time(post_text: str) -> Optional[datetime]:
-    """Best-effort parse of a 'HH:MM' timestamp from a live-blog post header.
-
-    We only look at the FIRST line to avoid matching times mentioned in the body.
-    """
-    first_line = (post_text.splitlines() or [""])[0]
-    m = re.match(r"\s*([0-1]?[0-9]|2[0-3]):([0-5][0-9])\s*$", first_line)
-    if not m:
-        return None
-    hour, minute = int(m.group(1)), int(m.group(2))
-    now = datetime.now(UK_TZ)
-    dt_today = now.replace(hour=hour, minute=minute, second=0, microsecond=0)
-    return dt_today if dt_today <= now else dt_today - timedelta(days=1)
-
-
-# ---------------------------------------------------------------------------
-# Reddit helpers
-# ---------------------------------------------------------------------------
-
-def _clean_env(name: str) -> str:
-    """Read an env var and strip surrounding whitespace/newlines.
-
-    GitHub Actions secrets can pick up trailing whitespace or newlines when
-    pasted from a clipboard, which causes HTTP-header errors (any leading or
-    trailing whitespace makes the header value invalid). Always sanitise.
-    """
-    return os.environ.get(name, "").strip()
-
-
-def build_reddit() -> praw.Reddit:
-    username = _clean_env("REDDIT_USERNAME")
-    # USER_AGENT secret is optional; if empty / whitespace-only, build a default.
-    user_agent = _clean_env("USER_AGENT") or f"python:uk-papers-bot:v2.0 (by /u/{username})"
-
-    reddit = praw.Reddit(
-        client_id=_clean_env("REDDIT_CLIENT_ID"),
-        client_secret=_clean_env("REDDIT_CLIENT_SECRET"),
-        username=username,
-        password=_clean_env("REDDITPASSWORD"),
-        user_agent=user_agent,
-        ratelimit_seconds=300,
-    )
-    reddit.validate_on_submit = True
-    log.info("Using user agent: %r", user_agent)
-    me = reddit.user.me()
-    if me is None:
-        raise RuntimeError("Reddit authentication returned no user — check credentials.")
-    log.info("Authenticated as /u/%s", me.name)
-    return reddit
-
-
-def build_title(paper_name: str, paper_date: datetime) -> str:
-    day_name = paper_date.strftime("%A").upper()
-    date_str = paper_date.strftime("%d/%m/%Y")
-    return f"{paper_name.upper()} Front Page | {day_name} {date_str}"
-
-
-def recent_bot_titles(reddit: praw.Reddit, subreddit_name: str, limit: int = 50) -> set[str]:
-    """Pull recent submission titles by the bot in this sub. ONE network call, used for dedupe."""
-    titles: set[str] = set()
-    try:
-        me = reddit.user.me()
-        for sub in me.submissions.new(limit=limit):
-            if sub.subreddit.display_name.lower() == subreddit_name.lower():
-                titles.add(sub.title)
-    except PrawcoreException as e:
-        log.warning("Dedup pre-fetch failed (%s) — proceeding without it.", e)
-    return titles
-
-
-def is_duplicate(title: str, paper_name: str, paper_date: datetime, recent: set[str]) -> bool:
-    """A duplicate is an existing title that matches paper name AND paper-date day/month/year.
-
-    We deliberately use the *paper's* date here, not 'today', because the script
-    can run either side of midnight.
-    """
-    if title in recent:
-        return True
-    needle_paper = paper_name.upper()
-    needle_date = paper_date.strftime("%d/%m/%Y")
-    for existing in recent:
-        if needle_paper in existing.upper() and needle_date in existing:
-            return True
-    return False
-
-
-# ---------------------------------------------------------------------------
-# Scraping
-# ---------------------------------------------------------------------------
-
-def dismiss_cookie_banner(page: Page) -> None:
-    """Sky News (like most UK news sites under PECR) shows a cookie wall on first load.
-
-    Without dismissing, the rest of the DOM may not hydrate. Best-effort: try a few
-    common selectors and move on if none match.
-    """
-    selectors = [
-        'button:has-text("Accept all")',
-        'button:has-text("I agree")',
-        'button:has-text("Accept All")',
-        'button:has-text("Agree")',
-        'button[aria-label*="accept" i]',
-        'button[title*="accept" i]',
-    ]
-    for sel in selectors:
-        try:
-            el = page.query_selector(sel)
-            if el:
-                el.click(timeout=2_000)
-                log.info("Dismissed cookie banner via selector: %s", sel)
-                page.wait_for_timeout(1_500)
-                return
-        except Exception:  # noqa: BLE001
-            continue
-    # Sourcepoint iframe variant — try clicking inside any consent iframe.
-    try:
-        for frame in page.frames:
-            if "sp_message" in (frame.name or "") or "consent" in (frame.url or "").lower():
-                btn = frame.query_selector('button:has-text("Accept")')
-                if btn:
-                    btn.click(timeout=2_000)
-                    log.info("Dismissed cookie banner in iframe %s", frame.url)
-                    page.wait_for_timeout(1_500)
-                    return
-    except Exception:  # noqa: BLE001
-        pass
-
-
-def extract_image_url(post_handle, page_url: str) -> Optional[str]:
-    """Resolve the largest available image URL from a live-blog post.
-
-    Modern news pages lazy-load: real URL is in data-src / srcset, while src is a
-    1x1 placeholder. We check all candidates and pick the largest from srcset.
-    """
-    img = post_handle.query_selector("img")
-    if not img:
-        return None
-
-    srcset = img.get_attribute("srcset") or ""
-    if srcset:
-        best, best_w = None, -1
-        for item in srcset.split(","):
-            parts = item.strip().split()
-            if not parts:
-                continue
-            url = parts[0]
-            w = 0
-            if len(parts) > 1 and parts[1].endswith("w"):
-                try:
-                    w = int(parts[1][:-1])
-                except ValueError:
-                    w = 0
-            if w > best_w:
-                best, best_w = url, w
-        if best:
-            return urljoin(page_url, best)
-
-    for attr in ("data-src", "src"):
-        val = img.get_attribute(attr)
-        if val and not val.startswith("data:"):
-            return urljoin(page_url, val)
-    return None
-
-
-def extract_paper_name_and_blurb(post_text: str) -> tuple[Optional[str], str]:
-    """Pull the paper name (heading) and the body blurb from a live-blog post."""
-    lines = [ln.strip() for ln in post_text.splitlines() if ln.strip()]
-    if not lines:
-        return None, ""
-
-    # The first line is sometimes a "HH:MM" timestamp; skip it if so.
-    idx = 0
-    if re.match(r"^[0-1]?[0-9]:[0-5][0-9]$", lines[0]):
-        idx = 1
-    if idx >= len(lines):
-        return None, ""
-
-    paper_name = lines[idx]
-    paper_name = re.sub(r"^[^\w]+", "", paper_name).rstrip(":").strip()
-    if not paper_name:
-        return None, ""
-
-    blurb = "\n\n".join(lines[idx + 1:]).strip()
-    return paper_name, blurb
-
-
-def download_image(url: str, dest_dir: Path, safe_name: str) -> Optional[Path]:
-    """Download with one retry. Reject non-image responses and tiny placeholders."""
-    last_err: Optional[Exception] = None
-    for attempt in (1, 2):
-        try:
-            resp = requests.get(
-                url,
-                timeout=HTTP_TIMEOUT,
-                headers={"User-Agent": BROWSER_UA},
+    time_el = soup.find("time", {"datetime": True})
+    if time_el:
+        text = time_el.get_text(strip=True)        # "31 May 2026, 00:22 BST"
+        m = re.match(r"(\d{1,2}) (\w+) (\d{4})", text)
+        if m:
+            dt = datetime.strptime(
+                f"{m.group(1)} {m.group(2)} {m.group(3)}", "%d %B %Y"
             )
-        except requests.RequestException as e:
-            last_err = e
-            time.sleep(1.5)
+            return dt.strftime("%A"), dt.strftime("%d/%m/%Y")
+
+    # Fallback: UTC today
+    dt = datetime.utcnow()
+    return dt.strftime("%A"), dt.strftime("%d/%m/%Y")
+
+
+def _paper_name_from_alt(alt):
+    """Extract paper name from BBC alt text.
+
+    Pattern: "The headline on the front page of the Sunday Times reads: …"
+    Returns: "Sunday Times"
+    """
+    m = re.search(r"front page of (?:the )?(.+?)\s+reads", alt, re.IGNORECASE)
+    return m.group(1).strip() if m else None
+
+
+def get_papers(article_url):
+    """Scrape the article page; return list of paper dicts."""
+    resp = requests.get(article_url, headers=HTTP_HEADERS, timeout=30)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    day_name, date_str = _parse_article_date(soup)
+
+    papers = []
+    seen = set()
+
+    for fig in soup.find_all("figure"):
+        img = fig.find("img")
+        if not img:
             continue
 
-        if resp.status_code != 200:
-            log.warning("HTTP %d fetching %s", resp.status_code, url)
-            return None
-        ctype = resp.headers.get("Content-Type", "").lower()
-        if "image" not in ctype:
-            log.warning("Non-image content-type %r at %s", ctype, url)
-            return None
-        if len(resp.content) < IMAGE_MIN_BYTES:
-            log.warning("Image too small (%d bytes) at %s — likely placeholder", len(resp.content), url)
-            return None
+        alt = img.get("alt", "")
+        if "front page of" not in alt.lower():
+            continue   # News Daily banners, promo images, etc.
 
-        ext = "jpg"
-        if "png" in ctype:
-            ext = "png"
-        elif "webp" in ctype:
-            ext = "webp"
-        path = dest_dir / f"{safe_name}.{ext}"
-        path.write_bytes(resp.content)
-        return path
+        paper_name = _paper_name_from_alt(alt)
+        if not paper_name or paper_name in seen:
+            continue
+        seen.add(paper_name)
 
-    log.warning("Failed to download %s: %s", url, last_err)
+        # Build image URL at desired display width
+        src = img.get("src", "")
+        if not src:
+            continue
+        image_url = re.sub(r"/ace/standard/\d+/", f"/ace/standard/{IMG_WIDTH}/", src)
+
+        # Extract blurb from figcaption paragraphs
+        caption = fig.find("figcaption")
+        blurb = ""
+        if caption:
+            blurb = " ".join(
+                p.get_text(" ", strip=True) for p in caption.find_all("p")
+            ).strip()
+        if not blurb:
+            blurb = f"BBC The Papers – {paper_name}"
+
+        papers.append({
+            "name":      paper_name,
+            "image_url": image_url,
+            "blurb":     blurb,
+            "day_name":  day_name,
+            "date_str":  date_str,
+        })
+
+    return papers
+
+
+# ── 4. Reddit helpers ─────────────────────────────────────────────────────────
+
+def make_title(paper_name, day_name, date_str):
+    """e.g. "Sunday Times | Sunday 31/05/2026" """
+    return f"{paper_name} | {day_name} {date_str}"
+
+
+def get_existing_titles(subreddit, limit=100):
+    """Cache subreddit.new() titles for dedup. Called ONCE."""
+    return {sub.title for sub in subreddit.new(limit=limit)}
+
+
+def _find_submission(me, subreddit, title, max_wait=30):
+    """Poll for our newly-created submission.
+
+    submit_image(..., without_websockets=True) returns None, so we locate
+    the post by scanning the bot account's recent submissions.
+    Waits up to max_wait seconds.
+    """
+    for _ in range(max_wait // 5):
+        time.sleep(5)
+        # Check user's recent submissions first (fastest path)
+        for sub in me.submissions.new(limit=3):
+            if sub.title == title:
+                return sub
+        # Fallback: scan subreddit new queue
+        for sub in subreddit.new(limit=15):
+            if sub.title == title:
+                return sub
     return None
 
 
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
+def post_paper(subreddit, me, paper, existing_titles):
+    """Post one paper. Returns True if posted, False if skipped."""
+    title = make_title(paper["name"], paper["day_name"], paper["date_str"])
 
-def validate_env() -> None:
-    required = ("REDDIT_CLIENT_ID", "REDDIT_CLIENT_SECRET", "REDDIT_USERNAME", "REDDITPASSWORD")
-    missing = [v for v in required if not os.environ.get(v)]
-    if missing:
-        log.error("Missing required env vars: %s", missing)
-        sys.exit(2)
+    if title in existing_titles:
+        print(f"  SKIP  {title}")
+        return False
 
+    print(f"  POST  {title}")
 
-def open_blog(page: Page, article_id: str) -> Optional[str]:
-    """Navigate to the Sky News live blog. Returns the URL actually loaded, or None."""
-    for url in candidate_urls(article_id):
-        log.info("Trying URL: %s", url)
-        try:
-            response = page.goto(url, timeout=PAGE_LOAD_TIMEOUT, wait_until="domcontentloaded")
-        except PlaywrightTimeoutError:
-            log.warning("Timeout loading %s", url)
-            continue
-        if response and response.status >= 400:
-            log.warning("HTTP %d at %s", response.status, url)
-            continue
+    # Download image
+    img_resp = requests.get(paper["image_url"], headers=HTTP_HEADERS, timeout=30)
+    img_resp.raise_for_status()
 
-        dismiss_cookie_banner(page)
+    content_type = img_resp.headers.get("content-type", "image/jpeg")
+    ext = "png" if "png" in content_type else "jpg"
 
-        try:
-            page.wait_for_selector('[data-testid="live-blog-post"]', timeout=SELECTOR_TIMEOUT)
-            log.info("Blog loaded: %s", page.url)
-            return page.url
-        except PlaywrightTimeoutError:
-            log.warning("No live-blog-post selector visible at %s", url)
-            continue
-    return None
-
-
-def main() -> int:
-    validate_env()
-
-    subreddit_name = os.environ.get("SUBREDDIT", DEFAULT_SUBREDDIT).lstrip("r/").lstrip("/") or DEFAULT_SUBREDDIT
-    article_id = os.environ.get("SKY_ARTICLE_ID") or SKY_ARTICLE_ID_DEFAULT
-    paper_date = expected_paper_date()
-
-    log.info("Target subreddit : r/%s", subreddit_name)
-    log.info("Expected day     : %s (%s)", expected_paper_day(), paper_date.strftime("%d/%m/%Y"))
+    # PRAW's submit_image needs a file path, not a BytesIO
+    with tempfile.NamedTemporaryFile(suffix=f".{ext}", delete=False) as tmp:
+        tmp.write(img_resp.content)
+        tmp_path = tmp.name
 
     try:
-        reddit = build_reddit()
-    except (PrawcoreException, KeyError, RuntimeError) as e:
-        log.error("Reddit setup failed: %s", e)
-        return 2
-    subreddit = reddit.subreddit(subreddit_name)
-    recent_titles = recent_bot_titles(reddit, subreddit_name, limit=50)
-    log.info("Loaded %d recent bot submission titles for dedupe.", len(recent_titles))
+        subreddit.submit_image(
+            title=title,
+            image_path=tmp_path,
+            without_websockets=True,   # avoid websocket hang on CI runners
+        )
+    finally:
+        os.unlink(tmp_path)
 
-    posted_count = 0
-    skipped_dupes = 0
+    # without_websockets=True returns None; locate the submission to comment
+    submission = _find_submission(me, subreddit, title)
+    if submission:
+        submission.reply(paper["blurb"])
+        print(f"        → https://reddit.com{submission.permalink}")
+    else:
+        print(f"        WARNING: submission not found within timeout – blurb not posted")
 
-    with tempfile.TemporaryDirectory(prefix="papers_") as tmp:
-        tmp_path = Path(tmp)
+    existing_titles.add(title)
+    return True
 
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(user_agent=BROWSER_UA, locale="en-GB")
-            page = context.new_page()
 
-            loaded_url = open_blog(page, article_id)
-            if not loaded_url:
-                log.error("Could not load Sky News blog — aborting.")
-                browser.close()
-                return 1
+# ── 5. Main ───────────────────────────────────────────────────────────────────
 
-            page_title = page.title()
-            log.info("Page title: %s", page_title)
+def main():
+    # ─ Step 1: Authenticate with Reddit ────────────────────────────────────
+    print("Step 1: Connecting to Reddit…")
+    reddit = praw.Reddit(
+        client_id=REDDIT_CLIENT_ID,
+        client_secret=REDDIT_CLIENT_SECRET,
+        username=REDDIT_USERNAME,
+        password=REDDIT_PASSWORD,
+        user_agent=USER_AGENT,
+    )
+    me        = reddit.user.me()
+    subreddit = reddit.subreddit(SUBREDDIT_NAME)
+    print(f"        Authenticated as u/{me.name}, posting to r/{SUBREDDIT_NAME}")
 
-            posts = page.query_selector_all('[data-testid="live-blog-post"]')
-            posts_to_scan = posts[:SCAN_LIMIT]
-            log.info("Found %d posts total. Scanning top %d.", len(posts), len(posts_to_scan))
+    # ─ Step 2: Find the latest BBC The Papers article ───────────────────────
+    print("Step 2: Finding today's BBC The Papers article…")
+    article_url = get_latest_article_url()
+    print(f"        {article_url}")
 
-            for post in posts_to_scan:
-                try:
-                    text = post.inner_text()
-                except Exception as e:  # noqa: BLE001
-                    log.warning("Couldn't read post text: %s", e)
-                    continue
+    # ─ Step 3: Scrape front-page images and blurbs ──────────────────────────
+    print("Step 3: Scraping paper images and blurbs…")
+    papers = get_papers(article_url)
+    print(f"        Found {len(papers)} papers")
+    if not papers:
+        print("        Nothing to post – exiting.")
+        sys.exit(0)
 
-                # End-of-coverage marker
-                lower = text.lower()
-                if any(phrase in lower for phrase in (
-                    "that's all for today",
-                    "that concludes our coverage",
-                    "check back tomorrow",
-                )):
-                    log.info("End-of-coverage marker — stopping scan.")
-                    break
+    # ─ Step 4: Load existing post titles for dedup (one call) ───────────────
+    print("Step 4: Loading recent posts for dedup check…")
+    existing_titles = get_existing_titles(subreddit)
+    print(f"        {len(existing_titles)} existing titles cached")
 
-                # Stale check (based on first-line timestamp only)
-                post_dt = parse_post_time(text)
-                if post_dt:
-                    age_hours = (datetime.now(UK_TZ) - post_dt).total_seconds() / 3600
-                    if age_hours > STALE_HOURS:
-                        log.info("Skip — post is %.1fh old", age_hours)
-                        continue
+    # ─ Step 5: Post each paper ──────────────────────────────────────────────
+    print("Step 5: Posting papers…")
+    posted = skipped = errors = 0
+    for paper in papers:
+        try:
+            if post_paper(subreddit, me, paper, existing_titles):
+                posted += 1
+                time.sleep(2)   # brief buffer between posts
+            else:
+                skipped += 1
+        except Exception as exc:
+            print(f"  ERROR {paper['name']}: {exc}")
+            errors += 1
 
-                paper_name, blurb = extract_paper_name_and_blurb(text)
-                if not paper_name:
-                    log.info("Skip — couldn't extract paper name.")
-                    continue
-
-                img_url = extract_image_url(post, loaded_url)
-                if not img_url:
-                    log.info("Skip %s — no image found.", paper_name)
-                    continue
-
-                title = build_title(paper_name, paper_date)
-                if is_duplicate(title, paper_name, paper_date, recent_titles):
-                    log.info("Skip %s — already posted (dedup).", paper_name)
-                    skipped_dupes += 1
-                    continue
-
-                safe_name = re.sub(r"\W+", "", paper_name) or "paper"
-                local = download_image(img_url, tmp_path, safe_name)
-                if not local:
-                    log.info("Skip %s — image download failed.", paper_name)
-                    continue
-
-                log.info("Posting: %s", title)
-                try:
-                    submission = subreddit.submit_image(
-                        title=title,
-                        image_path=str(local),
-                        without_websockets=True,
-                    )
-                except PrawcoreException as e:
-                    log.error("Reddit submit failed for %s: %s", paper_name, e)
-                    continue
-                except Exception as e:  # noqa: BLE001
-                    log.error("Unexpected submit error for %s: %s", paper_name, e)
-                    continue
-
-                posted_count += 1
-                recent_titles.add(title)
-
-                if blurb and submission is not None:
-                    try:
-                        submission.reply(f"{blurb}\n\n*Via Sky News*")
-                    except Exception as e:  # noqa: BLE001
-                        log.warning("Reply failed for %s: %s", paper_name, e)
-
-                time.sleep(INTER_POST_SLEEP)
-
-            browser.close()
-
-    log.info("Done. Posted=%d, dedup-skipped=%d", posted_count, skipped_dupes)
-    return 0
+    print(f"\nDone – posted: {posted}  skipped: {skipped}  errors: {errors}")
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
