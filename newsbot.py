@@ -14,6 +14,7 @@ import re
 import hashlib
 import html
 import json
+import unicodedata
 import difflib
 from dateutil import parser as dateparser
 from collections import Counter
@@ -69,6 +70,33 @@ def log_score_detail(entry_title, score, pos, neg, matched, target, reason):
     log("SCORE", f"{'─'*60}", Col.DIM)
 
 # =========================
+# Section: Text Cleaning
+# =========================
+def clean_text(s):
+    """
+    Decode HTML entities (e.g. &#163; -> £, &amp; -> &, &#8217; -> ’),
+    normalise unicode (NFC), replace non-breaking spaces and other oddities,
+    and collapse whitespace. Runs entity-decode twice to handle the
+    occasional double-encoded feed (e.g. &amp;#163;).
+    """
+    if not s:
+        return ""
+    if not isinstance(s, str):
+        s = str(s)
+    # Decode entities twice in case of double encoding
+    s = html.unescape(s)
+    s = html.unescape(s)
+    # Unicode normalisation
+    s = unicodedata.normalize("NFC", s)
+    # Replace non-breaking spaces & zero-width characters
+    s = s.replace("\u00a0", " ")
+    s = s.replace("\u200b", "")
+    s = s.replace("\ufeff", "")
+    # Collapse whitespace
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+# =========================
 # Section: Reddit & Gemini Setup
 # =========================
 REQUIRED_ENV = [
@@ -94,7 +122,7 @@ reddit = praw.Reddit(
     client_secret=os.environ["REDDIT_CLIENT_SECRET"],
     username=os.environ["REDDIT_USERNAME"],
     password=os.environ["REDDITPASSWORD"],
-    user_agent="BreakingUKNewsBot/6.5"
+    user_agent="BreakingUKNewsBot/6.6"
 )
 
 try:
@@ -328,9 +356,9 @@ NEG_PATTERNS = compile_keywords_dict(NEGATIVE_KEYWORDS)
 class NewsEntry:
     def __init__(self, source, title, link, summary, published, entry_obj=None):
         self.source    = source
-        self.title     = title
+        self.title     = clean_text(title)
         self.link      = link
-        self.summary   = summary
+        self.summary   = clean_text(summary)
         self.published = published
         self.entry_obj = entry_obj
 
@@ -341,7 +369,7 @@ def normalize_url(u):
 
 def normalize_title(t):
     if not t: return ""
-    t = html.unescape(t)
+    t = clean_text(t)
     t = re.sub(r"[^\w\s£$€]", "", t)
     return re.sub(r"\s+", " ", t).strip().lower()
 
@@ -456,7 +484,7 @@ def extract_jsonld_paragraphs(soup):
                 buf = ''
         if buf and len(buf) > 40:
             parts.append(buf)
-    return parts
+    return [clean_text(p) for p in parts]
 
 def extract_paragraphs(soup):
     paras = extract_jsonld_paragraphs(soup)
@@ -465,12 +493,12 @@ def extract_paragraphs(soup):
     for selector in ('article', 'main'):
         container = soup.find(selector)
         if container:
-            scoped = [p.get_text(" ", strip=True)
+            scoped = [clean_text(p.get_text(" ", strip=True))
                       for p in container.find_all('p')
                       if len(p.get_text(strip=True)) > 40]
             if scoped:
                 return scoped
-    return [p.get_text(" ", strip=True) for p in soup.find_all('p')
+    return [clean_text(p.get_text(" ", strip=True)) for p in soup.find_all('p')
             if len(p.get_text(strip=True)) > 40]
 
 def fetch_article_text(url):
@@ -570,8 +598,11 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
     flair_id    = get_flair_id(target_sub, flair_label)
     ref         = generate_ref()
 
+    # Final safety pass – titles must never carry raw entities to Reddit
+    safe_title = clean_text(entry.title)
+
     try:
-        sub = target_sub.submit(title=entry.title, url=entry.link, flair_id=flair_id)
+        sub = target_sub.submit(title=safe_title, url=entry.link, flair_id=flair_id)
 
         pos_hits = {k: v for k, v in matched.items() if not k.startswith("NEG:")}
         neg_hits = {k[4:]: v for k, v in matched.items() if k.startswith("NEG:")}
@@ -582,7 +613,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
         ]
 
         if paras:
-            lines.extend([f"> {p}" for p in paras[:3]] + [""])
+            lines.extend([f"> {clean_text(p)}" for p in paras[:3]] + [""])
 
         if not is_intl:
             k_list = ", ".join(
@@ -607,7 +638,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched, ai, para
         add_to_dedup(entry)
         update_metrics(entry.source, category)
 
-        log("POSTED", f"[{ref}] [{entry.source}] {entry.title[:55]}…", Col.GREEN)
+        log("POSTED", f"[{ref}] [{entry.source}] {safe_title[:55]}…", Col.GREEN)
         log("POSTED", f"  Score={score:+d}  Reason: {post_reason}", Col.GREEN)
         return True
 
@@ -622,26 +653,26 @@ def handle_manual_story(url, title_override):
     log("MANUAL", f"Posting URL: {url}", Col.CYAN)
     paras = fetch_article_text(url)
 
-    title = title_override
+    title = clean_text(title_override) if title_override else ""
     if not title:
         try:
             r    = requests.get(url, timeout=15, headers=REQUEST_HEADERS, allow_redirects=True)
             soup = BeautifulSoup(r.content, 'html.parser')
             og   = soup.find('meta', property='og:title')
             if og and og.get('content'):
-                title = og['content'].strip()
+                title = clean_text(og['content'])
             elif soup.title and soup.title.string:
-                title = soup.title.string.strip()
+                title = clean_text(soup.title.string)
         except Exception as e:
             log("MANUAL", f"Could not fetch page title: {e}", Col.YELLOW)
     if not title:
-        title = url.rstrip('/').split('/')[-1].replace('-', ' ')
+        title = clean_text(url.rstrip('/').split('/')[-1].replace('-', ' '))
 
     log("MANUAL", f"Title: {title[:70]}", Col.WHITE)
 
     summary   = " ".join(paras[:2]) if paras else ""
     entry     = NewsEntry("Manual", title, url, summary, datetime.now(timezone.utc))
-    full_text = title + " " + summary + " " + " ".join(paras)
+    full_text = entry.title + " " + entry.summary + " " + " ".join(paras)
 
     score, pos, neg, matched = calculate_score(full_text)
     cat, _                   = detect_category(full_text)
@@ -662,7 +693,7 @@ def main():
         return
 
     log("START", "=" * 60, Col.CYAN)
-    log("START", "  BreakingUKNewsBot v6.5 — Run starting", Col.CYAN)
+    log("START", "  BreakingUKNewsBot v6.6 — Run starting", Col.CYAN)
     log("START", "=" * 60, Col.CYAN)
 
     feeds = [
@@ -845,7 +876,7 @@ def main():
         if success:
             posts_made += 1
             source_counts[src] += 1
-            time.sleep(2) # Recommended: Small sleep to avoid tripping Reddit's rate limit filters
+            time.sleep(2)  # Recommended: Small sleep to avoid tripping Reddit's rate limit filters
 
     log("INFO", f"Automated run finished. Total posts made: {posts_made}", Col.GREEN)
 
