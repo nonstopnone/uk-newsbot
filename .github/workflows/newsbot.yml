@@ -32,24 +32,26 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser requests beautifulsoup4 praw python-dateutil google-genai
+          pip install feedparser requests beautifulsoup4 praw python-dateutil google-genai cryptography
 
       - name: Execute News Bot
         env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDITPASSWORD: ${{ secrets.REDDITPASSWORD }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          MANUAL_STORY_URL: ${{ github.event.inputs.manual_story_url || '' }}
-          MANUAL_STORY_TITLE: ${{ github.event.inputs.manual_story_title || '' }}
+          REDDIT_USERNAME:      ${{ secrets.REDDIT_USERNAME }}
+          REDDITPASSWORD:       ${{ secrets.REDDITPASSWORD }}
+          GROQ_API_KEY:         ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
+          REASONING_PASSCODE:   ${{ secrets.REASONING_PASSCODE }}
+          MANUAL_STORY_URL:     ${{ github.event.inputs.manual_story_url   || '' }}
+          MANUAL_STORY_TITLE:   ${{ github.event.inputs.manual_story_title || '' }}
         run: python newsbot.py
 
       - name: Commit and Push State Changes
         run: |
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name  "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add posted_urls.txt ai_cache.json metrics.json || true
+          git add posted_urls.txt ai_cache.json metrics.json ai_reasoning_log.jsonl.enc || true
           if ! git diff --cached --quiet; then
             git commit -m "Automated state sync: Update logs and tracking files [skip ci]"
             git pull --rebase origin ${{ github.ref_name }} || true
