@@ -26,11 +26,6 @@ import urllib.parse
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
-# NOTE: feedparser, requests, bs4, dateutil, praw, google-genai are all imported
-# lazily inside run_bot(). This keeps `python newsbot.py decrypt` runnable on a
-# machine that only has `cryptography` installed (nothing else from the bot's
-# stack). Same goes for the manual handler. Module-level imports here are
-# limited to the standard library + cryptography (loaded conditionally).
 feedparser  = None  # populated in run_bot()
 requests    = None  # populated in run_bot() / handle_manual_story()
 BeautifulSoup = None
