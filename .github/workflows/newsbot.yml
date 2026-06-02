@@ -43,7 +43,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MANUAL_STORY_URL: ${{ github.event.inputs.manual_story_url || '' }}
           MANUAL_STORY_TITLE: ${{ github.event.inputs.manual_story_title || '' }}
-        run: python main.py
+        run: python newsbot.py
 
       - name: Commit and Push State Changes
         run: |
