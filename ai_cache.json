@@ -5798,5 +5798,33 @@
     "reasoning": "This article discusses a specific incident of alleged racial bias in UK policing, sparking a crisis in public trust, which is a hard news topic relevant to a UK audience.",
     "provider": "Groq",
     "timestamp": 1780520691.291759
+  },
+  "d18570ca7c37b516004d1e69c421db79": {
+    "is_relevant": true,
+    "reasoning": "This article discusses the challenges faced by young people with Special Educational Needs (SEN) in Northern Ireland, specifically the transition from school to adult care, which is a relevant issue in the devolved government of Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Groq",
+    "timestamp": 1780529031.836456
+  },
+  "cdbb0d81d929fc986d0385c92f5214df": {
+    "is_relevant": true,
+    "reasoning": "The article is about a murder investigation in the UK, which falls under the category of Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780529034.40726
+  },
+  "27ea85cc605a4d32d0eec749fc30ca84": {
+    "is_relevant": true,
+    "reasoning": "The article involves a UK crime boss and extradition proceedings, which is relevant to the UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780529037.092094
+  },
+  "874ea1d495a699ae3b9c9be1ae8150d0": {
+    "is_relevant": false,
+    "reasoning": "The article is about a personal story of a student in India, with no direct relevance to the UK.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780529039.650561
   }
 }
