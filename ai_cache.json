@@ -5618,5 +5618,35 @@
   "f726d332a3c440169f3604554c5d88f8": {
     "is_relevant": true,
     "timestamp": 1780431579.558469
+  },
+  "2d2a0dc07846f436208698137446d2a9": {
+    "is_relevant": false,
+    "reasoning": "This article is a health and lifestyle piece, discussing the benefits of weight training for longevity, but does not contain any UK-specific news or information.",
+    "provider": "Groq",
+    "timestamp": 1780445750.892457
+  },
+  "659b2d8eb7ee25ca898bf493cd15e253": {
+    "is_relevant": false,
+    "reasoning": "The article is about Northern Ireland, which is part of the UK, but the focus is on the devolved government and education system in Northern Ireland, rather than a UK-wide issue.",
+    "provider": "Groq",
+    "timestamp": 1780445753.486607
+  },
+  "c220e753170341ca9d132b21831394e3": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a report by Pensions UK, a UK-based pensions trade body, highlighting the financial struggles of UK workers in retirement, which is a relevant topic to the UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780445756.245294
+  },
+  "bdd04e7ff107a0b1f5c5e2078c1a894c": {
+    "is_relevant": false,
+    "reasoning": "The article is about a search operation in Carlingford Lough, which is located on the border between Northern Ireland and the Republic of Ireland, but it does not have significant UK relevance as it is not a major UK infrastructure or a UK-specific incident.",
+    "provider": "Groq",
+    "timestamp": 1780445759.020989
+  },
+  "bb4e29e34ccbbd941aae287cfb4f7685": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a UK-specific issue related to national security and the use of a US tech firm in public services, making it relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780445761.629238
   }
 }
