@@ -6,13 +6,16 @@
     "Telegraph": 808,
     "Manual": 3,
     "BBC News US": 601,
-    "Sky News US": 141
+    "Sky News US": 141,
+    "BBC-UK": 2,
+    "BBC-Politics": 2,
+    "BBC-Business": 2
   },
   "categories": {
-    "Politics": 4235,
-    "Crime & Legal": 1428,
+    "Politics": 4239,
+    "Crime & Legal": 1429,
     "Notable International": 39,
-    "Economy": 117,
+    "Economy": 118,
     "Sport": 260,
     "Royals": 265,
     "Immigration": 3,

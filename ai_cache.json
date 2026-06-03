@@ -5648,5 +5648,29 @@
     "reasoning": "The article discusses a UK-specific issue related to national security and the use of a US tech firm in public services, making it relevant to a UK audience.",
     "provider": "Groq",
     "timestamp": 1780445761.629238
+  },
+  "152fe0883bc9fa02e4253bfdf9b08e5e": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a UK crime story, specifically the sentencing of a murder case, which is relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780448372.356505
+  },
+  "4217d25484feb5bc2066a151e64544c0": {
+    "is_relevant": false,
+    "reasoning": "The article is about a tech company's advancements in quantum computing, but it does not have any direct relevance to the UK audience, economy, or politics.",
+    "provider": "Groq",
+    "timestamp": 1780448374.910485
+  },
+  "57f948568314720dcf07bfe88bb39dc6": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant public health incident in Devon, involving a water supply contamination and hospitalisations, which is a matter of concern for the UK public and relevant to the NHS.",
+    "provider": "Groq",
+    "timestamp": 1780448377.659887
+  },
+  "42270eef2bde4431dba1ff64f88d3a37": {
+    "is_relevant": true,
+    "reasoning": "The article is about a UK royal (King Charles III) and a major UK scandal (Post Office scandal), making it relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780448380.312542
   }
 }
