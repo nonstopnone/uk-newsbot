@@ -5708,5 +5708,11 @@
     "reasoning": "This article is relevant to a UK audience as it reports on a UK-based crime case involving a postal worker running an illegal sports streaming business, targeting major UK broadcasters.",
     "provider": "Groq",
     "timestamp": 1780481733.748102
+  },
+  "df4de2d9eebe9945897258c3e7fd9a91": {
+    "is_relevant": false,
+    "reasoning": "The article is about a specific issue with Meta's targeted ads, but it's not directly related to UK politics, economy, NHS, crime & legal, devolved governments, royals, security, or major UK infrastructure.",
+    "provider": "Groq",
+    "timestamp": 1780483148.58074
   }
 }
