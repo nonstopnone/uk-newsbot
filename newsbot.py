@@ -1108,7 +1108,7 @@ def run_bot():
                                  for g in ('uk', 'britain', 'london', 'england'))
             distinct_uk_kw = len([k for k in matched if not k.startswith("NEG:")])
 
-            if score >= 15 and has_uk_anchor and distinct_uk_kw >= DISTINCT_UK_KW_REQUIRED:
+            if score >= 50 and has_uk_anchor and distinct_uk_kw >= DISTINCT_UK_KW_REQUIRED:
                 accept      = True
                 post_reason = (
                     f"High UK score ({score:+d}) with UK anchor and "
