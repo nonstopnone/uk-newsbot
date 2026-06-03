@@ -5672,5 +5672,41 @@
     "reasoning": "The article is about a UK royal (King Charles III) and a major UK scandal (Post Office scandal), making it relevant to a UK audience.",
     "provider": "Groq",
     "timestamp": 1780448380.312542
+  },
+  "e697838e0d0f49306da91d5ce994f573": {
+    "is_relevant": true,
+    "reasoning": "This article reports on a violent protest in Southampton, UK, resulting in injuries to police officers and the arrest of two individuals, making it a relevant hard news story for a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780481721.221991
+  },
+  "8351216a355f70af55d867af8d7e919d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a local authority issue in Clackmannanshire, a part of Scotland, which is a devolved government in the UK, making it relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780481723.313885
+  },
+  "dc332e874a2b95a49015fc44f91d827f": {
+    "is_relevant": false,
+    "reasoning": "The article is about a road closure in a Scottish town, but it does not relate to UK politics, economy, NHS, crime & legal, devolved governments, royals, security, or major UK infrastructure.",
+    "provider": "Groq",
+    "timestamp": 1780481725.783139
+  },
+  "1b65c586ec5ea37fa4c2585b0f4056c4": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a UK regulator's rules for Google search, which is relevant to UK politics and economy.",
+    "provider": "Groq",
+    "timestamp": 1780481728.489305
+  },
+  "60bc413bb4414096345293301979bde6": {
+    "is_relevant": true,
+    "reasoning": "This article is a hard news story about a data breach by the Metropolitan Police, which is a UK law enforcement agency, and involves a high-profile investigation into alleged abuse by a deceased UK businessman.",
+    "provider": "Groq",
+    "timestamp": 1780481731.848175
+  },
+  "51660d13a6637a87a41752d8f869abca": {
+    "is_relevant": true,
+    "reasoning": "This article is relevant to a UK audience as it reports on a UK-based crime case involving a postal worker running an illegal sports streaming business, targeting major UK broadcasters.",
+    "provider": "Groq",
+    "timestamp": 1780481733.748102
   }
 }
