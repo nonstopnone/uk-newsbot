@@ -57,27 +57,8 @@ def log_score_detail(entry_title, score, pos, neg, matched, decision, reason):
         kw = ", ".join(f"{Col.RED}{k}{Col.RESET}(×{v})"
                        for k, v in sorted(neg_hits.items(), key=lambda x: -x[1])[:4])
         log("SCORE", f"Non-UK:  {kw}", Col.DIM)
-    log("SCORE", f"Reason: {Col.MAGENTA}{reason}{Col.RESET}", Col.DIM)
+    log("SCORE", f"Verdict: {Col.MAGENTA}{reason}{Col.RESET}", Col.DIM)
     log("SCORE", f"{'─' * 60}", Col.DIM)
-
-
-def log_reasoning_block(prefix, title, decision, reasoning, extra=None):
-    log("REASONING", f"{'═' * 70}", Col.MAGENTA)
-    log("REASONING", f"  {prefix}: {Col.WHITE}{title[:80]}{Col.RESET}", Col.MAGENTA)
-    log("REASONING", f"  Decision: {Col.CYAN}{decision}{Col.RESET}", Col.MAGENTA)
-    line = "  Reasoning: "
-    for word in (reasoning or "(no reasoning)").split():
-        if len(line) + len(word) + 1 > 78:
-            log("REASONING", line, Col.MAGENTA)
-            line = "             " + word
-        else:
-            line = (line + " " + word).strip() if line.endswith(":") else line + " " + word
-    if line.strip():
-        log("REASONING", line, Col.MAGENTA)
-    if extra:
-        for k, v in extra.items():
-            log("REASONING", f"  {k}: {v}", Col.MAGENTA)
-    log("REASONING", f"{'═' * 70}", Col.MAGENTA)
 
 
 def clean_text(s):
@@ -153,6 +134,19 @@ GEMINI_RPM   = 12
 AI_MAX_RETRIES = 2
 AI_BASE_DELAY  = 2.0
 AI_MAX_DELAY   = 20.0
+
+SUBREDDIT_FLAIRS = [
+    "Breaking News",
+    "Culture",
+    "Sport",
+    "Crime & Legal",
+    "Royals",
+    "Immigration",
+    "Politics",
+    "Economy",
+    "Notable International News\U0001F30D",
+]
+DEFAULT_FLAIR = "Breaking News"
 
 REQUEST_HEADERS = {
     'User-Agent': ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
@@ -515,20 +509,28 @@ def is_hard_reject(text, pos, neg):
     return False, ""
 
 
-def detect_category(text):
+def detect_flair_fallback(text):
     t_l = text.lower()
-    cats = {
-        "Politics":      ["parliament", "government", "minister", "mp", "election", "brexit", "labour", "tory"],
-        "Economy":       ["economy", "inflation", "budget", "tax", "bank"],
-        "Crime & Legal": ["police", "court", "trial", "arrest", "murder", "prison"],
-        "Sport":         ["football", "cricket", "match", "cup", "trophy"],
-        "Royals":        ["royal", "king", "queen", "palace"],
-        "Environment":   ["storm", "weather", "flood", "climate", "met office"],
+    buckets = {
+        "Politics":      ["parliament", "government", "minister", "mp ", "election", "brexit",
+                          "labour", "tory", "downing street", "westminster", "cabinet"],
+        "Economy":       ["economy", "inflation", "budget", "tax", "bank of england",
+                          "ftse", "sterling", "gilt", "chancellor", "interest rate"],
+        "Crime & Legal": ["police", "court", "trial", "arrest", "murder", "prison",
+                          "crown court", "old bailey", "coroner", "inquest", "judicial"],
+        "Sport":         ["football", "cricket", "match", "cup", "trophy", "premier league",
+                          "rugby", "olympic"],
+        "Royals":        ["royal", "king ", "queen ", "palace", "prince", "princess",
+                          "buckingham", "windsor"],
+        "Immigration":   ["immigration", "asylum", "migrant", "border force", "channel crossing",
+                          "small boat", "deportation", "refugee"],
+        "Culture":       ["culture", "arts", "festival", "museum", "music", "film",
+                          "theatre", "exhibition"],
     }
-    scores = {c: sum(1 for k in v if k in t_l) for c, v in cats.items()}
+    scores = {f: sum(1 for k in v if k in t_l) for f, v in buckets.items()}
     if all(v == 0 for v in scores.values()):
-        return "General", 0.0
-    return max(scores, key=scores.get), 1.0
+        return DEFAULT_FLAIR
+    return max(scores, key=scores.get)
 
 
 def get_flair_id(sub, text):
@@ -609,7 +611,7 @@ class GroqProvider(AIProvider):
             "model": self.model,
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.1,
-            "max_tokens": 300,
+            "max_tokens": 400,
             "response_format": {"type": "json_object"},
         }
         try:
@@ -711,14 +713,14 @@ def call_ai_with_fallback(prompt, providers):
 
             except ProviderServerError as e:
                 if attempt >= AI_MAX_RETRIES:
-                    log("AI", f"  ↳ {provider.name}: server error, giving up: {e}", Col.YELLOW)
+                    log("AI", f"  ↳ {provider.name}: server error, giving up", Col.YELLOW)
                     break
                 delay = min(AI_BASE_DELAY * (2 ** attempt), AI_MAX_DELAY) * random.uniform(0.7, 1.4)
-                log("AI", f"  ↳ {provider.name}: server error; sleep {delay:.1f}s: {e}", Col.YELLOW)
+                log("AI", f"  ↳ {provider.name}: server error; sleep {delay:.1f}s", Col.YELLOW)
                 time.sleep(delay)
 
             except ProviderClientError as e:
-                log("AI", f"  ↳ {provider.name}: client error, falling through: {e}", Col.RED)
+                log("AI", f"  ↳ {provider.name}: client error, falling through", Col.RED)
                 break
 
     log("AI", "  ↳ All providers exhausted/failed", Col.RED)
@@ -728,9 +730,24 @@ def call_ai_with_fallback(prompt, providers):
 AI_PROVIDERS = []
 
 
+def _normalise_flair(raw_flair):
+    if not raw_flair:
+        return ""
+    s = raw_flair.strip()
+    if s in SUBREDDIT_FLAIRS:
+        return s
+    for f in SUBREDDIT_FLAIRS:
+        if f.lower() == s.lower():
+            return f
+    for f in SUBREDDIT_FLAIRS:
+        if f.split()[0].lower() == s.split()[0].lower() if s.split() else False:
+            return f
+    return ""
+
+
 def _parse_ai_json(raw):
     if not raw:
-        return False, "(empty AI response)"
+        return False, "(empty AI response)", ""
     cleaned = re.sub(r"^```(?:json)?\s*", "", raw.strip(), flags=re.IGNORECASE)
     cleaned = re.sub(r"\s*```$", "", cleaned).strip()
     if not cleaned.startswith("{"):
@@ -741,14 +758,16 @@ def _parse_ai_json(raw):
         parsed = json.loads(cleaned)
         decision  = str(parsed.get("decision", "")).strip().upper()
         reasoning = str(parsed.get("reasoning", "")).strip()
+        flair_raw = str(parsed.get("flair", "")).strip()
         is_rel    = decision == "YES"
         if not reasoning:
             reasoning = "(model returned no reasoning text)"
-        return is_rel, reasoning
+        flair = _normalise_flair(flair_raw) if is_rel else ""
+        return is_rel, reasoning, flair
     except json.JSONDecodeError:
         first_chunk = raw[:60].lower()
         is_rel = "yes" in first_chunk and "no" not in first_chunk.split("yes")[0]
-        return is_rel, f"(unparseable JSON; raw response: {raw[:200]})"
+        return is_rel, f"(unparseable JSON response)", ""
 
 
 def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
@@ -757,38 +776,52 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
     if entry_hash in cache and cache[entry_hash].get('timestamp', 0) > cutoff:
         is_rel    = cache[entry_hash]['is_relevant']
         reasoning = cache[entry_hash].get('reasoning', '(legacy cache entry)')
+        flair     = cache[entry_hash].get('flair', '')
         prov      = cache[entry_hash].get('provider', 'cache')
-        log("AI", f"Cache hit ({prov}) for {entry_hash[:8]}… → "
-                  f"{'YES' if is_rel else 'NO'}", Col.DIM)
-        log_reasoning_block(
-            prefix=f"AI cached [{prov}]",
-            title=title,
-            decision="YES (UK relevant)" if is_rel else "NO (not UK)",
-            reasoning=reasoning,
-        )
-        return is_rel, reasoning, prov
+        log("AI", f"Cache hit ({prov}): {'YES' if is_rel else 'NO'}", Col.DIM)
+        return is_rel, reasoning, flair, prov
 
+    flair_list = " | ".join(SUBREDDIT_FLAIRS)
     prompt = (
-        "You are a strict UK news relevance filter for an automated subreddit. "
-        "Determine if this article is hard news genuinely relevant to a UK audience "
-        "(UK politics, economy, NHS, crime & legal, devolved governments, royals, "
-        "security, major UK infrastructure). Reject fluff, lifestyle, product reviews, "
-        "sports previews, opinion columns, and stories where the UK is only mentioned "
-        "in passing.\n\n"
-        "Respond ONLY with a single-line JSON object, no markdown fences, in this "
-        "exact shape:\n"
-        '{"decision": "YES" or "NO", "reasoning": "1-3 sentence explanation"}\n\n'
+        "You are a strict UK news relevance filter and category classifier for "
+        "a subreddit.\n\n"
+        "Step 1 — Relevance: Determine if this article is hard news genuinely "
+        "relevant to a UK audience (UK politics, economy, NHS, crime & legal, "
+        "devolved governments, royals, security, major UK infrastructure, "
+        "immigration, or significant international news that materially affects "
+        "the UK). Reject fluff, lifestyle, product reviews, sports previews, "
+        "opinion columns, and stories where the UK is only mentioned in passing.\n\n"
+        "Step 2 — Flair: If relevant, choose ONE flair from this exact list "
+        "(use the EXACT spelling and capitalisation, including the emoji on "
+        "the last option):\n"
+        f"{flair_list}\n\n"
+        "Guidance for flair choice:\n"
+        "- 'Breaking News' for major, time-sensitive UK events that don't fit "
+        "another category, or fast-moving incidents.\n"
+        "- 'Politics' for Westminster, devolved govts, parties, elections.\n"
+        "- 'Economy' for budgets, BoE, FTSE, inflation, jobs.\n"
+        "- 'Crime & Legal' for courts, arrests, police, inquests.\n"
+        "- 'Royals' for the royal family.\n"
+        "- 'Immigration' for asylum, borders, channel crossings, deportation.\n"
+        "- 'Sport' for UK sport results, signings, scandals.\n"
+        "- 'Culture' for arts, music, film, festivals, heritage.\n"
+        "- 'Notable International News' for foreign stories that materially "
+        "affect the UK, British citizens or are of major UK interest.\n\n"
+        "Respond ONLY with a single-line JSON object, no markdown fences, in "
+        "this exact shape:\n"
+        '{"decision": "YES" or "NO", "reasoning": "1-3 sentence explanation", '
+        '"flair": "exact flair name, or empty string if decision is NO"}\n\n'
         f"Title: {title}\n"
         f"Summary: {summary}\n"
         f"Excerpt: {excerpt}"
     )
 
-    log("AI", f"Querying AI providers for: {title[:60]}…", Col.CYAN)
+    log("AI", f"Querying providers for: {title[:60]}…", Col.CYAN)
     raw, provider_name = call_ai_with_fallback(prompt, AI_PROVIDERS)
 
     if raw is None:
-        reasoning = "(all AI providers unavailable — score-only decision)"
-        log("AI", reasoning, Col.RED)
+        reasoning = "(all AI providers unavailable)"
+        log("AI", "All AI providers unavailable", Col.RED)
         append_encrypted_reasoning({
             "ts":        datetime.now(timezone.utc).isoformat(),
             "type":      "ai_failure",
@@ -797,22 +830,17 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
             "url":       url,
             "reasoning": reasoning,
         })
-        return None, reasoning, "none"
+        return None, reasoning, "", "none"
 
-    is_rel, reasoning = _parse_ai_json(raw)
+    is_rel, reasoning, flair = _parse_ai_json(raw)
 
-    log("AI", f"[{provider_name}] Decision: {'YES' if is_rel else 'NO'} — {title[:50]}",
-        Col.MAGENTA)
-    log_reasoning_block(
-        prefix=f"AI fresh [{provider_name}]",
-        title=title,
-        decision="YES (UK relevant)" if is_rel else "NO (not UK)",
-        reasoning=reasoning,
-    )
+    log("AI", f"[{provider_name}] {'YES' if is_rel else 'NO'}"
+              f"{' → ' + flair if is_rel and flair else ''}", Col.MAGENTA)
 
     cache[entry_hash] = {
         "is_relevant": is_rel,
         "reasoning":   reasoning,
+        "flair":       flair,
         "provider":    provider_name,
         "timestamp":   datetime.now(timezone.utc).timestamp(),
     }
@@ -827,15 +855,16 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
         "url":           url,
         "decision":      "YES" if is_rel else "NO",
         "reasoning":     reasoning,
+        "flair":         flair,
         "raw_first_200": raw[:200],
     })
 
-    return is_rel, reasoning, provider_name
+    return is_rel, reasoning, flair, provider_name
 
 
-def post_article(target_sub, entry, category, score, pos, neg, matched,
+def post_article(target_sub, entry, flair_label, score, pos, neg, matched,
                  ai_used, ai_provider, ai_reasoning, paras, post_reason=""):
-    flair_id   = get_flair_id(target_sub, category)
+    flair_id   = get_flair_id(target_sub, flair_label)
     ref        = generate_ref()
     safe_title = clean_text(entry.title)
 
@@ -849,12 +878,11 @@ def post_article(target_sub, entry, category, score, pos, neg, matched,
 
         sub.reply('\n'.join(lines))
         add_to_dedup(entry)
-        update_metrics(entry.source, category)
+        update_metrics(entry.source, flair_label)
 
         log("POSTED", f"[{ref}] [{entry.source}] {safe_title[:55]}…", Col.GREEN)
-        log("POSTED", f"  Score={score:+d}  Reason: {post_reason}", Col.GREEN)
-        if ai_used and ai_reasoning:
-            log("POSTED", f"  AI ({ai_provider}): {ai_reasoning}", Col.GREEN)
+        log("POSTED", f"  Flair: {flair_label}  Score={score:+d}  "
+                       f"AI: {'yes ('+ai_provider+')' if ai_used else 'no'}", Col.GREEN)
 
         append_encrypted_reasoning({
             "ts":           datetime.now(timezone.utc).isoformat(),
@@ -864,7 +892,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched,
             "source":       entry.source,
             "title":        safe_title,
             "url":          entry.link,
-            "category":     category,
+            "category":     flair_label,
             "score":        score,
             "pos":          pos,
             "neg":          neg,
@@ -907,13 +935,24 @@ def handle_manual_story(url, title_override, subreddit_uk):
     full_text = entry.title + " " + entry.summary + " " + " ".join(paras)
 
     score, pos, neg, matched = calculate_score(full_text)
-    cat, _      = detect_category(full_text)
-    post_reason = f"Manual submission (score {score:+d})"
+    h = content_hash(entry.title + entry.summary)
+
+    is_rel, ai_reasoning, ai_flair, ai_provider = check_ai_relevance(
+        entry.title, entry.summary,
+        " ".join(full_text.split()[:200]), h,
+        source=entry.source, url=entry.link,
+    )
+
+    if ai_flair:
+        flair_label = ai_flair
+    else:
+        flair_label = detect_flair_fallback(full_text)
 
     post_article(
-        subreddit_uk, entry, cat, score, pos, neg, matched,
-        ai_used=False, ai_provider="", ai_reasoning="",
-        paras=paras, post_reason=post_reason
+        subreddit_uk, entry, flair_label, score, pos, neg, matched,
+        ai_used=bool(is_rel), ai_provider=ai_provider or "",
+        ai_reasoning=ai_reasoning or "",
+        paras=paras, post_reason=f"Manual submission (score {score:+d})"
     )
 
 
@@ -969,7 +1008,7 @@ def run_bot():
         client_secret=os.environ["REDDIT_CLIENT_SECRET"],
         username=os.environ["REDDIT_USERNAME"],
         password=os.environ["REDDITPASSWORD"],
-        user_agent="BreakingUKNewsBot/7.1"
+        user_agent="BreakingUKNewsBot/7.2"
     )
     try:
         log("SYSTEM", f"Logged in as: {reddit.user.me()}", Col.GREEN)
@@ -1092,76 +1131,73 @@ def run_bot():
         full_text = entry.title + " " + entry.summary + " " + " ".join(paras)
 
         score, pos, neg, matched = calculate_score(full_text)
-        cat, _         = detect_category(full_text)
         reject, reason = is_hard_reject(full_text, pos, neg)
 
         accept       = False
         ai_used      = False
         ai_provider  = ""
         ai_reasoning = ""
-        post_reason  = ""
+        chosen_flair = ""
+        public_reason = ""
 
         if reject:
-            post_reason = f"Hard reject: {reason}"
+            public_reason = f"Hard reject: {reason}"
         else:
             has_uk_anchor  = any(g in full_text.lower()
                                  for g in ('uk', 'britain', 'london', 'england'))
             distinct_uk_kw = len([k for k in matched if not k.startswith("NEG:")])
 
             if score >= 50 and has_uk_anchor and distinct_uk_kw >= DISTINCT_UK_KW_REQUIRED:
-                accept      = True
-                post_reason = (
-                    f"High UK score ({score:+d}) with UK anchor and "
-                    f"{distinct_uk_kw} distinct UK keywords"
+                accept        = True
+                chosen_flair  = detect_flair_fallback(full_text)
+                public_reason = (
+                    f"Score {score:+d} auto-accept; {distinct_uk_kw} distinct kw; "
+                    f"flair from fallback"
                 )
 
             elif (score >= 15 and has_uk_anchor) or score >= 4:
                 stats["ai_checked"] += 1
-                is_rel, ai_reasoning, ai_provider = check_ai_relevance(
+                is_rel, ai_reasoning, ai_flair, ai_provider = check_ai_relevance(
                     entry.title, entry.summary,
                     " ".join(full_text.split()[:200]), h,
                     source=entry.source, url=entry.link,
                 )
                 if is_rel is None:
                     stats["ai_failed"] += 1
-                    post_reason = (
-                        f"AI unavailable; score {score:+d} insufficient for blind accept"
-                    )
+                    public_reason = f"AI unavailable; score {score:+d} insufficient"
                 elif is_rel:
-                    accept      = True
-                    ai_used     = True
-                    post_reason = (
-                        f"Score {score:+d} (distinct UK kw={distinct_uk_kw}); "
-                        f"AI [{ai_provider}] confirmed: {ai_reasoning}"
+                    accept = True
+                    ai_used = True
+                    chosen_flair = ai_flair or detect_flair_fallback(full_text)
+                    public_reason = (
+                        f"Score {score:+d}; AI [{ai_provider}] confirmed"
                     )
                 else:
-                    post_reason = (
-                        f"Score {score:+d}; AI [{ai_provider}] rejected: {ai_reasoning}"
-                    )
+                    public_reason = f"Score {score:+d}; AI [{ai_provider}] rejected"
             else:
-                post_reason = f"Score too low ({score:+d})"
+                public_reason = f"Score too low ({score:+d})"
 
-        decision_label = "ACCEPT (UK)" if accept else "SKIP"
-        log_score_detail(entry.title, score, pos, neg, matched, decision_label, post_reason)
+        decision_label = f"ACCEPT → {chosen_flair}" if accept else "SKIP"
+        log_score_detail(entry.title, score, pos, neg, matched, decision_label, public_reason)
 
         if accept:
             candidates.append({
-                "entry":        entry,
-                "score":        score,
-                "pos":          pos,
-                "neg":          neg,
-                "cat":          cat,
-                "matched":      matched,
-                "ai_used":      ai_used,
-                "ai_provider":  ai_provider,
-                "ai_reasoning": ai_reasoning,
-                "paras":        paras,
-                "post_reason":  post_reason,
+                "entry":         entry,
+                "score":         score,
+                "pos":           pos,
+                "neg":           neg,
+                "flair":         chosen_flair,
+                "matched":       matched,
+                "ai_used":       ai_used,
+                "ai_provider":   ai_provider,
+                "ai_reasoning":  ai_reasoning,
+                "paras":         paras,
+                "public_reason": public_reason,
             })
             posted_titles_this_run.add(norm_title)
             stats["accepted"] += 1
         else:
-            log("REJECTED", f"{entry.title[:55]}… — {post_reason}", Col.RED)
+            log("REJECTED", f"{entry.title[:55]}… — {public_reason}", Col.RED)
             stats["rejected"] += 1
 
     log("INFO", "=" * 60)
@@ -1184,7 +1220,7 @@ def run_bot():
         if post_article(
             target_sub=subreddit_uk,
             entry=c["entry"],
-            category=c["cat"],
+            flair_label=c["flair"],
             score=c["score"],
             pos=c["pos"],
             neg=c["neg"],
@@ -1193,7 +1229,7 @@ def run_bot():
             ai_provider=c["ai_provider"],
             ai_reasoning=c["ai_reasoning"],
             paras=c["paras"],
-            post_reason=c["post_reason"],
+            post_reason=c["public_reason"],
         ):
             posts_made += 1
             source_counts[src] += 1
