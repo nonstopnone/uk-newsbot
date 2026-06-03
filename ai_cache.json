@@ -5714,5 +5714,71 @@
     "reasoning": "The article is about a specific issue with Meta's targeted ads, but it's not directly related to UK politics, economy, NHS, crime & legal, devolved governments, royals, security, or major UK infrastructure.",
     "provider": "Groq",
     "timestamp": 1780483148.58074
+  },
+  "bf2cc406ff9e7cafa3d323144f8bb291": {
+    "is_relevant": true,
+    "reasoning": "This article is relevant to a UK audience as it involves a Labour councillor's resignation due to bullying claims and a dispute over attending a council meeting versus a cancer appointment, highlighting issues within the UK's local government and the Labour party.",
+    "provider": "Groq",
+    "timestamp": 1780499124.809618
+  },
+  "b9c5fd524b5f060c2f84077b02d20309": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant online banking outage affecting thousands of customers of major UK banks, which is a relevant issue for the UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780499127.473899
+  },
+  "fb3894af6f237963eca478f8d5aefadd": {
+    "is_relevant": true,
+    "reasoning": "The article is relevant to a UK audience as it involves the Scottish government, a devolved government, and a high-profile controversy involving a former first minister.",
+    "provider": "Groq",
+    "timestamp": 1780499130.036915
+  },
+  "95bcd7abbbcbdf7f6a76037facce01c3": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the death of a British soldier in a training exercise in Iraq, which is a matter of national security and UK military operations.",
+    "provider": "Groq",
+    "timestamp": 1780499132.826132
+  },
+  "4250b2f9ca7ab8bd10af9e89e5a4f712": {
+    "is_relevant": false,
+    "reasoning": "The article discusses a health study with global implications, but does not focus on UK-specific health services, policies, or data, making it irrelevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780499135.946205
+  },
+  "d29c6de6507b9ab72b0f7aed0eb61b21": {
+    "is_relevant": true,
+    "reasoning": "This article reports on a UK crime case, specifically a murder conviction and sentencing, which is relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780499138.959764
+  },
+  "6a28295682a956dfce15b4a77f9348af": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports preview and does not contain any hard news relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780499140.961652
+  },
+  "e3aea2be962d38d61d7630520d680f43": {
+    "is_relevant": false,
+    "reasoning": "The article is about a theme park receiving taxpayer support, but it does not fall under any of the specified hard news categories, and the UK's involvement is primarily as a location for the park, rather than a focus on UK-specific issues.",
+    "provider": "Groq",
+    "timestamp": 1780499143.216482
+  },
+  "7ee420ce26344f9c2719e2b028c625e1": {
+    "is_relevant": false,
+    "reasoning": "The article is about a TV show and celebrity replacements, with no relevance to UK politics, economy, NHS, crime & legal, devolved governments, royals, security, or major UK infrastructure.",
+    "provider": "Groq",
+    "timestamp": 1780499145.894387
+  },
+  "437e2b12258390448db7b4bda9f50507": {
+    "is_relevant": true,
+    "reasoning": "The article involves a UK politician (Alex Davies-Jones) and a UK political figure (Sir Keir Starmer), referencing a UK government issue (victims' rights) and a UK politician (Peter Mandelson)",
+    "provider": "Groq",
+    "timestamp": 1780499148.623788
+  },
+  "231218785b648809355cfaa0b2d7cec2": {
+    "is_relevant": true,
+    "reasoning": "The article involves a crime and security issue with international implications, specifically mentioning the UK as a target country and an organised crime group linked to Iran.",
+    "provider": "Groq",
+    "timestamp": 1780499151.13947
   }
 }
