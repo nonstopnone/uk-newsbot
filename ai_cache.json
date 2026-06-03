@@ -5786,5 +5786,17 @@
     "reasoning": "The article reports on the death of a former head of MI6, a UK security agency, making it relevant to a UK audience.",
     "provider": "Groq",
     "timestamp": 1780513046.259346
+  },
+  "d7e26c9824e58cfc0882d13d183f6323": {
+    "is_relevant": true,
+    "reasoning": "This article is a report on a police apology and a related crime case, making it relevant to the UK audience's interest in crime and legal news.",
+    "provider": "Groq",
+    "timestamp": 1780520688.68332
+  },
+  "01f0a43a4be7cae01cb03fb59651bdde": {
+    "is_relevant": true,
+    "reasoning": "This article discusses a specific incident of alleged racial bias in UK policing, sparking a crisis in public trust, which is a hard news topic relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780520691.291759
   }
 }
