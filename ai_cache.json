@@ -5780,5 +5780,11 @@
     "reasoning": "The article involves a crime and security issue with international implications, specifically mentioning the UK as a target country and an organised crime group linked to Iran.",
     "provider": "Groq",
     "timestamp": 1780499151.13947
+  },
+  "d5ee8994493f492098d20ef73983516b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the death of a former head of MI6, a UK security agency, making it relevant to a UK audience.",
+    "provider": "Groq",
+    "timestamp": 1780513046.259346
   }
 }
