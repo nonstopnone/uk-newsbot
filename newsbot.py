@@ -1,14 +1,5 @@
-
-"""
-BreakingUKNewsBot v7.0
-======================
-"""
-
 from __future__ import annotations
 
-# =========================
-# Section: Imports
-# =========================
 import base64
 import difflib
 import getpass
@@ -26,14 +17,12 @@ import urllib.parse
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
-feedparser  = None  # populated in run_bot()
-requests    = None  # populated in run_bot() / handle_manual_story()
+feedparser    = None
+requests      = None
 BeautifulSoup = None
-dateparser  = None
+dateparser    = None
 
-# =========================
-# Section: Console Colours & Logging
-# =========================
+
 class Col:
     RED     = '\033[91m'
     GREEN   = '\033[92m'
@@ -45,37 +34,34 @@ class Col:
     DIM     = '\033[2m'
     RESET   = '\033[0m'
 
+
 def log(tag, msg, color=Col.RESET):
     ts = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
     print(f"{color}[{ts}] [{tag}] {msg}{Col.RESET}", flush=True)
 
+
 def log_score_detail(entry_title, score, pos, neg, matched, decision, reason):
-    """Colour-coded scoring breakdown."""
     pos_hits = {k: v for k, v in matched.items() if not k.startswith("NEG:")}
     neg_hits = {k[4:]: v for k, v in matched.items() if k.startswith("NEG:")}
-
     log("SCORE", f"{'─' * 60}", Col.DIM)
     log("SCORE", f"{Col.WHITE}{entry_title[:70]}{Col.RESET}", Col.DIM)
     log("SCORE", f"Total={Col.YELLOW}{score:+d}{Col.RESET}  "
                  f"UK={Col.GREEN}+{pos}{Col.RESET}  "
                  f"Non-UK={Col.RED}-{neg}{Col.RESET}  "
                  f"→ {Col.CYAN}{decision}{Col.RESET}", Col.DIM)
-
     if pos_hits:
         kw = ", ".join(f"{Col.GREEN}{k}{Col.RESET}(×{v})"
                        for k, v in sorted(pos_hits.items(), key=lambda x: -x[1])[:8])
         log("SCORE", f"UK hits: {kw}", Col.DIM)
-
     if neg_hits:
         kw = ", ".join(f"{Col.RED}{k}{Col.RESET}(×{v})"
                        for k, v in sorted(neg_hits.items(), key=lambda x: -x[1])[:4])
         log("SCORE", f"Non-UK:  {kw}", Col.DIM)
-
     log("SCORE", f"Reason: {Col.MAGENTA}{reason}{Col.RESET}", Col.DIM)
     log("SCORE", f"{'─' * 60}", Col.DIM)
 
+
 def log_reasoning_block(prefix, title, decision, reasoning, extra=None):
-    """Loud multi-line print so reasoning stands out in Actions output."""
     log("REASONING", f"{'═' * 70}", Col.MAGENTA)
     log("REASONING", f"  {prefix}: {Col.WHITE}{title[:80]}{Col.RESET}", Col.MAGENTA)
     log("REASONING", f"  Decision: {Col.CYAN}{decision}{Col.RESET}", Col.MAGENTA)
@@ -93,43 +79,33 @@ def log_reasoning_block(prefix, title, decision, reasoning, extra=None):
             log("REASONING", f"  {k}: {v}", Col.MAGENTA)
     log("REASONING", f"{'═' * 70}", Col.MAGENTA)
 
-# =========================
-# Section: Text Cleaning
-# =========================
+
 def clean_text(s):
-    """Decode HTML entities, normalise unicode, collapse whitespace."""
     if not s:
         return ""
     if not isinstance(s, str):
         s = str(s)
     s = html.unescape(s)
-    s = html.unescape(s)  # second pass catches double-encoded feeds
+    s = html.unescape(s)
     s = unicodedata.normalize("NFC", s)
     s = s.replace("\u00a0", " ").replace("\u200b", "").replace("\ufeff", "")
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
-# =========================
-# Section: Encrypted Reasoning Log
-# =========================
+
 REASONING_LOG_FILE = "ai_reasoning_log.jsonl.enc"
-PBKDF2_SALT        = b"newsbot-reasoning-v1"
-PBKDF2_ITERATIONS  = 480_000
+_S = b"newsbot-reasoning-v1"
+_I = 480_000
+
 
 def _derive_fernet_key(passcode):
     from cryptography.hazmat.primitives import hashes
     from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
-    kdf = PBKDF2HMAC(
-        algorithm=hashes.SHA256(),
-        length=32,
-        salt=PBKDF2_SALT,
-        iterations=PBKDF2_ITERATIONS,
-    )
+    kdf = PBKDF2HMAC(algorithm=hashes.SHA256(), length=32, salt=_S, iterations=_I)
     return base64.urlsafe_b64encode(kdf.derive(passcode.encode("utf-8")))
 
+
 def _init_fernet_from_env():
-    """Return a Fernet instance if REASONING_PASSCODE is set & cryptography
-    is installed, else None. Module-level so both bot and decrypt modes can use."""
     passcode = os.environ.get("REASONING_PASSCODE", "").strip()
     if not passcode:
         return None, "REASONING_PASSCODE not set"
@@ -141,23 +117,22 @@ def _init_fernet_from_env():
     except Exception as e:
         return None, f"init error: {e}"
 
-_FERNET = None  # populated in run_bot() / run_decrypt()
+
+_FERNET = None
+
 
 def append_encrypted_reasoning(record):
-    """Encrypt and append one JSON record as a single line."""
     if _FERNET is None:
         return
     try:
         plaintext = json.dumps(record, ensure_ascii=False).encode("utf-8")
-        token     = _FERNET.encrypt(plaintext).decode("utf-8")
+        token = _FERNET.encrypt(plaintext).decode("utf-8")
         with open(REASONING_LOG_FILE, "a", encoding="utf-8") as f:
             f.write(token + "\n")
     except Exception as e:
-        log("REASONING", f"Encrypt-append failed: {e}", Col.YELLOW)
+        log("REASONING", f"append failed: {e}", Col.YELLOW)
 
-# =========================
-# Section: Configuration constants
-# =========================
+
 DEDUP_FILE    = "posted_urls.txt"
 AI_CACHE_FILE = "ai_cache.json"
 METRICS_FILE  = "metrics.json"
@@ -170,13 +145,11 @@ TIME_WINDOW_HOURS       = 12
 MAX_KEYWORD_REPEATS     = 3
 DISTINCT_UK_KW_REQUIRED = 2
 
-# AI provider models & rate limits (tuned for free-tier safety margin)
-GROQ_MODEL       = "llama-3.1-8b-instant"
-GROQ_RPM         = 25                       # free tier nominal 30; pace conservatively
-GEMINI_MODEL     = "gemini-3.1-flash-lite"
-GEMINI_RPM       = 12                       # free tier nominal 15; pace conservatively
+GROQ_MODEL   = "llama-3.1-8b-instant"
+GROQ_RPM     = 25
+GEMINI_MODEL = "gemini-3.1-flash-lite"
+GEMINI_RPM   = 12
 
-# Retry policy per provider
 AI_MAX_RETRIES = 2
 AI_BASE_DELAY  = 2.0
 AI_MAX_DELAY   = 20.0
@@ -194,9 +167,7 @@ REQUEST_HEADERS = {
     'Upgrade-Insecure-Requests': '1',
 }
 
-# =========================
-# Section: Keyword Definitions
-# =========================
+
 UK_KEYWORDS = {
     "uk": 6, "united kingdom": 6, "britain": 6, "great britain": 6,
     "nhs": 6, "national health service": 6,
@@ -303,15 +274,15 @@ FLUFF_PATTERNS = [
 
 FLAIR_CACHE = {}
 
+
 def compile_keywords_dict(d):
     return [(k, w, re.compile(r"\b" + re.escape(k) + r"\b", re.I)) for k, w in d.items()]
+
 
 UK_PATTERNS  = compile_keywords_dict(UK_KEYWORDS)
 NEG_PATTERNS = compile_keywords_dict(NEGATIVE_KEYWORDS)
 
-# =========================
-# Section: Data classes & utilities
-# =========================
+
 class NewsEntry:
     def __init__(self, source, title, link, summary, published, entry_obj=None):
         self.source    = source
@@ -321,11 +292,13 @@ class NewsEntry:
         self.published = published
         self.entry_obj = entry_obj
 
+
 def normalize_url(u):
     if not u:
         return ""
     p = urllib.parse.urlparse(u)
     return urllib.parse.urlunparse((p.scheme, p.netloc, p.path.rstrip('/'), '', '', ''))
+
 
 def normalize_title(t):
     if not t:
@@ -334,13 +307,16 @@ def normalize_title(t):
     t = re.sub(r"[^\w\s£$€]", "", t)
     return re.sub(r"\s+", " ", t).strip().lower()
 
+
 def content_hash(text_blob):
     return hashlib.md5(text_blob.encode('utf-8')).hexdigest()
+
 
 def generate_ref():
     letters = ''.join(random.choices(string.ascii_uppercase, k=3))
     digits  = ''.join(random.choices(string.digits, k=4))
     return f"{letters}-{digits}"
+
 
 def load_json_data(filepath, default_val):
     if os.path.exists(filepath):
@@ -351,12 +327,16 @@ def load_json_data(filepath, default_val):
             pass
     return default_val
 
+
 def save_json_data(filepath, data):
     try:
-        with open(filepath, 'w', encoding='utf-8') as f:
+        tmp = filepath + ".tmp"
+        with open(tmp, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
+        os.replace(tmp, filepath)
     except Exception:
         pass
+
 
 def update_metrics(source, category):
     data = load_json_data(METRICS_FILE, {"sources": {}, "categories": {}})
@@ -364,34 +344,56 @@ def update_metrics(source, category):
     data["categories"][category] = data["categories"].get(category, 0) + 1
     save_json_data(METRICS_FILE, data)
 
-# =========================
-# Section: Deduplication
-# =========================
+
 def load_dedup():
     urls, titles, hashes = set(), set(), set()
     cleaned_lines = []
+    parse_errors = 0
     seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
-    if os.path.exists(DEDUP_FILE):
+    if not os.path.exists(DEDUP_FILE):
+        return urls, titles, hashes
+    try:
         with open(DEDUP_FILE, 'r', encoding='utf-8') as f:
             for line in f:
-                parts = line.strip().split('|')
-                if len(parts) >= 4:
-                    try:
-                        ts = dateparser.parse(parts[0])
-                        if ts.tzinfo is None:
-                            ts = ts.replace(tzinfo=timezone.utc)
-                        if ts > seven_days_ago:
-                            urls.add(parts[1])
-                            titles.add(parts[2])
-                            hashes.add(parts[-1])
-                            cleaned_lines.append(line)
-                    except Exception:
-                        continue
-    with open(DEDUP_FILE, 'w', encoding='utf-8') as f:
-        f.writelines(cleaned_lines)
+                line = line.rstrip('\n')
+                if not line:
+                    continue
+                parts = line.split('|')
+                if len(parts) < 4:
+                    parse_errors += 1
+                    cleaned_lines.append(line + '\n')
+                    continue
+                try:
+                    ts = dateparser.parse(parts[0])
+                    if ts.tzinfo is None:
+                        ts = ts.replace(tzinfo=timezone.utc)
+                    if ts > seven_days_ago:
+                        urls.add(parts[1])
+                        titles.add(parts[2])
+                        hashes.add(parts[-1])
+                        cleaned_lines.append(line + '\n')
+                except Exception:
+                    parse_errors += 1
+                    cleaned_lines.append(line + '\n')
+    except Exception as e:
+        log("DEDUP", f"read failed, leaving file untouched: {e}", Col.YELLOW)
+        return urls, titles, hashes
+
+    try:
+        tmp = DEDUP_FILE + ".tmp"
+        with open(tmp, 'w', encoding='utf-8') as f:
+            f.writelines(cleaned_lines)
+        os.replace(tmp, DEDUP_FILE)
+    except Exception as e:
+        log("DEDUP", f"rewrite failed: {e}", Col.YELLOW)
+
+    log("DEDUP", f"loaded {len(urls)} urls, {len(titles)} titles, "
+                 f"{len(hashes)} hashes (parse errors: {parse_errors})", Col.DIM)
     return urls, titles, hashes
 
-POSTED_URLS, POSTED_TITLES, POSTED_HASHES = set(), set(), set()  # populated in run_bot()
+
+POSTED_URLS, POSTED_TITLES, POSTED_HASHES = set(), set(), set()
+
 
 def add_to_dedup(entry_obj, title_override=None, url_override=None):
     ts = datetime.now(timezone.utc).isoformat()
@@ -411,9 +413,7 @@ def add_to_dedup(entry_obj, title_override=None, url_override=None):
     POSTED_TITLES.add(norm_title)
     POSTED_HASHES.add(h)
 
-# =========================
-# Section: Article fetching
-# =========================
+
 def extract_jsonld_paragraphs(soup):
     bodies = []
     for tag in soup.find_all('script', type='application/ld+json'):
@@ -452,6 +452,7 @@ def extract_jsonld_paragraphs(soup):
             parts.append(buf)
     return [clean_text(p) for p in parts]
 
+
 def extract_paragraphs(soup):
     paras = extract_jsonld_paragraphs(soup)
     if paras:
@@ -467,6 +468,7 @@ def extract_paragraphs(soup):
     return [clean_text(p.get_text(" ", strip=True)) for p in soup.find_all('p')
             if len(p.get_text(strip=True)) > 40]
 
+
 def fetch_article_text(url):
     try:
         r = requests.get(url, timeout=15, headers=REQUEST_HEADERS, allow_redirects=True)
@@ -479,13 +481,10 @@ def fetch_article_text(url):
         log("FETCH", f"Error fetching {url[:60]}: {e}", Col.YELLOW)
         return []
 
-# =========================
-# Section: Scoring
-# =========================
+
 def calculate_score(text):
     text_l = text.lower()
     score, pos, neg, matched = 0, 0, 0, {}
-
     for k, w, pat in UK_PATTERNS:
         raw_count = len(pat.findall(text_l))
         count = min(raw_count, MAX_KEYWORD_REPEATS)
@@ -493,7 +492,6 @@ def calculate_score(text):
             score += w * count
             pos   += w * count
             matched[k] = count
-
     for k, w, pat in NEG_PATTERNS:
         raw_count = len(pat.findall(text_l))
         count = min(raw_count, MAX_KEYWORD_REPEATS)
@@ -501,8 +499,8 @@ def calculate_score(text):
             score += w * count
             neg   += abs(w) * count
             matched[f"NEG:{k}"] = count
-
     return score, pos, neg, matched
+
 
 def is_hard_reject(text, pos, neg):
     t_l = text.lower()
@@ -515,6 +513,7 @@ def is_hard_reject(text, pos, neg):
     if neg > max(10, 2.0 * pos):
         return True, "negative dominance"
     return False, ""
+
 
 def detect_category(text):
     t_l = text.lower()
@@ -531,6 +530,7 @@ def detect_category(text):
         return "General", 0.0
     return max(scores, key=scores.get), 1.0
 
+
 def get_flair_id(sub, text):
     key = f"{sub.display_name}:{text}"
     if key in FLAIR_CACHE:
@@ -544,23 +544,22 @@ def get_flair_id(sub, text):
         pass
     return None
 
-# =========================
-# Section: AI Provider abstraction
-# =========================
+
 class RateLimitedError(Exception):
-    """429 / quota error. Retryable. Optional retry_after seconds."""
     def __init__(self, msg, retry_after=None):
         super().__init__(msg)
         self.retry_after = retry_after
 
+
 class ProviderServerError(Exception):
-    """5xx or network error. Retryable."""
+    pass
+
 
 class ProviderClientError(Exception):
-    """4xx (non-429) or bad-config error. Not retryable. Skip provider."""
+    pass
+
 
 class Pacer:
-    """Sleeps proactively to keep call rate under a configured RPM ceiling."""
     def __init__(self, rpm, buffer_sec=0.25):
         self.min_interval = (60.0 / rpm + buffer_sec) if rpm > 0 else 0.0
         self.last_call_ts = 0.0
@@ -571,9 +570,9 @@ class Pacer:
         now = time.time()
         elapsed = now - self.last_call_ts
         if elapsed < self.min_interval:
-            sleep_for = self.min_interval - elapsed
-            time.sleep(sleep_for)
+            time.sleep(self.min_interval - elapsed)
         self.last_call_ts = time.time()
+
 
 class AIProvider:
     name = "abstract"
@@ -583,7 +582,7 @@ class AIProvider:
         self.model     = model
         self.pacer     = Pacer(rpm_limit)
         self.enabled   = bool(self.api_key)
-        self.exhausted = False  # set when daily quota exhausts; skips for rest of run
+        self.exhausted = False
 
     def call(self, prompt):
         if not self.enabled:
@@ -595,6 +594,7 @@ class AIProvider:
 
     def _do_call(self, prompt):
         raise NotImplementedError
+
 
 class GroqProvider(AIProvider):
     name = "Groq"
@@ -626,7 +626,6 @@ class GroqProvider(AIProvider):
                 except ValueError:
                     pass
             body_lower = r.text.lower()
-            # Heuristic: daily quota error → don't bother retrying on this provider
             if "rpd" in body_lower or "daily" in body_lower or "requests per day" in body_lower:
                 self.exhausted = True
             raise RateLimitedError(f"Groq 429: {r.text[:200]}", retry_after=retry_after)
@@ -641,6 +640,7 @@ class GroqProvider(AIProvider):
             return data["choices"][0]["message"]["content"] or ""
         except (KeyError, ValueError, TypeError) as e:
             raise ProviderServerError(f"Groq response parse: {e}")
+
 
 class GeminiProvider(AIProvider):
     name = "Gemini"
@@ -680,12 +680,8 @@ class GeminiProvider(AIProvider):
                 raise ProviderServerError(f"Gemini server: {msg[:200]}")
             raise ProviderClientError(f"Gemini error: {msg[:200]}")
 
+
 def call_ai_with_fallback(prompt, providers):
-    """
-    Walk providers in order. Within each: retry on 429/5xx with exponential
-    backoff + jitter, honour Retry-After. Returns (raw_text, provider_name)
-    or (None, None) if everything fails.
-    """
     for provider in providers:
         if not provider.enabled:
             log("AI", f"  ↳ {provider.name}: not configured, skipping", Col.DIM)
@@ -703,13 +699,12 @@ def call_ai_with_fallback(prompt, providers):
 
             except RateLimitedError as e:
                 if attempt >= AI_MAX_RETRIES or provider.exhausted:
-                    log("AI", f"  ↳ {provider.name}: rate-limited, giving up "
-                              f"(falling through)", Col.YELLOW)
+                    log("AI", f"  ↳ {provider.name}: rate-limited, giving up", Col.YELLOW)
                     break
                 delay = min(AI_BASE_DELAY * (2 ** attempt), AI_MAX_DELAY)
                 if e.retry_after:
                     delay = max(delay, float(e.retry_after))
-                delay *= random.uniform(0.7, 1.4)  # jitter
+                delay *= random.uniform(0.7, 1.4)
                 log("AI", f"  ↳ {provider.name}: 429; sleep {delay:.1f}s "
                           f"(attempt {attempt + 1}/{AI_MAX_RETRIES + 1})", Col.YELLOW)
                 time.sleep(delay)
@@ -724,18 +719,16 @@ def call_ai_with_fallback(prompt, providers):
 
             except ProviderClientError as e:
                 log("AI", f"  ↳ {provider.name}: client error, falling through: {e}", Col.RED)
-                break  # No retry — try next provider
+                break
 
     log("AI", "  ↳ All providers exhausted/failed", Col.RED)
     return None, None
 
-# =========================
-# Section: AI relevance check
-# =========================
-AI_PROVIDERS = []  # populated in run_bot()
+
+AI_PROVIDERS = []
+
 
 def _parse_ai_json(raw):
-    """Parse AI provider's response into (decision_bool, reasoning_str)."""
     if not raw:
         return False, "(empty AI response)"
     cleaned = re.sub(r"^```(?:json)?\s*", "", raw.strip(), flags=re.IGNORECASE)
@@ -757,17 +750,13 @@ def _parse_ai_json(raw):
         is_rel = "yes" in first_chunk and "no" not in first_chunk.split("yes")[0]
         return is_rel, f"(unparseable JSON; raw response: {raw[:200]})"
 
+
 def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
-    """
-    Returns (is_relevant_or_None, reasoning, provider_name).
-    is_relevant_or_None: True / False / None (None ⇒ no AI available).
-    """
     cache = load_json_data(AI_CACHE_FILE, {})
     cutoff = (datetime.now(timezone.utc) - timedelta(days=7)).timestamp()
     if entry_hash in cache and cache[entry_hash].get('timestamp', 0) > cutoff:
         is_rel    = cache[entry_hash]['is_relevant']
-        reasoning = cache[entry_hash].get('reasoning',
-                                          '(legacy cache entry — no reasoning stored)')
+        reasoning = cache[entry_hash].get('reasoning', '(legacy cache entry)')
         prov      = cache[entry_hash].get('provider', 'cache')
         log("AI", f"Cache hit ({prov}) for {entry_hash[:8]}… → "
                   f"{'YES' if is_rel else 'NO'}", Col.DIM)
@@ -777,7 +766,7 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
             decision="YES (UK relevant)" if is_rel else "NO (not UK)",
             reasoning=reasoning,
         )
-        return is_rel, reasoning, f"{prov} (cached)"
+        return is_rel, reasoning, prov
 
     prompt = (
         "You are a strict UK news relevance filter for an automated subreddit. "
@@ -843,9 +832,7 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
 
     return is_rel, reasoning, provider_name
 
-# =========================
-# Section: Posting
-# =========================
+
 def post_article(target_sub, entry, category, score, pos, neg, matched,
                  ai_used, ai_provider, ai_reasoning, paras, post_reason=""):
     flair_id   = get_flair_id(target_sub, category)
@@ -855,23 +842,10 @@ def post_article(target_sub, entry, category, score, pos, neg, matched,
     try:
         sub = target_sub.submit(title=safe_title, url=entry.link, flair_id=flair_id)
 
-        pos_hits = {k: v for k, v in matched.items() if not k.startswith("NEG:")}
-
         lines = [f"**Source:** {entry.source}", ""]
-
         if paras:
             lines.extend([f"> {clean_text(p)}" for p in paras[:3]] + [""])
-
-        lines.append(f"**UK Relevance Score:** {score:+d}  ")
-        if pos_hits:
-            top = ", ".join(f"`{k}`" for k in sorted(pos_hits, key=pos_hits.get, reverse=True)[:5])
-            lines.append(f"**Top UK signals:** {top}  ")
-        lines.append("")
-
-        if ai_used:
-            lines.append(f"_This was posted automatically and validated by AI ({ai_provider})._")
-        else:
-            lines.append("_This was posted automatically._")
+        lines.append("_Verified_")
 
         sub.reply('\n'.join(lines))
         add_to_dedup(entry)
@@ -906,9 +880,7 @@ def post_article(target_sub, entry, category, score, pos, neg, matched,
         log("ERROR", f"Post failed: {e}", Col.RED)
         return False
 
-# =========================
-# Section: Manual dispatch
-# =========================
+
 def handle_manual_story(url, title_override, subreddit_uk):
     log("MANUAL", f"Posting URL: {url}", Col.CYAN)
     paras = fetch_article_text(url)
@@ -944,14 +916,11 @@ def handle_manual_story(url, title_override, subreddit_uk):
         paras=paras, post_reason=post_reason
     )
 
-# =========================
-# Section: Bot main run
-# =========================
+
 def run_bot():
     global POSTED_URLS, POSTED_TITLES, POSTED_HASHES, _FERNET, AI_PROVIDERS
     global feedparser, requests, BeautifulSoup, dateparser
 
-    # ---- Lazy import of bot-only deps (so `decrypt` mode doesn't need them) ----
     try:
         import feedparser as _feedparser
         import requests as _requests
@@ -959,8 +928,8 @@ def run_bot():
         from dateutil import parser as _dateparser
     except ImportError as e:
         sys.exit(
-            f"Missing required dependency for bot mode: {e.name}.\n"
-            f"Install with:  pip install feedparser requests beautifulsoup4 "
+            f"Missing dependency for bot mode: {e.name}.\n"
+            f"Install: pip install feedparser requests beautifulsoup4 "
             f"praw python-dateutil google-genai cryptography"
         )
     feedparser    = _feedparser
@@ -968,23 +937,20 @@ def run_bot():
     BeautifulSoup = _BS4
     dateparser    = _dateparser
 
-    # ---- Required env vars (Reddit only — AI is optional) ----
     reddit_required = [
         "REDDIT_CLIENT_ID", "REDDIT_CLIENT_SECRET",
         "REDDIT_USERNAME",  "REDDITPASSWORD",
     ]
     missing = [v for v in reddit_required if v not in os.environ]
     if missing:
-        sys.exit(f"Missing required env var(s): {', '.join(missing)}")
+        sys.exit(f"Missing env var(s): {', '.join(missing)}")
 
-    # ---- Encryption setup ----
     _FERNET, enc_msg = _init_fernet_from_env()
     if _FERNET:
         log("REASONING", "Encrypted reasoning log ENABLED", Col.GREEN)
     else:
         log("REASONING", f"Encrypted reasoning log DISABLED ({enc_msg})", Col.DIM)
 
-    # ---- AI providers ----
     groq_key   = os.environ.get("GROQ_API_KEY", "")
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
     groq   = GroqProvider(groq_key,     GROQ_MODEL,   GROQ_RPM)
@@ -997,14 +963,13 @@ def run_bot():
     else:
         log("AI", "No AI providers configured — score-only decisions", Col.YELLOW)
 
-    # ---- Reddit ----
-    import praw  # imported here so decrypt mode doesn't need it
+    import praw
     reddit = praw.Reddit(
         client_id=os.environ["REDDIT_CLIENT_ID"],
         client_secret=os.environ["REDDIT_CLIENT_SECRET"],
         username=os.environ["REDDIT_USERNAME"],
         password=os.environ["REDDITPASSWORD"],
-        user_agent="BreakingUKNewsBot/7.0"
+        user_agent="BreakingUKNewsBot/7.1"
     )
     try:
         log("SYSTEM", f"Logged in as: {reddit.user.me()}", Col.GREEN)
@@ -1014,10 +979,8 @@ def run_bot():
 
     subreddit_uk = reddit.subreddit("BreakingUKNews")
 
-    # ---- Dedup ----
     POSTED_URLS, POSTED_TITLES, POSTED_HASHES = load_dedup()
 
-    # ---- Manual dispatch shortcut ----
     manual_url   = os.environ.get("MANUAL_STORY_URL",   "").strip()
     manual_title = os.environ.get("MANUAL_STORY_TITLE", "").strip()
     if manual_url:
@@ -1025,40 +988,77 @@ def run_bot():
         handle_manual_story(manual_url, manual_title, subreddit_uk)
         return
 
-    # ---- Normal scheduled run ----
     log("START", "=" * 60, Col.CYAN)
-    log("START", "  BreakingUKNewsBot v7.0 — Run starting", Col.CYAN)
+    log("START", "  Run starting", Col.CYAN)
     log("START", "=" * 60, Col.CYAN)
 
     feeds = [
-        ("BBC",       "https://feeds.bbci.co.uk/news/uk/rss.xml"),
-        ("Sky",       "https://feeds.skynews.com/feeds/rss/home.xml"),
-        ("Telegraph", "https://www.telegraph.co.uk/rss.xml"),
+        ("BBC-UK",        "https://feeds.bbci.co.uk/news/uk/rss.xml"),
+        ("BBC-Politics",  "https://feeds.bbci.co.uk/news/politics/rss.xml"),
+        ("BBC-Business",  "https://feeds.bbci.co.uk/news/business/rss.xml"),
+        ("Sky-Home",      "https://feeds.skynews.com/feeds/rss/home.xml"),
+        ("Sky-UK",        "https://feeds.skynews.com/feeds/rss/uk.xml"),
+        ("Sky-Politics",  "https://feeds.skynews.com/feeds/rss/politics.xml"),
     ]
     cutoff      = datetime.now(timezone.utc) - timedelta(hours=TIME_WINDOW_HOURS)
     raw_entries = []
 
     for source, url in feeds:
         try:
-            feed  = feedparser.parse(url)
-            count = 0
-            for e in feed.entries:
-                dt = None
-                for k in ('published', 'updated'):
-                    if hasattr(e, k):
-                        try:
-                            dt = dateparser.parse(getattr(e, k))
-                            break
-                        except Exception:
-                            pass
-                if dt and (not dt.tzinfo or dt.replace(tzinfo=timezone.utc) > cutoff):
-                    raw_entries.append(NewsEntry(source, e.title, e.link,
-                                                 getattr(e, 'summary', ''), dt, e))
-                    count += 1
-            log("FEED", f"{source}: {count} articles within window", Col.BLUE)
+            feed = feedparser.parse(url)
         except Exception as ex:
             log("FEED", f"{source}: fetch failed — {ex}", Col.RED)
             continue
+
+        if getattr(feed, 'bozo', False) and not feed.entries:
+            log("FEED", f"{source}: parse error — {getattr(feed, 'bozo_exception', '?')}", Col.RED)
+            continue
+        if not feed.entries:
+            log("FEED", f"{source}: 0 entries", Col.YELLOW)
+            continue
+
+        kept, skipped_old, skipped_bad = 0, 0, 0
+        for e in feed.entries:
+            try:
+                title = getattr(e, 'title', None)
+                link  = getattr(e, 'link',  None)
+                if not title or not link:
+                    skipped_bad += 1
+                    continue
+
+                dt = None
+                for k in ('published', 'updated'):
+                    raw_date = getattr(e, k, None)
+                    if raw_date:
+                        try:
+                            dt = dateparser.parse(raw_date)
+                            break
+                        except Exception:
+                            continue
+
+                if dt is not None:
+                    if dt.tzinfo is None:
+                        dt_utc = dt.replace(tzinfo=timezone.utc)
+                    else:
+                        dt_utc = dt.astimezone(timezone.utc)
+                    if dt_utc <= cutoff:
+                        skipped_old += 1
+                        continue
+                else:
+                    dt = datetime.now(timezone.utc)
+
+                raw_entries.append(NewsEntry(
+                    source, title, link, getattr(e, 'summary', ''), dt, e
+                ))
+                kept += 1
+            except Exception as ex:
+                skipped_bad += 1
+                log("FEED", f"{source}: skipped bad entry — {ex}", Col.DIM)
+
+        log("FEED",
+            f"{source}: kept {kept}/{len(feed.entries)} "
+            f"(too old: {skipped_old}, malformed: {skipped_bad})",
+            Col.BLUE)
 
     raw_entries.sort(
         key=lambda x: x.published if x.published else datetime.min.replace(tzinfo=timezone.utc),
@@ -1115,7 +1115,7 @@ def run_bot():
                 accept      = True
                 post_reason = (
                     f"High UK score ({score:+d}) with UK anchor and "
-                    f"{distinct_uk_kw} distinct UK keywords — no AI needed"
+                    f"{distinct_uk_kw} distinct UK keywords"
                 )
 
             elif (score >= 15 and has_uk_anchor) or score >= 4:
@@ -1127,8 +1127,6 @@ def run_bot():
                 )
                 if is_rel is None:
                     stats["ai_failed"] += 1
-                    # Conservative: no AI ⇒ only accept the very-high-confidence cases.
-                    # Score 15+ with UK anchor but only 1 distinct keyword: not safe to post blind.
                     post_reason = (
                         f"AI unavailable; score {score:+d} insufficient for blind accept"
                     )
@@ -1144,7 +1142,7 @@ def run_bot():
                         f"Score {score:+d}; AI [{ai_provider}] rejected: {ai_reasoning}"
                     )
             else:
-                post_reason = f"Score too low ({score:+d}) and no AI path"
+                post_reason = f"Score too low ({score:+d})"
 
         decision_label = "ACCEPT (UK)" if accept else "SKIP"
         log_score_detail(entry.title, score, pos, neg, matched, decision_label, post_reason)
@@ -1170,7 +1168,7 @@ def run_bot():
             stats["rejected"] += 1
 
     log("INFO", "=" * 60)
-    log("INFO", f"Evaluation Complete. Stats: {stats}")
+    log("INFO", f"Evaluation complete. Stats: {stats}")
     log("INFO", f"Attempting to post up to {TARGET_POSTS} articles…", Col.CYAN)
 
     posts_made    = 0
@@ -1178,7 +1176,7 @@ def run_bot():
 
     for c in candidates:
         if posts_made >= TARGET_POSTS:
-            log("INFO", f"Reached target of {TARGET_POSTS} posts. Stopping.", Col.GREEN)
+            log("INFO", f"Reached target of {TARGET_POSTS} posts.", Col.GREEN)
             break
 
         src = c["entry"].source
@@ -1206,112 +1204,44 @@ def run_bot():
 
     log("INFO", f"Run finished. Posts made: {posts_made}", Col.GREEN)
 
-# =========================
-# Section: Decrypt subcommand
-# =========================
+
 def run_decrypt(argv):
-    """python newsbot.py decrypt [--type ai_decision|post|ai_failure] [--json] [--file PATH]"""
-    import argparse
-    p = argparse.ArgumentParser(prog="newsbot.py decrypt",
-                                description="Decrypt and print the AI reasoning log.")
-    p.add_argument("--file", default=REASONING_LOG_FILE,
-                   help=f"Path to encrypted log (default: {REASONING_LOG_FILE})")
-    p.add_argument("--type", choices=["ai_decision", "post", "ai_failure"], default=None,
-                   help="Filter to one entry type")
-    p.add_argument("--json", action="store_true",
-                   help="Print decrypted log as a JSON array")
-    args = p.parse_args(argv)
-
-    if not os.path.exists(args.file):
-        sys.exit(f"No log file at: {args.file}")
-
+    path = argv[0] if argv else REASONING_LOG_FILE
+    if not os.path.exists(path):
+        sys.exit(f"No log file: {path}")
     passcode = os.environ.get("REASONING_PASSCODE") or getpass.getpass("Passcode: ")
     if not passcode:
-        sys.exit("No passcode provided.")
-
+        sys.exit("No passcode")
     try:
         from cryptography.fernet import Fernet, InvalidToken
     except ImportError:
-        sys.exit("Missing dependency. Run: pip install cryptography")
-
+        sys.exit("Run: pip install cryptography")
     fernet  = Fernet(_derive_fernet_key(passcode))
-    entries = []
-    with open(args.file, "r", encoding="utf-8") as fh:
-        for lineno, line in enumerate(fh, 1):
+    records = []
+    with open(path, "r", encoding="utf-8") as fh:
+        for i, line in enumerate(fh, 1):
             line = line.strip()
             if not line:
                 continue
             try:
-                plaintext = fernet.decrypt(line.encode("utf-8"))
+                pt = fernet.decrypt(line.encode("utf-8"))
             except InvalidToken:
-                sys.exit(f"Decryption failed on line {lineno} — wrong passcode "
-                         f"or corrupted entry.")
+                sys.exit(f"Decryption failed at line {i}")
             try:
-                entries.append(json.loads(plaintext))
-            except json.JSONDecodeError as e:
-                print(f"[warn] line {lineno} decrypted but not valid JSON: {e}",
-                      file=sys.stderr)
+                records.append(json.loads(pt))
+            except json.JSONDecodeError:
+                pass
+    json.dump(records, sys.stdout, indent=2, ensure_ascii=False, default=str)
+    sys.stdout.write("\n")
 
-    if args.type:
-        entries = [e for e in entries if e.get("type") == args.type]
 
-    if args.json:
-        json.dump(entries, sys.stdout, indent=2, ensure_ascii=False)
-        sys.stdout.write("\n")
-        return
-
-    print(f"Loaded {len(entries)} entries from {args.file}\n")
-    for e in entries:
-        t = e.get("type", "?")
-        if t == "ai_decision":
-            decision = e.get("decision", "?")
-            prov     = e.get("provider", "?")
-            print("─" * 80)
-            print(f"[AI DECISION via {prov}]  {e.get('ts','?')}  {decision}")
-            print(f"  Source : {e.get('source','?')}")
-            print(f"  Title  : {e.get('title','')}")
-            print(f"  URL    : {e.get('url','')}")
-            print(f"  Reason : {e.get('reasoning','')}")
-        elif t == "post":
-            print("═" * 80)
-            sub = e.get("subreddit", "?"); ref = e.get("ref", "?")
-            print(f"[POSTED]  {e.get('ts','?')}  [{ref}] → r/{sub}")
-            print(f"  Source     : {e.get('source','?')}")
-            print(f"  Title      : {e.get('title','')}")
-            print(f"  URL        : {e.get('url','')}")
-            print(f"  Category   : {e.get('category','?')}")
-            print(f"  Score      : {e.get('score','?'):+d}  "
-                  f"(pos={e.get('pos','?')}, neg={e.get('neg','?')})")
-            print(f"  Post reason: {e.get('post_reason','')}")
-            if e.get("ai_used"):
-                print(f"  AI used    : YES ({e.get('ai_provider','?')})")
-                print(f"  AI reason  : {e.get('ai_reasoning','')}")
-            else:
-                print(f"  AI used    : no")
-        elif t == "ai_failure":
-            print("─" * 80)
-            print(f"[AI FAILURE]  {e.get('ts','?')}")
-            print(f"  Title  : {e.get('title','')}")
-            print(f"  URL    : {e.get('url','')}")
-            print(f"  Reason : {e.get('reasoning','')}")
-        else:
-            print("─" * 80)
-            print(f"[{t}] {e.get('ts','?')}")
-            print(json.dumps(e, indent=2, ensure_ascii=False))
-    print("═" * 80)
-
-# =========================
-# Section: Entry point
-# =========================
 def main():
     argv = sys.argv[1:]
     if argv and argv[0] in ("decrypt", "decrypt-log", "--decrypt", "--decrypt-log"):
         run_decrypt(argv[1:])
         return
-    if argv and argv[0] in ("-h", "--help", "help"):
-        print(__doc__)
-        return
     run_bot()
+
 
 if __name__ == "__main__":
     main()
