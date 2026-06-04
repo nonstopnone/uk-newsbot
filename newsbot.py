@@ -79,9 +79,11 @@ def _init_fernet_from_env():
 
 
 _FERNET = None
+_REASONING_WRITES = 0
 
 
 def append_encrypted_reasoning(record):
+    global _REASONING_WRITES
     if _FERNET is None:
         return
     try:
@@ -89,8 +91,11 @@ def append_encrypted_reasoning(record):
         token = _FERNET.encrypt(plaintext).decode("utf-8")
         with open(REASONING_LOG_FILE, "a", encoding="utf-8") as f:
             f.write(token + "\n")
-    except Exception:
-        log("REASONING", "append failed", Col.YELLOW)
+            f.flush()
+            os.fsync(f.fileno())
+        _REASONING_WRITES += 1
+    except Exception as e:
+        log("REASONING", f"append failed: {type(e).__name__}: {e}", Col.RED)
 
 
 DEDUP_FILE    = "posted_urls.txt"
@@ -929,7 +934,7 @@ def run_bot():
     if _FERNET:
         log("REASONING", "encrypted log: enabled", Col.GREEN)
     else:
-        log("REASONING", f"encrypted log: disabled ({enc_msg})", Col.DIM)
+        log("REASONING", f"encrypted log: DISABLED ({enc_msg}) — log will NOT update", Col.RED)
 
     groq_key   = os.environ.get("GROQ_API_KEY", "")
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
@@ -966,6 +971,7 @@ def run_bot():
     manual_title = os.environ.get("MANUAL_STORY_TITLE", "").strip()
     if manual_url:
         handle_manual_story(manual_url, manual_title, subreddit_uk)
+        log("REASONING", f"reasoning records written this run: {_REASONING_WRITES}", Col.CYAN)
         log("END", "run complete", Col.GREEN)
         return
 
@@ -1154,6 +1160,7 @@ def run_bot():
             source_counts[src] += 1
             time.sleep(2)
 
+    log("REASONING", f"reasoning records written this run: {_REASONING_WRITES}", Col.CYAN)
     log("END", f"run complete: {posts_made} posts", Col.GREEN)
 
 
