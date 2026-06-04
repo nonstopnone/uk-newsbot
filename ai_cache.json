@@ -6106,5 +6106,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780613313.82046
+  },
+  "401a6718e7bf4a5a1d619f6297b53116": {
+    "is_relevant": false,
+    "reasoning": "The article concerns the death of Henry Nowak in the United States and the subsequent social media harassment of US police officers; it does not involve the UK or have a material effect on it.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780614386.742724
   }
 }
