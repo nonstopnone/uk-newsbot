@@ -40,27 +40,6 @@ def log(tag, msg, color=Col.RESET):
     print(f"{color}[{ts}] [{tag}] {msg}{Col.RESET}", flush=True)
 
 
-def log_score_detail(entry_title, score, pos, neg, matched, decision, reason):
-    pos_hits = {k: v for k, v in matched.items() if not k.startswith("NEG:")}
-    neg_hits = {k[4:]: v for k, v in matched.items() if k.startswith("NEG:")}
-    log("SCORE", f"{'─' * 60}", Col.DIM)
-    log("SCORE", f"{Col.WHITE}{entry_title[:70]}{Col.RESET}", Col.DIM)
-    log("SCORE", f"Total={Col.YELLOW}{score:+d}{Col.RESET}  "
-                 f"UK={Col.GREEN}+{pos}{Col.RESET}  "
-                 f"Non-UK={Col.RED}-{neg}{Col.RESET}  "
-                 f"→ {Col.CYAN}{decision}{Col.RESET}", Col.DIM)
-    if pos_hits:
-        kw = ", ".join(f"{Col.GREEN}{k}{Col.RESET}(×{v})"
-                       for k, v in sorted(pos_hits.items(), key=lambda x: -x[1])[:8])
-        log("SCORE", f"UK hits: {kw}", Col.DIM)
-    if neg_hits:
-        kw = ", ".join(f"{Col.RED}{k}{Col.RESET}(×{v})"
-                       for k, v in sorted(neg_hits.items(), key=lambda x: -x[1])[:4])
-        log("SCORE", f"Non-UK:  {kw}", Col.DIM)
-    log("SCORE", f"Verdict: {Col.MAGENTA}{reason}{Col.RESET}", Col.DIM)
-    log("SCORE", f"{'─' * 60}", Col.DIM)
-
-
 def clean_text(s):
     if not s:
         return ""
@@ -96,7 +75,7 @@ def _init_fernet_from_env():
     except ImportError:
         return None, "`cryptography` package not installed"
     except Exception as e:
-        return None, f"init error: {e}"
+        return None, f"init error: {type(e).__name__}"
 
 
 _FERNET = None
@@ -110,8 +89,8 @@ def append_encrypted_reasoning(record):
         token = _FERNET.encrypt(plaintext).decode("utf-8")
         with open(REASONING_LOG_FILE, "a", encoding="utf-8") as f:
             f.write(token + "\n")
-    except Exception as e:
-        log("REASONING", f"append failed: {e}", Col.YELLOW)
+    except Exception:
+        log("REASONING", "append failed", Col.YELLOW)
 
 
 DEDUP_FILE    = "posted_urls.txt"
@@ -369,8 +348,8 @@ def load_dedup():
                 except Exception:
                     parse_errors += 1
                     cleaned_lines.append(line + '\n')
-    except Exception as e:
-        log("DEDUP", f"read failed, leaving file untouched: {e}", Col.YELLOW)
+    except Exception:
+        log("DEDUP", "read failed, leaving file untouched", Col.YELLOW)
         return urls, titles, hashes
 
     try:
@@ -378,11 +357,11 @@ def load_dedup():
         with open(tmp, 'w', encoding='utf-8') as f:
             f.writelines(cleaned_lines)
         os.replace(tmp, DEDUP_FILE)
-    except Exception as e:
-        log("DEDUP", f"rewrite failed: {e}", Col.YELLOW)
+    except Exception:
+        log("DEDUP", "rewrite failed", Col.YELLOW)
 
     log("DEDUP", f"loaded {len(urls)} urls, {len(titles)} titles, "
-                 f"{len(hashes)} hashes (parse errors: {parse_errors})", Col.DIM)
+                 f"{len(hashes)} hashes", Col.DIM)
     return urls, titles, hashes
 
 
@@ -467,12 +446,10 @@ def fetch_article_text(url):
     try:
         r = requests.get(url, timeout=15, headers=REQUEST_HEADERS, allow_redirects=True)
         if r.status_code != 200:
-            log("FETCH", f"HTTP {r.status_code} for {url[:60]}", Col.YELLOW)
             return []
         soup = BeautifulSoup(r.content, 'html.parser')
         return extract_paragraphs(soup)
-    except Exception as e:
-        log("FETCH", f"Error fetching {url[:60]}: {e}", Col.YELLOW)
+    except Exception:
         return []
 
 
@@ -617,7 +594,7 @@ class GroqProvider(AIProvider):
         try:
             r = requests.post(self.URL, headers=headers, json=payload, timeout=30)
         except requests.RequestException as e:
-            raise ProviderServerError(f"Groq network: {e}")
+            raise ProviderServerError(f"Groq network: {type(e).__name__}")
 
         if r.status_code == 429:
             retry_after = None
@@ -630,18 +607,18 @@ class GroqProvider(AIProvider):
             body_lower = r.text.lower()
             if "rpd" in body_lower or "daily" in body_lower or "requests per day" in body_lower:
                 self.exhausted = True
-            raise RateLimitedError(f"Groq 429: {r.text[:200]}", retry_after=retry_after)
+            raise RateLimitedError("Groq 429", retry_after=retry_after)
 
         if r.status_code >= 500:
-            raise ProviderServerError(f"Groq {r.status_code}: {r.text[:200]}")
+            raise ProviderServerError(f"Groq {r.status_code}")
         if r.status_code >= 400:
-            raise ProviderClientError(f"Groq {r.status_code}: {r.text[:200]}")
+            raise ProviderClientError(f"Groq {r.status_code}")
 
         try:
             data = r.json()
             return data["choices"][0]["message"]["content"] or ""
-        except (KeyError, ValueError, TypeError) as e:
-            raise ProviderServerError(f"Groq response parse: {e}")
+        except (KeyError, ValueError, TypeError):
+            raise ProviderServerError("Groq response parse")
 
 
 class GeminiProvider(AIProvider):
@@ -655,10 +632,8 @@ class GeminiProvider(AIProvider):
                 from google import genai
                 self.client = genai.Client(api_key=self.api_key)
             except ImportError:
-                log("AI", "google-genai not installed; Gemini disabled", Col.YELLOW)
                 self.enabled = False
-            except Exception as e:
-                log("AI", f"Gemini init failed: {e}; disabled", Col.YELLOW)
+            except Exception:
                 self.enabled = False
 
     def _do_call(self, prompt):
@@ -676,54 +651,35 @@ class GeminiProvider(AIProvider):
                 retry_after = float(m.group(1)) if m else None
                 if "per day" in lower or "rpd" in lower or "daily" in lower:
                     self.exhausted = True
-                raise RateLimitedError(f"Gemini rate-limited: {msg[:200]}",
-                                       retry_after=retry_after)
+                raise RateLimitedError("Gemini rate-limited", retry_after=retry_after)
             if any(t in msg for t in ("500", "502", "503", "504")) or "unavailable" in lower:
-                raise ProviderServerError(f"Gemini server: {msg[:200]}")
-            raise ProviderClientError(f"Gemini error: {msg[:200]}")
+                raise ProviderServerError("Gemini server")
+            raise ProviderClientError(f"Gemini error: {type(e).__name__}")
 
 
 def call_ai_with_fallback(prompt, providers):
     for provider in providers:
-        if not provider.enabled:
-            log("AI", f"  ↳ {provider.name}: not configured, skipping", Col.DIM)
+        if not provider.enabled or provider.exhausted:
             continue
-        if provider.exhausted:
-            log("AI", f"  ↳ {provider.name}: exhausted this run, skipping", Col.DIM)
-            continue
-
         for attempt in range(AI_MAX_RETRIES + 1):
             try:
                 raw = provider.call(prompt)
-                if attempt > 0:
-                    log("AI", f"  ↳ {provider.name}: succeeded on attempt {attempt + 1}", Col.GREEN)
                 return raw, provider.name
-
             except RateLimitedError as e:
                 if attempt >= AI_MAX_RETRIES or provider.exhausted:
-                    log("AI", f"  ↳ {provider.name}: rate-limited, giving up", Col.YELLOW)
                     break
                 delay = min(AI_BASE_DELAY * (2 ** attempt), AI_MAX_DELAY)
                 if e.retry_after:
                     delay = max(delay, float(e.retry_after))
                 delay *= random.uniform(0.7, 1.4)
-                log("AI", f"  ↳ {provider.name}: 429; sleep {delay:.1f}s "
-                          f"(attempt {attempt + 1}/{AI_MAX_RETRIES + 1})", Col.YELLOW)
                 time.sleep(delay)
-
-            except ProviderServerError as e:
+            except ProviderServerError:
                 if attempt >= AI_MAX_RETRIES:
-                    log("AI", f"  ↳ {provider.name}: server error, giving up", Col.YELLOW)
                     break
                 delay = min(AI_BASE_DELAY * (2 ** attempt), AI_MAX_DELAY) * random.uniform(0.7, 1.4)
-                log("AI", f"  ↳ {provider.name}: server error; sleep {delay:.1f}s", Col.YELLOW)
                 time.sleep(delay)
-
-            except ProviderClientError as e:
-                log("AI", f"  ↳ {provider.name}: client error, falling through", Col.RED)
+            except ProviderClientError:
                 break
-
-    log("AI", "  ↳ All providers exhausted/failed", Col.RED)
     return None, None
 
 
@@ -740,7 +696,7 @@ def _normalise_flair(raw_flair):
         if f.lower() == s.lower():
             return f
     for f in SUBREDDIT_FLAIRS:
-        if f.split()[0].lower() == s.split()[0].lower() if s.split() else False:
+        if s.split() and f.split()[0].lower() == s.split()[0].lower():
             return f
     return ""
 
@@ -767,7 +723,7 @@ def _parse_ai_json(raw):
     except json.JSONDecodeError:
         first_chunk = raw[:60].lower()
         is_rel = "yes" in first_chunk and "no" not in first_chunk.split("yes")[0]
-        return is_rel, f"(unparseable JSON response)", ""
+        return is_rel, "(unparseable JSON response)", ""
 
 
 def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
@@ -778,13 +734,12 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
         reasoning = cache[entry_hash].get('reasoning', '(legacy cache entry)')
         flair     = cache[entry_hash].get('flair', '')
         prov      = cache[entry_hash].get('provider', 'cache')
-        log("AI", f"Cache hit ({prov}): {'YES' if is_rel else 'NO'}", Col.DIM)
         return is_rel, reasoning, flair, prov
 
     flair_list = " | ".join(SUBREDDIT_FLAIRS)
     prompt = (
         "You are a strict UK news relevance filter and category classifier for "
-        "a subreddit.\n\n"
+        "the automated subreddit r/BreakingUKNews.\n\n"
         "Step 1 — Relevance: Determine if this article is hard news genuinely "
         "relevant to a UK audience (UK politics, economy, NHS, crime & legal, "
         "devolved governments, royals, security, major UK infrastructure, "
@@ -806,7 +761,7 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
         "- 'Sport' for UK sport results, signings, scandals.\n"
         "- 'Culture' for arts, music, film, festivals, heritage.\n"
         "- 'Notable International News' for foreign stories that materially "
-        "affect the UK, British citizens or are of major UK interest.\n\n"
+        "affect the UK or are of major UK interest.\n\n"
         "Respond ONLY with a single-line JSON object, no markdown fences, in "
         "this exact shape:\n"
         '{"decision": "YES" or "NO", "reasoning": "1-3 sentence explanation", '
@@ -816,12 +771,10 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
         f"Excerpt: {excerpt}"
     )
 
-    log("AI", f"Querying providers for: {title[:60]}…", Col.CYAN)
     raw, provider_name = call_ai_with_fallback(prompt, AI_PROVIDERS)
 
     if raw is None:
         reasoning = "(all AI providers unavailable)"
-        log("AI", "All AI providers unavailable", Col.RED)
         append_encrypted_reasoning({
             "ts":        datetime.now(timezone.utc).isoformat(),
             "type":      "ai_failure",
@@ -833,9 +786,6 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
         return None, reasoning, "", "none"
 
     is_rel, reasoning, flair = _parse_ai_json(raw)
-
-    log("AI", f"[{provider_name}] {'YES' if is_rel else 'NO'}"
-              f"{' → ' + flair if is_rel and flair else ''}", Col.MAGENTA)
 
     cache[entry_hash] = {
         "is_relevant": is_rel,
@@ -880,9 +830,7 @@ def post_article(target_sub, entry, flair_label, score, pos, neg, matched,
         add_to_dedup(entry)
         update_metrics(entry.source, flair_label)
 
-        log("POSTED", f"[{ref}] [{entry.source}] {safe_title[:55]}…", Col.GREEN)
-        log("POSTED", f"  Flair: {flair_label}  Score={score:+d}  "
-                       f"AI: {'yes ('+ai_provider+')' if ai_used else 'no'}", Col.GREEN)
+        log("POSTED", f"[{ref}]", Col.GREEN)
 
         append_encrypted_reasoning({
             "ts":           datetime.now(timezone.utc).isoformat(),
@@ -905,12 +853,12 @@ def post_article(target_sub, entry, flair_label, score, pos, neg, matched,
         return True
 
     except Exception as e:
-        log("ERROR", f"Post failed: {e}", Col.RED)
+        log("ERROR", f"post failed: {type(e).__name__}", Col.RED)
         return False
 
 
 def handle_manual_story(url, title_override, subreddit_uk):
-    log("MANUAL", f"Posting URL: {url}", Col.CYAN)
+    log("MANUAL", "manual dispatch", Col.CYAN)
     paras = fetch_article_text(url)
 
     title = clean_text(title_override) if title_override else ""
@@ -923,12 +871,10 @@ def handle_manual_story(url, title_override, subreddit_uk):
                 title = clean_text(og['content'])
             elif soup.title and soup.title.string:
                 title = clean_text(soup.title.string)
-        except Exception as e:
-            log("MANUAL", f"Could not fetch page title: {e}", Col.YELLOW)
+        except Exception:
+            pass
     if not title:
         title = clean_text(url.rstrip('/').split('/')[-1].replace('-', ' '))
-
-    log("MANUAL", f"Title: {title[:70]}", Col.WHITE)
 
     summary   = " ".join(paras[:2]) if paras else ""
     entry     = NewsEntry("Manual", title, url, summary, datetime.now(timezone.utc))
@@ -943,10 +889,7 @@ def handle_manual_story(url, title_override, subreddit_uk):
         source=entry.source, url=entry.link,
     )
 
-    if ai_flair:
-        flair_label = ai_flair
-    else:
-        flair_label = detect_flair_fallback(full_text)
+    flair_label = ai_flair if ai_flair else detect_flair_fallback(full_text)
 
     post_article(
         subreddit_uk, entry, flair_label, score, pos, neg, matched,
@@ -966,11 +909,7 @@ def run_bot():
         from bs4 import BeautifulSoup as _BS4
         from dateutil import parser as _dateparser
     except ImportError as e:
-        sys.exit(
-            f"Missing dependency for bot mode: {e.name}.\n"
-            f"Install: pip install feedparser requests beautifulsoup4 "
-            f"praw python-dateutil google-genai cryptography"
-        )
+        sys.exit(f"Missing dependency: {e.name}")
     feedparser    = _feedparser
     requests      = _requests
     BeautifulSoup = _BS4
@@ -984,11 +923,13 @@ def run_bot():
     if missing:
         sys.exit(f"Missing env var(s): {', '.join(missing)}")
 
+    log("START", "Bot v7.3 starting", Col.CYAN)
+
     _FERNET, enc_msg = _init_fernet_from_env()
     if _FERNET:
-        log("REASONING", "Encrypted reasoning log ENABLED", Col.GREEN)
+        log("REASONING", "encrypted log: enabled", Col.GREEN)
     else:
-        log("REASONING", f"Encrypted reasoning log DISABLED ({enc_msg})", Col.DIM)
+        log("REASONING", f"encrypted log: disabled ({enc_msg})", Col.DIM)
 
     groq_key   = os.environ.get("GROQ_API_KEY", "")
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
@@ -996,11 +937,11 @@ def run_bot():
     gemini = GeminiProvider(gemini_key, GEMINI_MODEL, GEMINI_RPM)
     AI_PROVIDERS = [groq, gemini]
 
-    enabled_providers = [p.name for p in AI_PROVIDERS if p.enabled]
-    if enabled_providers:
-        log("AI", f"Provider chain: {' → '.join(enabled_providers)}", Col.GREEN)
+    n_providers = sum(1 for p in AI_PROVIDERS if p.enabled)
+    if n_providers:
+        log("AI", f"{n_providers} provider(s) configured", Col.GREEN)
     else:
-        log("AI", "No AI providers configured — score-only decisions", Col.YELLOW)
+        log("AI", "no providers configured (score-only decisions)", Col.YELLOW)
 
     import praw
     reddit = praw.Reddit(
@@ -1008,12 +949,13 @@ def run_bot():
         client_secret=os.environ["REDDIT_CLIENT_SECRET"],
         username=os.environ["REDDIT_USERNAME"],
         password=os.environ["REDDITPASSWORD"],
-        user_agent="BreakingUKNewsBot/7.2"
+        user_agent="BreakingUKNewsBot/7.3"
     )
     try:
-        log("SYSTEM", f"Logged in as: {reddit.user.me()}", Col.GREEN)
+        me = reddit.user.me()
+        log("SYSTEM", f"logged in as {me}", Col.GREEN)
     except Exception as e:
-        log("CRITICAL", f"Reddit login failed: {e}", Col.RED)
+        log("CRITICAL", f"Reddit login failed: {type(e).__name__}", Col.RED)
         sys.exit(1)
 
     subreddit_uk = reddit.subreddit("BreakingUKNews")
@@ -1023,13 +965,9 @@ def run_bot():
     manual_url   = os.environ.get("MANUAL_STORY_URL",   "").strip()
     manual_title = os.environ.get("MANUAL_STORY_TITLE", "").strip()
     if manual_url:
-        log("START", "Manual dispatch — single story post", Col.CYAN)
         handle_manual_story(manual_url, manual_title, subreddit_uk)
+        log("END", "run complete", Col.GREEN)
         return
-
-    log("START", "=" * 60, Col.CYAN)
-    log("START", "  Run starting", Col.CYAN)
-    log("START", "=" * 60, Col.CYAN)
 
     feeds = [
         ("BBC",       "https://feeds.bbci.co.uk/news/uk/rss.xml"),
@@ -1042,24 +980,23 @@ def run_bot():
     for source, url in feeds:
         try:
             feed = feedparser.parse(url)
-        except Exception as ex:
-            log("FEED", f"{source}: fetch failed — {ex}", Col.RED)
+        except Exception:
+            log("FEED", f"{source}: fetch failed", Col.RED)
             continue
 
         if getattr(feed, 'bozo', False) and not feed.entries:
-            log("FEED", f"{source}: parse error — {getattr(feed, 'bozo_exception', '?')}", Col.RED)
+            log("FEED", f"{source}: parse error", Col.RED)
             continue
         if not feed.entries:
             log("FEED", f"{source}: 0 entries", Col.YELLOW)
             continue
 
-        kept, skipped_old, skipped_bad = 0, 0, 0
+        kept = 0
         for e in feed.entries:
             try:
                 title = getattr(e, 'title', None)
                 link  = getattr(e, 'link',  None)
                 if not title or not link:
-                    skipped_bad += 1
                     continue
 
                 dt = None
@@ -1078,7 +1015,6 @@ def run_bot():
                     else:
                         dt_utc = dt.astimezone(timezone.utc)
                     if dt_utc <= cutoff:
-                        skipped_old += 1
                         continue
                 else:
                     dt = datetime.now(timezone.utc)
@@ -1087,20 +1023,16 @@ def run_bot():
                     source, title, link, getattr(e, 'summary', ''), dt, e
                 ))
                 kept += 1
-            except Exception as ex:
-                skipped_bad += 1
-                log("FEED", f"{source}: skipped bad entry — {ex}", Col.DIM)
+            except Exception:
+                continue
 
-        log("FEED",
-            f"{source}: kept {kept}/{len(feed.entries)} "
-            f"(too old: {skipped_old}, malformed: {skipped_bad})",
-            Col.BLUE)
+        log("FEED", f"{source}: {kept} entries", Col.BLUE)
 
     raw_entries.sort(
         key=lambda x: x.published if x.published else datetime.min.replace(tzinfo=timezone.utc),
         reverse=True,
     )
-    log("INFO", f"Total articles to evaluate: {len(raw_entries)}", Col.WHITE)
+    log("INFO", f"{len(raw_entries)} articles to evaluate", Col.WHITE)
 
     candidates, posted_titles_this_run = [], set()
     stats = {"duplicate": 0, "in_run_dup": 0, "rejected": 0,
@@ -1115,17 +1047,13 @@ def run_bot():
         h          = content_hash(entry.title + entry.summary)
 
         if norm_link in POSTED_URLS or h in POSTED_HASHES:
-            log("SKIP", f"[DUP]        {entry.title[:55]}…", Col.DIM)
             stats["duplicate"] += 1
             continue
 
         if any(difflib.SequenceMatcher(None, norm_title, t).ratio() > IN_RUN_FUZZY_THRESHOLD
                for t in posted_titles_this_run):
-            log("SKIP", f"[IN-RUN-DUP] {entry.title[:55]}…", Col.DIM)
             stats["in_run_dup"] += 1
             continue
-
-        log("PIPELINE", f"Evaluating: [{entry.source}] {entry.title[:60]}...", Col.CYAN)
 
         paras     = fetch_article_text(entry.link)
         full_text = entry.title + " " + entry.summary + " " + " ".join(paras)
@@ -1169,16 +1097,11 @@ def run_bot():
                     accept = True
                     ai_used = True
                     chosen_flair = ai_flair or detect_flair_fallback(full_text)
-                    public_reason = (
-                        f"Score {score:+d}; AI [{ai_provider}] confirmed"
-                    )
+                    public_reason = f"Score {score:+d}; AI [{ai_provider}] confirmed"
                 else:
                     public_reason = f"Score {score:+d}; AI [{ai_provider}] rejected"
             else:
                 public_reason = f"Score too low ({score:+d})"
-
-        decision_label = f"ACCEPT → {chosen_flair}" if accept else "SKIP"
-        log_score_detail(entry.title, score, pos, neg, matched, decision_label, public_reason)
 
         if accept:
             candidates.append({
@@ -1197,24 +1120,20 @@ def run_bot():
             posted_titles_this_run.add(norm_title)
             stats["accepted"] += 1
         else:
-            log("REJECTED", f"{entry.title[:55]}… — {public_reason}", Col.RED)
             stats["rejected"] += 1
 
-    log("INFO", "=" * 60)
-    log("INFO", f"Evaluation complete. Stats: {stats}")
-    log("INFO", f"Attempting to post up to {TARGET_POSTS} articles…", Col.CYAN)
+    log("INFO", f"stats: {stats}", Col.WHITE)
+    log("INFO", f"posting up to {TARGET_POSTS}…", Col.CYAN)
 
     posts_made    = 0
     source_counts = Counter()
 
     for c in candidates:
         if posts_made >= TARGET_POSTS:
-            log("INFO", f"Reached target of {TARGET_POSTS} posts.", Col.GREEN)
             break
 
         src = c["entry"].source
         if source_counts[src] >= MAX_PER_SOURCE:
-            log("SKIP", f"Max ({MAX_PER_SOURCE}) reached for source: {src}", Col.DIM)
             continue
 
         if post_article(
@@ -1235,7 +1154,7 @@ def run_bot():
             source_counts[src] += 1
             time.sleep(2)
 
-    log("INFO", f"Run finished. Posts made: {posts_made}", Col.GREEN)
+    log("END", f"run complete: {posts_made} posts", Col.GREEN)
 
 
 def run_decrypt(argv):
