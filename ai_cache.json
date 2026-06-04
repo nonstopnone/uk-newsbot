@@ -6008,5 +6008,47 @@
     "flair": "",
     "provider": "Groq",
     "timestamp": 1780581729.845613
+  },
+  "c661abc476a47aaf4a4a04dccfeb3cd7": {
+    "is_relevant": true,
+    "reasoning": "This is a serious violent crime involving a significant police response and public safety concerns within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780592170.463825
+  },
+  "fce1eaf50df7f9071ea4cf9af320959e": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a fatal military incident involving the Royal Navy on UK soil and involves official government and royal responses.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1780592180.271954
+  },
+  "1c2c287435fd2dbcbadd5cf9924c98dd": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a matter of significant public interest involving UK policing, public safety, and the real-world impact of AI misinformation on an individual, which is highly relevant to UK social and legal discourse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780592188.64535
+  },
+  "df8c5758d5da059063092e7bead89f63": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal case involving a high-profile former political leader in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780592201.193851
+  },
+  "23002f380ec82d2e59a6f32cccce901d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and legal development involving a major UK political party and potential financial malpractice concerning tax authorities.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780592208.898308
+  },
+  "4b3b767dfd9d91385b46888a21bf4a77": {
+    "is_relevant": true,
+    "reasoning": "This concerns a senior member of the Royal Family engaging in a public, news-worthy event within the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1780592218.572172
   }
 }
