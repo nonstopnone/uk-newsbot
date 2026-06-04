@@ -5875,5 +5875,75 @@
     "flair": "Crime & Legal",
     "provider": "Groq",
     "timestamp": 1780556233.993403
+  },
+  "5d3db308215f978e45fccd6055616dfa": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a serious crime, specifically a murder, which is relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780569739.795732
+  },
+  "89c3e06f2e384df9be441f9f15ae5e26": {
+    "is_relevant": true,
+    "reasoning": "The article discusses police reforms and racism guidance in the UK, following a high-profile murder case.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780569742.621563
+  },
+  "081b1a7fba85a30130a57adb353f4f2d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant incident involving the Royal Navy, with investigations ongoing and tributes being paid to the deceased crew members.",
+    "flair": "Royals",
+    "provider": "Groq",
+    "timestamp": 1780569745.114621
+  },
+  "3355333f14bb1b6b9152073fcd5ac7c3": {
+    "is_relevant": true,
+    "reasoning": "The article involves a UK politician (Sir Keir Starmer) and a UK MP, and discusses a lawsuit related to deepfakes, which is a matter of public interest.",
+    "flair": "Politics",
+    "provider": "Groq",
+    "timestamp": 1780569747.762877
+  },
+  "eb566a7a0527b89d81649b426e5079e8": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a riot in Swansea and its aftermath, which is a significant local news event.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780569750.539685
+  },
+  "61071e9c90743d83762a1a3772333ac1": {
+    "is_relevant": false,
+    "reasoning": "The article is about a personal story of a UK student who had an accident in India, but it does not have any direct relevance to UK news.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780569753.050767
+  },
+  "3c366ec0c7525d6bb289e309402d2694": {
+    "is_relevant": false,
+    "reasoning": "The article is about a local artist recreating a Glasgow landmark, but it does not contain any hard news or significant UK events.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780569755.70474
+  },
+  "7d2b90729f0778e83bdb41e31d54fc40": {
+    "is_relevant": false,
+    "reasoning": "The article is about a missing person on a UK mountain, but the individual is from New York and the story does not have a significant UK angle.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780569761.175192
+  },
+  "455e54515cc921f56d8f0df92d77545c": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the Lifetime ISA, a UK government scheme, and its implications for first-time homebuyers, which is a relevant topic to a UK audience.",
+    "flair": "Politics",
+    "provider": "Groq",
+    "timestamp": 1780569768.768202
+  },
+  "120e3774ea7057a44b940649d0e5878c": {
+    "is_relevant": false,
+    "reasoning": "This article is a personal story about the author's experience with hair loss during chemotherapy, and does not contain hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780569775.519175
   }
 }
