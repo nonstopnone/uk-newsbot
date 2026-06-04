@@ -5945,5 +5945,61 @@
     "flair": "",
     "provider": "Groq",
     "timestamp": 1780569775.519175
+  },
+  "d4ad83880701e99f894f88d2b4e77385": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a violent disorder incident involving a protest in Southampton, which is a crime-related event.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780581010.083298
+  },
+  "f12678a78422225a59df823665b96867": {
+    "is_relevant": true,
+    "reasoning": "This article reports on a local incident involving children eating seeds from trees in school grounds, which led to hospitalizations and a response from emergency services.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780581012.677884
+  },
+  "2272b1b2daa8feea944b7aa52ac934a8": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a court case involving a serious crime, specifically the attempted murder of a police officer, which is a relevant and hard news topic.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780581015.426162
+  },
+  "6307cb137e7260c164a5804b26f6fc99": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a UK by-election, a Reform UK candidate, and their views on the Labour Party, making it relevant to UK politics.",
+    "flair": "Politics",
+    "provider": "Groq",
+    "timestamp": 1780581017.98273
+  },
+  "fb20d4c897b15c4e6cea092750f38ee5": {
+    "is_relevant": true,
+    "reasoning": "The article is about the Queen presenting a medal to a seriously ill boy, which is a notable royal event.",
+    "flair": "Royals",
+    "provider": "Groq",
+    "timestamp": 1780581020.61294
+  },
+  "05b0383c63e44eee64baa7a9eee1afc7": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major investigation into the death of six adults, involving an ambulance worker and a care worker, which is a significant UK news story.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780581023.381002
+  },
+  "fcc849c729277d0e5c655c30023e312b": {
+    "is_relevant": false,
+    "reasoning": "The article is about a personal story of a student's accident in India, with no direct relevance to the UK.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780581025.929656
+  },
+  "13842368024b01009ee42dd572a14132": {
+    "is_relevant": false,
+    "reasoning": "The article is about a personal accident in Goa, India, and does not have any direct relevance to the UK.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780581028.679996
   }
 }
