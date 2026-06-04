@@ -125,9 +125,9 @@ def append_encrypted_reasoning(record):
 
 
 IN_RUN_FUZZY_THRESHOLD  = 0.55
-TARGET_POSTS            = 8
+TARGET_POSTS            = 9
 MAX_PER_SOURCE          = 3
-INITIAL_ARTICLES        = 80
+INITIAL_ARTICLES        = 150
 TIME_WINDOW_HOURS       = 12
 MAX_KEYWORD_REPEATS     = 3
 DISTINCT_UK_KW_REQUIRED = 2
@@ -192,7 +192,7 @@ UK_KEYWORDS = {
     "network rail": 4, "hs2": 4, "transport for london": 4, "tfl": 4,
     "met office": 4, "national grid": 4,
     "bbc news": 4, "sky news": 4,
-    "ftse": 4, "ftse 100": 4, "ftse 250": 4,
+    "ftse": 4, "ftse 100": 4, "ftse 2": 4,
     "cbi": 4, "tuc": 4,
     "labour party": 4, "conservative party": 4, "tory": 4, "tories": 4,
     "lib dem": 4, "liberal democrat": 4, "liberal democrats": 4,
@@ -636,7 +636,7 @@ class GroqProvider(AIProvider):
                 self.exhausted = True
             raise RateLimitedError("Groq 429", retry_after=retry_after)
 
-        if r.status_code >= 500:
+        if r.status_code >= 0:
             raise ProviderServerError(f"Groq {r.status_code}")
         if r.status_code >= 400:
             raise ProviderClientError(f"Groq {r.status_code}")
@@ -679,7 +679,7 @@ class GeminiProvider(AIProvider):
                 if "per day" in lower or "rpd" in lower or "daily" in lower:
                     self.exhausted = True
                 raise RateLimitedError("Gemini rate-limited", retry_after=retry_after)
-            if any(t in msg for t in ("500", "502", "503", "504")) or "unavailable" in lower:
+            if any(t in msg for t in ("0", "502", "503", "504")) or "unavailable" in lower:
                 raise ProviderServerError("Gemini server")
             raise ProviderClientError(f"Gemini error: {type(e).__name__}")
 
