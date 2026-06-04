@@ -6085,5 +6085,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1780607589.87976
+  },
+  "53efad2162d27809d89267e4703b6ece": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle health story rather than hard news regarding public policy, institutional developments, or major events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780613295.969491
+  },
+  "a1e8a526e4b0010e74cc555bf282ad0c": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story focusing on an individual's personal experience rather than hard news, policy change, or a significant structural event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780613304.720733
+  },
+  "d295cfb1938f96c328f75bb2fc5b8025": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation in London, which falls directly under the remit of UK hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780613313.82046
   }
 }
