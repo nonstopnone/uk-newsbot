@@ -5854,5 +5854,26 @@
     "flair": "Crime & Legal",
     "provider": "Groq",
     "timestamp": 1780538809.147657
+  },
+  "0b65612295da444a146fd7ecbac9399f": {
+    "is_relevant": true,
+    "reasoning": "Major incident in Port Talbot, Wales, affecting local residents and requiring emergency services.",
+    "flair": "Breaking News",
+    "provider": "Groq",
+    "timestamp": 1780556228.768127
+  },
+  "353f49dafee772b47a07ada09d4ce607": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a critical issue with patient safety and cleanliness at a major UK hospital, which is a matter of significant public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780556231.414276
+  },
+  "bf0dac072229821bc621106ea5c5e104": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a violent protest in Southampton following the murder of Henry Nowak, which is a significant local news story with implications for UK crime and policing.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780556233.993403
   }
 }
