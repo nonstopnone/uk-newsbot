@@ -125,10 +125,10 @@ def append_encrypted_reasoning(record):
 
 
 IN_RUN_FUZZY_THRESHOLD  = 0.55
-TARGET_POSTS            = 9
-MAX_PER_SOURCE          = 3
-INITIAL_ARTICLES        = 150
-TIME_WINDOW_HOURS       = 12
+TARGET_POSTS            = 8
+MAX_PER_SOURCE          = 2
+INITIAL_ARTICLES        = 300
+TIME_WINDOW_HOURS       = 5
 MAX_KEYWORD_REPEATS     = 3
 DISTINCT_UK_KW_REQUIRED = 2
 
