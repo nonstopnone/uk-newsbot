@@ -6050,5 +6050,33 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1780592218.572172
+  },
+  "7a310c9c162602ef6351a1ab856b6bfa": {
+    "is_relevant": false,
+    "reasoning": "This is a promotional blurb for a podcast rather than a hard news report on the conflict itself or its material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780601101.933667
+  },
+  "f1144bc06507336d60d49227c1e814f4": {
+    "is_relevant": true,
+    "reasoning": "The article reports on significant industrial action affecting major UK transport infrastructure in the capital, which impacts the UK economy and public travel.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1780601113.100186
+  },
+  "1a74741aba4ed02e84990aa64a6ba915": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/weather-related service article rather than hard news concerning politics, policy, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780601122.837321
+  },
+  "bde4084bf2b5d8a5de15e39f0d3c5c45": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the Royal Family performing an official engagement at a major UK hospital, which constitutes significant UK news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1780601131.989029
   }
 }

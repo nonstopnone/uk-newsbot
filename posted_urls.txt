@@ -80,3 +80,6 @@
 2026-06-04T16:57:05.002761+00:00|https://www.bbc.com/news/articles/cg7pl7zj024o|woman falsely identified as officer in nowak case scared for safety|1c2c287435fd2dbcbadd5cf9924c98dd
 2026-06-04T16:57:07.620027+00:00|https://news.sky.com/story/snp-in-talks-with-hmrc-over-potential-illegal-vat-claims-linked-to-peter-murrell-embezzlement-13549778|snp in talks with hmrc over potential illegal vat claims linked to murrell embezzlement|23002f380ec82d2e59a6f32cccce901d
 2026-06-04T16:57:10.202332+00:00|https://news.sky.com/story/princess-of-wales-congratulates-cancer-patient-for-finishing-treatment-13550746|princess of wales congratulates cancer patient for finishing treatment|4b3b767dfd9d91385b46888a21bf4a77
+2026-06-04T19:25:35.339232+00:00|https://www.bbc.com/news/articles/c8jvj9l8x4eo|henry nowak deserves legacy that goes beyond tragedy says pm|938de38d55fac656690f8c8230433cf1
+2026-06-04T19:25:37.952791+00:00|https://www.bbc.com/news/articles/c7595wl2eq3o|tube strike usage higher than tuesday tfl says|f1144bc06507336d60d49227c1e814f4
+2026-06-04T19:25:40.546716+00:00|https://www.bbc.com/news/articles/cq5p52l2xjjo|kate hugs mum ringing end of cancer treatment bell|bde4084bf2b5d8a5de15e39f0d3c5c45
