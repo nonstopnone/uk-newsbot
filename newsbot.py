@@ -53,7 +53,17 @@ def clean_text(s):
     return s
 
 
-REASONING_LOG_FILE = "ai_reasoning_log.jsonl.enc"
+# Anchor every state file to the script's own directory so the working
+# directory the bot is launched from can never change where these land.
+# In GitHub Actions the script sits at the repo root, so these resolve to the
+# same relative names the workflow's `git add` stages.
+_BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+REASONING_LOG_FILE = os.path.join(_BASE_DIR, "ai_reasoning_log.jsonl.enc")
+DEDUP_FILE         = os.path.join(_BASE_DIR, "posted_urls.txt")
+AI_CACHE_FILE      = os.path.join(_BASE_DIR, "ai_cache.json")
+METRICS_FILE       = os.path.join(_BASE_DIR, "metrics.json")
+
 _S = b"newsbot-reasoning-v1"
 _I = 480_000
 
@@ -82,6 +92,19 @@ _FERNET = None
 _REASONING_WRITES = 0
 
 
+def _ensure_log_exists():
+    """Guarantee the encrypted log file exists on disk before the run starts,
+    so a downstream viewer can always locate it even on a zero-write run."""
+    if _FERNET is None:
+        return
+    try:
+        if not os.path.exists(REASONING_LOG_FILE):
+            with open(REASONING_LOG_FILE, "a", encoding="utf-8"):
+                pass
+    except Exception:
+        log("REASONING", "could not create log file", Col.YELLOW)
+
+
 def append_encrypted_reasoning(record):
     global _REASONING_WRITES
     if _FERNET is None:
@@ -95,12 +118,11 @@ def append_encrypted_reasoning(record):
             os.fsync(f.fileno())
         _REASONING_WRITES += 1
     except Exception as e:
-        log("REASONING", f"append failed: {type(e).__name__}: {e}", Col.RED)
+        # Log the exception TYPE only. On a public repo the Actions log is
+        # world-readable, so we never echo exception messages that could
+        # contain record contents.
+        log("REASONING", f"append failed: {type(e).__name__}", Col.RED)
 
-
-DEDUP_FILE    = "posted_urls.txt"
-AI_CACHE_FILE = "ai_cache.json"
-METRICS_FILE  = "metrics.json"
 
 IN_RUN_FUZZY_THRESHOLD  = 0.55
 TARGET_POSTS            = 8
@@ -817,6 +839,29 @@ def check_ai_relevance(title, summary, excerpt, entry_hash, source="", url=""):
     return is_rel, reasoning, flair, provider_name
 
 
+def log_decision(entry, decision_yes, score, pos, neg, matched,
+                 ai_used, ai_provider, reasoning, flair=""):
+    """Record a single, symmetric YES/NO verdict for every article evaluated,
+    regardless of which path produced it. This guarantees accepted (YES)
+    stories appear in the log, not only rejected (NO) ones."""
+    append_encrypted_reasoning({
+        "ts":          datetime.now(timezone.utc).isoformat(),
+        "type":        "decision",
+        "decision":    "YES" if decision_yes else "NO",
+        "source":      getattr(entry, "source", ""),
+        "title":       getattr(entry, "title", ""),
+        "url":         getattr(entry, "link", ""),
+        "score":       score,
+        "pos":         pos,
+        "neg":         neg,
+        "matched":     matched,
+        "flair":       flair,
+        "ai_used":     bool(ai_used),
+        "ai_provider": ai_provider,
+        "reasoning":   reasoning,
+    })
+
+
 def post_article(target_sub, entry, flair_label, score, pos, neg, matched,
                  ai_used, ai_provider, ai_reasoning, paras, post_reason=""):
     flair_id   = get_flair_id(target_sub, flair_label)
@@ -835,11 +880,12 @@ def post_article(target_sub, entry, flair_label, score, pos, neg, matched,
         add_to_dedup(entry)
         update_metrics(entry.source, flair_label)
 
-        log("POSTED", f"[{ref}]", Col.GREEN)
+        log("POSTED", f"[{ref}] YES -> {flair_label}", Col.GREEN)
 
         append_encrypted_reasoning({
             "ts":           datetime.now(timezone.utc).isoformat(),
             "type":         "post",
+            "decision":     "YES",
             "ref":          ref,
             "subreddit":    target_sub.display_name,
             "source":       entry.source,
@@ -859,6 +905,15 @@ def post_article(target_sub, entry, flair_label, score, pos, neg, matched,
 
     except Exception as e:
         log("ERROR", f"post failed: {type(e).__name__}", Col.RED)
+        append_encrypted_reasoning({
+            "ts":       datetime.now(timezone.utc).isoformat(),
+            "type":     "post_failed",
+            "decision": "NO",
+            "source":   entry.source,
+            "title":    safe_title,
+            "url":      entry.link,
+            "error":    type(e).__name__,
+        })
         return False
 
 
@@ -896,6 +951,11 @@ def handle_manual_story(url, title_override, subreddit_uk):
 
     flair_label = ai_flair if ai_flair else detect_flair_fallback(full_text)
 
+    log_decision(entry, True, score, pos, neg, matched,
+                 ai_used=bool(is_rel), ai_provider=ai_provider or "",
+                 reasoning=f"Manual submission (score {score:+d})",
+                 flair=flair_label)
+
     post_article(
         subreddit_uk, entry, flair_label, score, pos, neg, matched,
         ai_used=bool(is_rel), ai_provider=ai_provider or "",
@@ -928,11 +988,12 @@ def run_bot():
     if missing:
         sys.exit(f"Missing env var(s): {', '.join(missing)}")
 
-    log("START", "Bot v7.3 starting", Col.CYAN)
+    log("START", "Bot v7.4 starting", Col.CYAN)
 
     _FERNET, enc_msg = _init_fernet_from_env()
     if _FERNET:
-        log("REASONING", "encrypted log: enabled", Col.GREEN)
+        _ensure_log_exists()
+        log("REASONING", f"encrypted log: enabled -> {REASONING_LOG_FILE}", Col.GREEN)
     else:
         log("REASONING", f"encrypted log: DISABLED ({enc_msg}) — log will NOT update", Col.RED)
 
@@ -954,7 +1015,7 @@ def run_bot():
         client_secret=os.environ["REDDIT_CLIENT_SECRET"],
         username=os.environ["REDDIT_USERNAME"],
         password=os.environ["REDDITPASSWORD"],
-        user_agent="BreakingUKNewsBot/7.3"
+        user_agent="BreakingUKNewsBot/7.4"
     )
     try:
         me = reddit.user.me()
@@ -971,7 +1032,13 @@ def run_bot():
     manual_title = os.environ.get("MANUAL_STORY_TITLE", "").strip()
     if manual_url:
         handle_manual_story(manual_url, manual_title, subreddit_uk)
-        log("REASONING", f"reasoning records written this run: {_REASONING_WRITES}", Col.CYAN)
+        append_encrypted_reasoning({
+            "ts":         datetime.now(timezone.utc).isoformat(),
+            "type":       "run_summary",
+            "mode":       "manual",
+            "posts_made": 1,
+        })
+        log("REASONING", f"records written this run: {_REASONING_WRITES}", Col.CYAN)
         log("END", "run complete", Col.GREEN)
         return
 
@@ -1109,6 +1176,12 @@ def run_bot():
             else:
                 public_reason = f"Score too low ({score:+d})"
 
+        # Symmetric verdict: every evaluated article logs YES (accepted) or
+        # NO (rejected), so accepted stories are visible in the log too.
+        log_decision(entry, accept, score, pos, neg, matched,
+                     ai_used=ai_used, ai_provider=ai_provider,
+                     reasoning=public_reason, flair=chosen_flair)
+
         if accept:
             candidates.append({
                 "entry":         entry,
@@ -1160,7 +1233,19 @@ def run_bot():
             source_counts[src] += 1
             time.sleep(2)
 
-    log("REASONING", f"reasoning records written this run: {_REASONING_WRITES}", Col.CYAN)
+    # Heartbeat: every run appends at least this one record, so the encrypted
+    # log file changes on each run even when nothing is posted. If the file
+    # still does not advance after a run, the cause is downstream (git push or
+    # the viewer), not the bot.
+    append_encrypted_reasoning({
+        "ts":         datetime.now(timezone.utc).isoformat(),
+        "type":       "run_summary",
+        "mode":       "scheduled",
+        "posts_made": posts_made,
+        "stats":      stats,
+    })
+
+    log("REASONING", f"records written this run: {_REASONING_WRITES}", Col.CYAN)
     log("END", f"run complete: {posts_made} posts", Col.GREEN)
 
 
@@ -1175,21 +1260,47 @@ def run_decrypt(argv):
         from cryptography.fernet import Fernet, InvalidToken
     except ImportError:
         sys.exit("Run: pip install cryptography")
-    fernet  = Fernet(_derive_fernet_key(passcode))
+    fernet = Fernet(_derive_fernet_key(passcode))
     records = []
+    total = ok = bad = 0
+    first_bad = None
+    last_ts = None
+    # Skip-don't-die: one corrupt or wrong-key line must never hide every line
+    # after it. Bad lines are reported on stderr; stdout stays clean JSON.
     with open(path, "r", encoding="utf-8") as fh:
         for i, line in enumerate(fh, 1):
             line = line.strip()
             if not line:
                 continue
+            total += 1
             try:
                 pt = fernet.decrypt(line.encode("utf-8"))
             except InvalidToken:
-                sys.exit(f"Decryption failed at line {i}")
+                bad += 1
+                if first_bad is None:
+                    first_bad = i
+                print(f"[decrypt] line {i}: cannot decrypt with this passcode (skipped)",
+                      file=sys.stderr)
+                continue
             try:
-                records.append(json.loads(pt))
+                rec = json.loads(pt)
             except json.JSONDecodeError:
-                pass
+                bad += 1
+                print(f"[decrypt] line {i}: decrypted but not valid JSON (skipped)",
+                      file=sys.stderr)
+                continue
+            records.append(rec)
+            ok += 1
+            if isinstance(rec, dict) and rec.get("ts"):
+                last_ts = rec["ts"]
+
+    summary = f"[decrypt] {total} lines: {ok} decrypted, {bad} failed"
+    if first_bad is not None:
+        summary += f"; first failure at line {first_bad}"
+    if last_ts:
+        summary += f"; newest decrypted ts {last_ts}"
+    print(summary, file=sys.stderr)
+
     json.dump(records, sys.stdout, indent=2, ensure_ascii=False, default=str)
     sys.stdout.write("\n")
 
