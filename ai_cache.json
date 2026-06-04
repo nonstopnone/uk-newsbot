@@ -5826,5 +5826,33 @@
     "flair": "",
     "provider": "Groq",
     "timestamp": 1780529039.650561
+  },
+  "60e74a8f40bc62a57370b4bc85f1c990": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a high-profile police case and a royal pledge, both of which are relevant to a UK audience.",
+    "flair": "Politics",
+    "provider": "Groq",
+    "timestamp": 1780538801.296541
+  },
+  "c635719c7606788509314a920369bbe0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant development in the UK's National Health Service (NHS), specifically the approval of a new ovarian cancer treatment.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780538803.962867
+  },
+  "515e6147b8c5a2b95322446c2d727d4b": {
+    "is_relevant": true,
+    "reasoning": "The article is about a statement from the Prince of Wales, a member of the British royal family, which is relevant to the UK audience.",
+    "flair": "Royals",
+    "provider": "Groq",
+    "timestamp": 1780538806.921061
+  },
+  "a18c6acd6d616fef64307e93be120448": {
+    "is_relevant": true,
+    "reasoning": "The article involves a UK MP suing a company over the use of AI to create deepfake images, which is a significant UK news story.",
+    "flair": "Crime & Legal",
+    "provider": "Groq",
+    "timestamp": 1780538809.147657
   }
 }
