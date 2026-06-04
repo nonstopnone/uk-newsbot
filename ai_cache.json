@@ -6078,5 +6078,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1780601131.989029
+  },
+  "0388e7a498083852551ee75d88188775": {
+    "is_relevant": true,
+    "reasoning": "This concerns internal disputes within the governing Labour Party and the office of the Prime Minister, which constitutes significant UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780607589.87976
   }
 }
