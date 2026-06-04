@@ -6001,5 +6001,12 @@
     "flair": "",
     "provider": "Groq",
     "timestamp": 1780581028.679996
+  },
+  "ec89dc040847efb97550fe27288ce637": {
+    "is_relevant": false,
+    "reasoning": "The article is a travel guide to Malaga's nightlife, with no relevance to the UK.",
+    "flair": "",
+    "provider": "Groq",
+    "timestamp": 1780581729.845613
   }
 }
