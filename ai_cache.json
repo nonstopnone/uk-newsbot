@@ -6232,5 +6232,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780660406.81858
+  },
+  "92402a2434a75e7f6d7a7d6b548e18d9": {
+    "is_relevant": true,
+    "reasoning": "This concerns the ongoing criminal trial of a former high-profile political party leader in the UK, which is a matter of significant public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780671455.046657
+  },
+  "204e22ff2a5d6599ddaccebace48fcaa": {
+    "is_relevant": false,
+    "reasoning": "This is a sports interactive feature/opinion piece rather than hard news, and the sub explicitly excludes sports previews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780671468.123131
+  },
+  "8249fa99bf1bdce8e3e586853f5fd15a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court verdict involving a murder in Scotland, which falls under UK legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780671477.604292
+  },
+  "e6c2891ef1556a078572f64247813eed": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/recipe article about making a dessert and does not constitute hard news or a topic relevant to the subreddit's remit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780671488.151305
+  },
+  "2c1ac747cc33b9a2048fdc4e51f90ce2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving foreign state-sponsored activity on UK soil and represents a major matter of national security and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780671498.052534
+  },
+  "28482445dbb298b9a018a05c46644d03": {
+    "is_relevant": true,
+    "reasoning": "This is a report on criminal legal proceedings involving violent disorder and police interactions in a UK city, meeting the criteria for crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780671508.37039
+  },
+  "860f4e0eb77eb0094b9301d41ba3b2fa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal event involving attempted murder and an offensive weapon on a UK university campus, falling under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780671521.184543
+  },
+  "89ad6e4c95cda42ca3fc738375d647f5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving money laundering and security breaches at a major UK airport, falling under crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780671531.006638
+  },
+  "aea76f88f9da527ad779b12d7ec08377": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile UK court case involving serious criminal convictions and the subsequent sentencing controversy, which has triggered a legal review.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780671541.643775
   }
 }
