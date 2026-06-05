@@ -6351,5 +6351,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1780693738.981048
+  },
+  "74d34d85bb720acfcb079234370a9adb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding NHS malpractice, systemic error, and a subsequent public inquiry involving the Scottish Public Services Ombudsman.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780698972.903248
   }
 }
