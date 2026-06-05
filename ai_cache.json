@@ -6211,5 +6211,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780649172.150618
+  },
+  "3a6e574a51f30a62eec0228493b5d233": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome regarding a criminal conviction for gross negligence manslaughter within the UK, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780660386.166169
+  },
+  "453d77f2cab32c123d5736b6f466bbba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal story involving serious convictions, judicial sentencing, and a subsequent appeal, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780660396.322984
+  },
+  "8808fed63f2c64b668f5ad8bbde16024": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving attempted murder on a UK university campus, which falls under serious crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780660406.81858
   }
 }
