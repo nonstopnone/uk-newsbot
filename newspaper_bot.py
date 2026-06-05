@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
-"""BBC The Papers → Reddit image poster
-
-Scrapes today's newspaper front-page images and BBC editorial blurbs from
-the BBC "The Papers" feature, then posts each one as an image post to
-the configured subreddit with the blurb as the first comment.
-
-Idempotent: checks subreddit.new() titles before posting.
+"""
 """
 
 import os
