@@ -6141,5 +6141,75 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1780634997.136261
+  },
+  "80d4d0c1ee51d6c3d7dafb8ce943eb56": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant policy decision by the Welsh government regarding public taxation, which is a core devolved political issue.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780649066.95871
+  },
+  "fac425b35ccf31d1600fedc4b77bb260": {
+    "is_relevant": true,
+    "reasoning": "This is a significant education-related development involving a national exam regulator and a large-scale public concern, which fits the criteria for UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1780649077.822798
+  },
+  "69c4d008e42b438632559bc79c342083": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and military incident involving the loss of life of active Royal Navy personnel within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1780649088.233302
+  },
+  "4086b0f381aa70b3c10b54e763688e6f": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a sitting UK MP taking legal action regarding platform accountability and the regulation of AI-generated content, which is a matter of current UK political and legal debate.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780649103.306837
+  },
+  "4218a3328623c9ee6e24306fdb5761cf": {
+    "is_relevant": false,
+    "reasoning": "This is a local human interest and tragedy story that does not constitute 'hard news' of national significance or systemic relevance to the UK as required for the subreddit's scope.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780649113.745561
+  },
+  "8c372950f90f9846f2fd14ab16193a7b": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story rather than hard news regarding UK politics, economy, crime, or significant policy developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780649128.966828
+  },
+  "2161ded42f3a5658d06c831df1ea1cf4": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest feature article rather than hard news; while it touches on housing, it focuses on a niche communal living arrangement rather than significant policy, economic data, or breaking infrastructure developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780649139.010582
+  },
+  "f40e9b3e29e7cf0c5207b2ffab62c198": {
+    "is_relevant": false,
+    "reasoning": "This is a social commentary and lifestyle piece regarding educational philosophy and personal opinion, which does not constitute hard news or a significant policy development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780649150.822442
+  },
+  "40fb51fa205458f2d5b8bc92c3635c8c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story focusing on an individual's personal experience rather than hard news, policy change, or a significant systemic event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780649163.395323
+  },
+  "6c62fcb9aa1aac609ebcc723192e731e": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story focusing on a personal tragedy and public awareness, which falls under lifestyle/soft news rather than hard news reporting on policy, crime, or political events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780649172.150618
   }
 }
