@@ -6316,5 +6316,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780680196.422366
+  },
+  "9ec56082d1a4695675225156cbaec12c": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report regarding cricket, which falls under the category of sports previews/reporting rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780687152.123964
+  },
+  "16da746dbd9b0a15ff831603bdb926aa": {
+    "is_relevant": true,
+    "reasoning": "The death of a significant figure closely linked to the Royal Family and historical events regarding the monarchy is of notable interest to a UK audience.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1780687161.821136
+  },
+  "5611bf564ef7d3540f449882a0683328": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on US stock market performance and Federal Reserve policy, with no material impact on or direct connection to the UK economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780687172.803873
+  },
+  "ab1dc9b52326eb2a86bdb7e92ee40072": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal case involving a government agency and high-value fraud, which is directly relevant to UK legal and public administrative systems.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780687183.357144
   }
 }
