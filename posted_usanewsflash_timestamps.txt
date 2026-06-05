@@ -1,5 +1,3 @@
-2026-05-29T17:50:39.980920+00:00|https://news.sky.com/story/five-killed-and-35-injured-after-bus-collides-with-six-vehicles-in-virginia-13549080|Bus collision kills five and leaves 35 injured in Virginia|fac8f12cb652e38099aef4e01c68e5b6
-2026-05-29T17:50:45.753534+00:00|https://www.bbc.com/news/articles/c5yrv5lel23o?at_medium=RSS&at_campaign=rss|Bus crashes into six cars in Virginia, killing 5 and injuring dozens|27e3a3942b0e827cad6ceec0d4b2e614
 2026-05-29T19:59:40.405223+00:00|https://news.sky.com/story/donald-trump-affiliated-us-birthday-celebration-hit-by-wave-of-cancellations-13549133|Trump-affiliated US celebration hit by wave of cancellations|2b2f949855ba2c3330c7e288a7a97be5
 2026-05-31T04:51:30.407441+00:00|https://www.bbc.com/news/articles/clypj8z4yz2o?at_medium=RSS&at_campaign=rss|Bus driver in deadly Virginia crash charged with involuntary manslaughter|a1cca27ff1932667aae98e4dd9da9c7d
 2026-05-31T20:14:59.187940+00:00|https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss|'Cancel it', Trump says after artists drop out of US Freedom 250 festival|4e0be14a4603412293fca3ba7d9dbd7d
@@ -30,3 +28,4 @@
 2026-06-04T18:23:22.925014+00:00|https://www.bbc.com/news/articles/cwy20ppvqg9o?at_medium=RSS&at_campaign=rss|California tech boss accused of smuggling equipment to Iran|3068b940f8b686031cd30027f6e3ec32
 2026-06-05T01:39:02.001723+00:00|https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss|How Trump's White House ballroom plan has doubled in size and cost over a year|796e486c33ea3a7f674501a3064b7769
 2026-06-05T10:14:13.820624+00:00|https://news.sky.com/story/top-gun-maverick-actor-james-handy-stabbed-to-death-in-los-angeles-as-girlfriends-son-arrested-13550995|Top Gun: Maverick actor stabbed to death|0a10668f69fa85092b19a6828fd18a42
+2026-06-05T18:08:55.322207+00:00|https://www.bbc.com/news/articles/c4g4g3zxp79o?at_medium=RSS&at_campaign=rss|US Senate approves $70bn for Trump immigration agencies|e67e0207b5ca8eb3556392bb9104465e
