@@ -6295,5 +6295,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780671541.643775
+  },
+  "b68c8a8fb6ed55866adf412114d171b6": {
+    "is_relevant": false,
+    "reasoning": "While Jon Snow is a prominent public figure, his personal medical diagnosis does not constitute hard news regarding UK politics, policy, crime, or significant national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780680174.442653
+  },
+  "f3be9c4fc9c0d7a7a2624c708e91677f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile miscarriage of justice case and a major criminal sentencing in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780680185.572896
+  },
+  "423fda3d83ee3620db93cbd6761ec392": {
+    "is_relevant": false,
+    "reasoning": "The death of a celebrity, while notable, is classified as a lifestyle/entertainment news item and does not meet the criteria for hard news relevant to UK governance, economy, or national security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780680196.422366
   }
 }
