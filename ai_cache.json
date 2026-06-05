@@ -6358,5 +6358,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780698972.903248
+  },
+  "b71a19ca47f8c3905e42803f3c94c10c": {
+    "is_relevant": false,
+    "reasoning": "This is a review or preview of an entertainment television drama and does not constitute hard news or a matter of public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780703425.050739
   }
 }
