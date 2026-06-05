@@ -6113,5 +6113,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780614386.742724
+  },
+  "906778ca13c55a4f0ccd1ac1ae89bfbf": {
+    "is_relevant": true,
+    "reasoning": "The article covers a report by the National Audit Office regarding the use of public funds and Crown Estate property by members of the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1780618326.24171
+  },
+  "1b8d4bb0804a7cc5386f9ef77c7ff12f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental and public health issue involving devolved government policy and potential criminal activity within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780618335.100322
   }
 }
