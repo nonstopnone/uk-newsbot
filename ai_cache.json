@@ -6127,5 +6127,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780618335.100322
+  },
+  "92518f44f0a2f0e07e1773e7d6f4b85d": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant developments regarding the Royal Family's finances and a notable political statement from the Mayor of Greater Manchester regarding the Prime Minister.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1780634986.685845
+  },
+  "850e0b186b3f81b9d7aade367d25c139": {
+    "is_relevant": true,
+    "reasoning": "The mass closure of 150 high street shops by a major national charity is significant economic news affecting employment and local infrastructure across the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1780634997.136261
   }
 }
