@@ -6344,5 +6344,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780687183.357144
+  },
+  "980c99b88e212288b85a33502914d039": {
+    "is_relevant": true,
+    "reasoning": "This involves an official response from Downing Street regarding a high-profile intervention by the US Vice-President in a domestic UK crime case, constituting significant UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780693738.981048
   }
 }
