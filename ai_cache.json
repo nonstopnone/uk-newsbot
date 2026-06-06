@@ -6414,5 +6414,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780737327.485843
+  },
+  "e0b6e06cff7a52314611ff1db6374344": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and home improvement piece featuring a television personality, which falls under the category of fluff/lifestyle content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780743671.049386
+  },
+  "bd5c289635331fe6a12315e9332df321": {
+    "is_relevant": false,
+    "reasoning": "This article concerns the health of a sports team principal and is categorized as a sports-related personal update rather than hard news impacting the UK public, politics, or economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780743679.954846
+  },
+  "479f65f3352543c085018c5f546b99a0": {
+    "is_relevant": false,
+    "reasoning": "This is a regional event cancellation caused by weather and does not constitute national-level hard news of significant UK-wide impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780743689.127572
+  },
+  "546f571b7da4a435b0e841bed0be88c3": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/entertainment news story about a singer's return to the stage, which falls under lifestyle and arts rather than hard news of significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780743698.623991
+  },
+  "4c061d8d814050a1bb3191bff35029d0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and defence matter involving the Ministry of Defence and major UK infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1780743713.145519
   }
 }
