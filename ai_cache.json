@@ -6575,5 +6575,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780780753.603423
+  },
+  "1c896c46878c96e05b2abd8a4e26221e": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest feature story rather than hard news; it does not concern significant UK policy, security, or major economic shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780789514.285658
+  },
+  "fa2ae4f1a793cd33615b098c9be9cfa1": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/careers advice piece rather than hard news or a significant economic report.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780789522.775038
+  },
+  "feb79686f070ed387754eedd0dbe61eb": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment guide intended to help readers participate in casual conversation, rather than being hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780789531.915019
+  },
+  "082a19ba071c832164f9d0c2ab73a0d0": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest feature piece about social media trends rather than hard news concerning UK politics, the economy, or significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780789557.105124
+  },
+  "f256e655edfe7560bb107ee261909318": {
+    "is_relevant": true,
+    "reasoning": "The article concerns government policy regarding national security and defence spending, which directly impacts UK infrastructure and political accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780789580.860855
   }
 }
