@@ -6519,5 +6519,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780761143.902627
+  },
+  "05572c27bc49d386d86eaa13243ce483": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports report concerning rugby match results and team personnel changes, which falls under the category of sports news and is excluded from the r/BreakingUKNews mandate.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780766283.110236
+  },
+  "2383753459facc01f7973cbfb9233ce0": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports report regarding a cricket match, which is excluded from the r/BreakingUKNews criteria as per the instruction to reject sports previews/reports.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780766293.457135
+  },
+  "3859d6ca9516656fb06dbe86b2fd9fc9": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal investigation and arrest involving a public figure in a UK-based organisation, which qualifies as a matter of crime and legal interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780766303.523967
+  },
+  "5948d3d122b420daa49e7a42f0377b0c": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer safety product recall notice rather than hard news regarding UK politics, policy, crime, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780766313.325704
+  },
+  "ee4352b1ef304d2de77b1eae1ba345d3": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of British Formula 1 drivers Lewis Hamilton and George Russell in a major international sporting event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1780766332.708335
+  },
+  "a282b5bd9b86916a2d0cfb0c01955fee": {
+    "is_relevant": true,
+    "reasoning": "The article concerns members of the Royal Family attending a wedding, which is a matter of public and national interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1780766340.838365
   }
 }
