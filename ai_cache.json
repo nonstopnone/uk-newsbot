@@ -6379,5 +6379,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1780728262.977853
+  },
+  "3f02edf34029cb1414208e5551008a18": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and astronomy-themed feature article that does not report on hard news, politics, or significant events impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780737267.177367
+  },
+  "7bc62645b527c44b926b337f6b80ea1b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns significant national commemorative events involving British veterans and the maintenance of a major UK war memorial, which is of substantial public interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1780737284.091892
+  },
+  "313bebfc93599946345c3fb45d0d8007": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/entertainment news item rather than significant hard news concerning UK politics, the economy, or major public interest affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780737293.040954
+  },
+  "3b9104ee69a7bff8f408e4c0699570f5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a serious assault and subsequent legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780737311.142915
+  },
+  "abf7cfa6a4d25ff08ecb8d1165e8e861": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story about an individual's personal experience with dating apps, rather than hard news concerning UK public policy, national crime trends, or significant infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780737327.485843
   }
 }
