@@ -6561,5 +6561,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1780766340.838365
+  },
+  "e4c4780b0cdbc01da87572649e193b53": {
+    "is_relevant": false,
+    "reasoning": "This is a sports news story concerning a French Open tennis result, which does not meet the criteria for hard UK news relevance for this specific subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780776672.119937
   }
 }
