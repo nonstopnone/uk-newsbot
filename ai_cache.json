@@ -6365,5 +6365,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780703425.050739
+  },
+  "897a961ce10cf16e6ceeb2e98910d2be": {
+    "is_relevant": false,
+    "reasoning": "This is a press review round-up rather than a report on primary news events; coverage of newspaper front pages is considered secondary commentary.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780717422.19436
   }
 }
