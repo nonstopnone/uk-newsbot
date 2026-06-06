@@ -6463,5 +6463,33 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1780748379.927664
+  },
+  "94ab3675862db5f7cfd6acea2845d0a0": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant event involving the extended Royal Family, which is a core category for UK news coverage.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1780755437.290958
+  },
+  "73a213846c6ee49c61442e5029eed8d3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime story involving the conviction of three British nationals for a serious offence, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780755445.743332
+  },
+  "859cac003f63b360f8e1285368da7799": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a celebrity appearance rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780755456.279191
+  },
+  "69d933943a91c11a3919417424e7ebb0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK politics and crime, involving the Leader of the Opposition calling for a formal review into a police investigation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780755465.110388
   }
 }
