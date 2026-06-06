@@ -6449,5 +6449,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1780743713.145519
+  },
+  "b698ee3538289beeee5be0b4c5e7aae0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing criminal proceedings and police charges related to a recent violent public disorder incident in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780748368.300368
+  },
+  "32d3272589c5bf295c3e9b5bec1442e5": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a major Premier League club chairman due to serious allegations is a significant national news story involving public interest and potential legal implications.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1780748379.927664
   }
 }
