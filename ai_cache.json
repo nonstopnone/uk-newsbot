@@ -6491,5 +6491,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1780755465.110388
+  },
+  "f544ccb7555a1cc43820fe7616bc28d9": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about an international tennis tournament featuring non-UK nationals; it does not meet the criteria for hard news relevant to the UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780761113.314513
+  },
+  "65ff5203ce591c3c23e08bce05b9ab10": {
+    "is_relevant": false,
+    "reasoning": "This is a sports reporting piece regarding a Formula 1 qualifying session, which falls under the excluded category of sports news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780761125.671513
+  },
+  "1c499022ad22fbb5b9ae56422f3118ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a racially-motivated arson attack in Northern Ireland, involving a police investigation and a serious crime impacting the local community.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780761137.195542
+  },
+  "5040081fd015e37e92068714ba21f576": {
+    "is_relevant": false,
+    "reasoning": "This is a local human interest and tragedy story rather than hard news of significant national importance or policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780761143.902627
   }
 }
