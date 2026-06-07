@@ -6610,5 +6610,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1780789580.860855
+  },
+  "24f507431e3ba2faebc64bbb4f527cae": {
+    "is_relevant": false,
+    "reasoning": "This is a summary of newspaper front pages rather than a report on a specific news event, which constitutes media analysis/roundup fluff rather than breaking news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780797628.545504
+  },
+  "42ff935e6e43c2b1af243b266290add9": {
+    "is_relevant": true,
+    "reasoning": "This report concerns government policy, national security, and parliamentary oversight, which are core topics for UK political and defence news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780797651.537806
+  },
+  "8d3c785551176a9433117457625fc9e8": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the England national football team's performance, which falls under the Sport category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1780797662.335918
   }
 }
