@@ -6673,5 +6673,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780833077.762288
+  },
+  "fb615598cd13c60eff8d5ab3d93d5b7c": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK international sporting event at Lord's, which is relevant content for the subreddit.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1780840757.926573
+  },
+  "21189bbeaf7dd7b5f04b920034837443": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial development involving major UK infrastructure and employment at the Port Talbot steelworks, which is a matter of clear national economic importance.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1780840776.029515
+  },
+  "2663de4b3531fbc2aa6c4658c2ecd0d9": {
+    "is_relevant": false,
+    "reasoning": "This is a corporate press release concerning a private company's internal hiring initiative rather than a significant economic policy shift or major news event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780840785.478776
+  },
+  "372a78e20f3df2e3b611ecdd04d21a04": {
+    "is_relevant": true,
+    "reasoning": "The article addresses systemic issues regarding access to NHS healthcare services and public infrastructure, which are core concerns for the UK public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780840805.071254
+  },
+  "ec0409470c942bec4f8a6f904f91637a": {
+    "is_relevant": true,
+    "reasoning": "This concerns active diplomatic efforts by the UK government regarding the welfare of British citizens detained abroad, which is a matter of significant national interest and foreign policy.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1780840823.750286
   }
 }
