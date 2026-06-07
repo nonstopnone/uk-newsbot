@@ -6708,5 +6708,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1780840823.750286
+  },
+  "e5517dbd6541d3063780442abf163628": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding event management and business impact for individual traders, which lacks the national significance required for a breaking UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780846726.31973
   }
 }
