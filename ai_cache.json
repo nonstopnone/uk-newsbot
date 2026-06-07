@@ -6736,5 +6736,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780851534.54798
+  },
+  "34793b8188a705f5c3103d41a99dbac2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political story involving a sitting UK MP and their conduct at a public protest, which is a matter of public interest and political controversy in Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780861745.799217
+  },
+  "f96f0db97cc13bffd6b223c954932ab0": {
+    "is_relevant": false,
+    "reasoning": "This is a report on international tennis results involving non-UK athletes, which does not meet the criteria for hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780861774.343625
   }
 }
