@@ -6764,5 +6764,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780867049.497469
+  },
+  "d5b902766fa9ea4d00768aafa95411bc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding failures in the NHS, a core institution of UK public life and a matter of direct public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780875993.941687
+  },
+  "ca2cb01eadae2e97a9153bf9c14cd78f": {
+    "is_relevant": false,
+    "reasoning": "This is a summary of newspaper front pages rather than original reporting, and the content focuses on foreign geopolitical events and non-UK sports news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780876015.952526
   }
 }
