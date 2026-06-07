@@ -6645,5 +6645,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780825935.758216
+  },
+  "3cbb6276b1bbc1384351277fae890e4b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government policy and legislative considerations regarding knife crime in Scotland, directly impacting public safety and the justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780833024.784298
+  },
+  "d1986ef7a246340a75e453bc4ec335c8": {
+    "is_relevant": true,
+    "reasoning": "This involves a direct diplomatic intervention by a senior UK government minister concerning UK crime, national immigration discourse, and UK-US relations.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780833035.245308
+  },
+  "c71651b71d7718d74d9d6edb2dfcddda": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a systemic failure in rural public transport infrastructure impacting NHS accessibility, which is a matter of significant public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780833056.340086
+  },
+  "676b34da177f30441e5b1ad4f63b4937": {
+    "is_relevant": false,
+    "reasoning": "This is a local human interest story about a specific business's trade difficulties, which lacks the national significance required for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780833077.762288
   }
 }
