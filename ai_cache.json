@@ -6631,5 +6631,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1780797662.335918
+  },
+  "9e60e9eb42ebe8261180a251560eba89": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK economic inactivity and regional unemployment, providing a detailed analysis of structural economic issues in Birmingham that reflect a broader national concern.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1780825921.714177
+  },
+  "5c329cca4eb5d302625d5802f6c6e608": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story concerning a historical event rather than breaking news, current affairs, or a significant policy update.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780825935.758216
   }
 }
