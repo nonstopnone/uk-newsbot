@@ -6750,5 +6750,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780861774.343625
+  },
+  "5e070597ad55bb1b0ff2ec65ae39c6e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding the unregulated fertility sector and risks to vulnerable women in the UK, involving warnings from the UK fertility regulator.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780867027.956493
+  },
+  "204cab6a6aaba7d36a8649a75b07fc00": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about an international tennis player winning a tournament in France, which does not meet the threshold for hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780867049.497469
   }
 }
