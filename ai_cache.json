@@ -6715,5 +6715,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780846726.31973
+  },
+  "8d63b2bf2f618b593da4251ad3966b88": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a cold case murder investigation and police arrest in the UK, which falls under serious crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780851514.027426
+  },
+  "8369d162fc6238ab69002e643bfb4bd3": {
+    "is_relevant": true,
+    "reasoning": "The article covers Formula 1 results involving high-profile British drivers Lewis Hamilton and George Russell, which constitutes a major sports news event relevant to the UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1780851522.261041
+  },
+  "2a64ae1b70f79f0e55e0954eaeddb278": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff piece about a delayed mail delivery; it lacks significant news value and does not impact UK public policy or national affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780851534.54798
   }
 }
