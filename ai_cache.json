@@ -6813,5 +6813,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780909983.281021
+  },
+  "fadcafab58ac5bf0b99ba08a7f26867b": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity entertainment/opinion piece regarding film casting preferences, which falls under lifestyle/culture commentary rather than hard news or significant UK policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780924685.778329
+  },
+  "39ec0db33fe5f70a4080e7966b312914": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a public inquiry into a major criminal case in the UK and subsequent claims of systemic failure, which is of significant public interest and legal importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780924695.7842
+  },
+  "1e8370b5a9503b0dd3180ad0b5903a4e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a fatal shooting in London, which falls directly under the category of serious UK crime and police activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780924704.164995
+  },
+  "940013fe6e9d2021edf10f1907dd8d82": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving modern slavery allegations and a breach of a court order in Scotland, which is of clear public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780924714.243754
+  },
+  "c09b5056ea7931bd8e2056511feefe32": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the actions of a UK Member of Parliament and involves a significant political controversy regarding policing and public order in Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780924736.259679
+  },
+  "abf970dc69f7f697e6c304fa50c6d3c5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political controversy involving a Westminster MP and the leader of a major Northern Irish political party, concerning public order and policing in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780924749.476002
+  },
+  "c9a8fd9ffcecb213ca4df022b56401c9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement by the Prime Minister concerning UK digital safety legislation and potential future regulation of major tech firms operating in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780924760.552056
+  },
+  "b023def1def324e9bb5ae0954b47a23b": {
+    "is_relevant": false,
+    "reasoning": "This is a personal interest feature article about a specific study and an individual's experience rather than hard news regarding UK sports results, policy, or significant national developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780924768.829669
   }
 }
