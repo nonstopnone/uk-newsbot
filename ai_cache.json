@@ -7002,5 +7002,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1780953804.242958
+  },
+  "a9ac5312210af1aa081161efd2b7cd05": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant diplomatic meeting involving the British monarch, the UK Prime Minister, and international leaders regarding the UK's ongoing commitment to the war in Ukraine.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1780959457.378393
+  },
+  "9932bcf27b448ae5093d976a40c81840": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the national education system and curriculum standards within the UK (Wales), directly impacting schools, teachers, and pupils.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780959466.709433
   }
 }
