@@ -153,3 +153,8 @@
 2026-06-08T09:13:06.775380+00:00|https://www.bbc.com/news/articles/c1m2mjxz7mmo|widow distressed by firms ninemonth delay to husbands pension|43fcfc0a146ccfea4febfdf7c81e51a9
 2026-06-08T13:19:29.447197+00:00|https://www.bbc.com/news/articles/cy8d932zl27o|nottingham attacks inquiry revealed miscarriage of justice victims mother says|39ec0db33fe5f70a4080e7966b312914
 2026-06-08T13:19:31.949714+00:00|https://www.bbc.com/news/articles/crlw8xle9rlo|woman 19 dies after gunshots heard at house|1e8370b5a9503b0dd3180ad0b5903a4e
+2026-06-08T16:58:42.811212+00:00|https://www.telegraph.co.uk/business/2026/06/08/oil-prices-ai-tech-shares-bubble-ftse-100-markets|wall street surges as iran halts strikes|f8bbe1263dc76db8d17834ed320b3e58
+2026-06-08T16:58:45.199191+00:00|https://www.bbc.com/news/articles/cddq2971qzlo|care worker who helped boss with child abuse jailed for 25 years|0db29b6f1cd6bdfb8547f1970b2da73e
+2026-06-08T16:58:47.517981+00:00|https://www.bbc.com/news/articles/cly7582n5yqo|man denies encouraging brother to race before fatal crash|669f8a528d9f1f015cf5db8e7e88535b
+2026-06-08T16:58:49.856776+00:00|https://news.sky.com/story/woman-19-shot-dead-at-finchley-home-13552017|woman 19 shot dead at north london home|911b6aa2b54c0fba8dd8c340089e355b
+2026-06-08T16:58:52.236489+00:00|https://www.telegraph.co.uk/football/2026/06/08/world-cup-2026-dates-format-tv-venue-tickets|world cup 2026 everything you need to know|57d03fedc0d4849194b4e8d53ae28de0

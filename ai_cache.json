@@ -6869,5 +6869,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780924768.829669
+  },
+  "f8bbe1263dc76db8d17834ed320b3e58": {
+    "is_relevant": true,
+    "reasoning": "The article discusses global market volatility, specifically oil prices and international tensions, which have a material impact on the UK economy, inflation, and energy costs.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1780937819.350452
+  },
+  "0db29b6f1cd6bdfb8547f1970b2da73e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving historical child abuse and judicial sentencing outcomes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780937827.954862
+  },
+  "669f8a528d9f1f015cf5db8e7e88535b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a live criminal trial in a UK court regarding a fatal road traffic collision, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780937856.937328
+  },
+  "7ca6ec38e2a38fe99072e910af999621": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a former prominent political leader in the UK (Northern Ireland), making it a major crime and legal story.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780937874.058751
+  },
+  "0cc98333d4e48ebb29ca9a340e22187b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant public disorder incident in the UK involving multiple arrests, guilty pleas, and injuries to police officers, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780937884.402745
+  },
+  "97291a9beeb5c9698a671c423fa6dbe2": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the arrest of individuals with direct links to the UK (Edinburgh) for an attempted murder investigation, which is a matter of serious crime and police procedure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780937893.674275
+  },
+  "911b6aa2b54c0fba8dd8c340089e355b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a violent crime and ongoing police investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780937907.795542
+  },
+  "f07776699a3b2ccb2f4acadaeddfd41e": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest consumer safety story regarding counterfeit toys and does not constitute major national hard news relevant to the broader UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780937922.396229
   }
 }
