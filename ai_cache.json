@@ -6778,5 +6778,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780876015.952526
+  },
+  "4d9a8b4d4a698ec59f461a55691e5184": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/personal advice piece rather than hard news; it does not meet the criteria for UK political, economic, or major social impact reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780892184.397474
   }
 }
