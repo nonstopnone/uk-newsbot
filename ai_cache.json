@@ -6925,5 +6925,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780937922.396229
+  },
+  "5b9a7a9e896667f9355a62590aec1a54": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial at a UK Crown Court involving serious allegations of coercive control and violence.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780946761.559314
+  },
+  "770ca867b6b15b9cd1ce51970f7eed59": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports disciplinary story involving high-profile UK athletes and national sporting bodies, meeting the criteria for UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1780946772.534542
+  },
+  "434693f79c542c33815349a3c67825ca": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the Welsh devolved education system and curriculum reform, which is a matter of clear public interest for the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780946783.621285
+  },
+  "6c8b43387efc7ad300c149fb393026c1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the sentencing of individuals for a major drug smuggling operation into the UK, falling under the category of serious crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780946792.640478
+  },
+  "7c990e9b9f5fba9ebb0ebb9ad4fc03ee": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal request for a government inquiry into a high-profile criminal case and potential policy implications regarding UK law, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780946814.28181
+  },
+  "8aa7c418ff466ad4670deb7f28652f60": {
+    "is_relevant": true,
+    "reasoning": "This involves a formal action directed at the Prime Minister and Number 10 Downing Street regarding a matter of public policy and victim advocacy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780946828.942337
+  },
+  "a258a2b6ee7410cfd3d4f3349d275326": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative news report regarding serious allegations of sexual misconduct against a prominent British public figure, which constitutes a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780946838.134107
+  },
+  "f39d75a17d335f1d92c6df6e57c8cef1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report involving a high-profile public figure in UK business and sport, detailing serious allegations of sexual misconduct and abuse of power.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780946852.317205
   }
 }
