@@ -6785,5 +6785,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780892184.397474
+  },
+  "335d5dd1d0b1e3d0e9e90e5772b66ee8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government policy announcement involving the Department for Education and statutory guidance affecting families nationwide.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780909954.704947
+  },
+  "43fcfc0a146ccfea4febfdf7c81e51a9": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a systemic failure in the administration of the UK civil service pension scheme affecting thousands of citizens, which is a matter of significant public interest and policy concern.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1780909966.279631
+  },
+  "94a024ca530a29c42b7a2343f1f4859d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK judicial sentencing and legal reform regarding child abuse cases, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780909974.610304
+  },
+  "21ce7c39e4afc822177d4f73547676b4": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on the electrification of transport in India and does not have a direct, material impact on the UK, nor does it concern UK policy or society.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780909983.281021
   }
 }
