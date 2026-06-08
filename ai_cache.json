@@ -6981,5 +6981,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780946852.317205
+  },
+  "b6f8e45c113404faa74e595e428e415a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant UK criminal court appeal regarding a fatal gross negligence manslaughter case, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780953785.618282
+  },
+  "a145f0966964740f49823b4c8db60c2c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving emergency services and major disruption to UK national rail infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1780953794.466295
+  },
+  "1ba31c22de8446df9fcb8d8bef814e0a": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant disciplinary matter involving the England cricket captain, which is a major sports news story in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1780953804.242958
   }
 }
