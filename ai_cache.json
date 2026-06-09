@@ -7275,5 +7275,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781032736.571987
+  },
+  "148160bf855c2763f5d7808750f5c68f": {
+    "is_relevant": true,
+    "reasoning": "This report details significant civil unrest and public order incidents occurring across multiple major Scottish cities in response to an international event, necessitating a police response and infrastructure closures.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781039980.813635
   }
 }

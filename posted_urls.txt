@@ -1,11 +1,3 @@
-2026-06-02T20:19:39.953667+00:00|https://www.bbc.com/news/articles/cq8pn9ng5zlo|henry nowak arrest footage raises serious questions for police pm says|24ec590076f994ff9d6f655e4c3f146b
-2026-06-02T20:19:42.319869+00:00|https://news.sky.com/story/missed-opportunity-as-government-rejects-call-for-mass-prostate-cancer-screening-13550201|missed opportunity as government rejects call for mass prostate cancer screening|b5eecbb3bb8606823c689cf8ea609558
-2026-06-02T20:19:44.741745+00:00|https://www.bbc.com/news/articles/ce3px70ngl1o|donaldson rape accuser says he apologised to her years later at a christian centre|8cfba237f4ecf7a0a7af37f6a50b5e26
-2026-06-02T20:19:47.012928+00:00|https://www.bbc.com/news/articles/clyp444zv1qo|difficult day for passengers due to tube strike|1c5cf31ce0adef3ac9a6d3e38a550cea
-2026-06-02T20:19:49.363955+00:00|https://news.sky.com/story/woman-tells-court-she-was-raped-by-ex-dup-leader-jeffrey-donaldson-while-at-school-13550210|woman tells court she was raped by exdup leader jeffrey donaldson while at school|7267d2b645e9250a6c5ef117e4dec360
-2026-06-02T20:19:51.776782+00:00|https://news.sky.com/story/actors-comedians-and-post-office-victim-among-those-honoured-by-the-king-13550194|actors comedians and post office victim among those honoured by the king|133bac3a2d33df5d473006138822ec63
-2026-06-02T20:19:54.151373+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/the-chagas-disease-time-bomb-in-latin-americas-cities|the chagas disease time bomb in latin americas cities|9c3f6074ed9ba868b5d0537e3faf0fb1
-2026-06-02T20:19:56.558572+00:00|https://www.telegraph.co.uk/football/2026/05/27/crystal-palace-vs-rayo-vallecano-score-conference-final|palace in wonderland glasner secures immortality as croydon conquers europe|d38f5712f206eae64ed9ff876b027e0c
 2026-06-02T21:52:43.041902+00:00|https://www.bbc.com/news/articles/c3e2lq58p87o|severely disabled people can now consent to care arrangements supreme court rules|fe4bd732c9687335b40fb265a237c409
 2026-06-02T21:52:45.338841+00:00|https://www.bbc.com/news/articles/cgmp0pxyze8o|murrell used fake invoices to cover up £400000 spending spree|3dbf83647e313665849f46a2ce33995e
 2026-06-02T21:52:47.631935+00:00|https://www.bbc.com/news/articles/c4g91jrl349o|more black men to benefit from prostate cancer screening trial|8e10cbebbd94d845f779d64a73270fb2
@@ -174,3 +166,5 @@
 2026-06-09T19:18:57.274514+00:00|https://www.bbc.com/news/articles/c992rvpyj99o|man 30 charged with attempted murder after knife attack in belfast|0ce56ab4b4692a52b63e550891661b97
 2026-06-09T19:18:59.775091+00:00|https://www.bbc.com/news/articles/c5yzwy055xdo|david sullivan banned from contact with west ham womens and youth teams since 2023|9eaac9a3de46cfa2cf1bc967be35f4e9
 2026-06-09T19:19:02.169492+00:00|https://news.sky.com/story/belfast-knife-attack-heres-what-we-know-so-far-13552388|belfast knife attack heres what we know so far|8f7c7f3b0eb2f1b14ec23e9205006073
+2026-06-09T21:19:41.827790+00:00|https://www.bbc.com/news/articles/crkv44yx7e5o|protests across scotland follow belfast knife attack|148160bf855c2763f5d7808750f5c68f
+2026-06-09T21:19:44.203968+00:00|https://www.bbc.com/news/articles/c982y5n0nlno|men jailed for violence at henry nowak police protest|cb03eb552fc4339d70a01fc000853223
