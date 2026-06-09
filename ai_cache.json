@@ -7037,5 +7037,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1780979870.210156
+  },
+  "176074687ff8b8f18990fd82d740287e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a stabbing in Belfast, which falls under UK regional security and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780993412.930602
+  },
+  "260f534981f5aedd56f75150098481e6": {
+    "is_relevant": false,
+    "reasoning": "This is a local human interest story about a house fire and does not constitute hard news of national significance to the UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780993424.843467
+  },
+  "13efe4adc8f1c7e85ee1ee9a6d41b7b0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a widespread rental fraud affecting students in London, which falls under crime and legal issues impacting the UK housing sector.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780993434.48953
+  },
+  "038340bbdf40250de1c3fadbb7016e9a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding human trafficking operations directly targeting the UK, which is a major matter of public interest and security.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1780993445.492526
+  },
+  "4cc94ea9220514f060770e7becb80b01": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning systemic abuse at a UK council-run care home and ongoing legal compensation claims, which is a matter of serious public interest and legal significance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780993453.843821
   }
 }
