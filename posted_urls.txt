@@ -170,3 +170,7 @@
 2026-06-09T00:12:10.849927+00:00|https://www.bbc.com/news/articles/c4gyel9n02zo|driving test booking rules tightened after thousands of no shows|07fffed6ea0d91b366c03f200b8a0acb
 2026-06-09T08:24:14.235336+00:00|https://www.bbc.com/news/articles/cy5vyqykpx5o|legal equality duty for public services should be scrapped says badenoch|2cfe0ade9f6fa02f469aff2911bd0fd3
 2026-06-09T08:24:16.520166+00:00|https://www.bbc.com/news/articles/cdejnjdg08eo|man taken to hospital with serious injuries after belfast stabbing|176074687ff8b8f18990fd82d740287e
+2026-06-09T11:42:01.778948+00:00|https://www.bbc.com/news/articles/cp8re26zl7do|carer who couldnt go on not guilty of mothers murder|5145a21254653ce7710c0e8c62a38288
+2026-06-09T11:42:04.111570+00:00|https://www.bbc.com/news/articles/c4gydjpdwy2o|teacher and two pupils stabbed in school attack|990586990367dc923f95e36fe7ab4f6c
+2026-06-09T11:42:06.457309+00:00|https://news.sky.com/story/girl-arrested-after-three-injured-in-school-knife-attack-13552252|girl arrested after three injured in school knife attack|ef7942c01b9d449bd90780e99b4f8c96
+2026-06-09T11:42:08.776678+00:00|https://news.sky.com/story/starmer-condemns-abhorrent-scenes-as-man-arrested-over-horrific-belfast-knife-attack-13552250|starmer condemns abhorrent scenes as man arrested over horrific belfast knife attack|b04f42d7cb00e0d5c8c30465e7edfb4b

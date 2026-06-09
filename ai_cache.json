@@ -7072,5 +7072,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780993453.843821
+  },
+  "5145a21254653ce7710c0e8c62a38288": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving a murder trial and subsequent manslaughter verdict at Bristol Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781005248.381719
+  },
+  "990586990367dc923f95e36fe7ab4f6c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a violent incident at a UK school and police involvement, which is of direct importance to the public.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781005257.167259
+  },
+  "e5bc813f27d8a7a2d19db64a14feba91": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder conviction and sentencing in a UK court, which is highly relevant to public interest and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781005267.710352
+  },
+  "a1b27a5e6c4880f7d3a0c27882afc56c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the first-of-its-kind sentencing under new sex-based harassment legislation in England and Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781005276.478086
+  },
+  "2bdf01abea199eb8221557b2ceea1ea5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major arson attack in London, which is a matter of clear public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781005290.430761
+  },
+  "de24e72e4327537be9813689adbb26d5": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the insolvency of a significant historic British manufacturing firm and the resulting loss of jobs, which is relevant to the UK economy and industrial landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781005300.533069
+  },
+  "ef7942c01b9d449bd90780e99b4f8c96": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving serious physical harm at a UK school, which is of major public interest and qualifies as hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781005312.536009
+  },
+  "b04f42d7cb00e0d5c8c30465e7edfb4b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident in the UK involving a statement from the Prime Minister.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781005321.092807
   }
 }
