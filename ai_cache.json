@@ -7128,5 +7128,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781005321.092807
+  },
+  "92a1e3ceb087d212e38f508f4d6c8eef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy shift in devolved government education affecting a major UK city's public infrastructure, which is a matter of public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781013995.363005
+  },
+  "b21d6a09fa955df198bc1fb9a6602d0a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime/legal and public safety incident involving a tragic loss of life in London, currently under police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781014004.635869
+  },
+  "d599759ed012639e55cad8c71b842fed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal precedent involving a first-of-its-kind prosecution under new legislation in England and Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781014013.937277
+  },
+  "877867e9508d9b4561440726db4e1289": {
+    "is_relevant": true,
+    "reasoning": "The story involves the Independent Football Regulator and government departments addressing serious allegations against a prominent UK public figure, constituting significant UK news regarding governance and institutional integrity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781014031.874931
+  },
+  "f02f357ae85345acd9fa11c8df99fcbe": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest animal story rather than hard news regarding UK politics, economy, or major public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781014047.283388
+  },
+  "cf9a8c4fb4b527d943c55bd454a3b3bb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report concerning a murder conviction and sentencing at a London court, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781014062.487524
+  },
+  "557fd09f5f7308fe1ed6ad51ab38ef85": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy and environmental decision regarding the final proposed coal mine in the UK, impacting national energy and environmental strategy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781014218.220949
+  },
+  "0a3c3fbfcccdcce9f9fe981e4565b1bc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving a school in the UK and active police intervention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781014232.31575
   }
 }
