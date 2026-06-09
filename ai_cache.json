@@ -7233,5 +7233,47 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781023867.193239
+  },
+  "0ce56ab4b4692a52b63e550891661b97": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving attempted murder in Northern Ireland, a part of the UK, which is a matter of public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781032685.162955
+  },
+  "c04b1a6111e7ce88eea74ca9d4621085": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about an individual medical case. It does not constitute hard news regarding UK policy, national systems, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781032693.679514
+  },
+  "9eaac9a3de46cfa2cf1bc967be35f4e9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving the safeguarding investigation and internal management of a major UK Premier League football club.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781032703.034449
+  },
+  "cb03eb552fc4339d70a01fc000853223": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the sentencing of individuals involved in violent civil disorder and attacks on police officers, which is a matter of public safety and legal significance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781032713.89946
+  },
+  "80a7e248452eb8ca3f92bae85c7f8b0c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security breach involving sensitive UK government departments in Westminster, directly impacting national security and political administration.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781032725.605926
+  },
+  "8f7c7f3b0eb2f1b14ec23e9205006073": {
+    "is_relevant": true,
+    "reasoning": "This is a significant violent crime incident occurring in a major UK city involving a police investigation and attempted murder arrest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781032736.571987
   }
 }

@@ -1,11 +1,3 @@
-2026-06-02T17:21:47.850770+00:00|https://www.bbc.com/news/articles/c9d3z7jg5j1o|henry nowak case reignites claims of unfair policing|c29df1169212dda4dfce51c30e62133a
-2026-06-02T17:21:50.276672+00:00|https://www.bbc.com/news/articles/crlpyw05l75o|murder victim told police i cant breathe while handcuffed|7bb06fc7c64e3e7f15f475bf77be5a6a
-2026-06-02T17:21:52.896435+00:00|https://www.bbc.com/news/articles/czx2j2l5k92o|tributes paid to boy 11 after body found in river|93bbff1edae39ce5407d8f66cff9198a
-2026-06-02T17:21:57.177867+00:00|https://news.sky.com/story/british-couple-jailed-in-iran-lose-appeal-family-says-13550152|british couple jailed in iran lose appeal family says|066b45c52ea3be8bbd018ac82139958b
-2026-06-02T17:22:00.078815+00:00|https://www.telegraph.co.uk/online-dating/dating-tips/how-to-find-love|how to find love 10 tips for achieving romantic fulfilment|b559c7e183a8d4f8dda105e57ab805b6
-2026-06-02T17:22:02.512554+00:00|https://news.sky.com/story/woman-hit-by-police-van-settles-claim-with-met-police-for-16313m-13550165|woman hit by police van settles claim with met police for £13m|29f8a7f2b1303b25b96bd27972c52859
-2026-06-02T17:22:05.105937+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/the-race-to-develop-a-new-ebola-vaccine|inside the race to develop a new ebola vaccine|c542f0d91afce2a938e24e60b886ad60
-2026-06-02T17:22:07.705251+00:00|https://news.sky.com/story/uk-weather-met-office-warns-of-increased-likelihood-of-summer-heatwave-13550119|met office warns of increased likelihood of summer heatwave|026d1da438dc20f7086ee6b6fdc94841
 2026-06-02T20:19:39.953667+00:00|https://www.bbc.com/news/articles/cq8pn9ng5zlo|henry nowak arrest footage raises serious questions for police pm says|24ec590076f994ff9d6f655e4c3f146b
 2026-06-02T20:19:42.319869+00:00|https://news.sky.com/story/missed-opportunity-as-government-rejects-call-for-mass-prostate-cancer-screening-13550201|missed opportunity as government rejects call for mass prostate cancer screening|b5eecbb3bb8606823c689cf8ea609558
 2026-06-02T20:19:44.741745+00:00|https://www.bbc.com/news/articles/ce3px70ngl1o|donaldson rape accuser says he apologised to her years later at a christian centre|8cfba237f4ecf7a0a7af37f6a50b5e26
@@ -179,3 +171,6 @@
 2026-06-09T14:10:37.970703+00:00|https://news.sky.com/story/girl-14-arrested-after-three-injured-in-school-knife-attack-13552252|girl 14 arrested after three injured in school knife attack|0a3c3fbfcccdcce9f9fe981e4565b1bc
 2026-06-09T16:51:09.313810+00:00|https://www.bbc.com/news/articles/ce95jlmnmkpo|lady donaldson told police sir jeffrey would not talk about alleged breast touching incident|3e5c23198fe121c94dfce1602085550c
 2026-06-09T16:51:11.764029+00:00|https://www.bbc.com/news/articles/c70yzlrekx7o|boy who died in lake could not swim inquest|2f23eb6fe106d5f852775d6a1aaf03d4
+2026-06-09T19:18:57.274514+00:00|https://www.bbc.com/news/articles/c992rvpyj99o|man 30 charged with attempted murder after knife attack in belfast|0ce56ab4b4692a52b63e550891661b97
+2026-06-09T19:18:59.775091+00:00|https://www.bbc.com/news/articles/c5yzwy055xdo|david sullivan banned from contact with west ham womens and youth teams since 2023|9eaac9a3de46cfa2cf1bc967be35f4e9
+2026-06-09T19:19:02.169492+00:00|https://news.sky.com/story/belfast-knife-attack-heres-what-we-know-so-far-13552388|belfast knife attack heres what we know so far|8f7c7f3b0eb2f1b14ec23e9205006073
