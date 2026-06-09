@@ -1,9 +1,3 @@
-2026-06-02T21:52:43.041902+00:00|https://www.bbc.com/news/articles/c3e2lq58p87o|severely disabled people can now consent to care arrangements supreme court rules|fe4bd732c9687335b40fb265a237c409
-2026-06-02T21:52:45.338841+00:00|https://www.bbc.com/news/articles/cgmp0pxyze8o|murrell used fake invoices to cover up £400000 spending spree|3dbf83647e313665849f46a2ce33995e
-2026-06-02T21:52:47.631935+00:00|https://www.bbc.com/news/articles/c4g91jrl349o|more black men to benefit from prostate cancer screening trial|8e10cbebbd94d845f779d64a73270fb2
-2026-06-02T22:31:58.723597+00:00|https://www.bbc.com/news/articles/cdxpwwzlvzno|we now know how peter murrell embezzled from the snp but not why|344b5b6535d6c4fa80626b5b0bbe770e
-2026-06-02T22:32:01.099119+00:00|https://www.bbc.com/news/articles/cz928z5e5pxo|tata steel staff steal £12m of tin from work and sell it for scrap|26e3d0c4063f455fd26c1156ec72fee4
-2026-06-02T22:32:03.567145+00:00|https://www.bbc.com/news/articles/cn4p9pv13kdo|five questions left unanswered by the mandelson files|b92dfd4d65a4d66db237897279b35bf9
 2026-06-03T00:16:03.858010+00:00|https://www.bbc.com/weather/articles/clypk7j0qqdo|more heatwaves likely as warmerthannormal summer forecast|4529241951ee4cc640e16ec59d8690f8
 2026-06-03T00:16:06.336602+00:00|https://www.bbc.com/news/articles/c3928m30v89o|three quarters of workers not on track for moderate pension income report suggests|c220e753170341ca9d132b21831394e3
 2026-06-03T00:16:08.721350+00:00|https://www.bbc.com/news/articles/cvgzrpe6mzjo|puffin and bumblebee among 18 creatures shortlisted to feature on banknotes|8420ee67b93d6836fa1de48e55834001
@@ -168,3 +162,4 @@
 2026-06-09T19:19:02.169492+00:00|https://news.sky.com/story/belfast-knife-attack-heres-what-we-know-so-far-13552388|belfast knife attack heres what we know so far|8f7c7f3b0eb2f1b14ec23e9205006073
 2026-06-09T21:19:41.827790+00:00|https://www.bbc.com/news/articles/crkv44yx7e5o|protests across scotland follow belfast knife attack|148160bf855c2763f5d7808750f5c68f
 2026-06-09T21:19:44.203968+00:00|https://www.bbc.com/news/articles/c982y5n0nlno|men jailed for violence at henry nowak police protest|cb03eb552fc4339d70a01fc000853223
+2026-06-09T22:59:46.655038+00:00|https://www.telegraph.co.uk/womens-football/2026/06/09/england-vs-ukraine-womens-world-cup-qualifier-live-score|england have work to do after being forced to settle for world cup playoffs|ae71021094337ebf4a7d187cb18e0fc2

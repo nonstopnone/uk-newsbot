@@ -7282,5 +7282,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781039980.813635
+  },
+  "ae71021094337ebf4a7d187cb18e0fc2": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the England women's national football team, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781045985.817092
   }
 }
