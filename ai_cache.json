@@ -7016,5 +7016,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1780959466.709433
+  },
+  "b54629ae92255fe5bd472ff1877fbb1b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and health issue currently being debated in Parliament, involving government ministers and calls for legislative regulation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1780963919.438432
+  },
+  "29fb3da2321fe31a92ed5207d9e78f55": {
+    "is_relevant": true,
+    "reasoning": "This report details significant safeguarding failures and criminal investigations within a religious institution in Belfast, which is a matter of public interest and legal concern within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1780963927.761327
   }
 }
