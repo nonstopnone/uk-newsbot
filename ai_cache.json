@@ -7184,5 +7184,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781014232.31575
+  },
+  "3e5c23198fe121c94dfce1602085550c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial involving a former senior UK political figure, which falls under the public interest of legal and criminal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781023772.048896
+  },
+  "2f23eb6fe106d5f852775d6a1aaf03d4": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK inquest into a death, which falls under the category of legal and judicial proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781023782.092658
+  },
+  "609c323cc43eaa1a4978c16be92b0c69": {
+    "is_relevant": false,
+    "reasoning": "This is a regional conservation and nature news story that does not meet the threshold of significant hard news regarding UK national politics, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781023794.551716
+  },
+  "b39c56a88187980b4e505086c971dfb5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local governance and infrastructure story involving major city center redevelopment and municipal planning processes in a devolved nation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781023802.609904
+  },
+  "498e65e57ebc36aae2918cf3cb4fffb2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant piece of UK national security legislation concerning domestic law and the regulation of foreign groups operating within the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781023820.801636
+  },
+  "1a449b4449f27f95018ad526cc75b556": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving property destruction and police investigation within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781023856.31765
+  },
+  "ee71ac12140faa03d35f47f08db91487": {
+    "is_relevant": true,
+    "reasoning": "The article concerns potential regulatory intervention by the Independent Football Regulator into a major Premier League club's ownership, which is a matter of significant public interest and governance.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781023867.193239
   }
 }
