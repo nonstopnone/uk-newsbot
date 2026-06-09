@@ -1,6 +1,3 @@
-2026-06-02T21:37:46.518423+00:00|https://www.bbc.com/news/articles/czx2l9nn79no?at_medium=RSS&at_campaign=rss|New Jersey alleges 'unsanitary' conditions at migrant facility rocked by protests|3f7370af494dc663ec7ba3f3e30d4637
-2026-06-02T21:37:53.885265+00:00|https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss|Mysteriously missing New Jersey congressman receives Trump endorsement|54ad5c9275b5d9dd0f2c46d8aff43aba
-2026-06-02T21:37:59.373688+00:00|https://www.bbc.com/news/articles/cyv2dpyz3dpo?at_medium=RSS&at_campaign=rss|Trump taps housing official Bill Pulte to be US spymaster|8270dfe0a92289268837ed7543153591
 2026-06-02T23:23:36.246985+00:00|https://www.bbc.com/news/articles/clypky99g0vo?at_medium=RSS&at_campaign=rss|White House Correspondents' Dinner rescheduled after shooting incident|c58db026e79d7365f8191cee69166352
 2026-06-03T07:05:37.437700+00:00|https://www.bbc.com/news/articles/c74dp1yk51vo?at_medium=RSS&at_campaign=rss|Los Angeles Mayor Karen Bass advances to run-off in race to run California's biggest city|376b2ed3889baa209eea3b500b3dd7e8
 2026-06-03T12:06:25.258544+00:00|https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss|US announces new tariffs over forced labour concerns|efb17a9fb221cfa411821cf385234091
@@ -37,3 +34,4 @@
 2026-06-09T21:24:55.065200+00:00|https://www.bbc.com/news/videos/cm2r08d27eko?at_medium=RSS&at_campaign=rss|Watch: Moment Trump is booed during the national anthem at NBA Finals|420eff04f89d2492ab0556b4b2e4c593
 2026-06-09T21:25:00.573866+00:00|https://www.bbc.com/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss|Nasa has named the Artemis III crew - what is their mission?|ef29d680163d54b4085f32befb346ba5
 2026-06-09T21:25:06.081092+00:00|https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss|Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis|405e54c75f51b795e720f7e1dc6802bb
+2026-06-09T23:00:24.315151+00:00|https://www.bbc.com/news/videos/cr5jm635q3yo?at_medium=RSS&at_campaign=rss|Watch: Is the US ready to host the 2026 World Cup?|8084ed05e37ff052a90ab80f60f5a04f
