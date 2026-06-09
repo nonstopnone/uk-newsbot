@@ -7030,5 +7030,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1780963927.761327
+  },
+  "b5b9576932bb214a62126f23fa64106b": {
+    "is_relevant": false,
+    "reasoning": "This is a daily press review summary that discusses broad geopolitical headlines and lifestyle commentary, rather than reporting specific, actionable hard news on UK-centric issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1780979870.210156
   }
 }
