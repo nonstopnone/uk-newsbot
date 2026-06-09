@@ -1,4 +1,3 @@
-2026-06-02T06:47:02.909806+00:00|https://www.bbc.com/news/articles/cg4p7e6301do?at_medium=RSS&at_campaign=rss|Six people killed in Iowa domestic dispute, police say|5519a68e7bd141d08aecc91a28cac89b
 2026-06-02T11:08:22.969882+00:00|https://www.bbc.com/news/articles/c775x852rk1o?at_medium=RSS&at_campaign=rss|He was a reality show villain. Can he be the mayor of one of America's largest cities?|80214b025efc5b538f9e0893bfece815
 2026-06-02T18:52:25.066024+00:00|https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss|Canada formally requests renewal of North American free trade pact|03db6c93ddb4d13f7bcade29662f0da0
 2026-06-02T21:37:46.518423+00:00|https://www.bbc.com/news/articles/czx2l9nn79no?at_medium=RSS&at_campaign=rss|New Jersey alleges 'unsanitary' conditions at migrant facility rocked by protests|3f7370af494dc663ec7ba3f3e30d4637
@@ -29,3 +28,6 @@
 2026-06-08T12:04:18.869146+00:00|https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss|Knicks' long-awaited NBA run electrifies NYC, with Trump set to attend key game|8b4655aa8317666b27f9e9bdbd5fa494
 2026-06-09T05:55:26.589653+00:00|https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss|Trump booed in New York as he becomes first US president to attend NBA Finals|69ce9e9b55df7892060a5c634ccca042
 2026-06-09T05:55:32.007280+00:00|https://news.sky.com/story/is-trumps-america-already-ruining-the-world-cup-13552151|Is Trump's America already ruining the World Cup?|3fcacc82c14b18bad55427415677137d
+2026-06-09T09:24:17.113152+00:00|https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss|Wembanyama stars as Spurs trim Knicks' Finals lead|7ada4540c2704446d4521913ad4736b8
+2026-06-09T09:24:22.567529+00:00|https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss|Somali referee Artan barred from entering US|bcd541fc07b975ec2b88d815dd4f87c9
+2026-06-09T09:24:28.017263+00:00|https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss|US adds BYD to list of firms with alleged Chinese military ties|bf19a68954563e723047f1ecc7a7deff
