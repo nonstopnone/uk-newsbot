@@ -7408,5 +7408,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781118959.941393
+  },
+  "1ff1c97da36e49267f0609c8475e2a3d": {
+    "is_relevant": false,
+    "reasoning": "This is an international humanitarian report focused on global food insecurity and conflicts in foreign regions; it does not materially affect the UK or constitute domestic UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781127105.270658
   }
 }
