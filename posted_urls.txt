@@ -1,10 +1,3 @@
-2026-06-03T10:15:34.984923+00:00|https://www.bbc.com/news/articles/ce3pdv1gl41o|royal navy helicopter crashes into field|8ad83c9e97dabab2bb94e1a343012c90
-2026-06-03T10:15:37.485021+00:00|https://www.bbc.com/news/articles/czd29nm161mo|two arrests as 11 officers hurt in nowak protests|e697838e0d0f49306da91d5ce994f573
-2026-06-03T10:15:39.855862+00:00|https://www.bbc.com/news/articles/cze27lpjnr6o|villagers cannot go home for two months during ground movement probe|8351216a355f70af55d867af8d7e919d
-2026-06-03T10:15:42.207863+00:00|https://news.sky.com/story/google-search-given-nine-months-to-implement-uk-conduct-requirement-13550313|google search facing uk conduct requirement|1b65c586ec5ea37fa4c2585b0f4056c4
-2026-06-03T10:25:36.686325+00:00|https://www.bbc.com/news/articles/czr2dz6m0x3o|i waited six years for a knee operation you begin to think noone cares|7e8b06ca7dfda0320dc2538ac7cad698
-2026-06-03T10:25:38.996627+00:00|https://www.bbc.com/news/articles/c04200dvel7o|police sent personal details to the wrong person says alleged al fayed victim|60bc413bb4414096345293301979bde6
-2026-06-03T10:25:41.389964+00:00|https://www.bbc.com/news/articles/ckgpqqv9xl5o|postman jailed for £200k illegal sport streaming business|51660d13a6637a87a41752d8f869abca
 2026-06-03T15:05:51.565686+00:00|https://www.bbc.com/news/articles/cvgz23p8117o|pm accuses farage of exploiting nowak case and denies twotier policing claim|50d1c79526a558072ab93497334014c1
 2026-06-03T15:05:53.955235+00:00|https://www.bbc.com/news/articles/cx21zknz67vo|councillor told to rearrange cancer appointment to attend a budget meeting quits labour|bf2cc406ff9e7cafa3d323144f8bb291
 2026-06-03T15:05:56.245310+00:00|https://www.bbc.com/news/articles/c5yr1penq56o|phone signal on trains not good enough most of the time research says|9cad2637d9751b435cf752f8ffce712f
@@ -155,3 +148,6 @@
 2026-06-10T05:00:32.024781+00:00|https://www.bbc.com/news/videos/c5yzpg514v0o|watch residents flee as cars and houses burn in belfast|ab6529ce6a9a0bc76ef78578a1183a24
 2026-06-10T05:00:34.521966+00:00|https://www.bbc.com/news/articles/cqj1rkqqrgro|illegal minimarts to shut for up to 12 months under law change prompted by bbc|93ec9c528627b0a412ab0f7f0b1dc9d1
 2026-06-10T08:58:55.130928+00:00|https://www.bbc.com/news/articles/c3020v06q2no|harbouring ambition voters hopes ahead of aberdeen south byelection|34195a2d9b022d7fd6b2d99480b0521e
+2026-06-10T12:34:12.118157+00:00|https://www.bbc.com/news/articles/cr5jme6ld54o|three arrested over glasgow disorder and racist assaults after belfast knife attack|1d0764bd7dd02154a29ce4a78a5d0a2b
+2026-06-10T12:34:14.540238+00:00|https://www.bbc.com/news/articles/c78k2z9d4e4o|my wifes unadoptable baby was left to die at unmarried mothers home|29054cea026f9aa7b8ca3c6d566ccbd3
+2026-06-10T12:34:17.144449+00:00|https://news.sky.com/story/prince-william-to-highlight-how-technology-could-help-prevent-homelessness-13552597|prince william tells tech industry it could help prevent homelessness|be11de21297570373ba7ab1be0750812

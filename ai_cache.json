@@ -7303,5 +7303,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781067631.400533
+  },
+  "29054cea026f9aa7b8ca3c6d566ccbd3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding historical systemic abuse and institutional failure within a UK maternity home, which is a matter of substantial public interest and legal historical record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781094830.980714
+  },
+  "417aaa7a6ca799883970534ec0cc02d7": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story concerning a private rescue incident; it does not meet the criteria for hard news, policy impact, or significant national public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781094840.157856
+  },
+  "be11de21297570373ba7ab1be0750812": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a major initiative by a senior member of the Royal Family addressing a significant domestic social policy issue.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781094851.49205
   }
 }
