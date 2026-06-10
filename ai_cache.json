@@ -7289,5 +7289,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781045985.817092
+  },
+  "ab6529ce6a9a0bc76ef78578a1183a24": {
+    "is_relevant": true,
+    "reasoning": "This report details significant civil unrest and serious criminal activity in Belfast, which constitutes a major security and public safety issue within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781067563.525484
+  },
+  "46bcc444a8226d30087b15aea9d680a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK social policy and housing statistics, highlighting a major discrepancy in how government data accounts for homelessness in England.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781067631.400533
   }
 }
