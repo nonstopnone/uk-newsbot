@@ -7415,5 +7415,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781127105.270658
+  },
+  "07977c66b253e79b0c1313a199c471e6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sporting event involving the Scottish national team and its supporters, falling under the remit of UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781133305.925618
+  },
+  "689b81c52bee8ead5af7a9e34433a187": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story concerning health awareness and entertainment, which does not meet the criteria for hard news or significant UK policy coverage.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781133318.375737
   }
 }
