@@ -1,6 +1,3 @@
-2026-06-03T17:14:02.100083+00:00|https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss|Man shot dead by FBI after taking hostages at California bank|bbf90ba3deac0fd54d93ef8b1859301e
-2026-06-03T17:14:07.599114+00:00|https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss|Trump-backed candidate in Iowa loses primary|821961c56e788355a5c3e4576a1c96ac
-2026-06-03T17:14:13.146429+00:00|https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss|Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count|8ce0d24b1a35698d12bfa6dbc8ff8497
 2026-06-03T20:27:06.530668+00:00|https://www.bbc.com/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss|How is America celebrating its 250th birthday?|b1c8a7368c683ce223687c32017d8850
 2026-06-03T20:27:12.119321+00:00|https://news.sky.com/story/actor-shia-labeouf-pleads-guilty-to-simple-battery-after-throwing-punches-during-mardi-gras-festival-13550540|Shia LaBeouf pleads guilty to battery|e6dbd942c15efd8962cbf46960918df0
 2026-06-03T20:27:17.639568+00:00|https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&at_campaign=rss|From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries|71e4ddb40e070f307459e1a03040bc68
@@ -38,3 +35,5 @@
 2026-06-10T16:06:55.591325+00:00|https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss|US inflation surges to three-year high of 4.2%|d77ad86711c8710502f48915dd5ab4d7
 2026-06-10T16:07:01.318863+00:00|https://news.sky.com/story/americans-are-paying-a-growing-financial-price-for-iran-war-13552690|Americans are paying a growing financial price for Iran war|79f0b299ec518e179e4b4afef2a0c0da
 2026-06-10T16:07:06.802562+00:00|https://www.bbc.com/news/articles/crr892qp255o?at_medium=RSS&at_campaign=rss|Three questions Bill Gates could face as he testifies to Congress on Epstein|f81d52f887ad31748d4f4bfd7f8fae91
+2026-06-10T18:40:17.576984+00:00|https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss|Trump: 'I love the inflation'|f35b2de6974855bd9790d6937982a27a
+2026-06-10T18:40:23.193579+00:00|https://www.bbc.com/news/articles/cpq3dyd182wo?at_medium=RSS&at_campaign=rss|New York to keep security tight for NBA finals game between Knicks and Spurs|e3e6a5785e8f146860faaf8bd1c28cef
