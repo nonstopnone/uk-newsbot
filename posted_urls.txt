@@ -1,8 +1,3 @@
-2026-06-03T18:57:30.646063+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/ebola-warning-notices-to-be-put-up-at-airports|ebola warning notices to be put up at airports|81596934a7930b4ff4e68b29f2999e4f
-2026-06-03T18:57:33.047058+00:00|https://news.sky.com/story/pm-leads-tributes-to-former-mi6-chief-sir-alex-younger-13550529|a hrefhttpsnewsskycomstorypoliticslatestkeirstarmerpetermandelsonfilesdefenceinvestmentkemibadenoch12593360postid11807132liveblogbodysir alex younger former head of mi6 diesa|d5ee8994493f492098d20ef73983516b
-2026-06-03T18:57:35.440651+00:00|https://www.bbc.com/news/articles/c9we9djzdkqo|scottish government found in contempt over salmond files|fb3894af6f237963eca478f8d5aefadd
-2026-06-03T18:57:37.996718+00:00|https://www.bbc.com/news/articles/c9d37gdxp7xo|lloyds halifax and bank of scotland back after online banking outage|b9c5fd524b5f060c2f84077b02d20309
-2026-06-03T18:57:40.469560+00:00|https://www.bbc.com/news/articles/cm2pjk8ggrdo|norway teen was in uk to undertake a hit court|0a19d3499ae75b48fa155b9008a7bb08
 2026-06-03T21:04:53.844321+00:00|https://www.bbc.com/news/articles/crlpg54wgpxo|police chief apologises to henry nowaks family over handcuffing and arrest|d7e26c9824e58cfc0882d13d183f6323
 2026-06-03T21:04:56.416264+00:00|https://www.bbc.com/news/articles/cx210nvyv2qo|henry nowaks death raises more questions about uk policing and race|01f0a43a4be7cae01cb03fb59651bdde
 2026-06-03T21:04:58.885287+00:00|https://www.bbc.com/news/articles/c232jg2pz2po|british soldier killed in iraq training exercise was devoted family man|95bcd7abbbcbdf7f6a76037facce01c3
@@ -150,3 +145,5 @@
 2026-06-10T16:28:02.041860+00:00|https://www.bbc.com/news/articles/ckg0lkp042zo|students data taken in major university cyberattack|70091d958e2e8b2a118510e0ed045602
 2026-06-10T16:28:04.417452+00:00|https://www.telegraph.co.uk/football/2026/06/10/world-cup-2026-dates-format-tv-venue-tickets|world cup 2026 all the key facts in one place|83fc83b96c368bd018e6d239a6149072
 2026-06-10T16:28:06.750725+00:00|https://news.sky.com/story/british-tourist-died-after-falling-into-venice-canal-inquest-hears-13552691|british tourist died after falling into venice canal inquest hears|5f9e83863d1eb21c135f3322ee7f21d7
+2026-06-10T19:16:01.206785+00:00|https://www.bbc.com/news/articles/cevl9j9y8dmo|ill never get over watching my home burn belfast residents reel after night of unrest|12e447a406a2162b48820d71e5510f0d
+2026-06-10T19:16:03.790563+00:00|https://www.bbc.com/news/articles/ckg5zxng4lyo|sara sharifs siblings to stay in pakistan|b2706db7d401900d09fee22ac897da09

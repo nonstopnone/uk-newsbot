@@ -7366,5 +7366,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781108879.115073
+  },
+  "12e447a406a2162b48820d71e5510f0d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on civil unrest and public safety in a UK city (Belfast), which qualifies as hard news regarding crime and social order.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781118900.918834
+  },
+  "4d71b7212674ba2587093269d4c1a63c": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on a global humanitarian crisis without demonstrating a direct or material impact on the UK, and it functions as a global reporting feature rather than domestic news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781118912.261695
+  },
+  "9999c6cd7dd83aaa34a2d0ad1e3c6f3f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from a government-appointed official regarding national security, immigration policy, and civil unrest in a devolved nation, which is highly relevant to UK public discourse.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1781118922.291604
+  },
+  "5bc22c7e9780e2a90d77f72f558e569f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving an alleged international contract killing plot and firearms offenses within the UK, which falls under core hard news categories.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781118937.159571
+  },
+  "272ba11b79a23f04711d7848b99a8a52": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and safety issue involving a formal coroner's report and potential policy changes within a major UK sporting institution, which has direct public interest and safety implications.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781118948.337319
+  },
+  "944dd51093141b12e44b2a778ed11d69": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and environmental dispute involving a local council and a major UK business that drew national attention and public outcry.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781118959.941393
   }
 }
