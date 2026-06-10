@@ -1,8 +1,3 @@
-2026-06-03T15:05:51.565686+00:00|https://www.bbc.com/news/articles/cvgz23p8117o|pm accuses farage of exploiting nowak case and denies twotier policing claim|50d1c79526a558072ab93497334014c1
-2026-06-03T15:05:53.955235+00:00|https://www.bbc.com/news/articles/cx21zknz67vo|councillor told to rearrange cancer appointment to attend a budget meeting quits labour|bf2cc406ff9e7cafa3d323144f8bb291
-2026-06-03T15:05:56.245310+00:00|https://www.bbc.com/news/articles/c5yr1penq56o|phone signal on trains not good enough most of the time research says|9cad2637d9751b435cf752f8ffce712f
-2026-06-03T15:06:00.758354+00:00|https://news.sky.com/story/former-victims-minister-urges-pm-to-meet-epstein-survivors-after-latest-mandelson-files-release-13550357|former victims minister urges pm to meet epstein survivors|437e2b12258390448db7b4bda9f50507
-2026-06-03T15:06:03.084455+00:00|https://news.sky.com/story/norwegian-teen-accused-of-flying-to-uk-on-crazy-hitman-job-for-gang-used-by-iran-13550337|norwegian teen accused of flying to uk on crazy hitman job for gang used by iran|231218785b648809355cfaa0b2d7cec2
 2026-06-03T18:57:30.646063+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/ebola-warning-notices-to-be-put-up-at-airports|ebola warning notices to be put up at airports|81596934a7930b4ff4e68b29f2999e4f
 2026-06-03T18:57:33.047058+00:00|https://news.sky.com/story/pm-leads-tributes-to-former-mi6-chief-sir-alex-younger-13550529|a hrefhttpsnewsskycomstorypoliticslatestkeirstarmerpetermandelsonfilesdefenceinvestmentkemibadenoch12593360postid11807132liveblogbodysir alex younger former head of mi6 diesa|d5ee8994493f492098d20ef73983516b
 2026-06-03T18:57:35.440651+00:00|https://www.bbc.com/news/articles/c9we9djzdkqo|scottish government found in contempt over salmond files|fb3894af6f237963eca478f8d5aefadd
@@ -151,3 +146,7 @@
 2026-06-10T12:34:12.118157+00:00|https://www.bbc.com/news/articles/cr5jme6ld54o|three arrested over glasgow disorder and racist assaults after belfast knife attack|1d0764bd7dd02154a29ce4a78a5d0a2b
 2026-06-10T12:34:14.540238+00:00|https://www.bbc.com/news/articles/c78k2z9d4e4o|my wifes unadoptable baby was left to die at unmarried mothers home|29054cea026f9aa7b8ca3c6d566ccbd3
 2026-06-10T12:34:17.144449+00:00|https://news.sky.com/story/prince-william-to-highlight-how-technology-could-help-prevent-homelessness-13552597|prince william tells tech industry it could help prevent homelessness|be11de21297570373ba7ab1be0750812
+2026-06-10T16:27:59.735267+00:00|https://www.bbc.com/news/articles/cwye9v0dy3yo|five jailed for violence at henry nowak police protest|30b37962a5f8543c85bebf35f503f829
+2026-06-10T16:28:02.041860+00:00|https://www.bbc.com/news/articles/ckg0lkp042zo|students data taken in major university cyberattack|70091d958e2e8b2a118510e0ed045602
+2026-06-10T16:28:04.417452+00:00|https://www.telegraph.co.uk/football/2026/06/10/world-cup-2026-dates-format-tv-venue-tickets|world cup 2026 all the key facts in one place|83fc83b96c368bd018e6d239a6149072
+2026-06-10T16:28:06.750725+00:00|https://news.sky.com/story/british-tourist-died-after-falling-into-venice-canal-inquest-hears-13552691|british tourist died after falling into venice canal inquest hears|5f9e83863d1eb21c135f3322ee7f21d7

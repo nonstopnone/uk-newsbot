@@ -7324,5 +7324,47 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1781094851.49205
+  },
+  "30b37962a5f8543c85bebf35f503f829": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the sentencing of individuals for violent disorder, which is a matter of public interest and legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781108827.565875
+  },
+  "70091d958e2e8b2a118510e0ed045602": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a major UK institution and the potential theft of sensitive personal and financial data, which falls under UK crime and security concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781108838.492696
+  },
+  "3e6eda57160d0a6bf77ae47f9d32ecd2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related security incident involving an escaped prisoner and an active manhunt in a London borough, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781108848.870141
+  },
+  "478768f48e8b6abea5f071c7c38237d2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy shift by a devolved Welsh authority that directly impacts public land usage, local infrastructure, and tourism in a major UK national park.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781108859.029221
+  },
+  "6e24f1ce7e7af67ce06561e0e931e684": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the first sentencing under new UK legislation regarding illegal immigration and border security, which is a matter of significant public interest and policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1781108868.792892
+  },
+  "5f9e83863d1eb21c135f3322ee7f21d7": {
+    "is_relevant": true,
+    "reasoning": "The article reports on an inquest into the death of a British national, which falls under the category of legal proceedings and coroner reports relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781108879.115073
   }
 }
