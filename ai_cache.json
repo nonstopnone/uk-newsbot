@@ -7656,5 +7656,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781211706.474493
+  },
+  "1002d9772f14159dfdc1876a279bf422": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and event coverage, which falls under sports journalism rather than hard UK news as defined by the subreddit criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781218790.105395
+  },
+  "931e72f96fde6db97730d40034e01e11": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story focusing on a specific individual's medical journey, which does not constitute hard news regarding UK policy, national health infrastructure, or broader socio-political impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781218798.498529
+  },
+  "440642a1ec6b0543179dca454d890718": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/human interest piece focused on sports fans travelling abroad; it does not constitute hard news or a significant sporting result.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781218809.400403
+  },
+  "c56cb7d54b0c5c791b8a62cb9f23b93e": {
+    "is_relevant": true,
+    "reasoning": "The article reports on civil unrest, police deployment, and security concerns within a part of the United Kingdom, which falls under the category of public order and security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781218820.811092
+  },
+  "0385a6ae4804b64483d231286988b6e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving convictions in a UK court regarding illegal arms trafficking, which falls directly under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781218829.931416
+  },
+  "162a9605b12340124f71a1f1faebf087": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving multiple victims and counter-terrorism police involvement in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781218840.044124
   }
 }
