@@ -7642,5 +7642,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781202344.179458
+  },
+  "234c32947df2998352c2e02f6d8a34ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding safeguarding investigations into a prominent UK football figure and potential systemic failures at a major public stadium, constituting serious news of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781211699.090208
+  },
+  "2814596a40433084d29b4412966f1a6d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving counter-terrorism police intervention at a UK school, which is a matter of urgent public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781211706.474493
   }
 }
