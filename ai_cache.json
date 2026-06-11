@@ -4529,7 +4529,10 @@
   },
   "c81829f9846941fb26841b506d861cae": {
     "is_relevant": false,
-    "timestamp": 1774682155.65683
+    "reasoning": "This is a lifestyle food and recipe article, which is explicitly excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781189942.019282
   },
   "a01cc7feae9ec9e63b43f3447b879386": {
     "is_relevant": false,
@@ -7492,5 +7495,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781176452.020124
+  },
+  "7010a30fc00fd787015da7e667adb593": {
+    "is_relevant": false,
+    "reasoning": "This is a sports betting and tips guide, which falls under the category of sports previews/lifestyle content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781189885.575321
+  },
+  "f77b2041c6d6b41791a75782915ee0e4": {
+    "is_relevant": true,
+    "reasoning": "The article reports on significant civil disorder in Belfast and the resulting cancellation of public events, which is a matter of clear UK security and public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781189896.64173
+  },
+  "79838a5a893be1337247101e39f92742": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government administrative performance, asylum processing figures, and the overall caseload of the UK immigration system.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1781189908.17171
+  },
+  "09349547a462aa832b7fd2e55a93dda1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case resulting in a major sentencing at a UK crown court, falling squarely under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781189918.163045
+  },
+  "60e916e2be8222cead7d59e73a9c2bd8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a fatal road traffic incident and subsequent court verdict.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781189928.245055
+  },
+  "db09068f7b4314b5dc66b0c4edb490cc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial involving an alleged assassination plot on UK soil, falling directly under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781189953.104097
+  },
+  "c94845f520bc355d1684c20cf09fc929": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy initiative by the Metropolitan Police regarding crime prevention and public safety within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781189962.085236
+  },
+  "ce426f21b17a349bf6a7c625504a05b0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on legal proceedings involving high-profile UK public figures, which falls under Crime & Legal reporting in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781189970.490811
   }
 }
