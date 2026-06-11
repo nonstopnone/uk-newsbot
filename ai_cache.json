@@ -7457,5 +7457,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781159341.709982
+  },
+  "99e506d3360e6763bd40415df9510b09": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a serious criminal conviction within the UK justice system involving an asylum seeker.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781176410.521932
+  },
+  "a1481f99399ab897553001a55eca9c55": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local government policy failure involving public funds and legal proceedings within a UK devolved nation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781176422.17664
+  },
+  "420c9cb16a4563f33d15676f5a45874b": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice guide/lifestyle article rather than hard news, despite citing general crime statistics as a framing device for the tips.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781176430.979417
+  },
+  "cca58bcc23a1b8a0a9e4313ba3e6bb76": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the state of the NHS in England, directly addressing a critical issue in public service and health infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781176442.395016
+  },
+  "42fb8147747d935631fd404431fcb88d": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the death of a British national abroad and the active campaign by her UK-based family for a legal review, which is a matter of significant public interest and consular concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781176452.020124
   }
 }
