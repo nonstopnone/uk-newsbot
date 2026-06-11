@@ -7429,5 +7429,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781133318.375737
+  },
+  "6a130308a33e6e732c3ad71b5d10c04d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding UK government defence spending and policy, which is of direct relevance to national security and politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781142200.535674
+  },
+  "dbb822ce248120d66ed57a00bd7469f3": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the England men's football team, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781142211.211242
   }
 }
