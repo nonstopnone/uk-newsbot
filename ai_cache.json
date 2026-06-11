@@ -7443,5 +7443,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781142211.211242
+  },
+  "92204bae9a23eece3a85cc2301162cb6": {
+    "is_relevant": true,
+    "reasoning": "The UK's competition watchdog is launching an investigation into consumer practices, which is a matter of significant economic and regulatory interest for the British public.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781159333.054816
+  },
+  "05dedf89bf17e1c95571d724f2c7c6e1": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story about a reality TV contestant's personal health journey, which does not constitute hard news or a material impact on UK public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781159341.709982
   }
 }

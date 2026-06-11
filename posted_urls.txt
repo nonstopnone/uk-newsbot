@@ -1,8 +1,3 @@
-2026-06-04T02:06:50.112431+00:00|https://www.bbc.com/news/articles/cpvp9x48jv7o|the papers top cop sorry and prince of pubs|60e74a8f40bc62a57370b4bc85f1c990
-2026-06-04T02:06:52.569937+00:00|https://news.sky.com/story/new-ovarian-cancer-treatment-approved-for-nhs-the-first-for-20-years-13550608|nhs approves first new ovarian cancer treatment for 20 years|c635719c7606788509314a920369bbe0
-2026-06-04T02:06:54.937343+00:00|https://www.bbc.com/news/articles/cn0plkd4wdno|nhs staff should be banned from wearing propalestinian badges report recommends|c82ccf220688b959f97e43074040bc73
-2026-06-04T02:06:57.371973+00:00|https://news.sky.com/story/prince-william160i-love-pubs-we-must-protect-them-13550605|prince william i love pubs|515e6147b8c5a2b95322446c2d727d4b
-2026-06-04T02:06:59.791004+00:00|https://www.bbc.com/news/articles/c62xpv34d9do|mp sues musks xai after deepfake bikini picture|a18c6acd6d616fef64307e93be120448
 2026-06-04T06:57:15.174515+00:00|https://www.bbc.com/news/articles/cwy201wge44o|former mi6 chief sir alex younger dies aged 62|70ae7980e83a7c124b24e41c48cfccb4
 2026-06-04T06:57:17.646903+00:00|https://www.bbc.com/news/articles/cy826zjxdgvo|tata steel fire turns sky black as people told to stay indoors|0b65612295da444a146fd7ecbac9399f
 2026-06-04T06:57:20.114518+00:00|https://www.bbc.com/news/articles/c1j26e9xw9go|staff say maternity ward is unsafe as inspectors criticise delays|353f49dafee772b47a07ada09d4ce607
@@ -147,3 +142,6 @@
 2026-06-10T23:15:21.208845+00:00|https://www.bbc.com/news/articles/c1jyd680yrgo|scotland fans arrive in the us as world cup anticipation builds|07977c66b253e79b0c1313a199c471e6
 2026-06-11T01:43:32.099828+00:00|https://news.sky.com/story/military-chief-writes-to-pm-in-unusual-move-as-hopes-of-major-announcement-this-week-dashed-13552902|military chief writes to pm in unusual move as hopes of major announcement this week dashed|6a130308a33e6e732c3ad71b5d10c04d
 2026-06-11T01:43:34.505798+00:00|https://www.telegraph.co.uk/football/2026/06/10/england-vs-costa-rica-live-score-latest-world-cup-warm-up|gordon and bellingham shine as englands attack clicks into gear|dbb822ce248120d66ed57a00bd7469f3
+2026-06-11T06:29:03.133592+00:00|https://news.sky.com/story/ryanair-investigated-over-charging-parents-to-sit-with-their-children-13552923|ryanair investigated over charging parents to sit with their children|92204bae9a23eece3a85cc2301162cb6
+2026-06-11T06:29:05.494673+00:00|https://www.bbc.com/news/articles/ckg4dey905yo|met police calls on tech firms to make stolen phones unusable|e88875bfedcec5017d4f937395ed1c52
+2026-06-11T06:29:07.798314+00:00|https://www.bbc.com/news/articles/cn0vd92kyllo|public services warning as councils face £530m budget shortfall|c407bea9bafa8a528965d35ef3cec377
