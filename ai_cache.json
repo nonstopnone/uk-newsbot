@@ -7551,5 +7551,96 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781189970.490811
+  },
+  "e40341f83a220e244ceb0664af5c139e": {
+    "is_relevant": false,
+    "reasoning": "This is a local planning dispute regarding a supermarket development, which constitutes local interest rather than national UK hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781202219.944244
+  },
+  "83b972919a84c313be8fb0e67d4e22ea": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting event involving a high-profile British athlete.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781202228.285862
+  },
+  "a507bf255beb2b98d6717506a8c2cb94": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK domestic policy story regarding the Home Office's management of asylum seeker accommodation and public safety.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1781202239.414499
+  },
+  "38475de9cb24c55f1041f05aea0fd464": {
+    "is_relevant": true,
+    "reasoning": "This concerns the ongoing criminal trial of a prominent former political leader in the UK (Northern Ireland), which is a matter of significant public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781202249.043479
+  },
+  "0d54f0751cc9458bd3e68de654a53eb8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving multiple convictions at Sheffield Crown Court, raising broader concerns about local community safety and the regulation of high street businesses.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781202258.935152
+  },
+  "969d9a0e18e339fe05f4e17cc0fc025d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal trial and conviction in a Scottish court, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781202269.224748
+  },
+  "304ba3e78119e806095945b47a850857": {
+    "is_relevant": true,
+    "reasoning": "The article reports on sentencing at Southampton Crown Court regarding violent disorder against police officers, which is a matter of significant public interest and legal record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781202278.129985
+  },
+  "6c2f114c39ad5c0c2e3bdeaa87669658": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a personal relationship and social media trends, which does not constitute hard news or meet the subreddit's criteria for relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781202289.346792
+  },
+  "0d186f8a7c59372aaba7ca78a4628486": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a regional health crisis in the Congo that does not currently involve the UK, affect UK policy, or impact UK citizens, failing the threshold for significant international news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781202302.09548
+  },
+  "753e15278b942e393bcc2617bb86394b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the government's handling of asylum seeker accommodation, which directly concerns UK immigration policy and local authority administration.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1781202311.658455
+  },
+  "3ac6f19539ab7f2081762193f6e7ea7b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK healthcare involving MHRA regulatory approval for a widely-used medication, directly affecting public health policy and NHS clinical discussion.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781202321.664649
+  },
+  "fe45e708864e8a55c0d4a63fd6cba708": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health news story regarding the introduction of new medical treatments approved by the UK regulator, directly impacting the NHS and public health.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781202333.296163
+  },
+  "ae6726d717fb2817317935e57c0f2ba7": {
+    "is_relevant": false,
+    "reasoning": "The article is an interview focusing on Palestinian political claims, which lacks a direct, material link to UK domestic policy or urgent national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781202344.179458
   }
 }
