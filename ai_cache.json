@@ -7796,5 +7796,33 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1781268340.774126
+  },
+  "ce7f20dc108c5ebd98897ebcf82cdf8d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal sentencing involving a UK national tried and convicted in a UK court, which falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781279982.850838
+  },
+  "82e0f81a85e748b6cd3f601ce4272d91": {
+    "is_relevant": true,
+    "reasoning": "This is a report on criminal sentencing and civil unrest in a UK city, which falls under major UK legal and public order reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781279991.794253
+  },
+  "fa63eaa9f70d82c43dde18506037046f": {
+    "is_relevant": false,
+    "reasoning": "The article discusses global health data and the impact of aid cuts across 62 countries, lacking a specific or material domestic UK focus or policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781280004.304116
+  },
+  "992df275cd2e4ffe7ccb505027721a1c": {
+    "is_relevant": false,
+    "reasoning": "This article is an opinion-based analysis and political commentary piece rather than a report on hard news or a significant, time-sensitive political event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781280016.270266
   }
 }
