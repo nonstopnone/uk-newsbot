@@ -7845,5 +7845,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781288190.22846
+  },
+  "479fbb69a661fbce23fbc294be28029b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy decision regarding UK energy security and international sanctions, impacting the UK economy and foreign policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781296551.904428
+  },
+  "438ffe9dac8f22d6efdf7a40e3a660c5": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity casting announcement for an entertainment show, which falls under fluff/lifestyle news rather than hard news relevant to UK political, economic, or legal affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781296560.838157
   }
 }
