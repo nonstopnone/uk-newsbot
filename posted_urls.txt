@@ -1,5 +1,3 @@
-2026-06-05T21:09:02.042797+00:00|https://www.bbc.com/news/articles/crlplwn1jkro|downing street hits out at people seeking to stir division after vances nowak post|980c99b88e212288b85a33502914d039
-2026-06-05T21:09:04.435884+00:00|https://www.bbc.com/news/articles/cd0p0rz4n0mo|buffy and ted lasso star anthony head dies at 72|423fda3d83ee3620db93cbd6761ec392
 2026-06-05T22:36:16.388238+00:00|https://www.bbc.com/news/articles/cn9pw3d4711o|our mum survived cancer misdiagnosis but dad then took his own life|74d34d85bb720acfcb079234370a9adb
 2026-06-05T23:50:26.928523+00:00|https://www.bbc.com/news/articles/c2d2drny216o|from a castle ruin to historic baths unusual places to watch the world cup|372ee5ea87f78c142e63c12320b05d9b
 2026-06-06T06:44:23.556428+00:00|https://www.bbc.com/news/articles/c9q3q930vj1o|the papers flagship breaks down and beer we go|897a961ce10cf16e6ceeb2e98910d2be
@@ -127,3 +125,7 @@
 2026-06-12T18:16:35.936531+00:00|https://www.bbc.com/news/articles/c862w26zwggo|boys sentences for rape to be reviewed in july|879514a360bf60e6dfe77d7cc95619bb
 2026-06-12T20:36:02.530462+00:00|https://www.bbc.com/news/articles/ceqdl8xre7qo|uk vows to phase out russian diesel and jet fuel imports by new year|479fbb69a661fbce23fbc294be28029b
 2026-06-12T20:36:05.000796+00:00|https://www.bbc.com/news/articles/cvgjxdr27z4o|king leads tributes to giant of the art world david hockney|42b1e46eccf2669d72c65f15878997c3
+2026-06-12T22:19:42.092982+00:00|https://www.bbc.com/news/articles/c78ydv8er7no|its all theyre talking about scotland gripped by world cup fever|c9219cdea1edae817e674753aa035cb9
+2026-06-12T22:19:44.805806+00:00|https://www.bbc.com/news/articles/cd0me8p579ko|karren brady stayed at west ham despite knowing of sullivan womens team ban|dc43b5dd83bcded2a7fa13d7c805d9d6
+2026-06-12T22:19:47.258868+00:00|https://www.telegraph.co.uk/rugby-union/2026/06/12/northampton-saints-leicester-tigers-prem-semi-final-live|pollock a workhorse rather than show pony as saints reach prem final|58d3c6fd81619b0d77adc3a2e2858d91
+2026-06-12T22:19:49.943387+00:00|https://www.telegraph.co.uk/cricket/2026/06/12/england-vs-sri-lanka-womens-t20-world-cup-score-and-updates|danni wyatthodge blasts england to record t20 world cup win|f17350c437cc1864589750abbce32b28

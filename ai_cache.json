@@ -7859,5 +7859,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781296560.838157
+  },
+  "5bec2aae131e824dff1addbf6f77757c": {
+    "is_relevant": false,
+    "reasoning": "This is a sports commentary piece regarding an international football match between Canada and Bosnia; it does not constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781302742.682201
+  },
+  "c9219cdea1edae817e674753aa035cb9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national cultural event in Scotland regarding the national football team's first World Cup appearance in 28 years, which carries major significance for the UK sporting landscape.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781302751.233436
+  },
+  "dc43b5dd83bcded2a7fa13d7c805d9d6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report involving a high-profile public figure, a member of the House of Lords, and a major UK football club regarding allegations of safeguarding failures and institutional misconduct.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781302762.070398
+  },
+  "58d3c6fd81619b0d77adc3a2e2858d91": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK domestic rugby union semi-final result, falling under domestic sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781302771.550485
+  },
+  "f17350c437cc1864589750abbce32b28": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant victory for the England national women's cricket team in a major tournament, which is relevant to UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781302780.728215
   }
 }
