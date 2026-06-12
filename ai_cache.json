@@ -7824,5 +7824,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781280016.270266
+  },
+  "80a36c8a6c81bf67ae7ce6cc8cd24cc6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving criminal convictions, sentencing for serious offenses including GBH against a police officer, and implications for UK protest law and national security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781288171.672371
+  },
+  "879514a360bf60e6dfe77d7cc95619bb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal matter involving the Court of Appeal and the Attorney General's office concerning sentencing policy for serious crimes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781288180.967114
+  },
+  "28072b11dad59e9cdf16ccba9d7ac8e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal trial involving a prominent former political leader in the UK (Northern Ireland). It falls under high-profile crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781288190.22846
   }
 }
