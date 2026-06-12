@@ -7698,5 +7698,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781218840.044124
+  },
+  "461fc327b18a84a5e6b888ba4b1f2406": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a Defence Secretary and an Armed Forces minister is a major event in UK politics that directly impacts the stability and authority of the government.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781223836.293996
   }
 }
