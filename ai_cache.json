@@ -7705,5 +7705,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781223836.293996
+  },
+  "24fe60c53b44bd47ba098c24824e6912": {
+    "is_relevant": false,
+    "reasoning": "The death of a Thai princess is a foreign news event with no material impact on the UK, domestic politics, or the British Royal Family.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781241330.480591
   }
 }
