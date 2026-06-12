@@ -7712,5 +7712,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781241330.480591
+  },
+  "8b4d059709cc8a28b73723dc0abd9b21": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/human interest story involving a private dispute between a family and a crematorium, which does not meet the criteria for national hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781257421.659363
+  },
+  "377ac6a3886aa60c2f3a431a0df6b5c3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on civil unrest and hate-motivated crime in Northern Ireland, directly involving police operations and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781257433.244111
+  },
+  "bb6cea1d6cbff33ce97c259fdf71c2a0": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about lottery winners and does not constitute hard news or a matter of significant public policy or national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781257445.345002
+  },
+  "5801f6a62ac1df4e8ac4b91fbf32915b": {
+    "is_relevant": false,
+    "reasoning": "This article is a live scoreboard update for a domestic sporting competition, which falls under the excluded category of sports previews/reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781257454.541823
+  },
+  "405bdf22a3260522dc71d952a2e4bda8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding domestic justice reform, state policy, and the treatment of vulnerable children by the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781257465.777459
   }
 }
