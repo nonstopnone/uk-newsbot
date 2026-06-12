@@ -7747,5 +7747,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781257465.777459
+  },
+  "72d58cd96830b6784a6ff2cf7e295054": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court sentencing report involving a murder conviction.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781268277.114324
+  },
+  "a77ef7369415770bd69df40304f2ecbb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving attempted murder charges and a serious incident at a school, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781268286.021555
+  },
+  "af9281a017e5b735547347ba89c8f22d": {
+    "is_relevant": false,
+    "reasoning": "The article discusses a global health risk related to international travel for a World Cup and does not provide a direct, material impact or specific news hook relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781268295.568229
+  },
+  "b839e0010b25c698e91fa90e1a73e80d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal case involving a prominent former political leader in the UK (Northern Ireland), which is of high public interest and meets the criteria for legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781268305.56469
+  },
+  "3c75e3d40a43f075720b271f6b89d433": {
+    "is_relevant": true,
+    "reasoning": "This is a report on criminal proceedings following violent public disorder in the UK, which falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781268315.620816
+  },
+  "fdc4907cdde2a66641cdac2337509bac": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the death of a prominent former professional football player and manager who had a significant career in the English Football League, which is relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781268331.825109
+  },
+  "6a302709703c92fb931da2d75342934e": {
+    "is_relevant": true,
+    "reasoning": "The death of a significant public figure and cultural icon of this stature is a major UK news event.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1781268340.774126
   }
 }
