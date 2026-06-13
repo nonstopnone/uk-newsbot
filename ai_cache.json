@@ -8013,5 +8013,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781369271.628784
+  },
+  "ceffc6e5a9165f4604e213169391fa30": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding UK government policy and public safety legislation, involving the Prime Minister and national regulatory debates.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781374197.245256
+  },
+  "a8e8a290afa8c457fd9f820d1bfba3d8": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant public order event in a major UK city involving arrests, police operations, and social tension related to immigration policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1781374212.783095
   }
 }
