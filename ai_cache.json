@@ -7964,5 +7964,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781355328.707592
+  },
+  "f38b9f8f9239cd4b0f63f2fcde1151ee": {
+    "is_relevant": true,
+    "reasoning": "This concerns the England national football team's World Cup preparations and a criminal incident involving the FA, which is a matter of significant interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781362990.827008
+  },
+  "3ce8ffd1b4655154c0909026a879411a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major national ceremonial event involving the British Royal Family, which is a significant part of UK news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781363000.304218
+  },
+  "c22b0b8e95127ed99f44fa0e198ecde4": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant result in a major UK sporting event involving a high-profile British athlete.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781363008.933334
+  },
+  "d484cdfb7ed8b62434a3c7e31a44398a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the official celebration of the sovereign's birthday, which is a significant national event involving the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781363018.503605
+  },
+  "c3924bab0e4a2074ef3cde0740658c81": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and community-interest piece rather than hard news concerning politics, crime, economy, or major national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781363029.463035
   }
 }
