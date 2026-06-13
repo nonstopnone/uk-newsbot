@@ -1,5 +1,3 @@
-2026-06-05T22:36:16.388238+00:00|https://www.bbc.com/news/articles/cn9pw3d4711o|our mum survived cancer misdiagnosis but dad then took his own life|74d34d85bb720acfcb079234370a9adb
-2026-06-05T23:50:26.928523+00:00|https://www.bbc.com/news/articles/c2d2drny216o|from a castle ruin to historic baths unusual places to watch the world cup|372ee5ea87f78c142e63c12320b05d9b
 2026-06-06T06:44:23.556428+00:00|https://www.bbc.com/news/articles/c9q3q930vj1o|the papers flagship breaks down and beer we go|897a961ce10cf16e6ceeb2e98910d2be
 2026-06-06T06:44:26.118447+00:00|https://news.sky.com/story/surgeons-in-uk-use-new-tool-powered-by-ai-for-the-first-time-during-live-operation-13551304|surgeons use new ai tool during live operation in ukfirst|825f96e8eabaaeb389ba07cb4b7661ad
 2026-06-06T09:15:28.247066+00:00|https://www.bbc.com/news/articles/cvgm53nqvndo|dday veterans mark anniversary as nearly 100 british names added to memorial|7bc62645b527c44b926b337f6b80ea1b
@@ -129,3 +127,5 @@
 2026-06-12T22:19:44.805806+00:00|https://www.bbc.com/news/articles/cd0me8p579ko|karren brady stayed at west ham despite knowing of sullivan womens team ban|dc43b5dd83bcded2a7fa13d7c805d9d6
 2026-06-12T22:19:47.258868+00:00|https://www.telegraph.co.uk/rugby-union/2026/06/12/northampton-saints-leicester-tigers-prem-semi-final-live|pollock a workhorse rather than show pony as saints reach prem final|58d3c6fd81619b0d77adc3a2e2858d91
 2026-06-12T22:19:49.943387+00:00|https://www.telegraph.co.uk/cricket/2026/06/12/england-vs-sri-lanka-womens-t20-world-cup-score-and-updates|danni wyatthodge blasts england to record t20 world cup win|f17350c437cc1864589750abbce32b28
+2026-06-13T00:01:05.294158+00:00|https://www.bbc.com/news/articles/cvgjxxz0mp8o|the night people in belfast fled their homes because of racist violence|cbae9b415e753dc4022579e2d2f11a06
+2026-06-13T00:01:07.882178+00:00|https://www.bbc.com/news/articles/cly0nelkqq2o|teen plans to leave uni debt free after making £35000 selling vintage football shirts|a5cde6ec55db87ea96cff3eb91f90bdd

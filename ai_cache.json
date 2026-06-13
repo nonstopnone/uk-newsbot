@@ -7894,5 +7894,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781302780.728215
+  },
+  "cbae9b415e753dc4022579e2d2f11a06": {
+    "is_relevant": true,
+    "reasoning": "This is a report on significant civil disorder and anti-immigration protests in Northern Ireland, which is a matter of serious public interest and security within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781308851.930538
+  },
+  "95efc4bb907bd9a635dd044b4dc10cfe": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a musician's career trajectory and does not constitute hard news or a significant event relevant to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781308862.750163
   }
 }
