@@ -7929,5 +7929,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781326377.643551
+  },
+  "83f9cd7fc8ca20465088e3b6fa436479": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/music industry story focused on festival programming and band personnel, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781348285.246389
+  },
+  "6400fb85768d3c0a7c53b4a6e42fae58": {
+    "is_relevant": true,
+    "reasoning": "This is a report on local government policy and enforcement measures regarding public order and antisocial behaviour in a UK borough, which falls under legal and administrative news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781348310.256315
   }
 }
