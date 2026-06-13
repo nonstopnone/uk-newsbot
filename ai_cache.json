@@ -7999,5 +7999,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781363029.463035
+  },
+  "717b33284cf93ab633d92917b7770061": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving civil unrest and public protests within the United Kingdom, meeting the criteria for hard news relevant to a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781369260.951138
+  },
+  "97a9eae04b353f7948a301b53bf500ef": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of British Formula 1 drivers in a major international racing event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781369271.628784
   }
 }
