@@ -7908,5 +7908,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781308862.750163
+  },
+  "a7cf276d7309f5c6527c3bceebb2127d": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant cultural news regarding a prominent British figure's death and features substantive reporting on UK political discussions involving a senior regional leader and cabinet minister.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1781326359.27492
+  },
+  "563cba99315b46663fb26895f828ab3e": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity lifestyle and entertainment story that does not constitute hard news or meet the criteria for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781326367.332845
+  },
+  "0965fa5fda9c289ce3c000d438a07181": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on a personal medical experience rather than hard news concerning UK policy, systemic NHS reform, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781326377.643551
   }
 }
