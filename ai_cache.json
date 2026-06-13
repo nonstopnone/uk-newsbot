@@ -7943,5 +7943,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781348310.256315
+  },
+  "3bd7ce6a008d9e1f2aa2e8b023d3eafb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving civil unrest and public demonstrations in a major UK city, directly relating to internal security and social order.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781355310.412489
+  },
+  "737a571beec7d2aa6839a11ac6e45e2f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding police misconduct and potential perversion of the course of justice, which directly relates to the UK legal and criminal justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781355320.960962
+  },
+  "49f8d18a1d82e083a840c269dcc68698": {
+    "is_relevant": true,
+    "reasoning": "The event involves a significant public controversy regarding free speech, national security discourse, and social cohesion within a prominent UK institution.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781355328.707592
   }
 }
