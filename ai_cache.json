@@ -8055,5 +8055,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781390256.731164
+  },
+  "664bf187330aa55f1c4f9ee4d037ac23": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/arts piece about a video game production process, which does not constitute hard news of significant public interest to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781394501.996681
+  },
+  "a40d716b09ce5d9d645cd85c114b4ae7": {
+    "is_relevant": false,
+    "reasoning": "This is a summary of newspaper front pages rather than a primary news report on a specific event, which is typically filtered out to prevent redundant metadata posts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781394511.922782
   }
 }
