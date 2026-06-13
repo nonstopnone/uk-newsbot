@@ -8034,5 +8034,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781380504.831436
+  },
+  "a2482ae0cef63de29e03bbff8b8f8666": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development regarding the NHS, which is a core topic of direct relevance to the UK public and domestic policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781385586.476728
+  },
+  "cf04b459e66c907cd588ae02a5abe95a": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major UK political figure making policy recommendations regarding national welfare spending and defence, which is directly relevant to UK politics and governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781385596.717004
   }
 }
