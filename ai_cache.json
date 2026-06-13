@@ -8048,5 +8048,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781385596.717004
+  },
+  "a353489050f296c0e989297fc0d1b655": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic public order and social issue occurring in a major UK city, directly involving police and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781390256.731164
   }
 }
