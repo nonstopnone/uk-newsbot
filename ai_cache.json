@@ -8027,5 +8027,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1781374212.783095
+  },
+  "ccef1947547737fefe56690e968e2535": {
+    "is_relevant": true,
+    "reasoning": "This is significant national news regarding industrial action within the NHS and government negotiations, which directly impacts UK public services.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781380504.831436
   }
 }
