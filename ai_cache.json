@@ -8245,5 +8245,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781467618.341393
+  },
+  "92edaa371a9cd91e48940764487d5b1c": {
+    "is_relevant": true,
+    "reasoning": "The death of a former Labour Party deputy leader and long-serving cabinet minister is a significant event in British political history.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781473256.776299
+  },
+  "3e9d9c7c1ec3119ee95a9562f1a75e7e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant upcoming UK government policy announcement regarding social media regulation and child protection, directly involving the Prime Minister.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781473266.374123
+  },
+  "6a2e8b86fbea498731e4482da804d909": {
+    "is_relevant": true,
+    "reasoning": "The introduction of a bill regarding assisted dying in the UK Parliament is a major legislative matter with significant domestic impact.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781473275.19269
   }
 }
