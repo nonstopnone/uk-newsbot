@@ -8147,5 +8147,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781442890.589771
+  },
+  "7c215307f336ea709a77073ab9ab5593": {
+    "is_relevant": true,
+    "reasoning": "Lewis Hamilton is a major British sporting figure and his performance in Formula 1 is a significant event for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781450460.541064
+  },
+  "55d6707c819594d17f4795f364c83203": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports achievement involving a high-profile British athlete and a historic podium lockout by British drivers, which is of clear interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781450472.054981
+  },
+  "e70c40c505004bc64694b0a1be7d2ee5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sporting achievement involving British athletes on a global stage, which is directly relevant to UK audiences interested in national sporting successes.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781450481.41612
+  },
+  "02f0f264789f49f6167c01b52c7679a6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving the use of counter-terrorism powers by the Metropolitan Police on a prominent public figure at a major UK infrastructure hub.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781450489.5782
+  },
+  "84df56eb76eb9b914ceeedcb5492b174": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment photo gallery/event summary, which does not constitute hard news or meet the criteria for significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781450499.415472
+  },
+  "15a8556eacba0965e1954848c69b0017": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving charges and serious injuries that is of direct interest to the public.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781450511.477493
   }
 }
