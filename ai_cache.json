@@ -8083,5 +8083,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781410855.077251
+  },
+  "837ed3e480780edc68b8c7613f3ee10e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national sporting event for Scotland, which falls under UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781425936.045313
+  },
+  "45f02112117811d6647540ff8ff447e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report into historical institutional abuse and public interest concerns within a UK-based maternity home, which constitutes hard news regarding social and legal history.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781425944.3545
+  },
+  "56deba0859e6175b19384b5daa7a8b71": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and culture feature piece about individual poets and social media trends, which does not constitute hard news or a significant event relevant to the r/BreakingUKNews mandate.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781425953.808106
+  },
+  "2913de1cd88d56b7a7acb4ce69437f8d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and advice piece centered on personal fitness tips and product recommendations rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781425977.073133
   }
 }
