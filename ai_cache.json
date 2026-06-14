@@ -5756,9 +5756,10 @@
   },
   "6a28295682a956dfce15b4a77f9348af": {
     "is_relevant": false,
-    "reasoning": "This article is a sports preview and does not contain any hard news relevant to a UK audience.",
-    "provider": "Groq",
-    "timestamp": 1780499140.961652
+    "reasoning": "This article is a sports betting service/racing tip column, which falls under the excluded category of sports previews and non-news lifestyle content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781435808.176822
   },
   "e3aea2be962d38d61d7630520d680f43": {
     "is_relevant": false,
@@ -8111,5 +8112,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781425977.073133
+  },
+  "adf85ecf58ea5437c792ad9dd76d67ef": {
+    "is_relevant": true,
+    "reasoning": "The article reports on civil disorder and racially-motivated violence in Northern Ireland that is significantly impacting public services and health infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781435824.635314
+  },
+  "8a62852d5f358780b60aaabada3a760e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK policy announcement regarding online safety regulations and potential government restrictions on social media for minors, which falls under UK politics and infrastructure policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781435839.980896
+  },
+  "66c67e6b114adc3431a51808fcc21fad": {
+    "is_relevant": true,
+    "reasoning": "The detention of a prominent political figure under counter-terrorism laws is a significant legal and public interest story within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781435849.461823
+  },
+  "7b442f238a29fd6759f94812e14e25a7": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a therapy animal and does not constitute hard news or a matter of significant public policy or UK interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781435858.713924
   }
 }
