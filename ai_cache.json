@@ -8196,5 +8196,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781456219.904556
+  },
+  "c35a3b37ea74af6e12401bfc2b8ab56f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant disruption to major UK rail infrastructure affecting travel to a primary international airport and requires immediate attention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781461083.688859
+  },
+  "1da3fa76d4e1291071d609c365a922cc": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and community sports interest story, which falls under the excluded category of fluff/lifestyle content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781461092.690073
+  },
+  "3561d63d5ea8dca1dd94e702fe4d9cca": {
+    "is_relevant": true,
+    "reasoning": "The Grenfell Tower fire and the ongoing quest for justice/remediation are significant matters of public interest and policy in the UK. This coverage documents the continued impact of a major national tragedy on victims and survivors.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781461107.344067
   }
 }
