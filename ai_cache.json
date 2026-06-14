@@ -8217,5 +8217,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781461107.344067
+  },
+  "74ed4d27a62ab2cd7641a506f774e246": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failure within the NHS and the judicial process regarding an inquest, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781467585.224898
+  },
+  "2a88711e72b62c7536832e26345bf5a8": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international football match between Germany and Curacao, which does not constitute hard UK news despite a brief mention of a former Chelsea trainee.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781467595.103621
+  },
+  "bbf9fc40b71c8ba03762163ce821e4bd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant shift in UK government policy regarding environmental regulations and the automotive industry, which has major implications for the UK economy and climate commitments.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781467605.687452
+  },
+  "e4395e6d4d0d0e20b1b919df800f01bd": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a Member of Parliament advocating for significant changes to NHS policy and service provision regarding endometriosis.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781467618.341393
   }
 }
