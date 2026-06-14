@@ -8069,5 +8069,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781394511.922782
+  },
+  "af8467ab1106b847867d6891848a08f0": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports analysis piece focused on international football tactics and player performance, which falls under sports journalism rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781410844.299907
+  },
+  "c568fbc8a096edb5b6e1cecb8e4e95cd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK defence policy, cabinet ministerial changes, and government spending priorities, which falls directly under UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781410855.077251
   }
 }
