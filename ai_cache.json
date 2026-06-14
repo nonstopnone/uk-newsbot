@@ -8189,5 +8189,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781450511.477493
+  },
+  "410d08079ad535ec4f12664d0278819d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant result for a prominent British athlete at a major UK tennis tournament.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781456219.904556
   }
 }
