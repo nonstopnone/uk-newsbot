@@ -8140,5 +8140,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781435858.713924
+  },
+  "6eeba418dd81afbd1ce6e263a0319e38": {
+    "is_relevant": false,
+    "reasoning": "This is a local administrative licensing decision regarding stadium beverage policies, which constitutes minor local news rather than significant national UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781442890.589771
   }
 }
