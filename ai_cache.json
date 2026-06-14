@@ -8266,5 +8266,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781473275.19269
+  },
+  "90fc7860285d291a591bc3b29a2d96cb": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports match report and analysis, which is explicitly excluded under the criteria for fluff and sports previews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781477551.909631
+  },
+  "7f9b35cc4f36656a49da217d196ad237": {
+    "is_relevant": true,
+    "reasoning": "This concerns significant UK infrastructure disruption affecting a major transport hub and national rail operator.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781477567.651604
   }
 }
