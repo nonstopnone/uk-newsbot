@@ -8329,5 +8329,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781501532.686718
+  },
+  "c08397a80614f1dec90645943d478933": {
+    "is_relevant": true,
+    "reasoning": "This article concerns a significant government policy announcement by the Prime Minister regarding a UK-wide legislative ban, directly impacting national public policy and children's rights.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781523316.480841
+  },
+  "d9cebd54bfb3bddc0c67166829bf2779": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement by the Prime Minister regarding a major UK legislative change to social media regulation, which is a matter of public interest and political concern.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781523325.341426
+  },
+  "fe9fb1aabaed5ab0c28a4f6c5d682054": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a series of racially-motivated hate crimes and public order issues in Northern Ireland, which is a matter of serious public interest and domestic security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781523336.038471
+  },
+  "3fd53705cfd1f5c44f1aafb952e74e07": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle piece regarding anecdotal reports of big cats; it does not constitute hard news or a significant matter of public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781523350.163269
   }
 }
