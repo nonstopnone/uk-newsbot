@@ -8476,5 +8476,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781554614.940204
+  },
+  "ceb7cab409f7ca59cf5b08c7cf823cd3": {
+    "is_relevant": false,
+    "reasoning": "This is a minor sports-related logistical complaint regarding a tournament abroad and does not constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781562867.918312
   }
 }
