@@ -8294,5 +8294,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781482454.263996
+  },
+  "d6f3ee627671ec184d157791a9ebc394": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations story affecting major UK transport infrastructure and potential travel disruption for the public.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781501483.212288
+  },
+  "755ecae5ed5de1714368716e5f582dff": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest tragedy and a local report on an individual incident, which does not constitute hard news or a policy-level development relevant to the broader UK national audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781501494.160969
+  },
+  "1f23fd18ef86c5c1d95fdc6a0981cace": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private competition prize win, which constitutes fluff and does not fall under hard news categories relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781501508.327586
+  },
+  "e721c4a21a1f6ad7ae1d7b1ef174ece5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report by the BBC regarding organized criminal exploitation and violent crime involving UK residents, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781501524.729411
+  },
+  "1258e068167c2d89ff786fe5bb259cf2": {
+    "is_relevant": false,
+    "reasoning": "This is a global health feature article focused on international development and malnutrition in Africa, which does not materially affect the UK domestic situation or constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781501532.686718
   }
 }
