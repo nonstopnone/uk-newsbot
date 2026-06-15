@@ -1,5 +1,3 @@
-2026-06-07T23:46:57.193376+00:00|https://www.bbc.com/news/articles/cnvpn253re4o|no dead ends what the dutch can teach us about tackling youth unemployment|0dc0c962eb5f4a7530994dd8e34b049f
-2026-06-07T23:46:59.635373+00:00|https://news.sky.com/story/gloves-left-inside-patients-and-accidental-organ-removal-among-403-never-mistakes-in-nhs-last-year-13551651|gloves left inside patients and accidental organ removal among 403 never mistakes in nhs last year|d5b902766fa9ea4d00768aafa95411bc
 2026-06-08T09:13:04.283517+00:00|https://www.bbc.com/news/articles/ce37wlg1kl3o|ministers to issue guidance on childrens screen use|335d5dd1d0b1e3d0e9e90e5772b66ee8
 2026-06-08T09:13:06.775380+00:00|https://www.bbc.com/news/articles/c1m2mjxz7mmo|widow distressed by firms ninemonth delay to husbands pension|43fcfc0a146ccfea4febfdf7c81e51a9
 2026-06-08T13:19:29.447197+00:00|https://www.bbc.com/news/articles/cy8d932zl27o|nottingham attacks inquiry revealed miscarriage of justice victims mother says|39ec0db33fe5f70a4080e7966b312914
@@ -143,3 +141,5 @@
 2026-06-14T22:52:49.515546+00:00|https://news.sky.com/story/network-rail-apologises-after-sinkholes-cause-delays-for-gatwick-passengers-13554168|network rail apologises after sinkholes cause delays for gatwick passengers|7f9b35cc4f36656a49da217d196ad237
 2026-06-14T22:52:51.925650+00:00|https://www.bbc.com/news/articles/c4gyxgwkyxyo|assisted dying returns to parliament as mp urges peers to finish the job|57c2fecf618ce11448f24e1989811c47
 2026-06-14T22:52:54.345188+00:00|https://www.bbc.com/news/articles/c7224g41x1po|roy hattersley labour politician who helped start the partys modernisation|595d97ab4d78a515cb8fca0a0108b9d3
+2026-06-15T00:14:16.712353+00:00|https://www.bbc.com/weather/articles/c982yv58gz9o|summer warmth to return this week but rain will linger for some|4fe4dc89fe26768bc4424598d78e345c
+2026-06-15T00:14:19.171703+00:00|https://www.bbc.com/news/articles/ckg701z0p01o|jurors lawyers and social workers face resilience test in inaccessible courts|016805fda0d9383d4a2e6f16bf2b42b6

@@ -8280,5 +8280,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781477567.651604
+  },
+  "016805fda0d9383d4a2e6f16bf2b42b6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on systemic failures within the UK court infrastructure and compliance with the Equality Act, directly impacting legal access for professionals and the public.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781482443.290131
+  },
+  "2332e5b78c1355869a79a6240df5b97e": {
+    "is_relevant": false,
+    "reasoning": "This is consumer advice/lifestyle content focused on personal finance tips rather than hard news, political policy, or macro-economic developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781482454.263996
   }
 }
