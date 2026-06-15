@@ -8448,5 +8448,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781541312.130553
+  },
+  "b5f87a962a445ebf6178a7f0790eca29": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report regarding a World Cup game between Cape Verde and Spain, which does not involve a UK national team or significant relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781554585.124587
+  },
+  "44175ad4fadd53764d7f1a33a0342eb5": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest lifestyle story about a music artist performing a gig; it does not constitute hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781554596.441427
+  },
+  "be4515a15ea17a3454a92da34abf5d1b": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity health story which constitutes lifestyle/entertainment news rather than hard news of significant public interest to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781554604.813413
+  },
+  "cefd9a75ee8a320ae8b6a5c96470ae6a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a controversial event held in London that triggered public protests and involves the intersection of UK public demonstrations and sensitive international affairs.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781554614.940204
   }
 }

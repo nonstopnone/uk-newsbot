@@ -1,11 +1,3 @@
-2026-06-08T16:58:42.811212+00:00|https://www.telegraph.co.uk/business/2026/06/08/oil-prices-ai-tech-shares-bubble-ftse-100-markets|wall street surges as iran halts strikes|f8bbe1263dc76db8d17834ed320b3e58
-2026-06-08T16:58:45.199191+00:00|https://www.bbc.com/news/articles/cddq2971qzlo|care worker who helped boss with child abuse jailed for 25 years|0db29b6f1cd6bdfb8547f1970b2da73e
-2026-06-08T16:58:47.517981+00:00|https://www.bbc.com/news/articles/cly7582n5yqo|man denies encouraging brother to race before fatal crash|669f8a528d9f1f015cf5db8e7e88535b
-2026-06-08T16:58:49.856776+00:00|https://news.sky.com/story/woman-19-shot-dead-at-finchley-home-13552017|woman 19 shot dead at north london home|911b6aa2b54c0fba8dd8c340089e355b
-2026-06-08T16:58:52.236489+00:00|https://www.telegraph.co.uk/football/2026/06/08/world-cup-2026-dates-format-tv-venue-tickets|world cup 2026 everything you need to know|57d03fedc0d4849194b4e8d53ae28de0
-2026-06-08T19:27:33.437752+00:00|https://www.bbc.com/news/articles/c9d2yxl8v99o|exolympians wife feared he would kill her|5b9a7a9e896667f9355a62590aec1a54
-2026-06-08T19:27:36.029023+00:00|https://www.bbc.com/sport/cricket/articles/c0ry801k2geo|stokes atkinson investigated over nightclub incident|770ca867b6b15b9cd1ce51970f7eed59
-2026-06-08T19:27:38.412230+00:00|https://news.sky.com/story/starmer-told-he-does-not-fully-understand-epstein-survivors-horrific-trauma-13552069|exminister delivers letter to no 10 demanding pm meets with epstein survivors|8aa7c418ff466ad4670deb7f28652f60
 2026-06-08T21:23:24.686896+00:00|https://www.bbc.com/news/articles/c0j2jexz489o|families fury over brazen appeal bid by paddleboard boss who caused four deaths|b6f8e45c113404faa74e595e428e415a
 2026-06-08T21:23:26.972189+00:00|https://www.bbc.com/news/articles/cj0g4qmmry7o|sikh group calls for inquiry into henry nowak death|7c990e9b9f5fba9ebb0ebb9ad4fc03ee
 2026-06-08T21:23:29.353235+00:00|https://news.sky.com/story/england-and-wales-cricket-board-investigating-breach-of-team-protocols-involving-ben-stokes-and-gus-atkinson-13552076|england captain stokes and teammate atkinson face investigation amid nightclub incident|1ba31c22de8446df9fcb8d8bef814e0a
@@ -147,3 +139,7 @@
 2026-06-15T16:35:14.937261+00:00|https://www.bbc.com/news/articles/c20ydeep2x2o|gang guilty of organised crime in £4m cocaine and dirty money ring|1ac454c9eb25a83aa31de166b60d9b32
 2026-06-15T16:35:18.769262+00:00|https://news.sky.com/story/unduly-lenient-sentence-for-henry-nowaks-murderer-referred-to-the-court-of-appeal-13554353|unduly lenient sentence for henry nowaks murderer referred to court of appeal|e7981e85fe6fedb9d30908ee29120aa4
 2026-06-15T16:35:21.231395+00:00|https://news.sky.com/story/uk-weather-health-alerts-issued-as-temperatures-could-hit-30c-13554319|health alerts issued as temperatures could hit 30c|a93facc29173b7b7a26951d59b5e3a40
+2026-06-15T20:16:56.151987+00:00|https://www.bbc.com/news/articles/cddl65dp0rdo|social media ban bold and blunt but no silver bullet|9013cef2a8435f1bfebeca500a180aca
+2026-06-15T20:16:58.728337+00:00|https://www.telegraph.co.uk/business/2026/06/15/us-iran-deal-oil-price-interest-rates-ftse-100-markets|wall street hits record high on usiran peace deal|7911e7d9ce40c1dacae81aa0b657999e
+2026-06-15T20:17:01.172708+00:00|https://www.bbc.com/news/articles/c2kydl0zqeko|under16s to be banned from tiktok youtube and other social media by next spring starmer says|29cb47510b313edd88d3e38573cc4556
+2026-06-15T20:17:03.745304+00:00|https://news.sky.com/story/homes-in-illegal-israeli-settlements-promoted-at-london-property-show-that-sparked-protests-13554407|homes in illegal israeli settlements promoted at london property show|cefd9a75ee8a320ae8b6a5c96470ae6a
