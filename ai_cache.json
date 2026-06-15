@@ -6246,10 +6246,10 @@
   },
   "204e22ff2a5d6599ddaccebace48fcaa": {
     "is_relevant": false,
-    "reasoning": "This is a sports interactive feature/opinion piece rather than hard news, and the sub explicitly excludes sports previews.",
+    "reasoning": "This article is a speculative, interactive sports feature and opinion piece rather than hard news, making it ineligible for this subreddit.",
     "flair": "",
     "provider": "Gemini",
-    "timestamp": 1780671468.123131
+    "timestamp": 1781541184.682348
   },
   "8249fa99bf1bdce8e3e586853f5fd15a": {
     "is_relevant": true,
@@ -8357,5 +8357,96 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781523350.163269
+  },
+  "8ca9ad83b1808c0443b340acebea5654": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving the murder and abuse of a child, which is a matter of serious public interest and legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781541163.727305
+  },
+  "59a8e901e32b80d13e228d2c94888ce5": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused human interest story and does not constitute hard news, nor does it meet the criteria for significant UK political, economic, or social relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781541176.533268
+  },
+  "1ac454c9eb25a83aa31de166b60d9b32": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a successful major police operation involving serious organised crime and drug trafficking within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781541195.743198
+  },
+  "d424fb90aa45296da450b0f17d6f04e4": {
+    "is_relevant": true,
+    "reasoning": "The trial of a former major UK political party leader for serious criminal offences is a matter of significant public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781541208.598496
+  },
+  "7e8a94288ff008da18f29c976e2fa74e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the Solicitor General and the UK judicial system regarding a murder sentencing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781541217.621387
+  },
+  "72945b2efad95edece699ddcb566377e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal trial currently underway in a UK court regarding a murder allegation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781541228.127157
+  },
+  "e7981e85fe6fedb9d30908ee29120aa4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the UK justice system and the Solicitor General's oversight of sentencing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781541238.739526
+  },
+  "6fae652182a26984c55225df9091f483": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest sports fluff piece about Japanese football fans and does not meet the criteria for UK-relevant hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781541253.93304
+  },
+  "791b453b45c2bb41b1099e930debb169": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story regarding a foreign state-sponsored attack on the UK Prime Minister's home.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781541266.68759
+  },
+  "907ad25bd69aa9a16cec33f2740ba726": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement by the Prime Minister regarding national regulation, which directly impacts UK households and legislative priorities.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781541277.123191
+  },
+  "9013cef2a8435f1bfebeca500a180aca": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement by the Prime Minister regarding major new legislation affecting social media usage for UK minors.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781541287.977318
+  },
+  "2675919926833126bdb361c25e045053": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a criminal investigation into a violent incident involving the Metropolitan Police.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781541301.83686
+  },
+  "a93facc29173b7b7a26951d59b5e3a40": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a nationwide public health warning issued by official bodies (UKHSA) regarding extreme weather conditions, which is relevant to the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781541312.130553
   }
 }
