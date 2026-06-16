@@ -1,7 +1,3 @@
-2026-06-08T22:57:47.105958+00:00|https://www.bbc.com/news/articles/cy8d9jdvvpyo|zelensky thanks uk for ironclad support after meeting king|a9ac5312210af1aa081161efd2b7cd05
-2026-06-08T22:57:49.494148+00:00|https://www.bbc.com/news/articles/c3rylvvdvvgo|recycling plant fire causes severe rail disruption|a145f0966964740f49823b4c8db60c2c
-2026-06-09T00:12:08.411668+00:00|https://www.bbc.com/news/articles/crrprxy2257o|lives still at risk from unregulated baby sleep industry after bbc investigation|b54629ae92255fe5bd472ff1877fbb1b
-2026-06-09T00:12:10.849927+00:00|https://www.bbc.com/news/articles/c4gyel9n02zo|driving test booking rules tightened after thousands of no shows|07fffed6ea0d91b366c03f200b8a0acb
 2026-06-09T08:24:14.235336+00:00|https://www.bbc.com/news/articles/cy5vyqykpx5o|legal equality duty for public services should be scrapped says badenoch|2cfe0ade9f6fa02f469aff2911bd0fd3
 2026-06-09T08:24:16.520166+00:00|https://www.bbc.com/news/articles/cdejnjdg08eo|man taken to hospital with serious injuries after belfast stabbing|176074687ff8b8f18990fd82d740287e
 2026-06-09T11:42:01.778948+00:00|https://www.bbc.com/news/articles/cp8re26zl7do|carer who couldnt go on not guilty of mothers murder|5145a21254653ce7710c0e8c62a38288
@@ -140,3 +136,5 @@
 2026-06-15T20:16:58.728337+00:00|https://www.telegraph.co.uk/business/2026/06/15/us-iran-deal-oil-price-interest-rates-ftse-100-markets|wall street hits record high on usiran peace deal|7911e7d9ce40c1dacae81aa0b657999e
 2026-06-15T20:17:01.172708+00:00|https://www.bbc.com/news/articles/c2kydl0zqeko|under16s to be banned from tiktok youtube and other social media by next spring starmer says|29cb47510b313edd88d3e38573cc4556
 2026-06-15T20:17:03.745304+00:00|https://news.sky.com/story/homes-in-illegal-israeli-settlements-promoted-at-london-property-show-that-sparked-protests-13554407|homes in illegal israeli settlements promoted at london property show|cefd9a75ee8a320ae8b6a5c96470ae6a
+2026-06-16T00:18:24.439590+00:00|https://www.bbc.com/news/articles/cly089d0wl7o|thames water moves step closer to nationalisation after government objects to rescue deal|f6799a40ea2affa5c408cad4d944b9b3
+2026-06-16T00:18:26.841141+00:00|https://www.bbc.com/news/articles/c2lyjey0zv0o|labour risks handing power to reform without drastic change says union leader|a181eb220e79d8481a8ac25518eec492

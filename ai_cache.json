@@ -8483,5 +8483,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781562867.918312
+  },
+  "f6799a40ea2affa5c408cad4d944b9b3": {
+    "is_relevant": true,
+    "reasoning": "This is significant economic and infrastructure news concerning the potential nationalisation of a major UK utility provider, which directly impacts 16 million consumers.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781569064.163316
+  },
+  "fe3886f22049aaeef3f28362b35fea99": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international football match that does not involve any UK national team, nor does it have a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781569073.064571
+  },
+  "10e1a88ffd48221fd28a1d88a1ee04bd": {
+    "is_relevant": true,
+    "reasoning": "The article covers major UK political policy regarding social media regulation and reports on a security-related incident involving the Prime Minister.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781569085.805218
+  },
+  "53eb4357b75d29e601a9bb5ec6d4cb67": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a significant rise in sextortion cases targeting UK citizens, highlighting a growing public safety and digital security concern that aligns with crime and societal welfare reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781569102.929541
   }
 }
