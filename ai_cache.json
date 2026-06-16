@@ -8602,5 +8602,75 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781609806.108253
+  },
+  "c0b3b867ed97a3722f8a0325388f53c4": {
+    "is_relevant": true,
+    "reasoning": "This is a high-profile criminal trial involving a former major UK political party leader, which falls under the category of significant legal and political news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781626384.511925
+  },
+  "5efdbc626b05cea10f82ac8ae5a2e9f0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a foreign military vessel operating in close proximity to UK waters and a UK-registered vessel, directly concerning national security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781626395.740363
+  },
+  "75a77b2adde084f7032b0adfdc413b75": {
+    "is_relevant": false,
+    "reasoning": "The article is a lifestyle travel guide and product feature, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781626404.16186
+  },
+  "a8a3c3f30ee8ad38ef55e7887db26587": {
+    "is_relevant": true,
+    "reasoning": "The article concerns proposed government legislation on social media regulation and its direct impact on UK public policy and child safety, following a high-profile domestic crime.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781626413.363061
+  },
+  "3d358464e40995169b8f01edef1731c9": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle travel guide focused on shopping, which falls under prohibited content such as fluff and lifestyle pieces.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781626424.618102
+  },
+  "8505f86b3cfe1278b25277134dda7783": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cultural news story regarding a major institution in the UK's theatre industry and a notable public figure.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1781626438.690396
+  },
+  "a3234c2e2edc19ccef2d708690ff3e18": {
+    "is_relevant": true,
+    "reasoning": "This concerns the resignation of a prominent UK Member of Parliament and her stated reasons regarding government policy, which falls under UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781626447.120831
+  },
+  "0bd719d5dd3bbd9d779c56c766fd91dc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate development involving a prominent British fintech company and its preparation for a public listing, which is relevant to the UK economy and business sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781626457.723309
+  },
+  "da4bd68ad14b888dab60551dc6ab2995": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a gangland attack and attempted murder prosecutions within the Scottish legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781626472.199841
+  },
+  "1f8416ebfdec1e51f29a4e41fc4531ae": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a criminal investigation involving the Metropolitan Police and a high-profile public safety incident in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781626489.566143
   }
 }
