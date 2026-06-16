@@ -8686,5 +8686,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781639506.230493
+  },
+  "6ea060f7d43101e50d5fbcb561ddf939": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and player injury update, which is excluded from the sub's remit of hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781648096.141388
+  },
+  "494f8cae222e23bafcf6981395a517ab": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international football match involving the French national team, which does not constitute hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781648105.534431
+  },
+  "75770f8a51398b3a321d4480633afaf5": {
+    "is_relevant": true,
+    "reasoning": "The incident involves a confrontation between a Russian warship and British citizens in UK waters, posing a significant security and international relations concern.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1781648119.432131
+  },
+  "63125ec93114725c03fd284c33890e8c": {
+    "is_relevant": true,
+    "reasoning": "The incident involves a UK-registered vessel in the English Channel and highlights significant national security concerns, making it relevant to a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781648129.067663
   }
 }
