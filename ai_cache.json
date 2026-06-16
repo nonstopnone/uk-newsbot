@@ -8714,5 +8714,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781648129.067663
+  },
+  "e441f0bd867c4df5d6cb9be7cddf009f": {
+    "is_relevant": true,
+    "reasoning": "A foreign military firing warning shots near a UK-registered vessel in the English Channel constitutes a significant security and international relations incident directly affecting UK territory.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781653849.360851
+  },
+  "3d453f21dbb8512ee4675b559d71b525": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major public inquiry into the abuse of vulnerable adults within a state-funded hospital in Northern Ireland and a significant criminal safeguarding investigation. This is a matter of serious public interest and legal significance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781653857.621837
+  },
+  "af854b05d6d3f3e27b79d96a0d8159f7": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance and injury status of the England national women's cricket team in a major international tournament.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781653871.309933
   }
 }
