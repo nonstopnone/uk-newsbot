@@ -1,5 +1,3 @@
-2026-06-09T08:24:14.235336+00:00|https://www.bbc.com/news/articles/cy5vyqykpx5o|legal equality duty for public services should be scrapped says badenoch|2cfe0ade9f6fa02f469aff2911bd0fd3
-2026-06-09T08:24:16.520166+00:00|https://www.bbc.com/news/articles/cdejnjdg08eo|man taken to hospital with serious injuries after belfast stabbing|176074687ff8b8f18990fd82d740287e
 2026-06-09T11:42:01.778948+00:00|https://www.bbc.com/news/articles/cp8re26zl7do|carer who couldnt go on not guilty of mothers murder|5145a21254653ce7710c0e8c62a38288
 2026-06-09T11:42:04.111570+00:00|https://www.bbc.com/news/articles/c4gydjpdwy2o|teacher and two pupils stabbed in school attack|990586990367dc923f95e36fe7ab4f6c
 2026-06-09T11:42:06.457309+00:00|https://news.sky.com/story/girl-arrested-after-three-injured-in-school-knife-attack-13552252|girl arrested after three injured in school knife attack|ef7942c01b9d449bd90780e99b4f8c96
@@ -140,3 +138,5 @@
 2026-06-16T00:18:26.841141+00:00|https://www.bbc.com/news/articles/c2lyjey0zv0o|labour risks handing power to reform without drastic change says union leader|a181eb220e79d8481a8ac25518eec492
 2026-06-16T06:08:07.213706+00:00|https://www.bbc.com/news/articles/cy5266l6gdro|dont panic sextortion scammers have no hold over you|3a308ee49cb9e3813d68db21570d81d5
 2026-06-16T06:08:09.485333+00:00|https://www.bbc.com/news/articles/cvg5pnv0pl2o|travelodge sorry for free palestine greeting on room tv|6508a93a336bd5cd2fa9396f70103416
+2026-06-16T11:36:46.531245+00:00|https://www.bbc.com/news/articles/cpq32r3zwpro|woman in court over fatal wimbledon school crash|2cd924b0f5d63b58e303398e7f8a2952
+2026-06-16T11:36:48.930221+00:00|https://www.bbc.com/news/articles/clyx4jd9kkdo|prince george to attend eton college from september|442dbc72604d323ac30fa3c2b834287e

@@ -8539,5 +8539,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781590086.53331
+  },
+  "88d2899bd4619ce98486c55bbc35ac73": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-related betting guide and lifestyle content, which is explicitly excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781609711.881938
+  },
+  "2cd924b0f5d63b58e303398e7f8a2952": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal proceeding involving a high-profile fatal incident and criminal charges.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781609726.541718
+  },
+  "442dbc72604d323ac30fa3c2b834287e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the education of the second in line to the British throne, which is a matter of significant public interest regarding the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781609735.395831
+  },
+  "1ab50aae343498733024864dc9e06563": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a criminal conviction regarding an arson attack on the Prime Minister's family property, which is a significant matter of national security and domestic crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781609746.650573
+  },
+  "dac4ed46c6d6fb15cb3c4ecdd442bf0a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional financial instability and large-scale job losses within the UK higher education sector, which is a matter of public economic interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781609756.844661
+  },
+  "d5f9b7bb0474636587712090eed9b642": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a criminal investigation involving the Metropolitan Police and an incident of public safety in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781609764.362973
+  },
+  "781b111259831545a47159beec721468": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity human interest story regarding a reality television participant, which constitutes lifestyle/entertainment news rather than hard UK news or a significant legal precedent.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781609779.48041
+  },
+  "f25410a16ac30baadd6683978d5983fb": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a local rescue, which constitutes lifestyle/human interest news rather than hard news regarding politics, economy, or major national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781609787.910185
+  },
+  "e943a9ea204336d650702ec66d5443d0": {
+    "is_relevant": false,
+    "reasoning": "This article is an explanatory lifestyle and astronomical piece rather than hard news concerning UK politics, the economy, or significant societal events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781609806.108253
   }
 }
