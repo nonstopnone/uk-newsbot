@@ -8672,5 +8672,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781626489.566143
+  },
+  "533d673a15f4e2543779cb2aabf2b026": {
+    "is_relevant": true,
+    "reasoning": "This is a significant law enforcement operation involving a record-breaking drug seizure within the UK, directly impacting national crime and border security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781639489.905206
+  },
+  "b411a4c2534a536b2f9dd67141e47c12": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a legal proceeding involving British intervention in UK territorial waters and the enforcement of national sanctions against a Russian vessel.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781639506.230493
   }
 }
