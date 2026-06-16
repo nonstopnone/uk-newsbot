@@ -8511,5 +8511,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781569102.929541
+  },
+  "3a308ee49cb9e3813d68db21570d81d5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the growing prevalence of sextortion scams in the UK, highlighting a significant trend involving UK police reports and data from the Internet Watch Foundation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781590049.447535
+  },
+  "6508a93a336bd5cd2fa9396f70103416": {
+    "is_relevant": true,
+    "reasoning": "This incident concerns a potential hate crime or discriminatory event occurring within a UK business, involving allegations of antisemitism and a subsequent investigation, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781590058.220043
+  },
+  "243c802c8fff5651706d80d5bd0371b5": {
+    "is_relevant": true,
+    "reasoning": "This report concerns critical failures within the NHS, a major public institution, and relates to an ongoing official inquiry into maternity care standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781590078.366171
+  },
+  "7325c6dafae39d51ad012fdd5591c5f5": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest and lifestyle story concerning personal trauma and individual relationship issues, which does not constitute hard news of significant public interest to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781590086.53331
   }
 }
