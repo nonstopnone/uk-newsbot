@@ -8959,5 +8959,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1781731822.100464
+  },
+  "45a811883461ef3f7031fa1acdca7085": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning a major criminal safeguarding investigation and systemic abuse in a UK public hospital, which constitutes critical public interest news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781737487.351779
+  },
+  "6a8717325ce2e0731131bd0c8ec9e182": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a violent crime in Belfast, which falls under UK legal and regional news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781737496.717216
   }
 }
