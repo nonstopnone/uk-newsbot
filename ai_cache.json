@@ -8784,5 +8784,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781688007.427827
+  },
+  "10481aa0fd4c7813a7ae4597b20f0328": {
+    "is_relevant": true,
+    "reasoning": "This is a high-profile criminal trial involving a significant former leader of a major UK political party, meeting criteria for crime, legal proceedings, and political interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781701267.970085
+  },
+  "879cee0f0013628906b8f06641250e72": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a UK criminal court sentencing following major civil disorder in Cardiff, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781701277.088642
+  },
+  "fcbcf30381d53a97e4c6d80793483a8c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and emergency services incident involving a fatality and ongoing police investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781701288.035262
+  },
+  "3cb8c518f5f70a8769023ff4d347ad6b": {
+    "is_relevant": true,
+    "reasoning": "This report details significant civil unrest and hate-motivated crime in a UK city, which is a matter of clear public interest regarding safety and social cohesion.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781701300.750683
+  },
+  "b523da3898c839ba1f0a864c975dae50": {
+    "is_relevant": true,
+    "reasoning": "The article reports on ongoing criminal proceedings and disorder involving police officers in the UK, which falls under domestic crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781701310.484432
+  },
+  "11fbb0d9d435e8e9e00a118a0e269bfc": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal trial regarding violent disorder at a UK protest, which falls under Crime & Legal and involves significant domestic issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781701328.007046
+  },
+  "9cd052d254d5ab51e8a62ef0822c6c92": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal charge involving a counter-terrorism investigation within London, which is a matter of public safety and UK legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781701338.068059
+  },
+  "001514c29a4c21f9bc3bd0daf888e4ad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security breach involving a senior member of the Royal Family and patient confidentiality within the UK healthcare system.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781701348.548589
   }
 }

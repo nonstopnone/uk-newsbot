@@ -1,6 +1,3 @@
-2026-06-10T12:34:12.118157+00:00|https://www.bbc.com/news/articles/cr5jme6ld54o|three arrested over glasgow disorder and racist assaults after belfast knife attack|1d0764bd7dd02154a29ce4a78a5d0a2b
-2026-06-10T12:34:14.540238+00:00|https://www.bbc.com/news/articles/c78k2z9d4e4o|my wifes unadoptable baby was left to die at unmarried mothers home|29054cea026f9aa7b8ca3c6d566ccbd3
-2026-06-10T12:34:17.144449+00:00|https://news.sky.com/story/prince-william-to-highlight-how-technology-could-help-prevent-homelessness-13552597|prince william tells tech industry it could help prevent homelessness|be11de21297570373ba7ab1be0750812
 2026-06-10T16:27:59.735267+00:00|https://www.bbc.com/news/articles/cwye9v0dy3yo|five jailed for violence at henry nowak police protest|30b37962a5f8543c85bebf35f503f829
 2026-06-10T16:28:02.041860+00:00|https://www.bbc.com/news/articles/ckg0lkp042zo|students data taken in major university cyberattack|70091d958e2e8b2a118510e0ed045602
 2026-06-10T16:28:04.417452+00:00|https://www.telegraph.co.uk/football/2026/06/10/world-cup-2026-dates-format-tv-venue-tickets|world cup 2026 all the key facts in one place|83fc83b96c368bd018e6d239a6149072
@@ -139,3 +136,7 @@
 2026-06-17T04:22:18.238689+00:00|https://news.sky.com/story/starmer-rival-predicts-when-leadership-challenge-will-happen-13554833|starmer to face leadership challenge next week streeting|6dd954a89764c55e764355e83ba301c0
 2026-06-17T09:20:07.914334+00:00|https://www.bbc.com/news/articles/cn4dj7n83yqo|pm warns burnham against immediate leadership challenge if he wins byelection|c9115bbeb408122aa7fcef1026f06e4d
 2026-06-17T09:20:10.414651+00:00|https://www.bbc.com/news/articles/c992xyv9vggo|grieving sister used tracker to catch memorial thief|a2eb4e40fc911a3b5430a1e101af18ae
+2026-06-17T13:02:29.201994+00:00|https://www.bbc.com/news/articles/cm2rxv4m1zdo|donaldson sex abuse accusers not sufficiently reliable for a guilty verdict jury told|10481aa0fd4c7813a7ae4597b20f0328
+2026-06-17T13:02:31.792326+00:00|https://www.telegraph.co.uk/business/2026/06/17/uk-inflation-cpi-interest-rates-ftse-100-markets|uk borrowing costs fall at fastest pace in europe|16280dbb7551b6ccfd4fc9a80d9f90d3
+2026-06-17T13:02:34.371421+00:00|https://www.bbc.com/news/articles/cx24857pprko|government to apologise to victims of forced adoptions in england|283153476301c58146ea62430c8ad91c
+2026-06-17T13:02:37.031535+00:00|https://news.sky.com/story/former-healthcare-worker-tried-to-sell-princess-of-waless-private-medical-records-13554916|former healthcare worker tried to sell princess of waless private medical records|001514c29a4c21f9bc3bd0daf888e4ad
