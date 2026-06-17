@@ -8749,5 +8749,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781670132.719172
+  },
+  "a2eb4e40fc911a3b5430a1e101af18ae": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an active police investigation regarding the theft of items and a potential public order incident, which falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781687951.225813
+  },
+  "3d3975e1982becf152775e0d6bf6f122": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the performance and safety standards of an NHS mental health facility, which is a matter of serious public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781687962.4538
+  },
+  "ecf1f8ae504849a65be73bbc23b4c035": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity health story. It is lifestyle/entertainment news rather than hard news impacting the UK's political, economic, or legal infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781687972.213916
+  },
+  "7369bd335b02f39a512cfe6073678495": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/fashion piece about a football team's clothing choices, which constitutes fluff and does not meet the criteria for hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781687987.879197
+  },
+  "15366207ae58142abd20bcd829d29f6d": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story about an individual's personal medical experience rather than hard news regarding NHS policy, national health trends, or public interest developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781688007.427827
   }
 }
