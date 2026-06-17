@@ -8735,5 +8735,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781653871.309933
+  },
+  "da7199ecc6ade425aa8f381ce46dc67d": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a senior government minister's assessment of the ongoing political and economic impact of Brexit, which is a core topic for UK political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781670122.351104
+  },
+  "6dd954a89764c55e764355e83ba301c0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development concerning UK party politics and the leadership of the Prime Minister, directly impacting the national political landscape.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781670132.719172
   }
 }
