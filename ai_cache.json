@@ -8938,5 +8938,26 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1781724428.0864
+  },
+  "b2cc5fe44ae413381bae058c9ba0b467": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding the personal entertainment preferences of a public official, rather than hard news concerning policy, security, or significant events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781731802.064947
+  },
+  "ae980e0e91ab3679a2c4fb13376f87c6": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports match report concerning international football teams and players with no material connection to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781731813.430332
+  },
+  "37902b66ec605249e5055f6699168491": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile public appearance by a senior member of the Royal Family, which is a matter of significant national interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781731822.100464
   }
 }
