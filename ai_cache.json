@@ -8840,5 +8840,68 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1781701348.548589
+  },
+  "d484199803d74f69f326338733d81596": {
+    "is_relevant": true,
+    "reasoning": "The BBC is a public service broadcaster and this represents a significant restructuring affecting national media and employment, which is of clear public interest in the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1781714846.425655
+  },
+  "4943d657001a3aa1a0ea08e8c6b5ec80": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a workplace fatality involving a formal investigation by the Health and Safety Executive and subsequent legal sentencing within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781714855.704596
+  },
+  "52aeb488641002535c0750fb185a82ee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update on public infrastructure and government service delivery affecting a large portion of the UK population.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781714865.153966
+  },
+  "f2aebfab244f4ebb56cfb87039b857ed": {
+    "is_relevant": true,
+    "reasoning": "This story concerns a significant breach of privacy involving a senior member of the Royal Family and the integrity of the UK's healthcare data systems, which is a matter of public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781714877.436368
+  },
+  "9055db7685bc5e8c738800d417e95047": {
+    "is_relevant": false,
+    "reasoning": "The article concerns domestic environmental policy in Uganda and does not have a material impact on the UK or involve UK interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781714887.389621
+  },
+  "2e3946dfc35ea1c1d647dcfb1dbad853": {
+    "is_relevant": true,
+    "reasoning": "Weather events that trigger official health alerts and affect the entire UK population are considered significant public interest news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781714898.378881
+  },
+  "bf32a5fa76458b43097532f7084086c8": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the Prime Minister's performance and strategic messaging at a major international summit, which is relevant to UK politics and governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781714907.088184
+  },
+  "3372839356e70a674aa22cea6d35a5ac": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the movements of the Royal Family, which is a core subject area for the subreddit.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781714917.773665
+  },
+  "82b55eb721deeb10cd4d2d3e70746bf5": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity scandal/entertainment news story rather than hard news concerning UK public policy, governance, or significant societal impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781714961.589779
   }
 }
