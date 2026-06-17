@@ -8903,5 +8903,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781714961.589779
+  },
+  "26781e0e0c1f6671515bb1bf687ea0dd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant appointment in Scottish professional football, which is a major area of public interest and news within the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781724387.339326
+  },
+  "b613e4475996487e132f735c1b7b4382": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major international test cricket match involving the England national team, which qualifies as UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781724396.251661
+  },
+  "fa2e191d3fee7aed3fbd5bd90cc07743": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an active murder trial taking place in a UK crown court, which is a significant matter of public interest and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781724405.649487
+  },
+  "b9d0a91024fd873ea29fd8cdccd17cd6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant travel disruption affecting UK citizens and highlights ongoing infrastructure and border processing issues related to UK-EU travel.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781724417.114736
+  },
+  "2de9dbb948e994a41fc82b2a6f3b71a1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the movements of members of the British Royal Family, which is a specified category for the subreddit.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781724428.0864
   }
 }

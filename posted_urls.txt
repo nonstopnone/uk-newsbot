@@ -1,5 +1,3 @@
-2026-06-10T19:16:01.206785+00:00|https://www.bbc.com/news/articles/cevl9j9y8dmo|ill never get over watching my home burn belfast residents reel after night of unrest|12e447a406a2162b48820d71e5510f0d
-2026-06-10T19:16:03.790563+00:00|https://www.bbc.com/news/articles/ckg5zxng4lyo|sara sharifs siblings to stay in pakistan|b2706db7d401900d09fee22ac897da09
 2026-06-10T21:31:46.342690+00:00|https://www.bbc.com/news/articles/cm2r0783x4go|belfast knife attack disorder destabilising says terror adviser|9999c6cd7dd83aaa34a2d0ad1e3c6f3f
 2026-06-10T21:31:48.751286+00:00|https://www.bbc.com/news/articles/c1lygry7n0qo|alleged hitman mimed shooting police during arrest|5bc22c7e9780e2a90d77f72f558e569f
 2026-06-10T23:15:18.787779+00:00|https://www.bbc.com/news/articles/c1dypzw1d29o|water cannon fired in latest disorder after belfast knife attack|ef2ab008d50d0fecd731c74fb39ffb04
@@ -140,3 +138,7 @@
 2026-06-17T16:49:24.424391+00:00|https://www.bbc.com/news/articles/cdx7gz8zkvjo|firm fined £150000 after electrician killed in mine by fan blades|4943d657001a3aa1a0ea08e8c6b5ec80
 2026-06-17T16:49:26.847322+00:00|https://news.sky.com/story/uk-weather-heatwave-conditions-set-to-return-as-temperatures-could-hit-32c-over-weekend-13555014|heatwave conditions set to return as temperatures in parts of uk could hit 32c over weekend|2e3946dfc35ea1c1d647dcfb1dbad853
 2026-06-17T16:49:29.732506+00:00|https://news.sky.com/story/starmer-is-not-an-easy-pm-to-interview-but-he-came-to-g7-armed-with-a-message-13555008|starmer is not an easy pm to interview but he came to g7 armed with a message|bf32a5fa76458b43097532f7084086c8
+2026-06-17T19:27:09.384327+00:00|https://www.bbc.com/news/articles/c872pwx4x2vo|exnigeria oil minister cleared in uk bribery trial|f84a7e3d4d709397ffe6800016914562
+2026-06-17T19:27:11.845747+00:00|https://www.bbc.com/sport/football/articles/cn8k5jd0788o|real honour as mcinnes succeeds rohl at rangers|26781e0e0c1f6671515bb1bf687ea0dd
+2026-06-17T19:27:14.229425+00:00|https://www.telegraph.co.uk/cricket/2026/06/17/england-v-new-zealand-live-score-latest-second-test-day-one|england redeemed by their new boys after week of scandal|b613e4475996487e132f735c1b7b4382
+2026-06-17T19:27:16.674038+00:00|https://news.sky.com/story/harry-and-meghan-to-bring-children-to-uk-for-first-time-in-four-years-13555079|harry and meghan to bring children to uk|2de9dbb948e994a41fc82b2a6f3b71a1
