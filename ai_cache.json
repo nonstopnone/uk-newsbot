@@ -9162,5 +9162,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781804629.671819
+  },
+  "1f220709085f0eb4d11f4f11d2c5c21c": {
+    "is_relevant": false,
+    "reasoning": "This is a sports commentary piece focusing on a specific cricket match performance and player analysis, which does not meet the criteria for hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781812657.943611
+  },
+  "f03aa705864f607aac3e1fd708a45b36": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports match report regarding a World Cup fixture between South Africa and the Czech Republic, which does not involve the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781812667.641267
+  },
+  "7cc98312336b383e9d7b69bf23726fa9": {
+    "is_relevant": true,
+    "reasoning": "The arrest and suspension of a sitting Member of Parliament is a significant political and legal development that directly affects UK parliamentary proceedings.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781812676.709898
   }
 }
