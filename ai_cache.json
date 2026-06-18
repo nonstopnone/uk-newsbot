@@ -9183,5 +9183,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781812676.709898
+  },
+  "8d9f50f82eebd1a1deb3a4b1ea61aeb4": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story and does not constitute hard news regarding UK politics, economy, crime, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781821336.675154
+  },
+  "8c42fc715abe8b4aed83938da43a480a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on safety concerns and organisational failures impacting a large number of UK citizens travelling abroad, involving official feedback from Police Scotland.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781821347.766469
   }
 }
