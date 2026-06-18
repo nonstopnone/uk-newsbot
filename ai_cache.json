@@ -8973,5 +8973,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781737496.717216
+  },
+  "dff38ae74dff7a7459b22cb264b53f22": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports match report/preview, which is explicitly excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781747030.064927
+  },
+  "148bed79183cc4bcbb0a81883f67aea2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the Rail Accident Investigation Branch regarding a fatal train crash in the UK, which falls under major UK infrastructure and safety news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781747040.66885
+  },
+  "d3a05bcacf964027827df17833fbc390": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health development regarding a major UK NHS vaccination program that has yielded measurable, life-saving outcomes for the British population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781747050.348079
+  },
+  "daf34efbda6d40947ac810aa33fdac49": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/environmental feature story regarding a historical landmark rather than hard news concerning UK politics, the economy, crime, or significant public infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781747059.455946
   }
 }
