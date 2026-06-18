@@ -9015,5 +9015,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781764300.436559
+  },
+  "1e61a2a57c5ef5dc9ccfa39e16ebed69": {
+    "is_relevant": true,
+    "reasoning": "The Archbishop of Canterbury is a senior public figure in the UK and this is a significant apology regarding historical institutional conduct within the Church of England.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1781780505.465436
+  },
+  "8c2926131c95dfc4763c79f4e85504cb": {
+    "is_relevant": true,
+    "reasoning": "The Secretary of State for Culture is formally intervening in a matter concerning a major public service broadcaster and allegations of criminal conduct, making this a matter of UK media regulation and parliamentary scrutiny.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781780515.792482
+  },
+  "e42bebe9e7632c087c8cfa0732e6d63d": {
+    "is_relevant": true,
+    "reasoning": "This concerns the legal extradition of a high-profile Scottish national and suspected organised crime figure, which is a matter of significant public interest and legal relevance to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781780526.50708
   }
 }

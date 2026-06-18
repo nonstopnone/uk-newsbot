@@ -143,3 +143,7 @@
 2026-06-18T01:44:22.192424+00:00|https://www.bbc.com/news/articles/c621z28z138o|cervical cancer deaths fall to zero in young women given vaccine|d3a05bcacf964027827df17833fbc390
 2026-06-18T06:31:41.122722+00:00|https://www.bbc.com/news/articles/c5yzgpe2ld3o|voters head to the polls for makerfield byelection|51a2d578ca2ba90e96e204c01b6a87d4
 2026-06-18T06:31:43.516619+00:00|https://www.bbc.com/weather/articles/c79y35nl719o|developing heatwave across europe to send uk temperatures above 30c|4fd5c0af342bf4b3341efc2a36f81331
+2026-06-18T11:02:06.962215+00:00|https://www.bbc.com/news/articles/cn0vge2kj9zo|new uk defence secretary meets nato allies without investment plan in place|4e92a51f48577987f9892f83cdc4582b
+2026-06-18T11:02:09.321246+00:00|https://news.sky.com/story/archbishop-of-canterbury-says-shame-is-ours-as-she-apologises-for-church-of-england-role-in-forced-adoptions-13555280|archbishop of canterbury says shame is ours as she apologises for forced adoptions|1e61a2a57c5ef5dc9ccfa39e16ebed69
+2026-06-18T11:02:11.621749+00:00|https://www.bbc.com/news/articles/cy04jgy5yvpo|lisa nandy not satisfied with channel 4 response on married at first sight uk|8c2926131c95dfc4763c79f4e85504cb
+2026-06-18T11:02:13.967288+00:00|https://news.sky.com/story/scottish-mafia-boss-can-be-extradited-to-spain-dutch-court-rules-13555239|scottish mafia boss can be extradited to spain dutch court rules|e42bebe9e7632c087c8cfa0732e6d63d
