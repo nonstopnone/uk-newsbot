@@ -1,7 +1,3 @@
-2026-06-11T14:59:31.007890+00:00|https://www.bbc.com/news/articles/cwyex90nkvgo|i havent left my house im scared says mean girls actor as belfast shows cancelled over violence|f77b2041c6d6b41791a75782915ee0e4
-2026-06-11T14:59:33.404197+00:00|https://www.bbc.com/news/articles/cwyld5rnw9vo|asylum appeal backlog at record high new figures show|79838a5a893be1337247101e39f92742
-2026-06-11T14:59:35.784646+00:00|https://news.sky.com/story/norwegian-teen-accused-of-uk-assassination-plot-says-im-no-cold-blooded-professional-hitman-13553012|im no coldblooded professional hitman says norwegian teen accused of uk assassination plot|db09068f7b4314b5dc66b0c4edb490cc
-2026-06-11T14:59:38.095216+00:00|https://news.sky.com/story/police-push-tech-firms-to-make-stolen-phones-unusable-for-thieves-13552918|police push tech firms to make stolen phones unusable for thieves|c94845f520bc355d1684c20cf09fc929
 2026-06-11T18:25:45.453083+00:00|https://www.telegraph.co.uk/tennis/2026/06/11/emma-raducanu-vs-sorana-cirstea-live-queens-score-latest|emma raducanu facing busy queens schedule after rain prevents play|83b972919a84c313be8fb0e67d4e22ea
 2026-06-11T18:25:47.815562+00:00|https://www.bbc.com/news/articles/c24ynn0nzp9o|asylum hotel vacated after fire safety concerns|a507bf255beb2b98d6717506a8c2cb94
 2026-06-11T18:25:50.185414+00:00|https://www.bbc.com/news/articles/cvgd93xvznyo|donaldson tells sex abuse trial alleged victims are lying|38475de9cb24c55f1041f05aea0fd464
@@ -148,3 +144,6 @@
 2026-06-18T14:26:09.536559+00:00|https://www.bbc.com/news/articles/cgjx87gvlnxo|men jailed for spying for chinese intelligence in uk|da01dcb6a3d986d0d856eefb2fe56db2
 2026-06-18T14:26:11.977030+00:00|https://www.bbc.com/news/articles/cgk6d12lz6jo|first russian shadow fleet tanker enters channel since smyrtos boarding|852dd941a4aaa0a11d2c6aa9551b3253
 2026-06-18T14:26:14.456667+00:00|https://news.sky.com/story/amber-heat-health-alert-issued-for-parts-of-england-13555327|amber heat alert issued as new heatwave looms|0545079fdff55f980299e6a98bfcf8ea
+2026-06-18T17:43:51.526146+00:00|https://www.bbc.com/news/articles/czx50n2vj74o|man arrested on suspicion of attempted murder after boy injured in crocodile enclosure|870d3976456709f231ea44d64cefbcd3
+2026-06-18T17:43:53.951341+00:00|https://www.telegraph.co.uk/business/2026/06/18/interest-rates-bank-of-england-uk-unemployment-ftse-100|bailey a decade of brexit has been bad for the economy|85a0cbb874867c8e7b6bcd131d2453b2
+2026-06-18T17:43:56.345703+00:00|https://www.bbc.com/news/articles/c892p75v0vzo|swinney apologises to girl at centre of dundee viral knife video|09c577b7554465440ba6715ce93452cb

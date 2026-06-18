@@ -9106,5 +9106,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781792769.103081
+  },
+  "870d3976456709f231ea44d64cefbcd3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a serious injury and an arrest for attempted murder within the UK, falling under the remit of police and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781804550.420067
+  },
+  "09c577b7554465440ba6715ce93452cb": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the First Minister of Scotland and Police Scotland's handling of a significant criminal case and judicial process, which is highly relevant to UK/Scottish politics and legal accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781804560.480756
+  },
+  "8762919db359fdd08140c545c9b97206": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a high-profile murder trial taking place in a UK high court involving allegations of violent crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781804570.452481
+  },
+  "c90beb2d22e41b6f7be97d250921853b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a former major UK political party leader, which falls under the criteria for hard news regarding crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781804583.657079
+  },
+  "fd8dcd75e3cd7558bd1f738b3a6b7390": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update to Foreign Office travel advice impacting a major destination for millions of British citizens and affecting travel insurance and airline operations.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1781804592.416596
+  },
+  "263a662ceef266575327f71d5ced695a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal court sentencing following major civil unrest in a UK city, which falls directly under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781804610.640624
+  },
+  "271da07f64216120af413ed9eca5d823": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving an alleged international murder plot carried out on UK soil, requiring police and judicial intervention in West Yorkshire.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781804618.813596
+  },
+  "c1b5bba70fa95c9d48a2a9249045127c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and emergency services incident occurring at a major UK international airport, warranting public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781804629.671819
   }
 }
