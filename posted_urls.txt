@@ -1,6 +1,3 @@
-2026-06-11T06:29:03.133592+00:00|https://news.sky.com/story/ryanair-investigated-over-charging-parents-to-sit-with-their-children-13552923|ryanair investigated over charging parents to sit with their children|92204bae9a23eece3a85cc2301162cb6
-2026-06-11T06:29:05.494673+00:00|https://www.bbc.com/news/articles/ckg4dey905yo|met police calls on tech firms to make stolen phones unusable|e88875bfedcec5017d4f937395ed1c52
-2026-06-11T06:29:07.798314+00:00|https://www.bbc.com/news/articles/cn0vd92kyllo|public services warning as councils face £530m budget shortfall|c407bea9bafa8a528965d35ef3cec377
 2026-06-11T11:14:12.472042+00:00|https://www.bbc.com/news/articles/c8e2wrre87wo|asylum seeker who raped woman 18 jailed|99e506d3360e6763bd40415df9510b09
 2026-06-11T11:14:14.761611+00:00|https://www.bbc.com/news/articles/c2dyxgzgj86o|two arrests and three police officers injured in protest at asylum hotel|3760103580a93f575128a4618c6995c0
 2026-06-11T14:59:31.007890+00:00|https://www.bbc.com/news/articles/cwyex90nkvgo|i havent left my house im scared says mean girls actor as belfast shows cancelled over violence|f77b2041c6d6b41791a75782915ee0e4
@@ -144,3 +141,5 @@
 2026-06-17T23:05:02.525295+00:00|https://news.sky.com/story/belfast-stabbing-victim-may-lose-sight-in-right-eye-family-say-after-losing-left-in-attack-13555134|belfast stabbing victim may lose sight in remaining eye family say|6a8717325ce2e0731131bd0c8ec9e182
 2026-06-18T01:44:19.863498+00:00|https://www.bbc.com/news/articles/cdr4ge5g0pzo|train crash that killed one man and injured four others could have been avoided|148bed79183cc4bcbb0a81883f67aea2
 2026-06-18T01:44:22.192424+00:00|https://www.bbc.com/news/articles/c621z28z138o|cervical cancer deaths fall to zero in young women given vaccine|d3a05bcacf964027827df17833fbc390
+2026-06-18T06:31:41.122722+00:00|https://www.bbc.com/news/articles/c5yzgpe2ld3o|voters head to the polls for makerfield byelection|51a2d578ca2ba90e96e204c01b6a87d4
+2026-06-18T06:31:43.516619+00:00|https://www.bbc.com/weather/articles/c79y35nl719o|developing heatwave across europe to send uk temperatures above 30c|4fd5c0af342bf4b3341efc2a36f81331

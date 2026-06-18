@@ -9001,5 +9001,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781747059.455946
+  },
+  "51a2d578ca2ba90e96e204c01b6a87d4": {
+    "is_relevant": true,
+    "reasoning": "The article reports on an active Westminster by-election, which is a matter of direct UK political and constitutional significance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781764290.318208
+  },
+  "eb1985fa3257204c81247904810a427e": {
+    "is_relevant": false,
+    "reasoning": "The article is a review of front pages regarding international geopolitical events and sports, which functions as a media summary rather than hard reporting of original UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781764300.436559
   }
 }
