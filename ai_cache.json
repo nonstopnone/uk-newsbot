@@ -9036,5 +9036,75 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781780526.50708
+  },
+  "53bc8349b669e8a7ec8858ce9616b687": {
+    "is_relevant": false,
+    "reasoning": "The article concerns the performance of the Portugal national football team and a specific player's tactical usage, which does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781792636.763212
+  },
+  "538663b859cdc2255d07668607f3091e": {
+    "is_relevant": false,
+    "reasoning": "This is a regional nature/lifestyle story that does not constitute hard news or have significant national impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781792647.671929
+  },
+  "78b4068efaeef4d454aede741fc71dbd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal proceeding involving a prominent former political leader in the UK (Northern Ireland), which falls under high-profile crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781792656.471883
+  },
+  "526a9a5bc1eb3a53491131f243cf7f43": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the judicial sentencing following a major civil disorder incident in a UK city, falling under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781792667.274212
+  },
+  "6dfa482f7767e55fe5aa9304b95739ba": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major Scottish crime figure whose legal proceedings are a matter of public interest within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781792699.454472
+  },
+  "0545079fdff55f980299e6a98bfcf8ea": {
+    "is_relevant": true,
+    "reasoning": "This is an official public health warning from the UK Health Security Agency that directly impacts the safety and well-being of a significant portion of the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781792724.262843
+  },
+  "c215f3fc40e2b8cc57a7236638189cf0": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic isolated accident involving a private individual abroad, which does not meet the threshold of national hard news or material impact on the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781792732.500277
+  },
+  "ef01dfaec80929a9a51d8b86da810d20": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest entertainment story about a musician, which constitutes lifestyle/culture reporting rather than hard news relevant to the subreddit's remit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781792749.749205
+  },
+  "ddbc62a2876d55cbf5925527a66f00af": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing police investigation and a formal coroner's inquest into a suspicious death in the UK, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781792758.923946
+  },
+  "138dbeacf9ab7cdf71c74349ba8090ea": {
+    "is_relevant": false,
+    "reasoning": "This is a tactical analysis/opinion piece focused on sports performance rather than hard news, which falls under the excluded category of sports previews and opinion columns.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781792769.103081
   }
 }
