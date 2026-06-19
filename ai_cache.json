@@ -9386,5 +9386,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781893415.27548
+  },
+  "e932617d27b2eb7ec810e224c1809181": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a rugby match involving the England national team, which falls under UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781900159.387394
+  },
+  "28c9b3f364a92a81c9252fece4e49ac3": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a public statement made by a senior member of the Royal Family, which constitutes standard coverage of the monarchy.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781900168.644112
+  },
+  "fae0b2c0958c5e5597cf24fad67d3970": {
+    "is_relevant": true,
+    "reasoning": "This is a report on significant political commentary regarding the leadership of the current Prime Minister and potential future Labour leadership contenders, which is highly relevant to UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781900179.360594
   }
 }
