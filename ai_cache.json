@@ -9365,5 +9365,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781886863.56845
+  },
+  "b819192d8206140880f6459e3134748e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Princess of Wales and her public duties, which is a core topic for UK national interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781893394.936708
+  },
+  "2ddde44b4956d789bc5a4f1af8106067": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Prime Minister's direct engagement with policy and public figures regarding a high-profile case, constituting UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781893405.516218
+  },
+  "141292f719a54ff62499b82c656d61f6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the judicial outcomes of major civil disorder in a UK capital city, falling under the remit of UK crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781893415.27548
   }
 }

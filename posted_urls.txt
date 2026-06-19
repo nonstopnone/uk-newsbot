@@ -1,5 +1,3 @@
-2026-06-12T18:16:33.435071+00:00|https://www.bbc.com/news/articles/ce950111xk7o|palestine action activists jailed over factory raid|80a36c8a6c81bf67ae7ce6cc8cd24cc6
-2026-06-12T18:16:35.936531+00:00|https://www.bbc.com/news/articles/c862w26zwggo|boys sentences for rape to be reviewed in july|879514a360bf60e6dfe77d7cc95619bb
 2026-06-12T20:36:02.530462+00:00|https://www.bbc.com/news/articles/ceqdl8xre7qo|uk vows to phase out russian diesel and jet fuel imports by new year|479fbb69a661fbce23fbc294be28029b
 2026-06-12T20:36:05.000796+00:00|https://www.bbc.com/news/articles/cvgjxdr27z4o|king leads tributes to giant of the art world david hockney|42b1e46eccf2669d72c65f15878997c3
 2026-06-12T22:19:42.092982+00:00|https://www.bbc.com/news/articles/c78ydv8er7no|its all theyre talking about scotland gripped by world cup fever|c9219cdea1edae817e674753aa035cb9
@@ -145,3 +143,9 @@
 2026-06-19T16:34:24.668009+00:00|https://www.bbc.com/news/articles/cy8wqy83q46o|thousands of hgv drivers given bogus medical tests in the back of vans|e7569290fcb5eff0360523517be384d5
 2026-06-19T16:34:26.977316+00:00|https://www.bbc.com/news/articles/cvgl9z8l271o|thirty rioters sentenced for disorder which saw police officer set on fire|dd4df759789b6dd78b3d2a8820a65321
 2026-06-19T16:34:29.309311+00:00|https://news.sky.com/story/housing-trans-inmates-in-womens-jails-unlawful-judge-rules-13555770|housing trans inmates in womens jails unlawful judge rules|e11a2b97bc9152e403eea95c1c035ddb
+2026-06-19T18:23:39.530793+00:00|https://www.telegraph.co.uk/cricket/2026/06/19/england-vs-new-zealand-live-second-test-day-3-score-latest|dreadful england head for defeat which is exactly what they deserve|9ecbb1dd61d8b27f5228600ec4304e03
+2026-06-19T18:23:41.905518+00:00|https://www.telegraph.co.uk/business/2026/06/19/pound-burnham-gilts-bond-markets-borrowing-costs-ftse-100|burnham will break fiscal rules to borrow banks warn|3373aed8be554dc1d1d41048df571e1a
+2026-06-19T18:23:44.645523+00:00|https://www.bbc.com/news/articles/c78y0gvmjy0o|prioritise love kate writes essay reflecting on italy tour as new pictures released|b819192d8206140880f6459e3134748e
+2026-06-19T18:23:46.939126+00:00|https://news.sky.com/story/epstein-survivor-to-meet-starmers-chief-secretary-darren-jones-as-pm-says-his-door-is-open-13555851|epstein survivor to meet starmers chief secretary as pm says door is open|2ddde44b4956d789bc5a4f1af8106067
+2026-06-19T18:23:49.314591+00:00|https://news.sky.com/story/rioters-jailed-over-disorder-sparked-by-deaths-of-two-teenagers-13555837|rioters jailed over disorder sparked by deaths of two teenagers|141292f719a54ff62499b82c656d61f6
+2026-06-19T18:23:51.616838+00:00|https://www.bbc.com/news/articles/cwyenemwnd9o|rapist who catfished muslim men on snapchat and grindr jailed|19ba58a55a00e9525f219148e6d37c39
