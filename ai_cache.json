@@ -9253,5 +9253,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781863355.990115
+  },
+  "cdb3b935e3cdbf689421448e083d0408": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and health and safety incident occurring at UK infrastructure, involving police and medical emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781877001.141091
+  },
+  "64a6772bb19af1931ac4263c68b0b44a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving arson attacks targeted at the Prime Minister's property and associates, orchestrated by foreign interests.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781877012.647652
+  },
+  "9c33a6c782434bcb2bf134f42d9edf5d": {
+    "is_relevant": false,
+    "reasoning": "This is a humanitarian situation in the DRC that does not materially affect the UK or involve UK policy, infrastructure, or direct national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781877021.189491
+  },
+  "1e6757ece4be8c3c43dec3bedab0305f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving a conviction for manslaughter and historical child abuse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781877034.62266
+  },
+  "d9f256c1b9656035a8d4cf4165153a5d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder conviction in a UK court, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781877043.875758
+  },
+  "13a41af8e55e5113a12b1260f72cc82d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling regarding Scottish government policy and human rights, which materially impacts the UK justice system and devolved governance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781877054.86327
+  },
+  "56716be2902371bde77f6c3201a7a889": {
+    "is_relevant": true,
+    "reasoning": "The suspension of the chief prosecutor of the ICC by the UK's regulatory body for barristers is a significant legal and international affairs event involving a UK-regulated professional.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781877064.231689
   }
 }

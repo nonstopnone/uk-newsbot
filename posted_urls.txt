@@ -1,6 +1,3 @@
-2026-06-12T12:45:44.499307+00:00|https://www.bbc.com/news/articles/ce8jx2r5y2eo|mother jailed for life for daughters murder|72d58cd96830b6784a6ff2cf7e295054
-2026-06-12T12:45:46.834335+00:00|https://www.bbc.com/news/articles/cj4g9z4g9dno|girl 14 appears in court after school stabbing charges|a77ef7369415770bd69df40304f2ecbb
-2026-06-12T12:45:49.280432+00:00|https://www.telegraph.co.uk/business/2026/06/12/uk-economy-gdp-starmer-oil-prices-ftse-100-markets|recession risk grows after economy shrinks|8fbf5ce9e4605a894ff1467761cd1267
 2026-06-12T16:00:16.855780+00:00|https://www.bbc.com/news/articles/c9d2pnvpnl2o|leeds man jailed for 6 years for encouraging us citizen to commit suicide|ce7f20dc108c5ebd98897ebcf82cdf8d
 2026-06-12T16:00:19.220626+00:00|https://www.bbc.com/news/articles/cvgjxkjp6veo|what we know about how northern irelands riots were organised|512a4aa54a5eba0ebc0e5c084a412379
 2026-06-12T18:16:33.435071+00:00|https://www.bbc.com/news/articles/ce950111xk7o|palestine action activists jailed over factory raid|80a36c8a6c81bf67ae7ce6cc8cd24cc6
@@ -143,3 +140,7 @@
 2026-06-19T05:26:22.900782+00:00|https://news.sky.com/story/conservatives-win-by-election-in-aberdeen-south-13555591|tories and snp win scottish byelections as labour come fourth in both races|f9dfffa00db482edb4ec78e48d09766c
 2026-06-19T10:02:36.741026+00:00|https://www.bbc.com/news/articles/c6216g52p8wo|plans to end gazumping with binding agreements in house sales shakeup|e813a7788525219b91a81d6d86caa9ef
 2026-06-19T10:02:39.325239+00:00|https://www.bbc.com/news/articles/cp9l2278m8no|boy 3 was attacked by crocodile at zoo as man bailed|55d656b0c74b7b592bfeeea5027f16ad
+2026-06-19T13:51:04.645598+00:00|https://www.bbc.com/news/articles/ckg04p99gnpo|woman injured after telegraph pole falls on her|cdb3b935e3cdbf689421448e083d0408
+2026-06-19T13:51:07.020563+00:00|https://www.bbc.com/news/articles/cn8q4p34qg4o|historic byelection win sends message to labour and snp badenoch|ba44dd1659f17954e4749d206501259e
+2026-06-19T13:51:09.414004+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|d50f5d508b7e140baf94585f6f18b474
+2026-06-19T13:51:11.763626+00:00|https://news.sky.com/story/icc-prosecutor-karim-khan-suspended-by-uks-bar-standards-board-13555696|icc prosecutor karim khan suspended by uks bar standards board|56716be2902371bde77f6c3201a7a889
