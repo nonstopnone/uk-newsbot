@@ -1,5 +1,3 @@
-2026-06-12T16:00:16.855780+00:00|https://www.bbc.com/news/articles/c9d2pnvpnl2o|leeds man jailed for 6 years for encouraging us citizen to commit suicide|ce7f20dc108c5ebd98897ebcf82cdf8d
-2026-06-12T16:00:19.220626+00:00|https://www.bbc.com/news/articles/cvgjxkjp6veo|what we know about how northern irelands riots were organised|512a4aa54a5eba0ebc0e5c084a412379
 2026-06-12T18:16:33.435071+00:00|https://www.bbc.com/news/articles/ce950111xk7o|palestine action activists jailed over factory raid|80a36c8a6c81bf67ae7ce6cc8cd24cc6
 2026-06-12T18:16:35.936531+00:00|https://www.bbc.com/news/articles/c862w26zwggo|boys sentences for rape to be reviewed in july|879514a360bf60e6dfe77d7cc95619bb
 2026-06-12T20:36:02.530462+00:00|https://www.bbc.com/news/articles/ceqdl8xre7qo|uk vows to phase out russian diesel and jet fuel imports by new year|479fbb69a661fbce23fbc294be28029b
@@ -144,3 +142,6 @@
 2026-06-19T13:51:07.020563+00:00|https://www.bbc.com/news/articles/cn8q4p34qg4o|historic byelection win sends message to labour and snp badenoch|ba44dd1659f17954e4749d206501259e
 2026-06-19T13:51:09.414004+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|d50f5d508b7e140baf94585f6f18b474
 2026-06-19T13:51:11.763626+00:00|https://news.sky.com/story/icc-prosecutor-karim-khan-suspended-by-uks-bar-standards-board-13555696|icc prosecutor karim khan suspended by uks bar standards board|56716be2902371bde77f6c3201a7a889
+2026-06-19T16:34:24.668009+00:00|https://www.bbc.com/news/articles/cy8wqy83q46o|thousands of hgv drivers given bogus medical tests in the back of vans|e7569290fcb5eff0360523517be384d5
+2026-06-19T16:34:26.977316+00:00|https://www.bbc.com/news/articles/cvgl9z8l271o|thirty rioters sentenced for disorder which saw police officer set on fire|dd4df759789b6dd78b3d2a8820a65321
+2026-06-19T16:34:29.309311+00:00|https://news.sky.com/story/housing-trans-inmates-in-womens-jails-unlawful-judge-rules-13555770|housing trans inmates in womens jails unlawful judge rules|e11a2b97bc9152e403eea95c1c035ddb

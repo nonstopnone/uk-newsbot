@@ -9302,5 +9302,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781877064.231689
+  },
+  "4fe7349804a4ec0d26bed00de5106d84": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and travel feature article about hotel recommendations in Spain, which does not constitute hard news or relevant UK public interest material.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781886774.518708
+  },
+  "e7569290fcb5eff0360523517be384d5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and legal issue involving fraudulent health checks for professional drivers across the UK, resulting in a criminal conviction.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781886783.50698
+  },
+  "dd4df759789b6dd78b3d2a8820a65321": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a major criminal event, the subsequent court proceedings, and the sentencing of individuals involved in a violent riot in a UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781886792.506094
+  },
+  "19ba58a55a00e9525f219148e6d37c39": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major Metropolitan Police investigation and sentencing at a UK Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781886801.256219
+  },
+  "043b8ee0e6b4cbb097ed41381c704b2e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing high-profile criminal trial at the High Court in Glasgow involving serious charges of rape.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781886824.083
+  },
+  "bb19ee0d4ceddeee75cae73d22a2fa4e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant piece of political analysis concerning the Prime Minister's leadership and stability of the governing party following a major by-election result.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781886834.003972
+  },
+  "46b1c0fea231a7091fa1a70c7f5228d9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal case involving a former major UK political party leader, which falls under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781886844.211072
+  },
+  "376d5a7f0526dee09c81219c90af616c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder conviction in a UK court, which falls under domestic crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781886852.901235
+  },
+  "e11a2b97bc9152e403eea95c1c035ddb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling regarding devolved government policy and prison management within the UK, which has clear implications for national judicial policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781886863.56845
   }
 }
