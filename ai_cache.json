@@ -9204,5 +9204,26 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1781827825.891341
+  },
+  "b7102a897ee5f210345410b947282a5a": {
+    "is_relevant": true,
+    "reasoning": "The story involves a British national facing serious criminal charges and significant legal proceedings, which is of notable interest to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781846756.787817
+  },
+  "e5eca14a538eb5cb35528da197a9f6ee": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports report regarding the US Open golf tournament, which falls under the category of sports previews/reporting rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781846766.915856
+  },
+  "f9dfffa00db482edb4ec78e48d09766c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK political development concerning by-election results in Scotland, impacting both devolved and national party politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781846775.603179
   }
 }

@@ -1,5 +1,3 @@
-2026-06-12T00:23:56.873795+00:00|https://news.sky.com/story/john-healey-resigns-massive-body-blow-as-pm-loses-his-defence-secretary-and-another-departure-follows-13553207|massive body blow as pm loses his defence secretary and another resignation follows|461fc327b18a84a5e6b888ba4b1f2406
-2026-06-12T00:23:59.249537+00:00|https://www.bbc.com/news/articles/cly8vjvzrnjo|two men convicted in uk of trying to send weapons to conflict zones|0385a6ae4804b64483d231286988b6e8
 2026-06-12T09:44:26.244785+00:00|https://www.bbc.com/news/articles/cwy03rneqxzo|nineteen now arrested over disorder with house targeted in arson|377ac6a3886aa60c2f3a431a0df6b5c3
 2026-06-12T09:44:28.677474+00:00|https://www.bbc.com/weather/articles/cjdgn5rgjvlo|summer warmth to return for weekend but heatwave chances fade|7eb0251a0ad572a9d27177a8d91817fc
 2026-06-12T12:45:44.499307+00:00|https://www.bbc.com/news/articles/ce8jx2r5y2eo|mother jailed for life for daughters murder|72d58cd96830b6784a6ff2cf7e295054
@@ -141,3 +139,7 @@
 2026-06-18T19:58:05.559542+00:00|https://www.bbc.com/news/articles/ce8m211729no|jury in sir jeffrey donaldson sex abuse trial to continue deliberations on friday|c90beb2d22e41b6f7be97d250921853b
 2026-06-18T22:22:29.822863+00:00|https://www.bbc.com/news/articles/cgjxlwd9jylo|promises of improved world cup queues for scotland v morocco|8c42fc715abe8b4aed83938da43a480a
 2026-06-19T00:10:28.474230+00:00|https://www.bbc.com/news/articles/crr872992jjo|bbc pulls new ashley cain series after sexist language accusations|9b49acc7589f24b0ce7f496fd7630adc
+2026-06-19T05:26:15.983002+00:00|https://www.bbc.com/news/articles/c4gy72kmg1mo|burnham says his win in makerfield byelection could be turning point|15020ee36b2b7c9fbc17062107775363
+2026-06-19T05:26:18.285542+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/british-innovations-saving-mothers-and-babies|the british innovations saving mothers and babies in the developing world|dc4c1ea4cb2b8e98d3da89bd6d14202b
+2026-06-19T05:26:20.612678+00:00|https://www.bbc.com/news/articles/cn59ykv9w53o|toddler critical and cost of living hope|0075bf8772a047cc5f704bf5d9cd5891
+2026-06-19T05:26:22.900782+00:00|https://news.sky.com/story/conservatives-win-by-election-in-aberdeen-south-13555591|tories and snp win scottish byelections as labour come fourth in both races|f9dfffa00db482edb4ec78e48d09766c
