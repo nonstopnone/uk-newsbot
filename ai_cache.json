@@ -9197,5 +9197,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781821347.766469
+  },
+  "9b49acc7589f24b0ce7f496fd7630adc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant media-related news story involving the BBC's editorial and commissioning standards, which is a matter of public interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1781827825.891341
   }
 }
