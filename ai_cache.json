@@ -9225,5 +9225,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781846775.603179
+  },
+  "55d656b0c74b7b592bfeeea5027f16ad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and public safety incident involving a severe injury and an active police investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781863323.200639
+  },
+  "a1da00db702e2a0ead1377ffbacae23e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a death and an active police murder investigation within the UK (Northern Ireland).",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781863333.912038
+  },
+  "554060c0d64bf61b5a42ff711c936a74": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and opinion-based piece regarding dating etiquette, which does not constitute hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781863345.347977
+  },
+  "b0ea014c04c3901a21cc1a1a18f2f715": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story concerning personal family relationships and lifestyle, which does not constitute hard news or a matter of significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781863355.990115
   }
 }

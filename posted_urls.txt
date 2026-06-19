@@ -1,5 +1,3 @@
-2026-06-12T09:44:26.244785+00:00|https://www.bbc.com/news/articles/cwy03rneqxzo|nineteen now arrested over disorder with house targeted in arson|377ac6a3886aa60c2f3a431a0df6b5c3
-2026-06-12T09:44:28.677474+00:00|https://www.bbc.com/weather/articles/cjdgn5rgjvlo|summer warmth to return for weekend but heatwave chances fade|7eb0251a0ad572a9d27177a8d91817fc
 2026-06-12T12:45:44.499307+00:00|https://www.bbc.com/news/articles/ce8jx2r5y2eo|mother jailed for life for daughters murder|72d58cd96830b6784a6ff2cf7e295054
 2026-06-12T12:45:46.834335+00:00|https://www.bbc.com/news/articles/cj4g9z4g9dno|girl 14 appears in court after school stabbing charges|a77ef7369415770bd69df40304f2ecbb
 2026-06-12T12:45:49.280432+00:00|https://www.telegraph.co.uk/business/2026/06/12/uk-economy-gdp-starmer-oil-prices-ftse-100-markets|recession risk grows after economy shrinks|8fbf5ce9e4605a894ff1467761cd1267
@@ -143,3 +141,5 @@
 2026-06-19T05:26:18.285542+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/british-innovations-saving-mothers-and-babies|the british innovations saving mothers and babies in the developing world|dc4c1ea4cb2b8e98d3da89bd6d14202b
 2026-06-19T05:26:20.612678+00:00|https://www.bbc.com/news/articles/cn59ykv9w53o|toddler critical and cost of living hope|0075bf8772a047cc5f704bf5d9cd5891
 2026-06-19T05:26:22.900782+00:00|https://news.sky.com/story/conservatives-win-by-election-in-aberdeen-south-13555591|tories and snp win scottish byelections as labour come fourth in both races|f9dfffa00db482edb4ec78e48d09766c
+2026-06-19T10:02:36.741026+00:00|https://www.bbc.com/news/articles/c6216g52p8wo|plans to end gazumping with binding agreements in house sales shakeup|e813a7788525219b91a81d6d86caa9ef
+2026-06-19T10:02:39.325239+00:00|https://www.bbc.com/news/articles/cp9l2278m8no|boy 3 was attacked by crocodile at zoo as man bailed|55d656b0c74b7b592bfeeea5027f16ad
