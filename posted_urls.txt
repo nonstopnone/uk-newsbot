@@ -149,3 +149,6 @@
 2026-06-20T03:58:42.967869+00:00|https://news.sky.com/story/muggier-heatwave-could-top-34c-in-next-few-days-as-extreme-heat-warning-issued-13555809|britain facing tropical night temperatures as extreme heat warning issued|fd71f8e7d641a5ecd53d0375f976f0fd
 2026-06-20T03:58:45.629941+00:00|https://www.bbc.com/weather/articles/cp8lye61jk6o|cooler saturday gives brief relief before heat returns|dc6240bc49d4ebb1eff19d1a1fe82f11
 2026-06-20T03:58:48.062535+00:00|https://www.bbc.com/news/articles/cj4g242j9ngo|the papers cabinet turns on starmer and megs in for palace stay|1f29db47763ce452fbbcc9da95576e37
+2026-06-20T10:35:31.891991+00:00|https://www.bbc.com/news/articles/cevl4vg40yko|long queues at edinburgh airport after suspicious items evacuation|b70c36723ccb32cc3b5ce0bff83f638c
+2026-06-20T10:35:34.507751+00:00|https://www.bbc.com/news/articles/cewq05jqklno|hospital suspends maternity services due to staff shortages|b5c1aa966d4db3d2ebd57851dc9f44fd
+2026-06-20T10:35:37.049794+00:00|https://news.sky.com/story/speculation-growing-king-could-be-reunited-with-grandchildren-as-sussexes-offered-royal-rooms-on-uk-visit-13556028|speculation growing king could be reunited with grandchildren as sussexes offered royal rooms on uk visit|3c727b006bac2dd3d640d00af5df723d

@@ -9470,5 +9470,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781927917.19803
+  },
+  "b70c36723ccb32cc3b5ce0bff83f638c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident at a major UK infrastructure site resulting in an evacuation and ongoing travel disruption for the public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781951680.863057
+  },
+  "b5c1aa966d4db3d2ebd57851dc9f44fd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health service disruption involving NHS infrastructure and patient safety in Northern Ireland, falling under the NHS category.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781951691.974707
+  },
+  "0dc6d328aba9a391e585bbb45eb0a586": {
+    "is_relevant": true,
+    "reasoning": "This is a major UK transport infrastructure incident involving a fatal train collision and mass casualties, which is significant hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781951714.338857
+  },
+  "3c727b006bac2dd3d640d00af5df723d": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the activities and personal affairs of the British Royal Family, which is a core topic for UK news and specifically included in the relevance criteria.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781951721.71284
+  },
+  "6652e4217df7699ce06b93fbe88b8cf1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health news story involving a major investigation by the Public Services Ombudsman for Wales into a fatal medical error at an NHS hospital.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781951731.252155
   }
 }
