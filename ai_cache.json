@@ -9596,5 +9596,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781989009.980402
+  },
+  "f68fd7339764996fda3832782a11256b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving multiple fatalities in London, falling under major news and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781993717.261555
+  },
+  "82077a4572bb3e15387ad5eb3ef713b1": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant constitutional and financial shift involving the British Head of State, which is of direct public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1781993731.959191
   }
 }
