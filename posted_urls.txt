@@ -1,6 +1,3 @@
-2026-06-13T12:55:30.735554+00:00|https://www.bbc.com/news/articles/c20ygdde4djo|riots dont speak for belfast thousands gather for antiracism rally|3bd7ce6a008d9e1f2aa2e8b023d3eafb
-2026-06-13T12:55:33.205466+00:00|https://www.bbc.com/news/articles/cy8wppwdxl6o|officer accused of using ai to create evidence|737a571beec7d2aa6839a11ac6e45e2f
-2026-06-13T12:55:35.645802+00:00|https://news.sky.com/story/tommy-robinson-set-to-debate-suspicion-of-islam-at-oxford-union-despite-outcry-13553595|tommy robinson set to debate suspicion of islam at oxford union despite outcry|49f8d18a1d82e083a840c269dcc68698
 2026-06-13T15:03:49.980978+00:00|https://www.bbc.com/sport/football/articles/cwyldy8w0jpo|stolen england training equipment recovered|f38b9f8f9239cd4b0f63f2fcde1151ee
 2026-06-13T15:03:52.353560+00:00|https://www.bbc.com/news/articles/cpv3mmlg872o|in pictures trooping the colour marks kings official birthday|3ce8ffd1b4655154c0909026a879411a
 2026-06-13T15:03:54.651278+00:00|https://www.telegraph.co.uk/tennis/2026/06/13/emma-raducanu-vs-kamilla-rakhimova-queens-score-latest|raducanu reaches semifinal at queens club after overcoming injury scare|c22b0b8e95127ed99f44fa0e198ecde4
@@ -152,3 +149,7 @@
 2026-06-20T10:35:37.049794+00:00|https://news.sky.com/story/speculation-growing-king-could-be-reunited-with-grandchildren-as-sussexes-offered-royal-rooms-on-uk-visit-13556028|speculation growing king could be reunited with grandchildren as sussexes offered royal rooms on uk visit|3c727b006bac2dd3d640d00af5df723d
 2026-06-20T12:19:27.199186+00:00|https://www.bbc.com/news/articles/cn75z3nl048o|what we know about bedford train crash and how it is affecting travel|b7105a65994e3792e5d022e03975fcaa
 2026-06-20T12:19:29.649773+00:00|https://www.bbc.com/news/articles/cx2xg6lwz5jo|four in hospital after barechested man with weapon roams around edinburgh|23add8877c0443df78c48fde36499352
+2026-06-20T14:42:13.468414+00:00|https://www.bbc.com/news/articles/cgl3zz96wg7o|manslaughter charge after pub assault death|35bb63fbf7d807f7a34e368449df138e
+2026-06-20T14:42:15.896480+00:00|https://news.sky.com/story/europe-swelters-as-heatwave-intensifies-with-temperatures-of-up-to-44c-forecast-13556084|europe swelters as heatwave intensifies with temperatures of up to 44c forecast|189ba2898f6ac8acd4788fa64644ea18
+2026-06-20T14:42:18.292527+00:00|https://www.bbc.com/news/articles/cjeg7p5w4y9o|talk of starmer staying on to fight is fading fast|2b9b7624c1230fa8c170bedbdeb7e708
+2026-06-20T14:42:20.585436+00:00|https://news.sky.com/story/gay-and-trans-conversion-therapy-ban-bill-expected-to-be-published-13556071|gay and trans conversion therapy ban bill expected to be published|dd8e49107ed1c3fe91477a118002b11c

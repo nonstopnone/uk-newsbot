@@ -9512,5 +9512,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781957966.585889
+  },
+  "35bb63fbf7d807f7a34e368449df138e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatality and subsequent manslaughter charge within the UK jurisdiction of Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781966502.984223
+  },
+  "189ba2898f6ac8acd4788fa64644ea18": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant weather event directly affecting the UK, including potential record-breaking temperatures and related safety warnings.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1781966523.38034
+  },
+  "dd8e49107ed1c3fe91477a118002b11c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant piece of impending UK legislation regarding social policy and government activity, falling directly under domestic politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781966533.012927
   }
 }
