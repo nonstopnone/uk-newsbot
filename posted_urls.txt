@@ -1,5 +1,3 @@
-2026-06-13T10:58:31.024664+00:00|https://www.bbc.com/news/articles/ce8jyd85ejeo|healey wanted uk to join global defence bank bbc told|7ced3407d32854fac48ec88f7e6ef9bd
-2026-06-13T10:58:33.465787+00:00|https://www.bbc.com/news/articles/cvg4nw5ly1lo|fines of £100 for camdens rowdy outdoor drinkers|6400fb85768d3c0a7c53b4a6e42fae58
 2026-06-13T12:55:30.735554+00:00|https://www.bbc.com/news/articles/c20ygdde4djo|riots dont speak for belfast thousands gather for antiracism rally|3bd7ce6a008d9e1f2aa2e8b023d3eafb
 2026-06-13T12:55:33.205466+00:00|https://www.bbc.com/news/articles/cy8wppwdxl6o|officer accused of using ai to create evidence|737a571beec7d2aa6839a11ac6e45e2f
 2026-06-13T12:55:35.645802+00:00|https://news.sky.com/story/tommy-robinson-set-to-debate-suspicion-of-islam-at-oxford-union-despite-outcry-13553595|tommy robinson set to debate suspicion of islam at oxford union despite outcry|49f8d18a1d82e083a840c269dcc68698
@@ -152,3 +150,5 @@
 2026-06-20T10:35:31.891991+00:00|https://www.bbc.com/news/articles/cevl4vg40yko|long queues at edinburgh airport after suspicious items evacuation|b70c36723ccb32cc3b5ce0bff83f638c
 2026-06-20T10:35:34.507751+00:00|https://www.bbc.com/news/articles/cewq05jqklno|hospital suspends maternity services due to staff shortages|b5c1aa966d4db3d2ebd57851dc9f44fd
 2026-06-20T10:35:37.049794+00:00|https://news.sky.com/story/speculation-growing-king-could-be-reunited-with-grandchildren-as-sussexes-offered-royal-rooms-on-uk-visit-13556028|speculation growing king could be reunited with grandchildren as sussexes offered royal rooms on uk visit|3c727b006bac2dd3d640d00af5df723d
+2026-06-20T12:19:27.199186+00:00|https://www.bbc.com/news/articles/cn75z3nl048o|what we know about bedford train crash and how it is affecting travel|b7105a65994e3792e5d022e03975fcaa
+2026-06-20T12:19:29.649773+00:00|https://www.bbc.com/news/articles/cx2xg6lwz5jo|four in hospital after barechested man with weapon roams around edinburgh|23add8877c0443df78c48fde36499352

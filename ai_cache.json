@@ -9505,5 +9505,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1781951731.252155
+  },
+  "23add8877c0443df78c48fde36499352": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety incident involving multiple injuries and police intervention in a major UK city, which qualifies as hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781957966.585889
   }
 }
