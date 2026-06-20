@@ -9540,5 +9540,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781971718.324544
+  },
+  "2eab222ce5ade6be0a45caece8ebb0cc": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports match report and analysis, which falls under the excluded category of sports previews and reports.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781977744.720812
+  },
+  "2e94d2713834e21836ac0530fb4a6597": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK professional sporting achievement involving a Gallagher Premiership rugby final.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781977755.756491
+  },
+  "149d9af145d2bf297b91665efb89e416": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and crime-related incident involving counter-terrorism police in a UK capital city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1781977764.930231
+  },
+  "4b7fe82dfc38b43b22b64663e2ac499a": {
+    "is_relevant": true,
+    "reasoning": "This is a major, time-sensitive transport disaster involving a fatality and mass casualties in the UK, requiring urgent public interest reporting.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781977780.553901
   }
 }
