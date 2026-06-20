@@ -9568,5 +9568,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781977780.553901
+  },
+  "31d53e5a55e2bf8807d6a83f7b9d5428": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a international football match between the Netherlands and Sweden, which does not constitute hard UK news or material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781984495.103441
+  },
+  "cab64d1fc38aaaf4dcff6d5301943b75": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity human interest story and lifestyle content, which does not constitute hard news regarding UK politics, economy, security, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781984507.428415
+  },
+  "eefdc3523375d743d50deffb39812493": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major international cricket match involving the England national team, which falls under UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781984516.56436
   }
 }

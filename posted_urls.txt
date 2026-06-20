@@ -1,5 +1,3 @@
-2026-06-13T18:10:13.641180+00:00|https://www.bbc.com/news/articles/cwykw759v3po|molly russells dad says pm rushing social media restrictions deplorable|ceffc6e5a9165f4604e213169391fa30
-2026-06-13T18:10:16.073543+00:00|https://www.bbc.com/news/articles/cwydpj0k31no|eight arrested during antiimmigration march|a8e8a290afa8c457fd9f820d1bfba3d8
 2026-06-13T19:55:05.508820+00:00|https://www.bbc.com/news/articles/cj9g1wgxng2o|resident doctors cancel strike after new offer from government|ccef1947547737fefe56690e968e2535
 2026-06-13T21:19:57.281622+00:00|https://www.bbc.com/news/articles/ckgpj6d23xjo|our sons 20 allergies are so complex he has to travel to the us for regular treatment|102c43b7aed699962828ff884e1100a2
 2026-06-13T21:19:59.701062+00:00|https://news.sky.com/story/doctors-strike-in-england-called-off-after-new-offer-from-government-13553795|doctors strike in england called off after new offer from government|a2482ae0cef63de29e03bbff8b8f8666
@@ -150,3 +148,5 @@
 2026-06-20T17:49:44.301370+00:00|https://www.telegraph.co.uk/rugby-union/2026/06/20/northampton-saints-v-exeter-chiefs-live-score-prem-final|hendy double powers northampton to second prem title in three years|2e94d2713834e21836ac0530fb4a6597
 2026-06-20T17:49:46.839286+00:00|https://news.sky.com/story/counter-terror-police-investigating-violent-attacks-in-edinburgh-13556144|counter terror police investigate attacks that appeared to target muslims in uk city|149d9af145d2bf297b91665efb89e416
 2026-06-20T17:49:49.398832+00:00|https://www.bbc.com/news/articles/ce8j33e30neo|nine people in critical condition among 100 injured in fatal bedford train crash|4b7fe82dfc38b43b22b64663e2ac499a
+2026-06-20T19:41:56.948424+00:00|https://www.bbc.com/news/articles/cx2j700l5jlo|people flew from their seats passengers describe how bedford train crash unfolded|0dc6d328aba9a391e585bbb45eb0a586
+2026-06-20T19:41:59.413316+00:00|https://www.telegraph.co.uk/cricket/2026/06/20/england-vs-new-zealand-live-second-test-score-latest-day-4|ragtag england on brink despite roots brilliance|eefdc3523375d743d50deffb39812493
