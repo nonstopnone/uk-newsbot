@@ -9589,5 +9589,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1781984516.56436
+  },
+  "17875a39a4ba6e054ba3198b207cb2de": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story about an individual's personal health struggle rather than hard news, political policy, or a matter of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781989009.980402
   }
 }
