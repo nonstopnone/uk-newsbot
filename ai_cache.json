@@ -9533,5 +9533,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1781966533.012927
+  },
+  "acd1f0eb81a2c11be5aba424902443c3": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major, time-sensitive transport accident in the UK involving a fatality and significant casualties, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781971718.324544
   }
 }

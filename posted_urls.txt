@@ -1,6 +1,3 @@
-2026-06-13T15:03:49.980978+00:00|https://www.bbc.com/sport/football/articles/cwyldy8w0jpo|stolen england training equipment recovered|f38b9f8f9239cd4b0f63f2fcde1151ee
-2026-06-13T15:03:52.353560+00:00|https://www.bbc.com/news/articles/cpv3mmlg872o|in pictures trooping the colour marks kings official birthday|3ce8ffd1b4655154c0909026a879411a
-2026-06-13T15:03:54.651278+00:00|https://www.telegraph.co.uk/tennis/2026/06/13/emma-raducanu-vs-kamilla-rakhimova-queens-score-latest|raducanu reaches semifinal at queens club after overcoming injury scare|c22b0b8e95127ed99f44fa0e198ecde4
 2026-06-13T16:47:52.648688+00:00|https://www.telegraph.co.uk/rugby-union/2026/06/13/bath-vs-exeter-live-prem-rugby-semi-final-latest|exeter chiefs produce one of the great comebacks to reach prem final|2a63d6dd1d21e2b0b179d3165a710dbd
 2026-06-13T16:47:55.070187+00:00|https://www.bbc.com/news/articles/c5yzerz5124o|antiracism rally disrupted by masked group in glasgow|bb87b748949863915036d3005e77d8de
 2026-06-13T16:47:57.489094+00:00|https://news.sky.com/story/thousands-attend-anti-racism-rally-in-belfast-after-week-of-unrest-13553732|thousands attend antiracism rally in belfast|717b33284cf93ab633d92917b7770061
@@ -153,3 +150,4 @@
 2026-06-20T14:42:15.896480+00:00|https://news.sky.com/story/europe-swelters-as-heatwave-intensifies-with-temperatures-of-up-to-44c-forecast-13556084|europe swelters as heatwave intensifies with temperatures of up to 44c forecast|189ba2898f6ac8acd4788fa64644ea18
 2026-06-20T14:42:18.292527+00:00|https://www.bbc.com/news/articles/cjeg7p5w4y9o|talk of starmer staying on to fight is fading fast|2b9b7624c1230fa8c170bedbdeb7e708
 2026-06-20T14:42:20.585436+00:00|https://news.sky.com/story/gay-and-trans-conversion-therapy-ban-bill-expected-to-be-published-13556071|gay and trans conversion therapy ban bill expected to be published|dd8e49107ed1c3fe91477a118002b11c
+2026-06-20T16:08:41.159761+00:00|https://www.bbc.com/news/videos/cp3xl7zw4gyo|watch what we know about the bedford train crash|acd1f0eb81a2c11be5aba424902443c3
