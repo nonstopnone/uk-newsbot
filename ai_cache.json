@@ -9414,5 +9414,61 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1781912968.329742
+  },
+  "574b85a828f8b42a665f55f87a2975f9": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a controversial event held in London that has sparked domestic protest and public criticism, involving issues of legality and UK political sensitivity regarding foreign policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781927836.759132
+  },
+  "08cc313fd599278d16e12edbb9767b09": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major international sporting event involving a UK national team, which is relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1781927844.745468
+  },
+  "2550f4655a944e7b41b6f0e144a672fd": {
+    "is_relevant": false,
+    "reasoning": "This is a sports preview/report on a golf tournament. Per the instructions, sports reporting is rejected as fluff/non-hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781927854.795156
+  },
+  "cc0efc80b44162013eccf4a14668344f": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer technology product launch and lifestyle review, which falls under the category of product news rather than hard UK news or public interest journalism.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781927870.514021
+  },
+  "fd71f8e7d641a5ecd53d0375f976f0fd": {
+    "is_relevant": true,
+    "reasoning": "Extreme weather events impacting the UK are considered significant public interest news affecting infrastructure and public health.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781927880.334585
+  },
+  "5797a803a5cd0e3bec9278a9c5a159f8": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest piece about local community events rather than hard news or significant UK public interest content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781927890.760467
+  },
+  "79b6d827e963dfd5592ed1d0e8188a31": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and health advice piece rather than hard news; it does not meet the criteria for political, economic, or major national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781927900.052287
+  },
+  "1f29db47763ce452fbbcc9da95576e37": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant developments regarding the UK Cabinet's internal standing and the political stability of the Prime Minister, which constitutes hard UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781927917.19803
   }
 }
