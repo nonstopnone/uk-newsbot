@@ -9610,5 +9610,33 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1781993731.959191
+  },
+  "eeef629cf151d6e875e2f96630b19ffd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant breaking news incident involving multiple fatalities and a major emergency response in London.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1781998747.696531
+  },
+  "92335c670adabaddc1f51514ef07132e": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-focused human interest story about a German international footballer; while the player previously played for Brighton, the content is a sports feature rather than hard news relevant to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781998755.817592
+  },
+  "2606f0061925d0ed436f675b25a4af0d": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a new legislative bill in the Northern Ireland Assembly addressing the safety of public-facing workers, which constitutes significant devolved politics and legal policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1781998764.437462
+  },
+  "b7edb9465b684462b1c90fa755d610ae": {
+    "is_relevant": false,
+    "reasoning": "This is a media industry announcement regarding the production of a television series, which constitutes entertainment or corporate news rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1781998782.353608
   }
 }
