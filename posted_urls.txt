@@ -1,6 +1,3 @@
-2026-06-14T11:17:39.264895+00:00|https://www.bbc.com/news/articles/cx2dmdnl1ego|days of violence a stain on nis international reputation|adf85ecf58ea5437c792ad9dd76d67ef
-2026-06-14T11:17:41.697278+00:00|https://www.bbc.com/news/articles/clyek039l2vo|royal marines board russian shadow fleet oil tanker in english channel|b7bdace0df745068cc12e736fe1043d7
-2026-06-14T11:17:44.104711+00:00|https://news.sky.com/story/tommy-robinson-says-hes-been-detained-at-heathrow-13553889|tommy robinson says hes been detained at heathrow|66c67e6b114adc3431a51808fcc21fad
 2026-06-14T13:14:51.656395+00:00|https://www.bbc.com/news/articles/ce8jyp78mklo|tech firms had enough time says nandy ahead of social media announcement|8a62852d5f358780b60aaabada3a760e
 2026-06-14T13:14:54.206206+00:00|https://www.bbc.com/news/videos/ce8k5kj64lgo|watch mod video shows russian shadow fleet tanker interception|78ee85821c3abc421753ba7b4dd9e97a
 2026-06-14T15:21:52.396502+00:00|https://www.bbc.com/sport/formula1/articles/cn8k5n737p4o|lewis hamilton wins first grand prix for ferrari|7c215307f336ea709a77073ab9ab5593
@@ -147,3 +144,6 @@
 2026-06-21T07:09:48.168096+00:00|https://www.bbc.com/news/articles/cpq3n5g218no|leadership uncertainty enormously disruptive former top civil servant warns|d3b6c37bffdc9bd2d214c0a30391d73a
 2026-06-21T10:48:40.924130+00:00|https://www.bbc.com/news/articles/ckg0d6y888zo|woman dies on small boat crossing the channel|71fb8df2b173425660eedcd3d7fddb90
 2026-06-21T10:48:43.326542+00:00|https://www.bbc.com/news/articles/c3631k30xjlo|what is burnhams path to becoming labour leader and pm|8f8fd5ba50bf08c9a87b575973507274
+2026-06-21T13:09:54.820720+00:00|https://www.bbc.com/news/articles/cewq0eggg4lo|disruption to last a week after fatal bedford train crash|74f021a251cd1ff3bc79f2d9bcb8163e
+2026-06-21T13:09:57.321563+00:00|https://www.bbc.com/weather/articles/c932k0lewygo|extreme heat warning extended to four days as 38c forecast in uk|dc42c7aa340befedc43b8152cdddaec2
+2026-06-21T13:09:59.769015+00:00|https://news.sky.com/story/prince-williams-children-call-him-best-papa-on-44th-birthday-13556347|prince williams children call him best papa on 44th birthday|bb3bf3dee1d8de8342566093bbc36752

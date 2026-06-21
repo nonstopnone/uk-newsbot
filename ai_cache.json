@@ -9701,5 +9701,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782038920.298186
+  },
+  "0a4924938bbeeb06ea2ccee9ddb1c74b": {
+    "is_relevant": false,
+    "reasoning": "This article covers a cricket match result and sports analysis, which falls under the category of sports reporting. Per the instructions, sports content is rejected for the r/BreakingUKNews subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782047357.410014
+  },
+  "e9e0676af13f4f5de61432259f2a138e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety warning from the Met Office regarding extreme weather affecting UK infrastructure and public health, which qualifies as hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782047371.879058
+  },
+  "a1c5ca74f4289172f175220bb41ea56b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal Family, which is a core category for UK news coverage.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782047384.423819
+  },
+  "bb3bf3dee1d8de8342566093bbc36752": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the Royal Family, which falls under the established criteria for UK news relevance.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782047393.899015
   }
 }
