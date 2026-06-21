@@ -9729,5 +9729,33 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1782047393.899015
+  },
+  "a364826ed2c6184ba33a93994a944b6e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal stabbing and an active murder investigation in London, which falls under the category of serious crime and police activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782055055.716144
+  },
+  "aab5b79f43da81952cf1d11b5ad3c54f": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal investigation, charges, and court proceedings regarding a murder in the UK, which is directly relevant to public interest and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782055090.775506
+  },
+  "59183e0355ce70d6ebb5b4ad36ce4467": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the performance and progress of the Scotland national football team in the World Cup, which is of significant interest to a UK sports audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782055108.597968
+  },
+  "48be79e82087128cab87ec02b87820f2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant incident involving UK rail infrastructure, public safety, and major travel disruption.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782055129.860413
   }
 }
