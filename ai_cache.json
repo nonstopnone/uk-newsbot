@@ -9792,5 +9792,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782078995.89907
+  },
+  "9651f1f7b70c9a9d4b36a0c6d59a2e61": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice/service journalism piece rather than hard news; it provides general tips on avoiding scams rather than reporting on a specific newsworthy event or policy change.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782084090.446528
+  },
+  "e1c02544c1a0c5a9c0fddadc2d3d4565": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about local banking access rather than hard news or a significant national policy development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782084105.459591
   }
 }
