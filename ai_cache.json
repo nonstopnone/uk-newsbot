@@ -9771,5 +9771,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782061592.735322
+  },
+  "195801ad5dbf1452a52f38791ee61e79": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international football match between Spain and Saudi Arabia that does not involve any UK teams or players, therefore it lacks relevance to the UK news landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782068002.738406
   }
 }
