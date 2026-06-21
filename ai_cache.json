@@ -9757,5 +9757,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782055129.860413
+  },
+  "2c1395d1b767c5527d62f73ebe5e69bd": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a fatal major transport infrastructure incident involving emergency services, multiple casualties, and significant disruption to the UK rail network.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782061583.104862
+  },
+  "63202ba764097f0225230ae8648396dc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation and arrests in the UK, which meets the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782061592.735322
   }
 }
