@@ -9659,5 +9659,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782007593.07132
+  },
+  "ab729d70780b9514d454ea85f3e3b1be": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and photo-gallery piece regarding a seasonal astronomical event, which does not constitute hard news or a significant event relevant to the core categories of the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782038862.932502
+  },
+  "62c1c843823554392be8e1343e50cd5e": {
+    "is_relevant": false,
+    "reasoning": "This is a business/finance report regarding a private company's funding round, which constitutes corporate news rather than significant national economic news or hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782038870.039154
+  },
+  "85585f11ef834c93788f6642c0147eec": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/human interest piece focused on seasonal solstice traditions and does not constitute hard news of significant political, economic, or national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782038879.962151
+  },
+  "71fb8df2b173425660eedcd3d7fddb90": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event concerning UK border security and immigration policy, occurring within UK waters and involving a response from the Home Office and Kent Police.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782038889.921948
+  },
+  "40fd3a66c4eb7eefe624692af25f72df": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature/lifestyle piece regarding individual experiences in a specific workplace, rather than hard news or a matter of significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782038910.639973
+  },
+  "3ec757343191f69f9dc529d4b947dfad": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff story about a lost item; it does not constitute hard news relevant to UK politics, economy, or national public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782038920.298186
   }
 }
