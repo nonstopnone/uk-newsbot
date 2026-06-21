@@ -9785,5 +9785,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782073590.94332
+  },
+  "a504b488579a976f794bf075881f7163": {
+    "is_relevant": true,
+    "reasoning": "This report concerns serious allegations of systemic child abuse at a Welsh educational institution and resulting legal payouts, which is a matter of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782078995.89907
   }
 }
