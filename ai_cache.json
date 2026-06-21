@@ -9638,5 +9638,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1781998782.353608
+  },
+  "29ec6ca49ddb4494a8670251405b213b": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity health story. It does not qualify as hard news, politics, or policy-related content according to the defined criteria for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782007564.426472
+  },
+  "0a16324a29717ec092c530328caee03d": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant developments regarding the leadership of the UK's governing party and the actions of the Head of State, which are of high political and national importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782007582.904777
+  },
+  "3c8c9140b994b11f93b28e1991c2a21b": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports profile regarding a German international player's performance in a football match, which does not constitute hard news or a significant event for a general UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782007593.07132
   }
 }
