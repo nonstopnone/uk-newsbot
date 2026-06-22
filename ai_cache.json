@@ -9932,5 +9932,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782151558.265436
+  },
+  "a3da1689dbf8a6302d0eb19082008132": {
+    "is_relevant": false,
+    "reasoning": "The article is about international football and does not involve UK teams, UK players, or have a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782162860.97003
+  },
+  "efd44f3576a94e988d998299d0e2f715": {
+    "is_relevant": true,
+    "reasoning": "This is a major UK transport infrastructure incident involving significant casualties and government response, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782162870.347924
   }
 }
