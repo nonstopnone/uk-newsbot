@@ -1,5 +1,3 @@
-2026-06-15T11:35:51.694597+00:00|https://www.bbc.com/news/articles/cvgj168m546o|commissioner disappointed by social media ban for children|c08397a80614f1dec90645943d478933
-2026-06-15T11:35:54.066359+00:00|https://www.bbc.com/news/articles/cj9g23vmz42o|social media ban fantastic says bereaved mum|d9cebd54bfb3bddc0c67166829bf2779
 2026-06-15T16:35:12.604350+00:00|https://www.bbc.com/news/articles/cvgld0vywpmo|teacher guilty of sexually abusing and murdering adopted baby|8ca9ad83b1808c0443b340acebea5654
 2026-06-15T16:35:14.937261+00:00|https://www.bbc.com/news/articles/c20ydeep2x2o|gang guilty of organised crime in £4m cocaine and dirty money ring|1ac454c9eb25a83aa31de166b60d9b32
 2026-06-15T16:35:18.769262+00:00|https://news.sky.com/story/unduly-lenient-sentence-for-henry-nowaks-murderer-referred-to-the-court-of-appeal-13554353|unduly lenient sentence for henry nowaks murderer referred to court of appeal|e7981e85fe6fedb9d30908ee29120aa4
@@ -140,3 +138,5 @@
 2026-06-22T07:43:21.621138+00:00|https://www.bbc.com/news/articles/cwy0v41w9l6o|jury in donaldson sex abuse trial to continue deliberations|40f5783f1ace5cb048ac5317a4605008
 2026-06-22T07:43:24.184719+00:00|https://news.sky.com/story/u-turn-on-electric-vehicle-plans-would-add-13-to-uk-emissions-13556086|uturn on electric vehicle plans would add 13 to uk emissions|ee99b89539afb6ae2ef70e5bddf50861
 2026-06-22T08:55:43.235625+00:00|https://www.telegraph.co.uk/politics/2026/06/22/keir-starmer-resignation-labour-burnham-streeting-no-10|keir starmer resigns watch live|e7bbc2bf1dee413299ba5c10e3697f1d
+2026-06-22T13:20:26.832718+00:00|https://www.bbc.com/news/articles/c20y1n8y2z7o|injured ticket inspector who helped others in bedford train crash hailed a hero|d9db5a1b665d9428809bc1145b959f66
+2026-06-22T13:20:29.249019+00:00|https://www.bbc.com/news/articles/c0ry128r599o|first red warning for extreme heat for wales as temperatures could hit 38c|6b6e2b0262855b6362505327a264f3ff

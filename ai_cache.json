@@ -9862,5 +9862,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782118542.783929
+  },
+  "d9db5a1b665d9428809bc1145b959f66": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK infrastructure incident involving a fatal train collision, casualties, and major ongoing travel disruption.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782134394.962599
+  },
+  "bed5874fc0538e5dcf5815698685bc92": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal investigation involving a murder arrest in the UK, which falls under crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782134405.654724
+  },
+  "3d11690401621285b40ac9f07ed24195": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on an active police investigation into misconduct within an NHS trust, directly involving public health and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782134415.733918
+  },
+  "79e35c7734dd3fb60438f3e1d8d598f9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal investigation involving a murder charge in London, which is highly relevant to UK crime and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782134425.751159
   }
 }
