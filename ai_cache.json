@@ -9946,5 +9946,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782162870.347924
+  },
+  "5a93a3cf79d1a519cd4e4181b11d5933": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political news story concerning the former chief executive of a major UK political party and high-profile corruption case.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782169039.219366
+  },
+  "88f8d6d6c72b3d1d2ebd9de2543843ee": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story about a private dispute over fly-tipping and does not constitute hard national news or a matter of significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782169049.347121
+  },
+  "3911ed09fcb27108d83d7ef5407f05a4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cultural controversy involving a major national institution, public figures, and historical debate regarding a former Prime Minister, making it highly relevant to UK public discourse.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782169059.082407
+  },
+  "f324a93fcf40c539889d3dc2f99a5b27": {
+    "is_relevant": false,
+    "reasoning": "The article concerns international football statistics and personal sporting achievements which do not constitute hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782169073.579301
   }
 }
