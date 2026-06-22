@@ -9890,5 +9890,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782134425.751159
+  },
+  "a5e22a2e9b78481207e456cc27bbb3d2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing criminal and counter-terrorism case occurring within the UK involving multiple injuries and police activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782151510.917666
+  },
+  "3280d18d64bd6d088ff60c0524adbeb1": {
+    "is_relevant": true,
+    "reasoning": "This concerns the criminal conviction of a high-profile former UK political leader in a Northern Ireland court, which is a major matter of public interest and judicial significance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782151518.124033
+  },
+  "bd6c245dccb8378b4ed5c205dec3c890": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a major cyber attack affecting national infrastructure (TfL) and millions of UK citizens, involving ongoing criminal court proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782151527.88894
+  },
+  "64f810282cfaceb8b2205cc884ca60f0": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle human-interest story regarding a private dispute between a customer and a business, which does not constitute hard news of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782151537.329133
+  },
+  "5311ecb9f2418393d67da1a60e87dd56": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding UK domestic politics and the internal dynamics of the governing party concerning potential leadership transitions.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782151548.45962
+  },
+  "ea0101ff27719a71a5eb464e18ce8979": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant criminal conviction of a high-profile former UK political party leader, which falls under both Crime & Legal and UK politics.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782151558.265436
   }
 }

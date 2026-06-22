@@ -1,7 +1,3 @@
-2026-06-15T16:35:12.604350+00:00|https://www.bbc.com/news/articles/cvgld0vywpmo|teacher guilty of sexually abusing and murdering adopted baby|8ca9ad83b1808c0443b340acebea5654
-2026-06-15T16:35:14.937261+00:00|https://www.bbc.com/news/articles/c20ydeep2x2o|gang guilty of organised crime in £4m cocaine and dirty money ring|1ac454c9eb25a83aa31de166b60d9b32
-2026-06-15T16:35:18.769262+00:00|https://news.sky.com/story/unduly-lenient-sentence-for-henry-nowaks-murderer-referred-to-the-court-of-appeal-13554353|unduly lenient sentence for henry nowaks murderer referred to court of appeal|e7981e85fe6fedb9d30908ee29120aa4
-2026-06-15T16:35:21.231395+00:00|https://news.sky.com/story/uk-weather-health-alerts-issued-as-temperatures-could-hit-30c-13554319|health alerts issued as temperatures could hit 30c|a93facc29173b7b7a26951d59b5e3a40
 2026-06-15T20:16:56.151987+00:00|https://www.bbc.com/news/articles/cddl65dp0rdo|social media ban bold and blunt but no silver bullet|9013cef2a8435f1bfebeca500a180aca
 2026-06-15T20:16:58.728337+00:00|https://www.telegraph.co.uk/business/2026/06/15/us-iran-deal-oil-price-interest-rates-ftse-100-markets|wall street hits record high on usiran peace deal|7911e7d9ce40c1dacae81aa0b657999e
 2026-06-15T20:17:01.172708+00:00|https://www.bbc.com/news/articles/c2kydl0zqeko|under16s to be banned from tiktok youtube and other social media by next spring starmer says|29cb47510b313edd88d3e38573cc4556
@@ -140,3 +136,8 @@
 2026-06-22T08:55:43.235625+00:00|https://www.telegraph.co.uk/politics/2026/06/22/keir-starmer-resignation-labour-burnham-streeting-no-10|keir starmer resigns watch live|e7bbc2bf1dee413299ba5c10e3697f1d
 2026-06-22T13:20:26.832718+00:00|https://www.bbc.com/news/articles/c20y1n8y2z7o|injured ticket inspector who helped others in bedford train crash hailed a hero|d9db5a1b665d9428809bc1145b959f66
 2026-06-22T13:20:29.249019+00:00|https://www.bbc.com/news/articles/c0ry128r599o|first red warning for extreme heat for wales as temperatures could hit 38c|6b6e2b0262855b6362505327a264f3ff
+2026-06-22T18:05:58.857252+00:00|https://www.bbc.com/news/articles/cx2x9j1en29o|man charged with terrorism connected attempted murders in edinburgh|a5e22a2e9b78481207e456cc27bbb3d2
+2026-06-22T18:06:01.489353+00:00|https://www.bbc.com/news/articles/c04yrvzkdqqo|ex dup leader donaldson guilty of child sex abuse charges including one of rape|3280d18d64bd6d088ff60c0524adbeb1
+2026-06-22T18:06:06.026352+00:00|https://www.telegraph.co.uk/business/2026/06/22/pound-uk-bonds-borrowing-costs-starmer-burnham-ftse-100|investors shun uk bonds after starmer quits|5933b0746bddfe37d128845447358b6a
+2026-06-22T18:06:08.552594+00:00|https://news.sky.com/story/andy-burnham-meeting-labour-mps-to-win-their-confidence-as-next-pm-13556772|burnham meeting labour mps to win their confidence as next pm|5311ecb9f2418393d67da1a60e87dd56
+2026-06-22T18:06:11.031268+00:00|https://news.sky.com/story/former-dup-leader-sir-jeffrey-donaldson-found-guilty-of-rape-and-indecent-assault-13555300|former dup leader guilty of rape and sexual offences against children|ea0101ff27719a71a5eb464e18ce8979
