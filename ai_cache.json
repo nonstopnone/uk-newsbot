@@ -9855,5 +9855,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782114198.631543
+  },
+  "e7bbc2bf1dee413299ba5c10e3697f1d": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a serving Prime Minister is a major event in UK politics with significant national consequences.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782118542.783929
   }
 }
