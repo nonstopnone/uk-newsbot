@@ -1,5 +1,3 @@
-2026-06-15T00:14:16.712353+00:00|https://www.bbc.com/weather/articles/c982yv58gz9o|summer warmth to return this week but rain will linger for some|4fe4dc89fe26768bc4424598d78e345c
-2026-06-15T00:14:19.171703+00:00|https://www.bbc.com/news/articles/ckg701z0p01o|jurors lawyers and social workers face resilience test in inaccessible courts|016805fda0d9383d4a2e6f16bf2b42b6
 2026-06-15T05:32:13.549248+00:00|https://www.bbc.com/news/articles/c05yl3nnd56o|summer strikes averted at glasgow airport as pay deals struck|d6f3ee627671ec184d157791a9ebc394
 2026-06-15T05:32:16.124238+00:00|https://www.bbc.com/news/articles/c932gpk2l1do|onlyfans agents control and threaten creators while taking half their earnings bbc finds|e721c4a21a1f6ad7ae1d7b1ef174ece5
 2026-06-15T11:35:51.694597+00:00|https://www.bbc.com/news/articles/cvgj168m546o|commissioner disappointed by social media ban for children|c08397a80614f1dec90645943d478933
@@ -138,3 +136,5 @@
 2026-06-21T18:53:23.897004+00:00|https://www.bbc.com/news/articles/cn8k1my75gno|starmer considers political future as pressure to quit mounts|bec5db9ab3149bdb1731951939f9a476
 2026-06-21T21:56:38.413186+00:00|https://www.bbc.com/news/articles/c5yz2r0197do|kids were made to eat dog biscuits off the floor pupils speak out after school abuse payouts|a504b488579a976f794bf075881f7163
 2026-06-21T23:21:48.393317+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/freedom-day-hantavirus-rat-cruise-british-passengers|freedom day british passengers on ratvirus cruise ship leave lockdown|353e4aeecf00fc569a09d6dbe6793dbd
+2026-06-22T02:03:57.432441+00:00|https://www.bbc.com/news/articles/c39yd12zed9o|chris mason all eyes on downing street what does the pm say and when|cea9aed595df3678b34af789187e609f
+2026-06-22T02:03:59.853716+00:00|https://www.bbc.com/news/articles/c992mxgrxgvo|the papers starmer expected to announce exit and game over|24396528c771cbea3f17220c6a7df149

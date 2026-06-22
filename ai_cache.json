@@ -9806,5 +9806,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782084105.459591
+  },
+  "24396528c771cbea3f17220c6a7df149": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the potential resignation of the UK Prime Minister, which is a matter of critical political significance to the country.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782093818.033346
+  },
+  "9278463eebd92dda9ddac7087f59718e": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle feature about personal social lives and does not constitute hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782093836.870507
   }
 }
