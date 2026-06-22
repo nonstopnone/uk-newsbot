@@ -9820,5 +9820,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782093836.870507
+  },
+  "e1a00984a38ba66b3845df126a5dafa6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation and murder inquiry being conducted by UK police.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782114159.833112
+  },
+  "40f5783f1ace5cb048ac5317a4605008": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal trial involving a prominent former political leader in the UK, meeting criteria for crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782114170.001459
+  },
+  "e2bedc3aa45297aed7af893192808b8d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about fans purchasing a house used in a television show, which does not constitute hard news or a matter of public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782114178.915113
+  },
+  "b42c457a6e4f63fd2157a6c58c220086": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and social commentary piece regarding school uniform policy rather than hard news on education policy, legislation, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782114190.342087
+  },
+  "ee99b89539afb6ae2ef70e5bddf50861": {
+    "is_relevant": true,
+    "reasoning": "This report concerns government climate policy and national infrastructure targets, which are matters of significant UK political and economic importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782114198.631543
   }
 }
