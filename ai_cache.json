@@ -10275,5 +10275,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782233106.079589
+  },
+  "a48f11478967d7d056f86d6acf049476": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the Royal Family participating in a significant public policy event in London regarding environmental initiatives.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782239640.390916
   }
 }
