@@ -10016,5 +10016,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782189714.975204
+  },
+  "e7ed0a0001634de961e00f56d728267b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer rights and regulatory enforcement action by a UK government body (CMA) affecting a large number of UK residents.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782202876.810365
+  },
+  "a94e2546f7333cf0304001aa5a3e0e81": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a football match between France and Iraq held in the United States, which has no material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782202886.320808
+  },
+  "138021b8a3d3d8484675f6e0112094ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development regarding healthcare and civil registration in Northern Ireland, directly impacting public services within the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782202895.143026
+  },
+  "bb6c801ec26189a3fb49c6d648aba86f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related story involving a breach of prison security and policy, which has prompted an official response from the Ministry of Justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782202904.689898
+  },
+  "15e45a910f0af8d676ddcdd8d692c694": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change for one of the UK's most prominent cultural institutions, the Edinburgh International Festival, affecting public access to arts.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782202913.851988
+  },
+  "c66c19660854132299fd61dae3ee1500": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a workplace fatality and subsequent legal ruling involving the UK Health and Safety Executive, which is directly relevant to UK legal and safety standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782202922.923488
+  },
+  "265b7239a9a4896c1e11c818659b1cf9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a fatal train crash and its impact on infrastructure and public safety, which is a major UK news event.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782202932.016978
+  },
+  "537cb24b6e004ec96a3211309ffc0d9c": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest feature piece rather than hard news; it does not report on a specific event, policy, or significant development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782202945.34526
+  },
+  "c3900af3ecd1aa55e7e2a542cda8a75b": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the security of national UK energy infrastructure and winter preparedness, which is a matter of major public interest and economic stability.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782202953.238394
   }
 }
