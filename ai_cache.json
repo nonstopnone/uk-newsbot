@@ -9995,5 +9995,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782173781.457454
+  },
+  "2c8af558df12dbfa677486f2eabea03c": {
+    "is_relevant": true,
+    "reasoning": "The article addresses significant UK government budget policy regarding science and environmental funding, which is a matter of national interest and public policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782189694.948107
+  },
+  "2de45ff97b0f6bf9578c30fb890446b9": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the deployment and training of British armed forces, falling under UK security and defence policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782189704.313932
+  },
+  "ddf7a60aef41409ebeff3a016b749e58": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a football match between France and Iraq in the United States and lacks any relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782189714.975204
   }
 }
