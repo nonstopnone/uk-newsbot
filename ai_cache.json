@@ -10282,5 +10282,47 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1782239640.390916
+  },
+  "2508ca7e06e98d546c4a09309ef5cefe": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/sports personality piece regarding a footballer's international performance, which does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782248219.063568
+  },
+  "1170053a2158653c597cd002d11ca694": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the criminal conviction of a former high-profile political party leader and its direct impact on public and civic institutions in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782248227.334221
+  },
+  "25f18ec15171a4f97834b5e53f732926": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a UK cabinet minister's policy stance on defence spending, which is a matter of significant national political and security interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782248239.069946
+  },
+  "5c56bdee836f083d4859c3948f2f876d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal stabbing and an active police investigation in London, which falls under core crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782248247.468075
+  },
+  "6669702d48862e590b95689570c1bb89": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal conviction involving a prominent public figure in a UK court, which qualifies as hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782248258.614854
+  },
+  "f2a4ef083d20f67570da750c21049588": {
+    "is_relevant": true,
+    "reasoning": "This concerns an active criminal case being handled by the CPS and the Royal Courts of Justice regarding serious charges in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782248269.9196
   }
 }
