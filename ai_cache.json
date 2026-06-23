@@ -10324,5 +10324,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782248269.9196
+  },
+  "abfcafb4768a44838c40267c3202ef77": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political news story regarding the sentencing of the former chief executive of a major political party for embezzlement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782253163.740443
   }
 }
