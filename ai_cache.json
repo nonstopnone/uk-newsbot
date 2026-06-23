@@ -10191,5 +10191,89 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782223667.37658
+  },
+  "bb39b93a7c09da9c803278b8e19f814d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation and a police-led missing person case in Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782232982.974616
+  },
+  "0addfaf02353bf49f0abc37f54aaf031": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political development concerning the former leader of a major UK political party, falling under Crime & Legal and Politics.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782232993.893757
+  },
+  "7c7282b725c94e4ed95a14b7e1cdc6d9": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle travel guide/listicle and does not constitute hard news relevant to UK public affairs, politics, or economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782233002.976942
+  },
+  "19f6047c9e61f674abcc7e3f66665e7b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial and conviction in a Scottish High Court, which constitutes hard news regarding crime and legal proceedings in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782233013.541429
+  },
+  "d5e9cdb99c8d3e83bbfda844abb9373c": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK inquest regarding failings within the NHS, which is a matter of significant public interest and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782233025.782558
+  },
+  "32cfee5dc2a5a3cf5256e1b681c33e7e": {
+    "is_relevant": false,
+    "reasoning": "The provided text is a general informational piece about heatwaves rather than a specific, time-sensitive news report concerning the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782233036.883969
+  },
+  "25d33b4d60456c34f9643076a9313b16": {
+    "is_relevant": false,
+    "reasoning": "The article is a general scientific explainer about space weather rather than a time-sensitive, hard news report on a specific event affecting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782233047.675979
+  },
+  "f3b09f30191b7c275c8f785b200f5069": {
+    "is_relevant": false,
+    "reasoning": "The article is a general, educational overview of global air pollution rather than a specific, time-sensitive news report concerning the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782233057.577779
+  },
+  "dfc4eb7c0c60a70683a1bda09013360a": {
+    "is_relevant": false,
+    "reasoning": "This is a general medical overview of a virus and does not report on a specific, time-sensitive UK event, policy change, or health alert.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782233072.476487
+  },
+  "24d82914d6929660505f9b4a631abc09": {
+    "is_relevant": false,
+    "reasoning": "This is a general medical overview of a disease and lacks any specific news hook, UK-specific data, or relevance to current British public policy or events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782233083.818684
+  },
+  "a2e67133ff35a980faf2c78320051ffc": {
+    "is_relevant": false,
+    "reasoning": "The article is a general medical backgrounder on a global health issue, with only a passing mention of UK statistics regarding exotic pet bites that does not constitute breaking news or significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782233094.476529
+  },
+  "32fa8b6cff2efb66ed82112bd73d99ce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political story involving a former major UK party leader being convicted of serious criminal offences in a devolved region of the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782233106.079589
   }
 }
