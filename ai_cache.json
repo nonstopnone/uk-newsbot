@@ -10331,5 +10331,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782253163.740443
+  },
+  "7615ec46c70da2745c59df385648ed04": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the NHS, which is a core pillar of UK public interest and national health infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782257781.377865
   }
 }
