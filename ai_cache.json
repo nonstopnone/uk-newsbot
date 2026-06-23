@@ -10079,5 +10079,75 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1782202953.238394
+  },
+  "587d8d0f911d5fe830280e6eeecab578": {
+    "is_relevant": false,
+    "reasoning": "The provided text is a general medical definition of measles rather than a specific news report regarding current UK outbreaks, policy changes, or public health alerts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782214772.910023
+  },
+  "50c2579b274d4a990f616eadd9690d3e": {
+    "is_relevant": false,
+    "reasoning": "This is a general medical description of a skin condition and lacks any specific news hook or relevance to current UK events, policy, or public health emergencies.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782214782.277775
+  },
+  "3c4d9aa388bd1ebd742ae896c12bbd1c": {
+    "is_relevant": false,
+    "reasoning": "This is a general medical explainer about an infection rather than a specific news event or development within the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782214791.576037
+  },
+  "7d752c6bc9f6231ee1be6beba3a7571e": {
+    "is_relevant": false,
+    "reasoning": "This is a general medical overview of a condition and does not report on a specific, time-sensitive UK event, policy change, or health crisis.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782214800.573518
+  },
+  "4dfea9b381583a6014b7f7c9344663cb": {
+    "is_relevant": false,
+    "reasoning": "The article is a general medical definition of a tropical disease with no specific relevance or connection to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782214811.102023
+  },
+  "3de0745076e749ec8d584060d2a34bc7": {
+    "is_relevant": false,
+    "reasoning": "The article is a general medical encyclopedic definition of a virus with no specific relevance to the UK, current UK public health policy, or an ongoing outbreak within the country.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782214823.06789
+  },
+  "7a7772995ed8ab856e3c799804a7a682": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer rights development involving a UK regulator, the Competition and Markets Authority, taking action against a company operating in the UK market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782214834.170242
+  },
+  "833da4976c2772aeaa92a1eb286c57c6": {
+    "is_relevant": true,
+    "reasoning": "The article reports on 702 cases of typhoid fever in the UK in 2024, highlighting a significant public health trend and a material threat to the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782214842.694694
+  },
+  "21daf2ed1f3b0cfef433cd78caaa382a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal charge involving a fatal stabbing in the UK, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782214852.981124
+  },
+  "c7f038c76145860a21742725c6ab130d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health development directly impacting the NHS and patient care in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782214866.43455
   }
 }
