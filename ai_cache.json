@@ -10149,5 +10149,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782214866.43455
+  },
+  "95c13482d1196c74ff340a8dbb02d9ec": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety incident involving emergency services and multiple casualties in Wales, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782223613.068292
+  },
+  "845d2a2798059e7ddd878db7021ed040": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime affecting critical national infrastructure in London, directly impacting the UK's transport network and public finances.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782223621.736683
+  },
+  "8821d887c66f1d50118b5aeb285ce693": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation in the UK, which falls under the category of serious crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782223632.721548
+  },
+  "47aef2673f4492fc09526b6cc76c7932": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political news story concerning the former chief executive of a major UK political party being sentenced for criminal activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782223650.002411
+  },
+  "dae9072a13bdd27aa2bd260e3ade364a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime and ongoing police investigation in London, which falls under the category of UK crime and legal developments.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782223658.910139
+  },
+  "1dc406739eb794e3e8569aa551e12b1a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal case and a direct government policy response concerning child protection legislation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782223667.37658
   }
 }

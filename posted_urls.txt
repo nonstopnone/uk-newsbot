@@ -149,3 +149,7 @@
 2026-06-23T11:41:12.328473+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-typhoid-fever|typhoid fever|833da4976c2772aeaa92a1eb286c57c6
 2026-06-23T11:41:14.771429+00:00|https://news.sky.com/story/second-boy-charged-with-murdering-17-year-old-jamal-coombes-in-battersea-13556984|second boy charged with knife murder of 17yearold in london|21daf2ed1f3b0cfef433cd78caaa382a
 2026-06-23T11:41:17.202519+00:00|https://news.sky.com/story/new-diabetes-treatment-gets-landmark-approval-for-nhs-13556981|new diabetes treatment gets landmark approval for nhs|c7f038c76145860a21742725c6ab130d
+2026-06-23T14:07:58.407487+00:00|https://www.bbc.co.uk/news/articles/c20ye768v6lo|major incident declared after bus crash near roundabout|95c13482d1196c74ff340a8dbb02d9ec
+2026-06-23T14:08:00.787484+00:00|https://www.bbc.co.uk/news/articles/c9321qq5y8jo|nursery chain served with safeguarding notice|51395e60ab83736744b121418fc84165
+2026-06-23T14:08:03.104585+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/britain-failed-to-intervene-sudan-massacre-maintain-uae-tie|britain failed to intervene in sudan massacre to maintain uae ties|b1ab0c9e6a53d569e08dd7cf542d4dfa
+2026-06-23T14:08:05.488060+00:00|https://news.sky.com/story/men-admit-39m-cyber-attack-on-transport-for-london-13557064|men admit £39m cyber attack on transport for london|845d2a2798059e7ddd878db7021ed040
