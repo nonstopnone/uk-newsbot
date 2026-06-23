@@ -9974,5 +9974,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782169073.579301
+  },
+  "4bc629dfd619d6690cac9a2e3a5c7b53": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government compensation schemes for UK veterans, concerning past institutional policy and current administrative deadlines.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782173762.65492
+  },
+  "1cdef677a5e4a4503278569ef8b54eaa": {
+    "is_relevant": true,
+    "reasoning": "The article covers major UK political developments regarding the resignation of the Prime Minister and the transition of political power, which is central to UK political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782173772.147046
+  },
+  "2bfe9ddde314aa9f4fddf9aa056cb08b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the imprisonment of a high-profile former politician following a significant legal verdict, which is a major event in Northern Irish and UK politics.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782173781.457454
   }
 }
