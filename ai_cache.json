@@ -10401,5 +10401,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1782293760.935839
+  },
+  "ab15950d02344809d3cfa8e9795df3e5": {
+    "is_relevant": true,
+    "reasoning": "This concerns the England national cricket team and its captain, which constitutes major UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782303025.711738
+  },
+  "e97a37492ec1e36a8f063e5e99a2532b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal trial, sentencing, and domestic gang violence within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782303036.365364
   }
 }

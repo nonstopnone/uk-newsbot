@@ -156,3 +156,6 @@
 2026-06-24T09:36:01.558132+00:00|https://www.bbc.co.uk/news/articles/cp8rj3g2699o|donaldson trial struck blow against culture that didnt hear women|f73ab4cfe36d2b5dc1c930249099f767
 2026-06-24T09:36:04.133121+00:00|https://www.bbc.co.uk/news/articles/cdejr7gey9do|scotland on brink of history ahead of brazil world cup tie|54a3d58ccce5805e9995b3f6742cbe2a
 2026-06-24T09:36:06.647533+00:00|https://news.sky.com/story/british-grid-operator-calls-for-more-power-generation-as-temperatures-soar-13557264|we need more power says grid operator in uk summer first|f835ddcde7dce218ccfce8327ebcec12
+2026-06-24T12:10:37.202904+00:00|https://www.telegraph.co.uk/cricket/2026/06/24/ben-stokes-england-press-conference-live-latest|ben stokes says sorry for nightclub scandal|ab15950d02344809d3cfa8e9795df3e5
+2026-06-24T12:10:39.778073+00:00|https://www.bbc.co.uk/news/articles/c3ryv10l4jxo|first locations for grooming gang inquiry announced|26dde1006c7b481f3fe4c03b9aa8af6f
+2026-06-24T12:10:42.335074+00:00|https://www.bbc.co.uk/news/articles/c14ygv2glmeo|six jailed for life for senseless murder of innocent woman|e97a37492ec1e36a8f063e5e99a2532b
