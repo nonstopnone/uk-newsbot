@@ -1,5 +1,3 @@
-2026-06-17T09:20:07.914334+00:00|https://www.bbc.com/news/articles/cn4dj7n83yqo|pm warns burnham against immediate leadership challenge if he wins byelection|c9115bbeb408122aa7fcef1026f06e4d
-2026-06-17T09:20:10.414651+00:00|https://www.bbc.com/news/articles/c992xyv9vggo|grieving sister used tracker to catch memorial thief|a2eb4e40fc911a3b5430a1e101af18ae
 2026-06-17T13:02:29.201994+00:00|https://www.bbc.com/news/articles/cm2rxv4m1zdo|donaldson sex abuse accusers not sufficiently reliable for a guilty verdict jury told|10481aa0fd4c7813a7ae4597b20f0328
 2026-06-17T13:02:31.792326+00:00|https://www.telegraph.co.uk/business/2026/06/17/uk-inflation-cpi-interest-rates-ftse-100-markets|uk borrowing costs fall at fastest pace in europe|16280dbb7551b6ccfd4fc9a80d9f90d3
 2026-06-17T13:02:34.371421+00:00|https://www.bbc.com/news/articles/cx24857pprko|government to apologise to victims of forced adoptions in england|283153476301c58146ea62430c8ad91c
@@ -155,3 +153,6 @@
 2026-06-24T01:33:11.204146+00:00|https://www.bbc.co.uk/news/articles/cj3gyxgmzmlo|the papers heat engulfs uk and ghana be alright|9df7fdcc1dfe20aa131f4a6c141e43db
 2026-06-24T01:33:13.752802+00:00|https://www.bbc.co.uk/news/articles/cn8k4pek3gzo|heat pump growth stalls as government support cut warns climate watchdog|ae7516958a439c0650243b0160593e6b
 2026-06-24T05:50:37.340331+00:00|https://www.bbc.co.uk/news/articles/cwyl91qlyr1o|burnham likely to replace reeves if he becomes pm|4338187836b302772cae50a0c2e13d00
+2026-06-24T09:36:01.558132+00:00|https://www.bbc.co.uk/news/articles/cp8rj3g2699o|donaldson trial struck blow against culture that didnt hear women|f73ab4cfe36d2b5dc1c930249099f767
+2026-06-24T09:36:04.133121+00:00|https://www.bbc.co.uk/news/articles/cdejr7gey9do|scotland on brink of history ahead of brazil world cup tie|54a3d58ccce5805e9995b3f6742cbe2a
+2026-06-24T09:36:06.647533+00:00|https://news.sky.com/story/british-grid-operator-calls-for-more-power-generation-as-temperatures-soar-13557264|we need more power says grid operator in uk summer first|f835ddcde7dce218ccfce8327ebcec12

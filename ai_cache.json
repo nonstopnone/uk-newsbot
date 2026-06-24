@@ -10373,5 +10373,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782280236.734235
+  },
+  "f73ab4cfe36d2b5dc1c930249099f767": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant criminal conviction of a high-profile former political leader and addresses systemic legal reforms regarding sexual offences in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782293731.306695
+  },
+  "54a3d58ccce5805e9995b3f6742cbe2a": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant sporting event for a UK national team with high public interest, falling under the sport category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782293741.156619
+  },
+  "d7cda2ee294d3fea86e913c22cbf6735": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story regarding the closure of a school with only two pupils, which does not constitute national-level hard news or have significant implications for the UK as a whole.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782293750.607388
+  },
+  "f835ddcde7dce218ccfce8327ebcec12": {
+    "is_relevant": true,
+    "reasoning": "This concerns the management of the UK's national energy infrastructure and potential supply issues during a weather event, which is a matter of major public interest and economic significance.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782293760.935839
   }
 }
