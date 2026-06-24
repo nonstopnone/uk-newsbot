@@ -10534,5 +10534,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782339906.155819
+  },
+  "4211c9fba0df7259b444fac6718dfd76": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health report concerning England's population, directly impacting NHS policy and future healthcare burdens.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782344635.042904
+  },
+  "389f859b84bc0bf765b9d1c1b3d0ec66": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on industrial action within the health sector in Northern Ireland, directly impacting public services and NHS-related infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782344643.621498
+  },
+  "09ce628e442e0e84cf75ad46ae6792eb": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports report concerning international football and does not meet the criteria for hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782344655.363037
   }
 }
