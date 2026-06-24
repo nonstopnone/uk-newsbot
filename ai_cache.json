@@ -10366,5 +10366,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1782264788.799273
+  },
+  "4338187836b302772cae50a0c2e13d00": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning potential changes to the UK government's leadership and cabinet composition.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782280236.734235
   }
 }

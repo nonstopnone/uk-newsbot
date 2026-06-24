@@ -1,6 +1,3 @@
-2026-06-17T04:22:13.354616+00:00|https://www.bbc.com/news/articles/c4gyeg2207yo|streeting would be prepared to trigger leadership contest as early as next week|71f9095c88725fbfb6862bc933c9bdb7
-2026-06-17T04:22:15.790323+00:00|https://news.sky.com/story/brexit-has-damaged-britain-and-farage-knows-it-claims-minister-13554834|brexit has damaged britain and farage knows it claims minister|da7199ecc6ade425aa8f381ce46dc67d
-2026-06-17T04:22:18.238689+00:00|https://news.sky.com/story/starmer-rival-predicts-when-leadership-challenge-will-happen-13554833|starmer to face leadership challenge next week streeting|6dd954a89764c55e764355e83ba301c0
 2026-06-17T09:20:07.914334+00:00|https://www.bbc.com/news/articles/cn4dj7n83yqo|pm warns burnham against immediate leadership challenge if he wins byelection|c9115bbeb408122aa7fcef1026f06e4d
 2026-06-17T09:20:10.414651+00:00|https://www.bbc.com/news/articles/c992xyv9vggo|grieving sister used tracker to catch memorial thief|a2eb4e40fc911a3b5430a1e101af18ae
 2026-06-17T13:02:29.201994+00:00|https://www.bbc.com/news/articles/cm2rxv4m1zdo|donaldson sex abuse accusers not sufficiently reliable for a guilty verdict jury told|10481aa0fd4c7813a7ae4597b20f0328
@@ -157,3 +154,4 @@
 2026-06-23T23:36:28.733061+00:00|https://www.bbc.co.uk/news/articles/c8e2xrke8l5o|largest maternity review in nhs history to be published|7615ec46c70da2745c59df385648ed04
 2026-06-24T01:33:11.204146+00:00|https://www.bbc.co.uk/news/articles/cj3gyxgmzmlo|the papers heat engulfs uk and ghana be alright|9df7fdcc1dfe20aa131f4a6c141e43db
 2026-06-24T01:33:13.752802+00:00|https://www.bbc.co.uk/news/articles/cn8k4pek3gzo|heat pump growth stalls as government support cut warns climate watchdog|ae7516958a439c0650243b0160593e6b
+2026-06-24T05:50:37.340331+00:00|https://www.bbc.co.uk/news/articles/cwyl91qlyr1o|burnham likely to replace reeves if he becomes pm|4338187836b302772cae50a0c2e13d00
