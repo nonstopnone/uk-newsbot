@@ -10415,5 +10415,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782303036.365364
+  },
+  "e1e938568ef2897c6342748a82bcb5b5": {
+    "is_relevant": true,
+    "reasoning": "This is a serious criminal investigation involving a murder inquiry in the UK, which is directly relevant to public safety and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782314012.238338
+  },
+  "195a8ed68ded22ae96787dbb772599a4": {
+    "is_relevant": true,
+    "reasoning": "The story involves the British Monarch engaging in a diplomatic and humanitarian-focused meeting, which is significant news regarding the Royal Family's public activities.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782314022.827657
+  },
+  "03f3e8637ac80dd78bd23ab297ab2653": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a former major UK political party leader following his conviction for serious crimes, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782314032.19982
+  },
+  "b23553191932eb089961bde02d54070f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a fatal rail accident in the UK involving infrastructure safety and loss of life, which is a matter of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782314042.796027
+  },
+  "eea63845c03e4338ef3a10722377ff6e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant employment tribunal ruling involving an NHS trust and matters of workplace policy, which is highly relevant to UK public sector governance and legal standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782314054.69274
   }
 }

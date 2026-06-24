@@ -1,7 +1,3 @@
-2026-06-17T13:02:29.201994+00:00|https://www.bbc.com/news/articles/cm2rxv4m1zdo|donaldson sex abuse accusers not sufficiently reliable for a guilty verdict jury told|10481aa0fd4c7813a7ae4597b20f0328
-2026-06-17T13:02:31.792326+00:00|https://www.telegraph.co.uk/business/2026/06/17/uk-inflation-cpi-interest-rates-ftse-100-markets|uk borrowing costs fall at fastest pace in europe|16280dbb7551b6ccfd4fc9a80d9f90d3
-2026-06-17T13:02:34.371421+00:00|https://www.bbc.com/news/articles/cx24857pprko|government to apologise to victims of forced adoptions in england|283153476301c58146ea62430c8ad91c
-2026-06-17T13:02:37.031535+00:00|https://news.sky.com/story/former-healthcare-worker-tried-to-sell-princess-of-waless-private-medical-records-13554916|former healthcare worker tried to sell princess of waless private medical records|001514c29a4c21f9bc3bd0daf888e4ad
 2026-06-17T16:49:21.999210+00:00|https://www.bbc.com/news/articles/cvgmqrrlej5o|bbc announces 550 job cuts as first part of £500m savings plan|d484199803d74f69f326338733d81596
 2026-06-17T16:49:24.424391+00:00|https://www.bbc.com/news/articles/cdx7gz8zkvjo|firm fined £150000 after electrician killed in mine by fan blades|4943d657001a3aa1a0ea08e8c6b5ec80
 2026-06-17T16:49:26.847322+00:00|https://news.sky.com/story/uk-weather-heatwave-conditions-set-to-return-as-temperatures-could-hit-32c-over-weekend-13555014|heatwave conditions set to return as temperatures in parts of uk could hit 32c over weekend|2e3946dfc35ea1c1d647dcfb1dbad853
@@ -159,3 +155,5 @@
 2026-06-24T12:10:37.202904+00:00|https://www.telegraph.co.uk/cricket/2026/06/24/ben-stokes-england-press-conference-live-latest|ben stokes says sorry for nightclub scandal|ab15950d02344809d3cfa8e9795df3e5
 2026-06-24T12:10:39.778073+00:00|https://www.bbc.co.uk/news/articles/c3ryv10l4jxo|first locations for grooming gang inquiry announced|26dde1006c7b481f3fe4c03b9aa8af6f
 2026-06-24T12:10:42.335074+00:00|https://www.bbc.co.uk/news/articles/c14ygv2glmeo|six jailed for life for senseless murder of innocent woman|e97a37492ec1e36a8f063e5e99a2532b
+2026-06-24T15:14:17.070413+00:00|https://www.bbc.co.uk/news/articles/cwykl875447o|murder arrest after death at summer solstice event|e1e938568ef2897c6342748a82bcb5b5
+2026-06-24T15:14:19.510237+00:00|https://www.bbc.co.uk/news/articles/c4gykxdn6gwo|king meets womens cricket team that is not allowed to exist|195a8ed68ded22ae96787dbb772599a4
