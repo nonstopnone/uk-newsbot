@@ -10492,5 +10492,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782321753.948765
+  },
+  "74e218eab1038838a8b684345be0c172": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a member of the House of Lords and the recovery of public funds from a government procurement contract.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782328376.616918
   }
 }
