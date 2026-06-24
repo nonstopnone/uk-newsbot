@@ -10499,5 +10499,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782328376.616918
+  },
+  "8edf10037e069221b35bbeb98b5d1438": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public safety incident involving a major UK motorway, emergency services response, and multiple hospitalisations.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782334761.889935
+  },
+  "6011d461fe386e46b6bb345f5b1271b7": {
+    "is_relevant": true,
+    "reasoning": "This article concerns UK defence policy, NATO commitments, and the current government's strategic planning, which are matters of significant national importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782334771.132169
+  },
+  "bf46188618f930887f00278dd1a09daf": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the head of state and a significant UK environmental event, which falls under the category of Royal activities and public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782334781.20396
   }
 }
