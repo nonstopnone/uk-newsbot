@@ -10338,5 +10338,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782257781.377865
+  },
+  "ae7516958a439c0650243b0160593e6b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK climate policy, government infrastructure support, and net-zero progress affecting national heating targets.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782264758.203978
+  },
+  "56671ab6a4c2b0cb4907fe4e5db33383": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/health advice article rather than hard news related to politics, crime, economy, or significant national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782264768.545895
+  },
+  "d4dfe6c06a0514b304dbe9e8a18c99e3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national news story regarding UK climate infrastructure and preparedness, which directly impacts public services like schools and national safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782264778.270413
+  },
+  "a860e6dc88e81ca116c53256bf241b38": {
+    "is_relevant": true,
+    "reasoning": "The article discusses core UK economic policy, fiscal challenges, and the upcoming political transition, which are highly relevant to the UK audience.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782264788.799273
   }
 }
