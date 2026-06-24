@@ -10520,5 +10520,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1782334781.20396
+  },
+  "12a4e6637b2148578058a3c2143b3d3a": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report concerning the Canadian national football team and their World Cup progress, which holds no direct relevance to UK news or interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782339895.944762
+  },
+  "b634314e19cc13139a0e8c5788e24530": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety incident involving a mass-casualty bus crash and emergency response in Wales.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782339906.155819
   }
 }
