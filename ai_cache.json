@@ -10450,5 +10450,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782314054.69274
+  },
+  "7c4279675c3efe4fedb73d6d4fb14b23": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest story concerning celebrity social media habits and data privacy concerns in retail, which does not constitute hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782321684.719094
+  },
+  "5f0cdd5eee8bd523c867fffeb802ce93": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding failures in the NHS (Southern Health Trust) resulting in patient deaths, which is a matter of major public interest and healthcare policy in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782321695.097561
+  },
+  "50606432b5cec8e1f2e09c1a8f7e4a94": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on systemic failure and avoidable deaths within the NHS, which is a core topic for UK public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782321704.999425
+  },
+  "3727d827976e6dfebbe181c0da62db65": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing search and rescue operation involving multiple UK emergency services in Hampshire, fitting the criteria for Breaking News.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782321717.850636
+  },
+  "2fc3291b699f4e2b50666929422c3051": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a health outbreak in Sri Lanka and does not have a material impact on the UK, nor does it involve UK interests or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782321731.585687
+  },
+  "4c7d5a5dce08eca89146b3753601ec9f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a high-profile religious figure facing serious charges, which is a matter of public interest within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782321753.948765
   }
 }
