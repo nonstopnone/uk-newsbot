@@ -10737,5 +10737,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782415704.295057
+  },
+  "3750194e2f9dc32f14c5af2f8826b496": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the official residence of the British monarch and the usage of a major UK landmark.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782422114.337829
+  },
+  "3746f53f4be535912375c7c021247538": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest and safety awareness feature rather than hard news; it lacks the immediacy or policy-level significance required for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782422133.913066
   }
 }
