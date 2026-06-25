@@ -10625,5 +10625,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782380795.728422
+  },
+  "31a1e145e4121c7eaf9a6cf48dd7bc05": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive hard news incident involving a fatality and serious injury on UK national rail infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782390206.130471
+  },
+  "f3dd44cefefb8cfd73ffeab3a26d26a0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government education statistics and public policy concerning the national SEND system, which directly impacts UK families and public expenditure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782390216.23219
+  },
+  "7b69d126b6bf7e520d867fad9fb34311": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legislative announcement regarding the government's plans to criminalize conversion practices, which directly impacts UK legal policy and public debate.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782390226.616895
   }
 }
