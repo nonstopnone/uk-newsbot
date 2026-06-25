@@ -10681,5 +10681,54 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1782401100.23854
+  },
+  "55f70f3f9f54ea6752e16a711e339b98": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private individual's actions abroad; it does not meet the threshold of hard news impacting the UK public or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782408615.58295
+  },
+  "4425d7dce3c0c4a4c89cdd889490b457": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story focusing on an individual's personal health experience rather than hard news, policy, or significant public interest impacts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782408631.840593
+  },
+  "dafe3414b9b455187cb8be6c6f365914": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer advice article featuring reader tips rather than hard news, and it falls under fluff/lifestyle content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782408641.785815
+  },
+  "d6512597df38e293987d58b6e4cda8a6": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and travel review piece, which does not constitute hard news or meet the criteria for relevance to the r/BreakingUKNews subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782408651.555146
+  },
+  "8d953fd255edbe4477bb2ba90953c1aa": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant policy shift regarding UK police structure and devolved governance, which is highly relevant to UK public administration and law enforcement.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782408667.185827
+  },
+  "9f903433db60f27b921ca5f8c521a6f7": {
+    "is_relevant": false,
+    "reasoning": "This is a legal development concerning a US criminal case; while high-profile, it does not materially affect the UK or involve UK jurisdiction.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782408676.769687
+  },
+  "38c93c1670ae9e63e0c441a73419d6b3": {
+    "is_relevant": false,
+    "reasoning": "This is speculative political commentary regarding a hypothetical future government and does not constitute hard news or a material development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782408686.694818
   }
 }
