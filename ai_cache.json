@@ -10646,5 +10646,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782390226.616895
+  },
+  "d5e43277068c7f6b72fd4619b97ad471": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a hobbyist photographer and a natural phenomenon, which does not meet the threshold for hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782401056.030265
+  },
+  "c3e072045a82ae8e3690a337bcc9348f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal trial outcome involving a death, which falls under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782401066.321888
+  },
+  "a1a36cf78d5fdc51c8985c7c96193f8b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal inquest into the death of a child in Northern Ireland, which falls under UK legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782401075.859035
+  },
+  "3363be0e0ce42322b1aa52baeef4c685": {
+    "is_relevant": false,
+    "reasoning": "This is a legal development regarding a US-based criminal case involving a US national, which does not materially affect the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782401087.074195
+  },
+  "9ee3a8a03cf2ab18d110311df8a60bda": {
+    "is_relevant": true,
+    "reasoning": "The involvement of a British national facing the death penalty abroad, with active support and involvement from the UK's Foreign, Commonwealth and Development Office, constitutes significant news for a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1782401100.23854
   }
 }
