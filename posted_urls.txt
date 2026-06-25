@@ -1,6 +1,3 @@
-2026-06-18T17:43:51.526146+00:00|https://www.bbc.com/news/articles/czx50n2vj74o|man arrested on suspicion of attempted murder after boy injured in crocodile enclosure|870d3976456709f231ea44d64cefbcd3
-2026-06-18T17:43:53.951341+00:00|https://www.telegraph.co.uk/business/2026/06/18/interest-rates-bank-of-england-uk-unemployment-ftse-100|bailey a decade of brexit has been bad for the economy|85a0cbb874867c8e7b6bcd131d2453b2
-2026-06-18T17:43:56.345703+00:00|https://www.bbc.com/news/articles/c892p75v0vzo|swinney apologises to girl at centre of dundee viral knife video|09c577b7554465440ba6715ce93452cb
 2026-06-18T19:58:00.780795+00:00|https://news.sky.com/story/lib-dem-mp-arrested-and-suspended-from-party-13555467|lib dem mp arrested and suspended from party|7cc98312336b383e9d7b69bf23726fa9
 2026-06-18T19:58:03.166221+00:00|https://www.bbc.com/news/articles/cvgj7exmzjzo|two teenagers on trial for murder of 15yearold amen teklay|8762919db359fdd08140c545c9b97206
 2026-06-18T19:58:05.559542+00:00|https://www.bbc.com/news/articles/ce8m211729no|jury in sir jeffrey donaldson sex abuse trial to continue deliberations on friday|c90beb2d22e41b6f7be97d250921853b
@@ -161,3 +158,6 @@
 2026-06-25T17:31:27.374635+00:00|https://www.bbc.co.uk/news/articles/cnv9e18r2qyo|burnham could be leader in weeks under labour timetable|281fdecfc67852ea0d73d8b456ab9470
 2026-06-25T17:31:29.962307+00:00|https://www.bbc.co.uk/news/articles/crlw2xgrp3xo|uk braced for hottest june night after 367c high on warmest day of year|0c02eef3c697425fcfd04cded31572e3
 2026-06-25T17:31:32.422191+00:00|https://news.sky.com/story/burnham-could-scrap-plans-to-merge-police-forces-in-england-and-wales-13557749|a hrefhttpsnewsskycomstorypoliticslatestburnhamstarmerlabourmakerfieldbyelection12593360postid11939428liveblogbodyburnham could scrap plans to merge police forces in england and walesa|8d953fd255edbe4477bb2ba90953c1aa
+2026-06-25T19:28:27.401274+00:00|https://www.telegraph.co.uk/cricket/2026/06/25/england-vs-new-zealand-live-score-latest-third-test-day-1|england suffer day of pain with jobs on the line|1a298a055c86fa2706463e3d5329098c
+2026-06-25T19:28:29.984891+00:00|https://www.bbc.co.uk/news/articles/cx2dpmj71k8o|nhs boss shocked and upset by maternity findings|52ba27db5c4b6580c78a224ff9db1d75
+2026-06-25T19:28:32.539659+00:00|https://news.sky.com/story/british-tiktoker-brooke-george-could-face-death-penalty-after-dubai-murder-charge-13557723|british tiktoker could face death penalty after dubai murder charge|5f6455e65d319f488c381bc26a71433f

@@ -10730,5 +10730,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782408686.694818
+  },
+  "5f6455e65d319f488c381bc26a71433f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a British national facing the potential death penalty abroad, which is a matter of major UK public interest and consular concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782415704.295057
   }
 }
