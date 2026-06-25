@@ -10751,5 +10751,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782422133.913066
+  },
+  "d863c6260d156fa4e3e3df8314a6d348": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report regarding a World Cup match outcome and its tangential effect on a team's tournament prospects, which falls under sports journalism rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782427844.181161
+  },
+  "66484fc2ad229d01ebd503b48b846bb9": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a regional health crisis in Africa and does not have a direct, material impact on the UK or its domestic policy, making it unsuitable for a UK-focused news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782427854.990363
+  },
+  "57ce9c100c31a8295890ad85bb72746f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding a death in custody and a fatal accident inquiry, which constitutes critical public interest news concerning the Scottish justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782427864.2337
+  },
+  "7485c382234781b626ab60d6b90c232a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development concerning the Home Office's management of asylum seeker accommodation, which is a key area of UK public interest and government strategy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782427877.596177
   }
 }
