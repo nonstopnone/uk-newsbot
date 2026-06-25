@@ -1,5 +1,3 @@
-2026-06-18T06:31:41.122722+00:00|https://www.bbc.com/news/articles/c5yzgpe2ld3o|voters head to the polls for makerfield byelection|51a2d578ca2ba90e96e204c01b6a87d4
-2026-06-18T06:31:43.516619+00:00|https://www.bbc.com/weather/articles/c79y35nl719o|developing heatwave across europe to send uk temperatures above 30c|4fd5c0af342bf4b3341efc2a36f81331
 2026-06-18T11:02:06.962215+00:00|https://www.bbc.com/news/articles/cn0vge2kj9zo|new uk defence secretary meets nato allies without investment plan in place|4e92a51f48577987f9892f83cdc4582b
 2026-06-18T11:02:09.321246+00:00|https://news.sky.com/story/archbishop-of-canterbury-says-shame-is-ours-as-she-apologises-for-church-of-england-role-in-forced-adoptions-13555280|archbishop of canterbury says shame is ours as she apologises for forced adoptions|1e61a2a57c5ef5dc9ccfa39e16ebed69
 2026-06-18T11:02:11.621749+00:00|https://www.bbc.com/news/articles/cy04jgy5yvpo|lisa nandy not satisfied with channel 4 response on married at first sight uk|8c2926131c95dfc4763c79f4e85504cb
@@ -159,3 +157,6 @@
 2026-06-25T06:11:36.077608+00:00|https://www.bbc.co.uk/news/articles/ce95r7gvm5go|bodies found in advanced deterioration at underfire trust|116f5c78b7d726ee6dbbb2496d9603ac
 2026-06-25T06:11:38.543160+00:00|https://www.bbc.co.uk/news/articles/ce95rj251xpo|mp to lead improvement board after maternity failings|2bd7fd707a4572b807bdf8194a9bbd81
 2026-06-25T06:11:42.169904+00:00|https://www.telegraph.co.uk/football/2026/06/24/scotland-brazil-world-cup-2026-score-updates-latest|calamitous scotland deliver latest chapter in tragicomic world cup history|587624567f7c6bde5e7469ee667d7694
+2026-06-25T09:46:36.452164+00:00|https://www.bbc.co.uk/news/articles/c1myxvp10zdo|preston davey review should include second murdered baby|5bd43b503041d30d24ad8402eff3db3d
+2026-06-25T09:46:38.830355+00:00|https://www.bbc.co.uk/sport/tennis/articles/c4gyzyv951yo|bbc signs new wimbledon deal until 2033|28b9293d3e87ffbd2fd1ca10c2ec33fe
+2026-06-25T09:46:41.225705+00:00|https://news.sky.com/story/cost-of-living-hope-as-oil-prices-return-to-pre-war-levels-13557556|cost of living hope as oil prices sink to prewar levels|1d78f1f48a53731ee0cd1c5852220b8a

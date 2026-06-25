@@ -10590,5 +10590,40 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782367895.377841
+  },
+  "5bd43b503041d30d24ad8402eff3db3d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failures in the NHS and child safeguarding in the UK, involving ongoing investigations and court-documented cases of homicide.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782380752.996087
+  },
+  "28b9293d3e87ffbd2fd1ca10c2ec33fe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant media and cultural development regarding a major UK sporting event being kept on free-to-air television, which is a matter of substantial public interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782380762.257167
+  },
+  "1d78f1f48a53731ee0cd1c5852220b8a": {
+    "is_relevant": true,
+    "reasoning": "The article directly concerns the cost of living crisis, a significant economic issue currently affecting the UK population.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782380772.119475
+  },
+  "cc6f703a2643b81f7a15858ecad66632": {
+    "is_relevant": true,
+    "reasoning": "The upgrading of a historic landmark's listed status by government heritage bodies is a matter of UK cultural heritage and planning policy.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782380781.321433
+  },
+  "9d9b2bfd370b493a2910265b6f0fb7ba": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a fatal rail accident in the UK and subsequent administrative issues involving local council enforcement affecting the public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782380795.728422
   }
 }
