@@ -10562,5 +10562,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782352283.20756
+  },
+  "877d3e95feae93f7f1a63f16af62607e": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/lifestyle piece concerning the filming of a movie and does not constitute hard news relevant to UK politics, economy, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782367840.959847
+  },
+  "dd60df7e5ad0b0ac8d6d536f4a15893a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on high-level UK political maneuvering and leadership speculation involving the Chancellor and a potential Labour Party leader, which is central to UK political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782367858.771179
+  },
+  "57ab618a124da293eb36c08f731f739b": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the performance of a national team representing the UK in a major international tournament, which is considered standard sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782367887.660936
+  },
+  "587624567f7c6bde5e7469ee667d7694": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of a national team in a major international sporting tournament, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782367895.377841
   }
 }
