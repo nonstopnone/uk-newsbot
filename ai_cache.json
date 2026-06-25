@@ -10555,5 +10555,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782344655.363037
+  },
+  "87e7aaa37601f82dc837c86f9c377c32": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports commentary piece discussing a historical football match and player performance, which constitutes sports analysis rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782352283.20756
   }
 }

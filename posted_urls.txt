@@ -1,5 +1,3 @@
-2026-06-18T01:44:19.863498+00:00|https://www.bbc.com/news/articles/cdr4ge5g0pzo|train crash that killed one man and injured four others could have been avoided|148bed79183cc4bcbb0a81883f67aea2
-2026-06-18T01:44:22.192424+00:00|https://www.bbc.com/news/articles/c621z28z138o|cervical cancer deaths fall to zero in young women given vaccine|d3a05bcacf964027827df17833fbc390
 2026-06-18T06:31:41.122722+00:00|https://www.bbc.com/news/articles/c5yzgpe2ld3o|voters head to the polls for makerfield byelection|51a2d578ca2ba90e96e204c01b6a87d4
 2026-06-18T06:31:43.516619+00:00|https://www.bbc.com/weather/articles/c79y35nl719o|developing heatwave across europe to send uk temperatures above 30c|4fd5c0af342bf4b3341efc2a36f81331
 2026-06-18T11:02:06.962215+00:00|https://www.bbc.com/news/articles/cn0vge2kj9zo|new uk defence secretary meets nato allies without investment plan in place|4e92a51f48577987f9892f83cdc4582b
@@ -156,3 +154,5 @@
 2026-06-24T22:25:13.387379+00:00|https://www.bbc.co.uk/news/articles/cvgeqeqpwyro|boy 15 missing after swimming in lake|3727d827976e6dfebbe181c0da62db65
 2026-06-24T23:44:16.106632+00:00|https://www.bbc.co.uk/news/articles/c8j2m2zrrxko|obesity cases rising fastest in young adults|4211c9fba0df7259b444fac6718dfd76
 2026-06-24T23:44:18.515319+00:00|https://www.bbc.co.uk/news/articles/c14y72vkv3yo|consultants and specialist doctors to begin strike action|389f859b84bc0bf765b9d1c1b3d0ec66
+2026-06-25T01:51:24.643271+00:00|https://www.bbc.co.uk/news/articles/cj4gy79x9g7o|the papers never again and no 10 of the north|a1d533ed45eb96a1259f1d751297c7c1
+2026-06-25T01:51:27.032043+00:00|https://www.bbc.co.uk/news/articles/cwy05rnlpe9o|vat cut on theme parks and kids meals comes into force|b7b83376ef0ab52cb6cf39d206bb001c
