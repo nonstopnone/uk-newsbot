@@ -10961,5 +10961,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782496347.98918
+  },
+  "18df775fd9e26d158227acf796dbe839": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant sporting event involving the England national cricket team, which falls under the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782503547.250594
   }
 }
