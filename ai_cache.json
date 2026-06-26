@@ -10968,5 +10968,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782503547.250594
+  },
+  "434479450e6bbb24bcd5598dc0667921": {
+    "is_relevant": false,
+    "reasoning": "This article is a consumer lifestyle guide focused on product recommendations and shopping deals, which falls under the excluded category of product reviews and lifestyle content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782508866.428647
+  },
+  "5c0c96a9a76ae6c15b45bd93351d1415": {
+    "is_relevant": true,
+    "reasoning": "The deployment of UK government-funded rescue teams, RAF assets, and millions of pounds in humanitarian aid constitutes significant state-led international action.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1782508875.958246
   }
 }
