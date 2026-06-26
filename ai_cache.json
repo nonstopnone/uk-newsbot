@@ -10800,5 +10800,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782448927.229671
+  },
+  "ba80044823b5b2d838e3afa7b8771542": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the performance of the Scotland national football team at the World Cup and their potential tournament progression, which is a matter of significant interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782462130.606264
+  },
+  "8ca82459d87145623c5f6cf1346b2b9a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a major police investigation and a murder arrest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782462141.707571
+  },
+  "c3f056e86a4c0af828217e8bdc1e3eb2": {
+    "is_relevant": true,
+    "reasoning": "This involves a significant data privacy breach at an NHS trust and an ongoing police and regulatory investigation into a serious incident involving a child.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782462151.751557
+  },
+  "102d0fc3fafae80d63747c11f71b3220": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a murder case, police conduct, and associated social unrest in Southampton, which falls under UK crime and legal developments.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782462162.153839
+  },
+  "2337f998dd7b55567b47a01a07fb7da9": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on the humanitarian situation in Madagascar and lacks a direct, material link to UK politics, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782462172.19453
   }
 }
