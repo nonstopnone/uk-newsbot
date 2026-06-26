@@ -10856,5 +10856,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782473080.128493
+  },
+  "38b26b7a7dfec4b5533988cc605deebb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety and emergency services incident involving a fatality and an ongoing investigation by the Air Accident Investigation Branch.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782480628.00911
+  },
+  "6eb060f18686769b67263aa0887dcc2d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal legal case involving multiple defendants appearing before a UK Crown Court, meeting the criteria for Crime & Legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782480635.617578
+  },
+  "9c50b5defbd775b9ee47fa8400a59bd5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving the UK legal system and infrastructure failure that directly impacts the administration of justice in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782480646.555529
+  },
+  "9d2615fd259ce829d8b6b41718d1f61f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal trial involving serious charges within the Scottish legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782480657.760439
+  },
+  "588dd7437e28e2218262cef36324245a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and policy matter involving NHS treatment outcomes and official calls for national compensation, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782480668.062389
   }
 }

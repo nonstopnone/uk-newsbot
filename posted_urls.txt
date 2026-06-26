@@ -164,3 +164,7 @@
 2026-06-26T08:22:58.475944+00:00|https://www.bbc.co.uk/news/articles/cx23y6p3p41o|murder arrest as girl 3 found dead|8ca82459d87145623c5f6cf1346b2b9a
 2026-06-26T11:24:40.884555+00:00|https://www.bbc.co.uk/news/articles/c17yp1r2nl8o|body found in search for teenage boy who entered lake|cc3b12471326fa6ec189096fcf0fc773
 2026-06-26T11:24:43.436897+00:00|https://www.bbc.co.uk/news/articles/c862755z18jo|crown estate profits fall as returns to treasury more than halve|f83f33080ee9be8350c5581200a5c334
+2026-06-26T13:31:08.628676+00:00|https://www.bbc.co.uk/news/articles/cp8ryxjzd4zo|pilot dies after plane crash near airfield|38b26b7a7dfec4b5533988cc605deebb
+2026-06-26T13:31:11.187237+00:00|https://www.bbc.co.uk/news/articles/cnv9er181lno|court rules 13 men who allegedly helped rapist drug and abuse wife can be named|6eb060f18686769b67263aa0887dcc2d
+2026-06-26T13:31:13.631763+00:00|https://news.sky.com/story/london-court-abandons-sentencing-due-to-heatwave-temperatures-13558008|london court abandons sentencing due to heatwave temperatures|9c50b5defbd775b9ee47fa8400a59bd5
+2026-06-26T13:31:16.308542+00:00|https://news.sky.com/story/victims-of-vaginal-mesh-and-epilepsy-drug-deserve-justice-says-author-of-hughes-report-into-medical-scandals-13557948|victims of vaginal mesh and epilepsy drug deserve justice says patient commissioner|588dd7437e28e2218262cef36324245a
