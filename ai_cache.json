@@ -10835,5 +10835,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782462172.19453
+  },
+  "cc3b12471326fa6ec189096fcf0fc773": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal/public safety incident involving a police operation and coroner involvement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782473058.196105
+  },
+  "f83f33080ee9be8350c5581200a5c334": {
+    "is_relevant": true,
+    "reasoning": "The Crown Estate's profits directly impact the Treasury and public spending, making this a significant development for the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782473069.660463
+  },
+  "27d6a3aa5b7b4431463d722697277894": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/entertainment news item regarding a broadcaster's personal health, which falls under lifestyle/entertainment rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782473080.128493
   }
 }

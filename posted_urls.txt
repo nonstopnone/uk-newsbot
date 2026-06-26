@@ -1,5 +1,3 @@
-2026-06-19T10:02:36.741026+00:00|https://www.bbc.com/news/articles/c6216g52p8wo|plans to end gazumping with binding agreements in house sales shakeup|e813a7788525219b91a81d6d86caa9ef
-2026-06-19T10:02:39.325239+00:00|https://www.bbc.com/news/articles/cp9l2278m8no|boy 3 was attacked by crocodile at zoo as man bailed|55d656b0c74b7b592bfeeea5027f16ad
 2026-06-19T13:51:04.645598+00:00|https://www.bbc.com/news/articles/ckg04p99gnpo|woman injured after telegraph pole falls on her|cdb3b935e3cdbf689421448e083d0408
 2026-06-19T13:51:07.020563+00:00|https://www.bbc.com/news/articles/cn8q4p34qg4o|historic byelection win sends message to labour and snp badenoch|ba44dd1659f17954e4749d206501259e
 2026-06-19T13:51:09.414004+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|d50f5d508b7e140baf94585f6f18b474
@@ -164,3 +162,5 @@
 2026-06-26T08:22:53.349512+00:00|https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo|starmer and home secretary in row over ministers future|47799fa89f688ec78c9a2541b4e6040d
 2026-06-26T08:22:55.917804+00:00|https://www.telegraph.co.uk/football/2026/06/25/ecuador-vs-germany-world-cup-2026-live-latest-score|ecuador shock germany to put scotland on brink of world cup exit|ba80044823b5b2d838e3afa7b8771542
 2026-06-26T08:22:58.475944+00:00|https://www.bbc.co.uk/news/articles/cx23y6p3p41o|murder arrest as girl 3 found dead|8ca82459d87145623c5f6cf1346b2b9a
+2026-06-26T11:24:40.884555+00:00|https://www.bbc.co.uk/news/articles/c17yp1r2nl8o|body found in search for teenage boy who entered lake|cc3b12471326fa6ec189096fcf0fc773
+2026-06-26T11:24:43.436897+00:00|https://www.bbc.co.uk/news/articles/c862755z18jo|crown estate profits fall as returns to treasury more than halve|f83f33080ee9be8350c5581200a5c334
