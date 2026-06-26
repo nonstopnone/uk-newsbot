@@ -10786,5 +10786,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782432742.904704
+  },
+  "0f19b143866803a7b30f193ef6996ff5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation and murder charge involving a minor in Wales, which is a matter of clear public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782448917.43943
+  },
+  "783030a73575d56eb95fc8574c2aab42": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge in the UK, which is a matter of serious public interest and falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782448927.229671
   }
 }
