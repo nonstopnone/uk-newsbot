@@ -5756,10 +5756,10 @@
   },
   "6a28295682a956dfce15b4a77f9348af": {
     "is_relevant": false,
-    "reasoning": "This article is a sports betting service/racing tip column, which falls under the excluded category of sports previews and non-news lifestyle content.",
+    "reasoning": "This article is a sports betting service and tips column, which is explicitly excluded as fluff and sports previews.",
     "flair": "",
     "provider": "Gemini",
-    "timestamp": 1781435808.176822
+    "timestamp": 1782489348.098464
   },
   "e3aea2be962d38d61d7630520d680f43": {
     "is_relevant": false,
@@ -10891,5 +10891,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782480668.062389
+  },
+  "45550969e88501ababaa6b6171bcff87": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal sentencing involving the assault of police officers, which falls under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782489338.521183
+  },
+  "e8cdf61806ddaa22266662fcbc6d9d7a": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and gardening advice article centered on horticultural tips rather than hard news or significant developments in UK sports.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782489359.610115
+  },
+  "c52746af3d945fd99c8404ea48781cca": {
+    "is_relevant": true,
+    "reasoning": "This concerns a meeting regarding education policy and devolved government public services in Wales, which is directly relevant to UK governance and local authority accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782489377.606788
+  },
+  "f1279a8422eb3e0dd970061f6ef5bf8c": {
+    "is_relevant": true,
+    "reasoning": "This report concerns ongoing legal proceedings and pending criminal charges in the UK involving the Crown Prosecution Service and the High Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782489385.156425
   }
 }
