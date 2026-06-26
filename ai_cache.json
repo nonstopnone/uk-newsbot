@@ -10982,5 +10982,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1782508875.958246
+  },
+  "8430cd3fedd4f490d7ac28f7c3ac0503": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international football match between France and Norway, which does not constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782513975.557966
   }
 }
