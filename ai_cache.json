@@ -10779,5 +10779,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1782427877.596177
+  },
+  "20c1c92edde5a964516413804275d39d": {
+    "is_relevant": true,
+    "reasoning": "This is a safety warning issued by the UK Civil Aviation Authority directly affecting UK travellers, which constitutes significant public interest and infrastructure safety news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782432742.904704
   }
 }
