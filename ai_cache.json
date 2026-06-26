@@ -10919,5 +10919,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782489385.156425
+  },
+  "a59e8c6860be0a965c25648fa192a847": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile public figure involved in a major criminal case that involves national interest and public accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782496284.021933
+  },
+  "597de35f636279e6822381ade9872039": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal proceeding involving an assault on police officers at a major UK transport hub.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782496299.431468
+  },
+  "3e9f95084d456317f287c676a9d6779a": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on a humanitarian crisis in Sudan and does not demonstrate a material impact on the UK, nor does it meet the criteria for significant international news requiring specific UK-centric reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782496311.776069
+  },
+  "bd61943b621550f8f30f38ffe7c55b5d": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile criminal case involving a fugitive who evaded justice in Scotland, which was a significant matter for the Scottish legal and justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782496319.526157
+  },
+  "ea852c44b62f8b432649e262c224d737": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and justice-related story involving a high-profile extradition case that took place within the UK court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782496331.33573
+  },
+  "4604f50dfc6a3e4f3af4a97f2fa115c6": {
+    "is_relevant": false,
+    "reasoning": "This article is a travel lifestyle piece about hotels in Amsterdam and does not constitute hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782496347.98918
   }
 }
