@@ -11073,5 +11073,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782560221.843334
+  },
+  "0838d971f1658bdf1d310c0a03d5715b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and police investigation in the UK, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782571581.611062
+  },
+  "7d2003b2e9a85ed0a22a65d46a5a47a4": {
+    "is_relevant": true,
+    "reasoning": "The involvement of UK police and the FCDO in the detention of British nationals abroad makes this a matter of public interest and consular concern for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782571592.573619
+  },
+  "84594f2bd8abebf5c2e8c62c6a9a3c56": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and safety-related news event involving a fatality and serious injuries, requiring a police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782571605.179777
+  },
+  "012d6f601ee4515377ca965407547f16": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story rather than national hard news, and it does not meet the criteria for significant UK political, economic, or major institutional relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782571616.183713
   }
 }
