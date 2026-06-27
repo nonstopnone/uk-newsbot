@@ -11017,5 +11017,47 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1782533858.820784
+  },
+  "f9107672b5a90c622823c7164f4525db": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and emergency services incident involving a death in a public space, which is relevant to UK public safety and local news reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782553894.971908
+  },
+  "ad110808914ce4b3fc8f63e2f4250cb9": {
+    "is_relevant": false,
+    "reasoning": "This is a descriptive sports feature/lifestyle piece focused on an atmosphere in a Miami bar rather than hard news regarding UK sports results or administration.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782553903.348283
+  },
+  "7713e75e06902ce460016cd9e7953ca0": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest story about a comedian's property sale and does not constitute hard news or a significant event affecting the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782553913.09526
+  },
+  "9489996cd4cb7d92fa73095c7abac50e": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a local rescue operation. It does not qualify as hard news of national importance or significant impact for the r/BreakingUKNews audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782553924.7699
+  },
+  "e027431bfe1a0d44b0cf4316362f91b7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder conviction in the UK, which falls under the crime and legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782553935.53622
+  },
+  "884ea66157724813e643eb142358511c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle feature profile rather than hard news; it focuses on an individual's academic project rather than a significant update in public policy, health alerts, or major sporting developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782553951.584361
   }
 }

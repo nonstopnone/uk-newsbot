@@ -164,3 +164,5 @@
 2026-06-27T04:17:39.583644+00:00|https://www.bbc.co.uk/news/articles/c3ey093d039o|the papers burnham election call and too hot for tennis|a7f70135e0246cbda51bb363128ba2e3
 2026-06-27T04:17:42.314137+00:00|https://www.bbc.co.uk/weather/articles/cgrk4w57e74o|are we in for a summer of serial heatwaves|350ebdd8f74df8b1e059c54b51eaced8
 2026-06-27T07:35:40.436773+00:00|https://www.bbc.co.uk/news/articles/clye9xej0yjo|the kindhearted newsagent murdered for his takings could a review find his killer|b28dfc75f0b105c8159c3c0c5c4dc3ce
+2026-06-27T09:52:32.116636+00:00|https://www.bbc.co.uk/news/articles/c4gy47w37wjo|body of missing man found in river by police|f9107672b5a90c622823c7164f4525db
+2026-06-27T09:52:34.450315+00:00|https://news.sky.com/story/man-convicted-of-murder-after-15-year-old-boy-shot-dead-in-london-park-13558214|man convicted of murder after boy shot dead in childrens play area|e027431bfe1a0d44b0cf4316362f91b7
