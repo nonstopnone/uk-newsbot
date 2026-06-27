@@ -11059,5 +11059,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782553951.584361
+  },
+  "f8b6eccf658a3f54f701ca1584c42a71": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a tragic death and an active police incident within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782560213.886867
+  },
+  "989e5458bc4431d10281b2bdd7567219": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on major emergency incidents impacting multiple UK residential areas and infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782560221.843334
   }
 }
