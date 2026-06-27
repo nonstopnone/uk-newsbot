@@ -1,8 +1,3 @@
-2026-06-20T03:58:37.796133+00:00|https://news.sky.com/story/campaigners-criticise-apology-from-property-show-after-illegal-israeli-settlements-advertised-13555506|campaigners criticise apology from property show after illegal israeli settlements advertised|574b85a828f8b42a665f55f87a2975f9
-2026-06-20T03:58:40.367327+00:00|https://www.telegraph.co.uk/football/2026/06/19/scotland-vs-morocco-live-score-latest-update-2026-world-cup|scotland beaten by morocco after two penalty appeals denied|08cc313fd599278d16e12edbb9767b09
-2026-06-20T03:58:42.967869+00:00|https://news.sky.com/story/muggier-heatwave-could-top-34c-in-next-few-days-as-extreme-heat-warning-issued-13555809|britain facing tropical night temperatures as extreme heat warning issued|fd71f8e7d641a5ecd53d0375f976f0fd
-2026-06-20T03:58:45.629941+00:00|https://www.bbc.com/weather/articles/cp8lye61jk6o|cooler saturday gives brief relief before heat returns|dc6240bc49d4ebb1eff19d1a1fe82f11
-2026-06-20T03:58:48.062535+00:00|https://www.bbc.com/news/articles/cj4g242j9ngo|the papers cabinet turns on starmer and megs in for palace stay|1f29db47763ce452fbbcc9da95576e37
 2026-06-20T10:35:31.891991+00:00|https://www.bbc.com/news/articles/cevl4vg40yko|long queues at edinburgh airport after suspicious items evacuation|b70c36723ccb32cc3b5ce0bff83f638c
 2026-06-20T10:35:34.507751+00:00|https://www.bbc.com/news/articles/cewq05jqklno|hospital suspends maternity services due to staff shortages|b5c1aa966d4db3d2ebd57851dc9f44fd
 2026-06-20T10:35:37.049794+00:00|https://news.sky.com/story/speculation-growing-king-could-be-reunited-with-grandchildren-as-sussexes-offered-royal-rooms-on-uk-visit-13556028|speculation growing king could be reunited with grandchildren as sussexes offered royal rooms on uk visit|3c727b006bac2dd3d640d00af5df723d
@@ -166,3 +161,5 @@
 2026-06-26T22:46:20.475617+00:00|https://www.bbc.co.uk/news/articles/cz75px7zl0wo|nicholas rossi rapist who faked death and fled to scotland dies in us hospital|bd61943b621550f8f30f38ffe7c55b5d
 2026-06-27T00:11:27.045146+00:00|https://www.bbc.co.uk/news/articles/c5yz952dm74o|home office to introduce new asylum routes to uk|97bfa4f705496255173dc56b1df27078
 2026-06-27T00:11:29.626635+00:00|https://www.bbc.co.uk/news/articles/cly947gp9z8o|psni officer had intelligence on donaldson abuse a year before complaint|a399ab236f8a63623e1d4f8608251469
+2026-06-27T04:17:39.583644+00:00|https://www.bbc.co.uk/news/articles/c3ey093d039o|the papers burnham election call and too hot for tennis|a7f70135e0246cbda51bb363128ba2e3
+2026-06-27T04:17:42.314137+00:00|https://www.bbc.co.uk/weather/articles/cgrk4w57e74o|are we in for a summer of serial heatwaves|350ebdd8f74df8b1e059c54b51eaced8

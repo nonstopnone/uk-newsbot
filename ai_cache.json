@@ -11003,5 +11003,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1782519084.953821
+  },
+  "64f124758220c46685ce891aa8cadbe1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the England national football team's participation in a major international tournament, which is considered a significant UK sports news event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782533849.696763
+  },
+  "e547d4b767724bb8e9b53e07b39a61ac": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the activities and movements of the Royal Family within the UK, which is a designated category for the subreddit.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782533858.820784
   }
 }
