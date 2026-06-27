@@ -11108,5 +11108,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1782576450.035337
+  },
+  "84dd5ae51c96cdcd1bfa7573c825fe6a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a public order event and ongoing terrorism-linked legal proceedings within the UK, meeting the criteria for crime and domestic social reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782581491.479447
+  },
+  "ab396465647428f5ae3b0010edc1f8d6": {
+    "is_relevant": false,
+    "reasoning": "This is a sports preview/analysis article, which is explicitly excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782581500.542328
   }
 }
