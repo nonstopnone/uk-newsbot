@@ -11101,5 +11101,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782571616.183713
+  },
+  "342e89b0f6f8257846f92093c1b3f09b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency incident involving UK search and rescue services and casualties within UK territory, qualifying as hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782576450.035337
   }
 }
