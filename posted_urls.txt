@@ -1,7 +1,3 @@
-2026-06-20T17:49:41.727278+00:00|https://www.telegraph.co.uk/politics/2026/06/20/keir-starmer-latest-news-andy-burnham-labour-leader-resign|burnham insists he will stick to fiscal rules|da3ef8297323ac5c44f3b372ccfdda8c
-2026-06-20T17:49:44.301370+00:00|https://www.telegraph.co.uk/rugby-union/2026/06/20/northampton-saints-v-exeter-chiefs-live-score-prem-final|hendy double powers northampton to second prem title in three years|2e94d2713834e21836ac0530fb4a6597
-2026-06-20T17:49:46.839286+00:00|https://news.sky.com/story/counter-terror-police-investigating-violent-attacks-in-edinburgh-13556144|counter terror police investigate attacks that appeared to target muslims in uk city|149d9af145d2bf297b91665efb89e416
-2026-06-20T17:49:49.398832+00:00|https://www.bbc.com/news/articles/ce8j33e30neo|nine people in critical condition among 100 injured in fatal bedford train crash|4b7fe82dfc38b43b22b64663e2ac499a
 2026-06-20T19:41:56.948424+00:00|https://www.bbc.com/news/articles/cx2j700l5jlo|people flew from their seats passengers describe how bedford train crash unfolded|0dc6d328aba9a391e585bbb45eb0a586
 2026-06-20T19:41:59.413316+00:00|https://www.telegraph.co.uk/cricket/2026/06/20/england-vs-new-zealand-live-second-test-score-latest-day-4|ragtag england on brink despite roots brilliance|eefdc3523375d743d50deffb39812493
 2026-06-20T22:15:32.423303+00:00|https://news.sky.com/story/white-city-three-people-killed-following-fire-in-west-london-13556237|three people killed following fire in west london|f68fd7339764996fda3832782a11256b
@@ -165,3 +161,5 @@
 2026-06-27T16:07:31.091704+00:00|https://www.bbc.co.uk/news/articles/c79yx71ve4qo|two rescued after aeroplane emergency landing off welsh coast|342e89b0f6f8257846f92093c1b3f09b
 2026-06-27T16:07:33.653459+00:00|https://www.bbc.co.uk/news/articles/c07y5pe9d4yo|boy 17 dies and three seriously injured in crash|84594f2bd8abebf5c2e8c62c6a9a3c56
 2026-06-27T17:31:41.185625+00:00|https://www.bbc.co.uk/news/articles/cql1k9z5gk3o|thousands join antiracism demo after terrorismlinked murder bids|84dd5ae51c96cdcd1bfa7573c825fe6a
+2026-06-27T18:51:55.517297+00:00|https://www.telegraph.co.uk/cricket/2026/06/27/england-vs-new-zealand-third-test-live-score-latest-day-3|humbled england staring at rare home series defeat|b203d9ff8728294c89ea4528c3a7f86b
+2026-06-27T18:51:58.053386+00:00|https://www.bbc.co.uk/news/articles/cdxdwr0xk55o|burnham will need a moscow test as well as makerfield test says exmilitary chief|a072b921cb6365ae5f9744ee4e00b9bb

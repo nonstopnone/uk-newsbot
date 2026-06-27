@@ -11122,5 +11122,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782581500.542328
+  },
+  "b203d9ff8728294c89ea4528c3a7f86b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of a national sports team in an international series held in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782586304.967249
+  },
+  "a072b921cb6365ae5f9744ee4e00b9bb": {
+    "is_relevant": true,
+    "reasoning": "The article discusses national defence policy, government spending plans, and future leadership priorities, which are matters of significant political and security importance to the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782586314.991633
   }
 }
