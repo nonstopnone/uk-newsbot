@@ -11136,5 +11136,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782586314.991633
+  },
+  "88f8b5a595af56fa13dce3332929229b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving multiple injuries and an arrest for attempted murder in a major UK city, which falls under core public safety reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782595194.089067
+  },
+  "7f4124d8a167dabbe5859ac88034ce95": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on NHS staffing issues and workforce planning within a devolved UK administration, which directly impacts public health and state expenditure.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782595203.187953
   }
 }
