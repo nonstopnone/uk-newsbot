@@ -11150,5 +11150,26 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1782595203.187953
+  },
+  "17fc98be5fc306f0c17ddae8ffa1c4e5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the impact of industrial action on the justice system and victims in Northern Ireland, falling squarely under the UK legal and devolved governance remit.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782603773.093195
+  },
+  "96c807420f8403d06445b8a98ed29f6f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news event involving a major national team, which is permitted under the 'Sport' category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782603782.690026
+  },
+  "8a0ea917d469ce083c71a0d074aea08b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the performance and scheduling of the England national women's cricket team in a major tournament, which is relevant to UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782603791.102067
   }
 }
