@@ -10989,5 +10989,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782513975.557966
+  },
+  "a399ab236f8a63623e1d4f8608251469": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the PSNI's handling of child abuse allegations against a high-profile political figure, involving issues of public trust and police conduct in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782519074.046215
+  },
+  "0a67dbef16f69d5bae911d7b31955df6": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the public finances and fiscal arrangements of the head of state, which is a matter of significant public interest and transparency regarding the Royal Household.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782519084.953821
   }
 }
