@@ -11360,5 +11360,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782677742.326632
+  },
+  "66b568775900126d88bc7f2e7b1ba1cb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news event involving a high-profile British athlete withdrawing from a major UK sporting tournament.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782682723.94133
+  },
+  "699eb61a215a8adc685d3138dc6cb0ae": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case regarding fraud and the Proceeds of Crime Act, which is a matter of public interest and legal significance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782682736.150953
   }
 }
