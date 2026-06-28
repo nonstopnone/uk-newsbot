@@ -11171,5 +11171,33 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782603791.102067
+  },
+  "77fc81571aa6311df70e6a487fc95916": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment piece regarding a music concert, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782611704.843389
+  },
+  "384389be614bf5fa5c6f59764828c654": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports analysis/opinion piece regarding a World Cup campaign, which falls under the excluded category of sports previews and opinion columns.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782611713.990904
+  },
+  "71fe85622e9d9e0e5dc18c2b50efa9a6": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a national football team head coach is a significant sports news event for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782611724.404314
+  },
+  "fc354df399d83c53ccb273930a9898ef": {
+    "is_relevant": false,
+    "reasoning": "This is a sports opinion column/analysis piece regarding a tournament exit, which is explicitly excluded by the relevance guidelines.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782611732.794926
   }
 }

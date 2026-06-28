@@ -163,3 +163,5 @@
 2026-06-27T23:43:14.220639+00:00|https://www.bbc.co.uk/news/articles/c1ky0yryy3vo|barrister strike caused additional trauma to victims as 2500 cases delayed|17fc98be5fc306f0c17ddae8ffa1c4e5
 2026-06-27T23:43:16.574643+00:00|https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o|scotlands elimination from world cup confirmed|96c807420f8403d06445b8a98ed29f6f
 2026-06-27T23:43:18.953698+00:00|https://www.telegraph.co.uk/cricket/2026/06/27/england-vs-new-zealand-score-updates-womens-t20-world-cup|ruthless england deserve primetime semifinal but instead are in limbo|8a0ea917d469ce083c71a0d074aea08b
+2026-06-28T01:55:33.604729+00:00|https://www.bbc.co.uk/news/articles/c7vymj03drno|the papers devolution revolution and the cost of cool|8b8d3430acfc52186e25fba571f7ee4e
+2026-06-28T01:55:36.288287+00:00|https://www.bbc.co.uk/news/articles/c4gypnyk788o|lib dems face call for inquiry into deselection of election candidate|db45edb79dad6fdf3fa3184b00062d8b
