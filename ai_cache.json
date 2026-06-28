@@ -11325,5 +11325,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782658335.418295
+  },
+  "784e5082763bbd76c57da2db824cc2da": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting figure (George Russell) winning a significant international race, which is relevant to UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782663222.270153
+  },
+  "a36876ac3b119eb8d408a176647ac803": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal news story regarding a murder acquittal and the subsequent public response to knife crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782663232.37783
+  },
+  "8a2413a8f374ea3a67581cb24e6a52f7": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the performance and fan base of the Scottish national football team at the World Cup, which is a major sporting event of significant national interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782663242.514991
   }
 }
