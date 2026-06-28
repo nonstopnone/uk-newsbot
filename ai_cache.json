@@ -11353,5 +11353,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782668253.839311
+  },
+  "ee601b6e3f6d91d7a642b232d04361e9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news event regarding a high-profile UK athlete's retirement from international Test cricket.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782677742.326632
   }
 }
