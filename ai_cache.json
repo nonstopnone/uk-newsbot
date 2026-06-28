@@ -11374,5 +11374,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782682736.150953
+  },
+  "8e7230cf77fd12215e58ee3f9cb44527": {
+    "is_relevant": true,
+    "reasoning": "This is a significant fire incident involving a large-scale emergency response in Northern Ireland that is being investigated as a deliberate act, making it a matter of public safety and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782686632.644701
+  },
+  "096c6188b99a7f9ae54e1a793b59646a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding UK military infrastructure and government spending plans, which directly impacts national security.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782686642.988164
   }
 }
