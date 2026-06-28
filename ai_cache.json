@@ -11388,5 +11388,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782686642.988164
+  },
+  "a28be5076521c724cfe244e0f31653bd": {
+    "is_relevant": true,
+    "reasoning": "This is significant hard news regarding industrial action within the NHS in Northern Ireland, directly impacting public services and the health sector.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782690684.354441
   }
 }
