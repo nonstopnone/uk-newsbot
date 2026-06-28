@@ -11199,5 +11199,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782611732.794926
+  },
+  "b0e1fdf0b2f2b5d93e3599c2f3c57a3d": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the security arrangements and travel plans of senior members of the Royal Family, which is a matter of significant public and media interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782627705.51277
   }
 }
