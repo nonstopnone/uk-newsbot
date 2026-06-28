@@ -11283,5 +11283,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782646010.698124
+  },
+  "60031f89f396fc8d555ab495f8239710": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal investigation involving a suspicious death and an arrest by the PSNI in Northern Ireland, which is a key part of the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782651445.241693
+  },
+  "862e49e305c9b3afc38ad4c016c81b2f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a tragic incident involving emergency services and public safety in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782651454.542875
+  },
+  "19d399b5bea351d9489985abd3e68b09": {
+    "is_relevant": true,
+    "reasoning": "This concerns the security arrangements of a senior member of the Royal Family and ongoing legal matters regarding UK taxpayer-funded protection, which is a matter of significant public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782651465.830738
+  },
+  "325d9a4fbb44a54f6ee6cc1a6ef279f0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the resignation of the Scotland national football team manager, which is a significant event in UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782651474.368526
   }
 }

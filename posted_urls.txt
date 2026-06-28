@@ -168,3 +168,6 @@
 2026-06-28T11:26:51.293138+00:00|https://www.bbc.co.uk/news/articles/c621d2x966vo|murder investigation after man dies on street|52913990db70b2ad1d0acf80c2ee82c1
 2026-06-28T11:26:53.943605+00:00|https://news.sky.com/story/body-of-teenage-boy-recovered-from-water-near-cowbury-reservoir-says-greater-manchester-police-13558518|body of teenage boy recovered from water|cc45cb02bacf4d3bd583af3d7c323d10
 2026-06-28T11:26:56.455181+00:00|https://www.bbc.co.uk/news/articles/c20yeykv2yxo|social media contributed to our sons murder|509690b0db1ef9e571d98a0b63c611ee
+2026-06-28T12:57:54.929389+00:00|https://www.bbc.co.uk/news/articles/cz9l44gx31ko|arrest made as police attend scene of suspicious death|60031f89f396fc8d555ab495f8239710
+2026-06-28T12:57:57.377575+00:00|https://www.bbc.co.uk/news/articles/c621lp8ev29o|body of missing boy 15 found in reservoir|862e49e305c9b3afc38ad4c016c81b2f
+2026-06-28T12:57:59.825365+00:00|https://news.sky.com/story/prince-harry-reconsidering-bringing-family-on-uk-trip-over-security-concerns-13558524|harry reconsidering bringing family on uk trip over security concerns|19d399b5bea351d9489985abd3e68b09
