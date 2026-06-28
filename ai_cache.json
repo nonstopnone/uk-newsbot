@@ -11206,5 +11206,54 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1782627705.51277
+  },
+  "70756f3b616226cc89cad5cf67e28be9": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the performance and progress of the England and Scotland national teams in a major international tournament, which is of significant interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782639738.071956
+  },
+  "4e581c1bd524b87daf448d0568d9fea8": {
+    "is_relevant": true,
+    "reasoning": "The article concerns potential challenges to leadership within a major UK political party, which is directly relevant to UK domestic politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782639747.633698
+  },
+  "3b94a7f0665ea15ad6d4341f660ae88b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal workplace accident in London and subsequent legal proceedings in a UK court, which falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782639756.924254
+  },
+  "5344a9864f396e3e7a9f3f887b4bcba0": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a UK-based murder case and the family's advocacy regarding proposed UK-wide policy changes concerning social media access for minors.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782639767.017302
+  },
+  "bc064fa7b41d35df921241650e7b9660": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local planning and housing issue in Wales involving government tax policy impacts, making it relevant to UK infrastructure and devolved governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782639777.603186
+  },
+  "e6f5d18294642ea1482d85ca497f21a4": {
+    "is_relevant": false,
+    "reasoning": "This is a report on the auction of historical sporting memorabilia rather than current hard news regarding sport results, signings, or scandals.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782639789.274815
+  },
+  "48f93dcf11441c581a77c59e56b476cd": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story rather than hard news related to UK politics, economy, crime, or significant infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782639798.531249
   }
 }
