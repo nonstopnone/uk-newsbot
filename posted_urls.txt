@@ -1,5 +1,3 @@
-2026-06-21T10:48:40.924130+00:00|https://www.bbc.com/news/articles/ckg0d6y888zo|woman dies on small boat crossing the channel|71fb8df2b173425660eedcd3d7fddb90
-2026-06-21T10:48:43.326542+00:00|https://www.bbc.com/news/articles/c3631k30xjlo|what is burnhams path to becoming labour leader and pm|8f8fd5ba50bf08c9a87b575973507274
 2026-06-21T13:09:54.820720+00:00|https://www.bbc.com/news/articles/cewq0eggg4lo|disruption to last a week after fatal bedford train crash|74f021a251cd1ff3bc79f2d9bcb8163e
 2026-06-21T13:09:57.321563+00:00|https://www.bbc.com/weather/articles/c932k0lewygo|extreme heat warning extended to four days as 38c forecast in uk|dc42c7aa340befedc43b8152cdddaec2
 2026-06-21T13:09:59.769015+00:00|https://news.sky.com/story/prince-williams-children-call-him-best-papa-on-44th-birthday-13556347|prince williams children call him best papa on 44th birthday|bb3bf3dee1d8de8342566093bbc36752
@@ -167,3 +165,6 @@
 2026-06-28T09:43:19.059032+00:00|https://news.sky.com/story/who-will-face-who-in-last-32-of-world-cup-13558503|a hrefhttpsnewsskycomstoryworldcuplivescotlandbrazilenglandthreelionsbellinghamlatest13535760postid11956222liveblogbodywho will face who in last 32 of world cupa|70756f3b616226cc89cad5cf67e28be9
 2026-06-28T09:43:21.591853+00:00|https://www.bbc.co.uk/news/articles/clye5llzm13o|exminister not ruling out leadership bid yet|4e581c1bd524b87daf448d0568d9fea8
 2026-06-28T09:43:24.085707+00:00|https://www.bbc.co.uk/news/articles/c75y17qd5l7o|firm fined £50000 over workers fatal fall|3b94a7f0665ea15ad6d4341f660ae88b
+2026-06-28T11:26:51.293138+00:00|https://www.bbc.co.uk/news/articles/c621d2x966vo|murder investigation after man dies on street|52913990db70b2ad1d0acf80c2ee82c1
+2026-06-28T11:26:53.943605+00:00|https://news.sky.com/story/body-of-teenage-boy-recovered-from-water-near-cowbury-reservoir-says-greater-manchester-police-13558518|body of teenage boy recovered from water|cc45cb02bacf4d3bd583af3d7c323d10
+2026-06-28T11:26:56.455181+00:00|https://www.bbc.co.uk/news/articles/c20yeykv2yxo|social media contributed to our sons murder|509690b0db1ef9e571d98a0b63c611ee

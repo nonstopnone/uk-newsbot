@@ -11255,5 +11255,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782639798.531249
+  },
+  "52913990db70b2ad1d0acf80c2ee82c1": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a live murder investigation in the UK, which falls under the category of serious crime and police activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782645980.377552
+  },
+  "cc45cb02bacf4d3bd583af3d7c323d10": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report concerning a fatal incident and an active police investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782645991.060081
+  },
+  "479d7aa80691d53efc78cf12d512b31d": {
+    "is_relevant": false,
+    "reasoning": "This is a weather forecast/sports preview piece which falls under the forbidden categories of fluff and sports previews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782646000.037052
+  },
+  "509690b0db1ef9e571d98a0b63c611ee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and social policy story involving a murder case, the debate over social media regulation for minors, and prison reform issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782646010.698124
   }
 }
