@@ -11311,5 +11311,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782651474.368526
+  },
+  "7d348c6635522bf059c04ab58299b4da": {
+    "is_relevant": true,
+    "reasoning": "The involvement of a British national in a major criminal investigation, combined with the active assistance of UK police (Dorset Police) and the FCDO, makes this a matter of significant UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782658324.164532
+  },
+  "ad24b786807b0f5f7687b3fe9a98ac59": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/astronomy story and does not constitute hard news or a matter of significant public policy, economy, or social impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782658335.418295
   }
 }
