@@ -11346,5 +11346,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782663242.514991
+  },
+  "2d9bc47168421a74c564b7fff1d1c64b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK domestic sporting final (Premiership Women's Rugby), which falls under the category of UK sport results.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782668253.839311
   }
 }
