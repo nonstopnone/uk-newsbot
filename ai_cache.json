@@ -11654,5 +11654,33 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1782766646.167494
+  },
+  "abfa982a628551469bdd9602e2d2e2d0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant major UK infrastructure project involving the Shetland Islands Council that affects regional connectivity and transport policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782771317.709319
+  },
+  "4acdf5957f15472a99242513cfe6b5d4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change from the UK Ministry of Justice regarding sentencing laws for domestic homicide.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782771328.208886
+  },
+  "7fe953481d2654a4a4aeb75a30c0faa5": {
+    "is_relevant": true,
+    "reasoning": "Wimbledon is a major annual sporting event in the UK with significant national interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782771339.21889
+  },
+  "984a6722d2ef376a66ea01f7049876b3": {
+    "is_relevant": true,
+    "reasoning": "This concerns an ongoing inquest regarding the death of a professional footballer, which is a matter of significant public interest and legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782771349.589919
   }
 }
