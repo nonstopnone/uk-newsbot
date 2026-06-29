@@ -11535,5 +11535,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782739081.639712
+  },
+  "dfb9860feedb899ffc0eac7e18128a9f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a former Member of Parliament and a scandal related to the integrity of a UK general election, falling under crime and political accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782751540.380028
+  },
+  "1fc184cf71b89499f105fd92db0c3bad": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting event involving a high-profile British athlete at Wimbledon.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782751549.873099
+  },
+  "dee4789f15da325c01b2d0377a4f472f": {
+    "is_relevant": true,
+    "reasoning": "The passing of a highly prominent and nationally significant British actress constitutes major cultural news relevant to the UK public.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782751559.626368
+  },
+  "856919a9f373aa3c863eb8dc4642d2de": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad in a violent incident is a matter of significant public interest and involves consular assistance from the UK government.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1782751568.423605
+  },
+  "6076b039a5cfe000ae8f98c7c2bca633": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event in UK sports involving the national cricket team and the retirement of a high-profile captain.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782751580.189334
+  },
+  "2c29e5c8f3bfce31b0247ddd98884317": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime/public safety news event involving police, emergency services, and a tragic loss of life in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782751590.573621
+  },
+  "7939e97faed0ea51d5d515b60e0051f1": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant event in UK professional sport involving the England national team captain, which is of major interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782751602.509795
+  },
+  "570f328efae09bd59a9d5b4b5e68edb6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news event involving a police investigation and a formal inquest following a tragic loss of life, making it relevant to the public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782751615.621733
   }
 }

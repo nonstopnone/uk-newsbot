@@ -1,5 +1,3 @@
-2026-06-22T13:20:26.832718+00:00|https://www.bbc.com/news/articles/c20y1n8y2z7o|injured ticket inspector who helped others in bedford train crash hailed a hero|d9db5a1b665d9428809bc1145b959f66
-2026-06-22T13:20:29.249019+00:00|https://www.bbc.com/news/articles/c0ry128r599o|first red warning for extreme heat for wales as temperatures could hit 38c|6b6e2b0262855b6362505327a264f3ff
 2026-06-22T18:05:58.857252+00:00|https://www.bbc.com/news/articles/cx2x9j1en29o|man charged with terrorism connected attempted murders in edinburgh|a5e22a2e9b78481207e456cc27bbb3d2
 2026-06-22T18:06:01.489353+00:00|https://www.bbc.com/news/articles/c04yrvzkdqqo|ex dup leader donaldson guilty of child sex abuse charges including one of rape|3280d18d64bd6d088ff60c0524adbeb1
 2026-06-22T18:06:06.026352+00:00|https://www.telegraph.co.uk/business/2026/06/22/pound-uk-bonds-borrowing-costs-starmer-burnham-ftse-100|investors shun uk bonds after starmer quits|5933b0746bddfe37d128845447358b6a
@@ -176,3 +174,9 @@
 2026-06-29T13:18:05.577459+00:00|https://news.sky.com/story/enzo-maresca-appointed-new-manchester-city-manager-13558911|enzo maresca appointed new manchester city manager|d6f576278b52e87fbc94d30894b62cc1
 2026-06-29T13:18:08.155900+00:00|https://www.bbc.co.uk/news/articles/c4gy445ve7ko|stalker who used tinder to terrorise ex jailed|ed24524c14a624311a65ed39853a6e38
 2026-06-29T13:18:11.512576+00:00|https://news.sky.com/story/sky-under-nbcuniversal-umbrella-in-comcast-spin-off-13558842|sky under nbcuniversal umbrella in comcast spinoff|d065ff978d933e6b8e0fd6a887b939b0
+2026-06-29T16:46:58.469653+00:00|https://www.bbc.co.uk/news/articles/c3ry1zr8nw2o|exmp craig williams pleads guilty over general election betting offence|dfb9860feedb899ffc0eac7e18128a9f
+2026-06-29T16:47:01.445810+00:00|https://www.telegraph.co.uk/tennis/2026/06/29/wimbledon-2026-norrie-zheng-live-score-latest-updates-news|wimbledon 2026 norrie latest brit to fall in first round after fiveset marathon|1fc184cf71b89499f105fd92db0c3bad
+2026-06-29T16:47:04.058118+00:00|https://www.bbc.co.uk/news/articles/c2ey1pjx0z9o|tributes paid to comic genius penelope keith after her death aged 86|dee4789f15da325c01b2d0377a4f472f
+2026-06-29T16:47:08.393972+00:00|https://news.sky.com/story/british-man-killed-on-caribbean-island-after-being-shot-multiple-times-13558963|british man killed on caribbean island after being shot multiple times|856919a9f373aa3c863eb8dc4642d2de
+2026-06-29T16:47:11.056777+00:00|https://www.telegraph.co.uk/cricket/2026/06/29/england-vs-new-zealand-live-updates-third-test-day-five|england slump to humiliating series defeat on ben stokes final day of test cricket|6076b039a5cfe000ae8f98c7c2bca633
+2026-06-29T16:47:13.504970+00:00|https://news.sky.com/story/ben-stokes-ends-international-career-with-160-run-defeat-to-new-zealand-13558953|ben stokes ends international career with 160run defeat to new zealand|7939e97faed0ea51d5d515b60e0051f1
