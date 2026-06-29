@@ -11591,5 +11591,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782751615.621733
+  },
+  "7dd002cda3d9a95117fc4211d174d245": {
+    "is_relevant": true,
+    "reasoning": "This relates to a high-profile inquest involving the Police Service of Northern Ireland (PSNI) and potential investigative failures, which falls under UK legal and public interest news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782759945.944034
+  },
+  "4a7798f262974aa5731e940c3d1e3866": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a foreign conflict and international military logistics that do not materially affect the UK or its domestic affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782759954.299112
+  },
+  "b877bb7276b9f978fc815c947f7cfd58": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a serious bomb threat and conviction at a UK Crown Court, which is highly relevant to public safety and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782759964.283614
+  },
+  "c0cd1e535ea19204389ccbf59a121dfc": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal trial involving a high-profile public figure, which constitutes hard news regarding the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782759976.22609
+  },
+  "edbdf60ec3e52d10c330629025ffe039": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development regarding NHS industrial action, which is a major issue for UK public services and the economy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782759989.741976
+  },
+  "a1972696e991855bc940e703a39fe49e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial at the Old Bailey involving serious charges of murder and sexual assault, falling squarely under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782760005.709393
   }
 }
