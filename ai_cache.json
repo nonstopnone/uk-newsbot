@@ -11633,5 +11633,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782760005.709393
+  },
+  "9052616f61c01e421ab91ba922f0311d": {
+    "is_relevant": false,
+    "reasoning": "This is an international aviation incident involving a US airport with no mention of UK involvement or material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782766627.011136
+  },
+  "604735d42c5e5c16a1a502031712a131": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal coroner's inquest regarding the death of a prominent UK athlete, which touches on matters of legal process and public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782766635.750166
+  },
+  "d9ec56bb9b5960a07f8e2cae4982b18d": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal Family and ongoing legal/security disputes involving a senior member of the monarchy, which is a matter of public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782766646.167494
   }
 }
