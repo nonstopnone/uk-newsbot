@@ -11395,5 +11395,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782690684.354441
+  },
+  "57750e8c1eb481c0e1b37c9ad8065b17": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the performance and capacity of the NHS in England, directly impacting public services and national health policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782706286.23353
+  },
+  "ce8f7d7324aa76f725242ba82b67444c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving attempted murder charges and police intervention in London, meeting the criteria for Crime & Legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782706296.869544
+  },
+  "500bb7865a99559d9b6bcf744e59dee7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the UK education system involving the Department for Education and addressing major national social inequality, which falls under UK politics and public policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782706307.636244
   }
 }

@@ -1,5 +1,3 @@
-2026-06-22T02:03:57.432441+00:00|https://www.bbc.com/news/articles/c39yd12zed9o|chris mason all eyes on downing street what does the pm say and when|cea9aed595df3678b34af789187e609f
-2026-06-22T02:03:59.853716+00:00|https://www.bbc.com/news/articles/c992mxgrxgvo|the papers starmer expected to announce exit and game over|24396528c771cbea3f17220c6a7df149
 2026-06-22T07:43:19.195887+00:00|https://www.bbc.com/news/articles/cx2vwddjr1qo|police appeal six months after suspected stabbing|e1a00984a38ba66b3845df126a5dafa6
 2026-06-22T07:43:21.621138+00:00|https://www.bbc.com/news/articles/cwy0v41w9l6o|jury in donaldson sex abuse trial to continue deliberations|40f5783f1ace5cb048ac5317a4605008
 2026-06-22T07:43:24.184719+00:00|https://news.sky.com/story/u-turn-on-electric-vehicle-plans-would-add-13-to-uk-emissions-13556086|uturn on electric vehicle plans would add 13 to uk emissions|ee99b89539afb6ae2ef70e5bddf50861
@@ -173,3 +171,5 @@
 2026-06-28T22:44:08.094835+00:00|https://news.sky.com/story/uk-to-replace-fleet-of-destroyers-with-budget-warships-13558668|uk to replace fleet of destroyers with budget warships|096c6188b99a7f9ae54e1a793b59646a
 2026-06-28T23:51:25.869412+00:00|https://www.bbc.co.uk/news/articles/cpv31erm387o|resident doctors take strike action over pay|a28be5076521c724cfe244e0f31653bd
 2026-06-28T23:51:28.313938+00:00|https://www.bbc.co.uk/news/articles/c2ky95ndx92o|navy to build droneequipped warships instead of replacing ageing destroyers|6b5c7707d1200016bf0e9f06db9eed07
+2026-06-29T04:11:48.583994+00:00|https://www.bbc.co.uk/news/articles/c14yr0mgdp6o|burnham to promise devolution in first major speech since launching no 10 bid|9d5d7837c218ad2f5fef6a6639b48330
+2026-06-29T04:11:51.289455+00:00|https://www.bbc.co.uk/news/articles/cwyd1l0lge8o|over one million children referred for mental healthcare with anxiety the main reason|57750e8c1eb481c0e1b37c9ad8065b17
