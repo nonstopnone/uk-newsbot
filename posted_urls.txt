@@ -172,3 +172,7 @@
 2026-06-29T09:12:07.347085+00:00|https://www.bbc.co.uk/news/articles/cx2vy4zr847o|stormont parties demand full transparency over dup safeguarding|8bb1775917ad02bbc81918f0651be2c4
 2026-06-29T09:12:09.853413+00:00|https://www.bbc.co.uk/news/articles/c7vymvm1qpgo|murder charge after man dies at summer solstice event|6bfd5fe378f0fdcc7be1fad1125c4f20
 2026-06-29T09:12:12.615353+00:00|https://news.sky.com/story/british-american-tobacco-to-cut-5500-jobs-in-ai-drive-13558767|british american tobacco cuts 5500 jobs in ai drive|fd21327fc016af3aa87fcd181f3cc299
+2026-06-29T13:18:02.750582+00:00|https://www.bbc.co.uk/news/articles/c3vyen243dno|british american tobacco to cut 9000 jobs|d302227b27a04415fa9e11796f1d361c
+2026-06-29T13:18:05.577459+00:00|https://news.sky.com/story/enzo-maresca-appointed-new-manchester-city-manager-13558911|enzo maresca appointed new manchester city manager|d6f576278b52e87fbc94d30894b62cc1
+2026-06-29T13:18:08.155900+00:00|https://www.bbc.co.uk/news/articles/c4gy445ve7ko|stalker who used tinder to terrorise ex jailed|ed24524c14a624311a65ed39853a6e38
+2026-06-29T13:18:11.512576+00:00|https://news.sky.com/story/sky-under-nbcuniversal-umbrella-in-comcast-spin-off-13558842|sky under nbcuniversal umbrella in comcast spinoff|d065ff978d933e6b8e0fd6a887b939b0

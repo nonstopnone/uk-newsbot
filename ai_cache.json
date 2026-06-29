@@ -11458,5 +11458,82 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782724326.645367
+  },
+  "bea891b103efd2b1c77d3d11b8e17565": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/advice article about personal health and hobbies, which falls under prohibited fluff rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782738972.949552
+  },
+  "d302227b27a04415fa9e11796f1d361c": {
+    "is_relevant": true,
+    "reasoning": "British American Tobacco is a major UK-headquartered firm, and the loss of 9,000 jobs significantly impacts the UK economy and business landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782738983.671668
+  },
+  "d6f576278b52e87fbc94d30894b62cc1": {
+    "is_relevant": true,
+    "reasoning": "The appointment of a manager for a major Premier League club is a significant event in UK professional sports.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782738994.228521
+  },
+  "ed24524c14a624311a65ed39853a6e38": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving a serious conviction and sentencing for stalking and assault.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782739003.595931
+  },
+  "39bb95e2b6f5f1f0be9888ca48571667": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent, award-winning British cultural figure is considered significant national news for a UK audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782739013.517208
+  },
+  "18a30092024381bcac9884c47bae142f": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad is a matter of significant public interest and involves the Foreign Office, meeting the criteria for notable international news concerning UK citizens.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1782739024.565
+  },
+  "b66f75370aa4527d99d6a76a2d20330e": {
+    "is_relevant": false,
+    "reasoning": "This is a local health safety advisory rather than a national hard news story of political, economic, or major societal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782739035.788296
+  },
+  "78ed21d9ca3fc3f1855f6a9529c01e35": {
+    "is_relevant": false,
+    "reasoning": "This is a biographical obituary piece concerning a cultural figure, which falls under lifestyle and arts rather than hard news or current affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782739049.545404
+  },
+  "4b6edb2b87706677b69d25d92f337426": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and court proceedings within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782739060.163512
+  },
+  "d065ff978d933e6b8e0fd6a887b939b0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate restructuring of a major UK media entity and broadcaster, which has material implications for the UK's media landscape and economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782739072.883167
+  },
+  "5522721ce38d93f9c1ffe9bf57e49ffc": {
+    "is_relevant": false,
+    "reasoning": "This is a weather forecast/lifestyle report rather than hard news concerning politics, the economy, crime, or significant infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782739081.639712
   }
 }
