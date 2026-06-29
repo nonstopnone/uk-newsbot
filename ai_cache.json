@@ -11682,5 +11682,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782771349.589919
+  },
+  "d58f93ae893e75bcd5d8ac133a8e0fad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failure and criminal abuse involving a perpetrator in Northern Ireland, which is a matter of serious public interest within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782775948.293303
   }
 }
