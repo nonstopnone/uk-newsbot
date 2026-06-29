@@ -11416,5 +11416,47 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782706307.636244
+  },
+  "58db14cf2659026ed5e26b76af2f0e3d": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding tourism management and anti-social behaviour in a specific rural area, which does not constitute hard national news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782724275.794889
+  },
+  "8bb1775917ad02bbc81918f0651be2c4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development involving a major devolved government party and serious criminal convictions, which is of high public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782724285.913726
+  },
+  "6bfd5fe378f0fdcc7be1fad1125c4f20": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK crime, a murder investigation, and subsequent legal charges, which falls squarely under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782724294.985629
+  },
+  "fd21327fc016af3aa87fcd181f3cc299": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate restructuring involving a major UK-headquartered FTSE 100 company and a large-scale reduction in its global workforce, which has a material impact on the UK business sector and economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782724305.40195
+  },
+  "003806dfb0e87b27d8a1ed4e1c319a3a": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a celebrity charity donation rather than hard news concerning UK politics, the economy, or systemic societal issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782724314.954775
+  },
+  "e0f37a6c6dd0fd3daaf7265a30b327db": {
+    "is_relevant": false,
+    "reasoning": "This is a local community interest story regarding a memorial run, which constitutes lifestyle/community news rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782724326.645367
   }
 }
