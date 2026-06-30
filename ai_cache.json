@@ -11703,5 +11703,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782784243.140478
+  },
+  "81e1a45433c662dca2cc66782fa42921": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused lifestyle and entertainment story that does not meet the threshold for hard news or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782813843.78437
+  },
+  "8bea9a1d2fbf406c4ff75537bfdc3232": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a football match between Germany and Paraguay; it does not involve UK teams or players, nor does it have any material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782813853.20387
+  },
+  "6d75ba4a6f0067e03070478e6cbc453b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving serious charges of attempted murder and arson related to civil unrest in Northern Ireland, which is a key part of the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782813862.240183
+  },
+  "8a3e04b9173819cffc3662d6a2b23677": {
+    "is_relevant": true,
+    "reasoning": "The story involves a member of the Royal Family and is of significant interest to a UK audience.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1782813872.609278
+  },
+  "4dc6908c1637dad69e48c58ffa8d8f8b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local government matter concerning the provision of public education infrastructure in Scotland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782813880.740532
+  },
+  "8872af1ded718d92ff8ecdbf0972f557": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal stalking conviction investigated by UK police, involving serious public safety concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782813894.942887
   }
 }
