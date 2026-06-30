@@ -11850,5 +11850,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782832501.586182
+  },
+  "2223abad0f1e88c5416b2f8cf8b845cd": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant government policy announcement regarding major UK defence funding and national security strategy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782839836.170307
+  },
+  "f6ad53869b0bff6e306d5d65e70639d9": {
+    "is_relevant": false,
+    "reasoning": "This is a sports human interest story concerning a tennis player's personal journey, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782839846.571194
   }
 }
