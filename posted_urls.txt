@@ -1,8 +1,3 @@
-2026-06-23T20:57:50.741474+00:00|https://www.bbc.co.uk/news/articles/cvg4qd203x6o|donaldson labelled depraved by poots as photos removed from lagan valley civic centre|1170053a2158653c597cd002d11ca694
-2026-06-23T20:57:53.119855+00:00|https://www.bbc.co.uk/news/articles/cwyl940y94xo|hundreds of schools plan closures ahead of red heat alerts|36d56bf821f8642daed326b91c5311ac
-2026-06-23T20:57:55.512117+00:00|https://www.telegraph.co.uk/business/2026/06/23/ai-bubble-tech-ftse-100-markets-kospi-musk-spacex|us stocks plunge in global tech rout|0c12e533202df3b6c301106adbd4e2eb
-2026-06-23T20:57:59.999905+00:00|https://news.sky.com/story/new-defence-secretary-dan-jarvis-signals-hes-pushing-for-extra-money-for-armed-forces-13557182|new defence secretary signals hes pushing for extra money for armed forces|25f18ec15171a4f97834b5e53f732926
-2026-06-23T20:58:02.338133+00:00|https://news.sky.com/story/police-name-man-stabbed-to-death-in-crystal-palace-13557180|police name man stabbed to death in london|5c56bdee836f083d4859c3948f2f876d
 2026-06-23T22:19:26.970736+00:00|https://www.bbc.co.uk/news/articles/ckg4j1j38nvo|mugs in drawers and watches in cupboards what police pictures tell us about peter murrells illicit purchases|abfcafb4768a44838c40267c3202ef77
 2026-06-23T22:19:29.368516+00:00|https://www.bbc.co.uk/news/articles/c2eyj7j4evko|starmer holds talks with burnham as he seeks orderly transition|537ebf6584167089ff003c12bc1a3ebf
 2026-06-23T23:36:23.778628+00:00|https://www.telegraph.co.uk/football/2026/06/23/england-vs-ghana-live-score-latest-2026-world-cup-updates|england brought down to earth in frustrating stalemate with ghana|a92a06cba80f00c55051bcb10d9b6de8
@@ -180,3 +175,5 @@
 2026-06-30T17:17:36.417367+00:00|https://news.sky.com/story/uk-minded-to-intervene-in-historic-paramount-and-warner-bros-deal-over-media-plurality-fears-13559212|uk minded to intervene in paramount and warner bros deal|8ad523767f71d67e996a27dfb8b9f65f
 2026-06-30T19:19:37.778230+00:00|https://www.bbc.co.uk/news/articles/czde8y03qzvo|patient tested for suspected ebola virus at glasgow hospital|d5c4b4fb38ff7d3543a868f63e3ea543
 2026-06-30T19:19:40.427387+00:00|https://www.bbc.co.uk/news/articles/cn94e1l8wp2o|red arrows to get new jets replacing ageing hawk|718636d6c0667e04ea9159e352a50d1e
+2026-06-30T21:15:27.100902+00:00|https://www.bbc.co.uk/news/articles/cx2wl6ynn2no|government cannot deport grooming gang ringleader|7ae96a29d2f841233f84ffaf90885b26
+2026-06-30T21:15:29.670211+00:00|https://www.bbc.co.uk/news/articles/c4gy28350njo|woman reaches settlement over stakeknife interrogation|9a5c0a51c32f9d2ad1efdd4911351f18
