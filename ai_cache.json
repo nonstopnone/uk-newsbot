@@ -11689,5 +11689,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782775948.293303
+  },
+  "23ca2deee12403b378d16f929c5e041c": {
+    "is_relevant": true,
+    "reasoning": "This article concerns a significant change to UK immigration policy regarding asylum seeker support and accommodation, which is a matter of clear public interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782784232.192925
+  },
+  "1cc55f4755c9a09b71d7d1ca8958be9d": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a football match between Paraguay and Germany; it does not involve UK teams, players, or any material impact on the United Kingdom.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782784243.140478
   }
 }
