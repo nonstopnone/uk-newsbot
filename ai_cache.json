@@ -11773,5 +11773,82 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782822285.081465
+  },
+  "9dc440297cb0b9cf32369f5f2bae412a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the governance and performance of a major public body within a devolved government, directly impacting UK health services.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782832357.523565
+  },
+  "d85b0018e6c8173b33392e3a3e64ff37": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal and criminal justice story concerning the appeal of a high-profile murder conviction in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782832367.272511
+  },
+  "bf5e84e46c01e23902abf434c52c33ce": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a young child's sporting development and does not constitute hard news of national importance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782832375.771734
+  },
+  "e69e05d1e24da07a2405bcc3608aaa73": {
+    "is_relevant": true,
+    "reasoning": "This relates to the theft of a high-profile heritage sapling which is a subject of significant public interest and an ongoing criminal investigation by Cumbria Police.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782832386.115772
+  },
+  "0a5a3410b506411065585871dfad40a9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on Scottish crime statistics and legal proceedings, directly affecting the UK's devolved legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782832396.976878
+  },
+  "35aec13da163f966ea8330ba02c65d2e": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story about a celebrity encounter and does not constitute hard news, nor does it carry significant impact for the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782832456.071182
+  },
+  "aca4e6cc16ec0356f5dc32d11810d97f": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff piece about a charity shop find rather than significant hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782832464.057111
+  },
+  "d6fbd800ef08e1f0e4fa95cad8b32fcd": {
+    "is_relevant": true,
+    "reasoning": "This concerns an ongoing UK legal inquest involving a professional athlete and a major UK football club, which is a matter of public interest and judicial process.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782832472.971594
+  },
+  "1f2ed82d18b6eb8392e2ccc86190dde5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning an inquest into the death of a professional footballer, which is a matter of serious public interest and legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782832484.102203
+  },
+  "8471260f584831c7f2e9a75ce4a26933": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime and an ongoing police manhunt in London, which constitutes hard news relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782832493.115095
+  },
+  "8ad523767f71d67e996a27dfb8b9f65f": {
+    "is_relevant": true,
+    "reasoning": "The UK Culture Secretary's intervention in a major international media acquisition concerns UK regulatory powers and national market impact.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782832501.586182
   }
 }
