@@ -1,8 +1,3 @@
-2026-06-23T11:41:07.098828+00:00|https://www.bbc.co.uk/news/articles/cgl3xdx8w8xo|our sons killer is posting online from prison|bb6c801ec26189a3fb49c6d648aba86f
-2026-06-23T11:41:09.727690+00:00|https://www.bbc.co.uk/news/articles/c36yj4pn7jdo|who could be the uks next chancellor|6373d62fd0057edef74f46fadf9cbe0f
-2026-06-23T11:41:12.328473+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/global-health-threats-typhoid-fever|typhoid fever|833da4976c2772aeaa92a1eb286c57c6
-2026-06-23T11:41:14.771429+00:00|https://news.sky.com/story/second-boy-charged-with-murdering-17-year-old-jamal-coombes-in-battersea-13556984|second boy charged with knife murder of 17yearold in london|21daf2ed1f3b0cfef433cd78caaa382a
-2026-06-23T11:41:17.202519+00:00|https://news.sky.com/story/new-diabetes-treatment-gets-landmark-approval-for-nhs-13556981|new diabetes treatment gets landmark approval for nhs|c7f038c76145860a21742725c6ab130d
 2026-06-23T14:07:58.407487+00:00|https://www.bbc.co.uk/news/articles/c20ye768v6lo|major incident declared after bus crash near roundabout|95c13482d1196c74ff340a8dbb02d9ec
 2026-06-23T14:08:00.787484+00:00|https://www.bbc.co.uk/news/articles/c9321qq5y8jo|nursery chain served with safeguarding notice|51395e60ab83736744b121418fc84165
 2026-06-23T14:08:03.104585+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/britain-failed-to-intervene-sudan-massacre-maintain-uae-tie|britain failed to intervene in sudan massacre to maintain uae ties|b1ab0c9e6a53d569e08dd7cf542d4dfa
@@ -180,3 +175,5 @@
 2026-06-30T06:15:00.302532+00:00|https://www.bbc.co.uk/news/articles/cp8ry5p08x7o|drinks could go up in price by 50p under new return scheme industry says|cb95589220f5aa9fe1333fda5977737b
 2026-06-30T10:04:55.577751+00:00|https://www.bbc.co.uk/news/articles/cddlgqlm7q2o|refugees would be told to repay around £10000 under new asylum bill|f850310bf80a3b818e4eb93dc14c6e64
 2026-06-30T10:04:58.190542+00:00|https://www.bbc.co.uk/news/articles/c5yzqw9erq0o|man charged with attempted murder and arson following belfast disorder|6d75ba4a6f0067e03070478e6cbc453b
+2026-06-30T12:24:47.131532+00:00|https://www.bbc.co.uk/news/articles/ce95ydel84no|council moves to close scotlands smallest secondary despite parents pleas|afc92c5ac0a14c914eff778a7381eff7
+2026-06-30T12:24:49.588058+00:00|https://www.bbc.co.uk/news/articles/cddlgqpg7mzo|government promises to act after shocking failings in maternity care in england|732401d583595f368b59c5b848b3ff0a

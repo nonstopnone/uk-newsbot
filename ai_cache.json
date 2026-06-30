@@ -11745,5 +11745,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782813894.942887
+  },
+  "afc92c5ac0a14c914eff778a7381eff7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local government decision affecting regional educational infrastructure in Scotland, which is relevant to the devolved governance and public services of the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782822253.989169
+  },
+  "36e58646120adccf3413f27653af78f0": {
+    "is_relevant": true,
+    "reasoning": "This concerns the ongoing legal proceedings regarding the death of a British citizen, a case that has been a subject of significant long-term public interest in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782822264.300829
+  },
+  "b2aeec5514a02e9ca153d6c76ccafdc0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident involving a police officer on duty and the subsequent formal inquest, which falls under UK crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782822275.192897
+  },
+  "63ae13840de1aff8f4b4644f43326afa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a formal charge and upcoming court appearance within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782822285.081465
   }
 }
