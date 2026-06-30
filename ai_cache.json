@@ -11906,5 +11906,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782859425.043804
+  },
+  "54be46ee73f5caceb3779ddf35c11cad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer safety and legal issue concerning UK road traffic regulations and major retailers misinforming the public about the legality of private e-scooter use.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782863593.278459
+  },
+  "9658eaba49d9a3ed6e063f2593d7f74a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns new draft guidance from the national health regulator (NICE) regarding the management of a condition affecting millions of women in the UK, making it significant for NHS policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782863602.297094
+  },
+  "ee6608862592eaa7a540c31f9d3f6e23": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning patient safety and governance within the NHS, a critical public sector issue in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782863611.171672
+  },
+  "ab459a55c63ac4068b320ccf564b96cd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the failure of adult social care provision within the UK's public health system, which is a major area of political and social concern.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782863619.599593
+  },
+  "eb3bae7e9650a37b57c8dea585d2deea": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about a tennis match involving a retired player, which falls under sports lifestyle/commentary rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782863630.606526
   }
 }
