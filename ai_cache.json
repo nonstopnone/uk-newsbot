@@ -11892,5 +11892,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782854125.730199
+  },
+  "f5e268321809e9b945e9c9df55a7fe69": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about a tennis match, which falls under sports lifestyle/commentary and does not constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782859415.009277
+  },
+  "21bc0e6498a5ede271c3e64c7b01425f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government policy announcement regarding prison security and public safety, falling directly under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782859425.043804
   }
 }
