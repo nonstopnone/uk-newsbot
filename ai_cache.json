@@ -11948,5 +11948,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782878903.280142
+  },
+  "b97cb45fd6f36330c206d586fe714f5f": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/personal health tragedy story and does not constitute hard news or a significant event relevant to the national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782894752.752747
+  },
+  "29f5464a2e4e66c71c5fb6c69112908f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile murder case and legal appeal within Northern Ireland, falling under the remit of UK crime and justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782894763.096878
+  },
+  "166ccedcb01ecae6abda990fee2febc7": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant UK defence spending, budgetary trade-offs, and political fallout concerning government infrastructure projects, which are core issues for UK domestic policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782894771.32574
+  },
+  "9df12c6983d22685b7c2f3d2d59a71a7": {
+    "is_relevant": false,
+    "reasoning": "This is an opinion piece/commentary focused on global health policy rather than a hard news report on a specific event, policy change, or development directly involving the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782894780.355107
+  },
+  "3a2ac10be843239ae09bcb3f6e442787": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story regarding a domestic incident, which does not meet the threshold for national hard news relevance required for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782894794.650435
+  },
+  "cdfd71c72adf4b453cad11c7dfec63bb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the criminal conviction and conduct of a prominent UK business figure, involving serious legal and public interest matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782894803.988146
+  },
+  "23d4966a2dbc26571decb6d3f95ebc59": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on Ebola misinformation in the Democratic Republic of Congo and does not have a material impact on the UK or involve UK policy, making it outside the scope of r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782894815.929439
+  },
+  "4e2ff67bdd1a912b928f6224faefd942": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a sentencing review at the Royal Courts of Justice regarding serious violent crimes, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782894831.80901
+  },
+  "5585e85e9c22836ba557641728459246": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic and industrial policy update that directly impacts UK manufacturing, trade, and employment.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782894841.7502
   }
 }
