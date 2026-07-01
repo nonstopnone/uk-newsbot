@@ -1,5 +1,3 @@
-2026-06-24T15:14:17.070413+00:00|https://www.bbc.co.uk/news/articles/cwykl875447o|murder arrest after death at summer solstice event|e1e938568ef2897c6342748a82bcb5b5
-2026-06-24T15:14:19.510237+00:00|https://www.bbc.co.uk/news/articles/c4gykxdn6gwo|king meets womens cricket team that is not allowed to exist|195a8ed68ded22ae96787dbb772599a4
 2026-06-24T17:22:37.369373+00:00|https://www.bbc.co.uk/news/articles/c23y7z2lz42o|urology patients died due to failures in their care inquiry finds|5f0cdd5eee8bd523c867fffeb802ce93
 2026-06-24T17:22:39.773616+00:00|https://www.bbc.co.uk/news/articles/cx24718vxlvo|donaldson to give up knighthood and seat on privy council|03f3e8637ac80dd78bd23ab297ab2653
 2026-06-24T19:12:58.623992+00:00|https://www.bbc.co.uk/news/articles/ckg43p81gqko|bishop of northampton charged with child rape|4c7d5a5dce08eca89146b3753601ec9f
@@ -176,3 +174,8 @@
 2026-07-01T13:56:53.343468+00:00|https://www.bbc.co.uk/news/articles/c4gyj42r02wo|duke of yorks theatre to be renamed after sir tom stoppard|b817ec5ab9599beadd40ee8bbf7f923a
 2026-07-01T13:56:55.930218+00:00|https://www.telegraph.co.uk/business/2026/07/01/uk-house-prices-mortgage-rates-iran-war-ftse-100-markets|south east house prices suffer weakest growth in britain|1f070ea603a470d62f4ca7babb8c26ce
 2026-07-01T13:56:58.582434+00:00|https://news.sky.com/story/detention-the-only-appropriate-sentence-for-boys-spared-jail-over-rape-court-hears-13559499|detention the only appropriate sentence for boys spared jail over rape court hears|3978afcb5563737735c346d19818bd50
+2026-07-01T16:31:01.085306+00:00|https://www.bbc.co.uk/news/articles/cz75gzp7ve8o|man found not guilty of frank kerr murder|144f275fa4613164c9ca97130427f970
+2026-07-01T16:31:03.526475+00:00|https://news.sky.com/story/yellow-health-alert-issued-as-england-records-hottest-june-on-record-13559537|new health alert issued as england records hottest june on record|f5178f49abb74441b137ad8c9de5f1ce
+2026-07-01T16:31:06.162104+00:00|https://www.telegraph.co.uk/tennis/2026/07/01/sinner-vs-borges-live-wimbledon-score-latest-updates|defending champion sinner overcomes slow start to reach third round|d8627ead2279de4da831a896b570b12a
+2026-07-01T16:31:08.554037+00:00|https://news.sky.com/story/file-sent-to-cps-after-sex-offence-allegations-against-suspended-labour-mp-dan-norris-13559570|file sent to cps after sex offence allegations against suspended labour mp|93e7f8892be2a0a5cc3e78767cd2c071
+2026-07-01T16:31:10.944123+00:00|https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o|badenoch accuses starmer of leaving defence spending mess for burnham|cd5b869d63f292fb965799328616e8f6

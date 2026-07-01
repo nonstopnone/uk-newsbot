@@ -12053,5 +12053,61 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1782914209.691257
+  },
+  "144f275fa4613164c9ca97130427f970": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome regarding a historic murder trial in Northern Ireland involving a major criminal investigation, which falls under UK legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782923377.623538
+  },
+  "f5178f49abb74441b137ad8c9de5f1ce": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant public health alert and climate data affecting the UK, which falls under major national infrastructure and public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782923386.994733
+  },
+  "d8627ead2279de4da831a896b570b12a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a match at Wimbledon, which is a major sporting event held in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782923395.94842
+  },
+  "93e7f8892be2a0a5cc3e78767cd2c071": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political development involving a current Member of Parliament and potential criminal charges, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782923405.997858
+  },
+  "c2ba9686b0d1843f85463c091226ddeb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding public sector pay and education funding in England that directly impacts teachers and school budgets.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782923419.974453
+  },
+  "295e72d9a862c0975dfe2d7e088c4dd4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning a serving UK Member of Parliament facing serious criminal allegations and potential charges from the Crown Prosecution Service.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782923430.706832
+  },
+  "83f4ce220e12f53d462c439ef7442416": {
+    "is_relevant": true,
+    "reasoning": "The exhibition of a historic masterpiece of significant national importance in the UK constitutes a notable cultural event for a UK audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782923441.98936
+  },
+  "be099a137bc9d79c4d4c819598eb8cc5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing murder trial in a Scottish High Court, which constitutes significant crime and legal news relevant to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782923460.172186
   }
 }
