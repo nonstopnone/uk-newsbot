@@ -12172,5 +12172,40 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1782943528.96429
+  },
+  "ab0d0e1e12996a36f39013f15aaaaa77": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer affairs and public safety issue regarding car theft and UK legal constraints on vehicle tracking technology, which is of direct relevance to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782949438.142007
+  },
+  "14b9e45bee98db9f6d1acd69b0ae9ee0": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and cultural interest piece focusing on historical anecdotes and community events rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782949447.82417
+  },
+  "342caff1469c75df463463efdcafb649": {
+    "is_relevant": true,
+    "reasoning": "Fuel prices are a significant factor in the UK economy and directly impact household cost-of-living, making this highly relevant to a UK audience.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782949458.419835
+  },
+  "c49e5d5d56fb6304334b80a23f3e7bbf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health development in Northern Ireland involving a sudden, large increase in confirmed cases of an infectious disease.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782949472.06167
+  },
+  "b6b47dc38a15940daf0810ff2cb05668": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest personal anecdote about an individual dog's death rather than a report on significant UK policy or legislative changes. While it mentions the XL bully ban in passing, the core content is lifestyle/emotional narrative, which does not meet the criteria for hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782949483.393254
   }
 }
