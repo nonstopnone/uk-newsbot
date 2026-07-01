@@ -12109,5 +12109,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782923460.172186
+  },
+  "1bb890d05ed7b4c8435b1e2c1f65801e": {
+    "is_relevant": true,
+    "reasoning": "This relates to an ongoing inquest into the death of a professional athlete, which constitutes significant UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782930468.283102
+  },
+  "2a4d14ff64f9bc8a0c70d5f5c3634e24": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the deportation of a convicted criminal involving high-level government intervention and potential policy implications for public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782930477.505827
+  },
+  "fe9189c0b30ddd2775d4136c1c0e011b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national news story involving a tragic fatality during a major UK-wide youth development programme, requiring emergency service intervention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1782930487.150393
+  },
+  "89df46862782849625f661f2e2d363ce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on public sector pay policy, education funding, and potential industrial action involving a major union and the Department for Education.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782930500.380809
   }
 }
