@@ -12151,5 +12151,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782937624.383789
+  },
+  "7b9ed0f5af2d60c5ddfa01122bc4a0cd": {
+    "is_relevant": true,
+    "reasoning": "This reports on a serious violent crime in a major UK city involving emergency services and a police investigation, which meets the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782943507.540701
+  },
+  "1864dfd8e39b722ebcf843bfb4f09620": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, direct report on UK law enforcement operations tackling organised immigration crime and illegal activity, which falls squarely within the subreddit's remit.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782943519.284186
+  },
+  "5661ee2c276a2bbae6d5ae24ba181c0b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major result for the England national football team in the World Cup, which is significant national news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782943528.96429
   }
 }

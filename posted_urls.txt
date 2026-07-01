@@ -1,7 +1,3 @@
-2026-06-24T20:59:42.244764+00:00|https://www.bbc.co.uk/news/articles/cx2v5rp3y14o|ten in hospital as traffic stranded on m25 in heat|8edf10037e069221b35bbeb98b5d1438
-2026-06-24T20:59:44.632669+00:00|https://www.bbc.co.uk/news/articles/c30y619glveo|uk sees hottest june day on record as 361c recorded in hampshire|8471ac11645176b4a15c6bd79d33e34f
-2026-06-24T20:59:47.049849+00:00|https://news.sky.com/story/nato-needs-to-see-a-credible-trajectory-for-when-the-uk-will-be-ready-for-war-and-that-is-no-longer-in-sir-keirs-gift-13557437|nato needs to see a credible trajectory for when the uk will be ready for war and that is no longer in sir keirs gift|6011d461fe386e46b6bb345f5b1271b7
-2026-06-24T20:59:49.371517+00:00|https://news.sky.com/story/charles-joins-climate-reception-on-hottest-june-day-on-record-13557439|charles joins climate reception on hottest june day on record|bf46188618f930887f00278dd1a09daf
 2026-06-24T22:25:08.054772+00:00|https://www.bbc.co.uk/news/articles/c24yr2j954mo|bus crash rescuers who used van tools to free passengers say adrenaline kicked in|b634314e19cc13139a0e8c5788e24530
 2026-06-24T22:25:10.869329+00:00|https://www.telegraph.co.uk/cricket/2026/06/24/england-west-indies-live-latest-womens-t20-world-cup|england reach semifinals after exacting revenge on west indies|5f51c5e3f35cd6d08dd1296bece0d4c2
 2026-06-24T22:25:13.387379+00:00|https://www.bbc.co.uk/news/articles/cvgeqeqpwyro|boy 15 missing after swimming in lake|3727d827976e6dfebbe181c0da62db65
@@ -180,3 +176,5 @@
 2026-07-01T20:27:05.697531+00:00|https://www.telegraph.co.uk/football/2026/07/01/england-vs-dr-congo-live-world-cup-score-latest-updates|harry kane saves englands world cup and thomas tuchels job|4fd45d5f925d8847468390197c07a3c6
 2026-07-01T20:27:08.123574+00:00|https://www.bbc.co.uk/news/articles/c24ydy4q0nzo|halifax brand to be scrapped after 173 years|e86c0254a171fdb97b3365162785bfa4
 2026-07-01T20:27:10.772962+00:00|https://www.bbc.co.uk/news/articles/c79y52q4g8do|man dies after van falls from cliff edge|461c46a9ac056cddad1c6fd34c12304c
+2026-07-01T22:05:29.630112+00:00|https://www.bbc.co.uk/news/articles/c36y4g4y289o|i got three brain tumours after taking contraceptive injection|ea9910e9c208628e6c6f6d4a8a48c80e
+2026-07-01T22:05:32.119956+00:00|https://www.bbc.co.uk/news/articles/ce37g3p4dlqo|teenage boy injured after shooting in birmingham|7b9ed0f5af2d60c5ddfa01122bc4a0cd
