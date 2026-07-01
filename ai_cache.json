@@ -12011,5 +12011,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1782894841.7502
+  },
+  "d4a2baaa694031f1e690b2d393614124": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest obituary regarding a private businessman and does not constitute hard news regarding UK policy, economy, or major public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782906254.762505
+  },
+  "572f57daca034286deacebf82883d247": {
+    "is_relevant": true,
+    "reasoning": "This relates to devolved Scottish legislation and changes to legal standards regarding animal welfare, which is a matter of public policy and law.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782906265.001385
   }
 }
