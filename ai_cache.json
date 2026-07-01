@@ -12025,5 +12025,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782906265.001385
+  },
+  "e19aed95a32f01f5d095f240805641b1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the Attorney General appealing sentencing decisions in a serious criminal case, falling squarely under the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782914180.762301
+  },
+  "b817ec5ab9599beadd40ee8bbf7f923a": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant change to a major piece of London's cultural infrastructure and the rebranding of a historic West End theatre.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782914190.917098
+  },
+  "3978afcb5563737735c346d19818bd50": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a Court of Appeal hearing regarding sentencing for serious criminal offences, which is directly relevant to the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782914199.382161
+  },
+  "059d0d04b97463ec04e04b5138d5a594": {
+    "is_relevant": true,
+    "reasoning": "This report details significant store closures and a major retail restructuring affecting 4,700 jobs and the UK high street, which is a matter of clear national economic interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782914209.691257
   }
 }

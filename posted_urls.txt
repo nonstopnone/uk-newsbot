@@ -1,6 +1,3 @@
-2026-06-24T12:10:37.202904+00:00|https://www.telegraph.co.uk/cricket/2026/06/24/ben-stokes-england-press-conference-live-latest|ben stokes says sorry for nightclub scandal|ab15950d02344809d3cfa8e9795df3e5
-2026-06-24T12:10:39.778073+00:00|https://www.bbc.co.uk/news/articles/c3ryv10l4jxo|first locations for grooming gang inquiry announced|26dde1006c7b481f3fe4c03b9aa8af6f
-2026-06-24T12:10:42.335074+00:00|https://www.bbc.co.uk/news/articles/c14ygv2glmeo|six jailed for life for senseless murder of innocent woman|e97a37492ec1e36a8f063e5e99a2532b
 2026-06-24T15:14:17.070413+00:00|https://www.bbc.co.uk/news/articles/cwykl875447o|murder arrest after death at summer solstice event|e1e938568ef2897c6342748a82bcb5b5
 2026-06-24T15:14:19.510237+00:00|https://www.bbc.co.uk/news/articles/c4gykxdn6gwo|king meets womens cricket team that is not allowed to exist|195a8ed68ded22ae96787dbb772599a4
 2026-06-24T17:22:37.369373+00:00|https://www.bbc.co.uk/news/articles/c23y7z2lz42o|urology patients died due to failures in their care inquiry finds|5f0cdd5eee8bd523c867fffeb802ce93
@@ -175,3 +172,7 @@
 2026-07-01T08:34:05.146104+00:00|https://www.bbc.co.uk/news/articles/c3vy7z35ve0o|chris mason starmers defence plan leaves crunching tradeoffs for burnham to confront|166ccedcb01ecae6abda990fee2febc7
 2026-07-01T08:34:07.736013+00:00|https://news.sky.com/story/new-uk-steel-tariffs-come-into-force-but-industry-isnt-happy-13559317|new uk steel tariffs come into force but industry isnt happy|5585e85e9c22836ba557641728459246
 2026-07-01T11:44:26.649323+00:00|https://news.sky.com/story/glue-trap-ban-comes-into-full-force-in-scotland-13559441|glue trap ban comes into full force in scotland|572f57daca034286deacebf82883d247
+2026-07-01T13:56:50.756716+00:00|https://www.bbc.co.uk/news/articles/clye2enp0lxo|judge wrong to spare rapists from custody court told|e19aed95a32f01f5d095f240805641b1
+2026-07-01T13:56:53.343468+00:00|https://www.bbc.co.uk/news/articles/c4gyj42r02wo|duke of yorks theatre to be renamed after sir tom stoppard|b817ec5ab9599beadd40ee8bbf7f923a
+2026-07-01T13:56:55.930218+00:00|https://www.telegraph.co.uk/business/2026/07/01/uk-house-prices-mortgage-rates-iran-war-ftse-100-markets|south east house prices suffer weakest growth in britain|1f070ea603a470d62f4ca7babb8c26ce
+2026-07-01T13:56:58.582434+00:00|https://news.sky.com/story/detention-the-only-appropriate-sentence-for-boys-spared-jail-over-rape-court-hears-13559499|detention the only appropriate sentence for boys spared jail over rape court hears|3978afcb5563737735c346d19818bd50
