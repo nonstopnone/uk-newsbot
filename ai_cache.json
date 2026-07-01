@@ -12137,5 +12137,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1782930500.380809
+  },
+  "e86c0254a171fdb97b3365162785bfa4": {
+    "is_relevant": true,
+    "reasoning": "The rebranding of a major national bank is a significant development in the UK retail banking sector, impacting millions of customers and regional employment concerns in Yorkshire.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1782937615.141865
+  },
+  "461c46a9ac056cddad1c6fd34c12304c": {
+    "is_relevant": true,
+    "reasoning": "This is a report of a fatal incident involving a police investigation in the UK, which falls under the category of crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782937624.383789
   }
 }
