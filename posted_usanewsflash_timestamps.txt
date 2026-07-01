@@ -1,6 +1,3 @@
-2026-06-24T01:48:28.156169+00:00|https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss|Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot|667b7709a99c618d7d22abee5d1c02e5
-2026-06-24T05:52:41.997412+00:00|https://news.sky.com/story/like-him-or-loathe-him-tucker-carlson-is-a-window-into-trumps-world-13556311|Like him or loathe him, Tucker Carlson is a window into Trump's world|2917f54aea35ab996b1491fee2a5c78d
-2026-06-24T05:52:48.030567+00:00|https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss|Clean sweep for Mamdani-backed candidates in New York's Democratic primary|70fdd70f8417240f70a43462e1886ae8
 2026-06-24T08:46:39.492901+00:00|https://www.bbc.co.uk/news/videos/cwy0nvxvp09o?at_medium=RSS&at_campaign=rss|What does it mean to be an American in 2026?|4fc60db77eabfc73296d3805c9e6ed73
 2026-06-24T18:03:05.757277+00:00|https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&at_campaign=rss|Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs|69be53eb1d111b7f356eadc174e876ea
 2026-06-24T18:03:11.581060+00:00|https://www.bbc.co.uk/news/articles/cly818y4v22o?at_medium=RSS&at_campaign=rss|New York's Democratic primaries show Mamdani's win was no fluke|1cb3f1fdc3fe3506267d7336ec4d539d
@@ -40,3 +37,4 @@
 2026-06-30T20:17:50.372167+00:00|https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss|Americans react to Supreme Court upholding birthright citizenship|e116760078881c327cb47a8f267e0f2f
 2026-06-30T23:17:46.172296+00:00|https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss|Dangerous heatwave to hit US ahead of holiday weekend|97e98f83777c35aa988516fb2b521da2
 2026-06-30T23:17:51.812528+00:00|https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss|US Supreme Court has dealt heavy defeats to Trump, while expanding his power|aa75c692ac18aefb895e926de121a43b
+2026-07-01T06:12:27.760049+00:00|https://news.sky.com/story/nancy-guthrie-ransom-notes-were-fake-fbi-says-13559393|Nancy Guthrie ransom notes were fake, FBI says|c0875d76cae2613e8dd83e328a1d68b6
