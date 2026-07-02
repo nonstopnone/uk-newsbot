@@ -12417,5 +12417,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1783009242.275147
+  },
+  "5a1d5cc5d3f9ecd67425c7262065f3e1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile member of the Royal Family, which falls under the specified 'Royals' category for UK news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783016071.076878
+  },
+  "3c74dfea23ef9e390ea149bfa928e912": {
+    "is_relevant": true,
+    "reasoning": "The article details an official engagement by the Head of State in the UK, which is of public interest regarding the Royal Family's activities.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783016081.286491
   }
 }
