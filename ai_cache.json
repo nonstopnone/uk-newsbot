@@ -12326,5 +12326,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782993459.279644
+  },
+  "75a823eab1fd27f6870f26662c2d14a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK internal politics regarding a leadership challenge within the Labour Party and potential changes in government leadership.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783001934.563935
+  },
+  "3215954365eb637f8a1b82a43ac6bbc4": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a British athlete's performance at Wimbledon, a major UK sporting event, representing a significant result for home players.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783001942.669767
+  },
+  "9f30ea4bba5f8ac995041bdda4ce1fba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a major UK criminal event and subsequent public inquiry, falling under the remit of UK crime and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783001957.768782
+  },
+  "fe0af6fe17caa9c1503414b4bb6ef3a5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK criminal sentencing at Newport Magistrates' Court involving dangerous driving and a hit-and-run incident.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783001966.530718
+  },
+  "55063b74bb81b7f044504a5bc9280c25": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national education story involving a major delay to statutory primary school assessments, drawing comment from the Secretary of State.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783001976.564089
+  },
+  "424471678e23df34ca9db2d6b8ec3421": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the strategic failures and governance of the current UK government, directly impacting domestic political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783001985.802323
+  },
+  "8e1b406e38d78814e21b1c1e3a0f3333": {
+    "is_relevant": true,
+    "reasoning": "The arrest of a suspect in a decades-old murder case in Northern Ireland is a significant development in a criminal investigation within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783001996.754982
+  },
+  "5b27c70a702320acfc66e60be9279fdf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health issue involving a food safety alert that directly impacts UK consumers and requires regulatory attention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783002007.264895
   }
 }

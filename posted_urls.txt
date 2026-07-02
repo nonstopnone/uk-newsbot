@@ -1,5 +1,3 @@
-2026-06-25T12:23:47.167747+00:00|https://www.bbc.co.uk/news/articles/ckg7zrn61klo|gritters out as scotland braced for 30c on hottest day of the year|0733ca75da5400183d1a2d4801d56a1e
-2026-06-25T12:23:49.591719+00:00|https://www.bbc.co.uk/news/articles/cgrk4nq12q7o|one dead and child injured as train hits car at level crossing|31a1e145e4121c7eaf9a6cf48dd7bc05
 2026-06-25T15:25:01.124208+00:00|https://www.telegraph.co.uk/business/2026/06/25/oil-price-us-iran-hormuz-tech-ftse-100-markets|trumps iran peace deal costs putin $110m a day|cbf4ac6e80f3ffd3e44f5633449f93c6
 2026-06-25T15:25:03.536382+00:00|https://www.bbc.co.uk/news/articles/czj8pdd7k4eo|wales breaks record for hottest june night|c676c104caaeb4a688582cb0c2a4d914
 2026-06-25T15:25:06.055464+00:00|https://www.bbc.co.uk/news/articles/c9320y90lnno|teenager cleared of murdering nineyearold girl|c3e072045a82ae8e3690a337bcc9348f
@@ -176,3 +174,9 @@
 2026-07-02T09:34:14.167746+00:00|https://www.bbc.co.uk/news/articles/c8e2j73wwzjo|government looking at every route to deport grooming leader|69fe9a0beea5a003c6bcf9b83a625a8a
 2026-07-02T11:57:40.093328+00:00|https://www.bbc.co.uk/news/articles/c20yq332018o|starmer says forced adoptions a stain on our history as he gives formal apology|f3bb20a2e2b5f21102c74c876f79d24e
 2026-07-02T11:57:42.670299+00:00|https://www.bbc.co.uk/news/articles/cgqjkvypn5eo|frankie dettori breaks ribs in car crash|a8e34abde05dbc821c8aafbfcbd71a75
+2026-07-02T14:20:07.857451+00:00|https://www.bbc.co.uk/news/articles/cwyednjr4mko|burnham meets trade union leaders ahead of expected premiership|75a823eab1fd27f6870f26662c2d14a3
+2026-07-02T14:20:10.476748+00:00|https://www.telegraph.co.uk/tennis/2026/07/02/katie-swan-vs-madison-keys-live-score-latest-wimbledon|katie swans wimbledon ends in the second round at the hands of madison keys|e5a257beb30c29459c0b3ebda0f1b03f
+2026-07-02T14:20:12.902861+00:00|https://www.telegraph.co.uk/tennis/2026/07/02/arthur-fery-vs-otto-virtanen-live-score-latest-wimbledon|britains arthur fery produces tenacious display fit for a princess|3215954365eb637f8a1b82a43ac6bbc4
+2026-07-02T14:20:15.485104+00:00|https://www.bbc.co.uk/news/articles/cvg539rle7mo|donaldson commentary utterly irresponsible says police chief|ddd646ae90f8b7dc08b9cb55f3b4690e
+2026-07-02T14:20:18.044048+00:00|https://news.sky.com/story/man-arrested-in-connection-with-1973-murder-of-teenager-marian-beattie-13559809|man arrested in connection with 1973 murder of marian beattie|8e1b406e38d78814e21b1c1e3a0f3333
+2026-07-02T14:20:20.763389+00:00|https://news.sky.com/story/salmonella-outbreak-linked-to-noodles-affecting-uk-and-13-other-countries-13559779|salmonella outbreak linked to noodles affecting uk and 13 other countries|5b27c70a702320acfc66e60be9279fdf
