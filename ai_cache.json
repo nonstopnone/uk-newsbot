@@ -12249,5 +12249,47 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1782972176.487669
+  },
+  "a0a17a50010f667c47f7ea1184a5c323": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the conviction and imprisonment of a police officer for serious violent crimes, which is a matter of public interest and legal concern in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782984786.942477
+  },
+  "69fe9a0beea5a003c6bcf9b83a625a8a": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a significant matter of government policy, public safety, and immigration law concerning a high-profile deportation case.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782984796.447027
+  },
+  "1d38358fe9eba653060a05cd79e556c7": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment piece regarding a musical collaboration, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782984814.627275
+  },
+  "80781c967ea665ebf484de5696997ddc": {
+    "is_relevant": true,
+    "reasoning": "This relates to significant UK cultural heritage and the sale of an iconic piece of British art housed in a national collection context.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1782984822.853374
+  },
+  "45ea7203980b3b181f5a010867ff44af": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about an individual's personal journey rather than hard news concerning UK policy, economy, or significant societal events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782984835.697134
+  },
+  "e8d61c5b8dfed8f7198a54305958018e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report concerning border security, the asylum system, and a convicted criminal living in the UK, which directly pertains to national security and immigration policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782984850.853784
   }
 }
