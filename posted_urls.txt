@@ -1,5 +1,3 @@
-2026-06-24T23:44:16.106632+00:00|https://www.bbc.co.uk/news/articles/c8j2m2zrrxko|obesity cases rising fastest in young adults|4211c9fba0df7259b444fac6718dfd76
-2026-06-24T23:44:18.515319+00:00|https://www.bbc.co.uk/news/articles/c14y72vkv3yo|consultants and specialist doctors to begin strike action|389f859b84bc0bf765b9d1c1b3d0ec66
 2026-06-25T01:51:24.643271+00:00|https://www.bbc.co.uk/news/articles/cj4gy79x9g7o|the papers never again and no 10 of the north|a1d533ed45eb96a1259f1d751297c7c1
 2026-06-25T01:51:27.032043+00:00|https://www.bbc.co.uk/news/articles/cwy05rnlpe9o|vat cut on theme parks and kids meals comes into force|b7b83376ef0ab52cb6cf39d206bb001c
 2026-06-25T06:11:36.077608+00:00|https://www.bbc.co.uk/news/articles/ce95r7gvm5go|bodies found in advanced deterioration at underfire trust|116f5c78b7d726ee6dbbb2496d9603ac
@@ -177,3 +175,6 @@
 2026-07-01T22:05:32.119956+00:00|https://www.bbc.co.uk/news/articles/ce37g3p4dlqo|teenage boy injured after shooting in birmingham|7b9ed0f5af2d60c5ddfa01122bc4a0cd
 2026-07-01T23:44:44.943095+00:00|https://www.bbc.co.uk/news/articles/cp8r1798kp7o|dont expect trackers to save your stolen car experts say|ab0d0e1e12996a36f39013f15aaaaa77
 2026-07-01T23:44:47.639356+00:00|https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno|third uk heatwave increasingly likely as 30c temperatures forecast|fce13ba8dc8e48624b443ff58bdf3bd3
+2026-07-02T01:51:38.294915+00:00|https://www.bbc.co.uk/news/articles/c621d2k3wxqo|the papers kane to the rescue and defence black hole triples|ca8f561566d28382ba97b93c241f3e7b
+2026-07-02T01:51:40.735119+00:00|https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690|alleged member of hacking group scattered spider arrested|386ea85934227de56cab83806ce2a2ec
+2026-07-02T01:51:43.158710+00:00|https://www.bbc.co.uk/news/articles/c20zgjzz0e4o|diesel sees biggest monthly fall in 26 years whats happening to fuel prices|342caff1469c75df463463efdcafb649

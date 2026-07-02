@@ -12207,5 +12207,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1782949483.393254
+  },
+  "ca8f561566d28382ba97b93c241f3e7b": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant developments in UK defence funding (a £15bn black hole) and a major domestic public health controversy regarding prostate cancer screening, both of which are highly relevant to a UK audience.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1782957087.955072
+  },
+  "386ea85934227de56cab83806ce2a2ec": {
+    "is_relevant": true,
+    "reasoning": "The hacking group targeted major UK infrastructure and institutions, including Transport for London and a major retailer, making this a significant matter of UK national security and crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782957096.686912
   }
 }
