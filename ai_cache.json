@@ -12291,5 +12291,40 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1782984850.853784
+  },
+  "a8e34abde05dbc821c8aafbfcbd71a75": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a prominent UK sporting figure involved in a serious accident, falling under the remit of major UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1782993412.511661
+  },
+  "b324fef815aab526a46a4e9e6704a5a2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a convicted grooming gang leader's release from prison, involving public interest in judicial outcomes and local policy concerns regarding deportation and victim safeguarding.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782993423.806583
+  },
+  "1bb785a7b2554b0556c86f14a17119c2": {
+    "is_relevant": true,
+    "reasoning": "This report concerns government accountability regarding a major domestic tragedy and subsequent systemic failures, which is of high public importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782993434.508568
+  },
+  "ddd646ae90f8b7dc08b9cb55f3b4690e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and public interest story involving a high-profile criminal case and the integrity of the judicial process in Northern Ireland, a part of the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782993444.873841
+  },
+  "cd57a0ee5ffad8f1af4993353e76ddc7": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story about a celebrity theft that does not constitute major national news or hold significant relevance to the wider UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782993459.279644
   }
 }
