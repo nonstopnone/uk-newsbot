@@ -12466,5 +12466,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783026750.723515
+  },
+  "4b68ddf6e15fa2aad4810c8f6e399fb2": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match analysis piece regarding a tournament involving international teams, which does not constitute hard UK news or a matter of significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783031339.195068
   }
 }
