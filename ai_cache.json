@@ -12382,5 +12382,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783002007.264895
+  },
+  "a59608c981632b057c996cbc1ab96957": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant Court of Appeal ruling regarding serious criminal sentencing and the involvement of the Attorney General, which is highly relevant to the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783009192.772549
+  },
+  "e62a8657789d0759b72982b64ee906ff": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation into a homicide and a related death in Wales, falling under hard news for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783009205.913535
+  },
+  "7371e961f64cb80782cc42d8f8c44563": {
+    "is_relevant": false,
+    "reasoning": "This is a travel and lifestyle article regarding hotel recommendations in Madrid, which does not constitute hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783009215.639013
+  },
+  "1be50d8af40f4a0060b698c2e26ff499": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving an arrest by the Metropolitan Police following a major investigation into a UK-based television production.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783009231.008898
+  },
+  "1958f3129124fa23d86711aeb6941476": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the Royal Family attending a major UK national event, which is consistent with established coverage of the monarchy.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783009242.275147
   }
 }
