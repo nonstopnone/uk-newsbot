@@ -12445,5 +12445,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783022157.167928
+  },
+  "91ede12b5013be8a8527d15b0d36460b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result in a major international cricket tournament involving the England national team, which falls under sports news relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783026731.85573
+  },
+  "c06dbac4aa48f9d748af1e5a7e1d7cda": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the National Crime Agency regarding coordinated criminal activity and ongoing law enforcement investigations within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783026740.720713
+  },
+  "15cc2063c03e19eab75fcc5bc60530ee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant food fraud case involving a major UK manufacturer and large-scale public deception, warranting consumer protection and legal coverage.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783026750.723515
   }
 }
