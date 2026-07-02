@@ -12473,5 +12473,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783031339.195068
+  },
+  "76f2d86ac022c5a7c3129c5a298019b4": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports analysis piece regarding international football matches, which falls under the excluded category of sports previews/opinion.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783035650.679402
+  },
+  "c2ee91fe8233913ee39d54d88d4bfba0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the operational capacity and funding of the Police Service of Northern Ireland, which is a matter of major public interest and devolved governance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783035659.507208
   }
 }
