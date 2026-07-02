@@ -12431,5 +12431,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1783016081.286491
+  },
+  "64c0d2f9cd48043d209fd26365538456": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving drug trafficking and subsequent court-ordered closure of a business, which is a matter of public safety and local authority enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783022147.697291
+  },
+  "1a58a0b4ce22f7188f2d5525218d051e": {
+    "is_relevant": true,
+    "reasoning": "The Culture Secretary and a government department officially withdrawing from a major platform due to concerns over misinformation and democracy constitutes significant UK political and administrative policy news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783022157.167928
   }
 }
