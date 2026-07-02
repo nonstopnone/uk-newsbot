@@ -12221,5 +12221,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1782957096.686912
+  },
+  "c0a7560ccb6b6974b4c88fd036ae5558": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle and product review piece concerning kitchen appliances and food recommendations, which falls under prohibited content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1782972143.961718
+  },
+  "5c9a281350a9d8f53cf61c0810e6e988": {
+    "is_relevant": true,
+    "reasoning": "This report concerns systemic issues within the Metropolitan Police, institutional misconduct, and ongoing police reform, which are matters of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1782972154.893637
+  },
+  "5c9b4b46ca16efff6eedc85174af3917": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding border security, immigration policy, and the presence of convicted criminals within the UK asylum system.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782972164.543184
+  },
+  "944c653886119452cace08a9c4b9abf0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report on border security, immigration policy, and potential failures in vetting asylum seekers, which is a matter of clear public interest in the UK.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1782972176.487669
   }
 }
