@@ -12522,5 +12522,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783056518.004315
+  },
+  "add39a93979509ff3b68f54d1974b693": {
+    "is_relevant": false,
+    "reasoning": "While the story concerns UK wildlife, it falls under environmental news/natural history rather than the hard news categories of politics, economy, crime, or security defined for this sub.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783067807.652257
+  },
+  "4ef3f497a8f4fc04c0e10caaf8b26196": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failure within a UK police force involving serious criminal conduct, which falls under the public interest and crime remit.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783067818.529542
+  },
+  "86680f1748e9ee90f4d07922ce700115": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public service issue affecting a large number of UK residents and utility supply.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783067829.123178
   }
 }
