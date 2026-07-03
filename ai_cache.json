@@ -12697,5 +12697,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783109033.642684
+  },
+  "c9dad38c32133396284a96b827677c41": {
+    "is_relevant": true,
+    "reasoning": "This is a significant international humanitarian operation involving UK emergency services personnel deployed to provide specialist technical support.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1783118597.635497
+  },
+  "2fffa9ae06e48d3a3d20f9b749823bc8": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on an individual headteacher's opinion on school policies, rather than a matter of significant national political, economic, or legal importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783118607.249496
   }
 }
