@@ -12564,5 +12564,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783077484.450253
+  },
+  "e0fb9946a00e4b184fadb389952af94a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal update concerning a high-profile murder conviction and an appeal outcome at the Court of Appeal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783084835.88569
+  },
+  "cec7600786abf7f8030aea920479f52d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report concerning a murder conviction and sentencing in a London court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783084844.890603
+  },
+  "2800855376569802e04706bc0a87def5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the British Grand Prix, a major recurring sporting event held in the UK, which qualifies under the Sport category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783084856.839334
+  },
+  "b6ff1f4a5cc2b5b7523f1a2ed313f62b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure development project in Belfast involving substantial public funding commitments from the UK government and the Stormont Executive.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783084865.484568
+  },
+  "d64e36a76aab569bc51550b65de87de0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the murder of a UK citizen, which has been the subject of a long-running campaign for justice by the victim's family in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783084877.594321
+  },
+  "fa165d1acc1d45469b561581f93a2aeb": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal Family and their security arrangements for travel to the UK, which is a subject of significant public interest within the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783084888.154141
   }
 }

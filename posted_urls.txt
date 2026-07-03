@@ -1,5 +1,3 @@
-2026-06-26T11:24:40.884555+00:00|https://www.bbc.co.uk/news/articles/c17yp1r2nl8o|body found in search for teenage boy who entered lake|cc3b12471326fa6ec189096fcf0fc773
-2026-06-26T11:24:43.436897+00:00|https://www.bbc.co.uk/news/articles/c862755z18jo|crown estate profits fall as returns to treasury more than halve|f83f33080ee9be8350c5581200a5c334
 2026-06-26T13:31:08.628676+00:00|https://www.bbc.co.uk/news/articles/cp8ryxjzd4zo|pilot dies after plane crash near airfield|38b26b7a7dfec4b5533988cc605deebb
 2026-06-26T13:31:11.187237+00:00|https://www.bbc.co.uk/news/articles/cnv9er181lno|court rules 13 men who allegedly helped rapist drug and abuse wife can be named|6eb060f18686769b67263aa0887dcc2d
 2026-06-26T13:31:13.631763+00:00|https://news.sky.com/story/london-court-abandons-sentencing-due-to-heatwave-temperatures-13558008|london court abandons sentencing due to heatwave temperatures|9c50b5defbd775b9ee47fa8400a59bd5
@@ -181,3 +179,7 @@
 2026-07-03T08:37:13.104123+00:00|https://www.bbc.co.uk/news/articles/cpd359zqyz8o|people smuggler living in county unacceptable mp says|99cc3a8e2f7ee1f7c601aac7e101ff21
 2026-07-03T11:18:05.446748+00:00|https://www.bbc.co.uk/news/articles/cqj19xzwjydo|skipper sentenced for dickensian treatment of foreign crewmen|12e9cb7f37ffebea23b489b054dbdf4c
 2026-07-03T11:18:07.891671+00:00|https://news.sky.com/story/teen-charged-with-attempted-murder-of-boy-who-was-shot-in-birmingham-13560064|teen charged with attempted murder of boy who was shot|fbf31988cd2c5c45cf27cfb181dc751a
+2026-07-03T13:21:28.835392+00:00|https://www.bbc.co.uk/news/articles/cd95v388k5jo|police criticise timing of decision on pubs staying open for england match|eca86243bf56f94b8506feca6d998d6f
+2026-07-03T13:21:31.641559+00:00|https://www.bbc.co.uk/news/articles/cj6g04y6xg6o|mum of tiktoker has murder sentence appeal rejected|e0fb9946a00e4b184fadb389952af94a
+2026-07-03T13:21:34.490274+00:00|https://www.telegraph.co.uk/formula-1/2026/07/03/british-grand-prix-2026-sprint-qualifying-practice-live|lewis hamilton tops first british grand prix practice george russell fourth|2800855376569802e04706bc0a87def5
+2026-07-03T13:21:37.098555+00:00|https://news.sky.com/story/prince-harry-remains-determined-to-bring-family-safely-to-uk-this-month-13560075|prince harry remains determined to bring family safely to uk this month|fa165d1acc1d45469b561581f93a2aeb
