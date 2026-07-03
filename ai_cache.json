@@ -12711,5 +12711,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783118607.249496
+  },
+  "4087b6238ec29ceb07666a59b5cdad79": {
+    "is_relevant": false,
+    "reasoning": "This is a report on international football (Egypt vs Australia) and does not constitute hard UK news, despite a brief mention of a player's former club.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783122383.779147
   }
 }
