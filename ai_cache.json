@@ -12487,5 +12487,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783035659.507208
+  },
+  "6e6c746fb51caa5e36ea7401b6bee2f2": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant legal proceeding within the UK (Northern Ireland), specifically the inquest into the death of Noah Donohoe.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783041508.670187
+  },
+  "ea4fd01ab82825b1784248ff42e36ba3": {
+    "is_relevant": false,
+    "reasoning": "This is a historical archive discovery rather than hard news impacting contemporary UK politics, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783041516.973406
+  },
+  "cf35f3e38c4104739621900c0892d3c5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy initiative from NHS England aimed at public health and lifestyle intervention, which is a core topic for the UK public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783041526.373865
+  },
+  "0d037eee4adb5f0be1008c56b78c8095": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer advice article regarding wedding etiquette and personal finances, which does not constitute hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783041537.102079
   }
 }
