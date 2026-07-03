@@ -12669,5 +12669,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783098301.57554
+  },
+  "31686457986905eb0fe040a2d14e8c73": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report concerning an international athlete, which does not constitute hard UK news or material impact on the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783103980.148913
+  },
+  "5c91b36317f8548f5cdf3896cfb15f0e": {
+    "is_relevant": true,
+    "reasoning": "The article reports on progress in the Wimbledon Championships, a major UK sporting event that is historically and culturally significant to the nation.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783103988.69645
+  },
+  "ae26c17c6c7e3194bfe8503b45b5e261": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a state-sponsored attack on a journalist in London, which is a matter of national security and serious crime within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783104002.001353
   }
 }
