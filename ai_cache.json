@@ -12690,5 +12690,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783104002.001353
+  },
+  "260cdfc1825a122a732e2a756bac9479": {
+    "is_relevant": true,
+    "reasoning": "This concerns the England national football team's World Cup knockout stage match, which is a significant sporting event for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783109033.642684
   }
 }

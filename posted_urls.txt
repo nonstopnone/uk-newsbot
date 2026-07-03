@@ -1,6 +1,3 @@
-2026-06-26T19:52:36.261998+00:00|https://www.bbc.co.uk/news/articles/cn4d0n1l8zno|hottest june day record broken for third day in row as temperature hits 373c|4b0c167538a92e8852563adf16bf9993
-2026-06-26T19:52:38.700767+00:00|https://www.bbc.co.uk/news/videos/c74y1l9kkryo|watch lightning strikes seen across uk|645277f6e2a885b0a822df0f6aa71529
-2026-06-26T19:52:41.125515+00:00|https://www.telegraph.co.uk/cricket/2026/06/26/england-vs-new-zealand-third-test-live-score-and-updates|duckett finds form of old to get england back into contest|18df775fd9e26d158227acf796dbe839
 2026-06-26T21:21:17.288540+00:00|https://www.bbc.co.uk/news/articles/c9v219gx79wo|conservatives offer tax incentive as part of 50000 reservist pledge|c4394c300e9d9bdcaa3efffcb55a5d43
 2026-06-26T21:21:19.736271+00:00|https://www.bbc.co.uk/news/articles/cr7xlr2ndxno|uk search team joins venezuela earthquake rescue effort|5c0c96a9a76ae6c15b45bd93351d1415
 2026-06-26T22:46:18.016919+00:00|https://www.bbc.co.uk/news/articles/cy04k0kd7q4o|david miliband says he is optimistic about potential burnham government|ab265439426fdeba0919b29e4dd5e186
@@ -183,3 +180,5 @@
 2026-07-03T18:40:06.204441+00:00|https://www.telegraph.co.uk/tennis/2026/07/03/sabalenka-vs-ostapenko-live-score-latest-wimbledon-updates|sabalenka battles past ostapenko to set up wimbledon last16 showdown with osaka|5c91b36317f8548f5cdf3896cfb15f0e
 2026-07-03T18:40:08.584210+00:00|https://www.bbc.co.uk/news/articles/c24y2pr3dvyo|two romanians jailed for stabbing journalist on behalf of iran regime|ae26c17c6c7e3194bfe8503b45b5e261
 2026-07-03T18:40:10.915201+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|d50f5d508b7e140baf94585f6f18b474
+2026-07-03T20:03:55.887982+00:00|https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo|england v mexico set to move to earlier kickoff time|260cdfc1825a122a732e2a756bac9479
+2026-07-03T20:03:58.415863+00:00|https://www.bbc.co.uk/news/articles/cdx7dxrwg7ro|william talks world cup football fever on travis kelces podcast|cfe35676a35ef76c9e6316827803348c
