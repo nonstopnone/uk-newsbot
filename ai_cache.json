@@ -12543,5 +12543,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783067829.123178
+  },
+  "914e215eb726ad6df4014c7a6d534a9f": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and etiquette article about wedding gifts, which constitutes fluff and does not meet the criteria for hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783077464.869036
+  },
+  "12e9cb7f37ffebea23b489b054dbdf4c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal case involving modern slavery, criminal sentencing, and the UK Home Office, which fits the criteria for serious domestic news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783077475.947656
+  },
+  "fbf31988cd2c5c45cf27cfb181dc751a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime and subsequent legal charges within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783077484.450253
   }
 }
