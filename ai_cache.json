@@ -12606,5 +12606,40 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1783084888.154141
+  },
+  "d52bc057d3bb1bdb4930b587a050b476": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome regarding the murder of a journalist in Northern Ireland, falling under the remit of UK crime and legal developments.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783092848.817032
+  },
+  "7f95ceee1085a348f74ae5e2441084f6": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal legal matter involving a prominent former UK government minister.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783092858.486452
+  },
+  "2eff4d49c0c5095aa977d406c853fe06": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder conviction and sentencing in a UK court, which falls under the category of serious crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783092868.428323
+  },
+  "5516330cea696856fe3a7dbd7e4065e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a murder conviction and sentencing in a Welsh court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783092879.867369
+  },
+  "cac219721f1dfde03e8689ecfca78419": {
+    "is_relevant": true,
+    "reasoning": "Major weather events that impact large portions of the UK population are considered significant infrastructure and public interest news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783092891.305853
   }
 }

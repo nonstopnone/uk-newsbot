@@ -1,7 +1,3 @@
-2026-06-26T13:31:08.628676+00:00|https://www.bbc.co.uk/news/articles/cp8ryxjzd4zo|pilot dies after plane crash near airfield|38b26b7a7dfec4b5533988cc605deebb
-2026-06-26T13:31:11.187237+00:00|https://www.bbc.co.uk/news/articles/cnv9er181lno|court rules 13 men who allegedly helped rapist drug and abuse wife can be named|6eb060f18686769b67263aa0887dcc2d
-2026-06-26T13:31:13.631763+00:00|https://news.sky.com/story/london-court-abandons-sentencing-due-to-heatwave-temperatures-13558008|london court abandons sentencing due to heatwave temperatures|9c50b5defbd775b9ee47fa8400a59bd5
-2026-06-26T13:31:16.308542+00:00|https://news.sky.com/story/victims-of-vaginal-mesh-and-epilepsy-drug-deserve-justice-says-author-of-hughes-report-into-medical-scandals-13557948|victims of vaginal mesh and epilepsy drug deserve justice says patient commissioner|588dd7437e28e2218262cef36324245a
 2026-06-26T15:56:27.742151+00:00|https://news.sky.com/story/mohammed-fahir-amaaz-jailed-after-assaulting-two-female-police-officers-at-manchester-airport-13557933|man jailed after cowardly assaulting two female police officers at manchester airport|45550969e88501ababaa6b6171bcff87
 2026-06-26T15:56:30.163056+00:00|https://www.bbc.co.uk/news/articles/c6219yym2g1o|green party returns inadmissible donation from polanski|2736b1f3122f415fcf48867ee3c8630c
 2026-06-26T15:56:32.525067+00:00|https://www.bbc.co.uk/news/articles/cp8l5yrn8d1o|meeting on englishspeaking pupils at welsh schools only broadcast in welsh|c52746af3d945fd99c8404ea48781cca
@@ -183,3 +179,7 @@
 2026-07-03T13:21:31.641559+00:00|https://www.bbc.co.uk/news/articles/cj6g04y6xg6o|mum of tiktoker has murder sentence appeal rejected|e0fb9946a00e4b184fadb389952af94a
 2026-07-03T13:21:34.490274+00:00|https://www.telegraph.co.uk/formula-1/2026/07/03/british-grand-prix-2026-sprint-qualifying-practice-live|lewis hamilton tops first british grand prix practice george russell fourth|2800855376569802e04706bc0a87def5
 2026-07-03T13:21:37.098555+00:00|https://news.sky.com/story/prince-harry-remains-determined-to-bring-family-safely-to-uk-this-month-13560075|prince harry remains determined to bring family safely to uk this month|fa165d1acc1d45469b561581f93a2aeb
+2026-07-03T15:34:52.785489+00:00|https://www.bbc.co.uk/news/articles/cpd357j7020o|three men found not guilty of journalist lyra mckees murder|d52bc057d3bb1bdb4930b587a050b476
+2026-07-03T15:34:55.166551+00:00|https://news.sky.com/story/lydia-suffield-avoids-jail-for-stalking-george-osborne-and-his-wife-thea-rogers-13560128|woman who stalked george osborne and his wife spared jail|7f95ceee1085a348f74ae5e2441084f6
+2026-07-03T15:34:57.598316+00:00|https://www.bbc.co.uk/news/articles/c8e2j0z7xgxo|uk in talks with pakistan about deporting grooming gang leader|8c8d6bb4ded3dc2c132347c14d161060
+2026-07-03T15:35:00.104479+00:00|https://news.sky.com/story/uk-weather-parts-of-country-braced-for-another-heatwave-as-temperatures-could-soar-to-30c-13560092|parts of uk braced for another heatwave as temperatures could soar to 30c|cac219721f1dfde03e8689ecfca78419
