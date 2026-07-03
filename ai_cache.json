@@ -12641,5 +12641,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783092891.305853
+  },
+  "1afab22c92bbe9cccf180e91dae7270a": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about a tennis tournament match, which falls under the excluded category of sports previews and reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783098271.909518
+  },
+  "ca8fb74dfac1e87042e597a55391978e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal story involving an ongoing court case, a murder conviction, and an appeal process within the British judicial system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783098281.851376
+  },
+  "013fe2bef4ed34e21a52864d54ba2dba": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest crime story involving a relatively minor theft; it lacks the national significance required for a breaking news subreddit covering UK-wide affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783098291.764593
+  },
+  "6f0c56dcd722e14e560b4f10df6324a5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a stabbing on UK soil and intelligence-related national security implications.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783098301.57554
   }
 }
