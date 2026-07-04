@@ -1,5 +1,3 @@
-2026-06-27T11:37:02.668270+00:00|https://www.bbc.co.uk/news/articles/cjwgynnwyw2o|hundreds of heathrow and gatwick flights delayed due to thunderstorms|a12b4c7ca1ce3ac5d36bea01e3853d92
-2026-06-27T11:37:05.180822+00:00|https://www.bbc.co.uk/news/articles/c74yjm3jdmvo|body found in search for teenage swimmer in lake|f8b6eccf658a3f54f701ca1584c42a71
 2026-06-27T12:56:25.794076+00:00|https://www.bbc.co.uk/news/articles/c982njm1prgo|king urges msps to help build a fair and prosperous society|b7ae6e076db4004d70496e194e7a0d08
 2026-06-27T12:56:28.281891+00:00|https://www.bbc.co.uk/news/articles/cly8dq7wg3wo|lightning causes fires and serious house damage|989e5458bc4431d10281b2bdd7567219
 2026-06-27T14:46:56.599044+00:00|https://www.bbc.co.uk/news/articles/cd6ex3dge8go|man charged with rape and murder after girls death|0838d971f1658bdf1d310c0a03d5715b
@@ -179,3 +177,4 @@
 2026-07-04T09:09:26.119542+00:00|https://www.bbc.co.uk/news/articles/c5yze5klz4xo|man dies and two injured in crash between coach and van|7e486daccd853bb08450b370d78e1008
 2026-07-04T11:01:43.401801+00:00|https://www.bbc.co.uk/news/articles/c0my24lvgv3o|mp says third day of internet outage disgraceful|ff3372c8b932cd23c0a1d6e22ec2fde0
 2026-07-04T11:01:46.299736+00:00|https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo|pubs and police brace for englandmexico 1am kickoff after fifa uturn|d1d1f3fc9800c5a13baea31ba05c605d
+2026-07-04T12:18:54.858691+00:00|https://www.bbc.co.uk/news/articles/cvgm4d4jv8eo|tartan armys world cup traffic cone high jinks are taking over scotland|03b3bfbb6d5fa4e3e43af8f74b265ac1

@@ -12802,5 +12802,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783162902.720233
+  },
+  "639c2e0a23772e8c8d9d3b6a210e93dc": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a sports match between the Republic of Ireland and Australia; it does not constitute UK hard news as defined by the subreddit criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783167521.856861
+  },
+  "08309f97b46560cdee933df4c90c2c1d": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a sports event (Formula 1), which is explicitly excluded by the relevance criteria focusing on hard news like politics, economy, and crime.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783167532.513259
   }
 }
