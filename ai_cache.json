@@ -12753,5 +12753,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783146917.490987
+  },
+  "03b3bfbb6d5fa4e3e43af8f74b265ac1": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/human interest piece about fan antics rather than hard news concerning UK politics, policy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783156145.561682
+  },
+  "7e486daccd853bb08450b370d78e1008": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency incident resulting in a fatality, which falls under relevant UK crime and public safety news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783156155.788476
+  },
+  "20d369b28616c4024f8a2107d880ce70": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle quiz article about television advertising history, which does not constitute hard news or significant current affairs relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783156164.883398
   }
 }
