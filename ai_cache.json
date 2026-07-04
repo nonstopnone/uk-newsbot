@@ -12872,5 +12872,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783187248.409369
+  },
+  "2a633478c6e34937e5cb3377008112ca": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result for a British athlete in a major UK sporting event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783192658.896998
+  },
+  "b193e73319dcee171b2b3812600055ce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result in a major UK sporting event involving a British athlete, fitting the criteria for sports reporting within a UK context.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783192669.6427
   }
 }
