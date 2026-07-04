@@ -12816,5 +12816,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783167532.513259
+  },
+  "655aa4eb3fc91e1fced158807aa6189b": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focused on a specific individual's personal recovery rather than a report on the train crash incident itself, which occurred over two weeks ago.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783174204.134285
+  },
+  "fe8ca282ffc2f909b8ffba2b288a7f41": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the activities of a senior member of the Royal Family, which is a specified category for relevant news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783174214.709879
+  },
+  "3d0e1a708dcf24bfc89474c9f9ba7813": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and public safety notice issued by UK authorities affecting the general population and the NHS.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783174226.178722
   }
 }
