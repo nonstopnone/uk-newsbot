@@ -12746,5 +12746,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783135442.381414
+  },
+  "ab2762263e67c56b1d6c9664225c0577": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and education management story regarding individual school policies rather than substantive hard news, national policy, or significant UK-wide impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783146917.490987
   }
 }
