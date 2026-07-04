@@ -12886,5 +12886,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783192669.6427
+  },
+  "1c10117830d79fb00a1e44eed33fdceb": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international football match between France and Paraguay, which is considered sports reporting and lacks material relevance to UK news or domestic interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783208675.603193
+  },
+  "99b3f7f4b2a264a183f06d3b5bf559d5": {
+    "is_relevant": false,
+    "reasoning": "This is an opinion-based, speculative piece focusing on celebrity gossip and personal family dynamics rather than significant Royal news or public duty.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783208686.145258
+  },
+  "ae990d64a89b130c45bca08a3bffefa3": {
+    "is_relevant": false,
+    "reasoning": "The article is a review of newspaper headlines concerning a sports event, which constitutes media commentary rather than hard news, and the subject matter is primarily sports-related fluff.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783208697.076714
   }
 }
