@@ -12851,5 +12851,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783179126.692223
+  },
+  "c626fe4d90c4ef54bfe8a5f14ec23615": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving the murder of a British national, where the family's long-running campaign for justice has had substantial public interest and legal implications for UK citizens abroad.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783187228.407815
+  },
+  "43ba8fdd6954103d8dadc171dfc05fe5": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and player profile, which falls under the category of sports coverage/previews rather than the hard news or major events required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783187238.044801
+  },
+  "1de4e9f6b35042d0290e3f75ea0fad49": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports race report and analysis, which is excluded by the subreddit's content policy regarding sports previews and reports.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783187248.409369
   }
 }
