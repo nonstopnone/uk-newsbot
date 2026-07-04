@@ -12837,5 +12837,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783174226.178722
+  },
+  "8c2576ec33afe9afe12a6d343ae48353": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant result for a Welsh national sports team, which falls under the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783179117.494081
+  },
+  "cf868ddc6688a9bd1d9a58b9899468fd": {
+    "is_relevant": false,
+    "reasoning": "This is a local news story from the United States with no material impact on the UK, falling outside the subreddit's remit for relevant hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783179126.692223
   }
 }
