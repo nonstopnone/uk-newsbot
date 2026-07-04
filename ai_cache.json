@@ -12774,5 +12774,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783156164.883398
+  },
+  "ff3372c8b932cd23c0a1d6e22ec2fde0": {
+    "is_relevant": true,
+    "reasoning": "This is a local infrastructure incident involving a sitting MP holding a major utility provider to account, which qualifies as relevant UK regional news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783162870.784462
+  },
+  "3f4f159382d6f6533e787e43ab7a7f29": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a rugby match between New Zealand and France, which has no direct relevance to UK news or domestic sports.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783162881.714591
+  },
+  "a0f8333ef7516bc8c2de2cdb6be49118": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle piece regarding a private antique sale and does not constitute hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783162892.116101
+  },
+  "9d21f159dfc7c74d9a080df093199c64": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle feature about an individual scientist's work rather than a breaking or significant news event regarding UK policy or economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783162902.720233
   }
 }
