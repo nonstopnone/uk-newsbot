@@ -12718,5 +12718,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783122383.779147
+  },
+  "d2e8fc13256f2c06852038735027621e": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest story about school attendance policies regarding a sporting event, which falls under the category of fluff rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783135412.615945
+  },
+  "511c3e708228d580b144759999c2782a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative news story involving a convicted people smuggler operating illegally in the UK and subsequent enforcement action by local government, which falls under immigration and crime issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783135422.153674
+  },
+  "e30f1f948ae2ccf3aabb492b4dfb5300": {
+    "is_relevant": false,
+    "reasoning": "The article concerns an international sporting event between Argentina and Cape Verde with no direct relevance to the UK, its government, or its national interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783135431.394984
+  },
+  "78c77bd4b38b010324a6c9ddbe2a4469": {
+    "is_relevant": true,
+    "reasoning": "This concerns proposed changes to UK legal rights regarding cohabitation, which constitutes significant domestic policy affecting a large portion of the UK population.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783135442.381414
   }
 }
