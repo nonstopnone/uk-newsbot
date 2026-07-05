@@ -12935,5 +12935,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783240336.82725
+  },
+  "f84b55e3e89795b73dd3f3a7f29e514d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative piece regarding historical safeguarding failures and child sexual exploitation, which directly concerns UK social services, public inquiry processes, and institutional history.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783248767.514457
   }
 }
