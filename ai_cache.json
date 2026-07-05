@@ -13033,5 +13033,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1783289679.90001
+  },
+  "0f121b3f676712a0909cdb0bcf179acf": {
+    "is_relevant": false,
+    "reasoning": "This is a fictional sports report regarding a World Cup scenario involving Erling Haaland; it does not constitute hard UK news or a real-world event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783294229.967545
+  },
+  "e263464a01afe0ddf6409456255bd084": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the conclusion of a high-profile murder trial involving a journalist in Northern Ireland, which is a matter of clear public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783294241.007166
   }
 }
