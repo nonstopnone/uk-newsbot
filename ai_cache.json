@@ -12914,5 +12914,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783214821.14012
+  },
+  "ef0ae68abfa999f2f853c3ae000a18bf": {
+    "is_relevant": true,
+    "reasoning": "This relates to the England national football team's participation in a major international tournament, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783230229.26505
+  },
+  "f2f0096aa38dd4d0b39b93758cbb1f30": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle piece focusing on social media trends and local cafe reviews rather than hard news concerning UK policy, economy, or governance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783230238.766999
   }
 }
