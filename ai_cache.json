@@ -12956,5 +12956,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783253905.879719
+  },
+  "93b7e54cee89062e6404790467be4df4": {
+    "is_relevant": false,
+    "reasoning": "Weather reports are considered lifestyle/general news and do not meet the criteria for hard news relevant to the specified categories like politics, crime, or economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783266450.601668
+  },
+  "f7b334c60dcd3b6c50a36eb5c15a03f9": {
+    "is_relevant": true,
+    "reasoning": "This concerns a public official and party leader involved in a financial dispute regarding local government tax obligations, which is relevant to UK politics and administrative accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783266462.075616
   }
 }
