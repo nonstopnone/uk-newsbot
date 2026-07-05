@@ -12998,5 +12998,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783271670.386728
+  },
+  "9f5ee8ff0af82d03744b3c0745e16983": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report of a fatal incident involving emergency services and a police investigation in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783281103.967404
+  },
+  "b6e2e0ffe9bdae6239eb2d91ceee0edc": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting event involving a national team in a World Cup final.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783281114.049399
   }
 }
