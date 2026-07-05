@@ -12928,5 +12928,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783230238.766999
+  },
+  "1558eb7a84b77b3316a81083aa0d7594": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on legal proceedings and safety investigations involving the Ministry of Defence and the deaths of UK military personnel.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783240336.82725
   }
 }
