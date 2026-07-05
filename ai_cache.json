@@ -13012,5 +13012,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783281114.049399
+  },
+  "f29e86d75a34269a74614d40ee28fa6b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major international sporting event involving the England national team that has significant public interest in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783289655.067778
+  },
+  "f5b19e66f6df9fb4cc5d64e88b60dcd7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change mandated by the Department for Education affecting all schools in the UK, directly impacting public health and safety.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783289667.465569
+  },
+  "49fe249cbcfb5827a25f18cf38492ec1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the Royal Family and follows recent official updates regarding her public activities.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783289679.90001
   }
 }
