@@ -12907,5 +12907,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783208697.076714
+  },
+  "79ffb58f7dd9e80643ee0c7afcdc8fa7": {
+    "is_relevant": false,
+    "reasoning": "The article concerns international football and does not meet the criteria for UK-specific hard news, as it focuses on the French national team playing against Paraguay.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783214821.14012
   }
 }
