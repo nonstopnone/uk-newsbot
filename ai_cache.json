@@ -12970,5 +12970,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783266462.075616
+  },
+  "2bffda112cc234473077b9e3759074b1": {
+    "is_relevant": true,
+    "reasoning": "The article covers the British Grand Prix at Silverstone, a major UK sporting event with significant public attendance and interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783271640.716413
+  },
+  "900057a64654063cd64775a71f66733e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation and manhunt involving a conviction for a serious offense in the UK, which meets the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783271650.703061
+  },
+  "fc49b0e009b847aba70adaabe5007175": {
+    "is_relevant": true,
+    "reasoning": "The British Grand Prix is a major, high-profile sporting event hosted at Silverstone, making it significant news for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783271660.78577
+  },
+  "5df9d9b235fd514cb67a9149cb70671e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political story concerning the potential breach of parliamentary standards and financial transparency rules by a prominent UK party leader and sitting MP.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783271670.386728
   }
 }
