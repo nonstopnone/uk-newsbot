@@ -12942,5 +12942,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783248767.514457
+  },
+  "efd6f88d4e74864ee225519829af62b5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigation by UK police regarding potential financial impropriety involving a major political campaign group, which is a matter of clear public and legal interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783253895.516378
+  },
+  "0f165ca19fa95e73464eeee15cb06bdd": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime and subsequent police investigation in London, which falls under the category of UK crime and legal matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783253905.879719
   }
 }
