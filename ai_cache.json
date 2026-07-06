@@ -13096,5 +13096,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783317570.211034
+  },
+  "1fbb185e50c6e5488da9b0a9435c1d1a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a serious criminal investigation, police activity, and a statutory inquiry by a local authority involving a child's injury, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783335405.389739
+  },
+  "58a908b10000b9ac138e82bed0d03f9d": {
+    "is_relevant": true,
+    "reasoning": "The potential takeover of a major UK-based airline significantly impacts the UK economy, transport infrastructure, and employment.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783335416.471703
+  },
+  "7a7e03a981f8f2deae7de62648c33ce3": {
+    "is_relevant": false,
+    "reasoning": "The article is a fictionalized report about an impossible sporting scenario and does not constitute genuine news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783335426.273679
+  },
+  "61b6fb72fa36f904c83612046e987d73": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the murder of a teenager in the UK and the ongoing legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783335436.26027
+  },
+  "f2da6c62652290569cb3820c03db5b61": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result for the England national football team in a major international tournament, which is of high relevance to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783335447.065269
   }
 }
