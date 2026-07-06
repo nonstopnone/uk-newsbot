@@ -1,6 +1,3 @@
-2026-06-29T19:06:46.762456+00:00|https://www.bbc.co.uk/news/articles/cd7wzpnv8lxo|jury to consider if psni error contributed to noah death|7dd002cda3d9a95117fc4211d174d245
-2026-06-29T19:06:49.436445+00:00|https://www.bbc.co.uk/news/articles/cp8l7de068jo|student gets almost four years for bomb threat|b877bb7276b9f978fc815c947f7cfd58
-2026-06-29T19:06:52.312061+00:00|https://news.sky.com/story/strikes-to-end-as-resident-doctors-accept-pay-deal-13559007|strikes to end as resident doctors accept pay deal|edbdf60ec3e52d10c330629025ffe039
 2026-06-29T20:57:26.644336+00:00|https://www.telegraph.co.uk/football/2026/06/29/brazil-vs-japan-live-score-latest-lineups-world-cup-r32|martinelli completes brazils revival and compounds japans knockout woe|0a31b2760875d420b50bdfca1ed12be4
 2026-06-29T20:57:29.018801+00:00|https://www.bbc.co.uk/news/articles/c5yz4x9ew49o|will andy burnhams devolution plan raise economic growth|bd098900e740aff1f07ecfd172fcb77f
 2026-06-29T20:57:31.334583+00:00|https://www.bbc.co.uk/news/articles/cx2jw5q5pdzo|new no 10 north plan will rebalance power in britain burnham promises|c879215adfa4e18769abc819d86009f2
@@ -173,3 +170,7 @@
 2026-07-06T17:29:34.841717+00:00|https://www.bbc.co.uk/news/articles/c6211j3q7l5o|treasury sees defence as a drain not a driver for growth says healey|4a7f1da16b4665fa536de36af3cc4985
 2026-07-06T17:29:37.409507+00:00|https://www.bbc.co.uk/news/articles/c4gyy591v8do|boys face showed pure hatred as he attacked teacher with knife court hears|38c698041cc47b8d9f3b9e4bcd6d18b1
 2026-07-06T17:29:39.883300+00:00|https://news.sky.com/story/king-rides-as-tank-commander-in-first-official-royal-tank-regiment-visit-since-becoming-colonel-in-chief-13560991|in pictures colonelinchief king charles tours regiment in tank|63e33cc1fc6ffdf9ae1378b628fca167
+2026-07-06T19:20:00.686650+00:00|https://news.sky.com/story/kate-talks-dinosaurs-and-blows-kisses-as-she-meets-boy-3-with-rare-condition-13561085|kate talks dinosaurs and blows kisses as she meets boy 3 with rare condition|c05a8353db7dc69aaea54bfe89c3ca0b
+2026-07-06T19:20:03.084754+00:00|https://news.sky.com/story/maddy-cusacks-coach-told-fa-she-was-generally-a-liar-inquest-hears-13561077|coach of former sheffield united player told fa she was generally a liar inquest hears|078df3c4f3351968917cf6ee7f1b11d9
+2026-07-06T19:20:06.574546+00:00|https://www.bbc.co.uk/news/articles/cj0ggn1214vo|coach told fa maddy cusack was a liar inquest into her death hears|c5e193ea5f561f9df0c403eb1a25253b
+2026-07-06T19:20:09.085043+00:00|https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo|henderson expected to have surgery on injured wrist|333cfa27fed5d412ad641355de7c95cd

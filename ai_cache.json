@@ -13222,5 +13222,26 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1783358974.033232
+  },
+  "9ac18b25ef2441f8060bee1db490562c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story about a family receiving free tickets during a trip, which constitutes lifestyle/fluff content rather than hard news relevant to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783365579.199687
+  },
+  "c05a8353db7dc69aaea54bfe89c3ca0b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns an official engagement by a member of the Royal Family within the UK, which is a standard topic of public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783365588.411505
+  },
+  "078df3c4f3351968917cf6ee7f1b11d9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK inquest involving a professional footballer and the Football Association, which constitutes significant legal and sporting news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783365599.48817
   }
 }
