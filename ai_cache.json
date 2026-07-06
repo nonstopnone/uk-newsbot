@@ -13068,5 +13068,33 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783300792.240957
+  },
+  "54c9c3f76b8d59c0d7a7971ed4263da7": {
+    "is_relevant": true,
+    "reasoning": "This is a report on local government infrastructure failure and public service provision in a major UK city, which falls under devolved government and local policy relevance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783317540.674702
+  },
+  "bf29ed45865161f7521a29694be049a4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding historical UK military records and the Commonwealth War Graves Commission, which carries cultural and national importance.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783317551.740751
+  },
+  "4ce76031581af6c5b71b31a9eb818ddb": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a member of the Royal Family and an ongoing police investigation into alleged misconduct, making it relevant to UK crime and royal affairs.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783317560.170679
+  },
+  "6f518fe306df0b5a75190a3199920488": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports fan reaction piece and game recap, which falls under sports lifestyle content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783317570.211034
   }
 }

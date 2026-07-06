@@ -1,5 +1,3 @@
-2026-06-29T04:11:48.583994+00:00|https://www.bbc.co.uk/news/articles/c14yr0mgdp6o|burnham to promise devolution in first major speech since launching no 10 bid|9d5d7837c218ad2f5fef6a6639b48330
-2026-06-29T04:11:51.289455+00:00|https://www.bbc.co.uk/news/articles/cwyd1l0lge8o|over one million children referred for mental healthcare with anxiety the main reason|57750e8c1eb481c0e1b37c9ad8065b17
 2026-06-29T09:12:07.347085+00:00|https://www.bbc.co.uk/news/articles/cx2vy4zr847o|stormont parties demand full transparency over dup safeguarding|8bb1775917ad02bbc81918f0651be2c4
 2026-06-29T09:12:09.853413+00:00|https://www.bbc.co.uk/news/articles/c7vymvm1qpgo|murder charge after man dies at summer solstice event|6bfd5fe378f0fdcc7be1fad1125c4f20
 2026-06-29T09:12:12.615353+00:00|https://news.sky.com/story/british-american-tobacco-to-cut-5500-jobs-in-ai-drive-13558767|british american tobacco cuts 5500 jobs in ai drive|fd21327fc016af3aa87fcd181f3cc299
@@ -176,3 +174,5 @@
 2026-07-06T01:19:52.787830+00:00|https://www.bbc.co.uk/news/articles/c0jyyw59gpjo|overseas voters moving to uk could face £100000 donations cap for year|b04d13fcc20c2b1a7818ec4ee28c6389
 2026-07-06T01:19:55.410815+00:00|https://www.bbc.co.uk/weather/articles/cj3gp536xm1o|uks third heatwave of the year begins but how will it be different|1f227ee33a42728c22dc7f0b147c3424
 2026-07-06T01:19:58.265847+00:00|https://www.telegraph.co.uk/football/2026/07/05/brazil-v-norway-live-score-latest-updates-world-cup-last-16|haaland dumps brazil out of world cup then leads viking row celebrations|1d087f11f56e3bcf00d9e21d57dbe8b9
+2026-07-06T05:59:30.851716+00:00|https://www.bbc.co.uk/news/articles/ckg8ldxdnlmo|wheres our doctor dentist new school the sprawling glasgow suburb lacking basic amenities|54c9c3f76b8d59c0d7a7971ed4263da7
+2026-07-06T05:59:33.150951+00:00|https://www.bbc.co.uk/news/articles/cn4rrwnrwdgo|the papers farage ive done nothing wrong and hangover of god|18c4402d1b5bb960dffd9f785e5dc5f0
