@@ -1,5 +1,3 @@
-2026-06-29T17:42:47.823595+00:00|https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss|Supreme Court allows late-arriving mail-in ballots in defeat for Trump|18c2c467a4d25ecc6d108ffe403c53be
-2026-06-29T17:42:53.706302+00:00|https://www.bbc.co.uk/news/videos/c5yzd666r6ko?at_medium=RSS&at_campaign=rss|Deadly flash flooding hits Kentucky|4c3bb0d610cee2253cf0dfa34a19621f
 2026-06-29T21:09:28.920898+00:00|https://news.sky.com/story/passenger-plane-landing-at-new-yorks-jfk-airport-hit-by-drone-13559025|Passenger plane landing in New York 'hit by drone'|45d92b61ffbab1647a83227b8aaa21a1
 2026-06-29T21:09:34.615086+00:00|https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss|One big win and three defeats for Trump in dramatic day at Supreme Court|a42b7b3d166a949d91196c9a5e4ff855
 2026-06-29T21:09:40.209978+00:00|https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss|The Ring and Lilo & Stitch actress Daveigh Chase died of Aids|5b1ae73df0780d1cbbcec57b3023d2e7
@@ -41,3 +39,4 @@
 2026-07-05T09:59:10.341326+00:00|https://news.sky.com/story/a-pinch-me-moment-details-emerge-from-taylor-swift-and-travis-kelces-new-york-wedding-13560557|A 'pinch me moment': Details emerge from Taylor Swift and Travis Kelce's New York wedding|1d09505f8b81206d2fddeb6b06d4a73a
 2026-07-06T10:56:06.168059+00:00|https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss|Red card system in disarray over Trump, Fifa and Balogun decision|d19914f6e1bd03c51bc9e69b8e3e22f9
 2026-07-06T14:30:10.614586+00:00|https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss|Is this a breakthrough moment for soccer in the US?|fdaee9a4afa74153f774e1d371d25f1a
+2026-07-06T19:17:36.318695+00:00|https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss|Trump confirms he asked Fifa to review Balogun ban|690d95b626adab8e0ce9e3cbac2f6eac
