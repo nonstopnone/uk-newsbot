@@ -1,7 +1,3 @@
-2026-06-29T13:18:02.750582+00:00|https://www.bbc.co.uk/news/articles/c3vyen243dno|british american tobacco to cut 9000 jobs|d302227b27a04415fa9e11796f1d361c
-2026-06-29T13:18:05.577459+00:00|https://news.sky.com/story/enzo-maresca-appointed-new-manchester-city-manager-13558911|enzo maresca appointed new manchester city manager|d6f576278b52e87fbc94d30894b62cc1
-2026-06-29T13:18:08.155900+00:00|https://www.bbc.co.uk/news/articles/c4gy445ve7ko|stalker who used tinder to terrorise ex jailed|ed24524c14a624311a65ed39853a6e38
-2026-06-29T13:18:11.512576+00:00|https://news.sky.com/story/sky-under-nbcuniversal-umbrella-in-comcast-spin-off-13558842|sky under nbcuniversal umbrella in comcast spinoff|d065ff978d933e6b8e0fd6a887b939b0
 2026-06-29T16:46:58.469653+00:00|https://www.bbc.co.uk/news/articles/c3ry1zr8nw2o|exmp craig williams pleads guilty over general election betting offence|dfb9860feedb899ffc0eac7e18128a9f
 2026-06-29T16:47:01.445810+00:00|https://www.telegraph.co.uk/tennis/2026/06/29/wimbledon-2026-norrie-zheng-live-score-latest-updates-news|wimbledon 2026 norrie latest brit to fall in first round after fiveset marathon|1fc184cf71b89499f105fd92db0c3bad
 2026-06-29T16:47:04.058118+00:00|https://www.bbc.co.uk/news/articles/c2ey1pjx0z9o|tributes paid to comic genius penelope keith after her death aged 86|dee4789f15da325c01b2d0377a4f472f
@@ -176,3 +172,7 @@
 2026-07-06T10:57:28.330680+00:00|https://www.bbc.co.uk/news/articles/c77yykl87yno|buckingham palace says prince harry will not stay at palace|912493428fee1634991c758f7e0fb26e
 2026-07-06T10:57:30.791744+00:00|https://www.bbc.co.uk/news/articles/c0jyy5w4q2no|uk fighter jets intercept russian plane over norwegian sea|a81165163fed9835ca7eb8f0ca538a59
 2026-07-06T10:57:33.268923+00:00|https://www.telegraph.co.uk/football/2026/07/05/england-vs-mexico-live-score-updates-world-cup-last-16|england produce greatest world cup victory since 1966|f2da6c62652290569cb3820c03db5b61
+2026-07-06T14:32:54.163054+00:00|https://www.bbc.co.uk/news/articles/cjrggzx14r5o|resignations after male councillors vote for rapist taxi driver to keep licence|3e0a9268932fe30ea6b5316265a0895d
+2026-07-06T14:32:56.580375+00:00|https://www.bbc.co.uk/news/articles/cr7xxj7rey5o|inquiries into care of man held after zoo attack|908141b3bd34520f0fb87d7f0bdae810
+2026-07-06T14:32:58.968669+00:00|https://news.sky.com/story/russian-spy-plane-dropped-sonar-trackers-in-path-of-royal-navy-aircraft-carrier-13560985|russian spy plane dropped sonar trackers in path of royal navy aircraft carrier|d676d844d981369592446df00d1a8bf2
+2026-07-06T14:33:01.292965+00:00|https://news.sky.com/story/pharmacies-fear-new-weight-loss-pills-will-lead-to-rise-in-dangerous-fakes-13560981|pharmacies fear new weight loss pills will lead to rise in dangerous fakes|5c3a4356a01daba3e09bf9e76682e58d

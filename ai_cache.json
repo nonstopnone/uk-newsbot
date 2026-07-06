@@ -5756,10 +5756,10 @@
   },
   "6a28295682a956dfce15b4a77f9348af": {
     "is_relevant": false,
-    "reasoning": "This article is a sports betting service and tips column, which is explicitly excluded as fluff and sports previews.",
+    "reasoning": "This is a sports betting service and tips column, which falls under the prohibited category of sports previews and fluff.",
     "flair": "",
     "provider": "Gemini",
-    "timestamp": 1782489348.098464
+    "timestamp": 1783348372.324109
   },
   "e3aea2be962d38d61d7630520d680f43": {
     "is_relevant": false,
@@ -13131,5 +13131,68 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783335447.065269
+  },
+  "3e0a9268932fe30ea6b5316265a0895d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story concerning local government conduct, public safety, and accountability within a devolved Scottish authority.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783348284.674889
+  },
+  "908141b3bd34520f0fb87d7f0bdae810": {
+    "is_relevant": true,
+    "reasoning": "This report details a serious criminal investigation, police arrests, and regulatory inquiries by public bodies into a major incident involving child welfare and safety at a UK facility.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783348294.096773
+  },
+  "793d6780588f61c0414995e7578ee51f": {
+    "is_relevant": false,
+    "reasoning": "This article concerns a public health incident in Pakistan and does not materially affect the UK, nor does it involve UK policy or interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783348303.050517
+  },
+  "7f988a1ce5c736b2ee6f5268bcf6997d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving a lethal stabbing in the UK, which falls under the crime and legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783348312.084883
+  },
+  "38c698041cc47b8d9f3b9e4bcd6d18b1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving an attempted murder in a UK school, which falls directly under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783348322.540682
+  },
+  "d676d844d981369592446df00d1a8bf2": {
+    "is_relevant": true,
+    "reasoning": "This incident concerns direct security and military provocation involving a UK flagship aircraft carrier and the RAF, which is a matter of significant national security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783348331.806453
+  },
+  "5c3a4356a01daba3e09bf9e76682e58d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and safety story regarding the regulation and illicit trade of pharmaceuticals currently being introduced to the UK market.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783348341.613647
+  },
+  "11d4e00d6ad08c6bf9b0106c13d38239": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the death of a minor in the UK, which falls under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783348353.042824
+  },
+  "104650c89c662be83f97253be0c09c2c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result for a national sports team in a major tournament, which is a matter of high public interest in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783348362.492169
   }
 }
