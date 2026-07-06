@@ -13194,5 +13194,33 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783348362.492169
+  },
+  "06417300af70d5adacf83cc437220bcc": {
+    "is_relevant": false,
+    "reasoning": "While this involves the Prime Minister, it concerns a sporting event fixture rather than substantive government policy, legislation, or a matter of national importance. It falls under fluff/sporting minutiae rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783358946.323775
+  },
+  "c5e193ea5f561f9df0c403eb1a25253b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal inquest into the death of a professional footballer involving allegations of misconduct, which is a matter of serious public and legal interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783358955.334839
+  },
+  "333cfa27fed5d412ad641355de7c95cd": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant injury to a prominent England international footballer during a major global tournament, which constitutes news of major UK sporting interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783358964.389546
+  },
+  "63e33cc1fc6ffdf9ae1378b628fca167": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the King in his official capacity as Colonel-in-Chief, which falls under the Royals category.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783358974.033232
   }
 }
