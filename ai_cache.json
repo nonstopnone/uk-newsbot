@@ -13292,5 +13292,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783377586.13621
+  },
+  "7a804de08d2a12b2112669dde29028ea": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/health advice piece regarding fertility research and is not considered hard news relevant to the UK's political, economic, or legal landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783381575.533569
+  },
+  "67d0e4f1e41def3ee635a3bfc08aa883": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story regarding a corporate policy dispute and does not constitute hard news of national political, economic, or major societal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783381586.091948
+  },
+  "155ad0712c9cdd491dd701963657c05d": {
+    "is_relevant": true,
+    "reasoning": "This report from the Treasury Committee regarding student loan mis-selling and government policy impacts UK domestic economic and educational policy, making it highly relevant to a UK audience.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783381595.747304
   }
 }
