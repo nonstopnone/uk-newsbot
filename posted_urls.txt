@@ -1,5 +1,3 @@
-2026-06-28T23:51:25.869412+00:00|https://www.bbc.co.uk/news/articles/cpv31erm387o|resident doctors take strike action over pay|a28be5076521c724cfe244e0f31653bd
-2026-06-28T23:51:28.313938+00:00|https://www.bbc.co.uk/news/articles/c2ky95ndx92o|navy to build droneequipped warships instead of replacing ageing destroyers|6b5c7707d1200016bf0e9f06db9eed07
 2026-06-29T04:11:48.583994+00:00|https://www.bbc.co.uk/news/articles/c14yr0mgdp6o|burnham to promise devolution in first major speech since launching no 10 bid|9d5d7837c218ad2f5fef6a6639b48330
 2026-06-29T04:11:51.289455+00:00|https://www.bbc.co.uk/news/articles/cwyd1l0lge8o|over one million children referred for mental healthcare with anxiety the main reason|57750e8c1eb481c0e1b37c9ad8065b17
 2026-06-29T09:12:07.347085+00:00|https://www.bbc.co.uk/news/articles/cx2vy4zr847o|stormont parties demand full transparency over dup safeguarding|8bb1775917ad02bbc81918f0651be2c4
@@ -175,3 +173,6 @@
 2026-07-05T22:14:46.918847+00:00|https://www.bbc.co.uk/news/articles/c79yj0g77n2o|benedicts law to overhaul school allergy training|f5b19e66f6df9fb4cc5d64e88b60dcd7
 2026-07-05T22:14:49.526777+00:00|https://news.sky.com/story/princess-of-wales-hugs-family-at-end-of-hiking-challenge-in-newly-released-photos-13560775|kate hugs family at end of hiking challenge in newlyreleased photos|49fe249cbcfb5827a25f18cf38492ec1
 2026-07-05T23:30:41.708438+00:00|https://www.bbc.co.uk/news/articles/cy5vvydg0eqo|former partner of journalist lyra mckee hopes her death haunts her killer|e263464a01afe0ddf6409456255bd084
+2026-07-06T01:19:52.787830+00:00|https://www.bbc.co.uk/news/articles/c0jyyw59gpjo|overseas voters moving to uk could face £100000 donations cap for year|b04d13fcc20c2b1a7818ec4ee28c6389
+2026-07-06T01:19:55.410815+00:00|https://www.bbc.co.uk/weather/articles/cj3gp536xm1o|uks third heatwave of the year begins but how will it be different|1f227ee33a42728c22dc7f0b147c3424
+2026-07-06T01:19:58.265847+00:00|https://www.telegraph.co.uk/football/2026/07/05/brazil-v-norway-live-score-latest-updates-world-cup-last-16|haaland dumps brazil out of world cup then leads viking row celebrations|1d087f11f56e3bcf00d9e21d57dbe8b9

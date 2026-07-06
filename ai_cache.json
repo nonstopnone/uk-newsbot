@@ -13047,5 +13047,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783294241.007166
+  },
+  "5c3feb0ed32a85524886db47478de1c6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding national policing infrastructure and standards in England and Wales, directly involving government ministers and internal security reform.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783300772.351973
+  },
+  "a31a298e9101d036cff5aa3e2f0ff0e4": {
+    "is_relevant": false,
+    "reasoning": "This article is a consumer-focused lifestyle and health service piece regarding the availability of a private medical product, which does not constitute hard news or a significant impact on UK national infrastructure or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783300781.359337
+  },
+  "1d087f11f56e3bcf00d9e21d57dbe8b9": {
+    "is_relevant": true,
+    "reasoning": "The article details the performance of a high-profile Premier League player in an international match, which is of significant interest to the UK sports audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783300792.240957
   }
 }
