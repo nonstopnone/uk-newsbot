@@ -13271,5 +13271,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783372332.249795
+  },
+  "4f2012c03bbc141c71eeef9ce25009d0": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report concerning an international athlete and a foreign team, which does not constitute hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783377566.2895
+  },
+  "f9562ed9abacef9b1366f3b29e34cc26": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result for a British athlete in a major international sporting event hosted in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783377575.19467
+  },
+  "d79f204ca1ed42dc861b0305146a5a62": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story regarding a local community event; it does not constitute hard news or a significant development in UK politics, economy, or national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783377586.13621
   }
 }
