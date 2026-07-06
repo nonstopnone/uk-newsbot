@@ -13243,5 +13243,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783365599.48817
+  },
+  "f290ee13ad3ba97498d5715f55d38f9d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development regarding the UK Family Court system and judicial conduct, involving an appeal in a serious domestic abuse case.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783372300.85325
+  },
+  "4e0b742897956c3ecbb26dde1e25a2cb": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result in a major UK sporting event (Wimbledon) involving a British competitor.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783372311.992523
+  },
+  "434dee9313c07d5c40478b049b35a86b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial involving a high-profile UK public figure, falling under the category of court reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783372323.074073
+  },
+  "a902acf0f18b4a5cb37b42421598918a": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story about a personal encounter in Canada and lacks relevance to UK news, politics, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783372332.249795
   }
 }
