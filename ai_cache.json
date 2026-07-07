@@ -13474,5 +13474,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783455345.680411
+  },
+  "012c1fac519d0757fa56b8f35c6f5343": {
+    "is_relevant": false,
+    "reasoning": "This is a sports commentary piece concerning international football matches that does not involve the UK or material UK interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783460763.745162
   }
 }

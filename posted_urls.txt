@@ -1,5 +1,3 @@
-2026-06-30T21:15:27.100902+00:00|https://www.bbc.co.uk/news/articles/cx2wl6ynn2no|government cannot deport grooming gang ringleader|7ae96a29d2f841233f84ffaf90885b26
-2026-06-30T21:15:29.670211+00:00|https://www.bbc.co.uk/news/articles/c4gy28350njo|woman reaches settlement over stakeknife interrogation|9a5c0a51c32f9d2ad1efdd4911351f18
 2026-06-30T22:43:45.711769+00:00|https://www.bbc.co.uk/news/articles/cly7z8ey088o|patient tests negative after ebola alert at glasgow hospital|5119b14cf23eb48f1495b9f6b2cf89a9
 2026-06-30T22:43:48.229697+00:00|https://www.bbc.co.uk/sport/football/articles/c75ye7lz347o|england fans behaviour excellent at world cup|ee62b19e52548dec6c2eb0ca93bd1930
 2026-06-30T22:43:50.727054+00:00|https://news.sky.com/story/government-bid-to-clear-drugs-weapons-and-gangs-from-prisons-13559350|government bid to clear drugs weapons and gangs from prisons|21bc0e6498a5ede271c3e64c7b01425f
@@ -166,3 +164,5 @@
 2026-07-07T20:15:47.857227+00:00|https://www.telegraph.co.uk/cricket/2026/07/07/england-vs-india-live-score-latest-third-t20|england humiliate woeful india with 125run victory in third t20|a5bd9e1192b627e1c0c56f2c625cce34
 2026-07-07T20:15:50.266099+00:00|https://www.bbc.co.uk/news/articles/ckg5v6n29g6o|harrys bad news lands at wrong time but prince sticks to script|ea780dfeacd055a83136a55a9bb053c7
 2026-07-07T20:15:52.637112+00:00|https://www.bbc.co.uk/news/articles/c1my1g29gk7o|chris mason farage attempts to seize back the agenda after finance row|31e611f7567d2f1e4a4717e5c76ff837
+2026-07-07T21:46:06.577686+00:00|https://www.bbc.co.uk/news/articles/c0ly51kzdz3o|farage resigns as mp and vows to fight byelection amid finances row|55e1b43bccd4d36d61f9d4844bd8e228
+2026-07-07T21:46:09.525599+00:00|https://www.bbc.co.uk/news/articles/c0jylnl1ldeo|tributes to teenager who died during duke of edinburgh expedition|f84baa5b4228c943d705d0446b762fda
