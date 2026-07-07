@@ -13348,5 +13348,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783407882.610187
+  },
+  "7fc46369ac93a7d869caf9788159a6ad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial taking place within the UK judicial system involving serious charges of homicide.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783420373.094534
+  },
+  "170d8593b19cfec88a0ba4a5bc395c1d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health development involving the NHS in England and Wales, which directly affects a large portion of the UK population regarding access to diagnosis and care.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783420381.598177
   }
 }
