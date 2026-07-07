@@ -13481,5 +13481,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783460763.745162
+  },
+  "991da58c001282ff61cd135c02de5827": {
+    "is_relevant": false,
+    "reasoning": "This is a report on international football (Egypt vs Argentina) with no material relevance to the UK, its government, or its domestic affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783465454.866239
+  },
+  "3693dd182e09e47e3d073c4f9c096303": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story regarding a nuisance infestation; it does not meet the criteria for hard news or significant national impact required for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783465465.938161
   }
 }
