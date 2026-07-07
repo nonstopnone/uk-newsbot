@@ -13404,5 +13404,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783429618.818004
+  },
+  "a9dd36f188e4120fcec925997409ff49": {
+    "is_relevant": true,
+    "reasoning": "This is a significant High Court judgment involving the Royal Family and major national media outlets, falling squarely under legal and royal interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783447327.910615
+  },
+  "c3622a07eb1c05990dfc3fddd6f487cf": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the outcomes of a major sporting event held in the UK (Wimbledon).",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783447338.539122
+  },
+  "f1c6d9d42c493184d63111a42561ec61": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/culinary story regarding a menu choice at a sporting event, which does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783447348.047372
+  },
+  "96ce878f22013a973c808ae293d5d6ac": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving a violent assault on a teacher within a UK school, which falls under serious crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783447356.737206
+  },
+  "ce683971b41753927f080d044291bae0": {
+    "is_relevant": false,
+    "reasoning": "The article discusses general scientific research on global virus discovery rather than a specific event, policy change, or immediate health threat impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783447365.26961
+  },
+  "71e2cde7c7dd91553fc3d968274e825d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK politics involving a party leader resigning and triggering a by-election, which directly impacts the UK political landscape.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783447377.533077
+  },
+  "4bd6c820119370107680c3d894f30db4": {
+    "is_relevant": false,
+    "reasoning": "The death of a pop singer, while involving a British national, is a celebrity entertainment news story and does not constitute hard news or a matter of significant public interest required for this sub.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783447387.865632
   }
 }
