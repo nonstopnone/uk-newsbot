@@ -13453,5 +13453,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783447387.865632
+  },
+  "5cc7fa79d9e7ad28139b15e78a16173c": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about a tennis tournament, which is excluded by the subreddit's content policy regarding sports previews and general sports coverage.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783455326.476497
+  },
+  "75f0f26c01454dd862c568760e7ae2e2": {
+    "is_relevant": false,
+    "reasoning": "The article concerns an international football match between Argentina and Egypt with no material relevance to the UK or British interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783455335.920112
+  },
+  "f84baa5b4228c943d705d0446b762fda": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a fatal incident involving a student on a national youth programme, which is a matter of public interest and safety within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783455345.680411
   }
 }
