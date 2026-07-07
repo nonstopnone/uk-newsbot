@@ -13313,5 +13313,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1783381595.747304
+  },
+  "228c10f14650182e9a8ae03dd5b27b9b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a member of the Royal Family attending legal proceedings in a UK court and participating in domestic charitable engagements.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783395520.322402
   }
 }

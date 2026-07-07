@@ -1,6 +1,3 @@
-2026-06-30T01:50:44.438539+00:00|https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko|longdelayed defence spending plan to be published on tuesday|732bffdcfa8bed16746e7a6835cec406
-2026-06-30T01:50:47.124961+00:00|https://news.sky.com/story/asylum-seekers-to-pay-10k-towards-their-accommodation-13559077|a hrefhttpsnewsskycomstorypoliticslatestburnhamstarmerlabourtoriesbadenochfarage12593360postid11966162liveblogbodyasylum seekers to pay £10k towards their accommodationa|23ca2deee12403b378d16f929c5e041c
-2026-06-30T01:50:49.570958+00:00|https://www.bbc.co.uk/news/articles/c5yzd3l72ejo|the papers andys radical rewiring and its coming homes|d6e5448d18c9dc4355d91da276a8101b
 2026-06-30T06:15:00.302532+00:00|https://www.bbc.co.uk/news/articles/cp8ry5p08x7o|drinks could go up in price by 50p under new return scheme industry says|cb95589220f5aa9fe1333fda5977737b
 2026-06-30T10:04:55.577751+00:00|https://www.bbc.co.uk/news/articles/cddlgqlm7q2o|refugees would be told to repay around £10000 under new asylum bill|f850310bf80a3b818e4eb93dc14c6e64
 2026-06-30T10:04:58.190542+00:00|https://www.bbc.co.uk/news/articles/c5yzqw9erq0o|man charged with attempted murder and arson following belfast disorder|6d75ba4a6f0067e03070478e6cbc453b
@@ -171,3 +168,5 @@
 2026-07-06T22:39:46.987796+00:00|https://news.sky.com/story/british-wild-card-reaches-wimbledon-quarter-finals-in-epic-five-set-match-13561124|britains wild card arthur fery reaches wimbledon quarterfinals|f9562ed9abacef9b1366f3b29e34cc26
 2026-07-06T22:39:49.546406+00:00|https://www.bbc.co.uk/news/articles/cly77j4741lo|top boy actor tells rape trial that encounter was consensual|434dee9313c07d5c40478b049b35a86b
 2026-07-06T23:46:36.509129+00:00|https://www.bbc.co.uk/news/articles/c4gy9lpylz9o|phone contract comparisons amounted to misselling student loans mps say|155ad0712c9cdd491dd701963657c05d
+2026-07-07T03:39:06.752399+00:00|https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o|prince harry begins his uk visit with court verdict|228c10f14650182e9a8ae03dd5b27b9b
+2026-07-07T03:39:09.497978+00:00|https://www.bbc.co.uk/news/articles/cgl33dyk7y9o|banks accused of failing most vulnerable customers|e6aacdd1ad7bb64a78ae63da01847c5d
