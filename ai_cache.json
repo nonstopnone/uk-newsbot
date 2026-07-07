@@ -13362,5 +13362,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783420381.598177
+  },
+  "2cb853aef4ac61fa23b46e3059d95cef": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle product review/consumer advice piece rather than hard news, politics, or a significant public interest event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783429567.329887
+  },
+  "37da4c837a304566919b4d75509c9c83": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a major public inquiry into historic systemic abuse and human rights failures in Northern Ireland, which is a matter of significant national importance for the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783429577.200846
+  },
+  "19d573b6e6ac86821d788a55267b792c": {
+    "is_relevant": false,
+    "reasoning": "This is a minor local human-interest story regarding accidental property damage and does not meet the threshold for hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783429587.773928
+  },
+  "4379af8ecbfea90ba54c6846d72413ca": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/human interest story involving a minor business dispute rather than significant hard news of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783429597.814698
+  },
+  "cda04ea4ec8fc6cdb007e77f2c4576dc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a legal proceeding and a sentencing review by the Court of Appeal within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783429609.496321
+  },
+  "5a135f18c6f88c2ce5403f3c8c441cae": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest piece about a comedian's personal property auction, which does not constitute hard news relevant to UK governance, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783429618.818004
   }
 }

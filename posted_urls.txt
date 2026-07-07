@@ -1,5 +1,3 @@
-2026-06-30T12:24:47.131532+00:00|https://www.bbc.co.uk/news/articles/ce95ydel84no|council moves to close scotlands smallest secondary despite parents pleas|afc92c5ac0a14c914eff778a7381eff7
-2026-06-30T12:24:49.588058+00:00|https://www.bbc.co.uk/news/articles/cddlgqpg7mzo|government promises to act after shocking failings in maternity care in england|732401d583595f368b59c5b848b3ff0a
 2026-06-30T15:15:03.072650+00:00|https://www.bbc.co.uk/news/articles/cn8qzlgllj1o|final warning for failing health board after nine years of special measures|9dc440297cb0b9cf32369f5f2bae412a
 2026-06-30T15:15:05.665317+00:00|https://www.bbc.co.uk/news/articles/cdx7z2l199no|stephen mccullagh to appeal 31year sentence for natalie mcnally murder|d85b0018e6c8173b33392e3a3e64ff37
 2026-06-30T15:15:08.278928+00:00|https://news.sky.com/story/hate-crime-charges-in-scotland-surge-to-record-high-13559170|hate crime charges in scotland surge to record high|0a5a3410b506411065585871dfad40a9
@@ -171,3 +169,5 @@
 2026-07-07T07:04:46.171469+00:00|https://www.bbc.co.uk/news/articles/c9d22n9y608o|endometriosis could be diagnosed by blood test research suggests|5111610629e4f377db5e2528e861cd6e
 2026-07-07T10:33:02.253956+00:00|https://www.bbc.co.uk/news/articles/ckg73rz8r05o|woman accused of using hairdryer to kill her baby daughter|7fc46369ac93a7d869caf9788159a6ad
 2026-07-07T10:33:04.682836+00:00|https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo|endometriosis diagnosis set to be sped up with two new tests carried out by gps|170d8593b19cfec88a0ba4a5bc395c1d
+2026-07-07T13:07:00.021105+00:00|https://www.bbc.co.uk/news/articles/c1jyy29d1x6o|systemic failures by state in mother and baby homes panel finds|37da4c837a304566919b4d75509c9c83
+2026-07-07T13:07:02.675859+00:00|https://www.bbc.co.uk/news/articles/cze9kpxx6d8o|one million more uk homeowners set to face higher mortgages|f282793067179d9587d5a83f7b7ec68a
