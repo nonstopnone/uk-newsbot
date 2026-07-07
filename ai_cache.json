@@ -13320,5 +13320,33 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1783395520.322402
+  },
+  "51a2a9477d49e4440c46f1c06bde60be": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK public safety, legal liabilities, and the economic impact on insurance premiums for UK motorists.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783407851.605326
+  },
+  "5111610629e4f377db5e2528e861cd6e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health and medical research development from a UK university that directly addresses a condition affecting one in ten women in the UK, impacting NHS care pathways.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783407862.493922
+  },
+  "598cb99ab622ab9c0e3ca058fdc73262": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the investigation into mother and baby homes in Northern Ireland, a significant matter of public interest and historical accountability within the UK's devolved administration.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783407871.937891
+  },
+  "e94081caaf71efd68a25f6fad42602e0": {
+    "is_relevant": true,
+    "reasoning": "This report details significant institutional failings within MI5 regarding the management of a violent agent, which is a matter of major public interest and national security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783407882.610187
   }
 }

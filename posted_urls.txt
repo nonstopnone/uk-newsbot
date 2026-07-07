@@ -1,4 +1,3 @@
-2026-06-30T06:15:00.302532+00:00|https://www.bbc.co.uk/news/articles/cp8ry5p08x7o|drinks could go up in price by 50p under new return scheme industry says|cb95589220f5aa9fe1333fda5977737b
 2026-06-30T10:04:55.577751+00:00|https://www.bbc.co.uk/news/articles/cddlgqlm7q2o|refugees would be told to repay around £10000 under new asylum bill|f850310bf80a3b818e4eb93dc14c6e64
 2026-06-30T10:04:58.190542+00:00|https://www.bbc.co.uk/news/articles/c5yzqw9erq0o|man charged with attempted murder and arson following belfast disorder|6d75ba4a6f0067e03070478e6cbc453b
 2026-06-30T12:24:47.131532+00:00|https://www.bbc.co.uk/news/articles/ce95ydel84no|council moves to close scotlands smallest secondary despite parents pleas|afc92c5ac0a14c914eff778a7381eff7
@@ -170,3 +169,5 @@
 2026-07-06T23:46:36.509129+00:00|https://www.bbc.co.uk/news/articles/c4gy9lpylz9o|phone contract comparisons amounted to misselling student loans mps say|155ad0712c9cdd491dd701963657c05d
 2026-07-07T03:39:06.752399+00:00|https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o|prince harry begins his uk visit with court verdict|228c10f14650182e9a8ae03dd5b27b9b
 2026-07-07T03:39:09.497978+00:00|https://www.bbc.co.uk/news/articles/cgl33dyk7y9o|banks accused of failing most vulnerable customers|e6aacdd1ad7bb64a78ae63da01847c5d
+2026-07-07T07:04:43.534786+00:00|https://www.bbc.co.uk/news/articles/c05y9pe5p1jo|ebike injury payouts top £110m and push up insurance premiums|51a2a9477d49e4440c46f1c06bde60be
+2026-07-07T07:04:46.171469+00:00|https://www.bbc.co.uk/news/articles/c9d22n9y608o|endometriosis could be diagnosed by blood test research suggests|5111610629e4f377db5e2528e861cd6e
