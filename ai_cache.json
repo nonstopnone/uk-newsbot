@@ -13530,5 +13530,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783482457.949046
+  },
+  "a82c3cd5cb136034448d56c3ca8da3cf": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major UK-led international defence initiative involving significant government expenditure and the Prime Minister's active participation in a Nato summit.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1783492203.247462
+  },
+  "f5d5ec5fdb2d87f2afd6c184f48bcaca": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment industry feature piece regarding a celebrity's career and casting, which falls under lifestyle/culture news rather than the hard news criteria required for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783492213.045752
+  },
+  "b180ba27eedcd49432497940c34ff05e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the conviction of an NHS surgeon for serious criminal offences, which is a matter of public interest and legal record in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783492222.748673
   }
 }
