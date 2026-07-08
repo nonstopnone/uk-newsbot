@@ -13628,5 +13628,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783509558.382493
+  },
+  "89ff2c668fc9b9949b6a529f6c71ee4a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and national security case involving an MI5 counter-terrorism operation and a conviction for preparing acts of terrorism.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783515999.719446
+  },
+  "d5210a9bf2459009e8534babb2aeaa49": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a dispute between Egypt and FIFA regarding a football match that does not involve the UK or have any material impact on UK interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783516010.513622
+  },
+  "d114674facd0b8473b312e6a04fb30e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal investigation involving a triple homicide and an active international manhunt by British police.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783516020.258441
+  },
+  "09a8502b3c49c539c213f9212e53e60a": {
+    "is_relevant": true,
+    "reasoning": "The funding model of the BBC is a significant matter of public policy and national debate involving government reform, making it highly relevant to UK politics and the media landscape.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783516030.342999
+  },
+  "2ce4678c6563ad46c017a1ae093ac5a2": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant historical legal development regarding the last woman executed in the UK, which is a matter of major domestic legal and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783516041.699419
+  },
+  "232fd8424a6ac1c569641c869e404daf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public inquiry into a major UK criminal event and subsequent policy failures, making it essential hard news for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783516055.808083
+  },
+  "ab23cdff19d4b2d622b1f12f29927d5e": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant issue regarding the safety of staff in the charitable sector across England and Wales, constituting a matter of public interest and social concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783516065.278295
   }
 }
