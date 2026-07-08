@@ -13705,5 +13705,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1783524964.062214
+  },
+  "fd2a67dbca0df8c0a56d369a43b446b9": {
+    "is_relevant": true,
+    "reasoning": "This report covers a significant performance by a British athlete at a major UK sporting event (Wimbledon).",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783530637.497646
   }
 }
