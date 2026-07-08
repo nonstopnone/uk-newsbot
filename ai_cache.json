@@ -13733,5 +13733,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783536452.092341
+  },
+  "8fe79ed4c78f82d648e94ad03f5543b7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK political development regarding proposed legislation and government accountability, which directly affects the British legal landscape.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783542150.299531
   }
 }
