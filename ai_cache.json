@@ -13740,5 +13740,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783542150.299531
+  },
+  "d094f6c004d42a4503aa8f2a2eccd43c": {
+    "is_relevant": true,
+    "reasoning": "This concerns the Prime Minister and involves diplomatic protocols and international defence agreements between the UK and Turkey.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783546950.442802
+  },
+  "ab3459076ce726ad2b438d34c16de84f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning the conduct of a UK security service and official government accountability, involving discussions in Parliament.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783546960.863501
+  },
+  "e6a285e02eb41a9993be17bee97e84d2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK immigration and legal policy regarding the deportation of a high-profile criminal, falling directly under the scope of UK law and government action.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1783546970.939802
   }
 }
