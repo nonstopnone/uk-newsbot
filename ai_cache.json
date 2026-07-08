@@ -13551,5 +13551,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783492222.748673
+  },
+  "f0730e2ea8b087142741f742284d32bc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory action by Ofcom regarding a major UK telecommunications provider that affected millions of UK consumers.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783501763.848951
+  },
+  "8151abc4304fa02533302f21e5cc5f0a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a triple homicide and an active, international police investigation within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783501773.832277
+  },
+  "583ac917fe89777e4f673d7048a47171": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/human interest human-interest story regarding an individual accident, which does not meet the threshold for national hard news or significant UK policy impact required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783501783.454805
+  },
+  "9f1b03ea2fbff3a81ebc81cb6ac0e192": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment/lifestyle interview regarding a film production, which does not constitute hard news or meet the criteria for significant UK relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783501796.027216
   }
 }

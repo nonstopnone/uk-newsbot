@@ -1,6 +1,3 @@
-2026-07-01T08:34:02.545004+00:00|https://www.bbc.co.uk/news/articles/cm20xjkmvlzo|mccullagh sentence appeal retraumatising says mcnally family|29f5464a2e4e66c71c5fb6c69112908f
-2026-07-01T08:34:05.146104+00:00|https://www.bbc.co.uk/news/articles/c3vy7z35ve0o|chris mason starmers defence plan leaves crunching tradeoffs for burnham to confront|166ccedcb01ecae6abda990fee2febc7
-2026-07-01T08:34:07.736013+00:00|https://news.sky.com/story/new-uk-steel-tariffs-come-into-force-but-industry-isnt-happy-13559317|new uk steel tariffs come into force but industry isnt happy|5585e85e9c22836ba557641728459246
 2026-07-01T11:44:26.649323+00:00|https://news.sky.com/story/glue-trap-ban-comes-into-full-force-in-scotland-13559441|glue trap ban comes into full force in scotland|572f57daca034286deacebf82883d247
 2026-07-01T13:56:50.756716+00:00|https://www.bbc.co.uk/news/articles/clye2enp0lxo|judge wrong to spare rapists from custody court told|e19aed95a32f01f5d095f240805641b1
 2026-07-01T13:56:53.343468+00:00|https://www.bbc.co.uk/news/articles/c4gyj42r02wo|duke of yorks theatre to be renamed after sir tom stoppard|b817ec5ab9599beadd40ee8bbf7f923a
@@ -168,3 +165,5 @@
 2026-07-08T03:47:43.145087+00:00|https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo|amber heathealth alerts in effect as uk set for one of longestlasting heatwaves since 1976|ec602c66e769dc59a0fee822bbeb12d6
 2026-07-08T06:30:23.521216+00:00|https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o|farages rivals rule out standing in clacton byelection|ac775b794e20443301f3cc49f85dbf4d
 2026-07-08T06:30:26.164886+00:00|https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo|nato allies announce £37bn for new missile project|a82c3cd5cb136034448d56c3ca8da3cf
+2026-07-08T09:09:56.827677+00:00|https://www.bbc.co.uk/news/articles/c982vm2jzl1o|virgin media fined after hanging up on customers trying to cancel contracts|f0730e2ea8b087142741f742284d32bc
+2026-07-08T09:09:59.239589+00:00|https://www.bbc.co.uk/news/articles/ceqder3dydxo|you have to say no families struggling with holiday food costs|d75ea829704635ab3910e7ae8a8bb327
