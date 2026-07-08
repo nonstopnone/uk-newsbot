@@ -13712,5 +13712,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783530637.497646
+  },
+  "780758354b3997e801b0c15837496004": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile police shooting case and a material change in UK legal policy concerning officer conduct.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783536432.392655
+  },
+  "3db76ed4e45c1abdc1ac85d01f8cb045": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports achievement by a British athlete at a major domestic sporting event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783536442.664656
+  },
+  "762e155b0cc138950942c2ae4e795532": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant environmental health risk directly affecting the UK population and public infrastructure, qualifying as hard news under major national interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783536452.092341
   }
 }
