@@ -1,5 +1,3 @@
-2026-07-01T22:05:29.630112+00:00|https://www.bbc.co.uk/news/articles/c36y4g4y289o|i got three brain tumours after taking contraceptive injection|ea9910e9c208628e6c6f6d4a8a48c80e
-2026-07-01T22:05:32.119956+00:00|https://www.bbc.co.uk/news/articles/ce37g3p4dlqo|teenage boy injured after shooting in birmingham|7b9ed0f5af2d60c5ddfa01122bc4a0cd
 2026-07-01T23:44:44.943095+00:00|https://www.bbc.co.uk/news/articles/cp8r1798kp7o|dont expect trackers to save your stolen car experts say|ab0d0e1e12996a36f39013f15aaaaa77
 2026-07-01T23:44:47.639356+00:00|https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno|third uk heatwave increasingly likely as 30c temperatures forecast|fce13ba8dc8e48624b443ff58bdf3bd3
 2026-07-02T01:51:38.294915+00:00|https://www.bbc.co.uk/news/articles/c621d2k3wxqo|the papers kane to the rescue and defence black hole triples|ca8f561566d28382ba97b93c241f3e7b
@@ -175,3 +173,5 @@
 2026-07-08T20:22:31.098621+00:00|https://www.bbc.co.uk/news/articles/c8r26xp4xv4o|hillsborough law not likely until after summer|8fe79ed4c78f82d648e94ad03f5543b7
 2026-07-08T21:42:51.454880+00:00|https://www.bbc.co.uk/news/articles/crel4yyxwd1o|menb vaccine offers men no protection from gonorrhoea claims major study|1d36b2e741aec8ca69d85aff86aae73d
 2026-07-08T21:42:53.912204+00:00|https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo|starmer gifted gun and ammunition by turkish president at nato|d094f6c004d42a4503aa8f2a2eccd43c
+2026-07-08T22:45:32.965054+00:00|https://www.bbc.co.uk/news/articles/c75ygdgk5v6o|fresh dna samples taken from jailed man 30 years after murder of mother and child|9eb3b274829784993dd6649630f823b8
+2026-07-08T22:45:35.377533+00:00|https://www.bbc.co.uk/news/articles/cdx78n4nkvyo|jackdaw boss warns of winter fuel shortages if gas field not approved|b9c8e8bdc75aef77de2edbe9247753e4
