@@ -164,3 +164,5 @@
 2026-07-08T00:12:24.657129+00:00|https://www.bbc.co.uk/news/articles/ckg888vpz4do|extreme marine heatwave expected for parts of uk|a96d063bc1f2f8437cb58a23cbb99eb9
 2026-07-08T00:12:27.181189+00:00|https://www.bbc.co.uk/news/articles/c621q06w91ro|reform asks nca to investigate leaks of private financial information|dc84ff08bc0794800fafbf7afc5c0c27
 2026-07-08T00:12:29.969495+00:00|https://www.telegraph.co.uk/tennis/2026/07/07/auger-aliassime-vs-djokovic-live-score-wimbledon-latest|defiant djokovic survives fivehour thriller to reach wimbledon semis|ba6868ffccc88e099544eb285c97a55a
+2026-07-08T03:47:40.502991+00:00|https://www.bbc.co.uk/news/articles/c1ky1wxg98ko|the papers let the people judge and farage gamble turns to farce|430bfe12a4374216635d82410c92dea1
+2026-07-08T03:47:43.145087+00:00|https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo|amber heathealth alerts in effect as uk set for one of longestlasting heatwaves since 1976|ec602c66e769dc59a0fee822bbeb12d6

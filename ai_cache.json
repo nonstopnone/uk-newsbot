@@ -13516,5 +13516,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783469542.758677
+  },
+  "937861b2786ce72d10c7c32decb0eb86": {
+    "is_relevant": false,
+    "reasoning": "This is a global sports governance issue that does not materially affect the UK, its domestic sports, or national interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783482448.607751
+  },
+  "2f4293350931bdfb80b70e1937292a50": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer trends piece rather than hard news; it focuses on individual shopping habits rather than policy, economic shifts, or medical news of critical public importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783482457.949046
   }
 }
