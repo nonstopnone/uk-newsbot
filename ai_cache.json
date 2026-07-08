@@ -13495,5 +13495,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783465465.938161
+  },
+  "d75ea829704635ab3910e7ae8a8bb327": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the impact of inflation on UK families and reports on a specific legislative development regarding free school meal funding at Stormont.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783469524.094638
+  },
+  "67574a2a7271bbefb7072b7a6a6b058f": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international football match that does not involve any UK teams or have a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783469534.136109
+  },
+  "ba6868ffccc88e099544eb285c97a55a": {
+    "is_relevant": true,
+    "reasoning": "Wimbledon is a major annual UK sporting event of significant national interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783469542.758677
   }
 }
