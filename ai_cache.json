@@ -13677,5 +13677,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783516065.278295
+  },
+  "ba005cf8586b49b41908ab5d915c90f5": {
+    "is_relevant": true,
+    "reasoning": "Wimbledon is a major annual UK sporting event of significant national interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783524935.991205
+  },
+  "69ecb991f17da594b74762653185ce81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction at a UK Crown Court, fitting the criteria for crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783524945.799977
+  },
+  "fb64245de6b267fa7371b424afa1e487": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile fatal shooting by police and subsequent changes to government conduct regulations, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783524955.439799
+  },
+  "9f73f60837d291823bdcdb7e069bb9ce": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the environmental regulation and legal standing of a major North Sea energy project, which is a significant matter for UK energy policy and the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783524964.062214
   }
 }
