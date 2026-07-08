@@ -13579,5 +13579,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783501796.027216
+  },
+  "5c35b984d36b06b8cfff07b85a3177c9": {
+    "is_relevant": true,
+    "reasoning": "The death of a participant in a public endurance event within a UK national park is a significant news event involving emergency services and police investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783509496.638374
+  },
+  "b12df46952b906c7ababa6b79b7760b7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the Ministry of Defence and the PSNI regarding state collusion in Northern Ireland, a critical aspect of UK legal and political history.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783509507.071948
+  },
+  "4bee0320560ee3b51ecd0d508162165a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a fatal incident and subsequent sentencing in the High Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783509515.518107
+  },
+  "a8c917ea9d79763e4a8b2c5f6d48b51a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and safety incident occurring on UK infrastructure involving a police arrest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783509525.415438
+  },
+  "8416534a5f63df92486477ddc49d11a6": {
+    "is_relevant": true,
+    "reasoning": "This is a direct policy change by the Home Office affecting UK national infrastructure and border control operations for all citizens.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783509535.89308
+  },
+  "b6f230652c16b36403435ffe4370f7d7": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/community lifestyle story regarding a pest infestation and does not constitute hard national news or significant UK policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783509547.985503
+  },
+  "34736251397658d54e545afb901cb15e": {
+    "is_relevant": true,
+    "reasoning": "This relates to a major UK public inquiry into a critical domestic security and criminal incident in Southport, addressing systemic issues of social media regulation and knife crime policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783509558.382493
   }
 }
