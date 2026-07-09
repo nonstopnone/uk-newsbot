@@ -13831,5 +13831,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783584377.869133
+  },
+  "1e51a1c493a30d601994b32b63018c3b": {
+    "is_relevant": true,
+    "reasoning": "The death of a significant, internationally renowned Welsh singer constitutes a notable cultural event for a UK audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783595975.683209
+  },
+  "c83c77734877696c8927c70f9c3031ba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation involving a triple homicide in the UK and a nationwide police search.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783595984.572601
+  },
+  "da60be8d01116b0b4163bf6bb72a0aef": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest story rather than hard news concerning politics, crime, the economy, or other significant national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783595995.775
+  },
+  "f314d1b101d7d88b40014ec3af999970": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a high-profile criminal conviction and sentencing in a Scottish High Court, which falls under serious crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783596010.012493
+  },
+  "7e83412d86f6ba1ae9f8036c8cebdf17": {
+    "is_relevant": true,
+    "reasoning": "A major fire in a capital city center is a significant public safety and infrastructure event directly relevant to the UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783596019.918144
   }
 }
