@@ -13915,5 +13915,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783615319.593653
+  },
+  "1f81056aa747220878a88de82bf36a7c": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment story concerning a cameo appearance on a radio drama, which does not constitute hard news or a significant event of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783621710.626321
+  },
+  "69eb7593c9d19c7f13377cee3c92e929": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and policing matter involving a public figure and the Metropolitan Police, concerning the application of the Public Order Act and a subsequent formal settlement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783621719.874942
+  },
+  "ff5a9739f3dd3d91515b4818a15197f8": {
+    "is_relevant": true,
+    "reasoning": "The article concerns statements made by a high-profile UK politician regarding internal party policy and government positions on a major international conflict, which is of significant political relevance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783621728.623618
+  },
+  "1ce7672ab84333ebc54fabdf2aa28850": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding community relations and potential hate crimes in Northern Ireland, which falls under UK jurisdiction and societal issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783621738.629503
+  },
+  "75fe2d683620b1c91d1b1fc51f122d96": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a homicide and ongoing court proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783621747.1955
   }
 }
