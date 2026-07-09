@@ -13950,5 +13950,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783621747.1955
+  },
+  "461191cfc68cb0c72bc99f6f97957d7e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of the England national cricket team, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783628664.003411
+  },
+  "cf796ec7e4d698163a04798bf62456e0": {
+    "is_relevant": true,
+    "reasoning": "This report concerns national security and police investigations into hostile state activities on UK soil, which is a matter of major domestic importance.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783628673.510997
+  },
+  "ac8f84e7a57f241c8a4aa576ee1322e9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder investigation and subsequent court proceedings in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783628683.542611
   }
 }

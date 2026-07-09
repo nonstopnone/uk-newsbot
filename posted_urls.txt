@@ -1,5 +1,3 @@
-2026-07-02T19:55:59.066607+00:00|https://www.bbc.co.uk/news/articles/ckg4807pn9lo|minimart at centre of investigation closed down|64c0d2f9cd48043d209fd26365538456
-2026-07-02T19:56:01.453936+00:00|https://www.bbc.co.uk/news/articles/c1kyr8747m9o|pubs allowed to stay open until 5am for england mexico match|474f1ccb629839d81af4ab2f70722aca
 2026-07-02T21:12:32.648237+00:00|https://www.telegraph.co.uk/cricket/2026/07/02/england-vs-south-africa-live-score-t20-world-cup-semi-final|t20 world cup england dispatch south africa to set up final showdown with australia|91ede12b5013be8a8527d15b0d36460b
 2026-07-02T21:12:35.450382+00:00|https://www.bbc.co.uk/news/articles/cy4e109nx04o|at least eight arrests linked to forums that encourage drugging and raping women|c06dbac4aa48f9d748af1e5a7e1d7cda
 2026-07-02T21:12:38.235979+00:00|https://www.bbc.co.uk/news/articles/clyrx1ee2r4o|culture secretary quits x in protest at misinformation|1a58a0b4ce22f7188f2d5525218d051e
@@ -170,3 +168,7 @@
 2026-07-09T18:29:09.697023+00:00|https://www.bbc.co.uk/news/articles/c77y0n7k801o|burnham set to be next pm as 322 labour mps back him in first nomination tally|8e71ba010d4b502727f8a129d71452ad
 2026-07-09T18:29:12.111781+00:00|https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo|graham linehan receives settlement from met over online post arrest|69eb7593c9d19c7f13377cee3c92e929
 2026-07-09T18:29:14.434752+00:00|https://news.sky.com/story/mosque-replica-on-bonfire-condemned-as-vile-bid-to-stir-up-anti-muslim-hatred-13561994|mosque replica on bonfire condemned as act of vile racial hatred|1ce7672ab84333ebc54fabdf2aa28850
+2026-07-09T20:24:44.414399+00:00|https://www.telegraph.co.uk/cricket/2026/07/09/england-vs-india-live-score-latest-updates-4th-t20|england blow india away to wrap up t20 series with game to spare|461191cfc68cb0c72bc99f6f97957d7e
+2026-07-09T20:24:47.319056+00:00|https://www.bbc.co.uk/news/articles/cyv0znm6y2eo|heat health alerts extended as record for most 34c days in a year broken|6342ca84143a1f7273069a9249b40335
+2026-07-09T20:24:50.023091+00:00|https://www.bbc.co.uk/news/articles/cvg5yrkeed1o|burnham apologises for labours initial response to gaza war|ff5a9739f3dd3d91515b4818a15197f8
+2026-07-09T20:24:52.891808+00:00|https://news.sky.com/story/teens-being-arrested-over-hostile-states-using-proxies-on-uk-soil-as-number-of-investigations-surges-13562068|teens being arrested over hostile states using proxies on uk soil as number of investigations surges|cf796ec7e4d698163a04798bf62456e0
