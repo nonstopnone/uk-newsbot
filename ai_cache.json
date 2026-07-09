@@ -13866,5 +13866,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783596019.918144
+  },
+  "b949f33cfd3ab527f8b7241e355903c8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, fast-moving UK criminal investigation involving a triple murder suspect who has fled the country.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783605941.197849
+  },
+  "134cac64cec7783eb398a89ed37958d7": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle recipe column, which falls under the excluded category of fluff/lifestyle content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783605952.990244
+  },
+  "1500d70f758b9d255e9fe3640458032b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK science infrastructure, national research funding, and government fiscal management affecting major UK institutions.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783605962.065652
+  },
+  "400262926a3ff85e3eccbfb01dfebdd7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding patient safety and malpractice within the NHS, which is a core topic for UK public interest and institutional accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783605972.789792
   }
 }

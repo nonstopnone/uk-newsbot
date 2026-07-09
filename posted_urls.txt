@@ -1,5 +1,3 @@
-2026-07-02T11:57:40.093328+00:00|https://www.bbc.co.uk/news/articles/c20yq332018o|starmer says forced adoptions a stain on our history as he gives formal apology|f3bb20a2e2b5f21102c74c876f79d24e
-2026-07-02T11:57:42.670299+00:00|https://www.bbc.co.uk/news/articles/cgqjkvypn5eo|frankie dettori breaks ribs in car crash|a8e34abde05dbc821c8aafbfcbd71a75
 2026-07-02T14:20:07.857451+00:00|https://www.bbc.co.uk/news/articles/cwyednjr4mko|burnham meets trade union leaders ahead of expected premiership|75a823eab1fd27f6870f26662c2d14a3
 2026-07-02T14:20:10.476748+00:00|https://www.telegraph.co.uk/tennis/2026/07/02/katie-swan-vs-madison-keys-live-score-latest-wimbledon|katie swans wimbledon ends in the second round at the hands of madison keys|e5a257beb30c29459c0b3ebda0f1b03f
 2026-07-02T14:20:12.902861+00:00|https://www.telegraph.co.uk/tennis/2026/07/02/arthur-fery-vs-otto-virtanen-live-score-latest-wimbledon|britains arthur fery produces tenacious display fit for a princess|3215954365eb637f8a1b82a43ac6bbc4
@@ -175,3 +173,6 @@
 2026-07-09T11:20:20.427760+00:00|https://www.bbc.co.uk/news/articles/cg5pd9z2487o|bonnie tyler the gravelvoiced star who sang her way into music history|1e51a1c493a30d601994b32b63018c3b
 2026-07-09T11:20:22.861210+00:00|https://www.bbc.co.uk/news/articles/cwylzxw7p52o|farages byelection in clacton officially confirmed|530ef2c1ffa909906d15e39c51ea42ab
 2026-07-09T11:20:25.623547+00:00|https://news.sky.com/story/firefighters-tackle-major-blaze-at-historic-building-on-edinburghs-princes-street-13561863|firefighters tackle major blaze at historic building on edinburghs princes street|7e83412d86f6ba1ae9f8036c8cebdf17
+2026-07-09T14:06:13.227325+00:00|https://www.bbc.co.uk/news/articles/clyr4l1p6d4o|no contact from uk about murder suspect say zimbabwe police|b949f33cfd3ab527f8b7241e355903c8
+2026-07-09T14:06:15.680527+00:00|https://www.bbc.co.uk/news/articles/c0ryevpz48ko|uk labs hit by cuts despite record science funding|1500d70f758b9d255e9fe3640458032b
+2026-07-09T14:06:18.032474+00:00|https://news.sky.com/story/south-london-hospital-consultant-contributed-to-premature-deaths-review-finds-13561896|hospital consultant contributed to premature deaths and caused severe harm|400262926a3ff85e3eccbfb01dfebdd7
