@@ -13985,5 +13985,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783634375.046809
+  },
+  "57abefdba69d920f507f16afb195a95d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal matter in Northern Ireland involving hate crime and high-level political condemnation, which is directly relevant to UK law and domestic security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783639290.251258
+  },
+  "b7c0ed08a07b795d76c6bc9d03a8f1c8": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a football match between France and Morocco, which does not constitute hard UK news and falls under the category of sports reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783639299.329827
   }
 }
