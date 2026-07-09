@@ -1,5 +1,3 @@
-2026-07-01T23:44:44.943095+00:00|https://www.bbc.co.uk/news/articles/cp8r1798kp7o|dont expect trackers to save your stolen car experts say|ab0d0e1e12996a36f39013f15aaaaa77
-2026-07-01T23:44:47.639356+00:00|https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno|third uk heatwave increasingly likely as 30c temperatures forecast|fce13ba8dc8e48624b443ff58bdf3bd3
 2026-07-02T01:51:38.294915+00:00|https://www.bbc.co.uk/news/articles/c621d2k3wxqo|the papers kane to the rescue and defence black hole triples|ca8f561566d28382ba97b93c241f3e7b
 2026-07-02T01:51:40.735119+00:00|https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690|alleged member of hacking group scattered spider arrested|386ea85934227de56cab83806ce2a2ec
 2026-07-02T01:51:43.158710+00:00|https://www.bbc.co.uk/news/articles/c20zgjzz0e4o|diesel sees biggest monthly fall in 26 years whats happening to fuel prices|342caff1469c75df463463efdcafb649
@@ -175,3 +173,5 @@
 2026-07-08T21:42:53.912204+00:00|https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo|starmer gifted gun and ammunition by turkish president at nato|d094f6c004d42a4503aa8f2a2eccd43c
 2026-07-08T22:45:32.965054+00:00|https://www.bbc.co.uk/news/articles/c75ygdgk5v6o|fresh dna samples taken from jailed man 30 years after murder of mother and child|9eb3b274829784993dd6649630f823b8
 2026-07-08T22:45:35.377533+00:00|https://www.bbc.co.uk/news/articles/cdx78n4nkvyo|jackdaw boss warns of winter fuel shortages if gas field not approved|b9c8e8bdc75aef77de2edbe9247753e4
+2026-07-09T00:13:39.121638+00:00|https://www.bbc.co.uk/news/articles/c3ryelw8ewwo|the papers iran war back on and count binface exclusive|5c91f57f5aaf21a10e57e1d6dc631999
+2026-07-09T00:13:41.465277+00:00|https://www.bbc.co.uk/news/articles/czrxj5vvey0o|no crude proposals on disability benefits minister leading review says|8b93e2f96a22ebe6516841e7de446f7a

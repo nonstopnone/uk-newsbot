@@ -13768,5 +13768,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783550731.845221
+  },
+  "5c91f57f5aaf21a10e57e1d6dc631999": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant UK domestic political developments regarding a by-election involving a party leader, alongside geopolitical developments that materially impact UK national security.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783555988.586888
+  },
+  "8b93e2f96a22ebe6516841e7de446f7a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development regarding UK welfare reform and government spending on the Personal Independence Payment, which directly affects the UK social security system.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783555999.064039
+  },
+  "2087fe2ae3aa2d474794b181656d4d4e": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/personal finance advice piece rather than hard news about the UK economy, policy, or financial regulation.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783556008.695098
+  },
+  "3613642ab8b2d1543317e7c84f2009f8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK political development regarding the Labour Party leadership contest following the resignation of the Prime Minister.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783556018.576979
   }
 }
