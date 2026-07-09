@@ -13796,5 +13796,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783556018.576979
+  },
+  "b7f1169b7f922ca86f2dcd11a13454cc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from a parliamentary select committee regarding the oversight of senior UK diplomatic appointments and government transparency.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783570570.583519
+  },
+  "2972752c3d55c5b3a1d1b53d0ecede09": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a potential government policy decision regarding a national bank holiday, involving the Prime Minister's public statements.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783570580.407999
   }
 }
