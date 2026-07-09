@@ -13810,5 +13810,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783570580.407999
+  },
+  "2be5da0883036a30b710bce46e11fcf6": {
+    "is_relevant": true,
+    "reasoning": "A major fire on a significant UK city high street requiring emergency intervention and causing major infrastructure and transport disruption constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783584360.701413
+  },
+  "951819edfbb391db38d91fc622ca8943": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding community relations, potential hate crimes, and police involvement in Northern Ireland, a devolved part of the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783584369.851477
+  },
+  "e13b367224a600780977fffee33ab8a2": {
+    "is_relevant": true,
+    "reasoning": "This report covers a significant spike in drug trafficking directly impacting the UK, involving the National Crime Agency and UK border concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783584377.869133
   }
 }
