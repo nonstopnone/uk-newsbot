@@ -1,12 +1,3 @@
-2026-07-02T14:20:07.857451+00:00|https://www.bbc.co.uk/news/articles/cwyednjr4mko|burnham meets trade union leaders ahead of expected premiership|75a823eab1fd27f6870f26662c2d14a3
-2026-07-02T14:20:10.476748+00:00|https://www.telegraph.co.uk/tennis/2026/07/02/katie-swan-vs-madison-keys-live-score-latest-wimbledon|katie swans wimbledon ends in the second round at the hands of madison keys|e5a257beb30c29459c0b3ebda0f1b03f
-2026-07-02T14:20:12.902861+00:00|https://www.telegraph.co.uk/tennis/2026/07/02/arthur-fery-vs-otto-virtanen-live-score-latest-wimbledon|britains arthur fery produces tenacious display fit for a princess|3215954365eb637f8a1b82a43ac6bbc4
-2026-07-02T14:20:15.485104+00:00|https://www.bbc.co.uk/news/articles/cvg539rle7mo|donaldson commentary utterly irresponsible says police chief|ddd646ae90f8b7dc08b9cb55f3b4690e
-2026-07-02T14:20:18.044048+00:00|https://news.sky.com/story/man-arrested-in-connection-with-1973-murder-of-teenager-marian-beattie-13559809|man arrested in connection with 1973 murder of marian beattie|8e1b406e38d78814e21b1c1e3a0f3333
-2026-07-02T14:20:20.763389+00:00|https://news.sky.com/story/salmonella-outbreak-linked-to-noodles-affecting-uk-and-13-other-countries-13559779|salmonella outbreak linked to noodles affecting uk and 13 other countries|5b27c70a702320acfc66e60be9279fdf
-2026-07-02T16:20:43.269512+00:00|https://www.bbc.co.uk/news/articles/cvg53d9p18vo|boy rapists given custody sentences by court of appeal|a59608c981632b057c996cbc1ab96957
-2026-07-02T16:20:45.915258+00:00|https://www.bbc.co.uk/news/articles/cn758x76j66o|woman dies after suspected assault as mans body found at reservoir|e62a8657789d0759b72982b64ee906ff
-2026-07-02T16:20:48.435954+00:00|https://news.sky.com/story/kate-breaks-tradition-at-wimbledon-as-she-watches-match-beside-tennis-legend-13559823|kate breaks tradition at wimbledon as she watches match beside tennis star|1958f3129124fa23d86711aeb6941476
 2026-07-02T18:14:51.062899+00:00|https://www.bbc.co.uk/news/articles/cpwej79vnkgo|maddy cusacks coach her nemesis mum tells inquest|3d399687aade3dad265623cc17689b4a
 2026-07-02T18:14:53.663560+00:00|https://www.telegraph.co.uk/tennis/2026/07/02/jacob-fearnley-vs-jaume-munar-live-score-latest-wimbledon|briton jacob fearnley exits wimbledon in straight sets|c0764f923ee090e963202ccac0a0b168
 2026-07-02T18:14:56.085881+00:00|https://www.bbc.co.uk/news/videos/cly09x7wjpko|watch kate gives out tickets and meets public in surprise wimbledon visit|5a1d5cc5d3f9ecd67425c7262065f3e1
@@ -176,3 +167,6 @@
 2026-07-09T14:06:13.227325+00:00|https://www.bbc.co.uk/news/articles/clyr4l1p6d4o|no contact from uk about murder suspect say zimbabwe police|b949f33cfd3ab527f8b7241e355903c8
 2026-07-09T14:06:15.680527+00:00|https://www.bbc.co.uk/news/articles/c0ryevpz48ko|uk labs hit by cuts despite record science funding|1500d70f758b9d255e9fe3640458032b
 2026-07-09T14:06:18.032474+00:00|https://news.sky.com/story/south-london-hospital-consultant-contributed-to-premature-deaths-review-finds-13561896|hospital consultant contributed to premature deaths and caused severe harm|400262926a3ff85e3eccbfb01dfebdd7
+2026-07-09T16:42:02.700691+00:00|https://www.bbc.co.uk/news/articles/c3dy7rr3kpmo|pontypridd birkenhead and isle of bute among shortlist for first uk town of culture|541384f3c2a9ee6427c7ce9af1d3b9f2
+2026-07-09T16:42:05.176959+00:00|https://www.telegraph.co.uk/tennis/2026/07/09/karolina-muchova-vs-coco-gauff-live-score-latest-wimbledon|muchova beats gauff in rollercoaster deciding tiebreak to reach wimbledon final|ca0f8fd8aca93c7870bdf830705ba6f5
+2026-07-09T16:42:07.819974+00:00|https://www.bbc.co.uk/news/articles/cj3gdj300lyo|restore britain leader describes dunblane tragedy as one murder|9ff865ac9327b9894d368563b2e8d81f

@@ -13894,5 +13894,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783605972.789792
+  },
+  "541384f3c2a9ee6427c7ce9af1d3b9f2": {
+    "is_relevant": true,
+    "reasoning": "This is a government-led national initiative involving multiple regions across the UK with significant public funding attached, making it relevant to UK domestic policy and cultural development.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783615301.312609
+  },
+  "ca0f8fd8aca93c7870bdf830705ba6f5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major sporting event taking place at Wimbledon, a significant annual UK cultural and sporting fixture.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783615309.984496
+  },
+  "e1db70fb9ec31d72b8a1cac4fc4af3b1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK education policy and national statistics regarding state schools, directly involving the Education Secretary.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783615319.593653
   }
 }
