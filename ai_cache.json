@@ -13971,5 +13971,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783628683.542611
+  },
+  "dc7c1af0eab78e2ab3dce8e8008e0e47": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/crime report concerning an individual incident abroad, which does not meet the threshold for high-level UK news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783634364.917006
+  },
+  "3de5f75108dbb148696cfcec7564479e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a fatality and an arrest on suspicion of murder, which is highly relevant to UK public interest and domestic law enforcement reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783634375.046809
   }
 }
