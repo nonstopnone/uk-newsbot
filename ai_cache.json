@@ -14181,5 +14181,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783695648.079938
+  },
+  "001a5e0ec5fc71896f6e5e3b918cd126": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a critical failure within the Scottish Ambulance Service, directly involving NHS performance and public safety concerns relevant to UK policy and devolved governance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783699736.393237
+  },
+  "7e8eadf310c09c74dce660282c9045f7": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/travel piece recommending accommodation rather than hard news or matters of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783699747.202336
+  },
+  "215109578d1a03db3af71aa2de1e7193": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting event involving a British player at Wimbledon, which falls under sports news relevant to the UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783699757.61166
+  },
+  "06bdc4a2decb573e72a8eee92e474db0": {
+    "is_relevant": true,
+    "reasoning": "The death of a serving police officer in the line of duty is a significant matter of public interest and involves UK law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783699766.027579
   }
 }

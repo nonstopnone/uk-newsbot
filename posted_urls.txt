@@ -1,7 +1,3 @@
-2026-07-03T15:34:52.785489+00:00|https://www.bbc.co.uk/news/articles/cpd357j7020o|three men found not guilty of journalist lyra mckees murder|d52bc057d3bb1bdb4930b587a050b476
-2026-07-03T15:34:55.166551+00:00|https://news.sky.com/story/lydia-suffield-avoids-jail-for-stalking-george-osborne-and-his-wife-thea-rogers-13560128|woman who stalked george osborne and his wife spared jail|7f95ceee1085a348f74ae5e2441084f6
-2026-07-03T15:34:57.598316+00:00|https://www.bbc.co.uk/news/articles/c8e2j0z7xgxo|uk in talks with pakistan about deporting grooming gang leader|8c8d6bb4ded3dc2c132347c14d161060
-2026-07-03T15:35:00.104479+00:00|https://news.sky.com/story/uk-weather-parts-of-country-braced-for-another-heatwave-as-temperatures-could-soar-to-30c-13560092|parts of uk braced for another heatwave as temperatures could soar to 30c|cac219721f1dfde03e8689ecfca78419
 2026-07-03T17:05:03.553928+00:00|https://www.bbc.co.uk/news/articles/c3wy26p5lexo|henry nowaks killer appeals conviction and sentence|ca8fb74dfac1e87042e597a55391978e
 2026-07-03T17:05:05.979714+00:00|https://www.bbc.co.uk/news/articles/cx2xwd68l1eo|greek man found guilty of murdering scottish woman in crete|d64e36a76aab569bc51550b65de87de0
 2026-07-03T17:05:08.797778+00:00|https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993|two men jailed for stabbing tv presenter on street|6f0c56dcd722e14e560b4f10df6324a5
@@ -173,3 +169,7 @@
 2026-07-10T13:46:01.713919+00:00|https://www.bbc.co.uk/news/articles/c2kyw4nqd5do|ann widdecombe obituary brexitbacking former minister turned strictly star|ecec59ad4eee36bc4bb1b3cb906e3437
 2026-07-10T13:46:04.879572+00:00|https://www.bbc.co.uk/news/articles/cvgeyx1e4kno|labour under burnham will be faster and bolder says minister|6107459fa0e7943e63b9a7ad4f04429f
 2026-07-10T15:00:48.873144+00:00|https://www.bbc.co.uk/news/live/cp9l8l05vxet|police launch murder investigation into ann widdecombes death|f04554edf5767201c479b15d615748ad
+2026-07-10T16:09:27.493452+00:00|https://www.bbc.co.uk/news/articles/c70yd2y6geyo|man died after being told twice that no ambulance would be sent|001a5e0ec5fc71896f6e5e3b918cd126
+2026-07-10T16:09:30.213963+00:00|https://www.telegraph.co.uk/tennis/2026/07/10/fery-vs-zverev-live-score-wimbledon-semi-final-updates|wimbledon dream over for arthur fery after straightsets defeat by alexander zverev|215109578d1a03db3af71aa2de1e7193
+2026-07-10T16:09:32.604745+00:00|https://www.bbc.co.uk/news/articles/cg74kn2d3elo|anglian water hosepipe ban for uks driest region|3bf24aedfc2cf68cace869868a4d2e3b
+2026-07-10T16:09:35.002381+00:00|https://news.sky.com/story/funeral-for-pc-jess-turnbull-19-who-died-in-line-of-duty-held-in-newcastle-13562306|funeral held for police officer 19 who died in line of duty|06bdc4a2decb573e72a8eee92e474db0
