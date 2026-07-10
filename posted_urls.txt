@@ -1,6 +1,3 @@
-2026-07-03T17:05:03.553928+00:00|https://www.bbc.co.uk/news/articles/c3wy26p5lexo|henry nowaks killer appeals conviction and sentence|ca8fb74dfac1e87042e597a55391978e
-2026-07-03T17:05:05.979714+00:00|https://www.bbc.co.uk/news/articles/cx2xwd68l1eo|greek man found guilty of murdering scottish woman in crete|d64e36a76aab569bc51550b65de87de0
-2026-07-03T17:05:08.797778+00:00|https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993|two men jailed for stabbing tv presenter on street|6f0c56dcd722e14e560b4f10df6324a5
 2026-07-03T18:40:03.754319+00:00|https://www.bbc.co.uk/news/articles/c982r5z7v0no|burnham rules out calling early election as pm|7646a9c2cf21238a8ab9029c3620a325
 2026-07-03T18:40:06.204441+00:00|https://www.telegraph.co.uk/tennis/2026/07/03/sabalenka-vs-ostapenko-live-score-latest-wimbledon-updates|sabalenka battles past ostapenko to set up wimbledon last16 showdown with osaka|5c91b36317f8548f5cdf3896cfb15f0e
 2026-07-03T18:40:08.584210+00:00|https://www.bbc.co.uk/news/articles/c24y2pr3dvyo|two romanians jailed for stabbing journalist on behalf of iran regime|ae26c17c6c7e3194bfe8503b45b5e261
@@ -173,3 +170,5 @@
 2026-07-10T16:09:30.213963+00:00|https://www.telegraph.co.uk/tennis/2026/07/10/fery-vs-zverev-live-score-wimbledon-semi-final-updates|wimbledon dream over for arthur fery after straightsets defeat by alexander zverev|215109578d1a03db3af71aa2de1e7193
 2026-07-10T16:09:32.604745+00:00|https://www.bbc.co.uk/news/articles/cg74kn2d3elo|anglian water hosepipe ban for uks driest region|3bf24aedfc2cf68cace869868a4d2e3b
 2026-07-10T16:09:35.002381+00:00|https://news.sky.com/story/funeral-for-pc-jess-turnbull-19-who-died-in-line-of-duty-held-in-newcastle-13562306|funeral held for police officer 19 who died in line of duty|06bdc4a2decb573e72a8eee92e474db0
+2026-07-10T18:02:30.914196+00:00|https://www.bbc.co.uk/news/articles/c24yjej2zlno|army to prepare for modern warfare with £2bn ai training|c501c3e92dfa6c08ec99d88336316f89
+2026-07-10T18:02:33.353275+00:00|https://www.bbc.co.uk/news/articles/cewq9vznzz5o|top boy actor micheal ward found not guilty of rape|b0cd2ac1ebed9bd9ba9eb3784a7e358c

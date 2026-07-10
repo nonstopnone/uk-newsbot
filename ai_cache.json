@@ -14209,5 +14209,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783699766.027579
+  },
+  "20e390712e377555bd641787b5114267": {
+    "is_relevant": false,
+    "reasoning": "This is a music industry chart story, which falls under entertainment and lifestyle news rather than hard news related to the specified public interest categories.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783706519.218986
+  },
+  "c06bc44934f64bee6377a9bf77632ea5": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on the detention of a doctor in Gaza by Israeli forces, which is an international humanitarian issue that does not directly impact UK domestic policy or infrastructure, failing the threshold for major international news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783706528.750753
+  },
+  "5310de38a44ff0c095e9c1904ba11b20": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment piece concerning an actor's music career, which does not constitute hard news or a matter of significant public interest for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783706539.366271
+  },
+  "b0cd2ac1ebed9bd9ba9eb3784a7e358c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a high-profile UK actor tried in a UK court, falling under major crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783706549.354137
   }
 }
