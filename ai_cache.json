@@ -14020,5 +14020,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783645841.611621
+  },
+  "c0655bc8b8b6f02269f7223ac6fba818": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health incident involving a hospital ward closure within the NHS, which is highly relevant to the UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783660132.330655
+  },
+  "1befdd3407dec466dfdf64cb251995a4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK health policy development involving a government-led consultation and potential legislative changes to consumer product regulation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783660143.089772
+  },
+  "0f47a35ba8c518076c20fca97458e9e1": {
+    "is_relevant": false,
+    "reasoning": "While a medical advancement, this is a health-lifestyle/human interest story rather than hard news regarding UK national policy, governance, or major societal events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783660153.908316
+  },
+  "2a48aba57bbe81ce6360ac4109992ffa": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer warning regarding product scams and does not meet the threshold for hard news or major UK interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783660163.231374
+  },
+  "d0c3e5e1a3e9bcc660ffe55691789740": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the National Audit Office regarding failures in the UK justice system's monitoring of offenders, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783660173.313273
   }
 }
