@@ -13999,5 +13999,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783639299.329827
+  },
+  "76f62f4eb7c7e3ebc9a43e5e6e220950": {
+    "is_relevant": true,
+    "reasoning": "This is a significant piece of UK legislative news regarding the assisted dying bill, which is a major matter of public policy and parliamentary process.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783645820.034842
+  },
+  "faf1499f18502dfa8e24133f16ae0e74": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK crime statistics and law enforcement effectiveness published by the Home Office.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783645830.183259
+  },
+  "9190fdc00f1b2d497ff40669d7a69ad0": {
+    "is_relevant": false,
+    "reasoning": "This article concerns environmental conservation and wildlife population trends, which falls under lifestyle/nature rather than hard news categories such as politics, economy, or crime.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783645841.611621
   }
 }
