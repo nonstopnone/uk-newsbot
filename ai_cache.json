@@ -14272,5 +14272,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783717693.46476
+  },
+  "4f51e4a9af6291e47d8b97f89ca40cbd": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the England national football team's squad availability for a major tournament quarter-final, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783721815.532116
+  },
+  "c08fadcc100c2445777e381f1a5172ef": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a murder investigation concerning a high-profile former UK politician, which is a matter of significant public interest and security concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783721825.660378
+  },
+  "bb11342216776f1438092dc3c546a13b": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic human interest story involving a private individual that does not constitute hard news or public interest, as it does not impact UK policy, infrastructure, or the wider British public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783721838.164981
   }
 }
