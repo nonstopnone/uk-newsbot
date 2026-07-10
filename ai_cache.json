@@ -14139,5 +14139,40 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1783683366.683621
+  },
+  "dfaeabc1221f7e59dfb6af823ab8f965": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/health advice piece and contains affiliate links, failing the criteria for hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783691112.379842
+  },
+  "221acca5005e63a54c81d419d6104227": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event in a major UK sporting tournament involving a British athlete, fitting the criteria for sports coverage.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783691122.822505
+  },
+  "d78793d3bff0a33a0e57374a6bfcff95": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from a UK court inquest concerning a prominent British sporting figure, which has material implications for health and safety discussions in UK professional football.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783691133.001962
+  },
+  "7ef0b6deb01e0fbc0146269f3d05be88": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle/celebrity anecdote and does not constitute hard news or a matter of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783691143.742566
+  },
+  "fbe6b6455b09126bd34be0826d9413ef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on police misconduct and criminal conviction involving a detective in the UK, which falls under crime and legal oversight.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783691154.786578
   }
 }
