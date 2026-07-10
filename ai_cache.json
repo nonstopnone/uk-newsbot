@@ -14174,5 +14174,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783691154.786578
+  },
+  "f04554edf5767201c479b15d615748ad": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK crime investigation involving a high-profile public figure, which is a matter of significant national interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783695648.079938
   }
 }
