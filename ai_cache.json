@@ -14090,5 +14090,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783672962.960772
+  },
+  "545e085e6a83c1b2e0517d882dbf3c79": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal outcome regarding a historic murder case resolved by the Old Bailey, which is highly relevant to UK crime and justice reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783683304.951846
+  },
+  "fd969291350e252a64491e509adb7e6e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the criminal conviction of a serving senior police officer for misconduct in public office and data misuse, which falls under UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783683314.668082
+  },
+  "08461a0568bb9f9820c803525e94df24": {
+    "is_relevant": true,
+    "reasoning": "This is a report on significant public disorder and violence in London resulting in police arrests and an officer being hospitalised, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783683324.62739
+  },
+  "71fa59a7baa0691faf8135fa595a12d7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory development regarding UK law and consumer protection, involving the enforcement of the Online Safety Act by a UK regulator.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783683334.887352
+  },
+  "d0e956309754990e5fcd4e2618e47a54": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government policy announcement regarding public health regulation and the retail of nicotine products in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783683345.37779
+  },
+  "61f99ed47eab2df5cf8ed6882710e434": {
+    "is_relevant": true,
+    "reasoning": "The death of a former high-profile UK government minister and Member of Parliament is a matter of significant national public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783683355.876496
+  },
+  "7e9c2339aeb57ec7b83b6b8b37c78aa1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cultural event involving the British Museum and a major historical artefact being displayed in the UK for the first time.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783683366.683621
   }
 }

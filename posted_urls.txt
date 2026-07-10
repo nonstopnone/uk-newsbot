@@ -1,5 +1,3 @@
-2026-07-03T11:18:05.446748+00:00|https://www.bbc.co.uk/news/articles/cqj19xzwjydo|skipper sentenced for dickensian treatment of foreign crewmen|12e9cb7f37ffebea23b489b054dbdf4c
-2026-07-03T11:18:07.891671+00:00|https://news.sky.com/story/teen-charged-with-attempted-murder-of-boy-who-was-shot-in-birmingham-13560064|teen charged with attempted murder of boy who was shot|fbf31988cd2c5c45cf27cfb181dc751a
 2026-07-03T13:21:28.835392+00:00|https://www.bbc.co.uk/news/articles/cd95v388k5jo|police criticise timing of decision on pubs staying open for england match|eca86243bf56f94b8506feca6d998d6f
 2026-07-03T13:21:31.641559+00:00|https://www.bbc.co.uk/news/articles/cj6g04y6xg6o|mum of tiktoker has murder sentence appeal rejected|e0fb9946a00e4b184fadb389952af94a
 2026-07-03T13:21:34.490274+00:00|https://www.telegraph.co.uk/formula-1/2026/07/03/british-grand-prix-2026-sprint-qualifying-practice-live|lewis hamilton tops first british grand prix practice george russell fourth|2800855376569802e04706bc0a87def5
@@ -171,3 +169,6 @@
 2026-07-10T05:09:36.256809+00:00|https://www.bbc.co.uk/news/articles/cly9r54e5r4o|bayeux tapestry delivered to british museum in dead of night|25e9282e5b12f23c02312ccf7ad92b15
 2026-07-10T08:42:43.568187+00:00|https://www.bbc.co.uk/news/articles/ced47jqyg1eo|former tory minister ann widdecombe dies at 78|91063cc1494051ffaf8f3acf032dc47c
 2026-07-10T08:42:45.918236+00:00|https://www.bbc.co.uk/news/articles/cze9z81d183o|thousands of offenders not wearing electronic tags report says|d0c3e5e1a3e9bcc660ffe55691789740
+2026-07-10T11:36:07.429873+00:00|https://www.bbc.co.uk/news/articles/c2dyw9lp02wo|prince harry plays pickleball at invictus games event but no meghan|e6599e9ce459230b302939e7a1c11669
+2026-07-10T11:36:10.146636+00:00|https://www.bbc.co.uk/news/articles/cg74e270p13o|brothers jailed for 1984 murder after undercover police sting|545e085e6a83c1b2e0517d882dbf3c79
+2026-07-10T11:36:12.620921+00:00|https://news.sky.com/story/ann-widdecombe-the-former-mp-and-mep-dies-aged-78-13562152|former tory minister ann widdecombe dies|61f99ed47eab2df5cf8ed6882710e434
