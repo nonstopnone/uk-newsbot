@@ -14258,5 +14258,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1783713195.75153
+  },
+  "23063d57ffed94a8360c1be64a7885af": {
+    "is_relevant": true,
+    "reasoning": "The incident involves the application of UK counter-terrorism powers by Police Scotland at a major UK airport, which is a significant matter of public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783717683.250247
+  },
+  "0c7cc37a151eb5005cb62a0761ec7845": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing involving dangerous driving and police action in the UK, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783717693.46476
   }
 }
