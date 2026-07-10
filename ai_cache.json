@@ -14055,5 +14055,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783660173.313273
+  },
+  "737b0ad233264b440232594bc127f582": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal finance feature article rather than hard news; it does not meet the criteria for political, economic, or public interest reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783672924.737075
+  },
+  "50188ed2f4c112f240bf48f671e7d61f": {
+    "is_relevant": false,
+    "reasoning": "This is a historical feature piece regarding a long-discussed potential loan, rather than hard, time-sensitive breaking news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783672933.359709
+  },
+  "2d9392ca66bf42c97211d8bf02208e1f": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal case involving an inquest into an unlawful killing and the systemic failure to identify a repeat sex offender in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783672943.897094
+  },
+  "97da1568700866e9af29ae8deb8313e5": {
+    "is_relevant": false,
+    "reasoning": "The article is a scientific feature about research in Singapore with no direct or material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783672952.328202
+  },
+  "f146079ffda67a65561c1dfb8f46ec05": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/advice article about home cleaning hacks, which falls under the excluded 'fluff' and 'lifestyle' category.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783672962.960772
   }
 }
