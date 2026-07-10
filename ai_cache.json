@@ -14237,5 +14237,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783706549.354137
+  },
+  "52a8737ca7e8722cf69d79ebdbef68f2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a triple murder in the UK and the subsequent international apprehension and extradition process of a suspect.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783713175.223158
+  },
+  "07b776be9d219452b1b7d81f44dcf72d": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about an international athlete's performance in a tennis tournament, which does not meet the criteria for hard news relevant to a UK audience as defined.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783713185.668056
+  },
+  "ab5e639195a698c1a7dd6d466a86acd9": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the activities of the Prince and Princess of Wales, which falls under the Royals category for UK news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1783713195.75153
   }
 }
