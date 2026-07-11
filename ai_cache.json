@@ -14328,5 +14328,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783758585.45699
+  },
+  "c111f55e83c3d947c7e8fb01e3ceaa01": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent, long-serving British national news broadcaster is a significant event of major public interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783768790.131439
+  },
+  "6bd4f2e9a1a92ce11b74c9e41e2e7ef5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal investigation and court proceedings regarding a death in Aberdeen, which falls under UK crime and legal matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783768799.97695
+  },
+  "4540c85a72355bb82c3a90e2d77dcf22": {
+    "is_relevant": true,
+    "reasoning": "This report covers the sentencing of a major drug trafficker at a UK crown court following a significant police operation, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783768808.918519
+  },
+  "2b8e5ee90b9652d18fd0d521a924a762": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal road traffic collision in Northern Ireland involving a police investigation, which constitutes hard crime and legal news relevant to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783768817.805654
+  },
+  "22fce99b543186821f378f55860c40db": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/hospitality story regarding pub licensing hours, which does not constitute hard news or a significant event of national importance for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783768827.673699
   }
 }
