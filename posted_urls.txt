@@ -1,4 +1,3 @@
-2026-07-04T06:35:18.228227+00:00|https://www.bbc.co.uk/news/articles/cnv9p35z866o|the papers storm threat to england match and bid to block miliband|53e0f89501b7cbcecbdefa4880ea7aa9
 2026-07-04T09:09:26.119542+00:00|https://www.bbc.co.uk/news/articles/c5yze5klz4xo|man dies and two injured in crash between coach and van|7e486daccd853bb08450b370d78e1008
 2026-07-04T11:01:43.401801+00:00|https://www.bbc.co.uk/news/articles/c0my24lvgv3o|mp says third day of internet outage disgraceful|ff3372c8b932cd23c0a1d6e22ec2fde0
 2026-07-04T11:01:46.299736+00:00|https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo|pubs and police brace for englandmexico 1am kickoff after fifa uturn|d1d1f3fc9800c5a13baea31ba05c605d
@@ -170,3 +169,5 @@
 2026-07-10T22:17:22.228799+00:00|https://www.bbc.co.uk/news/articles/cx2kzxpy082o|strangulation survivor urges stricter sentencing as crime reports increase|4e3df3a7d2e64708452b71332720ef6e
 2026-07-10T23:30:17.411496+00:00|https://www.bbc.co.uk/news/articles/czrxdnmlk5no|pugnacious charismatic and she always answered the question chris mason on widdecombe|c08fadcc100c2445777e381f1a5172ef
 2026-07-11T01:02:50.928329+00:00|https://news.sky.com/story/its-time-to-do-a-test-bowel-cancer-screening-for-people-in-their-50s-critically-low-nhs-warns-13562325|bowel cancer screening for people in their 50s critically low nhs warns|b40b5e57941dbd6d3eb53bc3eeaf7474
+2026-07-11T06:38:53.615815+00:00|https://www.bbc.co.uk/weather/articles/c621kp4y701o|cooler for some this weekend but heatwave continues|27004c15f72786ccee9ec1d1e2e51253
+2026-07-11T06:38:56.151716+00:00|https://www.bbc.co.uk/news/articles/cql1n6gl273o|people in 50s urged to complete bowel cancer screening|d0255841020c6c1820cd52373ce503d9

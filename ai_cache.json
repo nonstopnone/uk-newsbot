@@ -14300,5 +14300,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783731769.867314
+  },
+  "b03f1e652f004f84d0a2c2a552f6bb2d": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest story concerning the maintenance of a single market in Belfast and does not meet the threshold for high-level national hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783751932.816197
   }
 }
