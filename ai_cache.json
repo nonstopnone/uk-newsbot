@@ -14363,5 +14363,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783768827.673699
+  },
+  "f281ca6ab8e9dc6174a5d13311234ae4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regional news story involving the displacement of residents due to public safety concerns and potential structural failure caused by mining issues, requiring local government intervention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783772951.64589
+  },
+  "4fda9782d987b52ab48b26b7d2b27905": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing emergency incident involving multiple UK public services and police, falling under the category of breaking crime/safety news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783772961.129622
+  },
+  "5e62d2c85416c9b96b790132683710ec": {
+    "is_relevant": false,
+    "reasoning": "This is a historical human-interest feature rather than hard news; it provides historical context for sporting or cultural connections rather than reporting on current political, economic, or legal developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783772971.764954
   }
 }
