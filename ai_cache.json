@@ -14307,5 +14307,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783751932.816197
+  },
+  "c6a6957339a02f3538ffb79bd462f82f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a fatal incident in the UK involving emergency services and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783758566.3591
+  },
+  "c55550e57d95197d563e70a125840d3f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer affairs story involving UK citizens suffering substantial financial loss due to a company liquidation, which is of clear public interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783758574.997096
+  },
+  "03cf8e9f6cc9fdbf3f251b68afdb8b6b": {
+    "is_relevant": false,
+    "reasoning": "This is a historical interest/lifestyle piece about a decommissioned Cold War bunker, not hard news or a current event relevant to contemporary UK governance or society.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783758585.45699
   }
 }

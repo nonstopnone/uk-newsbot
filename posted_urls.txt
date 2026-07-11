@@ -171,3 +171,6 @@
 2026-07-11T01:02:50.928329+00:00|https://news.sky.com/story/its-time-to-do-a-test-bowel-cancer-screening-for-people-in-their-50s-critically-low-nhs-warns-13562325|bowel cancer screening for people in their 50s critically low nhs warns|b40b5e57941dbd6d3eb53bc3eeaf7474
 2026-07-11T06:38:53.615815+00:00|https://www.bbc.co.uk/weather/articles/c621kp4y701o|cooler for some this weekend but heatwave continues|27004c15f72786ccee9ec1d1e2e51253
 2026-07-11T06:38:56.151716+00:00|https://www.bbc.co.uk/news/articles/cql1n6gl273o|people in 50s urged to complete bowel cancer screening|d0255841020c6c1820cd52373ce503d9
+2026-07-11T08:29:46.055066+00:00|https://www.telegraph.co.uk/theatre/what-to-see/best-theatre-shows-plays-book-tickets-london-uk-performances|the best plays and musicals in london and beyond to book in 2026|d50f5d508b7e140baf94585f6f18b474
+2026-07-11T08:29:48.542375+00:00|https://news.sky.com/story/body-of-teenager-recovered-from-greater-manchester-reservoir-during-heatwave-13562461|body of teenager recovered from reservoir|c6a6957339a02f3538ffb79bd462f82f
+2026-07-11T08:29:51.218145+00:00|https://www.bbc.co.uk/news/articles/c3dy7jgx5jno|gutwrenching uk gap year students lose thousands after tour operator closes|c55550e57d95197d563e70a125840d3f
