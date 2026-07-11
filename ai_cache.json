@@ -14426,5 +14426,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783787163.730129
+  },
+  "1d3bae5912c0b5239a95bb2f636b2394": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a fatal accident involving a major cultural event in the UK, which is a matter of public safety and news interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783791058.267641
+  },
+  "3c1f77e2c9021d004dbe1f8fd19ed784": {
+    "is_relevant": true,
+    "reasoning": "This report concerns an ongoing murder investigation involving a former UK government minister, which constitutes significant hard news regarding crime and public security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783791068.469642
   }
 }
