@@ -14454,5 +14454,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783794989.702679
+  },
+  "0e60dd248348f34fea8a3bb57b0325d3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a fatality and police involvement in a part of the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783799553.593002
+  },
+  "d70cd99083856c2d1aac3d281f209c92": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive police incident involving a firearm discharge in the UK, meeting the criteria for crime and emergency reporting.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783799562.826117
   }
 }
