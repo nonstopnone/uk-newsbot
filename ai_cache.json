@@ -14440,5 +14440,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783791068.469642
+  },
+  "20519a21e1ff4a8bd87a3257abed60dc": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the result of a major UK sporting event, the Wimbledon women's singles final, which is highly relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783794981.152682
+  },
+  "025f729413423a7d26e361ed0901d10b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive police incident involving the use of firearms and an ongoing investigation, meeting the criteria for hard news relevant to the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783794989.702679
   }
 }
