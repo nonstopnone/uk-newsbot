@@ -14419,5 +14419,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783782993.257021
+  },
+  "dddb325ac9aa7144083e6f3915b2c9f3": {
+    "is_relevant": false,
+    "reasoning": "This article is a fluff piece highlighting anecdotal, humorous anecdotes about embassy inquiries rather than substantive or actionable news regarding UK government policy or foreign relations.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783787163.730129
   }
 }
