@@ -14391,5 +14391,33 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783778621.924836
+  },
+  "d28c8bb16ac60de38daae58c86f6a266": {
+    "is_relevant": false,
+    "reasoning": "This article is human-interest fluff regarding anecdotal phone calls to embassies rather than substantive news regarding UK governance, security, or serious policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783782966.044731
+  },
+  "7a81ef9926ed38bb92f5a5e12c285b83": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private prize draw win and does not constitute hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783782974.650262
+  },
+  "e2985821c3bacf8fc113cb18f903d7d3": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/fluff piece reporting on anecdotal complaints made to diplomats rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783782983.83244
+  },
+  "ed54b2d236e96a6cbd613740cfc3bd3f": {
+    "is_relevant": false,
+    "reasoning": "This article is classified as entertainment/lifestyle news regarding a music concert broadcast, which does not meet the criteria for hard news or significant public interest as defined for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783782993.257021
   }
 }
