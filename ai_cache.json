@@ -14468,5 +14468,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783799562.826117
+  },
+  "1ec28e94fd3434dad3ad4ba279545a7f": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major result from Wimbledon, which is a significant annual event in the UK sporting calendar.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783803122.23256
+  },
+  "8f6a37187eb322eac5e5b215fd79db72": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and an active police investigation in Wales, falling clearly under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783803131.258948
   }
 }
