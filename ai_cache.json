@@ -14384,5 +14384,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783772971.764954
+  },
+  "c8f57379ac4b3eb77f1cd1ef5c5d81ef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news event regarding a prominent figure in British football history, fitting the criteria for sports news of high public interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783778621.924836
   }
 }
