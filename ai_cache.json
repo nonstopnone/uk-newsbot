@@ -14503,5 +14503,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783845564.445673
+  },
+  "1b992e276f0139a4f23f874cc4da6052": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant event concerning UK border security and immigration figures, which is a core topic for the subreddit.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1783851303.592741
   }
 }
