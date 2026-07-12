@@ -14538,5 +14538,54 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783859948.559364
+  },
+  "981e645483580ab0120b7bf54fb8dc71": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, breaking crime report involving a fatal stabbing and a police investigation in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783865765.638324
+  },
+  "82bf8af80b9c332936b5b42ceae04d58": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding national infrastructure and utilities management, affecting millions of UK households and businesses.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783865774.865018
+  },
+  "ac94077b0284721842e6fb927f768dd8": {
+    "is_relevant": true,
+    "reasoning": "The story involves the death and critical injury of British citizens in a major international incident, which is of significant public interest in the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1783865786.593147
+  },
+  "78b0da838daf3387e4aab2cb1015f0c1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in high-profile professional UK sport regarding the national cricket team coach.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783865796.307798
+  },
+  "6a17003054c77aa2d336525268f95328": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story concerning the death of a television personality, which constitutes celebrity/lifestyle news rather than hard political, economic, or major national news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783865806.014546
+  },
+  "73850bbbab49e6e92063bb460ff0d8a1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder investigation and subsequent charges in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783865816.846516
+  },
+  "98ece02b71de17bf576d055475ca74c1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety alert regarding UK infrastructure and environment, issued by a government body, which directly impacts the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783865827.496288
   }
 }

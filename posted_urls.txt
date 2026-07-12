@@ -178,3 +178,7 @@
 2026-07-12T11:34:31.138357+00:00|https://www.bbc.co.uk/news/articles/c8628q3eqdeo|nothing to suggest widdecombe killing was politically motivated police say|dffb1e82589f18f015f5159126216cd8
 2026-07-12T12:39:09.831729+00:00|https://www.bbc.co.uk/news/articles/cvg7280qwxpo|villagers advised to evacuate due to mountain wildfire|1b04909642b650b1948783d279d021f8
 2026-07-12T12:39:12.316320+00:00|https://www.bbc.co.uk/news/articles/cp9ldn0874po|glasgow protesters wrong to turn up at someones door says reform msp|bd0cca0c303e9c2a1956a8c0d237ed31
+2026-07-12T14:17:08.297472+00:00|https://www.bbc.co.uk/news/articles/cgk6ljx3vv4o|murder arrest as woman stabbed in west london|981e645483580ab0120b7bf54fb8dc71
+2026-07-12T14:17:10.734680+00:00|https://www.bbc.co.uk/news/articles/c78y2w1vlvlo|water company records highest ever level of demand|82bf8af80b9c332936b5b42ceae04d58
+2026-07-12T14:17:13.101411+00:00|https://news.sky.com/story/brendon-mccullum-to-stand-down-as-england-cricket-test-coach-13562804|brendon mccullum to stand down as england cricket test coach|78b0da838daf3387e4aab2cb1015f0c1
+2026-07-12T14:17:15.655379+00:00|https://news.sky.com/story/huge-swathe-of-england-at-risk-of-exceptional-wildfires-this-week-13562781|risk of exceptional wildfires in parts of uk see which areas are affected|98ece02b71de17bf576d055475ca74c1
