@@ -14615,5 +14615,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783889590.671762
+  },
+  "34f6910444a9bb638f0abefadf8ed545": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency incident involving a major fire, large-scale emergency response, and disruption to local infrastructure and transport in London.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783893222.163978
   }
 }
