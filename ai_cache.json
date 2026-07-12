@@ -14587,5 +14587,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783865827.496288
+  },
+  "5ee2d11e1cf60932cc4952ffe0fdfea2": {
+    "is_relevant": true,
+    "reasoning": "The ongoing war in Ukraine and the stability of its government are matters of major strategic and economic importance to the UK, which is a primary donor and ally.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1783878200.863574
   }
 }
