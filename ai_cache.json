@@ -14510,5 +14510,26 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1783851303.592741
+  },
+  "21576f2a51503be8cbc273db7f2e06e4": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting achievement and subsequent fan reaction regarding the national football team's progress in a global tournament, which is a matter of significant public interest in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783856046.002593
+  },
+  "dffb1e82589f18f015f5159126216cd8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving the death of a former high-profile UK politician, which is a matter of clear national public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783856056.351726
+  },
+  "071eae4c59616a2a532cd832383b8403": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a pet rescue that does not constitute hard news or significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783856065.091444
   }
 }
