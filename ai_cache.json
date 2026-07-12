@@ -14489,5 +14489,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783837254.927975
+  },
+  "add34b0665abb6581f9aad804a4e7ed0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and infrastructure report concerning emergency services operations and major incidents during civil celebrations in Northern Ireland.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783845553.536421
+  },
+  "7375964f4a9dcb666227cdfb76a49551": {
+    "is_relevant": false,
+    "reasoning": "This is a historical human interest story regarding a mountaineer who died in 1924, which does not constitute hard news or a current event affecting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783845564.445673
   }
 }
