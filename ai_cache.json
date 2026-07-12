@@ -14622,5 +14622,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783893222.163978
+  },
+  "cc418085eb1f88f71bc1af32eefce5ec": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national in a major international tragedy is a matter of significant interest to the UK public and falls under reporting of UK citizens abroad.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1783900645.223375
   }
 }
