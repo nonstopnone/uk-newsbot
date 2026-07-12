@@ -1,6 +1,3 @@
-2026-07-05T19:51:56.017405+00:00|https://www.bbc.co.uk/news/articles/cn8kkr844kdo|young woman dies in skydiving incident near airfield|9f5ee8ff0af82d03744b3c0745e16983
-2026-07-05T19:51:58.425891+00:00|https://www.telegraph.co.uk/cricket/2026/07/05/women-t20-world-cup-final-live-score-england-australia|england denied lionesses moment after humbling by australia in t20 world cup final|b6e2e0ffe9bdae6239eb2d91ceee0edc
-2026-07-05T19:52:00.825880+00:00|https://www.bbc.co.uk/news/articles/c8e22dnl0nko|catherine shares photos reuniting with family after three peaks challenge|ff1ff2153d77b2fe8503c0fa2590048c
 2026-07-05T21:03:47.583150+00:00|https://www.bbc.co.uk/news/articles/c8925nd4e59o|falsely convicted man who spent £500k clearing his name is rejected for compensation|54d7af7f20ff99286969cf88e364bf9f
 2026-07-05T22:14:44.252633+00:00|https://www.bbc.co.uk/sport/football/articles/clyeegldnmpo|shelterinplace order amid storm at azteca before mexicoengland|f29e86d75a34269a74614d40ee28fa6b
 2026-07-05T22:14:46.918847+00:00|https://www.bbc.co.uk/news/articles/c79yj0g77n2o|benedicts law to overhaul school allergy training|f5b19e66f6df9fb4cc5d64e88b60dcd7
@@ -181,3 +178,5 @@
 2026-07-12T16:35:56.431055+00:00|https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o|ann widdecombe murder probe what we know so far|cb5a46964829019dcec8c686b12878e5
 2026-07-12T17:43:21.439617+00:00|https://www.bbc.co.uk/news/articles/cy8w67l642no|major incident declared in wales as firefighters tackle wildfires across uk|c2a267cfd6de92f7430d623b14747033
 2026-07-12T17:43:23.852302+00:00|https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826|ukraines prime minister stepping down after only a year in zelenskyy reshuffle|5ee2d11e1cf60932cc4952ffe0fdfea2
+2026-07-12T19:52:46.095001+00:00|https://www.bbc.co.uk/news/articles/cq81l5gj54zo|two men die trying to save children in sea|a75440b71542976074615df3005ce788
+2026-07-12T19:52:48.905508+00:00|https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o|england have another level we can reach kane|06b5dd95c401ca804ebdaaa5c9172e8d

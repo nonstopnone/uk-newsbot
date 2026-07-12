@@ -14594,5 +14594,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1783878200.863574
+  },
+  "a75440b71542976074615df3005ce788": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive hard news story regarding a fatal emergency incident in the UK involving local police and emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783885953.835446
+  },
+  "06b5dd95c401ca804ebdaaa5c9172e8d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the England national football team competing in a major international tournament, which is considered significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783885964.055747
   }
 }
