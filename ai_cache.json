@@ -14482,5 +14482,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783803131.258948
+  },
+  "a36dfe2f490d3952926062b871fa37ee": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major upcoming international sporting event involving the England national football team, which is of significant public interest in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783837254.927975
   }
 }
