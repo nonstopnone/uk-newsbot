@@ -14608,5 +14608,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1783885964.055747
+  },
+  "56617012487839742d0c1f9279031f37": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the final of Wimbledon, a major UK sporting event that holds significant national interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1783889590.671762
   }
 }
