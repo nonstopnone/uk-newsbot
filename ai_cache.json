@@ -14825,5 +14825,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783969527.560036
+  },
+  "5a03b72c2ffa076e7ec410ef17c03bda": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal case involving a high-profile prison escape and national security implications. It directly concerns the UK justice system and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783974906.835437
+  },
+  "db6bf72305e474218d36868b9b840145": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant change to UK law regarding deportation powers and involves a high-profile Home Office policy decision.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783974915.917134
+  },
+  "b8fff3f5035b8bf56a9db5d9e9fbd96d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest tragedy involving British citizens abroad rather than hard news concerning UK public policy, security, or national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783974924.909923
+  },
+  "e6685be7befbef2401eeff802da70028": {
+    "is_relevant": true,
+    "reasoning": "This is a significant trade and travel agreement directly impacting UK citizens' travel rights and national economic export projections.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1783974933.600879
   }
 }
