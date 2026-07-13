@@ -14776,5 +14776,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1783957038.784487
+  },
+  "5d175114b05ee939012e50d7b5ed9d49": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and public safety incident involving multiple fatalities in Northern Ireland, falling under the jurisdiction of UK law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783964547.210664
+  },
+  "a3c5a97b13b0e07f1809ad21082ac0b2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile UK criminal case and potential miscarriage of justice, directly involving the Criminal Cases Review Commission and the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783964556.627505
+  },
+  "4443d6c35b6136c1185e1e0bf1c5c554": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on major infrastructure and public transport disruption in a capital city, directly impacting a large number of UK citizens.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783964567.776741
+  },
+  "3ba6fb5909f0b92ce36dbdd9ce3d9f92": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations development affecting major UK cultural infrastructure and the West End economy.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783964576.645563
+  },
+  "ef74af73dc98bf6e06ac5e1c9685022d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a Member of Parliament and allegations of serious criminal misconduct, falling under Crime & Legal and UK politics.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783964587.123502
+  },
+  "2f3f66ac3c057ef53d9b79847c1a266c": {
+    "is_relevant": false,
+    "reasoning": "This story concerns a comment made by a foreign politician regarding a foreign national sports team and holds no material relevance to UK news, politics, or public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783964598.068629
   }
 }
