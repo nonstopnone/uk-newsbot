@@ -14692,5 +14692,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783936839.868064
+  },
+  "3e938e44ebfa68f9f5d4d3522122fb05": {
+    "is_relevant": true,
+    "reasoning": "The proscription of a foreign military entity due to credible threats against individuals on British soil is a matter of significant national security and government policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783946322.609876
+  },
+  "8f1100c104db87eca7923c762ac44bba": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/maritime salvage story that does not meet the threshold for national UK hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783946333.334729
+  },
+  "5fe80e6c90691861740157da34243e45": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a sitting UK Member of Parliament facing a criminal trial, which is a matter of significant public interest and legal importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783946341.344512
+  },
+  "7a746ffb36ccad3120f2b35585f2dbe5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and scientific development taking place within the UK that involves human trials, qualifying as important domestic news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783946351.766242
+  },
+  "4bebb90a6559b1344090e4769d9a1f40": {
+    "is_relevant": true,
+    "reasoning": "This concerns a long-running campaign regarding a significant military aviation incident and the accountability of the Ministry of Defence, which is a matter of clear public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783946360.249872
+  },
+  "ad6370648928fb6a3fc7ccef66211c38": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal stabbing and an active murder investigation within the UK, which constitutes significant crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783946373.728655
   }
 }

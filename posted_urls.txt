@@ -1,6 +1,3 @@
-2026-07-06T10:57:28.330680+00:00|https://www.bbc.co.uk/news/articles/c77yykl87yno|buckingham palace says prince harry will not stay at palace|912493428fee1634991c758f7e0fb26e
-2026-07-06T10:57:30.791744+00:00|https://www.bbc.co.uk/news/articles/c0jyy5w4q2no|uk fighter jets intercept russian plane over norwegian sea|a81165163fed9835ca7eb8f0ca538a59
-2026-07-06T10:57:33.268923+00:00|https://www.telegraph.co.uk/football/2026/07/05/england-vs-mexico-live-score-updates-world-cup-last-16|england produce greatest world cup victory since 1966|f2da6c62652290569cb3820c03db5b61
 2026-07-06T14:32:54.163054+00:00|https://www.bbc.co.uk/news/articles/cjrggzx14r5o|resignations after male councillors vote for rapist taxi driver to keep licence|3e0a9268932fe30ea6b5316265a0895d
 2026-07-06T14:32:56.580375+00:00|https://www.bbc.co.uk/news/articles/cr7xxj7rey5o|inquiries into care of man held after zoo attack|908141b3bd34520f0fb87d7f0bdae810
 2026-07-06T14:32:58.968669+00:00|https://news.sky.com/story/russian-spy-plane-dropped-sonar-trackers-in-path-of-royal-navy-aircraft-carrier-13560985|russian spy plane dropped sonar trackers in path of royal navy aircraft carrier|d676d844d981369592446df00d1a8bf2
@@ -182,3 +179,7 @@
 2026-07-13T10:00:43.132211+00:00|https://www.bbc.co.uk/news/articles/cy8d011pnjxo|girl four dies in hospital after being hit by car|254a3037e195c8c81f113314373303b5
 2026-07-13T10:00:45.882255+00:00|https://www.telegraph.co.uk/financial-services/retirement-solutions/equity-release-service/equity-release-myths-explained|equity release myths explained|c5eb43b18b9cacc349592050b84b1ea2
 2026-07-13T10:00:48.624626+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/the-ugandan-city-at-the-centre-of-the-ebola-vaccine-race|the ugandan city where the race for a new ebola vaccine will be won or lost|af3c9862c0e7d24e3804eb2d7db2cfd8
+2026-07-13T12:39:34.758549+00:00|https://news.sky.com/story/uk-proscribes-irans-irgc-after-threats-to-life-on-british-soil-13563034|a hrefhttpsnewsskycomstorypoliticslatestburnhamstarmerlabourtoriesbadenochfarage12593360postid12050554liveblogbodyuk proscribes irans irgc after threats to life on british soila|3e938e44ebfa68f9f5d4d3522122fb05
+2026-07-13T12:39:37.412474+00:00|https://www.bbc.co.uk/news/articles/c0mydjl12mwo|counter terrorism police take over investigation into ann widdecombes death|4fa6663fe4fe1a66fefed0a32a4d9f3a
+2026-07-13T12:39:39.837652+00:00|https://www.bbc.co.uk/news/articles/cz0jkj7e87go|uk bans support for irans islamic revolutionary guard corps|6a5e09d5396cdd516da3a9c6b8b24fa4
+2026-07-13T12:39:42.403642+00:00|https://news.sky.com/story/human-trials-of-new-ebola-vaccine-set-to-begin-in-uk-13562950|human trials of new ebola vaccine set to begin in uk|7a746ffb36ccad3120f2b35585f2dbe5
