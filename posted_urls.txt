@@ -178,3 +178,7 @@
 2026-07-13T03:44:22.212727+00:00|https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo|uk heatwave to intensify again as it enters second week|c3d047060c9b1c81c60cefbbd149ff02
 2026-07-13T06:40:57.775848+00:00|https://www.bbc.co.uk/news/articles/cp8lde7lrpko|bullying pupils protected more than victims parents say|c450a87a2fc689c3a4af1b06387a1dd6
 2026-07-13T06:41:00.348431+00:00|https://www.bbc.co.uk/news/articles/cg539rdgm23o|twelfth of july celebrations to begin across northern ireland|96b9412c1a25743738ab9b891ebafa38
+2026-07-13T10:00:40.460852+00:00|https://www.bbc.co.uk/news/articles/cy8w61qz873o|uk seeking extradition of triple murder suspect|aaf53c4fed2c21a7fdf4fb697349a8b0
+2026-07-13T10:00:43.132211+00:00|https://www.bbc.co.uk/news/articles/cy8d011pnjxo|girl four dies in hospital after being hit by car|254a3037e195c8c81f113314373303b5
+2026-07-13T10:00:45.882255+00:00|https://www.telegraph.co.uk/financial-services/retirement-solutions/equity-release-service/equity-release-myths-explained|equity release myths explained|c5eb43b18b9cacc349592050b84b1ea2
+2026-07-13T10:00:48.624626+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/the-ugandan-city-at-the-centre-of-the-ebola-vaccine-race|the ugandan city where the race for a new ebola vaccine will be won or lost|af3c9862c0e7d24e3804eb2d7db2cfd8

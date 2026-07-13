@@ -14664,5 +14664,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783924857.105606
+  },
+  "aaf53c4fed2c21a7fdf4fb697349a8b0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation and extradition matter involving a triple murder in the UK, which falls under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783936809.549692
+  },
+  "254a3037e195c8c81f113314373303b5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a fatal road traffic collision and an associated criminal investigation involving a child, which falls under UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783936819.079936
+  },
+  "76479b1a173372f8bc9769e312e5f099": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health and medical development involving the UK regulator and major academic institutions conducting clinical trials.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783936828.974784
+  },
+  "340a229f69b3cd4b2170b894001f2989": {
+    "is_relevant": false,
+    "reasoning": "This is a local business interest story regarding tourism and weather forecasting methods, which does not constitute hard news or a matter of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783936839.868064
   }
 }
