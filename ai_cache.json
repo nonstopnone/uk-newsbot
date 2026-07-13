@@ -14874,5 +14874,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783982371.770839
+  },
+  "ece9e82627d82013cd3f8ba7cb816e8d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the implementation of the UK's Online Safety Act and the regulatory performance of major platforms regarding child protection in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783985812.649911
+  },
+  "ad42ae16f3a49f8fe357d2256608e9b0": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and advice article regarding personal social etiquette, which does not constitute hard news or a matter of public interest for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783985823.956801
   }
 }
