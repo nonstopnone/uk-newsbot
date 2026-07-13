@@ -14629,5 +14629,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1783900645.223375
+  },
+  "c7afa80b23d80c84142c863eb936b468": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant UK political developments regarding a proposed Budget and high-profile criminal investigations, both of which are core to the subreddit's mandate.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783914248.965461
+  },
+  "b9ee82bf50f37a5972a7be220a481084": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the transition of UK leadership, the incoming Prime Minister, and the resulting foreign policy implications for the nation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783914258.885299
   }
 }
