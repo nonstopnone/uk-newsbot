@@ -14643,5 +14643,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783914258.885299
+  },
+  "c450a87a2fc689c3a4af1b06387a1dd6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on school policy and safeguarding concerns within the UK education system, which affects a wide range of parents and public policy.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783924836.070936
+  },
+  "96b9412c1a25743738ab9b891ebafa38": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cultural event within the United Kingdom involving large-scale public gatherings and potential security/policing implications in Northern Ireland.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1783924846.808768
+  },
+  "540d6c57b09fb4e474de8694df51adad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK criminal justice policy and its direct impact on victims' families, specifically regarding government sentencing and release reforms.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783924857.105606
   }
 }
