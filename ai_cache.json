@@ -14860,5 +14860,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783978599.900671
+  },
+  "459cb67d491fde20222cca01650f33af": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the Chief Constable of Police Scotland regarding a major six-month gangland conflict and widespread criminal activity, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783982362.683842
+  },
+  "7f56ef140757a974164263c86da1719a": {
+    "is_relevant": true,
+    "reasoning": "This concerns the ongoing legal and political fallout surrounding a major UK political party and its former leader, which is a matter of significant public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783982371.770839
   }
 }
