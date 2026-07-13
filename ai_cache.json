@@ -14853,5 +14853,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1783974933.600879
+  },
+  "ef58665edd8c3d10c1eb139805434884": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative piece regarding a growing form of technology-facilitated abuse within the UK, involving national charities and domestic safety concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783978599.900671
   }
 }
