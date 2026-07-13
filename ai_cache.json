@@ -14734,5 +14734,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1783946373.728655
+  },
+  "c5fd1cb255ee025d73415c5142229868": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatal stabbing and ongoing court proceedings in London, falling directly under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783956959.378752
+  },
+  "8155c30c413c0c0b807658a9334ac5c7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story concerning UK government personnel, potential legal proceedings regarding civil service employment, and Prime Ministerial decision-making.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783956968.046834
+  },
+  "4a537e30bcd7a88fb332c550baf31e87": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving counter-terrorism operations and the Home Secretary, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1783956977.087892
+  },
+  "6801a2c7085919ce4980b4ad77bbcd35": {
+    "is_relevant": false,
+    "reasoning": "The article is an opinion piece on global health strategy regarding Ebola in the DRC and lacks a specific or material connection to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1783956993.252808
+  },
+  "8c79c1091528b95806fc6208a1f22de4": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the dismissal of a high-ranking civil servant and subsequent legal action involving the UK government and the appointment of the UK ambassador to the US.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783957030.433563
+  },
+  "eb04c419988502ef4bd0d98b16b3da54": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant public safety issue and a fatal incident at a UK beach that has prompted local political action and public debate regarding infrastructure and emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1783957038.784487
   }
 }
