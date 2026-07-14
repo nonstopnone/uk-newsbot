@@ -14923,5 +14923,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784010914.424769
+  },
+  "5ea2ca428852348edc201f68e130144f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation in the UK (Northern Ireland).",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784019324.823166
+  },
+  "5b1e3920f83ec82d5e1980e5d28767ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the UK education system and national policy, which falls under UK politics and social infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784019335.047904
+  },
+  "ddb025ff9ceb2a360b381fd9f25f1f89": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective story regarding an historical case in Australia; it does not constitute current, time-sensitive hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784019346.231163
+  },
+  "bbf5f1f8f63e99433fa2041a82dc4730": {
+    "is_relevant": false,
+    "reasoning": "This story is a human-interest piece about a celebrity interaction and does not constitute hard news relevant to UK politics, economy, or major public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784019356.59397
   }
 }
