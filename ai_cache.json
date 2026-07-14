@@ -15049,5 +15049,33 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1784039120.117086
+  },
+  "8cbd1d5e175e90e4ccfad33e93882e55": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling involving the Ministry of Defence and the judicial system, which directly concerns UK legal and security matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784044685.58128
+  },
+  "62807a2d73b5b719ae69fb0995f03153": {
+    "is_relevant": true,
+    "reasoning": "The article discusses Bank of England policy and inflation trends directly impacting the UK economy, which is a core topic for the subreddit.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784044694.386135
+  },
+  "02c96705d804e3b6eb71f87e70aeebbb": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing court proceedings involving a public figure, which falls under the category of criminal legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784044704.152663
+  },
+  "5fbf2c9500e62ba1daaa15c65f269092": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal development involving a fatal shooting, a police investigation, and a decision by the Crown Prosecution Service.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784044714.290762
   }
 }
