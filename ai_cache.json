@@ -14888,5 +14888,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1783985823.956801
+  },
+  "1bbb51cfcf2c782d7bca2602cbae3b53": {
+    "is_relevant": true,
+    "reasoning": "This concerns UK domestic fiscal policy and the funding of local government, which is a matter of significant public interest and political debate.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1783991079.580175
   }
 }
