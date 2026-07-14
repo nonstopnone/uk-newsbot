@@ -15119,5 +15119,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784058987.724876
+  },
+  "1e2ca4ef847419f41fc43a37feff8728": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major environmental incident and evacuation in the UK that required emergency response from police and fire services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784067179.719068
   }
 }
