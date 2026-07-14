@@ -15028,5 +15028,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784031415.705892
+  },
+  "458594450faf8bcab8916ab66a1f7b3c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety issue involving building regulations and housing safety in a major UK city, which falls under UK infrastructure and safety news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784039099.358339
+  },
+  "63b94bd78b3acfddf2ec8c126af54c29": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving a murder conviction and sentencing, which falls under serious national news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784039110.388212
+  },
+  "9a82874f72e8c565657f24b956a170e0": {
+    "is_relevant": true,
+    "reasoning": "The death of British nationals in a major international disaster is a matter of significant UK public interest involving the Foreign Office and UK families.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784039120.117086
   }
 }
