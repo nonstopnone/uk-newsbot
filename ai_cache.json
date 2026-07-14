@@ -15091,5 +15091,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784049803.516134
+  },
+  "88a924dd573eba2a6eb3f57256be8be7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government announcement regarding national security, infrastructure resilience, and public emergency preparedness, which directly concerns UK citizens.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784054415.155734
+  },
+  "223051f16ef9233a4baddf889fe99a5e": {
+    "is_relevant": false,
+    "reasoning": "This article concerns entertainment industry news and media production status, which falls under lifestyle and culture industry reporting rather than significant hard news relevant to UK governance or national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784054426.003857
+  },
+  "6ee04b425fa6d1c11959891b8d4ca36b": {
+    "is_relevant": true,
+    "reasoning": "This is significant national news regarding climate, infrastructure, and public health impact across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784054434.000116
   }
 }
