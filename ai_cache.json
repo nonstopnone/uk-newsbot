@@ -15077,5 +15077,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784044714.290762
+  },
+  "e5064af47932d36d3129d34ebec9d9b9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and transport disruption affecting a major UK city during its busiest period of the year.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784049792.540109
+  },
+  "c463f6de81ebef601f50d45818423ef1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and defence development directly concerning the UK's preparedness for potential conflict.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784049803.516134
   }
 }
