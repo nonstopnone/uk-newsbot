@@ -1,6 +1,3 @@
-2026-07-07T20:15:47.857227+00:00|https://www.telegraph.co.uk/cricket/2026/07/07/england-vs-india-live-score-latest-third-t20|england humiliate woeful india with 125run victory in third t20|a5bd9e1192b627e1c0c56f2c625cce34
-2026-07-07T20:15:50.266099+00:00|https://www.bbc.co.uk/news/articles/ckg5v6n29g6o|harrys bad news lands at wrong time but prince sticks to script|ea780dfeacd055a83136a55a9bb053c7
-2026-07-07T20:15:52.637112+00:00|https://www.bbc.co.uk/news/articles/c1my1g29gk7o|chris mason farage attempts to seize back the agenda after finance row|31e611f7567d2f1e4a4717e5c76ff837
 2026-07-07T21:46:06.577686+00:00|https://www.bbc.co.uk/news/articles/c0ly51kzdz3o|farage resigns as mp and vows to fight byelection amid finances row|55e1b43bccd4d36d61f9d4844bd8e228
 2026-07-07T21:46:09.525599+00:00|https://www.bbc.co.uk/news/articles/c0jylnl1ldeo|tributes to teenager who died during duke of edinburgh expedition|f84baa5b4228c943d705d0446b762fda
 2026-07-08T00:12:24.657129+00:00|https://www.bbc.co.uk/news/articles/ckg888vpz4do|extreme marine heatwave expected for parts of uk|a96d063bc1f2f8437cb58a23cbb99eb9
@@ -204,3 +201,4 @@
 2026-07-14T18:40:42.904893+00:00|https://news.sky.com/story/british-weather-uk-has-more-days-above-30c-this-year-than-1976-with-no-significant-rain-forecast-this-week-13563472|uk has more days above 30c this year than 1976 with no significant rain forecast this week|6ee04b425fa6d1c11959891b8d4ca36b
 2026-07-14T19:56:29.086325+00:00|https://www.bbc.co.uk/news/articles/c33y3rxezxdo|starmer becomes first uk pm to receive top french honour|43cf7742fa0852bb3beb93dfd26a6ab8
 2026-07-14T19:56:31.497535+00:00|https://www.bbc.co.uk/news/articles/c9q2qwnvd75o|starmer and burnham hail hillsborough law as mps give approval|a5f937832f7266793d5a8df27ed0c400
+2026-07-14T21:04:20.081387+00:00|https://www.bbc.co.uk/news/articles/c0ryr74zjzvo|police say ann widdecombe killed in targeted attack as motive investigated|30cd3867ad7f5adbb459002fbdf11658
