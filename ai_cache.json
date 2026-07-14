@@ -15112,5 +15112,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784054434.000116
+  },
+  "43cf7742fa0852bb3beb93dfd26a6ab8": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant diplomatic event involving the serving UK Prime Minister and his contributions to European security and international relations.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784058987.724876
   }
 }
