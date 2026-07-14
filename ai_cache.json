@@ -15126,5 +15126,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784067179.719068
+  },
+  "ad36ecc5b4a237893cf36b7d24490fef": {
+    "is_relevant": false,
+    "reasoning": "This is a feature-style science/climate analysis piece rather than a report on a specific, time-sensitive breaking news event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784070778.651831
   }
 }
