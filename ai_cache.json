@@ -14909,5 +14909,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784002680.672683
+  },
+  "3d1731fdbb2a4d29e8cacd8397f712ae": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving a major counter-terrorism operation, multiple arrests, and the forced closure of a large public gathering.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784010906.192493
+  },
+  "55a363d545edabdf3d03f94d1c93507a": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the safety of UK politicians and the involvement of counter-terrorism police, which is a matter of high public interest and constitutional importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784010914.424769
   }
 }
