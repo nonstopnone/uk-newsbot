@@ -14951,5 +14951,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784019356.59397
+  },
+  "70f33560ad6b3e207117ee770843dce3": {
+    "is_relevant": true,
+    "reasoning": "This is a major, time-sensitive national security and criminal investigation involving a prominent former UK politician and counter-terrorism police involvement.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784026164.077869
+  },
+  "0994f12faaea02038d37133308e6b7ba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory action regarding critical UK infrastructure and consumer protection, directly affecting a large number of UK households.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784026173.11763
+  },
+  "e516a5b5d760f00a5c414e189d59a220": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, tragic domestic news event involving a loss of life and a subsequent call for a public safety review by local government representatives.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784026184.005856
+  },
+  "acef4b51cbedd25c2c780d170ec34807": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news story regarding a fatal transport infrastructure accident and the ongoing official inquest process.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784026193.026837
+  },
+  "17f9810bcb05870bfbe7ef2fc5c2bce5": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff piece about a novelty stunt and does not constitute hard news or material importance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784026202.982027
+  },
+  "0664452e0c044e3461c805d8ecc26e89": {
+    "is_relevant": true,
+    "reasoning": "The case concerns the murder of a British national, a high-profile investigation with significant historical and ongoing interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784026213.601288
   }
 }
