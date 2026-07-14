@@ -14895,5 +14895,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1783991079.580175
+  },
+  "b837bd77c45061f13c52627e7c3517b0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cold case involving the murder of a British citizen that remains a matter of high public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784002669.186503
+  },
+  "dce0197704058060dbd8f6aad2c3891a": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant ongoing public inquiry into the conduct of British special forces, which is a matter of major public interest and legal accountability in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784002680.672683
   }
 }
