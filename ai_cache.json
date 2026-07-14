@@ -14993,5 +14993,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784026213.601288
+  },
+  "424e7539e80b264992d6847c9a1f68cc": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a pioneering medical programme led by a UK-based NHS Foundation Trust, making it a matter of significant interest regarding UK international medical cooperation and public health resources.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784031375.484623
+  },
+  "a29dd25feb98bdae42326d6993014325": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a police investigation into the financial conduct of a major political campaign group, which is a matter of significant public interest and legal scrutiny within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784031385.505844
+  },
+  "51097a93aa869f43db4e8957b40f6578": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal case involving a fatal incident and criminal charges at a London school, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784031396.132203
+  },
+  "b82ac3419667a76051a58ffd4a9146f0": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal case involving a police officer facing serious charges in a UK court, which is highly relevant to UK public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784031407.094974
+  },
+  "9e1da80f7506a7577882bac0d56fe517": {
+    "is_relevant": true,
+    "reasoning": "This concerns an ongoing police investigation into the finances of a major UK political party and the former First Minister of Scotland, which is a matter of significant public interest and legal relevance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784031415.705892
   }
 }

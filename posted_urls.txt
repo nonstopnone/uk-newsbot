@@ -189,3 +189,7 @@
 2026-07-14T10:50:14.431312+00:00|https://www.bbc.co.uk/news/articles/cwyey14r4wzo|wildfires burn across uk as fire chiefs warn of extreme pressure|2cbd3ba89d3e9d59ef500358dc213c7f
 2026-07-14T10:50:17.041163+00:00|https://www.bbc.co.uk/news/articles/c5yzyr3np8xo|police continue to question suspect over ann widdecombe murder|70f33560ad6b3e207117ee770843dce3
 2026-07-14T10:50:19.678583+00:00|https://news.sky.com/story/australian-police-release-unseen-photos-25-years-after-british-backpacker-peter-falconios-murder-13563240|unseen photos released 25 years after british backpackers murder|0664452e0c044e3461c805d8ecc26e89
+2026-07-14T12:16:56.523151+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/ebola-outbreak-threatens-to-halt-kidney-transplant-programm|ebola outbreak threatens to halt pioneering ukbacked kidney transplant programme|424e7539e80b264992d6847c9a1f68cc
+2026-07-14T12:16:59.090016+00:00|https://www.bbc.co.uk/news/articles/cp8r8l84p8yo|amnesty regret over criticism of jk rowlings sexual violence support centre|52d9dc0b14ef0af2a8ca1af67e1a6e86
+2026-07-14T12:17:01.817362+00:00|https://www.bbc.co.uk/news/articles/czrxrv3y13go|yes scotland hands accounts to police after missing £15m complaint|a29dd25feb98bdae42326d6993014325
+2026-07-14T12:17:04.541257+00:00|https://news.sky.com/story/nicola-sturgeons-statement-to-police-on-snp-finances-will-not-be-released-says-lawyer-13563306|sturgeons statement to police on snp finances will not be released says lawyer|9e1da80f7506a7577882bac0d56fe517
