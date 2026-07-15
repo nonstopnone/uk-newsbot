@@ -15133,5 +15133,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784070778.651831
+  },
+  "55d9678e7833477a9cc6631bffe207d7": {
+    "is_relevant": true,
+    "reasoning": "The death of seven British nationals in a major international disaster is a matter of significant public interest and involves the Foreign, Commonwealth & Development Office.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784074047.153181
+  },
+  "c1b492f62793126bf773c52a23a8ab49": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a Competition and Markets Authority (CMA) intervention regarding domestic fuel pricing and consumer compensation, which is a matter of UK economic regulation and consumer rights.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784074057.961688
   }
 }
