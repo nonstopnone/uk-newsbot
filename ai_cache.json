@@ -15182,5 +15182,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784095212.404049
+  },
+  "f71c11caa7ae8e5e99d262f3064ba1e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic and infrastructure story concerning the UK's largest water provider, impacting millions of customers and involving government regulatory intervention.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784104238.174955
+  },
+  "f6de9702d9ee5e4970a5a6656e9c702b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing emergency incident in the UK involving multiple emergency services and a related criminal arson charge.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784104248.578588
+  },
+  "f8fbe9583e9b72943789905544ab5129": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on NHS service innovation and emergency response protocols in Wales, which is a matter of clear public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784104260.022233
   }
 }
