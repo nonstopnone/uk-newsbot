@@ -1,7 +1,3 @@
-2026-07-08T11:19:18.785844+00:00|https://www.bbc.co.uk/news/articles/c4gyxxw17ego|man dies in sas endurance event in national park|5c35b984d36b06b8cfff07b85a3177c9
-2026-07-08T11:19:21.199793+00:00|https://www.bbc.co.uk/news/articles/cgmdkk8r472o|millions awarded in compensation for 1992 uvf pub attack|b12df46952b906c7ababa6b79b7760b7
-2026-07-08T11:19:23.520039+00:00|https://news.sky.com/story/highways-worker-dies-in-m23-crash-near-gatwick-airport-with-van-driver-arrested-13561573|driver arrested after highways worker hit by van near gatwick airport|a8c917ea9d79763e4a8b2c5f6d48b51a
-2026-07-08T11:19:25.861084+00:00|https://news.sky.com/story/younger-children-now-able-to-use-passport-e-gates-13561560|younger children now able to use passport egates|8416534a5f63df92486477ddc49d11a6
 2026-07-08T13:07:46.176024+00:00|https://www.bbc.co.uk/news/articles/c39yex3v1ryo|neonazi who planned gun attack jailed after mi5 sting|89ff2c668fc9b9949b6a529f6c71ee4a
 2026-07-08T13:07:48.552255+00:00|https://www.bbc.co.uk/news/articles/c8e2njxnn7jo|police name man wanted over murders of wife and daughters|d114674facd0b8473b312e6a04fb30e8
 2026-07-08T13:07:50.969419+00:00|https://news.sky.com/story/last-woman-hanged-in-the-uk-granted-conditional-pardon-13561639|a hrefhttpsnewsskycomstorypoliticslatestburnhamstarmerlabourtoriesbadenochfarage12593360postid12020517liveblogbodylast woman hanged in the uk granted conditional pardona|2ce4678c6563ad46c017a1ae093ac5a2
@@ -206,3 +202,6 @@
 2026-07-15T10:29:14.349793+00:00|https://www.bbc.co.uk/news/articles/c9929dg5l5lo|travellers warned of methanol poisoning risks in new campaign|eb1a9152bebda9f2a9fed593e62df2c3
 2026-07-15T10:29:16.806789+00:00|https://www.bbc.co.uk/news/articles/cz0j05ymz2yo|dup leader promises robust review into donaldsons time in the party|9599c44276c2461f847bb0a0f1860171
 2026-07-15T10:29:19.473005+00:00|https://news.sky.com/story/british-illegal-immigrant-in-international-criminal-organisation-shot-dead-in-us-13563609|british illegal immigrant in international criminal organisation shot dead in us|731010623373b8dda6c73e7faef50843
+2026-07-15T12:03:32.412110+00:00|https://www.bbc.co.uk/news/articles/ce8k8rj7j1jo|vigil to be held in ballymena after three deaths at house|399005cf92b67895bc4a5aeb5e4d4cc3
+2026-07-15T12:03:35.021746+00:00|https://news.sky.com/story/gibraltar-ushers-in-new-era-as-british-territorys-border-fence-with-spain-removed-13563633|gibraltar ushers in new era as british territorys border fence with spain removed|2d6c550158c248a56be425531d174f5c
+2026-07-15T12:03:37.600455+00:00|https://www.bbc.co.uk/news/articles/c1mymg9jpj4o|the tinder clinicians wales way of dealing with ambulance calls attracts global attention|f8fbe9583e9b72943789905544ab5129

@@ -15224,5 +15224,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784111353.726201
+  },
+  "399005cf92b67895bc4a5aeb5e4d4cc3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation and multiple deaths in Northern Ireland, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784116992.761683
+  },
+  "8729ec07f9838d7163f3f507a3791607": {
+    "is_relevant": false,
+    "reasoning": "This is a product review and lifestyle recruitment solicitation, which falls under the category of fluff and consumer marketing rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784117001.425742
+  },
+  "2d6c550158c248a56be425531d174f5c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant geopolitical development involving a British Overseas Territory and a treaty between the UK and EU, which materially impacts UK border policy and sovereignty.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784117011.202293
   }
 }
