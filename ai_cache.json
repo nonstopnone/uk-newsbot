@@ -15203,5 +15203,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784104260.022233
+  },
+  "eb1a9152bebda9f2a9fed593e62df2c3": {
+    "is_relevant": true,
+    "reasoning": "This is a government-led public safety campaign warning UK citizens about a significant health risk abroad, which qualifies as relevant public interest news.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784111332.603116
+  },
+  "9599c44276c2461f847bb0a0f1860171": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the internal review of a major political party in Northern Ireland following the criminal conviction of its former leader, which is a matter of significant public interest and political relevance in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784111342.639018
+  },
+  "731010623373b8dda6c73e7faef50843": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the death of a British national involved in an international criminal organization, which constitutes significant crime news involving a UK citizen abroad.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784111353.726201
   }
 }
