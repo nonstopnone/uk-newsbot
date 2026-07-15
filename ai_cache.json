@@ -15343,5 +15343,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784136043.688382
+  },
+  "bcf2d5c28e80888722d6dfb1aa19dbf1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and security matter involving a terrorism charge and a direct threat to domestic religious infrastructure in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784140725.921007
+  },
+  "1c1402ee3b70a805d5323714b49ba77c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court verdict regarding a conviction for manslaughter, which falls under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784140734.55049
+  },
+  "eb0d34568202d1a3b88f581421289c90": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning the Ministry of Defence and the treatment of UK military personnel, falling under national security and public administration.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784140746.067902
   }
 }
