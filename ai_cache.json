@@ -15364,5 +15364,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784140746.067902
+  },
+  "8329458281c80f18ca510c44427ffcbf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction by the National Crime Agency involving large-scale fraud against the UK public sector during the pandemic.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784145124.450134
+  },
+  "92e010a2e5f4b912ec56c83883b1e8d7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving a terror charge and a threat to domestic religious infrastructure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784145133.616969
+  },
+  "c69e60ce9e968f6aa137b230dc5a6f79": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK criminal sentencing involving fraud by misrepresentation, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784145145.426914
   }
 }
