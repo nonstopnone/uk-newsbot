@@ -15385,5 +15385,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784145145.426914
+  },
+  "10f5bcaf94ff415717ee93a09e9f4049": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy decision by a UK government department (Defra) regarding environmental protection and animal welfare on public land, which is a matter of national interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784149367.22943
+  },
+  "b7b08ba0bd250de4f59ceb058e48169a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK-based legal and public interest story regarding the abuse of a minor by a headteacher and the subsequent handling of compensation claims by a public body.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784149376.805681
   }
 }
