@@ -1,4 +1,3 @@
-2026-07-08T12:52:15.674066+00:00|https://www.bbc.co.uk/news/articles/cj4gpx7rlj5o?at_medium=RSS&at_campaign=rss|'Forgotten' host Canada's unforgettable World Cup|adf5bab594795807eb9eaa86bdc78cab
 2026-07-08T16:45:28.510928+00:00|https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss|Arizona toddler found alive in hospital morgue after declared dead from drowning|df6cea653ce4943fc3d1b649c59c0018
 2026-07-08T18:09:20.906664+00:00|https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss|Judge orders Trump's $5m damages be released to E Jean Carroll|d885cc8b50ee404d4f1523bd113150ae
 2026-07-08T19:53:16.466118+00:00|https://www.bbc.co.uk/news/videos/c4gyxgyn174o?at_medium=RSS&at_campaign=rss|New footage shows first look at Ernest Shackleton's final ship Quest|8a3257da09b8ee23a7efcb68bba02718
@@ -30,3 +29,4 @@
 2026-07-14T21:07:59.934305+00:00|https://news.sky.com/story/protest-over-killing-of-driver-by-ice-officer-in-us-13563510|Protest over killing of driver by ICE officer in US|9871614aa5f34362a882a1216fe33c27
 2026-07-15T11:16:30.693978+00:00|https://news.sky.com/story/british-illegal-immigrant-in-international-criminal-organisation-shot-dead-in-us-13563609|British illegal immigrant in 'international criminal organisation' shot dead in US|fc46aba548492d1b8bb80d76d9d2f2ab
 2026-07-15T11:16:36.429125+00:00|https://www.bbc.co.uk/news/articles/cwylyzvy444o?at_medium=RSS&at_campaign=rss|One dead and three missing after boat sinks near Alcatraz|4980c1d70c2224b90075bcf09193f64d
+2026-07-15T12:52:55.980650+00:00|https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss|US Congress takes next step to make daylight saving time permanent|f647251876907996c94c075a4b644bf1
