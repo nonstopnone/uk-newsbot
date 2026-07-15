@@ -15147,5 +15147,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784074057.961688
+  },
+  "b9b5ab5e35bd19e72fdbd59a83977c20": {
+    "is_relevant": true,
+    "reasoning": "The report concerns a major national shift in climate patterns that directly impacts UK infrastructure, public safety, and government policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784086551.059592
+  },
+  "41180a81f4a42bf8842b6bacd4e7ab82": {
+    "is_relevant": true,
+    "reasoning": "This is significant UK financial regulation news affecting consumer protection and the credit market, impacting a large portion of the UK public.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784086561.694238
   }
 }
