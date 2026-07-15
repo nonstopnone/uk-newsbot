@@ -15308,5 +15308,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784130731.010251
+  },
+  "38da4bdc59b735587924cf2a1ad64f50": {
+    "is_relevant": true,
+    "reasoning": "The arrest of an individual for threatening a high-profile UK political figure constitutes a significant crime and security matter.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784136002.906927
+  },
+  "7c20d2d10ec7323c4ceb35722d5806ea": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a public health crisis in Bangladesh that does not materially affect the UK or involve UK policy, infrastructure, or citizens.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784136012.166676
+  },
+  "5b858d81535ca9b6f1b8a35d9e8574f3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal and crime story involving a high-profile murder conviction review and an upcoming coroner's inquest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784136022.493054
+  },
+  "441942fd7fd260420a145d3d85a0c12a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major fraud investigation and the arrest of a UK-based suspect, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784136033.50135
+  },
+  "43dfbfdc2c23511dc751f2d4cbe27b50": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature piece regarding a sailing competition, which falls under lifestyle/soft news rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784136043.688382
   }
 }
