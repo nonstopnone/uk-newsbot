@@ -15399,5 +15399,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784149376.805681
+  },
+  "4419f08c0ff23acc076a744a27a7fa19": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal criminal trial and sentencing within the UK court system, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784153606.259903
   }
 }
