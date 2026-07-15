@@ -15161,5 +15161,26 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784086561.694238
+  },
+  "d969696ebec40f148e1216f22939ac34": {
+    "is_relevant": true,
+    "reasoning": "This concerns the detention of British citizens by a foreign state, which is a matter of significant diplomatic and consular interest to the UK government and public.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784095191.686381
+  },
+  "5b970fa9fec8537d114cd7317bad435d": {
+    "is_relevant": true,
+    "reasoning": "This concerns the detention and sentencing of a British national by a foreign state, which is a matter of significant international concern and consular involvement for the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784095201.731572
+  },
+  "20588e5866097fc1420672b42f2a82e9": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/consumer advice piece about home appliance maintenance, which falls under prohibited content types like product guides and lifestyle tips.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784095212.404049
   }
 }
