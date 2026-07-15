@@ -15245,5 +15245,33 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1784117011.202293
+  },
+  "b159016b9698ca2d3db31294f25e226d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving serious charges brought by the Crown Prosecution Service in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784124643.186958
+  },
+  "8cd6881c23eefbf27358e414c5f524b0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a serious crime and subsequent sentencing at a UK court, which is highly relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784124653.506592
+  },
+  "637075dd28684bf26523396cbbd9b3f5": {
+    "is_relevant": true,
+    "reasoning": "This article concerns proposed structural reforms to the House of Lords and fulfills a government manifesto commitment, making it highly relevant to UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784124664.042747
+  },
+  "24d38e57119744610621d3a46fcb1cf9": {
+    "is_relevant": false,
+    "reasoning": "Weather reports regarding temperature changes are considered lifestyle/general information rather than hard news concerning UK politics, economy, or critical infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784124675.786353
   }
 }
