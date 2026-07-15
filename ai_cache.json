@@ -15273,5 +15273,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784124675.786353
+  },
+  "327bf6a8b7715092728a3eeaa9f47e01": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news story regarding the arrest of an individual for threatening a high-profile politician, involving the Metropolitan Police and counter-terror investigation procedures.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784130691.882654
+  },
+  "0408e7958125308c9a3d7d0739aee632": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant event in Westminster involving the Prime Minister and opposition leaders during Prime Minister's Questions, which is a matter of core UK political relevance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784130701.608847
+  },
+  "1e32e79f895619c07c70e9253424d627": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a high-profile public figure, potential legal implications of defamation, and wider societal tensions concerning anti-immigration demonstrations in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784130710.438348
+  },
+  "cd79410003fa153c805470a4c5f8350c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant coroner's report regarding a high-profile UK public figure and concerns public health and safety in professional sports.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784130720.025163
+  },
+  "9b08dd82ea6f2095dfcf0c5c9b1f0b93": {
+    "is_relevant": true,
+    "reasoning": "This relates to new government guidance on public infrastructure and equality policy, which is a significant matter of domestic public policy affecting the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784130731.010251
   }
 }
