@@ -5756,10 +5756,10 @@
   },
   "6a28295682a956dfce15b4a77f9348af": {
     "is_relevant": false,
-    "reasoning": "This is a sports betting service and tips column, which falls under the prohibited category of sports previews and fluff.",
+    "reasoning": "This is a sports betting service and tips column, which falls under the excluded category of sports previews and non-hard news content.",
     "flair": "",
     "provider": "Gemini",
-    "timestamp": 1783348372.324109
+    "timestamp": 1784227323.404905
   },
   "e3aea2be962d38d61d7630520d680f43": {
     "is_relevant": false,
