@@ -15665,5 +15665,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784222854.848762
+  },
+  "e162f795067a6ca4652895ff1b434c5c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government policy announcement regarding public health and legislation in England, which falls under UK politics and infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784231257.09333
   }
 }
