@@ -15525,5 +15525,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784198754.14632
+  },
+  "3bae8993cdba27f7f8b040ee40154cba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency services event involving a major UK national park, which falls under public safety and national infrastructure impact.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784203880.003963
+  },
+  "3d3ca9622ca5460a8726e60088661e7d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding institutional failure and potential criminal misconduct within the UK's domestic security service, which is a matter of high public interest and constitutional concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784203889.233384
+  },
+  "e53ef820f2926505fd33378663ff3194": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning potential failures in NHS primary care delivery and an ongoing inquest, which is a matter of clear public interest regarding UK infrastructure and health services.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784203898.876901
+  },
+  "5f7db9668fb35c095a6689ad66008870": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and criminal investigation involving a former UK MP and an arrest by police, which qualifies as hard news relevant to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784203909.904094
   }
 }
