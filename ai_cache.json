@@ -15420,5 +15420,26 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784160785.795521
+  },
+  "753c617fcf4dff9e15ecb0bbff20fb61": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and health feature article rather than hard news concerning UK politics, policy, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784173293.053653
+  },
+  "6ea6e40da87425476ca8d8a71f7fa53e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant update to NHS screening policy in England, which is a matter of public health interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784173302.274529
+  },
+  "70e132a774321a5afb9df1b30e9a0f5a": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and business-interest piece regarding social media marketing trends rather than hard news, political, or economic policy affecting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784173311.58824
   }
 }
