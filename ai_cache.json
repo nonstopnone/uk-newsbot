@@ -15553,5 +15553,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784203909.904094
+  },
+  "b5b59adf9e4730f099d9cf008186be1f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy recommendation from UK experts regarding the NHS and national vaccination strategy, which directly impacts public health and government spending.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784211886.230604
+  },
+  "84cb2bda10f4f14d373c722e37054e47": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding the Royal Family's casual activities rather than significant news; it falls under lifestyle/soft news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784211896.904648
   }
 }
