@@ -15406,5 +15406,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784153606.259903
+  },
+  "91499a604f1aea889239cd9b40e00960": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major sporting result involving the England national team, which is of significant interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784160775.378948
+  },
+  "8198d0be1b32fb4826c49cde72fad616": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic indicator concerning the cost of living for a large portion of the UK population.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784160785.795521
   }
 }
