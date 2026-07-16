@@ -15714,5 +15714,19 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1784240167.804442
+  },
+  "86db3dae81d5ef65baf8626fd96a4e78": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a serving Prime Minister is a major event in UK politics with significant national implications.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784244355.424159
+  },
+  "b8964bb198a85922539837954c407340": {
+    "is_relevant": false,
+    "reasoning": "This is a feature/human interest story about a historical archaeological discovery; it does not constitute hard news or a current event of significant public importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784244364.626307
   }
 }
