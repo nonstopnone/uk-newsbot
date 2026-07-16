@@ -15672,5 +15672,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784231257.09333
+  },
+  "0a707b84ae53232c05e6ba68060ce141": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the outcome of a major England international cricket match, which qualifies as UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784235747.391236
+  },
+  "c428100d2fa21368176c7ba2775b5200": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a fatal incident and an active police investigation in Belfast, which falls under UK regional crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784235757.091578
+  },
+  "c1cd2223c85a9171c9756c4645ebfc2e": {
+    "is_relevant": true,
+    "reasoning": "This article covers a major UK-based sporting event (The Open) involving a high-profile athlete, which falls under sports news relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784235766.117427
   }
 }
