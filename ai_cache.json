@@ -15441,5 +15441,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784173311.58824
+  },
+  "04d2491dfb5cc6509e3957802afb594f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident involving public safety, evacuation of residents, and major infrastructure in a UK National Park.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784181926.232906
+  },
+  "2dc55b0942b473e68a1e10450afb2647": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory action by a UK government body concerning the digital safety of minors, which is a matter of major public interest and policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784181935.708478
+  },
+  "fbd2258b804fd5d77eb59d240422b529": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant criminal court case involving a murder trial in Southampton, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784181946.57737
+  },
+  "808fabcffb5989315c659dac625025c8": {
+    "is_relevant": true,
+    "reasoning": "This is significant UK political news involving a high-level diplomatic visit by the Prime Minister and the long-term foreign policy strategy of the UK government.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784181956.834663
   }
 }
