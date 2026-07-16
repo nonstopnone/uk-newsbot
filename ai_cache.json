@@ -15693,5 +15693,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784235766.117427
+  },
+  "ed2e6171c2da9502d352dab66635cf6b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major upcoming international sporting event hosted in a UK city, which involves significant infrastructure and public interest implications for Scotland and the wider UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784240146.700771
+  },
+  "af57c789c297eee4fbcd7821e647da2c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case regarding identity theft and harassment occurring within the UK, involving a court-ordered compensation settlement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784240158.034451
+  },
+  "11dc3926a36b71f6126ded6b010b5e9c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and immigration matter involving the Home Office and the integrity of the UK's immigration removal system.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1784240167.804442
   }
 }
