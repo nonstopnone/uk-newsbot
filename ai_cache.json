@@ -15567,5 +15567,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784211896.904648
+  },
+  "57f0dc5fa51170f7d05264467876cbe9": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a high-profile murder investigation involving a former UK MP and a counter-terrorism investigation in Devon, which is a significant matter of public interest and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784217436.193759
+  },
+  "3962159e629ed8c7a89cc6bcf1ef8e1a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving a death and a conviction in the Scottish High Court, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784217446.808843
+  },
+  "f66e100495c80e0c36a73aa89347fd56": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing murder trial at the Old Bailey involving a serious crime in London, which falls squarely under UK criminal and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784217456.700558
+  },
+  "8c4fa61d385aaa792a511d0c56103212": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on climate adaptation strategies in India and does not have a material impact on the UK or specific relevance to domestic UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784217465.046698
+  },
+  "c6fb79fb90b5e978b4fbf823f6ca8ec6": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding the Royal Family's social activities rather than hard news, and includes a fluff-style lifestyle segment at the end.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784217473.846534
   }
 }
