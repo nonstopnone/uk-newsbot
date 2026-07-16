@@ -15469,5 +15469,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784181956.834663
+  },
+  "ea18b4358842d02cd2824d594a66e263": {
+    "is_relevant": true,
+    "reasoning": "The article reports on official ONS data regarding UK GDP growth, which is a primary indicator for the national economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784190912.148353
+  },
+  "bcd86e74520bd9e7b526febc9aa70958": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the England national football team's performance in a major international tournament, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784190922.201907
+  },
+  "b5be04094ec38d7345214ebaf2a05873": {
+    "is_relevant": true,
+    "reasoning": "The article reports on official UK GDP figures and high-level government personnel changes at the Treasury, which are core economic and political news.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784190932.520487
+  },
+  "ac96cdbbfde298c1f45a8ac6d70a8ba7": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about gardening and does not constitute hard news or meet the criteria for UK political, economic, or security significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784190941.536878
+  },
+  "3d0abc05a93ed34da892b37f2ae396e3": {
+    "is_relevant": true,
+    "reasoning": "The nationalisation of a major industrial company is a significant event concerning the UK economy and government infrastructure policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784190952.539516
   }
 }
