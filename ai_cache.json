@@ -15504,5 +15504,26 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784190952.539516
+  },
+  "14436880a7e0ca3cc52872fb66c341b0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy development involving the Department of Health and the introduction of new screening procedures for the NHS in England.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784198733.385003
+  },
+  "581db7158d5055c869fe439003e2ab34": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory action by a UK government body regarding online safety and the Online Safety Act, which directly impacts UK citizens and digital policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784198743.34224
+  },
+  "6cdb714154133d066c0000e4c6398e58": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and domestic safety matter involving an ongoing police and court situation within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784198754.14632
   }
 }
