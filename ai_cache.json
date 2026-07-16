@@ -15602,5 +15602,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784217473.846534
+  },
+  "605baa93c2ebd2fbf9f8bbceebe6f8b0": {
+    "is_relevant": true,
+    "reasoning": "The nationalisation of a major UK industrial site represents significant government intervention in the domestic economy and infrastructure.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784222764.608366
+  },
+  "d7679c57c94fce0c12dddc80029455c8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and health issue involving NHS resources and legal compliance regarding e-scooters in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784222774.973926
+  },
+  "e39a8f813e37dea25e0a3ca1b681512f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a high-profile trial at Southwark Crown Court involving multiple violent offences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784222784.93675
+  },
+  "a441bcd9b42f3c27f876a23e1aaa2338": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and travel review article, which is explicitly excluded by the sub's policy on fluff and lifestyle content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784222794.195793
+  },
+  "c24463a3792873d84d875443e92a704a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing homicide trial at the Old Bailey, which is a matter of significant public interest and crime reporting in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784222804.610424
+  },
+  "a8bb242395f45fb6cfaac230e25389d8": {
+    "is_relevant": false,
+    "reasoning": "This is a local council administrative incident involving a heated personal dispute rather than significant national UK politics or governance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784222825.491404
+  },
+  "9205a8693f9995e2297c9d71e1cf2e53": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change concerning public health legislation in England, which is a matter of direct relevance to the UK audience.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784222834.024718
+  },
+  "5feabe4dbbb54eff71fab5ee999560f7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health policy recommendation from UK government advisers regarding the NHS and national vaccination strategy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784222844.440113
+  },
+  "1b26d6b3419babcd0d9b3e9444f726af": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a High Court legal proceeding regarding a death, which qualifies as significant legal and public interest news within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784222854.848762
   }
 }
