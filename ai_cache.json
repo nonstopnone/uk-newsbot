@@ -15917,5 +15917,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784311664.729639
+  },
+  "d3154f7e3e270bdf494206d7214d7d2a": {
+    "is_relevant": false,
+    "reasoning": "This article concerns a sports rules dispute during a professional golf tournament, which falls under sports reporting rather than hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784320471.524113
   }
 }
