@@ -15819,5 +15819,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784285795.912221
+  },
+  "d1c0633b92f5f258c83e74062ac6bb1a": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case regarding a fatal incident in Belfast, which falls under UK legal and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784290315.939601
+  },
+  "c318364a78c3d6d9855dc49fc9b8e8ca": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal trial and sentencing for murder in Scotland, which falls under the category of hard news relevant to the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784290324.320404
   }
 }

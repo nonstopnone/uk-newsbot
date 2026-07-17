@@ -1,6 +1,3 @@
-2026-07-10T11:36:07.429873+00:00|https://www.bbc.co.uk/news/articles/c2dyw9lp02wo|prince harry plays pickleball at invictus games event but no meghan|e6599e9ce459230b302939e7a1c11669
-2026-07-10T11:36:10.146636+00:00|https://www.bbc.co.uk/news/articles/cg74e270p13o|brothers jailed for 1984 murder after undercover police sting|545e085e6a83c1b2e0517d882dbf3c79
-2026-07-10T11:36:12.620921+00:00|https://news.sky.com/story/ann-widdecombe-the-former-mp-and-mep-dies-aged-78-13562152|former tory minister ann widdecombe dies|61f99ed47eab2df5cf8ed6882710e434
 2026-07-10T13:45:56.321503+00:00|https://news.sky.com/story/britains-arthur-fery-takes-on-alexander-zverev-for-place-in-wimbledon-final-13562275|a hrefhttpswwwskysportscomtennisliveblog1211013561964wimbledonday12livearthurferytakesonalexanderzverevbeforenovakdjokovicvsjanniksinnerinmenssinglessemifinalsbritains arthur fery takes on alexander zverev for place in wimbledon finala|221acca5005e63a54c81d419d6104227
 2026-07-10T13:45:58.932260+00:00|https://news.sky.com/story/world-cup-winner-nobby-stiles-died-from-traumatic-brain-injury-court-hears-13562249|world cup winner nobby stiles died from traumatic brain injury court hears|d78793d3bff0a33a0e57374a6bfcff95
 2026-07-10T13:46:01.713919+00:00|https://www.bbc.co.uk/news/articles/c2kyw4nqd5do|ann widdecombe obituary brexitbacking former minister turned strictly star|ecec59ad4eee36bc4bb1b3cb906e3437
@@ -226,3 +223,5 @@
 2026-07-17T10:56:36.339922+00:00|https://www.bbc.co.uk/news/articles/cwyml7p30dpo|greens leader renews call for extra security after ann widdecombe death|c7a644f42e906244e9f2a32a9770b608
 2026-07-17T10:56:39.087720+00:00|https://news.sky.com/story/parts-of-england-have-recorded-longest-spell-without-rain-since-mid-1990s-figures-show-13564268|parts of england record longest spell without rain since mid1990s|cb59852c6e3ebf9817260d662b005135
 2026-07-17T10:56:41.469426+00:00|https://news.sky.com/story/man-convicted-of-killing-british-tourist-with-single-punch-ordered-to-be-extradited-to-greece-13564240|man convicted of killing british tourist with single punch to be extradited to greece|6c2c847ae92bc18f5e27510588709216
+2026-07-17T12:12:06.987542+00:00|https://www.bbc.co.uk/weather/articles/ckg4gqlye02o|longest dry spell in 30 years for parts of england as heatwave hits twoweek mark|b752e4e83e2aa9c13ebdff62bb1d13c6
+2026-07-17T12:12:09.625668+00:00|https://www.bbc.co.uk/news/articles/cx2rmm1g5ego|man appears in court charged with causing death by dangerous driving|d1c0633b92f5f258c83e74062ac6bb1a
