@@ -15924,5 +15924,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784320471.524113
+  },
+  "afab0301d84a2f584c02d265afa11578": {
+    "is_relevant": true,
+    "reasoning": "The Open Championship is a major sporting event hosted in the UK, and this incident involves a significant ruling affecting a primary competitor's standing in a major national tournament.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784324094.771697
   }
 }
