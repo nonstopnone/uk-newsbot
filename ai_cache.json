@@ -15833,5 +15833,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784290324.320404
+  },
+  "86e5e1f2690b34cdc3a004775e89083f": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer product feature rather than hard news; it does not meet the criteria for political, economic, or major national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784297107.067979
   }
 }
