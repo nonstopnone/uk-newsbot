@@ -15735,5 +15735,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784250193.35585
+  },
+  "151a9661a79e3ac0881fcf8c34eada40": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK national infrastructure, government industrial policy, and consequential diplomatic tensions between the UK and China.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784262391.287204
+  },
+  "f450f243d09a8f8e3bdd9542961640aa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving an escaped prisoner who posed a danger to the public, necessitating a major police manhunt.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784262400.261669
   }
 }
