@@ -15728,5 +15728,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784244364.626307
+  },
+  "26783a1a3dfbe62f7d3994c45755b814": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle article regarding personal relationships and private financial management, which does not meet the criteria for hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784250193.35585
   }
 }
