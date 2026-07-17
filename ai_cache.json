@@ -15749,5 +15749,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784262400.261669
+  },
+  "3ec78df5fd836647f83c7bfb24fbf42d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health initiative concerning the NHS and devolved health services that affects the safety of young people across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784270428.626026
+  },
+  "26bee9d33eced48f71ecf86c08e0668c": {
+    "is_relevant": false,
+    "reasoning": "This is an archaeological interest piece about a discovery from 2010 and does not constitute hard news or a time-sensitive event relevant to current UK public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784270439.494212
   }
 }
