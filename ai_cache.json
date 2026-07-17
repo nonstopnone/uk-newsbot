@@ -15840,5 +15840,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784297107.067979
+  },
+  "371b88971046843c6f6621ef3341cd48": {
+    "is_relevant": true,
+    "reasoning": "The arrival of the Bayeux Tapestry at the British Museum for its first UK display in 900 years is a significant cultural event of major national interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1784302863.151425
+  },
+  "cf0454a1a7c9f51efb57f86fde00a468": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a high-profile former political leader in the UK (Northern Ireland). It falls squarely under the category of major crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784302873.005197
+  },
+  "498c5e46272b14acd30adf1772d304ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a sentencing for assisting an offender in a murder case.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784302883.325505
+  },
+  "d1a7ea67ce469f2b05d91189cd8f7d27": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a criminal trial involving a Member of Parliament, which is a matter of significant public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784302892.504799
+  },
+  "ddaff6228387b4737ac3d2790935faa1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation involving a child's serious injury at a UK business, which has led to a police arrest on suspicion of attempted murder.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784302907.880044
   }
 }
