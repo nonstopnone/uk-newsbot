@@ -15763,5 +15763,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784270439.494212
+  },
+  "b5526b3f510bfe63723638525dee1b2a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security case involving the Metropolitan Police and charges related to foreign intelligence activities within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784278754.909087
+  },
+  "a836f58862658c38bec2c4135945897e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance and elimination of the England national football team from a major international tournament, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784278764.336927
   }
 }
