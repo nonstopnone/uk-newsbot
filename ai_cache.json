@@ -15931,5 +15931,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784324094.771697
+  },
+  "aa36d68cfd7b34c1e37914747b6d417f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local policy development in a devolved capital city that directly impacts regional economic operations and public infrastructure strategy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784327550.188102
+  },
+  "4e9e5bcd2c6f24a3b5f09b479f36881c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing emergency incident in the UK involving the Scottish government, emergency services, and the evacuation of residents, making it hard news of high public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784327560.93159
   }
 }
