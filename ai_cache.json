@@ -15875,5 +15875,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784302907.880044
+  },
+  "414fe7d908304e45de9bc5ac7061b3fe": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle travel feature reviewing hotels, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784306930.153187
+  },
+  "feb45a689b9bebf235f88f580381ba51": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction and police operation involving a high-value fraud against a UK citizen.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784306940.721592
+  },
+  "6b5e3fcf7c5fc08d8361bb81c5f1f165": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency services and environmental incident occurring within a major UK national park, requiring a large-scale response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784306951.844786
   }
 }
