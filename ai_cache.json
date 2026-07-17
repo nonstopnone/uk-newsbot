@@ -15896,5 +15896,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784306951.844786
+  },
+  "27d45de7b0a6f65b64c2eef8f16891c7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving the fraudulent misuse of UK government-backed pandemic support funds, resulting in a custodial sentence.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784311644.129961
+  },
+  "8a993e099807b3611e45154d03bf06e7": {
+    "is_relevant": true,
+    "reasoning": "This report involves a formal investigation by the UK Information Commissioner's Office regarding a high-profile business matter and the impact on thousands of UK-based retail investors.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784311654.448276
+  },
+  "68f9dc850f58167c5392a526e490fc6f": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity health update regarding a personal medical diagnosis and does not constitute hard news related to UK politics, economy, policy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784311664.729639
   }
 }
