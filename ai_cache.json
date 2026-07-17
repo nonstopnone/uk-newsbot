@@ -15777,5 +15777,47 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784278764.336927
+  },
+  "6b662694b32c99b04d4bca7bf45b8555": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity obituary and funeral announcement, which falls under lifestyle/entertainment news rather than hard news concerning UK politics, the economy, or national security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784285746.132322
+  },
+  "8bbe486ccf27a561b9120ecf0d7734ce": {
+    "is_relevant": false,
+    "reasoning": "This is an international interest story focused on environmental issues in Indonesia with no material impact on the UK or specific relevance to domestic UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784285755.534015
+  },
+  "b14947518fb36770b06be61e821a03f7": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on a personal medical case, which falls under lifestyle or health reporting rather than hard news concerning UK public policy, national institutions, or significant societal impacts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784285766.790189
+  },
+  "fbd2c8ff9ad8cf130546209522839e1a": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle feature about an individual's personal health struggle rather than hard news, political policy, or a significant public interest event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784285776.562503
+  },
+  "cb59852c6e3ebf9817260d662b005135": {
+    "is_relevant": true,
+    "reasoning": "This is a significant meteorological development affecting the UK's infrastructure, agriculture, and water supply, which constitutes material news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784285786.16323
+  },
+  "6c2c847ae92bc18f5e27510588709216": {
+    "is_relevant": true,
+    "reasoning": "The case involves the death of a British national and a significant legal process regarding international extradition involving the UK judicial system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784285795.912221
   }
 }
