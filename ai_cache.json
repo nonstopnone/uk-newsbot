@@ -15945,5 +15945,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784327560.93159
+  },
+  "00ae03d1ee71d1b6f7cfd28d245b4ef9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK-based criminal conviction involving a large-scale fraud case and sentencing at a UK court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784348107.719746
+  },
+  "7ed35bf6879d78b078c3673291c4eedd": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice/lifestyle piece regarding private property transactions rather than hard news concerning UK politics, the economy, or policy shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784348118.752092
+  },
+  "d8741faec78778d514e460f3983290d6": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story about an individual's personal health experience and theatre performance, rather than hard news concerning UK policy, institutional failure, or national public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784348128.906212
   }
 }
