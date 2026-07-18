@@ -15973,5 +15973,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784362861.568405
+  },
+  "6c8af49fc90ecf1703503f530237a831": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a rugby match between New Zealand and Ireland, which does not constitute hard UK news and falls under the category of sports reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784368666.330959
+  },
+  "08a057efa73aba91d6b83e41d7a6ac8c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story focusing on an individual's personal travel experience rather than a matter of significant national infrastructure impact or major news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784368676.277337
+  },
+  "b666e2d600ce8f10c1adc26831488f4c": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/human interest piece focused on social media trends and nightlife culture rather than hard news impacting the UK public, economy, or governance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784368686.250573
+  },
+  "545ecad075eca68eb5678a09dd533631": {
+    "is_relevant": true,
+    "reasoning": "The potential nationalisation of a major utility company is a significant matter of UK infrastructure and government policy with major economic implications.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784368696.954814
   }
 }
