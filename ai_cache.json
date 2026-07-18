@@ -16050,5 +16050,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784398116.553229
+  },
+  "a8141cb414b78004bb918973bc28196f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant utility infrastructure failure affecting a large number of UK residents, which qualifies as hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784406565.700698
   }
 }
