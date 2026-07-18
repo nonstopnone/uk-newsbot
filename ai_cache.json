@@ -16057,5 +16057,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784406565.700698
+  },
+  "434d8aa42521552b688b12b5e46cb319": {
+    "is_relevant": true,
+    "reasoning": "The article addresses systemic failings within the NHS regarding the vaginal mesh scandal, which affects a significant number of UK patients and relates to major healthcare policy and safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784410101.979085
+  },
+  "b6d1a816be96eec8a6da2631f9fae0f6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic security and law enforcement matter involving a police investigation into an alleged threat to a public gathering in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784410110.971269
   }
 }
