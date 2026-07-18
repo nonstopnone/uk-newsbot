@@ -16036,5 +16036,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784390433.07415
+  },
+  "f7c1d06ba34a0230d3b9bd755cf3d049": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime resulting in a murder charge within the UK, which falls under public interest and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784394462.055255
   }
 }
