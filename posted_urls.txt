@@ -1,5 +1,3 @@
-2026-07-11T17:31:09.384616+00:00|https://www.bbc.co.uk/news/articles/cpd3g5w7556o|man dies after falling from east belfast bonfire|1d3bae5912c0b5239a95bb2f636b2394
-2026-07-11T17:31:11.844032+00:00|https://www.bbc.co.uk/news/articles/c0ky0e147jzo|village in shock as horrific ann widdecombe murder case unfolds|3c1f77e2c9021d004dbe1f8fd19ed784
 2026-07-11T18:36:31.671455+00:00|https://www.telegraph.co.uk/tennis/2026/07/11/muchova-vs-noskova-live-score-wimbledon-womens-final-latest|noskova overcomes secondset collapse to win wimbledon womens title|20519a21e1ff4a8bd87a3257abed60dc
 2026-07-11T18:36:34.368666+00:00|https://www.bbc.co.uk/news/articles/cg74xpemg1eo|man believed to be carrying crossbow shot by police|025f729413423a7d26e361ed0901d10b
 2026-07-11T18:36:36.725477+00:00|https://www.telegraph.co.uk/rugby-union/2026/07/11/south-africa-v-scotland-score-updates-nations-championship|scotlands spirited fightback in vain as south africa win highscoring affair in pretoria|4ae2276ee6b12601639942c35993443c
@@ -221,3 +219,5 @@
 2026-07-18T16:00:42.340525+00:00|https://www.bbc.co.uk/news/articles/c304l24m0leo|burnham is people pleaser with airy fairy plans says kemi badenoch|85dbafa4c40aa6614076226cac8eb7c9
 2026-07-18T17:07:43.211895+00:00|https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o|woman killed while asleep with baby was my world sister says|f7c1d06ba34a0230d3b9bd755cf3d049
 2026-07-18T17:07:45.834698+00:00|https://www.telegraph.co.uk/rugby-union/2026/07/18/fiji-vs-scotland-live-score-latest-nations-championship|scotland fight back to claim victory against fiji in nations championship|6ec14f5cbc0bd91b5ef7c2987ff4a120
+2026-07-18T18:08:37.377244+00:00|https://www.telegraph.co.uk/rugby-union/2026/07/18/south-africa-v-wales-live-score-latest-nations-championship|wales pointless in seventry defeat by south africa|0f35844699e8396eb52a5fea4065b276
+2026-07-18T18:08:40.034732+00:00|https://www.telegraph.co.uk/football/2026/07/18/manchester-united-vs-wrexham-live-score-latest-pre-season|santos impresses in first man utd appearance but cannot prevent defeat by wrexham|e2cc82a7d7f57f5d778c19c7bc2f7aaa

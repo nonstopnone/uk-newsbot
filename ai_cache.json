@@ -16043,5 +16043,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784394462.055255
+  },
+  "e2cc82a7d7f57f5d778c19c7bc2f7aaa": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a Manchester United football match, which falls under UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784398116.553229
   }
 }
