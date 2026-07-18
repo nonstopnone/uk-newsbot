@@ -16015,5 +16015,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784386552.465626
+  },
+  "76bd7d5d7c07a86bd76176db3cdc4983": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the England national rugby union team squad availability for a significant international Test match.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784390414.800802
+  },
+  "b7248b7f2406f80e07d481ddcaf59bb8": {
+    "is_relevant": true,
+    "reasoning": "The article covers Formula 1 qualifying involving British drivers Lando Norris and George Russell, which constitutes a major UK sporting event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784390423.770144
+  },
+  "c8887759a52be570c78f7f95232c946f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant incident involving emergency services, public safety, and evacuations within the UK, meeting the criteria for hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784390433.07415
   }
 }
