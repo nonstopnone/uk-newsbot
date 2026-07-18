@@ -15966,5 +15966,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784348128.906212
+  },
+  "d38c551b00dcd93b55fc715b95dc5219": {
+    "is_relevant": true,
+    "reasoning": "This report concerns systemic failures within the NHS mental health services and the findings of a formal jury inquest, which is a matter of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784362861.568405
   }
 }
