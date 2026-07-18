@@ -16001,5 +16001,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784368696.954814
+  },
+  "048515e475741e5082a92977dcfbfc3a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime investigation involving a fatality and an arrest, which falls under the remit of UK crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784382623.159979
   }
 }
