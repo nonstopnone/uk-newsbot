@@ -16085,5 +16085,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784423102.541816
+  },
+  "e2676b75412d042bc315d86569a28ed5": {
+    "is_relevant": true,
+    "reasoning": "This concerns serious criminal charges and extradition requests involving the Crown Prosecution Service and Bedfordshire Police, making it a matter of significant UK legal and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784435772.75415
   }
 }
