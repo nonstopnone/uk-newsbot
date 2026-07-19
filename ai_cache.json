@@ -16113,5 +16113,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784453251.903972
+  },
+  "47761b50230a99f157f25be0449fc553": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on major UK infrastructure failure affecting thousands of households, which is a matter of public interest and service reliability.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784458501.265809
+  },
+  "19c775f9d8e64bdd48bcdd89886c8252": {
+    "is_relevant": true,
+    "reasoning": "The article reports on significant civil disorder in West Belfast involving police, which constitutes a matter of public safety and devolved government concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784458510.850948
+  },
+  "6fc3ce38f309405707b3931eaf9dce3c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major, time-sensitive political transition involving the Office of the Prime Minister and the UK government.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784458520.647339
   }
 }
