@@ -16099,5 +16099,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784445377.017057
+  },
+  "3992003bc5bf72ff27b8adbc92cd25e7": {
+    "is_relevant": false,
+    "reasoning": "This is a review/lifestyle piece regarding a music concert and does not constitute hard news or significant UK interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784453242.805682
+  },
+  "46af8f2223165dde5b7a9ff8737e0cb6": {
+    "is_relevant": true,
+    "reasoning": "The article discusses incoming government energy policy and potential new drilling in the North Sea, which is a major issue of UK political and economic importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784453251.903972
   }
 }
