@@ -16162,5 +16162,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784476981.413364
+  },
+  "aab82948d9761a26a49f0d9d35a00d76": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic emergency involving major Scottish infrastructure and public safety, requiring a multi-agency response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784485686.829991
   }
 }
