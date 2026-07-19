@@ -16134,5 +16134,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784458520.647339
+  },
+  "11e890749706b80e30901bf64e47babd": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major transition of power involving a new Prime Minister and responses from the Leader of the Opposition, which is core UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784462517.092242
+  },
+  "204307c4e1ef4aedaae5c554e41589a5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK industrial policy, nationalisation of major infrastructure, and potential legal action against the UK government regarding British Steel.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784462528.355651
   }
 }
