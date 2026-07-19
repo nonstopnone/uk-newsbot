@@ -16190,5 +16190,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784490276.760588
+  },
+  "a76f729cade7998340c151bb632c9d17": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety incident involving the Scottish emergency services and major infrastructure closure in a UK capital city.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784493145.825418
   }
 }
