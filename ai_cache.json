@@ -16169,5 +16169,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784485686.829991
+  },
+  "083edada9ae0289523f661e122add727": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant result in a major international cricket match involving the England national team, which qualifies as UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784490257.32109
+  },
+  "3b2375b709a26d11ad09c598caee25fd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding UK national infrastructure, potential government policy, and major economic implications for the UK taxpayer.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784490267.157718
+  },
+  "5a78304effc55f4f522916662433f7f6": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the financial transparency and conduct of a prominent UK political party leader, which falls under UK political accountability and standards.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784490276.760588
   }
 }
