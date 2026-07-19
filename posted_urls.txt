@@ -1,6 +1,3 @@
-2026-07-12T06:20:56.634447+00:00|https://www.telegraph.co.uk/football/2026/07/12/argentina-v-switzerland-latest-world-cup-quarter-finals|lionel messi stands in englands way this is how they can beat argentina|a36dfe2f490d3952926062b871fa37ee
-2026-07-12T06:20:59.339920+00:00|https://www.bbc.co.uk/weather/articles/ce8mrn49gndo|exceptional wildfire risk for parts of uk as heat health alerts issued|e776f052ace7a88e976394173ac43b83
-2026-07-12T06:21:01.723763+00:00|https://www.bbc.co.uk/news/articles/cdr488kl1j5o|fresh arrest in killing of widdecombe and saved by the bell|2198ca444379908f2af808ce8fb48adc
 2026-07-12T08:39:26.045553+00:00|https://www.bbc.co.uk/news/articles/c70yp7d917eo|fire service in northern ireland had more than 300 calls in seven hours|add34b0665abb6581f9aad804a4e7ed0
 2026-07-12T08:39:28.737960+00:00|https://www.bbc.co.uk/news/articles/c802zrd597vo|planning system needs to be overhauled to build homes needed|644c3dfc60c50e09bfac96c254eb691f
 2026-07-12T10:15:06.889132+00:00|https://www.bbc.co.uk/news/articles/cj9gmjx998xo|record 128 people cross channel in one small boat|1b992e276f0139a4f23f874cc4da6052
@@ -219,3 +216,5 @@
 2026-07-19T01:05:06.557809+00:00|https://news.sky.com/story/andrew-and-tristan-tate-arrested-in-us-in-connection-with-uk-police-investigation-13564845|tate brothers arrested in miami in connection with uk investigation into sexual offences|6c329bee552c76d5ad6be878f1cb9fa5
 2026-07-19T04:36:13.893925+00:00|https://www.bbc.co.uk/news/articles/cwymly9yd33o|andrew tate and brother arrested in us after more charges laid against them in uk|e2676b75412d042bc315d86569a28ed5
 2026-07-19T04:36:16.517174+00:00|https://www.bbc.co.uk/news/articles/cpd3dd3vv65o|the honours system used to be too posh but im proof change is happening|f6fafcefa6a1f354ed8ab500833be66a
+2026-07-19T07:16:17.718900+00:00|https://www.bbc.co.uk/news/videos/cdj0337k0r7o|a 10goal thriller england fans react to 64 win over france|38d4f9780d02284bec4fa1595930cc9d
+2026-07-19T07:16:20.497430+00:00|https://www.bbc.co.uk/weather/articles/cgmkglwnk08o|parts of uk to get break in heatwave but dry spell to continue|0b1beae4861d3480e93da9e9926e78b2

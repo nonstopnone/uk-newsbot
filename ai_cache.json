@@ -16092,5 +16092,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784435772.75415
+  },
+  "38d4f9780d02284bec4fa1595930cc9d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result for the England national football team in a major tournament, which is a matter of substantial public interest for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784445377.017057
   }
 }
