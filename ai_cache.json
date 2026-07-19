@@ -16148,5 +16148,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784462528.355651
+  },
+  "3e46caf64988c981bad362ac11ad1737": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving multiple arrests and a death at a major public event in Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784469244.224817
   }
 }
