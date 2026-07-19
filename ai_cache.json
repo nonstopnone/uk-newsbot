@@ -16204,5 +16204,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784496943.089662
+  },
+  "98018b9f0010e0b393900aa542dafdd0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political development concerning a prominent former party leader and institutional safeguarding, which is highly relevant to Northern Irish and UK political discourse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784504419.508216
+  },
+  "ab1635bb01920d29b04be8053c20ea28": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety incident involving emergency services in a major UK city, which qualifies as hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784504428.729158
   }
 }
