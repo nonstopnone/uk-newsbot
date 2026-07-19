@@ -16197,5 +16197,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784493145.825418
+  },
+  "f42008431c82354f52bc9a04e01d880b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial accident involving emergency services in the UK, meeting the criteria for hard news regarding UK infrastructure and safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784496943.089662
   }
 }
