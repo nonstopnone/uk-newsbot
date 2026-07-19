@@ -16155,5 +16155,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784469244.224817
+  },
+  "d83967679eefe9bdbc89dd6b27c7b4fd": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major international sporting event involving British driver George Russell and Lewis Hamilton, which is highly relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784476981.413364
   }
 }
