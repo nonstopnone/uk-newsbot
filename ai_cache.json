@@ -16071,5 +16071,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784410110.971269
+  },
+  "78ff6e939b82b2f19dad73be3bc40c94": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance and results of the England national football team in a major international tournament, which is considered significant UK news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784423091.657485
+  },
+  "6c329bee552c76d5ad6be878f1cb9fa5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding an ongoing criminal investigation by UK authorities into serious allegations of sexual offences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784423102.541816
   }
 }

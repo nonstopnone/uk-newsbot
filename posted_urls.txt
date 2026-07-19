@@ -1,4 +1,3 @@
-2026-07-11T23:57:22.826205+00:00|https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo|man arrested on suspicion of murder of ann widdecombe police say|83404ea69d4a981610df68f26086e299
 2026-07-12T06:20:56.634447+00:00|https://www.telegraph.co.uk/football/2026/07/12/argentina-v-switzerland-latest-world-cup-quarter-finals|lionel messi stands in englands way this is how they can beat argentina|a36dfe2f490d3952926062b871fa37ee
 2026-07-12T06:20:59.339920+00:00|https://www.bbc.co.uk/weather/articles/ce8mrn49gndo|exceptional wildfire risk for parts of uk as heat health alerts issued|e776f052ace7a88e976394173ac43b83
 2026-07-12T06:21:01.723763+00:00|https://www.bbc.co.uk/news/articles/cdr488kl1j5o|fresh arrest in killing of widdecombe and saved by the bell|2198ca444379908f2af808ce8fb48adc
@@ -216,3 +215,5 @@
 2026-07-18T21:28:37.475376+00:00|https://www.bbc.co.uk/news/articles/c2047z42e7lo|ill lose my bowel because my pain was dismissed until my husband spoke up|434d8aa42521552b688b12b5e46cb319
 2026-07-18T21:28:39.785490+00:00|https://www.bbc.co.uk/news/articles/cr49xv56g77o|eight released over alleged threat to islamic event|b6d1a816be96eec8a6da2631f9fae0f6
 2026-07-18T22:26:42.831342+00:00|https://www.bbc.co.uk/news/articles/c5y08z25q8eo|andy burnham to scrap digital id to focus on cost of living in first major policy pledge|23d45f34f28e4e19157b078ff45d77d7
+2026-07-19T01:05:04.150203+00:00|https://www.telegraph.co.uk/football/2026/07/18/france-vs-england-live-score-world-cup-third-place-playoff|tuchel learns lesson as england clinch third place in 10goal thriller|78ff6e939b82b2f19dad73be3bc40c94
+2026-07-19T01:05:06.557809+00:00|https://news.sky.com/story/andrew-and-tristan-tate-arrested-in-us-in-connection-with-uk-police-investigation-13564845|tate brothers arrested in miami in connection with uk investigation into sexual offences|6c329bee552c76d5ad6be878f1cb9fa5
