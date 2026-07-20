@@ -16386,5 +16386,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784580059.065826
+  },
+  "7651435a3e34740d482d8f22f433efab": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK inquest conducted by a Gwent Coroner, which is a matter of legal record and significant public interest regarding the death of a UK citizen.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784588561.858916
   }
 }
