@@ -16344,5 +16344,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784561379.669079
+  },
+  "d6d517126aa085c5456881872bf3565d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the prosecution of serious criminal offenses involving child sexual exploitation within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784566952.827379
   }
 }
