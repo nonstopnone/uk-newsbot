@@ -16232,5 +16232,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784510078.118038
+  },
+  "b8062f9b0e9020905d7e4e13ed4adb2e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer and infrastructure issue involving local utilities and potential legal consequences for UK residents, falling under the remit of domestic news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784534880.757421
+  },
+  "1d852eacd87a771e7e8fb733883e98f7": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and tourism-focused feature piece rather than hard news related to politics, the economy, or significant national issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784534890.472947
+  },
+  "d3be7f2b24fe4c59f0ede9aaecbb5a67": {
+    "is_relevant": false,
+    "reasoning": "This is a scientific research and technology development story rather than hard news concerning UK politics, economy, or major infrastructure, and does not constitute a breaking event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784534900.441253
+  },
+  "4acf609127a5b2c9e9c636d67d88d9f8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK criminal justice policy, specifically regarding the early release of sexual offenders due to prison overcrowding and its impact on victims.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784534908.972478
   }
 }
