@@ -16302,5 +16302,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784553588.315243
+  },
+  "7551ebc185888c35f374fddc4bd055cc": {
+    "is_relevant": true,
+    "reasoning": "This report covers a significant ongoing legal matter following a high-profile child murder case in the UK, involving requests for a jury inquest and findings regarding local authority safeguarding failures.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784561320.268539
+  },
+  "349efea2819fc60e24366e905f7d3f21": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court verdict involving an attack on a teacher at a UK school, which constitutes serious UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784561329.710354
+  },
+  "60959ad6c757bb2b7a546602d318382e": {
+    "is_relevant": false,
+    "reasoning": "This article concerns the regulation of a reality television programme and does not meet the criteria for hard news or significant public interest required for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784561340.68618
+  },
+  "d1bb3362bf12bcc5d1df5531fd1df424": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public service story affecting 2.4 million UK residents, involving direct utility regulation and political commentary on infrastructure investment.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784561354.624488
+  },
+  "18088e7ff2fd49f1a666d4aaea726c74": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest and cultural heritage feature, not hard news or significant current affairs relevant to a breaking UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784561368.484798
+  },
+  "b442d59af009d820678e6bce014662aa": {
+    "is_relevant": true,
+    "reasoning": "The Commonwealth Games represent a major sporting event hosted within the UK, which is of direct public interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784561379.669079
   }
 }
