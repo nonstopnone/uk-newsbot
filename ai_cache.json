@@ -16351,5 +16351,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784566952.827379
+  },
+  "31dc154644c35fe7a53705d6195638d1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development regarding a high-profile UK criminal case and the subsequent inquest process.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784574401.074979
+  },
+  "a404cdb3fb2dda45c668bceefda705e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the enforcement of the Online Safety Act and its impact on public safety, directly affecting UK regulatory policy and bereaved families.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784574410.787126
+  },
+  "62cd84669c8d2380118f968a26d1c69d": {
+    "is_relevant": false,
+    "reasoning": "This story concerns reality television production and is considered entertainment/lifestyle news rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784574419.815879
+  },
+  "0b8f2ceaca675b69dda96d78b5da6a7c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning child protection, failures of public bodies, and ongoing legal proceedings involving a coroner's inquest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784574433.899731
   }
 }
