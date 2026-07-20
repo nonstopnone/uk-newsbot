@@ -16379,5 +16379,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784574433.899731
+  },
+  "2ba1cc3d6088d155a4ec498efd69ca86": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal legal attempt to extradite British citizens to the UK to face serious criminal charges, which is a matter of significant legal and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784580059.065826
   }
 }
