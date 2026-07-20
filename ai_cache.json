@@ -16260,5 +16260,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784534908.972478
+  },
+  "59a5cd37abab1acfa2b70f888630a713": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/product review request and does not constitute hard news or a matter of public interest for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784546030.389704
+  },
+  "7f4a873cadaadde0e51e67c245cf14cd": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a government minister is a significant development in UK politics and administration.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784546040.732438
   }
 }
