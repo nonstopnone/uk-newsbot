@@ -16218,5 +16218,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784504428.729158
+  },
+  "2988ba16b1ce57bed053489ec3938770": {
+    "is_relevant": true,
+    "reasoning": "This is a direct report on HMRC data regarding a significant state benefit, which materially affects the finances of many UK households.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784510068.405562
+  },
+  "26d29c6a34a922a5d3fa818425c1a44d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal interest feature story rather than hard news concerning UK politics, the economy, or significant public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784510078.118038
   }
 }
