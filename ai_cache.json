@@ -16274,5 +16274,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784546040.732438
+  },
+  "5b83e652c8300f5f8d9ea70bcbf53057": {
+    "is_relevant": false,
+    "reasoning": "This is a travel and lifestyle article about attractions in Lyon, France, which does not constitute hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784553553.779481
+  },
+  "ea1d601780160c0999d4b0887b38031b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a conviction under the Human Trafficking and Exploitation Act in a Scottish High Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784553564.758281
+  },
+  "a906a162eada7c9c322aacbade0a8506": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal court case involving a murder in the UK, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784553575.09168
+  },
+  "c685e7ee448400ee5dff6499cbd5f007": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving Police Scotland and allegations of wrongful imprisonment, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784553588.315243
   }
 }
