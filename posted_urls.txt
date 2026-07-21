@@ -1,6 +1,3 @@
-2026-07-14T19:56:29.086325+00:00|https://www.bbc.co.uk/news/articles/c33y3rxezxdo|starmer becomes first uk pm to receive top french honour|43cf7742fa0852bb3beb93dfd26a6ab8
-2026-07-14T19:56:31.497535+00:00|https://www.bbc.co.uk/news/articles/c9q2qwnvd75o|starmer and burnham hail hillsborough law as mps give approval|a5f937832f7266793d5a8df27ed0c400
-2026-07-14T21:04:20.081387+00:00|https://www.bbc.co.uk/news/articles/c0ryr74zjzvo|police say ann widdecombe killed in targeted attack as motive investigated|30cd3867ad7f5adbb459002fbdf11658
 2026-07-14T22:13:00.585104+00:00|https://www.bbc.co.uk/news/articles/c14y16pxy87o|will scots back the three lions against argentina or it is anyone but england|9df7e485f5d1374c0eae6133c9df27c6
 2026-07-14T22:13:02.970397+00:00|https://www.bbc.co.uk/news/articles/c8j2jrz7z4jo|teen says she was terrified after heatwave wildfire forced family to evacuate home|1e2ca4ef847419f41fc43a37feff8728
 2026-07-15T00:07:39.714888+00:00|https://www.bbc.co.uk/news/articles/cp8l87784ngo|seven britons among those killed in spain wildfires|55d9678e7833477a9cc6631bffe207d7
@@ -199,3 +196,5 @@
 2026-07-21T18:01:41.551361+00:00|https://news.sky.com/story/death-of-man-who-fell-in-london-high-rise-railing-incident-being-investigated-as-possible-corporate-manslaughter-coroner-hears-13565715|death of man in highrise railing incident being investigated as possible corporate manslaughter|07536dce31810d7ffd71ca9ba4ad9be5
 2026-07-21T19:52:01.898205+00:00|https://www.bbc.co.uk/news/articles/ce970y1n7plo|scottish labour leader anas sarwar set to become a minister in burnhams government|0079154f7622bfac65a4c80e54f8bacd
 2026-07-21T19:52:06.479198+00:00|https://www.bbc.co.uk/news/articles/c04k7g6epzwo|we just need a bed baby with days to live cant access lifesaving treatment|3f69670129395ac419802df3fcb09de9
+2026-07-21T21:12:08.411311+00:00|https://www.bbc.co.uk/news/articles/ce970jryrk3o|russian warship carried out firing exercise off plymouth coast|fe2f5325eb8017718996e7d2e796efd6
+2026-07-21T21:12:10.858178+00:00|https://www.bbc.co.uk/news/articles/ce3q2kpkz84o|union plans rail strikes over train safety concerns|26e716519373c503cdaedc93d94e34d8
