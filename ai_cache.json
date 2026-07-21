@@ -16393,5 +16393,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784588561.858916
+  },
+  "bfe81c8776088eb72b06ced22620a911": {
+    "is_relevant": true,
+    "reasoning": "The article concerns significant UK infrastructure and industrial investment involving government negotiations, which carries material economic relevance.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784592583.563954
   }
 }
