@@ -16610,5 +16610,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784656893.55127
+  },
+  "275d223ef20851b11d67c59da1843fa1": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding sports figures rather than hard news or significant sporting developments, and falls under sports personality commentary/lifestyle.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784663521.188047
   }
 }
