@@ -16484,5 +16484,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784633041.897113
+  },
+  "03c9a04adcd831aebf06158a5fd5beb3": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on Irish policy and legislation, which does not have a material or direct impact on UK law or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784638466.81341
   }
 }
