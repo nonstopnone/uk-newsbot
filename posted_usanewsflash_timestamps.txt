@@ -1,4 +1,3 @@
-2026-07-14T20:02:21.624333+00:00|https://www.bbc.co.uk/news/articles/crkvkjddjd7o?at_medium=RSS&at_campaign=rss|US Supreme Court seeks major boost in security funding over threat increase|7e1dee512fb50939522c5be418d4e632
 2026-07-14T21:07:59.934305+00:00|https://news.sky.com/story/protest-over-killing-of-driver-by-ice-officer-in-us-13563510|Protest over killing of driver by ICE officer in US|9871614aa5f34362a882a1216fe33c27
 2026-07-15T11:16:30.693978+00:00|https://news.sky.com/story/british-illegal-immigrant-in-international-criminal-organisation-shot-dead-in-us-13563609|British illegal immigrant in 'international criminal organisation' shot dead in US|fc46aba548492d1b8bb80d76d9d2f2ab
 2026-07-15T11:16:36.429125+00:00|https://www.bbc.co.uk/news/articles/cwylyzvy444o?at_medium=RSS&at_campaign=rss|One dead and three missing after boat sinks near Alcatraz|4980c1d70c2224b90075bcf09193f64d
@@ -33,3 +32,4 @@
 2026-07-21T15:07:09.557295+00:00|https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss|Watch Texas police officer pull man from burning car|8f8fbbfcf945abc7cf6055b4b8983158
 2026-07-21T16:40:06.908018+00:00|https://www.bbc.co.uk/news/videos/cjrv25w93n9o?at_medium=RSS&at_campaign=rss|Watch rescuers save missing dog from San Francisco Bay|ee88a4c64037165ba5f75421342dae95
 2026-07-21T18:02:38.061124+00:00|https://www.bbc.co.uk/news/articles/cgew9xw314yo?at_medium=RSS&at_campaign=rss|New Jersey error led to almost 400 non-citizens voting|743db33361595762739e5ffa0f37b6d8
+2026-07-21T20:52:58.499292+00:00|https://news.sky.com/story/godzilla-star-kaylee-hottle-killed-in-car-crash-in-maryland-her-father-says-13565762|Godzilla star dies in car crash aged 18|c1aa8c41443c1a4834c388235203d15c
