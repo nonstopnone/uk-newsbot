@@ -1,6 +1,3 @@
-2026-07-14T17:23:24.469887+00:00|https://www.bbc.co.uk/news/articles/ce3e351ldwro|building fire closes edinburghs main street during festival season|e5064af47932d36d3129d34ebec9d9b9
-2026-07-14T17:23:27.081384+00:00|https://www.bbc.co.uk/news/articles/c79y9qy9y2go|change voting system before next election davey urges burnham|ccfd78c8ad9daa2c6caa663613c1eba4
-2026-07-14T17:23:29.525594+00:00|https://news.sky.com/story/uk-will-run-the-biggest-home-defence-exercise-in-decades-next-year-13563456|uk will run the biggest home defence exercise in decades next year|c463f6de81ebef601f50d45818423ef1
 2026-07-14T18:40:34.818848+00:00|https://www.bbc.co.uk/news/articles/c5yzy71p9zeo|southport victims dad accuses ambulance staff of breaching trust|4d01cce337af984a8f0ca818c8ad479e
 2026-07-14T18:40:37.317558+00:00|https://www.telegraph.co.uk/cricket/2026/07/14/england-vs-india-live-score-and-latest-updates-first-odi|brainless batting seals englands fate as india win first odi|4e044da8b5c3cdda0b5b56a88ca903e0
 2026-07-14T18:40:40.204338+00:00|https://www.bbc.co.uk/news/articles/cp3x37lw1ndo|public to be told how to prepare for cyberattack and weather emergencies|88a924dd573eba2a6eb3f57256be8be7
@@ -201,3 +198,6 @@
 2026-07-21T16:43:04.478333+00:00|https://www.telegraph.co.uk/business/2026/07/21/unemployment-flat-andy-burnham-public-borrowing|private sector pay suffers worst growth since covid|5043b12d68631e1ced72fe385f4e6c83
 2026-07-21T16:43:07.003904+00:00|https://news.sky.com/story/mystery-man-whose-dismembered-remains-were-found-in-suffolk-river-died-after-violent-assault-13565703|mystery man whose dismembered remains were found in river died after violent assault|9f9568a2bb213a55c0f2555b7ab3d81c
 2026-07-21T16:43:09.319995+00:00|https://news.sky.com/story/london-man-who-tried-to-sneak-through-glasgow-airport-with-430000-cannabis-haul-hidden-inside-luggage-jailed-13565663|man who tried to sneak through airport with £430000 cannabis haul hidden inside luggage jailed|f5f7c674612584b9ae8e8a9a272cbff1
+2026-07-21T18:01:36.279591+00:00|https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo|burnham tells cabinet to tackle living costs at first meeting|08510d152889f1c71c30d3a125bcc2d0
+2026-07-21T18:01:38.731517+00:00|https://www.bbc.co.uk/news/articles/c4gjz907pppo|sackings cabinet surprises and policies burnhams first 24 hours as pm|2f0d8afda5b5a6d84797da22a6c1ad44
+2026-07-21T18:01:41.551361+00:00|https://news.sky.com/story/death-of-man-who-fell-in-london-high-rise-railing-incident-being-investigated-as-possible-corporate-manslaughter-coroner-hears-13565715|death of man in highrise railing incident being investigated as possible corporate manslaughter|07536dce31810d7ffd71ca9ba4ad9be5

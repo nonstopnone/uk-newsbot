@@ -16582,5 +16582,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784652179.324676
+  },
+  "2f0d8afda5b5a6d84797da22a6c1ad44": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a change in UK leadership and cabinet appointments, which directly concerns national politics and government policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784656854.37521
+  },
+  "26e716519373c503cdaedc93d94e34d8": {
+    "is_relevant": true,
+    "reasoning": "This is hard news regarding industrial action and national rail infrastructure safety, which directly impacts the UK transport network.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784656866.449066
+  },
+  "07536dce31810d7ffd71ca9ba4ad9be5": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant legal investigation into a fatality involving potential corporate manslaughter, which falls under UK legal and criminal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784656883.695359
+  },
+  "2bb9c755dfa03e23541e326d2b9ca2e0": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/human interest piece regarding historical sports figures rather than hard news, a significant sporting event, or a scandal.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784656893.55127
   }
 }
