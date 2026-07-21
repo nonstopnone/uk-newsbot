@@ -1,6 +1,3 @@
-2026-07-14T10:50:14.431312+00:00|https://www.bbc.co.uk/news/articles/cwyey14r4wzo|wildfires burn across uk as fire chiefs warn of extreme pressure|2cbd3ba89d3e9d59ef500358dc213c7f
-2026-07-14T10:50:17.041163+00:00|https://www.bbc.co.uk/news/articles/c5yzyr3np8xo|police continue to question suspect over ann widdecombe murder|70f33560ad6b3e207117ee770843dce3
-2026-07-14T10:50:19.678583+00:00|https://news.sky.com/story/australian-police-release-unseen-photos-25-years-after-british-backpacker-peter-falconios-murder-13563240|unseen photos released 25 years after british backpackers murder|0664452e0c044e3461c805d8ecc26e89
 2026-07-14T12:16:56.523151+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/ebola-outbreak-threatens-to-halt-kidney-transplant-programm|ebola outbreak threatens to halt pioneering ukbacked kidney transplant programme|424e7539e80b264992d6847c9a1f68cc
 2026-07-14T12:16:59.090016+00:00|https://www.bbc.co.uk/news/articles/cp8r8l84p8yo|amnesty regret over criticism of jk rowlings sexual violence support centre|52d9dc0b14ef0af2a8ca1af67e1a6e86
 2026-07-14T12:17:01.817362+00:00|https://www.bbc.co.uk/news/articles/czrxrv3y13go|yes scotland hands accounts to police after missing £15m complaint|a29dd25feb98bdae42326d6993014325
@@ -203,3 +200,6 @@
 2026-07-21T09:17:01.082228+00:00|https://www.bbc.co.uk/news/articles/c62xzn3j1p2o|chris mason starmer ally takes swipe at burnhams first big policy|4b326ecf50164290059adf24a79d7980
 2026-07-21T09:17:03.616656+00:00|https://www.bbc.co.uk/news/articles/c20e5x4dy9lo|sir chris bryant appointed new ni secretary|839f3e43306cabf6e65ef9db220eed3f
 2026-07-21T09:17:06.247536+00:00|https://news.sky.com/story/russian-warship-carries-out-live-fire-weapons-exercise-46-miles-off-uk-coast-mod-says-13561289|russian warship carries out livefire weapons exercise 46 miles off uk coast mod says|c9b833866094bd7cc71bb382a45e24a6
+2026-07-21T11:24:02.721571+00:00|https://www.bbc.co.uk/news/articles/cly5gq5w04eo|teenagers jailed for murdering 16yearold in beach knife attack|3341761e239c8c8fabbe9b5aa13dd4d6
+2026-07-21T11:24:05.540642+00:00|https://www.bbc.co.uk/news/articles/crmrnvl2xw8o|thames water announces hosepipe ban for 10 million|b932eec84c569ba9508990761a8ea576
+2026-07-21T11:24:07.890114+00:00|https://news.sky.com/story/woman-dies-and-man-arrested-following-disturbance-at-edinburgh-property-13565543|woman dies and man arrested following disturbance at property|84b8579c9239ec4c6e95b89285919cfd

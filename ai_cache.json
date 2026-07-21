@@ -16442,5 +16442,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784625420.124395
+  },
+  "3341761e239c8c8fabbe9b5aa13dd4d6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction and sentencing for a murder case within the UK, meeting the criteria for crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784632992.105858
+  },
+  "b932eec84c569ba9508990761a8ea576": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public service event affecting over 10 million people in the UK, meeting the criteria for major UK infrastructure/utility reporting.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784633003.15929
+  },
+  "6eeba16ca31d0dc2e6e0cbee9d1d0edb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the potential nationalisation of a major UK utility provider and the economic implications for the government and public services.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784633013.865369
+  },
+  "6e57f223c4a4da4a0e6d9db43b71d8a6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public interest story concerning a child who campaigned for changes to organ donation laws in Northern Ireland, directly impacting health policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784633021.999996
+  },
+  "84b8579c9239ec4c6e95b89285919cfd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a fatality and an arrest in a UK city, meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784633032.187696
+  },
+  "893bccea109c35c0ba03d3ae169e0a34": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal inquest opening concerning a death in the UK, which constitutes hard news in the crime and legal domain.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784633041.897113
   }
 }
