@@ -16400,5 +16400,47 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784592583.563954
+  },
+  "12f3e03735949fdb5f9e291e8053e166": {
+    "is_relevant": false,
+    "reasoning": "This is a tribute/human interest piece regarding a sports figure, which falls under lifestyle/sports news rather than hard news, and constitutes a specific sport-related tribute story not meeting the threshold for major UK current affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784625373.601618
+  },
+  "839f3e43306cabf6e65ef9db220eed3f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK political development regarding a Cabinet reshuffle and the appointment of a new Secretary of State for Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784625381.881392
+  },
+  "e27c11a693bd08403cf3972b2967f117": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on Scottish emergency service infrastructure and devolved government resource management during a major environmental incident.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784625392.075539
+  },
+  "50902da0f86d9bea93abbd093e775714": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest animal welfare story rather than hard news concerning UK politics, national security, major infrastructure, or significant legal shifts. It lacks the systemic impact required for inclusion in a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784625401.577726
+  },
+  "87cfbd01e0550db2062964dc95765814": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant criminal conviction and legal appeal of a prominent former UK political leader in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784625411.386001
+  },
+  "c9b833866094bd7cc71bb382a45e24a6": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant national security incident involving military activity by a foreign power in close proximity to UK territorial waters.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784625420.124395
   }
 }
