@@ -16491,5 +16491,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784638466.81341
+  },
+  "04c4c93a323ea0d4b2c0bc2cbd3296d0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing emergency incident in a UK national park involving major infrastructure protection and the Scottish Fire and Rescue Service.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784646301.013574
+  },
+  "ee13f7d2a83c3394778b7da4ea37d11f": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle product guide and consumer review for pet food, which does not meet the criteria for hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784646310.764145
+  },
+  "cbd79c84e338a0fc304ffca86f1432d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving the death of British citizens abroad, which is a matter of clear public interest for a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784646322.21738
+  },
+  "7374f7bad628d0082307a470bc9f2bad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a fatal crash and a criminal conviction for fraud related to vehicle safety standards in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784646332.965785
+  },
+  "c30d6666b225e1a245a72ce43bca474b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal legal proceeding concerning a manslaughter conviction in a UK jurisdiction (Northern Ireland).",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784646341.190648
+  },
+  "a85b09fb9338c6883a6951026dbe9319": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on global cybercrime operations in Southeast Asia and does not report on a specific event or trend with a material, direct impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784646350.284299
+  },
+  "84c8b52ab8ab189810a6b622f72d2373": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff story rather than hard news concerning politics, the economy, or significant national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784646360.042973
   }
 }
