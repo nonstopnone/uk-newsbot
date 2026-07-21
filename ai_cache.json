@@ -16617,5 +16617,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784663521.188047
+  },
+  "7ed78404b7bea048f4477190afccfcf5": {
+    "is_relevant": true,
+    "reasoning": "This concerns a record-breaking transfer within the top tier of English football, which is a significant event for UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784675646.378048
   }
 }
