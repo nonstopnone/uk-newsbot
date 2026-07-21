@@ -16540,5 +16540,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784646360.042973
+  },
+  "18a98f01ff49e3159cce0608dc5e3ab9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and public health enforcement action taken by a UK local authority against a major national retailer.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784652123.873024
+  },
+  "9aefd073ba3dba5fc91472ef7e5543c7": {
+    "is_relevant": true,
+    "reasoning": "The article discusses changes to VAT on domestic energy and provides a detailed analysis of factors driving high electricity costs, which is highly relevant to the UK economy and household living standards.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784652134.932146
+  },
+  "a18dee63f95b948ec7b1a65cccb7f263": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving serious charges being handled by the UK court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784652144.968569
+  },
+  "9f9568a2bb213a55c0f2555b7ab3d81c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal update regarding a suspicious death and ongoing police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784652156.351156
+  },
+  "f5f7c674612584b9ae8e8a9a272cbff1": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing within the UK justice system, which falls under crime and legal matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784652165.368473
+  },
+  "2e13b08360474c112c759c88c48e3f9e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK national infrastructure, environmental regulation, and a major service restriction affecting millions of residents.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784652179.324676
   }
 }
