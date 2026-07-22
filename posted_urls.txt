@@ -1,5 +1,3 @@
-2026-07-15T08:31:01.193298+00:00|https://www.bbc.co.uk/news/articles/c8e2eyg2p40o|review of mp security needed after widdecombe death burnham says|a21135ccf3a9991bc9b865d0ca42a134
-2026-07-15T08:31:03.556218+00:00|https://www.bbc.co.uk/news/articles/c4gygy43103o|thames water returns to profit after raising bills|f71c11caa7ae8e5e99d262f3064ba1e8
 2026-07-15T10:29:14.349793+00:00|https://www.bbc.co.uk/news/articles/c9929dg5l5lo|travellers warned of methanol poisoning risks in new campaign|eb1a9152bebda9f2a9fed593e62df2c3
 2026-07-15T10:29:16.806789+00:00|https://www.bbc.co.uk/news/articles/cz0j05ymz2yo|dup leader promises robust review into donaldsons time in the party|9599c44276c2461f847bb0a0f1860171
 2026-07-15T10:29:19.473005+00:00|https://news.sky.com/story/british-illegal-immigrant-in-international-criminal-organisation-shot-dead-in-us-13563609|british illegal immigrant in international criminal organisation shot dead in us|731010623373b8dda6c73e7faef50843
@@ -191,3 +189,5 @@
 2026-07-21T22:13:13.221319+00:00|https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o|chelsea sign morgan rogers for british record transfer fee of £117m|79b6bb57d37fe6a6f165981de096f8d3
 2026-07-21T23:14:07.924364+00:00|https://news.sky.com/story/chelsea-sign-morgan-rogers-from-aston-villa-for-117m-in-record-breaking-deal-13565810|the most expensive transfer for british footballer announced|7ed78404b7bea048f4477190afccfcf5
 2026-07-22T06:31:03.629683+00:00|https://www.bbc.co.uk/news/articles/cx2k4qpd5xno|pavement parking encouraged by local councils|5c0d0c7ee8b1201d11923d173f7b1d05
+2026-07-22T09:16:10.760845+00:00|https://www.bbc.co.uk/news/articles/cm2ge7z0708o|prince george poses in suit for new photo as he becomes a teenager|1bdeef8b1a26e6096320db3461b14465
+2026-07-22T09:16:13.159375+00:00|https://www.bbc.co.uk/news/articles/cp8engx2xyeo|nottingham attacks nhs trust faces manslaughter probe|87eed1d70eb91ec758750262a5b57d95

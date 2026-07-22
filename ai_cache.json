@@ -16631,5 +16631,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784701862.919512
+  },
+  "1bdeef8b1a26e6096320db3461b14465": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal Family, which is a core topic for the sub. It documents an official release by Kensington Palace regarding the second-in-line to the throne.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1784711738.296892
+  },
+  "61effd74f4581e258c36ad561c2e045c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns cabinet ministers discussing government policy on prison releases, which is a matter of significant political importance and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784711749.456254
+  },
+  "04dd5464c5c8b9663d16e66555b20b31": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal and justice system matter concerning the death of a UK police officer and sentencing policy changes, which are of high public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784711760.682654
+  },
+  "deb870b34337ab6ff41620e8bcd76a32": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK political personnel changes and ministerial appointments within a government, directly impacting domestic governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784711769.766093
   }
 }
