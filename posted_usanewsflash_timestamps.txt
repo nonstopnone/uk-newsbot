@@ -1,5 +1,3 @@
-2026-07-15T11:16:30.693978+00:00|https://news.sky.com/story/british-illegal-immigrant-in-international-criminal-organisation-shot-dead-in-us-13563609|British illegal immigrant in 'international criminal organisation' shot dead in US|fc46aba548492d1b8bb80d76d9d2f2ab
-2026-07-15T11:16:36.429125+00:00|https://www.bbc.co.uk/news/articles/cwylyzvy444o?at_medium=RSS&at_campaign=rss|One dead and three missing after boat sinks near Alcatraz|4980c1d70c2224b90075bcf09193f64d
 2026-07-15T12:52:55.980650+00:00|https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss|US Congress takes next step to make daylight saving time permanent|f647251876907996c94c075a4b644bf1
 2026-07-15T16:03:50.879341+00:00|https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss|Trump says ICE agents should not give up traffic stops|f4750a4faff4beccc0ff6cf1693cac73
 2026-07-15T19:56:55.905718+00:00|https://www.bbc.co.uk/news/videos/c2lq1nqk2v9o?at_medium=RSS&at_campaign=rss|Americans react to making daylight saving time permanent|0dd18e0aed05816573049ecf47de9472
@@ -33,3 +31,4 @@
 2026-07-21T18:02:38.061124+00:00|https://www.bbc.co.uk/news/articles/cgew9xw314yo?at_medium=RSS&at_campaign=rss|New Jersey error led to almost 400 non-citizens voting|743db33361595762739e5ffa0f37b6d8
 2026-07-21T20:52:58.499292+00:00|https://news.sky.com/story/godzilla-star-kaylee-hottle-killed-in-car-crash-in-maryland-her-father-says-13565762|Godzilla star dies in car crash aged 18|c1aa8c41443c1a4834c388235203d15c
 2026-07-22T01:10:30.067327+00:00|https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss|Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more|56cb3f5c5f5ec37df87ec5f9a4f27c8f
+2026-07-22T11:39:05.520702+00:00|https://news.sky.com/story/tropical-storm-bertha-with-winds-of-60mph-due-to-make-landfall-in-louisiana-13565903|Tropical Storm Bertha, with winds of 60mph, due to make landfall in US|ca2b970aa056e6428747d0e14d707db2
