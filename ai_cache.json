@@ -16722,5 +16722,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784733012.096264
+  },
+  "0a7ebab49b4e8a3a4a2232e9811ea62e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and infrastructure emergency involving the Welsh government's crisis response and a major environmental threat affecting UK citizens.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784738812.256442
+  },
+  "2276dc8a975de838ad7ba08a16949430": {
+    "is_relevant": true,
+    "reasoning": "Lloyd's of London is a major pillar of the UK financial services sector, and a formal finding of governance and compliance breaches by its former leadership is of significant importance to the UK economy and business landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784738821.427885
+  },
+  "3d2d98fb28b0498e089b230e34b7930a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story concerning a planned terror attack on a UK Ministry of Defence facility and its link to a fatal stabbing in Manchester.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784738832.262449
+  },
+  "b372da4be3db3bf734844e8f8ae3d3ad": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant law enforcement operation at a major UK port targeting people-smuggling networks, which directly relates to UK border security and immigration policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1784738842.078526
   }
 }
