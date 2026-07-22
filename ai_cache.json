@@ -16750,5 +16750,33 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1784738842.078526
+  },
+  "412f0c511026ca8fe74a8c4ee759d116": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK ministerial appointments and government staffing, directly involving a sitting MP and national safeguarding policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784743718.727892
+  },
+  "2634d0c457646a8746989d3928634c28": {
+    "is_relevant": true,
+    "reasoning": "This report details significant civil disorder, attacks on police, and criminal activity in a UK region, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784743729.381706
+  },
+  "1b3f55e28019c1ba1ad6c1468fc696bd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case concerning government policy on asylum seeker housing and the use of emergency powers, which is a matter of clear UK public interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1784743739.712457
+  },
+  "344a06ecc077717d5c6c408d988f8cae": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the conduct of UK government ministers regarding a significant policy issue (early prisoner release), which is of direct relevance to UK politics and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784743748.723333
   }
 }
