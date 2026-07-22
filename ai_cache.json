@@ -16778,5 +16778,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784743748.723333
+  },
+  "bd325a3c5b8238b7d96b7c1dd1f67674": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal trial and judicial outcome involving a grooming gang in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784753283.12729
   }
 }
