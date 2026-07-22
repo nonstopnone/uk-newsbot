@@ -1,6 +1,3 @@
-2026-07-15T06:00:13.445518+00:00|https://www.bbc.co.uk/news/articles/crk661074ejo|hosepipe ban in force for millions of households is your area affected|288f22ce041162b5a8e31d1a9d3a3770
-2026-07-15T06:00:16.032801+00:00|https://news.sky.com/story/british-man-jailed-with-wife-in-iran-given-additional-sentence-family-says-13563522|british man jailed with wife in iran given additional sentence|d969696ebec40f148e1216f22939ac34
-2026-07-15T06:00:18.443621+00:00|https://www.bbc.co.uk/news/articles/c4gygp4pk31o|britons iran jail sentence extended by two years family says|5b970fa9fec8537d114cd7317bad435d
 2026-07-15T08:31:01.193298+00:00|https://www.bbc.co.uk/news/articles/c8e2eyg2p40o|review of mp security needed after widdecombe death burnham says|a21135ccf3a9991bc9b865d0ca42a134
 2026-07-15T08:31:03.556218+00:00|https://www.bbc.co.uk/news/articles/c4gygy43103o|thames water returns to profit after raising bills|f71c11caa7ae8e5e99d262f3064ba1e8
 2026-07-15T10:29:14.349793+00:00|https://www.bbc.co.uk/news/articles/c9929dg5l5lo|travellers warned of methanol poisoning risks in new campaign|eb1a9152bebda9f2a9fed593e62df2c3
@@ -193,3 +190,4 @@
 2026-07-21T21:12:10.858178+00:00|https://www.bbc.co.uk/news/articles/ce3q2kpkz84o|union plans rail strikes over train safety concerns|26e716519373c503cdaedc93d94e34d8
 2026-07-21T22:13:13.221319+00:00|https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o|chelsea sign morgan rogers for british record transfer fee of £117m|79b6bb57d37fe6a6f165981de096f8d3
 2026-07-21T23:14:07.924364+00:00|https://news.sky.com/story/chelsea-sign-morgan-rogers-from-aston-villa-for-117m-in-record-breaking-deal-13565810|the most expensive transfer for british footballer announced|7ed78404b7bea048f4477190afccfcf5
+2026-07-22T06:31:03.629683+00:00|https://www.bbc.co.uk/news/articles/cx2k4qpd5xno|pavement parking encouraged by local councils|5c0d0c7ee8b1201d11923d173f7b1d05

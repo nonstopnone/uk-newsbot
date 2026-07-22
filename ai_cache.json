@@ -16624,5 +16624,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784675646.378048
+  },
+  "5c0d0c7ee8b1201d11923d173f7b1d05": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national infrastructure and public policy issue involving local government practices and Department for Transport regulations that directly impact UK citizens' accessibility.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784701862.919512
   }
 }
