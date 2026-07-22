@@ -16785,5 +16785,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784753283.12729
+  },
+  "479c4b7d8f8bc9f36c7b9681e2f1eae2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on environmental conditions and drought status in Wales, which constitutes hard news affecting infrastructure, agriculture, and public policy in a devolved nation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784757925.864271
+  },
+  "3f01b6405bb524527a34443e30112cd5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and devolved government issue concerning emergency response capabilities in Wales.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784757935.595139
   }
 }

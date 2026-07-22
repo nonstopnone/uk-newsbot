@@ -1,5 +1,3 @@
-2026-07-15T21:02:58.238980+00:00|https://www.bbc.co.uk/news/articles/cj632kxez2eo|dartmoor ponies given new protection after cull fears|10f5bcaf94ff415717ee93a09e9f4049
-2026-07-15T21:03:00.706273+00:00|https://www.bbc.co.uk/news/articles/c4gygl6zxq3o|pupil who says she was groomed by paedophile head in fight for compensation|b7b08ba0bd250de4f59ceb058e48169a
 2026-07-15T22:13:26.935602+00:00|https://www.bbc.co.uk/news/articles/c8x2xxpywdvo|drink and drug driver sentenced for cyclists crash death|4419f08c0ff23acc076a744a27a7fa19
 2026-07-15T22:13:29.603000+00:00|https://www.bbc.co.uk/news/articles/cn8n773xn32o|eight men charged in historical child sex gang inquiry|453c426ba1b3ce095f679edbeac59d8f
 2026-07-15T23:14:36.875906+00:00|https://www.bbc.co.uk/news/articles/c5y68dgnylxo|william tells england to hold their heads high after defeat|d280794bb85753bd27d883c68964384b
@@ -187,3 +185,6 @@
 2026-07-22T19:44:02.257479+00:00|https://www.bbc.co.uk/news/articles/c74gm8vwnm2o|no secrecy over asylum camp decision court told|1b3f55e28019c1ba1ad6c1468fc696bd
 2026-07-22T19:44:04.958805+00:00|https://www.bbc.co.uk/news/articles/cgk4x44mm50o|burnham rebukes ministers after prisoner releases joke|344a06ecc077717d5c6c408d988f8cae
 2026-07-22T20:48:04.765472+00:00|https://www.bbc.co.uk/news/articles/cy07r94qyyzo|four more members of grooming gang guilty of sexually abusing girl in care|bd325a3c5b8238b7d96b7c1dd1f67674
+2026-07-22T22:05:36.481491+00:00|https://www.bbc.co.uk/news/articles/c80n5rvx917o|river levels approach alltime low as drought announcement looms|479c4b7d8f8bc9f36c7b9681e2f1eae2
+2026-07-22T22:05:39.295842+00:00|https://www.bbc.co.uk/news/articles/czj8zjnzw4po|glasgow set to welcome the world for scaled back commonwealth games|4bcdda55df5311bc5e34c82f9c8e209e
+2026-07-22T22:05:41.969672+00:00|https://news.sky.com/story/wales-crisis-over-wildfires-amid-concern-about-lack-of-helicopters-13566117|wales crisis over wildfires amid concern about lack of helicopters|3f01b6405bb524527a34443e30112cd5
