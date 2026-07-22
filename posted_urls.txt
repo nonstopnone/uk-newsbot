@@ -1,5 +1,3 @@
-2026-07-15T18:39:06.792817+00:00|https://www.bbc.co.uk/news/articles/czrjgmmx5rmo|boy 14 charged over alleged plan to target mosques|bcf2d5c28e80888722d6dfb1aa19dbf1
-2026-07-15T18:39:09.242973+00:00|https://www.bbc.co.uk/news/articles/cy060e1r468o|tommy robinson says he got it wrong over man he falsely accused of filming children|1e32e79f895619c07c70e9253424d627
 2026-07-15T19:52:26.318166+00:00|https://www.bbc.co.uk/news/articles/c2k7jj59x20o|covid fraudsters spent thousands on cars and watches|8329458281c80f18ca510c44427ffcbf
 2026-07-15T19:52:30.923505+00:00|https://www.bbc.co.uk/news/articles/ckg7gg2zdexo|salary information to be shown on job ads under new laws|209efab4282759f3dcda3a84a80ae805
 2026-07-15T19:52:33.370869+00:00|https://news.sky.com/story/boy-14-charged-with-terror-offence-over-plot-to-target-mosques-in-london-13563791|boy 14 charged with terror offence over plot to target mosques|92e010a2e5f4b912ec56c83883b1e8d7
@@ -189,3 +187,5 @@
 2026-07-22T16:47:30.378895+00:00|https://news.sky.com/story/people-smuggling-boats-that-could-have-carried-2000-people-seized-at-felixstowe-13566012|peoplesmuggling boats that could have carried 2000 people seized at uk port|b372da4be3db3bf734844e8f8ae3d3ad
 2026-07-22T18:09:09.294603+00:00|https://www.bbc.co.uk/news/articles/cq56g2n083do|natalie fleet leaves triggering safeguarding minister role|412f0c511026ca8fe74a8c4ee759d116
 2026-07-22T18:09:11.898677+00:00|https://www.bbc.co.uk/news/articles/c39e1nl9z28o|young people urged to attack police in west belfast disorder|2634d0c457646a8746989d3928634c28
+2026-07-22T19:44:02.257479+00:00|https://www.bbc.co.uk/news/articles/c74gm8vwnm2o|no secrecy over asylum camp decision court told|1b3f55e28019c1ba1ad6c1468fc696bd
+2026-07-22T19:44:04.958805+00:00|https://www.bbc.co.uk/news/articles/cgk4x44mm50o|burnham rebukes ministers after prisoner releases joke|344a06ecc077717d5c6c408d988f8cae
