@@ -16659,5 +16659,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784711769.766093
+  },
+  "61de86220d4a7407e1817eec2fc287a9": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a significant issue of crime and urban decay in a major UK-associated city centre, highlighting a public policy and security failure that affects local business and infrastructure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784719521.382235
+  },
+  "2b2c7fa8538102a892535c3e5124d777": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity human-interest piece regarding a personal anniversary, which falls under lifestyle/entertainment rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784719532.412817
   }
 }
