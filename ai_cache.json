@@ -16673,5 +16673,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784719532.412817
+  },
+  "24787da247dde3b15075e1ecfdee2a76": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant policy regarding prisoner release and sentencing laws in England and Wales, directly impacting public safety and the justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784725139.167564
+  },
+  "b0e311af9bb957f5cb70fe24a810bc3a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant safety and security incident involving a UK-bound flight and a large number of passengers, which constitutes hard news relevant to the UK public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784725149.867046
+  },
+  "b8225959fa049807ac7a743bbf83a468": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant legal investigation into an NHS trust following a high-profile criminal case, which is of major public interest and relevance to UK healthcare and justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784725158.7544
   }
 }
