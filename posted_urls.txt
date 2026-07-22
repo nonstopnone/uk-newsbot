@@ -1,6 +1,3 @@
-2026-07-15T14:11:16.384082+00:00|https://news.sky.com/story/eight-men-accused-of-being-part-of-grooming-gang-charged-over-rape-and-child-sexual-abuse-13563566|eight men accused of being part of grooming gang charged over rape and child sexual abuse|b159016b9698ca2d3db31294f25e226d
-2026-07-15T14:11:18.746605+00:00|https://www.bbc.co.uk/news/articles/cyv0vqp04pgo|three men who raped woman on brighton beach jailed|8cd6881c23eefbf27358e414c5f524b0
-2026-07-15T14:11:21.271098+00:00|https://www.bbc.co.uk/news/articles/c79y902nje5o|peers face new attendance rules under proposed house of lords changes|637075dd28684bf26523396cbbd9b3f5
 2026-07-15T15:52:12.971067+00:00|https://www.bbc.co.uk/news/articles/c8r2r76vnd1o|man arrested over social media post threatening to shoot farage|327bf6a8b7715092728a3eeaa9f47e01
 2026-07-15T15:52:15.639626+00:00|https://www.bbc.co.uk/news/videos/c36y66j142wo|watch starmers kind sendoff across the commons in final pmqs|0408e7958125308c9a3d7d0739aee632
 2026-07-15T15:52:18.280587+00:00|https://news.sky.com/story/england-world-cup-winner-nobby-stiles-died-with-brain-condition-caused-by-repeatedly-heading-a-football-inquest-13563735|world cup winner nobby stiles died with brain condition caused by repeatedly heading football|cd79410003fa153c805470a4c5f8350c
@@ -192,3 +189,5 @@
 2026-07-22T12:59:24.596085+00:00|https://www.telegraph.co.uk/business/2026/07/22/inflation-falls-june-petrol-prices|inflation fall a false dawn burnham warned|af1197434a36c8959a285f72841ac47d
 2026-07-22T12:59:27.056183+00:00|https://news.sky.com/story/mass-mid-air-brawl-forces-easyjet-plane-to-return-to-tenerife-13565938|mass midair brawl forces easyjet plane to return to tenerife|b0e311af9bb957f5cb70fe24a810bc3a
 2026-07-22T12:59:29.600530+00:00|https://news.sky.com/story/nottingham-attacks-nhs-trust-faces-manslaughter-investigation-13565923|nottingham attacks nhs trust faces manslaughter investigation|b8225959fa049807ac7a743bbf83a468
+2026-07-22T15:10:12.666423+00:00|https://www.bbc.co.uk/news/articles/c36d0njy7jjo|exsouthern water boss among four charged over alleged plan to manipulate water tests|f01eae9e3ddba2711b21473d4af0532b
+2026-07-22T15:10:14.983743+00:00|https://www.bbc.co.uk/sport/football/articles/c74g5pv140do|liverpool issue bans as £12m seized from ticket touts|4c065def28feaa9c81c6ff52333f186f

@@ -16694,5 +16694,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784725158.7544
+  },
+  "f01eae9e3ddba2711b21473d4af0532b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the former head of a major UK utility provider and allegations of fraud against public regulators.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784732984.117495
+  },
+  "4c065def28feaa9c81c6ff52333f186f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and legal story involving a police investigation, asset seizure, and criminal proceeds, which is of material interest to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784732993.081069
+  },
+  "5f8abd07eac87cd03ce235efec10ad53": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation and public safety incident involving a serious injury and an ongoing police investigation into attempted murder.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784733002.283072
+  },
+  "09199e66155d6a308e9a60a53cf86079": {
+    "is_relevant": true,
+    "reasoning": "The incident involves a flight bound for a UK city and directly impacts the safety and travel plans of UK passengers, making it a significant news event.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784733012.096264
   }
 }
