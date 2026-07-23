@@ -16981,5 +16981,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784822907.371564
+  },
+  "240d17f298ba1748eb0541fbbed89bcf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal development involving a historical murder investigation and a recent arrest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784828774.17811
+  },
+  "c1656493824004ab2485788af32b1480": {
+    "is_relevant": true,
+    "reasoning": "This article discusses significant changes to UK business rates policy and government support packages, directly impacting the UK economy and high street hospitality sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784828785.167532
   }
 }

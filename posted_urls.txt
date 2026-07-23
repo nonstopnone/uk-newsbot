@@ -1,7 +1,3 @@
-2026-07-16T17:27:35.455196+00:00|https://www.bbc.co.uk/news/articles/cglj25k94r9o|sadiq khan among 26 new peers to enter the lords|f05731f00ecbd15d55f7349f40f9b234
-2026-07-16T17:27:38.142066+00:00|https://www.bbc.co.uk/news/articles/crl7rz4rx27o|british steel nationalistion will protect future generations|605baa93c2ebd2fbf9f8bbceebe6f8b0
-2026-07-16T17:27:40.459626+00:00|https://news.sky.com/story/under-16s-to-be-banned-from-buying-energy-drinks-13564058|under16s to be banned from buying energy drinks|9205a8693f9995e2297c9d71e1cf2e53
-2026-07-16T17:27:42.782654+00:00|https://news.sky.com/story/all-teenagers-should-receive-meningitis-vaccine-at-15-health-committee-says-13564040|all teenagers should receive meningitis jab health bosses say|5feabe4dbbb54eff71fab5ee999560f7
 2026-07-16T18:42:06.943941+00:00|https://www.bbc.co.uk/news/articles/c17y7k5pdpgo|dog walker killer also guilty of attempted murder|e39a8f813e37dea25e0a3ca1b681512f
 2026-07-16T18:42:09.372392+00:00|https://www.bbc.co.uk/news/articles/c8enr5647kwo|real epidemic in children being injured by escooters says doctor|d7679c57c94fce0c12dddc80029455c8
 2026-07-16T19:47:41.196377+00:00|https://www.bbc.co.uk/news/articles/czrjg0jxkpno|energy drinks to be banned for under16s in england from april|e162f795067a6ca4652895ff1b434c5c
@@ -178,3 +174,5 @@
 2026-07-23T16:08:30.391814+00:00|https://www.bbc.co.uk/weather/articles/cx2rvej7lk7o|rain to return this weekend as parts of wales now in drought|dbe4c5e2ab0dbaaa5d3d5eb1ffacbb3f
 2026-07-23T16:08:32.774657+00:00|https://news.sky.com/story/first-parts-of-uk-officially-declare-drought-as-dry-spell-to-end-for-some-13566278|first parts of uk officially declare drought as dry spell to end for some|a4a8b84d0b4263dabb810464efc90710
 2026-07-23T16:08:35.098745+00:00|https://news.sky.com/story/manchester-synagogue-security-guard-says-life-changed-forever-after-attack-13566273|manchester synagogue security guard says life changed forever after attack|331fc1f1c7879d8f394dec537d916e17
+2026-07-23T17:46:26.281870+00:00|https://www.bbc.co.uk/news/articles/cr496pxv0z0o|murder investigation launched 35 years after pensioners death|240d17f298ba1748eb0541fbbed89bcf
+2026-07-23T17:46:28.811968+00:00|https://www.bbc.co.uk/news/articles/c62vqj7ged4o|what could happen to prisoner early release scheme now pm has paused it|7d9565196fd37830b26c07f10d32dcad
