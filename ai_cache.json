@@ -16904,5 +16904,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784807895.270901
+  },
+  "36be0be4eae5f6e562162b7079aad29b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a former high-profile UK politician and an official action taken by the Monarch.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1784816660.354679
+  },
+  "2116a2dfed93ba8d9accc299abac94b3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling involving the UK's security services and the rights of the press, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784816669.671541
+  },
+  "45ff7da1d7cfb49ef5b624a57e50c047": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a major security failure by UK police regarding a high-profile terror attack in Manchester, falling under domestic crime and security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784816679.786194
+  },
+  "db9e9b6b3dd6bca5c6393e0da4dfa832": {
+    "is_relevant": true,
+    "reasoning": "This is a legal case involving a high-profile High Court settlement between a British actor and a major UK national newspaper publisher regarding defamatory allegations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784816690.078968
+  },
+  "ba43f2583e18e9891c1dc8b536282292": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news story involving high-profile British athletes representing Team England at the Commonwealth Games.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784816698.681405
+  },
+  "3aa600687819ac6e9a2d64e3e6c8d5e9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national news story concerning UK infrastructure, environment, and public policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784816707.071428
+  },
+  "55750d09f99f65b2ae13a39c4ab490c9": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity obituary and funeral arrangement notice, which falls under lifestyle/entertainment news rather than hard news or matters of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784816717.560828
   }
 }
