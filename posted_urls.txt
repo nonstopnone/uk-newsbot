@@ -1,5 +1,3 @@
-2026-07-16T03:41:52.465070+00:00|https://www.bbc.co.uk/news/articles/c5yzynxwk05o|starmer says its the end of my political journey at his final prime ministers questions|63c714a8caebf1dadc7357aa5fd1a370
-2026-07-16T03:41:55.128175+00:00|https://www.bbc.co.uk/news/articles/c0qvewzn1e1o|the papers world cup dream over and mahmood for chancellor|2fecc43a23a6d59e2c805ead094eecd5
 2026-07-16T06:05:57.709703+00:00|https://www.bbc.co.uk/news/articles/c5y680w62wno|government brings british steel under public ownership|453c7d301597eb65b72e4843190a6d1d
 2026-07-16T06:06:00.186630+00:00|https://www.bbc.co.uk/news/articles/cd69y219n13o|firefighters battle through the night as wildfire burns across cairngorms national park|04d2491dfb5cc6509e3957802afb594f
 2026-07-16T06:06:02.585315+00:00|https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884|tiktok being investigated by ofcom over child safety measures|2dc55b0942b473e68a1e10450afb2647
@@ -183,3 +181,5 @@
 2026-07-22T22:05:39.295842+00:00|https://www.bbc.co.uk/news/articles/czj8zjnzw4po|glasgow set to welcome the world for scaled back commonwealth games|4bcdda55df5311bc5e34c82f9c8e209e
 2026-07-22T22:05:41.969672+00:00|https://news.sky.com/story/wales-crisis-over-wildfires-amid-concern-about-lack-of-helicopters-13566117|wales crisis over wildfires amid concern about lack of helicopters|3f01b6405bb524527a34443e30112cd5
 2026-07-22T23:15:54.883429+00:00|https://www.bbc.co.uk/news/articles/clyez682nevo|scottish labour leader anas sarwar delighted to accept trade minister job|28531973b708992e1f52506c5b0582c9
+2026-07-23T04:34:52.152117+00:00|https://www.bbc.co.uk/news/articles/cn0nxd1jgw5o|most sewage spills in england may be illegal new research suggests|a04cd812eb6b4c7cce26d3161e238195
+2026-07-23T04:34:55.159116+00:00|https://www.bbc.co.uk/news/articles/cgmkygjk9g2o|hope for thousands of ms patients as lifechanging drug now on nhs in england|792f3875407b1feb744996637a0ceedc
