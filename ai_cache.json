@@ -16834,5 +16834,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784791238.576023
+  },
+  "afd359c6daff89f77f6af9e19997ea9d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious crime and an ongoing police murder investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784800749.891064
+  },
+  "9050ed6bcb3868af2dd9cbc9dedbf074": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a high-profile criminal conviction and sentencing within the Scottish legal system, meeting the criteria for crime and legal news in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784800758.989817
+  },
+  "832633617ab27107f1bf53905cbdcd19": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding UK fiscal policy, wealth taxation, and an open letter addressed to the Prime Minister concerning national economic strategy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784800769.905808
+  },
+  "67254622a9446eae825ca44287f5397e": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic local human interest story and does not constitute hard news or a matter of national significance for a UK-wide audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784800782.744964
+  },
+  "4f788581ede946a383096eaa5039dee6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy development concerning the NHS, which is a core topic for UK national news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784800792.24225
+  },
+  "09f71608fb3fd88c27eece5f08f29a4e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the preservation of UK cultural infrastructure through a community-backed initiative involving high-profile UK figures.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1784800803.637409
   }
 }
