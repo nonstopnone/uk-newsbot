@@ -16799,5 +16799,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784757935.595139
+  },
+  "fe16e90b410c9c43a69041b576e6ba1b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and transport disruption affecting a British Crown Dependency, which falls under UK connectivity and maritime news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784791198.475386
+  },
+  "9959fc045e3d751aeef00b56ce7704a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing emergency services incident involving multiple agencies, which constitutes hard news relevant to a UK regional audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784791209.374532
+  },
+  "e82924e05849c134b44fbb7bddb8fbbd": {
+    "is_relevant": true,
+    "reasoning": "This concerns a major infrastructure project and public planning decision involving local government and the Greater London Authority, which is relevant to regional UK infrastructure.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1784791218.303035
+  },
+  "aed5522ad25e074d1f0fe0848d70f6c1": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about an individual's personal journey rather than hard news regarding national health policy or significant systemic developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784791228.928624
+  },
+  "73eaa1ccd3e72fa76018d0f8d0d441be": {
+    "is_relevant": false,
+    "reasoning": "This is a feature-style retrospective analysis piece on a social phenomenon rather than breaking hard news or a significant current event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784791238.576023
   }
 }
