@@ -17009,5 +17009,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784834530.06468
+  },
+  "fcdae197279b4a819b3a5a913f228c78": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental emergency involving devolved government intervention and multi-site wildfire activity across Wales that threatens public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784846435.986078
   }
 }
