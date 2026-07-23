@@ -16876,5 +16876,33 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1784800803.637409
+  },
+  "8161456a51224f963c07fd4f96a2c3d0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal investigation involving a homicide in Northern Ireland, which falls under UK jurisdiction and the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784807861.931867
+  },
+  "0190adc120d378360d7b6c7093dbe789": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving the sentencing of an individual for planning a terror attack on a UK military facility.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784807873.474259
+  },
+  "e25f7640cc82ab0c9275dc53dd013b4a": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a significant national controversy regarding UK sentencing policy, government prison release schemes, and the impact on the families of victims of crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784807884.587324
+  },
+  "79dab95eba3f10d51d5bd56f52d20e39": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding institutional police misconduct and criminal activity within a UK police force, which is a matter of serious public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784807895.270901
   }
 }
