@@ -16953,5 +16953,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784816717.560828
+  },
+  "a784be4942e79b1580d6adc427f23f37": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling involving UK security services (MI5) and police, concerning the protection of journalists and surveillance laws.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784822875.92184
+  },
+  "49f2ad320ee88d45d3fd85521ca502ec": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a regional health crisis in the DRC and does not materially affect the UK or constitute a major domestic news story.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784822887.233559
+  },
+  "a4a8b84d0b4263dabb810464efc90710": {
+    "is_relevant": true,
+    "reasoning": "This is significant national news regarding UK infrastructure and climate impact affecting multiple regions of the country.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784822896.88119
+  },
+  "331fc1f1c7879d8f394dec537d916e17": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related story involving a violent attack on a UK place of worship and the ongoing impact on a victim, which falls under the crime and legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784822907.371564
   }
 }
