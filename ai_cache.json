@@ -16995,5 +16995,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1784828785.167532
+  },
+  "89803696e4a9b929f524f2290655b550": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy decision regarding the UK justice system and prison management, directly impacting national public safety and government strategy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784834521.053538
+  },
+  "d9884d2410cddd37a97680d43e97cc38": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK-based tragedy involving emergency services and police investigations in Essex, which falls under public safety and critical news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784834530.06468
   }
 }

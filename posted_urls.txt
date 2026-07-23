@@ -1,5 +1,3 @@
-2026-07-16T18:42:06.943941+00:00|https://www.bbc.co.uk/news/articles/c17y7k5pdpgo|dog walker killer also guilty of attempted murder|e39a8f813e37dea25e0a3ca1b681512f
-2026-07-16T18:42:09.372392+00:00|https://www.bbc.co.uk/news/articles/c8enr5647kwo|real epidemic in children being injured by escooters says doctor|d7679c57c94fce0c12dddc80029455c8
 2026-07-16T19:47:41.196377+00:00|https://www.bbc.co.uk/news/articles/czrjg0jxkpno|energy drinks to be banned for under16s in england from april|e162f795067a6ca4652895ff1b434c5c
 2026-07-16T19:47:43.518215+00:00|https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo|fifa assessing reports over falklands banner|c43654bd06b32082f95793a290592457
 2026-07-16T21:02:48.124810+00:00|https://www.telegraph.co.uk/cricket/2026/07/16/england-vs-india-live-score-latest-updates-from-second-odi|brilliant root picks off india to set up decider|0a707b84ae53232c05e6ba68060ce141
@@ -176,3 +174,5 @@
 2026-07-23T16:08:35.098745+00:00|https://news.sky.com/story/manchester-synagogue-security-guard-says-life-changed-forever-after-attack-13566273|manchester synagogue security guard says life changed forever after attack|331fc1f1c7879d8f394dec537d916e17
 2026-07-23T17:46:26.281870+00:00|https://www.bbc.co.uk/news/articles/cr496pxv0z0o|murder investigation launched 35 years after pensioners death|240d17f298ba1748eb0541fbbed89bcf
 2026-07-23T17:46:28.811968+00:00|https://www.bbc.co.uk/news/articles/c62vqj7ged4o|what could happen to prisoner early release scheme now pm has paused it|7d9565196fd37830b26c07f10d32dcad
+2026-07-23T19:22:12.380744+00:00|https://www.bbc.co.uk/news/articles/cx2lpjw516eo|burnham pauses plan to release some prisoners early from september|89803696e4a9b929f524f2290655b550
+2026-07-23T19:22:14.900292+00:00|https://www.bbc.co.uk/news/articles/c8xnq7qyr7ro|burnham tells swinney independence is off limits at glasgow commonwealth games meeting|2057a3dc860a51a7adf785119f8c68ca
