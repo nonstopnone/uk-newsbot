@@ -17247,5 +17247,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784927262.329637
+  },
+  "343262b33beb92b64d61e3b68a75c077": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding judicial scrutiny of police bail decisions and criminal justice proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784931540.984779
+  },
+  "106ca8dd2df7ba3a6d7dbb28743f8d17": {
+    "is_relevant": true,
+    "reasoning": "This is a significant major incident involving a large-scale fire and explosion in the UK that requires emergency response, meeting the criteria for hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784931550.278959
   }
 }
