@@ -17177,5 +17177,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784912340.734246
+  },
+  "ce2f5828ff65b0d0a25e6b5354698569": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a football pre-season friendly match, which falls under sports lifestyle/preview content and does not meet the criteria for hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784917524.465543
+  },
+  "17f08465f45399dc29ccc324f6ca1972": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a fatal drowning incident in the UK that has national public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784917533.449876
+  },
+  "7d5dc138244e1260e18cdf237cd6e3eb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving Metropolitan Police officers and a major piece of infrastructure in London.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784917543.963083
   }
 }

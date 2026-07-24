@@ -1,5 +1,3 @@
-2026-07-17T18:07:46.639220+00:00|https://www.bbc.co.uk/news/articles/c78gddpjv2eo|fraudster who used £200000 covid loans to invest in stocks is jailed|27d45de7b0a6f65b64c2eef8f16891c7
-2026-07-17T18:07:49.204235+00:00|https://www.bbc.co.uk/news/articles/c4gw9pp0xlno|brewdog founder faces data complaints over efforts to buy back firm|8a993e099807b3611e45154d03bf06e7
 2026-07-17T19:33:11.965971+00:00|https://www.bbc.co.uk/news/articles/cr59ng05nngo|helicopters waterbomb cairngorms wildfire as it burns for a third day|4318c93ab12777c818a506decaa4ed5f
 2026-07-17T21:34:56.370504+00:00|https://www.telegraph.co.uk/golf/2026/07/17/the-open-live-latest-leaderboard-scores-updates-round-2|bryson dechambeau given twoshot penalty for improving lie at open championship|afab0301d84a2f584c02d265afa11578
 2026-07-17T21:34:59.151625+00:00|https://www.bbc.co.uk/news/articles/ckge923jk3vo|clacton byelection attracts 34 candidates|f5e24d35022e60c1291078c0771d9ff6
@@ -165,3 +163,6 @@
 2026-07-24T16:59:02.768815+00:00|https://www.bbc.co.uk/news/articles/c935k4k4pezo|officers hurt as police boat hits westminster bridge|c788073646b423040f67750cb130920e
 2026-07-24T16:59:05.143408+00:00|https://www.bbc.co.uk/news/articles/ckg688pr9z0o|mega dinghy carries record 165 migrants to uk|0e22e0d0c565d941d90ca71e1cc10e28
 2026-07-24T16:59:07.576050+00:00|https://news.sky.com/story/prison-staff-asked-to-warn-of-any-prison-unrest-due-to-delays-in-releases-13566657|prison staff asked to warn of any prison unrest due to delays in releases|8065ea40d33d0ac3d248434ea56dfccc
+2026-07-24T18:25:46.643448+00:00|https://www.bbc.co.uk/news/articles/cz7dve71n9lo|beach hero tells of attempt to save drowning girl and mum|17f08465f45399dc29ccc324f6ca1972
+2026-07-24T18:25:49.073982+00:00|https://news.sky.com/story/five-officers-injured-after-police-boat-hits-bridge-in-london-13566704|police boat carrying armed officers crashes into bridge in london|7d5dc138244e1260e18cdf237cd6e3eb
+2026-07-24T18:25:51.630038+00:00|https://www.bbc.co.uk/news/articles/cx2dg54vprno|angela rayner rules out rent controls in england|315428bf0f936ab325f8c673947a15e2
