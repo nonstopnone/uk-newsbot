@@ -17030,5 +17030,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784877525.503428
+  },
+  "09072d317b5f148495e8b67a74ab696f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development directly impacting millions of UK homeowners and the domestic housing market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784886984.477484
+  },
+  "90c489bd0636d36d570afe0c44d20c14": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on public health infrastructure in Africa and does not have a material impact on or direct connection to UK domestic policy, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784886994.577627
+  },
+  "1bd6595ce01b73adb721fecc8ff0dcf8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development involving a major UK export industry and trade relations with the US, carrying material impact for the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784887002.927897
+  },
+  "644e6b22943db5bd61f14ebca85fa46f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant medical breakthrough within the NHS directly impacting UK healthcare standards and clinical practice.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784887012.806203
   }
 }
