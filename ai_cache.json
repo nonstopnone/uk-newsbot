@@ -17100,5 +17100,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784893563.896878
+  },
+  "e9ad1372934fd4d04d584c2648f55cb4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, breaking local news incident involving multiple fatalities and major infrastructure disruption in a UK city.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784898494.620931
+  },
+  "55d7a2fcd3bdbf144a9fb57f1e636e20": {
+    "is_relevant": true,
+    "reasoning": "This is a major security incident involving a bomb threat at the Northern Ireland border, which directly concerns UK national security and stability.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784898503.395467
+  },
+  "f366789e2b8be302f0deeb3270642483": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal conviction occurring within the UK legal system, which falls under the category of Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784898512.936943
   }
 }
