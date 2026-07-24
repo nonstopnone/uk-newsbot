@@ -1,4 +1,3 @@
-2026-07-17T19:33:11.965971+00:00|https://www.bbc.co.uk/news/articles/cr59ng05nngo|helicopters waterbomb cairngorms wildfire as it burns for a third day|4318c93ab12777c818a506decaa4ed5f
 2026-07-17T21:34:56.370504+00:00|https://www.telegraph.co.uk/golf/2026/07/17/the-open-live-latest-leaderboard-scores-updates-round-2|bryson dechambeau given twoshot penalty for improving lie at open championship|afab0301d84a2f584c02d265afa11578
 2026-07-17T21:34:59.151625+00:00|https://www.bbc.co.uk/news/articles/ckge923jk3vo|clacton byelection attracts 34 candidates|f5e24d35022e60c1291078c0771d9ff6
 2026-07-17T22:32:42.604432+00:00|https://www.bbc.co.uk/news/articles/crk5d042gryo|fears staff car parking charges could cripple cardiff businesses|aa36d68cfd7b34c1e37914747b6d417f
@@ -166,3 +165,6 @@
 2026-07-24T18:25:46.643448+00:00|https://www.bbc.co.uk/news/articles/cz7dve71n9lo|beach hero tells of attempt to save drowning girl and mum|17f08465f45399dc29ccc324f6ca1972
 2026-07-24T18:25:49.073982+00:00|https://news.sky.com/story/five-officers-injured-after-police-boat-hits-bridge-in-london-13566704|police boat carrying armed officers crashes into bridge in london|7d5dc138244e1260e18cdf237cd6e3eb
 2026-07-24T18:25:51.630038+00:00|https://www.bbc.co.uk/news/articles/cx2dg54vprno|angela rayner rules out rent controls in england|315428bf0f936ab325f8c673947a15e2
+2026-07-24T19:56:44.568547+00:00|https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o|law student is charged over intercepted bomb in car|8b2eb79d9b2bc0930821e723f47b305d
+2026-07-24T19:56:47.378435+00:00|https://www.bbc.co.uk/sport/swimming/articles/cy5dnelqyyzo|scotland kickstart glasgow 2026 with three medals in 45 minutes|ed46d439d904b736f98ca798fc666d16
+2026-07-24T19:56:50.200907+00:00|https://www.telegraph.co.uk/business/2026/07/24/trump-tariffs-oil-prices-pmi-ftse-100-markets|britain to pay higher trump tariffs than eu|bfbad2e0333f87271ebfb13b5f9bdafa

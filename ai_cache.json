@@ -17198,5 +17198,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784917543.963083
+  },
+  "8b2eb79d9b2bc0930821e723f47b305d": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a major security threat involving dissident republican activity and an intercepted explosive device intended for transport into Northern Ireland, which directly impacts UK national security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784922963.799243
+  },
+  "ed46d439d904b736f98ca798fc666d16": {
+    "is_relevant": true,
+    "reasoning": "This is a report on major sporting achievements by Scottish athletes at the Commonwealth Games, which is a significant event within the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784922974.927422
+  },
+  "bfbad2e0333f87271ebfb13b5f9bdafa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development involving international trade policy that directly impacts UK business competitiveness and export costs.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1784922984.500349
+  },
+  "68d99e639b95bc9a34f38147d500b6b5": {
+    "is_relevant": false,
+    "reasoning": "This is a sports opinion/analysis piece regarding football player availability and club strategy, which does not meet the criteria for hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784922994.761486
+  },
+  "8d5bff02a41fb76ebb752abbe9ea84e5": {
+    "is_relevant": false,
+    "reasoning": "This article concerns heritage and archaeological interest rather than hard news impacting UK politics, economy, crime, or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784923003.383955
   }
 }
