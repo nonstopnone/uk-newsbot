@@ -1,6 +1,3 @@
-2026-07-17T10:56:36.339922+00:00|https://www.bbc.co.uk/news/articles/cwyml7p30dpo|greens leader renews call for extra security after ann widdecombe death|c7a644f42e906244e9f2a32a9770b608
-2026-07-17T10:56:39.087720+00:00|https://news.sky.com/story/parts-of-england-have-recorded-longest-spell-without-rain-since-mid-1990s-figures-show-13564268|parts of england record longest spell without rain since mid1990s|cb59852c6e3ebf9817260d662b005135
-2026-07-17T10:56:41.469426+00:00|https://news.sky.com/story/man-convicted-of-killing-british-tourist-with-single-punch-ordered-to-be-extradited-to-greece-13564240|man convicted of killing british tourist with single punch to be extradited to greece|6c2c847ae92bc18f5e27510588709216
 2026-07-17T12:12:06.987542+00:00|https://www.bbc.co.uk/weather/articles/ckg4gqlye02o|longest dry spell in 30 years for parts of england as heatwave hits twoweek mark|b752e4e83e2aa9c13ebdff62bb1d13c6
 2026-07-17T12:12:09.625668+00:00|https://www.bbc.co.uk/news/articles/cx2rmm1g5ego|man appears in court charged with causing death by dangerous driving|d1c0633b92f5f258c83e74062ac6bb1a
 2026-07-17T14:05:15.391613+00:00|https://www.bbc.co.uk/news/articles/c0ej11qg5jzo|killer who stabbed unsuspecting man he lured on dating app jailed for life|c318364a78c3d6d9855dc49fc9b8e8ca
@@ -166,3 +163,6 @@
 2026-07-24T09:56:53.484384+00:00|https://www.bbc.co.uk/news/articles/c70gknr7z1eo|uk mortgage rates rise to highest level for a month|09072d317b5f148495e8b67a74ab696f
 2026-07-24T09:56:55.822197+00:00|https://www.bbc.co.uk/news/articles/c7vgz680977o|scotch whisky levy lifted as trump imposes new wave of us tariffs|1bd6595ce01b73adb721fecc8ff0dcf8
 2026-07-24T09:56:58.589172+00:00|https://news.sky.com/story/girl-11-becomes-first-in-uk-to-receive-innovative-sight-saving-gene-therapy-13566513|girl 11 becomes first in uk to receive sightsaving gene therapy|644e6b22943db5bd61f14ebca85fa46f
+2026-07-24T11:46:04.670378+00:00|https://www.bbc.co.uk/news/articles/cpq82dg0y3qo|extremely significant bomb in car intercepted near ni border irish police say|a43ac0c5b9766275035c9d53c5cc612b
+2026-07-24T11:46:07.421101+00:00|https://www.bbc.co.uk/news/articles/cpq82dg0y3qo|police intercept car with bomb on way to attack in ni|35b0f21b3e7b16621768096d81948da8
+2026-07-24T11:46:10.349490+00:00|https://news.sky.com/story/uk-weather-heat-health-alerts-in-place-for-england-during-busy-getaway-weekend-13566549|heat health alerts in place for england during busy getaway weekend|75489409d5d0f12cd6adf8097c73cc2a

@@ -17058,5 +17058,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784887012.806203
+  },
+  "a43ac0c5b9766275035c9d53c5cc612b": {
+    "is_relevant": true,
+    "reasoning": "This is a major security incident involving a bomb plot aimed at Northern Ireland, which directly impacts UK national security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784893515.211121
+  },
+  "35b0f21b3e7b16621768096d81948da8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a direct threat to Northern Ireland, which is part of the United Kingdom, making it highly relevant to a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784893524.112525
+  },
+  "ce2df509565248462ba78998a840c6d6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a UK national convicted of serious offences, heard in a UK court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784893536.823088
+  },
+  "5d2d9f879f4388daf4a33103e5d30ddb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency services incident involving a major wildfire and the deployment of specialist assets on UK soil.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784893544.819176
+  },
+  "f1c4dc80258d5c13dec56bb884b221a4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction within the UK judicial system involving historical abuse and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784893553.764548
+  },
+  "75489409d5d0f12cd6adf8097c73cc2a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety alert issued by UK health authorities affecting a large portion of the population during a peak travel period.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784893563.896878
   }
 }
