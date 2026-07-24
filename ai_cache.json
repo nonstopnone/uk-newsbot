@@ -17121,5 +17121,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784898512.936943
+  },
+  "9d48bba7934038dba1d5062529ae9df3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety event involving national infrastructure and emergency services in Scotland that directly impacts public health for a large population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784905644.083808
+  },
+  "362a9f5280e76ce6092b7aa4a6d67398": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and court sentencing report concerning a murder conviction, which is directly relevant to UK legal and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784905653.625626
+  },
+  "2cc078a596b94062b874460d88dd7626": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/personal finance advice article that does not constitute hard news relevant to UK governance, economy, or public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784905664.555584
+  },
+  "3a9bbfcd609141aa4a928ab2e8709cc6": {
+    "is_relevant": true,
+    "reasoning": "The closure of a charity founded by a prominent member of the British Royal Family is a matter of public record and significant interest regarding the institution's conduct.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1784905675.642471
+  },
+  "6b2037ca07203c0c7af250b87294582d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal justice and legal development regarding a high-profile murder case that caused major national unrest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784905687.052793
   }
 }
