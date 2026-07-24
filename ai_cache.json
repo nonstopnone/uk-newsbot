@@ -17233,5 +17233,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784923003.383955
+  },
+  "deff20c22bed1566f43035aad1ea0a6a": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant legal outcome and the early release/deportation of a convicted offender from a UK prison, which is a matter of public interest regarding the UK justice and immigration systems.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784927253.037973
+  },
+  "930bcc7da8d425ec1a14039b674ecd32": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety event involving a major incident declaration, police resources, and the evacuation of a UK village due to a wildfire.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784927262.329637
   }
 }
