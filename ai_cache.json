@@ -17016,5 +17016,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784846435.986078
+  },
+  "8fb49bc45b0b93b840973dc7378a00c2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal drowning incident involving emergency services and police investigation in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784877515.705806
+  },
+  "225823a8471be65337f3f88da27d4d72": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story/animal-related anecdote rather than hard news regarding UK politics, economy, crime, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784877525.503428
   }
 }
