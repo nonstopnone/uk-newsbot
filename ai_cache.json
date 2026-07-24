@@ -17261,5 +17261,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1784931550.278959
+  },
+  "7a0cb948322c71110c3feb7a1a8d5f7b": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and parenting advice article providing tips for summer activities, which falls under the excluded 'fluff' category.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784936013.717752
+  },
+  "c979d54072eb5a03799594f0413a658d": {
+    "is_relevant": false,
+    "reasoning": "This is a television industry entertainment piece focused on celebrity lifestyle and personality-driven media news, which does not meet the threshold for hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784936025.036237
   }
 }
