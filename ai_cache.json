@@ -17156,5 +17156,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784905687.052793
+  },
+  "0e22e0d0c565d941d90ca71e1cc10e28": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on illegal immigration and border security, which is a key policy area and matter of public record for the UK.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1784912319.070879
+  },
+  "8065ea40d33d0ac3d248434ea56dfccc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the management of the UK prison estate and government policy on prisoner releases, which is a matter of public interest and security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784912329.839763
+  },
+  "d183fed63c7c1ecf0c4bed848ac5bd45": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and fitness-focused interview/profile piece rather than hard news, politics, or significant public interest reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784912340.734246
   }
 }
