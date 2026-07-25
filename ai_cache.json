@@ -17303,5 +17303,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784962685.089501
+  },
+  "b64da85b65da1d4892ad4f6f8d1f468a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant incident involving a member of the England national team during a major international sporting event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784970381.102627
   }
 }
