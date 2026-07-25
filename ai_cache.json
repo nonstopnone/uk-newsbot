@@ -17275,5 +17275,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784936025.036237
+  },
+  "6b69f3fe6d83b3829f909562d02aa478": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency incident involving public safety and government response within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784941908.780225
+  },
+  "8b82a59bbf6054bf08c9a5d1ba53b05a": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer interest/lifestyle story regarding product packaging and recycling rather than hard news or significant UK policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784941919.425844
+  },
+  "0837493a7be03de5b76ab93b32f91b8f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news event involving an injury to a British athlete representing England at a major international multi-sport games.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1784941929.92782
   }
 }

@@ -170,3 +170,6 @@
 2026-07-24T22:19:14.169393+00:00|https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo|huge explosion and fire rip through essex industrial site|106ca8dd2df7ba3a6d7dbb28743f8d17
 2026-07-24T23:33:46.345255+00:00|https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o|long overdue lifechanging or frivolous your thoughts on wedding rule changes|7624aeddebbf6ef5ee86df6176b4e2ee
 2026-07-24T23:33:48.642624+00:00|https://www.bbc.co.uk/news/articles/c70gq125xweo|adhd has rewired the workplace this is what it means for bosses and workers|ff2e003dd0a6f2599d034a43754372a8
+2026-07-25T01:12:10.844255+00:00|https://www.bbc.co.uk/weather/articles/c70gwq88gz7o|heatwave conditions to return for many as uk temperatures to peak at 35c|eed3fa336b52930a54699404cf85f992
+2026-07-25T01:12:13.454009+00:00|https://www.bbc.co.uk/news/articles/c4gwpvq6q03o|wildfire burning one month on is the size of a small town|ccfef46545149276881ffdba58d03d67
+2026-07-25T01:12:16.063369+00:00|https://news.sky.com/story/cairngorms-national-park-wildfire-declared-major-incident-as-hundreds-of-villagers-evacuated-13566798|cairngorms wildfire declared major incident as hundreds of villagers evacuated|6b69f3fe6d83b3829f909562d02aa478
