@@ -17310,5 +17310,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784970381.102627
+  },
+  "d50f5d508b7e140baf94585f6f18b474": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/entertainment recommendation guide, which is explicitly excluded under the criteria for hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784976279.304465
   }
 }
