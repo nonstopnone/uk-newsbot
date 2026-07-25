@@ -17338,5 +17338,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1784986754.562538
+  },
+  "96dd6632ba70c8191bc0b99ca84ca2a7": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-related article focusing on team news and pre-season friendlies, which falls under the excluded 'sport previews/club news' category rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1784990979.528626
+  },
+  "813657926bcef9c29d1e87c7f958429b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cultural event in a major UK city (Belfast) involving public order, large-scale community participation, and civic interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1784990990.077611
+  },
+  "088cb646eafb07caea65668420e0ed86": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and police-related incident involving a major UK airport and law enforcement intervention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784990998.417664
+  },
+  "c5418aa5ce41467b97efd51dbd10833e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime and subsequent police investigation in London, which is highly relevant to UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784991009.021919
   }
 }

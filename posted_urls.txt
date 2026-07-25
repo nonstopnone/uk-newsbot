@@ -1,4 +1,3 @@
-2026-07-18T13:50:26.222070+00:00|https://www.bbc.co.uk/news/articles/c04kpx2l3p9o|murder investigation after woman found dead following street altercation|048515e475741e5082a92977dcfbfc3a
 2026-07-18T14:55:53.837342+00:00|https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688|british runner josh kerr breaks world record for mile which had stood for 27 years|3b4508bdf5b7dc240efdb80615775113
 2026-07-18T14:55:56.646237+00:00|https://www.bbc.co.uk/news/articles/c3043vl2l7zo|ruthless plotter flipflopper dad dancer insiders reveal the real andy burnham|0256c4ac8a96ef2297bd37f5a18522f6
 2026-07-18T16:00:34.849287+00:00|https://www.telegraph.co.uk/rugby-union/2026/07/18/argentina-vs-england-live-score-latest-nations-championship|asher opokufordjour ruled out of argentina test with concussion|76bd7d5d7c07a86bd76176db3cdc4983
@@ -173,3 +172,7 @@
 2026-07-25T11:52:25.918583+00:00|https://www.bbc.co.uk/news/articles/c80ny93xlrvo|tourists describe their escape from france wildfires|795e608b9c81cf67fe6ce520b649a063
 2026-07-25T13:39:16.771692+00:00|https://www.bbc.co.uk/news/articles/c20jdy584pvo|letters by presmiths morrissey set for auction|980feb0ec6879a95ed952e623347f4f2
 2026-07-25T13:39:19.513888+00:00|https://www.bbc.co.uk/news/articles/cly5j8dwwpeo|six men arrested over fatal stabbing in south london|9d5d16aa3b65c005e1b3378ce2c957cb
+2026-07-25T14:50:10.852901+00:00|https://www.bbc.co.uk/news/articles/c5yv4gprn3xo|belfast pride is not just a celebration its a protest for freedom|813657926bcef9c29d1e87c7f958429b
+2026-07-25T14:50:13.738453+00:00|https://news.sky.com/story/boy-14-assisting-police-after-hoax-threat-made-to-aircraft-approaching-manchester-airport-13566910|boy 14 assisting police after hoax threat made to aircraft|088cb646eafb07caea65668420e0ed86
+2026-07-25T14:50:16.458103+00:00|https://news.sky.com/story/six-arrested-after-man-stabbed-to-death-in-south-london-13563883|six arrested after man stabbed to death in south london|c5418aa5ce41467b97efd51dbd10833e
+2026-07-25T14:50:18.880896+00:00|https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo|sean mccann madeleines brother makes commonwealths final|f50e062ef2d37d01f80f6c5d62a713f6
