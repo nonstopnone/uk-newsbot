@@ -17394,5 +17394,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785004055.395065
+  },
+  "eb7a077b7c91f92b97ab02a03dd95e21": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle piece focusing on personal recommendations for garden centres, which qualifies as fluff/lifestyle content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785008759.282164
+  },
+  "bd8b410c5abf7aa37dad8b01560a9076": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a suspected car bomb near the Northern Ireland border, which directly concerns UK national security and regional stability.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785008769.448207
   }
 }
