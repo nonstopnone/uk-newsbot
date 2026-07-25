@@ -17296,5 +17296,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1784941929.92782
+  },
+  "dcce3f50d300e50eacad8c874bed0d5d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on widespread criminal activity and rural crime affecting UK farmers, which falls under the remit of UK police and legal enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784962685.089501
   }
 }
