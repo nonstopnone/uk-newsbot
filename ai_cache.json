@@ -17366,5 +17366,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1784991009.021919
+  },
+  "23d6bc15401a670809aa272397e20a81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic emergency involving the Scottish government's response to a major incident and the evacuation of UK citizens.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1784995554.913565
   }
 }
