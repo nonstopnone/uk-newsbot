@@ -17415,5 +17415,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785012915.41953
+  },
+  "36837f1f592f1c1cd2b2be7042ebc0c1": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a crime and legal proceedings occurring entirely within the Republic of Ireland, which does not materially affect the UK or constitute domestic UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785020566.055798
   }
 }
