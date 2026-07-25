@@ -17380,5 +17380,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784999784.843716
+  },
+  "fc5eab5c5c0f176f8b104151b2fe98fd": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the qualifying results and grid penalties of a British Formula 1 driver at a major international sporting event, which is significant for UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785004046.533536
+  },
+  "0133761714de35f3395fe2d2f023cc8c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public order event involving police intervention and multiple arrests in a major UK city, which falls squarely under domestic crime and security news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785004055.395065
   }
 }
