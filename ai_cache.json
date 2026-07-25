@@ -17408,5 +17408,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785008769.448207
+  },
+  "cf0bdd8f4bd7f5eed8acb3bd2724c863": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result in a major international sporting event involving a prominent British athlete.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785012915.41953
   }
 }
