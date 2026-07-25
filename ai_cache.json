@@ -17317,5 +17317,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1784976279.304465
+  },
+  "795e608b9c81cf67fe6ce520b649a063": {
+    "is_relevant": true,
+    "reasoning": "This is a significant international event involving the evacuation of a large number of British citizens abroad, which is of material concern to the UK public and travel sector.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1784980343.985213
   }
 }
