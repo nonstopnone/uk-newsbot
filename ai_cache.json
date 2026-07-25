@@ -17324,5 +17324,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1784980343.985213
+  },
+  "9d5d16aa3b65c005e1b3378ce2c957cb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a fatal stabbing and multiple arrests in London, which is highly relevant to UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1784986745.297252
+  },
+  "453db259a65786c35dfb9b3f02e1711f": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the new Prime Minister's first week in office and major policy changes at the seat of government, which constitutes significant UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1784986754.562538
   }
 }
