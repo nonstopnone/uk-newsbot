@@ -17457,5 +17457,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785024886.479852
+  },
+  "0c979f71f1ccdcf13cb518c65922bffc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding public safety, local authority policy, and a fatal incident involving UK emergency services, falling under crime and safety-related news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785048289.199089
+  },
+  "826d7364209de7cc1549c7a563628953": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK political news story involving the Prime Minister's policy stance on general elections.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785048300.49547
+  },
+  "0892fb35baca8187495c0ace5cf33467": {
+    "is_relevant": true,
+    "reasoning": "This concerns the Prime Minister's stance on foreign policy and diplomatic relations with the US, which is a matter of significant national interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785048309.914177
   }
 }
