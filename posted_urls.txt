@@ -1,4 +1,3 @@
-2026-07-19T20:32:27.287665+00:00|https://www.bbc.co.uk/news/articles/cr59mqnm081o|fire crews battling blaze on arthurs seat in edinburgh|a76f729cade7998340c151bb632c9d17
 2026-07-19T21:35:43.771812+00:00|https://www.bbc.co.uk/news/articles/c0kmj8pngzgo|parents of teen who died of menb say vaccine rollout will save others|b423fe95a5b60fae42561c6213d4f01d
 2026-07-19T21:35:46.594935+00:00|https://www.bbc.co.uk/news/articles/c3ek8n17lq3o|man injured in dockside crane collapse|f42008431c82354f52bc9a04e01d880b
 2026-07-19T23:40:30.865629+00:00|https://www.bbc.co.uk/news/articles/c62x4ddn13yo|ulster unionists to establish independent process over child abuser donaldson|98018b9f0010e0b393900aa542dafdd0
@@ -168,3 +167,5 @@
 2026-07-26T15:11:43.098309+00:00|https://www.bbc.co.uk/news/articles/clyq5nqw13lo|teen charged over record crossing on mega dinghy|b2cef10513dee0e7749dcde364a9f42f
 2026-07-26T16:15:00.948975+00:00|https://www.bbc.co.uk/news/articles/c9d8jgw769zo|broadcaster gerry kelly dies aged 77|ea8e802caa9a4efc4fad2e6b90704542
 2026-07-26T19:55:07.182821+00:00|https://www.telegraph.co.uk/formula-1/2026/07/26/f1-hungarian-grand-prix-2026-live-latest-hamilton-norris|lando norris comes in from the cold with dominant hungarian gp victory|211b788f076b35aa4a7ea03c75483790
+2026-07-26T21:00:30.158210+00:00|https://www.bbc.co.uk/news/articles/cp8l050d18yo|antisemitism felt relentless jewish students on life at uk universities|26727a63fea2afd5754ac0337adf3a25
+2026-07-26T21:00:32.764123+00:00|https://www.bbc.co.uk/news/articles/c9805pkkkejo|four people including baby die after car crash|ec3051348379575415008a53b0c976fb

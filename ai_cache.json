@@ -17555,5 +17555,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785095706.531704
+  },
+  "ec3051348379575415008a53b0c976fb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal multi-victim road traffic accident in the UK involving a police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785099610.215331
+  },
+  "7859c822c879428804db096e0c87e19d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on serious criminal charges and ongoing police investigations in the UK, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785099620.487633
+  },
+  "e6f9ec0859cbd677b7d2ceaefa4f09fa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local news event involving a fatal multi-person road traffic collision in the UK, which is relevant for regional and national public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785099628.980229
   }
 }
