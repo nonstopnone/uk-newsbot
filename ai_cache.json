@@ -17506,5 +17506,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785067496.690442
+  },
+  "f18b0fd4a102ee6a9c0224b851e8a06b": {
+    "is_relevant": true,
+    "reasoning": "This is a serious criminal incident involving the attempted murder of police officers on duty, which constitutes significant UK crime and public safety news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785074241.33161
   }
 }
