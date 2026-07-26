@@ -17527,5 +17527,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1785078702.406443
+  },
+  "ea8e802caa9a4efc4fad2e6b90704542": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent, long-serving broadcaster who held a significant role in Northern Irish media is a notable piece of UK regional news.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785082499.144413
   }
 }
