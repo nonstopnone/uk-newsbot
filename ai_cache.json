@@ -17541,5 +17541,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785086858.562907
+  },
+  "211b788f076b35aa4a7ea03c75483790": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant result in international sport involving a prominent British athlete, which falls under the category of UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785095683.514928
+  },
+  "62920a87dd862a3fdc70b3fcb7128c97": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/human interest piece about a cultural event and does not constitute hard news relevant to UK political, economic, or legal affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785095706.531704
   }
 }
