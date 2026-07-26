@@ -17534,5 +17534,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785082499.144413
+  },
+  "c898f5f6f87d980e8d95f13ee8fc7e92": {
+    "is_relevant": false,
+    "reasoning": "This is a business-related sports development regarding private investment in a football club, which falls under sports/lifestyle business news rather than hard UK news or public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785086858.562907
   }
 }
