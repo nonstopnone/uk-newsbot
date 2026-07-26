@@ -5756,10 +5756,10 @@
   },
   "6a28295682a956dfce15b4a77f9348af": {
     "is_relevant": false,
-    "reasoning": "This is a sports betting service and tips column, which falls under the excluded category of sports previews and non-hard news content.",
+    "reasoning": "This article is a sports betting service/racing tip column, which falls under the excluded category of sports previews and non-news lifestyle content.",
     "flair": "",
     "provider": "Gemini",
-    "timestamp": 1784227323.404905
+    "timestamp": 1785056626.131793
   },
   "e3aea2be962d38d61d7630520d680f43": {
     "is_relevant": false,
@@ -17478,5 +17478,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785048309.914177
+  },
+  "ada330fde7770cc10aafab8a4a447e54": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a declared major incident involving emergency services and multiple injuries at an industrial site in Essex, which constitutes significant UK crime and safety news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785056635.159391
+  },
+  "d97a6eb0fd4519d8ecc42aaedad90ec6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political interview with the Prime Minister regarding his stance on foreign policy and international relations with the US President, which is of major importance to UK national interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785056646.257479
   }
 }
