@@ -169,3 +169,6 @@
 2026-07-26T21:00:32.764123+00:00|https://www.bbc.co.uk/news/articles/c9805pkkkejo|four people including baby die after car crash|ec3051348379575415008a53b0c976fb
 2026-07-26T22:07:44.637342+00:00|https://www.bbc.co.uk/news/articles/cy8me5vyjg2o|pm pledges continued support for ukraine ahead of zelensky visit|195846326e7f1626236dddaf6a3635fc
 2026-07-26T22:07:46.976378+00:00|https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo|badenoch says pm must rule out tax rises to fund social care reform|e9f0167963fdb3357fb504522a24c0ea
+2026-07-26T23:12:49.349663+00:00|https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo|uks most parched regions miss chance for rain ahead of next heatwave|ac239855135daec8c806f39d1244c068
+2026-07-26T23:12:51.735408+00:00|https://www.bbc.co.uk/news/articles/cly9npzw3y3o|i fear for wee families home heating oil jumps £100 in three weeks|3deb7bcdae57bcf2a9e021ab1e3e41dd
+2026-07-26T23:12:54.412556+00:00|https://news.sky.com/story/sackings-drone-deal-and-a-long-war-volodymyr-zelenskyy-speaks-to-sky-news-13567240|sackings drone deal and a long war zelenskyy speaks to sky news|e9f5b2db75cf9928ce77f6a91be7d9b4

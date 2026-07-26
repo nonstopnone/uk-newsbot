@@ -17576,5 +17576,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785099628.980229
+  },
+  "88e039f6f10eab4af8067e051a0e930b": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and organisational internal update regarding clothing choices for a charity, which does not constitute hard news or a matter of significant public policy relevant to the broader UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785107538.722459
+  },
+  "3deb7bcdae57bcf2a9e021ab1e3e41dd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cost-of-living issue affecting a large portion of households in a UK region, meeting the criteria for economic news.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785107549.151282
+  },
+  "0622e91335a6fb721feedbd013cba685": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story about a sportsman's personal journey, which does not constitute hard news or meet the criteria for political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785107559.103813
+  },
+  "e9f5b2db75cf9928ce77f6a91be7d9b4": {
+    "is_relevant": true,
+    "reasoning": "The article covers a direct interview with a key world leader concerning the ongoing war in Ukraine, which is a matter of significant geopolitical importance that materially affects UK foreign and defence policy.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1785107568.707078
   }
 }
