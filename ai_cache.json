@@ -17422,5 +17422,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785020566.055798
+  },
+  "247434ae5609a32be7711ed88c208ebf": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the real-world impact of the Renters' Rights Act in England and provides data on significant shifts in the UK housing market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785024845.087339
+  },
+  "0e0ae1d963b5bb77f3a284bf8d225575": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and education-focused feature piece rather than hard news; it does not constitute significant UK breaking news or material political development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785024855.237084
+  },
+  "d76136a2c8e64bbd7fe3138f8697f9c0": {
+    "is_relevant": false,
+    "reasoning": "The article is a report on a sports match, which falls under the excluded category of sports previews/reports.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785024865.417693
+  },
+  "7ac0264e681d7230af20ee362235491a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety event involving emergency services and the Scottish government, making it relevant UK hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785024874.994152
+  },
+  "e61287b3a8c46f18a1eda71cdcb8ed9a": {
+    "is_relevant": false,
+    "reasoning": "This is a sports performance report regarding an individual athlete's race result, which falls under the excluded 'sport' category as per the instructions.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785024886.479852
   }
 }
