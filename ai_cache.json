@@ -17513,5 +17513,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785074241.33161
+  },
+  "cde9e399f70e9392cd0c539609eb3de8": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest retrospective piece regarding a historical event rather than breaking hard news or a current policy/legal matter.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785078691.079481
+  },
+  "b2cef10513dee0e7749dcde364a9f42f": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant legal development regarding channel crossings and UK border security, which falls directly under immigration and crime policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785078702.406443
   }
 }
