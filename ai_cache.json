@@ -17492,5 +17492,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785056646.257479
+  },
+  "1fa216d5c7deeeedda5fa70f140ffe22": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure disruption at a major UK international airport affecting thousands of passengers and requiring emergency water distribution.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785067485.682244
+  },
+  "7cc63873f58b408b5626e8e7cd335587": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure failure at a major UK international airport causing disruption to a large number of travellers.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785067496.690442
   }
 }
