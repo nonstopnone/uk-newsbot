@@ -17604,5 +17604,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1785107568.707078
+  },
+  "f988ad99eb0f9ebda3751eef25dd57a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a homicide investigation, multiple arrests, and subsequent court appearances within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785125181.027526
   }
 }
