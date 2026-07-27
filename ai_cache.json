@@ -17758,5 +17758,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785169446.048304
+  },
+  "b22bf38ad9a756baf9fd4b2765448071": {
+    "is_relevant": true,
+    "reasoning": "This involves a formal police complaint between two active UK political parties regarding alleged incitement to violence, which is a matter of significant political and legal relevance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785175577.32669
+  },
+  "71eb4ea7454e2c5dfbb3ebf06dfaf351": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal case and sentencing in a major UK city, directly involving the Scottish legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785175588.370659
+  },
+  "030c34206447fbf18c94c26d2ff9beb2": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing at a major UK court involving a high-profile public nuisance incident at a landmark in Westminster.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785175598.66062
+  },
+  "3bdbee891c16d910f2a77da47c31e9c0": {
+    "is_relevant": true,
+    "reasoning": "The potential closure of major national scientific infrastructure due to funding cuts is a matter of significant UK public and economic interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785175611.501452
+  },
+  "415744e321a14d546130f6a579da04a1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal legal inquest into a homicide case within the UK, which falls under the category of crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785175620.730807
   }
 }

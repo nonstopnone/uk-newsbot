@@ -1,7 +1,3 @@
-2026-07-20T17:02:35.533398+00:00|https://www.bbc.co.uk/news/articles/cx2j8ynx7qeo|benn leaving role as ni secretary but theres much unfinished business|ea190b80fc683d5d211a4be5170a1245
-2026-07-20T17:02:38.071517+00:00|https://www.bbc.co.uk/news/articles/c5y3m14km87o|jo stevens to leave welsh secretary post|8108103cc6a9c8e33f3718604b6d3633
-2026-07-20T17:02:40.390859+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/burnhams-plan-to-restore-uk-aid-spending|burnhams plan to restore uk aid spending|677fc2d295103535171b78159234b848
-2026-07-20T17:02:42.906718+00:00|https://news.sky.com/story/three-men-charged-with-rape-of-teenage-girls-after-child-sex-exploitation-probe-13565329|three men charged with rape of teenage girls after child sex exploitation probe|d6d517126aa085c5456881872bf3565d
 2026-07-20T19:07:14.532607+00:00|https://www.bbc.co.uk/news/articles/cn4n2erympvo|man 28 charged with murder of ann widdecombe|767db3d80dfe52e3f67109fac23aa629
 2026-07-20T19:07:16.955901+00:00|https://www.telegraph.co.uk/business/2026/07/20/oil-prices-rise-above-90-dollars-us-iran-war|uk borrowing costs rise at fastest pace in g7|757177b1908634956050dc55821e65a1
 2026-07-20T19:07:19.574653+00:00|https://news.sky.com/story/stepmother-of-murdered-10-year-old-sara-sharif-wants-inquest-to-be-held-with-jury-13565289|stepmother of murdered sara sharif wants inquest to be held with jury|31dc154644c35fe7a53705d6195638d1
@@ -173,3 +169,7 @@
 2026-07-27T16:24:09.569667+00:00|https://www.bbc.co.uk/news/articles/cp8ek0682jdo|funeral director breached families trust on industrial scale|89a148f7dc24f5bf283cd5c6fa506ecd
 2026-07-27T16:24:11.954501+00:00|https://www.bbc.co.uk/news/articles/c8enp0y1r68o|teen denies endangering 165 lives on migrant boat|65e7a1d79e691c104bd804a0c45cf3f4
 2026-07-27T16:24:17.870261+00:00|https://news.sky.com/story/two-women-dead-after-diving-trip-at-scottish-loch-13567447|two people dead after diving trip to scottish loch|863e371fc31a8d656f0a2ad6a58e497b
+2026-07-27T18:07:01.648223+00:00|https://www.bbc.co.uk/news/articles/c5y063yqlleo|reform uk reporting green leader zack polanski to police over instagram post|b22bf38ad9a756baf9fd4b2765448071
+2026-07-27T18:07:04.304800+00:00|https://www.bbc.co.uk/news/articles/c141x6lp8p4o|man jailed for abduction and rape of girl 15 in edinburgh basement|71eb4ea7454e2c5dfbb3ebf06dfaf351
+2026-07-27T18:07:06.945745+00:00|https://news.sky.com/story/uks-largest-telescope-could-be-shut-down-after-funding-cut-13567484|uks largest telescope could be shut down after funding cut|3bdbee891c16d910f2a77da47c31e9c0
+2026-07-27T18:07:09.381376+00:00|https://news.sky.com/story/inquest-opens-after-man-killed-in-the-most-brutal-way-during-summer-solstice-event-13567470|inquest opens after man killed in the most brutal way during summer solstice event|415744e321a14d546130f6a579da04a1
