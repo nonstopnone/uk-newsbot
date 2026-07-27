@@ -1,6 +1,3 @@
-2026-07-20T15:29:43.674772+00:00|https://www.bbc.co.uk/news/articles/c5y3mnll4z5o|sara sharif killer wants inquest with jury|7551ebc185888c35f374fddc4bd055cc
-2026-07-20T15:29:46.288031+00:00|https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o|kevin keegan liverpool footballer who managed england and newcastle united dies aged 75|103746c2ba72bf17bf0a0bafa2ac6cc5
-2026-07-20T15:29:48.648098+00:00|https://news.sky.com/story/athletes-arriving-in-glasgow-cant-wait-for-commonwealth-games-to-start-13565256|athletes arriving in glasgow cant wait for commonwealth games to start|b442d59af009d820678e6bce014662aa
 2026-07-20T17:02:35.533398+00:00|https://www.bbc.co.uk/news/articles/cx2j8ynx7qeo|benn leaving role as ni secretary but theres much unfinished business|ea190b80fc683d5d211a4be5170a1245
 2026-07-20T17:02:38.071517+00:00|https://www.bbc.co.uk/news/articles/c5y3m14km87o|jo stevens to leave welsh secretary post|8108103cc6a9c8e33f3718604b6d3633
 2026-07-20T17:02:40.390859+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/burnhams-plan-to-restore-uk-aid-spending|burnhams plan to restore uk aid spending|677fc2d295103535171b78159234b848
@@ -172,3 +169,7 @@
 2026-07-27T11:27:09.175315+00:00|https://www.bbc.co.uk/news/articles/cy4k892z44jo|man and woman die after being pulled from sea|6a0107cd854ff56d7d27c818b9591734
 2026-07-27T13:55:38.293525+00:00|https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o|nhs will collapse without social care reform pm tells bbc|4865633304abc84464efaf7d87a1a442
 2026-07-27T13:55:40.918901+00:00|https://www.bbc.co.uk/news/articles/cdj0l1wrzylo|two women dead after diving trip at scottish loch|648f57d43813b41c1b9c6ffb714d410b
+2026-07-27T16:24:06.818604+00:00|https://www.telegraph.co.uk/business/2026/07/27/oil-prices-us-iran-war-ftse-100-markets-gas|europe faces energy crisis as gas stockpiles sink|b958f43556eb3d98f472199f96d9ae27
+2026-07-27T16:24:09.569667+00:00|https://www.bbc.co.uk/news/articles/cp8ek0682jdo|funeral director breached families trust on industrial scale|89a148f7dc24f5bf283cd5c6fa506ecd
+2026-07-27T16:24:11.954501+00:00|https://www.bbc.co.uk/news/articles/c8enp0y1r68o|teen denies endangering 165 lives on migrant boat|65e7a1d79e691c104bd804a0c45cf3f4
+2026-07-27T16:24:17.870261+00:00|https://news.sky.com/story/two-women-dead-after-diving-trip-at-scottish-loch-13567447|two people dead after diving trip to scottish loch|863e371fc31a8d656f0a2ad6a58e497b

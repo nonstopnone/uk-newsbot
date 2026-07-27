@@ -17702,5 +17702,61 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785160536.797884
+  },
+  "b958f43556eb3d98f472199f96d9ae27": {
+    "is_relevant": true,
+    "reasoning": "The article details an energy crisis directly affecting UK gas supply, prices, and winter security, which is a matter of significant national economic and infrastructure concern.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785169370.997578
+  },
+  "5b12a1984a620646df578c561d684e4d": {
+    "is_relevant": false,
+    "reasoning": "This is a financial advice and lifestyle feature article rather than hard news; it does not report on a specific event, policy change, or economic indicator.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785169381.370469
+  },
+  "2b3e732f9b064a111b4074c01f484d7d": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer technology guidance/service article regarding product support, which constitutes lifestyle/product news rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785169390.966793
+  },
+  "89a148f7dc24f5bf283cd5c6fa506ecd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the mass mishandling of bodies and fraud by a UK funeral director, which is of major public interest and legal significance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785169399.144535
+  },
+  "65e7a1d79e691c104bd804a0c45cf3f4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal case involving a major illegal channel crossing and border security, which is a matter of clear public interest in the UK.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785169409.784389
+  },
+  "105984081b32cccc7d463cca6f17b60b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant criminal conviction at a UK Crown Court regarding a murder case in Cheltenham, which falls under core UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785169420.325403
+  },
+  "6f1899f8cb7bdb571cee4c8be6c5ab85": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity health update regarding an American singer-songwriter and does not constitute hard news relevant to UK public affairs or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785169436.358908
+  },
+  "863e371fc31a8d656f0a2ad6a58e497b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant fatal incident involving emergency services and public safety in Scotland, which falls under UK hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785169446.048304
   }
 }
