@@ -17814,5 +17814,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1785182158.813993
+  },
+  "c1a7b790ba0f3295df94d61552878e3c": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK athlete's performance in a major international sporting event, fitting the criteria for sports reporting.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785186806.006644
   }
 }
