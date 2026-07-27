@@ -17849,5 +17849,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785191379.202884
+  },
+  "3249b9e3c1358a2ccc256bb50fe1b842": {
+    "is_relevant": false,
+    "reasoning": "This article concerns reality television and entertainment celebrity gossip, which constitutes lifestyle/fluff content and falls outside the scope of hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785195505.220618
   }
 }
