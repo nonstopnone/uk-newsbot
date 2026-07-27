@@ -17793,5 +17793,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785175620.730807
+  },
+  "26ebe6e77e484bfebd6a38d8daaba18e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns individuals currently subject to extradition proceedings to the UK to face serious criminal charges, which is a matter of significant legal and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785182138.809596
+  },
+  "54fbd031601a2b4a7c43dfb1789554de": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal case involving the fraudulent use of public funds within the UK parliamentary system, which is a matter of significant public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785182148.728748
+  },
+  "338cf63add8a940cc64a710e295cb09b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving border security and illegal Channel crossings, which falls under core UK policy and judicial interests.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785182158.813993
   }
 }
