@@ -17821,5 +17821,33 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785186806.006644
+  },
+  "f6c55273049a1a0ab3cc8aea3388c516": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic news story involving the displacement of hundreds of UK residents and direct ministerial involvement regarding public safety and infrastructure integrity.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785191350.888324
+  },
+  "34d97420101a463736f44530ed0fbbe5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on rural crime and policing in the UK involving illegal activity, property damage, and threats against farmers, which is a significant matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785191360.19159
+  },
+  "55a6c9388ddfa8616976122ff88f376d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a British athlete's performance in a major multi-sport event hosted in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785191370.145208
+  },
+  "9881e257eefd378356d8be09c9753bbb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and public safety development involving UK police deployment for a major national event.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785191379.202884
   }
 }

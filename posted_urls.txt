@@ -174,3 +174,7 @@
 2026-07-27T19:56:10.511125+00:00|https://news.sky.com/story/teenager-denies-piloting-dinghy-with-167-people-on-board-across-channel-13567524|teenager denies piloting dinghy with 167 people on board across channel|338cf63add8a940cc64a710e295cb09b
 2026-07-27T21:13:27.977048+00:00|https://www.telegraph.co.uk/swimming/2026/07/27/commonwealth-games-2026-adam-ramsay-peaty-50m-breaststroke|adam ramsaypeaty has to settle for 50m breaststroke bronze|c1a7b790ba0f3295df94d61552878e3c
 2026-07-27T21:13:30.541515+00:00|https://www.bbc.co.uk/news/articles/c98vg775zezo|protester who climbed big ben tower sentenced|030c34206447fbf18c94c26d2ff9beb2
+2026-07-27T22:29:40.767595+00:00|https://www.bbc.co.uk/news/articles/ce34q3rp7rqo|evacuated residents fear homes built on former mines could be demolished|f6c55273049a1a0ab3cc8aea3388c516
+2026-07-27T22:29:43.401130+00:00|https://www.bbc.co.uk/news/articles/cwylk005dg7o|gates smashed and crops destroyed as farmers threatened by gangs hunting hares|34d97420101a463736f44530ed0fbbe5
+2026-07-27T22:29:46.185818+00:00|https://news.sky.com/story/adam-ramsay-peaty-forced-to-settle-for-another-bronze-at-commonwealth-games-13567558|adam ramsaypeaty forced to settle for another bronze|55a6c9388ddfa8616976122ff88f376d
+2026-07-27T22:29:48.646202+00:00|https://news.sky.com/story/armed-officers-to-patrol-uks-largest-pride-event-amid-heightened-safety-fears-13567552|armed officers to patrol uks largest pride event amid safety fears|9881e257eefd378356d8be09c9753bbb
