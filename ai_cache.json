@@ -17646,5 +17646,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785138824.879428
+  },
+  "8375729db2116c9aaf750aae497ee21d": {
+    "is_relevant": true,
+    "reasoning": "The passing of a prominent and long-standing British broadcaster and cultural figure is considered significant national news for a UK-focused audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785151579.924185
+  },
+  "6a0107cd854ff56d7d27c818b9591734": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report of a fatal incident involving UK emergency services, falling under public safety and local news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785151593.051236
+  },
+  "d69e0dfcffb02d00daf2f034113b201f": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and organisational rebranding story regarding children's uniforms and does not constitute hard news relevant to national political, economic, or legal discourse.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785151605.869541
+  },
+  "b188bfd1d0d9a63cecca3014a76ed6d7": {
+    "is_relevant": true,
+    "reasoning": "This concerns a serious criminal assault currently under investigation by the Metropolitan Police, which is a matter of public interest and safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785151625.087178
   }
 }
