@@ -17674,5 +17674,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785151625.087178
+  },
+  "648f57d43813b41c1b9c6ffb714d410b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a fatal incident in the UK involving emergency services and police investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785160498.404944
+  },
+  "9d6842d97f567b548d47e0f5ff94e516": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a conviction for attempted murder in the UK legal system, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785160508.01535
+  },
+  "0251272c9117a7e9232c61891d5cbe24": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving the ill-treatment of vulnerable patients at a public hospital in Northern Ireland, falling under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785160519.581845
+  },
+  "3bf00e86de6e605c1cc7edb923cb7b02": {
+    "is_relevant": true,
+    "reasoning": "The acquisition of artwork by a major UK national institution constitutes significant news regarding UK arts and cultural heritage.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785160536.797884
   }
 }
