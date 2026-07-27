@@ -17611,5 +17611,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785125181.027526
+  },
+  "b35714bdb8e050ce956f03043b325352": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story rather than hard news; it concerns a private individual and does not represent a significant development in crime, policy, or public safety.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785138781.982163
+  },
+  "dfbc4651191288e4f1d368aec8eb2654": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report concerning a fatal incident on UK soil and the subsequent call for a public safety review.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785138790.09506
+  },
+  "f46e12902edaaa53dc7eb958ae73301f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving loss of life in the UK that falls under public safety and emergency reporting.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785138802.607582
+  },
+  "04fcc23c0629a530f69f2f0ae378580f": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a politician's pet that does not constitute hard news or impact UK governance, policy, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785138816.706004
+  },
+  "0d5783169f8b942004b3236313cf49e6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal story involving a criminal sentencing for the mishandling of human remains, which is a matter of substantial public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785138824.879428
   }
 }
