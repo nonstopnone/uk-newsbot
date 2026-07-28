@@ -17884,5 +17884,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785223171.489438
+  },
+  "6403431e3bb2fc31111214e6b136a716": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal police report involving a UK political figure and a political party, which falls under UK politics and legal matters.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785233299.849714
   }
 }
