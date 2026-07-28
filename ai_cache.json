@@ -18003,5 +18003,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785261360.099455
+  },
+  "0f2dcda5337b3013aa21f2a5fc6f7986": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest story about a local business partnership rather than hard news impacting UK policy, governance, or significant national affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785267440.195091
+  },
+  "5b42b2ee87d0f0573a1bb3072a521189": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal news story regarding a high-profile criminal case involving multiple fraud and public order offences by a funeral director.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785267449.600653
+  },
+  "41ea05beb0f29829e1b7cd8074402e72": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a targeted violent hate crime and civil disorder involving police investigation in a major UK city, which is highly relevant to public safety and social issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785267460.602637
+  },
+  "bebb0e50f94492ac049d72b2d9519e70": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding UK government benefits and employment incentives that directly affects household income and fiscal policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785267470.601317
+  },
+  "32ed6166750575277661c58d1644e037": {
+    "is_relevant": true,
+    "reasoning": "This is a significant international sports governance development involving potential collective action by European nations, which directly impacts the UK's participation in major global tournaments.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785267483.246892
   }
 }
