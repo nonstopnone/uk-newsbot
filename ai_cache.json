@@ -17856,5 +17856,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785195505.220618
+  },
+  "dcd51122e5a256068ad36106df01b821": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding NHS service provision and public health policy in England, directly impacting a large segment of the UK population.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785200743.908386
+  },
+  "f28519e084ca5da92a3a31eec1bf20ae": {
+    "is_relevant": false,
+    "reasoning": "The article is a review of newspaper front pages rather than a primary hard news report. It focuses on international weather and celebrity tributes, while the mention of UK policy is secondary and framed within a media roundup context.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785200753.518049
   }
 }
