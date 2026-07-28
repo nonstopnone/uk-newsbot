@@ -1,5 +1,3 @@
-2026-07-21T22:13:13.221319+00:00|https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o|chelsea sign morgan rogers for british record transfer fee of £117m|79b6bb57d37fe6a6f165981de096f8d3
-2026-07-21T23:14:07.924364+00:00|https://news.sky.com/story/chelsea-sign-morgan-rogers-from-aston-villa-for-117m-in-record-breaking-deal-13565810|the most expensive transfer for british footballer announced|7ed78404b7bea048f4477190afccfcf5
 2026-07-22T06:31:03.629683+00:00|https://www.bbc.co.uk/news/articles/cx2k4qpd5xno|pavement parking encouraged by local councils|5c0d0c7ee8b1201d11923d173f7b1d05
 2026-07-22T09:16:10.760845+00:00|https://www.bbc.co.uk/news/articles/cm2ge7z0708o|prince george poses in suit for new photo as he becomes a teenager|1bdeef8b1a26e6096320db3461b14465
 2026-07-22T09:16:13.159375+00:00|https://www.bbc.co.uk/news/articles/cp8engx2xyeo|nottingham attacks nhs trust faces manslaughter probe|87eed1d70eb91ec758750262a5b57d95
@@ -175,3 +173,4 @@
 2026-07-28T20:48:28.769308+00:00|https://www.bbc.co.uk/news/articles/cwy4v6e9d2go|some parents on benefits to get up to £4500 for child starting apprenticeship|bebb0e50f94492ac049d72b2d9519e70
 2026-07-28T22:05:58.029915+00:00|https://www.bbc.co.uk/news/articles/cgq502nj914o|my 10day headache was terminal brain cancer|18a81f097ec76fc9e8f790e94bc2de79
 2026-07-28T22:06:00.489879+00:00|https://www.bbc.co.uk/news/articles/c5y0677el3mo|woman found dead was murdered police say as mans death still unexplained|7f301230ed53b7871556ff45ac25120f
+2026-07-28T23:16:09.504772+00:00|https://www.bbc.co.uk/news/articles/cg5lv1l87njo|im fortunate i survived a stage 4 diagnosis when so many didnt make it|02f985b7b9a1459c8a1df292a224d4fa
