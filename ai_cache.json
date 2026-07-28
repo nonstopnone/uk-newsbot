@@ -17919,5 +17919,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785240908.848051
+  },
+  "0ae76b2688d9cfa8e65fa04039a7281b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and court proceedings involving a high-profile UK offender, which constitutes significant crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785249809.459651
+  },
+  "edf8b96a6672cb3d1948f90d354a5f52": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal conviction at a UK Crown Court involving child murder and abuse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785249818.192002
+  },
+  "44d87a08a51cb350c1b202992a63bc60": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused local interest story regarding a traffic fine, which does not constitute hard news or a significant event of national importance for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785249826.490217
+  },
+  "9e05d74b8004190e3e42c3cfa16d1460": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a pre-season friendly football match, which constitutes sports reporting rather than hard news, politics, or significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785249836.065108
   }
 }
