@@ -18038,5 +18038,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785267483.246892
+  },
+  "7f301230ed53b7871556ff45ac25120f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a double death and a murder investigation in Scotland, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785276357.247674
   }
 }
