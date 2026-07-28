@@ -17870,5 +17870,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785200753.518049
+  },
+  "72ebeb34240775eda660bf1dd1d849d4": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a surge of criminal activity affecting small businesses in Belfast, which is a matter of public interest and police concern within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785223161.149222
+  },
+  "f1ae31a109934d0f4f7030ba1af4a175": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, high-profile cold case involving the Metropolitan Police and an ongoing active investigation that remains a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785223171.489438
   }
 }
