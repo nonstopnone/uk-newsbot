@@ -17891,5 +17891,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785233299.849714
+  },
+  "51a669e8e2f02df3d937eab8f6d5f2de": {
+    "is_relevant": true,
+    "reasoning": "This incident involves a high-profile UK Shadow Cabinet minister and concerns security/sovereignty issues in the English Channel, which is a matter of significant national interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785240879.337956
+  },
+  "05d6edbfb58687e624da2e63653356bf": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a pre-season friendly exhibition match, which falls under sports lifestyle/content rather than hard news or significant sporting developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785240889.940769
+  },
+  "2d0552a03b87ab0fc859fa65f6a581e6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving public emergency infrastructure and legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785240899.301665
+  },
+  "95100ed8f761cfbc7e54dbc691fa2685": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal court case involving charges of assault by beating appearing in a UK magistrates' court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785240908.848051
   }
 }
