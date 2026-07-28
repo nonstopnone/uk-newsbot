@@ -17996,5 +17996,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785255963.332091
+  },
+  "3af5d3557243169e266ba1b8803d888c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal case involving a major investigation into a funeral home, which has high public interest and legal consequences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785261360.099455
   }
 }
