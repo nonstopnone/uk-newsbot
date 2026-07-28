@@ -17947,5 +17947,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785249836.065108
+  },
+  "1d2ae9d3ec8b55079c7f5f3c2c38aa40": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing in a UK court regarding theft and fraud.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785255901.200809
+  },
+  "48f08f2529c43325af6cf551e3b87426": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and fitness-focused advice article rather than hard news, making it ineligible for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785255911.240992
+  },
+  "158a6b7d158eb77457d486c90e654860": {
+    "is_relevant": false,
+    "reasoning": "This is a report on the funeral of a celebrity, which falls under lifestyle and personal interest rather than hard news impacting the UK's political, economic, or legal landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785255919.585257
+  },
+  "d835e3fe4e3c5031f27aa241526f39b7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a double murder conviction in a UK court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785255928.786609
+  },
+  "aa7a82929accad41c81866c2775e8071": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and safety incident involving a death at a major UK infrastructure hub, currently under investigation by the Metropolitan Police and the HSE.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785255939.247414
+  },
+  "5082e97b50abc31c5a95b030834870ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving high-value theft across multiple UK locations, falling under police and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785255950.007701
+  },
+  "6f9a242595b7c19839aa4c6cfa0e404b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal proceeding involving multiple criminal convictions and a high-profile case of misconduct within a UK funeral business.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785255963.332091
   }
 }
