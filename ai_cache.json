@@ -18045,5 +18045,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785276357.247674
+  },
+  "281b79f806787a66a4cfa0cf992666f2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant socio-economic report concerning the standard of living and financial prospects of a major segment of the UK population, which directly relates to domestic economy and social policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785286655.364941
+  },
+  "cdf442d449acb46dce1b812fb0312ede": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice/product warning piece rather than hard news concerning politics, major infrastructure, or significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785286664.476556
   }
 }
