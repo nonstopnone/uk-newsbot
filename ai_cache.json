@@ -18066,5 +18066,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785298740.147481
+  },
+  "b8bea0ff4bf854513923f44faea11377": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding national infrastructure and consumer costs that will directly impact passengers across the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785309616.090686
+  },
+  "20828e6771b8a8af0d14dbb0b61c005a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding local government enforcement, consumer protection, and illegal business activity impacting UK travellers at a major airport.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785309625.955478
+  },
+  "c3eb4f4aaf9b0e28d9aadb2d4732cad2": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment interview regarding a YouTube personality; the mention of a politician is incidental and does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785309635.17881
+  },
+  "d0399279d17060215fb6ba850eb33958": {
+    "is_relevant": false,
+    "reasoning": "This is a promotional link for a podcast rather than a report on hard news, politics, or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785309645.908251
   }
 }
