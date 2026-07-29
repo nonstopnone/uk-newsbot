@@ -1,5 +1,3 @@
-2026-07-22T16:56:56.695862+00:00|https://www.bbc.co.uk/news/articles/cgr7njdxxp9o?at_medium=RSS&at_campaign=rss|Cause of Nolan Wells' death still unknown, initial results of independent autopsy show|c9f3c6e5fef719d021764d588f3521a9
-2026-07-22T16:57:02.582509+00:00|https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss|Mamdani walks back pledge to arrest Netanyahu citing lack of authority|a797877bf84a28d271dc1f08b9b199d9
 2026-07-22T19:42:03.768499+00:00|https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss|Teenager drops social media addiction lawsuit against Meta|e59272ba6cfc6b0df1b0da9e6acd3c21
 2026-07-22T19:42:11.210277+00:00|https://news.sky.com/story/no-role-for-white-house-in-extradition-to-uk-of-tate-brothers-says-us-secretary-of-state-marco-rubio-13566089|'No role' for White House in extradition to UK of Tate brothers, says US secretary of state|1fc18856f128805394a085a985a4ccb6
 2026-07-23T18:16:48.993712+00:00|https://www.bbc.co.uk/news/articles/cwylp3nxp5yo?at_medium=RSS&at_campaign=rss|ChatGPT medical advice brought man 'to brink of death', lawsuit alleges|4e3a63bc7f5cf787d107b59972a09f3f
@@ -35,3 +33,7 @@
 2026-07-28T20:52:09.705662+00:00|https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss|Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral|42ccd4bd741c09f9cc1f4c233a8b1fcf
 2026-07-28T20:52:15.851922+00:00|https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss|Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on|cc5936c14dd9bf629dbfb988283ec27d
 2026-07-28T21:51:08.464209+00:00|https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss|Bystander video shows teen lifeguard's dramatic ocean rescue|8f90ff2d8be793cdae3a55d24dfedeb3
+2026-07-29T17:37:28.055493+00:00|https://news.sky.com/story/dr-anthony-fauci-invokes-fifth-amendment-and-declines-to-testify-in-senate-covid-19-hearing-13568176|Ex-Trump adviser invokes fifth amendment and declines to testify in Senate COVID-19 hearing|19c93c4080a9eec0f3213360863a2db4
+2026-07-29T17:37:34.130984+00:00|https://www.bbc.co.uk/news/articles/c1e10792l21o?at_medium=RSS&at_campaign=rss|Two Americans convicted of murdering Canadian couple in Dominica|55bb545a24fd7503889b2a91d4f3924b
+2026-07-29T17:37:39.985695+00:00|https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss|Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins|bd84d947321d24e49f58a5a26447f2c4
+2026-07-29T17:37:45.788411+00:00|https://www.bbc.co.uk/news/videos/c4g68xg7xj2o?at_medium=RSS&at_campaign=rss|Fauci invokes Fifth Amendment in showdown with Republican lawmakers|28131ef6e5c76d3352b7cb0a2356c241
