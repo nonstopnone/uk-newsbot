@@ -18059,5 +18059,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785286664.476556
+  },
+  "74842036cec52227b3bd0fe6804987fd": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant rise in antisemitic incidents and a fatal attack on a synagogue within the UK, making it a matter of major public interest and security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785298740.147481
   }
 }
