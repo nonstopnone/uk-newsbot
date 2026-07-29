@@ -18178,5 +18178,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785341523.931886
+  },
+  "2bc3050d7c446257985240df767e503d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling by a UK High Court judge involving a major intellectual property case heard in a London court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785346792.094705
+  },
+  "5b8c081dfeec7abd6ec99e6cfd715505": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and investigation story involving a major police raid and subsequent legal fallout regarding a funeral directors in Hull.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785346801.132272
+  },
+  "0e141d8ed46f608117c8809a0b4784af": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on healthcare initiatives in Zambia and Kenya and does not materially affect the UK, nor is it a major UK-specific story.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785346809.13038
+  },
+  "b3ad18e67c681dc139a92056e9aec317": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK inquest regarding the deaths of two British citizens, which is a matter of legal record and public interest within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785346820.67024
+  },
+  "289108ccededde618cc608ef46e8482f": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad in suspicious circumstances is a significant international news event of high concern to the UK public.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785346830.030196
   }
 }
