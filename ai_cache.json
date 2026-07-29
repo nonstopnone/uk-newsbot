@@ -18213,5 +18213,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785346830.030196
+  },
+  "c987a48f8c3e8d4fb1111ccf4077c7b6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant High Court legal ruling involving a public figure and substantial financial penalties, which falls under legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785350516.85714
+  },
+  "0154059e9d5e75648b54b58f52f834f1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling involving a former Cabinet minister and a member of Parliament, directly concerning UK political figures and the legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785350527.781272
   }
 }
