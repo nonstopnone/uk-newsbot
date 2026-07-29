@@ -18157,5 +18157,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785336200.982053
+  },
+  "ff690084ba8dbd245c13535c5cb81ec1": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad involving investigation and liaison by Police Scotland is a matter of significant public interest and security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785341501.624137
+  },
+  "bb06f4527a6b5e7f066afdf1c24a8606": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case involving a high-profile member of the Royal Family and public safety, which constitutes hard news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1785341514.114594
+  },
+  "fb042d6244734ba58f627cac1a3e56ea": {
+    "is_relevant": true,
+    "reasoning": "This is a significant High Court legal ruling involving a high-profile public figure, which falls under the 'Crime & Legal' category regarding civil court outcomes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785341523.931886
   }
 }
