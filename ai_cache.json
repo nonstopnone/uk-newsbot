@@ -18255,5 +18255,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785363340.262913
+  },
+  "482bfb9b9fec170afa428fa8e1806f37": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story concerning a personal experience within the healthcare system rather than hard news about UK policy, legislation, or significant systemic reform.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785367074.107595
+  },
+  "ddf62c1822852dab33bb1eb654df19b0": {
+    "is_relevant": true,
+    "reasoning": "Sir Salman Rushdie is a prominent British citizen and the case involves a terror-related attack on him that is of significant national interest to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785367082.768333
   }
 }

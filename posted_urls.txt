@@ -1,4 +1,3 @@
-2026-07-22T23:15:54.883429+00:00|https://www.bbc.co.uk/news/articles/clyez682nevo|scottish labour leader anas sarwar delighted to accept trade minister job|28531973b708992e1f52506c5b0582c9
 2026-07-23T04:34:52.152117+00:00|https://www.bbc.co.uk/news/articles/cn0nxd1jgw5o|most sewage spills in england may be illegal new research suggests|a04cd812eb6b4c7cce26d3161e238195
 2026-07-23T04:34:55.159116+00:00|https://www.bbc.co.uk/news/articles/cgmkygjk9g2o|hope for thousands of ms patients as lifechanging drug now on nhs in england|792f3875407b1feb744996637a0ceedc
 2026-07-23T07:20:39.290490+00:00|https://www.bbc.co.uk/news/articles/c2lqd72d4lqo|airport dropoff fees up by a third here are the priciest|220cb61b637445674befc28f62456b62
@@ -173,3 +172,5 @@
 2026-07-29T18:42:12.499180+00:00|https://www.bbc.co.uk/news/articles/c80np54pd1yo|amy winehouses dad ordered to pay £1m by court|c987a48f8c3e8d4fb1111ccf4077c7b6
 2026-07-29T20:02:48.866821+00:00|https://www.bbc.co.uk/news/articles/cvg89rplkwko|major bridge could close if staff get more abuse motorists warned|9b22c48084e2e70bcfb2ef90be418c2e
 2026-07-29T20:02:51.620899+00:00|https://www.bbc.co.uk/news/articles/cn0nzxgdg2ro|libel claim against matt hancock thrown out|0154059e9d5e75648b54b58f52f834f1
+2026-07-29T23:18:04.110540+00:00|https://www.bbc.co.uk/news/articles/c77gvr4172vo|inquiry finds mod afghan data breach was foreseeable failure|3636ccef6e9403122a6a01b490b0e86a
+2026-07-29T23:18:06.742983+00:00|https://www.bbc.co.uk/news/articles/c86ng1g5wy4o|salman rushdie attacker convicted of terror offenses|ddf62c1822852dab33bb1eb654df19b0
