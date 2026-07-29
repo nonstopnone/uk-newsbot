@@ -18227,5 +18227,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785350527.781272
+  },
+  "9b22c48084e2e70bcfb2ef90be418c2e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public safety issue in Wales involving police intervention and potential closure of a major transport link.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785355366.301979
   }
 }

@@ -1,5 +1,3 @@
-2026-07-22T19:44:02.257479+00:00|https://www.bbc.co.uk/news/articles/c74gm8vwnm2o|no secrecy over asylum camp decision court told|1b3f55e28019c1ba1ad6c1468fc696bd
-2026-07-22T19:44:04.958805+00:00|https://www.bbc.co.uk/news/articles/cgk4x44mm50o|burnham rebukes ministers after prisoner releases joke|344a06ecc077717d5c6c408d988f8cae
 2026-07-22T20:48:04.765472+00:00|https://www.bbc.co.uk/news/articles/cy07r94qyyzo|four more members of grooming gang guilty of sexually abusing girl in care|bd325a3c5b8238b7d96b7c1dd1f67674
 2026-07-22T22:05:36.481491+00:00|https://www.bbc.co.uk/news/articles/c80n5rvx917o|river levels approach alltime low as drought announcement looms|479c4b7d8f8bc9f36c7b9681e2f1eae2
 2026-07-22T22:05:39.295842+00:00|https://www.bbc.co.uk/news/articles/czj8zjnzw4po|glasgow set to welcome the world for scaled back commonwealth games|4bcdda55df5311bc5e34c82f9c8e209e
@@ -177,3 +175,5 @@
 2026-07-29T17:40:35.856934+00:00|https://news.sky.com/story/body-of-scottish-woman-found-inside-suitcase-in-greece-13568130|body of british woman found inside suitcase in greece|289108ccededde618cc608ef46e8482f
 2026-07-29T18:42:09.744964+00:00|https://www.bbc.co.uk/news/articles/cwylrnxxl77o|police to take no further action against polanski over guillotine repost|c7c436faf05315ada8576e4bb6574256
 2026-07-29T18:42:12.499180+00:00|https://www.bbc.co.uk/news/articles/c80np54pd1yo|amy winehouses dad ordered to pay £1m by court|c987a48f8c3e8d4fb1111ccf4077c7b6
+2026-07-29T20:02:48.866821+00:00|https://www.bbc.co.uk/news/articles/cvg89rplkwko|major bridge could close if staff get more abuse motorists warned|9b22c48084e2e70bcfb2ef90be418c2e
+2026-07-29T20:02:51.620899+00:00|https://www.bbc.co.uk/news/articles/cn0nzxgdg2ro|libel claim against matt hancock thrown out|0154059e9d5e75648b54b58f52f834f1
