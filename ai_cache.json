@@ -18248,5 +18248,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785359581.133231
+  },
+  "295e86349a8ea8d3966559e710e9cce4": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment/lifestyle piece regarding celebrity red carpet appearances and is not considered hard news relevant to the core categories of the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785363340.262913
   }
 }
