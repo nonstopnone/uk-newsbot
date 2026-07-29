@@ -18136,5 +18136,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785327758.131005
+  },
+  "02fb61545513e47f38195d7973f05589": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report concerning a serial killer being sentenced to a whole-life order and an ongoing major police investigation into multiple unexplained deaths in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785336174.383641
+  },
+  "a8117adb273eb076b1c2b984d821ad82": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a double death investigation being treated as murder by Police Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785336186.021553
+  },
+  "1c1a49a35eaf79b49b2818fefa3ae14a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and crime story involving the Scottish justice system, which falls under the category of serious crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785336200.982053
   }
 }

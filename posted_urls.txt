@@ -1,8 +1,3 @@
-2026-07-22T12:59:19.667575+00:00|https://www.bbc.co.uk/news/articles/c0ejwedl1gno|burnham to review early prisoner release scheme after anger over potential freeing of pc harpers killers|24787da247dde3b15075e1ecfdee2a76
-2026-07-22T12:59:22.125395+00:00|https://www.bbc.co.uk/news/articles/c4g3pg9gjkeo|swinney says scottish and uk relations haemorrhaged with douglas alexander|a5119f14bfbab528315654705296e90e
-2026-07-22T12:59:24.596085+00:00|https://www.telegraph.co.uk/business/2026/07/22/inflation-falls-june-petrol-prices|inflation fall a false dawn burnham warned|af1197434a36c8959a285f72841ac47d
-2026-07-22T12:59:27.056183+00:00|https://news.sky.com/story/mass-mid-air-brawl-forces-easyjet-plane-to-return-to-tenerife-13565938|mass midair brawl forces easyjet plane to return to tenerife|b0e311af9bb957f5cb70fe24a810bc3a
-2026-07-22T12:59:29.600530+00:00|https://news.sky.com/story/nottingham-attacks-nhs-trust-faces-manslaughter-investigation-13565923|nottingham attacks nhs trust faces manslaughter investigation|b8225959fa049807ac7a743bbf83a468
 2026-07-22T15:10:12.666423+00:00|https://www.bbc.co.uk/news/articles/c36d0njy7jjo|exsouthern water boss among four charged over alleged plan to manipulate water tests|f01eae9e3ddba2711b21473d4af0532b
 2026-07-22T15:10:14.983743+00:00|https://www.bbc.co.uk/sport/football/articles/c74g5pv140do|liverpool issue bans as £12m seized from ticket touts|4c065def28feaa9c81c6ff52333f186f
 2026-07-22T16:47:22.778066+00:00|https://www.bbc.co.uk/news/articles/cx25pgg440wo|no helicopters to fight wildfires as crisis management plans activated in wales|0a7ebab49b4e8a3a4a2232e9811ea62e
@@ -179,3 +174,6 @@
 2026-07-29T12:22:41.434867+00:00|https://www.bbc.co.uk/news/articles/ckg35n7yny3o|more than half of england officially in drought environment agency says|cae8d3e8414f2ab0fb2a37eaa15f4bf4
 2026-07-29T12:22:43.863284+00:00|https://www.telegraph.co.uk/football/2026/07/29/tottenham-hotspur-vs-sydney-fc-live-score-updates-friendly|tottenham new boys tonali and robertson score in shootout win over sydney fc|a7aeae1d74e4053412df95ccc84f1b4f
 2026-07-29T12:22:46.168373+00:00|https://news.sky.com/story/discrimination-a-serious-and-growing-challenge-in-english-football-as-figures-rise-13567998|discrimination a serious and growing challenge in english football as figures rise|604418da1702859fad7fe66ed1b15a25
+2026-07-29T14:43:22.060275+00:00|https://www.bbc.co.uk/news/articles/cddjz02d8jgo|serial killer given whole life order for murders of two men as police investigate four more deaths|02fb61545513e47f38195d7973f05589
+2026-07-29T14:43:24.932944+00:00|https://www.bbc.co.uk/news/articles/ckgd32v2y2lo|apocalyptic damage as cairngorms wildfire burns for two weeks|0476a420ddb35d8f2d4e012d55ad7536
+2026-07-29T14:43:27.597423+00:00|https://news.sky.com/story/appeal-hearing-for-six-members-of-glasgow-beastie-house-paedophile-gang-to-go-ahead-later-this-year-13568060|appeal hearing for beastie house paedophile gang to go ahead later this year|1c1a49a35eaf79b49b2818fefa3ae14a
