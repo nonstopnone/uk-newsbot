@@ -18234,5 +18234,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785355366.301979
+  },
+  "2ab33d130c126223484de46933688ce7": {
+    "is_relevant": false,
+    "reasoning": "This is a scientific research summary regarding nutritional health rather than hard news, political policy, or a time-sensitive event of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785359571.777146
+  },
+  "0b47bb0183cf6113d2c00fbe86ab6d55": {
+    "is_relevant": false,
+    "reasoning": "This is a personal lifestyle and health-advice feature story rather than hard news concerning UK policy, major infrastructure, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785359581.133231
   }
 }
