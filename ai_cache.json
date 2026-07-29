@@ -18094,5 +18094,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785309645.908251
+  },
+  "a739e3c2e1fe0b696e322ca5e1087720": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, tragic domestic news event involving a fatality on UK soil, requiring a police and emergency service response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785327703.921041
+  },
+  "a7aeae1d74e4053412df95ccc84f1b4f": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a competitive football match involving a major UK Premier League club.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785327714.684974
+  },
+  "14d6fea414b646e6aca1011f72a310fd": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a tragic event involving an Irish musician in Dublin, which does not constitute hard UK news or have a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785327725.84108
+  },
+  "0476a420ddb35d8f2d4e012d55ad7536": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental event causing major infrastructure and ecological damage within a UK national park, requiring a multi-agency response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785327738.060338
+  },
+  "3cc8761a3778e85f0cac3a31213f6e02": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a high-profile former politician and ongoing criminal court proceedings in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785327749.890912
+  },
+  "604418da1702859fad7fe66ed1b15a25": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant rise in discrimination within a major national institution, which constitutes a notable social and legal issue in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785327758.131005
   }
 }

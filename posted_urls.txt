@@ -1,5 +1,3 @@
-2026-07-22T11:25:33.395864+00:00|https://www.bbc.co.uk/news/articles/cm2gvxpxmgro|deterioration of city centre a crisis for business owners|61de86220d4a7407e1817eec2fc287a9
-2026-07-22T11:25:35.846606+00:00|https://www.bbc.co.uk/news/articles/c89nxj4d5pqo|pc harper killers potential early release is an insult says his mother|04dd5464c5c8b9663d16e66555b20b31
 2026-07-22T12:59:19.667575+00:00|https://www.bbc.co.uk/news/articles/c0ejwedl1gno|burnham to review early prisoner release scheme after anger over potential freeing of pc harpers killers|24787da247dde3b15075e1ecfdee2a76
 2026-07-22T12:59:22.125395+00:00|https://www.bbc.co.uk/news/articles/c4g3pg9gjkeo|swinney says scottish and uk relations haemorrhaged with douglas alexander|a5119f14bfbab528315654705296e90e
 2026-07-22T12:59:24.596085+00:00|https://www.telegraph.co.uk/business/2026/07/22/inflation-falls-june-petrol-prices|inflation fall a false dawn burnham warned|af1197434a36c8959a285f72841ac47d
@@ -177,3 +175,7 @@
 2026-07-29T04:19:03.529043+00:00|https://www.bbc.co.uk/news/articles/c1k1vgx08gko|burnham invites tories and lib dems to social care talks|10154252afac397c99a50ff1a463dcfc
 2026-07-29T07:20:46.892366+00:00|https://www.bbc.co.uk/news/articles/cdx8ke9gpnko|ticket prices set to rise as heathrow able to recover runway project money|b8bea0ff4bf854513923f44faea11377
 2026-07-29T07:20:49.480595+00:00|https://www.bbc.co.uk/news/articles/cn8ngxw5195o|unauthorised airport car park grows despite stop notice|20828e6771b8a8af0d14dbb0b61c005a
+2026-07-29T12:22:38.751613+00:00|https://www.bbc.co.uk/news/articles/c4gv0d125p5o|boy 7 dies after beach tragedy that killed mum and daughter|a739e3c2e1fe0b696e322ca5e1087720
+2026-07-29T12:22:41.434867+00:00|https://www.bbc.co.uk/news/articles/ckg35n7yny3o|more than half of england officially in drought environment agency says|cae8d3e8414f2ab0fb2a37eaa15f4bf4
+2026-07-29T12:22:43.863284+00:00|https://www.telegraph.co.uk/football/2026/07/29/tottenham-hotspur-vs-sydney-fc-live-score-updates-friendly|tottenham new boys tonali and robertson score in shootout win over sydney fc|a7aeae1d74e4053412df95ccc84f1b4f
+2026-07-29T12:22:46.168373+00:00|https://news.sky.com/story/discrimination-a-serious-and-growing-challenge-in-english-football-as-figures-rise-13567998|discrimination a serious and growing challenge in english football as figures rise|604418da1702859fad7fe66ed1b15a25
