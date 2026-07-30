@@ -1,5 +1,3 @@
-2026-07-23T18:16:48.993712+00:00|https://www.bbc.co.uk/news/articles/cwylp3nxp5yo?at_medium=RSS&at_campaign=rss|ChatGPT medical advice brought man 'to brink of death', lawsuit alleges|4e3a63bc7f5cf787d107b59972a09f3f
-2026-07-23T18:16:54.785122+00:00|https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss|Google and Tesla shares plunge as AI spending rattles markets|08b9301a100fd3537eb263a22d2bb1c9
 2026-07-23T21:10:03.861771+00:00|https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss|'Everything on the table' as Canada plans response to US tariffs|789ffdf8ff16f6be3b628d882e0dd76d
 2026-07-23T22:12:56.686645+00:00|https://www.bbc.co.uk/news/articles/cwyrjl04vnro?at_medium=RSS&at_campaign=rss|Justice dept withdraws subpoenas over New York Times reports about Air Force One|2d80a9f2347e0d7af64319c9520114db
 2026-07-23T23:10:36.799261+00:00|https://www.bbc.co.uk/news/articles/ckg4741vklko?at_medium=RSS&at_campaign=rss|FDA panel loosens restrictions for controversial peptides popular online|3481f7c946f873e7041899c3da1390ba
@@ -46,3 +44,4 @@
 2026-07-30T16:17:27.013584+00:00|https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss|Dashcam captures tornado toppling power lines onto car|53ce32d60125142d90ebecf5259d4c01
 2026-07-30T17:57:08.495900+00:00|https://news.sky.com/story/father-who-gifted-gun-to-son-before-he-carried-out-deadly-high-school-shooting-jailed-for-15-years-13568560|Father who gifted gun to son before he carried out deadly high school shooting jailed for 15 years|35627f81b8e00dc1b6c3719129c087a3
 2026-07-30T17:57:14.286759+00:00|https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss|Father of teen school shooter sentenced to 15 years in prison|d8db42065cc8f633f0bfed18cd2e20cd
+2026-07-30T19:40:40.294710+00:00|https://www.bbc.co.uk/news/articles/c89nenqg10wo?at_medium=RSS&at_campaign=rss|Nevada wildfire still burning out of control near secretive Area 51|7aa2606b406d87c28b4d291ef59a48d6
