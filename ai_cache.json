@@ -18570,5 +18570,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785447845.037396
+  },
+  "9679ae54ae528c555cdacd40e27eb00d": {
+    "is_relevant": true,
+    "reasoning": "This involves an active police investigation into criminal allegations of harassment and hate speech within the UK, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785451710.03091
   }
 }
