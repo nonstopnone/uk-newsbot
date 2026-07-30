@@ -18269,5 +18269,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785367082.768333
+  },
+  "4518c96753ce01f3d4c533289ff84f66": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant food inflation and the cost of living crisis, which is a major economic issue impacting the UK population.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785372920.765621
+  },
+  "84f1d72f53d0f62fc51b296ae4841215": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest nostalgia piece about a sporting event from 60 years ago and does not constitute hard news or current affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785372931.205798
   }
 }
