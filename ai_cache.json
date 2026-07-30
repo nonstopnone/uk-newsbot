@@ -18395,5 +18395,54 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1785411027.531563
+  },
+  "414e93efd244e020640738c4746fc294": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving mass fraud and systemic abuse of trust within the funeral industry, which is of clear public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785417026.623085
+  },
+  "b83af7475aff4c607ef8bcc06784244d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving a murder conviction in the UK, which falls under serious Crime & Legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785417037.513881
+  },
+  "8a2f29f84469239cdfc03b4af86d8880": {
+    "is_relevant": true,
+    "reasoning": "This is a significant immigration and security event directly involving the English Channel and UK border issues.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785417045.947974
+  },
+  "96d36cf91a3bf08a18ffb36006120945": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal workplace accident at a major UK international airport, which is a matter of public interest involving a coroner's inquest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785417056.610982
+  },
+  "01482e2e54cd5ebd603037d2760e553d": {
+    "is_relevant": true,
+    "reasoning": "This is a public health alert issued by the UK Health Security Agency (UKHSA) regarding a rise in infectious disease cases among UK citizens, which is a matter of significant national health interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785417071.666607
+  },
+  "7e7f551d5a13e312dfb6677b7f310c1e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant international crime story involving a high-profile figure whose criminal network has had major implications for UK policing and the boxing industry. It constitutes serious, time-sensitive legal and criminal justice reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785417083.344048
+  },
+  "6257bfd1df775ccda3736dabd24852a2": {
+    "is_relevant": false,
+    "reasoning": "This is an international health story focused on the Democratic Republic of Congo with no material impact on or specific relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785417095.84988
   }
 }
