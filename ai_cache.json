@@ -18528,5 +18528,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785437219.16556
+  },
+  "26b995c329d2798bb4fc4074bf30fb7d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK parliamentary politics involving the reinstatement of high-profile MPs to the Labour Party.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785442551.081382
+  },
+  "a8b53ae8e76885ae71ce37e1993d78d1": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant policy commitment by the Church of England, an institution central to UK public life, regarding a £100m investment fund. This is a matter of national institutional and social debate.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785442559.699592
+  },
+  "1762f5dceecf01640de42663537ed8f2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding major UK infrastructure and government spending on a national project.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785442570.649242
+  },
+  "93c8b88605b50bfa46eea78760445c55": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal workplace accident and a formal inquest taking place at a major UK infrastructure hub.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785442581.162412
   }
 }
