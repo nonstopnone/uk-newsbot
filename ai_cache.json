@@ -18479,5 +18479,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785425051.036727
+  },
+  "739f9cd2f513956406d6aeae00902363": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency involving the evacuation of UK residents and the involvement of emergency services, constituting hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785430876.542657
+  },
+  "3e68b8819422f421a628600f135ad50e": {
+    "is_relevant": false,
+    "reasoning": "The article concerns health infrastructure and civil unrest in the DRC, which does not materially affect the UK or constitute a matter of significant domestic relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785430886.651619
+  },
+  "5ceb4c7a88d6470a810ce43a7dc971d6": {
+    "is_relevant": false,
+    "reasoning": "This is a sports business story concerning football club ownership, which falls under sports news and does not meet the criteria for hard news relevance to the general public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785430896.628504
+  },
+  "b4e8956569931f141dd994d4969bf0fa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental and infrastructure update affecting the devolved nation of Wales, impacting agriculture, water usage, and wildlife.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785430908.828263
+  },
+  "c25437751184994164c6f77399c5e41e": {
+    "is_relevant": true,
+    "reasoning": "The death of a Scottish national abroad involving potential foul play is a matter of significant public interest in the UK, involving the Scottish government and the Foreign Office.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785430923.369426
   }
 }

@@ -1,7 +1,3 @@
-2026-07-23T16:08:27.787897+00:00|https://www.bbc.co.uk/news/articles/c0jln54z58vo|mi5 to pay damages for illegal surveillance of journalists phone|a784be4942e79b1580d6adc427f23f37
-2026-07-23T16:08:30.391814+00:00|https://www.bbc.co.uk/weather/articles/cx2rvej7lk7o|rain to return this weekend as parts of wales now in drought|dbe4c5e2ab0dbaaa5d3d5eb1ffacbb3f
-2026-07-23T16:08:32.774657+00:00|https://news.sky.com/story/first-parts-of-uk-officially-declare-drought-as-dry-spell-to-end-for-some-13566278|first parts of uk officially declare drought as dry spell to end for some|a4a8b84d0b4263dabb810464efc90710
-2026-07-23T16:08:35.098745+00:00|https://news.sky.com/story/manchester-synagogue-security-guard-says-life-changed-forever-after-attack-13566273|manchester synagogue security guard says life changed forever after attack|331fc1f1c7879d8f394dec537d916e17
 2026-07-23T17:46:26.281870+00:00|https://www.bbc.co.uk/news/articles/cr496pxv0z0o|murder investigation launched 35 years after pensioners death|240d17f298ba1748eb0541fbbed89bcf
 2026-07-23T17:46:28.811968+00:00|https://www.bbc.co.uk/news/articles/c62vqj7ged4o|what could happen to prisoner early release scheme now pm has paused it|7d9565196fd37830b26c07f10d32dcad
 2026-07-23T19:22:12.380744+00:00|https://www.bbc.co.uk/news/articles/cx2lpjw516eo|burnham pauses plan to release some prisoners early from september|89803696e4a9b929f524f2290655b550
@@ -183,3 +179,6 @@
 2026-07-30T15:24:14.184538+00:00|https://news.sky.com/story/drought-declared-across-the-whole-of-wales-with-july-on-course-to-be-driest-in-190-years-13568491|drought declared across the whole of wales|15da7ad69d85c07fe5ee16b9fea55bc8
 2026-07-30T15:24:16.587669+00:00|https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468|greek police believe phone of british woman found dead in suitcase was used to stall investigation reports|d4961258e8024c8b22754cf31eeab84d
 2026-07-30T15:24:18.961448+00:00|https://www.bbc.co.uk/news/articles/cx2mj4768k5o|jenrick urges burnham to rule out tax rises to fund social care|7819304488c19be78d1e274415323171
+2026-07-30T17:02:03.910944+00:00|https://www.bbc.co.uk/news/articles/c1j1wyy7e39o|residents evacuated and village flooded after quarry incident|739f9cd2f513956406d6aeae00902363
+2026-07-30T17:02:06.507887+00:00|https://www.bbc.co.uk/news/articles/c87n321w9qlo|palestine action ban to be reviewed by supreme court|a010ad325ab0d10069ba7002c72625e4
+2026-07-30T17:02:09.226038+00:00|https://www.telegraph.co.uk/business/2026/07/30/uk-interest-rates-bank-of-england-ftse-100-markets|uk economy to flatline warns bank of england|108640d270205d5b5412099af697db37
