@@ -1,6 +1,3 @@
-2026-07-23T14:25:18.285061+00:00|https://www.bbc.co.uk/news/articles/cvgw83jnql4o|jeffrey donaldson stripped of knighthood by king|36be0be4eae5f6e562162b7079aad29b
-2026-07-23T14:25:20.982062+00:00|https://www.bbc.co.uk/news/articles/clyx5dxpmg7o|burnham acting like hes still a mayor says badenoch|7117889a446b32a81094b5608df1c5a2
-2026-07-23T14:25:23.496454+00:00|https://news.sky.com/story/first-parts-of-the-uk-officially-declare-drought-following-record-breaking-heatwaves-13566278|first parts of the uk officially declare drought|3aa600687819ac6e9a2d64e3e6c8d5e9
 2026-07-23T16:08:27.787897+00:00|https://www.bbc.co.uk/news/articles/c0jln54z58vo|mi5 to pay damages for illegal surveillance of journalists phone|a784be4942e79b1580d6adc427f23f37
 2026-07-23T16:08:30.391814+00:00|https://www.bbc.co.uk/weather/articles/cx2rvej7lk7o|rain to return this weekend as parts of wales now in drought|dbe4c5e2ab0dbaaa5d3d5eb1ffacbb3f
 2026-07-23T16:08:32.774657+00:00|https://news.sky.com/story/first-parts-of-uk-officially-declare-drought-as-dry-spell-to-end-for-some-13566278|first parts of uk officially declare drought as dry spell to end for some|a4a8b84d0b4263dabb810464efc90710
@@ -182,3 +179,7 @@
 2026-07-30T11:30:36.070182+00:00|https://news.sky.com/story/three-migrants-found-dead-on-boat-in-english-channel-13568358|three migrants die after trying to cross english channel near dunkirk|686aec9af38f68f5a7cd24b5b58f5b30
 2026-07-30T13:11:37.110255+00:00|https://www.bbc.co.uk/news/articles/ce347krneeno|victims of disgraced funeral boss unable to get refunds|414e93efd244e020640738c4746fc294
 2026-07-30T13:11:39.541589+00:00|https://www.bbc.co.uk/news/articles/cn9nyz12xe8o|mum and boyfriend jailed for girls murder|b83af7475aff4c607ef8bcc06784244d
+2026-07-30T15:24:11.804937+00:00|https://www.bbc.co.uk/news/articles/c5yd2j93r7ro|four people die after busiest day for smallboat crossings this year|6a5a969aa6aff83fd26596c37f9fb444
+2026-07-30T15:24:14.184538+00:00|https://news.sky.com/story/drought-declared-across-the-whole-of-wales-with-july-on-course-to-be-driest-in-190-years-13568491|drought declared across the whole of wales|15da7ad69d85c07fe5ee16b9fea55bc8
+2026-07-30T15:24:16.587669+00:00|https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468|greek police believe phone of british woman found dead in suitcase was used to stall investigation reports|d4961258e8024c8b22754cf31eeab84d
+2026-07-30T15:24:18.961448+00:00|https://www.bbc.co.uk/news/articles/cx2mj4768k5o|jenrick urges burnham to rule out tax rises to fund social care|7819304488c19be78d1e274415323171

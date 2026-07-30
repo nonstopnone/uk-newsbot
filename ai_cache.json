@@ -18444,5 +18444,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785417095.84988
+  },
+  "6a5a969aa6aff83fd26596c37f9fb444": {
+    "is_relevant": true,
+    "reasoning": "This report concerns small-boat Channel crossings and fatalities, which is a major issue of domestic policy, border security, and public interest in the UK.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785425013.272299
+  },
+  "15da7ad69d85c07fe5ee16b9fea55bc8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental and infrastructure issue affecting a devolved nation of the UK, with direct implications for water supply and public policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785425022.63755
+  },
+  "996dd82e666c47bb4850b24c805159b8": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest tragedy/obituary piece rather than hard news regarding UK politics, policy, crime, or systemic national issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785425031.940154
+  },
+  "d4961258e8024c8b22754cf31eeab84d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime story involving the death of a British national overseas, which is a matter of major public interest and ongoing investigation involving UK authorities.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785425040.385363
+  },
+  "6314509842d8e01f0ea3f2a1991f15d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the conduct of a UK police force and a serious criminal investigation, which falls under the category of crime and police accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785425051.036727
   }
 }
