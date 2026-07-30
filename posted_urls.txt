@@ -1,5 +1,3 @@
-2026-07-23T17:46:26.281870+00:00|https://www.bbc.co.uk/news/articles/cr496pxv0z0o|murder investigation launched 35 years after pensioners death|240d17f298ba1748eb0541fbbed89bcf
-2026-07-23T17:46:28.811968+00:00|https://www.bbc.co.uk/news/articles/c62vqj7ged4o|what could happen to prisoner early release scheme now pm has paused it|7d9565196fd37830b26c07f10d32dcad
 2026-07-23T19:22:12.380744+00:00|https://www.bbc.co.uk/news/articles/cx2lpjw516eo|burnham pauses plan to release some prisoners early from september|89803696e4a9b929f524f2290655b550
 2026-07-23T19:22:14.900292+00:00|https://www.bbc.co.uk/news/articles/c8xnq7qyr7ro|burnham tells swinney independence is off limits at glasgow commonwealth games meeting|2057a3dc860a51a7adf785119f8c68ca
 2026-07-23T20:36:40.585198+00:00|https://www.bbc.co.uk/news/articles/ce97nngd4nlo|mum and daughter who died at beach were trying to save boy 7|d9884d2410cddd37a97680d43e97cc38
@@ -182,3 +180,6 @@
 2026-07-30T17:02:03.910944+00:00|https://www.bbc.co.uk/news/articles/c1j1wyy7e39o|residents evacuated and village flooded after quarry incident|739f9cd2f513956406d6aeae00902363
 2026-07-30T17:02:06.507887+00:00|https://www.bbc.co.uk/news/articles/c87n321w9qlo|palestine action ban to be reviewed by supreme court|a010ad325ab0d10069ba7002c72625e4
 2026-07-30T17:02:09.226038+00:00|https://www.telegraph.co.uk/business/2026/07/30/uk-interest-rates-bank-of-england-ftse-100-markets|uk economy to flatline warns bank of england|108640d270205d5b5412099af697db37
+2026-07-30T18:47:01.098140+00:00|https://www.bbc.co.uk/news/articles/cn8n1knkkz9o|british airways flight called mayday on approach to heathrow|97fc092aa8a98e71f51ae77cb20a6b2a
+2026-07-30T18:47:03.694790+00:00|https://www.bbc.co.uk/news/articles/cz059e4d7xzo|virgin engineer died after explosion in fuel tank|224181c04089796ed01ebdc9f6657dd4
+2026-07-30T18:47:06.141243+00:00|https://news.sky.com/story/palestine-action-terror-ban-to-go-to-supreme-court-as-117-arrested-at-protest-13568520|palestine action terror ban to go to supreme court as 117 arrested at protest|827acd516e13416431b07575e2198f89

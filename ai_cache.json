@@ -18514,5 +18514,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785430923.369426
+  },
+  "97fc092aa8a98e71f51ae77cb20a6b2a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant safety incident involving a major UK airline landing at the UK's primary international airport, currently under investigation by the Air Accidents Investigation Branch.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785437210.748529
+  },
+  "827acd516e13416431b07575e2198f89": {
+    "is_relevant": true,
+    "reasoning": "This report concerns domestic legal proceedings, a Supreme Court challenge, and mass arrests of a UK-based activist group, which is highly relevant to UK crime and legal policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785437219.16556
   }
 }
