@@ -18297,5 +18297,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785384451.803703
+  },
+  "b5126f1b98aed5854f9d651452289bee": {
+    "is_relevant": true,
+    "reasoning": "This report concerns serious allegations of state surveillance of journalists by the PSNI and MI5, involving a significant legal ruling by the Investigatory Powers Tribunal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785393744.37156
+  },
+  "711ede25191058ce8d22f32a22e86386": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a local event and does not constitute hard news relevant to national UK interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785393755.206192
+  },
+  "8647c0a83f6ca291998992320c5e5042": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the impact of international trade and market competition on the domestic UK automotive manufacturing sector and pricing, which is a matter of significant economic concern.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785393765.825163
   }
 }
