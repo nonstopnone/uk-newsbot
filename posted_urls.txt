@@ -176,3 +176,6 @@
 2026-07-29T23:18:06.742983+00:00|https://www.bbc.co.uk/news/articles/c86ng1g5wy4o|salman rushdie attacker convicted of terror offenses|ddf62c1822852dab33bb1eb654df19b0
 2026-07-30T00:55:33.042071+00:00|https://www.bbc.co.uk/news/articles/crl70x0nxr9o|burnham says nuclear sub investment will protect uk and boost jobs|7026fa30098124efd0bb683979edd71b
 2026-07-30T00:55:35.861021+00:00|https://www.bbc.co.uk/news/articles/c1519n0d01jo|your burger costs more this summer but farmers say theyre not cashing in|4518c96753ce01f3d4c533289ff84f66
+2026-07-30T04:07:32.858965+00:00|https://www.bbc.co.uk/weather/articles/c1k183p9ddpo|cooler conditions on way for parts of uk but still no rain for droughthit areas|cb8afdcf1c8c6416f356a24d27b0e10c
+2026-07-30T04:07:35.449705+00:00|https://www.bbc.co.uk/news/articles/c78gnj1qqyyo|major incident declared over coastal heath fire in suffolk|1de1184e2c59adeadcac004c1fd04c7c
+2026-07-30T04:07:37.886226+00:00|https://news.sky.com/story/major-incident-declared-after-large-wildfire-breaks-out-as-uk-warned-of-new-normal-after-drought-declared-13568287|major incident declared after large wildfire breaks out as uk warned of new normal|b358fced4a3b7736b16afdf0ba145815

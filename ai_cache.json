@@ -18283,5 +18283,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785372931.205798
+  },
+  "1de1184e2c59adeadcac004c1fd04c7c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident involving local authorities and a major regional threat that impacts public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785384441.364013
+  },
+  "b358fced4a3b7736b16afdf0ba145815": {
+    "is_relevant": true,
+    "reasoning": "The declaration of a major incident due to a significant wildfire in the UK constitutes hard news involving emergency services and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785384451.803703
   }
 }
