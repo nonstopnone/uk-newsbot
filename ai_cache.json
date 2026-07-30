@@ -18318,5 +18318,40 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1785393765.825163
+  },
+  "0cd6046fad042ce438c63e08eab5bd87": {
+    "is_relevant": true,
+    "reasoning": "The article reports on significant public health data concerning mortality rates in the UK, which is a matter of national importance.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785403146.978017
+  },
+  "c9db794836150c94ce1903bf1b0af89c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle story about astronomy and photography rather than hard news, politics, or significant UK current affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785403156.255325
+  },
+  "ca459388baa034fc85b5bb11ae9570a1": {
+    "is_relevant": false,
+    "reasoning": "This is a global sports business story concerning FIFA's internal financial ventures and does not constitute hard UK news or a significant event affecting the UK domestic landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785403167.327911
+  },
+  "e181bbc869a0b09af3e591c96af20f16": {
+    "is_relevant": true,
+    "reasoning": "This is a significant breaking development regarding a major UK football club head coach.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785403178.782663
+  },
+  "7717339f078b24664083e230b6775bf9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a firearm discharge at a place of worship, which constitutes serious news relevant to public safety and crime reporting in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785403188.271682
   }
 }
