@@ -1,6 +1,3 @@
-2026-07-23T10:00:04.358736+00:00|https://www.bbc.co.uk/news/articles/cy8mxrpxk5ro|murder probe after man injured in stabbing dies|afd359c6daff89f77f6af9e19997ea9d
-2026-07-23T10:00:06.675151+00:00|https://www.bbc.co.uk/news/articles/c0l5z9g35zpo|former river city actor iain robertson jailed for nine years for rape|9050ed6bcb3868af2dd9cbc9dedbf074
-2026-07-23T10:00:09.074602+00:00|https://news.sky.com/story/life-changing-drug-to-help-ms-patients-walk-available-to-thousands-on-nhs-13566179|lifechanging drug that helps ms patients walk available on nhs|4f788581ede946a383096eaa5039dee6
 2026-07-23T11:58:16.236405+00:00|https://www.bbc.co.uk/news/articles/cp87qz866zlo|murder investigation launched after man dies|8161456a51224f963c07fd4f96a2c3d0
 2026-07-23T11:58:18.687709+00:00|https://www.bbc.co.uk/news/articles/cvg791nenvvo|friend of manchester synagogue attacker jailed for plot on military base|0190adc120d378360d7b6c7093dbe789
 2026-07-23T11:58:21.123813+00:00|https://news.sky.com/story/police-scotland-officer-who-took-own-life-was-violent-rapist-as-victims-urged-to-come-forward-13566203|police officer who took own life was violent rapist as victims urged to come forward|79dab95eba3f10d51d5bd56f52d20e39
@@ -182,3 +179,7 @@
 2026-07-30T09:19:52.521942+00:00|https://news.sky.com/story/eddie-howe-leaves-job-as-newcastle-head-coach-13568324|eddie howe in shock exit at newcastle united|e181bbc869a0b09af3e591c96af20f16
 2026-07-30T09:19:55.297301+00:00|https://www.bbc.co.uk/news/articles/c1d1nz0613xo|arrest after firearm discharge outside mosque|7717339f078b24664083e230b6775bf9
 2026-07-30T09:19:57.921609+00:00|https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo|end this nightmare wife of ailing briton jailed in saudi arabia appeals for release|7386e8b7f3c9391e0fa27775815c92c1
+2026-07-30T11:30:28.364896+00:00|https://www.bbc.co.uk/news/articles/cp8e6m4rndgo|interest rates held as bank of england says inflation set to rise|189eb66a9da2a2b4c30e3f60e314ef59
+2026-07-30T11:30:31.076077+00:00|https://www.bbc.co.uk/news/articles/cddjzgv3zl1o|scotrail apology as passengers unable to book tickets in app launch chaos|03cd41ede92a61a0e9e2e914a50000e4
+2026-07-30T11:30:33.558330+00:00|https://news.sky.com/story/joe-root-returns-as-england-mens-test-captain-replacing-ben-stokes-13568372|joe root returns as england mens test captain replacing ben stokes|d97a906d3b8fdc5cb41930840ffc6dda
+2026-07-30T11:30:36.070182+00:00|https://news.sky.com/story/three-migrants-found-dead-on-boat-in-english-channel-13568358|three migrants die after trying to cross english channel near dunkirk|686aec9af38f68f5a7cd24b5b58f5b30

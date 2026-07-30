@@ -18353,5 +18353,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785403188.271682
+  },
+  "189eb66a9da2a2b4c30e3f60e314ef59": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a critical Bank of England interest rate decision and its outlook for the UK economy, which directly affects the British public and financial landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785410978.539362
+  },
+  "03cd41ede92a61a0e9e2e914a50000e4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant service disruption affecting national infrastructure and public transport in Scotland, which is a matter of clear relevance to UK rail travellers.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785410987.674319
+  },
+  "d17c479b2c921549bbfa1bc809f86688": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a vaccine development for an outbreak in the Democratic Republic of Congo and does not have a specific, material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785410997.87613
+  },
+  "1f45f24df73edae5318d32378538570c": {
+    "is_relevant": false,
+    "reasoning": "The article concerns celebrity news and music awards, which is classified as fluff or lifestyle content rather than hard news of significant national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785411008.675981
+  },
+  "d97a906d3b8fdc5cb41930840ffc6dda": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK national sports team leadership involving a major sporting institution, which meets the criteria for inclusion.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785411018.762247
+  },
+  "686aec9af38f68f5a7cd24b5b58f5b30": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving the English Channel and UK immigration policy, which directly relates to security and border management.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785411027.531563
   }
 }
