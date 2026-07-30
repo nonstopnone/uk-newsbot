@@ -1,5 +1,3 @@
-2026-07-23T20:36:40.585198+00:00|https://www.bbc.co.uk/news/articles/ce97nngd4nlo|mum and daughter who died at beach were trying to save boy 7|d9884d2410cddd37a97680d43e97cc38
-2026-07-23T20:36:43.184040+00:00|https://www.bbc.co.uk/news/articles/cvgjp79m42go|gary lineker among millionaires asking andy burnham to tax them more|153aa305b6188a022d87a7a3d35aae94
 2026-07-23T22:40:36.636226+00:00|https://www.bbc.co.uk/news/articles/c5yd7jy8np3o|wildfire spotted from space as helicopter brought in to tackle blaze|fcdae197279b4a819b3a5a913f228c78
 2026-07-23T22:40:39.239418+00:00|https://www.bbc.co.uk/news/articles/cm2g3053ejko|king and queen emerge from tardis to open glasgow commonwealth games|dc0fbb67635e5fcc5856a74fbb32b808
 2026-07-24T04:33:43.985173+00:00|https://www.bbc.co.uk/news/articles/ckgvyr76973o|burnham to spend first day working from northern branch of no 10|c041e9ecaa1e7a1a93d0535341a59532
@@ -185,3 +183,6 @@
 2026-07-30T20:16:25.003975+00:00|https://www.bbc.co.uk/news/articles/cp9e03ymreyo|archbishop of canterbury committed to £100m slavery fund|a8b53ae8e76885ae71ce37e1993d78d1
 2026-07-30T20:16:27.376038+00:00|https://news.sky.com/story/key-hs2-contracts-renegotiated-as-government-scrambles-to-slash-costs-13568600|key hs2 contracts renegotiated as government scrambles to slash costs|1762f5dceecf01640de42663537ed8f2
 2026-07-30T20:16:29.793141+00:00|https://news.sky.com/story/aircraft-engineer-died-after-heathrow-explosion-inquest-hears-13568555|aircraft engineer died after heathrow explosion inquest hears|93c8b88605b50bfa46eea78760445c55
+2026-07-30T21:44:05.806677+00:00|https://www.bbc.co.uk/news/articles/c4g3eyg60e0o|andy burnham to give regional mayors share of income tax|0eba320dfc91bedaf5177f8beab6cff8
+2026-07-30T21:44:08.384822+00:00|https://www.bbc.co.uk/news/articles/clyql4rex6qo|kayden moys killer posts video from prison boasting about murder|fcf72d2b6fc1f47707af3754dd763fce
+2026-07-30T21:44:10.773015+00:00|https://news.sky.com/story/police-find-4m-in-cash-and-1kg-of-cocaine-at-south-london-property-after-stopping-suspicious-vehicle-13568598|police find £4m in cash and 1kg of cocaine at south london property after stopping suspicious vehicle|ed9fd5e4512d41cc78f2b38b2fc2ec9e

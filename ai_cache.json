@@ -18556,5 +18556,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785442581.162412
+  },
+  "fcf72d2b6fc1f47707af3754dd763fce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a convicted murderer broadcasting from a UK prison, which concerns national security and public safety standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785447835.17116
+  },
+  "ed9fd5e4512d41cc78f2b38b2fc2ec9e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation and police operation involving a major seizure of drugs and currency in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785447845.037396
   }
 }
