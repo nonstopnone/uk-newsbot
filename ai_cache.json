@@ -18773,5 +18773,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1785527601.896704
+  },
+  "b673af87b4f6de0f4ed3ba9cf2f4073b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK political development regarding the leadership of a major regional combined authority.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785540657.862676
   }
 }

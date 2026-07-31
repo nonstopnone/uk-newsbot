@@ -1,5 +1,3 @@
-2026-07-24T22:19:11.576855+00:00|https://www.bbc.co.uk/news/articles/c9w0p5znzyvo|judge demands answers after dangerous man who threatened to chop up woman was released on bail|343262b33beb92b64d61e3b68a75c077
-2026-07-24T22:19:14.169393+00:00|https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo|huge explosion and fire rip through essex industrial site|106ca8dd2df7ba3a6d7dbb28743f8d17
 2026-07-24T23:33:46.345255+00:00|https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o|long overdue lifechanging or frivolous your thoughts on wedding rule changes|7624aeddebbf6ef5ee86df6176b4e2ee
 2026-07-24T23:33:48.642624+00:00|https://www.bbc.co.uk/news/articles/c70gq125xweo|adhd has rewired the workplace this is what it means for bosses and workers|ff2e003dd0a6f2599d034a43754372a8
 2026-07-25T01:12:10.844255+00:00|https://www.bbc.co.uk/weather/articles/c70gwq88gz7o|heatwave conditions to return for many as uk temperatures to peak at 35c|eed3fa336b52930a54699404cf85f992
@@ -184,3 +182,4 @@
 2026-07-31T19:53:26.291716+00:00|https://www.bbc.co.uk/weather/articles/cddjznv86p3o|england and wales on course for driest july on record|c929823d12c93c9aa7c4ce82896ee17c
 2026-07-31T22:15:59.637132+00:00|https://www.bbc.co.uk/news/articles/ckgd41lmedmo|should scotlands biggest city have an elected mayor|2755f99c232ebe39925a98af1568a3ef
 2026-07-31T22:16:02.277419+00:00|https://www.bbc.co.uk/news/articles/c8rng7dkzpro|i was in a coma for 42 days after a tick bite on a holiday to greece|7889c1b0b6cdb107c784b029a958e821
+2026-07-31T23:30:58.745169+00:00|https://www.bbc.co.uk/news/articles/cy74n1n1lnxo|labours bev craig succeeds burnham as greater manchester mayor|b673af87b4f6de0f4ed3ba9cf2f4073b
