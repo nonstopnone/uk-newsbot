@@ -18766,5 +18766,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785521081.117272
+  },
+  "d2bf6a937f50c0cde039a136c4b86904": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK judicial sentencing and border security enforcement regarding small boat crossings.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785527601.896704
   }
 }

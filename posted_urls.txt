@@ -1,6 +1,3 @@
-2026-07-24T18:25:46.643448+00:00|https://www.bbc.co.uk/news/articles/cz7dve71n9lo|beach hero tells of attempt to save drowning girl and mum|17f08465f45399dc29ccc324f6ca1972
-2026-07-24T18:25:49.073982+00:00|https://news.sky.com/story/five-officers-injured-after-police-boat-hits-bridge-in-london-13566704|police boat carrying armed officers crashes into bridge in london|7d5dc138244e1260e18cdf237cd6e3eb
-2026-07-24T18:25:51.630038+00:00|https://www.bbc.co.uk/news/articles/cx2dg54vprno|angela rayner rules out rent controls in england|315428bf0f936ab325f8c673947a15e2
 2026-07-24T19:56:44.568547+00:00|https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o|law student is charged over intercepted bomb in car|8b2eb79d9b2bc0930821e723f47b305d
 2026-07-24T19:56:47.378435+00:00|https://www.bbc.co.uk/sport/swimming/articles/cy5dnelqyyzo|scotland kickstart glasgow 2026 with three medals in 45 minutes|ed46d439d904b736f98ca798fc666d16
 2026-07-24T19:56:50.200907+00:00|https://www.telegraph.co.uk/business/2026/07/24/trump-tariffs-oil-prices-pmi-ftse-100-markets|britain to pay higher trump tariffs than eu|bfbad2e0333f87271ebfb13b5f9bdafa
@@ -188,3 +185,5 @@
 2026-07-31T18:04:41.862892+00:00|https://www.bbc.co.uk/news/articles/cdew3dj454xo|wheels coming off stormont says sinn féin|e51f271908ad689d3332a082e22d16ad
 2026-07-31T18:04:44.365348+00:00|https://www.bbc.co.uk/news/articles/cre4nlez9nyo|no sentence long enough for jailed funeral director robert bush say families|c4bbbd0d26a1f50101eccf0ac7c24799
 2026-07-31T18:04:47.121381+00:00|https://news.sky.com/story/water-reservoirs-hit-exceptionally-low-levels-with-england-and-wales-set-for-driest-july-on-record-13568814|areas with exceptionally low reservoir levels announced|ec1ae30f60c9e52f834e31c155202eac
+2026-07-31T19:53:23.513135+00:00|https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o|two more small boat pilots jailed for channel crossings|d2bf6a937f50c0cde039a136c4b86904
+2026-07-31T19:53:26.291716+00:00|https://www.bbc.co.uk/weather/articles/cddjznv86p3o|england and wales on course for driest july on record|c929823d12c93c9aa7c4ce82896ee17c
