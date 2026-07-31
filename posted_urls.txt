@@ -1,5 +1,3 @@
-2026-07-24T21:07:43.928031+00:00|https://www.bbc.co.uk/news/articles/c86nppppj1jo|slapping therapist jailed over death released early|deff20c22bed1566f43035aad1ea0a6a
-2026-07-24T21:07:46.722901+00:00|https://www.bbc.co.uk/news/articles/c2k7g15v3epo|police declare major incident as wind change increases cairngorms wildfire risk|930bcc7da8d425ec1a14039b674ecd32
 2026-07-24T22:19:11.576855+00:00|https://www.bbc.co.uk/news/articles/c9w0p5znzyvo|judge demands answers after dangerous man who threatened to chop up woman was released on bail|343262b33beb92b64d61e3b68a75c077
 2026-07-24T22:19:14.169393+00:00|https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo|huge explosion and fire rip through essex industrial site|106ca8dd2df7ba3a6d7dbb28743f8d17
 2026-07-24T23:33:46.345255+00:00|https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o|long overdue lifechanging or frivolous your thoughts on wedding rule changes|7624aeddebbf6ef5ee86df6176b4e2ee
@@ -184,3 +182,5 @@
 2026-07-31T18:04:47.121381+00:00|https://news.sky.com/story/water-reservoirs-hit-exceptionally-low-levels-with-england-and-wales-set-for-driest-july-on-record-13568814|areas with exceptionally low reservoir levels announced|ec1ae30f60c9e52f834e31c155202eac
 2026-07-31T19:53:23.513135+00:00|https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o|two more small boat pilots jailed for channel crossings|d2bf6a937f50c0cde039a136c4b86904
 2026-07-31T19:53:26.291716+00:00|https://www.bbc.co.uk/weather/articles/cddjznv86p3o|england and wales on course for driest july on record|c929823d12c93c9aa7c4ce82896ee17c
+2026-07-31T22:15:59.637132+00:00|https://www.bbc.co.uk/news/articles/ckgd41lmedmo|should scotlands biggest city have an elected mayor|2755f99c232ebe39925a98af1568a3ef
+2026-07-31T22:16:02.277419+00:00|https://www.bbc.co.uk/news/articles/c8rng7dkzpro|i was in a coma for 42 days after a tick bite on a holiday to greece|7889c1b0b6cdb107c784b029a958e821
