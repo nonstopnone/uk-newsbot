@@ -18675,5 +18675,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785491217.56657
+  },
+  "522607bccbf5bbb1d81cb95c24e6e021": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and planning development concerning national security, diplomatic relations, and urban infrastructure in London, which is highly relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785499303.206427
+  },
+  "7ff8d006cf0c9fba259993faa11fb57d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile criminal case involving a major public interest story and charges within the UK prison system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785499313.787963
+  },
+  "dcd2b267c027073cce1fe339958dd9d4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatal incident in Scotland, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785499322.133362
+  },
+  "e220c8899e038b2b15a6743f2c2cd125": {
+    "is_relevant": false,
+    "reasoning": "This is a promotional call for app testers rather than a news event, making it irrelevant to a hard news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785499331.691921
+  },
+  "050338ce72624a964f6d29701a751592": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development involving mass redundancies and the closure of high-street infrastructure, directly affecting the UK economy and employment landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785499340.750734
   }
 }
