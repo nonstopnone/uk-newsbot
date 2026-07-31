@@ -18577,5 +18577,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785451710.03091
+  },
+  "361868929d44437555a74bb3c1aeecb9": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile former member of the British Royal Marines, representing a significant news story involving a UK-linked public figure in an international emergency.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785456261.785154
+  },
+  "844d47ccdbc41653f057d6e34e140f79": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public interest story involving a government department's conduct and a court-ordered animal welfare enforcement action in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785456272.709108
   }
 }
