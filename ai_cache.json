@@ -18738,5 +18738,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785508607.259966
+  },
+  "a3735d89dbea1ae18687d687cd306996": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national due to an alleged criminal assault abroad is a matter of significant public interest involving the FCDO and UK police/health services.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785515071.749754
+  },
+  "42c85f4b3b28e262bd0fa3646baf3624": {
+    "is_relevant": true,
+    "reasoning": "This article concerns the functionality and stability of the Northern Ireland Executive, which falls under UK devolved government and political affairs.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785515082.310558
   }
 }

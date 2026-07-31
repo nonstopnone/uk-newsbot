@@ -1,5 +1,3 @@
-2026-07-24T15:08:07.765603+00:00|https://www.bbc.co.uk/news/articles/c20d1np80gqo|highland wildfire smoke blows into aberdeen 59 miles away|9d48bba7934038dba1d5062529ae9df3
-2026-07-24T15:08:10.122211+00:00|https://www.bbc.co.uk/news/articles/cx2rmn45m32o|dad who murdered fourweekold son jailed for 18 years|362a9f5280e76ce6092b7aa4a6d67398
 2026-07-24T16:59:02.768815+00:00|https://www.bbc.co.uk/news/articles/c935k4k4pezo|officers hurt as police boat hits westminster bridge|c788073646b423040f67750cb130920e
 2026-07-24T16:59:05.143408+00:00|https://www.bbc.co.uk/news/articles/ckg688pr9z0o|mega dinghy carries record 165 migrants to uk|0e22e0d0c565d941d90ca71e1cc10e28
 2026-07-24T16:59:07.576050+00:00|https://news.sky.com/story/prison-staff-asked-to-warn-of-any-prison-unrest-due-to-delays-in-releases-13566657|prison staff asked to warn of any prison unrest due to delays in releases|8065ea40d33d0ac3d248434ea56dfccc
@@ -188,3 +186,5 @@
 2026-07-31T12:02:26.930240+00:00|https://news.sky.com/story/betfred-to-cut-600-jobs-as-132-shops-close-amid-industry-tax-raid-13568679|betfred to cut 600 jobs as 132 shops close amid industry tax raid|050338ce72624a964f6d29701a751592
 2026-07-31T14:36:48.402563+00:00|https://www.bbc.co.uk/news/articles/ckg35errde5o|disgraced funeral boss who failed to bury bodies jailed|31f0dceff4f152cfebd870da93b5876b
 2026-07-31T14:36:50.992811+00:00|https://www.bbc.co.uk/news/articles/c5yel298793o|residents hit by flooding call for quarry to shut after blast|fcee5ada6695afa22be018c9e21078b0
+2026-07-31T16:24:44.330614+00:00|https://www.bbc.co.uk/news/articles/cx2v972wzdgo|devoted father dies after alleged assault in turkey|a3735d89dbea1ae18687d687cd306996
+2026-07-31T16:24:47.133402+00:00|https://www.bbc.co.uk/news/articles/cjd4yz35x8go|budget to be held in october healey announces|0b399539fbf4f6930243b87112437e2f
