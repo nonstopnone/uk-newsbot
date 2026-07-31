@@ -1,7 +1,3 @@
-2026-07-24T13:08:34.381933+00:00|https://www.bbc.co.uk/news/articles/cwymj9jmnm0o|four men dead after car crashes into lamppost|e9ad1372934fd4d04d584c2648f55cb4
-2026-07-24T13:08:36.715895+00:00|https://www.bbc.co.uk/news/articles/ckg68j3zkdgo|firefighting helicopter brought in to tackle isle of wight blaze|5d2d9f879f4388daf4a33103e5d30ddb
-2026-07-24T13:08:39.292730+00:00|https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599|extremely significant car bomb intercepted near irish border|55d7a2fcd3bdbf144a9fb57f1e636e20
-2026-07-24T13:08:41.953975+00:00|https://news.sky.com/story/singer-chris-brown-pleads-guilty-to-affray-over-london-nightclub-attack-13566593|singer chris brown pleads guilty to affray over london nightclub attack|f366789e2b8be302f0deeb3270642483
 2026-07-24T15:08:07.765603+00:00|https://www.bbc.co.uk/news/articles/c20d1np80gqo|highland wildfire smoke blows into aberdeen 59 miles away|9d48bba7934038dba1d5062529ae9df3
 2026-07-24T15:08:10.122211+00:00|https://www.bbc.co.uk/news/articles/cx2rmn45m32o|dad who murdered fourweekold son jailed for 18 years|362a9f5280e76ce6092b7aa4a6d67398
 2026-07-24T16:59:02.768815+00:00|https://www.bbc.co.uk/news/articles/c935k4k4pezo|officers hurt as police boat hits westminster bridge|c788073646b423040f67750cb130920e
@@ -190,3 +186,5 @@
 2026-07-31T12:02:21.382804+00:00|https://www.bbc.co.uk/news/articles/cwylenj3znno|high court upholds decision to allow chinese mega embassy|522607bccbf5bbb1d81cb95c24e6e021
 2026-07-31T12:02:24.121897+00:00|https://www.bbc.co.uk/news/articles/ckg3dr3lgjko|southport killer charged with prison attacks and possessing weapon|7ff8d006cf0c9fba259993faa11fb57d
 2026-07-31T12:02:26.930240+00:00|https://news.sky.com/story/betfred-to-cut-600-jobs-as-132-shops-close-amid-industry-tax-raid-13568679|betfred to cut 600 jobs as 132 shops close amid industry tax raid|050338ce72624a964f6d29701a751592
+2026-07-31T14:36:48.402563+00:00|https://www.bbc.co.uk/news/articles/ckg35errde5o|disgraced funeral boss who failed to bury bodies jailed|31f0dceff4f152cfebd870da93b5876b
+2026-07-31T14:36:50.992811+00:00|https://www.bbc.co.uk/news/articles/c5yel298793o|residents hit by flooding call for quarry to shut after blast|fcee5ada6695afa22be018c9e21078b0

@@ -18710,5 +18710,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1785499340.750734
+  },
+  "31f0dceff4f152cfebd870da93b5876b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving a major fraud and public interest scandal in Hull, which is highly relevant to UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785508573.614328
+  },
+  "fcee5ada6695afa22be018c9e21078b0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency involving a police investigation, the HSE, and the evacuation of residents due to industrial activity, making it relevant UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785508581.296757
+  },
+  "dfae352ff865d8aa35d126305dc4f2fa": {
+    "is_relevant": true,
+    "reasoning": "The victim is a British national (from Edinburgh) involved in a significant criminal investigation, which is a matter of clear public interest for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785508592.242476
+  },
+  "f5b9da41682825935a2e60cc734f9818": {
+    "is_relevant": true,
+    "reasoning": "This concerns a serious aviation incident involving a British Airways flight and an ongoing investigation by the UK's Air Accidents Investigation Branch (AAIB).",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785508607.259966
   }
 }
