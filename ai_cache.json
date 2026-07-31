@@ -18619,5 +18619,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785469898.398585
+  },
+  "6c98d08a18c78af77e0d1a38742b1569": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security case involving a UK citizen accused of spying on a British military installation, being prosecuted under the National Security Act.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785480364.701709
+  },
+  "74970ad65c9d019de5351006e9c4a694": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate restructuring involving a major UK retailer, which impacts the UK economy and employment landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785480373.547306
+  },
+  "13a839cb78cfac51357dbbb47443d925": {
+    "is_relevant": true,
+    "reasoning": "The subject is a prominent UK-based public figure and the outcome of the high-profile legal proceedings involves criminal convictions of interest to the UK public.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785480382.511601
   }
 }
