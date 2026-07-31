@@ -18640,5 +18640,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785480382.511601
+  },
+  "169c9082b3113148b160730681486614": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate move affecting 1,100 UK jobs, national energy infrastructure, and the broader UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785491179.32779
+  },
+  "5b1f4cd22ff49af0b96a1f221ff36d07": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate development involving a major UK retailer, impacting a widespread national high street brand and its thousands of employees across the country.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785491188.494822
+  },
+  "b105e5957e02384240ebef3930263649": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle guide about dating and does not constitute hard news relevant to UK public interest, politics, or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785491199.511845
+  },
+  "b23185a4cf4edb0fafd3fc78ba2821b8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development concerning major UK infrastructure and the national energy economy with material impact on UK jobs and industry.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785491209.470436
+  },
+  "4a58309c62890fc37082f0a86884f1ed": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding a municipal maintenance project in a single town, which does not constitute hard national news or have material national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785491217.56657
   }
 }

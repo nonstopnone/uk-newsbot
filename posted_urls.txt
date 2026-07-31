@@ -1,5 +1,3 @@
-2026-07-24T07:18:45.917875+00:00|https://www.bbc.co.uk/news/articles/cly5vvw77pzo|fifty women come forward saying they were pressured into swinging|3d351d9f84554ba0fab995b2f2de82d5
-2026-07-24T07:18:48.507920+00:00|https://www.bbc.co.uk/news/articles/cly89wrmdxyo|hero swimmer helped two children during beach tragedy|8fb49bc45b0b93b840973dc7378a00c2
 2026-07-24T09:56:53.484384+00:00|https://www.bbc.co.uk/news/articles/c70gknr7z1eo|uk mortgage rates rise to highest level for a month|09072d317b5f148495e8b67a74ab696f
 2026-07-24T09:56:55.822197+00:00|https://www.bbc.co.uk/news/articles/c7vgz680977o|scotch whisky levy lifted as trump imposes new wave of us tariffs|1bd6595ce01b73adb721fecc8ff0dcf8
 2026-07-24T09:56:58.589172+00:00|https://news.sky.com/story/girl-11-becomes-first-in-uk-to-receive-innovative-sight-saving-gene-therapy-13566513|girl 11 becomes first in uk to receive sightsaving gene therapy|644e6b22943db5bd61f14ebca85fa46f
@@ -192,3 +190,6 @@
 2026-07-31T06:46:24.464102+00:00|https://www.bbc.co.uk/news/articles/ce853y7yq7yo|british man accused of spying on cyprus raf base for iran|6c98d08a18c78af77e0d1a38742b1569
 2026-07-31T06:46:27.349335+00:00|https://news.sky.com/story/sainsburys-agrees-120m-deal-to-sell-argos-13568664|sainsburys agrees £120m deal to sell argos|74970ad65c9d019de5351006e9c4a694
 2026-07-31T06:46:30.040617+00:00|https://www.bbc.co.uk/news/articles/crrv7vk0knro|uk rapper yung filly found not guilty of raping woman after australian show|13a839cb78cfac51357dbbb47443d925
+2026-07-31T09:46:58.359167+00:00|https://www.bbc.co.uk/news/articles/c62q7w003lro|bp puts north sea business up for sale|169c9082b3113148b160730681486614
+2026-07-31T09:47:00.862967+00:00|https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo|sainsburys agrees to sell argos for £120m|5b1f4cd22ff49af0b96a1f221ff36d07
+2026-07-31T09:47:03.187803+00:00|https://news.sky.com/story/bp-hangs-for-sale-sign-over-north-sea-operations-13568673|bp hangs for sale sign over north sea operations|b23185a4cf4edb0fafd3fc78ba2821b8
