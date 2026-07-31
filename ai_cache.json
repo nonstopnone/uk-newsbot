@@ -18591,5 +18591,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785456272.709108
+  },
+  "1230396d69f1b27db48511b31668da9a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report involving the disappearance of a British military veteran in a major international incident, which is of clear public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785469868.950034
+  },
+  "f567b5b69a8c3c45afa3e42a8138fd39": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a nationwide UK police programme (Cyber Choices) addressing youth crime and cybersecurity infrastructure, which is a matter of public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785469878.204976
+  },
+  "8838a3ea911850870b6d1bd8521f6a12": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and psychology article that does not constitute hard news or relate to significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785469888.264347
+  },
+  "b4fdfb34a1ba2fc78d0868419f1a3d71": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest feature focusing on individual living arrangements and property guardian experiences, rather than hard news regarding UK housing policy or significant economic shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785469898.398585
   }
 }
