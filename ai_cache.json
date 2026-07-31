@@ -18752,5 +18752,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785515082.310558
+  },
+  "c4bbbd0d26a1f50101eccf0ac7c24799": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal story involving a major police investigation, criminal sentencing, and significant public interest regarding a disgraced funeral director.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785521071.53892
+  },
+  "ec1ae30f60c9e52f834e31c155202eac": {
+    "is_relevant": true,
+    "reasoning": "This report on water security and reservoir levels in England constitutes significant news regarding national infrastructure and the environment, which directly impacts the UK public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785521081.117272
   }
 }
