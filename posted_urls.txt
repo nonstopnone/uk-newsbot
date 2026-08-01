@@ -1,4 +1,3 @@
-2026-07-25T11:52:25.918583+00:00|https://www.bbc.co.uk/news/articles/c80ny93xlrvo|tourists describe their escape from france wildfires|795e608b9c81cf67fe6ce520b649a063
 2026-07-25T13:39:16.771692+00:00|https://www.bbc.co.uk/news/articles/c20jdy584pvo|letters by presmiths morrissey set for auction|980feb0ec6879a95ed952e623347f4f2
 2026-07-25T13:39:19.513888+00:00|https://www.bbc.co.uk/news/articles/cly5j8dwwpeo|six men arrested over fatal stabbing in south london|9d5d16aa3b65c005e1b3378ce2c957cb
 2026-07-25T14:50:10.852901+00:00|https://www.bbc.co.uk/news/articles/c5yv4gprn3xo|belfast pride is not just a celebration its a protest for freedom|813657926bcef9c29d1e87c7f958429b
@@ -182,3 +181,6 @@
 2026-08-01T09:32:13.870514+00:00|https://www.bbc.co.uk/news/articles/c6290jwpd3no|commonwealth games boxing official suspended over headbutt probe|aa04b858907bb6e52ff12f2293f0c974
 2026-08-01T11:05:37.184789+00:00|https://www.bbc.co.uk/news/articles/ckg4e7jle9no|teenager dies following twovehicle crash|1dffdfc5aa9fdf3bab0c4aae44d45c38
 2026-08-01T11:05:39.806048+00:00|https://www.bbc.co.uk/news/articles/c5y32zmv6kjo|soap star shane richie facing drinkdrive charge|27fd6751a3c8949b7e1cc1da47a42091
+2026-08-01T12:13:10.210040+00:00|https://www.telegraph.co.uk/football/2026/08/01/chelsea-vs-spurs-live-score-latest-updates-friendly|richarlison earns lastgasp win for 10man tottenham against chelsea|7c06ff4ef90668e88413c3434a4890c9
+2026-08-01T12:13:12.638133+00:00|https://www.bbc.co.uk/news/articles/clyljq79kdko|mountaineer nirmal purja killed in pakistan avalanche his company says|84ac656497876d5fcfb1e57288ac1f98
+2026-08-01T12:13:15.292986+00:00|https://www.bbc.co.uk/news/articles/c4g3j5zyr0go|police arrest men over alleged modern day slavery|9be6dee286441cebc455c948ac6b95e8

@@ -18843,5 +18843,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785582336.133327
+  },
+  "84ac656497876d5fcfb1e57288ac1f98": {
+    "is_relevant": true,
+    "reasoning": "The individual was a former British Army soldier and a high-profile figure well-known in the UK, making his death a matter of significant public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785586379.522334
+  },
+  "9be6dee286441cebc455c948ac6b95e8": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant police operation involving serious criminal charges including modern day slavery and immigration offences within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785586389.223439
   }
 }
