@@ -18920,5 +18920,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785600822.73756
+  },
+  "a92abc871ecd82e359ebb4ed103993f5": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a Manchester United football match result, which constitutes a report on UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785604674.740526
   }
 }

@@ -1,4 +1,3 @@
-2026-07-25T17:16:25.843766+00:00|https://www.bbc.co.uk/news/articles/c5yv4r5g55do|police investigate donations by tice company to reform uk|9b17ad3799cba973e030aae04c35fb7a
 2026-07-25T18:27:36.948412+00:00|https://www.telegraph.co.uk/formula-1/2026/07/25/f1-live-hungarian-grand-prix-2026-qualifying-hamilton|lewis hamilton hit with another penalty in blow to hungarian gp hopes|fc5eab5c5c0f176f8b104151b2fe98fd
 2026-07-25T18:27:39.741152+00:00|https://www.bbc.co.uk/news/articles/c39evykp3kzo|police make 15 arrests at glasgow protests|0133761714de35f3395fe2d2f023cc8c
 2026-07-25T19:46:11.156816+00:00|https://news.sky.com/story/man-charged-after-suspected-car-bomb-intercepted-near-irish-border-13566985|man charged after suspected car bomb intercepted near irish border|bd8b410c5abf7aa37dad8b01560a9076
@@ -184,3 +183,5 @@
 2026-08-01T15:09:45.284781+00:00|https://news.sky.com/story/stephen-grzyb-manhunt-after-burglary-suspect-escapes-from-liverpool-court-13569032|manhunt launched after burglary suspect escapes from court on foot|875e26d3d01789bf0dd956f35f9b1b16
 2026-08-01T16:13:43.639299+00:00|https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o|william and kate bring children to commonwealth games netball and cycling events|c859aa8c855310cf7d8cc13566b0caa4
 2026-08-01T16:13:46.234289+00:00|https://www.bbc.co.uk/news/articles/cy5dpzk115wo|suffolk fire stable and fundraiser set up|2e6feb08dfb2292001fe5242245a6514
+2026-08-01T17:17:55.459125+00:00|https://www.telegraph.co.uk/football/2026/08/01/man-utd-vs-atletico-madrid-live-score-latest-pre-season|exciting young talent gabriel makes debut as man utd beat atletico madrid|a92abc871ecd82e359ebb4ed103993f5
+2026-08-01T17:17:57.900440+00:00|https://www.bbc.co.uk/news/articles/cdx705xz2g7o|manhunt after prisoner escapes from van outside court|7646620161c4c71440465ca06df1834a
