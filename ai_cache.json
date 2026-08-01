@@ -18927,5 +18927,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785604674.740526
+  },
+  "592c8def948e92f9c2f8bff9ffb9c164": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding academic integrity and institutional controversy at a major UK university, which is of public interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785617740.632482
+  },
+  "d2bf7ddbf68ee63fcd785ccfd4ec319b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing criminal activity and police operations in Cardiff, which constitutes local public interest news concerning public safety and crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785617750.373765
   }
 }
