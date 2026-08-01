@@ -1,7 +1,3 @@
-2026-07-25T14:50:10.852901+00:00|https://www.bbc.co.uk/news/articles/c5yv4gprn3xo|belfast pride is not just a celebration its a protest for freedom|813657926bcef9c29d1e87c7f958429b
-2026-07-25T14:50:13.738453+00:00|https://news.sky.com/story/boy-14-assisting-police-after-hoax-threat-made-to-aircraft-approaching-manchester-airport-13566910|boy 14 assisting police after hoax threat made to aircraft|088cb646eafb07caea65668420e0ed86
-2026-07-25T14:50:16.458103+00:00|https://news.sky.com/story/six-arrested-after-man-stabbed-to-death-in-south-london-13563883|six arrested after man stabbed to death in south london|c5418aa5ce41467b97efd51dbd10833e
-2026-07-25T14:50:18.880896+00:00|https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo|sean mccann madeleines brother makes commonwealths final|f50e062ef2d37d01f80f6c5d62a713f6
 2026-07-25T16:05:57.103472+00:00|https://www.bbc.co.uk/news/articles/cdewlpgnlx6o|cairngorm residents say wildfire response too slow|23d6bc15401a670809aa272397e20a81
 2026-07-25T16:05:59.783386+00:00|https://www.bbc.co.uk/news/videos/c0l51y7k0wwo|laura kuenssberg goes behind the scenes with andy burnham in his first week as pm|453db259a65786c35dfb9b3f02e1711f
 2026-07-25T17:16:25.843766+00:00|https://www.bbc.co.uk/news/articles/c5yv4r5g55do|police investigate donations by tice company to reform uk|9b17ad3799cba973e030aae04c35fb7a
@@ -186,3 +182,5 @@
 2026-08-01T13:59:01.462346+00:00|https://www.bbc.co.uk/news/articles/cddj3j50rmpo|greater manchester mayor says burnhams new powers will change lives|a2a49fcceb9da4b675e6dfef997cd974
 2026-08-01T13:59:04.343263+00:00|https://www.bbc.co.uk/news/articles/cz05yzzr93jo|greek police fasttracking tests to find out how british woman found in suitcase died|dfe4225806b3aa9497794cf2bd90aac7
 2026-08-01T13:59:06.755227+00:00|https://news.sky.com/story/comfortable-victory-but-uncomfortable-numbers-for-labour-in-greater-manchester-13569010|comfortable victory but uncomfortable numbers for labour in greater manchester|6c6962d73da7df30c1fd41ac4c24dc90
+2026-08-01T15:09:42.837709+00:00|https://www.bbc.co.uk/news/articles/cz05yjg49nno|first minister wants answers after visiting families in wake of quarry blast flooding|9a38b6eaec4da37c1c62697186f425a9
+2026-08-01T15:09:45.284781+00:00|https://news.sky.com/story/stephen-grzyb-manhunt-after-burglary-suspect-escapes-from-liverpool-court-13569032|manhunt launched after burglary suspect escapes from court on foot|875e26d3d01789bf0dd956f35f9b1b16

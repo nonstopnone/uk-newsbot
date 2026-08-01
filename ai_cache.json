@@ -18878,5 +18878,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785592737.936204
+  },
+  "cc3b5ffa15144913f9712bb4fbcd9a05": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports match report regarding a pre-season football game, which falls under sports journalism rather than hard news or breaking UK current affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785596963.501733
+  },
+  "9a38b6eaec4da37c1c62697186f425a9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regional news event involving a devolved government leader, potential industrial negligence, and a major emergency response within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785596971.885758
+  },
+  "875e26d3d01789bf0dd956f35f9b1b16": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related incident involving a police manhunt and a breach of custody in a major UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785596982.014434
   }
 }
