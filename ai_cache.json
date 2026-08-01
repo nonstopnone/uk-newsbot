@@ -18857,5 +18857,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785586389.223439
+  },
+  "e11ba5d923772019bc3a653c89f0928e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a competitive football match involving a major English Premier League club, which falls under UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785592719.295085
+  },
+  "dfe4225806b3aa9497794cf2bd90aac7": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad, involving a potential criminal investigation and police cooperation, is a matter of significant interest to the UK public.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785592728.619143
+  },
+  "6c6962d73da7df30c1fd41ac4c24dc90": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant political outcome regarding a major mayoral election in the UK, which is a matter of direct political relevance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785592737.936204
   }
 }
