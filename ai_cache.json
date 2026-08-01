@@ -18780,5 +18780,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785540657.862676
+  },
+  "a26ffb837c91ef60dcc81f8f5094803b": {
+    "is_relevant": false,
+    "reasoning": "This is a feature/lifestyle piece about traditional crafts rather than hard news, and does not meet the criteria for significant UK impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785559295.090368
+  },
+  "0044246ba57374e0f94b6039bde8c7ef": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant criminal case and ongoing legal proceedings by the CPS regarding asset confiscation, which is highly relevant to UK crime and justice news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785559305.043142
+  },
+  "c4b8f695cfefb838a5bbdf290124735d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment piece about a music group's career development, which does not meet the criteria for hard news relevant to UK political, economic, or legal structures.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785559315.244085
+  },
+  "747e11260a3d095027dd6a7644d6cf04": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about botanical research, which constitutes 'fluff' or lifestyle news rather than hard news impacting UK public interest, policy, or the economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785559325.746506
   }
 }
