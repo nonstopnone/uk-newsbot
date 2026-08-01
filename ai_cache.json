@@ -18948,5 +18948,26 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785621540.943977
+  },
+  "76068a389d640a1d5c40b008c42a7bef": {
+    "is_relevant": true,
+    "reasoning": "The festival is a major cultural event taking place in Belfast, representing significant cultural activity within the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785625338.634719
+  },
+  "ec7f7dece0d497755c2edb2e05015b99": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and photography feature story about artistic subject matter, which does not constitute hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785625349.790561
+  },
+  "05cbc980641db2aa7718b1016ae00c21": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the captaincy of the England national cricket team, which constitutes major UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785625358.105293
   }
 }
