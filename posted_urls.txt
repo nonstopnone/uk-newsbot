@@ -1,8 +1,3 @@
-2026-07-24T23:33:46.345255+00:00|https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o|long overdue lifechanging or frivolous your thoughts on wedding rule changes|7624aeddebbf6ef5ee86df6176b4e2ee
-2026-07-24T23:33:48.642624+00:00|https://www.bbc.co.uk/news/articles/c70gq125xweo|adhd has rewired the workplace this is what it means for bosses and workers|ff2e003dd0a6f2599d034a43754372a8
-2026-07-25T01:12:10.844255+00:00|https://www.bbc.co.uk/weather/articles/c70gwq88gz7o|heatwave conditions to return for many as uk temperatures to peak at 35c|eed3fa336b52930a54699404cf85f992
-2026-07-25T01:12:13.454009+00:00|https://www.bbc.co.uk/news/articles/c4gwpvq6q03o|wildfire burning one month on is the size of a small town|ccfef46545149276881ffdba58d03d67
-2026-07-25T01:12:16.063369+00:00|https://news.sky.com/story/cairngorms-national-park-wildfire-declared-major-incident-as-hundreds-of-villagers-evacuated-13566798|cairngorms wildfire declared major incident as hundreds of villagers evacuated|6b69f3fe6d83b3829f909562d02aa478
 2026-07-25T06:58:06.066520+00:00|https://www.bbc.co.uk/news/articles/cd7ldjrl2reo|gangs violence and dumped dead animals the hidden world of illegal hare hunts|dcce3f50d300e50eacad8c874bed0d5d
 2026-07-25T09:06:22.201818+00:00|https://news.sky.com/story/england-gymnast-gabriel-langton-taken-to-hospital-after-horror-fall-at-commonwealth-games-13566819|england gymnast taken to hospital after horror fall at commonwealth games|b64da85b65da1d4892ad4f6f8d1f468a
 2026-07-25T11:52:25.918583+00:00|https://www.bbc.co.uk/news/articles/c80ny93xlrvo|tourists describe their escape from france wildfires|795e608b9c81cf67fe6ce520b649a063
@@ -183,3 +178,5 @@
 2026-07-31T22:15:59.637132+00:00|https://www.bbc.co.uk/news/articles/ckgd41lmedmo|should scotlands biggest city have an elected mayor|2755f99c232ebe39925a98af1568a3ef
 2026-07-31T22:16:02.277419+00:00|https://www.bbc.co.uk/news/articles/c8rng7dkzpro|i was in a coma for 42 days after a tick bite on a holiday to greece|7889c1b0b6cdb107c784b029a958e821
 2026-07-31T23:30:58.745169+00:00|https://www.bbc.co.uk/news/articles/cy74n1n1lnxo|labours bev craig succeeds burnham as greater manchester mayor|b673af87b4f6de0f4ed3ba9cf2f4073b
+2026-08-01T01:17:07.213976+00:00|https://www.bbc.co.uk/news/articles/cr49w13w9d0o|victims of disgraced funeral boss demand industry regulation|52fa40cc08eac072f914df36e6f02aa1
+2026-08-01T01:17:09.883392+00:00|https://www.bbc.co.uk/news/articles/cdrvkzdpynyo|the papers spanish border crisis and iron chancellor|0e0165d204a7e3c7bd66942140ff5cfa
