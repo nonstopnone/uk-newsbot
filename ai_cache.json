@@ -18899,5 +18899,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785596982.014434
+  },
+  "2e6feb08dfb2292001fe5242245a6514": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing emergency incident in the UK involving large-scale damage to protected national infrastructure and wildlife habitats, requiring sustained intervention from public services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785600800.946521
+  },
+  "7646620161c4c71440465ca06df1834a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related event involving a police manhunt and an escape from legal custody in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785600811.574064
+  },
+  "e549a43771d7736e7b6bd7cc851ae109": {
+    "is_relevant": true,
+    "reasoning": "The renovation of a major historic UK cultural landmark is a significant event for the national heritage and local economy.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785600822.73756
   }
 }
