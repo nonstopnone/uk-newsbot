@@ -18941,5 +18941,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785617750.373765
+  },
+  "fa10e74c873847a325bea443ea6cc5ac": {
+    "is_relevant": true,
+    "reasoning": "The article covers major public safety and cultural events occurring across the UK in the context of recent extremist threats, which is of significant public interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785621540.943977
   }
 }
