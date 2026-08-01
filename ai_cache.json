@@ -18815,5 +18815,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785568598.91465
+  },
+  "aa04b858907bb6e52ff12f2293f0c974": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding safeguarding and conduct within a Scottish sporting organization, involving allegations of assault against minors that prompted a police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785576723.478459
+  },
+  "766b03a6123e7268f8bfadcbed2483f1": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff story about a lost pet, which does not meet the threshold for hard news relevance to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785576732.662643
   }
 }
