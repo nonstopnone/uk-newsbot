@@ -18829,5 +18829,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785576732.662643
+  },
+  "1dffdfc5aa9fdf3bab0c4aae44d45c38": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal road traffic collision in Northern Ireland involving a police investigation, which falls under UK regional crime and safety news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785582326.047397
+  },
+  "27fd6751a3c8949b7e1cc1da47a42091": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal charge involving a public figure, which constitutes hard news regarding the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785582336.133327
   }
 }
