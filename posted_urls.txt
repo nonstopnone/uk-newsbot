@@ -1,5 +1,3 @@
-2026-07-26T12:04:58.806199+00:00|https://www.bbc.co.uk/news/articles/cdew2dnxlzzo|water supply issue affects gatwick airport|1fa216d5c7deeeedda5fa70f140ffe22
-2026-07-26T12:05:01.213245+00:00|https://news.sky.com/story/gatwick-airport-suffers-major-water-outage-with-people-unable-to-flush-toilets-13567089|no working toilets or running water at gatwick as airport suffers major outage|7cc63873f58b408b5626e8e7cd335587
 2026-07-26T13:57:22.161603+00:00|https://www.bbc.co.uk/news/articles/c1k14vxgg04o|police investigating attempted murder of two officers|f18b0fd4a102ee6a9c0224b851e8a06b
 2026-07-26T15:11:43.098309+00:00|https://www.bbc.co.uk/news/articles/clyq5nqw13lo|teen charged over record crossing on mega dinghy|b2cef10513dee0e7749dcde364a9f42f
 2026-07-26T16:15:00.948975+00:00|https://www.bbc.co.uk/news/articles/c9d8jgw769zo|broadcaster gerry kelly dies aged 77|ea8e802caa9a4efc4fad2e6b90704542
@@ -184,3 +182,5 @@
 2026-08-02T09:00:31.839338+00:00|https://www.bbc.co.uk/news/articles/c2eln8drwlmo|gang of men hurl racist abuse at takeaway owner before violent attack|e46641782b3d648445ffc2641f08e864
 2026-08-02T09:00:34.416144+00:00|https://www.bbc.co.uk/news/articles/ce3456dw32no|trust grief and betrayal inside the legacy funeral case|eeb169200d76cbc05429ddad39513416
 2026-08-02T10:46:59.278760+00:00|https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo|england beaten by australia to netball bronze|809bae177de56461e0c04527611c5626
+2026-08-02T13:55:49.326943+00:00|https://www.bbc.co.uk/news/articles/c05q964n4llo|three in hospital after fire and crush at festival in london|5b0d035f216704f5fcbf617913191e6a
+2026-08-02T13:55:52.133222+00:00|https://www.bbc.co.uk/news/articles/cq89e771jqlo|continued drought could cause shortage of some foods farmers union head says|dab336f8166fe7ab182a36dd68433378

@@ -19018,5 +19018,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785667617.640956
+  },
+  "5b0d035f216704f5fcbf617913191e6a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety incident in London involving emergency services, multiple injuries, and the cancellation of a public festival.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785678947.984988
   }
 }
