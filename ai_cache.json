@@ -19060,5 +19060,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785687191.285425
+  },
+  "0dd8fac60d63ff5833d8181d5a682e95": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest health story about an individual's personal medical experience rather than hard news impacting the UK public, policy, or the national economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785704269.483948
+  },
+  "15a9a43e42cb20efac1fe3b6c47763cc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and safety advisory issued by government agencies regarding extreme weather conditions affecting the majority of the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785704278.753591
   }
 }
