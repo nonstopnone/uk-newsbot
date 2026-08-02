@@ -18983,5 +18983,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785629576.119646
+  },
+  "182398b0d5500f949993699ceb4ca272": {
+    "is_relevant": true,
+    "reasoning": "The death of a notable British filmmaker with significant contributions to UK television and cinema constitutes cultural news relevant to a UK audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785642965.108111
   }
 }
