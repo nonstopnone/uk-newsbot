@@ -19074,5 +19074,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785704278.753591
+  },
+  "75b8e6811daf508b5d579f3f4060cac4": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the conclusion and strategic implications of a major international sporting event hosted in Glasgow, Scotland, which is a matter of significant national and devolved interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785708132.795543
+  },
+  "f4060ccbd3bf7922e54d4c8b19afae86": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity lifestyle and entertainment news story. It does not meet the criteria for hard news or significant public interest relevant to UK governance, economy, or national security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785708143.780998
+  },
+  "88d00a8a3cd39fe28cab4ffbb0d1ae8e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant sporting achievement by a Welsh athlete at the Commonwealth Games, which is considered a major event in the UK sporting calendar.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785708153.86592
   }
 }

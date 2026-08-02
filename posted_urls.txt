@@ -1,5 +1,3 @@
-2026-07-26T21:00:30.158210+00:00|https://www.bbc.co.uk/news/articles/cp8l050d18yo|antisemitism felt relentless jewish students on life at uk universities|26727a63fea2afd5754ac0337adf3a25
-2026-07-26T21:00:32.764123+00:00|https://www.bbc.co.uk/news/articles/c9805pkkkejo|four people including baby die after car crash|ec3051348379575415008a53b0c976fb
 2026-07-26T22:07:44.637342+00:00|https://www.bbc.co.uk/news/articles/cy8me5vyjg2o|pm pledges continued support for ukraine ahead of zelensky visit|195846326e7f1626236dddaf6a3635fc
 2026-07-26T22:07:46.976378+00:00|https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo|badenoch says pm must rule out tax rises to fund social care reform|e9f0167963fdb3357fb504522a24c0ea
 2026-07-26T23:12:49.349663+00:00|https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo|uks most parched regions miss chance for rain ahead of next heatwave|ac239855135daec8c806f39d1244c068
@@ -186,3 +184,5 @@
 2026-08-02T16:13:14.637408+00:00|https://www.bbc.co.uk/news/articles/c3r0v952ny3o|burnham pledges to be relentless in curbing small boat crossings|640dc5499b51d2221b5ec574f4c897e8
 2026-08-02T16:13:17.467239+00:00|https://news.sky.com/story/man-arrested-after-death-of-british-woman-whose-body-was-found-inside-suitcase-in-athens-13569123|man arrested after death of british woman whose body was found inside suitcase in athens|0c681c8ebb292a38c5ea2b9838b2c957
 2026-08-02T20:57:59.233955+00:00|https://news.sky.com/story/heat-health-alerts-for-most-of-england-as-temperatures-set-to-rise-again-13569256|heat health alerts for most of england as temperatures set to rise again|15a9a43e42cb20efac1fe3b6c47763cc
+2026-08-02T22:02:34.527689+00:00|https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o|no guarantees joyful glasgow cannot banish all commonwealth doubts|75b8e6811daf508b5d579f3f4060cac4
+2026-08-02T22:02:36.969082+00:00|https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o|day to remember for recordbreaking finucane|88d00a8a3cd39fe28cab4ffbb0d1ae8e
