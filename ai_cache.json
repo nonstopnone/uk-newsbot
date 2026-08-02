@@ -18990,5 +18990,26 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785642965.108111
+  },
+  "e46641782b3d648445ffc2641f08e864": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent hate crime in the UK involving a politically active individual, which is being investigated by the police and addressed by the Scottish Parliament.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785661212.513695
+  },
+  "eeb169200d76cbc05429ddad39513416": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving 300 victims and a major police investigation at Hull Crown Court, which constitutes serious UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785661222.565688
+  },
+  "0caeddca57f8b1685b30f771f273bf71": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event concerning a UK parliamentary election and democratic procedure, making it relevant to UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785661231.183783
   }
 }
