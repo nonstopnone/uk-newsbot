@@ -19095,5 +19095,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785708153.86592
+  },
+  "25470ca85faf7105505c1f2bedf64901": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant agricultural policy consultation in Northern Ireland regarding bovine TB and its substantial economic impact on the UK farming sector.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785712341.901953
   }
 }
