@@ -19025,5 +19025,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785678947.984988
+  },
+  "b1a8b6110f1054d0bd451d2ef72bccef": {
+    "is_relevant": true,
+    "reasoning": "The murder of a Scottish national abroad involving cooperation between international police forces and Scottish authorities is a matter of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785683084.093522
+  },
+  "52f87f8b6576f72eb1c9030552b7d8b3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving attempted murder and hate crime allegations within the UK, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785683093.873902
   }
 }

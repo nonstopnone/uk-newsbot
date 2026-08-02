@@ -1,4 +1,3 @@
-2026-07-26T13:57:22.161603+00:00|https://www.bbc.co.uk/news/articles/c1k14vxgg04o|police investigating attempted murder of two officers|f18b0fd4a102ee6a9c0224b851e8a06b
 2026-07-26T15:11:43.098309+00:00|https://www.bbc.co.uk/news/articles/clyq5nqw13lo|teen charged over record crossing on mega dinghy|b2cef10513dee0e7749dcde364a9f42f
 2026-07-26T16:15:00.948975+00:00|https://www.bbc.co.uk/news/articles/c9d8jgw769zo|broadcaster gerry kelly dies aged 77|ea8e802caa9a4efc4fad2e6b90704542
 2026-07-26T19:55:07.182821+00:00|https://www.telegraph.co.uk/formula-1/2026/07/26/f1-hungarian-grand-prix-2026-live-latest-hamilton-norris|lando norris comes in from the cold with dominant hungarian gp victory|211b788f076b35aa4a7ea03c75483790
@@ -184,3 +183,5 @@
 2026-08-02T10:46:59.278760+00:00|https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo|england beaten by australia to netball bronze|809bae177de56461e0c04527611c5626
 2026-08-02T13:55:49.326943+00:00|https://www.bbc.co.uk/news/articles/c05q964n4llo|three in hospital after fire and crush at festival in london|5b0d035f216704f5fcbf617913191e6a
 2026-08-02T13:55:52.133222+00:00|https://www.bbc.co.uk/news/articles/cq89e771jqlo|continued drought could cause shortage of some foods farmers union head says|dab336f8166fe7ab182a36dd68433378
+2026-08-02T15:04:55.180857+00:00|https://www.bbc.co.uk/news/articles/c89ndd4g0gjo|man admits killing scottish woman found in suitcase greek police say|b1a8b6110f1054d0bd451d2ef72bccef
+2026-08-02T15:04:57.751080+00:00|https://www.bbc.co.uk/news/articles/cx2mppyzgedo|four arrested over hate crime attack on ship crew|52f87f8b6576f72eb1c9030552b7d8b3
