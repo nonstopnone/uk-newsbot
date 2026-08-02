@@ -1,5 +1,3 @@
-2026-07-26T09:04:08.262532+00:00|https://www.bbc.co.uk/news/articles/cyvlezl076no|it was like a movie i looked up and an exploded barn rained on me|ada330fde7770cc10aafab8a4a447e54
-2026-07-26T09:04:10.625408+00:00|https://www.bbc.co.uk/news/articles/clye651yzdjo|burnham says he is prepared to call out trump if right for britain|d97a6eb0fd4519d8ecc42aaedad90ec6
 2026-07-26T10:53:45.499904+00:00|https://www.bbc.co.uk/news/articles/c8dng4lvrvqo|irans sabrerattling should not intimidate uk wes streeting says|094c335a6407186f6bdfa41a38d71df8
 2026-07-26T12:04:58.806199+00:00|https://www.bbc.co.uk/news/articles/cdew2dnxlzzo|water supply issue affects gatwick airport|1fa216d5c7deeeedda5fa70f140ffe22
 2026-07-26T12:05:01.213245+00:00|https://news.sky.com/story/gatwick-airport-suffers-major-water-outage-with-people-unable-to-flush-toilets-13567089|no working toilets or running water at gatwick as airport suffers major outage|7cc63873f58b408b5626e8e7cd335587
@@ -186,3 +184,4 @@
 2026-08-02T06:36:41.492478+00:00|https://www.bbc.co.uk/news/articles/c36dxp822k4o|chernobyl disaster evacuee forever grateful to welsh family who took him in|1e988b0037f44188139315e736fddd85
 2026-08-02T09:00:31.839338+00:00|https://www.bbc.co.uk/news/articles/c2eln8drwlmo|gang of men hurl racist abuse at takeaway owner before violent attack|e46641782b3d648445ffc2641f08e864
 2026-08-02T09:00:34.416144+00:00|https://www.bbc.co.uk/news/articles/ce3456dw32no|trust grief and betrayal inside the legacy funeral case|eeb169200d76cbc05429ddad39513416
+2026-08-02T10:46:59.278760+00:00|https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo|england beaten by australia to netball bronze|809bae177de56461e0c04527611c5626

@@ -19011,5 +19011,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785661231.183783
+  },
+  "809bae177de56461e0c04527611c5626": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of a national team in an international sporting event, which is relevant content for the UK sports category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785667617.640956
   }
 }
