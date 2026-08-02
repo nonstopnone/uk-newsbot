@@ -19039,5 +19039,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785683093.873902
+  },
+  "98d20f7415e45e57623188df9026823c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant disruption to major UK transport infrastructure affecting thousands of commuters, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785687171.11499
+  },
+  "640dc5499b51d2221b5ec574f4c897e8": {
+    "is_relevant": true,
+    "reasoning": "The article details the UK Prime Minister's official policy and government strategy regarding small boat crossings and border enforcement, which is a matter of high national importance.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785687181.719722
+  },
+  "0c681c8ebb292a38c5ea2b9838b2c957": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad is a matter of significant public interest and involves UK consular and legal implications.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785687191.285425
   }
 }
