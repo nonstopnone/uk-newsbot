@@ -18969,5 +18969,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1785625358.105293
+  },
+  "a65020e2d367d3fe9d47bab8a5618385": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding a branding partnership and does not constitute hard news of national importance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785629566.90341
+  },
+  "7f987bde71c4f41602f9e84d3a815308": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment opinion piece regarding television ratings and reality show production, which does not meet the criteria for hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785629576.119646
   }
 }
