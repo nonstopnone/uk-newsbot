@@ -19207,5 +19207,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785754753.127197
+  },
+  "fa39cb29152dad4a9c766e16686e60db": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a suspicious death and a police investigation in the UK, which is of major public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785764750.355478
+  },
+  "c3be55e768604d40d83a733a8f9275a3": {
+    "is_relevant": false,
+    "reasoning": "This is a local court report concerning a minor celebrity's personal criminal offence, which does not constitute hard news of significant public interest to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785764759.410789
+  },
+  "7e54923e38a5ecabdaddad2188789741": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving a murder charge in central London, meeting the criteria for Crime & Legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785764771.609717
+  },
+  "7e3e2e8d604b4860fc7df5231dfefd6e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a sentencing in a Welsh court involving benefit fraud and the treatment of a deceased person.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785764783.964755
+  },
+  "a7e1afe70bc687592c09d4d22345332d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news story regarding a tragic multiple fatality incident and an ongoing police and safety matter in Essex.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785764794.538755
   }
 }

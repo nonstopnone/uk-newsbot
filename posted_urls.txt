@@ -1,5 +1,3 @@
-2026-07-27T11:27:06.370079+00:00|https://www.bbc.co.uk/news/articles/cjejw8pq5elo|tv presenter and comedian bill oddie dies at 85|8375729db2116c9aaf750aae497ee21d
-2026-07-27T11:27:09.175315+00:00|https://www.bbc.co.uk/news/articles/cy4k892z44jo|man and woman die after being pulled from sea|6a0107cd854ff56d7d27c818b9591734
 2026-07-27T13:55:38.293525+00:00|https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o|nhs will collapse without social care reform pm tells bbc|4865633304abc84464efaf7d87a1a442
 2026-07-27T13:55:40.918901+00:00|https://www.bbc.co.uk/news/articles/cdj0l1wrzylo|two women dead after diving trip at scottish loch|648f57d43813b41c1b9c6ffb714d410b
 2026-07-27T16:24:06.818604+00:00|https://www.telegraph.co.uk/business/2026/07/27/oil-prices-us-iran-war-ftse-100-markets-gas|europe faces energy crisis as gas stockpiles sink|b958f43556eb3d98f472199f96d9ae27
@@ -186,3 +184,5 @@
 2026-08-03T10:59:13.723974+00:00|https://www.bbc.co.uk/news/articles/cr59qyy4l5yo|reform says it would use navy to stop small boats|07f76e0969bc48e794292628eb31e2ef
 2026-08-03T10:59:16.219591+00:00|https://www.bbc.co.uk/news/articles/c07rv3dlpndo|conservatives call for greater use of facial recognition from police|481e54db8fae9d76d6ad74f16ee8564e
 2026-08-03T10:59:18.801712+00:00|https://news.sky.com/story/woman-who-stole-300k-from-pensioner-before-sky-news-tracked-her-down-in-tenerife-is-jailed-13569324|woman who stole £300k from pensioner before sky news tracked her down in tenerife is jailed|ac9683d736fce0e62fffccda4fcc15c1
+2026-08-03T13:46:35.164885+00:00|https://www.bbc.co.uk/news/articles/cg5lejjdlr6o|man arrested over death of nineyearold girl found injured in industrial estate|fa39cb29152dad4a9c766e16686e60db
+2026-08-03T13:46:37.851081+00:00|https://www.bbc.co.uk/news/articles/c75gq56qrwno|x factor finalist denies murder of influencer outside nightclub|7e54923e38a5ecabdaddad2188789741
