@@ -19130,5 +19130,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785729592.909702
+  },
+  "b5d5667e07859665c7310e4910b66c7f": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity lifestyle and entertainment story; it does not constitute hard news or a material event affecting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785742680.555914
+  },
+  "f33b9bb0cf4f75780044bcec2b088e4d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving the Football Association of Wales, which represents a national governing body within the UK making a formal political decision on international sports governance.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785742690.340885
+  },
+  "778d733ba59a64c1ea41db97fe99a03a": {
+    "is_relevant": false,
+    "reasoning": "While the story involves Oxford-based research, it is a feature-style science report on an experimental vaccine trial rather than hard news, political policy, or a significant national development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785742699.278328
+  },
+  "d4486fbc06b61320c62056c511373e21": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest profile piece about an author and his writing process, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785742710.15347
+  },
+  "0c72422da50fd0a81ca245833980454b": {
+    "is_relevant": false,
+    "reasoning": "This is a medical human-interest story concerning a specific clinical trial procedure performed abroad; it does not constitute hard news related to UK politics, the NHS, or national policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785742720.788196
+  },
+  "770c5bcc739bea82b805dec49df3ea40": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic story concerning youth unemployment trends and labour market shifts across the UK, which is a matter of clear national public interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785742732.135847
+  },
+  "7d1ecd3fccdb04d63bd5173595c62b53": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant economic and criminal trend directly impacting UK retail and the cost of living.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785742740.3212
   }
 }
