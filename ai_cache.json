@@ -19326,5 +19326,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785792711.588349
+  },
+  "186cad341c429ecc9e7ca23ba9f3a0dc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national event concerning the education system in Scotland, which directly affects a large portion of the UK population.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785796920.276102
   }
 }
