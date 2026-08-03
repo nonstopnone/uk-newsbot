@@ -19242,5 +19242,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785764794.538755
+  },
+  "9a13799f9e65aff732eb0e4548ac4246": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle travel feature article providing recommendations for hotels, which does not constitute hard news or meet the criteria for relevance to r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785774486.446561
+  },
+  "b21463e152d2f1ca4cb3398b9d923a42": {
+    "is_relevant": true,
+    "reasoning": "The death of a well-known national entertainer who was a household name in the UK is considered significant cultural news for a British audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785774495.61849
+  },
+  "4581b7e91aba7e067955150c970e8612": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving the conviction of a grooming gang in a UK court, falling directly under crime and justice reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785774503.74476
+  },
+  "84541253f2fa8d87eedd541a5ffa8418": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory decision made by a Scottish public agency regarding a traditional cultural practice, representing a notable event in devolved Scottish administration and heritage.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785774514.287912
+  },
+  "8c5a36ff105637162b94a88ccb68b5df": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent national journalist and former editor of the BBC Today programme is a significant event in the UK media landscape.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785774531.912457
   }
 }

@@ -1,9 +1,3 @@
-2026-07-27T13:55:38.293525+00:00|https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o|nhs will collapse without social care reform pm tells bbc|4865633304abc84464efaf7d87a1a442
-2026-07-27T13:55:40.918901+00:00|https://www.bbc.co.uk/news/articles/cdj0l1wrzylo|two women dead after diving trip at scottish loch|648f57d43813b41c1b9c6ffb714d410b
-2026-07-27T16:24:06.818604+00:00|https://www.telegraph.co.uk/business/2026/07/27/oil-prices-us-iran-war-ftse-100-markets-gas|europe faces energy crisis as gas stockpiles sink|b958f43556eb3d98f472199f96d9ae27
-2026-07-27T16:24:09.569667+00:00|https://www.bbc.co.uk/news/articles/cp8ek0682jdo|funeral director breached families trust on industrial scale|89a148f7dc24f5bf283cd5c6fa506ecd
-2026-07-27T16:24:11.954501+00:00|https://www.bbc.co.uk/news/articles/c8enp0y1r68o|teen denies endangering 165 lives on migrant boat|65e7a1d79e691c104bd804a0c45cf3f4
-2026-07-27T16:24:17.870261+00:00|https://news.sky.com/story/two-women-dead-after-diving-trip-at-scottish-loch-13567447|two people dead after diving trip to scottish loch|863e371fc31a8d656f0a2ad6a58e497b
 2026-07-27T18:07:01.648223+00:00|https://www.bbc.co.uk/news/articles/c5y063yqlleo|reform uk reporting green leader zack polanski to police over instagram post|b22bf38ad9a756baf9fd4b2765448071
 2026-07-27T18:07:04.304800+00:00|https://www.bbc.co.uk/news/articles/c141x6lp8p4o|man jailed for abduction and rape of girl 15 in edinburgh basement|71eb4ea7454e2c5dfbb3ebf06dfaf351
 2026-07-27T18:07:06.945745+00:00|https://news.sky.com/story/uks-largest-telescope-could-be-shut-down-after-funding-cut-13567484|uks largest telescope could be shut down after funding cut|3bdbee891c16d910f2a77da47c31e9c0
@@ -186,3 +180,5 @@
 2026-08-03T10:59:18.801712+00:00|https://news.sky.com/story/woman-who-stole-300k-from-pensioner-before-sky-news-tracked-her-down-in-tenerife-is-jailed-13569324|woman who stole £300k from pensioner before sky news tracked her down in tenerife is jailed|ac9683d736fce0e62fffccda4fcc15c1
 2026-08-03T13:46:35.164885+00:00|https://www.bbc.co.uk/news/articles/cg5lejjdlr6o|man arrested over death of nineyearold girl found injured in industrial estate|fa39cb29152dad4a9c766e16686e60db
 2026-08-03T13:46:37.851081+00:00|https://www.bbc.co.uk/news/articles/c75gq56qrwno|x factor finalist denies murder of influencer outside nightclub|7e54923e38a5ecabdaddad2188789741
+2026-08-03T16:28:52.727514+00:00|https://www.bbc.co.uk/news/articles/c70g94zr1zgo|comedian jimmy cricket dies aged 80|b21463e152d2f1ca4cb3398b9d923a42
+2026-08-03T16:28:55.177325+00:00|https://www.bbc.co.uk/news/articles/cg7md77yzndo|grooming gang found guilty of exploiting teenage girls for sex|4581b7e91aba7e067955150c970e8612
