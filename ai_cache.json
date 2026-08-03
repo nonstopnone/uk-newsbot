@@ -19305,5 +19305,19 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785781174.868742
+  },
+  "39a0397bafda3b446864a2ffbdaaa56c": {
+    "is_relevant": true,
+    "reasoning": "This report concerns serious allegations of sexual misconduct against a prominent figure in UK football and the resulting security implications for a major UK public venue.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785787948.682784
+  },
+  "bf3b0c0c01c53b24c110fd2678346e80": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a successful police operation, court sentencing, and the dismantling of a large-scale criminal enterprise in Wales, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785787959.441983
   }
 }
