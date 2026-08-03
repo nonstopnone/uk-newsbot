@@ -19179,5 +19179,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1785742740.3212
+  },
+  "d21483240fb83fedaa76c5f11eec077b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive criminal investigation involving a fatality in the UK that is of high public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785754723.514798
+  },
+  "a7adecdf70f1a814ca2051ae62873741": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK tragic news event involving a multi-fatality emergency incident that required police and emergency services intervention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785754733.956478
+  },
+  "85644250dde373ea8d9bb63d56848ec7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant administrative development involving the English FA and its stance on global football governance, which is a matter of major interest to the UK sporting and regulatory landscape.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1785754743.29957
+  },
+  "ac9683d736fce0e62fffccda4fcc15c1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a criminal conviction for fraud, which is a matter of UK legal interest and justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785754753.127197
   }
 }
