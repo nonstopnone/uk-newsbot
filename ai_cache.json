@@ -19319,5 +19319,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785787959.441983
+  },
+  "740410802e65e8d4616aa6379b893536": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant public interest matter regarding a convicted high-profile figure's participation in a major Welsh cultural institution, raising questions about accountability and public standards.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785792711.588349
   }
 }
