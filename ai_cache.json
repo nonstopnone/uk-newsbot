@@ -19333,5 +19333,33 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785796920.276102
+  },
+  "d21e028a59aba401e206aff9191243aa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on systemic misogyny and abuse within the UK school system, involving direct government policy changes to the national curriculum.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785800984.480696
+  },
+  "66cae82a4d4ab8149a77060dec0fd7a2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change from the Department for Transport regarding rail infrastructure and consumer costs, which is directly relevant to the UK economy and public travel.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785800994.571001
+  },
+  "77e6e2f7a8fee77b845546f36d1a82ee": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and advice piece regarding wedding planning rather than hard news concerning UK politics, the economy, or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785801004.943322
+  },
+  "615bbfd380e5e92247fdd9cd88c5f819": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy update regarding the UK criminal justice system, prison management, and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785801015.449986
   }
 }
