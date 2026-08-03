@@ -19277,5 +19277,33 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785774531.912457
+  },
+  "d5fcad0e3dd7dd8d93de19128fe8e216": {
+    "is_relevant": true,
+    "reasoning": "This concerns the financial declarations and political conduct of a prominent UK party leader and Member of Parliament, which is a matter of significant public interest and political accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785781139.749646
+  },
+  "003b7216acec1ac575f25b919f5a6346": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused court story involving minor speeding offences that does not constitute significant hard news of public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785781152.107544
+  },
+  "5afe9b12908ae01ff3e386e8bc573459": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a high-profile fraud conviction, dangerous driving on UK motorways, and court proceedings within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785781161.803496
+  },
+  "d1b6089b0071a6aa02881cd53221bf0e": {
+    "is_relevant": true,
+    "reasoning": "Rod Liddle was a prominent and influential figure in British media and journalism, making his passing a matter of significant national interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785781174.868742
   }
 }
