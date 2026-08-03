@@ -19102,5 +19102,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785712341.901953
+  },
+  "da31c7fb2385f4565d9d23bfa1ca6465": {
+    "is_relevant": true,
+    "reasoning": "This article discusses significant changes to mortgage lending regulations and borrowing limits, which directly impacts the UK economy and the housing market for UK citizens.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785716047.988428
+  },
+  "6ae47551ce8922eaea70e72a161a2684": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity lifestyle and entertainment news story, which falls under 'fluff' and does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785716057.448841
   }
 }
