@@ -19116,5 +19116,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785716057.448841
+  },
+  "ffe51ca5cd3ee170884e2e3a386dc45b": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant trend in domestic crime and economic pressure affecting UK businesses and consumers, directly linked to external geopolitical factors.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785729584.183837
+  },
+  "3ee1ff0b6fadfe2ab66887a5232a547d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the formal Home Office recognition of modern slavery victims involving a major UK institution, which constitutes serious legal and public interest news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785729592.909702
   }
 }
