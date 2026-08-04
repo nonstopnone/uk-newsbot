@@ -1,5 +1,3 @@
-2026-07-28T07:19:33.127937+00:00|https://www.bbc.co.uk/news/articles/c1e1677022zo|we lost all of our morning trade businesses fearful after more breakins|72ebeb34240775eda660bf1dd1d849d4
-2026-07-28T07:19:35.811779+00:00|https://www.bbc.co.uk/news/articles/c05qn3ed7ppo|unsolved suzy lamplugh case haunts detectives|f1ae31a109934d0f4f7030ba1af4a175
 2026-07-28T10:08:21.268561+00:00|https://news.sky.com/story/reform-uk-reports-zack-polanski-to-police-over-social-media-post-13567668|a hrefhttpsnewsskycomstorypoliticslatestandyburnhamkeirstarmerlabour12593360postid12140171liveblogbodyreform uk reports zack polanski to police over social media posta|6403431e3bb2fc31111214e6b136a716
 2026-07-28T10:08:23.911595+00:00|https://www.bbc.co.uk/news/articles/c70gq4xd0zdo|second home owners feel unwelcome while locals struggle to buy|703496352bb184c4ad5fe2b64a97cbc1
 2026-07-28T12:15:10.891552+00:00|https://www.bbc.co.uk/news/articles/cy4ker2y1mko|french patrol boat heard firing shots during interview|51a669e8e2f02df3d937eab8f6d5f2de
@@ -177,3 +175,4 @@
 2026-08-04T02:44:38.103998+00:00|https://news.sky.com/story/greggs-boots-and-ms-team-up-with-met-police-to-tackle-shoplifters-13569577|greggs and ms team up with police for shoplifting crackdown|d9ad360bf582fd813fba7bbb2dffc517
 2026-08-04T02:44:40.562734+00:00|https://news.sky.com/story/nhs-staff-experiencing-unconscionable-levels-of-racist-abuse-survey-finds-13569575|nhs staff reveal shocking cases of racism from patients|60355ae9b1ad02deb66df410f71dd920
 2026-08-04T05:34:35.455256+00:00|https://www.bbc.co.uk/news/articles/clye163rmjeo|uk papers cop killers will go free and farages sinking ship|af7dc6850cdbbd91b1a3eac301c527c0
+2026-08-04T08:09:35.518308+00:00|https://news.sky.com/story/oil-giant-bp-profits-more-than-double-due-to-iran-war-again-13569593|oil giant bp profits more than double due to iran war again|b643839da52f8d0420a5cf4e44d5fc7b

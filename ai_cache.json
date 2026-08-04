@@ -19396,5 +19396,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785811472.256345
+  },
+  "b643839da52f8d0420a5cf4e44d5fc7b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the financial performance of a major UK-headquartered corporation and its impact on the economy through energy prices.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1785830974.060873
   }
 }
