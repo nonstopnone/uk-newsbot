@@ -19543,5 +19543,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785870516.87305
+  },
+  "28a435e63b1f09a52359d9ad69a48f4a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident involving multiple UK emergency services currently unfolding in a UK location.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785876241.445313
   }
 }
