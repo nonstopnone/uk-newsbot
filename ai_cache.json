@@ -19431,5 +19431,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785840631.790136
+  },
+  "e4a4e2567f7a8558849b690603798188": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story concerning a niche community event and a campaign request by an activist group; it does not constitute hard news or meet the threshold for national UK relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785848629.665009
+  },
+  "3e889d16cf3b64ae6bcf6acf76f7a091": {
+    "is_relevant": false,
+    "reasoning": "This article concerns wildlife conservation and biodiversity, which falls under lifestyle or environmental interest rather than hard news categories like politics, economy, or crime.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785848639.363158
   }
 }
