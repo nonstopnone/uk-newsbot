@@ -19445,5 +19445,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785848639.363158
+  },
+  "f92027c4342b2565925727908f599c0e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK prison capacity and government justice policy, which directly concerns public safety and the national legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785857745.193669
+  },
+  "7f06e1c87299a23ce063c5fc4e0ec594": {
+    "is_relevant": true,
+    "reasoning": "This is a significant safeguarding failure at a UK nursery that prompted an urgent Ofsted inspection and is of public interest regarding child safety standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785857754.999153
+  },
+  "70b99c5d51c0123fe0efd567c804ce3c": {
+    "is_relevant": false,
+    "reasoning": "This is a cultural/entertainment announcement regarding a film dub, which falls under lifestyle/culture news rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785857765.626638
+  },
+  "d5a52d8b50e324e08e97a532d0223404": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff piece about a personal tattoo, which does not constitute hard news or a significant event for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785857776.336943
+  },
+  "6e4d15b2b431c540dfec60d2099ff095": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development regarding major UK infrastructure and government planning decisions with environmental implications.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785857785.843606
+  },
+  "b66658be3dc6778507aa04a3ef8d1266": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad and the subsequent legal proceedings involving a suspect are matters of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785857798.513036
   }
 }
