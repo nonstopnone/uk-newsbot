@@ -19487,5 +19487,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785857798.513036
+  },
+  "a74259762641ea0518256990a9476236": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency and tragic public interest story involving the Metropolitan Police and London emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785864144.713367
+  },
+  "ab909af012e701237b6cb810bd57b683": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing emergency incident in the UK involving deliberate criminal activity and the deployment of public emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785864154.460009
+  },
+  "cf96f30111925d87aa8532a55a6ee554": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal investigation and law enforcement action by a UK government body regarding illegal waste disposal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785864162.368185
+  },
+  "d92e23b6d6029fd891d2352f34d5b2bc": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing in a UK court, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785864175.202428
   }
 }
