@@ -19515,5 +19515,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785864175.202428
+  },
+  "86fc54269f5ad96212d4a59da7c28766": {
+    "is_relevant": true,
+    "reasoning": "This is a significant obituary for a major figure in British theatre, which constitutes cultural news relevant to the UK public.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785870486.843502
+  },
+  "c8332193b9cc1f61f1e773f4b8946029": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious racially-motivated hate crime and police investigation within the UK (Northern Ireland), which falls under crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785870497.917301
+  },
+  "7b5e05ec8ba4fac9f6bd41302907e167": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a birth within the British Royal Family, which is a matter of public interest and direct relevance to the UK monarchy.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1785870506.501678
+  },
+  "c5107bf660b2093c1fd968125528e0c9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a fatal incident in Scotland, making it essential hard news for a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785870516.87305
   }
 }
