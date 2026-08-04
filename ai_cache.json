@@ -19361,5 +19361,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785801015.449986
+  },
+  "41a323ec23184a27d6d4149b1eb7ac18": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding NHS healthcare policy and public health strategy, which directly impacts the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785811436.199647
+  },
+  "830ef122bb9b8db6f766c9a16f1d8812": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding UK prison policy, justice system reform, and the public interest surrounding a high-profile criminal case.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785811443.675463
+  },
+  "af7dc6850cdbbd91b1a3eac301c527c0": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant change in government policy regarding prisoner early release, which directly impacts the UK justice system and public safety.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785811453.071696
+  },
+  "d9ad360bf582fd813fba7bbb2dffc517": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant initiative by major retailers and law enforcement to address the escalating issue of retail crime, which is a matter of public interest and legal concern in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785811463.899646
+  },
+  "60355ae9b1ad02deb66df410f71dd920": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on workplace safety and discrimination within the NHS, which is a major UK public institution and a matter of public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785811472.256345
   }
 }
