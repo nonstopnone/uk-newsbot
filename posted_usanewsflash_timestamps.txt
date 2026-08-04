@@ -1,4 +1,3 @@
-2026-07-28T21:51:08.464209+00:00|https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss|Bystander video shows teen lifeguard's dramatic ocean rescue|8f90ff2d8be793cdae3a55d24dfedeb3
 2026-07-29T17:37:28.055493+00:00|https://news.sky.com/story/dr-anthony-fauci-invokes-fifth-amendment-and-declines-to-testify-in-senate-covid-19-hearing-13568176|Ex-Trump adviser invokes fifth amendment and declines to testify in Senate COVID-19 hearing|19c93c4080a9eec0f3213360863a2db4
 2026-07-29T17:37:34.130984+00:00|https://www.bbc.co.uk/news/articles/c1e10792l21o?at_medium=RSS&at_campaign=rss|Two Americans convicted of murdering Canadian couple in Dominica|55bb545a24fd7503889b2a91d4f3924b
 2026-07-29T17:37:39.985695+00:00|https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss|Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins|bd84d947321d24e49f58a5a26447f2c4
@@ -32,3 +31,5 @@
 2026-08-04T10:12:47.423669+00:00|https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss|Arson arrest made over largest of Washington state's wildfires|71939d287af4bf5ad43e98bf8c49603e
 2026-08-04T10:12:53.169501+00:00|https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss|What is Trump Media's Truth API and why is it controversial?|ebf99c7f8fa88d97370839d418b600f6
 2026-08-04T20:14:06.050084+00:00|https://www.bbc.co.uk/news/videos/c3v0nyyeg3wo?at_medium=RSS&at_campaign=rss|'Like a bomb' - Residents react after Spokane fires destroy hundreds of homes|435c1490e2cadfe7039191a88b2b9afa
+2026-08-04T22:48:06.872869+00:00|https://www.bbc.co.uk/news/articles/czrj1751r02o?at_medium=RSS&at_campaign=rss|US congressman refuses to drop reelection bid over ex-wife's abuse claims|d66bdcaf14261a78f699c5efacf48924
+2026-08-04T22:48:12.377481+00:00|https://www.bbc.co.uk/news/articles/c8xn1nlpd7xo?at_medium=RSS&at_campaign=rss|'The fire's right there' - Families recount fleeing Washington state wildfires|83d86c25038c0b3d75db308fc107889e
