@@ -19403,5 +19403,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1785830974.060873
+  },
+  "555116a331507c50cc50853a8da151a0": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a major incident involving migrants attempting to reach the UK, which is a significant and direct matter of UK border policy and security.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1785840602.322268
+  },
+  "031488b51d2fcc17034df9f421d50bbe": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity obituary and lifestyle/entertainment news, which falls under human-interest reporting rather than the hard news categories required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785840611.315417
+  },
+  "2bfa16be2de34fd3709b55f10f0481a2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a major UK criminal case involving a historic robbery and ongoing prosecution.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785840621.194262
+  },
+  "27b34d53e3e9db9589f48e5befe7db6f": {
+    "is_relevant": false,
+    "reasoning": "This is a brief weather report rather than hard news concerning politics, policy, or significant socio-economic developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785840631.790136
   }
 }
