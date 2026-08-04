@@ -19571,5 +19571,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785880756.298122
+  },
+  "5e96abfcecd2e1c7ce713561cbe5af4f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling by an industrial tribunal regarding UK employment law and discrimination, which is of direct public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785885114.959212
+  },
+  "61a5677d120715fdc69601bd54f06153": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story concerning a specific hotel room security failure rather than a matter of significant national importance, crime, or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785885124.414409
   }
 }
