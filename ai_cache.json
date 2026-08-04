@@ -19550,5 +19550,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785876241.445313
+  },
+  "c4f5cd8f68cdf41f7cbb914862eb2398": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative news story regarding public health and safety, involving the sale of dangerous, unproven medical treatments to vulnerable UK citizens.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785880737.583816
+  },
+  "6b520b0503898c86c9a259f71ffd8030": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/human interest story involving a hotel service error and does not constitute hard news or a matter of significant national importance for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785880747.420256
+  },
+  "a9ef5dff007a23c1b12f488019fee0d1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving the prosecution of a care provider by a UK regulatory body (Ofsted) regarding the illegal operation of children's homes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785880756.298122
   }
 }

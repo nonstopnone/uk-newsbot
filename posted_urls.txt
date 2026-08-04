@@ -1,4 +1,3 @@
-2026-07-28T20:48:28.769308+00:00|https://www.bbc.co.uk/news/articles/cwy4v6e9d2go|some parents on benefits to get up to £4500 for child starting apprenticeship|bebb0e50f94492ac049d72b2d9519e70
 2026-07-28T22:05:58.029915+00:00|https://www.bbc.co.uk/news/articles/cgq502nj914o|my 10day headache was terminal brain cancer|18a81f097ec76fc9e8f790e94bc2de79
 2026-07-28T22:06:00.489879+00:00|https://www.bbc.co.uk/news/articles/c5y0677el3mo|woman found dead was murdered police say as mans death still unexplained|7f301230ed53b7871556ff45ac25120f
 2026-07-28T23:16:09.504772+00:00|https://www.bbc.co.uk/news/articles/cg5lv1l87njo|im fortunate i survived a stage 4 diagnosis when so many didnt make it|02f985b7b9a1459c8a1df292a224d4fa
@@ -175,3 +174,5 @@
 2026-08-04T19:08:42.452824+00:00|https://news.sky.com/story/family-of-girl-who-died-after-industrial-estate-incident-also-taken-to-hospital-13569796|family of girl who died after industrial estate incident also taken to hospital|c5107bf660b2093c1fd968125528e0c9
 2026-08-04T20:44:02.798097+00:00|https://www.bbc.co.uk/news/articles/cy0jy632d2eo|major search under way for boy 13 missing at sea|28a435e63b1f09a52359d9ad69a48f4a
 2026-08-04T20:44:05.663650+00:00|https://www.bbc.co.uk/news/articles/cpq81pxw5gro|princess eugenie gives birth to baby girl in portugal|7b5e05ec8ba4fac9f6bd41302907e167
+2026-08-04T21:59:17.734984+00:00|https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo|dewormer and scabies drugs being sold as cancer treatments bbc investigation finds|c4f5cd8f68cdf41f7cbb914862eb2398
+2026-08-04T21:59:20.632103+00:00|https://www.bbc.co.uk/news/articles/cz7dp559w4no|care company fined for running illegal childrens homes in legal first|a9ef5dff007a23c1b12f488019fee0d1
