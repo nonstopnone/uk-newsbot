@@ -19837,5 +19837,19 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1785961664.988992
+  },
+  "e4f23ec8095e8b6f63a8a2baf74835ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government policy announcement regarding public health infrastructure and the NHS, which is highly relevant to the UK audience.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785966621.537746
+  },
+  "890f8f05f0057ceca859851ebec21ac3": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a pre-season friendly football match, which falls under the category of sports previews/recaps and does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785966632.597134
   }
 }
