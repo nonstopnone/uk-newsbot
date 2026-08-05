@@ -19767,5 +19767,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785935803.076119
+  },
+  "310c2d69a1390621287cde3b26226f2c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving multiple stabbings and a police investigation in central London, meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785943939.549706
+  },
+  "a88dd1c65f2c5914df6662b7286f0d72": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the murder of a child, which is a matter of serious public interest and legal proceedings in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785943949.550759
+  },
+  "e569e4a999174586fb5e73ef05741f0f": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a sports match summary and player availability, which falls under the category of sports reporting/previews and is explicitly excluded by the filter guidelines.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785943959.420204
+  },
+  "dda5ddca034cb4818bc544dd776fbb4f": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing UK criminal court proceedings involving serious historical sex offences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785943967.960018
   }
 }
