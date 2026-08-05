@@ -19585,5 +19585,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785885124.414409
+  },
+  "32e20e053f1df0cdb9046fd751d6c3d1": {
+    "is_relevant": true,
+    "reasoning": "This report comes directly from the UK's government-backed AI Safety Institute regarding national security and technological risk, which is a matter of significant domestic importance.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785888947.63102
+  },
+  "09cb727acc874304ff9d86a1e4ded226": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and fashion advice piece rather than hard news or a matter of significant public policy/interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785888958.474937
+  },
+  "e7947dab99ae21c7337f5060dd6e2266": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal finance feature article rather than hard news concerning UK politics, economy, or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785888968.271602
   }
 }
