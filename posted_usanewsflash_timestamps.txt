@@ -1,5 +1,3 @@
-2026-07-29T20:04:22.776431+00:00|https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss|US interest rates held for fifth time in a row|1dc1633240ce8bd3a42b8a0bb98de32a
-2026-07-29T20:04:29.307630+00:00|https://www.bbc.co.uk/news/articles/c77gvj22lz4o?at_medium=RSS&at_campaign=rss|'Blood everywhere' - Lindsay Clancy's ex-husband recounts day of children's deaths|1609840333d8c867e707bc6444c419c1
 2026-07-29T22:10:28.033073+00:00|https://www.bbc.co.uk/news/videos/c1m1zg5xzj2o?at_medium=RSS&at_campaign=rss|A look at Trump's $22bn plans to makeover Dulles Airport near Washington|3544fa2f5f584ce929dacbb739021a2e
 2026-07-29T23:12:14.915323+00:00|https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss|Worth $5m? Visitors react to renovated Washington horse statues|a24f2fc4b9ba974d6e3e4291aa368e83
 2026-07-30T03:24:29.808289+00:00|https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss|Fauci to face contempt vote after refusing to answer Covid questions in Congress|c11d6ae5b22ff1b56fd7606465677168
@@ -33,3 +31,4 @@
 2026-08-05T04:26:47.726842+00:00|https://news.sky.com/story/armed-man-arrested-near-trumps-golf-course-ahead-of-presidents-visit-13569894|Armed man arrested near Trump's golf course ahead of president's visit|a13bfd0780a150c6e0e51e7853d460ec
 2026-08-05T16:17:08.504866+00:00|https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss|Left-wing political outsider wins Democratic Senate primary in Michigan|3a6b2daebef2284e14541b2dcf76a8a0
 2026-08-05T16:17:14.020729+00:00|https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss|El-Sayed's victory sends tremors through Democratic Party|60cd28c84828df2b6dcc09ab93bd4011
+2026-08-05T20:49:32.730570+00:00|https://news.sky.com/story/democrat-progressive-pick-abdul-el-sayed-wins-michigan-senate-nomination-13570184|Democrat progressive pick narrowly wins Michigan Senate nomination|fabd54cfc57aa3f7febdf6588af6c35c
