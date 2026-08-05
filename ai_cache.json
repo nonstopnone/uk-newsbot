@@ -19606,5 +19606,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785888968.271602
+  },
+  "bf6650312d39d444cd6f81c50086c131": {
+    "is_relevant": true,
+    "reasoning": "The story involves UK-based experts warning of a significant cybersecurity threat posed by AI, which has direct implications for UK digital infrastructure and national security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785901447.674817
+  },
+  "910a708541303715f52b855bc831b409": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a potential government-led public inquiry into high-profile abuse cases within the UK, which is a matter of significant political and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785901458.841404
+  },
+  "5d61c593ff597f6108265e81e9347c44": {
+    "is_relevant": false,
+    "reasoning": "This is a cultural/entertainment news story rather than hard news concerning politics, crime, the economy, or other core public interest categories for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785901469.151976
   }
 }

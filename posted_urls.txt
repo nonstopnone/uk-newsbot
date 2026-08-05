@@ -1,5 +1,3 @@
-2026-07-29T00:57:45.075400+00:00|https://www.bbc.co.uk/news/articles/c89np278qwvo|polanski says guillotine repost was mistake but refuses to apologise|02f36bf6a1bfb8044746f0a779c460f7
-2026-07-29T00:57:47.879796+00:00|https://www.bbc.co.uk/news/articles/cy8mnvk4r48o|the evidence that shows todays 20somethings really do have it worse|281b79f806787a66a4cfa0cf992666f2
 2026-07-29T04:19:00.894577+00:00|https://www.bbc.co.uk/news/articles/c4gd240eelmo|report on jewish diaspora finds biggest rise in antisemitism in uk|74842036cec52227b3bd0fe6804987fd
 2026-07-29T04:19:03.529043+00:00|https://www.bbc.co.uk/news/articles/c1k1vgx08gko|burnham invites tories and lib dems to social care talks|10154252afac397c99a50ff1a463dcfc
 2026-07-29T07:20:46.892366+00:00|https://www.bbc.co.uk/news/articles/cdx8ke9gpnko|ticket prices set to rise as heathrow able to recover runway project money|b8bea0ff4bf854513923f44faea11377
@@ -176,3 +174,6 @@
 2026-08-04T23:12:05.366296+00:00|https://www.bbc.co.uk/news/articles/cwyr7k4y55vo|woman awarded £20k in indirect sex discrimination case against hotel|5e96abfcecd2e1c7ce713561cbe5af4f
 2026-08-05T00:16:09.563430+00:00|https://www.bbc.co.uk/news/articles/c1w1lvn7d9go|ai used new levels of autonomy and deception to trick people in safety test|32e20e053f1df0cdb9046fd751d6c3d1
 2026-08-05T00:16:12.140367+00:00|https://www.bbc.co.uk/news/articles/c9983lv4dlno|new guidance on singlesex spaces comes into force|4cffe7cda3109420959bb6aba8da58f6
+2026-08-05T03:44:29.611690+00:00|https://news.sky.com/story/uk-experts-sound-alarm-after-ai-caught-trying-to-trick-human-with-malicious-code-13569902|uk experts sound alarm after ai caught trying to trick human with malicious code|bf6650312d39d444cd6f81c50086c131
+2026-08-05T03:44:32.070087+00:00|https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o|burnham looking into conducting epstein inquiry says victims minister|910a708541303715f52b855bc831b409
+2026-08-05T03:44:34.360774+00:00|https://www.bbc.co.uk/news/articles/c1l1q6167d3o|tories offer jewish groups meeting with ex neonazi activist candidate|3989895306d856387bf510eb34a59f56
