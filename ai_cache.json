@@ -19830,5 +19830,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785956080.94018
+  },
+  "9883aa92ea41f0c4f98bfd5f6992d437": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the resignation of a prominent academic at a major UK institution following an investigation into academic integrity, which is a matter of public interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1785961664.988992
   }
 }

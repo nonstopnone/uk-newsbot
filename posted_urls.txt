@@ -1,5 +1,3 @@
-2026-07-29T20:02:48.866821+00:00|https://www.bbc.co.uk/news/articles/cvg89rplkwko|major bridge could close if staff get more abuse motorists warned|9b22c48084e2e70bcfb2ef90be418c2e
-2026-07-29T20:02:51.620899+00:00|https://www.bbc.co.uk/news/articles/cn0nzxgdg2ro|libel claim against matt hancock thrown out|0154059e9d5e75648b54b58f52f834f1
 2026-07-29T23:18:04.110540+00:00|https://www.bbc.co.uk/news/articles/c77gvr4172vo|inquiry finds mod afghan data breach was foreseeable failure|3636ccef6e9403122a6a01b490b0e86a
 2026-07-29T23:18:06.742983+00:00|https://www.bbc.co.uk/news/articles/c86ng1g5wy4o|salman rushdie attacker convicted of terror offenses|ddf62c1822852dab33bb1eb654df19b0
 2026-07-30T00:55:33.042071+00:00|https://www.bbc.co.uk/news/articles/crl70x0nxr9o|burnham says nuclear sub investment will protect uk and boost jobs|7026fa30098124efd0bb683979edd71b
@@ -177,3 +175,5 @@
 2026-08-05T18:54:42.277312+00:00|https://www.bbc.co.uk/news/articles/c935nly6r0po|bright student 17 died in lake swim with friends|45283361b7d650c892ec8bd3057c6885
 2026-08-05T18:54:44.756608+00:00|https://www.bbc.co.uk/news/articles/c1e14zn0pxeo|miliband says reopening strait of hormuz essential as he meets rubio|02cc69e0615813f18aae0681b935c023
 2026-08-05T18:54:47.225537+00:00|https://news.sky.com/story/uber-robotaxis-set-for-london-debut-after-getting-minicab-licences-13570109|uber robotaxis set for debut after getting minicab licences|98f74bb64cd4e90c523f229343285970
+2026-08-05T20:27:47.554335+00:00|https://www.bbc.co.uk/news/articles/c1e146jw618o|university of cambridge professor at centre of plagiarism row resigns|9883aa92ea41f0c4f98bfd5f6992d437
+2026-08-05T20:27:50.023417+00:00|https://www.bbc.co.uk/news/articles/c5yed780epqo|student loan repayment rates an unsustainable burden chancellor told|dd071041f70e506ee5e789018847b4ae
