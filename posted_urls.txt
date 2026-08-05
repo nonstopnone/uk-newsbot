@@ -1,5 +1,3 @@
-2026-07-29T04:19:00.894577+00:00|https://www.bbc.co.uk/news/articles/c4gd240eelmo|report on jewish diaspora finds biggest rise in antisemitism in uk|74842036cec52227b3bd0fe6804987fd
-2026-07-29T04:19:03.529043+00:00|https://www.bbc.co.uk/news/articles/c1k1vgx08gko|burnham invites tories and lib dems to social care talks|10154252afac397c99a50ff1a463dcfc
 2026-07-29T07:20:46.892366+00:00|https://www.bbc.co.uk/news/articles/cdx8ke9gpnko|ticket prices set to rise as heathrow able to recover runway project money|b8bea0ff4bf854513923f44faea11377
 2026-07-29T07:20:49.480595+00:00|https://www.bbc.co.uk/news/articles/cn8ngxw5195o|unauthorised airport car park grows despite stop notice|20828e6771b8a8af0d14dbb0b61c005a
 2026-07-29T12:22:38.751613+00:00|https://www.bbc.co.uk/news/articles/c4gv0d125p5o|boy 7 dies after beach tragedy that killed mum and daughter|a739e3c2e1fe0b696e322ca5e1087720
@@ -177,3 +175,5 @@
 2026-08-05T03:44:29.611690+00:00|https://news.sky.com/story/uk-experts-sound-alarm-after-ai-caught-trying-to-trick-human-with-malicious-code-13569902|uk experts sound alarm after ai caught trying to trick human with malicious code|bf6650312d39d444cd6f81c50086c131
 2026-08-05T03:44:32.070087+00:00|https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o|burnham looking into conducting epstein inquiry says victims minister|910a708541303715f52b855bc831b409
 2026-08-05T03:44:34.360774+00:00|https://www.bbc.co.uk/news/articles/c1l1q6167d3o|tories offer jewish groups meeting with ex neonazi activist candidate|3989895306d856387bf510eb34a59f56
+2026-08-05T06:13:40.153716+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/london-school-hygiene-tropical-medicine-princess-mosquitoes|the underground lab where princess mosquitoes are treated like royalty|e52aaf066c62cb7095edf4f0c47bef68
+2026-08-05T06:13:42.983848+00:00|https://www.bbc.co.uk/news/articles/cdx8484plwzo|uk papers profits of war and superrain|b2ebc45e2377a9f400b42dc06a3ddb28

@@ -19627,5 +19627,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785901469.151976
+  },
+  "30b965bea7d8090cb7cd93bdd30c92ad": {
+    "is_relevant": false,
+    "reasoning": "This is a personal lifestyle and health-related human interest story rather than hard news. While it mentions a former Olympian, the primary focus is on personal trauma and addiction recovery rather than a matter of significant UK public policy or breaking news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785910407.616932
+  },
+  "764e9c7cb71d28676e2207f6ff33fd00": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private individual winning a competition and does not constitute hard news of significance to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785910417.727766
   }
 }
