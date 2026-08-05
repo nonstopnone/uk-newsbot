@@ -1,6 +1,3 @@
-2026-07-29T16:12:07.112734+00:00|https://www.bbc.co.uk/news/articles/ckg6d21zdyro|burnham doesnt rule out tax rises to fix social care|3a2b33c02433ca15b88520b613c8fa5a
-2026-07-29T16:12:09.714490+00:00|https://www.bbc.co.uk/news/articles/clyx8762kj2o|body of scottish woman found inside suitcase in greece|ff690084ba8dbd245c13535c5cb81ec1
-2026-07-29T16:12:12.300004+00:00|https://news.sky.com/story/amy-winehouses-father-ordered-to-pay-almost-1m-to-late-singers-friends-13568144|amy winehouses father ordered to pay almost £1m to late singers friends|fb042d6244734ba58f627cac1a3e56ea
 2026-07-29T17:40:31.101597+00:00|https://www.bbc.co.uk/news/articles/clyx8lreydno|peppa pig owners win copyright battle against impostor wolfoo|2bc3050d7c446257985240df767e503d
 2026-07-29T17:40:33.458599+00:00|https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo|moment police officers set foot in horror scene funeral home|5b8c081dfeec7abd6ec99e6cfd715505
 2026-07-29T17:40:35.856934+00:00|https://news.sky.com/story/body-of-scottish-woman-found-inside-suitcase-in-greece-13568130|body of british woman found inside suitcase in greece|289108ccededde618cc608ef46e8482f
@@ -179,3 +176,6 @@
 2026-08-05T13:16:48.943516+00:00|https://news.sky.com/story/rescued-british-woman-becomes-14th-to-die-after-los-gallardos-wildfires-in-spain-13570025|rescued british woman becomes 14th to die after los gallardos wildfires in spain|517099d86a5cdd0a1d4e9b019c6c78db
 2026-08-05T15:32:49.561397+00:00|https://www.bbc.co.uk/news/articles/cn0nk17881yo|woman arrested after four stabbed in central london|310c2d69a1390621287cde3b26226f2c
 2026-08-05T15:32:51.962789+00:00|https://www.bbc.co.uk/news/articles/c235evj1r04o|family devastated by death of girl 9 as man charged with murder|a88dd1c65f2c5914df6662b7286f0d72
+2026-08-05T17:11:04.143799+00:00|https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo|ex neonazi activist withdraws as tory election candidate|feb59b6edc8c05b3bde238efcce8e381
+2026-08-05T17:11:06.672797+00:00|https://www.bbc.co.uk/news/articles/c8dnrl89y3yo|child abuse survivor calls on law society chief to quit over reference|40225e992b604cf4aae9047b1aea814a
+2026-08-05T17:11:09.084725+00:00|https://news.sky.com/story/british-fugitive-on-most-wanted-list-arrested-in-spain-13570086|british fugitive on mostwanted list arrested in spain|af9b20278bd48082f5709d0120ec0417

@@ -19795,5 +19795,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785943967.960018
+  },
+  "af9b20278bd48082f5709d0120ec0417": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the arrest of a British fugitive wanted for serious criminal offences, which is a matter of direct relevance to UK law enforcement and justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785949862.579568
   }
 }
