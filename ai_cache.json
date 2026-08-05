@@ -19697,5 +19697,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785921025.519414
+  },
+  "9b6ff920bab6182d4b3c8fa6562235d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive news event involving emergency services and a fatality in the UK that is of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785929395.770632
   }
 }

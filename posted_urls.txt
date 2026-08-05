@@ -179,3 +179,5 @@
 2026-08-05T09:10:28.463850+00:00|https://www.bbc.co.uk/weather/articles/czjlp07xz4vo|temperatures to drop briefly ahead of potential new uk heatwave|8ca8e4c25e9d170d9b4f9dc387951ea4
 2026-08-05T09:10:30.869233+00:00|https://news.sky.com/story/single-sex-spaces-code-comes-into-force-after-key-ruling-13569943|singlesex spaces code comes into force after key ruling|6543a44dea7d49ea95521788315cdfc7
 2026-08-05T09:10:33.398122+00:00|https://news.sky.com/story/suspect-due-in-court-after-scottish-womans-body-found-in-suitcase-in-greece-13569930|suspect appears in court after british womans body found in suitcase in greece|537b173dc1b4eef1aeab3b717bcd04f2
+2026-08-05T11:29:57.790564+00:00|https://www.bbc.co.uk/news/articles/cd9wz8ly5y5o|body found in search for boy 13 missing at sea|9b6ff920bab6182d4b3c8fa6562235d8
+2026-08-05T11:30:00.170779+00:00|https://www.bbc.co.uk/news/articles/cyvlgyg4l5do|man charged over death of nineyearold girl on industrial estate|30c0f81506177bda859c0e384aa76747
