@@ -19802,5 +19802,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785949862.579568
+  },
+  "45283361b7d650c892ec8bd3057c6885": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal drowning incident involving a UK teenager and the subsequent inquest, which is a matter of public interest and safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785956050.431338
+  },
+  "02cc69e0615813f18aae0681b935c023": {
+    "is_relevant": true,
+    "reasoning": "The article covers high-level UK foreign policy and its direct impact on domestic cost-of-living issues, meeting the criteria for significant political and international news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785956060.239424
+  },
+  "958c8fb4536f2c2831812076b93469a1": {
+    "is_relevant": false,
+    "reasoning": "This is a report on internal Bangladeshi politics and does not have a material impact on the UK, nor does it concern a major UK interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785956069.764308
+  },
+  "98f74bb64cd4e90c523f229343285970": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK transport infrastructure and regulation involving TfL, which directly impacts public services and urban policy in London.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1785956080.94018
   }
 }

@@ -1,8 +1,3 @@
-2026-07-29T17:40:31.101597+00:00|https://www.bbc.co.uk/news/articles/clyx8lreydno|peppa pig owners win copyright battle against impostor wolfoo|2bc3050d7c446257985240df767e503d
-2026-07-29T17:40:33.458599+00:00|https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo|moment police officers set foot in horror scene funeral home|5b8c081dfeec7abd6ec99e6cfd715505
-2026-07-29T17:40:35.856934+00:00|https://news.sky.com/story/body-of-scottish-woman-found-inside-suitcase-in-greece-13568130|body of british woman found inside suitcase in greece|289108ccededde618cc608ef46e8482f
-2026-07-29T18:42:09.744964+00:00|https://www.bbc.co.uk/news/articles/cwylrnxxl77o|police to take no further action against polanski over guillotine repost|c7c436faf05315ada8576e4bb6574256
-2026-07-29T18:42:12.499180+00:00|https://www.bbc.co.uk/news/articles/c80np54pd1yo|amy winehouses dad ordered to pay £1m by court|c987a48f8c3e8d4fb1111ccf4077c7b6
 2026-07-29T20:02:48.866821+00:00|https://www.bbc.co.uk/news/articles/cvg89rplkwko|major bridge could close if staff get more abuse motorists warned|9b22c48084e2e70bcfb2ef90be418c2e
 2026-07-29T20:02:51.620899+00:00|https://www.bbc.co.uk/news/articles/cn0nzxgdg2ro|libel claim against matt hancock thrown out|0154059e9d5e75648b54b58f52f834f1
 2026-07-29T23:18:04.110540+00:00|https://www.bbc.co.uk/news/articles/c77gvr4172vo|inquiry finds mod afghan data breach was foreseeable failure|3636ccef6e9403122a6a01b490b0e86a
@@ -179,3 +174,6 @@
 2026-08-05T17:11:04.143799+00:00|https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo|ex neonazi activist withdraws as tory election candidate|feb59b6edc8c05b3bde238efcce8e381
 2026-08-05T17:11:06.672797+00:00|https://www.bbc.co.uk/news/articles/c8dnrl89y3yo|child abuse survivor calls on law society chief to quit over reference|40225e992b604cf4aae9047b1aea814a
 2026-08-05T17:11:09.084725+00:00|https://news.sky.com/story/british-fugitive-on-most-wanted-list-arrested-in-spain-13570086|british fugitive on mostwanted list arrested in spain|af9b20278bd48082f5709d0120ec0417
+2026-08-05T18:54:42.277312+00:00|https://www.bbc.co.uk/news/articles/c935nly6r0po|bright student 17 died in lake swim with friends|45283361b7d650c892ec8bd3057c6885
+2026-08-05T18:54:44.756608+00:00|https://www.bbc.co.uk/news/articles/c1e14zn0pxeo|miliband says reopening strait of hormuz essential as he meets rubio|02cc69e0615813f18aae0681b935c023
+2026-08-05T18:54:47.225537+00:00|https://news.sky.com/story/uber-robotaxis-set-for-london-debut-after-getting-minicab-licences-13570109|uber robotaxis set for debut after getting minicab licences|98f74bb64cd4e90c523f229343285970
