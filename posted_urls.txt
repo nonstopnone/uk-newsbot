@@ -1,7 +1,3 @@
-2026-07-29T12:22:38.751613+00:00|https://www.bbc.co.uk/news/articles/c4gv0d125p5o|boy 7 dies after beach tragedy that killed mum and daughter|a739e3c2e1fe0b696e322ca5e1087720
-2026-07-29T12:22:41.434867+00:00|https://www.bbc.co.uk/news/articles/ckg35n7yny3o|more than half of england officially in drought environment agency says|cae8d3e8414f2ab0fb2a37eaa15f4bf4
-2026-07-29T12:22:43.863284+00:00|https://www.telegraph.co.uk/football/2026/07/29/tottenham-hotspur-vs-sydney-fc-live-score-updates-friendly|tottenham new boys tonali and robertson score in shootout win over sydney fc|a7aeae1d74e4053412df95ccc84f1b4f
-2026-07-29T12:22:46.168373+00:00|https://news.sky.com/story/discrimination-a-serious-and-growing-challenge-in-english-football-as-figures-rise-13567998|discrimination a serious and growing challenge in english football as figures rise|604418da1702859fad7fe66ed1b15a25
 2026-07-29T14:43:22.060275+00:00|https://www.bbc.co.uk/news/articles/cddjz02d8jgo|serial killer given whole life order for murders of two men as police investigate four more deaths|02fb61545513e47f38195d7973f05589
 2026-07-29T14:43:24.932944+00:00|https://www.bbc.co.uk/news/articles/ckgd32v2y2lo|apocalyptic damage as cairngorms wildfire burns for two weeks|0476a420ddb35d8f2d4e012d55ad7536
 2026-07-29T14:43:27.597423+00:00|https://news.sky.com/story/appeal-hearing-for-six-members-of-glasgow-beastie-house-paedophile-gang-to-go-ahead-later-this-year-13568060|appeal hearing for beastie house paedophile gang to go ahead later this year|1c1a49a35eaf79b49b2818fefa3ae14a
@@ -181,3 +177,6 @@
 2026-08-05T09:10:33.398122+00:00|https://news.sky.com/story/suspect-due-in-court-after-scottish-womans-body-found-in-suitcase-in-greece-13569930|suspect appears in court after british womans body found in suitcase in greece|537b173dc1b4eef1aeab3b717bcd04f2
 2026-08-05T11:29:57.790564+00:00|https://www.bbc.co.uk/news/articles/cd9wz8ly5y5o|body found in search for boy 13 missing at sea|9b6ff920bab6182d4b3c8fa6562235d8
 2026-08-05T11:30:00.170779+00:00|https://www.bbc.co.uk/news/articles/cyvlgyg4l5do|man charged over death of nineyearold girl on industrial estate|30c0f81506177bda859c0e384aa76747
+2026-08-05T13:16:43.783731+00:00|https://www.bbc.co.uk/news/articles/cvg0rmpydrmo|no misconduct case for officer who shot chris kaba|56ec461802ed0ad00f49157170b496b5
+2026-08-05T13:16:46.357721+00:00|https://www.bbc.co.uk/news/articles/cvg9jnqd3pgo|burnham failing public over heat threats says green leader|83f598e811892e7db6800084ead877c6
+2026-08-05T13:16:48.943516+00:00|https://news.sky.com/story/rescued-british-woman-becomes-14th-to-die-after-los-gallardos-wildfires-in-spain-13570025|rescued british woman becomes 14th to die after los gallardos wildfires in spain|517099d86a5cdd0a1d4e9b019c6c78db

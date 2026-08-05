@@ -19704,5 +19704,68 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1785929395.770632
+  },
+  "56ec461802ed0ad00f49157170b496b5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and policing development involving the Metropolitan Police and high-profile accountability proceedings in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785935719.257997
+  },
+  "02d08d70c60c644fe3c0bcea0d4312ec": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a House of Lords committee recommendation concerning national environmental policy and the regulation of consumer goods, which constitutes significant UK domestic news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785935730.030298
+  },
+  "2e3bdb1d879c85faa55a726161a4d79f": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/entertainment story regarding a reality television casting choice, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785935740.867457
+  },
+  "b8a0edc50542662c024204022f9ac014": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a personal accident rather than hard news concerning UK politics, the economy, or significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785935750.099281
+  },
+  "d0153e6b0e7b8a5c2c9f276d8a2cd5e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the death of a child and subsequent court proceedings in Scotland, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785935760.1366
+  },
+  "f75b85f665f8ad8c77c86317c18a3d68": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and fashion advice article that does not constitute hard news or carry significant relevance to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785935772.431898
+  },
+  "517099d86a5cdd0a1d4e9b019c6c78db": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national in a major international incident is a significant event for a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1785935781.874952
+  },
+  "e6281b778cd6922797faf56af708ba55": {
+    "is_relevant": false,
+    "reasoning": "This is a weather forecast piece rather than hard news, and typically falls under lifestyle/filler content rather than significant UK infrastructure or public interest news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785935791.036209
+  },
+  "14ecc2d2c00e3f6d956b47cc5ed82928": {
+    "is_relevant": true,
+    "reasoning": "This concerns the death of a Scottish citizen and a legal proceeding involving an individual accused of her murder, which is a significant matter of UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785935803.076119
   }
 }
