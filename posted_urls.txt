@@ -1,5 +1,3 @@
-2026-07-29T07:20:46.892366+00:00|https://www.bbc.co.uk/news/articles/cdx8ke9gpnko|ticket prices set to rise as heathrow able to recover runway project money|b8bea0ff4bf854513923f44faea11377
-2026-07-29T07:20:49.480595+00:00|https://www.bbc.co.uk/news/articles/cn8ngxw5195o|unauthorised airport car park grows despite stop notice|20828e6771b8a8af0d14dbb0b61c005a
 2026-07-29T12:22:38.751613+00:00|https://www.bbc.co.uk/news/articles/c4gv0d125p5o|boy 7 dies after beach tragedy that killed mum and daughter|a739e3c2e1fe0b696e322ca5e1087720
 2026-07-29T12:22:41.434867+00:00|https://www.bbc.co.uk/news/articles/ckg35n7yny3o|more than half of england officially in drought environment agency says|cae8d3e8414f2ab0fb2a37eaa15f4bf4
 2026-07-29T12:22:43.863284+00:00|https://www.telegraph.co.uk/football/2026/07/29/tottenham-hotspur-vs-sydney-fc-live-score-updates-friendly|tottenham new boys tonali and robertson score in shootout win over sydney fc|a7aeae1d74e4053412df95ccc84f1b4f
@@ -177,3 +175,7 @@
 2026-08-05T03:44:34.360774+00:00|https://www.bbc.co.uk/news/articles/c1l1q6167d3o|tories offer jewish groups meeting with ex neonazi activist candidate|3989895306d856387bf510eb34a59f56
 2026-08-05T06:13:40.153716+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/london-school-hygiene-tropical-medicine-princess-mosquitoes|the underground lab where princess mosquitoes are treated like royalty|e52aaf066c62cb7095edf4f0c47bef68
 2026-08-05T06:13:42.983848+00:00|https://www.bbc.co.uk/news/articles/cdx8484plwzo|uk papers profits of war and superrain|b2ebc45e2377a9f400b42dc06a3ddb28
+2026-08-05T09:10:26.119866+00:00|https://www.bbc.co.uk/news/articles/cx2v5kj9zzko|police chief considers joining legal action over pc harper killers early release|bd20ee4731b9587500d2b0262e0a66b6
+2026-08-05T09:10:28.463850+00:00|https://www.bbc.co.uk/weather/articles/czjlp07xz4vo|temperatures to drop briefly ahead of potential new uk heatwave|8ca8e4c25e9d170d9b4f9dc387951ea4
+2026-08-05T09:10:30.869233+00:00|https://news.sky.com/story/single-sex-spaces-code-comes-into-force-after-key-ruling-13569943|singlesex spaces code comes into force after key ruling|6543a44dea7d49ea95521788315cdfc7
+2026-08-05T09:10:33.398122+00:00|https://news.sky.com/story/suspect-due-in-court-after-scottish-womans-body-found-in-suitcase-in-greece-13569930|suspect appears in court after british womans body found in suitcase in greece|537b173dc1b4eef1aeab3b717bcd04f2

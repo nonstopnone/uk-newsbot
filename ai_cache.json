@@ -19641,5 +19641,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785910417.727766
+  },
+  "bd20ee4731b9587500d2b0262e0a66b6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the UK justice system, sentencing, and police relations, involving a high-profile case that impacts public interest in legal policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785920949.270798
+  },
+  "40225e992b604cf4aae9047b1aea814a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and public interest story involving a senior official in the Northern Irish legal system and issues of professional conduct in a criminal case.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785920960.22267
+  },
+  "2c7177cc13486a30243912429fe1a7e3": {
+    "is_relevant": true,
+    "reasoning": "This concerns the death of a Scottish citizen and involves active legal proceedings, which is a matter of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785920971.65932
+  },
+  "769fe785da12fbae49f26879f071dfd7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on domestic hate crime statistics in the UK, featuring a response from a government minister, making it directly relevant to UK security and public affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785920981.752332
+  },
+  "30c0f81506177bda859c0e384aa76747": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatality and court proceedings within the UK, meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785920991.871602
+  },
+  "6543a44dea7d49ea95521788315cdfc7": {
+    "is_relevant": true,
+    "reasoning": "This relates to UK legal guidance and significant policy changes regarding single-sex spaces, falling under the categories of domestic politics and legal developments.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785921002.532877
+  },
+  "537b173dc1b4eef1aeab3b717bcd04f2": {
+    "is_relevant": true,
+    "reasoning": "The case involves the death of a British national, which is a matter of significant public and media interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785921013.244577
+  },
+  "6133f3dce82b1800359bb5bb91a9968c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story about a competition win, which constitutes fluff/lifestyle content rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785921025.519414
   }
 }
