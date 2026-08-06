@@ -19879,5 +19879,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1785975065.45932
+  },
+  "97e22696fd6ab7dece50e0c4c69dbc2c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving an extradition and charges for a fatal collision in the UK, which falls under the jurisdiction of the British legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785987543.304632
   }
 }

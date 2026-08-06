@@ -1,5 +1,3 @@
-2026-07-30T00:55:33.042071+00:00|https://www.bbc.co.uk/news/articles/crl70x0nxr9o|burnham says nuclear sub investment will protect uk and boost jobs|7026fa30098124efd0bb683979edd71b
-2026-07-30T00:55:35.861021+00:00|https://www.bbc.co.uk/news/articles/c1519n0d01jo|your burger costs more this summer but farmers say theyre not cashing in|4518c96753ce01f3d4c533289ff84f66
 2026-07-30T04:07:32.858965+00:00|https://www.bbc.co.uk/weather/articles/c1k183p9ddpo|cooler conditions on way for parts of uk but still no rain for droughthit areas|cb8afdcf1c8c6416f356a24d27b0e10c
 2026-07-30T04:07:35.449705+00:00|https://www.bbc.co.uk/news/articles/c78gnj1qqyyo|major incident declared over coastal heath fire in suffolk|1de1184e2c59adeadcac004c1fd04c7c
 2026-07-30T04:07:37.886226+00:00|https://news.sky.com/story/major-incident-declared-after-large-wildfire-breaks-out-as-uk-warned-of-new-normal-after-drought-declared-13568287|major incident declared after large wildfire breaks out as uk warned of new normal|b358fced4a3b7736b16afdf0ba145815
@@ -180,3 +178,5 @@
 2026-08-05T23:01:40.417023+00:00|https://www.bbc.co.uk/news/articles/c07r5k49230o|our daughters death at 18 left us shattered but she saved two lives|74bd220ea832fd94269bad4c142bc21c
 2026-08-06T00:11:06.144323+00:00|https://www.bbc.co.uk/news/articles/cvgv864z0rvo|reform uk pledges to jail bosses employing illegal workers|a7f01f99df0f9e151d6de8428e2bbba9
 2026-08-06T00:11:08.600914+00:00|https://www.bbc.co.uk/news/articles/c79gxqynwd3o|jailed funeral boss angers families with apology|55f405bb7ea5711aa5d59410b508b8ad
+2026-08-06T03:39:05.959898+00:00|https://www.bbc.co.uk/news/articles/cvg8kd9q1plo|man extradited to uk and charged over alleged hitandrun death of keaton slater|97e22696fd6ab7dece50e0c4c69dbc2c
+2026-08-06T03:39:08.436355+00:00|https://www.bbc.co.uk/news/articles/c4gkezxzz7xo|uk papers plagiarism row professor resigns and west end stab rampage|4127a1f408641547d54acc359fba744b
