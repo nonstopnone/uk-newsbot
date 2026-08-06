@@ -1,5 +1,3 @@
-2026-07-30T13:11:37.110255+00:00|https://www.bbc.co.uk/news/articles/ce347krneeno|victims of disgraced funeral boss unable to get refunds|414e93efd244e020640738c4746fc294
-2026-07-30T13:11:39.541589+00:00|https://www.bbc.co.uk/news/articles/cn9nyz12xe8o|mum and boyfriend jailed for girls murder|b83af7475aff4c607ef8bcc06784244d
 2026-07-30T15:24:11.804937+00:00|https://www.bbc.co.uk/news/articles/c5yd2j93r7ro|four people die after busiest day for smallboat crossings this year|6a5a969aa6aff83fd26596c37f9fb444
 2026-07-30T15:24:14.184538+00:00|https://news.sky.com/story/drought-declared-across-the-whole-of-wales-with-july-on-course-to-be-driest-in-190-years-13568491|drought declared across the whole of wales|15da7ad69d85c07fe5ee16b9fea55bc8
 2026-07-30T15:24:16.587669+00:00|https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468|greek police believe phone of british woman found dead in suitcase was used to stall investigation reports|d4961258e8024c8b22754cf31eeab84d
@@ -173,3 +171,4 @@
 2026-08-06T11:41:28.362133+00:00|https://www.bbc.co.uk/news/articles/c8jnwennnkdo|farmer jailed for lodgers body in barrel murder|bf3f274b569bfc43c38ecd6b2851131f
 2026-08-06T11:41:31.151295+00:00|https://www.bbc.co.uk/news/articles/cy07pd7qe2ro|meredith kerchers sister criticises amanda knoxs edinburgh comedy show|6d26724b6db426f3f48f669ea04fe2b6
 2026-08-06T11:41:33.578627+00:00|https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253|boxer accused of killing uk aid worker and putting body in suitcase back in court|ada1b3157e5f27d0b0d3b1a73c16fcad
+2026-08-06T13:21:28.100020+00:00|https://www.bbc.co.uk/news/articles/cx2md6g7027o|woman charged after four stabbed near covent garden|8c08969bbd5ce87d1351878ce57067ab

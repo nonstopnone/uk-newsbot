@@ -19942,5 +19942,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786016487.560938
+  },
+  "48c6db4a48be386ed13356112f6f6f71": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle piece regarding workplace fashion advice rather than hard news concerning UK governance, policy, or significant current affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786022445.443398
+  },
+  "8c08969bbd5ce87d1351878ce57067ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving multiple stabbings and subsequent legal charges in central London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786022456.375709
+  },
+  "afce8614cbb1391e678640edc7eefee5": {
+    "is_relevant": false,
+    "reasoning": "This is a global scientific/environmental report focusing on South America, Australasia, and South Africa; it does not materially affect the UK nor involve UK-specific policy or incidents.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786022466.840891
+  },
+  "9056e806f2e0d4db5d77a1dd7975d06e": {
+    "is_relevant": false,
+    "reasoning": "This is entertainment and celebrity news regarding a television competition, which is considered fluff and falls outside the scope of hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786022477.215689
+  },
+  "40bcaac81d5ef8f265e57b07df63eb58": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic human interest story regarding a private individual's passing, which does not constitute hard news or a matter of significant public policy or national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786022487.020291
   }
 }
