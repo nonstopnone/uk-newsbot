@@ -19851,5 +19851,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1785966632.597134
+  },
+  "8632777715f742b852e72de3640ea59d": {
+    "is_relevant": false,
+    "reasoning": "This is a feature/lifestyle piece focused on an individual's personal anecdote regarding recruitment trends, rather than hard news concerning UK policy, legislation, or significant economic shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1785975038.839168
+  },
+  "a7f01f99df0f9e151d6de8428e2bbba9": {
+    "is_relevant": true,
+    "reasoning": "This is a policy proposal from a UK political party regarding immigration enforcement and employment law, which is of significant public interest and directly impacts UK political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785975047.46001
+  },
+  "55f405bb7ea5711aa5d59410b508b8ad": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant criminal case and legal proceedings within the UK involving major public interest and a substantial custodial sentence.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1785975056.501707
+  },
+  "cbd7908709c5c70ea9e325849d1429a5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy and social care issue involving the Department for Communities, addressing systemic failures in support for disabled children in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1785975065.45932
   }
 }
