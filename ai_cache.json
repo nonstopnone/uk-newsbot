@@ -19886,5 +19886,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1785987543.304632
+  },
+  "5d60b3ebb61a54a089cae2e6afdabb39": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the murder of a Scottish citizen abroad, which is a matter of significant public interest and legal concern for the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786008150.25993
+  },
+  "fb710d5464409fff2b1d98f29b1c07cb": {
+    "is_relevant": true,
+    "reasoning": "The insolvency of the parent company of the iconic UK-based manufacturer Raleigh is a significant business and economic development affecting the UK industrial landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786008158.964667
+  },
+  "1e824a0e04b811027b1d6f1efb37b03f": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding a restaurant's hygiene rating, which does not constitute hard news of national importance for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786008168.325408
+  },
+  "a13b851d85cf396a7b7104e0cede68f4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal and public policy matter concerning the sentencing of convicted killers of a police officer, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786008177.718705
   }
 }
