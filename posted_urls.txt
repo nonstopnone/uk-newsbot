@@ -1,7 +1,3 @@
-2026-07-30T11:30:28.364896+00:00|https://www.bbc.co.uk/news/articles/cp8e6m4rndgo|interest rates held as bank of england says inflation set to rise|189eb66a9da2a2b4c30e3f60e314ef59
-2026-07-30T11:30:31.076077+00:00|https://www.bbc.co.uk/news/articles/cddjzgv3zl1o|scotrail apology as passengers unable to book tickets in app launch chaos|03cd41ede92a61a0e9e2e914a50000e4
-2026-07-30T11:30:33.558330+00:00|https://news.sky.com/story/joe-root-returns-as-england-mens-test-captain-replacing-ben-stokes-13568372|joe root returns as england mens test captain replacing ben stokes|d97a906d3b8fdc5cb41930840ffc6dda
-2026-07-30T11:30:36.070182+00:00|https://news.sky.com/story/three-migrants-found-dead-on-boat-in-english-channel-13568358|three migrants die after trying to cross english channel near dunkirk|686aec9af38f68f5a7cd24b5b58f5b30
 2026-07-30T13:11:37.110255+00:00|https://www.bbc.co.uk/news/articles/ce347krneeno|victims of disgraced funeral boss unable to get refunds|414e93efd244e020640738c4746fc294
 2026-07-30T13:11:39.541589+00:00|https://www.bbc.co.uk/news/articles/cn9nyz12xe8o|mum and boyfriend jailed for girls murder|b83af7475aff4c607ef8bcc06784244d
 2026-07-30T15:24:11.804937+00:00|https://www.bbc.co.uk/news/articles/c5yd2j93r7ro|four people die after busiest day for smallboat crossings this year|6a5a969aa6aff83fd26596c37f9fb444
@@ -174,3 +170,6 @@
 2026-08-06T06:16:05.535846+00:00|https://www.bbc.co.uk/news/articles/c3w07p7wqv1o|young women tell bbc of rape assault and harassment at army training college for teenagers|745a466c4b973461e07802b32b429588
 2026-08-06T09:22:58.436965+00:00|https://www.bbc.co.uk/news/articles/cj6390k0e26o|afghan boxer accused of killing scottish aid worker back in court|5d60b3ebb61a54a089cae2e6afdabb39
 2026-08-06T09:23:01.101230+00:00|https://www.bbc.co.uk/news/articles/c4gv45w4j8eo|raleigh owner starts insolvency proceedings|fb710d5464409fff2b1d98f29b1c07cb
+2026-08-06T11:41:28.362133+00:00|https://www.bbc.co.uk/news/articles/c8jnwennnkdo|farmer jailed for lodgers body in barrel murder|bf3f274b569bfc43c38ecd6b2851131f
+2026-08-06T11:41:31.151295+00:00|https://www.bbc.co.uk/news/articles/cy07pd7qe2ro|meredith kerchers sister criticises amanda knoxs edinburgh comedy show|6d26724b6db426f3f48f669ea04fe2b6
+2026-08-06T11:41:33.578627+00:00|https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253|boxer accused of killing uk aid worker and putting body in suitcase back in court|ada1b3157e5f27d0b0d3b1a73c16fcad

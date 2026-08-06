@@ -19914,5 +19914,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786008177.718705
+  },
+  "bf3f274b569bfc43c38ecd6b2851131f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal case involving a murder conviction and sentencing at Sheffield Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786016459.7839
+  },
+  "6d26724b6db426f3f48f669ea04fe2b6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the Edinburgh Festival Fringe involving a high-profile case involving a British citizen that continues to garner major public and media interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786016468.489183
+  },
+  "15cd48745e8f2947d1f191133316c2f8": {
+    "is_relevant": false,
+    "reasoning": "This is a minor political side-comment regarding a specific university dispute rather than hard news impacting national policy or major institutions.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786016478.435991
+  },
+  "ada1b3157e5f27d0b0d3b1a73c16fcad": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the death of a British national in a violent crime, which is a matter of significant public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786016487.560938
   }
 }
