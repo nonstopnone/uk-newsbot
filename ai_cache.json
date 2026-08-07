@@ -20068,5 +20068,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786090554.700457
+  },
+  "8348e672ad30b1f69c26eba2f7953fbd": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal charge involving a prominent public figure scheduled for a hearing at a UK magistrates' court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786095174.050571
+  },
+  "f9a325885c4209a1574b4dddad796f58": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and culture story regarding a fringe comedy performance rather than a matter of significant national interest, policy, or legal development relevant to the subreddit's remit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786095184.238098
+  },
+  "371f24133eb0fc71587d9dcfc67a4907": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story regarding an archaeological discovery and does not constitute hard news relevant to UK politics, economy, or major public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786095195.024332
   }
 }
