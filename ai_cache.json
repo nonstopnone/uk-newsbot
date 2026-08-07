@@ -20236,5 +20236,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786130153.546022
+  },
+  "5f11ddac6f9dffbdc20da7b1b7f7ddad": {
+    "is_relevant": true,
+    "reasoning": "This report concerns an ongoing investigation by counter-terror police and a referral to the police watchdog regarding the handling of a case, which is a matter of significant public interest and legal scrutiny.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786136361.91464
   }
 }
