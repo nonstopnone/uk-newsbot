@@ -20229,5 +20229,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786122056.160955
+  },
+  "b6c2ca974eaafdf22f058b37d5dae506": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatal arson attack and the concealment of a body, which falls under serious UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786130153.546022
   }
 }
