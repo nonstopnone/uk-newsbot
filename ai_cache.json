@@ -20054,5 +20054,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786085276.35978
+  },
+  "551634537a5ca6011bb8afdec04f04ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on violent disorder, arrests, and critical injuries within the UK, falling under domestic crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786090544.827296
+  },
+  "340d700dd2020830de397805ec68066a": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle piece regarding a shipwreck discovery and does not constitute hard news or a significant event for a UK news audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786090554.700457
   }
 }
