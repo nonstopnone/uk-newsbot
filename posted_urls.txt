@@ -1,5 +1,3 @@
-2026-07-31T16:24:44.330614+00:00|https://www.bbc.co.uk/news/articles/cx2v972wzdgo|devoted father dies after alleged assault in turkey|a3735d89dbea1ae18687d687cd306996
-2026-07-31T16:24:47.133402+00:00|https://www.bbc.co.uk/news/articles/cjd4yz35x8go|budget to be held in october healey announces|0b399539fbf4f6930243b87112437e2f
 2026-07-31T18:04:41.862892+00:00|https://www.bbc.co.uk/news/articles/cdew3dj454xo|wheels coming off stormont says sinn féin|e51f271908ad689d3332a082e22d16ad
 2026-07-31T18:04:44.365348+00:00|https://www.bbc.co.uk/news/articles/cre4nlez9nyo|no sentence long enough for jailed funeral director robert bush say families|c4bbbd0d26a1f50101eccf0ac7c24799
 2026-07-31T18:04:47.121381+00:00|https://news.sky.com/story/water-reservoirs-hit-exceptionally-low-levels-with-england-and-wales-set-for-driest-july-on-record-13568814|areas with exceptionally low reservoir levels announced|ec1ae30f60c9e52f834e31c155202eac
@@ -162,3 +160,6 @@
 2026-08-07T15:58:13.374591+00:00|https://www.bbc.co.uk/news/articles/cdewx3lpd2eo|prisoner release row proving to be burnhams first big test as pm|fcd7f92702cf2348d668f7fab025cb9c
 2026-08-07T15:58:15.772210+00:00|https://www.bbc.co.uk/news/articles/cp9ej0el7veo|madonna and blur producer william orbit dies aged 69|c431dc95448535891f7652e8a3651193
 2026-08-07T15:58:18.192656+00:00|https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710|billionaire ashley leads race to clinch takeover of harvey nichols|ddd339043aadd223f492fa8115e5789f
+2026-08-07T17:00:57.741063+00:00|https://www.bbc.co.uk/news/articles/c8en51le9e1o|streeting sickened by sex abuse claims at army college|2a57bf92cafe1fb69cd276db8fbb35ce
+2026-08-07T17:01:00.113649+00:00|https://www.bbc.co.uk/news/articles/cn5n6e39d04o|police search for child rapist who escaped community leave in perth|af366f61d29aa67fb46bc7c3bd9c651c
+2026-08-07T17:01:02.405402+00:00|https://news.sky.com/story/body-of-schoolgirl-11-found-in-scottish-woodland-river-after-search-operation-13570696|body of schoolgirl 11 found in woodland river|d025fec78d3da0cf6f3377e4b4a6ab77

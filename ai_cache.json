@@ -20208,5 +20208,26 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1786118291.30647
+  },
+  "af366f61d29aa67fb46bc7c3bd9c651c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety matter involving a convicted child rapist absconding from secure detention in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786122035.20464
+  },
+  "f6f4a454912fe023ec702442ff163166": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/sports merchandise story regarding kit design, which falls under prohibited fluff and sports-related content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786122046.178151
+  },
+  "d025fec78d3da0cf6f3377e4b4a6ab77": {
+    "is_relevant": true,
+    "reasoning": "This reports a significant criminal and emergency incident involving a fatality in the UK, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786122056.160955
   }
 }
