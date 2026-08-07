@@ -20019,5 +20019,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786074003.025608
+  },
+  "22c6cbc723f1d4b6f5d7b92917a1b701": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the sentencing and early release of high-profile convicted cop killers in the UK, which is a matter of public interest and justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786080294.017884
   }
 }
