@@ -19977,5 +19977,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786022487.020291
+  },
+  "b65871349cf381934b50fb2a5799fdfc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on public disorder, police operations, and community tensions in a UK town, which falls under crime and civil security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786063280.177869
+  },
+  "bc754d801e6f2c669f0491a244f3b672": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant economic development and major event within the UK (Northern Ireland), involving official projections from a devolved government minister.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786063288.502332
+  },
+  "9ca74c7a75703b00ade64b8896d58048": {
+    "is_relevant": true,
+    "reasoning": "The Metropolitan Police Commissioner publicly addressing a failure in police procedure regarding the investigation of a journalist is a significant matter of public interest concerning UK policing and media freedom.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786063299.975893
+  },
+  "a2c2295dd94f4ecb067d7b01dd2bad0d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cold case development involving UK law enforcement (Dyfed-Powys Police) and a historical double murder investigation in Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786063309.125764
   }
 }

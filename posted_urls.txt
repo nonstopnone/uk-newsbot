@@ -1,23 +1,3 @@
-2026-07-30T15:24:11.804937+00:00|https://www.bbc.co.uk/news/articles/c5yd2j93r7ro|four people die after busiest day for smallboat crossings this year|6a5a969aa6aff83fd26596c37f9fb444
-2026-07-30T15:24:14.184538+00:00|https://news.sky.com/story/drought-declared-across-the-whole-of-wales-with-july-on-course-to-be-driest-in-190-years-13568491|drought declared across the whole of wales|15da7ad69d85c07fe5ee16b9fea55bc8
-2026-07-30T15:24:16.587669+00:00|https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468|greek police believe phone of british woman found dead in suitcase was used to stall investigation reports|d4961258e8024c8b22754cf31eeab84d
-2026-07-30T15:24:18.961448+00:00|https://www.bbc.co.uk/news/articles/cx2mj4768k5o|jenrick urges burnham to rule out tax rises to fund social care|7819304488c19be78d1e274415323171
-2026-07-30T17:02:03.910944+00:00|https://www.bbc.co.uk/news/articles/c1j1wyy7e39o|residents evacuated and village flooded after quarry incident|739f9cd2f513956406d6aeae00902363
-2026-07-30T17:02:06.507887+00:00|https://www.bbc.co.uk/news/articles/c87n321w9qlo|palestine action ban to be reviewed by supreme court|a010ad325ab0d10069ba7002c72625e4
-2026-07-30T17:02:09.226038+00:00|https://www.telegraph.co.uk/business/2026/07/30/uk-interest-rates-bank-of-england-ftse-100-markets|uk economy to flatline warns bank of england|108640d270205d5b5412099af697db37
-2026-07-30T18:47:01.098140+00:00|https://www.bbc.co.uk/news/articles/cn8n1knkkz9o|british airways flight called mayday on approach to heathrow|97fc092aa8a98e71f51ae77cb20a6b2a
-2026-07-30T18:47:03.694790+00:00|https://www.bbc.co.uk/news/articles/cz059e4d7xzo|virgin engineer died after explosion in fuel tank|224181c04089796ed01ebdc9f6657dd4
-2026-07-30T18:47:06.141243+00:00|https://news.sky.com/story/palestine-action-terror-ban-to-go-to-supreme-court-as-117-arrested-at-protest-13568520|palestine action terror ban to go to supreme court as 117 arrested at protest|827acd516e13416431b07575e2198f89
-2026-07-30T20:16:22.627125+00:00|https://www.bbc.co.uk/news/articles/cy5dwd1p374o|mp diane abbott readmitted into labour party after suspension|26b995c329d2798bb4fc4074bf30fb7d
-2026-07-30T20:16:25.003975+00:00|https://www.bbc.co.uk/news/articles/cp9e03ymreyo|archbishop of canterbury committed to £100m slavery fund|a8b53ae8e76885ae71ce37e1993d78d1
-2026-07-30T20:16:27.376038+00:00|https://news.sky.com/story/key-hs2-contracts-renegotiated-as-government-scrambles-to-slash-costs-13568600|key hs2 contracts renegotiated as government scrambles to slash costs|1762f5dceecf01640de42663537ed8f2
-2026-07-30T20:16:29.793141+00:00|https://news.sky.com/story/aircraft-engineer-died-after-heathrow-explosion-inquest-hears-13568555|aircraft engineer died after heathrow explosion inquest hears|93c8b88605b50bfa46eea78760445c55
-2026-07-30T21:44:05.806677+00:00|https://www.bbc.co.uk/news/articles/c4g3eyg60e0o|andy burnham to give regional mayors share of income tax|0eba320dfc91bedaf5177f8beab6cff8
-2026-07-30T21:44:08.384822+00:00|https://www.bbc.co.uk/news/articles/clyql4rex6qo|kayden moys killer posts video from prison boasting about murder|fcf72d2b6fc1f47707af3754dd763fce
-2026-07-30T21:44:10.773015+00:00|https://news.sky.com/story/police-find-4m-in-cash-and-1kg-of-cocaine-at-south-london-property-after-stopping-suspicious-vehicle-13568598|police find £4m in cash and 1kg of cocaine at south london property after stopping suspicious vehicle|ed9fd5e4512d41cc78f2b38b2fc2ec9e
-2026-07-30T22:48:30.873752+00:00|https://www.bbc.co.uk/news/articles/c4g369y5k8ko|tiktoker faces police probe over secret filming using smart glasses|9679ae54ae528c555cdacd40e27eb00d
-2026-07-31T00:04:33.553347+00:00|https://www.bbc.co.uk/news/articles/cddjz1r01l8o|renowned exroyal marine nirmal purja among 10 climbers feared missing after avalanche|361868929d44437555a74bb3c1aeecb9
-2026-07-31T00:04:36.430341+00:00|https://www.bbc.co.uk/news/articles/c62xdkmj2eno|councillor hits out at wild west style shooting of 50 cattle as review carried out|844d47ccdbc41653f057d6e34e140f79
 2026-07-31T03:51:39.125017+00:00|https://news.sky.com/story/nirmal-purja-ex-british-special-forces-soldier-missing-after-avalanche-13568650|exbritish special forces soldier missing after avalanche|1230396d69f1b27db48511b31668da9a
 2026-07-31T03:51:41.600307+00:00|https://www.bbc.co.uk/news/articles/cwyjgq583j7o|the papers cruel summer and footballs staying home|c68a2dace99161c045d33adf7f3885e1
 2026-07-31T03:51:44.119933+00:00|https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o|teen hackers tell bbc how police are helping them use their skills for good|f567b5b69a8c3c45afa3e42a8138fd39
@@ -172,3 +152,5 @@
 2026-08-06T11:41:31.151295+00:00|https://www.bbc.co.uk/news/articles/cy07pd7qe2ro|meredith kerchers sister criticises amanda knoxs edinburgh comedy show|6d26724b6db426f3f48f669ea04fe2b6
 2026-08-06T11:41:33.578627+00:00|https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253|boxer accused of killing uk aid worker and putting body in suitcase back in court|ada1b3157e5f27d0b0d3b1a73c16fcad
 2026-08-06T13:21:28.100020+00:00|https://www.bbc.co.uk/news/articles/cx2md6g7027o|woman charged after four stabbed near covent garden|8c08969bbd5ce87d1351878ce57067ab
+2026-08-07T00:41:50.020815+00:00|https://www.bbc.co.uk/news/articles/c74g1gxvwlvo|further arrests in thetford as disorder continues for third night|b65871349cf381934b50fb2a5799fdfc
+2026-08-07T00:41:52.825224+00:00|https://www.bbc.co.uk/news/articles/cyvlgv8m382o|uk papers tories to end social housing for foreigners and bottoms down|f6e5d32a9640d77835fea11d48ff657a
