@@ -20131,5 +20131,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786102307.09504
+  },
+  "bedd8a961636e40a10f993be4abd0dc0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal news story regarding a fatal road traffic incident and subsequent sentencing in the Welsh courts.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786105696.889913
+  },
+  "8a279a7ae28e3775969a88f7e26dbd58": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving City Hall and a major cultural milestone for the UK capital.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786105705.807617
+  },
+  "8d46ca2cab83a9d0e47223d01fd5f72c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant appointment within the UK's governing body for football (the FA) regarding a trailblazing figure in British sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786105716.15618
+  },
+  "5d152b978793df856b9821431b9f6bfe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant institutional controversy involving a prestigious UK university and potential academic misconduct, which is of clear public interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786105724.877564
   }
 }

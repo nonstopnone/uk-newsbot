@@ -1,6 +1,3 @@
-2026-07-31T12:02:21.382804+00:00|https://www.bbc.co.uk/news/articles/cwylenj3znno|high court upholds decision to allow chinese mega embassy|522607bccbf5bbb1d81cb95c24e6e021
-2026-07-31T12:02:24.121897+00:00|https://www.bbc.co.uk/news/articles/ckg3dr3lgjko|southport killer charged with prison attacks and possessing weapon|7ff8d006cf0c9fba259993faa11fb57d
-2026-07-31T12:02:26.930240+00:00|https://news.sky.com/story/betfred-to-cut-600-jobs-as-132-shops-close-amid-industry-tax-raid-13568679|betfred to cut 600 jobs as 132 shops close amid industry tax raid|050338ce72624a964f6d29701a751592
 2026-07-31T14:36:48.402563+00:00|https://www.bbc.co.uk/news/articles/ckg35errde5o|disgraced funeral boss who failed to bury bodies jailed|31f0dceff4f152cfebd870da93b5876b
 2026-07-31T14:36:50.992811+00:00|https://www.bbc.co.uk/news/articles/c5yel298793o|residents hit by flooding call for quarry to shut after blast|fcee5ada6695afa22be018c9e21078b0
 2026-07-31T16:24:44.330614+00:00|https://www.bbc.co.uk/news/articles/cx2v972wzdgo|devoted father dies after alleged assault in turkey|a3735d89dbea1ae18687d687cd306996
@@ -160,3 +157,5 @@
 2026-08-07T10:34:50.885940+00:00|https://news.sky.com/story/investigation-into-claims-nhs-staff-accessed-medical-records-of-schoolgirl-who-died-on-camping-trip-13570614|investigation into claims nhs staff accessed medical records of girl who died on camping trip|d08c828600b3f7d4b4c16ca1fbda0b23
 2026-08-07T11:31:47.985778+00:00|https://www.bbc.co.uk/news/articles/c07r5r1l7nmo|domestic abuser who murdered partner with hammer is jailed|750eff9cc481909301769f36b4539314
 2026-08-07T11:31:50.251637+00:00|https://www.bbc.co.uk/sport/football/articles/c36d8w5g080o|sullivan set to attend west ham tie against advice|f1d6b7af6c37d66acfc2dfcdadc3a880
+2026-08-07T12:28:45.399779+00:00|https://www.bbc.co.uk/news/articles/cx25ljkpz6ro|brothers who were racing home jailed for killing man and seriously injuring son|bedd8a961636e40a10f993be4abd0dc0
+2026-08-07T12:28:47.985130+00:00|https://www.bbc.co.uk/news/articles/c1d1ke0ed75o|london launches bid to host worldpride in 2032|8a279a7ae28e3775969a88f7e26dbd58
