@@ -20005,5 +20005,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786063309.125764
+  },
+  "4496de5bc37d43e92920010a078ab63a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report of violent disorder and a police investigation in the UK, which is a matter of public safety and criminal law.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786073992.426139
+  },
+  "a887019c5a9af40f0e764f20baa79fe9": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of UK domestic policy involving a direct intervention by the Prime Minister's office into local government regulation of a culturally significant aspect of British life.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786074003.025608
   }
 }

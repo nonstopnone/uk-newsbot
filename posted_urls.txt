@@ -154,3 +154,6 @@
 2026-08-06T13:21:28.100020+00:00|https://www.bbc.co.uk/news/articles/cx2md6g7027o|woman charged after four stabbed near covent garden|8c08969bbd5ce87d1351878ce57067ab
 2026-08-07T00:41:50.020815+00:00|https://www.bbc.co.uk/news/articles/c74g1gxvwlvo|further arrests in thetford as disorder continues for third night|b65871349cf381934b50fb2a5799fdfc
 2026-08-07T00:41:52.825224+00:00|https://www.bbc.co.uk/news/articles/cyvlgv8m382o|uk papers tories to end social housing for foreigners and bottoms down|f6e5d32a9640d77835fea11d48ff657a
+2026-08-07T03:40:03.890702+00:00|https://www.bbc.co.uk/news/articles/cj63we48313o|four men arrested after violent disorder near pontypool police say|4496de5bc37d43e92920010a078ab63a
+2026-08-07T03:40:06.508587+00:00|https://www.bbc.co.uk/weather/articles/c99872dyym1o|village sees 50 days without rain during summer heatwave|b8a90334ddf09fb0299d843ee7b44381
+2026-08-07T03:40:09.132441+00:00|https://news.sky.com/story/no-10-urges-council-to-work-with-london-pubs-amid-row-over-vertical-drinking-13570555|it is british life no 10 enters vertical drinking row|a887019c5a9af40f0e764f20baa79fe9
