@@ -20264,5 +20264,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786142305.271971
+  },
+  "d4bebee28eebbae68b658ed7bd3566fd": {
+    "is_relevant": true,
+    "reasoning": "This concerns an academic integrity investigation involving a major UK university and a high-profile academic, which is a matter of public interest regarding the integrity of the UK higher education sector.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786144694.945665
   }
 }
