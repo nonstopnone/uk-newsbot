@@ -20117,5 +20117,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786098885.099113
+  },
+  "750eff9cc481909301769f36b4539314": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant criminal conviction and sentencing in a Scottish High Court, which constitutes hard news regarding crime and legal proceedings in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786102297.735246
+  },
+  "f1d6b7af6c37d66acfc2dfcdadc3a880": {
+    "is_relevant": true,
+    "reasoning": "The article concerns serious allegations of sexual misconduct against a prominent figure in UK football and the resulting security and operational implications for a major UK stadium.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786102307.09504
   }
 }

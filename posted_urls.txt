@@ -158,3 +158,5 @@
 2026-08-07T10:34:45.961878+00:00|https://www.bbc.co.uk/news/articles/cvg8n70jp2jo|nhs tayside investigates data breach into minnie merriman medical records|d74b10cf163717e7fb5b94a880056414
 2026-08-07T10:34:48.309956+00:00|https://www.bbc.co.uk/news/articles/cm2gy5vpp9go|girl 11 found dead after major search launched at beauty spot|41688e36f6fe00d810805f6f49464358
 2026-08-07T10:34:50.885940+00:00|https://news.sky.com/story/investigation-into-claims-nhs-staff-accessed-medical-records-of-schoolgirl-who-died-on-camping-trip-13570614|investigation into claims nhs staff accessed medical records of girl who died on camping trip|d08c828600b3f7d4b4c16ca1fbda0b23
+2026-08-07T11:31:47.985778+00:00|https://www.bbc.co.uk/news/articles/c07r5r1l7nmo|domestic abuser who murdered partner with hammer is jailed|750eff9cc481909301769f36b4539314
+2026-08-07T11:31:50.251637+00:00|https://www.bbc.co.uk/sport/football/articles/c36d8w5g080o|sullivan set to attend west ham tie against advice|f1d6b7af6c37d66acfc2dfcdadc3a880
