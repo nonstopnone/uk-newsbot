@@ -20089,5 +20089,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786095195.024332
+  },
+  "d74b10cf163717e7fb5b94a880056414": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a serious ongoing criminal investigation and a subsequent data breach within the NHS, which are matters of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786098853.134631
+  },
+  "41688e36f6fe00d810805f6f49464358": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report involving a major emergency response and an unexplained death in Scotland, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786098864.336191
+  },
+  "587080a736054cc4b6583b8c95f3ed50": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story regarding a specific individual's dispute with a transit provider, which does not constitute hard news of national significance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786098874.643897
+  },
+  "d08c828600b3f7d4b4c16ca1fbda0b23": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding an NHS data breach and potential misconduct involving the medical records of a deceased child, which falls under NHS and legal oversight.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786098885.099113
   }
 }
