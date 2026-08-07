@@ -20243,5 +20243,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786136361.91464
+  },
+  "716bcea228e8c724bacd8df93597fef8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant appointment change in UK professional cricket involving a high-profile figure, falling under national sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786139377.212315
   }
 }
