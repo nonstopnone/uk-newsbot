@@ -1,4 +1,3 @@
-2026-07-31T23:30:58.745169+00:00|https://www.bbc.co.uk/news/articles/cy74n1n1lnxo|labours bev craig succeeds burnham as greater manchester mayor|b673af87b4f6de0f4ed3ba9cf2f4073b
 2026-08-01T01:17:07.213976+00:00|https://www.bbc.co.uk/news/articles/cr49w13w9d0o|victims of disgraced funeral boss demand industry regulation|52fa40cc08eac072f914df36e6f02aa1
 2026-08-01T01:17:09.883392+00:00|https://www.bbc.co.uk/news/articles/cdrvkzdpynyo|the papers spanish border crisis and iron chancellor|0e0165d204a7e3c7bd66942140ff5cfa
 2026-08-01T04:42:06.186351+00:00|https://www.bbc.co.uk/news/articles/ce97xg0zgp7o|cps to target assets of jailed funeral director|0044246ba57374e0f94b6039bde8c7ef
@@ -165,3 +164,4 @@
 2026-08-07T22:38:25.986811+00:00|https://www.bbc.co.uk/news/articles/cm2gx4yy8p4o|what happened to lisa ross reporting from athens as a murder case unfolds|36a1a6ff857f1185b367e7f42eaf4a7a
 2026-08-07T22:38:28.558920+00:00|https://www.bbc.co.uk/news/articles/c4gdprw8vwko|our homes shake and pictures fall off the wall when quarry blasts rocks|d441a5834d571923450e3fafb6c57fd4
 2026-08-07T23:18:15.775321+00:00|https://www.bbc.co.uk/news/articles/ckgvxlwe50yo|belfast university to investigate work coauthored by academic in plagiarism row|d4bebee28eebbae68b658ed7bd3566fd
+2026-08-07T23:59:31.689712+00:00|https://www.bbc.co.uk/news/articles/c5y3ddgjjzeo|sex predator let out to kill and net zero plans rolled back|01e26fa0840ee9dd0b1431284ab86459
