@@ -20194,5 +20194,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786114513.248452
+  },
+  "2a57bf92cafe1fb69cd276db8fbb35ce": {
+    "is_relevant": true,
+    "reasoning": "This is a serious report concerning systemic institutional failure and criminal allegations within the British Armed Forces, involving a government minister's response.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786118280.014612
+  },
+  "ddd339043aadd223f492fa8115e5789f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate takeover involving a major UK department store and potential administration, which has direct implications for the UK retail economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786118291.30647
   }
 }
