@@ -20250,5 +20250,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786139377.212315
+  },
+  "36a1a6ff857f1185b367e7f42eaf4a7a": {
+    "is_relevant": true,
+    "reasoning": "The victim is a British national (Scottish aid worker) and her murder is a matter of significant public interest and investigation involving UK media coverage.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786142295.133716
+  },
+  "d441a5834d571923450e3fafb6c57fd4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local safety and infrastructure issue concerning residents' wellbeing and regulatory oversight of industrial sites in Wales, which is relevant to domestic UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786142305.271971
   }
 }

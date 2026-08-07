@@ -1,5 +1,3 @@
-2026-07-31T22:15:59.637132+00:00|https://www.bbc.co.uk/news/articles/ckgd41lmedmo|should scotlands biggest city have an elected mayor|2755f99c232ebe39925a98af1568a3ef
-2026-07-31T22:16:02.277419+00:00|https://www.bbc.co.uk/news/articles/c8rng7dkzpro|i was in a coma for 42 days after a tick bite on a holiday to greece|7889c1b0b6cdb107c784b029a958e821
 2026-07-31T23:30:58.745169+00:00|https://www.bbc.co.uk/news/articles/cy74n1n1lnxo|labours bev craig succeeds burnham as greater manchester mayor|b673af87b4f6de0f4ed3ba9cf2f4073b
 2026-08-01T01:17:07.213976+00:00|https://www.bbc.co.uk/news/articles/cr49w13w9d0o|victims of disgraced funeral boss demand industry regulation|52fa40cc08eac072f914df36e6f02aa1
 2026-08-01T01:17:09.883392+00:00|https://www.bbc.co.uk/news/articles/cdrvkzdpynyo|the papers spanish border crisis and iron chancellor|0e0165d204a7e3c7bd66942140ff5cfa
@@ -164,3 +162,5 @@
 2026-08-07T20:59:24.301364+00:00|https://www.bbc.co.uk/news/articles/c62qrvd9303o|counterterror police reopen attempted burglary probe as part of widdecombe inquiry|5f11ddac6f9dffbdc20da7b1b7f7ddad
 2026-08-07T21:49:37.969070+00:00|https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo|police failings revealed as sex offender left free to murder and attack women|bd5afb84c339f1fb1948ddae35a16216
 2026-08-07T21:49:40.475666+00:00|https://news.sky.com/story/andrew-flintoff-steps-down-from-job-as-england-lions-head-coach-13570805|andrew flintoff leaves job as england lions head coach|716bcea228e8c724bacd8df93597fef8
+2026-08-07T22:38:25.986811+00:00|https://www.bbc.co.uk/news/articles/cm2gx4yy8p4o|what happened to lisa ross reporting from athens as a murder case unfolds|36a1a6ff857f1185b367e7f42eaf4a7a
+2026-08-07T22:38:28.558920+00:00|https://www.bbc.co.uk/news/articles/c4gdprw8vwko|our homes shake and pictures fall off the wall when quarry blasts rocks|d441a5834d571923450e3fafb6c57fd4
