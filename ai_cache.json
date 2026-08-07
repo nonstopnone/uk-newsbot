@@ -20026,5 +20026,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786080294.017884
+  },
+  "a9194b3cd0549343df0792002654ea62": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/home-hacks article and does not constitute hard news or relevant public interest for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786085245.514794
+  },
+  "3eec43c2d57fdefa6d2375fd209b0444": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle story about a shipwreck discovery rather than substantive news regarding UK politics, economy, crime, or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786085255.764294
+  },
+  "1dc255c808a82180baef5104cc8b9e55": {
+    "is_relevant": true,
+    "reasoning": "The Lockerbie bombing remains the deadliest terrorist attack on British soil, and this development in the ongoing legal proceedings is of significant national importance to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786085265.154358
+  },
+  "24427c4f4fb39578ad6ba3e7dca1fc39": {
+    "is_relevant": false,
+    "reasoning": "The article is an environmental report concerning local wildlife and habitat recovery in Wales; it lacks the national political, economic, or urgent security significance required for hard news classification on this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786085276.35978
   }
 }
