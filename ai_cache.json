@@ -20159,5 +20159,40 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1786105724.877564
+  },
+  "b53b5e1c257c4a830480f58385c8c728": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant scandal and institutional governance review at a major UK university involving academic integrity, which is a matter of public interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786114475.754312
+  },
+  "54df15a29e21b34b4da856493007918f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving multiple murders and rapes within the UK, currently being adjudicated at the Old Bailey.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786114484.857751
+  },
+  "c431dc95448535891f7652e8a3651193": {
+    "is_relevant": true,
+    "reasoning": "The passing of a highly influential and critically acclaimed British producer who significantly impacted the global music industry is considered notable UK culture news.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786114495.996221
+  },
+  "70d931ad4be59a0d334dc9076ef926d6": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a pre-season friendly football match, which falls under sports lifestyle/reporting rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786114504.886905
+  },
+  "04b19293066578d8e5b52fc1297e3e67": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome regarding a fatal health and safety incident in London, which is relevant to UK legal and public safety standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786114513.248452
   }
 }
