@@ -20446,5 +20446,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786215539.254341
+  },
+  "06b383cd7b4029cc6a91d611a9ccc698": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation and multiple arrests in Wales, which is a matter of clear UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786217850.040681
   }
 }
