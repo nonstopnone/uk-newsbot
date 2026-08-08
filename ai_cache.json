@@ -20341,5 +20341,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786182909.147796
+  },
+  "f1b6e048c1601d2d717249179298b83d": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity lifestyle/gossip story regarding a private marriage separation, which does not constitute hard news or meet the criteria for UK political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786185370.580057
   }
 }
