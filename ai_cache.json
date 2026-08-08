@@ -20460,5 +20460,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786222098.558082
+  },
+  "0a844335c7b40d92ba277791cc56a2ad": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the UK justice system and the application of government sentencing policy, which is a matter of significant public interest and legal administration.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786224744.804251
   }
 }
