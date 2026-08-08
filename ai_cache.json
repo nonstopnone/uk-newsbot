@@ -20285,5 +20285,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786160649.888135
+  },
+  "c1d813c6aab302d21321b9531bafe871": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant issue regarding NHS resource management and public health expenditure, which is a matter of clear relevance to UK infrastructure and the economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786164087.137852
   }
 }
