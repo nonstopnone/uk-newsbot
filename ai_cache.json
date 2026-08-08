@@ -20278,5 +20278,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786155026.629393
+  },
+  "076391a1611e087cb05f824d77b83ff9": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a weather event with significant impacts on UK public health and infrastructure, triggering official government health alerts.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786160649.888135
   }
 }
