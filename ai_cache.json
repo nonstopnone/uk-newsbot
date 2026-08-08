@@ -20467,5 +20467,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786224744.804251
+  },
+  "05efe58a6b669a21a1e7717fe54cb9a0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigation involving a UK-based charity, counter-terror police, and the Charity Commission, which is a matter of clear public interest and legal concern within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786226600.637573
   }
 }
