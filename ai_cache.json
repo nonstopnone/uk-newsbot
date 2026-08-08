@@ -20355,5 +20355,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786187332.440914
+  },
+  "66b41b664521d229aad3acf7f16520fa": {
+    "is_relevant": true,
+    "reasoning": "This report details a serious, ongoing police investigation into an unexplained death in Scotland, which constitutes hard news concerning public safety and criminal inquiry.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786189426.671918
+  },
+  "8955befb878efe2a2a94540e0e5b21ec": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder conviction at the Old Bailey, which is directly relevant to UK legal and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786189437.664721
+  },
+  "5e8a05bf5f726b3887f79a3cb340044a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal charge following a fatal road incident in the UK, falling under the remit of UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786189448.239925
   }
 }
