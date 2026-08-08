@@ -20376,5 +20376,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786189448.239925
+  },
+  "47d75553a98e683ab591d68e6713cbc0": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant failure in public transport infrastructure and safety protocols involving a UK operator (Translink) in Northern Ireland, impacting passengers' safety and security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786191340.051029
+  },
+  "0798da9999852e187d23d9003fd16af0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding serious criminal activity, police misconduct, and systemic failures by UK law enforcement agencies.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786191350.656635
+  },
+  "1ea9755b891ce75fb1ebd97e9ab795b4": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment-related story concerning an individual's personal career decision, which does not constitute hard news or material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786191359.406359
   }
 }
