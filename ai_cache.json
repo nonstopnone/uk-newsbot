@@ -20418,5 +20418,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786200607.208285
+  },
+  "a103280b6520f3f0e08a20f7ece3e014": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a significant legal and political development involving a former First Minister and the internal affairs of a major UK political party.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786207965.019192
+  },
+  "525755178a6e9790b3835466f99eae28": {
+    "is_relevant": true,
+    "reasoning": "This is a significant operational failure at a major UK international airport affecting hundreds of passengers, representing a disruption to national infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786207974.012031
   }
 }
