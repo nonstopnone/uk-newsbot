@@ -20271,5 +20271,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1786144694.945665
+  },
+  "57909de7c9c80575fb3d9e23fa7ee2d2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and legal matter involving institutional failure by the Metropolitan Police and a watchdog investigation into officer conduct.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786155026.629393
   }
 }
