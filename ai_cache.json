@@ -20453,5 +20453,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786217850.040681
+  },
+  "9aec71c41a859c50732648d4aab3f75d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a serious crime and ongoing police investigation within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786222098.558082
   }
 }
