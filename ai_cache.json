@@ -20432,5 +20432,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786207974.012031
+  },
+  "75ca5086d2c1f7facc0a1ca5677ac47d": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a football pre-season match, which falls under sports reporting and lifestyle/entertainment news rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786210353.074096
   }
 }
