@@ -1,5 +1,3 @@
-2026-08-01T11:05:37.184789+00:00|https://www.bbc.co.uk/news/articles/ckg4e7jle9no|teenager dies following twovehicle crash|1dffdfc5aa9fdf3bab0c4aae44d45c38
-2026-08-01T11:05:39.806048+00:00|https://www.bbc.co.uk/news/articles/c5y32zmv6kjo|soap star shane richie facing drinkdrive charge|27fd6751a3c8949b7e1cc1da47a42091
 2026-08-01T12:13:10.210040+00:00|https://www.telegraph.co.uk/football/2026/08/01/chelsea-vs-spurs-live-score-latest-updates-friendly|richarlison earns lastgasp win for 10man tottenham against chelsea|7c06ff4ef90668e88413c3434a4890c9
 2026-08-01T12:13:12.638133+00:00|https://www.bbc.co.uk/news/articles/clyljq79kdko|mountaineer nirmal purja killed in pakistan avalanche his company says|84ac656497876d5fcfb1e57288ac1f98
 2026-08-01T12:13:15.292986+00:00|https://www.bbc.co.uk/news/articles/c4g3j5zyr0go|police arrest men over alleged modern day slavery|9be6dee286441cebc455c948ac6b95e8
@@ -168,3 +166,4 @@
 2026-08-08T09:03:15.593341+00:00|https://news.sky.com/story/talktalk-on-brink-of-break-up-as-octopus-snares-pxc-network-arm-13570887|talktalk on brink of breakup as octopus snares pxc network arm|66cb69b2f2a4f2f88e386ec6cef4cacd
 2026-08-08T09:55:10.350396+00:00|https://news.sky.com/story/lengthy-delays-at-bristol-airport-after-runway-disruption-13570916|lengthy delays at bristol airport after runway disruption|4cf042f83b5de35e4c007ac82c4db2cf
 2026-08-08T09:55:12.833833+00:00|https://news.sky.com/story/police-find-child-rapist-who-absconded-while-on-community-leave-13570910|police find child rapist who absconded while on community leave|c7a321b265694e9fbe2575bd19e7f34b
+2026-08-08T11:08:53.993053+00:00|https://www.bbc.co.uk/news/articles/c1k1lyg94w9o|bristol airport disruption a shambles as flights restart|07bd9f8bbf1aed7edb84c4118faab185

@@ -20348,5 +20348,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786185370.580057
+  },
+  "07bd9f8bbf1aed7edb84c4118faab185": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure disruption affecting a major UK regional airport and hundreds of passengers, which qualifies as hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786187332.440914
   }
 }
