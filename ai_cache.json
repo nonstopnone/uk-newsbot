@@ -20292,5 +20292,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1786164087.137852
+  },
+  "e651de09a44151352b3d59479babcb1a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety matter involving a convicted child rapist absconding from secure detention in Scotland, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786179764.893782
+  },
+  "31e14222c035ef89de5665f3021b109b": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff piece about a personal hobby and is not considered hard news or of significant relevance to a national UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786179773.539869
+  },
+  "66cb69b2f2a4f2f88e386ec6cef4cacd": {
+    "is_relevant": true,
+    "reasoning": "This is significant business and infrastructure news involving a major UK telecoms provider, which impacts the UK's broadband market and national connectivity.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786179782.346651
+  },
+  "663b0fa7080ae8f3fbc8d0441fcce85f": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private individual's negative customer service experience and does not constitute hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786179791.932873
   }
 }
