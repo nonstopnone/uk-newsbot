@@ -20474,5 +20474,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786226600.637573
+  },
+  "00f4c91ff7987e52d230863e74b1f8d9": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant shifts in UK higher education funding and admissions policies, as well as political developments involving a party leader, both of which are of material concern to the UK public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786231864.475526
   }
 }
