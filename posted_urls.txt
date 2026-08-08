@@ -1,4 +1,3 @@
-2026-08-01T09:32:13.870514+00:00|https://www.bbc.co.uk/news/articles/c6290jwpd3no|commonwealth games boxing official suspended over headbutt probe|aa04b858907bb6e52ff12f2293f0c974
 2026-08-01T11:05:37.184789+00:00|https://www.bbc.co.uk/news/articles/ckg4e7jle9no|teenager dies following twovehicle crash|1dffdfc5aa9fdf3bab0c4aae44d45c38
 2026-08-01T11:05:39.806048+00:00|https://www.bbc.co.uk/news/articles/c5y32zmv6kjo|soap star shane richie facing drinkdrive charge|27fd6751a3c8949b7e1cc1da47a42091
 2026-08-01T12:13:10.210040+00:00|https://www.telegraph.co.uk/football/2026/08/01/chelsea-vs-spurs-live-score-latest-updates-friendly|richarlison earns lastgasp win for 10man tottenham against chelsea|7c06ff4ef90668e88413c3434a4890c9
@@ -167,3 +166,5 @@
 2026-08-08T04:41:27.779754+00:00|https://news.sky.com/story/wasted-medicine-in-the-uk-could-fill-75-swimming-pools-a-year-13570626|wasted medicine in the uk could fill 75 swimming pools a year|c1d813c6aab302d21321b9531bafe871
 2026-08-08T09:03:12.771797+00:00|https://www.bbc.co.uk/news/articles/cwyrnzg4e7wo|police trace child rapist who escaped community leave in perth|e651de09a44151352b3d59479babcb1a
 2026-08-08T09:03:15.593341+00:00|https://news.sky.com/story/talktalk-on-brink-of-break-up-as-octopus-snares-pxc-network-arm-13570887|talktalk on brink of breakup as octopus snares pxc network arm|66cb69b2f2a4f2f88e386ec6cef4cacd
+2026-08-08T09:55:10.350396+00:00|https://news.sky.com/story/lengthy-delays-at-bristol-airport-after-runway-disruption-13570916|lengthy delays at bristol airport after runway disruption|4cf042f83b5de35e4c007ac82c4db2cf
+2026-08-08T09:55:12.833833+00:00|https://news.sky.com/story/police-find-child-rapist-who-absconded-while-on-community-leave-13570910|police find child rapist who absconded while on community leave|c7a321b265694e9fbe2575bd19e7f34b

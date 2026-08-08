@@ -20320,5 +20320,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786179791.932873
+  },
+  "4cf042f83b5de35e4c007ac82c4db2cf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and transport disruption affecting UK travellers, constituting hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786182887.78466
+  },
+  "c7a321b265694e9fbe2575bd19e7f34b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and criminal justice matter involving the apprehension of a dangerous offender in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786182898.689932
+  },
+  "8ec9fd99cec88411a9b55405e7046851": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a hobby and does not constitute hard news or a matter of significant national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786182909.147796
   }
 }
