@@ -20397,5 +20397,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786191359.406359
+  },
+  "ed3974f211a6910cddd135cdb6fe7c7a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the deployment of emergency services and public safety infrastructure in Scotland, which falls under UK devolved news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786198081.645222
+  },
+  "70d71a2cf514d4bc22456e3d298bdd75": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a violent crime and police action within the UK, meeting the criteria for Crime & Legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786198092.745354
   }
 }
