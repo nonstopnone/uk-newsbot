@@ -20411,5 +20411,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786198092.745354
+  },
+  "1cd322567e663644bcf53d0abe47c81e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a competitive football match involving a major UK club, which is relevant to the UK sport category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786200607.208285
   }
 }
