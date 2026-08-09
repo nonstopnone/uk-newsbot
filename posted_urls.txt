@@ -166,3 +166,4 @@
 2026-08-09T15:13:28.388412+00:00|https://www.bbc.co.uk/news/articles/c0qv3ld7wgpo|holiday completely overshadowed by loss of airport luggage|74c81e893b5fb40f941b015f508d4c19
 2026-08-09T15:49:41.431651+00:00|https://www.telegraph.co.uk/football/2026/08/09/arsenal-vs-dortmund-emirates-cup-live-score-updates|borussia dortmund beat arsenal 32 to win emirates cup|42d4daebf39508f3a9ab3c9091159bd7
 2026-08-09T15:49:44.270835+00:00|https://news.sky.com/story/uk-record-for-number-of-days-above-30c-broken-as-new-heatwave-approaches-13571390|uk record for number of days above 30c broken as new heatwave approaches|f781884f01aed60c27d0d2eeebdbe62e
+2026-08-09T17:51:35.170847+00:00|https://www.bbc.co.uk/news/articles/cpw90n9w44do|sarwar stands by call for lords to be abolished despite accepting peerage|bdd2f2b3ed13e37243603e6380ede96f
