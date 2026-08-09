@@ -20481,5 +20481,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786231864.475526
+  },
+  "c18e8a41a897136444575d4a89795a47": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the political standing of the Prime Minister and challenges facing his government, which constitutes core UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786242571.733983
+  },
+  "7b8b56bc808c6c18e6784a86290a45db": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant political figure and addresses the major UK issue of the cost of living, which directly impacts the national economy and public policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786242579.53289
+  },
+  "16cbe4b78269e3c3f23853bba58f6c6b": {
+    "is_relevant": false,
+    "reasoning": "This is a local emergency in Canada with no stated impact on the UK, falling outside the criteria for relevant international news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786242591.162426
+  },
+  "cbb5d76538949b761276c5cfae8307c3": {
+    "is_relevant": true,
+    "reasoning": "Extreme weather events impacting the UK fall under major infrastructure and public interest news, as they affect health, transport, and energy sectors.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786242599.33658
+  },
+  "d22099de0313b77b334e0b0ab383f8bf": {
+    "is_relevant": true,
+    "reasoning": "This report details significant taxpayer expenditure by the Ministry of Justice regarding public assets, making it relevant to UK governance and public spending.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786242609.192919
   }
 }
