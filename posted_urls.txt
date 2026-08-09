@@ -1,4 +1,3 @@
-2026-08-02T03:56:06.006185+00:00|https://www.bbc.co.uk/news/articles/cvgwj0wnyydo|wicker man sequel director justin hardy dies aged 61|182398b0d5500f949993699ceb4ca272
 2026-08-02T06:36:41.492478+00:00|https://www.bbc.co.uk/news/articles/c36dxp822k4o|chernobyl disaster evacuee forever grateful to welsh family who took him in|1e988b0037f44188139315e736fddd85
 2026-08-02T09:00:31.839338+00:00|https://www.bbc.co.uk/news/articles/c2eln8drwlmo|gang of men hurl racist abuse at takeaway owner before violent attack|e46641782b3d648445ffc2641f08e864
 2026-08-02T09:00:34.416144+00:00|https://www.bbc.co.uk/news/articles/ce3456dw32no|trust grief and betrayal inside the legacy funeral case|eeb169200d76cbc05429ddad39513416
@@ -167,3 +166,4 @@
 2026-08-09T02:30:12.659444+00:00|https://news.sky.com/story/andy-burnham-to-start-national-tour-to-hear-cost-of-living-concerns-13571267|andy burnham to start national tour to hear cost of living concerns|7b8b56bc808c6c18e6784a86290a45db
 2026-08-09T02:30:14.980222+00:00|https://www.bbc.co.uk/news/articles/cx2vnny7j5zo|banksy works cost public almost £150000|d22099de0313b77b334e0b0ab383f8bf
 2026-08-09T02:30:17.605702+00:00|https://www.bbc.co.uk/news/articles/c89n8vpjenno|what do clacton voters want from their next mp|bc524d58644da2f938439f072ee7f81b
+2026-08-09T04:02:08.059718+00:00|https://news.sky.com/story/uk-weather-heat-record-set-in-1995-will-likely-be-broken-next-week-13571274|uk heat record set in 1995 will likely be broken next week|cbb5d76538949b761276c5cfae8307c3
