@@ -20565,5 +20565,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786272143.153184
+  },
+  "865bd2b8b359ee58ff357092dab328f1": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest animal story and constitutes lifestyle/fluff news rather than hard news relevant to UK politics, economy, or systemic public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786274006.928564
   }
 }
