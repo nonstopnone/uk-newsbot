@@ -20544,5 +20544,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786266250.42977
+  },
+  "b0d711db1ce2df826571ce6cd6aa4580": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive crime and safety incident involving emergency services in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786269445.159529
   }
 }
