@@ -20621,5 +20621,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786290580.77701
+  },
+  "9307f2c9fc2d1c46814718135d0764a0": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a preseason friendly match and does not constitute hard news or significant sport reporting suitable for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786293454.853612
   }
 }
