@@ -20516,5 +20516,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786242609.192919
+  },
+  "2fbfa04e1831ac67b2e26a5fafa5e617": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle piece focused on home cleaning tips rather than hard news, politics, or significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786252733.379189
   }
 }
