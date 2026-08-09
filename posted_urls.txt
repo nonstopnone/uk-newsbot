@@ -167,3 +167,6 @@
 2026-08-09T09:57:27.503929+00:00|https://www.bbc.co.uk/news/articles/c0km1zed1lyo|mans body found in burning car|b0d711db1ce2df826571ce6cd6aa4580
 2026-08-09T12:54:54.413013+00:00|https://www.bbc.co.uk/news/articles/cy9wyvglp11o|celebrations taking place to mark the end of the fleadh|ccf61552c146c5e9b2ba237c6f5d9231
 2026-08-09T12:54:56.823494+00:00|https://www.bbc.co.uk/news/articles/ckge1k3yke7o|two arrested after defence firm office vandalised following breakin|1ec53005238c3a5f43b5924cca13d8af
+2026-08-09T13:52:04.029297+00:00|https://www.bbc.co.uk/news/articles/c3v07n5w757o|attempted murder arrest after three hit by car|e368e4e4c1300dd736bc301157c2bef8
+2026-08-09T13:52:06.545966+00:00|https://news.sky.com/story/early-release-of-two-pc-andrew-harpers-killers-under-review-sky-news-understands-13571341|early release of pc harpers killers under review sky news understands|fdb98e81968bacff1053bb01cb6cba22
+2026-08-09T13:52:09.097683+00:00|https://news.sky.com/story/mans-body-found-in-burning-car-in-portadown-say-northern-ireland-police-13571325|mans body found in burning car in portadown|bb2e132d45385e343f00b926e470e8b7

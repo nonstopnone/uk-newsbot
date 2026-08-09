@@ -20586,5 +20586,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786280093.317962
+  },
+  "e368e4e4c1300dd736bc301157c2bef8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving an attempted murder investigation and police activity, which is directly relevant to UK domestic news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786283503.291347
+  },
+  "fdb98e81968bacff1053bb01cb6cba22": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding UK government policy, the criminal justice system, and a high-profile case involving the death of a police officer.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786283512.619058
+  },
+  "bb2e132d45385e343f00b926e470e8b7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a death and a police investigation in the UK (Northern Ireland), meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786283523.632375
   }
 }
