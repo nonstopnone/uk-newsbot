@@ -20642,5 +20642,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786297893.51775
+  },
+  "8d71a1f59aadf80772349b34336ea02b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on Liverpool Football Club, a major UK sporting institution, during their pre-season campaign.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786308290.730175
+  },
+  "15fdf3e9dc232dd96b648658410f1a00": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle story regarding a fictional memorial and does not constitute hard news or a material impact on UK infrastructure, economy, or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786308301.712032
   }
 }
