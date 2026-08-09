@@ -20551,5 +20551,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786269445.159529
+  },
+  "c29c3be0633eda524ad3ae0b66a4e3e2": {
+    "is_relevant": false,
+    "reasoning": "The article concerns the Republic of Ireland, which is a sovereign state outside of the United Kingdom, and does not materially affect the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786272133.173834
+  },
+  "675c3e1b252db8e64d60f7f1d11fb0e9": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about local cats and does not constitute hard news regarding UK politics, economy, crime, or significant public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786272143.153184
   }
 }
