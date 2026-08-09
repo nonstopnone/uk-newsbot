@@ -20607,5 +20607,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786283523.632375
+  },
+  "c0ff89204e4326455977058842628cff": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a pre-season friendly football match, which falls under sports previews/reporting and is excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786286186.25705
   }
 }
