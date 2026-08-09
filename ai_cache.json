@@ -20572,5 +20572,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786274006.928564
+  },
+  "ccf61552c146c5e9b2ba237c6f5d9231": {
+    "is_relevant": true,
+    "reasoning": "The event is a major cultural gathering taking place in Belfast, Northern Ireland, which is part of the UK, and it involves significant public infrastructure usage and regional interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786280083.721072
+  },
+  "1ec53005238c3a5f43b5924cca13d8af": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal incident involving a defence firm and subsequent police action in the UK, which falls under crime and security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786280093.317962
   }
 }
