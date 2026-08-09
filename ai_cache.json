@@ -20628,5 +20628,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786293454.853612
+  },
+  "5b1b8e5cf13340fe2f9b14320566bf30": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a pre-season friendly football match, which falls under the category of sports previews/recaps and is excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786295724.428362
   }
 }
