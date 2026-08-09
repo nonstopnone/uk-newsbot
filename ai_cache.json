@@ -20656,5 +20656,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786308301.712032
+  },
+  "24270aa815ab376b6b13fdd538350bb0": {
+    "is_relevant": true,
+    "reasoning": "The Kinahan cartel is a major international criminal organisation with significant historical involvement in UK crime and drug trafficking, and the NCA has been heavily involved in investigations against him.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786310170.422093
   }
 }
