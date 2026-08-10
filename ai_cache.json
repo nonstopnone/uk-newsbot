@@ -20978,5 +20978,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786399656.582164
+  },
+  "eafe2f0780ac92b53d2692709942d2e0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant sporting achievement by a British athlete at a major event held in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786402604.088183
+  },
+  "9f89ea17ff79b2689374de41904bfd5a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a police officer in the UK, which is of clear public interest and falls under the crime and legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786402615.307588
   }
 }
