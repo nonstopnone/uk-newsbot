@@ -20950,5 +20950,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786390311.038664
+  },
+  "9d6d566d392c91efa23e7f8215b4bf90": {
+    "is_relevant": true,
+    "reasoning": "This is a significant law enforcement operation involving a major drug seizure and multiple arrests in the UK, directly impacting national security and crime prevention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786393422.355982
   }
 }
