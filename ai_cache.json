@@ -20852,5 +20852,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786370813.696996
+  },
+  "01926376a8d1db75ac2d873f6e2bf92a": {
+    "is_relevant": false,
+    "reasoning": "This is a feature-style retrospective piece about local event management and logistics rather than hard news concerning UK politics, economy, or national policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786375005.875459
+  },
+  "9a0b83689021312dbef07ec987987bf0": {
+    "is_relevant": false,
+    "reasoning": "This article concerns celebrity entertainment and television casting, which constitutes lifestyle/culture news rather than the hard news categories required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786375014.641529
   }
 }
