@@ -1,5 +1,3 @@
-2026-08-03T16:28:52.727514+00:00|https://www.bbc.co.uk/news/articles/c70g94zr1zgo|comedian jimmy cricket dies aged 80|b21463e152d2f1ca4cb3398b9d923a42
-2026-08-03T16:28:55.177325+00:00|https://www.bbc.co.uk/news/articles/cg7md77yzndo|grooming gang found guilty of exploiting teenage girls for sex|4581b7e91aba7e067955150c970e8612
 2026-08-03T18:19:35.467748+00:00|https://www.bbc.co.uk/news/articles/c74g0l1ylpvo|farage says he discussed return to politics months before general election|d5fcad0e3dd7dd8d93de19128fe8e216
 2026-08-03T18:19:38.034775+00:00|https://www.bbc.co.uk/news/articles/c8jnm4ldxyko|scottish islanders refused permission to stage annual seabird chicks hunt|84541253f2fa8d87eedd541a5ffa8418
 2026-08-03T20:12:41.432293+00:00|https://www.bbc.co.uk/news/articles/c77gzjjmgleo|west ham coowner david sullivan advised to stay away from home matches|39a0397bafda3b446864a2ffbdaaa56c
@@ -182,3 +180,6 @@
 2026-08-10T16:24:21.748537+00:00|https://www.bbc.co.uk/news/articles/cyvl17z86r3o|suffolk heathland fire stood down as major incident|3efe53540094a9b8a31dacc8bbc17568
 2026-08-10T16:24:24.396103+00:00|https://news.sky.com/story/harrods-returns-to-profit-after-2024-loss-triggered-by-al-fayed-abuse-provision-13571719|harrods returns to profit after 2024 loss triggered by al fayed abuse provision|639fde0fd873d807e2b0e5b2b7a7414c
 2026-08-10T16:24:26.712576+00:00|https://news.sky.com/story/scottish-greens-msp-q-manivannan-criticised-over-rape-spectrum-comments-13571654|scottish greens msp criticised over rape spectrum comments|b6bc214d091d6adfc43e40c4227c25a4
+2026-08-10T17:26:40.837713+00:00|https://www.bbc.co.uk/news/articles/c86ne9q03p9o|hope of finding mums body lost if killer released|3f8e4714962d0831ea29daa00b6c658b
+2026-08-10T17:26:43.479608+00:00|https://www.bbc.co.uk/news/articles/c5y3v7xz52yo|from stonehenge to the serpentine satellite images show impact of hot dry summer|778df8738f83e689e8330fd3086c8954
+2026-08-10T17:26:46.058254+00:00|https://news.sky.com/story/uk-is-first-european-nation-to-approve-weight-loss-pill-13571674|uk first in europe to approve much cheaper weight loss pill|0de054e5c7e6049c7e0d2a93f5ed24ee

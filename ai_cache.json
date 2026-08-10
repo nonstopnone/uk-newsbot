@@ -20908,5 +20908,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786379058.260895
+  },
+  "331013b90f1b3e955fafe596c53d190a": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding a planning dispute over a building's paintwork, which does not constitute hard news or significant UK-wide relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786382778.37074
+  },
+  "3f8e4714962d0831ea29daa00b6c658b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a high-profile parole decision and the Justice Secretary's intervention in the UK court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786382790.034859
+  },
+  "0de054e5c7e6049c7e0d2a93f5ed24ee": {
+    "is_relevant": true,
+    "reasoning": "The approval of a new medical treatment by a UK regulator represents a significant development in national health policy and NHS provision.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786382800.089182
   }
 }
