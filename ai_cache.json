@@ -20957,5 +20957,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786393422.355982
+  },
+  "2ffa4471b0d89ee97297e4879ac883bd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident involving major UK infrastructure disruption and public safety in a national park.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786396785.997841
   }
 }
