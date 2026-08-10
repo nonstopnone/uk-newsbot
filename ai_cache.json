@@ -20663,5 +20663,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786310170.422093
+  },
+  "cdf674218aef7d49b094a88895e85ab5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failure, public safety, and domestic abuse within a major UK hotel chain, which is a matter of serious public interest and consumer safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786340667.728574
+  },
+  "127fc4bcff001aa35e037d1228942f95": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the Mayor of London's intervention in local government policy affecting the capital's major commercial and cultural hub, which is a matter of public interest regarding UK infrastructure and governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786340677.277878
   }
 }
