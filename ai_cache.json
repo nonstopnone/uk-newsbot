@@ -20943,5 +20943,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786386280.771866
+  },
+  "9f08948787ebd4854c08ca8a8d19feb5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning a failure in duty of care within a major UK government department, which is a matter of clear public interest and legal significance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786390311.038664
   }
 }
