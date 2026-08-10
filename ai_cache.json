@@ -20768,5 +20768,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786361471.611244
+  },
+  "2075d3c3b8fd5a8aa4175c7e404b778a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction and sentencing within the UK justice system, which also involves immigration and deportation proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786365146.974639
+  },
+  "2d56a016923f70966dc3af8447cffbc4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety and emergency services incident involving a fatality at a popular UK beach.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786365157.115559
+  },
+  "ed41003f8f731b99bec1c0f14ffa35f8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory matter involving a major UK media watchdog's ruling on a false report regarding the Monarch, which falls under UK public interest and legal/regulatory compliance.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1786365165.761573
+  },
+  "483e811086f26be3216ae1f19e853ac7": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest story about a vintage snack item and does not constitute hard news relevant to UK governance, economy, or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786365178.37668
+  },
+  "5ba4f8df82c7ba4c2d423cfcfaf07483": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of UK legal policy and involves a high-profile case concerning the justice system and government response to criminal sentencing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786365186.877094
+  },
+  "b4e1fea776f34b1af6fd9b4ec99a59b9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal conviction and sentencing in a UK Crown Court, which constitutes hard news regarding crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786365196.855962
+  },
+  "337169783153a6d21a0ef8ecc0fe5d3d": {
+    "is_relevant": false,
+    "reasoning": "This is a local service disruption/lifestyle story that does not constitute hard news or have a significant impact on national affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786365205.894473
+  },
+  "56ea85362063c47ea40489d025204c7e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant diplomatic and security issue involving the detention of British citizens by a foreign state, which is a matter of major UK national interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1786365217.188854
   }
 }
