@@ -20866,5 +20866,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786375014.641529
+  },
+  "f4caf91b7f86ca7cea23f874b1955317": {
+    "is_relevant": true,
+    "reasoning": "This concerns a serving member of the Scottish Parliament and their public conduct regarding a significant policy and societal issue, which is highly relevant to UK devolved politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786379005.869927
+  },
+  "3efe53540094a9b8a31dacc8bbc17568": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing emergency service incident affecting UK infrastructure and public safety, meeting the criteria for major UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786379013.707122
+  },
+  "639fde0fd873d807e2b0e5b2b7a7414c": {
+    "is_relevant": true,
+    "reasoning": "This is significant business and legal news involving a major UK institution, with direct relevance to the UK economy and high-profile domestic legal proceedings.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786379024.953962
+  },
+  "157abcd410180a2092f3ab07d290582a": {
+    "is_relevant": true,
+    "reasoning": "The approval of a new medical treatment by a UK regulatory body is significant national health news that impacts public policy and the NHS.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786379033.811128
+  },
+  "ccc93a4b4488f12e7e5a52893a9f7417": {
+    "is_relevant": false,
+    "reasoning": "This is a regional lifestyle and culture reflection piece focused on urban planning and event legacy, which does not constitute hard news or a matter of significant national importance for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786379045.770698
+  },
+  "b6bc214d091d6adfc43e40c4227c25a4": {
+    "is_relevant": true,
+    "reasoning": "This concerns a serving politician in a devolved government and involves a significant public controversy regarding legal and social definitions of a major crime.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786379058.260895
   }
 }
