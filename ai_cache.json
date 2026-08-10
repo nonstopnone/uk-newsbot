@@ -20740,5 +20740,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786357139.730472
+  },
+  "aea6d612198daba9f5d4b3b65d61218c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding major emergency service operations and public safety incidents involving multiple mountain rescues in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786361442.209901
+  },
+  "c2f02c74dff9cade498bf6ab707c1f85": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving a prominent academic figure at a major UK institution and accusations of professional misconduct in the public sphere.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786361452.682228
+  },
+  "376eba1fab4e5c151d8a1bbcd80590a8": {
+    "is_relevant": false,
+    "reasoning": "This is a local service disruption at a theme park, which constitutes lifestyle/consumer news rather than hard news of national political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786361461.653871
+  },
+  "d5d98985386d5635bd0eafb202bc750c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a police misconduct investigation involving potential misuse of AI in legal evidence and proceedings, falling under crime and legal oversight.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786361471.611244
   }
 }
