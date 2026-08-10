@@ -20929,5 +20929,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1786382800.089182
+  },
+  "04286719833e33ce5de221ad3cd191f7": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff piece about individual travel plans and does not constitute hard news relevant to the broader UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786386270.690226
+  },
+  "cb2956e3c7873f8951dc7b41715297b9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and legal matter involving a tragic death investigation in a devolved nation, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786386280.771866
   }
 }
