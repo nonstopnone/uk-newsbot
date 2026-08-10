@@ -20677,5 +20677,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786340677.277878
+  },
+  "c170805a0def3efbc1a4910760b77281": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major cultural and historic event in Belfast that drew over a million people, representing a significant civic occurrence in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786345106.400558
+  },
+  "a7ad77ed50e75efbaa2df374fcdc5a7f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant piece of investigative journalism regarding UK public policy and the state's handling of victims of major domestic tragedies.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786345115.191162
+  },
+  "ce79f7d7d1cfba10a005bf62c8a3d577": {
+    "is_relevant": true,
+    "reasoning": "This concerns the financial stability and corporate governance of a major UK utility provider, which is a significant matter of public interest and economic concern.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786345126.686701
   }
 }
