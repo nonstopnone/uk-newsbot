@@ -20824,5 +20824,33 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1786365217.188854
+  },
+  "0131a6528a71fe9b2970d4fd3e42c8b7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a suspicious death and multiple arrests in London, which is standard hard news for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786370782.109257
+  },
+  "a9d55339804753cd3af0b0e5eec18d35": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding the sentencing of a teacher for historical abuse at a Scottish residential school.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786370792.635155
+  },
+  "517d0d538ee8cbfb5edebf5437eb36e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event concerning UK border security and immigration policy, directly addressing current government challenges.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1786370803.920262
+  },
+  "780564390a89da23cbef19ef1f55fc80": {
+    "is_relevant": false,
+    "reasoning": "This is a regional incident involving Spain and North Africa that does not have a material impact on the UK, nor does it involve UK policy or domestic affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786370813.696996
   }
 }
