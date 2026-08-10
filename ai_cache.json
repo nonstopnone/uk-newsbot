@@ -20964,5 +20964,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786396785.997841
+  },
+  "5118472d0a8d044155b2e97e53f11613": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime story involving a murder investigation and subsequent institutional failure by police in Scotland, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786399647.807219
+  },
+  "55284e25f1cb26aef6256a35e973f404": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and defence matter involving the Royal Navy's equipment and potential cyber vulnerabilities, which is of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786399656.582164
   }
 }
