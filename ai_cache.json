@@ -20705,5 +20705,40 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1786351581.611424
+  },
+  "0736388d4a5c968197d8a442f77e6194": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK border security and immigration statistics, representing a major public interest topic.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1786357095.091338
+  },
+  "c17cd2d701b6ae48303a93b54cdb0828": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction involving serious sexual assault and the legal system, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786357105.882033
+  },
+  "b0cda2c693186196fefdec9d09fef34d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the financial instability of a major UK utility provider and its potential impact on public infrastructure and government intervention.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786357116.476228
+  },
+  "fe524f0d3a5b1a5a84f2f8235c5884ee": {
+    "is_relevant": true,
+    "reasoning": "The potential acquisition of a significant stake in a major Premier League football club by a high-profile international figure is a significant business and sports news event for the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786357127.752053
+  },
+  "4604987586a91a8d37b54d6b0b45ef25": {
+    "is_relevant": true,
+    "reasoning": "This is a significant police operation in London involving a high-value asset seizure and a major public interest story regarding law enforcement enforcement of antisocial driving.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786357139.730472
   }
 }

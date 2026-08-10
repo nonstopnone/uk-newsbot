@@ -170,3 +170,6 @@
 2026-08-10T08:46:22.438056+00:00|https://www.bbc.co.uk/news/articles/c70gk2dl5jyo|drought expected to be declared in more parts of england|3c2eabd248b09c01f1e69927109b3aa8
 2026-08-10T08:46:24.892378+00:00|https://news.sky.com/story/british-couple-jailed-in-iran-end-hunger-strike-after-several-months-family-says-13571539|british couple jailed in iran end hunger strike after several months family says|c3f8e2af55bebb5031bca4fe3e15f7a2
 2026-08-10T08:46:27.637323+00:00|https://www.bbc.co.uk/news/articles/c62e60m1jygo|risk of patient safety bonfire with health bill changes lib dems say|f3441f53699b2595cfe53f72e618b9f4
+2026-08-10T10:19:02.364936+00:00|https://www.bbc.co.uk/news/articles/c4g4vxjg2yno|record 230 people cross channel in one small boat|0736388d4a5c968197d8a442f77e6194
+2026-08-10T10:19:05.251933+00:00|https://www.bbc.co.uk/news/articles/cy071r4yqjno|migrant hotel resident jailed for sexual assaults on two women|c17cd2d701b6ae48303a93b54cdb0828
+2026-08-10T10:19:08.040410+00:00|https://news.sky.com/story/amazon-founder-bezos-nears-deal-to-buy-stake-in-liverpool-football-club-13571586|amazon founder bezos nears deal to buy stake in liverpool football club|fe524f0d3a5b1a5a84f2f8235c5884ee
