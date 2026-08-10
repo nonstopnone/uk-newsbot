@@ -20698,5 +20698,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1786345126.686701
+  },
+  "c3f8e2af55bebb5031bca4fe3e15f7a2": {
+    "is_relevant": true,
+    "reasoning": "The imprisonment of British citizens abroad and their subsequent treatment is a matter of significant national interest and concerns the safety of UK nationals, falling under notable international news.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1786351581.611424
   }
 }

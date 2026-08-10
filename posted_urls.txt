@@ -1,6 +1,3 @@
-2026-08-03T07:39:01.347819+00:00|https://www.bbc.co.uk/news/articles/cgk4rjz8dxlo|glasgow hailed for saving games as baton passes to amdavad|bd89041aa2792e7895d25d399db06945
-2026-08-03T07:39:03.919815+00:00|https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go|wales first nation to withdraw support for infantino|f33b9bb0cf4f75780044bcec2b088e4d
-2026-08-03T07:39:06.778272+00:00|https://news.sky.com/story/almost-200000-of-fuel-stolen-from-uk-forecourts-every-day-since-start-of-iran-war-13569296|almost £200000 of fuel stolen from uk forecourts every day since start of iran war|7d1ecd3fccdb04d63bd5173595c62b53
 2026-08-03T10:59:13.723974+00:00|https://www.bbc.co.uk/news/articles/cr59qyy4l5yo|reform says it would use navy to stop small boats|07f76e0969bc48e794292628eb31e2ef
 2026-08-03T10:59:16.219591+00:00|https://www.bbc.co.uk/news/articles/c07rv3dlpndo|conservatives call for greater use of facial recognition from police|481e54db8fae9d76d6ad74f16ee8564e
 2026-08-03T10:59:18.801712+00:00|https://news.sky.com/story/woman-who-stole-300k-from-pensioner-before-sky-news-tracked-her-down-in-tenerife-is-jailed-13569324|woman who stole £300k from pensioner before sky news tracked her down in tenerife is jailed|ac9683d736fce0e62fffccda4fcc15c1
@@ -170,3 +167,6 @@
 2026-08-10T06:58:48.047662+00:00|https://www.bbc.co.uk/news/articles/c4gk74vpzxzo|roll on 2027 as fleadh 2026 comes to an end|c170805a0def3efbc1a4910760b77281
 2026-08-10T06:58:50.763023+00:00|https://www.bbc.co.uk/news/articles/c74g8e93m4wo|from aberfan to manchester arena victims face disgraceful fight for help|a7ad77ed50e75efbaa2df374fcdc5a7f
 2026-08-10T06:58:53.246988+00:00|https://news.sky.com/story/thames-water-risks-fresh-storm-over-1m-payment-to-finance-chief-13571530|uks biggest water company risks fresh storm over £1m payment to finance chief|ce79f7d7d1cfba10a005bf62c8a3d577
+2026-08-10T08:46:22.438056+00:00|https://www.bbc.co.uk/news/articles/c70gk2dl5jyo|drought expected to be declared in more parts of england|3c2eabd248b09c01f1e69927109b3aa8
+2026-08-10T08:46:24.892378+00:00|https://news.sky.com/story/british-couple-jailed-in-iran-end-hunger-strike-after-several-months-family-says-13571539|british couple jailed in iran end hunger strike after several months family says|c3f8e2af55bebb5031bca4fe3e15f7a2
+2026-08-10T08:46:27.637323+00:00|https://www.bbc.co.uk/news/articles/c62e60m1jygo|risk of patient safety bonfire with health bill changes lib dems say|f3441f53699b2595cfe53f72e618b9f4
