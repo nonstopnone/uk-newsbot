@@ -21055,5 +21055,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1786439039.859438
+  },
+  "bcdd04ebded9a669a7f9c7c5dcf93f2a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding UK justice policy and the Prime Minister's direct involvement in sentencing outcomes for emergency worker killings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786443097.752614
   }
 }
