@@ -21069,5 +21069,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786446390.39732
+  },
+  "4df78776fee8f30fbaaafded33789e31": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer-interest and lifestyle story about product shortages rather than hard news concerning UK politics, the economy, or significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786449467.87072
+  },
+  "d0e2e2021bcce33a8ef133ecba747cd1": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a police incident involving road closures and security precautions in a UK town, which falls under regional crime and public safety news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786449477.011787
+  },
+  "500454cedccccac91db6bcefda2668e6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal shooting and subsequent murder investigation in London, which constitutes hard crime news of significant public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786449485.392721
+  },
+  "4f39e5bcaa4a2a1bd4bfb0a8a6faec1f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case resulting in a prison sentence within the UK legal system, which is directly relevant to public interest and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786449494.754833
   }
 }
