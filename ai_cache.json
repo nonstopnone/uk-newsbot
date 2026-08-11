@@ -21195,5 +21195,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786466226.595445
+  },
+  "a5c5bbe4564d980ab121271f75fc1289": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving the harassment of a sitting Member of Parliament, which falls under both crime and political security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786473500.035913
+  },
+  "f19ca59def3cf9d52eb4ca34bbc5cbf7": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national and the subsequent opening of a coroner's inquest in the UK involving a suspicious death abroad constitutes significant UK legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786473509.462049
   }
 }
