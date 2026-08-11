@@ -21167,5 +21167,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786459014.287984
+  },
+  "2b05d509ff478c976dc6e7140f45db4c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failure, criminal investigations involving police conduct, and child protection, which is of major public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786462836.788536
+  },
+  "cfbf371467ab9d231384c59796b8b85e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal trial for murder taking place at the Old Bailey, which is a matter of significant public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786462849.810203
+  },
+  "8f874993902dc491e8b8eedb75d7fc67": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a conviction and custodial sentence in a Scottish High Court, which falls under UK legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786462858.913173
   }
 }
