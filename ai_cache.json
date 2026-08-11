@@ -21216,5 +21216,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786477606.334889
+  },
+  "08df846d3abaa1c02fb5d13185ae0777": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a consumer product mishap rather than hard news regarding UK policy, national infrastructure, or major societal events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786485065.135939
+  },
+  "687f35ae5121076ebe2fd4fb2f731798": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report detailing systemic failures within the UK justice and police systems regarding a multiple murderer and serial offender.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786485083.051701
   }
 }
