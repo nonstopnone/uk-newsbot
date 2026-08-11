@@ -21188,5 +21188,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786462858.913173
+  },
+  "dbcfcc5dbd4fba964af7aa8d12373b95": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK court case involving a conviction for grievous bodily harm, which falls under the category of crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786466226.595445
   }
 }
