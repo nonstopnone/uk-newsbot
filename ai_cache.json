@@ -21237,5 +21237,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786488282.704481
+  },
+  "ca471d932adf1e8dee63fd0e1e17c5cf": {
+    "is_relevant": true,
+    "reasoning": "The article discusses major UK political policy regarding prison sentencing and early release, involving the Prime Minister and national police leadership.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786490726.748943
+  },
+  "856b3a8b5a2b9139be943bc1f9a47ee7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy update regarding the management of asylum accommodation in the UK, which is a major area of public interest and government policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1786490737.981579
   }
 }

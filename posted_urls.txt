@@ -1,4 +1,3 @@
-2026-08-04T23:12:05.366296+00:00|https://www.bbc.co.uk/news/articles/cwyr7k4y55vo|woman awarded £20k in indirect sex discrimination case against hotel|5e96abfcecd2e1c7ce713561cbe5af4f
 2026-08-05T00:16:09.563430+00:00|https://www.bbc.co.uk/news/articles/c1w1lvn7d9go|ai used new levels of autonomy and deception to trick people in safety test|32e20e053f1df0cdb9046fd751d6c3d1
 2026-08-05T00:16:12.140367+00:00|https://www.bbc.co.uk/news/articles/c9983lv4dlno|new guidance on singlesex spaces comes into force|4cffe7cda3109420959bb6aba8da58f6
 2026-08-05T03:44:29.611690+00:00|https://news.sky.com/story/uk-experts-sound-alarm-after-ai-caught-trying-to-trick-human-with-malicious-code-13569902|uk experts sound alarm after ai caught trying to trick human with malicious code|bf6650312d39d444cd6f81c50086c131
@@ -189,3 +188,6 @@
 2026-08-11T18:38:32.646463+00:00|https://www.bbc.co.uk/news/articles/cvg8lq0pe74o|man dies after punch from security guard in turkey bar inquest hears|f19ca59def3cf9d52eb4ca34bbc5cbf7
 2026-08-11T20:47:44.151404+00:00|https://www.bbc.co.uk/news/articles/c204d4z1gg8o|wealthy areas must play their part in housing asylum seekers burnham suggests|26713ceb182d79b320d4bff95da66311
 2026-08-11T21:51:23.999846+00:00|https://www.bbc.co.uk/news/articles/czjlwlkw1m4o|woman assaulted by double murderer says nightmare became real life when police let him attack again|687f35ae5121076ebe2fd4fb2f731798
+2026-08-11T23:25:38.948959+00:00|https://www.bbc.co.uk/news/articles/c1m1k4yrn0lo|the papers andy uturns on early release and hunt on for eclipse glasses|ca471d932adf1e8dee63fd0e1e17c5cf
+2026-08-11T23:25:41.589276+00:00|https://www.bbc.co.uk/news/articles/cvgz0pg9d17o|women feel guilt and anger and they want peace the epilepsy drug that harmed babies|696124d5d936b92e4941522177a75bcb
+2026-08-11T23:25:44.143899+00:00|https://news.sky.com/story/more-than-a-dozen-asylum-hotels-closed-see-the-full-list-13572102|a hrefhttpsnewsskycomstorypoliticslatestandyburnhamlabourkemibadenochtoriesnigelfaragereform12593360postid12212103liveblogbodymore than a dozen asylum hotels closed and returned to public use see the full lista|856b3a8b5a2b9139be943bc1f9a47ee7
