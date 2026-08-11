@@ -21034,5 +21034,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786426534.947036
+  },
+  "637651578f07479387936f3d5198a848": {
+    "is_relevant": true,
+    "reasoning": "This is significant health news concerning NHS England's public health progress and a major disease elimination target within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786434991.277908
   }
 }
