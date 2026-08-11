@@ -21209,5 +21209,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786473509.462049
+  },
+  "893ed7be96c39b37a93b92c48b6d9d14": {
+    "is_relevant": false,
+    "reasoning": "This is a local planning application regarding a private residence and does not constitute hard news of national UK significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786477606.334889
   }
 }
