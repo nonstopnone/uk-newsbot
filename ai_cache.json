@@ -21020,5 +21020,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786416835.182452
+  },
+  "ec7914f32d0d6c780ad0d98d2d98e5ea": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a private individual's charity efforts, which does not meet the criteria for hard news relevance regarding UK policy, national security, or significant economic/social impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786426526.570529
+  },
+  "1c0bc5690408cbd05bf5c78f9f04b982": {
+    "is_relevant": true,
+    "reasoning": "This concerns UK government policy regarding prison sentencing and the justice system, which is a matter of significant public interest and political debate.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786426534.947036
   }
 }
