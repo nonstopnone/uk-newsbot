@@ -21097,5 +21097,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786449494.754833
+  },
+  "e8677ded5be14adcce5626774be83ebe": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal shooting and subsequent murder investigation in London, which constitutes significant crime and legal news within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786454597.47786
+  },
+  "64463e535e029b843dd819269c93dafc": {
+    "is_relevant": false,
+    "reasoning": "This is a local planning dispute involving a celebrity's private project, which does not constitute hard news of national significance for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786454608.909311
+  },
+  "93b05f541b30497d949dd310c606f14b": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on a localised public health crisis in Madagascar and does not contain information indicating a material impact on the UK or a direct link to UK public health policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786454618.543222
+  },
+  "e57ad745a0e6fd8a2182f02824f3b87d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development concerning the stability of the Northern Ireland devolved government, which is a matter of critical importance to UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786454636.926114
+  },
+  "5f7f0f4fdc5d07e87b5cc741a8cf1f9d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing in a UK court regarding a violent robbery, which is a matter of public interest and legal record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786454646.6911
+  },
+  "92565fd6267f875a35e727ee20c612e3": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about an athlete's personal employment situation rather than hard news concerning UK politics, economy, or major national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786454660.738257
+  },
+  "a29efd86ffa9e0ee8585ae8f7bdd0d83": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation and legal case involving UK citizens and charges of international drug trafficking, falling under UK legal jurisdiction.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786454671.262231
+  },
+  "010fb88306e6ae5b2f209bc976f47f43": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and astronomy-related human interest story rather than hard news concerning politics, the economy, or significant societal infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786454682.130584
   }
 }
