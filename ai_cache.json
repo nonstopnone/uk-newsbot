@@ -20992,5 +20992,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786402615.307588
+  },
+  "42b4a8ec99e1d937131fbec91c117a4e": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/astronomy guide regarding a natural phenomenon and does not constitute hard news or a matter of significant public policy or national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786416804.52829
+  },
+  "47f57f263f6fd232755cb717e72a86f0": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story about an individual's personal journey with a medical condition, which does not constitute hard news or a matter of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786416813.893868
+  },
+  "d602e41e2897d86c77f2ad1d7f227fa6": {
+    "is_relevant": true,
+    "reasoning": "This is significant health news concerning the NHS and public health in England, which is highly relevant to the UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786416824.604403
+  },
+  "f8e9a810cea4dbfdcfc2c1d202fae57a": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal finance advice piece rather than hard news concerning UK politics, economy, or national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786416835.182452
   }
 }
