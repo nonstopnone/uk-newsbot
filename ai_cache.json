@@ -21230,5 +21230,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786485083.051701
+  },
+  "ec1a20547d54c30108c4fc64f179e3fb": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a motorsport achievement and does not meet the threshold for hard news impacting the UK public, economy, or political landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786488282.704481
   }
 }
