@@ -21153,5 +21153,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786454682.130584
+  },
+  "33c05237f0afcd6ccea2e8b6b9664734": {
+    "is_relevant": false,
+    "reasoning": "This is a review of an arts and entertainment performance at the Edinburgh Fringe, which constitutes lifestyle and culture reporting rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786459001.312939
+  },
+  "2092b6d3f1040f311bdafdf7c28340ce": {
+    "is_relevant": false,
+    "reasoning": "This story pertains to private business competition regarding a sports franchise investment and does not constitute hard news regarding UK governance, security, or major societal impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786459014.287984
   }
 }
