@@ -21062,5 +21062,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786443097.752614
+  },
+  "23cf4139ea47b9244a2f9a0dcd16953f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving major UK infrastructure and public safety that is currently impacting travel and emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786446390.39732
   }
 }

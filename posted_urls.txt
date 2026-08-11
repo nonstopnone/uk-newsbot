@@ -1,6 +1,3 @@
-2026-08-04T10:50:32.499110+00:00|https://www.bbc.co.uk/news/articles/c4gkpeppjyqo|more than 150 migrants rescued after boat catches fire in channel|555116a331507c50cc50853a8da151a0
-2026-08-04T10:50:34.884335+00:00|https://www.bbc.co.uk/news/articles/cly59lwe93po|newspaper columnist and broadcaster rod liddle dies aged 66|d1b6089b0071a6aa02881cd53221bf0e
-2026-08-04T10:50:37.873169+00:00|https://news.sky.com/story/two-more-men-charged-with-plotting-to-murder-54m-securitas-robber-paul-allen-13569627|two more men charged with plotting to murder £54m securitas robber|2bfa16be2de34fd3709b55f10f0481a2
 2026-08-04T15:36:40.122605+00:00|https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o|whats behind having to release some prisoners early|f92027c4342b2565925727908f599c0e
 2026-08-04T15:36:42.543402+00:00|https://www.bbc.co.uk/news/articles/c70g9rw58q2o|ex neonazi activist selected as tory candidate|67006b595835b738bebba42418fb5bab
 2026-08-04T17:22:57.759253+00:00|https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo|afghan boxer arrested in connection with death of scottish woman in greece|b66658be3dc6778507aa04a3ef8d1266
@@ -188,3 +185,4 @@
 2026-08-11T09:04:00.728791+00:00|https://www.bbc.co.uk/news/articles/cdj07nwxv09o|man 29 arrested in police raid over racist trafficcone attack|20aef347730c6d21ee8aad3cb8d08733
 2026-08-11T09:04:03.282311+00:00|https://www.bbc.co.uk/news/articles/cdx7kwkqqkgo|london heathrow no longer europes busiest airport|b56b5048f2f5d175dd9a10e9c203c44c
 2026-08-11T10:11:38.427675+00:00|https://www.bbc.co.uk/news/articles/cy8m1pjg4k3o|call with no 10 gives us hope pc harpers mother says|bcdd04ebded9a669a7f9c7c5dcf93f2a
+2026-08-11T11:06:31.539235+00:00|https://www.bbc.co.uk/news/articles/c171v8lxegjo|smoke from warehouse fire closes section of m25|23cf4139ea47b9244a2f9a0dcd16953f
