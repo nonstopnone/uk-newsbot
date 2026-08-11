@@ -21041,5 +21041,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786434991.277908
+  },
+  "20aef347730c6d21ee8aad3cb8d08733": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a specific arrest related to a racially-aggravated assault during significant public disorder in the UK, which falls under police and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786439030.669994
+  },
+  "b56b5048f2f5d175dd9a10e9c203c44c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the status of critical UK national infrastructure and economic competitiveness, which directly impacts the UK aviation sector and economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786439039.859438
   }
 }

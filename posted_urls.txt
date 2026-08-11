@@ -1,4 +1,3 @@
-2026-08-04T08:09:35.518308+00:00|https://news.sky.com/story/oil-giant-bp-profits-more-than-double-due-to-iran-war-again-13569593|oil giant bp profits more than double due to iran war again|b643839da52f8d0420a5cf4e44d5fc7b
 2026-08-04T10:50:32.499110+00:00|https://www.bbc.co.uk/news/articles/c4gkpeppjyqo|more than 150 migrants rescued after boat catches fire in channel|555116a331507c50cc50853a8da151a0
 2026-08-04T10:50:34.884335+00:00|https://www.bbc.co.uk/news/articles/cly59lwe93po|newspaper columnist and broadcaster rod liddle dies aged 66|d1b6089b0071a6aa02881cd53221bf0e
 2026-08-04T10:50:37.873169+00:00|https://news.sky.com/story/two-more-men-charged-with-plotting-to-murder-54m-securitas-robber-paul-allen-13569627|two more men charged with plotting to murder £54m securitas robber|2bfa16be2de34fd3709b55f10f0481a2
@@ -186,3 +185,5 @@
 2026-08-11T02:53:58.200081+00:00|https://www.bbc.co.uk/news/articles/c75gk620r22o|england set to eliminate hepatitis c|d602e41e2897d86c77f2ad1d7f227fa6
 2026-08-11T05:35:35.589971+00:00|https://www.bbc.co.uk/news/articles/crrv1zlgd9ko|pm asks justice secretary to find way to keep pc harpers killers in jail|1c0bc5690408cbd05bf5c78f9f04b982
 2026-08-11T07:56:32.124644+00:00|https://news.sky.com/story/england-on-the-cusp-of-eliminating-hepatitis-c-health-officials-say-13571822|england on the cusp of eliminating virus that causes serious harm|637651578f07479387936f3d5198a848
+2026-08-11T09:04:00.728791+00:00|https://www.bbc.co.uk/news/articles/cdj07nwxv09o|man 29 arrested in police raid over racist trafficcone attack|20aef347730c6d21ee8aad3cb8d08733
+2026-08-11T09:04:03.282311+00:00|https://www.bbc.co.uk/news/articles/cdx7kwkqqkgo|london heathrow no longer europes busiest airport|b56b5048f2f5d175dd9a10e9c203c44c
