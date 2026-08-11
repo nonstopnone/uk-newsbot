@@ -1,5 +1,3 @@
-2026-08-04T20:44:02.798097+00:00|https://www.bbc.co.uk/news/articles/cy0jy632d2eo|major search under way for boy 13 missing at sea|28a435e63b1f09a52359d9ad69a48f4a
-2026-08-04T20:44:05.663650+00:00|https://www.bbc.co.uk/news/articles/cpq81pxw5gro|princess eugenie gives birth to baby girl in portugal|7b5e05ec8ba4fac9f6bd41302907e167
 2026-08-04T21:59:17.734984+00:00|https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo|dewormer and scabies drugs being sold as cancer treatments bbc investigation finds|c4f5cd8f68cdf41f7cbb914862eb2398
 2026-08-04T21:59:20.632103+00:00|https://www.bbc.co.uk/news/articles/cz7dp559w4no|care company fined for running illegal childrens homes in legal first|a9ef5dff007a23c1b12f488019fee0d1
 2026-08-04T23:12:05.366296+00:00|https://www.bbc.co.uk/news/articles/cwyr7k4y55vo|woman awarded £20k in indirect sex discrimination case against hotel|5e96abfcecd2e1c7ce713561cbe5af4f
@@ -191,3 +189,4 @@
 2026-08-11T17:41:50.424464+00:00|https://www.bbc.co.uk/news/articles/c0jl66j9yjpo|criticism as thousands of seats empty at europeans athletics championships|6a7bb2f88139072e3844228dd1ae698d
 2026-08-11T18:38:30.318222+00:00|https://www.bbc.co.uk/news/articles/cgk40432vv5o|man guilty of harassing mp stella creasy on tube train|a5c5bbe4564d980ab121271f75fc1289
 2026-08-11T18:38:32.646463+00:00|https://www.bbc.co.uk/news/articles/cvg8lq0pe74o|man dies after punch from security guard in turkey bar inquest hears|f19ca59def3cf9d52eb4ca34bbc5cbf7
+2026-08-11T20:47:44.151404+00:00|https://www.bbc.co.uk/news/articles/c204d4z1gg8o|wealthy areas must play their part in housing asylum seekers burnham suggests|26713ceb182d79b320d4bff95da66311
