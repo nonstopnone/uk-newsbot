@@ -21272,5 +21272,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786521209.387061
+  },
+  "070329c6bff4e1945ce6ca1981689e43": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/historical feature story rather than hard news; it describes a historical site revealed by low water levels and does not concern a current major breaking event, policy change, or critical infrastructure crisis.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786525998.703318
   }
 }
