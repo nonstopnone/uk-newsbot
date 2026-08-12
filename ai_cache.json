@@ -21447,5 +21447,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786572221.785799
+  },
+  "9b65acae5b055e7025c18facf4ecbbc7": {
+    "is_relevant": false,
+    "reasoning": "This is a summary of newspaper front pages rather than a report on a hard news event, and the content described is a minor scientific event rather than a significant matter of UK national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786579147.884936
+  },
+  "074da470256914a5d5a9f2d92a7f446e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant education-related event impacting a large number of students in Northern Ireland, falling under the remit of devolved government policy and national infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786579156.813367
+  },
+  "44362f4414e95b33c1e71b533f271fa6": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant sporting achievement by a Great British athlete at a major international championship, which is relevant content for the subreddit.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786579172.523664
   }
 }
