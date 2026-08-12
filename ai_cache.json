@@ -21356,5 +21356,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786554809.2129
+  },
+  "deb20f3bc60afe7e8499ddcebc6592ab": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal shooting and a subsequent murder investigation by the Metropolitan Police in London, which is a matter of serious public interest and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786558146.060529
+  },
+  "e642cf023c9ecbdeff91cb859b3579d0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a fatal shooting in the UK capital, which is a matter of clear public interest and safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786558157.058526
+  },
+  "aa24dd0a5c3938da875e1795d7e244db": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic policy issue concerning UK government immigration strategy and infrastructure, which is a core topic for the subreddit.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1786558165.509682
+  },
+  "f80591a77f59198020da8041713bd1bc": {
+    "is_relevant": true,
+    "reasoning": "This is a serious criminal incident involving a vulnerable victim in the UK, which constitutes hard news regarding crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786558173.930581
   }
 }
