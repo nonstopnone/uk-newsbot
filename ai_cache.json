@@ -21342,5 +21342,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786550713.942527
+  },
+  "cde84a6c7890cf847f3c8bf5a98de55e": {
+    "is_relevant": false,
+    "reasoning": "This is a science/lifestyle event report rather than hard news concerning UK politics, the economy, or significant public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786554796.179428
+  },
+  "541e4f3b9f19375c0a9882d60744374d": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case regarding a fatal dog attack in the UK, which is a matter of public safety and judicial proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786554809.2129
   }
 }
