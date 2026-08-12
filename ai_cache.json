@@ -21314,5 +21314,19 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1786542601.524884
+  },
+  "1bde0dd544ca38d0d9ed228b2224aff9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and environmental news story involving UK public infrastructure, national park management, and health warnings concerning a major UK landmark.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786546759.727153
+  },
+  "2bb1a3d145f485a0b34811dcd9ad4786": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal sentencing involving systemic failures by the Metropolitan Police and the CPS, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786546770.09469
   }
 }
