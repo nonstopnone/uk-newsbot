@@ -21251,5 +21251,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1786490737.981579
+  },
+  "e36b9dbb49f41f5867c53a1c3f95520a": {
+    "is_relevant": true,
+    "reasoning": "This report highlights systemic failures in local government social care provision and significant misuse of taxpayer funds, which is a matter of public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786514508.912765
   }
 }
