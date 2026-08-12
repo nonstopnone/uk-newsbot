@@ -21412,5 +21412,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786562833.792924
+  },
+  "83e5d54fdaf33629217ab95df6191c5f": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle science story about weather conditions and skygazing, which does not constitute hard news regarding UK governance, economy, or critical national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786572178.462209
+  },
+  "034d987249d8c77f70ab0a891e34fc8c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive criminal incident involving a stabbing and police intervention in a major UK city, which falls under the category of public safety and crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786572187.569966
+  },
+  "51305e60cb71036f8fcda9a3313d2da6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant development in UK professional football involving Aston Villa, a Premier League club.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786572198.405291
+  },
+  "c5cb7aacf4a8b23228795d8002928d5c": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a pre-season friendly football match and stadium security protocols, which falls under the category of sports reporting rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786572211.84866
+  },
+  "f364145b84473685bf848b4fbc2cf189": {
+    "is_relevant": false,
+    "reasoning": "This article concerns international sports governance and the leadership of FIFA, which does not constitute hard UK news or a matter materially affecting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786572221.785799
   }
 }
