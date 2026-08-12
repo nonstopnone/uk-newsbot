@@ -21384,5 +21384,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786558173.930581
+  },
+  "5879ce505f2a9ac7717147e88636e4dd": {
+    "is_relevant": true,
+    "reasoning": "The article reports on criminal charges brought against an elected local government official, which constitutes significant UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786562804.371869
+  },
+  "eb106978d18349b418fda0f3917c2660": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/science lifestyle story about a celestial event rather than hard news regarding UK politics, crime, economy, or national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786562812.739883
+  },
+  "891ba7819b74b071d4ad8d63fb59a917": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a competitive pre-season match between two major UK Premier League football clubs.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786562821.848536
+  },
+  "2fc859fe9f425f19315389f929c1c869": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident affecting national infrastructure (the A31) and public safety in a major UK region.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786562833.792924
   }
 }
