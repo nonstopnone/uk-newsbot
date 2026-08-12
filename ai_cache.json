@@ -21279,5 +21279,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786525998.703318
+  },
+  "d7e6ba04907a6cdbceec4830f3c257a6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court verdict involving a murder investigation and organised crime within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786536707.399711
+  },
+  "93f95d0685c148b93f7c02a15704c240": {
+    "is_relevant": true,
+    "reasoning": "This is a serious criminal investigation involving a severe assault on a vulnerable individual in Wales, which is a matter of public interest and UK law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786536717.032276
+  },
+  "b6307ba42efaa6393cd953d3b0e42b4d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and public safety incident involving a police investigation into the abduction of minors.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786536727.847997
   }
 }
