@@ -21328,5 +21328,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786546770.09469
+  },
+  "9d0f92d3213e1ad934223cea372d80af": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal sentencing at the Old Bailey, which is directly relevant to UK justice and crime news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786550703.075399
+  },
+  "d1855b51c341cbec71d05d06bda7e7ff": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a custodial sentence passed at a UK Crown Court for dangerous driving and perverting the course of justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786550713.942527
   }
 }
