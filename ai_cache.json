@@ -21258,5 +21258,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786514508.912765
+  },
+  "d0e0bc1edff73d5ee2d33e82004eaf80": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the systemic failure of a government institution tasked with investigating serious crimes within the British military, which is a matter of clear public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786521198.361878
+  },
+  "84c84f438e6e66c2610b70564e1176da": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal and justice news story concerning a high-profile murder case, an ongoing Parole Board challenge, and a High Court hearing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786521209.387061
   }
 }
