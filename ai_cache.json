@@ -21300,5 +21300,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786536727.847997
+  },
+  "6209eab11705aad50a9c4ebba61cfcbe": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity human interest story concerning private health issues, which does not constitute hard news or have a material impact on UK public policy or national affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786542590.264122
+  },
+  "475ae4c8896d2c69aae62959cbf74e05": {
+    "is_relevant": true,
+    "reasoning": "This is a significant institutional news story concerning academic integrity at a major UK university, which is a matter of substantial public interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786542601.524884
   }
 }
