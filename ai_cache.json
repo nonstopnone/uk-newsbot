@@ -21727,5 +21727,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786649121.161572
+  },
+  "6e2da29deb8a5f087aa11fd663b7103c": {
+    "is_relevant": true,
+    "reasoning": "This is relevant to the UK economy and social welfare as it highlights a direct impact on the livelihoods of vulnerable individuals across the country during extreme weather events.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786655046.656206
   }
 }
