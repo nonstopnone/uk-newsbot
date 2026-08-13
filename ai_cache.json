@@ -21475,5 +21475,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786588649.886269
+  },
+  "f7245f18c25db98bb373c3c9a480f279": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/consumer advice article regarding gift recommendations for students, which does not constitute hard news or a matter of public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786600968.45005
   }
 }
