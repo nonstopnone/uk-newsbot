@@ -21671,5 +21671,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786633726.649558
+  },
+  "833ae6b11717af8bd4c1caa9ab435354": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK housing statistics and government policy regarding homelessness, which is a major domestic issue.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786637417.957432
+  },
+  "6e27eea00cf8e1b6f1c35eecf0e983b8": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused human interest/lifestyle story regarding a private accident abroad, which does not constitute hard news or a matter of public interest for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786637426.015335
+  },
+  "a26a22f32657d5b20baa2a62e6f74dc1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and judicial proceedings in the UK court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786637435.666168
+  },
+  "785f8aaa80e10e29c3eb66ea4d7b6a53": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal proceeding involving a high-profile retrial and guilty plea in a Belfast High Court case.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786637445.642047
   }
 }
