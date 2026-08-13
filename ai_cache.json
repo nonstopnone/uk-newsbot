@@ -21713,5 +21713,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786641268.239105
+  },
+  "3027afb6576098be9e9ffc6f110d1228": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime and subsequent police investigation in the UK, which is directly relevant to public safety and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786649111.498163
+  },
+  "d575c5870a15344f3b1104a2fcbd1fb9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation involving an alleged assault and the subsequent death of a vulnerable individual in Wales, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786649121.161572
   }
 }
