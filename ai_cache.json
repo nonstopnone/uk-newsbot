@@ -21545,5 +21545,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786612485.691336
+  },
+  "4ad31d911026a1618ce119a6514bd5e1": {
+    "is_relevant": true,
+    "reasoning": "This concerns the operational failures of the Metropolitan Police and high-level accountability regarding serious criminal investigations, which is of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786620567.278544
+  },
+  "4b5595018a5d7d885fc29d4d4c135468": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on an outbreak of bird flu affecting Australian wildlife and does not discuss any impact on the UK or UK-related health policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786620577.214095
+  },
+  "74d2da44e57d3d17c42aa6785fccdc52": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal trial, sentencing, and manslaughter conviction occurring within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786620588.340937
+  },
+  "4d11a84569e7d269225b42d06e5f5844": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the UK criminal justice system, sentencing policy, and a high-profile violent crime in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786620599.679043
+  },
+  "61ed9b7e8b3290b6e44c29a6d3afcd42": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the accountability of a devolved health board and involves public health, legal oversight, and a high-profile patient safety scandal in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786620614.666159
+  },
+  "c4f6a0c7327713a61cfe56c46b1a6b3f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and agricultural issue affecting UK food security and farming regulations, which is classified as notable news for the devolved government and national interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786620622.790922
   }
 }
