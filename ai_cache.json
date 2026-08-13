@@ -21468,5 +21468,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786579172.523664
+  },
+  "7492fdd090e1340becb3d6e11afb00cb": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle piece about an acting duo's friendship and career history, which does not constitute hard news or meet the criteria for relevance to UK politics, economy, or major public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786588649.886269
   }
 }
