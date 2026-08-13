@@ -1,4 +1,3 @@
-2026-08-06T13:21:28.100020+00:00|https://www.bbc.co.uk/news/articles/cx2md6g7027o|woman charged after four stabbed near covent garden|8c08969bbd5ce87d1351878ce57067ab
 2026-08-07T00:41:50.020815+00:00|https://www.bbc.co.uk/news/articles/c74g1gxvwlvo|further arrests in thetford as disorder continues for third night|b65871349cf381934b50fb2a5799fdfc
 2026-08-07T00:41:52.825224+00:00|https://www.bbc.co.uk/news/articles/cyvlgv8m382o|uk papers tories to end social housing for foreigners and bottoms down|f6e5d32a9640d77835fea11d48ff657a
 2026-08-07T03:40:03.890702+00:00|https://www.bbc.co.uk/news/articles/cj63we48313o|four men arrested after violent disorder near pontypool police say|4496de5bc37d43e92920010a078ab63a
@@ -199,3 +198,6 @@
 2026-08-13T12:27:58.561639+00:00|https://www.bbc.co.uk/news/articles/czxq2q0d2w1o|binning batteries can start fires and put lives at risk says union boss|3e440c36386f18e35f8260983b82b26a
 2026-08-13T12:28:00.906946+00:00|https://www.bbc.co.uk/news/articles/crrvp45gxzpo|heatwaves drive ae attendances up to record high|3a0f85823cf88e7c96a3498d38ef37c0
 2026-08-13T12:28:03.614462+00:00|https://www.telegraph.co.uk/business/2026/08/13/uk-economy-andy-burnham-growth-gdp-ftse-100-markets|more pain to come after economic slowdown|bcb8425f774f8abfd0ad1236d074374a
+2026-08-13T14:01:01.693271+00:00|https://www.bbc.co.uk/news/articles/cd69p89gl6xo|harvey nichols bought by owner of sports direct|206af1dbcbd620d3e554903c8a72ed24
+2026-08-13T14:01:04.264250+00:00|https://news.sky.com/story/102-year-old-man-dies-after-alleged-assault-at-pub-13572598|102yearold man dies after alleged assault at pub|65401eabbc3bd6d6a03f876959d35db1
+2026-08-13T14:01:06.694798+00:00|https://www.bbc.co.uk/news/articles/c74grygm2neo|man dies days after explosion at bungalow|f3e6d672c759caf422c6b9f7764a256f

@@ -21615,5 +21615,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786624077.591404
+  },
+  "35f711e0b3f7174bed2935e581395e75": {
+    "is_relevant": false,
+    "reasoning": "This is a health-related lifestyle/public information story rather than hard news, and it refers to an event from the past.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786629608.943414
+  },
+  "206af1dbcbd620d3e554903c8a72ed24": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate acquisition of a major UK retail institution affecting hundreds of jobs and national high-street infrastructure.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786629634.31835
+  },
+  "65401eabbc3bd6d6a03f876959d35db1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a fatality in the UK that is subject to an active police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786629646.366783
+  },
+  "f3e6d672c759caf422c6b9f7764a256f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, verified UK crime and public safety incident involving a death and an active police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786629659.320881
   }
 }
