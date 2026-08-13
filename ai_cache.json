@@ -21524,5 +21524,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786607685.307652
+  },
+  "0181429ed94a89406361e283b8b3ccc8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on domestic crime, policing, and public order involving immigration-related tensions in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786612465.049547
+  },
+  "5c7816f6b9b7bc8b9613e2e99a79378d": {
+    "is_relevant": true,
+    "reasoning": "The report concerns pay disputes within the Ministry of Defence civilian workforce, which directly relates to UK government policy, national security preparedness, and public sector industrial relations.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786612474.937277
+  },
+  "28cf4813773c50db78b85256e1097522": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest piece about an individual's personal experience with social media, which does not constitute hard news or a matter of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786612485.691336
   }
 }
