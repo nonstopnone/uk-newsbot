@@ -21643,5 +21643,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786629659.320881
+  },
+  "83c7259b17b7b9bde8d3b9ebc8bb1eb3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal sentencing involving the deaths of two UK citizens and court proceedings at Oxford Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786633648.609165
+  },
+  "1c5161234adcf4e0c2b47037515dc436": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatality and an active police investigation in the UK, which qualifies as hard news under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786633655.945576
+  },
+  "1bb64f2dab5334ed86b5158e0eb07f56": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal proceeding involving a serious crime in Northern Ireland, falling under the jurisdiction of the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786633669.094035
+  },
+  "aed2ebc267c5897836bc53d5de188820": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal trial taking place in a UK court regarding a fatal dog attack, which falls under UK crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786633726.649558
   }
 }
