@@ -21587,5 +21587,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786620622.790922
+  },
+  "3a0f85823cf88e7c96a3498d38ef37c0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the performance and pressures facing the NHS, which is a core topic of public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786624043.219053
+  },
+  "356537f9be69461ab0fe671c635b78fd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and agricultural issue affecting UK livestock and rural industry, with direct involvement from the Department for Environment, Food and Rural Affairs.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786624058.590989
+  },
+  "bfeea3c849f6b91b69b495dedd8b094b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and legal matter involving the UK military, the enforcement of international sanctions, and a direct diplomatic confrontation with Russia.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786624069.488037
+  },
+  "7af2e6b4e5dcc73e97abbed87f6bcd97": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant criminal conviction at a UK Crown Court involving a murder trial, which is highly relevant to UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786624077.591404
   }
 }

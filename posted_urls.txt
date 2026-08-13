@@ -1,6 +1,3 @@
-2026-08-06T11:41:28.362133+00:00|https://www.bbc.co.uk/news/articles/c8jnwennnkdo|farmer jailed for lodgers body in barrel murder|bf3f274b569bfc43c38ecd6b2851131f
-2026-08-06T11:41:31.151295+00:00|https://www.bbc.co.uk/news/articles/cy07pd7qe2ro|meredith kerchers sister criticises amanda knoxs edinburgh comedy show|6d26724b6db426f3f48f669ea04fe2b6
-2026-08-06T11:41:33.578627+00:00|https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253|boxer accused of killing uk aid worker and putting body in suitcase back in court|ada1b3157e5f27d0b0d3b1a73c16fcad
 2026-08-06T13:21:28.100020+00:00|https://www.bbc.co.uk/news/articles/cx2md6g7027o|woman charged after four stabbed near covent garden|8c08969bbd5ce87d1351878ce57067ab
 2026-08-07T00:41:50.020815+00:00|https://www.bbc.co.uk/news/articles/c74g1gxvwlvo|further arrests in thetford as disorder continues for third night|b65871349cf381934b50fb2a5799fdfc
 2026-08-07T00:41:52.825224+00:00|https://www.bbc.co.uk/news/articles/cyvlgv8m382o|uk papers tories to end social housing for foreigners and bottoms down|f6e5d32a9640d77835fea11d48ff657a
@@ -199,3 +196,6 @@
 2026-08-13T11:30:24.465335+00:00|https://www.bbc.co.uk/news/articles/cp30pppgxyeo|met chief accepts mistakes made over simon levy but defends investigation into murders|4ad31d911026a1618ce119a6514bd5e1
 2026-08-13T11:30:26.792587+00:00|https://www.bbc.co.uk/news/articles/c1l121j7yzdo|man jailed over onepunch death after pub row|74d2da44e57d3d17c42aa6785fccdc52
 2026-08-13T11:30:29.157531+00:00|https://news.sky.com/story/deadly-bluetongue-detected-on-second-farm-in-britain-as-three-more-suspected-cases-investigated-13572505|deadly bluetongue disease detected on second farm in scotland|c4f6a0c7327713a61cfe56c46b1a6b3f
+2026-08-13T12:27:58.561639+00:00|https://www.bbc.co.uk/news/articles/czxq2q0d2w1o|binning batteries can start fires and put lives at risk says union boss|3e440c36386f18e35f8260983b82b26a
+2026-08-13T12:28:00.906946+00:00|https://www.bbc.co.uk/news/articles/crrvp45gxzpo|heatwaves drive ae attendances up to record high|3a0f85823cf88e7c96a3498d38ef37c0
+2026-08-13T12:28:03.614462+00:00|https://www.telegraph.co.uk/business/2026/08/13/uk-economy-andy-burnham-growth-gdp-ftse-100-markets|more pain to come after economic slowdown|bcb8425f774f8abfd0ad1236d074374a
