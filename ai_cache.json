@@ -21734,5 +21734,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1786655046.656206
+  },
+  "4c52e70b1d78bdcc133659c51ba1e84a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns local government infrastructure and the political recruitment process within Northern Ireland, which directly impacts UK regional governance and public administration.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786662235.185478
+  },
+  "b7675149a5dfbde932052d18269953af": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on major emergency incidents and property destruction across multiple UK regions during a record-breaking weather event.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786662246.696599
   }
 }
