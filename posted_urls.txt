@@ -1,5 +1,3 @@
-2026-08-06T03:39:05.959898+00:00|https://www.bbc.co.uk/news/articles/cvg8kd9q1plo|man extradited to uk and charged over alleged hitandrun death of keaton slater|97e22696fd6ab7dece50e0c4c69dbc2c
-2026-08-06T03:39:08.436355+00:00|https://www.bbc.co.uk/news/articles/c4gkezxzz7xo|uk papers plagiarism row professor resigns and west end stab rampage|4127a1f408641547d54acc359fba744b
 2026-08-06T06:16:03.234916+00:00|https://www.bbc.co.uk/news/articles/cj639rx147eo|car washes and vape shops can still sponsor skilled foreign workers despite visa changes|be48e554595695f69b27a4960d9f7923
 2026-08-06T06:16:05.535846+00:00|https://www.bbc.co.uk/news/articles/c3w07p7wqv1o|young women tell bbc of rape assault and harassment at army training college for teenagers|745a466c4b973461e07802b32b429588
 2026-08-06T09:22:58.436965+00:00|https://www.bbc.co.uk/news/articles/cj6390k0e26o|afghan boxer accused of killing scottish aid worker back in court|5d60b3ebb61a54a089cae2e6afdabb39
@@ -194,3 +192,4 @@
 2026-08-12T23:59:35.369122+00:00|https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go|gbs hudsonsmith wins historic 400m gold on home track|a1808e2f2366270e1ed25730e92fd9e3
 2026-08-13T02:37:33.444550+00:00|https://www.bbc.co.uk/news/articles/crl711557e6o|leading doctor rebukes nhs chiefs over transplants|c59db7bdacc9c8b4cea380060c442efe
 2026-08-13T02:37:36.099272+00:00|https://www.bbc.co.uk/news/articles/ckgdp4923rdo|onceinageneration solar eclipse wows millions in uk and europe|c75aefef8177143e93b5c819de501a89
+2026-08-13T04:30:15.004365+00:00|https://www.bbc.co.uk/weather/articles/ce85pj0e20po|temperatures to soar to 38c as amber extreme heat warning comes into force|c7f76978f916f6b55b191b5672b96534
