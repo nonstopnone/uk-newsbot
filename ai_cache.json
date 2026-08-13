@@ -21699,5 +21699,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786637445.642047
+  },
+  "462cca23fd6a99be584ac11bb6cb7dde": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a criminal court case involving a high-profile figure in the UK, which falls under the category of serious legal and public interest news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786641258.292977
+  },
+  "7df4ce39557688ff95fcb7cb51500ee1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing police investigation involving the discovery of human remains in a residential UK area.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786641268.239105
   }
 }
