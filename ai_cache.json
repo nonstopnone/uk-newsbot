@@ -21482,5 +21482,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786600968.45005
+  },
+  "4a4aed67c25ea0f4a985ca5c9ceefd04": {
+    "is_relevant": false,
+    "reasoning": "This article is a consumer-focused 'how-to' guide for students rather than hard news regarding UK policy, economy, or governance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786607631.606953
+  },
+  "8fde2e39c6f76dc616ec3d6bcbeaf668": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving the destruction of homes and emergency evacuation in Wales, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786607641.635241
+  },
+  "af11bbb32708997d9980762770ce118d": {
+    "is_relevant": false,
+    "reasoning": "The article describes a report on a football friendly exhibition match involving pitch invaders, which is considered sports-related fluff rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786607651.923465
+  },
+  "fd8026b0064a529950061094d6581acd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK parliamentary election event, which falls directly under domestic politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786607667.212285
+  },
+  "85b948e9b40510ec1d0febeadf619cfa": {
+    "is_relevant": true,
+    "reasoning": "The article reports on UK economic performance and GDP growth, which is a core topic for the economy category.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786607676.836461
+  },
+  "b04cd10ae5d50a28a6de3d658e3ef6ff": {
+    "is_relevant": true,
+    "reasoning": "This report concerns government infrastructure spending, compulsory purchase orders, and public policy decisions affecting UK citizens and taxpayers, which falls under UK politics and infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786607685.307652
   }
 }

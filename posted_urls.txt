@@ -1,5 +1,3 @@
-2026-08-06T06:16:03.234916+00:00|https://www.bbc.co.uk/news/articles/cj639rx147eo|car washes and vape shops can still sponsor skilled foreign workers despite visa changes|be48e554595695f69b27a4960d9f7923
-2026-08-06T06:16:05.535846+00:00|https://www.bbc.co.uk/news/articles/c3w07p7wqv1o|young women tell bbc of rape assault and harassment at army training college for teenagers|745a466c4b973461e07802b32b429588
 2026-08-06T09:22:58.436965+00:00|https://www.bbc.co.uk/news/articles/cj6390k0e26o|afghan boxer accused of killing scottish aid worker back in court|5d60b3ebb61a54a089cae2e6afdabb39
 2026-08-06T09:23:01.101230+00:00|https://www.bbc.co.uk/news/articles/c4gv45w4j8eo|raleigh owner starts insolvency proceedings|fb710d5464409fff2b1d98f29b1c07cb
 2026-08-06T11:41:28.362133+00:00|https://www.bbc.co.uk/news/articles/c8jnwennnkdo|farmer jailed for lodgers body in barrel murder|bf3f274b569bfc43c38ecd6b2851131f
@@ -194,3 +192,6 @@
 2026-08-13T02:37:36.099272+00:00|https://www.bbc.co.uk/news/articles/ckgdp4923rdo|onceinageneration solar eclipse wows millions in uk and europe|c75aefef8177143e93b5c819de501a89
 2026-08-13T04:30:15.004365+00:00|https://www.bbc.co.uk/weather/articles/ce85pj0e20po|temperatures to soar to 38c as amber extreme heat warning comes into force|c7f76978f916f6b55b191b5672b96534
 2026-08-13T06:02:49.693601+00:00|https://www.bbc.co.uk/news/articles/cx2j1peddwgo|the papers the sun the moon and the greatest show on earth|9b65acae5b055e7025c18facf4ecbbc7
+2026-08-13T07:54:46.073806+00:00|https://www.bbc.co.uk/news/articles/c3d32np89z4o|streets evacuated after massive fire destroys homes|8fde2e39c6f76dc616ec3d6bcbeaf668
+2026-08-13T07:54:48.943087+00:00|https://www.bbc.co.uk/news/articles/cp308xpwv34o|polls open in clacton byelection|fd8026b0064a529950061094d6581acd
+2026-08-13T07:54:51.619067+00:00|https://news.sky.com/story/gdp-uk-growth-slows-but-economy-resilient-despite-iran-war-latest-data-says-13572451|uk growth slows but economy resilient despite iran war|85b948e9b40510ec1d0febeadf619cfa
