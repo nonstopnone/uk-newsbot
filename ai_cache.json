@@ -21916,5 +21916,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786725261.494294
+  },
+  "7cdddcd117b02d0d693121762ab0c31e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant breaking news incident involving a fatal aircraft crash within the UK requiring emergency services and an AAIB investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786729136.3715
+  },
+  "d04fb545275d117b6381646b6ae62563": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the management of public funds and diplomatic policy regarding civil servant allowances, which is a matter of direct UK government administration and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786729148.241402
+  },
+  "474e95538ce17462e246b42916d55e1f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and governance issue involving a Minister of the Northern Ireland Executive and a major industry body, impacting devolved government policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786729156.527296
   }
 }
