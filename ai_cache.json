@@ -21790,5 +21790,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786687258.094598
+  },
+  "b03b7d085ac0d8cd21f9cd331cf61811": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle piece regarding a local memorial for a celebrity, which does not constitute hard news or meet the criteria for political, economic, or major national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786693867.304488
+  },
+  "978e67efcb2c2224c0e4ae2986abf8a2": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/arts piece regarding a film adaptation and festival premiere, which constitutes fluff rather than hard news as defined by the subreddit criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786693881.609501
   }
 }
