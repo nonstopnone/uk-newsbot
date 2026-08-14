@@ -21951,5 +21951,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786732453.069072
+  },
+  "33cb598956d0fb8a10ce720a6ff23f45": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public transport incident causing major travel disruption for UK commuters.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786736269.686563
+  },
+  "3362e9d9372946dfc8c4962b338db35f": {
+    "is_relevant": true,
+    "reasoning": "The death of a high-profile academic figure at a major UK institution is a matter of significant public and media interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786736303.957239
+  },
+  "b04cc85b47a853f22fdecc6a164bf011": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving an abduction and multiple arrests in Scotland, which constitutes hard news regarding crime and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786736321.680785
   }
 }

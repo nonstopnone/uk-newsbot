@@ -1,5 +1,3 @@
-2026-08-07T19:15:54.594452+00:00|https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo|obesity rates have doubled in england since 1993 whats going on|5fa57d2d4e69ca84d9bf9e65055f2b52
-2026-08-07T19:15:56.981556+00:00|https://news.sky.com/story/man-admits-hiding-fatal-arson-attack-suspect-body-in-bin-in-liverpool-13570722|man admits hiding fatal arson attack suspects body in bin|b6c2ca974eaafdf22f058b37d5dae506
 2026-08-07T20:59:24.301364+00:00|https://www.bbc.co.uk/news/articles/c62qrvd9303o|counterterror police reopen attempted burglary probe as part of widdecombe inquiry|5f11ddac6f9dffbdc20da7b1b7f7ddad
 2026-08-07T21:49:37.969070+00:00|https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo|police failings revealed as sex offender left free to murder and attack women|bd5afb84c339f1fb1948ddae35a16216
 2026-08-07T21:49:40.475666+00:00|https://news.sky.com/story/andrew-flintoff-steps-down-from-job-as-england-lions-head-coach-13570805|andrew flintoff leaves job as england lions head coach|716bcea228e8c724bacd8df93597fef8
@@ -216,3 +214,6 @@
 2026-08-14T17:39:21.397192+00:00|https://www.bbc.co.uk/news/articles/cly5p995ykko|uk diplomats no longer get hardship bonus for being posted to buenos aires|d04fb545275d117b6381646b6ae62563
 2026-08-14T18:34:14.712598+00:00|https://www.bbc.co.uk/news/articles/cjwxg6jwv77o|weekend cancellations after east sussex train derailment|9e7e28d0fe336b6ee599432f35b213e5
 2026-08-14T18:34:17.245098+00:00|https://www.bbc.co.uk/news/articles/c7vgymz71l4o|stephen bear jailed over sex offender breaches|874a71302d1619d882eabcd90026da65
+2026-08-14T19:38:43.763500+00:00|https://www.bbc.co.uk/news/articles/cq561qvg7qgo|derailed essex train leads to travel chaos|33cb598956d0fb8a10ce720a6ff23f45
+2026-08-14T19:38:46.251179+00:00|https://news.sky.com/story/jason-arday-former-cambridge-university-professor-found-dead-after-resigning-following-plagiarism-row-13573124|former cambridge university professor found dead after resigning following plagiarism row|3362e9d9372946dfc8c4962b338db35f
+2026-08-14T19:38:48.871137+00:00|https://www.bbc.co.uk/news/articles/cx2dkpwgygno|six people arrested after man abducted in edinburgh|b04cc85b47a853f22fdecc6a164bf011
