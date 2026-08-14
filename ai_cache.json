@@ -21804,5 +21804,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786693881.609501
+  },
+  "b2253b7146534a0dbdb86024dad6a0a7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving a conviction and sentencing in the Scottish High Court, which falls under UK legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786698564.252722
+  },
+  "34892566318dacfa9dd8f4dd859b4a67": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle piece regarding a celebrity obituary, which does not constitute hard news relevant to UK governance, policy, or major national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786698573.291128
   }
 }

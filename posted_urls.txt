@@ -1,5 +1,3 @@
-2026-08-07T08:15:55.710690+00:00|https://www.bbc.co.uk/news/articles/cd69x9j46xjo|conservatives pledge to ban foreign nationals from social housing|46140efc309dd6e298d647815dd65760
-2026-08-07T08:15:58.245491+00:00|https://news.sky.com/story/four-arrested-and-two-in-critical-condition-after-violent-clashes-in-south-wales-13570573|four arrested and two in critical condition after violent clashes in south wales|551634537a5ca6011bb8afdec04f04ab
 2026-08-07T09:33:15.891960+00:00|https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo|england footballer toney charged with assault in soho|8348e672ad30b1f69c26eba2f7953fbd
 2026-08-07T09:33:18.438572+00:00|https://www.bbc.co.uk/news/articles/cj031plqrvqo|fleadh to exceed projected £53m economic boost to belfast|bc754d801e6f2c669f0491a244f3b672
 2026-08-07T10:34:45.961878+00:00|https://www.bbc.co.uk/news/articles/cvg8n70jp2jo|nhs tayside investigates data breach into minnie merriman medical records|d74b10cf163717e7fb5b94a880056414
@@ -216,3 +214,4 @@
 2026-08-14T06:01:01.534106+00:00|https://www.bbc.co.uk/news/articles/cvgwz9delwwo|farages byelection victory wont stop questions about finances|c2f1108c85aa92a94b1437cef1027494
 2026-08-14T07:51:22.119685+00:00|https://www.bbc.co.uk/news/articles/cn5np57z30po|law society president supports chief after character reference for paedophile|13bb4dc451da7155b49a9e630434ee1e
 2026-08-14T07:51:24.672967+00:00|https://www.bbc.co.uk/news/articles/clyj92j210do|nhs service admits data breach due to pager use|9777f24bf5a40d82bc6e2e2cd953bc49
+2026-08-14T09:09:34.203579+00:00|https://www.bbc.co.uk/news/articles/c62918ddg3lo|mother jailed for killing baby by burning her with a hairdryer|b2253b7146534a0dbdb86024dad6a0a7
