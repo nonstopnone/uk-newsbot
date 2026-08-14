@@ -21853,5 +21853,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786702673.766714
+  },
+  "6e7ee4c24d01082ac0f943c9422e0d02": {
+    "is_relevant": true,
+    "reasoning": "This is a significant piece of UK political and legislative news involving a proposed bill in the House of Commons and the stance of the Prime Minister.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786709365.817194
   }
 }
