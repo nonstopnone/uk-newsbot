@@ -1,5 +1,3 @@
-2026-08-07T05:24:56.946832+00:00|https://www.bbc.co.uk/news/articles/c235e5x9r4do|family shocked after review of bloodbath sibling deaths finds no new evidence|a2c2295dd94f4ecb067d7b01dd2bad0d
-2026-08-07T05:24:59.636436+00:00|https://www.bbc.co.uk/news/articles/c9q9erpz953o|officer who led pc harper investigation appalled killers could be released early|22c6cbc723f1d4b6f5d7b92917a1b701
 2026-08-07T06:47:57.024175+00:00|https://www.bbc.co.uk/news/articles/c3r075jpyx1o|judge allows lockerbie suspects alleged confession to be used at us trial|1dc255c808a82180baef5104cc8b9e55
 2026-08-07T08:15:55.710690+00:00|https://www.bbc.co.uk/news/articles/cd69x9j46xjo|conservatives pledge to ban foreign nationals from social housing|46140efc309dd6e298d647815dd65760
 2026-08-07T08:15:58.245491+00:00|https://news.sky.com/story/four-arrested-and-two-in-critical-condition-after-violent-clashes-in-south-wales-13570573|four arrested and two in critical condition after violent clashes in south wales|551634537a5ca6011bb8afdec04f04ab
@@ -215,3 +213,5 @@
 2026-08-14T00:00:25.395157+00:00|https://www.bbc.co.uk/news/articles/cgq5pd3pwdjo|victims call for sex attackers to be excluded from early release plans|8cd97e85e95122f1a35cf4714c15c6f6
 2026-08-14T02:36:44.043464+00:00|https://www.bbc.co.uk/news/articles/c0m7yz0w7rko|the papers houses burn and train derails on hottest day and britain on fire|949dcb480e5cce1b11d3f762de2f5611
 2026-08-14T02:36:46.553441+00:00|https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo|final day of heatwave for many before weekend cooldown|62ff324b6a8b250493aed4d92b80534f
+2026-08-14T06:00:59.103899+00:00|https://www.bbc.co.uk/news/articles/ce97mm3vvemo|count binface scores best ever byelection result in clacton|e8ce714326e30accd269cc153535448a
+2026-08-14T06:01:01.534106+00:00|https://www.bbc.co.uk/news/articles/cvgwz9delwwo|farages byelection victory wont stop questions about finances|c2f1108c85aa92a94b1437cef1027494

@@ -21783,5 +21783,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786675002.81175
+  },
+  "13bb4dc451da7155b49a9e630434ee1e": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of significant public interest regarding the professional conduct of the head of a major legal body in Northern Ireland and has clear implications for the justice sector.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786687258.094598
   }
 }
