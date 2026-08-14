@@ -21909,5 +21909,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786721679.977044
+  },
+  "27a55f1701c81e781736ae226b2e283c": {
+    "is_relevant": true,
+    "reasoning": "This concerns a major commercial development involving a top-tier UK football club and significant foreign investment, which is of substantial interest to the UK sporting and business sectors.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786725261.494294
   }
 }
