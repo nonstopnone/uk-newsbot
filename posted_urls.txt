@@ -217,3 +217,6 @@
 2026-08-14T19:38:43.763500+00:00|https://www.bbc.co.uk/news/articles/cq561qvg7qgo|derailed essex train leads to travel chaos|33cb598956d0fb8a10ce720a6ff23f45
 2026-08-14T19:38:46.251179+00:00|https://news.sky.com/story/jason-arday-former-cambridge-university-professor-found-dead-after-resigning-following-plagiarism-row-13573124|former cambridge university professor found dead after resigning following plagiarism row|3362e9d9372946dfc8c4962b338db35f
 2026-08-14T19:38:48.871137+00:00|https://www.bbc.co.uk/news/articles/cx2dkpwgygno|six people arrested after man abducted in edinburgh|b04cc85b47a853f22fdecc6a164bf011
+2026-08-14T20:15:56.506554+00:00|https://www.bbc.co.uk/news/articles/c1j1ye6n30no|excambridge professor at centre of plagiarism row found dead|aeb42a4da42707caaf822c61429dfb3f
+2026-08-14T20:15:59.339152+00:00|https://news.sky.com/story/british-cyclist-finlay-tarling-19-dies-in-serious-incident-in-volta-a-portugal-race-13573071|british cyclist 19 dies in serious incident in volta a portugal race|1c1588c50c61a4f9c0f1b72b63b14cde
+2026-08-14T20:16:01.783980+00:00|https://www.bbc.co.uk/news/articles/cdj0pv2m812o|days of the farmers union dictating policy are over muir|474e95538ce17462e246b42916d55e1f

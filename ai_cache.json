@@ -21972,5 +21972,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786736321.680785
+  },
+  "aeb42a4da42707caaf822c61429dfb3f": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent UK academic figure, especially one currently subject to significant public interest regarding a resignation and plagiarism investigation, constitutes notable UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786738545.637227
+  },
+  "1c1588c50c61a4f9c0f1b72b63b14cde": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national representing the UK in an international sporting event is a significant news item of public interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786738555.498855
   }
 }
