@@ -21986,5 +21986,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786738555.498855
+  },
+  "8580937bc5125eb0521597b3669afd99": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant industrial dispute affecting NHS health services and child welfare in a devolved nation, which is a matter of clear public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786746321.097422
   }
 }
