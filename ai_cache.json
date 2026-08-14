@@ -21937,5 +21937,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786729156.527296
+  },
+  "9e7e28d0fe336b6ee599432f35b213e5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public safety incident involving mass transport in the UK, resulting in injuries and major service disruption.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786732442.573815
+  },
+  "874a71302d1619d882eabcd90026da65": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal conviction and custodial sentence handed down by a UK court, which falls under domestic crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786732453.069072
   }
 }
