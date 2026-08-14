@@ -21748,5 +21748,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786662246.696599
+  },
+  "dd0c76c8624d761d7f6b45f315e35ea5": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/utility article about recycling consumer goods and does not constitute hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786665586.299809
+  },
+  "5cfc316d0bf2cc944f0f54a81577e9ff": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice/personal finance article focused on lifestyle tips rather than hard news, and it contains factual inaccuracies regarding political titles.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786665599.747042
+  },
+  "9c1530b85d7633ae6d6e3b0f9dd6a3f4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports achievement by a British athlete at a major international championship, which falls under the category of UK Sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786665609.806704
+  },
+  "8b441a052e3273755293f40ee7161806": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story concerning a noise complaint and does not constitute hard news or a matter of national significance for a UK-wide audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786665622.10813
   }
 }
