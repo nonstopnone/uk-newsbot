@@ -21902,5 +21902,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786715079.515427
+  },
+  "8f7ae41c4521093bf01dd74e6850f6cb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal case involving a fatal incident and the regulation of dog breeds, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786721679.977044
   }
 }
