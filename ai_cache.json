@@ -21776,5 +21776,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786665622.10813
+  },
+  "949dcb480e5cce1b11d3f762de2f5611": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant domestic emergencies including widespread fires and a rail derailment across the UK, which are matters of major public interest and safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786675002.81175
   }
 }
