@@ -216,3 +216,5 @@
 2026-08-14T13:44:42.793278+00:00|https://www.bbc.co.uk/news/articles/c3v0yz9k250o|prisoners charged over attack on sara sharifs father|475e7093464dc137805f4d579fc6f4da
 2026-08-14T13:44:45.319201+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/londons-fire-control-centre-on-the-hottest-day-of-the-year|wildfire watch inside londons fire control centre on the hottest day of the year|5a60a6d1c7ed7d8eb9e6ba39f70555f0
 2026-08-14T13:44:47.875781+00:00|https://news.sky.com/story/potentially-deadly-bluetongue-detected-on-third-farm-in-scotland-13572948|potentially deadly bluetongue hits third farm in scotland|b540fd2804b7b10c523ce33223d7a0fd
+2026-08-14T14:41:19.957713+00:00|https://www.bbc.co.uk/news/articles/cp8xr2n9560o|what we know so far about the west midlands fires|1645fe0757fc541c6fa70e3a07d05abd
+2026-08-14T14:41:22.554885+00:00|https://www.bbc.co.uk/news/articles/c5y4z0perlno|one million sign petition to keep pc harpers killers in jail|025d50990e1dda18e7fab7d2ac6b7c04
