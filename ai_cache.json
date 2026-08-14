@@ -21818,5 +21818,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786698573.291128
+  },
+  "f3790abc829aa53cf1beeb9245e72e01": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing at a UK magistrates court involving serious animal welfare offences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786702625.67629
+  },
+  "fc79b04760054f29f94ba149e16a3af4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a high-profile murder case and the first successful use of the Secretary of State's power to overturn a Parole Board decision.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786702637.449798
+  },
+  "21846bfaab1f94965d914b61789a6d33": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and agricultural controversy involving a devolved government minister and department in Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786702652.681407
+  },
+  "f46887a19d86af6b0a4585de7cd8140a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident and an opening of a formal inquest, which falls under legal proceedings and public safety news in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786702665.121565
+  },
+  "f02c9afce3cb7c932e06c9a8aceedf70": {
+    "is_relevant": true,
+    "reasoning": "The death of a notable former professional athlete who played for several major UK clubs is a significant event within the UK sports community.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786702673.766714
   }
 }
