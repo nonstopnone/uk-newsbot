@@ -1,5 +1,3 @@
-2026-08-07T12:28:45.399779+00:00|https://www.bbc.co.uk/news/articles/cx25ljkpz6ro|brothers who were racing home jailed for killing man and seriously injuring son|bedd8a961636e40a10f993be4abd0dc0
-2026-08-07T12:28:47.985130+00:00|https://www.bbc.co.uk/news/articles/c1d1ke0ed75o|london launches bid to host worldpride in 2032|8a279a7ae28e3775969a88f7e26dbd58
 2026-08-07T14:55:13.971150+00:00|https://www.bbc.co.uk/news/articles/c05q0nznq24o|cambridge to review process for hiring senior academics after jason arday resignation|b53b5e1c257c4a830480f58385c8c728
 2026-08-07T14:55:16.364114+00:00|https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o|serial sex offender guilty of double murder and rape|54df15a29e21b34b4da856493007918f
 2026-08-07T15:58:13.374591+00:00|https://www.bbc.co.uk/news/articles/cdewx3lpd2eo|prisoner release row proving to be burnhams first big test as pm|fcd7f92702cf2348d668f7fab025cb9c
@@ -214,3 +212,7 @@
 2026-08-14T11:20:01.809814+00:00|https://www.bbc.co.uk/news/articles/cvg947z1we1o|what do people in clacton think of farages byelection win|3507353ab490d4f343ed7e300d8bf401
 2026-08-14T11:20:04.601058+00:00|https://www.bbc.co.uk/news/articles/c0l5yndgxl8o|man died after being trampled by cattle on estate|f46887a19d86af6b0a4585de7cd8140a
 2026-08-14T12:09:29.329697+00:00|https://www.bbc.co.uk/news/articles/clyxpkyg88xo|disability campaigners call for burnham to delay assisted dying bill|6e7ee4c24d01082ac0f943c9422e0d02
+2026-08-14T13:44:40.360092+00:00|https://www.bbc.co.uk/news/articles/c0jlyqdj6geo|temporary ban on sale of disposable bbqs over wildfire risk|4de88e52dfa94f790207cf8be4f25e92
+2026-08-14T13:44:42.793278+00:00|https://www.bbc.co.uk/news/articles/c3v0yz9k250o|prisoners charged over attack on sara sharifs father|475e7093464dc137805f4d579fc6f4da
+2026-08-14T13:44:45.319201+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/londons-fire-control-centre-on-the-hottest-day-of-the-year|wildfire watch inside londons fire control centre on the hottest day of the year|5a60a6d1c7ed7d8eb9e6ba39f70555f0
+2026-08-14T13:44:47.875781+00:00|https://news.sky.com/story/potentially-deadly-bluetongue-detected-on-third-farm-in-scotland-13572948|potentially deadly bluetongue hits third farm in scotland|b540fd2804b7b10c523ce33223d7a0fd

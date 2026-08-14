@@ -21860,5 +21860,47 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786709365.817194
+  },
+  "4de88e52dfa94f790207cf8be4f25e92": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government-mandated safety policy change affecting the retail sector and public safety across Great Britain during a period of national emergency.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786715025.019789
+  },
+  "475e7093464dc137805f4d579fc6f4da": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile criminal case and a major incident within the UK prison system involving the Crown Prosecution Service and the courts.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786715034.736762
+  },
+  "9c6af484fd6597e30518df7173aa448c": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a dispute within the WHO regarding medical trial ethics in the Democratic Republic of Congo and does not contain a material impact on or specific relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786715046.121523
+  },
+  "5a60a6d1c7ed7d8eb9e6ba39f70555f0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the operational challenges and unprecedented scale of wildfires in London during an extreme heatwave, directly involving UK emergency services and public infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786715054.425852
+  },
+  "025d50990e1dda18e7fab7d2ac6b7c04": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal justice matter involving the potential early release of convicted cop killers and subsequent government involvement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786715066.038199
+  },
+  "b540fd2804b7b10c523ce33223d7a0fd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant agricultural and biosecurity issue affecting the UK, which has potential implications for the food supply chain and farming industry.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786715079.515427
   }
 }
