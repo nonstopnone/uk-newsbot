@@ -22056,5 +22056,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786789971.211862
+  },
+  "2b2d4f703ae68f4e37f3de5cc7c4bb13": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national emergency involving the deployment of the military, government alerts, and criminal investigations within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786793343.089624
   }
 }

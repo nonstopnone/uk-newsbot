@@ -1,4 +1,3 @@
-2026-08-08T11:08:53.993053+00:00|https://www.bbc.co.uk/news/articles/c1k1lyg94w9o|bristol airport disruption a shambles as flights restart|07bd9f8bbf1aed7edb84c4118faab185
 2026-08-08T11:44:09.143403+00:00|https://www.bbc.co.uk/news/articles/c20edvenrnno|tributes left at beauty spot after unexplained death of 11yearold girl|66b41b664521d229aad3acf7f16520fa
 2026-08-08T11:44:11.490014+00:00|https://www.bbc.co.uk/news/articles/cwyj1q14pp0o|man guilty of fatal shooting of teen outside club|8955befb878efe2a2a94540e0e5b21ec
 2026-08-08T12:16:00.387663+00:00|https://www.bbc.co.uk/news/articles/cd69w82p592o|passengers stranded at locked train station|47d75553a98e683ab591d68e6713cbc0
@@ -217,3 +216,4 @@
 2026-08-15T10:00:31.042777+00:00|https://www.bbc.co.uk/news/articles/c2lqy55zny2o|six charged after man abducted in edinburgh|7f7eb38c35f659fc77838dd0ebbfa908
 2026-08-15T10:32:52.188768+00:00|https://www.bbc.co.uk/news/articles/c0qvyk85q0go|new forest fire fully contained fire service says|fa5c73cd0ef8f08dd340f1ba44e7f17f
 2026-08-15T10:59:06.349307+00:00|https://www.bbc.co.uk/news/articles/cr59jg1ypd3o|analysis ardays death will send shockwaves through a divided academia|929525e3568dedd528ab12a7e11cae77
+2026-08-15T11:29:04.110028+00:00|https://www.bbc.co.uk/news/articles/c05qy58v98jo|military sent in to help emergency services fight wildfires|2b2d4f703ae68f4e37f3de5cc7c4bb13
