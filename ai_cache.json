@@ -21993,5 +21993,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786746321.097422
+  },
+  "113ea3dcef5878609883fbafd0a761c8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure disruption at the UK's busiest airport, directly affecting travel and national transport networks.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786771602.14915
   }
 }
