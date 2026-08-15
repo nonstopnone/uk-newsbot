@@ -22007,5 +22007,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786773182.786774
+  },
+  "0351f698fb8c33e9270e025be9f14080": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure event impacting travel at the UK's primary international gateway during a peak holiday period.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786780410.140177
   }
 }
