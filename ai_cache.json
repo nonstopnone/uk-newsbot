@@ -22140,5 +22140,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786818735.084135
+  },
+  "b10b5d13e584f804991acf5c48a701f4": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent young British athlete in a high-profile international sporting incident is of significant news interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786823817.411064
   }
 }
