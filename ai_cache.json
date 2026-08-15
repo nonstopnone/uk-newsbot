@@ -22028,5 +22028,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786782683.324605
+  },
+  "250536b04eadb5b22feb1e101f3265c3": {
+    "is_relevant": true,
+    "reasoning": "The potential £500m acquisition of a significant UK-founded business represents a major move within the UK corporate sector and economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786786912.292977
   }
 }
