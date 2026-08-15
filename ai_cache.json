@@ -22126,5 +22126,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786814533.801879
+  },
+  "fc72b0d5403f78fdb2574b602faad6be": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a Manchester United football match, which falls under the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786816028.122756
   }
 }
