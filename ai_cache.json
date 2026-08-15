@@ -22133,5 +22133,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786816028.122756
+  },
+  "e7be3fa9aeb0b07905eef57ed4af7b7f": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant data breach by a major UK public institution regarding sensitive criminal allegations, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786818735.084135
   }
 }
