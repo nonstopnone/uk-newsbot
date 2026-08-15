@@ -22063,5 +22063,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786793343.089624
+  },
+  "5f01f62445c1b87cbc4d19e835cb2121": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal case appearing before a UK court (Northern Ireland), involving charges of rape, assault, and other violent offences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786797616.623065
+  },
+  "eb002f09765439ea114286157e2afc0d": {
+    "is_relevant": true,
+    "reasoning": "This concerns the implementation of a new UK statutory body (the football regulator) and significant financial regulatory shifts within a major national industry.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786797626.828709
   }
 }

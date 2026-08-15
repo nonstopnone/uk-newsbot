@@ -1,5 +1,3 @@
-2026-08-08T12:16:00.387663+00:00|https://www.bbc.co.uk/news/articles/cd69w82p592o|passengers stranded at locked train station|47d75553a98e683ab591d68e6713cbc0
-2026-08-08T12:16:02.926825+00:00|https://www.bbc.co.uk/news/articles/cewr8egkelwo|simon levy victims urged to come forward as police accused of litany of failures|0798da9999852e187d23d9003fd16af0
 2026-08-08T13:27:11.543946+00:00|https://www.bbc.co.uk/news/articles/c24mgjlyne7o|man charged after four killed in lamppost crash|5e8a05bf5f726b3887f79a3cb340044a
 2026-08-08T14:08:13.939356+00:00|https://www.bbc.co.uk/news/articles/c5ywv10ypx3o|skye trail warning as 20 walkers rescued in one day|ed3974f211a6910cddd135cdb6fe7c7a
 2026-08-08T14:08:16.446058+00:00|https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-fatal-stabbing-in-birmingham-13570963|man arrested on suspicion of murder after fatal stabbing|70d71a2cf514d4bc22456e3d298bdd75
@@ -215,3 +213,6 @@
 2026-08-15T10:32:52.188768+00:00|https://www.bbc.co.uk/news/articles/c0qvyk85q0go|new forest fire fully contained fire service says|fa5c73cd0ef8f08dd340f1ba44e7f17f
 2026-08-15T10:59:06.349307+00:00|https://www.bbc.co.uk/news/articles/cr59jg1ypd3o|analysis ardays death will send shockwaves through a divided academia|929525e3568dedd528ab12a7e11cae77
 2026-08-15T11:29:04.110028+00:00|https://www.bbc.co.uk/news/articles/c05qy58v98jo|military sent in to help emergency services fight wildfires|2b2d4f703ae68f4e37f3de5cc7c4bb13
+2026-08-15T12:40:27.276266+00:00|https://www.bbc.co.uk/news/articles/cy0jjndg9pxo|woman allegedly tasered raped and beaten by expartner court hears|5f01f62445c1b87cbc4d19e835cb2121
+2026-08-15T12:40:29.758842+00:00|https://www.bbc.co.uk/news/articles/c1w1yv987jqo|met police apologises for data breach involving alleged al fayed victims|e21af5757c0ef25087d08fc50b895237
+2026-08-15T12:40:32.368753+00:00|https://news.sky.com/story/football-watchdog-consults-on-backstop-costs-amid-fears-of-new-deal-stalemate-13573238|football watchdog consults on backstop costs amid fears of new deal stalemate|eb002f09765439ea114286157e2afc0d
