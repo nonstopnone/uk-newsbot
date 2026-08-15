@@ -22091,5 +22091,33 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786808806.947304
+  },
+  "e72c8b8627cc247848219c1d2a19f6ac": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-related opinion piece about pre-season kit logistics, which falls under the category of fluff/sports commentary rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786811197.492896
+  },
+  "12369aabbd74e787a0a45d36dd24092a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national emergency involving major incidents across multiple UK regions, infrastructure, and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786811208.065825
+  },
+  "3e451183c67f58ebe26bc0ef31420bc8": {
+    "is_relevant": true,
+    "reasoning": "The appointment of the Scotland men's national football team manager is a significant event in UK sport and national interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786811218.627272
+  },
+  "754d98e9b973a89af30b42c802382a39": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused human interest story rather than hard news, and Bonnie Tyler is currently alive, making the premise factually incorrect and irrelevant.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786811228.529661
   }
 }
