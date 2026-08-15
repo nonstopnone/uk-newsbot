@@ -22084,5 +22084,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1786801942.147031
+  },
+  "3037c98513224edbe6def8c6787a70bc": {
+    "is_relevant": true,
+    "reasoning": "This concerns the appointment of a new head coach for a national team, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786808806.947304
   }
 }
