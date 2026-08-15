@@ -22014,5 +22014,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786780410.140177
+  },
+  "e13eaac5305276f931ea625bfa5b6553": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent academic and public figure, involving police and government comment, is a significant UK news event.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786782674.984336
+  },
+  "3aeefd37a474499a0f71c56936c946c0": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest nature story about puffin populations and does not constitute hard news regarding politics, the economy, or other core UK-wide concerns.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786782683.324605
   }
 }
