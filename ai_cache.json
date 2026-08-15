@@ -22147,5 +22147,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786823817.411064
+  },
+  "9611ebb27e0e8f9fe293f00d5eaaa2c9": {
+    "is_relevant": true,
+    "reasoning": "This concerns the leader of a major political party in a devolved government, which is highly relevant to UK regional politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786828964.062914
   }
 }
