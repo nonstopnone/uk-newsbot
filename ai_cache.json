@@ -22077,5 +22077,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786797626.828709
+  },
+  "44b15b7518ca36fe80391a3f2a0f7661": {
+    "is_relevant": true,
+    "reasoning": "The death and funeral of a globally recognized, iconic Welsh singer is a significant cultural event for the UK public.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786801942.147031
   }
 }
