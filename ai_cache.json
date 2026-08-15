@@ -22000,5 +22000,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786771602.14915
+  },
+  "3c14d623039f6fcaf99bc5439ef84be7": {
+    "is_relevant": true,
+    "reasoning": "This concerns the reconfiguration of NHS services in Northern Ireland, which is a significant matter of devolved healthcare policy and public infrastructure affecting a UK region.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786773182.786774
   }
 }
