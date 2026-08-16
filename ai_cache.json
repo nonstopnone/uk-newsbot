@@ -22224,5 +22224,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1786872523.478624
+  },
+  "ab7ab068fdcd697c6fdf020d9eea72ff": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and security incident in Northern Ireland involving a devolved First Minister and being investigated as a hate crime, which is of clear public interest to the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786879327.002628
+  },
+  "6f1477fbfa3285b64c951394c7c2c349": {
+    "is_relevant": false,
+    "reasoning": "This is a cultural/lifestyle event and does not meet the criteria for hard news relevant to a UK audience in a political, economic, or legal capacity.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786879336.223024
   }
 }
