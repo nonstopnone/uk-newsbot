@@ -22175,5 +22175,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786863577.415584
+  },
+  "e81c6ded7f78d6bbb9a72659e03dbf02": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive event involving a public security incident and operational disruption at a major UK sporting tournament in Birmingham.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786865915.854943
+  },
+  "6c92c82f9a03732991744984b63b5384": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a domestic house fire; while tragic, it does not meet the threshold for national hard news relevance required for the sub.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786865926.138882
+  },
+  "17317b8df24cd716934c6d86f6dec920": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant socio-cultural event in Belfast with major economic and regional implications, reflecting the city's transformation.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786865935.783815
+  },
+  "2977431d85b5bbff48f5f20ef78b9a4b": {
+    "is_relevant": false,
+    "reasoning": "This article concerns the Republic of Ireland, which is a separate sovereign nation, and discusses a lifestyle/industry topic rather than hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786865948.253971
   }
 }
