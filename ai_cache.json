@@ -22154,5 +22154,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786828964.062914
+  },
+  "2826afdd3c6f465c38c30fb62d73ec8c": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant domestic issue involving planning law, local government oversight, and infrastructure in England that materially affects communities.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786843543.763794
   }
 }
