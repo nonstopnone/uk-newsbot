@@ -22161,5 +22161,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786843543.763794
+  },
+  "6f4bc6ad19052ebaacadc435a441ba08": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving attempted murder and a police investigation, which meets the criteria for hard news relevant to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786856459.460288
   }
 }
