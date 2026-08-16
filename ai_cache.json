@@ -22217,5 +22217,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786870044.047434
+  },
+  "c67b825347d1a70365a4728b43174273": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving a British citizen facing deportation, which is of clear public interest and concern to the UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1786872523.478624
   }
 }

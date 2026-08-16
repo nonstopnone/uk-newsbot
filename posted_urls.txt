@@ -1,4 +1,3 @@
-2026-08-09T09:04:11.613452+00:00|https://www.bbc.co.uk/news/articles/cn4n8731wjjo|tests to determine how aid worker died in greece face monthlong delay|1a58f8daf15d847ace9944db88a70595
 2026-08-09T09:57:27.503929+00:00|https://www.bbc.co.uk/news/articles/c0km1zed1lyo|mans body found in burning car|b0d711db1ce2df826571ce6cd6aa4580
 2026-08-09T12:54:54.413013+00:00|https://www.bbc.co.uk/news/articles/cy9wyvglp11o|celebrations taking place to mark the end of the fleadh|ccf61552c146c5e9b2ba237c6f5d9231
 2026-08-09T12:54:56.823494+00:00|https://www.bbc.co.uk/news/articles/ckge1k3yke7o|two arrested after defence firm office vandalised following breakin|1ec53005238c3a5f43b5924cca13d8af
@@ -214,3 +213,4 @@
 2026-08-16T07:39:11.288471+00:00|https://www.bbc.co.uk/news/articles/cj03vj4r288o|an unrecognisable city the impact of belfasts first fleadh|17317b8df24cd716934c6d86f6dec920
 2026-08-16T08:01:04.554555+00:00|https://news.sky.com/story/finlay-tarling-fury-over-death-of-teen-british-cyclist-during-portugal-race-13573615|fury over death of teen british cyclist during portugal race|e273aa43edf3a92b0a0fd4330dc28dc9
 2026-08-16T08:47:24.929993+00:00|https://www.bbc.co.uk/news/articles/cr49932qrqno|people who fled stourbridge fires start to return home|67e4b1c59d13137a14d759495133fd6a
+2026-08-16T09:28:44.704481+00:00|https://www.bbc.co.uk/news/articles/c70gdw780q7o|man with dementia given days to leave sweden|c67b825347d1a70365a4728b43174273
