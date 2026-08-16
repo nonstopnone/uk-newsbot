@@ -22210,5 +22210,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786867263.593332
+  },
+  "67e4b1c59d13137a14d759495133fd6a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic news event involving major property damage and the emergency response of a UK fire service.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786870044.047434
   }
 }
