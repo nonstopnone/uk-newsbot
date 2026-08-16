@@ -22259,5 +22259,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1786884147.208194
+  },
+  "fbf8672117d464c9e23b561e93e15d9e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health-related public inquiry concerning patient safety and systemic failures within the NHS in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786886403.579266
   }
 }
