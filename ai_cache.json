@@ -22301,5 +22301,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786905123.089565
+  },
+  "99a9ab22f28aa6ede7a8510f1aeb1fb5": {
+    "is_relevant": true,
+    "reasoning": "This report covers a significant achievement by British athletes at a major international sporting championship.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786913364.533684
   }
 }
