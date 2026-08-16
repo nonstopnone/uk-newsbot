@@ -22168,5 +22168,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786856459.460288
+  },
+  "5c6ea130e6706b848db63e5027e85a40": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency incident requiring a large fire service response that impacts public safety for residents in multiple regions.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786863577.415584
   }
 }
