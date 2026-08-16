@@ -22266,5 +22266,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786886403.579266
+  },
+  "1e3613039b49fb662b694425155ad673": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a UK government-issued alert system that caused public safety concerns for vulnerable populations, making it a matter of national interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786897640.689556
   }
 }
