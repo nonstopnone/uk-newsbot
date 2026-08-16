@@ -22308,5 +22308,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786913364.533684
+  },
+  "42ab7c2e01274f31975aa4799e662bee": {
+    "is_relevant": false,
+    "reasoning": "This article concerns the funeral arrangements of a celebrity, which falls under lifestyle/entertainment news rather than hard news of national political or social significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786916760.711036
+  },
+  "d8e87c0333d6676bc5404a0d5dc1f135": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story involving an individual abroad; it does not constitute hard news or matter of significant national importance for the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786916769.53675
   }
 }
