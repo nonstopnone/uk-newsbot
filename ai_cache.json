@@ -22245,5 +22245,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786880789.906079
+  },
+  "7c6a3b4c65ea0bbed3d9ae680181b3da": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation into a fatal incident in the UK involving a police murder inquiry and arrests.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786884136.40485
+  },
+  "2f49db90b50bcb69dea36cb4d797c94f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and foreign policy development involving British-manufactured military equipment being used in direct strikes within Russia, which has material implications for UK involvement in the conflict.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1786884147.208194
   }
 }
