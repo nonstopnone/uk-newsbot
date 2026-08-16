@@ -22273,5 +22273,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786897640.689556
+  },
+  "5b7150ab7d2387f3407ea71df6959a24": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major UK sporting event involving two prominent Premier League football clubs, which qualifies as UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786900856.238433
   }
 }
