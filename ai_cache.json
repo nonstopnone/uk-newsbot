@@ -22238,5 +22238,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786879336.223024
+  },
+  "753a777b4148db604f197a2df97ba579": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal arrest and disruption to a major event hosted in the UK, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786880789.906079
   }
 }
