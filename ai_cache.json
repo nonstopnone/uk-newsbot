@@ -22280,5 +22280,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1786900856.238433
+  },
+  "04a9fa593d041045d50c318f89041e44": {
+    "is_relevant": true,
+    "reasoning": "The appointment of a new head coach for a national team is significant UK-based sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786905094.84656
+  },
+  "aa6a4d3ceb4e74b1de218f9ac3232862": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a police operation, arrests, and injuries to officers in Greater Manchester, which falls under UK crime and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786905110.339296
+  },
+  "8bc28034ac95dcfd1a7eb9dff1f9d5e4": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story involving a missing person abroad; it lacks broader public interest or political, economic, or security impact for the UK as a whole.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786905123.089565
   }
 }
