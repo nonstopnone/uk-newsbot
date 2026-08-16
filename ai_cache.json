@@ -22203,5 +22203,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786865948.253971
+  },
+  "e273aa43edf3a92b0a0fd4330dc28dc9": {
+    "is_relevant": true,
+    "reasoning": "The death of a British athlete in a competitive international sporting event is a significant news item for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786867263.593332
   }
 }
