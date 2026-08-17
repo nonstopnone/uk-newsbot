@@ -22518,5 +22518,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1786976990.427557
+  },
+  "6b3b4269a43b4d8c35c03874864fcedb": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/human interest story involving a zoo animal escape, which does not constitute hard news regarding UK politics, economy, major security, or significant national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786978591.851658
   }
 }
