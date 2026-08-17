@@ -22567,5 +22567,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786989845.827654
+  },
+  "f78ce018759b9d37e6aa8c0ea4bbfc7d": {
+    "is_relevant": false,
+    "reasoning": "This story concerns the internal personnel management of an international sporting organisation (FIFA) and lacks a direct, material impact on UK domestic policy, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786995272.758845
+  },
+  "242c90e6b745c09b74826c9786bbd471": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest story concerning a specific incident in a public park and does not meet the threshold for high-level national or political news required for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786995280.109737
   }
 }
