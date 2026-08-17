@@ -22385,5 +22385,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786949960.844763
+  },
+  "6d0632076312bfc57e3d749fff9a4756": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a tragic incident involving emergency services and a fatality in London.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786953442.532337
+  },
+  "50ddc789f65b9cf9525d752b7ec96039": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change to UK planning regulations concerning the protection of local infrastructure and community assets.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786953451.804081
+  },
+  "ca866de4f220e653fb1578de8ab8e1fa": {
+    "is_relevant": true,
+    "reasoning": "The entry of a new rail competitor into the UK-continental market is a significant development for UK transport infrastructure and consumer travel.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786953461.999149
   }
 }
