@@ -22329,5 +22329,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786922499.974738
+  },
+  "a412e717f7b52261c2e7a5c3466a420d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on police enforcement and public safety regarding dangerous vehicle use across the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786934564.03666
+  },
+  "5937a947c5373c046280c42a07591528": {
+    "is_relevant": false,
+    "reasoning": "General weather forecasts regarding standard seasonal conditions do not constitute 'hard news' or a significant event impacting the UK national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786934584.057428
   }
 }
