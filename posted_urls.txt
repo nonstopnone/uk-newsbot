@@ -1,6 +1,3 @@
-2026-08-10T06:58:48.047662+00:00|https://www.bbc.co.uk/news/articles/c4gk74vpzxzo|roll on 2027 as fleadh 2026 comes to an end|c170805a0def3efbc1a4910760b77281
-2026-08-10T06:58:50.763023+00:00|https://www.bbc.co.uk/news/articles/c74g8e93m4wo|from aberfan to manchester arena victims face disgraceful fight for help|a7ad77ed50e75efbaa2df374fcdc5a7f
-2026-08-10T06:58:53.246988+00:00|https://news.sky.com/story/thames-water-risks-fresh-storm-over-1m-payment-to-finance-chief-13571530|uks biggest water company risks fresh storm over £1m payment to finance chief|ce79f7d7d1cfba10a005bf62c8a3d577
 2026-08-10T08:46:22.438056+00:00|https://www.bbc.co.uk/news/articles/c70gk2dl5jyo|drought expected to be declared in more parts of england|3c2eabd248b09c01f1e69927109b3aa8
 2026-08-10T08:46:24.892378+00:00|https://news.sky.com/story/british-couple-jailed-in-iran-end-hunger-strike-after-several-months-family-says-13571539|british couple jailed in iran end hunger strike after several months family says|c3f8e2af55bebb5031bca4fe3e15f7a2
 2026-08-10T08:46:27.637323+00:00|https://www.bbc.co.uk/news/articles/c62e60m1jygo|risk of patient safety bonfire with health bill changes lib dems say|f3441f53699b2595cfe53f72e618b9f4
@@ -214,3 +211,5 @@
 2026-08-17T05:09:41.859324+00:00|https://news.sky.com/story/oil-and-gas-industry-urges-pm-to-approve-controversial-north-sea-developments-13573878|oil and gas industry urges pm to approve controversial projects|7e6c7e1c37bc7d46ff31a1e89f1a4d62
 2026-08-17T05:51:08.712174+00:00|https://www.bbc.co.uk/news/articles/cn8nn2nlg1lo|thousands of bonnie tyler fans set to gather in singers hometown for funeral|f944ccca1a9b783203f5852fc063fa85
 2026-08-17T05:51:11.230564+00:00|https://www.bbc.co.uk/news/articles/c4g3re5ew8do|parents pushed to breaking point by child maintenance service bbc told|9ad8ad563d3eb76e1f943fe59fecca4e
+2026-08-17T06:59:22.508398+00:00|https://www.bbc.co.uk/news/articles/cpw9997g85vo|hundreds attend emotional cambridge vigil for jason arday|d6f887038db38efd835b1bb0e511ca0e
+2026-08-17T06:59:25.126572+00:00|https://www.bbc.co.uk/news/articles/cddjlmeqjgyo|sainsburys pauses ai cameras after shopper ousted|6294ef33b4381475337a9760dbf0e515

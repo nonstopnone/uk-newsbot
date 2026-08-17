@@ -22371,5 +22371,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786945867.944054
+  },
+  "d6f887038db38efd835b1bb0e511ca0e": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent academic and the associated controversy is a matter of significant public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786949951.12823
+  },
+  "2b6471b5cc7c2fc5ae459555597e3620": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest fluff story about a pet and does not constitute hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786949960.844763
   }
 }
