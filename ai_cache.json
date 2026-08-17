@@ -22343,5 +22343,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786934584.057428
+  },
+  "7e6c7e1c37bc7d46ff31a1e89f1a4d62": {
+    "is_relevant": true,
+    "reasoning": "The article concerns significant UK energy policy and North Sea infrastructure developments that impact the national economy and environment.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786943367.735706
+  },
+  "0f89793062b1ce238a82584cca2bb498": {
+    "is_relevant": false,
+    "reasoning": "This is a feature article about global rabies trends with a focus on Bangladesh, containing no specific relevance to UK policy, public health, or infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786943378.521083
   }
 }
