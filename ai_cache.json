@@ -22483,5 +22483,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786971677.13856
+  },
+  "ac6e10c998e11c1ac891fa88b486632e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant governance decision by a national football association involving international sport politics, which is of clear interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1786974801.69569
+  },
+  "268ec045dae05a0766eb87e8c6d09498": {
+    "is_relevant": true,
+    "reasoning": "This is a significant business acquisition involving a major Welsh-founded company and a high-value transaction, which is relevant to the UK economy and business sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786974812.441309
+  },
+  "cf6f755beb154551477e0dc8e2d6cf22": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a double death investigation in the UK, which falls under serious news coverage.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786974824.034986
   }
 }
