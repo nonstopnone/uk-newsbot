@@ -22532,5 +22532,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786980588.176532
+  },
+  "7a9144dc22f168481bf05ab16ec6d2f9": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/human interest animal story that does not constitute hard news or significant national impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786981991.24347
   }
 }
