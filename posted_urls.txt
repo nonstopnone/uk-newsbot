@@ -1,6 +1,3 @@
-2026-08-10T05:44:38.603018+00:00|https://www.bbc.co.uk/news/articles/ce85ng9vj90o|pm faces pressure as jackdaw licence consultation closes|8f44491489e30d149975326e583fdb8f
-2026-08-10T05:44:41.106244+00:00|https://www.bbc.co.uk/news/articles/cvgx1v922p5o|travelodge staff gave domestic abuser key to his victims room|cdf674218aef7d49b094a88895e85ab5
-2026-08-10T05:44:43.773909+00:00|https://news.sky.com/story/council-urged-to-rethink-curbs-on-nightlife-in-londons-west-end-13571527|council urged to rethink curbs on nightlife in londons west end|127fc4bcff001aa35e037d1228942f95
 2026-08-10T06:58:48.047662+00:00|https://www.bbc.co.uk/news/articles/c4gk74vpzxzo|roll on 2027 as fleadh 2026 comes to an end|c170805a0def3efbc1a4910760b77281
 2026-08-10T06:58:50.763023+00:00|https://www.bbc.co.uk/news/articles/c74g8e93m4wo|from aberfan to manchester arena victims face disgraceful fight for help|a7ad77ed50e75efbaa2df374fcdc5a7f
 2026-08-10T06:58:53.246988+00:00|https://news.sky.com/story/thames-water-risks-fresh-storm-over-1m-payment-to-finance-chief-13571530|uks biggest water company risks fresh storm over £1m payment to finance chief|ce79f7d7d1cfba10a005bf62c8a3d577
@@ -215,3 +212,5 @@
 2026-08-17T02:43:04.974457+00:00|https://news.sky.com/story/police-seizures-of-menace-illegal-e-bikes-jump-by-83-in-a-year-13573881|seizures of menace ebikes jump by 83 in a year|a412e717f7b52261c2e7a5c3466a420d
 2026-08-17T05:09:39.308696+00:00|https://www.bbc.co.uk/news/articles/ckgdej0xxgyo|drugs violence and racism a week in glasgow city centre|a3b96d013212272063ecfbbdda248e30
 2026-08-17T05:09:41.859324+00:00|https://news.sky.com/story/oil-and-gas-industry-urges-pm-to-approve-controversial-north-sea-developments-13573878|oil and gas industry urges pm to approve controversial projects|7e6c7e1c37bc7d46ff31a1e89f1a4d62
+2026-08-17T05:51:08.712174+00:00|https://www.bbc.co.uk/news/articles/cn8nn2nlg1lo|thousands of bonnie tyler fans set to gather in singers hometown for funeral|f944ccca1a9b783203f5852fc063fa85
+2026-08-17T05:51:11.230564+00:00|https://www.bbc.co.uk/news/articles/c4g3re5ew8do|parents pushed to breaking point by child maintenance service bbc told|9ad8ad563d3eb76e1f943fe59fecca4e

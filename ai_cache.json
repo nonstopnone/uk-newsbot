@@ -22357,5 +22357,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786943378.521083
+  },
+  "f944ccca1a9b783203f5852fc063fa85": {
+    "is_relevant": true,
+    "reasoning": "The death and funeral of a globally recognized British musical icon is a significant cultural event for the UK audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1786945857.423096
+  },
+  "6294ef33b4381475337a9760dbf0e515": {
+    "is_relevant": true,
+    "reasoning": "This incident concerns the use of AI surveillance technology by a major UK retailer and raises significant public interest and privacy concerns regarding the deployment of facial recognition in UK shops.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786945867.944054
   }
 }
