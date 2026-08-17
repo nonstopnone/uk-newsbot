@@ -22448,5 +22448,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786964258.160268
+  },
+  "3a5d141e6214f877e5e638fa8b4fab98": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving a conviction for attempted murder, which falls under the crime and legal reporting category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786966368.754648
+  },
+  "8449b6bc4e21a3366869cd839263d3f1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning a violent incident within a high-security UK prison, involving criminal charges and court proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786966378.739388
   }
 }
