@@ -22462,5 +22462,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786966378.739388
+  },
+  "fe44e42eb02acaac400c0a784002f126": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a leadership election for a major political party in the Scottish Parliament, which is significant UK devolved politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786968005.920292
   }
 }
