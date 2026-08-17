@@ -27,3 +27,5 @@
 2026-08-16T04:17:09.392190+00:00|https://news.sky.com/story/hurricane-lala-hits-hawaii-with-89000-losing-power-13573607|Hurricane Lala hits Hawaii - with 89,000 losing power|ed1569c6ff86d29e83c5e6aaa6beb931
 2026-08-17T03:35:42.748418+00:00|https://news.sky.com/story/us-actress-hayden-panettiere-dies-aged-36-reports-13573882|US actress Hayden Panettiere dies aged 36 - reports|ae58d73f89a8174f69faa7c5df3375a3
 2026-08-17T14:44:05.923575+00:00|https://news.sky.com/story/us-tourist-killed-by-lightning-strike-on-mount-etna-during-hike-in-restricted-area-13574041|US tourist killed by lightning strike on Mount Etna during hike in restricted area|f121890c97a48f79aa010c3b3dde52af
+2026-08-17T16:09:45.275353+00:00|https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss|Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case|bbc9f5482a52e16588080b63cdaad8f6
+2026-08-17T16:09:52.843146+00:00|https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss|Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala|08b5b9dac494b5fdc29c24b3eb2eeaef
