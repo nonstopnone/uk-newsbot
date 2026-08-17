@@ -22504,5 +22504,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1786974824.034986
+  },
+  "4770946eb6903a01ec75df7fa4652327": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal charge brought against a sitting UK Member of Parliament, which is a significant matter of public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786976979.909722
+  },
+  "ba59fc4be2a67772bd21a44793c940fb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety and local news incident involving a fatality in the capital.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786976990.427557
   }
 }
