@@ -22539,5 +22539,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786981991.24347
+  },
+  "067edbf8d97accbb37405035cd379732": {
+    "is_relevant": true,
+    "reasoning": "This is a recurring infrastructure and transport disruption issue on a major UK road (A5) involving Network Rail, which directly affects UK commuters and national transport policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786985900.702499
+  },
+  "3a656669309d52d814e4414a2676e30d": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a member of the British Royal Family, which falls under the category of royal news, a specific inclusion criteria for the subreddit.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1786985908.802257
+  },
+  "3ab7b7e577c683d39ca0c73d20f1c873": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the suspension of a sitting UK Member of Parliament and the investigation into the use of government funds, which falls directly under political accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786985918.084838
   }
 }
