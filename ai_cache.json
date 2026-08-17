@@ -22469,5 +22469,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786968005.920292
+  },
+  "39fb343f41dbaa909ae9f12b55f75085": {
+    "is_relevant": false,
+    "reasoning": "This is a business acquisition story focused on a consumer goods brand; it does not constitute significant hard news, economic policy, or national interest, and largely focuses on brand trivia and celebrity associations.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786971664.187386
+  },
+  "eb3db142f4670e2f5891e6aa112258f0": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity entertainment/lifestyle news story rather than hard news concerning UK politics, economy, or national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786971677.13856
   }
 }
