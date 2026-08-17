@@ -22560,5 +22560,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1786985918.084838
+  },
+  "1f2d2ac50c8c7e08b6ee3d941a6447f9": {
+    "is_relevant": true,
+    "reasoning": "This is a factual analysis of a major political party's core manifesto pledge regarding UK welfare spending ahead of a general election, which is highly relevant to UK voters.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1786989845.827654
   }
 }
