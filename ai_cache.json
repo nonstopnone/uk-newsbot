@@ -22525,5 +22525,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786978591.851658
+  },
+  "757e5e6af678cce166408ae6a0ce0299": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant legal and discrimination case involving a high-profile UK cultural event, the Edinburgh Festival Fringe, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1786980588.176532
   }
 }

@@ -1,5 +1,3 @@
-2026-08-10T15:16:55.502775+00:00|https://www.bbc.co.uk/news/articles/c9d841yexe0o|thames water gave finance boss a £1m signingon fee|b0cda2c693186196fefdec9d09fef34d
-2026-08-10T15:16:58.072504+00:00|https://www.bbc.co.uk/news/articles/cp8x4n9gd3ko|british couple held in iran end hunger strike|56ea85362063c47ea40489d025204c7e
 2026-08-10T16:24:19.068015+00:00|https://www.bbc.co.uk/news/articles/c89n5v5djpgo|msp apologises for hurt caused by rape demonisation comments|f4caf91b7f86ca7cea23f874b1955317
 2026-08-10T16:24:21.748537+00:00|https://www.bbc.co.uk/news/articles/cyvl17z86r3o|suffolk heathland fire stood down as major incident|3efe53540094a9b8a31dacc8bbc17568
 2026-08-10T16:24:24.396103+00:00|https://news.sky.com/story/harrods-returns-to-profit-after-2024-loss-triggered-by-al-fayed-abuse-provision-13571719|harrods returns to profit after 2024 loss triggered by al fayed abuse provision|639fde0fd873d807e2b0e5b2b7a7414c
@@ -216,3 +214,4 @@
 2026-08-17T14:29:54.768024+00:00|https://news.sky.com/story/tragedy-in-hackney-marshes-as-boy-12-drowns-in-river-lea-13574035|unimaginable loss as boy 12 drowns after entering river|ba59fc4be2a67772bd21a44793c940fb
 2026-08-17T14:56:33.678541+00:00|https://www.bbc.co.uk/news/articles/cwy4zepzp7eo|wildfire phone alert was entirely appropriate government says|14e0752c2775231c2a08d5f8cc9e2e27
 2026-08-17T14:56:36.300436+00:00|https://www.bbc.co.uk/news/articles/c171j051gejo|emotional farewell to global iconic superstar bonnie tyler|2c27aeb91690d209e103020bf4b256c5
+2026-08-17T15:29:49.260159+00:00|https://news.sky.com/story/edinburgh-venue-accepts-it-discriminated-against-jewish-comedian-philip-simon-when-it-cancelled-show-13574074|venue accepts it discriminated against jewish comedian when it scrapped show|757e5e6af678cce166408ae6a0ce0299
