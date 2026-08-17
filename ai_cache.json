@@ -22427,5 +22427,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786961791.611913
+  },
+  "49b4065358db70652521b92f67a13e46": {
+    "is_relevant": true,
+    "reasoning": "This is significant UK infrastructure and transport news regarding the opening of a major rail route to competition, affecting UK travel and regulatory policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1786964240.744492
+  },
+  "2c427d485252190196317feec9aaed85": {
+    "is_relevant": true,
+    "reasoning": "This is a significant utility infrastructure failure affecting a large number of UK households in Kent, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1786964248.193867
+  },
+  "c55577dd8a5b44ccd5a67225b3bdf932": {
+    "is_relevant": false,
+    "reasoning": "Weather reports are considered lifestyle/general news and do not meet the criteria for hard news relevant to the core categories of politics, economy, crime, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786964258.160268
   }
 }

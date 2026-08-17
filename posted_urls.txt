@@ -1,6 +1,3 @@
-2026-08-10T10:19:02.364936+00:00|https://www.bbc.co.uk/news/articles/c4g4vxjg2yno|record 230 people cross channel in one small boat|0736388d4a5c968197d8a442f77e6194
-2026-08-10T10:19:05.251933+00:00|https://www.bbc.co.uk/news/articles/cy071r4yqjno|migrant hotel resident jailed for sexual assaults on two women|c17cd2d701b6ae48303a93b54cdb0828
-2026-08-10T10:19:08.040410+00:00|https://news.sky.com/story/amazon-founder-bezos-nears-deal-to-buy-stake-in-liverpool-football-club-13571586|amazon founder bezos nears deal to buy stake in liverpool football club|fe524f0d3a5b1a5a84f2f8235c5884ee
 2026-08-10T11:31:12.254444+00:00|https://www.bbc.co.uk/news/articles/cevmkjp0we7o|skye rescue callouts like whacamole as weather catches tourists offguard|aea6d612198daba9f5d4b3b65d61218c
 2026-08-10T11:31:14.813453+00:00|https://www.bbc.co.uk/news/articles/cd7lj3703epo|excambridge professor jason arday cancels live event after plagiarism row|c2f02c74dff9cade498bf6ab707c1f85
 2026-08-10T12:33:38.712031+00:00|https://www.bbc.co.uk/news/articles/cm2g97nv36go|asylum seeker who groomed and raped girl 13 jailed|2075d3c3b8fd5a8aa4175c7e404b778a
@@ -215,3 +212,5 @@
 2026-08-17T07:57:50.169687+00:00|https://news.sky.com/story/eurostar-rival-finally-gets-go-ahead-13573911|a hrefhttpsnewsskycomstorymoneyliveconsumerpersonalfinancetipsskynewslatest13040934postid12238484liveblogbodyeurostar rival finally gets go aheada|ca866de4f220e653fb1578de8ab8e1fa
 2026-08-17T08:52:13.425803+00:00|https://www.bbc.co.uk/news/articles/clyxklg3xypo|cambridge chancellor criticises racist feeding frenzy around jason arday|f429eacdc2ea300d9a8f3038309dd37d
 2026-08-17T09:44:00.724565+00:00|https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo|are you not entertained sprint sensation amy hunt on winning four gold medals in seven days|bf08f613bde02c03af9f81fe9529b3e7
+2026-08-17T10:57:38.839441+00:00|https://www.bbc.co.uk/news/articles/cjrvx4yye81o|virgin takes step towards running channel tunnel rail services|49b4065358db70652521b92f67a13e46
+2026-08-17T10:57:41.254715+00:00|https://www.bbc.co.uk/news/articles/cwymzly270zo|water misery continues for about 1200 properties|2c427d485252190196317feec9aaed85
