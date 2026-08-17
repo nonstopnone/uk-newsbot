@@ -22420,5 +22420,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1786959839.391837
+  },
+  "37f0c91bc6428949d1d8a2b00bc75a2f": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and career feature rather than hard news; it provides consumer advice and human-interest profiling rather than reporting on significant UK political, economic, or legal developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786961791.611913
   }
 }
