@@ -22413,5 +22413,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1786956732.386259
+  },
+  "c1ed2cee244cce1a67e393ce1f3f23c9": {
+    "is_relevant": false,
+    "reasoning": "Weather forecasts are considered lifestyle/utility news and do not meet the criteria for hard news relevant to UK politics, economy, or national security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1786959839.391837
   }
 }
