@@ -22595,5 +22595,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787011154.182479
+  },
+  "63d83aadc0868c0421e632e1513c1b10": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the management and safety of a major piece of UK state infrastructure, the Ministry of Justice's flagship prison programme.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787017479.800326
   }
 }

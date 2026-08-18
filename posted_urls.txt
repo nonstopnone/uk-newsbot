@@ -1,4 +1,3 @@
-2026-08-11T00:34:14.244247+00:00|https://www.bbc.co.uk/news/articles/c07r01rlpjxo|the papers 45m brits in drought and a notsosmall boats crisis|03b7627f5c96d2eaf7417b757c2b21aa
 2026-08-11T02:53:55.602339+00:00|https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o|amber heat health alerts for almost all of england as next heatwave begins|924741653eaa209f120c45de896d9e83
 2026-08-11T02:53:58.200081+00:00|https://www.bbc.co.uk/news/articles/c75gk620r22o|england set to eliminate hepatitis c|d602e41e2897d86c77f2ad1d7f227fa6
 2026-08-11T05:35:35.589971+00:00|https://www.bbc.co.uk/news/articles/crrv1zlgd9ko|pm asks justice secretary to find way to keep pc harpers killers in jail|1c0bc5690408cbd05bf5c78f9f04b982
@@ -204,3 +203,5 @@
 2026-08-17T22:01:43.908648+00:00|https://www.bbc.co.uk/news/articles/c86nxpx9llzo|i feel guilty the farmer whose lamb had scotlands first case of bluetongue|599dfff42d4fcb83a753ef459156f19a
 2026-08-17T22:01:47.499800+00:00|https://www.bbc.co.uk/news/articles/cd9wvg03pk5o|women from wales come to my london clinic because of inadequate abortion care|17e7859498ddf9f5ef9caaf59e40b21d
 2026-08-17T23:59:15.036799+00:00|https://news.sky.com/story/uk-weather-new-hosepipe-ban-begins-after-reforms-tice-says-changing-climate-will-mean-better-wine-13574200|new hosepipe ban begins after reforms tice says uks changing climate will mean better wine|be7859ae8d73d62e6b0fa82c1f15f58c
+2026-08-18T01:44:40.725049+00:00|https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo|russia warns uk over supplying drones to ukraine|4fc04176f8657c0dfe0eb8333f63955e
+2026-08-18T01:44:43.133333+00:00|https://www.bbc.co.uk/news/articles/cjwx5vx21y2o|disabled people in england to get 24hour free bus travel|ff44f99a4d6ca0a694ab576fc69f825e
