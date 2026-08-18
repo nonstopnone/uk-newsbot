@@ -205,3 +205,5 @@
 2026-08-17T23:59:15.036799+00:00|https://news.sky.com/story/uk-weather-new-hosepipe-ban-begins-after-reforms-tice-says-changing-climate-will-mean-better-wine-13574200|new hosepipe ban begins after reforms tice says uks changing climate will mean better wine|be7859ae8d73d62e6b0fa82c1f15f58c
 2026-08-18T01:44:40.725049+00:00|https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo|russia warns uk over supplying drones to ukraine|4fc04176f8657c0dfe0eb8333f63955e
 2026-08-18T01:44:43.133333+00:00|https://www.bbc.co.uk/news/articles/cjwx5vx21y2o|disabled people in england to get 24hour free bus travel|ff44f99a4d6ca0a694ab576fc69f825e
+2026-08-18T02:42:48.673647+00:00|https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo|heavy showers and thunderstorms bring risk of flash flooding to uk|475c6be1b478ee268af2e1add91554a9
+2026-08-18T02:42:51.135029+00:00|https://www.bbc.co.uk/news/articles/cwyjxvp4vdqo|exworkers tell of chaotic atmosphere at new £400m prison|63d83aadc0868c0421e632e1513c1b10
