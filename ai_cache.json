@@ -22777,5 +22777,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787070814.348684
+  },
+  "85ab88c0f8da1962f0309b728d070118": {
+    "is_relevant": true,
+    "reasoning": "The article details the seizure of a significant quantity of illegal drugs explicitly destined for the UK, which is a matter of national security and law enforcement interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787072689.510301
+  },
+  "ffcc505b58dc4ee5a1fe2ae0f1bd7809": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy-related report on the UK's counter-extremism strategy and safeguarding processes, which directly impacts national security and public policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787072696.541798
   }
 }
