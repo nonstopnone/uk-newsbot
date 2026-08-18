@@ -22854,5 +22854,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787094045.649597
+  },
+  "7d6b2390d2283d22d5d465cb532c12cc": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the health of the Head of State, which is a matter of significant national interest within the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787097540.637754
   }
 }
