@@ -22679,5 +22679,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787039750.748871
+  },
+  "ba96e30286a135755e0b88a2ecd13065": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused entertainment story regarding a book and film controversy, which falls under lifestyle/culture industry news rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787042351.574433
   }
 }
