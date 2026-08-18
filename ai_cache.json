@@ -22847,5 +22847,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787090308.060636
+  },
+  "e4410ab080d59dc4c78bc9f359404cd4": {
+    "is_relevant": true,
+    "reasoning": "The study concerns a significant UK public health and infrastructure policy with ongoing political and social relevance in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787094045.649597
   }
 }
