@@ -209,3 +209,6 @@
 2026-08-18T05:32:00.393853+00:00|https://www.bbc.co.uk/news/articles/cpq809zrvqdo|inside secret police warehouse as germany targets small boats gangs|a7b87891edcaa50910cc14b1bf6a425e
 2026-08-18T05:32:03.182373+00:00|https://www.bbc.co.uk/news/articles/c75gv9xnr3po|ivf staff accused of misleading uk parents about sperm and egg donors in northern cyprus|5b0546502612161e36be62bfc81f8638
 2026-08-18T07:04:45.650784+00:00|https://www.bbc.co.uk/news/articles/c5y0lv3r1n5o|farmers praised as heroes for work to stop stourbridge fire|7a5a1f964610aa1d97943649e77e0511
+2026-08-18T07:55:51.834044+00:00|https://www.bbc.co.uk/news/articles/c8xnkyg9rq7o|water supply restored to 7400 properties in kent south east water says|bcd314c3caac3142df50ba99afe4ba41
+2026-08-18T07:55:54.428250+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/top-uk-scientist-steps-down-from-who|top british scientist steps down from who|1017f8a20d8d9ee88a0ba545f39e8b55
+2026-08-18T07:55:57.021480+00:00|https://www.bbc.co.uk/news/articles/c4g6m388pl2o|man charged with manslaughter after man bitten by dog dies|c1e0e9b7a915f30f60891baf739bb422

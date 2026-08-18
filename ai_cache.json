@@ -22658,5 +22658,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787036684.689987
+  },
+  "bcd314c3caac3142df50ba99afe4ba41": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on major UK infrastructure failure affecting thousands of properties, which is a matter of public interest and essential service provision.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787039717.134183
+  },
+  "1017f8a20d8d9ee88a0ba545f39e8b55": {
+    "is_relevant": true,
+    "reasoning": "Sir Jeremy Farrar is a high-profile figure who played a central role in the UK government's Covid-19 response, making his resignation from a major international body a significant matter of public interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787039736.165527
+  },
+  "c1e0e9b7a915f30f60891baf739bb422": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatality and police charges, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787039750.748871
   }
 }
