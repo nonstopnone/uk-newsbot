@@ -22637,5 +22637,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787031119.462302
+  },
+  "c76c6f883a26d3d81f9c7ef11523f569": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment industry and celebrity gossip story regarding the veracity of a memoir; it does not constitute hard news of material significance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787032970.770994
   }
 }
