@@ -22798,5 +22798,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787075014.811529
+  },
+  "969bc8dc061de7375e4fd4f827e0ebc7": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal aviation incident within the UK involving a police and coroner-led inquest, which constitutes hard crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787076813.499544
   }
 }
