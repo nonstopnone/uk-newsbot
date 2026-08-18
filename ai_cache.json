@@ -22819,5 +22819,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787086863.752036
+  },
+  "1e55c46d2a451f480a9ba757918aadaa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive news event involving multiple fatalities and an emergency response on the UK coast.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787089118.398079
+  },
+  "0a6b1456b4d12ba0b783548522466559": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on an ongoing criminal investigation involving corruption and bribery within a major UK policing body.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787089128.352059
+  },
+  "563f2e179c8b60dc63f3767025386633": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident involving the London Fire Brigade that directly impacts public safety and local infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787089137.812031
   }
 }
