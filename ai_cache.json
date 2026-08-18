@@ -22693,5 +22693,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787047141.38099
+  },
+  "7adfe09770b4be99b0f16697878860aa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health incident directly impacting the UK population, falling under essential national news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787049509.384134
+  },
+  "444bc41b3e756e866a6d795478a00bba": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer interest story regarding pub house rules rather than hard news concerning UK politics, the economy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787049520.062509
+  },
+  "4efda7f675644b5ff7cf48ce2aa6cef5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a major criminal seizure at a UK port, falling squarely under national crime and security reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787049528.981751
   }
 }
