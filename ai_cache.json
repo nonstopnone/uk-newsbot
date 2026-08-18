@@ -22840,5 +22840,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787089137.812031
+  },
+  "bfc20b7ee8ecc9cb440ffe244e6109da": {
+    "is_relevant": true,
+    "reasoning": "The article details the financial interests and donation declarations of the Prime Minister, which is a matter of significant national political interest and transparency in UK governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787090308.060636
   }
 }
