@@ -22609,5 +22609,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787028804.090708
+  },
+  "be8d0d1a4e1192f29639de9bd0e32591": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on a personal medical journey and individual health campaign, which falls under lifestyle and personal health features rather than hard news of national political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787031092.359254
+  },
+  "712a02a35db21b9c3b907c1e4a0f1218": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/entertainment news story regarding personal allegations against an author, which does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787031100.86947
+  },
+  "a7b87891edcaa50910cc14b1bf6a425e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant international law enforcement operation involving the UK's National Crime Agency directly aimed at intercepting equipment used for illegal Channel crossings, which is a matter of major UK interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1787031110.995112
+  },
+  "5b0546502612161e36be62bfc81f8638": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and legal issue involving a large number of British citizens who have been victims of malpractice, warranting public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787031119.462302
   }
 }
