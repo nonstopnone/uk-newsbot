@@ -22686,5 +22686,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787042351.574433
+  },
+  "6b97158de217b612f770401388ddb945": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a policing incident in the Republic of Ireland, which is a sovereign nation and not part of the UK, nor does it have a material impact on UK internal affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787047141.38099
   }
 }
