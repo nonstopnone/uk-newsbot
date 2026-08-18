@@ -22805,5 +22805,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787076813.499544
+  },
+  "592c59639cf5987f54c45c1f957b290a": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a personal medical journey and does not constitute hard news regarding UK policy, major public health infrastructure, or breaking events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787085172.752572
   }
 }
