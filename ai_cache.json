@@ -22763,5 +22763,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787064016.967092
+  },
+  "4cc5187818a8b1380e5a73f9aea8da2b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK inquest concerning a death at an NHS hospital, which falls under the category of healthcare and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787068113.34713
   }
 }
