@@ -209,3 +209,6 @@
 2026-08-18T10:38:52.713500+00:00|https://news.sky.com/story/drugs-worth-more-than-160m-seized-at-british-port-13574287|drugs worth more than £160m seized at british port|4efda7f675644b5ff7cf48ce2aa6cef5
 2026-08-18T11:03:16.023762+00:00|https://www.bbc.co.uk/news/articles/cly8mpp9r8no|man charged with sharing asylum seeker addresses|a9058d00d9f494dc43afe3246be1d3d9
 2026-08-18T11:03:18.628492+00:00|https://www.bbc.co.uk/news/articles/cx2lzj91d84o|british couple on honeymoon killed in helicopter crash on greek island|e22a222ab08f8eaf751aded44b6fa791
+2026-08-18T13:08:35.940923+00:00|https://www.bbc.co.uk/news/articles/c5y0lr091eno|campaigner died in crash while filming apple series|e83f3ea0ba0fd8d7ae93df65cb7ac073
+2026-08-18T13:08:38.546278+00:00|https://www.bbc.co.uk/news/articles/cqx7vp77g0jo|one dead and hundreds ill in uk salmonella outbreak|6007caacaa3f39edb24b02ad481780fb
+2026-08-18T13:08:41.156269+00:00|https://www.telegraph.co.uk/business/2026/08/18/unemployment-uk-economy-jobs-burnham|unemployment rate fails to fall for burnham|67b2d47e7a9e7215024dac855a3a4a92

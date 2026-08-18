@@ -22735,5 +22735,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787050994.775895
+  },
+  "e83f3ea0ba0fd8d7ae93df65cb7ac073": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the formal inquest proceedings of a high-profile British charity campaigner, which falls under UK legal and coroner processes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787058506.19953
+  },
+  "2318a69ef884d5f8122b6c969f64a31f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving the Prime Minister and potential state-level communication risks, making it a matter of high national importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787058515.121755
   }
 }
