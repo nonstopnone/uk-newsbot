@@ -22714,5 +22714,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787049528.981751
+  },
+  "a9058d00d9f494dc43afe3246be1d3d9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving misconduct in public office and public disorder directly impacting UK national security and immigration infrastructure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787050974.060744
+  },
+  "e22a222ab08f8eaf751aded44b6fa791": {
+    "is_relevant": true,
+    "reasoning": "The death of British citizens in a major fatal accident abroad is considered significant UK news and is being reported by major British outlets.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787050983.101681
+  },
+  "962f3fb8b7d0637fdd72539a43367749": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/hospitality operational policy update regarding pub etiquette and does not constitute hard news or a significant national event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787050994.775895
   }
 }

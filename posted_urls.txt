@@ -211,3 +211,5 @@
 2026-08-18T08:39:12.089097+00:00|https://www.bbc.co.uk/news/articles/c20e2qe1lqpo|ferguson shipyard to cut a quarter of its workforce|646b5b64d3a1fe0058371873825cf4f6
 2026-08-18T10:38:49.989725+00:00|https://news.sky.com/story/one-dead-and-hundreds-ill-after-uk-salmonella-outbreak-13574292|one dead and hundreds ill in uk salmonella outbreak|7adfe09770b4be99b0f16697878860aa
 2026-08-18T10:38:52.713500+00:00|https://news.sky.com/story/drugs-worth-more-than-160m-seized-at-british-port-13574287|drugs worth more than £160m seized at british port|4efda7f675644b5ff7cf48ce2aa6cef5
+2026-08-18T11:03:16.023762+00:00|https://www.bbc.co.uk/news/articles/cly8mpp9r8no|man charged with sharing asylum seeker addresses|a9058d00d9f494dc43afe3246be1d3d9
+2026-08-18T11:03:18.628492+00:00|https://www.bbc.co.uk/news/articles/cx2lzj91d84o|british couple on honeymoon killed in helicopter crash on greek island|e22a222ab08f8eaf751aded44b6fa791
