@@ -22756,5 +22756,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787061432.074096
+  },
+  "3b224d7ac9e6bbe58df419911280ae66": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial in a Scottish High Court involving serious charges against a public figure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787064016.967092
   }
 }
