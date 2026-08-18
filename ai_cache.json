@@ -22791,5 +22791,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787072696.541798
+  },
+  "db9dc5f8b99c969f34637abb84f355e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant weather-related news event involving Met Office warnings that directly impact infrastructure and public safety across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787075014.811529
   }
 }
