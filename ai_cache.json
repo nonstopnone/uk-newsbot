@@ -22602,5 +22602,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787017479.800326
+  },
+  "387bd8c774eb384f6b261db82f42b0de": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political security incident involving the Prime Minister being targeted by a hoaxer, which is a matter of national security and government oversight.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787028804.090708
   }
 }
