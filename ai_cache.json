@@ -22749,5 +22749,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787058515.121755
+  },
+  "d3d8f423e32e8c8d203c31b28d17195d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime story involving a convicted murderer committing a killing in the UK, which is a matter of serious public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787061432.074096
   }
 }
