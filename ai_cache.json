@@ -22770,5 +22770,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787068113.34713
+  },
+  "7f60ef6f1e1c4fb00f53d1d745c48049": {
+    "is_relevant": false,
+    "reasoning": "This is an obituary for a celebrity, which falls under lifestyle and entertainment news rather than hard news categories like politics, crime, or the economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787070814.348684
   }
 }
