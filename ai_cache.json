@@ -22812,5 +22812,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787085172.752572
+  },
+  "3d03a2e73166314c35ed1356a47db8b9": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a devolved government minister regarding the closure of emergency hospital services is a significant matter of Northern Ireland politics and NHS policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787086863.752036
   }
 }
