@@ -22644,5 +22644,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787032970.770994
+  },
+  "024f46acb7333cbeef4d7aaff925b505": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle feature story about a niche hobby and does not constitute hard news or a matter of public importance for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787036676.221288
+  },
+  "7a5a1f964610aa1d97943649e77e0511": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency event involving property destruction and public safety response within the UK, meeting the criteria for hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787036684.689987
   }
 }
