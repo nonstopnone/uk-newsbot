@@ -23008,5 +23008,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787152428.835898
+  },
+  "07e76c742cb7b2b674284baab2ed46d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding HMRC tax enforcement and UK fiscal policy, directly impacting a large number of UK taxpayers.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787157232.371691
+  },
+  "35d54caafd0d0b90bc0b8d3e27d4a785": {
+    "is_relevant": true,
+    "reasoning": "This concerns official Home Office guidance regarding asylum seeker integration and conduct, which is a matter of significant public policy and immigration debate in the UK.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1787157240.733829
   }
 }
