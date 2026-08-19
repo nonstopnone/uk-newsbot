@@ -1,4 +1,3 @@
-2026-08-12T00:07:46.919605+00:00|https://www.bbc.co.uk/news/articles/c8rn42jp7d6o|first pounds for pylons energy bill discount sites revealed|0e83c34e63983f150d936f4293ef1d85
 2026-08-12T04:29:21.167127+00:00|https://www.bbc.co.uk/news/articles/cgmkee248vdo|pm admits cost of living help is not enough and hints at further support|fb14f65f9ddbf2b8e7ae163bb40fe8d1
 2026-08-12T04:29:23.953886+00:00|https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o|more weather records as uk heat set to spike again|f3dcd907342aef83613855dae352009a
 2026-08-12T06:01:50.222702+00:00|https://www.bbc.co.uk/news/articles/cy731xpjmrdo|disabled man locked up in care for nearly nine years|e36b9dbb49f41f5867c53a1c3f95520a
@@ -217,3 +216,5 @@
 2026-08-18T23:00:48.546121+00:00|https://www.bbc.co.uk/news/articles/c5yvdy6r031o|fire engulfs london waste centre|563f2e179c8b60dc63f3767025386633
 2026-08-18T23:00:51.222296+00:00|https://news.sky.com/story/londons-ulez-linked-to-improved-lung-growth-in-children-says-study-13574518|londons ulez linked to improved lung growth in children says study|e4410ab080d59dc4c78bc9f359404cd4
 2026-08-18T23:59:01.280513+00:00|https://www.bbc.co.uk/news/articles/c80n48kg0vjo|camilla admits it was difficult to keep kings cancer diagnosis a secret|7d6b2390d2283d22d5d465cb532c12cc
+2026-08-19T01:46:57.260563+00:00|https://www.bbc.co.uk/news/articles/cn8nmm51l49o|deaf patient given wrong jab due to sign language error report says|156eb4a7540db243c60e58215a385d17
+2026-08-19T01:46:59.947762+00:00|https://www.bbc.co.uk/weather/articles/c79g04899wno|is another uk heatwave on the way in september|78a8f64260a8465faeb88daded83dbca

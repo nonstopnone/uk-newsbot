@@ -22861,5 +22861,26 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787097540.637754
+  },
+  "129c5bc0e9cba21e2e5135622cdbbbbc": {
+    "is_relevant": true,
+    "reasoning": "This is significant health and infrastructure news regarding the impact of London's ULEZ policy on public health, which is a matter of major UK interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787103998.261954
+  },
+  "6664c904f2e4d577df83666c11b7ce2f": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer affairs/lifestyle service piece concerning a private company's internal moderation policies rather than hard news impacting national policy, security, or the wider economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787104007.562073
+  },
+  "c460c1b234fa65f5e83bbbeea96506b7": {
+    "is_relevant": false,
+    "reasoning": "This is a general consumer trends and banking data report rather than hard news concerning UK politics, the economy, or significant societal events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787104016.52258
   }
 }
