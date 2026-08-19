@@ -23022,5 +23022,19 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1787157240.733829
+  },
+  "c129c6ecda2857ba5c5a33e0029eafc9": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant government policy initiative regarding the integration and management of asylum seekers, featuring direct involvement from the Home Office and opposition political parties.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1787159004.707793
+  },
+  "58d45a4e16cc9afc22c8d492be43a51e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing legal proceedings involving a high-profile figure appearing before the High Court in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787159017.754961
   }
 }
