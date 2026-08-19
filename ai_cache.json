@@ -22889,5 +22889,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1787116434.29339
+  },
+  "105ef4f8a6e5253bd163db26bfb278d7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on social cohesion and public safety within a major UK city, directly falling under crime and societal stability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787125181.534803
+  },
+  "a67d4555573535d63cb3d0c578f161ed": {
+    "is_relevant": false,
+    "reasoning": "This is a regional human interest story about recreational or niche commercial fishing; it does not constitute hard news or significant national interest for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787125192.342436
   }
 }
