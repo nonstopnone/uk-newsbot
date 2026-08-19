@@ -22917,5 +22917,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787132993.370361
+  },
+  "e02c2180e9c7fd2abf4e5bda666c9177": {
+    "is_relevant": false,
+    "reasoning": "This is a business-related sports story regarding private investment, which falls under commercial/sports news rather than hard UK news or major public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787139688.619229
   }
 }
