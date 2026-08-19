@@ -23036,5 +23036,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787159017.754961
+  },
+  "72ac6550a3e0de568ed878753f582596": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and public safety incident involving a fatality and a major police investigation in the capital.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787161292.847739
   }
 }
