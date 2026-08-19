@@ -23099,5 +23099,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787175157.437194
+  },
+  "d63975e420cbeda2a87d463e31e30064": {
+    "is_relevant": true,
+    "reasoning": "The return of senior members of the Royal Family to the UK is a matter of significant national public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787176905.423976
   }
 }
