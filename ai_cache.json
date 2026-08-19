@@ -23071,5 +23071,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787167647.158698
+  },
+  "31027b76db4f115ea3d2523f51c38ae8": {
+    "is_relevant": true,
+    "reasoning": "This report concerns critical UK infrastructure and government policy regarding the capacity crisis in the prison system, which is a matter of significant public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787173057.099343
+  },
+  "aac346c5293de47635977457fd744ab4": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant criminal investigation and prosecution involving UK police and individuals based in London, falling squarely under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787173064.558861
   }
 }
