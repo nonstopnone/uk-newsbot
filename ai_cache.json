@@ -22882,5 +22882,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787104016.52258
+  },
+  "1b4521e506d29cfcfa9c699a7340d3df": {
+    "is_relevant": true,
+    "reasoning": "This report covers significant shifts in the UK education and employment landscape, impacting national policy regarding skills and university alternatives.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787116434.29339
   }
 }
