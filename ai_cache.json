@@ -22910,5 +22910,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1787130304.767532
+  },
+  "852f408e49938b9ec09b5c1fa6ecfbe5": {
+    "is_relevant": false,
+    "reasoning": "This is a local political development within Pakistan and does not materially affect the UK, nor does it concern UK domestic affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787132993.370361
   }
 }
