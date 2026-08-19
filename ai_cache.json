@@ -22903,5 +22903,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787125192.342436
+  },
+  "4ff9b183d0545661a2a6107c17a9130d": {
+    "is_relevant": true,
+    "reasoning": "The refurbishment of the historic Harland & Wolff cranes is a significant piece of infrastructure news for Northern Ireland, carrying cultural and economic importance.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1787130304.767532
   }
 }
