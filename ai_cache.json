@@ -23106,5 +23106,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787176905.423976
+  },
+  "db9eaaf5b61fb518a7ed13e908bcbe75": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a murder case involving systemic failures in youth social services in Scotland, which is a matter of clear public interest regarding crime, legal accountability, and devolved governance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787179342.240309
+  },
+  "72abc9df3215de70bf0fe17b5381b1db": {
+    "is_relevant": true,
+    "reasoning": "This is a significant education-related news story regarding the Welsh education system, exam qualifications, and national student outcomes, which is of direct public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787179352.815651
   }
 }
