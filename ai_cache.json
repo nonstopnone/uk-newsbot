@@ -23057,5 +23057,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787165309.228885
+  },
+  "a7dd8819c30e053734e6d6e2eab8d3c3": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report concerning cricket, which is classified as fluff or sports content rather than the hard news relevant to the subreddit's criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787167640.342411
+  },
+  "aee118be01d7f7faa469fc8e6e3e2377": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, tragic domestic news event involving the loss of life and an ongoing police investigation in a UK coastal town.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787167647.158698
   }
 }
