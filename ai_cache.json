@@ -23043,5 +23043,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787161292.847739
+  },
+  "781ad146213d95f6b9af9252796a100d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a serious crime and subsequent court sentencing in the UK, which falls under the remit of UK legal and criminal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787165299.767881
+  },
+  "88396feb6370775e34e10593ea342b28": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health and safety issue concerning a major UK infrastructure/leisure site, requiring immediate public awareness.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787165309.228885
   }
 }

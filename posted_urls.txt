@@ -1,7 +1,3 @@
-2026-08-12T18:09:34.874361+00:00|https://www.bbc.co.uk/news/articles/cj03pm5n6gzo|victim of fatal clapham shooting named|deb20f3bc60afe7e8499ddcebc6592ab
-2026-08-12T18:09:37.153058+00:00|https://news.sky.com/story/bus-driver-shot-dead-outside-london-pub-named-by-police-13572349|bus driver shot dead outside london pub named by police|e642cf023c9ecbdeff91cb859b3579d0
-2026-08-12T18:09:39.762027+00:00|https://www.bbc.co.uk/news/articles/cvgwz81w892o|ann widdecombes loved ones gather for her funeral|9c027d07401ce6eb623808669fe570b2
-2026-08-12T18:09:44.712772+00:00|https://news.sky.com/story/man-102-in-critical-condition-after-alleged-assault-at-pub-13572296|man 102 in critical condition after alleged assault at pub|f80591a77f59198020da8041713bd1bc
 2026-08-12T19:27:15.608368+00:00|https://www.bbc.co.uk/news/articles/czdm20051pzo|green councillor charged with assaults|5879ce505f2a9ac7717147e88636e4dd
 2026-08-12T19:27:18.390736+00:00|https://www.telegraph.co.uk/football/2026/08/12/newcastle-vs-everton-live-score-latest-pre-season-friendly|everton dispatch newcastle to give matthias jaissle a reality check|891ba7819b74b071d4ad8d63fb59a917
 2026-08-12T19:27:20.946480+00:00|https://www.bbc.co.uk/news/articles/c9356l5v07go|new forest wildfire continues as temperatures rise|2fc859fe9f425f19315389f929c1c869
@@ -228,3 +224,5 @@
 2026-08-19T17:03:41.678506+00:00|https://www.bbc.co.uk/news/articles/ckge7j9veljo|snooker champion dott told boy to stay out while in room with girl jury told|58d45a4e16cc9afc22c8d492be43a51e
 2026-08-19T17:41:33.926066+00:00|https://news.sky.com/story/woman-dies-and-nine-people-taken-to-hospital-following-fire-at-london-property-as-murder-investigation-launched-13574821|woman dies and nine people taken to hospital following fire at london property as murder investigation launched|72ac6550a3e0de568ed878753f582596
 2026-08-19T17:41:36.522685+00:00|https://www.bbc.co.uk/news/articles/c9q9z402d1yo|students wait for gcse and btec grades as app launches for 750 schools in england|06011e64f0aaffe248979b6af39beb83
+2026-08-19T18:48:30.011416+00:00|https://www.bbc.co.uk/news/articles/cy0jrk67gd4o|frustrated teen drove at 140mph on way to gym before crashing into taxi|781ad146213d95f6b9af9252796a100d
+2026-08-19T18:48:32.582690+00:00|https://news.sky.com/story/swimmers-told-to-avoid-londons-only-thames-bathing-spot-due-to-toxic-algae-13574781|swimmers told to avoid londons only thames bathing spot due to toxic algae|88396feb6370775e34e10593ea342b28
