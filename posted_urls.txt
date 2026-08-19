@@ -1,5 +1,3 @@
-2026-08-12T14:59:31.310963+00:00|https://www.bbc.co.uk/news/articles/cm2gpe7jzn3o|windermere signs to warn of algae poisoning risk|1bde0dd544ca38d0d9ed228b2224aff9
-2026-08-12T14:59:33.680313+00:00|https://www.bbc.co.uk/news/articles/c4g30dw9xw6o|double killer and rapist given whole life sentence|2bb1a3d145f485a0b34811dcd9ad4786
 2026-08-12T16:05:14.881544+00:00|https://www.bbc.co.uk/news/articles/cwyj27e4xlwo|rot in prison relatives tell double murderer and rapist|9d0f92d3213e1ad934223cea372d80af
 2026-08-12T16:05:17.378037+00:00|https://www.bbc.co.uk/news/articles/cly5pj0qyd4o|estonia rejects proposals to take prisoners from uk jails|9a6b4026c94aad80985a38a3611cdb98
 2026-08-12T17:13:30.950208+00:00|https://www.bbc.co.uk/news/articles/cr59p2nr6dqo|burnham considers disposable bbq ban over wildfire risks|86ba0a434de7794c8dd953abba6705cd
@@ -223,3 +221,6 @@
 2026-08-19T13:58:39.685481+00:00|https://news.sky.com/story/thunderstorm-warnings-issued-for-parts-of-the-uk-13574683|thunderstorm warnings issued for parts of the uk|7fe307ad2aa38c78a2f4ad0c9fb4c7e4
 2026-08-19T14:42:17.048950+00:00|https://www.bbc.co.uk/news/articles/cqlxn0q4103o|ill announce a new health minister on thursday says burrows after nesbitt row|64172d7b7eacb4f3e45af1c6b2d71337
 2026-08-19T14:42:19.436977+00:00|https://www.bbc.co.uk/news/articles/c4gx12v8z51o|track defect found near derailment site report|871d7dd649ff4778dfe6b32545c227b3
+2026-08-19T15:13:53.597990+00:00|https://www.telegraph.co.uk/business/2026/08/19/inflation-uk-economy-burnham|burnham blames trumps war in iran for higher inflation|803c9ae78b3152ecd1b4b4e04bd9db4c
+2026-08-19T15:13:56.409170+00:00|https://www.bbc.co.uk/news/articles/cvglyyy1rvvo|lessons need to be learned from wildfires minister admits|ebe448143eb87a66a0f3562b5a64325a
+2026-08-19T15:13:58.972110+00:00|https://www.bbc.co.uk/news/articles/c2dk657dky1o|jury discharged in palestine action elbit raid trial|56d365f125623001b2e4bdb79dbaaad1
