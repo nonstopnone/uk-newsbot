@@ -23085,5 +23085,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787173064.558861
+  },
+  "e9ae04d407f1f67fd4591430413b6aa2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the suspension of medical services within the NHS, which is a matter of clear public interest and direct relevance to UK health infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787175147.624619
+  },
+  "0c4eed192a08c96a21d7a18d0ac0c369": {
+    "is_relevant": true,
+    "reasoning": "The relocation of the Duke and Duchess of Sussex to the UK is a significant news story concerning the Royal family and is of high public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787175157.437194
   }
 }
