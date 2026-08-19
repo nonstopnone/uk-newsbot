@@ -1,5 +1,3 @@
-2026-08-12T13:50:02.903437+00:00|https://www.bbc.co.uk/news/articles/c5y3egv4m4mo|burnham warned of iran war impact on uk growth next year|6bff893199e920ce1a218ee5e344c9a4
-2026-08-12T13:50:05.372432+00:00|https://www.bbc.co.uk/news/articles/cn4npy3w1p2o|cambridge review into jason arday post will be independent university says|475ae4c8896d2c69aae62959cbf74e05
 2026-08-12T14:59:31.310963+00:00|https://www.bbc.co.uk/news/articles/cm2gpe7jzn3o|windermere signs to warn of algae poisoning risk|1bde0dd544ca38d0d9ed228b2224aff9
 2026-08-12T14:59:33.680313+00:00|https://www.bbc.co.uk/news/articles/c4g30dw9xw6o|double killer and rapist given whole life sentence|2bb1a3d145f485a0b34811dcd9ad4786
 2026-08-12T16:05:14.881544+00:00|https://www.bbc.co.uk/news/articles/cwyj27e4xlwo|rot in prison relatives tell double murderer and rapist|9d0f92d3213e1ad934223cea372d80af
@@ -220,3 +218,6 @@
 2026-08-19T12:02:05.103238+00:00|https://news.sky.com/story/manhunt-under-way-after-double-murder-in-glasgow-13574688|manhunt under way after double murder in glasgow|c93492ff14063201bd3ce06e8d5e9d9f
 2026-08-19T12:02:07.997106+00:00|https://www.bbc.co.uk/news/articles/cwyjqe62574o|trainline virgin atlantic and red driving school investigated over drip pricing|3800967d0abe7245fb934844491d8cfc
 2026-08-19T13:09:10.357429+00:00|https://www.bbc.co.uk/news/articles/c77g3gk213zo|man convicted after mistaken identity cigarette fine|a3917b7b49d11652188e270d8c4f8a51
+2026-08-19T13:58:34.436551+00:00|https://www.bbc.co.uk/news/articles/c62vy8qe1p6o|two jailed for violent disorder at asylum hotel|181380e44d8c97d652f71e5de336f131
+2026-08-19T13:58:36.955427+00:00|https://www.bbc.co.uk/news/articles/c98vzjyz58do|health bodies back nesbitt following resignation|ab522d28c517ac2987342929ea3d9406
+2026-08-19T13:58:39.685481+00:00|https://news.sky.com/story/thunderstorm-warnings-issued-for-parts-of-the-uk-13574683|thunderstorm warnings issued for parts of the uk|7fe307ad2aa38c78a2f4ad0c9fb4c7e4

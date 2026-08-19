@@ -22952,5 +22952,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787144947.682023
+  },
+  "181380e44d8c97d652f71e5de336f131": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing involving violent disorder at an asylum hotel in the UK, which falls under both crime and immigration-related societal issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787147873.854377
+  },
+  "ab522d28c517ac2987342929ea3d9406": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and public health development within a devolved government in the UK, directly impacting NHS service delivery.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787147882.151714
+  },
+  "56d365f125623001b2e4bdb79dbaaad1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal proceeding involving an ongoing trial at the Old Bailey concerning civil unrest and criminal charges.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787147892.046515
+  },
+  "fea4a2a6bbfceda6e00d3f0e3a0c9eb2": {
+    "is_relevant": false,
+    "reasoning": "This is a personal lifestyle/health story regarding a media personality and does not constitute hard news or a matter of national significance for a general UK news feed.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787147901.544752
+  },
+  "7fe307ad2aa38c78a2f4ad0c9fb4c7e4": {
+    "is_relevant": true,
+    "reasoning": "Weather warnings affecting the UK infrastructure and public safety constitute significant national news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787147912.602709
   }
 }
