@@ -22945,5 +22945,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1787140920.321987
+  },
+  "a3917b7b49d11652188e270d8c4f8a51": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding local government administrative failure and the implications of private enforcement contracts within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787144947.682023
   }
 }
