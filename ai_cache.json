@@ -22987,5 +22987,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787147912.602709
+  },
+  "64172d7b7eacb4f3e45af1c6b2d71337": {
+    "is_relevant": true,
+    "reasoning": "This is significant political news concerning a ministerial resignation and replacement within the Northern Ireland Executive at Stormont, directly affecting UK devolved governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787150525.980172
+  },
+  "871d7dd649ff4778dfe6b32545c227b3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a serious rail infrastructure safety incident involving injuries, which falls under UK major infrastructure and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787150535.149784
   }
 }
