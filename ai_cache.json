@@ -22924,5 +22924,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787139688.619229
+  },
+  "3ed1771c8fe1c9e64e3c3bfd31607a8e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report concerning an active double murder investigation in Glasgow, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787140898.585091
+  },
+  "c93492ff14063201bd3ce06e8d5e9d9f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a double murder and an active police manhunt in a major UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787140911.913115
+  },
+  "3800967d0abe7245fb934844491d8cfc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer rights and regulatory enforcement action by the CMA affecting major UK service providers, which is highly relevant to UK economic and consumer policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787140920.321987
   }
 }
