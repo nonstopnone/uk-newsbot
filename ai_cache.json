@@ -23148,5 +23148,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1787190366.002255
+  },
+  "2e80a17e95718cf76d1dfcc9982028f8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development within the Northern Ireland Executive involving the resignation of a government minister and the restructuring of the health department.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787204812.799626
   }
 }
