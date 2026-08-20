@@ -23120,5 +23120,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787179352.815651
+  },
+  "9c58293f558a768be55e235f1d1e1b61": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story focusing on the personal experience of an individual rather than hard news, policy developments, or significant national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787190324.253619
+  },
+  "be3ba3f6b5a3ff2a84f8153c48c392ee": {
+    "is_relevant": true,
+    "reasoning": "The report directly concerns UK public health policy and calls on the UK government to implement new regulatory restrictions on vaping, making it a matter of significant domestic interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787190339.692114
+  },
+  "9a0c96ca0011c0c4a17a9f1ab87fa0f2": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant development regarding the Duke and Duchess of Sussex relocating to the UK, which is a major subject of public and media interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787190356.66176
+  },
+  "1c07eb30a165c4a69f94f820b1e197e6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the arrest of a high-profile criminal by UK authorities, directly relating to national security and immigration law enforcement.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1787190366.002255
   }
 }
