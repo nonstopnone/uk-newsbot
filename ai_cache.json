@@ -23246,5 +23246,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787226205.455721
+  },
+  "eed5d93acbbf22690f7490458be92831": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant development regarding the return of the Duke and Duchess of Sussex to the UK and the associated security and political implications involving the Prime Minister.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787228116.590363
   }
 }
