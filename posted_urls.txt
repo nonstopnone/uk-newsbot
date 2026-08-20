@@ -1,6 +1,3 @@
-2026-08-13T12:27:58.561639+00:00|https://www.bbc.co.uk/news/articles/czxq2q0d2w1o|binning batteries can start fires and put lives at risk says union boss|3e440c36386f18e35f8260983b82b26a
-2026-08-13T12:28:00.906946+00:00|https://www.bbc.co.uk/news/articles/crrvp45gxzpo|heatwaves drive ae attendances up to record high|3a0f85823cf88e7c96a3498d38ef37c0
-2026-08-13T12:28:03.614462+00:00|https://www.telegraph.co.uk/business/2026/08/13/uk-economy-andy-burnham-growth-gdp-ftse-100-markets|more pain to come after economic slowdown|bcb8425f774f8abfd0ad1236d074374a
 2026-08-13T14:01:01.693271+00:00|https://www.bbc.co.uk/news/articles/cd69p89gl6xo|harvey nichols bought by owner of sports direct|206af1dbcbd620d3e554903c8a72ed24
 2026-08-13T14:01:04.264250+00:00|https://news.sky.com/story/102-year-old-man-dies-after-alleged-assault-at-pub-13572598|102yearold man dies after alleged assault at pub|65401eabbc3bd6d6a03f876959d35db1
 2026-08-13T14:01:06.694798+00:00|https://www.bbc.co.uk/news/articles/c74grygm2neo|man dies days after explosion at bungalow|f3e6d672c759caf422c6b9f7764a256f
@@ -232,3 +229,4 @@
 2026-08-20T11:05:05.548581+00:00|https://www.bbc.co.uk/news/articles/c235dd7z7m3o|robbie butler to be new health minister|9162805bebe7caeda21e98f6f6a0af15
 2026-08-20T11:43:26.948891+00:00|https://www.bbc.co.uk/news/articles/cp9eggpjl3lo|pensioner had largest hoard of child abuse images to be seized in scotland|3f7a28c5618cfcb8fad76af770826f3a
 2026-08-20T12:15:18.146377+00:00|https://www.bbc.co.uk/news/articles/cr59yg34r4mo|harry and meghans security arrangements a private matter pm says|eed5d93acbbf22690f7490458be92831
+2026-08-20T13:15:34.019906+00:00|https://www.bbc.co.uk/news/articles/cvgjd255r7eo|tinder conman who claimed he was a millionaire jailed for taking £68000 from victims|995f187c2b6ca47b40592441784974a4

@@ -23253,5 +23253,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787228116.590363
+  },
+  "995f187c2b6ca47b40592441784974a4": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing within the UK court system, falling under the remit of UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787231732.425793
   }
 }
