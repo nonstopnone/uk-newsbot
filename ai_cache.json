@@ -23337,5 +23337,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787256194.665958
+  },
+  "486fa8387b0abb9e4d5c7d4825d27151": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a historical personal event rather than hard news concerning UK policy, politics, or significant current events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787261390.267381
+  },
+  "7785a333aff2d0891f1eec23828e7785": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling by a UK court (Court of Session) involving the NHS health boards and the welfare of children, which falls under UK legal and health matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787261397.552291
   }
 }
