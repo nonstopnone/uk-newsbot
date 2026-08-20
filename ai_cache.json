@@ -23155,5 +23155,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787204812.799626
+  },
+  "2c3e63804486c920abfb86ff03cb1b91": {
+    "is_relevant": true,
+    "reasoning": "This is a significant diplomatic action taken by a senior UK government minister concerning international affairs, which is a matter of clear relevance to UK foreign policy.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787208593.840425
+  },
+  "ddf7f64b81e79dcff7086b32c52bc64b": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding a farm attraction and does not constitute hard news relevant to national UK politics, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787208603.789253
+  },
+  "0383024a125f8e4d8c5884c5665458e0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant public safety and antisocial behaviour issue impacting multiple UK communities, including government policy responses regarding police seizure powers.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787208636.208263
+  },
+  "c3fe2b370dc93a2b1feb1b6e8ae55c35": {
+    "is_relevant": true,
+    "reasoning": "The news that the Duke and Duchess of Sussex are planning a permanent move back to the UK is a significant development concerning members of the Royal Family and their relationship with the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787208643.772682
   }
 }

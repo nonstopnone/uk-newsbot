@@ -1,4 +1,3 @@
-2026-08-13T06:02:49.693601+00:00|https://www.bbc.co.uk/news/articles/cx2j1peddwgo|the papers the sun the moon and the greatest show on earth|9b65acae5b055e7025c18facf4ecbbc7
 2026-08-13T07:54:46.073806+00:00|https://www.bbc.co.uk/news/articles/c3d32np89z4o|streets evacuated after massive fire destroys homes|8fde2e39c6f76dc616ec3d6bcbeaf668
 2026-08-13T07:54:48.943087+00:00|https://www.bbc.co.uk/news/articles/cp308xpwv34o|polls open in clacton byelection|fd8026b0064a529950061094d6581acd
 2026-08-13T07:54:51.619067+00:00|https://news.sky.com/story/gdp-uk-growth-slows-but-economy-resilient-despite-iran-war-latest-data-says-13572451|uk growth slows but economy resilient despite iran war|85b948e9b40510ec1d0febeadf619cfa
@@ -229,3 +228,6 @@
 2026-08-20T03:32:57.720317+00:00|https://www.bbc.co.uk/weather/articles/cevm32j9pp3o|downpours to continue for uk with risk of flash flooding|d446f98fbd02b4739e8c716654540ea6
 2026-08-20T05:46:53.912676+00:00|https://www.bbc.co.uk/news/articles/cddj83g54lvo|burrows to announce nesbitts replacement as health minister|2e80a17e95718cf76d1dfcc9982028f8
 2026-08-20T05:46:56.543754+00:00|https://www.bbc.co.uk/news/articles/c74gp1024lpo|coolcations they used to joke about our weather now they cant wait for the rain|b9b821652dd8b37bc1926b5dbd2e7922
+2026-08-20T06:50:44.592778+00:00|https://news.sky.com/story/miliband-summons-top-israeli-diplomat-over-unacceptable-and-destructive-settlement-project-13574896|a hrefhttpsnewsskycomstorypoliticslatestandyburnhamlabourkemibadenochtoriesnigelfaragereform12593360postid12252391liveblogbodymiliband summons top israeli diplomat over unacceptable and destructive settlement projecta|2c3e63804486c920abfb86ff03cb1b91
+2026-08-20T06:50:47.312626+00:00|https://www.bbc.co.uk/news/articles/cgmkzm3318go|anger and fear over dangerous illegal emotorbike riders|0383024a125f8e4d8c5884c5665458e0
+2026-08-20T06:50:50.221546+00:00|https://www.bbc.co.uk/news/articles/c36dwp2enl7o|royal marines and soldiers settle mod asbestos claim|fc4236757c9d6c94ed729f874f809943
