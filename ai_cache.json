@@ -23358,5 +23358,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787265085.195022
+  },
+  "ccd2e75e90b4ed5fcad43ee9ae67609a": {
+    "is_relevant": true,
+    "reasoning": "The story concerns the security of members of the British Royal Family and the implications for public funding, which is a matter of significant UK public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787269304.306508
   }
 }

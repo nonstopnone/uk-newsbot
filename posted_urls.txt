@@ -1,5 +1,3 @@
-2026-08-13T23:04:07.551921+00:00|https://www.bbc.co.uk/news/articles/c4gd4412yvyo|councillors say salary not attractive to young candidates|4c52e70b1d78bdcc133659c51ba1e84a
-2026-08-13T23:04:10.122056+00:00|https://www.bbc.co.uk/news/articles/c04k20w7lr6o|multiple fires destroy homes and cause devastation in west midlands|b7675149a5dfbde932052d18269953af
 2026-08-14T00:00:22.832307+00:00|https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do|two out of four baby hunt wins 200m as she eyes historic quadruple|9c1530b85d7633ae6d6e3b0f9dd6a3f4
 2026-08-14T00:00:25.395157+00:00|https://www.bbc.co.uk/news/articles/cgq5pd3pwdjo|victims call for sex attackers to be excluded from early release plans|8cd97e85e95122f1a35cf4714c15c6f6
 2026-08-14T02:36:44.043464+00:00|https://www.bbc.co.uk/news/articles/c0m7yz0w7rko|the papers houses burn and train derails on hottest day and britain on fire|949dcb480e5cce1b11d3f762de2f5611
@@ -227,3 +225,4 @@
 2026-08-20T20:03:15.454451+00:00|https://news.sky.com/story/police-appeal-for-information-after-man-found-shot-dead-in-car-in-london-13575166|police appeal for information after man found shot dead in car in london|9906bbbc53147e8fd350e0ebedae09bd
 2026-08-20T21:29:58.740252+00:00|https://www.bbc.co.uk/news/articles/cx2v0k9lez4o|judge ruled children could have lifesaving treatment after parents refused|7785a333aff2d0891f1eec23828e7785
 2026-08-20T22:31:26.670680+00:00|https://www.bbc.co.uk/news/articles/c1d1v333ewxo|french becoming more effective in stopping small boat crossings uk says|ef2d0dd16b46f529ce0d27179e6b8130
+2026-08-20T23:41:45.565720+00:00|https://news.sky.com/story/harry-and-meghans-return-uk-security-could-cost-millions-as-uncertainty-remains-over-who-will-pay-for-it-13575222|sussexes uk security could cost millions as uncertainty remains over who will pay for it|ccd2e75e90b4ed5fcad43ee9ae67609a
