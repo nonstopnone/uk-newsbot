@@ -23267,5 +23267,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787234907.621684
+  },
+  "e061ea1ab3335bc70f675bae4e10a310": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a terrorist attack on UK soil, which is a matter of clear public interest and legal importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787240171.992816
   }
 }
