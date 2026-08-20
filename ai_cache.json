@@ -23260,5 +23260,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787231732.425793
+  },
+  "9137b2d0e0f71b8c3b421894bd0e0a70": {
+    "is_relevant": true,
+    "reasoning": "The story concerns high-profile security arrangements involving the Royal Family and official government policy regarding their protection, which is a matter of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787234907.621684
   }
 }
