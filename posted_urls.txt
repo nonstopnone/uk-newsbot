@@ -1,5 +1,3 @@
-2026-08-13T16:10:47.309292+00:00|https://www.bbc.co.uk/news/articles/c5yw7nxdwlpo|children in temporary accommodation hits record high|833ae6b11717af8bd4c1caa9ab435354
-2026-08-13T16:10:49.750143+00:00|https://www.bbc.co.uk/news/articles/cx2j1v1njepo|dad to stand trial accused of murdering daughter minnie merriman|a26a22f32657d5b20baa2a62e6f74dc1
 2026-08-13T17:14:29.657279+00:00|https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo|uk sees hottest day of the year as 381c recorded in kew gardens|62f8de0ba6d6b3aa462e55a989011626
 2026-08-13T17:14:32.180968+00:00|https://www.bbc.co.uk/news/articles/clyqpqxv04go|five key takeaways from results day 2026|ea2be1806d9ac3cf1fd45a45d3030d56
 2026-08-13T18:09:32.299406+00:00|https://www.bbc.co.uk/news/articles/c4gd47j24wyo|i worked really hard and it paid off elation nerves and proud parents as students get results|5d9ec866b115fd1f904d1f0d316bead1
@@ -230,3 +228,5 @@
 2026-08-20T15:36:12.646283+00:00|https://news.sky.com/story/man-charged-over-terror-attack-at-manchester-synagogue-last-year-13575058|man charged over terror attack at manchester synagogue last year|e061ea1ab3335bc70f675bae4e10a310
 2026-08-20T16:06:22.525944+00:00|https://www.bbc.co.uk/news/articles/c235jlpmd1jo|reforms leader in scotland malcolm offord reveals cancer diagnosis|27c562d70b8d3db6af0931300971eb35
 2026-08-20T16:06:25.157108+00:00|https://www.bbc.co.uk/news/articles/cm2g5ne37zyo|man charged over manchester synagogue attack|2ab0a1e8812df088b7c91b2cd83bbdbf
+2026-08-20T16:51:11.025072+00:00|https://www.bbc.co.uk/news/articles/czdm6d2z3gro|relentless gcse resit cycle simply not working school and college leaders say|8c773ce663fc8c085623562b0ab045ba
+2026-08-20T16:51:13.414122+00:00|https://news.sky.com/story/british-banking-giants-deliver-tax-rise-warning-to-new-chancellor-13575110|british banking giants deliver tax rise warning to new chancellor|ffea256a64735e1b5db67eacd6352473

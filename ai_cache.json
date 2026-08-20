@@ -23288,5 +23288,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787241981.833037
+  },
+  "8c773ce663fc8c085623562b0ab045ba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant education policy issue affecting schools and students across England, involving government reform plans for qualifications.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787244662.530286
+  },
+  "ffea256a64735e1b5db67eacd6352473": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK fiscal policy and the upcoming national Budget, which directly impacts the UK economy and financial sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787244670.292817
   }
 }
