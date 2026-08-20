@@ -23351,5 +23351,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787261397.552291
+  },
+  "494dd0f4043cf2adf07f284307a9f6ee": {
+    "is_relevant": false,
+    "reasoning": "This is a foreign news story concerning a former Pakistani leader that does not materially affect the UK or constitute a major area of UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787265085.195022
   }
 }
