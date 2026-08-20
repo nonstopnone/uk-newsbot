@@ -229,3 +229,5 @@
 2026-08-20T08:18:41.143405+00:00|https://www.bbc.co.uk/news/articles/c70gpggglllo|school deeply saddened by death of family in sea off shoreham|03930e86df835167c9d25f5a9c46720b
 2026-08-20T08:18:43.878547+00:00|https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o|burnham announces plans to clean up worst three illegal waste dumps|6f1e76158e3497875d26e7ccb4049b5a
 2026-08-20T09:50:52.392642+00:00|https://news.sky.com/story/miliband-clashes-with-israel-over-controversial-west-bank-settlement-13574939|miliband and israel clash over controversial west bank settlement project|a552f478a1342102d775f4cc39d2c83a
+2026-08-20T10:33:18.171807+00:00|https://www.bbc.co.uk/news/articles/ceqe385qen2o|john swinney defends £45000 businessclass flights to world cup|3ca052c44b1d29d7b4ef1c5a8d4e207e
+2026-08-20T10:33:20.533361+00:00|https://news.sky.com/story/british-motorbike-racer-is-second-to-die-in-qualifying-for-manx-grand-prix-13574946|british racer second to die in qualifying for manx grand prix|c1e2f016c5e101f179ab324de5739551

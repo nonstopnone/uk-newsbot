@@ -23197,5 +23197,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787219451.256229
+  },
+  "3ca052c44b1d29d7b4ef1c5a8d4e207e": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the use of public funds by a senior devolved government official, involving matters of governmental accountability and taxpayer spending.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787221967.956731
+  },
+  "707101a8ff66d663a3b744da26c0d122": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer interest story regarding a private business software price increase; it does not constitute hard news of national significance or systemic economic impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787221987.570144
+  },
+  "c1e2f016c5e101f179ab324de5739551": {
+    "is_relevant": true,
+    "reasoning": "The death of a British competitor in a prominent UK-based motorsport event constitutes significant domestic news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787221997.373433
   }
 }
