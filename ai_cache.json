@@ -23183,5 +23183,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787208643.772682
+  },
+  "03930e86df835167c9d25f5a9c46720b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, tragic domestic news event involving a multi-fatality incident in the UK that is being actively investigated by Sussex Police.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787213919.489656
   }
 }

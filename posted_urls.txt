@@ -1,6 +1,3 @@
-2026-08-13T07:54:46.073806+00:00|https://www.bbc.co.uk/news/articles/c3d32np89z4o|streets evacuated after massive fire destroys homes|8fde2e39c6f76dc616ec3d6bcbeaf668
-2026-08-13T07:54:48.943087+00:00|https://www.bbc.co.uk/news/articles/cp308xpwv34o|polls open in clacton byelection|fd8026b0064a529950061094d6581acd
-2026-08-13T07:54:51.619067+00:00|https://news.sky.com/story/gdp-uk-growth-slows-but-economy-resilient-despite-iran-war-latest-data-says-13572451|uk growth slows but economy resilient despite iran war|85b948e9b40510ec1d0febeadf619cfa
 2026-08-13T09:14:46.350359+00:00|https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o|uk economy grows between april and june but experts warn of challenges in coming months|97629933cf279f05d3285714d9a91e29
 2026-08-13T09:14:48.940914+00:00|https://www.bbc.co.uk/news/articles/cj367pr28ypo|arrest in thetford migrant address sharing investigation|0181429ed94a89406361e283b8b3ccc8
 2026-08-13T09:14:51.517678+00:00|https://news.sky.com/story/no-pay-rise-for-key-workers-equipping-the-uk-for-war-until-next-year-13572464|no pay rise for key workers equipping the uk for war until next year|5c7816f6b9b7bc8b9613e2e99a79378d
@@ -232,3 +229,5 @@
 2026-08-20T06:50:47.312626+00:00|https://www.bbc.co.uk/news/articles/cgmkzm3318go|anger and fear over dangerous illegal emotorbike riders|0383024a125f8e4d8c5884c5665458e0
 2026-08-20T06:50:50.221546+00:00|https://www.bbc.co.uk/news/articles/c36dwp2enl7o|royal marines and soldiers settle mod asbestos claim|fc4236757c9d6c94ed729f874f809943
 2026-08-20T07:42:12.994723+00:00|https://www.bbc.co.uk/news/videos/cn8ndp8m9ddo|key moments from harry and meghans years since leaving uk|c3fe2b370dc93a2b1feb1b6e8ae55c35
+2026-08-20T08:18:41.143405+00:00|https://www.bbc.co.uk/news/articles/c70gpggglllo|school deeply saddened by death of family in sea off shoreham|03930e86df835167c9d25f5a9c46720b
+2026-08-20T08:18:43.878547+00:00|https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o|burnham announces plans to clean up worst three illegal waste dumps|6f1e76158e3497875d26e7ccb4049b5a
