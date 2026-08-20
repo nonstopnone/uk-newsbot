@@ -23309,5 +23309,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787247088.838426
+  },
+  "4f4538dfac22ab8e4deef6ddf0d1db4e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK international Test cricket match involving the England national team, which qualifies as sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787252382.418563
   }
 }
