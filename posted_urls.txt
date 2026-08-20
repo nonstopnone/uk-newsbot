@@ -1,6 +1,3 @@
-2026-08-13T09:14:46.350359+00:00|https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o|uk economy grows between april and june but experts warn of challenges in coming months|97629933cf279f05d3285714d9a91e29
-2026-08-13T09:14:48.940914+00:00|https://www.bbc.co.uk/news/articles/cj367pr28ypo|arrest in thetford migrant address sharing investigation|0181429ed94a89406361e283b8b3ccc8
-2026-08-13T09:14:51.517678+00:00|https://news.sky.com/story/no-pay-rise-for-key-workers-equipping-the-uk-for-war-until-next-year-13572464|no pay rise for key workers equipping the uk for war until next year|5c7816f6b9b7bc8b9613e2e99a79378d
 2026-08-13T11:30:24.465335+00:00|https://www.bbc.co.uk/news/articles/cp30pppgxyeo|met chief accepts mistakes made over simon levy but defends investigation into murders|4ad31d911026a1618ce119a6514bd5e1
 2026-08-13T11:30:26.792587+00:00|https://www.bbc.co.uk/news/articles/c1l121j7yzdo|man jailed over onepunch death after pub row|74d2da44e57d3d17c42aa6785fccdc52
 2026-08-13T11:30:29.157531+00:00|https://news.sky.com/story/deadly-bluetongue-detected-on-second-farm-in-britain-as-three-more-suspected-cases-investigated-13572505|deadly bluetongue disease detected on second farm in scotland|c4f6a0c7327713a61cfe56c46b1a6b3f
@@ -231,3 +228,4 @@
 2026-08-20T07:42:12.994723+00:00|https://www.bbc.co.uk/news/videos/cn8ndp8m9ddo|key moments from harry and meghans years since leaving uk|c3fe2b370dc93a2b1feb1b6e8ae55c35
 2026-08-20T08:18:41.143405+00:00|https://www.bbc.co.uk/news/articles/c70gpggglllo|school deeply saddened by death of family in sea off shoreham|03930e86df835167c9d25f5a9c46720b
 2026-08-20T08:18:43.878547+00:00|https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o|burnham announces plans to clean up worst three illegal waste dumps|6f1e76158e3497875d26e7ccb4049b5a
+2026-08-20T09:50:52.392642+00:00|https://news.sky.com/story/miliband-clashes-with-israel-over-controversial-west-bank-settlement-13574939|miliband and israel clash over controversial west bank settlement project|a552f478a1342102d775f4cc39d2c83a

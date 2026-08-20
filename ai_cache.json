@@ -23190,5 +23190,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787213919.489656
+  },
+  "a552f478a1342102d775f4cc39d2c83a": {
+    "is_relevant": true,
+    "reasoning": "The involvement of the UK Foreign Secretary in a diplomatic dispute regarding international policy constitutes significant political news relevant to UK foreign affairs.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787219451.256229
   }
 }
