@@ -23316,5 +23316,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1787252382.418563
+  },
+  "be34a5055734ba54e668b8e3fff338da": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance and pressures facing the NHS in Wales, which is a core topic of devolved government and public service concern in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787254689.788027
+  },
+  "21d80d6a1ee754178a1ed74a30d1117c": {
+    "is_relevant": true,
+    "reasoning": "The UK government is a signatory to the joint international statement condemning these actions, making this a matter of official UK foreign policy and significant international diplomacy.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787254697.702901
   }
 }
