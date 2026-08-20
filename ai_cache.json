@@ -23302,5 +23302,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1787244670.292817
+  },
+  "225037cf23777fb71dad7bd8138674e3": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a disciplinary investigation at a Belgian university involving a non-UK researcher, and the subject matter does not constitute hard news relevant to the UK public interest despite the deceased being a UK academic.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787247088.838426
   }
 }
