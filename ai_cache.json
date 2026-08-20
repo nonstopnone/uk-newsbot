@@ -23218,5 +23218,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1787221997.373433
+  },
+  "376df4f06296315d268f6ca64a8bc8c0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal aircraft crash involving UK citizens, currently subject to an official inquest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787223883.4825
+  },
+  "9162805bebe7caeda21e98f6f6a0af15": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political appointment within a devolved government department, which directly impacts public health services in Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787223892.137947
+  },
+  "3cb574ef693e57ceacea2273f75b121f": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about the discovery of a historical collectible rather than hard news impacting current UK politics, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787223902.129447
   }
 }
