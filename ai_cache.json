@@ -23274,5 +23274,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787240171.992816
+  },
+  "3a851a0ab9162538000db3d10e19a472": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity health update which falls under personal interest/lifestyle news rather than hard news regarding UK governance, policy, or public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787241952.478082
+  },
+  "2ab0a1e8812df088b7c91b2cd83bbdbf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a terrorism-related court case involving a lethal attack on a UK synagogue, falling clearly under national security and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787241981.833037
   }
 }
