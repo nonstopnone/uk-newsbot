@@ -23330,5 +23330,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1787254697.702901
+  },
+  "9906bbbc53147e8fd350e0ebedae09bd": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious crime incident in London requiring police investigation, which constitutes hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787256194.665958
   }
 }
