@@ -23589,5 +23589,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787323031.790532
+  },
+  "532be49fa9c73564f06f10d53613d87a": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal case involving a serious attempted burglary in London, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787325299.967976
   }
 }

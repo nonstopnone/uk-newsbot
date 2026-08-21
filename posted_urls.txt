@@ -1,5 +1,3 @@
-2026-08-14T14:41:19.957713+00:00|https://www.bbc.co.uk/news/articles/cp8xr2n9560o|what we know so far about the west midlands fires|1645fe0757fc541c6fa70e3a07d05abd
-2026-08-14T14:41:22.554885+00:00|https://www.bbc.co.uk/news/articles/c5y4z0perlno|one million sign petition to keep pc harpers killers in jail|025d50990e1dda18e7fab7d2ac6b7c04
 2026-08-14T15:34:42.600095+00:00|https://www.bbc.co.uk/news/articles/cvg8qd970kzo|woman cleared of owning xl bully which fatally bit man|8f7ae41c4521093bf01dd74e6850f6cb
 2026-08-14T15:34:45.291615+00:00|https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o|chris mason where does this unorthodox byelection victory leave nigel farage|edce2fce32d641d39427d3ae3457ff17
 2026-08-14T16:34:22.140620+00:00|https://news.sky.com/story/liverpool-fcs-owners-confirm-consortium-including-amazon-founder-jeff-bezos-is-buying-minority-stake-in-club-13572962|liverpool confirm group including amazon founder jeff bezos buying minority stake|27a55f1701c81e781736ae226b2e283c
@@ -233,3 +231,4 @@
 2026-08-21T12:52:18.897977+00:00|https://news.sky.com/story/man-accused-of-failing-to-disclose-information-over-manchester-synagogue-attack-denies-charge-13575376|man denies charge over manchester synagogue attack|dc7f2fa38211abed625254b079e75b06
 2026-08-21T13:48:04.509674+00:00|https://www.bbc.co.uk/news/articles/c04kwr9r1zlo|prince harry and six others ordered to pay initial £95m to daily mail publisher|fd32c05136b6a81e9bf23a1320f8dbae
 2026-08-21T13:48:06.966358+00:00|https://www.bbc.co.uk/news/articles/ckgdrk5z47vo|three admit arson attack at persian media offices|7c34247ba37b90920aa29fdd15994d5e
+2026-08-21T15:15:05.537375+00:00|https://news.sky.com/story/three-plead-guilty-to-attempted-burglary-after-trying-to-tunnel-into-south-london-jewellers-13575439|three plead guilty to attempted burglary after trying to tunnel into jewellers|532be49fa9c73564f06f10d53613d87a
