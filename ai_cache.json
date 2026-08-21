@@ -23428,5 +23428,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787290513.053347
+  },
+  "79a1652f090a1e379df3e7ed5452af31": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal interest story regarding the ongoing impact and judicial outcome of a high-profile murder case in Liverpool.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787292306.938861
   }
 }
