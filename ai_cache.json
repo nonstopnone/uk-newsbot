@@ -23687,5 +23687,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787337583.068078
+  },
+  "f14d2eb02fa31fcc98333d9c98beb7cc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a tragic incident involving multiple deaths in the UK, which is currently subject to active police investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787348380.445717
+  },
+  "40dc7a3d90d05a141139f67014a7468d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result in the Premier League, which is a major UK-based sporting competition.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787348390.142501
+  },
+  "6dac757b44dfe948324a113e5a10729c": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of local government planning policy and housing regulation in Wales, which affects UK housing availability and devolved governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787348398.264937
   }
 }

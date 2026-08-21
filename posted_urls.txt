@@ -1,4 +1,3 @@
-2026-08-14T21:26:48.042910+00:00|https://www.bbc.co.uk/news/articles/c2k7y4k98x3o|fires prompt national alert as 19 homes destroyed|e2fd518d65b93c465b22673bda567574
 2026-08-14T21:51:04.632170+00:00|https://www.telegraph.co.uk/football/2026/08/14/wolves-vs-blackburn-championship-score-latest-updates-live|raul jimenezs late penalty seals share of spoils for wolves against blackburn|b4baa28221df2e62ba4efa627047faf7
 2026-08-14T22:25:21.742368+00:00|https://www.bbc.co.uk/news/articles/c8jn2g4xg72o|its shocking its come to this 5000 fewer health visitor appointments amid longrunning strike|8580937bc5125eb0521597b3669afd99
 2026-08-15T05:26:43.115999+00:00|https://news.sky.com/story/heathrow-warns-of-disruption-at-two-terminals-after-flooding-13573198|heathrow warns of disruption at two terminals after flooding|113ea3dcef5878609883fbafd0a761c8
@@ -232,3 +231,6 @@
 2026-08-21T18:39:48.946435+00:00|https://news.sky.com/story/manchester-arena-attack-survivor-says-terrorism-impact-continues-for-years-13575537|manchester arena attack survivor says terrorism impact continues for years|aabff63fc1dd193bb436e58406ca7905
 2026-08-21T19:14:25.624005+00:00|https://www.bbc.co.uk/news/articles/ce8k52186mmo|ofcom investigating sky news over farage harassment claims|deee288d2a7cecfc4fe80fc4618f941b
 2026-08-21T19:14:28.041016+00:00|https://www.bbc.co.uk/news/articles/c0rdk9ddepvo|murder probe after wildfire uncovers body in park|785efd9e7e3048555cef70b905efc7e2
+2026-08-21T21:40:00.029201+00:00|https://www.bbc.co.uk/news/articles/c629y0kx8gyo|girl 6 dies after family killed in sea off shoreham|f14d2eb02fa31fcc98333d9c98beb7cc
+2026-08-21T21:40:02.607532+00:00|https://www.telegraph.co.uk/football/2026/08/21/arsenal-vs-coventry-city-live-score-latest-premier-league|arsenal play like the champions they are as title defence starts with a bang|40dc7a3d90d05a141139f67014a7468d
+2026-08-21T21:40:05.134196+00:00|https://www.bbc.co.uk/news/articles/c5y4j92rv24o|people who want to live on this almostempty estate arent allowed to buy the homes|6dac757b44dfe948324a113e5a10729c
