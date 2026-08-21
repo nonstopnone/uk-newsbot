@@ -23582,5 +23582,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787320081.269206
+  },
+  "bf4764de786f8563e732ff1479a97cdf": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle piece regarding a celebrity's personal reflections rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787323031.790532
   }
 }
