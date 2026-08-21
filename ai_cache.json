@@ -23652,5 +23652,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787334449.487113
+  },
+  "1b77acb8f8ed451c565d202da9ef0ea6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving multiple defendants and serious charges, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787337539.501896
+  },
+  "37b5a9ef32ee1eecd4f513b2d7d6a30d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident involving a public transport vessel in Scotland that required police intervention and a mass evacuation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787337548.304338
+  },
+  "785efd9e7e3048555cef70b905efc7e2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation involving a murder inquiry in a public park in London, which constitutes hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787337560.70564
+  },
+  "172774cb8953d2b02f7fabcdbeca0467": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest or lifestyle sports story regarding amateur Sunday league football and does not constitute hard news or a significant event for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787337572.263328
+  },
+  "aabff63fc1dd193bb436e58406ca7905": {
+    "is_relevant": true,
+    "reasoning": "The Manchester Arena attack is a significant event in recent UK history, and this report addresses the long-term impact on survivors and public security policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787337583.068078
   }
 }
