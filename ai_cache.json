@@ -23561,5 +23561,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787316732.480429
+  },
+  "fd32c05136b6a81e9bf23a1320f8dbae": {
+    "is_relevant": true,
+    "reasoning": "This is a significant High Court legal development involving a member of the Royal Family and major UK media entities with substantial financial implications.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787320055.939783
+  },
+  "760601976ac978899f02a6dee120174a": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature about a celebrity's personal habits and nostalgia, which constitutes fluff rather than hard news or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787320070.031999
+  },
+  "7c34247ba37b90920aa29fdd15994d5e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a targeted arson attack on a media organisation in London, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787320081.269206
   }
 }
