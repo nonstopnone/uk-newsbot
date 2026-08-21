@@ -23624,5 +23624,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787330234.859125
+  },
+  "1e4662836bf968b34047384502d9d7e7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development regarding the appointment of a new health minister and internal ministerial policy disputes within the Northern Ireland Executive.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787332350.651469
+  },
+  "3ec4ca3e49def6a07e3ed75e60efa78c": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal legal proceeding involving a significant incident in Greater Manchester, falling under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787332377.366845
   }
 }
