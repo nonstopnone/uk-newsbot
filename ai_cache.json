@@ -23708,5 +23708,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787348398.264937
+  },
+  "4cf7e0cc218a7aa125ead7febc860d37": {
+    "is_relevant": true,
+    "reasoning": "This is a significant police-led incident involving a fatality in Scottish waters, which falls under UK crime and emergency reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787349612.040324
   }
 }
