@@ -23519,5 +23519,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787311681.482558
+  },
+  "dce2e37063ff59bd2fbde47a5820b68b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency incident involving a major search and rescue operation in Scottish waters and police involvement.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787313305.948592
+  },
+  "71938e92d7c14e9b66a772bbdbfa8b77": {
+    "is_relevant": true,
+    "reasoning": "Royal Mail is a core component of UK national infrastructure and this story concerns its performance relative to regulatory targets set by Ofcom.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787313321.933993
   }
 }

@@ -231,3 +231,5 @@
 2026-08-21T11:28:03.713153+00:00|https://www.bbc.co.uk/news/articles/c2lq5pd0vy4o|killer jailed for murdering second flatmate|d8ed14ff31a37e05952d700270985e0e
 2026-08-21T11:28:06.075219+00:00|https://www.telegraph.co.uk/business/2026/08/21/tax-surge-leaves-national-debt-on-brink-of-3-trillion|soaring welfare bill pushes national debt to almost £3tn|34b3c8d0a657d102170e5e449c8568fc
 2026-08-21T11:28:08.596982+00:00|https://www.bbc.co.uk/news/articles/ce8k57j885jo|man who murdered stepmothers ex and ate finger jailed for life|0d4e519e1d47d9f657d0f0ecd5287dc3
+2026-08-21T11:55:23.137779+00:00|https://www.bbc.co.uk/news/articles/cp8x6yl4j99o|search for cruise ship passenger feared to have fallen overboard|dce2e37063ff59bd2fbde47a5820b68b
+2026-08-21T11:55:25.694140+00:00|https://www.bbc.co.uk/news/articles/c1w1rg208xdo|royal mail misses delivery targets again but hails encouraging signs|71938e92d7c14e9b66a772bbdbfa8b77
