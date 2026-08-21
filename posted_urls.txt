@@ -1,6 +1,3 @@
-2026-08-14T10:17:56.313497+00:00|https://www.bbc.co.uk/news/articles/cjrvg7vq3nzo|couple banned from owning pets after 114 guinea pigs and 31 cats found in filthy home|f3790abc829aa53cf1beeb9245e72e01
-2026-08-14T10:17:58.928457+00:00|https://www.bbc.co.uk/news/articles/c5y6xde5e4wo|killer who hid wifes body refused prison release|fc79b04760054f29f94ba149e16a3af4
-2026-08-14T10:18:01.722942+00:00|https://news.sky.com/story/former-aston-villa-and-arsenal-goalkeeper-jimmy-rimmer-dies-13572867|former aston villa arsenal and man utd goalkeeper jimmy rimmer dies|f02c9afce3cb7c932e06c9a8aceedf70
 2026-08-14T11:20:01.809814+00:00|https://www.bbc.co.uk/news/articles/cvg947z1we1o|what do people in clacton think of farages byelection win|3507353ab490d4f343ed7e300d8bf401
 2026-08-14T11:20:04.601058+00:00|https://www.bbc.co.uk/news/articles/c0l5yndgxl8o|man died after being trampled by cattle on estate|f46887a19d86af6b0a4585de7cd8140a
 2026-08-14T12:09:29.329697+00:00|https://www.bbc.co.uk/news/articles/clyxpkyg88xo|disability campaigners call for burnham to delay assisted dying bill|6e7ee4c24d01082ac0f943c9422e0d02
@@ -230,3 +227,6 @@
 2026-08-21T09:38:50.983116+00:00|https://www.bbc.co.uk/news/articles/cgljrn8rek6o|banned driver in stolen maserati who killed pensioner jailed|51631d47fab87378606bc9f455cb3f7a
 2026-08-21T09:38:53.534740+00:00|https://news.sky.com/story/nhs-patient-data-groups-arcturis-and-akrivia-agree-140m-merger-13575267|nhs patient data groups arcturis and akrivia agree £140m merger|2082a54920026d8dadfe404edc57e43e
 2026-08-21T09:38:56.400320+00:00|https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo|wildfirehit residents remove greenpeace mural of burnham from scorched mountain|ce40b94192cfcdd2fb0d269139c35776
+2026-08-21T10:50:27.200936+00:00|https://www.bbc.co.uk/news/articles/cqx75zllqlzo|man denies charge over manchester synagogue attack|a8a6f56cd6afc0b4849fff12fc5d970d
+2026-08-21T10:50:29.931431+00:00|https://www.bbc.co.uk/news/articles/c79g28zxwzdo|meghan could return to acting once back in uk|f5a9c1dac5c22c458b0042e3aaa3c798
+2026-08-21T10:50:32.213431+00:00|https://news.sky.com/story/convicted-killer-jailed-for-murdering-man-in-uk-three-years-after-similar-crime-in-romania-13570715|convicted killer jailed for murdering man in uk three years after similar crime in romania|4070c3fadc7144f42a207dd2d431c8d1

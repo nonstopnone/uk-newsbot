@@ -23477,5 +23477,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787307135.063005
+  },
+  "a8a6f56cd6afc0b4849fff12fc5d970d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal proceeding involving a terrorist attack on a UK synagogue, falling under high-interest crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787309397.390012
+  },
+  "0d4e519e1d47d9f657d0f0ecd5287dc3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a conviction for murder in Scotland, which meets the criteria for serious UK crime news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787309408.59114
+  },
+  "c53087598390c5310ff7fef258865100": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/financial analysis piece focusing on long-term generational trends rather than hard news or immediate policy changes.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787309416.457693
+  },
+  "4070c3fadc7144f42a207dd2d431c8d1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a murder conviction and sentencing involving the UK justice system, falling under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787309426.770707
   }
 }
