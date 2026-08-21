@@ -23449,5 +23449,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787299069.496448
+  },
+  "51631d47fab87378606bc9f455cb3f7a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal trial involving a fatal incident in Scotland, falling under serious crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787305108.753519
+  },
+  "2082a54920026d8dadfe404edc57e43e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development concerning the commercial management of NHS patient data and the competitive landscape of public health technology providers.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787305117.358927
+  },
+  "ce40b94192cfcdd2fb0d269139c35776": {
+    "is_relevant": true,
+    "reasoning": "This is a domestic news story concerning environmental activism, public reaction to climate protest tactics, and local impact on residents affected by wildfires in Wales.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1787305129.307643
   }
 }
