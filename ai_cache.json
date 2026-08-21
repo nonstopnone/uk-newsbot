@@ -23596,5 +23596,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787325299.967976
+  },
+  "de8baf1a0516885f28877d2ca2987b36": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK international sports victory involving the England cricket team.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787327499.26884
+  },
+  "7fc13f34a2c555841f641cd5ef00aee4": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal trial involving a public figure in a UK court, which falls under the category of significant legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787327509.511113
+  },
+  "958ac1925448da864c968cf9877ebaa9": {
+    "is_relevant": false,
+    "reasoning": "This is a speculative weather feature rather than hard news; while it mentions the UK, it is a meteorological forecast analysis rather than a time-sensitive event or breaking development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787327519.504026
   }
 }

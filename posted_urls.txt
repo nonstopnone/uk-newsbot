@@ -1,5 +1,3 @@
-2026-08-14T15:34:42.600095+00:00|https://www.bbc.co.uk/news/articles/cvg8qd970kzo|woman cleared of owning xl bully which fatally bit man|8f7ae41c4521093bf01dd74e6850f6cb
-2026-08-14T15:34:45.291615+00:00|https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o|chris mason where does this unorthodox byelection victory leave nigel farage|edce2fce32d641d39427d3ae3457ff17
 2026-08-14T16:34:22.140620+00:00|https://news.sky.com/story/liverpool-fcs-owners-confirm-consortium-including-amazon-founder-jeff-bezos-is-buying-minority-stake-in-club-13572962|liverpool confirm group including amazon founder jeff bezos buying minority stake|27a55f1701c81e781736ae226b2e283c
 2026-08-14T17:39:18.610800+00:00|https://www.bbc.co.uk/news/articles/cgjexn9qd54o|two people dead after light aircraft crash|7cdddcd117b02d0d693121762ab0c31e
 2026-08-14T17:39:21.397192+00:00|https://www.bbc.co.uk/news/articles/cly5p995ykko|uk diplomats no longer get hardship bonus for being posted to buenos aires|d04fb545275d117b6381646b6ae62563
@@ -232,3 +230,6 @@
 2026-08-21T13:48:04.509674+00:00|https://www.bbc.co.uk/news/articles/c04kwr9r1zlo|prince harry and six others ordered to pay initial £95m to daily mail publisher|fd32c05136b6a81e9bf23a1320f8dbae
 2026-08-21T13:48:06.966358+00:00|https://www.bbc.co.uk/news/articles/ckgdrk5z47vo|three admit arson attack at persian media offices|7c34247ba37b90920aa29fdd15994d5e
 2026-08-21T15:15:05.537375+00:00|https://news.sky.com/story/three-plead-guilty-to-attempted-burglary-after-trying-to-tunnel-into-south-london-jewellers-13575439|three plead guilty to attempted burglary after trying to tunnel into jewellers|532be49fa9c73564f06f10d53613d87a
+2026-08-21T15:52:03.259404+00:00|https://www.telegraph.co.uk/cricket/2026/08/21/england-vs-pakistan-live-score-latest-update-first-test-day|root delivers perfect riposte to captaincy doubters as england hammer pakistan|de8baf1a0516885f28877d2ca2987b36
+2026-08-21T15:52:05.769910+00:00|https://www.bbc.co.uk/news/articles/cewrv8k05jpo|child abuse trial of snooker champion graeme dott hears closing arguments|7fc13f34a2c555841f641cd5ef00aee4
+2026-08-21T15:52:08.358801+00:00|https://www.bbc.co.uk/news/articles/cm2gme5yqnqo|burnham to send highperforming civil servants to mayoral offices|22b3ae5976bc8818bbfdbe737b597a07
