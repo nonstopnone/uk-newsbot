@@ -23470,5 +23470,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1787305129.307643
+  },
+  "847e0f6645fe603da605f01cd616d6ea": {
+    "is_relevant": false,
+    "reasoning": "This is a feature-style analytical piece on long-term generational trends rather than hard breaking news; it is more lifestyle/economic commentary than a direct report on current UK policy or economic events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787307135.063005
   }
 }
