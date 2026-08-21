@@ -23407,5 +23407,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787288117.367332
+  },
+  "767d2edece76d6f630bcfc09f86a7683": {
+    "is_relevant": true,
+    "reasoning": "This is a relevant news story regarding education policy and funding within the Northern Ireland devolved government, directly impacting students and teacher retention.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787290494.549396
+  },
+  "26e7c774aba32bf3bf125dd497dbc76b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on environmental degradation and the collapse of a historic Welsh industry, involving regulatory investigations by Natural Resources Wales.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1787290503.516921
+  },
+  "7290c7d410102a3f92aad3ec277d5261": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story rather than hard news, and does not meet the criteria for significant political, economic, or security-related news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787290513.053347
   }
 }
