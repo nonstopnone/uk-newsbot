@@ -1,5 +1,3 @@
-2026-08-14T11:20:01.809814+00:00|https://www.bbc.co.uk/news/articles/cvg947z1we1o|what do people in clacton think of farages byelection win|3507353ab490d4f343ed7e300d8bf401
-2026-08-14T11:20:04.601058+00:00|https://www.bbc.co.uk/news/articles/c0l5yndgxl8o|man died after being trampled by cattle on estate|f46887a19d86af6b0a4585de7cd8140a
 2026-08-14T12:09:29.329697+00:00|https://www.bbc.co.uk/news/articles/clyxpkyg88xo|disability campaigners call for burnham to delay assisted dying bill|6e7ee4c24d01082ac0f943c9422e0d02
 2026-08-14T13:44:40.360092+00:00|https://www.bbc.co.uk/news/articles/c0jlyqdj6geo|temporary ban on sale of disposable bbqs over wildfire risk|4de88e52dfa94f790207cf8be4f25e92
 2026-08-14T13:44:42.793278+00:00|https://www.bbc.co.uk/news/articles/c3v0yz9k250o|prisoners charged over attack on sara sharifs father|475e7093464dc137805f4d579fc6f4da
@@ -230,3 +228,6 @@
 2026-08-21T10:50:27.200936+00:00|https://www.bbc.co.uk/news/articles/cqx75zllqlzo|man denies charge over manchester synagogue attack|a8a6f56cd6afc0b4849fff12fc5d970d
 2026-08-21T10:50:29.931431+00:00|https://www.bbc.co.uk/news/articles/c79g28zxwzdo|meghan could return to acting once back in uk|f5a9c1dac5c22c458b0042e3aaa3c798
 2026-08-21T10:50:32.213431+00:00|https://news.sky.com/story/convicted-killer-jailed-for-murdering-man-in-uk-three-years-after-similar-crime-in-romania-13570715|convicted killer jailed for murdering man in uk three years after similar crime in romania|4070c3fadc7144f42a207dd2d431c8d1
+2026-08-21T11:28:03.713153+00:00|https://www.bbc.co.uk/news/articles/c2lq5pd0vy4o|killer jailed for murdering second flatmate|d8ed14ff31a37e05952d700270985e0e
+2026-08-21T11:28:06.075219+00:00|https://www.telegraph.co.uk/business/2026/08/21/tax-surge-leaves-national-debt-on-brink-of-3-trillion|soaring welfare bill pushes national debt to almost £3tn|34b3c8d0a657d102170e5e449c8568fc
+2026-08-21T11:28:08.596982+00:00|https://www.bbc.co.uk/news/articles/ce8k57j885jo|man who murdered stepmothers ex and ate finger jailed for life|0d4e519e1d47d9f657d0f0ecd5287dc3

@@ -23505,5 +23505,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787309426.770707
+  },
+  "d8ed14ff31a37e05952d700270985e0e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal sentencing at the Old Bailey involving a murder committed in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787311671.777737
+  },
+  "75dca62b8d1ef3e3ea2af919ffb159ed": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a regional public health issue in the DRC; while significant, it lacks a direct or material impact on the UK at this time.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787311681.482558
   }
 }
