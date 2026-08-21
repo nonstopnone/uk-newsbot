@@ -1,4 +1,3 @@
-2026-08-14T12:09:29.329697+00:00|https://www.bbc.co.uk/news/articles/clyxpkyg88xo|disability campaigners call for burnham to delay assisted dying bill|6e7ee4c24d01082ac0f943c9422e0d02
 2026-08-14T13:44:40.360092+00:00|https://www.bbc.co.uk/news/articles/c0jlyqdj6geo|temporary ban on sale of disposable bbqs over wildfire risk|4de88e52dfa94f790207cf8be4f25e92
 2026-08-14T13:44:42.793278+00:00|https://www.bbc.co.uk/news/articles/c3v0yz9k250o|prisoners charged over attack on sara sharifs father|475e7093464dc137805f4d579fc6f4da
 2026-08-14T13:44:45.319201+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/londons-fire-control-centre-on-the-hottest-day-of-the-year|wildfire watch inside londons fire control centre on the hottest day of the year|5a60a6d1c7ed7d8eb9e6ba39f70555f0
@@ -233,3 +232,6 @@
 2026-08-21T11:28:08.596982+00:00|https://www.bbc.co.uk/news/articles/ce8k57j885jo|man who murdered stepmothers ex and ate finger jailed for life|0d4e519e1d47d9f657d0f0ecd5287dc3
 2026-08-21T11:55:23.137779+00:00|https://www.bbc.co.uk/news/articles/cp8x6yl4j99o|search for cruise ship passenger feared to have fallen overboard|dce2e37063ff59bd2fbde47a5820b68b
 2026-08-21T11:55:25.694140+00:00|https://www.bbc.co.uk/news/articles/c1w1rg208xdo|royal mail misses delivery targets again but hails encouraging signs|71938e92d7c14e9b66a772bbdbfa8b77
+2026-08-21T12:52:13.930831+00:00|https://www.bbc.co.uk/news/articles/c62vp3yzjy5o|man found guilty of murdering estranged wife|966aaa1affea6617e14cfb557c432ba5
+2026-08-21T12:52:16.485448+00:00|https://www.bbc.co.uk/news/articles/cx2krdggx6xo|underfives and pregnant women told to avoid runny eggs when eating out over salmonella risk|4b40d5e351e8c33175ed5f5e0385c599
+2026-08-21T12:52:18.897977+00:00|https://news.sky.com/story/man-accused-of-failing-to-disclose-information-over-manchester-synagogue-attack-denies-charge-13575376|man denies charge over manchester synagogue attack|dc7f2fa38211abed625254b079e75b06

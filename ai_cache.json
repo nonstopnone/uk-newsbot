@@ -23533,5 +23533,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1787313321.933993
+  },
+  "966aaa1affea6617e14cfb557c432ba5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal conviction at a UK Crown Court regarding a murder case, which falls under UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787316707.220542
+  },
+  "4b40d5e351e8c33175ed5f5e0385c599": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health warning from the Food Standards Agency regarding a national salmonella outbreak and a fatality in the UK, which is directly relevant to UK citizens.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787316715.431683
+  },
+  "72ba4c4690d66b53f371efc0c8b98dbd": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a child's personal achievement and does not fall into the categories of hard news, politics, economy, or major national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787316724.499192
+  },
+  "dc7f2fa38211abed625254b079e75b06": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court proceeding regarding a significant violent incident in a UK city, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787316732.480429
   }
 }
