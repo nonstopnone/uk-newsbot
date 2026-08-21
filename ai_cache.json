@@ -23442,5 +23442,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787296095.080126
+  },
+  "54414f318a0234e7f2b13fda87046261": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a prominent British public figure facing serious criminal charges, which constitutes significant legal news of interest to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787299069.496448
   }
 }
