@@ -236,3 +236,5 @@
 2026-08-21T18:39:44.276179+00:00|https://www.bbc.co.uk/news/articles/c24meg17rqzo|six men deny child abuse and rape charges|1b77acb8f8ed451c565d202da9ef0ea6
 2026-08-21T18:39:46.638467+00:00|https://www.bbc.co.uk/news/articles/c4g6nd3x0ppo|arran ferry evacuated over bomb threat as passenger rescued from sea|37b5a9ef32ee1eecd4f513b2d7d6a30d
 2026-08-21T18:39:48.946435+00:00|https://news.sky.com/story/manchester-arena-attack-survivor-says-terrorism-impact-continues-for-years-13575537|manchester arena attack survivor says terrorism impact continues for years|aabff63fc1dd193bb436e58406ca7905
+2026-08-21T19:14:25.624005+00:00|https://www.bbc.co.uk/news/articles/ce8k52186mmo|ofcom investigating sky news over farage harassment claims|deee288d2a7cecfc4fe80fc4618f941b
+2026-08-21T19:14:28.041016+00:00|https://www.bbc.co.uk/news/articles/c0rdk9ddepvo|murder probe after wildfire uncovers body in park|785efd9e7e3048555cef70b905efc7e2
