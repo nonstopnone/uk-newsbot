@@ -23638,5 +23638,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787332377.366845
+  },
+  "be773f2b60ae5de6b8252a40bcbdc164": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Duchess of Sussex, a prominent member of the Royal family, and her potential professional activities, which is of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787334440.549653
+  },
+  "50785716eb9a2db1c58213909871a7fb": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal case involving multiple burglaries and court proceedings in London, falling under domestic crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787334449.487113
   }
 }
