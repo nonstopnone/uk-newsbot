@@ -23435,5 +23435,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787292306.938861
+  },
+  "81e70a923b3a944dec6dbf86abb8f2ab": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding library additions rather than substantive political or governance news; it constitutes fluff and does not meet the criteria for hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787296095.080126
   }
 }
