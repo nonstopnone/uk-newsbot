@@ -23365,5 +23365,33 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787269304.306508
+  },
+  "6d49bad333f80ed261641bbe103098d4": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/wellness feature piece providing general advice, which falls outside the scope of hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787277485.583941
+  },
+  "9d16d40d6d01bbbee0d3bb0ddffa6a6c": {
+    "is_relevant": false,
+    "reasoning": "This is a feature-style analytical or lifestyle piece focusing on long-term trends rather than breaking hard news or a specific policy update.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787277508.91064
+  },
+  "fbc5be0635966afabb4b319ffbd7dc7b": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer interest story regarding a travel company's service failures, which constitutes lifestyle and consumer reporting rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787277517.320075
+  },
+  "346fd2ee656f37151382df3473bd18cf": {
+    "is_relevant": false,
+    "reasoning": "This is a domestic political development in Pakistan and does not materially affect the UK or constitute a major item of national interest for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787277534.455798
   }
 }
