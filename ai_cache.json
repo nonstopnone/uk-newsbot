@@ -23393,5 +23393,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787277534.455798
+  },
+  "963abeab0bbd0ce165e7119fae0b077e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile British public figure facing serious criminal charges in an ongoing international legal case, which is a matter of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787288110.119693
+  },
+  "f5a9c1dac5c22c458b0042e3aaa3c798": {
+    "is_relevant": false,
+    "reasoning": "This is speculative celebrity gossip rather than hard news concerning the Royal family's institutional role or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787288117.367332
   }
 }
