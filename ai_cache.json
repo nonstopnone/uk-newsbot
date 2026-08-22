@@ -23764,5 +23764,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787383983.485469
+  },
+  "acd87dec4e1a79d87e9dda095aa00368": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and regulatory issue concerning the sale of fireworks in the UK, involving a specific campaign for legislative change.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787385671.932398
   }
 }

@@ -1,4 +1,3 @@
-2026-08-15T07:53:30.798230+00:00|https://www.bbc.co.uk/news/articles/cgmkdr3gy07o|heathrow airport warns of disruption following floods|0351f698fb8c33e9270e025be9f14080
 2026-08-15T08:31:23.691228+00:00|https://www.bbc.co.uk/news/articles/c9982znvyk4o|tributes paid to jason arday after excambridge professor found dead|e13eaac5305276f931ea625bfa5b6553
 2026-08-15T09:41:53.393979+00:00|https://news.sky.com/story/au-vodka-founders-to-toast-500m-windfall-from-sazerac-sale-13573227|au vodka founders to toast £500m windfall from sazerac sale|250536b04eadb5b22feb1e101f3265c3
 2026-08-15T10:00:31.042777+00:00|https://www.bbc.co.uk/news/articles/c2lqy55zny2o|six charged after man abducted in edinburgh|7f7eb38c35f659fc77838dd0ebbfa908
@@ -238,3 +237,4 @@
 2026-08-22T03:26:18.220008+00:00|https://www.bbc.co.uk/news/articles/cwym4m4j848o|burnham economic adviser oneill rules out government job|bebc9b9e9710702d9be4fc15eb29d67d
 2026-08-22T03:26:20.843679+00:00|https://news.sky.com/story/we-have-never-seen-anything-like-this-summer-how-wildfire-threat-in-uk-is-escalating-dramatically-13575380|we have never seen anything like this summer how wildfire threat in uk is escalating dramatically|1e19c68bfcde125f9a32a52a43203f76
 2026-08-22T07:33:04.314842+00:00|https://www.bbc.co.uk/news/articles/c14122j83rlo|scottish council website carried links to offshore casino sites|748edc58b8b3bf8bd5478d07a613305a
+2026-08-22T08:01:12.836586+00:00|https://www.bbc.co.uk/news/articles/cvg724e10rwo|teen blinded by firework wants ban on public sales|acd87dec4e1a79d87e9dda095aa00368
