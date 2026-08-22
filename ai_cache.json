@@ -23771,5 +23771,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787385671.932398
+  },
+  "a4f51d95ff27917e90054182bd5bec16": {
+    "is_relevant": false,
+    "reasoning": "The article concerns the internal administrative politics of FIFA and a specific youth tournament, which does not constitute hard news of significant material impact to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787394330.890401
   }
 }
