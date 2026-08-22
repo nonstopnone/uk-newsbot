@@ -23883,5 +23883,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787437458.742116
+  },
+  "b304020c441dc6bf4fb90d25613cd25d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on civil unrest and hate crime in Northern Ireland, which falls under UK security and social stability concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787440996.534871
+  },
+  "0fccdfe6c8caec2605bf05694acd364c": {
+    "is_relevant": true,
+    "reasoning": "This report concerns UK energy policy and household cost-of-living issues, which are significant matters of UK economic and social policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787441005.576343
   }
 }
