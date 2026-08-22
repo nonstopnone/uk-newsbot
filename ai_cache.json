@@ -23785,5 +23785,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787397715.700911
+  },
+  "8de4eefb5f1035ff00214b425f7becfd": {
+    "is_relevant": false,
+    "reasoning": "This is a story regarding the internal governance of FIFA and international sports administration, which does not have a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787402534.295651
+  },
+  "75ff0380938f9b5aeae661c8863d7bf7": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a former athlete's hobby and does not constitute hard news of significant public interest or impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787402541.856798
   }
 }
