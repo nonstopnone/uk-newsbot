@@ -23715,5 +23715,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787349612.040324
+  },
+  "1b3639d323e6c0d8c42108d7ab7654ad": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant UK fiscal/economic concerns and a major criminal investigation involving a high-profile political figure, both of which are core to the subreddit's mandate.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787363092.027497
+  },
+  "75cb9f52f7b422a347722bbac8c1c8e8": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and celebrity-focused opinion piece regarding the personal branding of non-working royals, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787363100.873763
+  },
+  "48e51abb9c26fc53588613a02ad39ab1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health report concerning a major disease impact on the UK population, which falls under NHS and national health news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787363111.585951
   }
 }

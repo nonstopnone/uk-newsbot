@@ -234,3 +234,6 @@
 2026-08-21T21:40:05.134196+00:00|https://www.bbc.co.uk/news/articles/c5y4j92rv24o|people who want to live on this almostempty estate arent allowed to buy the homes|6dac757b44dfe948324a113e5a10729c
 2026-08-21T22:00:12.716321+00:00|https://news.sky.com/story/body-recovered-after-man-reportedly-fell-overboard-from-cruise-ship-off-scottish-coast-13575595|body recovered after man reportedly fell overboard from cruise ship|4cf7e0cc218a7aa125ead7febc860d37
 2026-08-21T23:39:39.073736+00:00|https://www.bbc.co.uk/news/articles/c70gy180e8lo|more students planning to live at home for university over insane living costs|e86633d35b4e0b1a294672e3a17c8cf1
+2026-08-22T01:45:12.148705+00:00|https://www.bbc.co.uk/weather/articles/clyx4ve0x0jo|brief break from rain as sunshine returns for weekend|112cfc5948803351a5cd8c2b5cdf342d
+2026-08-22T01:45:14.924214+00:00|https://www.bbc.co.uk/news/articles/c935r6vr135o|the papers fiscal worries mount and meghan in guy ritchie talks|1b3639d323e6c0d8c42108d7ab7654ad
+2026-08-22T01:45:17.691679+00:00|https://news.sky.com/story/one-man-diagnosed-with-prostate-cancer-in-the-uk-every-eight-minutes-13575557|prostate cancer cases surge in uk as charity warns against myths|48e51abb9c26fc53588613a02ad39ab1
