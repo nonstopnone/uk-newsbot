@@ -237,3 +237,5 @@
 2026-08-22T01:45:12.148705+00:00|https://www.bbc.co.uk/weather/articles/clyx4ve0x0jo|brief break from rain as sunshine returns for weekend|112cfc5948803351a5cd8c2b5cdf342d
 2026-08-22T01:45:14.924214+00:00|https://www.bbc.co.uk/news/articles/c935r6vr135o|the papers fiscal worries mount and meghan in guy ritchie talks|1b3639d323e6c0d8c42108d7ab7654ad
 2026-08-22T01:45:17.691679+00:00|https://news.sky.com/story/one-man-diagnosed-with-prostate-cancer-in-the-uk-every-eight-minutes-13575557|prostate cancer cases surge in uk as charity warns against myths|48e51abb9c26fc53588613a02ad39ab1
+2026-08-22T03:26:18.220008+00:00|https://www.bbc.co.uk/news/articles/cwym4m4j848o|burnham economic adviser oneill rules out government job|bebc9b9e9710702d9be4fc15eb29d67d
+2026-08-22T03:26:20.843679+00:00|https://news.sky.com/story/we-have-never-seen-anything-like-this-summer-how-wildfire-threat-in-uk-is-escalating-dramatically-13575380|we have never seen anything like this summer how wildfire threat in uk is escalating dramatically|1e19c68bfcde125f9a32a52a43203f76

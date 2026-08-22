@@ -23736,5 +23736,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787363111.585951
+  },
+  "bebc9b9e9710702d9be4fc15eb29d67d": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the administrative and political appointments of the Greater Manchester Combined Authority and the influence of a prominent peer on UK regional devolution and government policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787369169.225427
+  },
+  "1e19c68bfcde125f9a32a52a43203f76": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant environmental and public safety threat concerning UK infrastructure and residential areas, meeting the criteria for relevant news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787369177.639329
   }
 }
