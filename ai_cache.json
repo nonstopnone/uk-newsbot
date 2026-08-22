@@ -23848,5 +23848,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787413646.730051
+  },
+  "2a89e5fccda792e79b0b567881ff9def": {
+    "is_relevant": false,
+    "reasoning": "This is a sports performance report regarding Formula 1 racing, which falls under the excluded category of sports reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787420851.263486
   }
 }
