@@ -23799,5 +23799,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787402541.856798
+  },
+  "75fe9748ebf7967b10bac04aa1ebb71d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a targeted incident potentially linked to wider gangland activity in Scotland, making it relevant to UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787404801.029584
+  },
+  "a6804760e9cbae1c6b3e353f0f20c820": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental and public safety event involving a major incident in a UK devolved region with health implications.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787404809.319694
   }
 }
