@@ -23813,5 +23813,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787404809.319694
+  },
+  "6dc2101288bf8099195bbb81c10093ea": {
+    "is_relevant": true,
+    "reasoning": "This is a major, time-sensitive incident involving multiple fatalities, including police officers, which is of significant public interest and security relevance in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787408606.056937
   }
 }
