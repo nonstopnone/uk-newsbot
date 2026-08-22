@@ -23820,5 +23820,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787408606.056937
+  },
+  "3019e078904e120d1cc0300d272e2a38": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK-based local tragedy that has garnered national attention and community involvement, fitting the criteria for reporting on serious incidents.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787412181.676178
+  },
+  "f661d939d89c274aae4d63e3382d5a4c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation and police matter concerning the death of a British soldier, meeting the criteria for Crime & Legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787412191.194248
+  },
+  "06da6962d4b3516ab5c4eaabcc134abe": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a live UK murder investigation and police activity, which falls under core crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787412201.229106
   }
 }

@@ -231,3 +231,5 @@
 2026-08-22T13:20:10.547772+00:00|https://www.bbc.co.uk/news/articles/c62e2rv94zvo|police investigate car crash into house in glasgow suburb|75fe9748ebf7967b10bac04aa1ebb71d
 2026-08-22T13:20:13.146205+00:00|https://www.bbc.co.uk/news/articles/cp9e9rg255vo|welsh county becomes global hotspot for carbon emissions after wildfires|a6804760e9cbae1c6b3e353f0f20c820
 2026-08-22T14:23:27.066463+00:00|https://www.bbc.co.uk/news/articles/cx272ly3g00o|two police officers pursuing car among seven killed in crash|6dc2101288bf8099195bbb81c10093ea
+2026-08-22T15:23:21.818780+00:00|https://www.bbc.co.uk/news/articles/c87n7xd2ye9o|vigil held for family who died in sea off shoreham|3019e078904e120d1cc0300d272e2a38
+2026-08-22T15:23:24.697166+00:00|https://www.bbc.co.uk/news/articles/cvg7gkvnd6vo|two men rearrested after death of soldier|f661d939d89c274aae4d63e3382d5a4c
