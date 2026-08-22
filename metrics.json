@@ -3,7 +3,7 @@
     "Manual Submission": 4,
     "BBC": 4737,
     "Sky": 2580,
-    "Telegraph": 962,
+    "Telegraph": 963,
     "Manual": 6,
     "BBC News US": 946,
     "Sky News US": 205,
@@ -16,7 +16,7 @@
     "Crime & Legal": 2189,
     "Notable International": 39,
     "Economy": 238,
-    "Sport": 449,
+    "Sport": 450,
     "Royals": 395,
     "Immigration": 40,
     "Breaking News": 729,
@@ -24,6 +24,6 @@
     "Environment": 139,
     "Entertainment": 59,
     "Sports": 84,
-    "Notable International News\ud83c\udf0d": 29
+    "Notable International News🌍": 29
   }
 }
