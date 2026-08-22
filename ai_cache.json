@@ -23897,5 +23897,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1787441005.576343
+  },
+  "ff86e4761e0c906aecaebd602bb09727": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant UK domestic policy regarding planning powers and reports on a major fatal road traffic incident in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787442412.520245
+  },
+  "2092142673f3465f4fa566f2b556b343": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle/personal health story rather than hard news regarding UK policy, politics, or significant national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787442420.802906
   }
 }
