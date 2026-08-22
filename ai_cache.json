@@ -23841,5 +23841,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787412201.229106
+  },
+  "85f37cd985206840e753d589b479adc2": {
+    "is_relevant": false,
+    "reasoning": "This article covers a sports qualifying result which falls under the 'sports preview/results' category, which is explicitly excluded by the filter guidelines.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787413646.730051
   }
 }
