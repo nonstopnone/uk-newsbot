@@ -23876,5 +23876,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787434217.361432
+  },
+  "11675a9ef4f9b2cb64a6907243144df9": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity human interest story regarding a health diagnosis rather than hard news concerning UK politics, the economy, or significant public interest policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787437458.742116
   }
 }
