@@ -23855,5 +23855,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787420851.263486
+  },
+  "42cfa70df7bf1df2ed71f1bc6b722fdf": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a rugby match between New Zealand and South Africa and holds no relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787423574.44704
   }
 }
