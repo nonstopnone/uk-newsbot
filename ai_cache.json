@@ -23778,5 +23778,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787394330.890401
+  },
+  "624c3963505db5b315ba1e8b5e69837b": {
+    "is_relevant": false,
+    "reasoning": "This story concerns international sports administration and internal FIFA politics, which lacks the direct, material impact on the UK required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787397715.700911
   }
 }
