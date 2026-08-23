@@ -23932,5 +23932,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787467394.334229
+  },
+  "2a82cf14bdd1289fc00272f1e48bc3ec": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story rather than hard news, politics, or a matter of significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787478249.739418
+  },
+  "dedbfdd91145d92f73de2610944a8037": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest medical feature story about an individual's personal health journey rather than hard news regarding NHS policy, national health trends, or systemic infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787478258.565146
   }
 }
