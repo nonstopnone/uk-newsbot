@@ -24051,5 +24051,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787513734.794593
+  },
+  "397e809a1788e3f276af35fb53dff549": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant tribute event involving two major UK football clubs and a prominent figure in British sporting history.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787517024.386139
   }
 }
