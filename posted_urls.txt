@@ -1,4 +1,3 @@
-2026-08-16T16:27:21.654741+00:00|https://www.bbc.co.uk/news/articles/cwyllkz80dlo|emergency phone alert put domestic abuse victims at risk campaigners say|1e3613039b49fb662b694425155ad673
 2026-08-16T17:20:57.147354+00:00|https://www.telegraph.co.uk/football/2026/08/16/arsenal-vs-man-city-live-score-latest-community-shield|arsenal dismantle man city in community shield to issue ominous statement of intent|5b7150ab7d2387f3407ea71df6959a24
 2026-08-16T18:32:04.098059+00:00|https://news.sky.com/story/sebastien-pocognoli-announced-as-new-boss-of-scotland-mens-team-13573806|sebastien pocognoli announced as new boss of scotland mens team|04a9fa593d041045d50c318f89041e44
 2026-08-16T18:32:06.484326+00:00|https://www.bbc.co.uk/news/articles/cwyll2p1r68o|watch moment police arrest wanted man while he slept on roof|aa6a4d3ceb4e74b1de218f9ac3232862
@@ -224,3 +223,5 @@
 2026-08-23T11:58:14.382659+00:00|https://www.bbc.co.uk/news/articles/cvgjg4pr04do|snp councillor reinstated after probe into jordan linden complaints|264c82ca4ec1cc186095dd18ad5dc807
 2026-08-23T12:55:38.655513+00:00|https://news.sky.com/story/crosscountry-cancels-trains-across-uk-after-control-centre-power-outage-in-birmingham-13576246|train operator cancels trains across uk amid power outage|76041a9fd6f0d9518c818af5e09efa72
 2026-08-23T15:58:50.170378+00:00|https://www.telegraph.co.uk/formula-1/2026/08/23/dutch-f1-grand-prix-live-latest-updates-from-zandvoort|norris wins incidentpacked dutch grand prix as russell loses ground again|089862c8ef7cd6ce62ecae17d6109c1d
+2026-08-23T16:35:17.859723+00:00|https://www.bbc.co.uk/news/articles/c7vgvy3j4v7o|car torched in deliberate fire amid fears of rising gangland violence|2632def24bb77722130d04a2f46ef3e6
+2026-08-23T16:35:20.224785+00:00|https://www.bbc.co.uk/news/articles/c0m7mv0xkkro|climber laura completes full house of 1072 peaks around uk|d2cfab10eb40da54294696c201b74fe7

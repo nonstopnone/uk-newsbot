@@ -24016,5 +24016,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1787500726.65665
+  },
+  "2632def24bb77722130d04a2f46ef3e6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a deliberate criminal act linked to organized gangland violence, which is a matter of public safety and police investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787502914.468763
   }
 }
