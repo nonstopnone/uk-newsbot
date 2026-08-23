@@ -24030,5 +24030,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787504505.556839
+  },
+  "2dac0420277bda463efdb949db7802bb": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a Premier League football match involving a major UK club, which qualifies as sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787506493.488487
   }
 }
