@@ -23918,5 +23918,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787453288.187536
+  },
+  "7731288cc5007b526b8260d52c6f8538": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a cyber attack on critical UK national infrastructure, which is a matter of national security and public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787457137.406013
   }
 }
