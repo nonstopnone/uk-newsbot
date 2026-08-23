@@ -24023,5 +24023,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787502914.468763
+  },
+  "58aa14a9b446bf0c33f1dbb57078b07b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a major UK-based fatal incident involving police officers, which falls under the remit of serious news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787504505.556839
   }
 }
