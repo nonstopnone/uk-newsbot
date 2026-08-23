@@ -23953,5 +23953,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787479370.160314
+  },
+  "aee3990d31249aab8eb3cf320f95d900": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/lifestyle story about a footballer's haircut, which does not constitute hard news or a significant event relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787481727.329617
+  },
+  "07a4bfc62cafa82dfcb3e69d02bfab8c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant fatal road traffic incident involving a police investigation and arrest, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787481736.530415
   }
 }
