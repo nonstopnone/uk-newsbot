@@ -24002,5 +24002,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787489737.977485
+  },
+  "7c7ba740769870e446c7d6cf12ec29e6": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a football match, which falls under sports reporting. Per instructions, sports content is excluded from this feed.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787499415.775156
   }
 }
