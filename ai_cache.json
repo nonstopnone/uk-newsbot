@@ -24065,5 +24065,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787521626.38076
+  },
+  "ee0e59567cbca3120443cb35d3eeb61c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle feature about an individual's personal health experience rather than hard news regarding NHS policy or significant national health developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787527375.414818
+  },
+  "23a6aa0b0ea0ba19e108ebfd496b494f": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about an individual's personal health journey rather than hard news concerning UK policy, significant infrastructure, or critical national issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787527384.234456
   }
 }
