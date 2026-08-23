@@ -24058,5 +24058,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1787517024.386139
+  },
+  "9a273e1276e4c8c775af42f1fc04d99d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a fatality and multiple injuries in London, falling under serious UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787521626.38076
   }
 }
