@@ -23925,5 +23925,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787457137.406013
+  },
+  "86a57301c34809cdcbd330cf5362344c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal crash involving police officers and an ongoing investigation by the IOPC.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787467394.334229
   }
 }
