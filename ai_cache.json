@@ -24037,5 +24037,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1787506493.488487
+  },
+  "4cc089f304d61d24d8afd06707156692": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a Premier League football match, which falls under sports reporting and lifestyle/entertainment news rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787510339.654857
   }
 }
