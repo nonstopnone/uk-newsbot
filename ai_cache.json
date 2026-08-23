@@ -23967,5 +23967,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787481736.530415
+  },
+  "088d8b0472dcd84209af70983070ee94": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/human interest piece about a footballer's haircut rather than hard news, sports results, or substantive developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787482880.851854
+  },
+  "2da66273b75cb29cb97888c3ca04eb53": {
+    "is_relevant": false,
+    "reasoning": "This is a feature story about cinema and arts history, which falls under lifestyle and culture entertainment rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787482891.109154
+  },
+  "5054244824f897acaac559fda66a74c5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer safety and crime warning regarding a surge in financial fraud affecting UK citizens, which qualifies as relevant crime and security reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787482900.674385
   }
 }
