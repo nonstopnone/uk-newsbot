@@ -23988,5 +23988,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787482900.674385
+  },
+  "264c82ca4ec1cc186095dd18ad5dc807": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in Scottish local politics concerning the conduct of an elected official and party governance, making it highly relevant to a UK audience.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787486292.793611
   }
 }
