@@ -23946,5 +23946,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787478258.565146
+  },
+  "97c410e450d7de6fe15ff1474b0d9d17": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/lifestyle story regarding a footballer's haircut, which does not meet the criteria for hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787479370.160314
   }
 }
