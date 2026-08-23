@@ -23911,5 +23911,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787442420.802906
+  },
+  "0b5fd42b5c934a019407be458e32a4a8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding UK justice policy and public safety, involving a specific government mandate from the Justice Secretary.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787453288.187536
   }
 }
