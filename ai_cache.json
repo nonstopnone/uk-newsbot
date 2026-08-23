@@ -23995,5 +23995,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787486292.793611
+  },
+  "76041a9fd6f0d9518c818af5e09efa72": {
+    "is_relevant": true,
+    "reasoning": "This is a significant disruption to national transport infrastructure affecting a large number of passengers across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787489737.977485
   }
 }
