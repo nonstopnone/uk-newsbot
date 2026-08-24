@@ -1,4 +1,3 @@
-2026-08-17T15:29:49.260159+00:00|https://news.sky.com/story/edinburgh-venue-accepts-it-discriminated-against-jewish-comedian-philip-simon-when-it-cancelled-show-13574074|venue accepts it discriminated against jewish comedian when it scrapped show|757e5e6af678cce166408ae6a0ce0299
 2026-08-17T16:58:39.287717+00:00|https://www.bbc.co.uk/news/articles/c1j14p3w255o|britains most bashed bridge hit twice in two days|067edbf8d97accbb37405035cd379732
 2026-08-17T16:58:41.845938+00:00|https://www.bbc.co.uk/news/articles/cn4nkww841xo|princess eugenie announces name of baby daughter|3a656669309d52d814e4414a2676e30d
 2026-08-17T17:35:21.456734+00:00|https://www.bbc.co.uk/news/articles/c5y34gm7rp0o|labour mp suspended as party launches investigation into covid loans|3ab7b7e577c683d39ca0c73d20f1c873
@@ -217,3 +216,6 @@
 2026-08-24T14:05:06.918132+00:00|https://www.bbc.co.uk/news/articles/cy8zxqn57z3o|uk missiles offer may help ukraine but they are not what zelensky needs most|4678835ef64173e8d439c6fcd7877ffc
 2026-08-24T15:01:02.430014+00:00|https://www.bbc.co.uk/news/articles/cy0znklge1wo|teen pleads guilty over channel boat with 165 migrants|0da1b36e22c5bb29ac98e759e52f743f
 2026-08-24T15:01:05.029301+00:00|https://news.sky.com/story/england-cricketer-withdrawn-from-squad-for-pakistan-test-after-nightclub-incident-in-derby-13576669|england cricketer withdrawn from squad after nightclub incident in derby|d3d4ef8c32ffa9268c94ce35386ced9e
+2026-08-24T15:56:53.071193+00:00|https://www.bbc.co.uk/news/articles/c750n3nx76ko|prince harry steps down from african wildlife charity board|aee27d3310629d47bd0575eec660fd2a
+2026-08-24T15:56:55.424887+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/summer-wildfire-epidemic-worst-in-decades-low-death-toll|this summers wildfire epidemic is the worst in decades so why are deaths so low|ebba52c788165368a6193411d007310d
+2026-08-24T15:56:58.002615+00:00|https://www.bbc.co.uk/news/videos/cx2znjly4dno|is uks storm shadow missile a game changer for ukraine|083efbcb56d16848c681de3a60dfb27b

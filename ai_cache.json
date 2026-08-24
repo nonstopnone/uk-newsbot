@@ -24184,5 +24184,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1787583661.365883
+  },
+  "aee27d3310629d47bd0575eec660fd2a": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a prominent member of the Royal Family stepping down from a formal position, which is a matter of ongoing public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787586984.601541
+  },
+  "083efbcb56d16848c681de3a60dfb27b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the UK's strategic military involvement in the Russia-Ukraine war, including the provision of missile technology and a high-level visit by the Prime Minister, which constitutes significant national interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787587004.03941
+  },
+  "edb65ecdb14e34db2a0d88a2e67faf7e": {
+    "is_relevant": false,
+    "reasoning": "This is a business/commercial story about a private company sale rather than a significant development regarding the Royal family or the UK economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787587012.1242
   }
 }
