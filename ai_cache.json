@@ -24086,5 +24086,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787534964.435162
+  },
+  "e734889ba5fea66fb49e6f68b3db1fda": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a recent criminal conviction and sentencing in the UK court system, involving a serious crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787557087.260294
+  },
+  "ec5ed317b1558cbbef60b26b79ee59da": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle story about tourism etiquette rather than significant hard news affecting the UK's governance, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787557097.784357
   }
 }
