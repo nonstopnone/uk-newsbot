@@ -24261,5 +24261,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787607091.054544
+  },
+  "d57725d337c275547f24995bf40054f0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatality and multiple serious charges, making it highly relevant to UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787608922.836194
   }
 }
