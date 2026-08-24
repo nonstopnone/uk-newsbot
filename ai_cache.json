@@ -24219,5 +24219,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1787594315.237555
+  },
+  "e3ef5c84f680cca0041f40540ed38c3d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic story regarding the UK steel industry, domestic manufacturing challenges, and government trade policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787597534.397914
+  },
+  "05080f2e3166f32cef5e637b245c743a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the conclusion of a coroner's inquest regarding a death, which is a matter of public record and legal significance within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787597546.606868
   }
 }
