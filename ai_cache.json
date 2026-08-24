@@ -24240,5 +24240,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787599878.79857
+  },
+  "f23490c335f1f1c75f5c258779f36f0e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update on a major criminal investigation involving the Metropolitan Police and the Crown Prosecution Service regarding systemic allegations of sexual abuse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787604539.820481
   }
 }
