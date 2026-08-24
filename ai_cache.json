@@ -24170,5 +24170,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1787580303.205599
+  },
+  "0da1b36e22c5bb29ac98e759e52f743f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal prosecution related to illegal Channel crossings, which is a matter of major UK public interest and border security.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1787583653.302732
+  },
+  "d3d4ef8c32ffa9268c94ce35386ced9e": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant disciplinary action involving a national team athlete, which constitutes major news within the UK sporting landscape.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787583661.365883
   }
 }
