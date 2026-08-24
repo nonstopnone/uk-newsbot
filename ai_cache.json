@@ -24135,5 +24135,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787571079.931064
+  },
+  "59298b53518649c279dbf78189f4698e": {
+    "is_relevant": false,
+    "reasoning": "This is a historical interest/memorabilia piece rather than hard news impacting current UK politics, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787577214.788771
+  },
+  "c31408f29b4adc4dec0cbd7702645fa5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic report concerning UK labor market trends and graduate employment prospects, which has clear implications for the national economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787577224.218687
+  },
+  "c4cfa5edba34ed8e0232a2fbc708be76": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/entertainment story regarding a reality television personality and does not constitute hard news or a matter of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787577233.694071
   }
 }
