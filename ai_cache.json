@@ -24247,5 +24247,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787604539.820481
+  },
+  "2b1f94af3fab5261a19735ad27bb2279": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatality and serious charges, which falls directly under the remit of UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787607083.146091
+  },
+  "1bc830efb767f9a196927587c65beaa6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a fatality and multiple attempted murder charges in London, which falls under major UK criminal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787607091.054544
   }
 }
