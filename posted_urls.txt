@@ -1,5 +1,3 @@
-2026-08-17T05:09:39.308696+00:00|https://www.bbc.co.uk/news/articles/ckgdej0xxgyo|drugs violence and racism a week in glasgow city centre|a3b96d013212272063ecfbbdda248e30
-2026-08-17T05:09:41.859324+00:00|https://news.sky.com/story/oil-and-gas-industry-urges-pm-to-approve-controversial-north-sea-developments-13573878|oil and gas industry urges pm to approve controversial projects|7e6c7e1c37bc7d46ff31a1e89f1a4d62
 2026-08-17T05:51:08.712174+00:00|https://www.bbc.co.uk/news/articles/cn8nn2nlg1lo|thousands of bonnie tyler fans set to gather in singers hometown for funeral|f944ccca1a9b783203f5852fc063fa85
 2026-08-17T05:51:11.230564+00:00|https://www.bbc.co.uk/news/articles/c4g3re5ew8do|parents pushed to breaking point by child maintenance service bbc told|9ad8ad563d3eb76e1f943fe59fecca4e
 2026-08-17T06:59:22.508398+00:00|https://www.bbc.co.uk/news/articles/cpw9997g85vo|hundreds attend emotional cambridge vigil for jason arday|d6f887038db38efd835b1bb0e511ca0e
@@ -227,3 +225,4 @@
 2026-08-24T01:29:25.648578+00:00|https://www.bbc.co.uk/weather/articles/czxex6xg75ro|rain to return this week with chance of thunderstorms and flooding|0b4c9d09a219a102b4f20d8b47b47dfa
 2026-08-24T01:29:28.015371+00:00|https://www.bbc.co.uk/news/articles/cgr7reynpdyo|the papers pain beyond words and graduates face worst job market|b60cdcdaa1bd183de7c96a95456369a4
 2026-08-24T02:46:40.187961+00:00|https://www.bbc.co.uk/news/articles/c8xnxy89gv7o|review launched into how pub and hotel business rates calculated|cd7106687bd14f595ef3bceac1d219f3
+2026-08-24T05:39:35.249370+00:00|https://www.bbc.co.uk/news/articles/c24m044p08vo|swinney visits crisis towns asking for help after 1500 job losses|28110c457b17b108f552ce85c2c4b90a
