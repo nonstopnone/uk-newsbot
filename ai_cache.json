@@ -24212,5 +24212,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787589778.220394
+  },
+  "ef7686ce1ab7b9c514f74eee537f7c6d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving the death of a British national in a major international conflict, which is of clear national interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787594315.237555
   }
 }
