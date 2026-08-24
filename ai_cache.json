@@ -24114,5 +24114,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787566272.840338
+  },
+  "fdcb7ce5106bdc77815ae78a127c0d42": {
+    "is_relevant": true,
+    "reasoning": "This is a significant financial report concerning a state-owned investment body in Scotland, directly impacting the Scottish economy and government-backed innovation strategy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787568869.475812
   }
 }
