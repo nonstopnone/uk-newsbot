@@ -24156,5 +24156,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787577233.694071
+  },
+  "93a891c5657b539f2266b9855fbdf47c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court verdict involving a high-profile public figure within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787580294.215097
+  },
+  "4678835ef64173e8d439c6fcd7877ffc": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant foreign policy move by the UK Prime Minister regarding military aid to Ukraine, which is a matter of major UK international interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787580303.205599
   }
 }
