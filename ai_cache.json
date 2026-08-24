@@ -24233,5 +24233,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787597546.606868
+  },
+  "e81a76ac39f2189224bfd9a35fa33b12": {
+    "is_relevant": false,
+    "reasoning": "This article is speculative lifestyle content focused on celebrity gossip and personal career choices rather than substantive royal news or matters of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787599878.79857
   }
 }
