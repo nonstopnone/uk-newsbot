@@ -24121,5 +24121,19 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1787568869.475812
+  },
+  "63da005937c78fd855c834b793d1a444": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding the sentencing of individuals for child abuse cases within the Scottish justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787571069.548047
+  },
+  "7a46a2e762576926696655924b2ff409": {
+    "is_relevant": false,
+    "reasoning": "This is a business-focused lifestyle and hospitality story concerning private luxury venues, which does not constitute hard news or significant public interest for the wider UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787571079.931064
   }
 }
