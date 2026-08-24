@@ -24100,5 +24100,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787557097.784357
+  },
+  "b75a6bb096af4cf78ada8372c79a8dff": {
+    "is_relevant": true,
+    "reasoning": "The involvement of high-profile former England cricket captains in a matter concerning a former head of state provides sufficient significance to the UK public interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787563510.719107
   }
 }
