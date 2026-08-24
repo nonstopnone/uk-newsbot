@@ -24268,5 +24268,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787608922.836194
+  },
+  "49bec70b2890238066f9c90ac7f40503": {
+    "is_relevant": true,
+    "reasoning": "The Lockerbie bombing remains one of the most significant criminal cases in UK history, involving the deaths of 270 people, mostly British citizens, and ongoing legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787611504.535394
   }
 }
