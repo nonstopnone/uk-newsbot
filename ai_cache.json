@@ -24107,5 +24107,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1787563510.719107
+  },
+  "9bd80d76af996abe86b57a3dbf96a3be": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and public safety matter involving a fatal collision and a direct government call for regulatory action against social media companies.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787566272.840338
   }
 }
