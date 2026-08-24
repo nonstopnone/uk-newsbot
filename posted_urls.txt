@@ -225,3 +225,5 @@
 2026-08-23T20:53:14.253205+00:00|https://www.bbc.co.uk/news/articles/cvg7l95jz49o|taking a survey in school saved me from homelessness|20e7b8b937b825951884edd99d450fc8
 2026-08-23T21:47:08.408806+00:00|https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-house-fire-kills-one-and-injures-eight-13576454|man arrested on suspicion of murder after house fire kills one and injures eight|9a273e1276e4c8c775af42f1fc04d99d
 2026-08-23T23:23:05.981400+00:00|https://www.bbc.co.uk/news/articles/clyqypkrzq5o|burnham to visit kyiv on first foreign trip and reaffirm uk support for ukraine|93066f2c7aa75ef4be59a739326af21d
+2026-08-24T01:29:25.648578+00:00|https://www.bbc.co.uk/weather/articles/czxex6xg75ro|rain to return this week with chance of thunderstorms and flooding|0b4c9d09a219a102b4f20d8b47b47dfa
+2026-08-24T01:29:28.015371+00:00|https://www.bbc.co.uk/news/articles/cgr7reynpdyo|the papers pain beyond words and graduates face worst job market|b60cdcdaa1bd183de7c96a95456369a4

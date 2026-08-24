@@ -24079,5 +24079,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787527384.234456
+  },
+  "b60cdcdaa1bd183de7c96a95456369a4": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant UK domestic news including a fatal police-related incident and major updates on UK economic trends and foreign policy shifts.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787534964.435162
   }
 }
