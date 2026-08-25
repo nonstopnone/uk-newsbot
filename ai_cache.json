@@ -24317,5 +24317,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1787647973.678693
+  },
+  "ff8deabf08223b956e5fd2ae476e503b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal court case in Scotland involving child exploitation, falling under UK legal and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787652770.085769
+  },
+  "7ba5b729de31e7086bc665f51e25f883": {
+    "is_relevant": false,
+    "reasoning": "This is a regional wildlife conservation story, which falls under lifestyle or nature interest rather than hard news impacting UK politics, economy, or national security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787652778.183147
   }
 }
