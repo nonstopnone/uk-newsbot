@@ -24429,5 +24429,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787673625.739447
+  },
+  "354fbc9754b159254f557a9afb46e518": {
+    "is_relevant": true,
+    "reasoning": "Severe weather events affecting large portions of England and Wales are matters of significant public interest and safety for a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787676572.449774
+  },
+  "f8ccc75d1a0d6cb7c8d5277d6032e2a5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a former police officer being charged with serious criminal offences, which is a matter of clear public interest and legal significance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787676582.657304
+  },
+  "869b8be0b55456a2d7cbae2120930ba9": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-related story regarding team conduct, which does not meet the criteria for hard news or significant UK public interest as defined by the subreddit guidelines.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787676592.714699
   }
 }
