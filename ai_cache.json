@@ -24457,5 +24457,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787681073.457088
+  },
+  "6fd16c59ed3d4e3f5cb65c668ff1f852": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and legal policy matter involving potential legislative changes in Scotland and public safety concerns regarding the justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787697023.210753
+  },
+  "7ff317fe7f9e43e2843858a0c3960538": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related news story involving a fatality and serious injuries in London, falling squarely under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787697032.340644
   }
 }
