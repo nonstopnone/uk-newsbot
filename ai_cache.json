@@ -24296,5 +24296,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787626841.231785
+  },
+  "05d0ae68167cb0ba37cd5057674a7d86": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and planning matter involving a devolved government minister and potential environmental and community impact in Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787636012.310919
   }
 }
