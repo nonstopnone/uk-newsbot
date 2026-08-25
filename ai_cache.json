@@ -24366,5 +24366,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787657379.574992
+  },
+  "62c2644c0d03215639b463d2c94dea7b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant criminal trial and conviction within the UK justice system, which falls under the category of serious crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787662968.140201
+  },
+  "2b394d7d6b59669cc04f58adfc9ca868": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling regarding a highly contentious issue in Northern Ireland, which falls under UK devolved governance and legal affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787662978.734622
+  },
+  "0b0141bfc861ac92b62cf3b98ade136b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns individuals facing extradition proceedings following criminal charges brought by British prosecutors regarding alleged sexual offences in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787662986.441072
+  },
+  "fd3abf9479e49bee2ee22f88cc19a271": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing within the UK justice system, which falls under crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787662999.153388
   }
 }
