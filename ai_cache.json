@@ -24394,5 +24394,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787662999.153388
+  },
+  "e34ef6b0612d1b25f4914a958cc1d2bb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer and travel issue affecting a large group of UK citizens stranded abroad, which is a matter of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787666689.561318
   }
 }

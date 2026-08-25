@@ -1,8 +1,3 @@
-2026-08-18T13:08:35.940923+00:00|https://www.bbc.co.uk/news/articles/c5y0lr091eno|campaigner died in crash while filming apple series|e83f3ea0ba0fd8d7ae93df65cb7ac073
-2026-08-18T13:08:38.546278+00:00|https://www.bbc.co.uk/news/articles/cqx7vp77g0jo|one dead and hundreds ill in uk salmonella outbreak|6007caacaa3f39edb24b02ad481780fb
-2026-08-18T13:08:41.156269+00:00|https://www.telegraph.co.uk/business/2026/08/18/unemployment-uk-economy-jobs-burnham|unemployment rate fails to fall for burnham|67b2d47e7a9e7215024dac855a3a4a92
-2026-08-18T13:57:13.013594+00:00|https://www.bbc.co.uk/news/articles/c5y34zrg668o|burnham says hes not embarrassed about hoax message exchange|2318a69ef884d5f8122b6c969f64a31f
-2026-08-18T13:57:15.627930+00:00|https://news.sky.com/story/convicted-romanian-murderer-carried-out-almost-identical-killing-after-moving-to-uk-13574340|convicted murderer carried out almost identical killing after moving to uk|d3d8f423e32e8c8d203c31b28d17195d
 2026-08-18T14:40:18.214550+00:00|https://www.bbc.co.uk/news/articles/cn0njnw6rdgo|snooker player graeme dott goes on trial over child abuse allegations|3b224d7ac9e6bbe58df419911280ae66
 2026-08-18T15:48:34.637503+00:00|https://www.bbc.co.uk/news/articles/cqx7v7qywldo|nurse made bad decisions after finding patient cold and unresponsive inquest told|4cc5187818a8b1380e5a73f9aea8da2b
 2026-08-18T17:04:58.012518+00:00|https://www.bbc.co.uk/news/articles/c1e155428qyo|nigeria influencer arrested after seizure of cocaine worth $28m destined for the uk|85ab88c0f8da1962f0309b728d070118
@@ -221,3 +216,5 @@
 2026-08-25T11:29:41.503387+00:00|https://www.bbc.co.uk/sport/rugby-league/articles/cwy4zxypry7o|legendary rugby league winger boston dies aged 92|cc99f708d834d0a65ffb64e9955f87ba
 2026-08-25T13:03:21.602226+00:00|https://www.bbc.co.uk/news/articles/cge4d4xgdpwo|man guilty of killing student after fake rolex row|62c2644c0d03215639b463d2c94dea7b
 2026-08-25T13:03:24.160055+00:00|https://www.bbc.co.uk/news/articles/c3eqjyeyglpo|high court quashes decision to restrict annual drumcree parade|2b394d7d6b59669cc04f58adfc9ca868
+2026-08-25T14:04:52.048592+00:00|https://www.bbc.co.uk/news/articles/czez5y3k56lo|we just want to get home dozens stranded in tunisia after cancelled belfast flight|e34ef6b0612d1b25f4914a958cc1d2bb
+2026-08-25T14:04:54.899192+00:00|https://www.bbc.co.uk/news/articles/c4grxr0e5gdo|andrew tate exaggerates and did not own supercars in photos his lawyers say|0b0141bfc861ac92b62cf3b98ade136b
