@@ -24450,5 +24450,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787676592.714699
+  },
+  "7908db9d1bfcbb250da2064d04d1f430": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal sentencing case involving serious offences, which falls under UK court and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787681073.457088
   }
 }
