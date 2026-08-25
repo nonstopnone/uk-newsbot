@@ -24310,5 +24310,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787641724.26706
+  },
+  "5ca5ecec801abe200a6516c297c4d553": {
+    "is_relevant": true,
+    "reasoning": "The individual is a significant stakeholder in two major UK football clubs, making this a matter of public interest regarding the governance and reputation of UK sports institutions.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787647973.678693
   }
 }
