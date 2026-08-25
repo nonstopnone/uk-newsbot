@@ -24331,5 +24331,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787652778.183147
+  },
+  "ed5599831ee7730b4a9fe701c6134c12": {
+    "is_relevant": false,
+    "reasoning": "This is an opinion piece/analytical article focused on Syrian reconstruction policy, which does not materially affect the UK or constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787655118.776706
+  },
+  "106d4f20d0ff441fbfeef7bce0a64b0f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal incident involving a fatal road traffic collision and an active investigation by the police watchdog.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787655126.899737
+  },
+  "921ab309b8769cd47c1610ae63c7becb": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a homicide investigation and police naming of a victim in London, which falls under serious crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787655135.389842
+  },
+  "9b88f52f63ad3f8c1a5cb3afb978d59d": {
+    "is_relevant": false,
+    "reasoning": "This is a local wildlife conservation story that falls under human-interest/lifestyle reporting rather than significant hard news relevant to the broader UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787655145.118533
   }
 }
