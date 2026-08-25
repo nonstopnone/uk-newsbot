@@ -24401,5 +24401,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787666689.561318
+  },
+  "9c656e4f11e57774b7e04f8c2f79bf87": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK public policy and social care failures commissioned by the government, directly impacting domestic welfare and public health.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787670354.285709
+  },
+  "baeade4997657ba256757c04e28c437a": {
+    "is_relevant": true,
+    "reasoning": "This concerns the discipline and management of a major national sporting team, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787670371.652374
+  },
+  "93561bdc1acc2641764e13ef09a4597a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related news story involving a police investigation, an arrest on suspicion of attempted murder, and a serious incident at a UK business premises.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787670387.241534
   }
 }
