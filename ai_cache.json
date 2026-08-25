@@ -24282,5 +24282,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1787622346.861439
+  },
+  "3a4fc7b5b800598821b2615471393c03": {
+    "is_relevant": true,
+    "reasoning": "The article details the UK Prime Minister's upcoming diplomatic mission to the US concerning critical foreign policy and military support for Ukraine, which is a matter of major UK political and international significance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787626832.678834
+  },
+  "fc1284434f20e021e15f2b1cefa53abe": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant criminal investigation involving a high-profile public figure and the Metropolitan Police, meeting the criteria for crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787626841.231785
   }
 }
