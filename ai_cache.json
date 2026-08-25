@@ -24303,5 +24303,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1787636012.310919
+  },
+  "e245e146ada63bbffda5c88d94c07d81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer and legal matter involving widespread financial harm to numerous UK tenants and landlords, as well as formal involvement from Trading Standards and the courts.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787641724.26706
   }
 }
