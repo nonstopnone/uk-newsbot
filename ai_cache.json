@@ -24422,5 +24422,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787670387.241534
+  },
+  "58a115cec2ca94375118555a3baeff34": {
+    "is_relevant": true,
+    "reasoning": "This report details significant anti-social behavior, criminal incidents, and police involvement at youth sporting events in Scotland, which is a matter of public concern and local authority interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787673625.739447
   }
 }
