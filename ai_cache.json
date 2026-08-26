@@ -24527,5 +24527,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787729172.607424
+  },
+  "f2f57bb95a4533cf3176902b287450ff": {
+    "is_relevant": true,
+    "reasoning": "This report concerns systemic failings and public apologies within the NHS, which is a matter of critical public interest regarding UK healthcare infrastructure and policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787731765.745022
   }
 }

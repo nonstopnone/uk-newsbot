@@ -1,4 +1,3 @@
-2026-08-19T07:39:53.625477+00:00|https://news.sky.com/story/sustained-escalation-of-anti-muslim-hate-reported-in-london-charity-warns-13574565|sustained escalation of antimuslim hate reported in london|105ef4f8a6e5253bd163db26bfb278d7
 2026-08-19T09:05:05.603468+00:00|https://news.sky.com/story/famous-cranes-at-shipyard-where-titanic-was-built-set-for-31m-refurbishment-13574568|famous cranes at shipyard where titanic was built set for £31m refurbishment|4ff9b183d0545661a2a6107c17a9130d
 2026-08-19T09:49:54.267684+00:00|https://www.bbc.co.uk/news/articles/cdrv7jr8n74o|jump in energy bills drives uk inflation to highest rate for four months|3ec733106f44998010d628069283029e
 2026-08-19T10:31:03.670150+00:00|https://www.bbc.co.uk/news/articles/c0m7e9ym747o|thunderstorm warnings issued for parts of uk with flash flooding expected|8c91095381866a38b3d338b66078a30e
@@ -214,3 +213,4 @@
 2026-08-26T06:18:47.139729+00:00|https://www.bbc.co.uk/news/articles/c5ydmmyy887o|im still paying a mortgage for a home destroyed by a fire|8e3ada05a99d326e08801a6cba567011
 2026-08-26T07:26:15.176681+00:00|https://www.bbc.co.uk/news/articles/c17jl59zg2ko|major gangland figure steven daniel arrested in organised crime raid|3dce5ef0cb885d8f1288cef23fada152
 2026-08-26T07:26:17.471553+00:00|https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o|libyan cleared after lockerbie bombing trial dies aged 70|6e064f47067dc5e5073f6323aa3d53bf
+2026-08-26T08:09:26.528941+00:00|https://www.bbc.co.uk/news/articles/c0kl40d3011o|nhs failing child sexual abuse victims in adulthood say psychiatrists|f2f57bb95a4533cf3176902b287450ff
