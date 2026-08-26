@@ -24674,5 +24674,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787768151.640051
+  },
+  "f1e73333f1d4e627f72603eb8223f39b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on devolved government health infrastructure and potential job losses in Northern Ireland, directly affecting a major UK public service.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787787417.376537
+  },
+  "817a7289942c4f74f53a8f0fb688c054": {
+    "is_relevant": true,
+    "reasoning": "The story involves the reported death and disappearance of dozens of UK citizens in a major international disaster, which is of significant concern to the UK public.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787787426.05365
+  },
+  "e7583ca6ad3cd470a61737c8c48ff55d": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story regarding a private consumer dispute and does not constitute hard news or a matter of significant national importance for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787787434.957154
   }
 }
