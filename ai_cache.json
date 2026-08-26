@@ -24471,5 +24471,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787697032.340644
+  },
+  "9a8fe30d5c710e52305d5f4c205b6943": {
+    "is_relevant": true,
+    "reasoning": "This report concerns NHS-relevant public health policy and significant changes in national health habits that affect the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787713653.844081
+  },
+  "01ff300aec24c336577d8ffad14d4a96": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic story directly impacting the cost of living for millions of UK households, involving regulatory action by Ofgem.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1787713664.189912
   }
 }
