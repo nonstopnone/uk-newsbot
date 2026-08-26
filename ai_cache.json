@@ -24541,5 +24541,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787734963.719115
+  },
+  "8e0a4f236042f6e2750343b1cf93b93b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigation into police conduct involving a high-profile public order decision that drew national government intervention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787744891.657603
+  },
+  "749158e1f4db42715afa323d187b63ba": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the relocation of senior members of the British Royal Family to the UK, which is a matter of significant public and national interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787744901.870494
+  },
+  "3aaba7c4ca533dfa820f3e8709dd58fa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and public policy update involving government-led railway improvements and Department for Transport expenditure on nationalised assets.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787744911.434287
+  },
+  "5f4d81b28bdf126c59c4bcbe647f5b53": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a private individual's arrest in the United States regarding personal conduct and does not constitute hard UK news or a matter of public interest for the UK audience despite his minor investment ties.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787744920.342075
+  },
+  "fef43204ba8c2c98108b0d3f60738229": {
+    "is_relevant": true,
+    "reasoning": "The weather warning covers a significant portion of the UK and poses a material impact on public safety and national infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787744930.906451
   }
 }
