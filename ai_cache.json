@@ -24513,5 +24513,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787725124.041762
+  },
+  "3dce5ef0cb885d8f1288cef23fada152": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the arrest of a major organised crime figure in Scotland, which is a significant legal and public safety matter.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787729163.783228
+  },
+  "6e064f47067dc5e5073f6323aa3d53bf": {
+    "is_relevant": true,
+    "reasoning": "The Lockerbie bombing is a significant event in UK history and legal record, and the death of a primary defendant in the trial remains a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787729172.607424
   }
 }
