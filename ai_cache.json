@@ -24597,5 +24597,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787748988.76346
+  },
+  "de3476d8fd4af58c2fbba33eac2d7789": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal conviction of a public official regarding Freedom of Information laws and political influence, which is a matter of public interest and legal significance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787752619.085582
   }
 }
