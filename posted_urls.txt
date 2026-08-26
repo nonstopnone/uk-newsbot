@@ -1,4 +1,3 @@
-2026-08-19T05:13:55.157526+00:00|https://www.bbc.co.uk/news/articles/ckg374p4e24o|demand for degree apprenticeships quadruples in three years|1b4521e506d29cfcfa9c699a7340d3df
 2026-08-19T07:39:53.625477+00:00|https://news.sky.com/story/sustained-escalation-of-anti-muslim-hate-reported-in-london-charity-warns-13574565|sustained escalation of antimuslim hate reported in london|105ef4f8a6e5253bd163db26bfb278d7
 2026-08-19T09:05:05.603468+00:00|https://news.sky.com/story/famous-cranes-at-shipyard-where-titanic-was-built-set-for-31m-refurbishment-13574568|famous cranes at shipyard where titanic was built set for £31m refurbishment|4ff9b183d0545661a2a6107c17a9130d
 2026-08-19T09:49:54.267684+00:00|https://www.bbc.co.uk/news/articles/cdrv7jr8n74o|jump in energy bills drives uk inflation to highest rate for four months|3ec733106f44998010d628069283029e
@@ -210,3 +209,4 @@
 2026-08-26T03:07:45.327390+00:00|https://www.bbc.co.uk/news/articles/c1e5p51n2p2o|nicotine vapes best chance to quit smoking major review finds|9a8fe30d5c710e52305d5f4c205b6943
 2026-08-26T03:07:48.401513+00:00|https://www.bbc.co.uk/weather/articles/c62krylw57xo|yellow warnings in force as rain and thunderstorms hit parts of uk|a0767aa58af0fae8926d4c6965bffb32
 2026-08-26T04:03:43.891165+00:00|https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o|winter energy prices expected to rise to threeyear high|01ff300aec24c336577d8ffad14d4a96
+2026-08-26T05:39:15.547034+00:00|https://www.bbc.co.uk/news/articles/cm27324jgg1o|police officer sacked after starting sexual relationship with woman|530b3212dd66da183beda0887d1b6b04

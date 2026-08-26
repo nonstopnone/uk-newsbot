@@ -24485,5 +24485,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1787713664.189912
+  },
+  "530b3212dd66da183beda0887d1b6b04": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on police misconduct and corruption within the Police Service of Northern Ireland, which is a matter of public interest and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787722754.194146
   }
 }
