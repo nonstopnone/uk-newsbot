@@ -24646,5 +24646,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787761182.904899
+  },
+  "33a8dbaeb420746d9b39cab189a38ddf": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK employment tribunal ruling regarding pregnancy discrimination, which is a matter of UK employment law and legal precedent.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787768121.463596
+  },
+  "c232eb77e83f684224c4edc184fc5ae5": {
+    "is_relevant": true,
+    "reasoning": "This concerns a UK-based group already subject to domestic anti-terror legislation, with significant implications for UK national security and international relations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787768131.59795
+  },
+  "940e2dcacb60e1f5e2b52b627ae03326": {
+    "is_relevant": false,
+    "reasoning": "This is a local health incident occurring at a German airport involving German employees, with no direct or material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787768140.789207
+  },
+  "e6d0b256eff2db585eab8167a016d715": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK inquest proceeding, which falls under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787768151.640051
   }
 }

@@ -1,10 +1,3 @@
-2026-08-19T16:34:02.245685+00:00|https://www.bbc.co.uk/news/articles/c0ej09nywdno|81000 warning letters sent to crypto holders in hmrc tax crackdown|07e76c742cb7b2b674284baab2ed46d8
-2026-08-19T16:34:04.837809+00:00|https://www.bbc.co.uk/news/articles/cp30gqnpqjqo|salmonella outbreak what we know so far|280e31b3bee1c924174a906190ea5d09
-2026-08-19T16:34:07.744556+00:00|https://news.sky.com/story/asylum-seekers-warned-not-to-make-kissing-sounds-at-people-in-new-guidance-about-living-in-uk-13574744|asylum seekers warned not to make kissing sounds at people in new guidance about living in uk|35d54caafd0d0b90bc0b8d3e27d4a785
-2026-08-19T17:03:38.807095+00:00|https://www.bbc.co.uk/news/articles/ceqe3y34e9eo|behaviour guidelines for life in uk published for asylum seekers|c129c6ecda2857ba5c5a33e0029eafc9
-2026-08-19T17:03:41.678506+00:00|https://www.bbc.co.uk/news/articles/ckge7j9veljo|snooker champion dott told boy to stay out while in room with girl jury told|58d45a4e16cc9afc22c8d492be43a51e
-2026-08-19T17:41:33.926066+00:00|https://news.sky.com/story/woman-dies-and-nine-people-taken-to-hospital-following-fire-at-london-property-as-murder-investigation-launched-13574821|woman dies and nine people taken to hospital following fire at london property as murder investigation launched|72ac6550a3e0de568ed878753f582596
-2026-08-19T17:41:36.522685+00:00|https://www.bbc.co.uk/news/articles/c9q9z402d1yo|students wait for gcse and btec grades as app launches for 750 schools in england|06011e64f0aaffe248979b6af39beb83
 2026-08-19T18:48:30.011416+00:00|https://www.bbc.co.uk/news/articles/cy0jrk67gd4o|frustrated teen drove at 140mph on way to gym before crashing into taxi|781ad146213d95f6b9af9252796a100d
 2026-08-19T18:48:32.582690+00:00|https://news.sky.com/story/swimmers-told-to-avoid-londons-only-thames-bathing-spot-due-to-toxic-algae-13574781|swimmers told to avoid londons only thames bathing spot due to toxic algae|88396feb6370775e34e10593ea342b28
 2026-08-19T19:27:27.907429+00:00|https://www.bbc.co.uk/news/articles/cvgvr336z2po|family named after three die in sea off shoreham|aee118be01d7f7faa469fc8e6e3e2377
@@ -213,3 +206,6 @@
 2026-08-26T14:51:27.596910+00:00|https://www.bbc.co.uk/news/articles/cjdv5y220keo|inquest begins into death of jason arday|6b9ae71506e50012c1dcc5b3a5104ab9
 2026-08-26T16:19:44.114244+00:00|https://www.bbc.co.uk/news/articles/cnvlde5075no|nepalese authorities say 33 uk nationals missing after flash floods|fe5923058f0f0564d853051908d20611
 2026-08-26T16:19:46.530367+00:00|https://www.bbc.co.uk/news/articles/c4gjdwryq5wo|we saw signs of domestic abuse but we didnt know how to protect stacy|4dc4afbafe0e47374f2d6205e823f73b
+2026-08-26T18:15:52.775476+00:00|https://www.bbc.co.uk/news/articles/c23xk7v003jo|woman told nobody wants to see a pregnant person in work by her boss tribunal finds|33a8dbaeb420746d9b39cab189a38ddf
+2026-08-26T18:15:55.091846+00:00|https://www.bbc.co.uk/news/articles/cn4kzd7k2nvo|us designates palestine action a terrorist group|c232eb77e83f684224c4edc184fc5ae5
+2026-08-26T18:15:57.427950+00:00|https://news.sky.com/story/jason-arday-was-found-unresponsive-by-family-members-inquest-hears-13577431|jason arday was found unresponsive by family members inquest hears|e6d0b256eff2db585eab8167a016d715
