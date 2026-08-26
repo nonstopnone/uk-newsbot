@@ -24576,5 +24576,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787744930.906451
+  },
+  "505a28d6208c086d331e274e2176072c": {
+    "is_relevant": true,
+    "reasoning": "This is a policy proposal from a UK political party regarding the administration of the national tax authority, which directly affects UK taxpayers and government fiscal policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787748968.854153
+  },
+  "225ab163e6ee7ab6ba16985883994c64": {
+    "is_relevant": true,
+    "reasoning": "This is a significant matter involving the conduct of a high-ranking UK police official and legal oversight of police decision-making powers.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787748977.769099
+  },
+  "9ce5ca1ca5c178a11a4a354b8569089e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing at a UK court, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787748988.76346
   }
 }
