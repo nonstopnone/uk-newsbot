@@ -1,8 +1,3 @@
-2026-08-19T13:58:34.436551+00:00|https://www.bbc.co.uk/news/articles/c62vy8qe1p6o|two jailed for violent disorder at asylum hotel|181380e44d8c97d652f71e5de336f131
-2026-08-19T13:58:36.955427+00:00|https://www.bbc.co.uk/news/articles/c98vzjyz58do|health bodies back nesbitt following resignation|ab522d28c517ac2987342929ea3d9406
-2026-08-19T13:58:39.685481+00:00|https://news.sky.com/story/thunderstorm-warnings-issued-for-parts-of-the-uk-13574683|thunderstorm warnings issued for parts of the uk|7fe307ad2aa38c78a2f4ad0c9fb4c7e4
-2026-08-19T14:42:17.048950+00:00|https://www.bbc.co.uk/news/articles/cqlxn0q4103o|ill announce a new health minister on thursday says burrows after nesbitt row|64172d7b7eacb4f3e45af1c6b2d71337
-2026-08-19T14:42:19.436977+00:00|https://www.bbc.co.uk/news/articles/c4gx12v8z51o|track defect found near derailment site report|871d7dd649ff4778dfe6b32545c227b3
 2026-08-19T15:13:53.597990+00:00|https://www.telegraph.co.uk/business/2026/08/19/inflation-uk-economy-burnham|burnham blames trumps war in iran for higher inflation|803c9ae78b3152ecd1b4b4e04bd9db4c
 2026-08-19T15:13:56.409170+00:00|https://www.bbc.co.uk/news/articles/cvglyyy1rvvo|lessons need to be learned from wildfires minister admits|ebe448143eb87a66a0f3562b5a64325a
 2026-08-19T15:13:58.972110+00:00|https://www.bbc.co.uk/news/articles/c2dk657dky1o|jury discharged in palestine action elbit raid trial|56d365f125623001b2e4bdb79dbaaad1
@@ -218,3 +213,5 @@
 2026-08-26T12:56:36.708171+00:00|https://news.sky.com/story/man-who-hid-body-of-arson-attack-suspect-in-bin-jailed-13577324|man who hid body of arson attack suspect in bin jailed|9ce5ca1ca5c178a11a4a354b8569089e
 2026-08-26T13:56:59.659646+00:00|https://www.telegraph.co.uk/financial-services/retirement-solutions/equity-release-service/best-coastal-towns-to-retire-uk|the five best coastal places to retire in the uk|b4a3438fd549578b8ade8a7f9bf94371
 2026-08-26T13:57:02.526283+00:00|https://www.bbc.co.uk/news/articles/ckgvn6rk163o|excouncil chief convicted of two charges over deleting email|de3476d8fd4af58c2fbba33eac2d7789
+2026-08-26T14:51:25.104825+00:00|https://www.bbc.co.uk/news/articles/c5ye3ld87y1o|stourbridge fires that razed 19 homes accidental|63bbf53f17d8c13e0512263c99e13eb1
+2026-08-26T14:51:27.596910+00:00|https://www.bbc.co.uk/news/articles/cjdv5y220keo|inquest begins into death of jason arday|6b9ae71506e50012c1dcc5b3a5104ab9

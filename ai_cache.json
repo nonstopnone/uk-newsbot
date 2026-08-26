@@ -24604,5 +24604,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787752619.085582
+  },
+  "63bbf53f17d8c13e0512263c99e13eb1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a major emergency event in the UK that resulted in the destruction of multiple residential properties, which is of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787755869.739147
+  },
+  "7f48d139774b3ff8f984a8dc8973be86": {
+    "is_relevant": true,
+    "reasoning": "The article reports on an official overseas tour by the British monarch, which is standard news coverage regarding the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1787755884.052136
   }
 }
