@@ -24492,5 +24492,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787722754.194146
+  },
+  "784d1644d6df3391a5d6e8a1e42c37d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the duty of care and safeguarding practices within a major UK government department, directly concerning UK public administration.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787725103.278526
+  },
+  "8e3ada05a99d326e08801a6cba567011": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public interest story regarding the ongoing aftermath of a major building fire in London, housing safety, and systemic issues surrounding leasehold contracts and insurance, which are matters of national concern.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787725113.785755
+  },
+  "5042dcbaa5abaacf33729e68613ec690": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the systemic failure of the NHS, a matter of core public importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787725124.041762
   }
 }
