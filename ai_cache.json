@@ -24618,5 +24618,33 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1787755884.052136
+  },
+  "fe5923058f0f0564d853051908d20611": {
+    "is_relevant": true,
+    "reasoning": "This is a significant international incident involving a large number of missing UK nationals, necessitating a response from the UK Foreign Office.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787761152.628869
+  },
+  "4dc4afbafe0e47374f2d6205e823f73b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal case regarding domestic abuse and failures in the justice system, which is a matter of serious public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787761163.269245
+  },
+  "9369f760e1ed6a643017352fb7708324": {
+    "is_relevant": true,
+    "reasoning": "The detention of UK citizens by a foreign state and the subsequent involvement of the UK Foreign Office constitutes significant international news that directly involves the British government's diplomatic responsibilities.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787761172.77423
+  },
+  "c816aee9ca32774af34639f9f091d0ac": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal stabbing and a subsequent murder arrest, which falls under serious criminal activity and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787761182.904899
   }
 }
