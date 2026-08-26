@@ -24534,5 +24534,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787731765.745022
+  },
+  "022a3771738f635237420e1bdb18779f": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal charge brought against a high-profile public figure, which falls under the category of legal proceedings and crime news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787734963.719115
   }
 }
