@@ -1,7 +1,3 @@
-2026-08-20T11:12:18.498067+00:00|https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss|Ecuador intelligence chief and five Americans killed in Kenya helicopter crash|297fa0cf25888d6bcfb649d66da19214
-2026-08-20T17:46:12.395335+00:00|https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss|FBI seizes former Congressman Eric Swalwell's devices and searches his home as part of investigation|fc5ea527d504aa6a97f10638fc153e3f
-2026-08-20T19:43:35.445615+00:00|https://www.bbc.co.uk/news/articles/cwy45lxry14o?at_medium=RSS&at_campaign=rss|ICE arrests captain in New York Harbor boat accident that killed mother and infant|60c7b81c313f5675e94961afb9fce510
-2026-08-20T19:43:40.881631+00:00|https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss|US says sanctions will 'squash' Iran's economy and 'collapse' its regime|3bd5e881ce4beb94c73ec1a0ccf3e8f3
 2026-08-20T21:43:12.742003+00:00|https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss|FBI arrests woman over alleged plot to bomb New York capitol building|ca3eceb82eddd084228dc7698e0ad8b3
 2026-08-21T02:08:31.979725+00:00|https://www.bbc.co.uk/news/videos/cgmk31zry14o?at_medium=RSS&at_campaign=rss|Democratic socialist speaks to BBC after shock win in Florida primary|3ca4ebc9c73c9ef1a9d612671ac38cbd
 2026-08-21T03:13:55.121345+00:00|https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss|Why the US economy is ringing alarm bells|60c2d37f62718317818daf80dd41d31e
@@ -44,3 +40,7 @@
 2026-08-26T14:21:19.167606+00:00|https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss|Meta agrees to pay up to $17.1bn to settle social media case|1b8c7c478f3a51252ae3df99d6885ff7
 2026-08-26T16:51:39.722030+00:00|https://www.bbc.co.uk/sport/articles/c2e0kp7r19no?at_medium=RSS&at_campaign=rss|Olympic champion Liu announces break from competition|b57c061d643e7b06b035371b20b5da54
 2026-08-26T18:30:24.720431+00:00|https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss|Miley Cyrus remembers godmother Dolly Parton as an 'angel by my side'|05aa96f09f2ee5ae290ae394e425bea8
+2026-08-27T20:28:26.615924+00:00|https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss|'We want them home': Families await word on loved ones missing in Nepal floods|3a7704c32a5409eb05e6b1cafe0755c6
+2026-08-27T20:28:32.333524+00:00|https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819|Trump signs order renaming Lake Ontario as 'Lake America' in the US|34300498888a5c68b278da832fcb8ac5
+2026-08-27T20:28:37.770991+00:00|https://www.bbc.co.uk/news/articles/cx2z8l8xdg2o?at_medium=RSS&at_campaign=rss|What we should make of CIA boss's secret trip to Moscow|a963c7aade2ea76d9c36bceebc837df1
+2026-08-27T20:28:43.199057+00:00|https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss|Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children|8edb25b16222e6a63cddc77d878d8ccf
