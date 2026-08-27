@@ -24695,5 +24695,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787787434.957154
+  },
+  "8a0527f83512e191c84c36c0dcc39d6d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and data privacy incident affecting millions of passengers across three major UK airports.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787848315.501535
+  },
+  "d79bdd04e2dda2ea6868445ac81933df": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on potential changes to UK criminal law and Ministry of Justice policy following a public campaign, which falls under legal and government policy matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787848325.36432
+  },
+  "410509b49a7e2cdefe1c98dcfaecad86": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal conviction involving a teacher and legal proceedings at a Crown Court, meeting the criteria for Crime & Legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787848333.906317
+  },
+  "0c2cb642eff8d0e641f6c22885ba9534": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on public health logistics in the Democratic Republic of Congo and does not have a material impact on the UK or UK policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787848346.078557
+  },
+  "3ea827fb755d245be84010fce454e4b2": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a major local emergency involving multiple fatalities and significant public safety concerns, triggering direct government and local authority response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787848377.167236
+  },
+  "a94218c512c1bd857b451bf540e6d47e": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the death of a British national and the opening of a formal UK inquest, which is a matter of legal and public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787848387.452042
+  },
+  "2e54d96c035ca37d82c3ec4944712858": {
+    "is_relevant": false,
+    "reasoning": "This is a speculative opinion-based piece regarding a politician's personal history and political maneuvering rather than hard news reporting on policy, legislative changes, or significant national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787848408.95293
+  },
+  "917d4c90daa35fb4ae164ef46e0f4e24": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal investigation involving the Metropolitan Police, the Crown Prosecution Service, and potential hate speech, which is highly relevant to UK public interest and legal standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787848420.042045
+  },
+  "6d15adda191f8efb5f63eeeef45911e1": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an official inquest into the death of a prominent UK public figure, which falls under legal and judicial reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787848434.764148
   }
 }
