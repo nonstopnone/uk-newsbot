@@ -24828,5 +24828,54 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1787920065.419321
+  },
+  "e1dcff11738cd9ef610f04c629cd41c0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and economic event affecting a major UK city's transport network and local businesses, involving devolved government intervention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787957446.188849
+  },
+  "a03d32060a94d108e86cb69766c737ea": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a fatality and multiple injuries at a public event in the UK, requiring active police investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787957456.176451
+  },
+  "a3d4cc914dd3e61cd00a2ba0cf80506f": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a tourist experience and does not constitute hard news, political policy, or a significant event relevant to the UK at large.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787957465.444906
+  },
+  "6b9ecba12522d5843aa45082025d3e45": {
+    "is_relevant": true,
+    "reasoning": "The arrest of a high-profile British national by US federal authorities is a matter of significant public interest and constitutes notable international news involving a UK citizen.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1787957474.623694
+  },
+  "be69beb829e43de9945c4db0cf13efb0": {
+    "is_relevant": true,
+    "reasoning": "This report concerns serious public disorder, criminal investigations, and police activity in the UK, which constitutes hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787957485.705548
+  },
+  "282b239860ca528780d41d6fe746ec1c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency and tragic death within the UK that falls under public interest and police/safety reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787957494.479448
+  },
+  "869437387d0b2a5c322f41fccd705b41": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a targeted attack on a community charity in London, which has been processed through the Old Bailey.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787957503.775649
   }
 }
