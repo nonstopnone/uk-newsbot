@@ -24758,5 +24758,75 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787848434.764148
+  },
+  "d751e4565698bac1ee667a986cd4ac35": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and legal matter involving the Secretary of State for Northern Ireland and the oversight of a public body, directly relating to UK devolved governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1787919974.950167
+  },
+  "7da90bae2890eaa3f3640996f1e20a97": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the welfare and search efforts for 33 British nationals missing following a natural disaster, which is a significant event involving UK citizens abroad.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787919983.496467
+  },
+  "ed0caa1037b04c8a30ecd70b7b2df13e": {
+    "is_relevant": true,
+    "reasoning": "This report details significant civil disorder and criminal activity involving police, fire services, and public safety concerns in County Durham, which is a matter of serious UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1787919993.8102
+  },
+  "a6475acbaa13c26079d6b495d836c31e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on disciplinary action and criminal disorder involving major UK football clubs that carries legal and regulatory implications for public order.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787920001.912119
+  },
+  "d5f7a857a02efa8dc12a49aa33048d46": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sporting news story involving disciplinary sanctions against major UK clubs following public disorder, which is of clear interest to the UK sports audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1787920010.251835
+  },
+  "81420ba6cf567cb351243af3f6b570a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant weather event affecting infrastructure and public safety across large parts of the UK, which is relevant news for the general population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787920021.215735
+  },
+  "c4566428da1c4125f8cd87240f1577e6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health development involving the NHS and a public health issue in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787920030.249221
+  },
+  "f106d8b4d7ed677738da7d27439b5920": {
+    "is_relevant": false,
+    "reasoning": "This is a personal lifestyle and health announcement regarding a journalist's career, rather than a significant development in UK politics, public interest, or hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787920044.854505
+  },
+  "04aa654212ed6263fe87e34866bf818e": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/scientific feature piece regarding astronomical phenomena and does not constitute hard news relevant to UK governance, economy, or critical societal issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787920055.242304
+  },
+  "54546f035386555fd6042ada97d132ce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant medical breakthrough involving a UK-first procedure conducted within the NHS, which is a matter of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1787920065.419321
   }
 }
