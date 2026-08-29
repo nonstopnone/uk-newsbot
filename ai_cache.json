@@ -25010,5 +25010,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788030330.113988
+  },
+  "5e6fecefa8b04cd4418a83bffc4e4f58": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a private individual's travel experience abroad. It does not constitute hard news or a matter of national importance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788041457.71303
+  },
+  "72054ca892734d08da28b72b4de19d7d": {
+    "is_relevant": true,
+    "reasoning": "This is a time-sensitive emergency incident occurring in UK territorial waters involving a multi-agency rescue effort.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788041470.277641
+  },
+  "69e78a7f3d451848ba8c719b43941963": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation in a major UK city, which falls under core public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788041482.629541
+  },
+  "35d9d5bb6fad4e291a040a233cd0d509": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a professional cricket match held at Lord's, which is a major UK sporting event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788041496.202861
   }
 }
