@@ -1,8 +1,3 @@
-2026-08-22T13:20:10.547772+00:00|https://www.bbc.co.uk/news/articles/c62e2rv94zvo|police investigate car crash into house in glasgow suburb|75fe9748ebf7967b10bac04aa1ebb71d
-2026-08-22T13:20:13.146205+00:00|https://www.bbc.co.uk/news/articles/cp9e9rg255vo|welsh county becomes global hotspot for carbon emissions after wildfires|a6804760e9cbae1c6b3e353f0f20c820
-2026-08-22T14:23:27.066463+00:00|https://www.bbc.co.uk/news/articles/cx272ly3g00o|two police officers pursuing car among seven killed in crash|6dc2101288bf8099195bbb81c10093ea
-2026-08-22T15:23:21.818780+00:00|https://www.bbc.co.uk/news/articles/c87n7xd2ye9o|vigil held for family who died in sea off shoreham|3019e078904e120d1cc0300d272e2a38
-2026-08-22T15:23:24.697166+00:00|https://www.bbc.co.uk/news/articles/cvg7gkvnd6vo|two men rearrested after death of soldier|f661d939d89c274aae4d63e3382d5a4c
 2026-08-22T19:35:44.919507+00:00|https://www.telegraph.co.uk/football/2026/08/22/brentford-vs-tottenham-live-score-and-latest-premier-league|same old spurs given reality check of epic proportions|e71ab85be0cbf651ba34b1e28e96677f
 2026-08-22T23:23:27.220095+00:00|https://www.bbc.co.uk/news/articles/c0ej0edzddjo|fear and fallout three months on from northern irelands race riots|b304020c441dc6bf4fb90d25613cd25d
 2026-08-22T23:23:29.927407+00:00|https://www.bbc.co.uk/news/articles/cm2g5x7l4mko|struggling households need more help with bills energy industry says|0fccdfe6c8caec2605bf05694acd364c
@@ -135,3 +130,8 @@
 2026-08-29T10:57:39.149543+00:00|https://www.bbc.co.uk/news/articles/cvgy48r1nr4o|burnhams summer tour is over now he has to prove himself in parliament|fa408b15088ae1c7ab5185daf649e5ac
 2026-08-29T10:57:41.672019+00:00|https://news.sky.com/story/city-centre-street-in-edinburgh-reopens-after-major-fire-gutted-historic-building-13578452|city centre street in edinburgh reopens after major fire gutted historic building|803ad1876f0d17a5a387abc524e25c0c
 2026-08-29T10:57:44.172033+00:00|https://news.sky.com/story/german-insurer-allianz-weighs-5bn-takeover-of-aa-roadside-rescue-giant-13578449|german insurer allianz weighs £5bn takeover of aa roadside rescue giant|d3c503cb30278371e764a2e02bb6587c
+2026-08-29T15:28:34.052394+00:00|https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o|cleverly quits shadow cabinet to run for london mayor|3e848e6189f90d6017068ff8efceb897
+2026-08-29T15:28:36.482781+00:00|https://www.bbc.co.uk/news/articles/clyrv84yd9ko|the race to stop england running out of water|a718ff04ea3cc26cf427329fcac74e3a
+2026-08-29T15:28:39.046355+00:00|https://www.telegraph.co.uk/football/2026/08/29/liverpool-vs-nottingham-forest-live-score-premier-league|munoz rescues draw for liverpool as iraola rages at bungling officials|2b3406dc10d529dd14d755bb9e2af1c4
+2026-08-29T15:28:41.623635+00:00|https://news.sky.com/story/uk-support-for-falklands-unwavering-after-reports-us-may-oppose-british-rule-of-the-islands-13578535|uk support for falklands unwavering after reports us may oppose british rule of the islands|6bb03a6086838200c474fd2bfe8c38f0
+2026-08-29T15:28:44.402093+00:00|https://news.sky.com/story/migrant-dies-and-72-others-rescued-from-small-boat-trying-to-reach-uk-13578501|migrant dies and 72 others rescued from small boat trying to reach uk|2a6b0dd49730aff51af8dce5a31b5cb9

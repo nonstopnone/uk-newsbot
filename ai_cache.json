@@ -24933,5 +24933,47 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788001056.110896
+  },
+  "3e848e6189f90d6017068ff8efceb897": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK politics concerning a senior Conservative MP resigning from the shadow cabinet to contest the London mayoral election.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788017266.320364
+  },
+  "b688db19f6624ea6210b5fe6a8074797": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder investigation and a serious injury to a child in Northern Ireland, falling under UK legal and police jurisdiction.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788017274.214839
+  },
+  "fc32af79c70436a58e7109c8edf6471b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a British citizen from Birmingham being detained abroad, which involves FCDO intervention and constitutes a significant consular matter affecting a UK resident.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788017282.901899
+  },
+  "6bb03a6086838200c474fd2bfe8c38f0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant matter of UK sovereignty and international relations that directly concerns the status of a British Overseas Territory.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788017292.012176
+  },
+  "5b29cfb98502beda9d1e07ea6677e110": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security operation involving the Royal Navy monitoring foreign naval movements within UK territorial waters.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788017304.202166
+  },
+  "2a6b0dd49730aff51af8dce5a31b5cb9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event concerning border security and migration policy, which are core topics for UK news and the subreddit's mandate.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788017313.236543
   }
 }
