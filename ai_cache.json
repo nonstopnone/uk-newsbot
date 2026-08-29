@@ -24975,5 +24975,40 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1788017313.236543
+  },
+  "96ca2427b8886b78738ce08de51471b0": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports match report regarding cricket, which falls under sports lifestyle/reporting rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788030269.160411
+  },
+  "8188ebbb743b60e35fb4314b839db1cc": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a rugby match between South Africa and New Zealand, which does not involve UK teams or players and holds no material relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788030278.141462
+  },
+  "fb1ed277d57fa21792e3d35979219406": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving a murder investigation and a serious injury in a UK region, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788030294.326923
+  },
+  "5365d3d7712e934dc56066608e2285f7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving an attempted murder investigation and police conduct oversight, which is of direct relevance to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788030320.976139
+  },
+  "c1e8e29eb975490f6b3b874f59a384ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK domestic politics involving a senior MP and the leadership of the UK's capital city.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788030330.113988
   }
 }
