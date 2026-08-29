@@ -24884,5 +24884,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1787975962.889638
+  },
+  "203d544796a916c59ff160a019919c76": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the movements of a prominent member of the British Royal Family, which is a defined category for relevance to a UK audience.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788000996.629904
+  },
+  "2e732a239eeb2ec58b4c998c97ae278b": {
+    "is_relevant": true,
+    "reasoning": "A fatal incident at a public event in the UK involving police and emergency services is a matter of significant national concern and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788001006.777671
+  },
+  "047a61e63f08e5a017ffe2286775f4a2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive news event involving a fatality and multiple injuries at a public event in the UK, requiring a police response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788001017.547472
+  },
+  "803ad1876f0d17a5a387abc524e25c0c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and infrastructure event in a major UK city center involving the destruction of a historic building.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788001028.989218
+  },
+  "d3c503cb30278371e764a2e02bb6587c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate takeover involving a major UK service provider, which directly impacts the UK business landscape and infrastructure services.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788001038.083288
+  },
+  "6b222fa34b6cb9c992d87cdb0a574d1e": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story about a specific tourist experience rather than hard news of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788001047.404354
+  },
+  "186a26c15bead3ad1ce3b0af431e5e92": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on an ongoing legal and political dispute involving the Parades Commission in Northern Ireland, which directly impacts UK regional stability and legal processes.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788001056.110896
   }
 }
