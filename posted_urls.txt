@@ -1,9 +1,3 @@
-2026-08-21T23:39:39.073736+00:00|https://www.bbc.co.uk/news/articles/c70gy180e8lo|more students planning to live at home for university over insane living costs|e86633d35b4e0b1a294672e3a17c8cf1
-2026-08-22T01:45:12.148705+00:00|https://www.bbc.co.uk/weather/articles/clyx4ve0x0jo|brief break from rain as sunshine returns for weekend|112cfc5948803351a5cd8c2b5cdf342d
-2026-08-22T01:45:14.924214+00:00|https://www.bbc.co.uk/news/articles/c935r6vr135o|the papers fiscal worries mount and meghan in guy ritchie talks|1b3639d323e6c0d8c42108d7ab7654ad
-2026-08-22T01:45:17.691679+00:00|https://news.sky.com/story/one-man-diagnosed-with-prostate-cancer-in-the-uk-every-eight-minutes-13575557|prostate cancer cases surge in uk as charity warns against myths|48e51abb9c26fc53588613a02ad39ab1
-2026-08-22T03:26:18.220008+00:00|https://www.bbc.co.uk/news/articles/cwym4m4j848o|burnham economic adviser oneill rules out government job|bebc9b9e9710702d9be4fc15eb29d67d
-2026-08-22T03:26:20.843679+00:00|https://news.sky.com/story/we-have-never-seen-anything-like-this-summer-how-wildfire-threat-in-uk-is-escalating-dramatically-13575380|we have never seen anything like this summer how wildfire threat in uk is escalating dramatically|1e19c68bfcde125f9a32a52a43203f76
 2026-08-22T07:33:04.314842+00:00|https://www.bbc.co.uk/news/articles/c14122j83rlo|scottish council website carried links to offshore casino sites|748edc58b8b3bf8bd5478d07a613305a
 2026-08-22T08:01:12.836586+00:00|https://www.bbc.co.uk/news/articles/cvg724e10rwo|teen blinded by firework wants ban on public sales|acd87dec4e1a79d87e9dda095aa00368
 2026-08-22T13:20:10.547772+00:00|https://www.bbc.co.uk/news/articles/c62e2rv94zvo|police investigate car crash into house in glasgow suburb|75fe9748ebf7967b10bac04aa1ebb71d
@@ -137,3 +131,5 @@
 2026-08-28T22:51:54.734283+00:00|https://news.sky.com/story/us-immigration-officials-arrest-british-far-right-commentator-milo-yiannopoulos-13578361|us immigration officials arrest controversial british farright commentator|6b9ecba12522d5843aa45082025d3e45
 2026-08-28T22:51:57.589385+00:00|https://news.sky.com/story/boy-16-dies-after-collapsing-near-river-nith-in-dumfries-police-say-13578234|boy 16 dies after collapsing near river|282b239860ca528780d41d6fe746ec1c
 2026-08-28T22:52:00.079950+00:00|https://www.telegraph.co.uk/cricket/2026/08/28/england-vs-pakistan-second-test-live-score-latest-day-3|england light years ahead of lamentable pakistan|a13f6f87876fa524f3d74a216b02792b
+2026-08-29T03:59:23.270286+00:00|https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o|strong winds and thunderstorms kick off the bank holiday weekend|3ee9f807c32d262c941b6aae41dafd0f
+2026-08-29T03:59:25.655306+00:00|https://www.bbc.co.uk/news/articles/c23x8k1ry27o|mountain of broken fridges growing across england and wales|328ab4c3e92926df8a313be6cad84500

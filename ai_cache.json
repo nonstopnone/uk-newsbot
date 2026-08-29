@@ -24877,5 +24877,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1787957503.775649
+  },
+  "bc7e680fe960f1ee8185eb9798e9ca89": {
+    "is_relevant": false,
+    "reasoning": "This article is celebrity gossip/lifestyle speculation concerning private individuals and does not constitute hard news or significant public interest relevant to the specified categories.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1787975962.889638
   }
 }
