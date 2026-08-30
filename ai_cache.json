@@ -25038,5 +25038,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1788041496.202861
+  },
+  "d84a65d9c669067a1ff345cdce48e65d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news event involving a British athlete suffering a serious medical incident following a major title fight at a London venue.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788051415.560863
+  },
+  "142f01e466e94601a0cb6b5d0e2f319d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result in a professional world title fight involving a prominent British athlete, which falls under major UK sporting news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788051427.158146
   }
 }
