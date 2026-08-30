@@ -25129,5 +25129,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788109679.196512
+  },
+  "c47b43a0e1f1dff6b8a39e6f0c18c4dd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant search and rescue operation involving UK maritime agencies (HM Coastguard and RNLI) in UK territorial waters near Plymouth.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788121386.644062
+  },
+  "90b897cb287f3d5a4cb0ea7e399c0791": {
+    "is_relevant": false,
+    "reasoning": "This is a sports opinion piece/analysis regarding a football team's performance, which falls under sports journalism/commentary rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788121396.276355
+  },
+  "a8a937446a1243ecad7f9972564c95e6": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment piece regarding a music festival performance, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788121407.600024
+  },
+  "f1d70bcb90414f0b364b1bcd1c6e959a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news story concerning government policy on prisoner release, public safety, and a high-profile legal case that has caused substantial national debate.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788121417.059348
+  },
+  "5a27691d686079c6d496efb8aba4b177": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant victory for the England men's cricket team in a Test series, which constitutes major UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788121427.499494
+  },
+  "b269c8baf15059b45b432f0c4b73c711": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing criminal investigation involving a death and multiple arrests, which constitutes hard news of public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788121435.202136
+  },
+  "1c46738ca137de77072196e00198d3c7": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on a football club mascot tribute rather than hard news regarding crime, politics, or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788121446.462145
+  },
+  "37ee853e3214ba915e6d4abaac2b62e7": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story concerning a personal tragedy rather than hard news related to UK politics, policy, crime outcomes, or major national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788121455.934567
   }
 }
