@@ -1,8 +1,3 @@
-2026-08-23T12:55:38.655513+00:00|https://news.sky.com/story/crosscountry-cancels-trains-across-uk-after-control-centre-power-outage-in-birmingham-13576246|train operator cancels trains across uk amid power outage|76041a9fd6f0d9518c818af5e09efa72
-2026-08-23T15:58:50.170378+00:00|https://www.telegraph.co.uk/formula-1/2026/08/23/dutch-f1-grand-prix-live-latest-updates-from-zandvoort|norris wins incidentpacked dutch grand prix as russell loses ground again|089862c8ef7cd6ce62ecae17d6109c1d
-2026-08-23T16:35:17.859723+00:00|https://www.bbc.co.uk/news/articles/c7vgvy3j4v7o|car torched in deliberate fire amid fears of rising gangland violence|2632def24bb77722130d04a2f46ef3e6
-2026-08-23T16:35:20.224785+00:00|https://www.bbc.co.uk/news/articles/c0m7mv0xkkro|climber laura completes full house of 1072 peaks around uk|d2cfab10eb40da54294696c201b74fe7
-2026-08-23T17:01:48.415267+00:00|https://www.bbc.co.uk/news/articles/c4gvgy3de37o|pc killed in wrongway crash was our hero family says|58aa14a9b446bf0c33f1dbb57078b07b
 2026-08-23T17:34:55.576887+00:00|https://www.telegraph.co.uk/football/2026/08/23/premier-league-live-man-city-bournemouth-villa-brighton|enzo maresca tinkers his way to nervy man city win|2dac0420277bda463efdb949db7802bb
 2026-08-23T20:30:24.928479+00:00|https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo|newcastle and liverpool united in tribute to legend keegan|397e809a1788e3f276af35fb53dff549
 2026-08-23T20:53:14.253205+00:00|https://www.bbc.co.uk/news/articles/cvg7l95jz49o|taking a survey in school saved me from homelessness|20e7b8b937b825951884edd99d450fc8
@@ -136,3 +131,7 @@
 2026-08-30T06:13:51.818032+00:00|https://www.bbc.co.uk/news/articles/crr4wd81pdpo|pc harpers killers to stay in jail as pm announces changes to early release scheme|63ef2024f3ad6d45fa73f480c380ab18
 2026-08-30T12:30:54.258038+00:00|https://www.bbc.co.uk/news/articles/clyk7rz1pllo|church leads tributes for man killed at festival|16aa34965a68266485feb52675b48896
 2026-08-30T12:30:56.790506+00:00|https://www.bbc.co.uk/news/articles/clyk7rz1pllo|man killed at christian festival named as his church leads tributes|5872787cfddcec7c048689af670bd652
+2026-08-30T17:07:59.773750+00:00|https://www.telegraph.co.uk/football/2026/08/30/chelsea-vs-brighton-live-score-latest-premier-league-update|chelsea are already this seasons great entertainers after two games|28427f629bc092ce315c95e85b530de3
+2026-08-30T17:08:02.324923+00:00|https://www.bbc.co.uk/news/articles/c4gvze8p758o|celebrating 60 years of notting hill carnival|abf3b9c2aa828b3f05de48b72c9b2920
+2026-08-30T17:08:04.941455+00:00|https://www.bbc.co.uk/news/articles/cx2zy118q7ko|british woman killed in stabbing at german railway station|ba0849e480053a255c5cc87954d0cc53
+2026-08-30T17:08:07.485060+00:00|https://news.sky.com/story/murder-arrest-after-man-found-dead-next-to-seriously-injured-child-in-northern-ireland-13578610|girl in critical condition after police found her next to dead man in northern ireland|26db044f4251e94e2dd42d6039742261

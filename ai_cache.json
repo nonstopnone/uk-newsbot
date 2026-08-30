@@ -25101,5 +25101,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788093053.726382
+  },
+  "abf3b9c2aa828b3f05de48b72c9b2920": {
+    "is_relevant": true,
+    "reasoning": "Notting Hill Carnival is a major, long-standing cultural event of national significance in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1788109641.989556
+  },
+  "0de10dc12c8b0cdf48fe186fbb510b44": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on a football club's tribute, which falls under lifestyle and community interest rather than hard news or significant UK sporting developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788109652.959575
+  },
+  "730da43f003caea2450f478792c1da3e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatal stabbing and subsequent court charges in London, which falls under core UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788109670.241377
+  },
+  "26db044f4251e94e2dd42d6039742261": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a murder investigation and critical injury in Northern Ireland, which is a matter of serious public interest within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788109679.196512
   }
 }
