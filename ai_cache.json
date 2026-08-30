@@ -25185,5 +25185,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788121455.934567
+  },
+  "a91ac9a811d3d4f1aaf6fadf2883c866": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the administration of public services by the Education Authority, impacting special educational needs provision and public spending, which is a matter of UK public policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788131013.931772
+  },
+  "edfce2a4bf55c0001766e328ba3efa7b": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a specific individual's personal experience rather than hard news regarding UK national policy, systemic crime, or significant infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788131022.992172
   }
 }
