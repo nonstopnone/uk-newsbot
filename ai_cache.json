@@ -25059,5 +25059,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788070430.801191
+  },
+  "16aa34965a68266485feb52675b48896": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal accident at a public event in the UK, which is a matter of public interest and safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788093003.1207
+  },
+  "5872787cfddcec7c048689af670bd652": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a fatal accident involving a UK citizen at a UK-based public event, requiring emergency service and hospital involvement.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788093013.079059
+  },
+  "ba0849e480053a255c5cc87954d0cc53": {
+    "is_relevant": true,
+    "reasoning": "The victim is a British national involved in a violent incident abroad, which is a matter of significant public interest and requires consular/foreign reporting.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788093021.606088
+  },
+  "41d4401fd55a2a6dea45811bc9a5f15e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal investigation involving a death and police activity in the UK, which falls under the category of crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788093031.474629
+  },
+  "e92df76bec8ceda7021fee53b07cbd28": {
+    "is_relevant": true,
+    "reasoning": "This is a significant search and rescue operation involving UK maritime assets (HM Coastguard and RNLI) in UK territorial waters, meeting the threshold for security and major infrastructure/emergency news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788093042.41291
+  },
+  "adf68f9ac7382b66684abab95e6afde8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK prison policy, justice system capacity, and a direct government intervention by the Prime Minister.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788093053.726382
   }
 }
