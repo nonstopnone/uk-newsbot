@@ -25052,5 +25052,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1788051427.158146
+  },
+  "3a881063f528a28b47451f2383d72061": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a private citizen's accident while on holiday abroad; it does not constitute hard news or a significant matter of public interest for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788070430.801191
   }
 }

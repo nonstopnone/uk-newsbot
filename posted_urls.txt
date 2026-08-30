@@ -1,6 +1,3 @@
-2026-08-23T02:48:10.156448+00:00|https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo|restriction zone scheme for offenders to start in october|0b5fd42b5c934a019407be458e32a4a8
-2026-08-23T03:52:18.636773+00:00|https://www.bbc.co.uk/news/articles/cy8m0gxexl4o|mayors to get powers to overrule local councils on planning decisions|4c77c7d8cb5ed8a4b71ef04654704ae0
-2026-08-23T03:52:21.160489+00:00|https://www.bbc.co.uk/news/articles/ce9793g34yvo|cyber attack shut down small power plant|7731288cc5007b526b8260d52c6f8538
 2026-08-23T06:43:15.752950+00:00|https://www.bbc.co.uk/news/articles/cdj0j8enpzyo|police officers killed in wrongway crash mourned in unimaginable loss|86a57301c34809cdcbd330cf5362344c
 2026-08-23T09:04:04.371376+00:00|https://www.bbc.co.uk/news/articles/cy9w9y0lz5go|crosscountry cancels uk services after power cut|f0b6203de5a629791dca15bbf5f16ace
 2026-08-23T10:42:19.871426+00:00|https://www.bbc.co.uk/news/articles/c07r7jmjlmxo|biker killed in isle of lewis crash|07a4bfc62cafa82dfcb3e69d02bfab8c
@@ -141,3 +138,4 @@
 2026-08-30T00:57:08.160589+00:00|https://www.bbc.co.uk/news/articles/c5ydwl0lkvno|healey eyes banks and oil tax and x factor comeback|dded6a18b10684b9149df8ebceb2ab9a
 2026-08-30T00:57:10.734328+00:00|https://www.telegraph.co.uk/boxing/2026/08/29/itauma-vs-hrgovic-latest-fight-updates-and-undercard|moses itauma lifted out of ring after losing ibf title bout to filip hrgovic|d84a65d9c669067a1ff345cdce48e65d
 2026-08-30T00:57:13.345849+00:00|https://news.sky.com/story/british-boxer-moses-itauma-suffers-shock-defeat-to-filip-hrgovic-in-world-title-fight-13578896|british boxer moses itauma suffers shock defeat in world title fight|142f01e466e94601a0cb6b5d0e2f319d
+2026-08-30T06:13:51.818032+00:00|https://www.bbc.co.uk/news/articles/crr4wd81pdpo|pc harpers killers to stay in jail as pm announces changes to early release scheme|63ef2024f3ad6d45fa73f480c380ab18
