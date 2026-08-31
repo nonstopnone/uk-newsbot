@@ -25199,5 +25199,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788131022.992172
+  },
+  "5d4e548f4a6e9fd6530aa2190b729ea4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on domestic security and social cohesion concerning a major hate crime and its ongoing impact on a specific UK community, which is a matter of serious public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788145023.445108
+  },
+  "433ffb4ad9156cd454760985cbb9bcc0": {
+    "is_relevant": true,
+    "reasoning": "The UK government is formally intervening in the detention of a British citizen abroad, which constitutes significant foreign affairs news relevant to UK interests.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788145034.132394
   }
 }

@@ -1,7 +1,3 @@
-2026-08-23T23:23:05.981400+00:00|https://www.bbc.co.uk/news/articles/clyqypkrzq5o|burnham to visit kyiv on first foreign trip and reaffirm uk support for ukraine|93066f2c7aa75ef4be59a739326af21d
-2026-08-24T01:29:25.648578+00:00|https://www.bbc.co.uk/weather/articles/czxex6xg75ro|rain to return this week with chance of thunderstorms and flooding|0b4c9d09a219a102b4f20d8b47b47dfa
-2026-08-24T01:29:28.015371+00:00|https://www.bbc.co.uk/news/articles/cgr7reynpdyo|the papers pain beyond words and graduates face worst job market|b60cdcdaa1bd183de7c96a95456369a4
-2026-08-24T02:46:40.187961+00:00|https://www.bbc.co.uk/news/articles/c8xnxy89gv7o|review launched into how pub and hotel business rates calculated|cd7106687bd14f595ef3bceac1d219f3
 2026-08-24T05:39:35.249370+00:00|https://www.bbc.co.uk/news/articles/c24m044p08vo|swinney visits crisis towns asking for help after 1500 job losses|28110c457b17b108f552ce85c2c4b90a
 2026-08-24T07:38:18.820964+00:00|https://www.bbc.co.uk/news/articles/cp8x8xglp27o|crosscountry to run full train service after power outage causes major disruption|03f9aa85daf32750d8b9e14c42793a6f
 2026-08-24T07:38:21.377439+00:00|https://www.bbc.co.uk/news/articles/cjej1w5pqp3o|it took 30 years to talk about my teacher raping me|e734889ba5fea66fb49e6f68b3db1fda
@@ -136,3 +132,5 @@
 2026-08-30T20:24:21.416068+00:00|https://www.telegraph.co.uk/cricket/2026/08/30/england-vs-pakistan-day-four-second-test-latest-updates|robinsons victorianstyle bowling figures secure series victory over pakistan|5a27691d686079c6d496efb8aba4b177
 2026-08-30T23:03:44.714680+00:00|https://www.bbc.co.uk/news/articles/czezn7wxw13o|lack of clarity over sen taxi situation hurtful and frustrating|a91ac9a811d3d4f1aaf6fadf2883c866
 2026-08-30T23:03:47.120692+00:00|https://www.bbc.co.uk/news/articles/c14dlm5e22ko|prisoners freed early are returning to jail at rapid rate governors tell bbc|a81a9ce5ee313545db77cfe394fdfba8
+2026-08-31T02:57:14.716627+00:00|https://www.bbc.co.uk/news/articles/cn5d7ry053eo|patel to be replaced by tugendhat as shadow foreign secretary|8daa38f5fc57932f812c4999eccf80ce
+2026-08-31T02:57:17.362478+00:00|https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o|jewish community in harder position than immediately after synagogue attack says rabbi|5d4e548f4a6e9fd6530aa2190b729ea4
