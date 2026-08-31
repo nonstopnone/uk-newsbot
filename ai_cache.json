@@ -25248,5 +25248,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788168124.224123
+  },
+  "784532f3013b94ed0735c3a4cf613ec6": {
+    "is_relevant": true,
+    "reasoning": "The Notting Hill Carnival is a major, long-standing annual cultural event in the UK that draws millions of attendees and holds significant national cultural importance.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1788196885.721601
+  },
+  "553ea732a307c5c77bf9af7ebf126297": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case regarding health and safety failures in a UK nursery, involving a criminal court conviction and fine.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788196895.256394
+  },
+  "f7ce144748d821efab1d5a8e6da5c561": {
+    "is_relevant": true,
+    "reasoning": "The Governor of the Bank of England is commenting on a systemic threat to the UK's economic stability, which is a matter of significant national importance.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788196904.186081
+  },
+  "dd224cf87f916cfd7d4c87c1710fa78c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation into a murder occurring in a major UK city, which falls directly under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788196915.03283
   }
 }
