@@ -25276,5 +25276,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788196915.03283
+  },
+  "bcea67711d005af1a5284dac59aea6f5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding the UK prison system and national infrastructure, addressing a critical government issue of overcrowding.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788214615.333834
+  },
+  "7610399aa104349be096faa512295ed3": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting event involving a Premier League match, which is highly relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788214624.538841
+  },
+  "4dc121fec77ae67d623a5adc9c9dd53f": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic human interest story and personal tragedy, rather than hard news regarding UK policy, national infrastructure, or systemic issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788214635.303163
+  },
+  "09109de7d64a620cb98f0d657d1bdc0b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant police-related incident involving a death during a major public event in London, which falls under crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788214644.719526
+  },
+  "c6112cd8b954284ded4765f7aa107228": {
+    "is_relevant": true,
+    "reasoning": "The event concerns a significant act of domestic terrorism in the UK and features the participation of a senior government minister, making it a matter of major public interest and legal/social significance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788214656.726864
   }
 }
