@@ -25213,5 +25213,40 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1788145034.132394
+  },
+  "bca582e29301e734d4bd0491c880d3f5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK domestic policy story regarding the justice system, prison capacity, and government decision-making, which falls directly under political and legal scrutiny.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788168037.771911
+  },
+  "58bd999fc59ee2a22cb44afd00000d07": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a fatal rail incident and infrastructure safety in the UK, involving police and rail authorities.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788168048.500785
+  },
+  "8c1b0c15b1d529f91cf30ed1808e9326": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest feature story, which falls under the excluded category of fluff content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788168078.848875
+  },
+  "72e52b79bc9fb40c3422585bf94740e8": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/seasonal interest piece and does not constitute hard news relevant to UK politics, economy, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788168110.106067
+  },
+  "7f840b36b5c3a3c19502fbdfd2545228": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment/lifestyle news piece about a television soap opera, which does not meet the criteria for hard news relevant to the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788168124.224123
   }
 }
