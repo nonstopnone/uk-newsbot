@@ -1,11 +1,3 @@
-2026-08-25T07:08:46.014254+00:00|https://www.bbc.co.uk/news/articles/ce8mejej1m2o|letting agent accused of not returning deposits to more than 100 tenants|e245e146ada63bbffda5c88d94c07d81
-2026-08-25T08:52:55.282745+00:00|https://news.sky.com/story/leeds-and-rangers-co-owner-jed-york-arrested-in-prostitution-sting-at-us-trailer-park-13576861|leeds and rangers coowner snared in prostitution sting at us trailer park|5ca5ecec801abe200a6516c297c4d553
-2026-08-25T10:13:00.645934+00:00|https://www.bbc.co.uk/news/articles/cy8zxwlqwd7o|dealer jailed for exploiting 14yearold boy into selling drugs for him|ff8deabf08223b956e5fd2ae476e503b
-2026-08-25T10:13:03.273346+00:00|https://www.bbc.co.uk/weather/articles/c770lyg4318o|yellow weather warnings issued as thunderstorms and flooding forecast|809694e158da4aff7945b99fb0259b83
-2026-08-25T10:52:26.393801+00:00|https://www.bbc.co.uk/news/articles/c62kr1g3gpwo|families hit back at ni secretarys comments on troubles legacy bill|d317447ed4b3dfa6dab617b1bd13585e
-2026-08-25T10:52:29.047074+00:00|https://www.bbc.co.uk/news/articles/cly7ne4xegmo|man dies in crash after police pursuit|106d4f20d0ff441fbfeef7bce0a64b0f
-2026-08-25T10:52:31.599037+00:00|https://news.sky.com/story/family-of-woman-found-dead-describe-immeasurable-void-as-23-year-old-named-13576920|family of woman found dead describe immeasurable void as 23yearold named|921ab309b8769cd47c1610ae63c7becb
-2026-08-25T11:29:41.503387+00:00|https://www.bbc.co.uk/sport/rugby-league/articles/cwy4zxypry7o|legendary rugby league winger boston dies aged 92|cc99f708d834d0a65ffb64e9955f87ba
 2026-08-25T13:03:21.602226+00:00|https://www.bbc.co.uk/news/articles/cge4d4xgdpwo|man guilty of killing student after fake rolex row|62c2644c0d03215639b463d2c94dea7b
 2026-08-25T13:03:24.160055+00:00|https://www.bbc.co.uk/news/articles/c3eqjyeyglpo|high court quashes decision to restrict annual drumcree parade|2b394d7d6b59669cc04f58adfc9ca868
 2026-08-25T14:04:52.048592+00:00|https://www.bbc.co.uk/news/articles/czez5y3k56lo|we just want to get home dozens stranded in tunisia after cancelled belfast flight|e34ef6b0612d1b25f4914a958cc1d2bb
@@ -114,3 +106,7 @@
 2026-09-01T01:33:08.185636+00:00|https://www.bbc.co.uk/news/articles/c8d3myrgdd1o|new super flu vaccine rollout begins as nhs regroups from busiest summer|3d43a200e922cbb3a70ee5153c48e5b9
 2026-09-01T07:05:51.359783+00:00|https://www.bbc.co.uk/news/articles/c99dyjk7mpyo|burnham to tell mps optimism at heart of his vision for uk|9fe05a6f68dcca56bd59ef3f05a68661
 2026-09-01T07:05:53.787785+00:00|https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo|new storm names for 20262027 released by met office|3e780c06c2df08af04d09dd36858dd5d
+2026-09-01T12:59:15.958465+00:00|https://www.bbc.co.uk/news/articles/cvgy4258kgyo|keir starmer announces he is standing down as mp|6c29593b12610446c985763046aa233f
+2026-09-01T12:59:18.522416+00:00|https://www.bbc.co.uk/weather/articles/c99dypl3jgmo|summer 2026 was uks hottest on record met office says|c8864e8b23c2bc4b2ebda776a9bd45a7
+2026-09-01T12:59:21.270034+00:00|https://news.sky.com/story/first-baby-identified-through-scotlands-sma-screening-programme-starts-treatment-13579736|first baby identified through sma screening programme starts treatment|47771545a82374d78b7ad0dbfd688b9c
+2026-09-01T12:59:23.843396+00:00|https://news.sky.com/story/retail-giants-including-ms-and-tesco-warn-pm-over-budget-tax-raid-13579753|retail giants including ms and tesco warn pm over budget tax raid|30947d75874aabceb98909bcf7aedfa2

@@ -25346,5 +25346,68 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1788246350.707948
+  },
+  "e854a3ec664f66b819333d3ab213be99": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment story about a music trend on social media and does not constitute hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788267479.195504
+  },
+  "33144c3b82910c7898e5b9652e363bb6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant structural reform of the NHS in Scotland, which falls under devolved government policy and impacts public service delivery.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788267490.045946
+  },
+  "6d701b342619747acb81e1434cc02a0a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and court proceedings within the UK (Northern Ireland), meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788267500.267423
+  },
+  "9ecf263d47553bd7b7d700032c5c6823": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant ongoing criminal case involving murder charges in a UK court, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788267507.566122
+  },
+  "70c591131479be85b92a38077caea6e7": {
+    "is_relevant": true,
+    "reasoning": "The Governor of the Bank of England's warning regarding global economic stability and systemic cyber risk directly impacts UK financial policy and national security.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788267517.728109
+  },
+  "47771545a82374d78b7ad0dbfd688b9c": {
+    "is_relevant": true,
+    "reasoning": "This is significant health news concerning a major advancement in the NHS and UK public health policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788267527.09068
+  },
+  "30947d75874aabceb98909bcf7aedfa2": {
+    "is_relevant": true,
+    "reasoning": "The article addresses significant UK economic policy and potential tax changes affecting major national retailers, which is directly relevant to the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788267537.588766
+  },
+  "a83fc3fced1f1ce99aef9ae37e1509dc": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest tragedy/obituary piece rather than a matter of public policy, crime, national news, or systemic failure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788267546.576113
+  },
+  "a8f6dda6249ff4bd99cf2f5ede20f7e0": {
+    "is_relevant": false,
+    "reasoning": "This is a recurring seasonal feature regarding naming conventions rather than a significant weather event or breaking news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788267555.259617
   }
 }
