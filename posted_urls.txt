@@ -1,8 +1,3 @@
-2026-08-25T01:45:47.771621+00:00|https://news.sky.com/story/ukraine-war-yorkshire-lad-believed-to-be-first-briton-to-die-fighting-for-russia-13576834|yorkshire lad believed to be first briton to die fighting for russia|bb8af68cf432dbc720600c6d63c9c121
-2026-08-25T03:00:41.949347+00:00|https://www.bbc.co.uk/news/articles/cg598m3meeyo|burnham planning to visit us in september to lobby trump on ukraine|3a4fc7b5b800598821b2615471393c03
-2026-08-25T03:00:44.656875+00:00|https://news.sky.com/story/met-police-submit-mohamed-al-fayed-case-file-to-prosecutors-13576836|met police submit al fayed case file to prosecutors|fc1284434f20e021e15f2b1cefa53abe
-2026-08-25T05:33:33.311384+00:00|https://www.bbc.co.uk/news/articles/cx2zyjkxjngo|airport bidding for more passengers and later flights|05d0ae68167cb0ba37cd5057674a7d86
-2026-08-25T06:04:03.096352+00:00|https://www.bbc.co.uk/news/articles/cj06818jgzlo|burnham refuses to rule out tax rises in autumn budget|2f36069bdefda3377ed71224ae27e6b6
 2026-08-25T07:08:46.014254+00:00|https://www.bbc.co.uk/news/articles/ce8mejej1m2o|letting agent accused of not returning deposits to more than 100 tenants|e245e146ada63bbffda5c88d94c07d81
 2026-08-25T08:52:55.282745+00:00|https://news.sky.com/story/leeds-and-rangers-co-owner-jed-york-arrested-in-prostitution-sting-at-us-trailer-park-13576861|leeds and rangers coowner snared in prostitution sting at us trailer park|5ca5ecec801abe200a6516c297c4d553
 2026-08-25T10:13:00.645934+00:00|https://www.bbc.co.uk/news/articles/cy8zxwlqwd7o|dealer jailed for exploiting 14yearold boy into selling drugs for him|ff8deabf08223b956e5fd2ae476e503b
@@ -117,3 +112,5 @@
 2026-08-31T22:17:42.221402+00:00|https://www.bbc.co.uk/news/articles/cg7kzy2n8z7o|man dies near notting hill carnival after entering canal|09109de7d64a620cb98f0d657d1bdc0b
 2026-09-01T01:33:05.643622+00:00|https://www.bbc.co.uk/news/articles/cvgy8xdzk41o|the papers kemi gets tories battle ready and posh makes some dosh|ee55bb58365c77b1c30b985f8f8b4ec2
 2026-09-01T01:33:08.185636+00:00|https://www.bbc.co.uk/news/articles/c8d3myrgdd1o|new super flu vaccine rollout begins as nhs regroups from busiest summer|3d43a200e922cbb3a70ee5153c48e5b9
+2026-09-01T07:05:51.359783+00:00|https://www.bbc.co.uk/news/articles/c99dyjk7mpyo|burnham to tell mps optimism at heart of his vision for uk|9fe05a6f68dcca56bd59ef3f05a68661
+2026-09-01T07:05:53.787785+00:00|https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo|new storm names for 20262027 released by met office|3e780c06c2df08af04d09dd36858dd5d

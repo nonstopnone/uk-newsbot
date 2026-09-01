@@ -25332,5 +25332,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788226383.776657
+  },
+  "f275c67a9192af58d7837246c4c10ba3": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective human-interest feature piece rather than hard, time-sensitive breaking news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788246341.315432
+  },
+  "3e780c06c2df08af04d09dd36858dd5d": {
+    "is_relevant": true,
+    "reasoning": "This is official information from the Met Office regarding national weather infrastructure and seasonal preparedness that directly impacts the UK public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788246350.707948
   }
 }
