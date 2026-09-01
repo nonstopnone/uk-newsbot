@@ -25409,5 +25409,82 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788267555.259617
+  },
+  "f3f6a560acc59de0bbfbfb7526542870": {
+    "is_relevant": true,
+    "reasoning": "The involvement of a British national and the status of 33 missing British citizens in a major international disaster is of significant interest to a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788282721.375713
+  },
+  "cbedb34e4418dc48bfe3d8205230c6aa": {
+    "is_relevant": true,
+    "reasoning": "This is significant international news that directly involves the sovereignty of a British Overseas Territory and impacts UK national security and foreign policy.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788282736.31793
+  },
+  "07dd0c8b04e229bd2ac45ed1f2f1dd1c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing UK criminal investigation involving a homicide in Sheffield and subsequent police activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788282745.64128
+  },
+  "57e454492403f87422d4d6cafbddebc8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the death of a newborn and multiple arrests, which constitutes hard news of major public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788282759.599947
+  },
+  "8c11bd7b931ef8f715432c827b3538fc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report concerning the sentencing of a dangerous offender by a UK court following an NCA investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788282777.628995
+  },
+  "da5579e02e3c66256c3b9fc67cc6bad3": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the capacity crisis in the UK prison system and forthcoming government policy updates in the House of Commons, which are matters of significant public and political interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788282789.121331
+  },
+  "5bc4c418f4699edf60be3e5fec629bfa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a double murder and the death of a suspect in Glasgow, which is highly relevant to UK public safety and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788282799.078689
+  },
+  "ac333c926ee74fc544a46f64ff7e6147": {
+    "is_relevant": true,
+    "reasoning": "The resignation of the Prime Minister as an MP is a monumental development in UK politics with direct implications for the government and electorate.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788282826.270381
+  },
+  "71da4e466840361a8aa0c8a678319437": {
+    "is_relevant": false,
+    "reasoning": "This is a personal lifestyle and health anecdotal feature rather than hard news; it does not meet the criteria for a national news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788282836.287471
+  },
+  "33ee3be492b16c924d5dd5107620d5da": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national news story involving a major search-and-rescue operation for a missing British teenager in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788282843.832189
+  },
+  "b4c58c9a8763d7aa5c57af0fa262fc82": {
+    "is_relevant": true,
+    "reasoning": "The involvement of the Metropolitan Police in an investigation regarding the death of a British citizen abroad is a matter of UK legal and security interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788282855.257522
   }
 }
