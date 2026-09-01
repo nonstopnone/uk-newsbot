@@ -1,4 +1,3 @@
-2026-08-24T22:45:05.677197+00:00|https://www.bbc.co.uk/news/articles/cq63rmj1zl1o|lockerbie bombing trial postponed days before it was due to start|49bec70b2890238066f9c90ac7f40503
 2026-08-25T01:45:47.771621+00:00|https://news.sky.com/story/ukraine-war-yorkshire-lad-believed-to-be-first-briton-to-die-fighting-for-russia-13576834|yorkshire lad believed to be first briton to die fighting for russia|bb8af68cf432dbc720600c6d63c9c121
 2026-08-25T03:00:41.949347+00:00|https://www.bbc.co.uk/news/articles/cg598m3meeyo|burnham planning to visit us in september to lobby trump on ukraine|3a4fc7b5b800598821b2615471393c03
 2026-08-25T03:00:44.656875+00:00|https://news.sky.com/story/met-police-submit-mohamed-al-fayed-case-file-to-prosecutors-13576836|met police submit al fayed case file to prosecutors|fc1284434f20e021e15f2b1cefa53abe
@@ -116,3 +115,5 @@
 2026-08-31T22:17:37.532671+00:00|https://www.bbc.co.uk/news/articles/ce8x543ddzjo|more cells being built within prisons to help tackle overcrowding|bcea67711d005af1a5284dac59aea6f5
 2026-08-31T22:17:39.919214+00:00|https://www.telegraph.co.uk/football/2026/08/31/aston-villa-vs-arsenal-live-score-latest-premier-league|arsenal win the hard way as saka strike maintains perfect start to title defence|7610399aa104349be096faa512295ed3
 2026-08-31T22:17:42.221402+00:00|https://www.bbc.co.uk/news/articles/cg7kzy2n8z7o|man dies near notting hill carnival after entering canal|09109de7d64a620cb98f0d657d1bdc0b
+2026-09-01T01:33:05.643622+00:00|https://www.bbc.co.uk/news/articles/cvgy8xdzk41o|the papers kemi gets tories battle ready and posh makes some dosh|ee55bb58365c77b1c30b985f8f8b4ec2
+2026-09-01T01:33:08.185636+00:00|https://www.bbc.co.uk/news/articles/c8d3myrgdd1o|new super flu vaccine rollout begins as nhs regroups from busiest summer|3d43a200e922cbb3a70ee5153c48e5b9

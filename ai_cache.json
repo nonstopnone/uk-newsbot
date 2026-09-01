@@ -25311,5 +25311,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788214656.726864
+  },
+  "3d43a200e922cbb3a70ee5153c48e5b9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health update regarding the NHS and the national vaccination strategy, which directly impacts a large portion of the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788226364.179507
+  },
+  "28e7a2f3fea0caeaa78e07703d1c1961": {
+    "is_relevant": false,
+    "reasoning": "This article is lifestyle/advice content regarding workplace wellbeing, which falls under prohibited fluff and is not hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788226373.986231
+  },
+  "9b4a74cce25c5d394e0160f4fe281f05": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant historical event in Northern Ireland, a part of the UK, and discusses ongoing societal tensions relevant to UK domestic affairs.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788226383.776657
   }
 }
