@@ -25486,5 +25486,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788282855.257522
+  },
+  "75015284f758c4613d51f157a56faf3b": {
+    "is_relevant": true,
+    "reasoning": "This report concerns government funding for a UK police force and the response to a major criminal investigation involving multiple fatalities, which is significant national news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788294235.025879
   }
 }
