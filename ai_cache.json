@@ -25661,5 +25661,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788360913.228052
+  },
+  "c4d009604b7cebfd68a0af93402f16ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, long-standing issue regarding sectarian tensions and public order in Northern Ireland, which is a key part of UK devolved politics and social affairs.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788373228.96719
+  },
+  "4ae1298a58c949e69a63eade910bffd4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a cold case murder investigation in the UK, involving new arrests and police action.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788373240.680904
+  },
+  "3c7ca9d9fac12fd6bb5c978802a696c1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the ongoing investigation into the murders of a British family, which is a matter of significant public interest and legal proceedings involving UK citizens.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788373250.978057
+  },
+  "cf9c228cda078f8cf0a628082ca22865": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident involving a UK citizen and the subsequent legal proceedings of a coroner's inquest, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788373258.946826
+  },
+  "307929966a787733d1c9cfd43c12b88f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and public interest update regarding the Lucy Letby case, which is a major ongoing criminal matter in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788373271.909489
   }
 }
