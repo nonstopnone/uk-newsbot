@@ -1,10 +1,3 @@
-2026-08-26T05:39:15.547034+00:00|https://www.bbc.co.uk/news/articles/cm27324jgg1o|police officer sacked after starting sexual relationship with woman|530b3212dd66da183beda0887d1b6b04
-2026-08-26T06:18:44.731651+00:00|https://www.bbc.co.uk/news/articles/c0rewr790jyo|dad of woman who took her own life says treasury failed in its duty of care|784d1644d6df3391a5d6e8a1e42c37d8
-2026-08-26T06:18:47.139729+00:00|https://www.bbc.co.uk/news/articles/c5ydmmyy887o|im still paying a mortgage for a home destroyed by a fire|8e3ada05a99d326e08801a6cba567011
-2026-08-26T07:26:15.176681+00:00|https://www.bbc.co.uk/news/articles/c17jl59zg2ko|major gangland figure steven daniel arrested in organised crime raid|3dce5ef0cb885d8f1288cef23fada152
-2026-08-26T07:26:17.471553+00:00|https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o|libyan cleared after lockerbie bombing trial dies aged 70|6e064f47067dc5e5073f6323aa3d53bf
-2026-08-26T08:09:26.528941+00:00|https://www.bbc.co.uk/news/articles/c0kl40d3011o|nhs failing child sexual abuse victims in adulthood say psychiatrists|f2f57bb95a4533cf3176902b287450ff
-2026-08-26T09:02:45.473776+00:00|https://news.sky.com/story/raheem-sterling-charged-with-dangerous-driving-and-possession-of-nitrous-oxide-after-crash-13577280|raheem sterling charged with dangerous driving after motorway crash|022a3771738f635237420e1bdb18779f
 2026-08-26T11:48:54.225090+00:00|https://www.telegraph.co.uk/business/2026/08/26/ofgem-price-cap-energy-bills-burnham-gas-electricity|households warned of worse to come as energy bills rise|65d8f1b4c2f186f67cec8cd695b9f754
 2026-08-26T11:48:56.878482+00:00|https://www.bbc.co.uk/news/articles/cq5xe813w1do|exchief constable investigated over israeli fan ban|8e0a4f236042f6e2750343b1cf93b93b
 2026-08-26T11:48:59.396277+00:00|https://www.bbc.co.uk/news/articles/czrzm6p6zxeo|prince harry and meghan to arrive in uk today|749158e1f4db42715afa323d187b63ba
@@ -107,3 +100,6 @@
 2026-09-02T00:47:40.439580+00:00|https://www.telegraph.co.uk/football/2026/09/01/transfer-deadline-day-news-latest-news|man city sign enzo fernandez for £125m to end transfer saga of the summer|7fb061914e711b2804c83dfa8be8a624
 2026-09-02T05:20:51.716663+00:00|https://www.bbc.co.uk/news/articles/c7507z4enq6o|chris mason will burnham find pmqs as nail biting and nerve wracking as blair did|a8f7bf7a6b24f96d3320aa9423493c08
 2026-09-02T05:20:54.090681+00:00|https://www.bbc.co.uk/news/articles/crr40g71vylo|urine test can spot more than nine in 10 bladder cancers|9aecf57b800f65857ca3b20ad98befb7
+2026-09-02T10:24:58.277910+00:00|https://www.bbc.co.uk/news/articles/c7708vn2yp7o|khan convicted in car tax scam for vehicle he denies owning|84f9a6162f3fd861bf13896e9f12539c
+2026-09-02T10:25:00.737094+00:00|https://www.bbc.co.uk/news/articles/cm2rym5zvxlo|no compulsory redundancies from health board cuts swinney|8e6ed1bc34c12582b5700c01cac26a6b
+2026-09-02T10:25:03.007738+00:00|https://news.sky.com/story/sadiq-khan-says-hes-been-scammed-after-london-mayor-convicted-of-failing-to-tax-car-13580285|sadiq khan says hes been scammed after london mayor convicted of failing to tax car|fddf3e0af355c5495b69fb35f8367d7e

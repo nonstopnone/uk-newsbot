@@ -25535,5 +25535,61 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788326450.668694
+  },
+  "84f9a6162f3fd861bf13896e9f12539c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a criminal conviction and legal proceedings involving a high-profile UK politician, Sadiq Khan, and a government agency, the DVLA.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788344630.994673
+  },
+  "8e6ed1bc34c12582b5700c01cac26a6b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding the structure of the NHS in Scotland and public sector employment, directly concerning devolved government administration.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788344641.332283
+  },
+  "3dd5dc489bc33c9b8e5f58579b6d8f9f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal proceeding involving a murder investigation in Sheffield.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788344652.020528
+  },
+  "fddf3e0af355c5495b69fb35f8367d7e": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a legal conviction involving a prominent UK political figure and public official, which is a matter of public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788344660.945649
+  },
+  "872b59a1a8aac0629b2daa66b23fcae5": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on public health infrastructure in South Africa and does not have a material impact on the UK or involve UK policy, despite being written by a UK-based journalist.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788344670.256809
+  },
+  "4b99c30b4ff549a4578542e9eaa3f44b": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and music-related human interest story rather than hard news concerning UK politics, the economy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788344678.83461
+  },
+  "953bfacc57c9906559dd1dbac8cda50a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal road traffic collision in Northern Ireland involving a police investigation, which constitutes hard news relevant to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788344688.079563
+  },
+  "3106832c1eaef27c65818d29d8a83c70": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the NHS and public health crisis in England, which is highly relevant to a UK audience.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788344697.874295
   }
 }
