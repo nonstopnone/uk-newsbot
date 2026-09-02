@@ -25591,5 +25591,75 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788344697.874295
+  },
+  "93a8c29a30e9a5d715c455366992bb54": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and public interest update regarding the ongoing fallout and investigative details surrounding the Lucy Letby case, which is a major UK criminal matter.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788360816.268888
+  },
+  "aa03bad5176877a13dcf3f44dbf2ce2e": {
+    "is_relevant": true,
+    "reasoning": "The potential of H5N1 to cross into mammals and pose a global pandemic threat is a matter of significant public health interest for the UK government and health authorities.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788360826.475642
+  },
+  "cb1885b8545a979581d5c9db96e76387": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government prison policy and criminal justice reform affecting England and Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788360835.181986
+  },
+  "15ee74202f314072401c1be9ec6aa873": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving murder charges and active court proceedings within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788360847.711483
+  },
+  "943ccc630f46c63344f3a5f25c069636": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad, involving a murder investigation and Foreign Office assistance, is considered a matter of significant public interest in the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788360855.895537
+  },
+  "35aa3325fd69b5565f84f5a3ea8ce704": {
+    "is_relevant": true,
+    "reasoning": "The article concerns Scottish government policy and legislative changes regarding domestic abuse and misogyny, which are significant matters of public interest and devolved politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788360871.097632
+  },
+  "36c3874f3e2d3a9b178791017eebc115": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK criminal case involving fraud and the failure of court-ordered compensation, which falls under the category of crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788360880.121415
+  },
+  "7e3d02c683ab61340d7a162663df9816": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development regarding a criminal trial occurring within the UK (Northern Ireland).",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788360890.413278
+  },
+  "efc95d4fc121da0b24003402693cd8d2": {
+    "is_relevant": true,
+    "reasoning": "This story highlights a significant security vulnerability involving the official residence of the UK Prime Minister, which is a matter of national importance and public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788360898.185814
+  },
+  "3908009e284b61a39822731c15c5ee07": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal court case in the UK involving serious historical sexual offence charges.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788360913.228052
   }
 }

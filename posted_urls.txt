@@ -1,15 +1,3 @@
-2026-08-26T11:48:54.225090+00:00|https://www.telegraph.co.uk/business/2026/08/26/ofgem-price-cap-energy-bills-burnham-gas-electricity|households warned of worse to come as energy bills rise|65d8f1b4c2f186f67cec8cd695b9f754
-2026-08-26T11:48:56.878482+00:00|https://www.bbc.co.uk/news/articles/cq5xe813w1do|exchief constable investigated over israeli fan ban|8e0a4f236042f6e2750343b1cf93b93b
-2026-08-26T11:48:59.396277+00:00|https://www.bbc.co.uk/news/articles/czrzm6p6zxeo|prince harry and meghan to arrive in uk today|749158e1f4db42715afa323d187b63ba
-2026-08-26T11:49:01.841220+00:00|https://news.sky.com/story/thunderstorms-warning-in-force-with-threat-of-large-hail-flash-flooding-and-travel-disruption-across-england-and-wales-13577283|intense thunderstorms on way with threat of large hail flash flooding and travel disruption|fef43204ba8c2c98108b0d3f60738229
-2026-08-26T12:56:29.409602+00:00|https://www.bbc.co.uk/news/articles/c804rd7leppo|reform proposes £30 tax rebate for hmrc phone delays|505a28d6208c086d331e274e2176072c
-2026-08-26T12:56:31.912328+00:00|https://news.sky.com/story/ex-west-midlands-police-chief-investigated-over-decision-to-ban-israeli-fans-from-aston-villa-match-13577357|expolice chief investigated over decision to ban israeli fans from aston villa match|225ab163e6ee7ab6ba16985883994c64
-2026-08-26T12:56:34.326645+00:00|https://www.bbc.co.uk/news/articles/c0e31qdqrlyo|ironing board seats to be replaced on thameslink|3aaba7c4ca533dfa820f3e8709dd58fa
-2026-08-26T12:56:36.708171+00:00|https://news.sky.com/story/man-who-hid-body-of-arson-attack-suspect-in-bin-jailed-13577324|man who hid body of arson attack suspect in bin jailed|9ce5ca1ca5c178a11a4a354b8569089e
-2026-08-26T13:56:59.659646+00:00|https://www.telegraph.co.uk/financial-services/retirement-solutions/equity-release-service/best-coastal-towns-to-retire-uk|the five best coastal places to retire in the uk|b4a3438fd549578b8ade8a7f9bf94371
-2026-08-26T13:57:02.526283+00:00|https://www.bbc.co.uk/news/articles/ckgvn6rk163o|excouncil chief convicted of two charges over deleting email|de3476d8fd4af58c2fbba33eac2d7789
-2026-08-26T14:51:25.104825+00:00|https://www.bbc.co.uk/news/articles/c5ye3ld87y1o|stourbridge fires that razed 19 homes accidental|63bbf53f17d8c13e0512263c99e13eb1
-2026-08-26T14:51:27.596910+00:00|https://www.bbc.co.uk/news/articles/cjdv5y220keo|inquest begins into death of jason arday|6b9ae71506e50012c1dcc5b3a5104ab9
 2026-08-26T16:19:44.114244+00:00|https://www.bbc.co.uk/news/articles/cnvlde5075no|nepalese authorities say 33 uk nationals missing after flash floods|fe5923058f0f0564d853051908d20611
 2026-08-26T16:19:46.530367+00:00|https://www.bbc.co.uk/news/articles/c4gjdwryq5wo|we saw signs of domestic abuse but we didnt know how to protect stacy|4dc4afbafe0e47374f2d6205e823f73b
 2026-08-26T18:15:52.775476+00:00|https://www.bbc.co.uk/news/articles/c23xk7v003jo|woman told nobody wants to see a pregnant person in work by her boss tribunal finds|33a8dbaeb420746d9b39cab189a38ddf
@@ -103,3 +91,7 @@
 2026-09-02T10:24:58.277910+00:00|https://www.bbc.co.uk/news/articles/c7708vn2yp7o|khan convicted in car tax scam for vehicle he denies owning|84f9a6162f3fd861bf13896e9f12539c
 2026-09-02T10:25:00.737094+00:00|https://www.bbc.co.uk/news/articles/cm2rym5zvxlo|no compulsory redundancies from health board cuts swinney|8e6ed1bc34c12582b5700c01cac26a6b
 2026-09-02T10:25:03.007738+00:00|https://news.sky.com/story/sadiq-khan-says-hes-been-scammed-after-london-mayor-convicted-of-failing-to-tax-car-13580285|sadiq khan says hes been scammed after london mayor convicted of failing to tax car|fddf3e0af355c5495b69fb35f8367d7e
+2026-09-02T14:55:13.608133+00:00|https://www.bbc.co.uk/news/articles/cd6857j2v1qo|farage tells bbc we live in a complainants society after questions over reform funding|dca32cf02e4c3b7f66e5386da2aa5502
+2026-09-02T14:55:15.898701+00:00|https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo|burnhams pmqs debut shows the challenge of delivering new style of politics|50f0a15bcbf2131b4de4db579b61621b
+2026-09-02T14:55:18.281821+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/h5n1-hits-us-mink-farms-sparking-calls-for-an-urgent-cull|h5n1 hits us mink farms sparking calls for an urgent cull|aa03bad5176877a13dcf3f44dbf2ce2e
+2026-09-02T14:55:20.620335+00:00|https://news.sky.com/story/fake-10-downing-street-listing-exposes-security-failureson-bookingcom-13580279|fake 10 downing street listing exposes security failures on bookingcom|efc95d4fc121da0b24003402693cd8d2
