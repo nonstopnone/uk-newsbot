@@ -25493,5 +25493,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788294235.025879
+  },
+  "ce7aab5730210865d2b30fa42ef62401": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news event involving a major British club and a record-breaking transfer deal that is of high interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788310018.327007
+  },
+  "73ba720394c05d98bc9dc9c781a08e2b": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment piece about a music band's creative process and studio habits, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788310030.881925
+  },
+  "6b63c46479a6f44e48dbe492bc0d6d5b": {
+    "is_relevant": true,
+    "reasoning": "This is significant economic and industrial news concerning major UK manufacturing, employment, and the domestic automotive sector's transition to electrification.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788310040.05144
+  },
+  "7af1b925bf594ee8c3025429936531ba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the performance and capacity of the NHS, which is a core issue of UK public interest and policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788310050.922224
   }
 }
