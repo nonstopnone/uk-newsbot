@@ -25696,5 +25696,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788373271.909489
+  },
+  "a115122e0b2f5e97b49d9a520c653a99": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad in a violent incident is a matter of significant public interest and involves UK consular assistance.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788384621.575984
+  },
+  "62a9a89606cb41c8d820176447064597": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning police conduct and systemic racism within a major UK police force, which is a matter of clear public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788384633.435088
   }
 }
