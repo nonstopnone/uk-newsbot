@@ -25521,5 +25521,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1788310050.922224
+  },
+  "59761158d3f66716f41cbb3142c7d416": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding merchandise sales and music festival fashion, which falls under lifestyle/entertainment news rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788326442.278187
+  },
+  "a8f7bf7a6b24f96d3320aa9423493c08": {
+    "is_relevant": true,
+    "reasoning": "This article discusses the Prime Minister's performance and the routine of Prime Minister's Questions, which is central to UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788326450.668694
   }
 }
