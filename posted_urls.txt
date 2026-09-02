@@ -1,6 +1,3 @@
-2026-08-26T23:37:15.612055+00:00|https://www.bbc.co.uk/news/articles/cj4jdlqevqlo|ni health trusts to announce 12 in savings plan|f1e73333f1d4e627f72603eb8223f39b
-2026-08-26T23:37:17.956886+00:00|https://www.telegraph.co.uk/football/2026/08/26/tottenham-charlton-live-score-updates-carabao-cup|savio scores on debut as spurs cruise past charlton in carabao cup|90960ccbcb08ef5c92c4723cf03e0fcc
-2026-08-26T23:37:20.585237+00:00|https://www.bbc.co.uk/news/articles/cx2zkek78j5o|the papers britons lost in nepal flood and regal had landed|817a7289942c4f74f53a8f0fb688c054
 2026-08-27T16:33:55.638809+00:00|https://www.bbc.co.uk/news/articles/cy9z43z3g24o|burnham says united ireland poll is off the table during first ni visit|ba28e05c48d9c7f6947196ebf72a7f60
 2026-08-27T16:33:58.199471+00:00|https://www.bbc.co.uk/news/articles/c7v4353rry7o|hackers steal data from millions of airport customers|8a0527f83512e191c84c36c0dcc39d6d
 2026-08-27T16:34:00.741686+00:00|https://news.sky.com/story/british-woman-lisa-fryett-died-after-becoming-trapped-by-spanish-wildfires-inquest-hears-13577805|british woman died after becoming trapped by spanish wildfires|a94218c512c1bd857b451bf540e6d47e
@@ -96,3 +93,6 @@
 2026-09-02T21:30:34.054319+00:00|https://www.bbc.co.uk/news/articles/cy7zx6k404go|king hails unprecedented bayeux tapestry exhibition in london|ae092351d016b1c344dd1088727f2a58
 2026-09-02T21:30:36.680454+00:00|https://news.sky.com/story/british-woman-34-stabbed-to-death-in-hotel-corridor-in-portugal-13580496|british woman 34 stabbed to death in hotel corridor in portugal|a115122e0b2f5e97b49d9a520c653a99
 2026-09-02T21:30:39.287010+00:00|https://news.sky.com/story/six-police-officers-sacked-after-racism-complaint-greater-manchester-police-says-13580487|six police officers sacked after racism complaint in manchester|62a9a89606cb41c8d820176447064597
+2026-09-02T23:46:49.584263+00:00|https://www.bbc.co.uk/news/articles/c5yw09y4z7vo|owners call for right to challenge property service charges after fees treble|ea30ec36db4fd6065945e9142205cee0
+2026-09-02T23:46:51.968927+00:00|https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o|hundreds of north sea workers too heavy for new helicopter rules|3fbd55f9f46d3327d2512d957a000b2d
+2026-09-02T23:46:54.359271+00:00|https://news.sky.com/story/families-of-nottingham-attacks-victims-kept-in-dark-about-mentally-ill-man-pursuing-them-13580529|families of nottingham attacks victims kept in dark about mentally ill man pursuing them|4388265a94ad6ff74bbe1778fff51fd7

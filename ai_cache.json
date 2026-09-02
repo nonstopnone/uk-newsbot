@@ -25710,5 +25710,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788384633.435088
+  },
+  "ea30ec36db4fd6065945e9142205cee0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer and legal issue regarding leasehold law in Northern Ireland, directly involving devolved government (Stormont) legislation and the financial stability of UK citizens.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788392779.773466
+  },
+  "3fbd55f9f46d3327d2512d957a000b2d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and safety issue affecting a major UK industrial sector (North Sea oil and gas) and employment law, which is a matter of clear public interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788392790.967507
+  },
+  "4d9940d487b06d7f01113f54a9fcc4bf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK workplace safety and agricultural health statistics, involving the Health and Safety Executive and multiple recent fatalities, which is of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788392799.221972
+  },
+  "4388265a94ad6ff74bbe1778fff51fd7": {
+    "is_relevant": true,
+    "reasoning": "This report concerns serious failures in police communication following a major UK criminal case, involving public safety and victim support.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788392809.180211
   }
 }
