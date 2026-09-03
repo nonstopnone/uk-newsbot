@@ -25787,5 +25787,75 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788421130.544588
+  },
+  "15a9964c64dd00c53243bad858270f4d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal matter involving a fatal hit-and-run, a high-profile extradition, and court proceedings within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788438516.711371
+  },
+  "026a3e9d2efd9d9336539cfed6ba986a": {
+    "is_relevant": true,
+    "reasoning": "This relates to ongoing political and social tensions in Northern Ireland involving public order, legal challenges, and community relations, which are matters of significant UK public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788438524.937813
+  },
+  "b1a4160fd574a9528cbe3b8ff5ed174c": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment story regarding a YouTube creator's project, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788438535.25315
+  },
+  "f1a4c462cb870782b22457e8312149d7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a fatal drink-driving conviction in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788438545.295963
+  },
+  "bf085361c94fd3bb387051a467036b05": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a violent crime and subsequent sentencing at a UK court involving a teacher, which falls under core UK legal and societal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788438553.731357
+  },
+  "203105c8b911511ecf5983da85925567": {
+    "is_relevant": false,
+    "reasoning": "While a notable local figure, this is a human interest obituary piece and does not qualify as hard news of national political, economic, or security significance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788438562.291875
+  },
+  "18b170395a001346ed5bab8b3cd424b6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant criminal conviction at a UK Crown Court involving a serious arson attack and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788438573.554506
+  },
+  "8d5e3cd6656fc6aefebb35d31cc9c724": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest story regarding a celebrity's personal property renovation and is not considered hard news of significance to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788438580.574358
+  },
+  "f6a0ba44f385527682267aba04dbee68": {
+    "is_relevant": true,
+    "reasoning": "This concerns a criminal prosecution and legal proceedings involving a high-profile UK political figure, the Mayor of London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788438589.579004
+  },
+  "f527aad45e555140a22a033e46c396c5": {
+    "is_relevant": true,
+    "reasoning": "This is a news story regarding a high-profile UK political figure and public administration processes involving the DVLA and the Mayor of London.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788438598.687909
   }
 }
