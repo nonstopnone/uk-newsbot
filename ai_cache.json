@@ -25738,5 +25738,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788392809.180211
+  },
+  "5316e74205f2ab22436571b7e37d4539": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the UK's fiscal health and government borrowing costs directly ahead of a national budget, which is a matter of major domestic economic importance.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788402701.428333
+  },
+  "7fedd7eb709977fa3b47e26e5e2c072d": {
+    "is_relevant": false,
+    "reasoning": "This is entertainment fluff regarding celebrity gossip and television production speculation, which does not constitute hard news relevant to UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788402710.229174
   }
 }
