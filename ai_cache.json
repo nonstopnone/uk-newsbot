@@ -25962,5 +25962,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1788464102.577884
+  },
+  "50c75bbdb68488d8620f13b6bdc6b7a7": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest story about fly-tipping at a beauty spot, which is classified as lifestyle/environmental local news rather than significant national hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788473314.877446
+  },
+  "2a2914811ad20435f475bcd1f797da7d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development concerning the Northern Ireland health service, which is a matter of direct public interest and devolved governance in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788473325.108748
   }
 }
