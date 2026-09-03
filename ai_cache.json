@@ -25927,5 +25927,40 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1788454553.047136
+  },
+  "e3de871b9d1759136be695789c5ce790": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the official state representation of the British monarch on international currency, which is of significant interest to the UK audience as a matter of royal protocol and Commonwealth relations.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788464062.935457
+  },
+  "b78be8a0d6e3e66ee2fa7e043b2e1e01": {
+    "is_relevant": false,
+    "reasoning": "This is an obituary for a music industry figure and is considered entertainment/lifestyle news rather than hard UK news or a significant current event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788464072.329565
+  },
+  "c81cc83c568bbd506c848e943844ad5b": {
+    "is_relevant": true,
+    "reasoning": "This concerns government-backed investment strategy and UK economic policy regarding domestic tech scale-ups, which is a matter of significant national economic interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788464083.33167
+  },
+  "b4066027bf45b091b0394913e6ea86aa": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/entertainment news story about an actress's performance, which does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788464092.578806
+  },
+  "b0e5790b18d8cfe43db8ca1a32f3e2a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning UK territorial sovereignty and foreign policy, involving high-level diplomatic relations between the UK and the US.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788464102.577884
   }
 }

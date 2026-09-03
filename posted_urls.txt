@@ -105,3 +105,7 @@
 2026-09-03T16:55:57.422316+00:00|https://www.bbc.co.uk/news/articles/crk3xdv0z71o|badenoch accuses burnham of kicking defence spending into the long grass|291c25c18f2f9f9536d411a480841782
 2026-09-03T16:55:59.983095+00:00|https://news.sky.com/story/hitchhiking-mosquitoes-that-can-transmit-dengue-and-zika-virus-found-breeding-in-uk-13580900|hitchhiking mosquitoes that can transmit dengue and zika virus found breeding in uk|d03a5719d4e92d9d038f293615c233a0
 2026-09-03T16:56:02.424151+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/zika-virus-mosquitoes-breed-in-britain-for-first-time|zika virus mosquitoes breed in britain for first time|b4276d3e7265d12d1b2a8b6745f96810
+2026-09-03T19:35:04.086239+00:00|https://www.bbc.co.uk/news/articles/cr50d2dyn70o|canada unveils new $20 bill featuring portrait of king charles|e3de871b9d1759136be695789c5ce790
+2026-09-03T19:35:06.516938+00:00|https://www.bbc.co.uk/news/articles/cj3dx00jzr1o|helicopters to be put on standby when wildfire risk is high|57d798b907e69946f3d5a75d5594d9c3
+2026-09-03T19:35:09.003614+00:00|https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004|londonlisted molten ventures joins race to run burnhambacked £1bn tech fund|c81cc83c568bbd506c848e943844ad5b
+2026-09-03T19:35:11.353638+00:00|https://www.telegraph.co.uk/business/2026/09/03/bond-sell-off-uk-gilts-burnham-budget-ftse-100-markets|bank of england must raise interest rates says chief economist|516f88603e2727785c1d21c708ad2b6e
