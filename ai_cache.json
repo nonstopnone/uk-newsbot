@@ -25857,5 +25857,75 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788438598.687909
+  },
+  "cb024fb45178ee951a97afd65efb5bd3": {
+    "is_relevant": false,
+    "reasoning": "The article details a civil conflict in Sudan and the involvement of international actors, but it does not have a material impact on the UK nor does it involve UK government policy or interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788454255.34594
+  },
+  "1b98a1dbade24e6d5a8136dba3075369": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal trial and conviction in a UK court regarding a violent robbery in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788454279.709799
+  },
+  "7365e3b8b2b4cf6fbedaee6bce420cfe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction and misconduct within a UK police force, which is a matter of public interest and judicial process.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788454344.257535
+  },
+  "0b96633c59131af9ae5903f2123d678c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local news event involving a fatal crash with police, leading to substantial public safety measures and infrastructure disruption.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788454353.9675
+  },
+  "bf93eda7dd307c4e6b33ad1d996770ab": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing in a UK court involving a sexual offender, which is highly relevant to UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788454392.206548
+  },
+  "d03a5719d4e92d9d038f293615c233a0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health and environmental development concerning invasive species and potential disease transmission within the UK, which is of direct relevance to the British public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788454440.336493
+  },
+  "ce23c4e09bfa078f6c301e2364e13f0f": {
+    "is_relevant": false,
+    "reasoning": "This is a historical human interest story rather than hard news, as it concerns a retrospective memorial plaque for an individual who died during World War II.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788454454.239119
+  },
+  "5f30823e646cefea41fb44067d0ae665": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major £70m investment fraud and subsequent sentencing in a UK court, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788454467.815056
+  },
+  "60b9a533870c14b196af284b6133cbb7": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer interest/lifestyle story regarding collectable coins rather than hard news concerning UK politics, the economy, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788454529.282492
+  },
+  "a3ebaa7e131f3e4768ed7ac4088125f6": {
+    "is_relevant": true,
+    "reasoning": "The closure of a major manufacturing site and the resulting loss of 360 jobs is a significant economic event within the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788454553.047136
   }
 }

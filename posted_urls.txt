@@ -1,7 +1,3 @@
-2026-08-27T16:33:55.638809+00:00|https://www.bbc.co.uk/news/articles/cy9z43z3g24o|burnham says united ireland poll is off the table during first ni visit|ba28e05c48d9c7f6947196ebf72a7f60
-2026-08-27T16:33:58.199471+00:00|https://www.bbc.co.uk/news/articles/c7v4353rry7o|hackers steal data from millions of airport customers|8a0527f83512e191c84c36c0dcc39d6d
-2026-08-27T16:34:00.741686+00:00|https://news.sky.com/story/british-woman-lisa-fryett-died-after-becoming-trapped-by-spanish-wildfires-inquest-hears-13577805|british woman died after becoming trapped by spanish wildfires|a94218c512c1bd857b451bf540e6d47e
-2026-08-27T16:34:03.186361+00:00|https://news.sky.com/story/dame-jenni-murray-died-after-being-dazzled-by-headlights-and-crashing-car-inquest-hears-13577762|dame jenni murray died after being dazzled by headlights and crashing car inquest hears|6d15adda191f8efb5f63eeeef45911e1
 2026-08-28T12:27:46.138778+00:00|https://www.bbc.co.uk/news/articles/c07l9893k91o|i dont think one resignation cuts it says dup leader over drumcree|d751e4565698bac1ee667a986cd4ac35
 2026-08-28T12:27:48.715981+00:00|https://www.bbc.co.uk/news/articles/ckgxvj7m41no|uk soldiers could get paragliders to drop behind enemy lines|5a247fc934814b96177cd937d3420e60
 2026-08-28T12:27:51.393823+00:00|https://news.sky.com/story/uk-weather-yellow-warning-as-thunderstorms-could-lead-to-flooding-and-travel-disruption-13578076|yellow warning as thunderstorms could lead to flooding and travel disruption|81420ba6cf567cb351243af3f6b570a3
@@ -105,3 +101,7 @@
 2026-09-03T12:29:59.641409+00:00|https://www.bbc.co.uk/news/articles/cn74xlz7egvo|man admits killing schoolboy in hitandrun crash|15a9964c64dd00c53243bad858270f4d
 2026-09-03T12:30:02.019265+00:00|https://www.bbc.co.uk/news/articles/cx2ze2egw5zo|orange order submits new limited drumcree parade plans|026a3e9d2efd9d9336539cfed6ba986a
 2026-09-03T12:30:04.381552+00:00|https://news.sky.com/story/sadiq-khans-car-tax-conviction-withdrawn-after-london-mayor-targeted-by-scam-13580766|sadiq khans car tax conviction withdrawn after mayor targeted by scam|f527aad45e555140a22a033e46c396c5
+2026-09-03T16:55:54.991837+00:00|https://www.bbc.co.uk/news/articles/cge41ee40vwo|zack polanski says hell run for former pm starmers seat in byelection|8409085b9f8e3bc9c835a61b975f5dd9
+2026-09-03T16:55:57.422316+00:00|https://www.bbc.co.uk/news/articles/crk3xdv0z71o|badenoch accuses burnham of kicking defence spending into the long grass|291c25c18f2f9f9536d411a480841782
+2026-09-03T16:55:59.983095+00:00|https://news.sky.com/story/hitchhiking-mosquitoes-that-can-transmit-dengue-and-zika-virus-found-breeding-in-uk-13580900|hitchhiking mosquitoes that can transmit dengue and zika virus found breeding in uk|d03a5719d4e92d9d038f293615c233a0
+2026-09-03T16:56:02.424151+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/zika-virus-mosquitoes-breed-in-britain-for-first-time|zika virus mosquitoes breed in britain for first time|b4276d3e7265d12d1b2a8b6745f96810
