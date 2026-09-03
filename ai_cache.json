@@ -25752,5 +25752,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788402710.229174
+  },
+  "8ba98f7737e23be6bc9c00dcdb134e5d": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant environmental and public health issue regarding UK infrastructure and regulation, which is a matter of major domestic concern.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788421089.449479
+  },
+  "9c93ccd556cbcd89f57105c6876b180b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the financial sustainability and budgetary crisis of a major UK local authority, which falls under devolved government and public finance.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788421101.636327
+  },
+  "46e0926fb1cadebc7c1edf7a7386ac9c": {
+    "is_relevant": true,
+    "reasoning": "The article addresses significant UK health and safety concerns regarding a sharp rise in agricultural fatalities, which is a matter of public interest and involves government regulatory bodies like the HSE.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788421110.937942
+  },
+  "032452839f1c744d9bff168bf2ae0849": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding illegal Channel crossings, a major matter of UK national security and immigration policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788421120.226448
+  },
+  "5ec088fe1872699ca94249b076d497ee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failure within the Metropolitan Police, involving a successful civil claim against the force and systemic failures in handling serious criminal allegations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788421130.544588
   }
 }
