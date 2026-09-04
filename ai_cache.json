@@ -26144,5 +26144,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788533037.983584
+  },
+  "b9e3d15e277c3c3bfaf9539c8156b14a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving safety concerns, discrimination allegations, and potential legal action regarding a high-profile international sporting event held in Derry, Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788544742.566956
+  },
+  "9e8c97f4b12f1e34b853233297798dc5": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused lifestyle/entertainment anecdote about a missed interview and does not constitute hard news of significance to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788544752.495373
+  },
+  "9e808b20635ed94896697ed6017cf564": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on rising lawlessness, police operations, and organized crime in a UK town, which falls under major crime and public safety issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788544762.295345
+  },
+  "91a680307213c467c306a5db286a0159": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice and lifestyle article about shopping sales, which falls under the excluded category of fluff and product-related content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788544771.895359
+  },
+  "03e9908c4228a95ad959153d4bb79f89": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal development regarding the incarceration of a high-profile prisoner.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788544779.379363
+  },
+  "31a15e0a07dd47eb727f348a39252fd4": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal court case and sentencing involving a public figure, which falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788544790.442846
   }
 }

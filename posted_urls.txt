@@ -118,3 +118,7 @@
 2026-09-04T10:22:39.473977+00:00|https://www.bbc.co.uk/news/articles/clyk18g1l8ko|argentine leader threatens to sanction oil firms and reiterates falklands claim|db989efa3137eef7c53906fd9ef841dc
 2026-09-04T14:43:58.769184+00:00|https://www.bbc.co.uk/news/articles/c0klx2y08j0o|planes grounded at gatwick after aircraft stuck on runway|1da156be2030c2aff8188418d963a46b
 2026-09-04T14:44:01.327145+00:00|https://www.bbc.co.uk/news/articles/c36l72k4gj6o|man who died near notting hill carnival is named|beb86cf4f3903af44c02cdcfe4f58605
+2026-09-04T17:59:50.906217+00:00|https://www.bbc.co.uk/news/articles/c7v4n9nl987o|israeli triathlon association considering legal action over derry race|b9e3d15e277c3c3bfaf9539c8156b14a
+2026-09-04T17:59:53.199382+00:00|https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro|id rather die than ring the police distrust and fear in middlesbrough after a66 crash|9e808b20635ed94896697ed6017cf564
+2026-09-04T17:59:55.478652+00:00|https://news.sky.com/story/maria-pearson-britains-longest-serving-female-prisoner-back-behind-bars-weeks-after-release-13581370|britains longestserving female prisoner back behind bars weeks after release|03e9908c4228a95ad959153d4bb79f89
+2026-09-04T17:59:57.746648+00:00|https://news.sky.com/story/former-liverpool-player-jordon-ibe-spared-jail-after-assaulting-ex-girlfriend-13581345|former liverpool player spared jail after assaulting exgirlfriend|31a15e0a07dd47eb727f348a39252fd4
