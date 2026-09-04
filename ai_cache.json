@@ -26004,5 +26004,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788482302.822873
+  },
+  "8602e7031500815d6ab30be9c7470429": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer affairs and housing sector issue affecting numerous families across the UK, concerning systemic quality standards in the property market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788499266.590053
+  },
+  "fc202977730938d9e48068c3874550e5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant geopolitical development involving a British Overseas Territory and a direct threat to UK-linked companies, which is a matter of national security and foreign policy interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788499278.463304
+  },
+  "ec05e22af6bd66dfceaddb2b8eb72ef1": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a health outbreak in the DRC and does not have a direct, material impact on UK domestic policy, economy, or public safety.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788499288.108931
+  },
+  "51569ea3dc32ca44a6e25b971498892d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest wildlife story that does not constitute hard news regarding UK politics, policy, economy, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788499299.044907
   }
 }
