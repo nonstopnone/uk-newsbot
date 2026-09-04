@@ -1,7 +1,3 @@
-2026-08-28T12:27:46.138778+00:00|https://www.bbc.co.uk/news/articles/c07l9893k91o|i dont think one resignation cuts it says dup leader over drumcree|d751e4565698bac1ee667a986cd4ac35
-2026-08-28T12:27:48.715981+00:00|https://www.bbc.co.uk/news/articles/ckgxvj7m41no|uk soldiers could get paragliders to drop behind enemy lines|5a247fc934814b96177cd937d3420e60
-2026-08-28T12:27:51.393823+00:00|https://news.sky.com/story/uk-weather-yellow-warning-as-thunderstorms-could-lead-to-flooding-and-travel-disruption-13578076|yellow warning as thunderstorms could lead to flooding and travel disruption|81420ba6cf567cb351243af3f6b570a3
-2026-08-28T12:27:53.975097+00:00|https://news.sky.com/story/nhs-grampian-hospital-clinic-opens-to-help-those-with-ketamine-related-bladder-damage-13578067|ketaminerelated bladder damage to be treated in specialist clinic|c4566428da1c4125f8cd87240f1577e6
 2026-08-28T22:51:46.897246+00:00|https://www.bbc.co.uk/news/articles/c4glz6e4d9po|relief as edinburghs princes street reopens seven weeks after fire|e1dcff11738cd9ef610f04c629cd41c0
 2026-08-28T22:51:49.495039+00:00|https://www.bbc.co.uk/news/articles/cwyz52x45jxo|man dies and at least six injured after sign falls at christian festival|a03d32060a94d108e86cb69766c737ea
 2026-08-28T22:51:52.011254+00:00|https://www.telegraph.co.uk/football/2026/08/28/crystal-palace-vs-manchester-city-score-latest-updates|cherki magic helping maresca to step out of guardiola shadow|5788af8e2bb0c3e4afb252afdfcb13c4
@@ -120,3 +116,5 @@
 2026-09-04T10:22:34.578099+00:00|https://www.bbc.co.uk/news/articles/c2kwv0dypnwo|schools to close early for a66 crash funeral|8822036d73e6228a0639ace46b7ae056
 2026-09-04T10:22:37.177791+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/global-hunger-is-a-threat-to-britains-national-security|global hunger is a threat to britains national security report says|c93df57ddcf72451d3340cf7efd79570
 2026-09-04T10:22:39.473977+00:00|https://www.bbc.co.uk/news/articles/clyk18g1l8ko|argentine leader threatens to sanction oil firms and reiterates falklands claim|db989efa3137eef7c53906fd9ef841dc
+2026-09-04T14:43:58.769184+00:00|https://www.bbc.co.uk/news/articles/c0klx2y08j0o|planes grounded at gatwick after aircraft stuck on runway|1da156be2030c2aff8188418d963a46b
+2026-09-04T14:44:01.327145+00:00|https://www.bbc.co.uk/news/articles/c36l72k4gj6o|man who died near notting hill carnival is named|beb86cf4f3903af44c02cdcfe4f58605

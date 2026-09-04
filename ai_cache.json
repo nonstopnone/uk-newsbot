@@ -26067,5 +26067,82 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1788517351.787884
+  },
+  "1da156be2030c2aff8188418d963a46b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant disruption to major UK infrastructure affecting travel and national transport networks.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788532930.160343
+  },
+  "beb86cf4f3903af44c02cdcfe4f58605": {
+    "is_relevant": true,
+    "reasoning": "This is a significant police-related fatality involving an ongoing IOPC investigation, which constitutes hard news in the public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788532938.640567
+  },
+  "9e05ca19395fd2c0e2f10b0966dd9ff8": {
+    "is_relevant": true,
+    "reasoning": "This concerns the conduct of a high-profile former politician at the Northern Ireland Assembly and the outcome of an official institutional review, which is a matter of significant public interest and regional political accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788532952.423143
+  },
+  "eaa5a5633cc7fd292f6d787950391811": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal legal proceeding regarding a cold case murder in Scotland, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788532960.665881
+  },
+  "21c707645122440290e08e4e4b6ba18e": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a regional environmental crisis in Indonesia and does not have a material impact on the UK, nor is it a matter of major UK interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788532971.586249
+  },
+  "8cdbab22d949ad16dd6ef4defaf60cfa": {
+    "is_relevant": false,
+    "reasoning": "This is a personal celebrity news story rather than hard news concerning UK politics, policy, crime, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788532983.154138
+  },
+  "8f5f09df408789a90dc9d1e811ca33c2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development involving a major UK political party and its internal governance, which is highly relevant to UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788532997.259928
+  },
+  "c922204a87187f371d51829b59cb8e8e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a fatal dog attack and subsequent court sentencing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788533006.350531
+  },
+  "e0cf7265e64d70522f74cb6e403bb317": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal case resulting in a conviction and sentencing at a UK crown court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788533015.83467
+  },
+  "642c10bb32a350bec3deba7615dbcee2": {
+    "is_relevant": true,
+    "reasoning": "This is a government-issued public safety warning regarding national food supply chains and emergency preparedness in the face of climate-related risks.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788533025.281616
+  },
+  "b0c34e47c5bb6643ec12db06f390c369": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment obituary/celebrity news item, which falls under lifestyle/culture and is not considered hard news for the purposes of this sub.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788533037.983584
   }
 }
