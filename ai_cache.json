@@ -26200,5 +26200,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788553887.923196
+  },
+  "24d2c7915b9aab7de10f3a2c62cd24d2": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/environmental nuisance story that does not meet the threshold for national hard news impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788561808.899553
+  },
+  "187f7f947ee9a63d8bc5c0d09f84dbef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on police resourcing, regional public safety, and systemic funding issues within the UK police force.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788561817.465198
+  },
+  "0b5bc6c1a2bea899de2e2853bdf9d844": {
+    "is_relevant": true,
+    "reasoning": "This concerns an investigation into institutional conduct at a major UK public institution regarding the death of a prominent academic, which is a matter of significant public and legal interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788561828.264477
+  },
+  "92d8eb27e39ac9e8db166c2a2c3f4781": {
+    "is_relevant": true,
+    "reasoning": "The status of the Falkland Islands is a matter of national sovereignty and foreign policy for the UK, and this analysis examines how shifts in international geopolitics directly impact British territory.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788561837.808367
   }
 }
