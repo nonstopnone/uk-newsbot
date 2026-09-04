@@ -25976,5 +25976,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788473325.108748
+  },
+  "7fe4cd535c8bdfadb2eabd26f374ef42": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment retrospective about an animation studio, which does not constitute hard news or meet the criteria for significant UK impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788482268.714528
+  },
+  "c3fb3afb33750ca7ed4c91226e4616f3": {
+    "is_relevant": false,
+    "reasoning": "This article covers an entertainment and lifestyle pop music concert review, which does not constitute hard news or meet the criteria for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788482279.965798
+  },
+  "7b15950a29dd86c1568f4b41ac4d983b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the integration of AI within the NHS, affecting a substantial portion of GPs in the UK and clinical practice.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788482290.680361
+  },
+  "841d4622eb390fded35632e2b974f842": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and justice issue directly involving the Met Police and national prison capacity, which is core hard news for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788482302.822873
   }
 }
