@@ -26032,5 +26032,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788499299.044907
+  },
+  "25dd8c3c74c8294b943fced7233a4c8e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation and police appeal concerning a body found in a UK public space.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788517313.61208
+  },
+  "8822036d73e6228a0639ace46b7ae056": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local news event involving a multi-fatality road collision and police involvement, impacting local infrastructure and public services.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788517323.405367
+  },
+  "2a4db631a593ecb942fd87ad28fe3c72": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest story about fly-tipping and littering at a national park, which does not meet the criteria for national hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788517332.611847
+  },
+  "c93df57ddcf72451d3340cf7efd79570": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a report from a credible academic institution regarding direct threats to UK national security, which falls under significant international news that materially affects the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788517341.941497
+  },
+  "db989efa3137eef7c53906fd9ef841dc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant geopolitical development directly concerning the sovereignty of a British Overseas Territory and involving potential economic impacts on UK-linked firms.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788517351.787884
   }
 }
