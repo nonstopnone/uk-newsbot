@@ -26186,5 +26186,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788544790.442846
+  },
+  "6efa3b393ad19af8371a9420fe53e334": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent university professor and the subsequent independent review by a major UK institution is a significant matter of public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788553878.662614
+  },
+  "5bd67490f97aa66d3c4c676114dbfc10": {
+    "is_relevant": false,
+    "reasoning": "While this is a significant international humanitarian issue, it does not have a direct, material impact on UK domestic policy, economy, or security, and the article focuses on foreign conflict rather than the UK's specific role or involvement.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788553887.923196
   }
 }
