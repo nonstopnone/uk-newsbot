@@ -26326,5 +26326,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788625735.769466
+  },
+  "c2d48ecff2b0d167f81bfd94926d01ef": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports match report regarding a Premier League football game, which falls under sports lifestyle/reporting rather than hard news as per the subreddit criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788633883.319076
+  },
+  "ecb09abac1475457b3f0fe1a5aa943dc": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a rugby match between South Africa and New Zealand; it does not involve UK teams, players, or leagues and has no material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788633893.754495
+  },
+  "79f368fd92d574b56d162509b611b129": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-related report concerning Formula One qualifying, which does not meet the criteria for hard news relevant to the UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788633952.222898
   }
 }
