@@ -26284,5 +26284,12 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1788601814.760265
+  },
+  "3c5fe1f638a96240281a4e2eee56d210": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer lifestyle piece regarding a product review and reader opinions on a luxury gadget, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788613912.113975
   }
 }
