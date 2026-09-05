@@ -26228,5 +26228,26 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1788561837.808367
+  },
+  "560149981e6a195ab6eae4646b7d8dbd": {
+    "is_relevant": false,
+    "reasoning": "This is a music concert review and entertainment report, which falls under lifestyle/culture reporting rather than hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788585031.76691
+  },
+  "487bf7ad884797d06722e959dbffd0bb": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/entertainment piece about a television show's casting, which does not constitute hard news or a material impact on UK public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788585040.277642
+  },
+  "d9ea457682e6acc15314ca2a80b73adf": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment piece about a YouTube series ending, which does not constitute hard news relevant to the core categories of the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788585050.483114
   }
 }
