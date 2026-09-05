@@ -1,9 +1,3 @@
-2026-08-28T22:51:46.897246+00:00|https://www.bbc.co.uk/news/articles/c4glz6e4d9po|relief as edinburghs princes street reopens seven weeks after fire|e1dcff11738cd9ef610f04c629cd41c0
-2026-08-28T22:51:49.495039+00:00|https://www.bbc.co.uk/news/articles/cwyz52x45jxo|man dies and at least six injured after sign falls at christian festival|a03d32060a94d108e86cb69766c737ea
-2026-08-28T22:51:52.011254+00:00|https://www.telegraph.co.uk/football/2026/08/28/crystal-palace-vs-manchester-city-score-latest-updates|cherki magic helping maresca to step out of guardiola shadow|5788af8e2bb0c3e4afb252afdfcb13c4
-2026-08-28T22:51:54.734283+00:00|https://news.sky.com/story/us-immigration-officials-arrest-british-far-right-commentator-milo-yiannopoulos-13578361|us immigration officials arrest controversial british farright commentator|6b9ecba12522d5843aa45082025d3e45
-2026-08-28T22:51:57.589385+00:00|https://news.sky.com/story/boy-16-dies-after-collapsing-near-river-nith-in-dumfries-police-say-13578234|boy 16 dies after collapsing near river|282b239860ca528780d41d6fe746ec1c
-2026-08-28T22:52:00.079950+00:00|https://www.telegraph.co.uk/cricket/2026/08/28/england-vs-pakistan-second-test-live-score-latest-day-3|england light years ahead of lamentable pakistan|a13f6f87876fa524f3d74a216b02792b
 2026-08-29T03:59:23.270286+00:00|https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o|strong winds and thunderstorms kick off the bank holiday weekend|3ee9f807c32d262c941b6aae41dafd0f
 2026-08-29T03:59:25.655306+00:00|https://www.bbc.co.uk/news/articles/c23x8k1ry27o|mountain of broken fridges growing across england and wales|328ab4c3e92926df8a313be6cad84500
 2026-08-29T10:57:36.657838+00:00|https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo|sarah ferguson expected back in the uk shortly source says|203d544796a916c59ff160a019919c76
@@ -128,3 +122,5 @@
 2026-09-04T22:44:02.180940+00:00|https://www.bbc.co.uk/news/articles/cgk5g5xmxgdo|offord pledges to scrap tax system and boost jobs under reform|ef640b18f010ef800510c3e8b45c643b
 2026-09-04T22:44:04.786159+00:00|https://www.bbc.co.uk/news/articles/cqlw67ngpp1o|cleveland police chief proud of force but being let down by funding|187f7f947ee9a63d8bc5c0d09f84dbef
 2026-09-04T22:44:07.230993+00:00|https://news.sky.com/story/jason-arday-university-of-cambridge-will-review-decision-making-after-death-of-professor-13581545|university of cambridge will review decisionmaking and actions after death of jason arday|0b5bc6c1a2bea899de2e2853bdf9d844
+2026-09-05T00:33:12.412527+00:00|https://www.bbc.co.uk/news/articles/cvgyplyrr44o|it made me feel like i was lying how two thirds of ni people denied disability benefit win at tribunal|10980550395355fec0007c3a1202ba5d
+2026-09-05T00:33:14.770044+00:00|https://www.bbc.co.uk/news/articles/c980g0g7yyjo|trumps response is key as argentinas falklands demands get louder|92d8eb27e39ac9e8db166c2a2c3f4781
