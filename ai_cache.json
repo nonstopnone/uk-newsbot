@@ -26354,5 +26354,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788641614.640416
+  },
+  "45b3cfddfdbcce24d5476a99e7c0d6a0": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an Irish sporting event featuring an Irish athlete in Dublin; it does not meet the criteria for UK-specific hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788647689.572337
+  },
+  "6dbc4bf39b830cebd3eefa127cad52ba": {
+    "is_relevant": true,
+    "reasoning": "The involvement of the Prince of Wales in representing the British monarchy at a high-profile state event is a matter of direct royal protocol and international diplomacy.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788647700.074482
+  },
+  "aa68f7292051d56562027dd072c844b3": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a charity event and does not constitute hard news regarding UK politics, economy, crime, or public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788647708.870522
   }
 }

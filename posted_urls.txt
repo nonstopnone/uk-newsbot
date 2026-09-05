@@ -1,7 +1,3 @@
-2026-08-29T22:11:37.205357+00:00|https://news.sky.com/story/vessel-in-distress-in-english-channel-as-rescue-effort-launched-13578874|vessel in distress in english channel as rescue effort launched|72054ca892734d08da28b72b4de19d7d
-2026-08-29T22:11:39.816989+00:00|https://www.telegraph.co.uk/football/2026/08/29/tottenham-vs-newcastle-live-score-updates-premier-league|£380m zero points bigspending spurs humbled by newcastle|ee3843fc785388086485478a913087a2
-2026-08-29T22:11:42.496984+00:00|https://news.sky.com/story/murder-investigation-launched-after-body-of-woman-found-in-park-13578848|murder investigation launched after body of woman found in park|69e78a7f3d451848ba8c719b43941963
-2026-08-29T22:11:45.120592+00:00|https://www.telegraph.co.uk/cricket/2026/08/29/england-vs-pakistan-day-three-score-latest-updates-lords|lawrence seizes his opportunity on rainruined day at lords|35d9d5bb6fad4e291a040a233cd0d509
 2026-08-30T00:57:08.160589+00:00|https://www.bbc.co.uk/news/articles/c5ydwl0lkvno|healey eyes banks and oil tax and x factor comeback|dded6a18b10684b9149df8ebceb2ab9a
 2026-08-30T00:57:10.734328+00:00|https://www.telegraph.co.uk/boxing/2026/08/29/itauma-vs-hrgovic-latest-fight-updates-and-undercard|moses itauma lifted out of ring after losing ibf title bout to filip hrgovic|d84a65d9c669067a1ff345cdce48e65d
 2026-08-30T00:57:13.345849+00:00|https://news.sky.com/story/british-boxer-moses-itauma-suffers-shock-defeat-to-filip-hrgovic-in-world-title-fight-13578896|british boxer moses itauma suffers shock defeat in world title fight|142f01e466e94601a0cb6b5d0e2f319d
@@ -117,3 +113,5 @@
 2026-09-05T16:29:01.155594+00:00|https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo|nigel farage tells bbc he wasnt listening during foreign donor talks filmed undercover|0a7aa89bc50d9466fb493a7f71795c41
 2026-09-05T18:45:53.496099+00:00|https://www.bbc.co.uk/news/articles/cpd044nwevdo|scottish man jailed for raciallymotivated offences during belfast riots|8a9d5aba4bf5c8431909408ab976eeec
 2026-09-05T20:53:35.544272+00:00|https://www.bbc.co.uk/news/articles/cnvl1r1080go|major disruption as grass fire halts all trains to heathrow airport|55944d417a4a68da77b00b03200a8417
+2026-09-05T22:35:11.315313+00:00|https://www.bbc.co.uk/news/articles/cp301rw6kvro|prince william to attend king haralds funeral in norway|82e1e9a5958abd3fa84d6a0aa5d7d44b
+2026-09-05T22:35:13.674916+00:00|https://news.sky.com/story/prince-william-to-represent-charles-at-funeral-of-king-harald-of-norway-13581691|prince william to represent charles at funeral of norways king harald|6dbc4bf39b830cebd3eefa127cad52ba
