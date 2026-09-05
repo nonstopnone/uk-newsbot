@@ -26291,5 +26291,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788613912.113975
+  },
+  "028348544fcf51388c1778ca317aac47": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the official public engagement of the monarch, which is considered standard news regarding the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788625694.795696
+  },
+  "88a8f52d5a31bd347189d7ee49c70b7e": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and analysis, which is explicitly excluded by the relevance guidelines for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788625703.818014
+  },
+  "8a9d5aba4bf5c8431909408ab976eeec": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome involving a UK national convicted of serious violent disorder offences in a major UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788625715.169034
+  },
+  "3f72ed42c7b4e5061f23c18d4160ef2a": {
+    "is_relevant": true,
+    "reasoning": "The potential loss of thousands of jobs at a major UK-based automotive manufacturer and its impact on the British economy is a significant news event.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788625726.170185
+  },
+  "c7af68798ec4877892025ef783ab5d3d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government-backed law enforcement initiative involving the Department for Transport and national police coordination to tackle organised crime and traffic regulation enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788625735.769466
   }
 }
