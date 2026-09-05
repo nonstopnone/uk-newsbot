@@ -26347,5 +26347,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788633952.222898
+  },
+  "0a38bd6d774a968efa52c8c37373cce1": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports report concerning a rugby match between South Africa and New Zealand, which holds no direct material relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788641614.640416
   }
 }

@@ -1,6 +1,3 @@
-2026-08-29T19:05:30.999225+00:00|https://www.bbc.co.uk/news/articles/c20vngpg77zo|murder investigation after man found dead and child seriously injured|fb1ed277d57fa21792e3d35979219406
-2026-08-29T19:05:33.507470+00:00|https://www.bbc.co.uk/news/articles/c93e8n8vqlpo|attempted murder arrest after man falls from balcony|5365d3d7712e934dc56066608e2285f7
-2026-08-29T19:05:36.337801+00:00|https://news.sky.com/story/conservative-mp-james-cleverly-quits-shadow-cabinet-to-stand-for-london-mayor-13578660|bighitting tory mp quits shadow cabinet to stand for london mayor|c1e8e29eb975490f6b3b874f59a384ab
 2026-08-29T22:11:37.205357+00:00|https://news.sky.com/story/vessel-in-distress-in-english-channel-as-rescue-effort-launched-13578874|vessel in distress in english channel as rescue effort launched|72054ca892734d08da28b72b4de19d7d
 2026-08-29T22:11:39.816989+00:00|https://www.telegraph.co.uk/football/2026/08/29/tottenham-vs-newcastle-live-score-updates-premier-league|£380m zero points bigspending spurs humbled by newcastle|ee3843fc785388086485478a913087a2
 2026-08-29T22:11:42.496984+00:00|https://news.sky.com/story/murder-investigation-launched-after-body-of-woman-found-in-park-13578848|murder investigation launched after body of woman found in park|69e78a7f3d451848ba8c719b43941963
@@ -119,3 +116,4 @@
 2026-09-05T16:28:58.528417+00:00|https://www.bbc.co.uk/news/articles/c89jpyk8n80o|king and queen join highland games fans at braemar gathering|028348544fcf51388c1778ca317aac47
 2026-09-05T16:29:01.155594+00:00|https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo|nigel farage tells bbc he wasnt listening during foreign donor talks filmed undercover|0a7aa89bc50d9466fb493a7f71795c41
 2026-09-05T18:45:53.496099+00:00|https://www.bbc.co.uk/news/articles/cpd044nwevdo|scottish man jailed for raciallymotivated offences during belfast riots|8a9d5aba4bf5c8431909408ab976eeec
+2026-09-05T20:53:35.544272+00:00|https://www.bbc.co.uk/news/articles/cnvl1r1080go|major disruption as grass fire halts all trains to heathrow airport|55944d417a4a68da77b00b03200a8417
