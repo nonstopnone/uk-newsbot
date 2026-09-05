@@ -26249,5 +26249,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788585050.483114
+  },
+  "ccb579343a96cdc6ee89b522594428e1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive public order incident affecting critical UK infrastructure and major transit routes.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788601743.375469
+  },
+  "e88f1332c4892bf97a2847f687edf748": {
+    "is_relevant": false,
+    "reasoning": "This is a local community interest story about a fundraising effort for a village building, which does not meet the threshold for hard news on a national or significant regional scale.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788601752.260189
+  },
+  "be9265317ca9f8038d957f106b403a9c": {
+    "is_relevant": false,
+    "reasoning": "This article covers a niche lifestyle and recreational event that does not meet the threshold for hard news or significant public interest required for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788601771.914146
+  },
+  "998a8b2b07d878bdc5765973e13a0349": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious crime (arson) currently under active police investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788601807.703318
+  },
+  "cf734d3d02674c2deec1665071470256": {
+    "is_relevant": true,
+    "reasoning": "This is a significant archaeological discovery concerning the history of the British Isles and the relationship between Wales and Ireland, which constitutes notable historical news for the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1788601814.760265
   }
 }
