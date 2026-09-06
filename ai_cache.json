@@ -26494,5 +26494,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788712788.9855
+  },
+  "808120df48915b285625e361fb2c8013": {
+    "is_relevant": true,
+    "reasoning": "The article reports on serious criminal incidents involving attempted murder arrests in Northern Ireland, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788720501.584644
   }
 }
