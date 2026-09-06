@@ -26431,5 +26431,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788689171.443053
+  },
+  "ddda5ff60263a56b46aae3cf9a86923a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant search and rescue operation involving UK emergency services, HM Coastguard, and the RNLI off the UK coastline.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788702826.080677
+  },
+  "d3328cb74b38d26bf2bffdec75f6b5fa": {
+    "is_relevant": true,
+    "reasoning": "This is a report on antisocial behaviour, public safety, and police response in Belfast, which falls under UK regional crime and civil order concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788702836.486304
+  },
+  "236eb68514570f93a443c62b56f9ec50": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and legal incident involving a professional football match in the UK that has triggered an active police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788702845.536123
+  },
+  "efeeb09d3011cb736da69c443e9f9228": {
+    "is_relevant": false,
+    "reasoning": "This is a story about international sports administration that does not materially affect the UK, its government, or its domestic policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788702855.95955
+  },
+  "5c627189ecea616d05967b90b49582cb": {
+    "is_relevant": true,
+    "reasoning": "The deployment of the Royal Navy's flagship carrier for NATO operations is a matter of national security and significant UK military interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788702866.570037
+  },
+  "d93394154fffc7675d2ea0b0fc70e0a8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK economic story involving major industrial job losses and direct intervention from a Cabinet Minister.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788702873.938205
   }
 }
