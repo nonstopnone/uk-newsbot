@@ -26501,5 +26501,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788720501.584644
+  },
+  "f2f7fe55d264b7d7a142e95ce0a5d3f8": {
+    "is_relevant": true,
+    "reasoning": "This is a relevant report on UK economic infrastructure and labour market policy, specifically addressing construction sector skills and government strategy in Wales.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788728410.568962
+  },
+  "3b60ba98a654085d74bfa98a49223db9": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case involving a notable public activist figure and ongoing police proceedings, fitting the criteria for domestic legal and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788728419.808965
+  },
+  "7b05a25892d08428ab461ac42bb28f64": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding UK border security and illegal migration patterns, which is a matter of major domestic concern.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788728431.431772
+  },
+  "d0c9344bd90aba34732832eac6aeca5b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and public safety incident involving fatalities and ongoing police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788728441.688984
+  },
+  "f9ba954a95c8fa943279f47c4f7feb75": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest story about street art vandalism, which falls under lifestyle/community news rather than hard news or significant national affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788728451.147061
   }
 }
