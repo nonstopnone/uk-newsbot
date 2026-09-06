@@ -1,6 +1,3 @@
-2026-08-30T00:57:08.160589+00:00|https://www.bbc.co.uk/news/articles/c5ydwl0lkvno|healey eyes banks and oil tax and x factor comeback|dded6a18b10684b9149df8ebceb2ab9a
-2026-08-30T00:57:10.734328+00:00|https://www.telegraph.co.uk/boxing/2026/08/29/itauma-vs-hrgovic-latest-fight-updates-and-undercard|moses itauma lifted out of ring after losing ibf title bout to filip hrgovic|d84a65d9c669067a1ff345cdce48e65d
-2026-08-30T00:57:13.345849+00:00|https://news.sky.com/story/british-boxer-moses-itauma-suffers-shock-defeat-to-filip-hrgovic-in-world-title-fight-13578896|british boxer moses itauma suffers shock defeat in world title fight|142f01e466e94601a0cb6b5d0e2f319d
 2026-08-30T06:13:51.818032+00:00|https://www.bbc.co.uk/news/articles/crr4wd81pdpo|pc harpers killers to stay in jail as pm announces changes to early release scheme|63ef2024f3ad6d45fa73f480c380ab18
 2026-08-30T12:30:54.258038+00:00|https://www.bbc.co.uk/news/articles/clyk7rz1pllo|church leads tributes for man killed at festival|16aa34965a68266485feb52675b48896
 2026-08-30T12:30:56.790506+00:00|https://www.bbc.co.uk/news/articles/clyk7rz1pllo|man killed at christian festival named as his church leads tributes|5872787cfddcec7c048689af670bd652
@@ -116,3 +113,4 @@
 2026-09-05T22:35:11.315313+00:00|https://www.bbc.co.uk/news/articles/cp301rw6kvro|prince william to attend king haralds funeral in norway|82e1e9a5958abd3fa84d6a0aa5d7d44b
 2026-09-05T22:35:13.674916+00:00|https://news.sky.com/story/prince-william-to-represent-charles-at-funeral-of-king-harald-of-norway-13581691|prince william to represent charles at funeral of norways king harald|6dbc4bf39b830cebd3eefa127cad52ba
 2026-09-06T00:29:51.190838+00:00|https://news.sky.com/story/scottish-government-told-to-take-sewage-crisis-seriously-after-record-100000-spills-13581777|scottish government told to take sewage crisis seriously after record 100000 spills|352ee36dfb5f967290ba034721523974
+2026-09-06T05:25:01.429245+00:00|https://www.bbc.co.uk/weather/articles/cvgydp1247ro|temperatures could climb to 28c in late burst of warmth|cb0325c6d3d7d9e9c43adb5e8ef0e8c5
