@@ -26473,5 +26473,26 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1788702873.938205
+  },
+  "8276f698d4261d6e323d562ab2c21353": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a Premier League football match result involving two major UK clubs.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788712766.241889
+  },
+  "3449fda9b00fad877f9edc8de9533886": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant event involving UK border security and immigration policy, which is a core topic for the subreddit.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788712777.366201
+  },
+  "68ec1f59631f704f602e151bbe846b3c": {
+    "is_relevant": true,
+    "reasoning": "This is a local government policy measure concerning public safety and road traffic law enforcement, directly relevant to UK infrastructure and crime prevention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788712788.9855
   }
 }
