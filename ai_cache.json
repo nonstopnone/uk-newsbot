@@ -26382,5 +26382,54 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788654590.235207
+  },
+  "b6d2e3477e8986f5809499b09423dcb2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news story regarding public order, police response, and infrastructure disruption at a major port. It falls under domestic security and policing concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788689113.503024
+  },
+  "d67269a470813e7de0abdc5e2b678935": {
+    "is_relevant": true,
+    "reasoning": "This is a significant planning and heritage issue involving a government advisory body and a ministerial intervention regarding a major national landmark, which directly concerns UK infrastructure and planning policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788689123.470769
+  },
+  "8c383e3f2eb532336ea5e0d7593fba17": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story regarding a mechanical fault in a park, which does not meet the threshold for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788689133.651195
+  },
+  "9c2beaf68d63d40c0c029d4a3ca293ee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on sustained criminal activity affecting a local community and involves commentary from a Member of Parliament regarding police response.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788689142.710487
+  },
+  "92dcb61cf6bfd7ffad530a441f9125d8": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest personal health anecdote rather than hard news regarding national health policy or a significant public health event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788689152.834015
+  },
+  "dfb43abb9bff58a36673741e69dffd2d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the failure of public education infrastructure in Northern Ireland and its impact on children with special educational needs, falling under devolved government responsibilities.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788689162.374142
+  },
+  "c7244c7f2012097b6c109c0688b98d05": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a celebrity participating in a charity event; it does not meet the threshold for hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788689171.443053
   }
 }
