@@ -26375,5 +26375,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788647708.870522
+  },
+  "352ee36dfb5f967290ba034721523974": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding environmental infrastructure and devolved government policy in Scotland, which is highly relevant to UK public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788654590.235207
   }
 }
