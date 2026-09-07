@@ -1,5 +1,3 @@
-2026-08-31T09:22:05.071391+00:00|https://www.bbc.co.uk/news/articles/c2l80j2rdlxo|business groups urge swinney to scrap ineffective food price cap plan|4d465d64e9fb39fdc0de2568864f752f
-2026-08-31T09:22:07.548293+00:00|https://www.bbc.co.uk/news/articles/c3d7xgge7vgo|uk raises case of british activist detained by settlers in west bank with israel|433ffb4ad9156cd454760985cbb9bcc0
 2026-08-31T17:21:55.744894+00:00|https://www.bbc.co.uk/news/articles/cp8026xlm35o|mel stride and priti patel replaced in major tory reshuffle|bff29a555271cde39f28b019272c7aa5
 2026-08-31T17:21:58.316894+00:00|https://www.bbc.co.uk/news/videos/c05rl9j6d0no|watch notting hill carnival celebrates 60th anniversary|784532f3013b94ed0735c3a4cf613ec6
 2026-08-31T17:22:00.887592+00:00|https://news.sky.com/story/artificial-intelligence-could-cause-global-economic-downturn-bank-of-england-governor-warns-13579423|ai could cause global economic downturn bank of england head warns|f7ce144748d821efab1d5a8e6da5c561
@@ -118,3 +116,7 @@
 2026-09-07T00:36:56.241527+00:00|https://www.bbc.co.uk/news/articles/cgjqg450w28o|chancellor to unveil growth plan with £150m fund for northern firms|aa440fe150efa73959ddb02fb2671ada
 2026-09-07T05:35:34.189644+00:00|https://www.bbc.co.uk/news/articles/cy0zydnl8x7o|swinneys £2 cap on bus fares kicks in but some call it half a solution|ff394c35f29393d2256537b9cb045bbe
 2026-09-07T05:35:36.536616+00:00|https://www.bbc.co.uk/weather/articles/cvgynj49lzmo|cooler temperatures with wet and windy weather forecast for uk this week|c4ba8c7bd734d0f93909794d3b7349a1
+2026-09-07T11:20:49.979018+00:00|https://www.bbc.co.uk/news/articles/cvgy135xl1po|four arrested over baby girls death in woodland|9840313bd5b2777037bc15ee19447ce5
+2026-09-07T11:20:52.300206+00:00|https://www.bbc.co.uk/news/articles/czxzeee5lqyo|man who murdered orkney waiter to have conviction reviewed|c7b4b1b860dc29892ee2b7a861d03bee
+2026-09-07T11:20:54.631734+00:00|https://news.sky.com/story/man-bitten-by-dog-on-wakefield-path-died-from-complications-of-leg-wound-inquest-hears-13582727|man bitten by dog on path died from complications of leg wound inquest hears|da8b63001805ee6e44f9902251c77f4c
+2026-09-07T11:20:56.947313+00:00|https://news.sky.com/story/zhenhao-zou-convicted-rapist-linked-to-further-alleged-offences-police-say-13582635|student jailed for drugging and raping 10 women linked to further alleged offences police say|0ed7b0bb3f6ddd7eaee53ded4018620a

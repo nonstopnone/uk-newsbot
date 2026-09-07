@@ -26564,5 +26564,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788759333.79466
+  },
+  "9840313bd5b2777037bc15ee19447ce5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive criminal investigation involving a death in the UK, meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788779971.158739
+  },
+  "c7b4b1b860dc29892ee2b7a861d03bee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a high-profile historical murder case in Scotland currently undergoing a formal conviction review.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788779979.007026
+  },
+  "febb1bc24610e822d10164313e0b6083": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development affecting a major UK employer and thousands of domestic jobs, which is of clear national interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788779988.434078
+  },
+  "da8b63001805ee6e44f9902251c77f4c": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK coroner's inquest concerning a death involving a dog attack, which falls under UK legal proceedings and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788779999.239069
+  },
+  "3d834552fa0c523794068a7396ae8727": {
+    "is_relevant": true,
+    "reasoning": "The merger of two major UK universities due to national sector-wide financial pressures represents significant news regarding UK infrastructure and the higher education economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788780010.362607
+  },
+  "062b37d8551118aee8b6fbada30e34b3": {
+    "is_relevant": true,
+    "reasoning": "This is a relevant report on devolved Welsh governance regarding council tax policy and property taxation, which constitutes significant national interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788780019.398517
+  },
+  "6341d34113a30266d49912ff43d9c464": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local news event involving a major road traffic fatality and its impact on community infrastructure and public services in a UK region.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788780030.308311
+  },
+  "26fd5ba10b77ddb82978b2355a9ccbce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding HMRC tax administration affecting a large number of UK citizens, which directly impacts personal finance and government policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788780039.166065
+  },
+  "0ed7b0bb3f6ddd7eaee53ded4018620a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns serious criminal activity and ongoing police investigations within London, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788780049.445914
   }
 }
