@@ -1,5 +1,3 @@
-2026-08-31T02:57:14.716627+00:00|https://www.bbc.co.uk/news/articles/cn5d7ry053eo|patel to be replaced by tugendhat as shadow foreign secretary|8daa38f5fc57932f812c4999eccf80ce
-2026-08-31T02:57:17.362478+00:00|https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o|jewish community in harder position than immediately after synagogue attack says rabbi|5d4e548f4a6e9fd6530aa2190b729ea4
 2026-08-31T09:22:05.071391+00:00|https://www.bbc.co.uk/news/articles/c2l80j2rdlxo|business groups urge swinney to scrap ineffective food price cap plan|4d465d64e9fb39fdc0de2568864f752f
 2026-08-31T09:22:07.548293+00:00|https://www.bbc.co.uk/news/articles/c3d7xgge7vgo|uk raises case of british activist detained by settlers in west bank with israel|433ffb4ad9156cd454760985cbb9bcc0
 2026-08-31T17:21:55.744894+00:00|https://www.bbc.co.uk/news/articles/cp8026xlm35o|mel stride and priti patel replaced in major tory reshuffle|bff29a555271cde39f28b019272c7aa5
@@ -118,3 +116,5 @@
 2026-09-06T22:50:39.207114+00:00|https://www.bbc.co.uk/news/articles/c62k8r60lw3o|two killed as car hits group of cyclists|d0c9344bd90aba34732832eac6aeca5b
 2026-09-07T00:36:53.874461+00:00|https://www.bbc.co.uk/news/articles/cdr73jpmpn1o|the papers losing battle to halt russias hybrid war and oh chute|1b0102c81fe1391f62c06e948e2545b3
 2026-09-07T00:36:56.241527+00:00|https://www.bbc.co.uk/news/articles/cgjqg450w28o|chancellor to unveil growth plan with £150m fund for northern firms|aa440fe150efa73959ddb02fb2671ada
+2026-09-07T05:35:34.189644+00:00|https://www.bbc.co.uk/news/articles/cy0zydnl8x7o|swinneys £2 cap on bus fares kicks in but some call it half a solution|ff394c35f29393d2256537b9cb045bbe
+2026-09-07T05:35:36.536616+00:00|https://www.bbc.co.uk/weather/articles/cvgynj49lzmo|cooler temperatures with wet and windy weather forecast for uk this week|c4ba8c7bd734d0f93909794d3b7349a1

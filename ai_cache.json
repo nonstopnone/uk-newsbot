@@ -26543,5 +26543,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788735037.113557
+  },
+  "030fbd2c65d5bceb964f26ddae7d97b1": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment piece about an actor discussing a film role, which does not constitute hard news or a significant event relevant to the UK public as per the filter criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788759317.425162
+  },
+  "d25ad5688c67fbe9bc1ae022c230837f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the potential prosecution of a prolific serial offender in London, directly involving the Metropolitan Police and the Crown Prosecution Service.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788759325.648601
+  },
+  "7e57b718b29c945ea0ff58476c42eb8e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal case involving systemic failures in the UK justice and prison system, as well as broader public safety implications.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788759333.79466
   }
 }
