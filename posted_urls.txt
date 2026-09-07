@@ -1,6 +1,3 @@
-2026-08-31T22:17:37.532671+00:00|https://www.bbc.co.uk/news/articles/ce8x543ddzjo|more cells being built within prisons to help tackle overcrowding|bcea67711d005af1a5284dac59aea6f5
-2026-08-31T22:17:39.919214+00:00|https://www.telegraph.co.uk/football/2026/08/31/aston-villa-vs-arsenal-live-score-latest-premier-league|arsenal win the hard way as saka strike maintains perfect start to title defence|7610399aa104349be096faa512295ed3
-2026-08-31T22:17:42.221402+00:00|https://www.bbc.co.uk/news/articles/cg7kzy2n8z7o|man dies near notting hill carnival after entering canal|09109de7d64a620cb98f0d657d1bdc0b
 2026-09-01T01:33:05.643622+00:00|https://www.bbc.co.uk/news/articles/cvgy8xdzk41o|the papers kemi gets tories battle ready and posh makes some dosh|ee55bb58365c77b1c30b985f8f8b4ec2
 2026-09-01T01:33:08.185636+00:00|https://www.bbc.co.uk/news/articles/c8d3myrgdd1o|new super flu vaccine rollout begins as nhs regroups from busiest summer|3d43a200e922cbb3a70ee5153c48e5b9
 2026-09-01T07:05:51.359783+00:00|https://www.bbc.co.uk/news/articles/c99dyjk7mpyo|burnham to tell mps optimism at heart of his vision for uk|9fe05a6f68dcca56bd59ef3f05a68661
@@ -122,3 +119,5 @@
 2026-09-07T17:09:21.581520+00:00|https://www.telegraph.co.uk/business/2026/09/07/healey-speech-bonds-gilts-borrowing-budget-ftse-100-markets|the chancellors speech as it happened|37973f1b6d69e2d4949d7e30e8e8e18c
 2026-09-07T21:00:43.681723+00:00|https://www.bbc.co.uk/news/articles/cde0z30zwgjo|police hunt launched after man killed in hitandrun near edinburgh airport|f92852a6f95d77506291964f79676a41
 2026-09-07T21:00:46.503014+00:00|https://www.bbc.co.uk/news/articles/cqxv2335je1o|minister condemns disorder at portsmouth antimigrant protest after police officers hurt|eb7a9a95d97e3527701d4c14ee6925d3
+2026-09-07T23:23:39.463256+00:00|https://www.bbc.co.uk/news/articles/c1j4wz9p537o|unwise for legal professionals to give character references says nis top judge|c461bb872e4a6ab47c10e0b328598b49
+2026-09-07T23:23:41.843833+00:00|https://www.bbc.co.uk/news/articles/clylwxgknyxo|new mums left to get on with it as csection numbers hit record high|804e873b2f7fcb4ff29c00dadcf06e8d

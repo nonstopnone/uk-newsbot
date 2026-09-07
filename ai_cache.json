@@ -26725,5 +26725,26 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1788814842.835115
+  },
+  "c461bb872e4a6ab47c10e0b328598b49": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and judicial development concerning sentencing practices in Northern Ireland, directly impacting the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788823399.45708
+  },
+  "804e873b2f7fcb4ff29c00dadcf06e8d": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant issue regarding healthcare delivery and NHS performance within the Welsh devolved government's jurisdiction, which is a matter of clear public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788823408.353832
+  },
+  "984fce84563c407ce13511e1f780eec9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the criminal conviction and sentencing of a UK legal professional, which falls under the category of crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788823418.773083
   }
 }
