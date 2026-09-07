@@ -26697,5 +26697,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788800953.388298
+  },
+  "f92852a6f95d77506291964f79676a41": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive crime and legal matter involving a fatality and an active police manhunt in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788814813.819512
+  },
+  "7e6fcda324ddf4b432d864a2bf452e69": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant event regarding small boat crossings and subsequent public protests in the UK, which is a matter of clear national interest and immigration policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788814824.769916
+  },
+  "b0c5d62b779b849377f7b4bfc40b1192": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused personal interest story that does not constitute significant hard news for the UK public or materially affect the country.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788814832.651083
+  },
+  "82ca3832ee19724855a47edec7814b88": {
+    "is_relevant": true,
+    "reasoning": "The article covers recent civil unrest and public protests in the UK regarding immigration policy, which is a matter of significant public and political interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788814842.835115
   }
 }
