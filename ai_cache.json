@@ -26627,5 +26627,75 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788780049.445914
+  },
+  "ac0504582a059f601c3368c77339f2f4": {
+    "is_relevant": false,
+    "reasoning": "This article concerns entertainment industry news and festival/radio event lineups, which is considered lifestyle and arts reporting rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788800573.645097
+  },
+  "ed8742651ad0419c316fac961628523e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the official status and role of senior members of the British Royal Family within the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788800582.06192
+  },
+  "61c47e4b234020627d5b33440003d493": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction and sentencing for hate crimes within the UK, involving law enforcement and the judicial system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788800592.186764
+  },
+  "9867ea536c138712d4f8ee1a97aba133": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving arson and public disorder related to immigration tensions in the UK, making it highly relevant to the subreddit.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788800648.045925
+  },
+  "504838505fbf7d0284f0961baa13cfd3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a High Court case in the UK and the mass privacy rights of over 11,000 UK users.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788800698.255645
+  },
+  "a0b02187df488e0067845c9ebf35b6d9": {
+    "is_relevant": true,
+    "reasoning": "The article covers domestic protests regarding UK border issues and migration, which is a matter of significant public interest and security.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788800776.195231
+  },
+  "224385d1ca05380ab6ba01055470aba8": {
+    "is_relevant": true,
+    "reasoning": "The story concerns the official status of senior members of the British Royal Family and their relationship with the monarchy, which is a matter of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788800788.509957
+  },
+  "9d2833aea098b098cc4371bf241ca08a": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on global vaccine distribution strategy by Gavi rather than a specific UK-focused health policy or public health emergency. The UK is mentioned only in passing regarding previous case detections.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788800808.26087
+  },
+  "3dbac0201cb0bde8f72c63424bd46be1": {
+    "is_relevant": false,
+    "reasoning": "This is a personal health story regarding a media personality and does not constitute hard news of national political, economic, or legal significance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788800816.984816
+  },
+  "92be3e605b8941961f5fdf93c2d5774a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a fatal road traffic incident involving a police vehicle and subsequent local civic impact in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788800953.388298
   }
 }
