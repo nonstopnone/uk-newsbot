@@ -26788,5 +26788,82 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788853341.396155
+  },
+  "dc416f37c835818f9b90460b6c5f56f6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update on a high-profile UK criminal investigation and inquiry regarding a major security incident.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788870665.956463
+  },
+  "c3a7a66a5bd9a71234b9fbe83e7eaca0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major prosecution and conviction within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788870673.807449
+  },
+  "cdf6db04f281b5bd8d48f29a8946c3a0": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity entertainment story regarding a TV show casting decision and does not constitute hard news or a matter of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788870685.546664
+  },
+  "a33e6e27b299c781c1efe2ee008ec7a7": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment story regarding a television show cast update, which does not constitute hard news or meet the criteria for a national news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788870692.945444
+  },
+  "315c90700fcab7dd5af6066f28de05bd": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment news piece regarding a television presenter, which does not constitute hard news or meet the criteria for UK-wide significance required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788870704.838573
+  },
+  "e4de80769e7d2c30c9779873c1d0677c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation and extradition case involving the triple murder of UK residents, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788870714.155573
+  },
+  "67cfb31e55e3d65997914567ade22d57": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving murder and firearms offences within the UK, which falls under serious crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788870725.288726
+  },
+  "7a8ba676db345d430b3e7b4d3238bae9": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a domestic fatal house fire and the subsequent findings of a coroner's inquest, which falls under UK crime, safety, and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788870740.094822
+  },
+  "ee793ececf009ec6f1e8e73507a5ed3f": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal Family and ongoing security arrangements involving the Home Office and taxpayer-funded protection, which are matters of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788870749.592124
+  },
+  "893f6801fd7578bba4820ccf3a798e16": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and economic development story involving direct UK government investment in a national strategic sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788870759.319342
+  },
+  "74433e39c32527b7abd9fb2b8fd20964": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal criminal investigation occurring within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788870771.90054
   }
 }

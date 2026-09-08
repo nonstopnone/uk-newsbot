@@ -121,3 +121,7 @@
 2026-09-08T02:35:10.992095+00:00|https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o|drought and hosepipe bans remain despite wettest week since early february|b2d990b0247b17a0644c63918dbe63d3
 2026-09-08T07:42:22.262869+00:00|https://www.bbc.co.uk/news/articles/cwyzel3qjvzo|prince george set for first day at eton college|914daa89871898bce2dd4252791ea9f2
 2026-09-08T07:42:24.729042+00:00|https://www.bbc.co.uk/news/articles/c8xkvvd5xezo|well crumble when inquiry ends says victims mum|c44d26a1b6dfea4322a47fa185f683dd
+2026-09-08T12:32:52.385684+00:00|https://www.bbc.co.uk/news/articles/cddvz1mz09zo|attacks victims death potentially preventable|dc416f37c835818f9b90460b6c5f56f6
+2026-09-08T12:32:54.683933+00:00|https://www.bbc.co.uk/news/articles/cx2z9xdyldwo|pensioner with largest hoard of child abuse images found in scotland jailed|c3a7a66a5bd9a71234b9fbe83e7eaca0
+2026-09-08T12:32:56.988393+00:00|https://news.sky.com/story/man-wanted-in-uk-over-murder-of-wife-and-two-children-admits-unlawful-possession-of-firearm-13583115|man wanted in uk over murder of wife and two children admits unlawful possession of firearm|67cfb31e55e3d65997914567ade22d57
+2026-09-08T12:32:59.501524+00:00|https://news.sky.com/story/members-of-the-public-tried-to-rescue-girl-7-and-her-aunt-from-house-fire-says-coroner-13583092|members of the public tried to rescue girl 7 and her aunt from house fire says coroner|7a8ba676db345d430b3e7b4d3238bae9
