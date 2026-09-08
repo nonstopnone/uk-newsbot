@@ -1,7 +1,3 @@
-2026-09-01T12:59:15.958465+00:00|https://www.bbc.co.uk/news/articles/cvgy4258kgyo|keir starmer announces he is standing down as mp|6c29593b12610446c985763046aa233f
-2026-09-01T12:59:18.522416+00:00|https://www.bbc.co.uk/weather/articles/c99dypl3jgmo|summer 2026 was uks hottest on record met office says|c8864e8b23c2bc4b2ebda776a9bd45a7
-2026-09-01T12:59:21.270034+00:00|https://news.sky.com/story/first-baby-identified-through-scotlands-sma-screening-programme-starts-treatment-13579736|first baby identified through sma screening programme starts treatment|47771545a82374d78b7ad0dbfd688b9c
-2026-09-01T12:59:23.843396+00:00|https://news.sky.com/story/retail-giants-including-ms-and-tesco-warn-pm-over-budget-tax-raid-13579753|retail giants including ms and tesco warn pm over budget tax raid|30947d75874aabceb98909bcf7aedfa2
 2026-09-01T17:14:16.192877+00:00|https://www.bbc.co.uk/news/articles/c3eq499d0lgo|briton rescued in nepal after deadly floods army spokesperson says|f3f6a560acc59de0bbfbfb7526542870
 2026-09-01T17:14:18.837495+00:00|https://www.bbc.co.uk/news/articles/ce8ey84nzr6o|bus journeys in west of scotland to be capped at £2 from monday|8c7b6e9476f6a900ad4a2e85f63ecca5
 2026-09-01T17:14:21.427644+00:00|https://news.sky.com/story/baby-found-dead-in-sheffield-died-of-stab-wounds-police-say-with-seven-arrested-13579957|newborn baby died from stab wounds postmortem finds with seven arrested for murder|57e454492403f87422d4d6cafbddebc8
@@ -125,3 +121,7 @@
 2026-09-08T12:32:54.683933+00:00|https://www.bbc.co.uk/news/articles/cx2z9xdyldwo|pensioner with largest hoard of child abuse images found in scotland jailed|c3a7a66a5bd9a71234b9fbe83e7eaca0
 2026-09-08T12:32:56.988393+00:00|https://news.sky.com/story/man-wanted-in-uk-over-murder-of-wife-and-two-children-admits-unlawful-possession-of-firearm-13583115|man wanted in uk over murder of wife and two children admits unlawful possession of firearm|67cfb31e55e3d65997914567ade22d57
 2026-09-08T12:32:59.501524+00:00|https://news.sky.com/story/members-of-the-public-tried-to-rescue-girl-7-and-her-aunt-from-house-fire-says-coroner-13583092|members of the public tried to rescue girl 7 and her aunt from house fire says coroner|7a8ba676db345d430b3e7b4d3238bae9
+2026-09-08T17:01:52.949381+00:00|https://www.bbc.co.uk/news/videos/clyjdgvzg0yo|prince george attends first day at eton college|3e53a609b805d423e9a8afb1442bc60b
+2026-09-08T17:01:55.728039+00:00|https://www.bbc.co.uk/news/articles/c62k0d4px6ro|british widow faces deportation from sweden after 22 years|669cd4fe995b23b05c9ead2c307baa1a
+2026-09-08T17:01:58.420151+00:00|https://news.sky.com/story/uk-summons-serbian-diplomat-over-countrys-role-in-butcher-of-bosnia-funeral-13583224|uk summons serbian diplomat over butcher of bosnia funeral|48b5232c154ca814cfc8dbe6026207b9
+2026-09-08T17:02:00.978564+00:00|https://news.sky.com/story/death-of-nottingham-attack-victim-potentially-preventable-inquiry-hears-13583174|death of nottingham attack victim potentially preventable inquiry hears|7081c1f34dcd994f981d30dfac84c6ab

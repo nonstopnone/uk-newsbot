@@ -26865,5 +26865,82 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788870771.90054
+  },
+  "3e53a609b805d423e9a8afb1442bc60b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a member of the British Royal Family and the future monarch, which is a subject of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788886776.45832
+  },
+  "669cd4fe995b23b05c9ead2c307baa1a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the rights of a British citizen abroad following Brexit, which is a matter of clear public interest for a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788886792.231627
+  },
+  "33bcbb52a800a5511dc21f27c5c5524a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal court sentencing involving dangerous driving and multiple offences within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788886803.328524
+  },
+  "48b5232c154ca814cfc8dbe6026207b9": {
+    "is_relevant": true,
+    "reasoning": "This concerns a formal diplomatic action taken by the UK government regarding international relations and state accountability, which is a matter of significant political and foreign policy interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788886815.06967
+  },
+  "ac6db8ee6c834161a3b3132fb34844d9": {
+    "is_relevant": true,
+    "reasoning": "This concerns high-profile achievements of key England national football players, which is of significant interest to a UK audience and falls under the category of major UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788886827.545275
+  },
+  "65bf4d0f9ecf711dff77ff972bacbba1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the handling of small boat arrivals and border operations, which is a major subject of UK public policy and current national discourse.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1788886838.434827
+  },
+  "5a589eafb1e5639d3cd4ef36e1d4836e": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment industry personnel story regarding a television show rather than hard news concerning UK politics, the economy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788886846.371758
+  },
+  "16bc2b1537f336d4557d56bf3b1eef43": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy and NHS performance story concerning the devolved government in Northern Ireland and national healthcare standards.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788886879.974828
+  },
+  "7081c1f34dcd994f981d30dfac84c6ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning a high-profile criminal incident and subsequent inquest/inquiry in the UK, directly involving public safety and medical response protocols.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788886889.148729
+  },
+  "b976be991561ca00776e8e173dee46de": {
+    "is_relevant": false,
+    "reasoning": "This is a report on agricultural disease management in France that does not have a material impact on the UK or its domestic policy, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788886900.236594
+  },
+  "97e3e0502de37d61674b8abbf7ab7b4a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report concerning a fatal multi-car collision and an active ongoing police manhunt on a major UK road.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788886912.37728
   }
 }
