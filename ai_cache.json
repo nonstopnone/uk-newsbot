@@ -26977,5 +26977,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788896890.590545
+  },
+  "a270b365107e99d2a624f5e7321fcb4c": {
+    "is_relevant": true,
+    "reasoning": "This is significant foreign policy news regarding a major shift in the UK government's trade and diplomatic relationship with Israel, which carries material implications for UK diplomatic standing.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1788905824.593238
+  },
+  "7189441e650b09561dc3f1815accd309": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national news story regarding the safety of a major UK institution and its volunteers amidst rising tensions over immigration policy and protests.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788905836.209526
+  },
+  "ad83c0d9f8200f3dde059bd4ee7a2bcb": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a competitive football match involving a major UK club in the Champions League, which falls under sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788905847.104795
+  },
+  "242a46404f9d9964f8432d74e0e0cc11": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding policing, public order, and national infrastructure security at a critical UK port.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788905857.519836
+  },
+  "f35be3ac752f823d60f81a36bb9ad0ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the performance of the UK education system, which is a matter of major public and policy interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788905868.466635
   }
 }

@@ -1,6 +1,3 @@
-2026-09-01T20:23:57.181447+00:00|https://www.bbc.co.uk/news/articles/ce8ey8kzk3no|spaces in male prisons fall to lowest level of year sources say|da5579e02e3c66256c3b9fc67cc6bad3
-2026-09-01T20:23:59.613619+00:00|https://www.bbc.co.uk/news/articles/c24j15d0jj6o|police to get £2m after fatal crash unleashed crimes|75015284f758c4613d51f157a56faf3b
-2026-09-01T20:24:02.169956+00:00|https://www.telegraph.co.uk/business/2026/09/01/bond-sell-off-japan-us-bessent-gilts-ftse-100-uk-markets|borrowing cost surge leaves healey with £10bn headache|fecda4dc94b7d3a9e3c6e5749738ff81
 2026-09-01T22:55:49.390117+00:00|https://www.bbc.co.uk/news/articles/cx2z528rdp6o|burnham promises more devolution and public control of essential services|c97199d29b71a2d458774179485a97fb
 2026-09-01T22:55:51.813563+00:00|https://www.bbc.co.uk/news/articles/cjw53nl479do|women pose as men to buy testosterone online after prescription difficulties|7163760a246f8f69b81583490d577afe
 2026-09-02T00:47:33.198502+00:00|https://www.bbc.co.uk/news/articles/cg59d209dd1o|the papers brexit and thatcher to blame and hottest summer ever|9d0659a743c8f24b20e1aae7f6d14590
@@ -123,3 +120,8 @@
 2026-09-08T17:02:00.978564+00:00|https://news.sky.com/story/death-of-nottingham-attack-victim-potentially-preventable-inquiry-hears-13583174|death of nottingham attack victim potentially preventable inquiry hears|7081c1f34dcd994f981d30dfac84c6ab
 2026-09-08T19:48:11.514434+00:00|https://www.bbc.co.uk/news/articles/c4g7zen0vveo|uk announces sanctions on west bank settlements prompting furious israeli response|85215435bc19a6dd74e9f8de1059a76c
 2026-09-08T19:48:13.965573+00:00|https://www.bbc.co.uk/news/articles/cyvzn7zzyn9o|three arrested after woman dies in multivehicle crash on a8|f26b14558e509eeb80da3915c26af148
+2026-09-08T22:17:49.460178+00:00|https://www.bbc.co.uk/news/articles/c5ydlex9yn3o|paul adams britishisraeli relations at lowest ebb in decades|a270b365107e99d2a624f5e7321fcb4c
+2026-09-08T22:17:51.960554+00:00|https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo|more flight delays expected after hundreds cancelled by air traffic control glitch|602ec4410e4c7ccd2f64eba5302b519e
+2026-09-08T22:17:54.671557+00:00|https://www.telegraph.co.uk/football/2026/09/08/porto-vs-man-city-live-score-champions-league-updates|haaland double sees off porto as man city win feisty champions league clash|5b15bd6f9880903e63fee0d4026c090b
+2026-09-08T22:17:57.070000+00:00|https://www.telegraph.co.uk/football/2026/09/08/millwall-vs-newcastle-united-live-score-league-cup-updates|newcastle find a way past millwall thanks to willocks cute finish|703c1f274d0f036c0ba1c4bf03b9b17d
+2026-09-08T22:17:59.579881+00:00|https://news.sky.com/story/uk-teenagers-ahead-in-science-maths-and-reading-13583263|uk teenagers ahead in science maths and reading|f35be3ac752f823d60f81a36bb9ad0ab
