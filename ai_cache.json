@@ -26746,5 +26746,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788823418.773083
+  },
+  "145b0e8ab8217be9535bcdfad0414eed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy shift regarding UK international trade and foreign policy, representing a direct action by the UK government in the House of Commons.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788834878.145123
+  },
+  "914daa89871898bce2dd4252791ea9f2": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the education of the second-in-line to the British throne, which is a matter of significant public interest regarding the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788834888.820969
+  },
+  "0077599c876c31bfb0ea8ec779c86952": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the official inspectorate regarding the operational performance of police forces across England and Wales, which is a matter of critical public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788834899.284582
+  },
+  "d545e0e8a6a0c09841ca096e79937aab": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/entertainment news item concerning a documentary premiere, which falls under lifestyle/culture fluff rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788834907.846047
   }
 }

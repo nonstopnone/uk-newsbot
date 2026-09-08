@@ -1,5 +1,3 @@
-2026-09-01T01:33:05.643622+00:00|https://www.bbc.co.uk/news/articles/cvgy8xdzk41o|the papers kemi gets tories battle ready and posh makes some dosh|ee55bb58365c77b1c30b985f8f8b4ec2
-2026-09-01T01:33:08.185636+00:00|https://www.bbc.co.uk/news/articles/c8d3myrgdd1o|new super flu vaccine rollout begins as nhs regroups from busiest summer|3d43a200e922cbb3a70ee5153c48e5b9
 2026-09-01T07:05:51.359783+00:00|https://www.bbc.co.uk/news/articles/c99dyjk7mpyo|burnham to tell mps optimism at heart of his vision for uk|9fe05a6f68dcca56bd59ef3f05a68661
 2026-09-01T07:05:53.787785+00:00|https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo|new storm names for 20262027 released by met office|3e780c06c2df08af04d09dd36858dd5d
 2026-09-01T12:59:15.958465+00:00|https://www.bbc.co.uk/news/articles/cvgy4258kgyo|keir starmer announces he is standing down as mp|6c29593b12610446c985763046aa233f
@@ -121,3 +119,5 @@
 2026-09-07T21:00:46.503014+00:00|https://www.bbc.co.uk/news/articles/cqxv2335je1o|minister condemns disorder at portsmouth antimigrant protest after police officers hurt|eb7a9a95d97e3527701d4c14ee6925d3
 2026-09-07T23:23:39.463256+00:00|https://www.bbc.co.uk/news/articles/c1j4wz9p537o|unwise for legal professionals to give character references says nis top judge|c461bb872e4a6ab47c10e0b328598b49
 2026-09-07T23:23:41.843833+00:00|https://www.bbc.co.uk/news/articles/clylwxgknyxo|new mums left to get on with it as csection numbers hit record high|804e873b2f7fcb4ff29c00dadcf06e8d
+2026-09-08T02:35:08.339482+00:00|https://www.bbc.co.uk/news/articles/c4grdjnle22o|uk government expected to announce restrictions on trade with west bank settlements|145b0e8ab8217be9535bcdfad0414eed
+2026-09-08T02:35:10.992095+00:00|https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o|drought and hosepipe bans remain despite wettest week since early february|b2d990b0247b17a0644c63918dbe63d3
