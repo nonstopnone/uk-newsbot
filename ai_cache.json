@@ -26942,5 +26942,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788886912.37728
+  },
+  "1d9c76a0914f7c81c78bca4b785614e3": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report concerning the outcome of a football match, which falls under the excluded category of sports reporting/previews rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788896850.20843
+  },
+  "f26b14558e509eeb80da3915c26af148": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal matter involving a fatality and ongoing police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788896861.292989
+  },
+  "780161b9d9c2b3d9510eb8ba824f38b8": {
+    "is_relevant": true,
+    "reasoning": "Glastonbury is a major UK cultural event with significant national interest regarding public attendance and economic impact.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1788896868.463383
+  },
+  "02da4360c8efd925a5b746a148ee5f25": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change concerning education access and devolved government administration in Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788896880.417556
+  },
+  "f6604f11d7aff1830032eb7268edff04": {
+    "is_relevant": true,
+    "reasoning": "This concerns proposed UK government legislation targeting technology companies to protect children, falling under domestic policy and legal regulation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788896890.590545
   }
 }
