@@ -1,5 +1,3 @@
-2026-09-01T07:05:51.359783+00:00|https://www.bbc.co.uk/news/articles/c99dyjk7mpyo|burnham to tell mps optimism at heart of his vision for uk|9fe05a6f68dcca56bd59ef3f05a68661
-2026-09-01T07:05:53.787785+00:00|https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo|new storm names for 20262027 released by met office|3e780c06c2df08af04d09dd36858dd5d
 2026-09-01T12:59:15.958465+00:00|https://www.bbc.co.uk/news/articles/cvgy4258kgyo|keir starmer announces he is standing down as mp|6c29593b12610446c985763046aa233f
 2026-09-01T12:59:18.522416+00:00|https://www.bbc.co.uk/weather/articles/c99dypl3jgmo|summer 2026 was uks hottest on record met office says|c8864e8b23c2bc4b2ebda776a9bd45a7
 2026-09-01T12:59:21.270034+00:00|https://news.sky.com/story/first-baby-identified-through-scotlands-sma-screening-programme-starts-treatment-13579736|first baby identified through sma screening programme starts treatment|47771545a82374d78b7ad0dbfd688b9c
@@ -121,3 +119,5 @@
 2026-09-07T23:23:41.843833+00:00|https://www.bbc.co.uk/news/articles/clylwxgknyxo|new mums left to get on with it as csection numbers hit record high|804e873b2f7fcb4ff29c00dadcf06e8d
 2026-09-08T02:35:08.339482+00:00|https://www.bbc.co.uk/news/articles/c4grdjnle22o|uk government expected to announce restrictions on trade with west bank settlements|145b0e8ab8217be9535bcdfad0414eed
 2026-09-08T02:35:10.992095+00:00|https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o|drought and hosepipe bans remain despite wettest week since early february|b2d990b0247b17a0644c63918dbe63d3
+2026-09-08T07:42:22.262869+00:00|https://www.bbc.co.uk/news/articles/cwyzel3qjvzo|prince george set for first day at eton college|914daa89871898bce2dd4252791ea9f2
+2026-09-08T07:42:24.729042+00:00|https://www.bbc.co.uk/news/articles/c8xkvvd5xezo|well crumble when inquiry ends says victims mum|c44d26a1b6dfea4322a47fa185f683dd

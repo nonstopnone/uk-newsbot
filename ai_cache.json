@@ -26774,5 +26774,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788834907.846047
+  },
+  "c44d26a1b6dfea4322a47fa185f683dd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public inquiry into a major criminal tragedy in the UK, impacting national discourse on mental health services and police procedure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788853333.633198
+  },
+  "9996e83b54e2acdf1add26955fded222": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on clinical negligence and systemic pressures within the NHS, which is a matter of major UK public interest and policy concern.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788853341.396155
   }
 }
