@@ -27159,5 +27159,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788978221.969027
+  },
+  "45ebc49750620eac11bef10ee3c11ef4": {
+    "is_relevant": true,
+    "reasoning": "This concerns UK government foreign policy, a direct statement from a cabinet minister, and its domestic impact on the safety of British citizens.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788989271.510296
+  },
+  "16ed9029056fdb85455f59124aab1780": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security case involving a British citizen charged with espionage-related offences under the National Security Act.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788989281.642282
+  },
+  "a32cabeeda50e77445a5b1fbfc5cdf84": {
+    "is_relevant": false,
+    "reasoning": "The article is a product launch/tech news story which falls under consumer lifestyle and tech reviews rather than hard news of significant national interest to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788989291.150209
+  },
+  "2b0ef31ad1d077f98b8f4475f0753aa0": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the harassment of a UK emergency service worker following public disorder and protests related to immigration, which is a matter of significant national public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788989300.457725
   }
 }
