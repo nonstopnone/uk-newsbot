@@ -27012,5 +27012,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1788905868.466635
+  },
+  "c51f275c89b875735db93de9a204d7a7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant safety incident involving a major UK ferry operator and public infrastructure in Scotland, warranting public interest and regulatory scrutiny.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1788915494.477041
+  },
+  "d0df6c567c36f9d523b18ed7f7a5810b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the Police Ombudsman regarding failures in a criminal investigation involving the PSNI, which is a matter of public interest and legal accountability in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788915504.731791
   }
 }
