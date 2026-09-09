@@ -27026,5 +27026,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788915504.731791
+  },
+  "7418db5895304e73041598fd2b3d7ab2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news story concerning the death of two police officers and the ongoing IOPC investigation, which falls under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788932792.609111
+  },
+  "511dd0f08a09a301a025d07623533ae0": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer technology and lifestyle gadget round-up from an international trade show and does not constitute hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788932801.789636
+  },
+  "e3896c84618e4dcdbf9948f91053c0d9": {
+    "is_relevant": false,
+    "reasoning": "This article covers entertainment awards and celebrity news, which falls under lifestyle and pop culture fluff rather than hard news relevant to the UK's political, economic, or social infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788932812.40279
   }
 }
