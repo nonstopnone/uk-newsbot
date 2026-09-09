@@ -27117,5 +27117,47 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1788966008.150081
+  },
+  "bfe5c28f0b558776fe17d14fad2200e9": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest story about a specific pest control incident and general nuisance reporting, which does not constitute hard national news or significant UK policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788978169.164283
+  },
+  "c7edb98b6096427e30c6f3f6bd6d4b3e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a public inquiry into NHS malpractice and systemic failure, which is a matter of major public interest and healthcare policy in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788978179.613803
+  },
+  "7bce30aa9d1f18f655c9012b7e5fb2b2": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the ongoing extradition process for individuals facing serious criminal charges in the UK, which is a matter of significant legal and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788978188.529496
+  },
+  "0f145626ea81082143de6f167939ea5a": {
+    "is_relevant": true,
+    "reasoning": "The story involves the Duke of Sussex and explicitly references King Charles III in a diplomatic context, which is of significant interest to the UK audience.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788978198.144118
+  },
+  "442da109fc20485d7f8acb7e9c6fc35d": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing legal proceeding and a fatal road incident within the UK, which qualifies as hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788978211.014494
+  },
+  "8dcd70a5ffc98d179c31def81a5d5f2c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report on serious criminal exploitation and systemic failures within UK social services and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788978221.969027
   }
 }
