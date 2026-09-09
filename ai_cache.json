@@ -27082,5 +27082,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788950195.663504
+  },
+  "7a678391a3219189d39c4c5442a41efd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal matter involving a fatal road traffic collision and subsequent criminal charges in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788965940.489353
+  },
+  "d02950d6cba1f1917de3fd9054879342": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving fatalities and ongoing legal proceedings within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788965951.833404
+  },
+  "0b7f4ec9d0a97aad06b311b22e2f890b": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court proceeding involving a death and charges of domestic abuse within the UK (Northern Ireland), which falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788965976.104168
+  },
+  "a8a7846ca217c73784df393a26a196fa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant employment and structural announcement concerning a major UK public service broadcaster that impacts the national media landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1788965991.069019
+  },
+  "3531830395beaf92048db9b3b33ed186": {
+    "is_relevant": true,
+    "reasoning": "The involvement of the Prince of Wales and Princess Anne in a state-level funeral for a European monarch is a matter of significant interest regarding the British Royal Family's diplomatic activities.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1788966008.150081
   }
 }
