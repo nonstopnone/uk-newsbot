@@ -27047,5 +27047,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788932812.40279
+  },
+  "476207b9eb06e8066f2e4d96dbe9a938": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of public service administration and government target failure directly affecting a large segment of the UK population.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788950155.483066
+  },
+  "27bbbbc87ad0f5c8cad279ac41374019": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal legal proceeding involving a drink-driving charge heard in a UK magistrates' court, which qualifies as relevant crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788950167.104665
+  },
+  "a925266d3a2c5458ae5ee44ed01474f1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving fatalities and formal criminal charges within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1788950175.731364
+  },
+  "1bf2b432986bd6d82905aea06dbf835e": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story focused on personal biography rather than hard news concerning UK policy, governance, or significant national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788950187.202032
+  },
+  "0773f9c6384ee6444061cc45088fb280": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice guide rather than a hard news report on a specific event, serving as an evergreen explainer for passengers.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788950195.663504
   }
 }
