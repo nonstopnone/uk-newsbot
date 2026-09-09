@@ -1,6 +1,3 @@
-2026-09-02T21:30:34.054319+00:00|https://www.bbc.co.uk/news/articles/cy7zx6k404go|king hails unprecedented bayeux tapestry exhibition in london|ae092351d016b1c344dd1088727f2a58
-2026-09-02T21:30:36.680454+00:00|https://news.sky.com/story/british-woman-34-stabbed-to-death-in-hotel-corridor-in-portugal-13580496|british woman 34 stabbed to death in hotel corridor in portugal|a115122e0b2f5e97b49d9a520c653a99
-2026-09-02T21:30:39.287010+00:00|https://news.sky.com/story/six-police-officers-sacked-after-racism-complaint-greater-manchester-police-says-13580487|six police officers sacked after racism complaint in manchester|62a9a89606cb41c8d820176447064597
 2026-09-02T23:46:49.584263+00:00|https://www.bbc.co.uk/news/articles/c5yw09y4z7vo|owners call for right to challenge property service charges after fees treble|ea30ec36db4fd6065945e9142205cee0
 2026-09-02T23:46:51.968927+00:00|https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o|hundreds of north sea workers too heavy for new helicopter rules|3fbd55f9f46d3327d2512d957a000b2d
 2026-09-02T23:46:54.359271+00:00|https://news.sky.com/story/families-of-nottingham-attacks-victims-kept-in-dark-about-mentally-ill-man-pursuing-them-13580529|families of nottingham attacks victims kept in dark about mentally ill man pursuing them|4388265a94ad6ff74bbe1778fff51fd7
@@ -123,3 +120,6 @@
 2026-09-09T21:28:21.012762+00:00|https://www.bbc.co.uk/news/articles/ce9e3djdz94o|miliband rejects chief rabbis claim british jews in greater danger after sanctions move|45ebc49750620eac11bef10ee3c11ef4
 2026-09-09T21:28:23.335973+00:00|https://www.bbc.co.uk/news/articles/c9dw048lp9zo|an injustice or righting a wrong british jews debate sanctions move|31bcf7721228a50d2572e9004e4dc050
 2026-09-09T21:28:25.775309+00:00|https://www.telegraph.co.uk/cricket/2026/09/09/england-vs-pakistan-day-one-third-test-latest-updates|gay does enough to earn another chance as england dominate again|ab6f0ad416f1d307f73b175c05dc7f05
+2026-09-09T23:46:29.770196+00:00|https://www.telegraph.co.uk/football/2026/09/09/napoli-vs-arsenal-live-score-latest-update-champions-league|martin odegaard bails out comically wasteful arsenal|80c22f5cf56c9fc3f2653406eccfca69
+2026-09-09T23:46:32.364178+00:00|https://www.bbc.co.uk/news/articles/c4gk1gwv0qno|are wealthy buyers stoking st andrews housing crisis|30c72098c694077dbe347231f9b2e980
+2026-09-09T23:46:34.776609+00:00|https://www.bbc.co.uk/news/articles/c4gvl8w2225o|wales risks raising one of the unhealthiest generations in decades doctors warn|78dccd752543cc8fb5c78551d2340023

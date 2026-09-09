@@ -27187,5 +27187,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1788989300.457725
+  },
+  "7b1fdfb9f1e17e72184bd86b6c44fa0f": {
+    "is_relevant": false,
+    "reasoning": "This article is a match report for a domestic football match, which falls under sports lifestyle/recap content rather than the hard news criteria for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788997532.967755
+  },
+  "80c22f5cf56c9fc3f2653406eccfca69": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK football club's performance in a significant international competition.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1788997541.690022
+  },
+  "78dccd752543cc8fb5c78551d2340023": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the Royal College of Paediatrics and Child Health regarding public health outcomes in Wales, which directly concerns devolved government policy and national infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1788997553.872107
+  },
+  "0b9669553bbaec904d80db7372cbef1c": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report regarding a football player's performance and contract status, which falls under sports journalism rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1788997588.911547
   }
 }
