@@ -27327,5 +27327,54 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789059144.07693
+  },
+  "89e794c1dcf6780331dfdc2412a16a2d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/arts review piece regarding an exhibition experience rather than significant or breaking news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789068353.493447
+  },
+  "7fd58cd33b7ed4aa0583caebc6697e7b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on public health failings and ministerial accountability within the Northern Ireland health service.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789068362.065993
+  },
+  "0541d6308c0d82eafed105a52a3d0925": {
+    "is_relevant": true,
+    "reasoning": "This report covers a significant criminal court case involving former senior political figures and electoral integrity, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789068374.107801
+  },
+  "b710409f8a391eb519318047dfdcdb45": {
+    "is_relevant": false,
+    "reasoning": "This article is a consumer technology product review and reader opinion piece, which falls under the excluded 'fluff/product reviews' category.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789068382.393246
+  },
+  "76cc1d890ecf1d279a816d8c6897d18a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government policy and police operational response to public disorder regarding migration, which is a matter of clear national interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1789068392.380858
+  },
+  "4be72a4f3fc1eb199bb3cd974eaaa75a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and legal issue concerning UK emergency infrastructure and criminal activity involving air safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789068403.130821
+  },
+  "edc8b814302751fa5222ce54d0acf8d8": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant ongoing legal inquest into a high-profile child protection failure involving a UK local authority and state agencies.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789068419.117644
   }
 }

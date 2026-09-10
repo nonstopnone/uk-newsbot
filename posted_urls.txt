@@ -1,7 +1,3 @@
-2026-09-03T16:55:54.991837+00:00|https://www.bbc.co.uk/news/articles/cge41ee40vwo|zack polanski says hell run for former pm starmers seat in byelection|8409085b9f8e3bc9c835a61b975f5dd9
-2026-09-03T16:55:57.422316+00:00|https://www.bbc.co.uk/news/articles/crk3xdv0z71o|badenoch accuses burnham of kicking defence spending into the long grass|291c25c18f2f9f9536d411a480841782
-2026-09-03T16:55:59.983095+00:00|https://news.sky.com/story/hitchhiking-mosquitoes-that-can-transmit-dengue-and-zika-virus-found-breeding-in-uk-13580900|hitchhiking mosquitoes that can transmit dengue and zika virus found breeding in uk|d03a5719d4e92d9d038f293615c233a0
-2026-09-03T16:56:02.424151+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/zika-virus-mosquitoes-breed-in-britain-for-first-time|zika virus mosquitoes breed in britain for first time|b4276d3e7265d12d1b2a8b6745f96810
 2026-09-03T19:35:04.086239+00:00|https://www.bbc.co.uk/news/articles/cr50d2dyn70o|canada unveils new $20 bill featuring portrait of king charles|e3de871b9d1759136be695789c5ce790
 2026-09-03T19:35:06.516938+00:00|https://www.bbc.co.uk/news/articles/cj3dx00jzr1o|helicopters to be put on standby when wildfire risk is high|57d798b907e69946f3d5a75d5594d9c3
 2026-09-03T19:35:09.003614+00:00|https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004|londonlisted molten ventures joins race to run burnhambacked £1bn tech fund|c81cc83c568bbd506c848e943844ad5b
@@ -122,3 +118,6 @@
 2026-09-10T16:52:26.997915+00:00|https://www.bbc.co.uk/news/articles/ceq871j5l1ro|teacher sexually abused pupils at multiple schools|8f4029f8236669e6a867058266be172a
 2026-09-10T16:52:29.382813+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/west-nile-virus-hits-europe-as-temperatures-climb|west nile virus hits europe as temperatures climb|cc09a62d3f62d89430657fdbca3e0eae
 2026-09-10T16:52:31.815343+00:00|https://news.sky.com/story/conservative-couple-admit-cheating-at-gambling-over-election-betting-charges-13583961|conservative couple admit cheating at gambling over election betting|5b9898e451fd531d2659361561d3e0d9
+2026-09-10T19:27:00.123350+00:00|https://www.bbc.co.uk/news/articles/cwyzd6g93zpo|health minister apologises to patients over neurology failings|7fd58cd33b7ed4aa0583caebc6697e7b
+2026-09-10T19:27:02.695871+00:00|https://www.bbc.co.uk/news/articles/c158k4p22xwo|bayeux tapestry unveiled to uk public for first time at british museum|71b1ba4f641b1e996b5ea83d4f823d0e
+2026-09-10T19:27:05.285097+00:00|https://news.sky.com/story/helicopter-laser-attacks-could-result-in-catastrophic-accident-pilots-warn-13584057|emergency helicopters suffer 35 laser attacks in six months|4be72a4f3fc1eb199bb3cd974eaaa75a
