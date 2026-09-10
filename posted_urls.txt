@@ -118,3 +118,7 @@
 2026-09-10T12:38:11.442160+00:00|https://www.bbc.co.uk/news/articles/czezwnz82jpo|two friends who died on mountain ridge tried calling 999 inquest hears|ac8cc1c1f3c54df4506cd813e7082066
 2026-09-10T12:38:13.838885+00:00|https://news.sky.com/story/british-man-prepared-to-sabotage-uk-drone-factory-for-russia-court-hears-13583936|british man prepared to sabotage uk drone factory for russia court hears|907214895c61fef4c2c43870440ca006
 2026-09-10T12:38:16.381095+00:00|https://news.sky.com/story/iceland-set-to-open-store-in-falklands-and-become-first-uk-high-street-retailer-on-islands-13583914|iceland set to open store in falklands and become first uk high street retailer on islands|df63596d21a9c02fbccd028fb547e907
+2026-09-10T16:52:24.612960+00:00|https://www.bbc.co.uk/news/articles/c39mrjvpx4yo|four hurt and seven arrested in bromley stabbing|daa3c754583b15d8740edd0a30ee1c4b
+2026-09-10T16:52:26.997915+00:00|https://www.bbc.co.uk/news/articles/ceq871j5l1ro|teacher sexually abused pupils at multiple schools|8f4029f8236669e6a867058266be172a
+2026-09-10T16:52:29.382813+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/west-nile-virus-hits-europe-as-temperatures-climb|west nile virus hits europe as temperatures climb|cc09a62d3f62d89430657fdbca3e0eae
+2026-09-10T16:52:31.815343+00:00|https://news.sky.com/story/conservative-couple-admit-cheating-at-gambling-over-election-betting-charges-13583961|conservative couple admit cheating at gambling over election betting|5b9898e451fd531d2659361561d3e0d9

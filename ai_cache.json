@@ -27271,5 +27271,61 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1789043885.795674
+  },
+  "1857fb8dc0d8f203daf692e3be1594f8": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports analysis/preview piece regarding cricket coaching and match tactics, which falls under the excluded category of sports previews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789059052.095763
+  },
+  "daa3c754583b15d8740edd0a30ee1c4b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a violent crime and police operation occurring within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789059068.08464
+  },
+  "8f4029f8236669e6a867058266be172a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal trial involving a teacher convicted of abusing pupils in UK schools.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789059081.862359
+  },
+  "2496b54b89063c09e829f509bdb800cf": {
+    "is_relevant": true,
+    "reasoning": "This relates to a significant legal inquest regarding state agency oversight and a high-profile criminal case in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789059089.286629
+  },
+  "7897e00c0618edf5994e2ec97f9e861a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the funeral of a serving police officer killed in a major road traffic incident, which is a significant matter of public interest and police-related news in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789059101.413721
+  },
+  "4932eab8fb6845caa02ade7567087287": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security incident involving arrests under the National Security Act, which directly concerns UK public safety and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789059123.00938
+  },
+  "c79802ee96d61fdce9152b34d616456f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and public inquiry story concerning systemic failings in emergency response and mental health services.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789059134.779276
+  },
+  "5b9898e451fd531d2659361561d3e0d9": {
+    "is_relevant": true,
+    "reasoning": "This involves senior political figures and a significant scandal directly tied to the 2024 UK General Election, impacting public trust in UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789059144.07693
   }
 }
