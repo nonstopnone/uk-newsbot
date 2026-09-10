@@ -27229,5 +27229,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789026413.026836
+  },
+  "ac8cc1c1f3c54df4506cd813e7082066": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a coroner's inquest into a tragic death, which falls under UK legal and emergency service procedure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789043835.756151
+  },
+  "91c9195e30adb72ac0d60512bcde8891": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant Metropolitan Police operation addressing public safety and criminal activity in London, directly relating to crime and policing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789043844.389572
+  },
+  "907214895c61fef4c2c43870440ca006": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security case involving a plot to sabotage UK infrastructure on behalf of a foreign power, which falls under major crime and security matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789043853.483588
+  },
+  "df63596d21a9c02fbccd028fb547e907": {
+    "is_relevant": true,
+    "reasoning": "The expansion of a major UK high-street retailer into a British Overseas Territory is a matter of significant economic and geopolitical interest to the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789043863.995587
+  },
+  "6fdf4a1891702d8357a7bff1d7bf47fe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public order incident involving misinformation and a security breach at a UK hotel, which is a matter of public interest and police concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789043874.284945
+  },
+  "eb241f7583da3f39efc3891a6535f339": {
+    "is_relevant": true,
+    "reasoning": "This is a significant media industry update regarding a long-running, culturally impactful television series on the public broadcaster, which carries implications for the BBC's programming strategy and budget.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1789043885.795674
   }
 }

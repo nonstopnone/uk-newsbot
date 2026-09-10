@@ -1,6 +1,3 @@
-2026-09-03T12:29:59.641409+00:00|https://www.bbc.co.uk/news/articles/cn74xlz7egvo|man admits killing schoolboy in hitandrun crash|15a9964c64dd00c53243bad858270f4d
-2026-09-03T12:30:02.019265+00:00|https://www.bbc.co.uk/news/articles/cx2ze2egw5zo|orange order submits new limited drumcree parade plans|026a3e9d2efd9d9336539cfed6ba986a
-2026-09-03T12:30:04.381552+00:00|https://news.sky.com/story/sadiq-khans-car-tax-conviction-withdrawn-after-london-mayor-targeted-by-scam-13580766|sadiq khans car tax conviction withdrawn after mayor targeted by scam|f527aad45e555140a22a033e46c396c5
 2026-09-03T16:55:54.991837+00:00|https://www.bbc.co.uk/news/articles/cge41ee40vwo|zack polanski says hell run for former pm starmers seat in byelection|8409085b9f8e3bc9c835a61b975f5dd9
 2026-09-03T16:55:57.422316+00:00|https://www.bbc.co.uk/news/articles/crk3xdv0z71o|badenoch accuses burnham of kicking defence spending into the long grass|291c25c18f2f9f9536d411a480841782
 2026-09-03T16:55:59.983095+00:00|https://news.sky.com/story/hitchhiking-mosquitoes-that-can-transmit-dengue-and-zika-virus-found-breeding-in-uk-13580900|hitchhiking mosquitoes that can transmit dengue and zika virus found breeding in uk|d03a5719d4e92d9d038f293615c233a0
@@ -116,3 +113,8 @@
 2026-09-09T23:46:34.776609+00:00|https://www.bbc.co.uk/news/articles/c4gvl8w2225o|wales risks raising one of the unhealthiest generations in decades doctors warn|78dccd752543cc8fb5c78551d2340023
 2026-09-10T07:46:54.076636+00:00|https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo|englands mayors to be given power to introduce tourist tax|b13b723663b4260c5802ceab3aa59a9f
 2026-09-10T07:46:56.634201+00:00|https://www.bbc.co.uk/news/articles/cr5035eldr3o|we spent £23000 on fertility treatment now our embryos will be destroyed|a30e870bcda17452223173b233d5aa5c
+2026-09-10T12:38:06.386077+00:00|https://www.bbc.co.uk/news/articles/cy8z5ndpz4go|swinney asks prime minister for legal mechanism for independence vote|9892494ae40f4b76627e5836fb244c33
+2026-09-10T12:38:08.812474+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/uk-pioneers-dried-blood-products-for-modern-battlefield|britain pioneers new dried blood products for the modern battlefield|104515764a7a6b3c5bd19650b2ae6895
+2026-09-10T12:38:11.442160+00:00|https://www.bbc.co.uk/news/articles/czezwnz82jpo|two friends who died on mountain ridge tried calling 999 inquest hears|ac8cc1c1f3c54df4506cd813e7082066
+2026-09-10T12:38:13.838885+00:00|https://news.sky.com/story/british-man-prepared-to-sabotage-uk-drone-factory-for-russia-court-hears-13583936|british man prepared to sabotage uk drone factory for russia court hears|907214895c61fef4c2c43870440ca006
+2026-09-10T12:38:16.381095+00:00|https://news.sky.com/story/iceland-set-to-open-store-in-falklands-and-become-first-uk-high-street-retailer-on-islands-13583914|iceland set to open store in falklands and become first uk high street retailer on islands|df63596d21a9c02fbccd028fb547e907
