@@ -27376,5 +27376,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789068419.117644
+  },
+  "1438d3a636baeb4dc928b6dd9a6986b3": {
+    "is_relevant": false,
+    "reasoning": "This is a regional environmental/nature conservation story which falls under lifestyle or local interest rather than the hard news categories specified for national relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789078282.32826
+  },
+  "c5b97af6d135cae37abe4b252a8968ef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a convicted serial offender and the justice process in the UK, falling under the category of serious crime and legal outcomes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789078293.245668
+  },
+  "997e7846b35a3e34e0167e2e487918d6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK football club's performance in a significant international tournament, which constitutes sports news of high interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789078305.288747
   }
 }

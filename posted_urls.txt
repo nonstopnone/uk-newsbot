@@ -1,9 +1,3 @@
-2026-09-03T19:35:04.086239+00:00|https://www.bbc.co.uk/news/articles/cr50d2dyn70o|canada unveils new $20 bill featuring portrait of king charles|e3de871b9d1759136be695789c5ce790
-2026-09-03T19:35:06.516938+00:00|https://www.bbc.co.uk/news/articles/cj3dx00jzr1o|helicopters to be put on standby when wildfire risk is high|57d798b907e69946f3d5a75d5594d9c3
-2026-09-03T19:35:09.003614+00:00|https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004|londonlisted molten ventures joins race to run burnhambacked £1bn tech fund|c81cc83c568bbd506c848e943844ad5b
-2026-09-03T19:35:11.353638+00:00|https://www.telegraph.co.uk/business/2026/09/03/bond-sell-off-uk-gilts-burnham-budget-ftse-100-markets|bank of england must raise interest rates says chief economist|516f88603e2727785c1d21c708ad2b6e
-2026-09-03T22:08:46.253653+00:00|https://www.bbc.co.uk/news/articles/cm27443ndnwo|minister announces expert committee to review health services|2a2914811ad20435f475bcd1f797da7d
-2026-09-03T22:08:48.563210+00:00|https://www.bbc.co.uk/news/articles/cr50ddzl97qo|farage senior aide filmed suggesting way to avoid donations law|f07e9a3007b30a1bd9bd4385cc1efb48
 2026-09-04T00:38:23.685511+00:00|https://www.bbc.co.uk/news/articles/cj9xe09jz4eo|controversial jackdaw gas field set to be approved in weeks sources say|870d62a8c913011d668f3fe3613dc7a7
 2026-09-04T00:38:26.104598+00:00|https://www.bbc.co.uk/news/articles/cy0zylpdveqo|ai tools that take notes for gps could miss vital information study suggests|7b15950a29dd86c1568f4b41ac4d983b
 2026-09-04T00:38:28.491702+00:00|https://news.sky.com/story/met-police-chief-flabbergasted-by-release-of-knife-and-gun-crime-suspects-on-bail-13581073|met chief flabbergasted by release of knife and gun suspects|841d4622eb390fded35632e2b974f842
@@ -121,3 +115,6 @@
 2026-09-10T19:27:00.123350+00:00|https://www.bbc.co.uk/news/articles/cwyzd6g93zpo|health minister apologises to patients over neurology failings|7fd58cd33b7ed4aa0583caebc6697e7b
 2026-09-10T19:27:02.695871+00:00|https://www.bbc.co.uk/news/articles/c158k4p22xwo|bayeux tapestry unveiled to uk public for first time at british museum|71b1ba4f641b1e996b5ea83d4f823d0e
 2026-09-10T19:27:05.285097+00:00|https://news.sky.com/story/helicopter-laser-attacks-could-result-in-catastrophic-accident-pilots-warn-13584057|emergency helicopters suffer 35 laser attacks in six months|4be72a4f3fc1eb199bb3cd974eaaa75a
+2026-09-10T22:11:48.199762+00:00|https://www.bbc.co.uk/news/articles/crk3j0eyl2po|i was weeks from marrying a violent serial rapist my loved ones saved my life|c5b97af6d135cae37abe4b252a8968ef
+2026-09-10T22:11:50.712414+00:00|https://www.telegraph.co.uk/football/2026/09/10/man-utd-vs-sabah-champions-league-live-score-latest|rampant manchester united win first champions league game for 1003 days|997e7846b35a3e34e0167e2e487918d6
+2026-09-10T22:11:53.272108+00:00|https://www.bbc.co.uk/news/articles/cd94y7d7qyzo|alstom to build new batteryelectric train fleet|30a99fe79d0c93fbf204e6c4bc997868
