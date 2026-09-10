@@ -1,6 +1,3 @@
-2026-09-03T07:38:51.109762+00:00|https://news.sky.com/story/sewage-dumped-into-english-waters-for-more-than-43000-hours-over-summer-13580484|sewage dumped into english waters for more than 43000 hours over summer|8ba98f7737e23be6bc9c00dcdb134e5d
-2026-09-03T07:38:53.646834+00:00|https://www.bbc.co.uk/news/articles/cd79e2xwyrzo|glasgow city council at critical point over £110m budget gap|9c93ccd556cbcd89f57105c6876b180b
-2026-09-03T07:38:56.192740+00:00|https://www.bbc.co.uk/news/articles/cn9wv8l15ezo|widow whose husband died after falling into slurry pit warns of pressure on farmers|46e0926fb1cadebc7c1edf7a7386ac9c
 2026-09-03T12:29:59.641409+00:00|https://www.bbc.co.uk/news/articles/cn74xlz7egvo|man admits killing schoolboy in hitandrun crash|15a9964c64dd00c53243bad858270f4d
 2026-09-03T12:30:02.019265+00:00|https://www.bbc.co.uk/news/articles/cx2ze2egw5zo|orange order submits new limited drumcree parade plans|026a3e9d2efd9d9336539cfed6ba986a
 2026-09-03T12:30:04.381552+00:00|https://news.sky.com/story/sadiq-khans-car-tax-conviction-withdrawn-after-london-mayor-targeted-by-scam-13580766|sadiq khans car tax conviction withdrawn after mayor targeted by scam|f527aad45e555140a22a033e46c396c5
@@ -117,3 +114,5 @@
 2026-09-09T23:46:29.770196+00:00|https://www.telegraph.co.uk/football/2026/09/09/napoli-vs-arsenal-live-score-latest-update-champions-league|martin odegaard bails out comically wasteful arsenal|80c22f5cf56c9fc3f2653406eccfca69
 2026-09-09T23:46:32.364178+00:00|https://www.bbc.co.uk/news/articles/c4gk1gwv0qno|are wealthy buyers stoking st andrews housing crisis|30c72098c694077dbe347231f9b2e980
 2026-09-09T23:46:34.776609+00:00|https://www.bbc.co.uk/news/articles/c4gvl8w2225o|wales risks raising one of the unhealthiest generations in decades doctors warn|78dccd752543cc8fb5c78551d2340023
+2026-09-10T07:46:54.076636+00:00|https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo|englands mayors to be given power to introduce tourist tax|b13b723663b4260c5802ceab3aa59a9f
+2026-09-10T07:46:56.634201+00:00|https://www.bbc.co.uk/news/articles/cr5035eldr3o|we spent £23000 on fertility treatment now our embryos will be destroyed|a30e870bcda17452223173b233d5aa5c

@@ -27215,5 +27215,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1788997588.911547
+  },
+  "a30e870bcda17452223173b233d5aa5c": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a specific legislative issue regarding UK fertility law and the rights of parents versus donors, which is a matter of public policy and legal debate in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789026403.757842
+  },
+  "877db4471b086f1da677e373192ae302": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on malaria in Indonesian Papua and does not have a material impact on the UK, nor does it concern UK domestic policy or public health.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789026413.026836
   }
 }
