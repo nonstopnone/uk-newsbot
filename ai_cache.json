@@ -27418,5 +27418,47 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1789104750.756857
+  },
+  "004f092d3c37cd41e206378a38196194": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction at a UK court, which is a matter of serious public interest and legal record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789122350.043
+  },
+  "693995784260136f3be8f67484f7e7b6": {
+    "is_relevant": true,
+    "reasoning": "This is significant national infrastructure and public safety news regarding climate risks and environmental impact across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789122361.605955
+  },
+  "eb1209506f81efaf7c0e6dfea4981c62": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing police investigation regarding a suspicious death in the UK, which falls under crime and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789122371.154793
+  },
+  "7236a70605ca924d175f4ee87b61cb06": {
+    "is_relevant": true,
+    "reasoning": "This concerns the governance of a major UK industrial asset now under public ownership, which is a significant matter of UK economic and infrastructure policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789122381.902843
+  },
+  "c6038811657417970c28727e7bb63a3f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on devolved government funding negotiations between the UK government and the Northern Ireland Executive, which directly impacts UK political and fiscal stability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789122394.047902
+  },
+  "cb7faa7e20c656a2484b6685edfe8091": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security update involving the head of a UK intelligence agency addressing public safety and state-level threats.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789122402.395239
   }
 }

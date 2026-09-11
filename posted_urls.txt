@@ -1,7 +1,3 @@
-2026-09-04T10:22:32.191795+00:00|https://news.sky.com/story/police-given-40-potential-names-for-woman-found-at-liverpool-park-inside-bin-bag-13581177|police given 40 potential names for woman found in bin bag|25dd8c3c74c8294b943fced7233a4c8e
-2026-09-04T10:22:34.578099+00:00|https://www.bbc.co.uk/news/articles/c2kwv0dypnwo|schools to close early for a66 crash funeral|8822036d73e6228a0639ace46b7ae056
-2026-09-04T10:22:37.177791+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/global-hunger-is-a-threat-to-britains-national-security|global hunger is a threat to britains national security report says|c93df57ddcf72451d3340cf7efd79570
-2026-09-04T10:22:39.473977+00:00|https://www.bbc.co.uk/news/articles/clyk18g1l8ko|argentine leader threatens to sanction oil firms and reiterates falklands claim|db989efa3137eef7c53906fd9ef841dc
 2026-09-04T14:43:58.769184+00:00|https://www.bbc.co.uk/news/articles/c0klx2y08j0o|planes grounded at gatwick after aircraft stuck on runway|1da156be2030c2aff8188418d963a46b
 2026-09-04T14:44:01.327145+00:00|https://www.bbc.co.uk/news/articles/c36l72k4gj6o|man who died near notting hill carnival is named|beb86cf4f3903af44c02cdcfe4f58605
 2026-09-04T17:59:50.906217+00:00|https://www.bbc.co.uk/news/articles/c7v4n9nl987o|israeli triathlon association considering legal action over derry race|b9e3d15e277c3c3bfaf9539c8156b14a
@@ -116,3 +112,7 @@
 2026-09-11T05:32:31.443687+00:00|https://news.sky.com/story/west-bank-sanctions-play-straight-into-right-wings-hand-says-baroness-berger-13584019|west bank sanctions play straight into rightwings hand says baroness berger|8b328996aaeef489b432abf14ef69728
 2026-09-11T05:32:33.791997+00:00|https://www.bbc.co.uk/news/articles/c0lrk7d7j0no|princess dianas revenge dress goes up for auction|c0fdd129d6063043822a9e370ff04b9e
 2026-09-11T05:32:36.066021+00:00|https://www.bbc.co.uk/news/articles/cx2z770jr03o|mps to vote on legalising assisted dying in england and wales|da7bb3f27162ae77b67f338911dad93c
+2026-09-11T10:26:43.212393+00:00|https://www.bbc.co.uk/news/articles/cddvmn9z6emo|man admits murder of woman missing for 28 years|004f092d3c37cd41e206378a38196194
+2026-09-11T10:26:45.759010+00:00|https://news.sky.com/story/uk-weather-autumn-more-likely-to-be-wetter-than-average-with-greater-risk-of-floods-13584334|autumn more likely to be wetter than average with uk at greater risk of floods|693995784260136f3be8f67484f7e7b6
+2026-09-11T10:26:48.154062+00:00|https://news.sky.com/story/police-rule-out-more-than-70-possible-names-in-bid-to-identify-woman-found-dead-in-liverpool-park-13584312|mystery over woman found dead in bin bag as police rule out more than 70 names|eb1209506f81efaf7c0e6dfea4981c62
+2026-09-11T10:26:50.891993+00:00|https://www.bbc.co.uk/news/articles/cn5dqe02nvqo|stormont budget offer increases to £15bn bbc understands|c6038811657417970c28727e7bb63a3f
