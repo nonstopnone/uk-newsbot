@@ -27397,5 +27397,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1789078305.288747
+  },
+  "40af497a2bfcad8b2cea720ced2dc5f1": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective human-interest feature about a historical tragedy rather than breaking news or a contemporary event materially affecting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789104732.692954
+  },
+  "8b328996aaeef489b432abf14ef69728": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the impact and criticism of active UK government foreign policy regarding sanctions on West Bank settlers.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789104741.21751
+  },
+  "c0fdd129d6063043822a9e370ff04b9e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant historical item belonging to the British Royal Family being auctioned, which is of direct relevance to UK culture and royal interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789104750.756857
   }
 }
