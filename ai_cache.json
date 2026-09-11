@@ -27516,5 +27516,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789138117.328143
+  },
+  "30cefb40ce0893230356f663bd363a57": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change mandated by the Northern Ireland Education Minister affecting national education legislation and equality rights for students.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789149940.520877
+  },
+  "99911faaba28fe516dbdea812db1abee": {
+    "is_relevant": false,
+    "reasoning": "This is a local business development story regarding a private company's delivery trial, which does not constitute hard news of significant national interest or public policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789149949.571078
+  },
+  "de005d4a2257b1cacf341ab31f9569f4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and policing development involving the use of specific legal powers to manage civil disorder during protests.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789149958.056877
+  },
+  "d85954f6f8aec9527e349ea4954845d2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant employment law tribunal involving a major UK-based employer and claims of anti-union activity, falling under UK legal and employment affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789149967.169417
+  },
+  "e769901dd74e7a1e84303e4ed76cbf94": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal news story regarding a fatal road traffic incident where formal criminal charges have been filed.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789150005.747034
+  },
+  "1ec2ed2bf55275da1da6e7d4f2126003": {
+    "is_relevant": true,
+    "reasoning": "This concerns UK government policy, proposed parliamentary legislation, and national security regarding AI safety regulation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789150016.908844
+  },
+  "7aa51a4857eb5c03fcf5cfc927e90401": {
+    "is_relevant": true,
+    "reasoning": "This is a public interest appeal involving British Transport Police regarding a lost item of human remains on a major UK rail route.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789150033.141812
+  },
+  "fb1ed8c8939fd55302f71f3dae0267b1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving violent disorder and custodial sentences at a major UK transport hub, falling under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789150042.00426
+  },
+  "aec2ba511bd0737235c4326f0f85f791": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest human-interest story regarding a domestic fire, which does not constitute hard national news or significant policy impact for a UK-wide audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789150050.590661
   }
 }
