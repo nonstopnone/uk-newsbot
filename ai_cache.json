@@ -27600,5 +27600,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789162278.933081
+  },
+  "a8138a2be51482a3a5bb642822ecd109": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK political finance, involving a record-breaking donation to a registered political party that impacts the landscape of British electoral politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789170459.319705
+  },
+  "2cc6196fb8973a8b40a8538ab73fbef3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a systemic failure in the NHS and a coroner's inquest regarding patient safety, which is a matter of critical public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789170468.551961
   }
 }
