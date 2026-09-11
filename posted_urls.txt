@@ -1,5 +1,3 @@
-2026-09-04T20:31:29.634666+00:00|https://www.bbc.co.uk/news/articles/c7903ggzr9vo|cambridge launches review into support for jason arday before death|6efa3b393ad19af8371a9420fe53e334
-2026-09-04T20:31:32.164887+00:00|https://www.bbc.co.uk/news/articles/ce8x2jglljpo|transgender surgery halted over concerns patients were not properly assessed|eeb51afb7803f16a235e82677676e587
 2026-09-04T22:43:59.372542+00:00|https://www.telegraph.co.uk/football/2026/09/04/ipswich-town-liverpool-live-score-latest-updates|alexander isak finally starts to justify £125m price tag with fine double|84af1249d7b7205f23800f3795bf54cd
 2026-09-04T22:44:02.180940+00:00|https://www.bbc.co.uk/news/articles/cgk5g5xmxgdo|offord pledges to scrap tax system and boost jobs under reform|ef640b18f010ef800510c3e8b45c643b
 2026-09-04T22:44:04.786159+00:00|https://www.bbc.co.uk/news/articles/cqlw67ngpp1o|cleveland police chief proud of force but being let down by funding|187f7f947ee9a63d8bc5c0d09f84dbef
@@ -116,3 +114,5 @@
 2026-09-11T18:07:31.734269+00:00|https://www.bbc.co.uk/news/articles/c17j91jenr8o|mps vote against fresh attempt to legalise assisted dying|f8c42b5066b2fce03ef956a31670260e
 2026-09-11T18:07:34.130486+00:00|https://www.bbc.co.uk/news/articles/czxzw9117k5o|girls given legal right to wear trousers in schools in northern ireland|30cefb40ce0893230356f663bd363a57
 2026-09-11T18:07:36.604391+00:00|https://news.sky.com/story/appeal-to-find-owner-of-lost-urn-containing-human-ashes-left-on-train-13584482|appeal to find owner of lost urn with human ashes left on train|7aa51a4857eb5c03fcf5cfc927e90401
+2026-09-11T21:31:19.769133+00:00|https://www.bbc.co.uk/news/articles/clymlyg7y44o|children and woman injured on fairground ride|92c4bd21ccba6db0786a2222a7b0bb2f
+2026-09-11T21:31:22.563268+00:00|https://www.bbc.co.uk/news/articles/cy8zrz42yxko|police to crack down on face coverings at protests|de005d4a2257b1cacf341ab31f9569f4

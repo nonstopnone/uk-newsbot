@@ -27579,5 +27579,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789150050.590661
+  },
+  "92c4bd21ccba6db0786a2222a7b0bb2f": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a public safety incident involving injuries and emergency services response in South Yorkshire, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789162261.364165
+  },
+  "febe5691614ee7a2be25874a7eb892fa": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a cricket match, which falls under the category of sports previews/reporting rather than hard news of national political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789162270.54533
+  },
+  "5c5dc48beef5c363ceff444dceac7a5b": {
+    "is_relevant": true,
+    "reasoning": "This report details significant government spending and the administration of a state-run health scheme, which is a matter of public interest and fiscal policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789162278.933081
   }
 }
