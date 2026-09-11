@@ -27460,5 +27460,61 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1789122402.395239
+  },
+  "6e782b6327eecbf046d529008f6c0aa9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a violent crime incident in London requiring police intervention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789138047.614472
+  },
+  "225c97c3e8f010edb6721a2aeee345e2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case resulting in a murder conviction at a UK Crown Court, falling squarely under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789138058.120221
+  },
+  "19bff087a8caeda0373957b6b45f764d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a historical murder conviction of a British soldier and a subsequent judicial ruling by the Court of Appeal in Belfast.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789138067.885522
+  },
+  "a8f7fe32cd81446220a168cbd7ff7ccb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a sentencing in a Carlisle court for a serious criminal offence.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789138077.632747
+  },
+  "41637137fdaae4061f254d2a2fca3919": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving corporate fraud and environmental regulation within a major UK utility company, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789138086.276999
+  },
+  "1a1f397768c90787f685ddbfa0cedffd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive event involving a public figure and emergency services, falling under the Sport/Breaking News category within the UK context.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789138099.292848
+  },
+  "61a26caef8292007f86cc937a6c9f0be": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a high-profile figure in UK politics and the outcome of a major criminal case regarding the embezzlement of party funds.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789138109.074382
+  },
+  "9f74deb0d3956731a044895a90238736": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a serving police officer charged with causing death by dangerous driving, which is a matter of clear public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789138117.328143
   }
 }

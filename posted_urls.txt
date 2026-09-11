@@ -1,5 +1,3 @@
-2026-09-04T14:43:58.769184+00:00|https://www.bbc.co.uk/news/articles/c0klx2y08j0o|planes grounded at gatwick after aircraft stuck on runway|1da156be2030c2aff8188418d963a46b
-2026-09-04T14:44:01.327145+00:00|https://www.bbc.co.uk/news/articles/c36l72k4gj6o|man who died near notting hill carnival is named|beb86cf4f3903af44c02cdcfe4f58605
 2026-09-04T17:59:50.906217+00:00|https://www.bbc.co.uk/news/articles/c7v4n9nl987o|israeli triathlon association considering legal action over derry race|b9e3d15e277c3c3bfaf9539c8156b14a
 2026-09-04T17:59:53.199382+00:00|https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro|id rather die than ring the police distrust and fear in middlesbrough after a66 crash|9e808b20635ed94896697ed6017cf564
 2026-09-04T17:59:55.478652+00:00|https://news.sky.com/story/maria-pearson-britains-longest-serving-female-prisoner-back-behind-bars-weeks-after-release-13581370|britains longestserving female prisoner back behind bars weeks after release|03e9908c4228a95ad959153d4bb79f89
@@ -116,3 +114,6 @@
 2026-09-11T10:26:45.759010+00:00|https://news.sky.com/story/uk-weather-autumn-more-likely-to-be-wetter-than-average-with-greater-risk-of-floods-13584334|autumn more likely to be wetter than average with uk at greater risk of floods|693995784260136f3be8f67484f7e7b6
 2026-09-11T10:26:48.154062+00:00|https://news.sky.com/story/police-rule-out-more-than-70-possible-names-in-bid-to-identify-woman-found-dead-in-liverpool-park-13584312|mystery over woman found dead in bin bag as police rule out more than 70 names|eb1209506f81efaf7c0e6dfea4981c62
 2026-09-11T10:26:50.891993+00:00|https://www.bbc.co.uk/news/articles/cn5dqe02nvqo|stormont budget offer increases to £15bn bbc understands|c6038811657417970c28727e7bb63a3f
+2026-09-11T14:48:38.521796+00:00|https://www.bbc.co.uk/news/articles/c5ydqr66z36o|families of british victims mark 25th anniversary of 911|4d01afbea0700fce9b91691c4399a3ec
+2026-09-11T14:48:40.951656+00:00|https://www.bbc.co.uk/news/articles/ce8e6pkkd04o|kate visits patients at cancer hospital she raised funds for|c4ec8f5608698c8742f91c7d990fc3be
+2026-09-11T14:48:43.463635+00:00|https://www.telegraph.co.uk/business/2026/09/11/uk-economy-gdp-budget-healey-burnham-ftse-100-markets|interest rates predicted to rise four times by july|f24395c4d11258857f76e56e8dd7232d
