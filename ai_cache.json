@@ -27663,5 +27663,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789214037.957254
+  },
+  "218be4172c341d9a4364dbfefb35dd10": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving a bus hijacking, a high-speed police pursuit, and an arrest in Northern Ireland, which is a key part of the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789224577.271102
+  },
+  "3a320e18176797c9da0c6cd7cb181c51": {
+    "is_relevant": true,
+    "reasoning": "The article reports on significant political funding for a registered UK political party, which materially impacts the landscape of UK politics and the next general election.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789224585.971082
+  },
+  "817da295254d80564a88aec78d4fefaa": {
+    "is_relevant": true,
+    "reasoning": "The comments directly concern the constitutional status of Northern Ireland, a critical matter of UK politics and the Good Friday Agreement, prompting an official response from Downing Street.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789224594.63175
+  },
+  "b09cd1aeab5c17f79dbbc70227e8be14": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of the England national cricket team, falling under the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789224602.772074
+  },
+  "4d4adf3f0d79d855266bbba661a9dbb7": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK international sporting achievement, falling under the permitted 'Sport' category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789224612.273634
+  },
+  "bd21b2e17bd07665d9d1e8325de75cb9": {
+    "is_relevant": true,
+    "reasoning": "This article concerns major financial contributions to a UK political party, which is a matter of significant public interest and political transparency in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789224628.099535
   }
 }
