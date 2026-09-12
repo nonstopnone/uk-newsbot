@@ -27614,5 +27614,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789170468.551961
+  },
+  "8c3ec0e4c7b72e7cf64125140109c67d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle/feature piece rather than hard news regarding UK politics, policy, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789180769.687656
+  },
+  "cf0b521b04a09a1be5f8d349fe4d7a6d": {
+    "is_relevant": false,
+    "reasoning": "This is a feature piece about a long-running television documentary series, which falls under lifestyle and media entertainment rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789180780.058802
+  },
+  "4b1414bf49f61efd959b6e40677c27ea": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK domestic politics involving party funding, which carries major implications for the political landscape.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789180792.640015
   }
 }
