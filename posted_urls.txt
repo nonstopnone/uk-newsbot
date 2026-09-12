@@ -1,6 +1,3 @@
-2026-09-05T16:28:56.190554+00:00|https://www.telegraph.co.uk/football/2026/09/05/premier-league-live-nottingham-forest-vs-tottenham-updates|mudryk fails to help tottenham break their duck as var denies forest|5e24ba69d5f7f064d51d51b3f55b42d4
-2026-09-05T16:28:58.528417+00:00|https://www.bbc.co.uk/news/articles/c89jpyk8n80o|king and queen join highland games fans at braemar gathering|028348544fcf51388c1778ca317aac47
-2026-09-05T16:29:01.155594+00:00|https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo|nigel farage tells bbc he wasnt listening during foreign donor talks filmed undercover|0a7aa89bc50d9466fb493a7f71795c41
 2026-09-05T18:45:53.496099+00:00|https://www.bbc.co.uk/news/articles/cpd044nwevdo|scottish man jailed for raciallymotivated offences during belfast riots|8a9d5aba4bf5c8431909408ab976eeec
 2026-09-05T20:53:35.544272+00:00|https://www.bbc.co.uk/news/articles/cnvl1r1080go|major disruption as grass fire halts all trains to heathrow airport|55944d417a4a68da77b00b03200a8417
 2026-09-05T22:35:11.315313+00:00|https://www.bbc.co.uk/news/articles/cp301rw6kvro|prince william to attend king haralds funeral in norway|82e1e9a5958abd3fa84d6a0aa5d7d44b
@@ -123,3 +120,7 @@
 2026-09-12T14:50:31.540549+00:00|https://www.bbc.co.uk/news/articles/clye9nldd7do|reform receives second £36m donation in two days as crypto investor matches record|3a320e18176797c9da0c6cd7cb181c51
 2026-09-12T14:50:34.098921+00:00|https://www.telegraph.co.uk/cricket/2026/09/12/england-vs-pakistan-third-test-live-score-latest-day-four|england find another man for a crisis in jordan cox|b09cd1aeab5c17f79dbbc70227e8be14
 2026-09-12T14:50:36.730306+00:00|https://news.sky.com/story/ben-delo-and-christopher-harborne-who-are-reform-uks-two-mega-donors-13584792|who are reform uks two megadonors|bd21b2e17bd07665d9d1e8325de75cb9
+2026-09-12T17:38:33.934187+00:00|https://www.bbc.co.uk/news/articles/cn450jwvw9do|three arrests at rival protests in portsmouth|340c0b501482558b3130310ac9dfe921
+2026-09-12T17:38:36.532063+00:00|https://www.telegraph.co.uk/football/2026/09/12/premier-league-live-scores-latest-updates|chelsea rescue draw as woeful defence punished by hull|6ee2615e196a8fd80da9879d757d9486
+2026-09-12T17:38:39.068748+00:00|https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo|oscarwinning film producer jeremy thomas dies aged 77|def3358d2aa2cbe12e58e6778fe5e03e
+2026-09-12T17:38:41.482396+00:00|https://www.telegraph.co.uk/rugby-union/2026/09/12/england-women-vs-australia-women-live-score-latest-wxv|bomb squad rescues rusty red roses|882516bcc7c7f4a8f93a05b5ae593072

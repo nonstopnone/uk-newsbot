@@ -27705,5 +27705,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789224628.099535
+  },
+  "340c0b501482558b3130310ac9dfe921": {
+    "is_relevant": true,
+    "reasoning": "This report covers significant domestic public order issues involving police, protests, and the implementation of new legislation in a UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789234660.936333
+  },
+  "6ee2615e196a8fd80da9879d757d9486": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a professional UK football match result in a major domestic league, which falls under the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789234668.83125
+  },
+  "def3358d2aa2cbe12e58e6778fe5e03e": {
+    "is_relevant": true,
+    "reasoning": "The passing of an Oscar-winning British film producer is a significant event within the UK's cultural landscape.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1789234678.218004
+  },
+  "2cb656ff4d5b02693a90d852e78f3e4c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency services incident involving a multi-agency rescue operation by the RNLI and Coastguard in Northern Ireland waters.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789234712.996402
   }
 }
