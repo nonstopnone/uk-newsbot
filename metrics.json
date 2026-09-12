@@ -6,7 +6,7 @@
     "Telegraph": 1001,
     "Manual": 6,
     "BBC News US": 1024,
-    "Sky News US": 220,
+    "Sky News US": 221,
     "BBC-UK": 2,
     "BBC-Politics": 2,
     "BBC-Business": 2
@@ -19,11 +19,11 @@
     "Sport": 481,
     "Royals": 421,
     "Immigration": 45,
-    "Breaking News": 801,
+    "Breaking News": 802,
     "Culture": 101,
     "Environment": 139,
     "Entertainment": 67,
     "Sports": 88,
-    "Notable International News🌍": 49
+    "Notable International News\ud83c\udf0d": 49
   }
 }
