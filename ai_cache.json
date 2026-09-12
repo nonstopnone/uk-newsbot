@@ -27733,5 +27733,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1789234712.996402
+  },
+  "b740faf743015eb16ddee2513346323e": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer affairs and retail industry report regarding product ingredients rather than significant national economic policy or hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789243282.375627
   }
 }
