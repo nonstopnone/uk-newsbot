@@ -1,5 +1,3 @@
-2026-09-05T09:50:15.650187+00:00|https://www.bbc.co.uk/news/articles/cy8znyzgkjjo|disruption at port of dover as masked men hold protest|ccb579343a96cdc6ee89b522594428e1
-2026-09-05T09:50:18.104455+00:00|https://www.bbc.co.uk/news/articles/cgk5g51xk57o|reform promises to increase taxfree personal allowance to £15000|7478a5fbb76c03bdad1801040357da28
 2026-09-05T16:28:56.190554+00:00|https://www.telegraph.co.uk/football/2026/09/05/premier-league-live-nottingham-forest-vs-tottenham-updates|mudryk fails to help tottenham break their duck as var denies forest|5e24ba69d5f7f064d51d51b3f55b42d4
 2026-09-05T16:28:58.528417+00:00|https://www.bbc.co.uk/news/articles/c89jpyk8n80o|king and queen join highland games fans at braemar gathering|028348544fcf51388c1778ca317aac47
 2026-09-05T16:29:01.155594+00:00|https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo|nigel farage tells bbc he wasnt listening during foreign donor talks filmed undercover|0a7aa89bc50d9466fb493a7f71795c41
@@ -118,3 +116,6 @@
 2026-09-12T07:34:57.722505+00:00|https://www.bbc.co.uk/news/articles/c1j4ngr05l8o|battle to save the tiny gooey snail only found in one lake in the uk|2b7202fcda89ddf9963d3c524dec1bb8
 2026-09-12T07:35:00.082042+00:00|https://www.bbc.co.uk/news/articles/cj4jypdlr4ko|mum died from aggressive cancer after ninemonth wait for test results|2cc6196fb8973a8b40a8538ab73fbef3
 2026-09-12T07:35:03.507510+00:00|https://news.sky.com/story/blaze-breaks-out-at-london-tower-block-as-multiple-fire-crews-dispatched-13584698|blaze breaks out at london tower block as multiple fire crews dispatched|4877b31bee93816c681b0a61da305d1c
+2026-09-12T11:53:58.355912+00:00|https://www.telegraph.co.uk/formula-1/2026/09/12/f1-spanish-grand-prix-qualifying-live-latest-updates|hamilton smashes into barriers and argues with ferrari team at car killer track|13ff27a232a48d21269d32f448563a5a
+2026-09-12T11:54:00.809833+00:00|https://www.bbc.co.uk/news/articles/clym4nng4e9o|man in court following antimigrant protests|4421d06dde49a1108b06e21a60719ce9
+2026-09-12T11:54:03.223073+00:00|https://www.bbc.co.uk/news/articles/ced75e7d11po|burnham and badenoch revive red versus blue politics as reform land gobsmacking donation|7a5e41cddf43ccbf95b628d25a9764d5

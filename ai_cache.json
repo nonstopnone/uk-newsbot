@@ -27642,5 +27642,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1789198495.46166
+  },
+  "13ff27a232a48d21269d32f448563a5a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major incident involving a prominent British sporting figure in international motorsport, which qualifies as UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789214019.15693
+  },
+  "4421d06dde49a1108b06e21a60719ce9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on criminal charges and court proceedings related to a significant public order incident in the UK involving protests.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789214029.221351
+  },
+  "6551bfaaa5b9238eeeff54ac492a3b35": {
+    "is_relevant": true,
+    "reasoning": "This report details police enforcement action against organized crime in Scotland, falling under the remit of UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789214037.957254
   }
 }
