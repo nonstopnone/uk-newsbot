@@ -27740,5 +27740,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789243282.375627
+  },
+  "aeb4ef5d992b9612ddd5520f8d4784fe": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and commentary regarding football clubs, which falls under sports lifestyle content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789253153.431736
+  },
+  "d10e79397168048ae49749c3b08857ad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the mismanagement of substantial public funds regarding major UK infrastructure and devolved government decision-making.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789253162.993868
   }
 }
