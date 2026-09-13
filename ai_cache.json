@@ -27880,5 +27880,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789321882.396964
+  },
+  "51c5ecb9f02580fe8833b20e612a8f35": {
+    "is_relevant": false,
+    "reasoning": "This is a sports commentary and match report, which is explicitly excluded as fluff/sports news under the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789330080.626978
+  },
+  "3ae61694695995073792e65d08347dd1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety issue involving a fatal building fire and a potential failure of emergency systems, requiring an investigation by the London Fire Brigade.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789330089.98879
+  },
+  "ca5cac8165d949e846cddcd32a6ca7b8": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant, first-of-its-kind national memorial in the UK addressing a critical social and welfare issue affecting armed forces personnel and veterans.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1789330103.531249
+  },
+  "6e90cf39076524a550220e8be6edb48a": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a sports competition outcome and driver commentary, which falls under sports lifestyle/opinion rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789330112.868037
   }
 }
