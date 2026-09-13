@@ -27803,5 +27803,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1789277671.320228
+  },
+  "14d3b8954de17eedd0b7efa878defc89": {
+    "is_relevant": true,
+    "reasoning": "The article details significant investment into a technology company operating within the UK private healthcare sector, which is relevant to the UK economy and healthcare infrastructure.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789296949.550222
+  },
+  "19fc968fb37280badad69e183165f33e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency incident involving a major fire, local evacuations, and multi-agency response within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789296958.744607
+  },
+  "68ac1d2f565f4f28abd1a744cc5fb7e9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation involving a fatality and the potential use of a firearm, which is a matter of serious public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789296969.093141
   }
 }

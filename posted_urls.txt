@@ -1,5 +1,3 @@
-2026-09-06T10:06:12.033807+00:00|https://www.bbc.co.uk/news/articles/cew9dq9we5eo|police slow to respond to dover protest says council boss|b6d2e3477e8986f5809499b09423dcb2
-2026-09-06T10:06:14.428921+00:00|https://www.bbc.co.uk/news/articles/clyejyeq3pro|city plan change sought to protect tower of london|d67269a470813e7de0abdc5e2b678935
 2026-09-06T13:54:35.532323+00:00|https://www.bbc.co.uk/news/articles/ce872m2r7n3o|bodies of missing french fishermen recovered|ddda5ff60263a56b46aae3cf9a86923a
 2026-09-06T13:54:37.978155+00:00|https://www.bbc.co.uk/news/articles/cnvl10dyz72o|residents fearful for their homes amid fireworks trouble|d3328cb74b38d26bf2bffdec75f6b5fa
 2026-09-06T16:39:50.533643+00:00|https://www.bbc.co.uk/news/articles/crer948xq00o|minister to meet jaguar land rover boss as thousands of job cuts expected|d93394154fffc7675d2ea0b0fc70e0a8
@@ -124,3 +122,6 @@
 2026-09-13T00:33:24.473833+00:00|https://www.bbc.co.uk/news/articles/c86x4pd720xo|drag race cocreator fears for queer representation after bbc drops show|f2d8e01281af98490c62851b3d581f1a
 2026-09-13T00:33:27.155941+00:00|https://www.bbc.co.uk/news/articles/clylg547430o|the papers nigel hits the jackpot and dark day for democracy|275feb1e3ce9e89a6f37a924a4a16111
 2026-09-13T05:34:32.181129+00:00|https://www.bbc.co.uk/news/articles/c1kx0gyje9wo|ai staff genuinely frightened for humanitys future exanthropic researcher tells bbc|f0f9a15af7ac3fd1ecf3395d118d01eb
+2026-09-13T10:56:09.732365+00:00|https://news.sky.com/story/5bn-eu-venture-fund-backs-ai-medical-assistant-tandem-health-13585284|€5bn eu venture fund backs ai medical assistant tandem health|14d3b8954de17eedd0b7efa878defc89
+2026-09-13T10:56:12.258128+00:00|https://www.bbc.co.uk/news/articles/c8jdrnw8zvyo|major fire at derelict peaky blinders mill|19fc968fb37280badad69e183165f33e
+2026-09-13T10:56:14.711088+00:00|https://www.bbc.co.uk/news/articles/cr50ee415g6o|police probe use of firearm after man found dead in armadale|68ac1d2f565f4f28abd1a744cc5fb7e9
