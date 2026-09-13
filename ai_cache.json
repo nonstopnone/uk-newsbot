@@ -27789,5 +27789,19 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1789259603.047611
+  },
+  "6187ec57c8bd60eb1ddd2ce4e4d048bd": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on healthcare challenges in Afghanistan; it does not materially affect the UK or constitute hard domestic news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789277661.195352
+  },
+  "f0f9a15af7ac3fd1ecf3395d118d01eb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the regulation and safety of AI, a critical area of UK government policy and national infrastructure security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789277671.320228
   }
 }
