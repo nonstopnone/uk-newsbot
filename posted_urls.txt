@@ -1,4 +1,3 @@
-2026-09-06T00:29:51.190838+00:00|https://news.sky.com/story/scottish-government-told-to-take-sewage-crisis-seriously-after-record-100000-spills-13581777|scottish government told to take sewage crisis seriously after record 100000 spills|352ee36dfb5f967290ba034721523974
 2026-09-06T05:25:01.429245+00:00|https://www.bbc.co.uk/weather/articles/cvgydp1247ro|temperatures could climb to 28c in late burst of warmth|cb0325c6d3d7d9e9c43adb5e8ef0e8c5
 2026-09-06T10:06:12.033807+00:00|https://www.bbc.co.uk/news/articles/cew9dq9we5eo|police slow to respond to dover protest says council boss|b6d2e3477e8986f5809499b09423dcb2
 2026-09-06T10:06:14.428921+00:00|https://www.bbc.co.uk/news/articles/clyejyeq3pro|city plan change sought to protect tower of london|d67269a470813e7de0abdc5e2b678935
@@ -123,3 +122,5 @@
 2026-09-12T20:01:23.122289+00:00|https://www.telegraph.co.uk/football/2026/09/12/spurs-vs-everton-live-score-latest-updates-premier-league|£329m spent and still no goals for sorry tottenham|acff40471f9e4dcb565dcdfb5a022170
 2026-09-12T20:01:25.508444+00:00|https://www.bbc.co.uk/news/articles/c4gdpzdwxz5o|six people rescued after yacht gets tangled in fish farm|2cb656ff4d5b02693a90d852e78f3e4c
 2026-09-12T22:46:03.717020+00:00|https://www.bbc.co.uk/news/articles/cy0zv4end8no|planned gibraltarsized rail testing centre has cost taxpayers £70m but hasnt been built|d10e79397168048ae49749c3b08857ad
+2026-09-13T00:33:24.473833+00:00|https://www.bbc.co.uk/news/articles/c86x4pd720xo|drag race cocreator fears for queer representation after bbc drops show|f2d8e01281af98490c62851b3d581f1a
+2026-09-13T00:33:27.155941+00:00|https://www.bbc.co.uk/news/articles/clylg547430o|the papers nigel hits the jackpot and dark day for democracy|275feb1e3ce9e89a6f37a924a4a16111
