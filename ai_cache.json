@@ -27824,5 +27824,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789296969.093141
+  },
+  "eec362b6c1aa7602ec052ea64e705a18": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a mass-participation sporting event and charity run, which falls under lifestyle/sporting interest rather than hard news of national political or economic significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789310806.273157
+  },
+  "7e4553072e7e53a08c24c90145bb12df": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal investigation and a matter of diplomatic/legal procedure involving UK law enforcement and a foreign embassy on British soil.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789310815.982917
+  },
+  "927c8654090b43e6af9833175c4f5805": {
+    "is_relevant": true,
+    "reasoning": "This concerns a key government manifesto pledge regarding housing policy and infrastructure, which is a matter of direct political and economic significance for the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789310826.255027
+  },
+  "2328d330f4786392fffc75e9a270afd2": {
+    "is_relevant": true,
+    "reasoning": "The article reports on ongoing public order issues and police enforcement of specific legislation regarding protests in a UK city, which falls under legal and security developments.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789310834.917339
   }
 }
