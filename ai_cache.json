@@ -27852,5 +27852,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789310834.917339
+  },
+  "e911b8637fe47259f9af02de4c69cfce": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal family and their activities following a return to the UK, which is a matter of public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789321854.580963
+  },
+  "43fa39fb128198b6385212eae2b2491e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sporting achievement for European teams featuring British athletes in a major international golf competition.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789321865.391297
+  },
+  "12f96778ba533e1c335fa80270b9929a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a bus hijacking and police pursuit in Northern Ireland, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789321874.16729
+  },
+  "ebbdfbabe267b33acec16e67656e1eea": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant political controversy regarding UK party funding and potential government regulatory action, which is directly relevant to UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789321882.396964
   }
 }
