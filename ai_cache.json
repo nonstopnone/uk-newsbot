@@ -27908,5 +27908,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789330112.868037
+  },
+  "bc7cde90b0d918ae5740610d26a87f73": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic policy story involving local government, security measures, and the ongoing national debate surrounding asylum seeker accommodation.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1789339610.658942
+  },
+  "f6be0297651a347f1e26764a0bab54e2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change concerning government-mandated nutritional standards for all schools in England, which is a matter of public policy and national health.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789339621.469308
+  },
+  "8b316ca0b7fdfa953cff1eac12db859b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant human interest story regarding the UK's controversial IPP sentencing policy and its impact on the justice system, which is a matter of ongoing political and legal debate in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789339630.381445
+  },
+  "77da5b84381f09d51128d8309f05305b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding officiating in the Premier League, which is a major subject of national interest and UK-wide media coverage.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789339638.299223
+  },
+  "e5c41fd659566a7ae5248b6abda8d218": {
+    "is_relevant": true,
+    "reasoning": "This is a local government issue regarding public service provision and taxation, which is a matter of direct relevance to domestic UK governance and consumer rights.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789339647.919675
+  },
+  "c22f6a4b22926963466fd881567f53e5": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a protest regarding land reform policy and access rights in the constituency of a prominent UK political figure, which is a matter of UK public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789339658.861934
   }
 }
