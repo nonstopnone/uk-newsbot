@@ -27950,5 +27950,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789339658.861934
+  },
+  "b1990733dc1b186b72b024a98e97a768": {
+    "is_relevant": false,
+    "reasoning": "This is a standard weather forecast report rather than hard news concerning politics, crime, economy, or major national incidents.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789346157.931532
+  },
+  "a46de0ad2b6b0d02f110aa61b6c04f21": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant UK political policy regarding school meal standards and mentions high-level political figures and industry tax appeals impacting the UK domestic economy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789346168.456717
+  },
+  "3d16fb43a1c8b4b1ba7120120f21b09b": {
+    "is_relevant": true,
+    "reasoning": "The article pertains to the Royal Family and the ongoing, significant infrastructure refurbishment of Buckingham Palace, which is a matter of national heritage and interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789346179.759933
+  },
+  "203cc49f070950d691d5d9f8c178f821": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional malpractice within the NHS involving over 40 patients taking legal action, which is a matter of serious public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789346188.872591
+  },
+  "b4a3f0f4183911aa1afdc1acac2b6c2b": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant cost-of-living pressures affecting the UK housing market and private tenants, which is a major economic issue.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789346199.296184
   }
 }
