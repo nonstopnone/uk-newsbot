@@ -28034,5 +28034,89 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1789385409.357914
+  },
+  "162390757b4f32160b992e27cbe09426": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving serious offences and ongoing judicial proceedings within the UK court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789406742.791775
+  },
+  "7f594133b578754181168bfdf6bc55d2": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the findings of a significant public inquiry into a sectarian murder and police conduct in Northern Ireland, a critical matter of UK justice and public record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789406767.02273
+  },
+  "94545fd025e8627968cbb60aa4bbbc24": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious, ongoing police murder investigation in Scotland involving a potential firearm, which is a matter of public safety and criminal justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789406777.05194
+  },
+  "aed4fb3ad0ce1dedfb35398d28a44fde": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the British Monarchy's diplomatic involvement in an international sporting event and the ongoing public relationship between the King and the Duke of Sussex, which is a matter of significant national interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789406788.491411
+  },
+  "4a7ac429a42a17d371adbb7b7c484155": {
+    "is_relevant": false,
+    "reasoning": "The article concerns the private bereavement of a public figure and does not constitute hard news or a policy-related development, rendering it personal interest rather than relevant UK news for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789406799.874377
+  },
+  "fccc0c3854b289f107ce9a9a9280c39c": {
+    "is_relevant": true,
+    "reasoning": "The Prime Minister of the United Kingdom cancelling official government engagements is a significant political event impacting the national schedule.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789406810.039406
+  },
+  "d9d4a1dca0bdb11df417c01cc3ed93e1": {
+    "is_relevant": true,
+    "reasoning": "The death of two participants in a major annual national sporting event is a significant news story of public interest in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789406820.116861
+  },
+  "1a63bd30fc654aeffb1961aa9dc77d36": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment piece concerning a musical performance at the Proms, which does not constitute hard news or a significant event under the specified criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789406830.335733
+  },
+  "79e2bc3a26e265de7cb26343c1eec966": {
+    "is_relevant": false,
+    "reasoning": "This story concerns a cultural debate regarding an advertisement and celebrity marketing rather than hard news or significant sporting developments, making it unsuitable for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789406842.073927
+  },
+  "682f5932394108c94687b946073c834d": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on a health crisis in Asia and South America; it lacks a direct, material impact on the UK or specific relevance to domestic UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789406863.873371
+  },
+  "8f99c5e68844eb8d8fc042a452b34152": {
+    "is_relevant": true,
+    "reasoning": "The cancellation of a major production at the Barbican is a significant development in London's cultural sector.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1789406873.096095
+  },
+  "54dc509c932fcb7f3c2a7fd3cd705e04": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and diplomatic matter involving UK law enforcement, the rights of British citizens, and the application of diplomatic immunity by a foreign government.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789406887.976824
   }
 }
