@@ -27985,5 +27985,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1789346199.296184
+  },
+  "b9e0ee52e3d2eed149e332706330f655": {
+    "is_relevant": true,
+    "reasoning": "This is a report from a UK Parliamentary Joint Committee calling for legislative action on AI, which is a matter of significant national policy and regulatory development.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789364358.020153
   }
 }
