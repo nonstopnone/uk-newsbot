@@ -27992,5 +27992,47 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789364358.020153
+  },
+  "c16c6555993ed44620cdca7658af2458": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a UK criminal sentencing involving a high-profile offender.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789385359.034985
+  },
+  "37ea6e72a6360cb182d2c508806086af": {
+    "is_relevant": false,
+    "reasoning": "This is a social commentary piece regarding an advertising campaign and celebrity culture; it lacks the substance of hard news or institutional relevance required for the sub.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789385369.853835
+  },
+  "7fe42bb4708166e3f5b9e4d3e025a413": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a fatality and major infrastructure disruption on a primary UK motorway, warranting a report for a UK news audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789385380.072409
+  },
+  "83d27c4385c1218100eded5ae1ea5f31": {
+    "is_relevant": false,
+    "reasoning": "This is lifestyle/consumer advice rather than hard news, and does not meet the criteria for relevance to UK politics, economy, or major national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789385389.333951
+  },
+  "7138e49eaf990a70cbc1a7fb96c90727": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from a cross-party committee of UK parliamentarians calling for urgent legislative reform, which directly concerns UK policy and legal governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789385400.129653
+  },
+  "1e026c56a788260937c4db81d6645dd9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant search and rescue operation involving emergency services within the UK, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789385409.357914
   }
 }
