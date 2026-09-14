@@ -28118,5 +28118,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789406887.976824
+  },
+  "3f0180fde72f4d3d73e4cc3d70eadd2e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the security arrangements and residency status of senior members of the Royal Family and the allocation of taxpayer-funded police protection.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789420678.339822
+  },
+  "441e76672e61195b1629a6cd7a2a7dc6": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and hospitality sector trend story rather than hard news concerning UK politics, the economy, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789420688.80571
+  },
+  "9caa1d1293da1496195387f7fd534fdd": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal police misconduct hearing involving allegations of excessive force, which falls under the category of UK crime and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789420699.530999
+  },
+  "ec750a46a0281f9a1f79c84b026416af": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal shooting and ongoing police investigation in Scotland, which falls under serious crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789420708.304273
+  },
+  "8dd42e83b23acad2b3b35319ca62cce0": {
+    "is_relevant": false,
+    "reasoning": "This article focuses exclusively on US stock market movements and US political commentary regarding AI development, which does not materially affect the UK economy or domestic affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789420717.745928
   }
 }
