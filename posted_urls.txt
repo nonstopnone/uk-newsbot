@@ -1,7 +1,3 @@
-2026-09-08T17:01:52.949381+00:00|https://www.bbc.co.uk/news/videos/clyjdgvzg0yo|prince george attends first day at eton college|3e53a609b805d423e9a8afb1442bc60b
-2026-09-08T17:01:55.728039+00:00|https://www.bbc.co.uk/news/articles/c62k0d4px6ro|british widow faces deportation from sweden after 22 years|669cd4fe995b23b05c9ead2c307baa1a
-2026-09-08T17:01:58.420151+00:00|https://news.sky.com/story/uk-summons-serbian-diplomat-over-countrys-role-in-butcher-of-bosnia-funeral-13583224|uk summons serbian diplomat over butcher of bosnia funeral|48b5232c154ca814cfc8dbe6026207b9
-2026-09-08T17:02:00.978564+00:00|https://news.sky.com/story/death-of-nottingham-attack-victim-potentially-preventable-inquiry-hears-13583174|death of nottingham attack victim potentially preventable inquiry hears|7081c1f34dcd994f981d30dfac84c6ab
 2026-09-08T19:48:11.514434+00:00|https://www.bbc.co.uk/news/articles/c4g7zen0vveo|uk announces sanctions on west bank settlements prompting furious israeli response|85215435bc19a6dd74e9f8de1059a76c
 2026-09-08T19:48:13.965573+00:00|https://www.bbc.co.uk/news/articles/cyvzn7zzyn9o|three arrested after woman dies in multivehicle crash on a8|f26b14558e509eeb80da3915c26af148
 2026-09-08T22:17:49.460178+00:00|https://www.bbc.co.uk/news/articles/c5ydlex9yn3o|paul adams britishisraeli relations at lowest ebb in decades|a270b365107e99d2a624f5e7321fcb4c
@@ -124,3 +120,7 @@
 2026-09-15T15:27:25.570043+00:00|https://www.bbc.co.uk/news/articles/cv8e35rzy486o|two dead after car hits group of pedestrians|4b520af2727f16e314f9c56b65063f24
 2026-09-15T15:27:28.047820+00:00|https://www.bbc.co.uk/news/articles/c6jdvjl7p79lo|government to end ban on catholic and jewish pms involvement in church appointments|e78c321cc7d1884a95a647fe3bbe651d
 2026-09-15T15:27:30.558835+00:00|https://www.telegraph.co.uk/business/2026/09/15/pension-triple-lock-uk-wages-healey-budget-ftse-100-markets|reynolds refuses four times to rule out tax raid on state pensioners|7818c1fd48dd07b282f6a8409444cbd8
+2026-09-15T19:28:55.136720+00:00|https://www.telegraph.co.uk/business/2026/09/15/bond-sell-off-uk-borrowing-gilts-us-treasuries-markets|uk borrowing costs hit 19year high as global bond rout intensifies|1d17ab3ab1e103ec6062227e1327db99
+2026-09-15T19:28:57.633855+00:00|https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo|my son was failed noah donohoe inquest finds tunnel errors possibly contributed to death|480cf41ec6385529f8a95878b295410f
+2026-09-15T19:29:00.008037+00:00|https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo|baby cot cams plan after inquiry finds lucy letby crimes could have been prevented|a4929b99955c05fd09ef3fc9e92bc82d
+2026-09-15T19:29:02.520738+00:00|https://news.sky.com/story/var-audio-reveals-officials-tunnel-vision-review-of-erling-haaland-goal-for-man-city-vs-man-utd-13586261|audio reveals var officials tunnel vision during man city goal review|18cb817d70399a46a953d1473ab71fa7

@@ -28237,5 +28237,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1789469513.89994
+  },
+  "1d17ab3ab1e103ec6062227e1327db99": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development directly impacting UK government borrowing costs, mortgage rates, and Bank of England interest rate policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789500368.9772
+  },
+  "480cf41ec6385529f8a95878b295410f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant inquest verdict involving public bodies and police conduct within the United Kingdom, meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789500376.729718
+  },
+  "18cb817d70399a46a953d1473ab71fa7": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant controversy in the Premier League, which is a major component of UK sporting culture and news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789500384.826029
+  },
+  "77b45a0f4fa4a1d55f34356cf5daac24": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior minister addressing the government's approach to national security and AI regulation, which is a matter of significant UK public interest and policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789500534.622143
   }
 }
