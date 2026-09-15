@@ -1,7 +1,3 @@
-2026-09-08T12:32:52.385684+00:00|https://www.bbc.co.uk/news/articles/cddvz1mz09zo|attacks victims death potentially preventable|dc416f37c835818f9b90460b6c5f56f6
-2026-09-08T12:32:54.683933+00:00|https://www.bbc.co.uk/news/articles/cx2z9xdyldwo|pensioner with largest hoard of child abuse images found in scotland jailed|c3a7a66a5bd9a71234b9fbe83e7eaca0
-2026-09-08T12:32:56.988393+00:00|https://news.sky.com/story/man-wanted-in-uk-over-murder-of-wife-and-two-children-admits-unlawful-possession-of-firearm-13583115|man wanted in uk over murder of wife and two children admits unlawful possession of firearm|67cfb31e55e3d65997914567ade22d57
-2026-09-08T12:32:59.501524+00:00|https://news.sky.com/story/members-of-the-public-tried-to-rescue-girl-7-and-her-aunt-from-house-fire-says-coroner-13583092|members of the public tried to rescue girl 7 and her aunt from house fire says coroner|7a8ba676db345d430b3e7b4d3238bae9
 2026-09-08T17:01:52.949381+00:00|https://www.bbc.co.uk/news/videos/clyjdgvzg0yo|prince george attends first day at eton college|3e53a609b805d423e9a8afb1442bc60b
 2026-09-08T17:01:55.728039+00:00|https://www.bbc.co.uk/news/articles/c62k0d4px6ro|british widow faces deportation from sweden after 22 years|669cd4fe995b23b05c9ead2c307baa1a
 2026-09-08T17:01:58.420151+00:00|https://news.sky.com/story/uk-summons-serbian-diplomat-over-countrys-role-in-butcher-of-bosnia-funeral-13583224|uk summons serbian diplomat over butcher of bosnia funeral|48b5232c154ca814cfc8dbe6026207b9
@@ -125,3 +121,6 @@
 2026-09-15T10:51:56.664591+00:00|https://www.bbc.co.uk/news/articles/cqp8d0nj04g6o|unions urge ministers to soften planned changes to immigration rules|3856018af122010d5a4686c75a406fcb
 2026-09-15T10:51:59.041852+00:00|https://news.sky.com/story/balaclava-ban-comes-into-force-in-nottingham-with-police-powers-also-including-on-the-spot-fines-13586024|face mask ban comes into force in uk city|374da7ea5ae2fa097250e5ed73d0e58d
 2026-09-15T10:52:01.388661+00:00|https://news.sky.com/story/shoppers-hunting-value-as-grocery-price-inflation-ticks-up-13586019|shoppers hunting value as grocery price inflation ticks up|c8f41db592ce2491455ff728e2bc1c7c
+2026-09-15T15:27:25.570043+00:00|https://www.bbc.co.uk/news/articles/cv8e35rzy486o|two dead after car hits group of pedestrians|4b520af2727f16e314f9c56b65063f24
+2026-09-15T15:27:28.047820+00:00|https://www.bbc.co.uk/news/articles/c6jdvjl7p79lo|government to end ban on catholic and jewish pms involvement in church appointments|e78c321cc7d1884a95a647fe3bbe651d
+2026-09-15T15:27:30.558835+00:00|https://www.telegraph.co.uk/business/2026/09/15/pension-triple-lock-uk-wages-healey-budget-ftse-100-markets|reynolds refuses four times to rule out tax raid on state pensioners|7818c1fd48dd07b282f6a8409444cbd8
