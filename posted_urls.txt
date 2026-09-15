@@ -1,5 +1,3 @@
-2026-09-08T02:35:08.339482+00:00|https://www.bbc.co.uk/news/articles/c4grdjnle22o|uk government expected to announce restrictions on trade with west bank settlements|145b0e8ab8217be9535bcdfad0414eed
-2026-09-08T02:35:10.992095+00:00|https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o|drought and hosepipe bans remain despite wettest week since early february|b2d990b0247b17a0644c63918dbe63d3
 2026-09-08T07:42:22.262869+00:00|https://www.bbc.co.uk/news/articles/cwyzel3qjvzo|prince george set for first day at eton college|914daa89871898bce2dd4252791ea9f2
 2026-09-08T07:42:24.729042+00:00|https://www.bbc.co.uk/news/articles/c8xkvvd5xezo|well crumble when inquiry ends says victims mum|c44d26a1b6dfea4322a47fa185f683dd
 2026-09-08T12:32:52.385684+00:00|https://www.bbc.co.uk/news/articles/cddvz1mz09zo|attacks victims death potentially preventable|dc416f37c835818f9b90460b6c5f56f6
@@ -123,3 +121,5 @@
 2026-09-15T00:09:44.098662+00:00|https://www.bbc.co.uk/news/articles/c6lyedp0y35no|the papers reform donors could face enhanced checks and sydney sweeney blasted|de5fc9594e80d22f4fbfe7d7fb647358
 2026-09-15T00:09:46.556517+00:00|https://www.telegraph.co.uk/football/2026/09/14/leeds-united-vs-newcastle-united-live-score-latest-updates|newcastle rocked and elland road rocking after leeds complete demolition job|df79de164cd097ef42452e5a46a17458
 2026-09-15T00:09:49.026428+00:00|https://news.sky.com/story/prince-harry-and-duchess-of-sussex-move-children-to-new-school-over-security-concerns-13585871|harry and meghan move children to new school over security concerns|aad38d1edb69fe72bbb9d59448c3941f
+2026-09-15T05:41:10.605380+00:00|https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o|pubs hotels and gyms in wales to get 30 business rates cut|0a3177890f02ccb857bdbc3ccff641bf
+2026-09-15T05:41:12.978493+00:00|https://www.bbc.co.uk/news/articles/c65ym93p73xmo|uk could unlock 100 more oil and gas projects say north sea bosses|ce8853b86320d182bb4a6d11a405d26b

@@ -28174,5 +28174,26 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1789430981.172774
+  },
+  "1a1a3702d38a522f7f0f397f304e98e5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding UK government strategy on AI regulation and national security, involving senior ministers.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789450848.971444
+  },
+  "4535a1610b8122a1197b4686696657de": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public inquiry concerning patient safety and NHS accountability, which constitutes hard news of major national importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789450859.927127
+  },
+  "5d71bdbadb78d193fbb7717c47a6a004": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public policy change concerning law enforcement and civil liberties in a major UK city, directly falling under crime and local governance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789450870.229645
   }
 }
