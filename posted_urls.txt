@@ -1,5 +1,3 @@
-2026-09-07T23:23:39.463256+00:00|https://www.bbc.co.uk/news/articles/c1j4wz9p537o|unwise for legal professionals to give character references says nis top judge|c461bb872e4a6ab47c10e0b328598b49
-2026-09-07T23:23:41.843833+00:00|https://www.bbc.co.uk/news/articles/clylwxgknyxo|new mums left to get on with it as csection numbers hit record high|804e873b2f7fcb4ff29c00dadcf06e8d
 2026-09-08T02:35:08.339482+00:00|https://www.bbc.co.uk/news/articles/c4grdjnle22o|uk government expected to announce restrictions on trade with west bank settlements|145b0e8ab8217be9535bcdfad0414eed
 2026-09-08T02:35:10.992095+00:00|https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o|drought and hosepipe bans remain despite wettest week since early february|b2d990b0247b17a0644c63918dbe63d3
 2026-09-08T07:42:22.262869+00:00|https://www.bbc.co.uk/news/articles/cwyzel3qjvzo|prince george set for first day at eton college|914daa89871898bce2dd4252791ea9f2
@@ -121,3 +119,7 @@
 2026-09-14T17:28:10.827158+00:00|https://www.bbc.co.uk/news/articles/cmpwlkk9dgr7o|no police collusion in sectarian murder but multiple ruc failings included tipoff to suspect|7f594133b578754181168bfdf6bc55d2
 2026-09-14T21:18:38.528822+00:00|https://www.bbc.co.uk/news/articles/cwg7kv373z4eo|harry and meghan to have security review and children change school|3f0180fde72f4d3d73e4cc3d70eadd2e
 2026-09-14T21:18:41.106831+00:00|https://www.bbc.co.uk/news/articles/c68xkddgnd47o|burnham cancels engagements after death of father|fccc0c3854b289f107ce9a9a9280c39c
+2026-09-15T00:09:41.691916+00:00|https://www.bbc.co.uk/news/articles/cjn5dl95z13qo|row over reforms mega donations has mileage in it yet|3dc9bf351e763550b1d3961c816f0181
+2026-09-15T00:09:44.098662+00:00|https://www.bbc.co.uk/news/articles/c6lyedp0y35no|the papers reform donors could face enhanced checks and sydney sweeney blasted|de5fc9594e80d22f4fbfe7d7fb647358
+2026-09-15T00:09:46.556517+00:00|https://www.telegraph.co.uk/football/2026/09/14/leeds-united-vs-newcastle-united-live-score-latest-updates|newcastle rocked and elland road rocking after leeds complete demolition job|df79de164cd097ef42452e5a46a17458
+2026-09-15T00:09:49.026428+00:00|https://news.sky.com/story/prince-harry-and-duchess-of-sussex-move-children-to-new-school-over-security-concerns-13585871|harry and meghan move children to new school over security concerns|aad38d1edb69fe72bbb9d59448c3941f

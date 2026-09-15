@@ -28153,5 +28153,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789420717.745928
+  },
+  "df79de164cd097ef42452e5a46a17458": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK domestic football match, which falls under sports news relevant to the UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789430963.078024
+  },
+  "ce8853b86320d182bb4a6d11a405d26b": {
+    "is_relevant": true,
+    "reasoning": "The article concerns domestic energy policy, tax regulations, and long-term national infrastructure strategy, which are core UK economic and political issues.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789430971.663984
+  },
+  "aad38d1edb69fe72bbb9d59448c3941f": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the security and personal affairs of the British Royal Family, which is a subject of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789430981.172774
   }
 }
