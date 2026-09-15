@@ -1,10 +1,3 @@
-2026-09-08T19:48:11.514434+00:00|https://www.bbc.co.uk/news/articles/c4g7zen0vveo|uk announces sanctions on west bank settlements prompting furious israeli response|85215435bc19a6dd74e9f8de1059a76c
-2026-09-08T19:48:13.965573+00:00|https://www.bbc.co.uk/news/articles/cyvzn7zzyn9o|three arrested after woman dies in multivehicle crash on a8|f26b14558e509eeb80da3915c26af148
-2026-09-08T22:17:49.460178+00:00|https://www.bbc.co.uk/news/articles/c5ydlex9yn3o|paul adams britishisraeli relations at lowest ebb in decades|a270b365107e99d2a624f5e7321fcb4c
-2026-09-08T22:17:51.960554+00:00|https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo|more flight delays expected after hundreds cancelled by air traffic control glitch|602ec4410e4c7ccd2f64eba5302b519e
-2026-09-08T22:17:54.671557+00:00|https://www.telegraph.co.uk/football/2026/09/08/porto-vs-man-city-live-score-champions-league-updates|haaland double sees off porto as man city win feisty champions league clash|5b15bd6f9880903e63fee0d4026c090b
-2026-09-08T22:17:57.070000+00:00|https://www.telegraph.co.uk/football/2026/09/08/millwall-vs-newcastle-united-live-score-league-cup-updates|newcastle find a way past millwall thanks to willocks cute finish|703c1f274d0f036c0ba1c4bf03b9b17d
-2026-09-08T22:17:59.579881+00:00|https://news.sky.com/story/uk-teenagers-ahead-in-science-maths-and-reading-13583263|uk teenagers ahead in science maths and reading|f35be3ac752f823d60f81a36bb9ad0ab
 2026-09-09T00:58:26.312072+00:00|https://www.bbc.co.uk/news/articles/c1mv50enz09o|valve failure on calmac ferry saw uncontrolled escape of flammable gas|c51f275c89b875735db93de9a204d7a7
 2026-09-09T00:58:28.685417+00:00|https://www.bbc.co.uk/news/articles/cge4rjd2vx0o|police investigation of creswell indecent exposure allegation failed victim|d0df6c567c36f9d523b18ed7f7a5810b
 2026-09-09T00:58:31.234213+00:00|https://www.telegraph.co.uk/football/2026/09/08/brugge-vs-aston-villa-live-score-champions-league-updates|villa end goal drought to finally give emerys new era liftoff|ad83c0d9f8200f3dde059bd4ee7a2bcb
@@ -124,3 +117,8 @@
 2026-09-15T19:28:57.633855+00:00|https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo|my son was failed noah donohoe inquest finds tunnel errors possibly contributed to death|480cf41ec6385529f8a95878b295410f
 2026-09-15T19:29:00.008037+00:00|https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo|baby cot cams plan after inquiry finds lucy letby crimes could have been prevented|a4929b99955c05fd09ef3fc9e92bc82d
 2026-09-15T19:29:02.520738+00:00|https://news.sky.com/story/var-audio-reveals-officials-tunnel-vision-review-of-erling-haaland-goal-for-man-city-vs-man-utd-13586261|audio reveals var officials tunnel vision during man city goal review|18cb817d70399a46a953d1473ab71fa7
+2026-09-15T22:39:28.808710+00:00|https://www.telegraph.co.uk/football/2026/09/15/ipswich-town-vs-arsenal-live-score-latest-carabao-cup|max dowmanmania could make carabao cup hottest ticket in town|7fba99b1c08e0554b8a646b1ea0df85a
+2026-09-15T22:39:31.223703+00:00|https://www.telegraph.co.uk/cricket/2026/09/15/england-vs-sri-lanka-live-score-latest-1st-t20|england cruise to victory led by absolute freak brook|fe2a414102d78e789cd04e8cdfacb5e0
+2026-09-15T22:39:33.805909+00:00|https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o|msps asked to pause scotlands ai data centre boom|3a32d4753d8d49acf2b4f8bf6bbaef02
+2026-09-15T22:39:36.361113+00:00|https://www.bbc.co.uk/news/articles/c8zxz31105l4o|one in one out scheme costs £56000 per person returned to france home secretary says|42cee019de09d21e4053a38663ccfa8d
+2026-09-15T22:39:39.078320+00:00|https://news.sky.com/story/investigation-launched-by-italian-police-after-british-man-dies-in-sicily-13586283|investigation launched by police after british man dies in sicily|dffa6548acb8c372cf34a7297d3b56d9

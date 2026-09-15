@@ -28265,5 +28265,54 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789500534.622143
+  },
+  "72a72c28b498d9a882fe89b8230d6f03": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment/lifestyle news piece about an individual actor's professional achievement and does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789511902.642798
+  },
+  "fe2a414102d78e789cd04e8cdfacb5e0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major international victory for the England cricket team, which falls under the category of significant UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789511915.9259
+  },
+  "7e44a4232ee6c6d3701b9dc2b6e264b1": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a football match, which falls under sports journalism/match reporting, not hard news as defined by the subreddit criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789511926.898559
+  },
+  "42cee019de09d21e4053a38663ccfa8d": {
+    "is_relevant": true,
+    "reasoning": "The article discusses UK government immigration policy, the operational costs of migrant returns, and Home Office strategy, which are central topics for UK news.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1789511938.819898
+  },
+  "457303594e08d0744b8d6d2ea132b3e3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and administrative failure involving a high-profile UK crime case and the Ministry of Justice, warranting public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789511947.769415
+  },
+  "dffa6548acb8c372cf34a7297d3b56d9": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national abroad is a matter of significant consular and public interest, requiring investigation by authorities.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789511957.441746
+  },
+  "b346aa6ce4fc2afe403b138e73c6b069": {
+    "is_relevant": true,
+    "reasoning": "The abduction of a British national overseas is a matter of significant consular and public interest to a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1789511968.194127
   }
 }
