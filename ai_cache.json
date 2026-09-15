@@ -28195,5 +28195,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789450870.229645
+  },
+  "3856018af122010d5a4686c75a406fcb": {
+    "is_relevant": true,
+    "reasoning": "The article concerns significant government policy changes regarding immigration rules and the residency status of foreign workers in the UK, which is a matter of clear public interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1789469463.335402
+  },
+  "4b520af2727f16e314f9c56b65063f24": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive criminal incident involving multiple fatalities and serious injuries in the UK that requires police investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789469474.921304
+  },
+  "ee741eeefbb1f2d8ee86164cbf8419cc": {
+    "is_relevant": true,
+    "reasoning": "This article discusses official government data and National Crime Agency findings regarding small boat crossings, a matter of significant domestic political and policy interest in the UK.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1789469482.626593
+  },
+  "bebea28bd6d6dd75e170581bc25b4331": {
+    "is_relevant": true,
+    "reasoning": "The article details a senior UK government minister's official stance on national security, public safety, and AI regulation, which is a significant matter of UK policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789469494.125054
+  },
+  "374da7ea5ae2fa097250e5ed73d0e58d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local governance and public safety development in a major UK city involving new legal powers to tackle crime and intimidation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789469503.647207
+  },
+  "c8f41db592ce2491455ff728e2bc1c7c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update on the UK cost of living crisis, which directly impacts the national economy and consumer spending power.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789469513.89994
   }
 }
