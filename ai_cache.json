@@ -28363,5 +28363,75 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1789537288.884248
+  },
+  "37f412010d26a047a696aa9526c8f105": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the judicial system and a major security concern involving an escaped convicted murderer in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789555199.884574
+  },
+  "319058f168b17c49eaea6dcbcfb8ba28": {
+    "is_relevant": false,
+    "reasoning": "This is a personal human-interest story regarding the bereavement of a public figure rather than substantive news concerning politics, policy, or the functioning of the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789555249.467926
+  },
+  "db7c1283ef84dc6d74087c20241c4b76": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK policy announcement by a Cabinet minister regarding a change to criminal law and public safety concerns involving UK public services.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789555258.256093
+  },
+  "f47335065150609b0d21dac78e031813": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story and lifestyle piece that does not constitute hard news or have a material impact on UK public life or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789555266.920758
+  },
+  "d64e0c64f95c5fdc9bd3e25cbfb206d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local government funding and taxation issue that directly impacts UK residents' cost of living and involves central government policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789555277.085699
+  },
+  "4d352d949c89224e66ce550aa472141d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and careers advice article, which is considered fluff and falls outside the scope of hard news for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789555287.836829
+  },
+  "74031448fc1f4b4d3910f4884433a1f9": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest sports feature rather than hard news; it does not meet the criteria for political, economic, or major national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789555298.842689
+  },
+  "ff639ca71f35f6661c20530d4a198b13": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report concerning a domestic football cup result, which is excluded from the subreddit's remit of hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789555309.430188
+  },
+  "772c17b2ec533b149df8cb3a2537db94": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the UK utility sector regarding cost-of-living issues and regulatory oversight of essential infrastructure.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789555318.660411
+  },
+  "6308ad9c119f6c31bda1cc607dc99fba": {
+    "is_relevant": true,
+    "reasoning": "The kidnapping of a British national abroad is a matter of significant concern for the UK Foreign Office and is considered notable international news involving a UK citizen.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1789555326.794169
   }
 }
