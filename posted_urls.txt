@@ -1,7 +1,3 @@
-2026-09-09T18:23:42.718922+00:00|https://www.bbc.co.uk/news/articles/c4gvl9z4wy2o|nhs boss tells eljamel inquiry i wont resign over destroyed logbooks|c7edb98b6096427e30c6f3f6bd6d4b3e
-2026-09-09T18:23:45.138094+00:00|https://news.sky.com/story/tate-brothers-to-stay-in-us-jail-court-rules-as-they-fight-extradition-to-britain-13582929|tate brothers to stay in us jail as they fight extradition to britain|7bce30aa9d1f18f655c9012b7e5fb2b2
-2026-09-09T18:23:47.841406+00:00|https://www.bbc.co.uk/news/articles/c3d7pzyjzllo|uganda pulling out of prince harrys invictus games says military chief|0f145626ea81082143de6f167939ea5a
-2026-09-09T18:23:50.299973+00:00|https://news.sky.com/story/trio-charged-as-family-pay-tribute-to-woman-killed-in-multi-vehicle-crash-near-edinburgh-airport-13583604|man in court as family pay tribute to woman killed in multivehicle crash|442da109fc20485d7f8acb7e9c6fc35d
 2026-09-09T21:28:21.012762+00:00|https://www.bbc.co.uk/news/articles/ce9e3djdz94o|miliband rejects chief rabbis claim british jews in greater danger after sanctions move|45ebc49750620eac11bef10ee3c11ef4
 2026-09-09T21:28:23.335973+00:00|https://www.bbc.co.uk/news/articles/c9dw048lp9zo|an injustice or righting a wrong british jews debate sanctions move|31bcf7721228a50d2572e9004e4dc050
 2026-09-09T21:28:25.775309+00:00|https://www.telegraph.co.uk/cricket/2026/09/09/england-vs-pakistan-day-one-third-test-latest-updates|gay does enough to earn another chance as england dominate again|ab6f0ad416f1d307f73b175c05dc7f05
@@ -122,3 +118,6 @@
 2026-09-16T15:18:38.378921+00:00|https://www.bbc.co.uk/news/articles/cm3wjz3qyezzo|reform defector reveals she voted remain in brexit vote and wants welsh independence|c083bd637f244ab76731b1eac12ba32a
 2026-09-16T15:18:40.742037+00:00|https://www.bbc.co.uk/news/articles/c6783ekp0yn8o|putney pusher suspect found dead at home|ab686bb2d2398f0ea1aca93c71aa6985
 2026-09-16T15:18:43.029670+00:00|https://news.sky.com/story/burnham-to-delay-flagship-investment-summit-until-next-year-13588543|burnham to delay flagship investment summit until next year|c71627aaf4498d9b95ecc1c60241c959
+2026-09-16T19:18:47.350224+00:00|https://www.bbc.co.uk/news/articles/cm93v1573vqro|body found in search for missing noah woods 3|393f74824b2a515645d1ebaa0cdbde88
+2026-09-16T19:18:49.769459+00:00|https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o|schools in england get extra £500m in bid to avoid teachers pay strike|4bfeb487f012cdb52a10a400e3275b9a
+2026-09-16T19:18:52.414914+00:00|https://news.sky.com/story/four-men-jailed-after-tea-gas-sprayed-into-an-airport-lift-causing-some-to-vomit-blood-13588624|four jailed after tear gas sprayed into an airport lift causing some to vomit blood|45e837221d8f1036d45a7d7ce63c540d

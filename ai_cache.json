@@ -28503,5 +28503,47 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789571917.858784
+  },
+  "393f74824b2a515645d1ebaa0cdbde88": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive news story involving a major police search operation and public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789586276.955407
+  },
+  "6af2b0f3a70fa13f77404bb92bedc31b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the conviction of a serving UK police officer for serious criminal offences, which is a matter of clear public interest and legal importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789586287.342038
+  },
+  "26821ac1e19fc773c3716e1971bd1101": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a public debate regarding the constitutional role of the Royal Family and the potential for a change in head of state, which is a matter of national significance.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789586298.198092
+  },
+  "417aa6c1aa47b7c56ad39cf842a1820c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the British Royal Family and their internal history, which is a core subject for UK news relevance.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789586307.75213
+  },
+  "64addde47588eac4ac5a09275810a29b": {
+    "is_relevant": true,
+    "reasoning": "The death of a British service member in an official capacity, confirmed by the MoD and involving a statement from the Defence Secretary, is a significant UK news event.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789586315.769898
+  },
+  "45e837221d8f1036d45a7d7ce63c540d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving public safety at a major UK national infrastructure hub, resulting in custodial sentences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789586326.7982
   }
 }
