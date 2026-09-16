@@ -28433,5 +28433,75 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1789555326.794169
+  },
+  "ab686bb2d2398f0ea1aca93c71aa6985": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime-related story involving a police investigation into a high-profile violent incident in London, making it highly relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789571797.737907
+  },
+  "7e4add13d6e65b67f22ff082babc52b3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and disciplinary matter involving the British Army and the outcome of a military court trial in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789571807.629384
+  },
+  "4bfeb487f012cdb52a10a400e3275b9a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development concerning government funding for public sector pay and industrial relations in the education sector.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789571816.634451
+  },
+  "e485b08438e18638cecef98713de51f1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the sentencing of a police officer for misconduct, involving systemic issues within a UK police force and judicial outcomes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789571831.131099
+  },
+  "1425df74de4b69c47f65900c2b4d1554": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a fatality and ongoing major police investigation in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789571839.058383
+  },
+  "3eddd92aa7e2373ec6b32ec2b233bc88": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local government finance issue concerning potential massive tax hikes for UK residents, directly involving national government funding policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789571859.73016
+  },
+  "ff2e2d28c2f2ac5b8133514d31261550": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the findings of a major public inquiry into failures within the NHS, which is a matter of significant public interest and policy relevance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789571868.870105
+  },
+  "29fdd9d3fdf894544bf1a8bf7f193905": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case being heard at a UK Crown Court involving serious offenses and ongoing legal proceedings, which is highly relevant to public interest in the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789571894.971033
+  },
+  "1f6c15b3bfc0bab14d2c82107ec33a6a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning a security failure at the Ministry of Justice regarding victims of a major UK crime, falling under matters of national public interest and institutional accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789571902.412158
+  },
+  "c71627aaf4498d9b95ecc1c60241c959": {
+    "is_relevant": true,
+    "reasoning": "The article covers UK regional policy, economic investment strategy, and interactions between the Prime Minister and regional leadership, which is highly relevant to UK politics and the economy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789571917.858784
   }
 }
