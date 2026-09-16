@@ -28545,5 +28545,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789586326.7982
+  },
+  "e4bbb1651ab346a4e4bfc7b005e89e03": {
+    "is_relevant": true,
+    "reasoning": "The death of British nationals in a major international incident involving the Foreign, Commonwealth and Development Office is of significant UK public interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1789598046.415779
+  },
+  "4f6d6497fb6554e9a24a390dbf9536a1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on devolved Welsh government budget negotiations and policy priorities, which constitutes core UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789598055.348807
+  },
+  "fe4f4484bae8fa1d74ac207a0887aa58": {
+    "is_relevant": true,
+    "reasoning": "This concerns a direct statement from Buckingham Palace regarding the King, involving the historical legacy of the Royal Family and public interest in the monarchy.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789598063.982743
   }
 }

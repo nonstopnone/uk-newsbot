@@ -1,6 +1,3 @@
-2026-09-09T21:28:21.012762+00:00|https://www.bbc.co.uk/news/articles/ce9e3djdz94o|miliband rejects chief rabbis claim british jews in greater danger after sanctions move|45ebc49750620eac11bef10ee3c11ef4
-2026-09-09T21:28:23.335973+00:00|https://www.bbc.co.uk/news/articles/c9dw048lp9zo|an injustice or righting a wrong british jews debate sanctions move|31bcf7721228a50d2572e9004e4dc050
-2026-09-09T21:28:25.775309+00:00|https://www.telegraph.co.uk/cricket/2026/09/09/england-vs-pakistan-day-one-third-test-latest-updates|gay does enough to earn another chance as england dominate again|ab6f0ad416f1d307f73b175c05dc7f05
 2026-09-09T23:46:29.770196+00:00|https://www.telegraph.co.uk/football/2026/09/09/napoli-vs-arsenal-live-score-latest-update-champions-league|martin odegaard bails out comically wasteful arsenal|80c22f5cf56c9fc3f2653406eccfca69
 2026-09-09T23:46:32.364178+00:00|https://www.bbc.co.uk/news/articles/c4gk1gwv0qno|are wealthy buyers stoking st andrews housing crisis|30c72098c694077dbe347231f9b2e980
 2026-09-09T23:46:34.776609+00:00|https://www.bbc.co.uk/news/articles/c4gvl8w2225o|wales risks raising one of the unhealthiest generations in decades doctors warn|78dccd752543cc8fb5c78551d2340023
@@ -121,3 +118,6 @@
 2026-09-16T19:18:47.350224+00:00|https://www.bbc.co.uk/news/articles/cm93v1573vqro|body found in search for missing noah woods 3|393f74824b2a515645d1ebaa0cdbde88
 2026-09-16T19:18:49.769459+00:00|https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o|schools in england get extra £500m in bid to avoid teachers pay strike|4bfeb487f012cdb52a10a400e3275b9a
 2026-09-16T19:18:52.414914+00:00|https://news.sky.com/story/four-men-jailed-after-tea-gas-sprayed-into-an-airport-lift-causing-some-to-vomit-blood-13588624|four jailed after tear gas sprayed into an airport lift causing some to vomit blood|45e837221d8f1036d45a7d7ce63c540d
+2026-09-16T22:34:25.560085+00:00|https://www.bbc.co.uk/news/articles/cw62jvpele45o|two britons among three killed in swiss alps light aircraft crash|e4bbb1651ab346a4e4bfc7b005e89e03
+2026-09-16T22:34:28.063462+00:00|https://www.bbc.co.uk/news/articles/cx5yl20qvyn2o|plaid warned not to cut help for poorer children if it wants labour to back budget|4f6d6497fb6554e9a24a390dbf9536a1
+2026-09-16T22:34:30.869006+00:00|https://www.telegraph.co.uk/football/2026/09/16/manchester-united-vs-brighton-live-score-latest-carabao-cup|manchester united booed after being dumped out of league cup by brighton|bda7737fbb97868f7d45aa95f8b5bd8c
