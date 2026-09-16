@@ -28314,5 +28314,47 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1789511968.194127
+  },
+  "4516cea9397a04d19b55994a8a57bccf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the findings of a major public inquiry into the Lucy Letby case, which concerns serious failings in the NHS and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789520290.483655
+  },
+  "ab1078894451bd4fc207bed02e01f84d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and workplace advice feature rather than hard news; it does not constitute significant UK policy, security, or current affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789520298.71048
+  },
+  "06142989a2fa20ca0d76fa108d57b7eb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory action taken by a UK statutory body (the ASA) concerning the protection of the public and the regulation of digital safety, which falls under UK law and social policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789520307.888268
+  },
+  "ad34e9ab768a78bbd19c383da13cf70a": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and careers advice article and does not constitute hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789520317.076436
+  },
+  "99a701d7c220d658f4dc74e4997cd7e9": {
+    "is_relevant": true,
+    "reasoning": "This is significant economic news concerning the cost of living and the regulation of vital UK infrastructure, which directly impacts a large portion of the UK population.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789520330.741814
+  },
+  "9332d968c9ceee00ceeb6967a160bc01": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on family law and child protection policy in Northern Ireland, involving calls for legislative reform regarding parental responsibility for sex offenders.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789520340.069683
   }
 }
