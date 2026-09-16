@@ -28356,5 +28356,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789520340.069683
+  },
+  "061a63d2faf033d0a324e9cf16cf4609": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant socio-economic trend directly impacting the UK workforce and welfare system, which is relevant to domestic policy and the economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789537288.884248
   }
 }

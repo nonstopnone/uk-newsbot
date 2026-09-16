@@ -1,6 +1,3 @@
-2026-09-09T00:58:26.312072+00:00|https://www.bbc.co.uk/news/articles/c1mv50enz09o|valve failure on calmac ferry saw uncontrolled escape of flammable gas|c51f275c89b875735db93de9a204d7a7
-2026-09-09T00:58:28.685417+00:00|https://www.bbc.co.uk/news/articles/cge4rjd2vx0o|police investigation of creswell indecent exposure allegation failed victim|d0df6c567c36f9d523b18ed7f7a5810b
-2026-09-09T00:58:31.234213+00:00|https://www.telegraph.co.uk/football/2026/09/08/brugge-vs-aston-villa-live-score-champions-league-updates|villa end goal drought to finally give emerys new era liftoff|ad83c0d9f8200f3dde059bd4ee7a2bcb
 2026-09-09T05:46:52.864000+00:00|https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo|funeral for officer killed in a66 crash to take place|7418db5895304e73041598fd2b3d7ab2
 2026-09-09T05:46:55.194964+00:00|https://www.bbc.co.uk/news/articles/clykjmjm6m0o|cowboy builder tore my home apart and disappeared off the face of the earth with £14k|15cb16c74fd982bbf78ccc33be5aa7c3
 2026-09-09T10:36:36.401851+00:00|https://www.bbc.co.uk/news/articles/cx2z421xe0zo|learner drivers still waiting 20 weeks to book tests|476207b9eb06e8066f2e4d96dbe9a938
@@ -124,3 +121,5 @@
 2026-09-15T22:39:39.078320+00:00|https://news.sky.com/story/investigation-launched-by-italian-police-after-british-man-dies-in-sicily-13586283|investigation launched by police after british man dies in sicily|dffa6548acb8c372cf34a7297d3b56d9
 2026-09-16T00:59:02.028914+00:00|https://www.bbc.co.uk/news/articles/cm3eqdv90977o|letby doctor says inquiry grim reading and he wishes we had been brave enough to follow suspicions|4516cea9397a04d19b55994a8a57bccf
 2026-09-16T00:59:04.512711+00:00|https://www.bbc.co.uk/news/articles/cvg7231pev5o|prolific shoplifters behind more than 28000 offences bbc finds|0bac67c30249c6103e43f404bbdc3e71
+2026-09-16T05:41:29.552976+00:00|https://news.sky.com/story/hundreds-of-britons-quitting-jobs-every-day-to-look-after-loved-ones-13588433|hundreds of britons quitting jobs every day to look after loved ones|061a63d2faf033d0a324e9cf16cf4609
+2026-09-16T05:41:32.178579+00:00|https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo|mayors could be given powers to oversee water companies|dad31d1414d17dd896c4cc31e7c481aa
