@@ -28573,5 +28573,75 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1789606889.842261
+  },
+  "cdc0ae34e060f6855d8e2f81665481d6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and policy development involving the devolved government in Northern Ireland and potential changes to the judicial framework following a high-profile case.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789628487.543097
+  },
+  "df2fa1e76ab4e13b1b2a773b44a492b0": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest, lifestyle-oriented property story that does not constitute hard news or meet the criteria for significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789628494.62398
+  },
+  "138d2304815aa254cb0d3e532fba04dd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding historical medical abuse within the NHS and a current political call for a government apology and legislative action.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789628505.489269
+  },
+  "feea2891450d43c174c14c15b5252aeb": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest update on a historical personal story rather than breaking news, significant policy change, or a matter of current public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789628524.107573
+  },
+  "644d8ba8d46418237f8e6f24ae9b7529": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure development involving the devolved Welsh government and national energy policy, which is of direct public interest to the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789628532.932057
+  },
+  "da113b64bca36ae2c38e8ff882d4d0ba": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story rather than hard news regarding UK politics, policy, crime, or the national economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789628542.299093
+  },
+  "4bdcfd2fbe29c0102cfc1a56f3292a4f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government policy and police efforts to combat organized retail crime, which is a major issue affecting the UK economy and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789628550.804448
+  },
+  "1153c2da585276a7508030d1e2612aaa": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused human interest story regarding personal philanthropy and touring logistics; it does not constitute hard UK news or satisfy the threshold for significant international impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789628572.215852
+  },
+  "47a9876ae862cd821333e5f015e846e7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy development concerning the NHS, which is a core topic for the UK audience.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789628588.328179
+  },
+  "798d6c154e0c8c38d6f1d39afca96932": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant legal development involving UK prosecutors and serious criminal charges against British citizens, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789628596.772994
   }
 }
