@@ -28566,5 +28566,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1789598063.982743
+  },
+  "f61deb9224385a14f36f3572ea46ae4a": {
+    "is_relevant": true,
+    "reasoning": "The article concerns official statements from Buckingham Palace regarding the King and late Princess Diana, which is of direct relevance to the Royal Family and high-profile domestic news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789606889.842261
   }
 }
