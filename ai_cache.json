@@ -28643,5 +28643,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789628596.772994
+  },
+  "92aa7f87a8a076934515312515b3e794": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, tragic domestic news event involving a major search and recovery operation, which is of clear public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789649813.784075
+  },
+  "c90b3d15add758d7e708e2d64b8b1247": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing legal and investigative story involving the Metropolitan Police and a high-profile public incident in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789649821.788754
+  },
+  "4608d0b7c3aae5e017684ff23ca36070": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations dispute involving a major UK employer and a large workforce, impacting labor policy and the broader UK banking sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789649832.292101
+  },
+  "492726b173e6b9c103419171e818c5d5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development regarding a high-profile case involving a former major political party leader in Northern Ireland, falling directly under Crime & Legal matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789649844.053244
+  },
+  "f276303ca1bd3aa88244295b7e55bd8a": {
+    "is_relevant": true,
+    "reasoning": "The article discusses Bank of England interest rate policy, which directly affects the UK economy and mortgage holders.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789649853.318124
+  },
+  "53a7ada927101a67493b3e798c276ea1": {
+    "is_relevant": true,
+    "reasoning": "Joe Salisbury is a prominent British athlete and his retirement from professional tennis is a significant development in UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789649870.354086
+  },
+  "7458790c3e4852e433682b7584a1887e": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused entertainment story concerning a US tour, US stadium owners, and US-based musical artists; it lacks a material impact on UK public life or governance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789649880.199637
+  },
+  "494c77000fe473765de9feb5f2b5704c": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story about a hobbyist metal detecting discovery rather than significant hard news affecting the UK public, politics, or economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789649891.740799
+  },
+  "eeb1f848442a99e1a488eb0301c0107e": {
+    "is_relevant": false,
+    "reasoning": "This is a scientific research story regarding snakebite treatments in India with no material impact on the UK or its domestic policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789649899.587279
   }
 }
