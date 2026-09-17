@@ -1,6 +1,3 @@
-2026-09-10T19:27:00.123350+00:00|https://www.bbc.co.uk/news/articles/cwyzd6g93zpo|health minister apologises to patients over neurology failings|7fd58cd33b7ed4aa0583caebc6697e7b
-2026-09-10T19:27:02.695871+00:00|https://www.bbc.co.uk/news/articles/c158k4p22xwo|bayeux tapestry unveiled to uk public for first time at british museum|71b1ba4f641b1e996b5ea83d4f823d0e
-2026-09-10T19:27:05.285097+00:00|https://news.sky.com/story/helicopter-laser-attacks-could-result-in-catastrophic-accident-pilots-warn-13584057|emergency helicopters suffer 35 laser attacks in six months|4be72a4f3fc1eb199bb3cd974eaaa75a
 2026-09-10T22:11:48.199762+00:00|https://www.bbc.co.uk/news/articles/crk3j0eyl2po|i was weeks from marrying a violent serial rapist my loved ones saved my life|c5b97af6d135cae37abe4b252a8968ef
 2026-09-10T22:11:50.712414+00:00|https://www.telegraph.co.uk/football/2026/09/10/man-utd-vs-sabah-champions-league-live-score-latest|rampant manchester united win first champions league game for 1003 days|997e7846b35a3e34e0167e2e487918d6
 2026-09-10T22:11:53.272108+00:00|https://www.bbc.co.uk/news/articles/cd94y7d7qyzo|alstom to build new batteryelectric train fleet|30a99fe79d0c93fbf204e6c4bc997868
@@ -118,3 +115,6 @@
 2026-09-17T17:30:10.670500+00:00|https://www.bbc.co.uk/news/articles/cqgk52xjd08ko|helen jenner likely to take over as reform wales leader sources tell bbc|9543ddf8f5c1f985ef5ce36b073d53fe
 2026-09-17T17:30:13.277114+00:00|https://www.telegraph.co.uk/business/2026/09/17/uk-interest-rates-bank-of-england-pound-ftse-100-markets|interest rate increase likely warns bank of england|2545a35e1974c09c99fb57937e440a42
 2026-09-17T17:30:15.860352+00:00|https://news.sky.com/story/fa-chair-calls-for-release-of-files-on-gianni-infantinos-controversial-world-cup-sell-off-plan-13588998|fa demands release of files on world cup selloff plan and balogun red card row|b7250a7b227f7818d5e9cc51843ca772
+2026-09-17T20:52:13.867821+00:00|https://www.telegraph.co.uk/cricket/2026/09/17/england-vs-sri-lanka-second-t20i-live-score-latest-updates|banton shows his worth as england cruise to t20 series victory against sri lanka|ab1ddfc37c75117eac014c827f126148
+2026-09-17T20:52:16.430481+00:00|https://www.bbc.co.uk/news/videos/cmed7zvnq8pdo|royal row intensifies after fresh claims in dianas brother book|373ec94d67b1a32d193f5fd40b9b9b3d
+2026-09-17T20:52:18.887103+00:00|https://www.bbc.co.uk/news/articles/c50m3glzppgpo|andy burnham urged to set dementia waitingtime target|e0e33c27c4a82c68a2b9ae65e7f401ba

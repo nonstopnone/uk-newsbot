@@ -28776,5 +28776,61 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1789666207.394635
+  },
+  "7be2cc61650217f3d9a6448eb35fbd35": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about a youth academy football match, which falls under sports lifestyle/reporting rather than hard news or significant UK interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789678264.605679
+  },
+  "373ec94d67b1a32d193f5fd40b9b9b3d": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal Family and involves a public dispute between Earl Spencer and Buckingham Palace, which is a matter of significant national interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789678275.486267
+  },
+  "e0e33c27c4a82c68a2b9ae65e7f401ba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy development concerning dementia care targets in England, involving calls for government action and responses from a government minister.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789678285.176027
+  },
+  "108d3d048a548c99b104e7d27d0d0987": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the British Monarch and the Royal Family, which is a core topic for UK news and the public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789678295.411544
+  },
+  "4e9c1ac58e6177810a8f3fcdf877880e": {
+    "is_relevant": false,
+    "reasoning": "This is a local heritage and arts interest story regarding the repositioning of a statue; it does not constitute hard news or a significant event of national importance for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789678304.253414
+  },
+  "98673bb2583fb049ea2896c2f2a6a2cb": {
+    "is_relevant": true,
+    "reasoning": "This article concerns national security policy and government fiscal commitments regarding defence spending, which is a major area of UK political and economic interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789678311.518705
+  },
+  "64e310cd8181c87653c6ec45bd9e8af6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction and sentencing within the UK justice system, which is directly relevant to crime and legal discourse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789678321.589634
+  },
+  "caf1b632bcaae6a69ac88fa307f4f133": {
+    "is_relevant": true,
+    "reasoning": "The article details a legal case involving proceedings at a Scottish court and the enforcement of a UK High Court judgment against a high-profile entity operating in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789678333.109887
   }
 }
