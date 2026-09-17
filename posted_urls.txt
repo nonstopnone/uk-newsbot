@@ -1,7 +1,3 @@
-2026-09-10T16:52:24.612960+00:00|https://www.bbc.co.uk/news/articles/c39mrjvpx4yo|four hurt and seven arrested in bromley stabbing|daa3c754583b15d8740edd0a30ee1c4b
-2026-09-10T16:52:26.997915+00:00|https://www.bbc.co.uk/news/articles/ceq871j5l1ro|teacher sexually abused pupils at multiple schools|8f4029f8236669e6a867058266be172a
-2026-09-10T16:52:29.382813+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/west-nile-virus-hits-europe-as-temperatures-climb|west nile virus hits europe as temperatures climb|cc09a62d3f62d89430657fdbca3e0eae
-2026-09-10T16:52:31.815343+00:00|https://news.sky.com/story/conservative-couple-admit-cheating-at-gambling-over-election-betting-charges-13583961|conservative couple admit cheating at gambling over election betting|5b9898e451fd531d2659361561d3e0d9
 2026-09-10T19:27:00.123350+00:00|https://www.bbc.co.uk/news/articles/cwyzd6g93zpo|health minister apologises to patients over neurology failings|7fd58cd33b7ed4aa0583caebc6697e7b
 2026-09-10T19:27:02.695871+00:00|https://www.bbc.co.uk/news/articles/c158k4p22xwo|bayeux tapestry unveiled to uk public for first time at british museum|71b1ba4f641b1e996b5ea83d4f823d0e
 2026-09-10T19:27:05.285097+00:00|https://news.sky.com/story/helicopter-laser-attacks-could-result-in-catastrophic-accident-pilots-warn-13584057|emergency helicopters suffer 35 laser attacks in six months|4be72a4f3fc1eb199bb3cd974eaaa75a
@@ -118,3 +114,7 @@
 2026-09-17T07:03:21.944784+00:00|https://news.sky.com/story/life-extending-drug-for-breast-cancer-patients-now-on-nhs-in-england-13588795|lifeextending drug for breast cancer patients now on nhs|47a9876ae862cd821333e5f015e846e7
 2026-09-17T12:58:20.202328+00:00|https://www.bbc.co.uk/news/articles/cmkg71ygwny7o|fathers tribute to sweetest little boy noah|92aa7f87a8a076934515312515b3e794
 2026-09-17T12:58:22.561630+00:00|https://www.bbc.co.uk/news/articles/ckg59nq6y990o|family says dead man was not putney pusher|c90b3d15add758d7e708e2d64b8b1247
+2026-09-17T17:30:08.115503+00:00|https://www.bbc.co.uk/news/articles/c8dx5gldrk0ko|ukrainian guilty of vandalism at mosques linked to russian network behind starmer arson attack|b56a3d77622434d403dabbb38e0734fe
+2026-09-17T17:30:10.670500+00:00|https://www.bbc.co.uk/news/articles/cqgk52xjd08ko|helen jenner likely to take over as reform wales leader sources tell bbc|9543ddf8f5c1f985ef5ce36b073d53fe
+2026-09-17T17:30:13.277114+00:00|https://www.telegraph.co.uk/business/2026/09/17/uk-interest-rates-bank-of-england-pound-ftse-100-markets|interest rate increase likely warns bank of england|2545a35e1974c09c99fb57937e440a42
+2026-09-17T17:30:15.860352+00:00|https://news.sky.com/story/fa-chair-calls-for-release-of-files-on-gianni-infantinos-controversial-world-cup-sell-off-plan-13588998|fa demands release of files on world cup selloff plan and balogun red card row|b7250a7b227f7818d5e9cc51843ca772

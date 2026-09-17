@@ -28706,5 +28706,75 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789649899.587279
+  },
+  "7a2aa3b0f512848f38f7920ddb475729": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial in a Scottish High Court regarding a murder case, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789666073.052032
+  },
+  "bb8128d06aeb3d28c89d208d9c8024ce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant historical crime inquest involving a discovery of human remains and a coroner's finding of homicide, which falls under UK legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789666089.911751
+  },
+  "9cc626d82c38d7c872fc8e9924de1cde": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation involving a long-term missing person case and a recent arrest, which falls under major UK crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789666102.368571
+  },
+  "3e29ea07290e3b206248b73b61bf6f99": {
+    "is_relevant": true,
+    "reasoning": "This report covers a serious criminal conviction and sentencing in a UK court, which falls directly under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789666112.747999
+  },
+  "d8dc7648b425982d119bc35150f66fb0": {
+    "is_relevant": true,
+    "reasoning": "The article details a significant intervention by the Head of State regarding a major public policy issue (AI regulation) involving a UK government minister, which is of material importance to the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789666128.273852
+  },
+  "3abe362856626840f9ea3a7567cece46": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure project involving the national strategic road network, which directly impacts UK transport and public infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789666140.03205
+  },
+  "6752a8838424ceb24e3138045127c1b6": {
+    "is_relevant": true,
+    "reasoning": "This concerns a major UK-based employer and a significant industrial relations dispute involving a major trade union and 36,000 workers, impacting the UK economy and labor market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789666149.936448
+  },
+  "43822aa259eac2cbb421c3eb1f7c51ef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation involving a serious assault of a child in a UK public space, falling under domestic legal and police proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789666188.001234
+  },
+  "9063effdaa4f2b999eec8f42f38dda03": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the death of a prominent Welsh businessman in a fatal international aviation accident involving multiple British citizens, which is of significant public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789666198.810357
+  },
+  "b7250a7b227f7818d5e9cc51843ca772": {
+    "is_relevant": true,
+    "reasoning": "This concerns the Football Association, a major UK sporting governing body, and its diplomatic involvement in significant FIFA governance issues.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789666207.394635
   }
 }
