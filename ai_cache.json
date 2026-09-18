@@ -29084,5 +29084,47 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1789750553.894443
+  },
+  "d6abb3e3ad7505afb2d36208f39a83f3": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing at a UK crown court involving a fatal road traffic collision, which falls under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789759363.204356
+  },
+  "c93544c7e9a653dbbd0040ee66ee62cf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a Metropolitan Police officer and a fatality, which falls directly under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789759375.141792
+  },
+  "8f163b583f26b44c7eaced6f8bced006": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal story involving the harassment of a high-profile journalist and a ruling by a UK court, falling under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789759383.73675
+  },
+  "11bdb23256ca614aa8de265372db46d6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal investigation, court proceedings, and a murder charge within the UK, meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789759398.157165
+  },
+  "7950805b728a332e425120057253a67a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a major fraud conviction, an international arrest by the National Crime Agency, and ongoing extradition proceedings to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789759405.790685
+  },
+  "98b3631846bd510054e7dbb895ba6bdb": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a national sporting team's participation in a major international competition, which fits the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789759421.588408
   }
 }
