@@ -28832,5 +28832,82 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789678333.109887
+  },
+  "04f490881a0405e397f0018e1b9f25e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report concerning the actions of the Metropolitan Police and the impact of a high-profile criminal investigation on a UK citizen.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789717929.435962
+  },
+  "2f0f138310ffba493de323952e169e70": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, long-running case involving the detention of a British national and UK constituent, which has been a matter of ongoing diplomatic intervention and parliamentary interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1789717938.267229
+  },
+  "26a4cbb37d9b0eef0d424d5b9b7d061c": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/food feature about cooking hacks and kitchen tools, which falls under prohibited fluff and does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789717948.751445
+  },
+  "fa9a394e3d3bafe30315468993cc8718": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest human-interest story regarding a private land dispute, which does not constitute hard news of national UK significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789717956.352531
+  },
+  "32fa4857608174f155d56919ea7ab150": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment story about a celebrity gesture rather than significant news concerning UK public life or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789717965.27951
+  },
+  "d3539aad68d0713ea9a54fc87c69b1b0": {
+    "is_relevant": true,
+    "reasoning": "The kidnapping and subsequent rescue of a British national is a matter of significant public interest and consular concern for the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1789717976.796673
+  },
+  "5007b00f4ff7e1786dc164064d3acb3d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer advice piece regarding driving lessons, which does not constitute hard news or a matter of significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789717986.139046
+  },
+  "6d142b120078ba18b12d4d7b7ec3d17e": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a public health crisis in Fiji which does not have a material impact on the UK or UK policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789717996.514419
+  },
+  "bf122f20dba1224cd9b429a48440c7b6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health news story involving systemic failures and serious patient harm within the NHS, which is a core subject matter for UK audiences.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789718007.467453
+  },
+  "ef3fe879a138062744664b0ac6dc1f63": {
+    "is_relevant": true,
+    "reasoning": "The involvement of a parliamentary select committee investigating public spending and selection processes regarding the BBC and Eurovision makes this a matter of UK political oversight and public policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789718016.527235
+  },
+  "b7fc4c0a362b9244e90aa1cedff57c23": {
+    "is_relevant": true,
+    "reasoning": "The kidnapping and subsequent rescue of a British national in a violent operation involving lethal force is a significant news event concerning the safety of UK citizens abroad.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1789718025.978674
   }
 }
