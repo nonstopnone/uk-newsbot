@@ -28909,5 +28909,75 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1789718025.978674
+  },
+  "22671642aed16da3c6487076f561e257": {
+    "is_relevant": true,
+    "reasoning": "This is a news story concerning the England men's football team manager discussing fan interactions and team performance, which is relevant to UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789734954.294198
+  },
+  "8b5eed514fd7a4aeb75cc9f4522aa3ac": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and legal matter involving the integrity of the UK's intelligence service and the court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789734964.200722
+  },
+  "cb0eb91ae7479779fc07fc9a0052b7be": {
+    "is_relevant": true,
+    "reasoning": "The article addresses significant public health and environmental concerns regarding toxic waste in the UK, involving direct engagement with the Welsh First Minister and UK parliamentary proceedings.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789734974.872759
+  },
+  "7e786d2c708ba0a21670c062c22158b9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant business and economic news story regarding a major UK-based employer, widespread insolvency, and unpaid debts to HMRC and staff.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789734983.556519
+  },
+  "189893a91ed2fd527c5df07e8fbf28d1": {
+    "is_relevant": true,
+    "reasoning": "The death of a significant, award-winning British musician who contributed to the UK grime scene is a notable cultural event for a UK audience.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1789734992.878051
+  },
+  "2198d850995cbad252a53919663c1381": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a serious criminal case involving multiple child deaths in Bristol.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789735001.990998
+  },
+  "db71e79c78a6a46113671028aa50e0fc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and public interest story concerning a child protection case and the transparency of the UK coronial process.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789735010.399462
+  },
+  "418a6f76c801339c89115ea874931b26": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health news story involving systemic failure within the NHS, which is of direct public interest to a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789735021.970775
+  },
+  "d842fd531d5ebea054ab014ffe57f04f": {
+    "is_relevant": true,
+    "reasoning": "The case involves a British national detained abroad for an extended period, which is a matter of significant interest to the UK government and public regarding consular assistance and legal rights.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1789735030.082609
+  },
+  "943af7d354634d1304efb71167d6332e": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and sports entertainment story regarding an American college football exhibition. It lacks material significance to UK politics, economy, or serious news reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789735038.406925
   }
 }
