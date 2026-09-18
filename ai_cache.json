@@ -29126,5 +29126,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1789759421.588408
+  },
+  "b01ea9cc3ec54b91ac7175601e201a08": {
+    "is_relevant": true,
+    "reasoning": "This is a significant issue regarding public transport infrastructure and consumer protection within the UK, directly affecting how passengers in Wales are charged for rail services.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789769409.637052
+  },
+  "f2257f7faa3aa33341ee4246dab2023b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the fallout of a major UK criminal case, involving police accountability and public controversy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789769417.568765
   }
 }

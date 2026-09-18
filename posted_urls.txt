@@ -1,5 +1,3 @@
-2026-09-11T21:31:19.769133+00:00|https://www.bbc.co.uk/news/articles/clymlyg7y44o|children and woman injured on fairground ride|92c4bd21ccba6db0786a2222a7b0bb2f
-2026-09-11T21:31:22.563268+00:00|https://www.bbc.co.uk/news/articles/cy8zrz42yxko|police to crack down on face coverings at protests|de005d4a2257b1cacf341ab31f9569f4
 2026-09-11T23:47:51.131840+00:00|https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo|is a september heatwave forecast for the uk|226c5e32777f0f61ef0a83219cb686ba
 2026-09-11T23:47:53.670641+00:00|https://www.bbc.co.uk/news/articles/c3v4zvyde15o|reform receives record £36m donation from crypto billionaire|a8138a2be51482a3a5bb642822ecd109
 2026-09-12T02:39:53.268425+00:00|https://www.bbc.co.uk/news/articles/c0qx7q25d9xo|the papers military jet tripped chaos and a failure for dying people|9f6ff387e9a28060d286313b1804234a
@@ -118,3 +116,5 @@
 2026-09-18T16:55:59.968380+00:00|https://news.sky.com/story/motor-industry-demand-andy-burnhams-help-in-switching-to-defence-supply-13589369|motor industry demand pms help in switching to defence supply|09e0cbc45e7c068d1fb873f994f81fbc
 2026-09-18T19:23:42.165404+00:00|https://www.bbc.co.uk/news/articles/ckn8ez8q86plo|driver who killed woman celebrating 60th jailed|d6abb3e3ad7505afb2d36208f39a83f3
 2026-09-18T19:23:44.580303+00:00|https://www.bbc.co.uk/news/articles/crgjqzjd1ljxo|met pc denies charge over pregnant womans death|c93544c7e9a653dbbd0040ee66ee62cf
+2026-09-18T22:10:18.776651+00:00|https://www.bbc.co.uk/news/articles/cvrl64773g58o|not an easy inbox for new scottish labour leader|1857e351313ea47df9b9fabfc4efbc9d
+2026-09-18T22:10:21.215145+00:00|https://www.bbc.co.uk/news/articles/cry4zw5219eno|train passengers could be overcharged by new payasyougo scheme council warns|b01ea9cc3ec54b91ac7175601e201a08
