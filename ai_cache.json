@@ -29224,5 +29224,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789826839.817464
+  },
+  "c807da903871a12db44fff010548797c": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant sporting result concerning the England women's national rugby union team, which is a matter of major interest to the UK sporting public.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1789839640.372629
+  },
+  "8ae82fe6af817431b27966dd61109a88": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal sentencing involving a fatal stabbing in the UK, which falls directly under crime and justice reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789839649.54644
   }
 }

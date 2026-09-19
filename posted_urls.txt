@@ -1,11 +1,3 @@
-2026-09-12T14:50:28.974772+00:00|https://www.bbc.co.uk/news/articles/crl62z3e797o|driver threatened with knife as bus hijacked and chased in police pursuit|218be4172c341d9a4364dbfefb35dd10
-2026-09-12T14:50:31.540549+00:00|https://www.bbc.co.uk/news/articles/clye9nldd7do|reform receives second £36m donation in two days as crypto investor matches record|3a320e18176797c9da0c6cd7cb181c51
-2026-09-12T14:50:34.098921+00:00|https://www.telegraph.co.uk/cricket/2026/09/12/england-vs-pakistan-third-test-live-score-latest-day-four|england find another man for a crisis in jordan cox|b09cd1aeab5c17f79dbbc70227e8be14
-2026-09-12T14:50:36.730306+00:00|https://news.sky.com/story/ben-delo-and-christopher-harborne-who-are-reform-uks-two-mega-donors-13584792|who are reform uks two megadonors|bd21b2e17bd07665d9d1e8325de75cb9
-2026-09-12T17:38:33.934187+00:00|https://www.bbc.co.uk/news/articles/cn450jwvw9do|three arrests at rival protests in portsmouth|340c0b501482558b3130310ac9dfe921
-2026-09-12T17:38:36.532063+00:00|https://www.telegraph.co.uk/football/2026/09/12/premier-league-live-scores-latest-updates|chelsea rescue draw as woeful defence punished by hull|6ee2615e196a8fd80da9879d757d9486
-2026-09-12T17:38:39.068748+00:00|https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo|oscarwinning film producer jeremy thomas dies aged 77|def3358d2aa2cbe12e58e6778fe5e03e
-2026-09-12T17:38:41.482396+00:00|https://www.telegraph.co.uk/rugby-union/2026/09/12/england-women-vs-australia-women-live-score-latest-wxv|bomb squad rescues rusty red roses|882516bcc7c7f4a8f93a05b5ae593072
 2026-09-12T20:01:23.122289+00:00|https://www.telegraph.co.uk/football/2026/09/12/spurs-vs-everton-live-score-latest-updates-premier-league|£329m spent and still no goals for sorry tottenham|acff40471f9e4dcb565dcdfb5a022170
 2026-09-12T20:01:25.508444+00:00|https://www.bbc.co.uk/news/articles/c4gdpzdwxz5o|six people rescued after yacht gets tangled in fish farm|2cb656ff4d5b02693a90d852e78f3e4c
 2026-09-12T22:46:03.717020+00:00|https://www.bbc.co.uk/news/articles/cy0zv4end8no|planned gibraltarsized rail testing centre has cost taxpayers £70m but hasnt been built|d10e79397168048ae49749c3b08857ad
@@ -113,3 +105,7 @@
 2026-09-19T10:09:50.212825+00:00|https://news.sky.com/story/tata-steel-seeks-new-government-funding-as-industry-crisis-deepens-13589548|tata steel seeks new government funding as industry crisis deepens|cdc6fc7d7e98c9ab9fb5a030f44604a3
 2026-09-19T14:07:20.406770+00:00|https://www.bbc.co.uk/news/articles/cxddvn11nq61o|dup will not be found wanting when it comes to unionist cooperation says robinson|76e6bac8e3d9df7bb72d641a75c08464
 2026-09-19T14:07:22.977031+00:00|https://www.bbc.co.uk/news/articles/cmly4x7zrwp0o|police release cctv of missing lillias last sighting|1064955c3217bf84414124802b54db9d
+2026-09-19T17:40:50.609879+00:00|https://www.telegraph.co.uk/football/2026/09/19/premier-league-live-latest-scores-arsenal-brighton|bloodthirsty brighton feast on rattled arsenal|7f5e16bffd94c1c08a6e43643b7c80ad
+2026-09-19T17:40:53.055239+00:00|https://www.telegraph.co.uk/rugby-union/2026/09/19/england-v-canada-latest-updates-from-wxv-global-series-test|red roses 39match winning streak brought to end in canada draw|c807da903871a12db44fff010548797c
+2026-09-19T17:40:55.640500+00:00|https://news.sky.com/story/teenagers-jailed-for-killing-17-year-old-outside-mcdonalds-13589690|teenagers jailed for killing 17yearold outside mcdonalds|8ae82fe6af817431b27966dd61109a88
+2026-09-19T17:40:58.189492+00:00|https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o|davey says lib dems are firewall against farage as conference begins|223603ea34517800f2e4e3343903fdb4
