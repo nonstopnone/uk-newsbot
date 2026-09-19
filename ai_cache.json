@@ -29140,5 +29140,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789769417.568765
+  },
+  "23d87b58f5b29b6b71d6cbe1ae553cb3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety incident involving a large-scale emergency response and the mass evacuation of civilians.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789812487.74916
+  },
+  "1a7142386758630eb05d547e108a9a56": {
+    "is_relevant": true,
+    "reasoning": "The article discusses formal UK government preparation strategies for national security and severe disruption, directly referencing the Chief of the Defence Staff and current defence policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789812499.87702
+  },
+  "11c5806ce5ef0bb5e8dd0e66610fcd41": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding UK youth justice reforms, impacting the legal system and social security in England and Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789812508.589797
+  },
+  "aaf8d728453c189e4ee08710b422c9c5": {
+    "is_relevant": true,
+    "reasoning": "The article addresses significant UK economic issues, specifically the London property market slump and its impact on homeowners, which is of direct relevance to the UK housing crisis.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789812518.7885
+  },
+  "cdc6fc7d7e98c9ab9fb5a030f44604a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic and industrial story involving major UK infrastructure and potential taxpayer funding, directly impacting the UK manufacturing sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1789812545.646438
+  },
+  "ac213a8743fad9b5eac069eb360cc862": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing public order issues and dangerous criminal driving behavior in a major UK city, which falls under regional crime and public safety reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789812553.578497
+  },
+  "661199da529985f0803fb7b66aa67b6f": {
+    "is_relevant": true,
+    "reasoning": "The article reports on tensions surrounding the RNLI's humanitarian role, linking specific anti-migrant protests in the UK to public abuse and social unrest, which is a matter of significant national concern.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1789812566.825651
+  },
+  "57638fd436c9d3a0632028c596c359f2": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about an individual's personal journey rather than hard news impacting the UK public, economy, or government.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789812573.850129
+  },
+  "20a5dd5b90f2f97f07b27eed04109c28": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a tragic child fatality and major police-led search operation in Suffolk, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789812584.569628
   }
 }
