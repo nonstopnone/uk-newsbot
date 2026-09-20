@@ -29350,5 +29350,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789934971.592057
+  },
+  "b21ff860b0e6e91acaa8064441be90f3": {
+    "is_relevant": true,
+    "reasoning": "This is a report on new law enforcement powers and environmental crime prevention measures within the UK, specifically North Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789944770.522275
+  },
+  "7bc7e3da1e2151e739e7a6f9366cabc9": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest piece focused on individual mental health and personal anxiety regarding technology, rather than a factual report on UK policy, security, or hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789944779.460909
+  },
+  "edeece23420e15d0f8f0036be1a4986c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant change to the UK justice system and government policy announced by the Prime Minister.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789944789.907903
   }
 }
