@@ -29238,5 +29238,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789839649.54644
+  },
+  "d0be6075d53b0565eb3040f8c4269acc": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest profile piece regarding the retirement of a regional religious figure, which does not constitute hard news or a significant event for a national UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789864426.8189
+  },
+  "ceb9579cc08eb5630201ae7892b30764": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the Scottish drugs crisis and public health policy, which is a major issue for devolved government and national safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789864444.981663
   }
 }
