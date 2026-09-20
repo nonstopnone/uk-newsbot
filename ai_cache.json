@@ -29322,5 +29322,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1789914374.926012
+  },
+  "3853d94521e1a448eaab65a980e4715a": {
+    "is_relevant": false,
+    "reasoning": "This is a local political event in Pakistan and does not have a material impact on the UK or meet the threshold for significant UK-interest international news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789926764.174577
+  },
+  "3e4fa6afdd404d8f62c4f4229e70414d": {
+    "is_relevant": false,
+    "reasoning": "The article concerns internal German domestic politics and does not have a material, direct impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789926773.658569
   }
 }
