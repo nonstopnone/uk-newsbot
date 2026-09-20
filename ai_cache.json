@@ -29252,5 +29252,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1789864444.981663
+  },
+  "9ca8d3f18c2a58d0c1ca04b8f2736654": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing public safety incident involving an emergency evacuation and a police investigation into a suspicious fire, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789899980.451229
+  },
+  "b5a291e48cc92cb1f2b7822d52248749": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal stabbing in a UK capital city, which falls under the category of serious crime and local law enforcement matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789899991.33346
+  },
+  "1e7e4116b795351a6e7a6881dca0cb9c": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused entertainment story about award show outcomes rather than hard news impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789900000.800554
+  },
+  "7eb992c54f5352aa03e068e7101e403c": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/consumer advice article regarding household chores and does not constitute hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789900011.460246
   }
 }
