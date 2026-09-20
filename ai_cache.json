@@ -29336,5 +29336,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789926773.658569
+  },
+  "d8f5cc368da48f319c02074cfa5a2bbd": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the UK Prime Minister's diplomatic engagement and stance on a significant international security issue involving NATO partners, which is directly relevant to UK foreign policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789934946.628973
+  },
+  "bfe79b824817cf42b6eb0bdbfa02a92b": {
+    "is_relevant": false,
+    "reasoning": "The article concerns internal German politics and lacks a direct, material impact on the UK or significant relevance to a UK-focused news feed.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789934971.592057
   }
 }
