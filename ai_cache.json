@@ -29280,5 +29280,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789900011.460246
+  },
+  "2af795d6698530023f12188c713f9170": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and legal matter involving a convicted murderer absconding from a UK prison following a court-ordered temporary release.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789914320.466218
+  },
+  "3d1b6f9620aad1ac3827785976aba62e": {
+    "is_relevant": false,
+    "reasoning": "This article concerns entertainment and television programming, which is classified as fluff/lifestyle and does not meet the criteria for hard news relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789914331.633151
+  },
+  "dc3d6e0bd1afeeb879dce0bbdb90b9d0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal investigation involving a murder inquiry and police activity in London and Hampshire.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789914344.556079
+  },
+  "4ea30509f45e77d8594fc5d8db4017cf": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Royal Family and their relationship with the media, which is a matter of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1789914356.582558
+  },
+  "5854d4f3b12b0273b2c374521a2f2935": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political clash involving a major UK business figure and a senior member of the government regarding economic policy and immigration, which is directly relevant to UK political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789914366.270949
+  },
+  "347449aed62ca126bf942e6ed3097155": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a proposed change to UK tax policy (fuel duty) directly impacting the cost of living and the national economy, which is a key area of UK political debate.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789914374.926012
   }
 }
