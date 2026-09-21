@@ -29448,5 +29448,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1789991063.038886
+  },
+  "233a57f7cef15ce021d0f803b57e33b9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a major fire, mass evacuation, and ongoing police investigation in a UK town.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790012388.217699
+  },
+  "4fea1448a0d778ba2a891236497d5d35": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal development involving a fatal collision and subsequent court charges.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790012405.463509
+  },
+  "5351d48a2b927daee67e674695a79236": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal UK state inquiry into a major historic atrocity in Northern Ireland, which is a matter of significant public interest and legal importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790012415.780846
+  },
+  "118a3e1ea9e8285f8e52af52d67cd367": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and sentencing in a UK court regarding a serious road traffic incident.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790012430.752007
   }
 }
