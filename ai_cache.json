@@ -29476,5 +29476,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790012430.752007
+  },
+  "f5ff9280fbf19236729178cc93fec76b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal trial, sentencing, and extradition involving a fatality in the UK, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790026454.692985
+  },
+  "06cd350b50e74a2e5d0e6077b982b70c": {
+    "is_relevant": true,
+    "reasoning": "The article addresses significant data security failures within the NHS, which is a major UK public institution and a matter of critical national importance.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790026466.32659
+  },
+  "7dbe87155d58a1179af21621754dfc3a": {
+    "is_relevant": false,
+    "reasoning": "This is a regional wildlife incident that does not meet the threshold of national political, economic, or major security news required for this specific news feed.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790026475.352183
+  },
+  "6075e1ecdd7e8fcee322af4ba26eee01": {
+    "is_relevant": true,
+    "reasoning": "The article discusses repeated infrastructure failures at NATS, the UK's primary air traffic services provider, which is a matter of significant national importance regarding UK transport and safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790026484.946395
   }
 }
