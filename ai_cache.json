@@ -29392,5 +29392,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789969649.325118
+  },
+  "c58e73f76541b38db0eaa304c54a8982": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning the justice system and public safety in Northern Ireland, involving a government minister and an independent review of a prison release decision.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789990993.209014
+  },
+  "875bc6cafac64a8dec251614f1a4a37f": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant legal development involving a high-profile criminal case and charges related to prison security and assaults on public officials.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789991001.67592
+  },
+  "b74405acc44cac095c984cc650e3a3f3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development regarding the leadership of a party in the Welsh Senedd, which directly impacts UK political representation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789991013.267344
+  },
+  "5675d1491112e84e493226d64dbdb007": {
+    "is_relevant": false,
+    "reasoning": "This is a cultural/entertainment industry story regarding content moderation on a streaming platform, which does not constitute hard news or a significant event for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789991021.905214
+  },
+  "846d0acf28c0233b7fd2f8650c847fc0": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle story about a celebrity encounter and does not constitute hard news or a significant event relevant to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789991030.442805
+  },
+  "cec746bec2ff3f475ba14e14a6be380f": {
+    "is_relevant": false,
+    "reasoning": "This article covers a local cultural event and human interest story rather than hard news concerning UK politics, the economy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789991041.274425
+  },
+  "a94ed540488410fb3619a24be0dc9bb8": {
+    "is_relevant": false,
+    "reasoning": "While a respectful tribute, the death of a WWII veteran does not constitute breaking hard news or have a material impact on current UK governance, policy, or major national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789991053.386871
+  },
+  "212c54f6b74c2249925dce710aa1fc78": {
+    "is_relevant": false,
+    "reasoning": "This is a personal finance advice guide rather than hard news reporting on policy changes or economic shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1789991063.038886
   }
 }
