@@ -29371,5 +29371,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1789944789.907903
+  },
+  "966081562180ea098ba13a1a6f703d05": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the curation of a major Northern Irish government and royal site in the context of the Good Friday Agreement, involving public figures and historical accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1789969622.320592
+  },
+  "0b792520a0e429deb2809fce13cc4a79": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial action story involving education infrastructure and devolved government funding, which constitutes hard news relevant to the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1789969639.811748
+  },
+  "86b16f9aceaaca207c6b5b692e01b4ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding systemic failures in UK policing and child protection within a major UK city, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1789969649.325118
   }
 }
