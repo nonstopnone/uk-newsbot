@@ -1,10 +1,3 @@
-2026-09-15T15:27:25.570043+00:00|https://www.bbc.co.uk/news/articles/cv8e35rzy486o|two dead after car hits group of pedestrians|4b520af2727f16e314f9c56b65063f24
-2026-09-15T15:27:28.047820+00:00|https://www.bbc.co.uk/news/articles/c6jdvjl7p79lo|government to end ban on catholic and jewish pms involvement in church appointments|e78c321cc7d1884a95a647fe3bbe651d
-2026-09-15T15:27:30.558835+00:00|https://www.telegraph.co.uk/business/2026/09/15/pension-triple-lock-uk-wages-healey-budget-ftse-100-markets|reynolds refuses four times to rule out tax raid on state pensioners|7818c1fd48dd07b282f6a8409444cbd8
-2026-09-15T19:28:55.136720+00:00|https://www.telegraph.co.uk/business/2026/09/15/bond-sell-off-uk-borrowing-gilts-us-treasuries-markets|uk borrowing costs hit 19year high as global bond rout intensifies|1d17ab3ab1e103ec6062227e1327db99
-2026-09-15T19:28:57.633855+00:00|https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo|my son was failed noah donohoe inquest finds tunnel errors possibly contributed to death|480cf41ec6385529f8a95878b295410f
-2026-09-15T19:29:00.008037+00:00|https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo|baby cot cams plan after inquiry finds lucy letby crimes could have been prevented|a4929b99955c05fd09ef3fc9e92bc82d
-2026-09-15T19:29:02.520738+00:00|https://news.sky.com/story/var-audio-reveals-officials-tunnel-vision-review-of-erling-haaland-goal-for-man-city-vs-man-utd-13586261|audio reveals var officials tunnel vision during man city goal review|18cb817d70399a46a953d1473ab71fa7
 2026-09-15T22:39:28.808710+00:00|https://www.telegraph.co.uk/football/2026/09/15/ipswich-town-vs-arsenal-live-score-latest-carabao-cup|max dowmanmania could make carabao cup hottest ticket in town|7fba99b1c08e0554b8a646b1ea0df85a
 2026-09-15T22:39:31.223703+00:00|https://www.telegraph.co.uk/cricket/2026/09/15/england-vs-sri-lanka-live-score-latest-1st-t20|england cruise to victory led by absolute freak brook|fe2a414102d78e789cd04e8cdfacb5e0
 2026-09-15T22:39:33.805909+00:00|https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o|msps asked to pause scotlands ai data centre boom|3a32d4753d8d49acf2b4f8bf6bbaef02
@@ -104,3 +97,6 @@
 2026-09-22T15:23:54.829073+00:00|https://news.sky.com/story/rac-shelves-london-float-as-owners-opt-for-continuation-vehicle-13590718|rac shelves london float as owners opt for continuation vehicle|bcac57982c15be58ae20f0c1e8196d7e
 2026-09-22T15:23:57.197335+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/zika-mosquitoes-still-breeding-in-london|zika mosquitoes still breeding in london|b14d0dd06977ab81891209631733fa31
 2026-09-22T15:24:01.700756+00:00|https://www.telegraph.co.uk/business/2026/09/22/uk-borrowing-public-sector-treasury-healey-budget-markets|tax rises virtually inevitable after £8bn borrowing blow|00f12ed7ced82c98f0bfe9a66f8a141a
+2026-09-22T19:30:52.397579+00:00|https://www.telegraph.co.uk/cricket/2026/09/22/england-vs-sri-lanka-live-score-latest-updates-1st-odi|will jacks the star for england in 89run win over sri lanka|a67d9eab70cf91cae600249fbefe87d2
+2026-09-22T19:30:54.735282+00:00|https://www.bbc.co.uk/news/articles/cw62m1zy9z0jo|reform msps walk out of parliament in protest against scottish independence debate|ac41637a784985eaf000b89c6c79a454
+2026-09-22T19:30:57.141305+00:00|https://www.bbc.co.uk/news/articles/cm790yn9wj80o|victims family let down by justice system after killer disappears during fathers funeral|b4a2c20e74d6b868143b2ca6a2eb347a

@@ -29637,5 +29637,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790090600.706388
+  },
+  "a67d9eab70cf91cae600249fbefe87d2": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a national sporting event involving the England cricket team, which falls under the sport category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790105367.225738
+  },
+  "b4a2c20e74d6b868143b2ca6a2eb347a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a failure within the Northern Ireland justice system, involving a convicted murderer absconding and a subsequent meeting with the Justice Minister.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790105376.991885
+  },
+  "42d2d9b9cab0d29a91d932647dc38efe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving a disrupted terrorist plot targeting a specific community in a major UK city, which falls squarely under the remit of hard UK news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790105386.192516
+  },
+  "f598e6dc63b985fb39983fefaa06fc07": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/media dispute regarding a book correction, which constitutes fluff or gossip rather than hard news impacting the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790105395.902026
+  },
+  "1005c323a944082692bd0418ba243766": {
+    "is_relevant": false,
+    "reasoning": "The death of a US actress in the United States does not have a material impact on the UK, nor does it concern UK-specific politics, crime, or public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790105406.146189
+  },
+  "94808b83e5bfe17599e89a840918ad60": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a British national facing a significant criminal conviction in a foreign court, which is a matter of notable public interest and legal reporting in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790105433.262134
+  },
+  "4f8162625282f74c63e39108fb0c6d32": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding UK industrial infrastructure, employment, and the national economy, highlighting competitive disadvantages within the UK energy market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790105441.424228
+  },
+  "fe2f4b2537790b88aadeac93990fda33": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on public health trends in Africa and does not have a material impact on the UK or its domestic affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790105451.889007
   }
 }
