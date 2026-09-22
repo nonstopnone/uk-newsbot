@@ -29693,5 +29693,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790105451.889007
+  },
+  "cab032308bda822bbcb48e6c3b9c5b5f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on proposed structural changes to devolved local government in Scotland, which directly affects public administration and governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790116684.82788
+  },
+  "8582b33b80953ecd35ae664eb7d0617a": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a criminal threat against a high-profile UK political party leader, falling under both crime and politics.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790116700.39209
   }
 }
