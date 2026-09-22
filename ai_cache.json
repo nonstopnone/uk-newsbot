@@ -29504,5 +29504,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1790026484.946395
+  },
+  "dea4dd41c0bbc546e12ffddeade42123": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a significant policy and infrastructure issue concerning the UK education system and calls for direct government intervention, which is highly relevant to UK public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790036994.132895
+  },
+  "0c95cd8d5c010208c047e2013986e726": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health service issue concerning the potential suspension of maternity care at a public hospital in Northern Ireland, directly impacting the NHS and local public services.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790037003.308187
+  },
+  "dc722e31fda46bd1bf22c1b7e35c2dc6": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal finance feature story rather than hard news; it does not concern significant UK policy, economy, or public interest matters.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790037014.726128
+  },
+  "a15c44db84c7d00a3d27b834c0a9677b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and infrastructure event involving the UK Prime Minister hosting world leaders, which constitutes major national news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790037026.396019
+  },
+  "fa5377e8410de232d9348ab602232b8a": {
+    "is_relevant": false,
+    "reasoning": "This article is a commentary/analysis piece focused on book sales and personal family disputes rather than hard news regarding the Royal Family's function or governance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790037036.146857
   }
 }
