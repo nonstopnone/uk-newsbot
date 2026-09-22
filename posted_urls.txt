@@ -1,7 +1,3 @@
-2026-09-15T10:51:54.301873+00:00|https://www.bbc.co.uk/news/articles/cr15875ep1y5o|assembly debating bill aimed at banning conversion practices|8d5a50b69cfe83fee64c929ce35f9345
-2026-09-15T10:51:56.664591+00:00|https://www.bbc.co.uk/news/articles/cqp8d0nj04g6o|unions urge ministers to soften planned changes to immigration rules|3856018af122010d5a4686c75a406fcb
-2026-09-15T10:51:59.041852+00:00|https://news.sky.com/story/balaclava-ban-comes-into-force-in-nottingham-with-police-powers-also-including-on-the-spot-fines-13586024|face mask ban comes into force in uk city|374da7ea5ae2fa097250e5ed73d0e58d
-2026-09-15T10:52:01.388661+00:00|https://news.sky.com/story/shoppers-hunting-value-as-grocery-price-inflation-ticks-up-13586019|shoppers hunting value as grocery price inflation ticks up|c8f41db592ce2491455ff728e2bc1c7c
 2026-09-15T15:27:25.570043+00:00|https://www.bbc.co.uk/news/articles/cv8e35rzy486o|two dead after car hits group of pedestrians|4b520af2727f16e314f9c56b65063f24
 2026-09-15T15:27:28.047820+00:00|https://www.bbc.co.uk/news/articles/c6jdvjl7p79lo|government to end ban on catholic and jewish pms involvement in church appointments|e78c321cc7d1884a95a647fe3bbe651d
 2026-09-15T15:27:30.558835+00:00|https://www.telegraph.co.uk/business/2026/09/15/pension-triple-lock-uk-wages-healey-budget-ftse-100-markets|reynolds refuses four times to rule out tax raid on state pensioners|7818c1fd48dd07b282f6a8409444cbd8
@@ -103,3 +99,8 @@
 2026-09-22T10:48:07.379232+00:00|https://news.sky.com/story/british-father-pleads-guilty-over-death-of-young-son-who-fell-from-hotel-window-13590586|british father pleads guilty over death of young son who fell from hotel window|0412b960a7bf697d57d9330b99a4ca45
 2026-09-22T10:48:09.734778+00:00|https://www.bbc.co.uk/news/articles/cm9w4ee2lqepo|nhs maternity data lost during routine it work|ccbf15c92e40895fd8cfcaa714b410f5
 2026-09-22T10:48:12.091294+00:00|https://news.sky.com/story/gang-members-jailed-over-plot-to-import-cannabis-worth-138m-into-uk-13590597|gang smuggled £138m of cannabis into uk hidden in 22 suitcases|bf8ef31ff1ddea0fabc0688bcf64e33e
+2026-09-22T15:23:49.986715+00:00|https://www.bbc.co.uk/news/articles/cw8042y1zejlo|inquest opens into putney pusher suspects death|713a96d6aeb4b1233ee9decb20309edb
+2026-09-22T15:23:52.363183+00:00|https://www.bbc.co.uk/news/articles/c6wyzkge3w9no|four people die in bootle house fire|ac5b5ad76d001b634ed3d8c67f06fe46
+2026-09-22T15:23:54.829073+00:00|https://news.sky.com/story/rac-shelves-london-float-as-owners-opt-for-continuation-vehicle-13590718|rac shelves london float as owners opt for continuation vehicle|bcac57982c15be58ae20f0c1e8196d7e
+2026-09-22T15:23:57.197335+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/zika-mosquitoes-still-breeding-in-london|zika mosquitoes still breeding in london|b14d0dd06977ab81891209631733fa31
+2026-09-22T15:24:01.700756+00:00|https://www.telegraph.co.uk/business/2026/09/22/uk-borrowing-public-sector-treasury-healey-budget-markets|tax rises virtually inevitable after £8bn borrowing blow|00f12ed7ced82c98f0bfe9a66f8a141a

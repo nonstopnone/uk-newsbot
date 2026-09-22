@@ -29609,5 +29609,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790074082.8051
+  },
+  "ac5b5ad76d001b634ed3d8c67f06fe46": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety incident involving multiple fatalities and an active emergency response, which is highly relevant to a national news audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790090474.553311
+  },
+  "09e3936ff82ff3185127eaeda69b0814": {
+    "is_relevant": true,
+    "reasoning": "This report concerns serious criminal charges brought by the Metropolitan Police and the CPS against a public figure, which falls squarely under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790090534.03976
+  },
+  "bcac57982c15be58ae20f0c1e8196d7e": {
+    "is_relevant": true,
+    "reasoning": "The decision to shelve a multibillion-pound London stock market listing is a significant development for the UK financial market and a major domestic business story.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790090577.044664
+  },
+  "fed2f81fc2a5b3b427cf17860f6743a6": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story concerning a private dispute between an individual and a local council; it does not meet the criteria for national hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790090600.706388
   }
 }
