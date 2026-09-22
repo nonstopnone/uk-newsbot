@@ -29553,5 +29553,61 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790055882.32804
+  },
+  "930c3398f948c34ff67c51451ee56dee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a British national that has prompted official intervention from the UK Foreign Office.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790073993.293823
+  },
+  "0412b960a7bf697d57d9330b99a4ca45": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a British citizen facing serious criminal charges, which is a matter of public interest and falls under legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790074003.392736
+  },
+  "ccbf15c92e40895fd8cfcaa714b410f5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the loss of sensitive patient data at a major NHS trust currently under investigation for systemic maternity failures, which is a matter of urgent public and legal interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790074014.20245
+  },
+  "a23a4f06ada625e1600cfbb45cf29aa6": {
+    "is_relevant": false,
+    "reasoning": "This article is lifestyle and fashion-focused content regarding a seasonal runway show, which falls under prohibited fluff content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790074025.500593
+  },
+  "335867f75a5b504199715ea5bac93204": {
+    "is_relevant": true,
+    "reasoning": "This concerns the detention of British citizens in Iran and involves ongoing diplomatic engagement from the Foreign, Commonwealth & Development Office, which is a matter of significant national interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1790074035.28106
+  },
+  "ea8f7f23e8e23e8268c91e705cb8fb97": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a prominent member of a national sports team, which constitutes relevant news for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790074062.797911
+  },
+  "bf8ef31ff1ddea0fabc0688bcf64e33e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the sentencing of a major criminal operation involving the importation of illegal drugs into the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790074072.810772
+  },
+  "e659cc32e8c86be4ab0e6defb8d72e30": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy development directly concerning NHS infrastructure and patient safety in England.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790074082.8051
   }
 }
