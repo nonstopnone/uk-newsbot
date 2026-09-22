@@ -29539,5 +29539,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790037036.146857
+  },
+  "900a3b9b5a8768ed2bc987360983c852": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant UK national infrastructure issues regarding air traffic control failures and major foreign policy shifts involving the UK military.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790055873.363074
+  },
+  "5c20cf612a303de7399b43e42564d00a": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal meeting between the UK Prime Minister and a foreign head of state, which is a matter of significant UK political and international importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790055882.32804
   }
 }

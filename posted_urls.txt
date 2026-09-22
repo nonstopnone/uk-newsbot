@@ -1,5 +1,3 @@
-2026-09-15T05:41:10.605380+00:00|https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o|pubs hotels and gyms in wales to get 30 business rates cut|0a3177890f02ccb857bdbc3ccff641bf
-2026-09-15T05:41:12.978493+00:00|https://www.bbc.co.uk/news/articles/c65ym93p73xmo|uk could unlock 100 more oil and gas projects say north sea bosses|ce8853b86320d182bb4a6d11a405d26b
 2026-09-15T10:51:54.301873+00:00|https://www.bbc.co.uk/news/articles/cr15875ep1y5o|assembly debating bill aimed at banning conversion practices|8d5a50b69cfe83fee64c929ce35f9345
 2026-09-15T10:51:56.664591+00:00|https://www.bbc.co.uk/news/articles/cqp8d0nj04g6o|unions urge ministers to soften planned changes to immigration rules|3856018af122010d5a4686c75a406fcb
 2026-09-15T10:51:59.041852+00:00|https://news.sky.com/story/balaclava-ban-comes-into-force-in-nottingham-with-police-powers-also-including-on-the-spot-fines-13586024|face mask ban comes into force in uk city|374da7ea5ae2fa097250e5ed73d0e58d
@@ -99,3 +97,5 @@
 2026-09-21T21:34:50.804122+00:00|https://news.sky.com/story/nottingham-and-southport-data-nhs-breaches-the-tip-of-the-iceberg-sky-finds-13590522|nottingham and southport data nhs breaches the tip of the iceberg sky finds|06cd350b50e74a2e5d0e6077b982b70c
 2026-09-22T00:30:36.793926+00:00|https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o|schools not ready for ai and crying out for government guidance report warns|dea4dd41c0bbc546e12ffddeade42123
 2026-09-22T00:30:39.164067+00:00|https://www.bbc.co.uk/news/articles/c6lyep7l7qppo|marthas rule rolled out at every ae department in england|fd304e294ed80b79e7d214923ce0723f
+2026-09-22T05:44:43.011841+00:00|https://www.bbc.co.uk/news/articles/c6lyqp9yq377o|terrifying 101acre data centre plans would be heartbreaking campaigners warn|7cf59827961aeac77c0457a9a2a05b78
+2026-09-22T05:44:45.560158+00:00|https://www.bbc.co.uk/news/articles/c6zjz2213g4yo|were inundated glasgows struggle to house the homeless|0eab65a2b73201007b15576c300714d8
