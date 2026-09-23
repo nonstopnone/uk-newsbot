@@ -1,6 +1,3 @@
-2026-09-16T10:42:08.069782+00:00|https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo|petrol and diesel price rises push uk inflation higher|b3bafdd4abcd24abedbceda80d712db1
-2026-09-16T10:42:10.989645+00:00|https://www.bbc.co.uk/news/articles/cw3d7mmj3jz2o|top judge explains decision to free murderer who absconded|37f412010d26a047a696aa9526c8f105
-2026-09-16T10:42:13.566738+00:00|https://news.sky.com/story/reward-offered-after-british-woman-kidnapped-in-malawi-13588459|reward offered after british woman is kidnapped in malawi|6308ad9c119f6c31bda1cc607dc99fba
 2026-09-16T15:18:38.378921+00:00|https://www.bbc.co.uk/news/articles/cm3wjz3qyezzo|reform defector reveals she voted remain in brexit vote and wants welsh independence|c083bd637f244ab76731b1eac12ba32a
 2026-09-16T15:18:40.742037+00:00|https://www.bbc.co.uk/news/articles/c6783ekp0yn8o|putney pusher suspect found dead at home|ab686bb2d2398f0ea1aca93c71aa6985
 2026-09-16T15:18:43.029670+00:00|https://news.sky.com/story/burnham-to-delay-flagship-investment-summit-until-next-year-13588543|burnham to delay flagship investment summit until next year|c71627aaf4498d9b95ecc1c60241c959
@@ -99,3 +96,6 @@
 2026-09-23T07:10:27.354475+00:00|https://www.bbc.co.uk/news/articles/c6rerlq99w30o|uk to fight russian disinformation and push new global ai standards burnham says|6e0bf38d876388e778325ae7868c4285
 2026-09-23T07:10:29.811804+00:00|https://www.bbc.co.uk/news/articles/ck1l6yed62v5o|migrants taken to dover after more than 30 hours at sea|02c171f3f7213788b7373955a2cd0931
 2026-09-23T07:10:32.269739+00:00|https://news.sky.com/story/uk-to-join-new-eu-ocean-science-scheme-amid-el-nino-concerns-13590808|uk to join new eu ocean science scheme amid el nino concerns|310af6cb505400247c253bd892a3b1ff
+2026-09-23T13:19:19.346655+00:00|https://www.bbc.co.uk/news/articles/cq62k1947l7po|two pilots injured after raf aircraft crash|065ad420dd180781edc38704152c89b0
+2026-09-23T13:19:21.859175+00:00|https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno|uk to review chagos islands deal over lack of us support streeting tells bbc|c6f50e598d1abbb48ee0b96337a180ad
+2026-09-23T13:19:24.253458+00:00|https://news.sky.com/story/uk-space-squadron-to-guard-against-unprecedented-threats-against-satellites-13591003|uk space squadron to guard against unprecedented threats|063bc1510bf709bc018bb49b0c328b37

@@ -29749,5 +29749,68 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790147426.64189
+  },
+  "065ad420dd180781edc38704152c89b0": {
+    "is_relevant": true,
+    "reasoning": "This is a time-sensitive, hard news report regarding an accident involving military personnel and infrastructure in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790169336.113795
+  },
+  "a17084503f4a2fed9d50585fb2302e34": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story rather than hard news regarding UK politics, economy, crime, or significant public infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790169344.452191
+  },
+  "8d1b7a49cd342f7c238eba32b60b1e63": {
+    "is_relevant": true,
+    "reasoning": "This incident involves UK law enforcement investigation into a public order and safety matter concerning cross-channel migration, a core UK policy and security issue.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1790169363.590611
+  },
+  "063bc1510bf709bc018bb49b0c328b37": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK national security and defense infrastructure directly involving the Ministry of Defence.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790169398.54823
+  },
+  "eef350a2bd1a68687a55cc770647a052": {
+    "is_relevant": true,
+    "reasoning": "This relates to UK economic policy, specifically the government's approach to health-related economic inactivity and the ongoing efforts of the 'Keep Britain Working' taskforce.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790169421.612653
+  },
+  "84675f29e627de94074cb79e1be15840": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on an attempted murder case involving high-profile prisoners at HMP Belmarsh, which is a matter of public interest and legal proceedings in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790169441.492851
+  },
+  "90d78e47fa0af9a247bacd5d69a5e4ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy and funding issue affecting the UK agricultural sector and government environmental schemes, which is a matter of clear national interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790169502.614955
+  },
+  "99963d5ed42d5aa3d8bf0f5ddaa25754": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a tragic incident in Merseyside involving multiple deaths and an ongoing police and fire service investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790169512.408311
+  },
+  "bb7812d21b2ddf470cb6e4d2aff9b3d7": {
+    "is_relevant": true,
+    "reasoning": "This is a royal engagement involving senior members of the British monarchy attending a high-profile public event in London.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1790169558.738243
   }
 }
