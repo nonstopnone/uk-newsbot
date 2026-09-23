@@ -29812,5 +29812,68 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1790169558.738243
+  },
+  "87048307eb2e2055985536e8e554deb6": {
+    "is_relevant": true,
+    "reasoning": "This report concerns government policy and border security, which are critical areas of UK news and directly relate to the Home Office's management of asylum and immigration.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1790187011.67581
+  },
+  "b4fb5776af8ffa46e48f16c2cd82dcc6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and defence matter involving the RAF and the protection of sensitive UK military infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790187029.653229
+  },
+  "6fc36c678301d376fef85d2f517dd163": {
+    "is_relevant": true,
+    "reasoning": "This is a significant agricultural and economic story affecting domestic food supply chains, retail prices, and the UK farming industry.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790187073.068539
+  },
+  "1b685e8eda27a3827dfe4112b2f33d9b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory action by Ofcom concerning the enforcement of the UK's Online Safety Act, which is a major matter of public policy and digital security in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790187094.313434
+  },
+  "93bae728f9bba2b1800e724179e7cb0e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal justice and public security matter involving a convicted murderer absconding from the Northern Ireland prison system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790187110.926902
+  },
+  "62739563056d6b7feb6cc363200fe289": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving the UK military and emergency services, falling under major security/infrastructure and breaking news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790187121.886731
+  },
+  "d89bb3aedb6ea075a7ef93e4173eafa9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and safety-related event involving multiple fatalities in the UK that is subject to an active police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790187181.502454
+  },
+  "b1b5140e4a268014b3f151ce124fde76": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the National Fire Chiefs Council regarding critical public safety infrastructure and emergency service effectiveness across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790187198.357303
+  },
+  "1742b7145aacb994c854295ed9451bee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding UK border security and government policy involving a cabinet minister, which is highly relevant to a UK audience.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1790187260.267807
   }
 }

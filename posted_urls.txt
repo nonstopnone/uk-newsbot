@@ -1,6 +1,3 @@
-2026-09-16T15:18:38.378921+00:00|https://www.bbc.co.uk/news/articles/cm3wjz3qyezzo|reform defector reveals she voted remain in brexit vote and wants welsh independence|c083bd637f244ab76731b1eac12ba32a
-2026-09-16T15:18:40.742037+00:00|https://www.bbc.co.uk/news/articles/c6783ekp0yn8o|putney pusher suspect found dead at home|ab686bb2d2398f0ea1aca93c71aa6985
-2026-09-16T15:18:43.029670+00:00|https://news.sky.com/story/burnham-to-delay-flagship-investment-summit-until-next-year-13588543|burnham to delay flagship investment summit until next year|c71627aaf4498d9b95ecc1c60241c959
 2026-09-16T19:18:47.350224+00:00|https://www.bbc.co.uk/news/articles/cm93v1573vqro|body found in search for missing noah woods 3|393f74824b2a515645d1ebaa0cdbde88
 2026-09-16T19:18:49.769459+00:00|https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o|schools in england get extra £500m in bid to avoid teachers pay strike|4bfeb487f012cdb52a10a400e3275b9a
 2026-09-16T19:18:52.414914+00:00|https://news.sky.com/story/four-men-jailed-after-tea-gas-sprayed-into-an-airport-lift-causing-some-to-vomit-blood-13588624|four jailed after tear gas sprayed into an airport lift causing some to vomit blood|45e837221d8f1036d45a7d7ce63c540d
@@ -99,3 +96,6 @@
 2026-09-23T13:19:19.346655+00:00|https://www.bbc.co.uk/news/articles/cq62k1947l7po|two pilots injured after raf aircraft crash|065ad420dd180781edc38704152c89b0
 2026-09-23T13:19:21.859175+00:00|https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno|uk to review chagos islands deal over lack of us support streeting tells bbc|c6f50e598d1abbb48ee0b96337a180ad
 2026-09-23T13:19:24.253458+00:00|https://news.sky.com/story/uk-space-squadron-to-guard-against-unprecedented-threats-against-satellites-13591003|uk space squadron to guard against unprecedented threats|063bc1510bf709bc018bb49b0c328b37
+2026-09-23T18:14:45.523528+00:00|https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o|home secretary hits out at unacceptable migrant landings|87048307eb2e2055985536e8e554deb6
+2026-09-23T18:14:47.923212+00:00|https://www.bbc.co.uk/news/articles/c32l8y8kygdvo|uk military jamming other nations satellites to defend itself bbc told|b4fb5776af8ffa46e48f16c2cd82dcc6
+2026-09-23T18:14:50.219005+00:00|https://news.sky.com/story/home-secretary-orders-urgent-review-as-second-small-boat-in-two-days-reaches-uk-after-evading-border-force-13591067|home secretary orders urgent review as second small boat in two days evades border force|1742b7145aacb994c854295ed9451bee
