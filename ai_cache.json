@@ -29714,5 +29714,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790125798.127565
+  },
+  "6e0bf38d876388e778325ae7868c4285": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant policy announcement by the Prime Minister regarding national security, foreign policy, and global AI regulation, which directly impacts the UK's strategic interests.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790147385.570428
+  },
+  "02c171f3f7213788b7373955a2cd0931": {
+    "is_relevant": true,
+    "reasoning": "The article covers the arrival of a small boat of migrants in the UK, which is a significant matter of border security and national policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1790147397.490624
+  },
+  "ee07afda9e399c140d08c20741351183": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/health consumer feature piece focusing on individual personal anecdotes about cosmetic surgery abroad rather than hard news regarding UK health policy or national public health crises.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790147406.864792
+  },
+  "6b1788e58f8c70e78f66b850226735d4": {
+    "is_relevant": false,
+    "reasoning": "This article concerns individual elective cosmetic surgery choices and health warnings, which falls under lifestyle and health consumer advice rather than hard news of significant public importance or policy relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790147415.828205
+  },
+  "310af6cb505400247c253bd892a3b1ff": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal agreement between the UK government and the EU regarding scientific cooperation, which constitutes significant UK policy and international relations news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790147426.64189
   }
 }
