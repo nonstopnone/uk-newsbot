@@ -29707,5 +29707,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790116700.39209
+  },
+  "696df22a0c3b6956d31fc3cb1c8c1821": {
+    "is_relevant": true,
+    "reasoning": "This relates to a historical crime and the first official report from a major UK government-established investigative body (ICRIR) concerning The Troubles, which is a matter of significant legal and political importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790125798.127565
   }
 }
