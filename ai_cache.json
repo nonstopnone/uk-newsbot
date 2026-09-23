@@ -29875,5 +29875,40 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1790187260.267807
+  },
+  "b4c489420cb6a53319f7e8e785186170": {
+    "is_relevant": true,
+    "reasoning": "This report concerns national security, UK military operations, and critical infrastructure, which are highly relevant to a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790200651.718479
+  },
+  "1f3fc3e5c0ac4cb2849c6353946bfb27": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a criminal legal proceeding involving a high-profile UK sports figure and the issue of online racial abuse, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790200665.403218
+  },
+  "3699b9685f8ae92502e420b5170318db": {
+    "is_relevant": false,
+    "reasoning": "This is a business closure story concerning a private fitness company, which falls under lifestyle/commercial news rather than hard news of national political, economic, or legal significance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790200674.676221
+  },
+  "c3740ddccc3ad8a3e1991adb41f539d9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and public safety incident involving a fatal house fire, which is of major domestic importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790200694.998792
+  },
+  "867ff1cae9a7549d95f9dc5fa3bb6654": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate restructuring affecting 500 UK-based jobs, which falls under the category of UK economy and labour market news.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790200705.465489
   }
 }
