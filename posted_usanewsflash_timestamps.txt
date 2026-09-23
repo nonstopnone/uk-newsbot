@@ -1,4 +1,3 @@
-2026-09-16T19:48:08.304862+00:00|https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss|Trump's Chief of Staff Susie Wiles announces she's cancer-free|8fb205f17a1540bab07b084be15718dd
 2026-09-17T00:48:54.525403+00:00|https://news.sky.com/story/trump-demands-interest-rates-be-lowered-fast-after-fed-announces-first-hike-in-three-years-13588775|Trump demands interest rates be lowered 'fast' after Fed announces hike|1a4d0782542a1fbaf706bb10021f9315
 2026-09-17T10:20:42.692541+00:00|https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss|US blocks Palestinian leader from UN meeting in New York for second year in row|3e4fc82286a547c6795c61db5e47a3bd
 2026-09-17T19:02:18.019229+00:00|https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss|UN experts say grounds to believe US committed war crimes in Iran strikes|c8fbbc72e549eca02601a6b05b8f2079
@@ -25,3 +24,5 @@
 2026-09-22T19:55:11.461555+00:00|https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss|Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal|c0055dc59e1997d7bf7e626932bee3e3
 2026-09-22T22:31:52.592258+00:00|https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&at_campaign=rss|American power, AI and a walkout - key moments from Trump's UN speech|0efdb0ce689ef52b13086a49171fe54a
 2026-09-23T10:13:54.609017+00:00|https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss|Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing|7806687117c4dc76dace293cc810da0a
+2026-09-23T22:09:12.505660+00:00|https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss|FBI investigates apparent theft of its personnel data by hackers|19b2e413961bba8c092b231d04e8e7a4
+2026-09-23T22:09:18.006975+00:00|https://www.bbc.co.uk/news/videos/cj046y4wy034o?at_medium=RSS&at_campaign=rss|Watch: What messages did the US and Iran send about the war?|6eb79c30ade0e50a1c2934a3fd44e8b8
