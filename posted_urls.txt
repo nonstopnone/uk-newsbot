@@ -1,5 +1,3 @@
-2026-09-17T12:58:20.202328+00:00|https://www.bbc.co.uk/news/articles/cmkg71ygwny7o|fathers tribute to sweetest little boy noah|92aa7f87a8a076934515312515b3e794
-2026-09-17T12:58:22.561630+00:00|https://www.bbc.co.uk/news/articles/ckg59nq6y990o|family says dead man was not putney pusher|c90b3d15add758d7e708e2d64b8b1247
 2026-09-17T17:30:08.115503+00:00|https://www.bbc.co.uk/news/articles/c8dx5gldrk0ko|ukrainian guilty of vandalism at mosques linked to russian network behind starmer arson attack|b56a3d77622434d403dabbb38e0734fe
 2026-09-17T17:30:10.670500+00:00|https://www.bbc.co.uk/news/articles/cqgk52xjd08ko|helen jenner likely to take over as reform wales leader sources tell bbc|9543ddf8f5c1f985ef5ce36b073d53fe
 2026-09-17T17:30:13.277114+00:00|https://www.telegraph.co.uk/business/2026/09/17/uk-interest-rates-bank-of-england-pound-ftse-100-markets|interest rate increase likely warns bank of england|2545a35e1974c09c99fb57937e440a42
@@ -99,3 +97,5 @@
 2026-09-24T10:57:10.358593+00:00|https://www.bbc.co.uk/news/articles/ckddvje77m2zo|nhs trust to review 4500 more breast cancer cases after failings|e2764c2d6ce444a145879031b4f8f711
 2026-09-24T10:57:12.875510+00:00|https://news.sky.com/story/human-remains-found-next-to-greater-manchester-motorway-identified-as-man-who-vanished-in-january-13591330|skeletal remains found next to motorway identified as man who went missing in january|6d704039bb65deb9e6cca599f03296cf
 2026-09-24T10:57:15.449864+00:00|https://news.sky.com/story/unfair-ban-on-drinking-alcohol-in-football-stands-could-be-scrapped-says-burnham-13591266|unfair ban on drinking alcohol in football stands could be scrapped says pm|81fa0ec2cfa65da67e0845ed33ec0e14
+2026-09-24T15:43:06.698086+00:00|https://www.bbc.co.uk/news/articles/c6z0z5dz884lo|reported assaults on britains rail services rise by more than a third|140d108fcb164ca0b770e18e9609faea
+2026-09-24T15:43:09.065310+00:00|https://www.bbc.co.uk/news/articles/cmpq087p5qxro|swinney backs decriminalisation of drugs after spike in deaths|a4cfe5e98a4e499df56e74a53d7c80ad
