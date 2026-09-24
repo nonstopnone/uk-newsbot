@@ -29952,5 +29952,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790228748.066058
+  },
+  "c69a3d4581d590c99c30e9d09a6b0b6d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and safety incident involving the UK military and the grounding of an aircraft fleet, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790247364.130653
+  },
+  "e2764c2d6ce444a145879031b4f8f711": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on major NHS service failures and patient safety, which falls directly under the remit of UK public health and national infrastructure news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790247374.357624
+  },
+  "6d704039bb65deb9e6cca599f03296cf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and legal matter involving a police investigation into the discovery of human remains in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790247384.114488
+  },
+  "292ff7b925b13d52506033f91f198405": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal matter involving UK maritime law and public order, involving an arrest by UK police forces.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790247393.970058
+  },
+  "81fa0ec2cfa65da67e0845ed33ec0e14": {
+    "is_relevant": true,
+    "reasoning": "The Prime Minister's public stance on a significant potential change to national sporting regulations constitutes UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790247406.428599
+  },
+  "ef538f8b79ecca771861b337092b7780": {
+    "is_relevant": false,
+    "reasoning": "This is a report on theatre production logistics and entertainment industry operational changes, which falls under lifestyle and arts rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790247427.446718
   }
 }
