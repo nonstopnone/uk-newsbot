@@ -30064,5 +30064,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790279122.333955
+  },
+  "ec0d7f00b57ad572c24775376e6ba612": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal charge involving national border security and public order, which is of direct relevance to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790290547.772664
+  },
+  "710d96c231d9415f079323b1ce8ab539": {
+    "is_relevant": false,
+    "reasoning": "This article covers a cricket match result and player injury, which falls under sports reporting and is explicitly excluded by the filter criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790290564.757325
+  },
+  "0e3e57243b2420073063b74c638e5e5c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations issue affecting thousands of public sector employees in a major UK city and carries implications for local government employment practices.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790290576.445823
+  },
+  "f0413336e0e662bb4203c333e237d0f0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local report regarding a fatal road traffic collision in Northern Ireland involving a police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790290586.967509
   }
 }
