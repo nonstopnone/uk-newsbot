@@ -29994,5 +29994,75 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790247427.446718
+  },
+  "fda6acbb58189e8a09e11662a9a86810": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal story concerning a Canadian case that directly involves the deaths of 79 UK citizens, making it a matter of major UK public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790278991.723802
+  },
+  "da1583e5f82ee67f8f91ab7d1f7c5193": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the UK justice system and the sentencing of a sex offender, involving public safety concerns and critical comments from the Met Police Commissioner.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790279013.853566
+  },
+  "f863542a244c157bd4cdd517360ad209": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal government policy decision regarding public safety and animal legislation in the UK, which is a matter of domestic policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790279041.168904
+  },
+  "aef420a1c0b99d1d9518b90f81edcaa7": {
+    "is_relevant": true,
+    "reasoning": "This is a major industrial relations and economic development affecting a significant number of public sector workers in a devolved government area, fitting the criteria for UK politics and local government administration.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790279052.803244
+  },
+  "8b998ea081e9a9f6bac061ddf8e9f710": {
+    "is_relevant": true,
+    "reasoning": "The report concerns a high-profile, ongoing diplomatic and cultural dispute involving the British Museum's collection, which is a matter of significant national interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1790279064.021182
+  },
+  "4874f7884a0c9b0a49a4750f550ccc93": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal conviction related to civil unrest in the UK, which is a significant matter of domestic crime and public order.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790279078.906683
+  },
+  "aa18586b4a556f35d0311c8baf10e7fd": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the capture of a convicted murderer who absconded from a high-security prison in Northern Ireland, a significant matter of public safety and UK criminal justice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790279090.376855
+  },
+  "17375f2a971ae36db0cde9ac95b07a6f": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case involving a high-profile theft from a royal estate, which constitutes significant UK legal and royal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790279099.022179
+  },
+  "d36e07f0063560dc28f6dbc10ed07747": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the death of a British national in a terrorist attack and is based on findings from a UK inquest, which is a matter of public interest and legal record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790279111.581623
+  },
+  "1e0d9d89400faf4f23cc08a3b707b76b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome regarding a fatality caused by a major infrastructure failure in London, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790279122.333955
   }
 }
