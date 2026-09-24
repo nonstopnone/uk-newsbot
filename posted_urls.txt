@@ -1,5 +1,3 @@
-2026-09-17T01:01:30.909710+00:00|https://www.bbc.co.uk/news/articles/cm0e3r0j5wgxo|the papers kings astonishing outburst and heartbreak after search for missing noah|f61deb9224385a14f36f3572ea46ae4a
-2026-09-17T01:01:33.325403+00:00|https://www.bbc.co.uk/news/articles/c5y4j8276epo|delay to neonatal reform is putting babies at risk warn doctors|8074339d77397b09dafec83576d9474e
 2026-09-17T07:03:17.237256+00:00|https://www.bbc.co.uk/news/articles/cmvgyp871j03o|palace in war of words with earl spencer over claims in diana book|ac27dc866f91cfde2a32b7773f029d9d
 2026-09-17T07:03:19.586182+00:00|https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o|interest rates hold expected but bank of england facing tough choices|3bd4d6da34fabd20536cfd2092692dbb
 2026-09-17T07:03:21.944784+00:00|https://news.sky.com/story/life-extending-drug-for-breast-cancer-patients-now-on-nhs-in-england-13588795|lifeextending drug for breast cancer patients now on nhs|47a9876ae862cd821333e5f015e846e7
@@ -98,3 +96,5 @@
 2026-09-23T21:58:30.866193+00:00|https://news.sky.com/story/teenager-denies-sending-racist-message-to-england-defender-jess-carter-13591166|teenager denies sending racist message to lioness star|1f3fc3e5c0ac4cb2849c6353946bfb27
 2026-09-24T00:16:20.132569+00:00|https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo|what video footage tells us about raf training jet crash|af6272af184253574840a0957c3bbe2b
 2026-09-24T00:16:22.871882+00:00|https://www.bbc.co.uk/news/articles/c920vy2jxle8o|tories would prevent longterm jobless spending benefits on alcohol and cigarettes|38cf0a6ae585ac4e520163a17df79344
+2026-09-24T05:45:48.811928+00:00|https://www.bbc.co.uk/news/articles/crd9453qpnd0o|police arrest 36 in raids on vietnamese crime gangs linked to human trafficking|9c652575b99736e167df4f99f1c36956
+2026-09-24T05:45:51.190010+00:00|https://www.bbc.co.uk/news/articles/cm207yn1124zo|mother of teen who died deeply hurt that nhs staff may have accessed sons records inappropriately|e43684443473ffa91484a0502e6bf75f

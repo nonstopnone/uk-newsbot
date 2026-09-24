@@ -29938,5 +29938,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1790208978.471948
+  },
+  "947e8f5f81a29eb4b9897448b43aa3c5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the UK's prison capacity crisis and institutional infrastructure failures, which is a matter of major public interest and government policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790228739.219874
+  },
+  "05a126b9559b75b3c03dcd9b2bb5704c": {
+    "is_relevant": false,
+    "reasoning": "This is a scientific discovery regarding wildlife behavior in Kenya with no material connection to UK politics, society, or the economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790228748.066058
   }
 }
