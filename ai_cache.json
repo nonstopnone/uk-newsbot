@@ -29910,5 +29910,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1790200705.465489
+  },
+  "cc9fa99d5793b12a149a499d7cc5db5a": {
+    "is_relevant": false,
+    "reasoning": "This article is a consumer interest/lifestyle piece about the price of gym supplements rather than a significant economic report affecting the UK national economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790208926.430096
+  },
+  "af6272af184253574840a0957c3bbe2b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and military infrastructure incident involving an RAF aircraft crash and subsequent safety investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790208955.982017
+  },
+  "91f7fbe79587a64fa6e7466eba728c05": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest personal story/lifestyle feature rather than hard news regarding policy, systemic change, or significant national development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790208966.164646
+  },
+  "450c8f371479551b33ec7869788f61ec": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health and environmental safety issue affecting a local UK population, involving ongoing government agency investigations.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790208978.471948
   }
 }
