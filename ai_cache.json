@@ -30127,5 +30127,75 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1790298425.905979
+  },
+  "c2e471ee6fe1ad7779521867c0d6e5ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant incident involving emergency services at a major UK military installation, which qualifies as hard news regarding UK security and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790319567.247807
+  },
+  "36727cc7f201c1ab360eec7dae838d3b": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest animal story and does not constitute hard news regarding UK politics, economy, crime, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790319578.355487
+  },
+  "52f5c63f76d4c078887a072493350f40": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the NHS and public health policy, which is a core topic of interest for the UK audience.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790319588.706335
+  },
+  "b80dfee71b3d5d314ce7ba09a74f16bb": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident involving a UK sports figure and a subsequent safety investigation involving the Football Association, which is of public interest regarding sports safety standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790319600.537066
+  },
+  "60368033265863e832a645a24c1dfd6a": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major national infrastructure and development project with significant local economic and social impact, falling under the remit of UK planning and domestic news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790319611.780049
+  },
+  "60ffafc8fcf1787df35cd4a2a3e83236": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime story involving the death of a British national abroad, which has ongoing legal and welfare implications for the victim's family in Scotland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790319625.645613
+  },
+  "94529796700724b196fb9bda2375eb94": {
+    "is_relevant": true,
+    "reasoning": "This represents significant UK industrial infrastructure and government-backed innovation in the transport sector, which is relevant to the UK economy and national development.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790319634.109737
+  },
+  "76bc2ba52fc228924459c2931d91b100": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile British public figure facing serious criminal charges in an ongoing international legal proceeding, which is of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790319643.399091
+  },
+  "96a9ee12778bb388e184707cc77af0e2": {
+    "is_relevant": true,
+    "reasoning": "The article concerns UK political discourse surrounding the Labour party conference and the domestic policy challenge of immigration, which is directly relevant to UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790319653.423176
+  },
+  "9d0e137cdf6f72079245fe4b5f208f22": {
+    "is_relevant": true,
+    "reasoning": "This is a significant diplomatic incident involving UK national security and the protection of domestic communities from foreign-state hostile activity.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790319664.815129
   }
 }
