@@ -30197,5 +30197,75 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790319664.815129
+  },
+  "fcf0693d5aceea4870994580be34241a": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a tragic inquest concerning a child's death, which is a matter of public interest involving police and legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790339998.416459
+  },
+  "e7c884a8849df7de703c4b8c8660147d": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court proceeding involving a high-profile incident concerning immigration and public safety in UK territory.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790340010.693654
+  },
+  "a344d8e0e60995b20544a930a6c6925a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a UK police force and potential data compromise, which falls under the category of crime and public sector security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790340020.289938
+  },
+  "77414bfbde8b8b7c6a1411f1eb660fe3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant employment dispute involving a major local authority and potential implications for thousands of public sector workers, which constitutes relevant UK domestic news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790340030.196104
+  },
+  "2a7c50e847c4f6b5303918fd26042f2b": {
+    "is_relevant": true,
+    "reasoning": "The story involves an attempted breach of a high-security UK military facility housing the nuclear deterrent, which is a significant matter of national security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790340044.416534
+  },
+  "d22dc2220255e9592bb06ef94f285730": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court proceeding involving a murder charge and police investigation in Belfast, which falls under UK legal jurisdiction.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790340055.264657
+  },
+  "cdd2319e38732f053202cbf85fa05d04": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant security incident at a major UK nuclear naval facility and involves the Crown Prosecution Service's decision-making process.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790340070.08
+  },
+  "f2662dfc0abd7e688104a320a7bc5531": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major drugs seizure within the UK, which falls under police and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790340082.404857
+  },
+  "5b19312eb5eae46ae8470df399130941": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/advice piece focused on home improvement tips rather than hard news concerning UK politics, the economy, or significant public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790340098.804362
+  },
+  "244e310a0d4104bcc678ab00ae7efb62": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal legal case involving a high-profile figure in the context of UK border and immigration issues, making it highly relevant to UK crime and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790340108.264548
   }
 }
