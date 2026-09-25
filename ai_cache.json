@@ -30351,5 +30351,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790358386.530243
+  },
+  "43ac9599c82685fd8f513516ae0e6eaa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the potential regulatory and sporting sanctions against a major UK football club following long-term financial rule breaches, which is of substantial interest to the UK sporting and legal landscape.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790369951.636839
+  },
+  "0e798ffed7f4db229306f30d524233b5": {
+    "is_relevant": true,
+    "reasoning": "This is a major legal and financial development involving a prominent UK institution that has significant implications for the Premier League and the wider sporting regulatory landscape.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790369965.630733
+  },
+  "c411e5d2a40a37211f2315b37b8f04f5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations and local government matter involving 23,000 public sector workers and the devolved Scottish government, which falls under UK political and economic news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790369976.39236
+  },
+  "c48798c05d0e4cf7fd46a8534ea51054": {
+    "is_relevant": false,
+    "reasoning": "This is a business/entertainment story concerning a single private company's internal failure. It does not meet the threshold for hard news impacting the UK economy or national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790369985.216759
   }
 }

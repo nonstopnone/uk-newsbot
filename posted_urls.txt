@@ -1,5 +1,3 @@
-2026-09-18T19:23:42.165404+00:00|https://www.bbc.co.uk/news/articles/ckn8ez8q86plo|driver who killed woman celebrating 60th jailed|d6abb3e3ad7505afb2d36208f39a83f3
-2026-09-18T19:23:44.580303+00:00|https://www.bbc.co.uk/news/articles/crgjqzjd1ljxo|met pc denies charge over pregnant womans death|c93544c7e9a653dbbd0040ee66ee62cf
 2026-09-18T22:10:18.776651+00:00|https://www.bbc.co.uk/news/articles/cvrl64773g58o|not an easy inbox for new scottish labour leader|1857e351313ea47df9b9fabfc4efbc9d
 2026-09-18T22:10:21.215145+00:00|https://www.bbc.co.uk/news/articles/cry4zw5219eno|train passengers could be overcharged by new payasyougo scheme council warns|b01ea9cc3ec54b91ac7175601e201a08
 2026-09-19T00:52:52.552703+00:00|https://www.bbc.co.uk/news/articles/c6lyex091w70o|nottingham attacks family condemn police promotion|f2257f7faa3aa33341ee4246dab2023b
@@ -101,3 +99,5 @@
 2026-09-25T17:46:34.249086+00:00|https://www.telegraph.co.uk/football/2026/09/25/manchester-city-guilty-financial-rule-breaches|manchester city found guilty of 114 charges|cb19b6eed7871c8fe72a6e9cd5b08ddf
 2026-09-25T17:46:36.617408+00:00|https://news.sky.com/story/three-jailed-over-trafficking-stolen-devices-as-part-of-uks-largest-mobile-phone-smuggling-network-13591852|three of uks largest mobile phone smuggling network jailed|2d880e405cc52775693305d1385d6afd
 2026-09-25T17:46:38.987475+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/uk-sends-team-to-south-sudan-as-country-braces-for-ebola|britain sends team to south sudan as country braces for ebola|4370d4c7a1fecd4d458daea47ae04ff5
+2026-09-25T20:59:45.722931+00:00|https://www.bbc.co.uk/sport/football/articles/cx30540044q0o|relegation titles stripped appeals what next for man city|43ac9599c82685fd8f513516ae0e6eaa
+2026-09-25T20:59:48.009459+00:00|https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go|man city found guilty of majority of 115 financial rule breaches|0e798ffed7f4db229306f30d524233b5
