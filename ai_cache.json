@@ -30379,5 +30379,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790369985.216759
+  },
+  "2b29515ac93f890e422b4875399e977c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and community-related development in Northern Ireland involving public order and the Parades Commission, which is a matter of clear UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790380487.855073
+  },
+  "ea571af68fc12571a159be619b7ec10f": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile UK criminal case and legal proceedings involving the NHS and the Court of Appeal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790380498.395957
   }
 }
