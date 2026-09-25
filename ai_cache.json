@@ -30092,5 +30092,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790290586.967509
+  },
+  "add80a9d0938c3677783508fb7b5624d": {
+    "is_relevant": false,
+    "reasoning": "The submission is a summary of newspaper front pages rather than a report on a specific, standalone news event, and the content primarily focuses on international diplomatic meetings and celebrity gossip.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790298389.036321
+  },
+  "60cca1b946973006980b64ba78a92c30": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and wellness piece about fitness trends, which falls under prohibited content such as lifestyle and fluff features.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790298398.318753
+  },
+  "7c28cfb2b3bd7918943bcf298e5d26de": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a major military facility in the UK, requiring emergency service intervention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790298407.248825
+  },
+  "f61460e7e7bcfbc638418c19470ac086": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing matter of public order and political tension within Northern Ireland, which falls under the jurisdiction of a UK-regulated body.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790298416.073716
+  },
+  "497e1ecd42aff52495f41a20abb2484b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning UK fiscal policy and national tax revenue, which is directly relevant to the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790298425.905979
   }
 }
