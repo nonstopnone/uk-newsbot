@@ -30267,5 +30267,89 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790340108.264548
+  },
+  "3ed0c1a671e4698d28296c96fed73fdc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant employment relations issue involving a major UK public body and devolved government intervention, which impacts thousands of workers.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790358190.577782
+  },
+  "50277f10288b8cd2a00945eae51cfd0e": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant and historically contentious political and community issue in Northern Ireland, directly impacting public order and devolved governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790358199.693866
+  },
+  "cb19b6eed7871c8fe72a6e9cd5b08ddf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event concerning the Premier League, a major UK cultural and sporting institution, involving allegations of widespread regulatory breaches.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790358210.494462
+  },
+  "797142afcedcbd78c5c1cf75c05cffd4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the Premier League, which is a major component of UK sporting culture and industry, involving extensive legal and financial implications for a prominent UK club.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790358262.23002
+  },
+  "f6ac38aa025b4a537bf5acbd7b833782": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the sentencing of a major criminal grooming gang by a UK court, which falls under core crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790358275.606236
+  },
+  "8f440b882508d85ec6d25d509afb25d9": {
+    "is_relevant": true,
+    "reasoning": "This concerns the sentencing and legal proceedings of a high-profile former UK political leader involved in serious criminal offenses.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790358283.70364
+  },
+  "2d880e405cc52775693305d1385d6afd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major smuggling network operating within the UK and subsequent sentencing, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790358301.630213
+  },
+  "2a48fecf899e27ed03a9e0eaf2bc5c74": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and financial story involving a major UK institution and potential disciplinary action with widespread interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790358315.771232
+  },
+  "201fc012a08ca56fc9bfd1f1f0aeb144": {
+    "is_relevant": false,
+    "reasoning": "This is a product review and lifestyle content rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790358325.273707
+  },
+  "4370d4c7a1fecd4d458daea47ae04ff5": {
+    "is_relevant": true,
+    "reasoning": "The deployment of British specialist teams and public health resources to address a major international health threat constitutes significant UK-led international action.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1790358361.543603
+  },
+  "8ba5152fb319744955d2bbf33b7dd1fa": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of a prominent British athlete in a major international sporting event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790358373.49031
+  },
+  "e1ded6d3183a98fa506a3b72e8cadca7": {
+    "is_relevant": true,
+    "reasoning": "This concerns the Metropolitan Police's conduct and an investigation oversight by a statutory watchdog, which falls under UK crime and legal administration.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790358386.530243
   }
 }

@@ -1,6 +1,3 @@
-2026-09-18T16:55:54.598520+00:00|https://www.bbc.co.uk/news/articles/c9p80r3vl753o|man admits to killing woman in londonderry court hears|83f125758c9060b43c74c749c149da21
-2026-09-18T16:55:57.174586+00:00|https://www.bbc.co.uk/news/articles/cmqxvd1drd35o|im telling the truth earl spencer defends diana book claims about charles in bbc interview|6f0c4d0f03b1d06a776e8579095f2f7c
-2026-09-18T16:55:59.968380+00:00|https://news.sky.com/story/motor-industry-demand-andy-burnhams-help-in-switching-to-defence-supply-13589369|motor industry demand pms help in switching to defence supply|09e0cbc45e7c068d1fb873f994f81fbc
 2026-09-18T19:23:42.165404+00:00|https://www.bbc.co.uk/news/articles/ckn8ez8q86plo|driver who killed woman celebrating 60th jailed|d6abb3e3ad7505afb2d36208f39a83f3
 2026-09-18T19:23:44.580303+00:00|https://www.bbc.co.uk/news/articles/crgjqzjd1ljxo|met pc denies charge over pregnant womans death|c93544c7e9a653dbbd0040ee66ee62cf
 2026-09-18T22:10:18.776651+00:00|https://www.bbc.co.uk/news/articles/cvrl64773g58o|not an easy inbox for new scottish labour leader|1857e351313ea47df9b9fabfc4efbc9d
@@ -98,3 +95,9 @@
 2026-09-25T12:41:50.946618+00:00|https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo|daniel thomas pleads not guilty after dinghy slashed|e7c884a8849df7de703c4b8c8660147d
 2026-09-25T12:41:53.238653+00:00|https://news.sky.com/story/iranian-man-accused-of-trying-to-enter-uks-nuclear-naval-base-will-face-no-action-prosecutors-say-13591730|iranian man accused of trying to enter uks nuclear naval base will face no action prosecutors say|cdd2319e38732f053202cbf85fa05d04
 2026-09-25T12:41:55.518453+00:00|https://news.sky.com/story/anti-migrant-activist-danny-tommo-pleads-not-guilty-to-criminal-damage-over-boat-slashing-13591663|antimigrant activist danny tommo pleads not guilty to criminal damage over boat slashing|244e310a0d4104bcc678ab00ae7efb62
+2026-09-25T17:46:27.016409+00:00|https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo|im not tempted to call an early election burnham says|8b864f1bcc750c43458c92acdc01a08f
+2026-09-25T17:46:29.378270+00:00|https://news.sky.com/story/glasgow-city-council-pauses-plan-to-fire-and-rehire-more-than-23000-workers-13591898|council pauses plan to fire and rehire more than 23000 workers|3ed0c1a671e4698d28296c96fed73fdc
+2026-09-25T17:46:31.657337+00:00|https://www.bbc.co.uk/news/articles/cm86xngyd3xwo|contentious orange order parade can go ahead commission says|50277f10288b8cd2a00945eae51cfd0e
+2026-09-25T17:46:34.249086+00:00|https://www.telegraph.co.uk/football/2026/09/25/manchester-city-guilty-financial-rule-breaches|manchester city found guilty of 114 charges|cb19b6eed7871c8fe72a6e9cd5b08ddf
+2026-09-25T17:46:36.617408+00:00|https://news.sky.com/story/three-jailed-over-trafficking-stolen-devices-as-part-of-uks-largest-mobile-phone-smuggling-network-13591852|three of uks largest mobile phone smuggling network jailed|2d880e405cc52775693305d1385d6afd
+2026-09-25T17:46:38.987475+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/uk-sends-team-to-south-sudan-as-country-braces-for-ebola|britain sends team to south sudan as country braces for ebola|4370d4c7a1fecd4d458daea47ae04ff5
