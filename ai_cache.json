@@ -30463,5 +30463,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790413157.384375
+  },
+  "5c3d8f3b3557da6da1bcc063605d4ba8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a high-profile, long-standing cold case investigation conducted by the Metropolitan Police.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790430068.568067
+  },
+  "26b26d90e90bc61c3310677f81e918a9": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national in a major international incident is significant news for a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1790430078.877522
+  },
+  "7672e87e1afaab0a21a66a40420911f9": {
+    "is_relevant": true,
+    "reasoning": "This relates to the infected blood scandal, a major issue of public health and legal inquiry in the UK involving NHS clinical malpractice.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790430090.826582
   }
 }
