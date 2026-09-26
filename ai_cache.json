@@ -30519,5 +30519,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790454689.748392
+  },
+  "ad2bd8edc94fd833b4e5949d7ba88705": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story about a personal experience with a property purchase, which falls under lifestyle/consumer advice rather than significant hard news of national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790464800.595261
+  },
+  "c80dce4e2373d42924f739bdd912f651": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving civil unrest potential and legal proceedings within the UK devolved government context of Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790464811.619764
   }
 }
