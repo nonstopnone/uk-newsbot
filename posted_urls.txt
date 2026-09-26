@@ -1,5 +1,3 @@
-2026-09-19T14:07:20.406770+00:00|https://www.bbc.co.uk/news/articles/cxddvn11nq61o|dup will not be found wanting when it comes to unionist cooperation says robinson|76e6bac8e3d9df7bb72d641a75c08464
-2026-09-19T14:07:22.977031+00:00|https://www.bbc.co.uk/news/articles/cmly4x7zrwp0o|police release cctv of missing lillias last sighting|1064955c3217bf84414124802b54db9d
 2026-09-19T17:40:50.609879+00:00|https://www.telegraph.co.uk/football/2026/09/19/premier-league-live-latest-scores-arsenal-brighton|bloodthirsty brighton feast on rattled arsenal|7f5e16bffd94c1c08a6e43643b7c80ad
 2026-09-19T17:40:53.055239+00:00|https://www.telegraph.co.uk/rugby-union/2026/09/19/england-v-canada-latest-updates-from-wxv-global-series-test|red roses 39match winning streak brought to end in canada draw|c807da903871a12db44fff010548797c
 2026-09-19T17:40:55.640500+00:00|https://news.sky.com/story/teenagers-jailed-for-killing-17-year-old-outside-mcdonalds-13589690|teenagers jailed for killing 17yearold outside mcdonalds|8ae82fe6af817431b27966dd61109a88
@@ -105,3 +103,7 @@
 2026-09-26T08:59:20.516441+00:00|https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o|burnham not doing enough to boost growth says former business secretary|8a0e3bf82bb9fec3d1b31162cce6b496
 2026-09-26T13:41:31.564298+00:00|https://www.bbc.co.uk/news/articles/c6kg090rx2kdo|glasgow city council pauses plan to fire and rehire 23000 staff|c411e5d2a40a37211f2315b37b8f04f5
 2026-09-26T13:41:34.063170+00:00|https://www.bbc.co.uk/news/articles/c60m334grx9vo|met to reexamine cctv from jill dando murder case|5c3d8f3b3557da6da1bcc063605d4ba8
+2026-09-26T17:34:56.769984+00:00|https://www.bbc.co.uk/news/articles/crx2zz401935o|heathrow airport warns third runway could be delayed by four years|5d41f52fe871ca3904a9a2262563e92e
+2026-09-26T17:34:59.350201+00:00|https://www.telegraph.co.uk/rugby-union/2026/09/26/england-women-v-new-zealand-women-score-latest-wxv-updates|harrisons late try gives red roses victory over new zealand in twickenham thriller|e94fefda1c1f102a08bbb01ba220d966
+2026-09-26T17:35:01.926305+00:00|https://www.bbc.co.uk/news/articles/cw20vvezklx4o|mayfair club shuts as met investigates weapon claim|434e744a7c977e339ff8236746515240
+2026-09-26T17:35:04.363722+00:00|https://www.telegraph.co.uk/football/2026/09/26/slovenia-vs-scotland-live-score-latest-nations-league|scotlands pocognoli era starts with encouraging signs but familiar issues in front of goal|663665d1e1d2b859eab247803c901d75

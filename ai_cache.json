@@ -30484,5 +30484,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790430090.826582
+  },
+  "c71781a0fbdb5758ae0700b8b8b607b0": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a veteran's passing; while respectful, it does not constitute hard news or a significant event impacting the UK public as required by the subreddit's remit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790444062.597054
+  },
+  "434e744a7c977e339ff8236746515240": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a police investigation into alleged serious crime and public disorder involving a high-profile London venue, which led to a local authority licensing suspension.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790444072.258394
+  },
+  "663665d1e1d2b859eab247803c901d75": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the Scotland national football team's competitive international match, which constitutes major UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790444084.26513
+  },
+  "c827afa5ccf2a513d395e4e83ebb50ee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development regarding financial regulation and governance in the Premier League, which is a major component of the UK's sports industry and economy.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790444095.893657
   }
 }
