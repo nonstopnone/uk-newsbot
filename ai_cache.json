@@ -30393,5 +30393,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790380498.395957
+  },
+  "fddc5fe7fc0dce9e017a27ef2ec55673": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic accident involving a British national abroad but lacks the wider public interest or material impact on the UK required for this subreddit's focus on national hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790391715.34804
+  },
+  "3ec072022960c66ffb05d408da7c08f1": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story regarding a lottery win, which does not constitute hard news or a significant event affecting the UK's political or economic landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790391723.752852
+  },
+  "3ec425e60eaf65ee2bd1301d28eed6df": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/cultural feature article about a musician's personal experience and a new book release, rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790391733.108549
+  },
+  "054ab7c4dc6997ec6d1bf248a60bbb11": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story rather than hard news regarding UK politics, economy, or critical infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790391741.108466
+  },
+  "f2f3d83f780e4828876fb07e506a9e8f": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment review of a video game, which does not constitute hard news relevant to UK public affairs, policy, or major events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790391751.630933
+  },
+  "6d48b624d5c10d96ff7e56bd0a8ab44c": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and parenting advice article, not hard news relevant to UK public affairs, politics, or economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790391760.741327
+  },
+  "9574a25e4e64b0db0958819f458950e7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report regarding police practice, public safety, and the handling of confiscated property by UK law enforcement agencies.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790391771.366831
+  },
+  "c460f77781a1b65d01c239fc6e105bca": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant government contract involving the NHS and is linked to ongoing discussions at the Labour Party conference, which is of direct political and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790391780.338415
   }
 }
