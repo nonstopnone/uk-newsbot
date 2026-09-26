@@ -30512,5 +30512,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1790444095.893657
+  },
+  "ddb5fcc0cebe0eeb6f3b48b654ac566e": {
+    "is_relevant": false,
+    "reasoning": "This is a local consumer dispute regarding faulty second-hand vehicles, which constitutes a lifestyle/consumer affairs issue rather than hard news of significant national importance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790454689.748392
   }
 }
