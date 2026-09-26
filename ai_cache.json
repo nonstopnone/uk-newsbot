@@ -30449,5 +30449,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790391780.338415
+  },
+  "44cfba3b68ad0258502b9babedf03276": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a lottery win, which constitutes fluff or lifestyle content rather than hard news impacting UK society, politics, or the economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790413148.040289
+  },
+  "70ba48f89f263528655bf2ac4db211b2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing legal and public health investigation involving inquests into deaths potentially caused by a convicted surgeon, which is highly relevant to UK public interest and the legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790413157.384375
   }
 }
