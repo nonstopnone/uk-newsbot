@@ -30617,5 +30617,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790521036.22504
+  },
+  "43a5b70359ab4f94b505fa42a3b6c341": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the results of a Premiership Rugby match, which is a major UK sport event.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790535212.580639
+  },
+  "f5b1833a762a2c0d5ac6f8b2d74bd9a9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving a terrorism investigation in the UK, directly impacting public safety and a specific community.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790535222.598593
   }
 }
