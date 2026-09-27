@@ -30589,5 +30589,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790502304.839319
+  },
+  "10814c34ae137053f752ab176c7a70dc": {
+    "is_relevant": true,
+    "reasoning": "This covers significant political and communal instability in Northern Ireland, directly impacting devolved governance and regional security.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790521008.39764
+  },
+  "f274fb2a9dfa27884c8f24c93225c64d": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest photo gallery rather than hard news, and does not meet the criteria for significant UK news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790521018.278141
+  },
+  "725c14880ea68900e1ba1643f70020ad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local emergency and fatal incident involving the emergency services in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790521029.867233
+  },
+  "93efc63d411aaeffa3e985208d50be57": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a homicide investigation by the Metropolitan Police in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790521036.22504
   }
 }
