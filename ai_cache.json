@@ -30547,5 +30547,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790478433.575655
+  },
+  "af1ecf555fea7bbd44534cd6f71b4976": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local infrastructure emergency affecting a large number of UK residents and causing major disruption to local transport networks.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790502234.849454
+  },
+  "4bfdcb195db7f067778fe5431eb3c0d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding an NHS data breach and the subsequent suspension of staff, which involves public sector accountability and patient privacy issues.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790502249.058341
+  },
+  "580b1a3df49f6494e13ec02281e7aff4": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story about a dog rescue that does not meet the threshold of significant hard news for a national UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790502262.30215
+  },
+  "83f6580239302d8516d95e038d5c84bc": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle feature story about a personal medical history, not hard news of national political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790502276.805299
+  },
+  "645fb3334f0ca3d94ad8725ae9f50de7": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle profile piece about a career change, rather than hard news concerning UK politics, the economy, or significant societal events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790502288.243834
+  },
+  "69a3c9921ab74e652bca5cb9bdf21b4e": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story rather than hard news, politics, or a significant event, and is considered lifestyle/fluff content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790502304.839319
   }
 }
