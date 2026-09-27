@@ -30631,5 +30631,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790535222.598593
+  },
+  "ce3eb24bf833b0e4a740b69d1c56fe27": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving counter-terror police and the evacuation of UK residents near an RAF base.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790545711.796711
+  },
+  "8c15820da827e19b27df8ea415dc781e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and counter-terrorism incident involving the arrest of individuals near a major military airbase, directly concerning UK public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790545722.132468
   }
 }
