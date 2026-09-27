@@ -30533,5 +30533,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790464811.619764
+  },
+  "0eef1b779deb48cac8e3513419737f1f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding an NHS data breach and institutional failure, which is a matter of clear public interest and UK health policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790478422.937133
+  },
+  "1910fca557aa1e917ce8921b7176615a": {
+    "is_relevant": false,
+    "reasoning": "This article is entertainment/lifestyle content regarding a reality television show, which does not meet the criteria for hard news relevant to the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790478433.575655
   }
 }

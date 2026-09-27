@@ -1,4 +1,3 @@
-2026-09-20T00:34:07.037719+00:00|https://www.bbc.co.uk/news/articles/c39w4n07ekeno|the deadly new drugs reshaping scotlands fight against addiction|ceb9579cc08eb5630201ae7892b30764
 2026-09-20T10:26:51.883686+00:00|https://www.bbc.co.uk/news/articles/cwkgxer9jezeo|residents near firehit hotel evacuated over fears blaze weakened building|9ca8d3f18c2a58d0c1ca04b8f2736654
 2026-09-20T10:26:54.271990+00:00|https://news.sky.com/story/man-28-fatally-stabbed-in-london-was-loving-partner-and-son-as-family-utterly-devastated-13589995|man 28 fatally stabbed was loving partner and son|b5a291e48cc92cb1f2b7822d52248749
 2026-09-20T10:26:56.607779+00:00|https://www.bbc.co.uk/news/articles/cwr7d3xd377do|jlr suppliers call for shift to aerospace|6f951ad48fae1312b76ded5171a1dcc6
@@ -105,3 +104,5 @@
 2026-09-26T23:20:14.992341+00:00|https://www.telegraph.co.uk/football/2026/09/26/england-vs-spain-live-score-latest-nations-league-updates|fun yes but when will tuchel fix this england defence|4f256133a0e327e2bb0e003b70a6333e
 2026-09-26T23:20:17.580010+00:00|https://news.sky.com/story/orange-order-parade-in-nationalist-area-of-northern-ireland-to-go-ahead-after-appeal-against-ban-13592276|controversial loyalist parade in northern ireland to go ahead after court battle|c80dce4e2373d42924f739bdd912f651
 2026-09-26T23:20:20.129841+00:00|https://www.bbc.co.uk/news/articles/cv8e33gdw17no|burnham announces scheme to help firsttime buyers on to housing ladder|488a836e3f89ae4c3ef19c90612d3907
+2026-09-27T03:07:13.956839+00:00|https://news.sky.com/story/noah-woods-investigation-launched-as-nhs-trust-apologises-for-data-breach-13592321|nhs trust apologises to noah woods family for extra anguish over data breach|0eef1b779deb48cac8e3513419737f1f
+2026-09-27T03:07:16.305291+00:00|https://www.bbc.co.uk/news/articles/cky9zzre1259o|the papers noels crying his heart out and global ivf disaster|eed0475c0fe1de1ac78a4ef0f9a54e5a
