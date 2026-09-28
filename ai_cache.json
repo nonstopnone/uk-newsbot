@@ -30666,5 +30666,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1790554509.845898
+  },
+  "2464e94b24cde8252749b952915d3f70": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and political event in Northern Ireland involving senior government officials and law enforcement, which is directly relevant to UK national stability.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790576054.65583
+  },
+  "acbc7f4c8619571709750ee00a69bd81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding care standards and professional misconduct within the UK social care system involving an elderly resident.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790576084.578731
+  },
+  "7cf8e8956213b6c07bf5f46d11ab931d": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment industry award story and qualifies as lifestyle/celebrity news rather than hard news relevant to UK public affairs or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790576108.434825
+  },
+  "5dffa7cf3bbac758966af0875ea4d6bc": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a serious national security incident involving a terror plot investigation at a UK RAF base, which is of major importance to the UK public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790576120.652142
+  },
+  "1fe2fea299118b03561055e2142e26d0": {
+    "is_relevant": true,
+    "reasoning": "This report details a significant change to UK national rail infrastructure policy and government transport management, which is highly relevant to the British public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790576131.79502
   }
 }
