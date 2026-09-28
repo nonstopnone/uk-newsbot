@@ -1,5 +1,3 @@
-2026-09-21T11:44:23.828639+00:00|https://www.bbc.co.uk/news/articles/c5m27pz71erzo|public confidence damaged by ontherun killer case says long|c58e73f76541b38db0eaa304c54a8982
-2026-09-21T11:44:26.218298+00:00|https://www.bbc.co.uk/news/articles/c6d79pzny7gjo|southport killer accused of throwing boiling water mixed with sugar at prison officer|875bc6cafac64a8dec251614f1a4a37f
 2026-09-21T17:40:31.780895+00:00|https://www.bbc.co.uk/news/articles/cmg49pg4vq6qo|two arrested over major fire at folkestone hotel|233a57f7cef15ce021d0f803b57e33b9
 2026-09-21T17:40:34.080802+00:00|https://www.bbc.co.uk/news/articles/cmqlwpkl72plo|man charged with causing death by dangerous driving over crash that killed 6|4fea1448a0d778ba2a891236497d5d35
 2026-09-21T21:34:45.735014+00:00|https://www.bbc.co.uk/news/articles/cw8r681v580po|driver jailed after killing devoted mum while fleeing police|f5ff9280fbf19236729178cc93fec76b
@@ -108,3 +106,6 @@
 2026-09-28T00:15:12.859355+00:00|https://www.bbc.co.uk/news/articles/crd689de186jo|my hometown shows that high streets have to change or die|4a532b7e968a6fe0a1b6c9af74672c04
 2026-09-28T06:15:32.585223+00:00|https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o|police block orange order from controversial parade route|2464e94b24cde8252749b952915d3f70
 2026-09-28T06:15:34.896999+00:00|https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo|what we know about raf fairford counterterror probe|8c15820da827e19b27df8ea415dc781e
+2026-09-28T14:52:22.661364+00:00|https://www.bbc.co.uk/news/articles/c3x2zw18ge59o|best thing we can offer young people is a job not benefits says chancellor|9e67a08ef5645c6602022d7c6af02d5c
+2026-09-28T14:52:25.393499+00:00|https://www.bbc.co.uk/news/articles/c60qxk7d2539o|avanti west coast services to be nationalised from march|1fe2fea299118b03561055e2142e26d0
+2026-09-28T14:52:27.917703+00:00|https://www.telegraph.co.uk/business/2026/09/28/borrowing-costs-rise-after-jump-in-oil-price|uk borrowing costs close to highest level since 2007|42e0f81afea95f3d7a4fc14bb2871b38
