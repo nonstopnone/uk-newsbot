@@ -30701,5 +30701,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790576131.79502
+  },
+  "eceed7859c48619e6aabcc889dd65268": {
+    "is_relevant": true,
+    "reasoning": "The article details a significant rise in UK fuel prices caused by international instability, which has a direct and material impact on the UK economy and consumer costs.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790629239.401089
+  },
+  "9f7f1a42ed2ee9d0839657e9c01dfcfc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security incident involving counter-terrorism police, potential foreign state actors, and the evacuation of homes near a major RAF base.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790629257.739616
+  },
+  "3c7686b3bfb8d86c305c6458dc1010d8": {
+    "is_relevant": true,
+    "reasoning": "This concerns a major legal and regulatory dispute involving a significant UK sporting institution, which has broader implications for the governance of the Premier League.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790629269.355762
+  },
+  "46300a43b7471fa78c15082be0d37ae9": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment industry news story regarding concert line-ups and fan sentiment, which does not meet the threshold for hard news as defined by the subreddit guidelines.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790629281.896062
   }
 }

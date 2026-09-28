@@ -1,5 +1,3 @@
-2026-09-21T17:40:31.780895+00:00|https://www.bbc.co.uk/news/articles/cmg49pg4vq6qo|two arrested over major fire at folkestone hotel|233a57f7cef15ce021d0f803b57e33b9
-2026-09-21T17:40:34.080802+00:00|https://www.bbc.co.uk/news/articles/cmqlwpkl72plo|man charged with causing death by dangerous driving over crash that killed 6|4fea1448a0d778ba2a891236497d5d35
 2026-09-21T21:34:45.735014+00:00|https://www.bbc.co.uk/news/articles/cw8r681v580po|driver jailed after killing devoted mum while fleeing police|f5ff9280fbf19236729178cc93fec76b
 2026-09-21T21:34:48.304883+00:00|https://www.bbc.co.uk/news/articles/cqp80p78mxx5o|airlines criticise air traffic control as second glitch causes more disruption|bc99f9ed6ddd3f433624e9d9c39d09ef
 2026-09-21T21:34:50.804122+00:00|https://news.sky.com/story/nottingham-and-southport-data-nhs-breaches-the-tip-of-the-iceberg-sky-finds-13590522|nottingham and southport data nhs breaches the tip of the iceberg sky finds|06cd350b50e74a2e5d0e6077b982b70c
@@ -109,3 +107,6 @@
 2026-09-28T14:52:22.661364+00:00|https://www.bbc.co.uk/news/articles/c3x2zw18ge59o|best thing we can offer young people is a job not benefits says chancellor|9e67a08ef5645c6602022d7c6af02d5c
 2026-09-28T14:52:25.393499+00:00|https://www.bbc.co.uk/news/articles/c60qxk7d2539o|avanti west coast services to be nationalised from march|1fe2fea299118b03561055e2142e26d0
 2026-09-28T14:52:27.917703+00:00|https://www.telegraph.co.uk/business/2026/09/28/borrowing-costs-rise-after-jump-in-oil-price|uk borrowing costs close to highest level since 2007|42e0f81afea95f3d7a4fc14bb2871b38
+2026-09-28T21:01:22.589145+00:00|https://www.bbc.co.uk/news/articles/c6n4k987k981o|uk diesel price hits alltime high the rac says|eceed7859c48619e6aabcc889dd65268
+2026-09-28T21:01:25.167082+00:00|https://www.bbc.co.uk/news/articles/c6e9elmpvglno|five men arrested in raf fairford incident released on police bail|9f7f1a42ed2ee9d0839657e9c01dfcfc
+2026-09-28T21:01:27.762395+00:00|https://news.sky.com/story/man-city-boss-says-fight-against-premier-league-could-take-years-to-conclude-sky-news-understands-13593002|man city boss says fight against premier league could take years to conclude sky news understands|3c7686b3bfb8d86c305c6458dc1010d8
