@@ -30645,5 +30645,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1790545722.132468
+  },
+  "87d73d6fb77d3d62d92e18d9db9b3a25": {
+    "is_relevant": true,
+    "reasoning": "This report concerns significant civil unrest, legal rulings, and political conflict involving senior government officials in Northern Ireland, directly impacting UK domestic stability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790554492.998984
+  },
+  "b1acb95b827d9d3db74d207418802c7d": {
+    "is_relevant": false,
+    "reasoning": "This article is a personal finance guide offering savings tips rather than hard news regarding UK housing policy or economic shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790554500.710323
+  },
+  "322f22f687e85b14908253234f7251fb": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major counter-terrorism incident involving arrests near a significant UK-based military installation, which is a matter of national security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790554509.845898
   }
 }
