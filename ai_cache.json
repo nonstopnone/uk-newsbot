@@ -30792,5 +30792,89 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790663581.503119
+  },
+  "2087670269e202fca29865b5e9ccbdd8": {
+    "is_relevant": true,
+    "reasoning": "The Drumcree parade dispute is a long-standing and significant event in Northern Irish politics and public order, directly involving devolved government institutions and sectarian tensions.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790689223.946646
+  },
+  "ccdcef37a431b89be24cd9d32811ee45": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome involving environmental crime and the regulation of major UK infrastructure, which is a matter of high public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790689231.092418
+  },
+  "edd142420919e548117f61e5ca2f2c59": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding housing reform and government legislation, directly impacting millions of UK citizens.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790689240.021108
+  },
+  "c7fc3758bdf049b9c17724aa4d07c724": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive police incident involving the discovery of a body in Wales, which constitutes hard news regarding crime and public welfare.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790689249.14174
+  },
+  "95fb061be8e10e7e527630bb9c613d6c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving the destruction of property and a police investigation in Scotland, fitting the criteria for crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790689265.99002
+  },
+  "10f972b26db7588c76f8032af55ae00c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal sentencing involving a well-known public figure, which constitutes serious UK news falling under the crime and legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790689282.541683
+  },
+  "8103207cf2f1576f31559e82ec294a10": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a live counter-terrorism investigation involving UK nationals at a sensitive military site and includes commentary from a high-level US official regarding foreign interference, which is of significant UK security interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790689292.661414
+  },
+  "274cd34b1f748bc03f764db3784110eb": {
+    "is_relevant": true,
+    "reasoning": "The article concerns ongoing criminal proceedings at a UK Crown Court involving an activist and matters of border security, which is highly relevant to UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790689307.402175
+  },
+  "f25eb993c4fa4f3926c0b118f4bf0f25": {
+    "is_relevant": false,
+    "reasoning": "This is a global public health study focused on cost-saving strategies for developing nations; it does not constitute hard UK news or have a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790689317.651439
+  },
+  "ff9348e5cc5377dcc128653922e7e502": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a criminal charge against a Metropolitan Police officer following a major investigation into misconduct within a London police station.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790689328.359009
+  },
+  "a36949e4bc5230b2aaf830680b5c5604": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant proposed reforms to UK social care policy and debates surrounding the triple lock pension, which are matters of major political and economic importance in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790689337.722788
+  },
+  "50dba8352450f56b3a35d1697b5bf360": {
+    "is_relevant": true,
+    "reasoning": "The article details a significant joint military training exercise involving the Royal Navy and the testing of weapon systems in UK territorial waters.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790689351.532529
   }
 }
