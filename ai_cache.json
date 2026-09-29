@@ -30911,5 +30911,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790708719.199209
+  },
+  "7e8ba18466095eb796c02ce7f5e17afe": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/advice feature rather than hard news; it serves as a guide for identifying romance scams rather than reporting on a specific crime event, legal development, or policy change.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790724069.325996
+  },
+  "f2d6f8df10585daf6c93cb5e888d57cc": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer regulation story regarding marketing standards and dietary lifestyle products, which falls under industry news rather than hard news of significant national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790724080.274858
+  },
+  "5fed0fe09aeb2c59ae2a87eb8cc3aa8a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an England national football team victory in the Nations League, which falls under UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790724090.274407
+  },
+  "e7407bb7a6ee75f0970a408423e4b263": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change by a devolved government affecting national traffic and environmental regulations in Wales.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790724101.417205
+  },
+  "351b223cb8a06ef947c5b607fc0f24ca": {
+    "is_relevant": false,
+    "reasoning": "This is an international political event that does not have a material impact on the UK, nor does it concern UK interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790724110.928038
+  },
+  "27cdee5ffb95b61ab894f17c25cc5a31": {
+    "is_relevant": false,
+    "reasoning": "This is a local health and safety investigation at a single private business, which does not constitute hard national news or significant public interest at a UK-wide level.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790724120.63665
   }
 }
