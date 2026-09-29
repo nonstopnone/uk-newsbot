@@ -30729,5 +30729,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790629281.896062
+  },
+  "60e98334f7f9955bb7f46bfba39545a0": {
+    "is_relevant": true,
+    "reasoning": "This is a direct report on UK border security and immigration trends, which is a core topic of significant public interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1790643360.900595
+  },
+  "3a622eb54d21e210881663dd0ef6c23f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding national infrastructure planning and housing policy that carries long-term economic and social implications for the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790643411.250749
+  },
+  "0592fc73aba625a986907c656ac66982": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and education-focused feature story regarding university curriculum choices, which does not constitute hard news or a material development for the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790643420.858894
+  },
+  "fdb9f64832c64b63a23ef3c1f5ba5664": {
+    "is_relevant": false,
+    "reasoning": "This is a weather report, which falls under fluff/lifestyle rather than hard news concerning politics, crime, or significant infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790643437.641106
+  },
+  "710630faf0781feaf6090e4ee914628a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the NHS and social care provision in Scotland, highlighting systemic issues in discharge planning and health services for the elderly.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790643444.841462
   }
 }

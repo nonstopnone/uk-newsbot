@@ -1,8 +1,3 @@
-2026-09-21T21:34:45.735014+00:00|https://www.bbc.co.uk/news/articles/cw8r681v580po|driver jailed after killing devoted mum while fleeing police|f5ff9280fbf19236729178cc93fec76b
-2026-09-21T21:34:48.304883+00:00|https://www.bbc.co.uk/news/articles/cqp80p78mxx5o|airlines criticise air traffic control as second glitch causes more disruption|bc99f9ed6ddd3f433624e9d9c39d09ef
-2026-09-21T21:34:50.804122+00:00|https://news.sky.com/story/nottingham-and-southport-data-nhs-breaches-the-tip-of-the-iceberg-sky-finds-13590522|nottingham and southport data nhs breaches the tip of the iceberg sky finds|06cd350b50e74a2e5d0e6077b982b70c
-2026-09-22T00:30:36.793926+00:00|https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o|schools not ready for ai and crying out for government guidance report warns|dea4dd41c0bbc546e12ffddeade42123
-2026-09-22T00:30:39.164067+00:00|https://www.bbc.co.uk/news/articles/c6lyep7l7qppo|marthas rule rolled out at every ae department in england|fd304e294ed80b79e7d214923ce0723f
 2026-09-22T05:44:43.011841+00:00|https://www.bbc.co.uk/news/articles/c6lyqp9yq377o|terrifying 101acre data centre plans would be heartbreaking campaigners warn|7cf59827961aeac77c0457a9a2a05b78
 2026-09-22T05:44:45.560158+00:00|https://www.bbc.co.uk/news/articles/c6zjz2213g4yo|were inundated glasgows struggle to house the homeless|0eab65a2b73201007b15576c300714d8
 2026-09-22T10:48:04.885624+00:00|https://www.bbc.co.uk/news/articles/cx8d38djqm25o|british man missing after diving into lake como to rescue teenager|930c3398f948c34ff67c51451ee56dee
@@ -110,3 +105,5 @@
 2026-09-28T21:01:22.589145+00:00|https://www.bbc.co.uk/news/articles/c6n4k987k981o|uk diesel price hits alltime high the rac says|eceed7859c48619e6aabcc889dd65268
 2026-09-28T21:01:25.167082+00:00|https://www.bbc.co.uk/news/articles/c6e9elmpvglno|five men arrested in raf fairford incident released on police bail|9f7f1a42ed2ee9d0839657e9c01dfcfc
 2026-09-28T21:01:27.762395+00:00|https://news.sky.com/story/man-city-boss-says-fight-against-premier-league-could-take-years-to-conclude-sky-news-understands-13593002|man city boss says fight against premier league could take years to conclude sky news understands|3c7686b3bfb8d86c305c6458dc1010d8
+2026-09-29T00:57:25.536917+00:00|https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo|migrants using longer more dangerous routes across channel|60e98334f7f9955bb7f46bfba39545a0
+2026-09-29T00:57:28.081731+00:00|https://www.bbc.co.uk/news/articles/cqn4k9nypxjro|burnham to unveil public body to invest in electricity grid|fec48c0b23533ce3ea1b5f9b8bdef688
