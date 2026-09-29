@@ -1,5 +1,3 @@
-2026-09-22T05:44:43.011841+00:00|https://www.bbc.co.uk/news/articles/c6lyqp9yq377o|terrifying 101acre data centre plans would be heartbreaking campaigners warn|7cf59827961aeac77c0457a9a2a05b78
-2026-09-22T05:44:45.560158+00:00|https://www.bbc.co.uk/news/articles/c6zjz2213g4yo|were inundated glasgows struggle to house the homeless|0eab65a2b73201007b15576c300714d8
 2026-09-22T10:48:04.885624+00:00|https://www.bbc.co.uk/news/articles/cx8d38djqm25o|british man missing after diving into lake como to rescue teenager|930c3398f948c34ff67c51451ee56dee
 2026-09-22T10:48:07.379232+00:00|https://news.sky.com/story/british-father-pleads-guilty-over-death-of-young-son-who-fell-from-hotel-window-13590586|british father pleads guilty over death of young son who fell from hotel window|0412b960a7bf697d57d9330b99a4ca45
 2026-09-22T10:48:09.734778+00:00|https://www.bbc.co.uk/news/articles/cm9w4ee2lqepo|nhs maternity data lost during routine it work|ccbf15c92e40895fd8cfcaa714b410f5
@@ -107,3 +105,5 @@
 2026-09-28T21:01:27.762395+00:00|https://news.sky.com/story/man-city-boss-says-fight-against-premier-league-could-take-years-to-conclude-sky-news-understands-13593002|man city boss says fight against premier league could take years to conclude sky news understands|3c7686b3bfb8d86c305c6458dc1010d8
 2026-09-29T00:57:25.536917+00:00|https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo|migrants using longer more dangerous routes across channel|60e98334f7f9955bb7f46bfba39545a0
 2026-09-29T00:57:28.081731+00:00|https://www.bbc.co.uk/news/articles/cqn4k9nypxjro|burnham to unveil public body to invest in electricity grid|fec48c0b23533ce3ea1b5f9b8bdef688
+2026-09-29T06:33:02.034949+00:00|https://www.bbc.co.uk/news/articles/ck5yen96l1p6o|stroke patient 80 could be placed in care 100 miles from home|710630faf0781feaf6090e4ee914628a
+2026-09-29T06:33:04.472735+00:00|https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o|family of british explorer sir ranulph fiennes say they dont know where he is|acd5f57ea290fcce4730211469f8df95

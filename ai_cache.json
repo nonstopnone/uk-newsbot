@@ -30764,5 +30764,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790643444.841462
+  },
+  "a98aa9a413813709d9935e21d72880b4": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest health story about individuals rather than a report on national NHS policy, a major public health emergency, or significant political/legal developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790663553.406321
+  },
+  "acd5f57ea290fcce4730211469f8df95": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public interest story involving a prominent British figure, with police involvement regarding welfare concerns, which qualifies as UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790663563.754146
+  },
+  "ea988d41c61c6d512c7346570f553558": {
+    "is_relevant": false,
+    "reasoning": "This is a feature piece about a television drama series and its cultural reception rather than hard news regarding UK governance, policy, or significant public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790663572.927466
+  },
+  "39b854dc3fae33491a97292287ac173a": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant failure in the UK justice system and Ministry of Justice processes, which directly affects public safety and criminal sentencing policy in England and Wales.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790663581.503119
   }
 }
