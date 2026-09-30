@@ -30981,5 +30981,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790739113.690133
+  },
+  "acc0f888c6d616d9ae6637601c3fb318": {
+    "is_relevant": true,
+    "reasoning": "This report details significant industrial action at a major UK higher education institution affecting student education and staffing levels, which is a matter of public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790763145.433552
+  },
+  "d1bede96a2ccad22d0daf845899c0315": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing civil order and political dispute in Northern Ireland involving direct government intervention by the Northern Ireland Secretary.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790763155.592114
+  },
+  "727035b5d143fbd1cd693211a4c06bae": {
+    "is_relevant": true,
+    "reasoning": "The closure of four major manufacturing facilities and the loss of 740 jobs is a significant economic event impacting employment across multiple UK regions.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790763164.668606
+  },
+  "8e3d6ed178e1f7f1ec8c98cb78f5a97d": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest sports human-interest story regarding a non-league football match and does not constitute major national hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790763177.799642
+  },
+  "c9fd1517ef33ca85f5900097a08aad77": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK-based crime and welfare incident involving a police investigation and public interest appeal regarding the discovery of a deceased infant.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790763185.139597
+  },
+  "4144fe3b56bae980a9c2a9222a693279": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest feature about social media influencers and DIY hobbies, which does not meet the criteria for hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790763197.385738
+  },
+  "ec099e147ae3e437b34a473b0f2fe6bd": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a former UK school pupil and university student whose death while fighting in Ukraine is a matter of significant public interest and human interest within the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1790763204.41577
+  },
+  "ccfa3527ca77c5246b4be370d89e4542": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle piece about residential architecture and a television programme, which falls under the category of fluff/lifestyle and lacks the required hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790763217.069194
   }
 }
