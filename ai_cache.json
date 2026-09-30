@@ -31135,5 +31135,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790786455.767471
+  },
+  "1542723210819f27deafe21e04b4df8c": {
+    "is_relevant": false,
+    "reasoning": "This is a minor service update regarding museum accessibility features, which constitutes lifestyle/culture news rather than hard news of significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790802598.258392
+  },
+  "af970bb070b622f598623c29c568061e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update on a major domestic investigation involving potential criminal charges for corporate manslaughter and public misconduct.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790802610.088923
+  },
+  "ca9138347f381625d6aa530151c004d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal case involving a legal professional being jailed for serious drug offenses, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790802621.139731
+  },
+  "60d656900fd6b9860e53ea2710833b7c": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer advice/lifestyle article rather than hard news, politics, or a significant public interest event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790802629.642617
   }
 }
