@@ -30953,5 +30953,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790724120.63665
+  },
+  "a71a2d41e9f22f69febd826e6371ac9b": {
+    "is_relevant": false,
+    "reasoning": "This is a local university news story regarding industrial action and internal restructuring, which does not meet the criteria for major UK national importance or systemic impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790739081.577846
+  },
+  "6780d130da256ebc8f7824936dfa38c8": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/health advice piece, not hard news. It does not meet the criteria for political, economic, or major national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790739092.139777
+  },
+  "688e2ae2bc7509fd8a56d91fd88a38a8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on domestic social issues and higher education policy affecting the UK, which has elicited a formal response from the UK Education Secretary.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1790739101.949675
+  },
+  "82cfc94da65f9c98a1f914836b3b5cc1": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest feature article about DIY hobbies and career trends, which does not constitute hard news or a matter of significant national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790739113.690133
   }
 }
