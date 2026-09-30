@@ -31037,5 +31037,103 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790763217.069194
+  },
+  "d893a9f203c43066a91ab54afa2ce7a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a major UK government policy decision affecting the criminal justice system and public safety, directly impacting domestic abuse victims.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790786231.600487
+  },
+  "ddc287b005ac926286ce84e466ca3448": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity lifestyle/health anecdote rather than hard news of significant public interest or policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790786240.569033
+  },
+  "ea12bd7683cd5e26f9a280cf05f5d099": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving a counter-terrorism investigation at a military base, directly impacting UK residents.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790786267.488428
+  },
+  "f033d50cc87995a28750de9dbf404da0": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant national security incident involving a major UK military base, terrorism investigations, and direct government involvement, which is highly relevant to the UK public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790786277.485746
+  },
+  "444a332caf1e84c17aa48db0c2317213": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the government's Independent Football Regulator and statements from the Prime Minister regarding major financial regulation in the UK sports industry, which constitutes political and economic policy news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790786303.066884
+  },
+  "00784a9a640af99bde0128eed2ecd845": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and legal development involving the First Minister of Northern Ireland and an ongoing criminal investigation by the PSNI.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790786341.389546
+  },
+  "73c78e8e53df79591da73ced5a3442f1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a major UK public inquiry and criminal investigation into a national disaster. It falls squarely under legal and public interest news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790786353.399826
+  },
+  "74450bf9e1d79f8aeb51e41f587973c9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding failures in the National Health Service and patient safety, which is a matter of major UK public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790786364.591357
+  },
+  "450799ee9103257a0921180398cf0f1d": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a broadcaster's medical incident, which falls under lifestyle or personal news rather than hard news of significant UK-wide relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790786375.948475
+  },
+  "fd00cfa1488697a236b626c97f06e844": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security matter involving MI5, potential criminal charges, and government intervention regarding UK academic institutions.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790786404.993813
+  },
+  "a7afdb51020b0f77c24c4438194de4aa": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the royal family and security matters within the UK, which is relevant to the subreddit's remit.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1790786413.054102
+  },
+  "a05f130f8f552e875edbd7a4bc6e34d2": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant spate of criminal activity involving police investigations and national crime statistics, which is relevant to public safety in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790786421.904995
+  },
+  "c7fb8d526a9d3a50bef205acad96d7ec": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant legal and regulatory development regarding a major UK sporting institution that has widespread public interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790786438.675078
+  },
+  "592cea7ac47a55b3681eeb6e6e90e883": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK housing safety, government policy changes, and the ongoing cladding crisis affecting UK residents.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790786455.767471
   }
 }
