@@ -31268,5 +31268,82 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1790842201.058792
+  },
+  "dd751de9da1bd2a64d8a312d6907a5a4": {
+    "is_relevant": true,
+    "reasoning": "The article details a political row involving the Prime Minister and a major public figure regarding a significant financial and regulatory scandal affecting a prominent UK institution. It pertains to UK political discourse and economic governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790870092.523701
+  },
+  "c1e2e24de258ff8d9f4f0b45059c1e61": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic policy matter concerning the UK justice system, prison capacity, and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790870117.43844
+  },
+  "385b37d7759b395ec8b5ee6407376220": {
+    "is_relevant": true,
+    "reasoning": "The detention and legal status of a UK citizen held abroad is a significant matter of UK consular and diplomatic concern involving a high-profile case of long-term imprisonment.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1790870129.705107
+  },
+  "f18889edba4d1a2f28a09aa91dd6b2e6": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the state of the UK prison system and the government's early release scheme, which is a matter of significant public interest and current political relevance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790870219.145692
+  },
+  "4f4e2a8c69942669fb40bb4a728b2d3e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the infiltration of an NHS hospital and security breaches within a public institution, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790870258.199959
+  },
+  "2fa06056e4f210315433ae0670662430": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal sentencing in a UK jurisdiction, fulfilling the requirements for hard news reporting on crime and the legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790870270.710284
+  },
+  "d91196baf79649051e5e2753f73fd432": {
+    "is_relevant": false,
+    "reasoning": "This article concerns the hosting location of an international football tournament and lacks direct material impact on UK policy, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790870281.611331
+  },
+  "807ee23acc472b0f139e07012dde220a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive criminal investigation involving a fatality in the UK that is of major public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790870292.927773
+  },
+  "fc385d2a7f5a363f16ca0f3dd4e4e937": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal incident involving an arrest by Greater Manchester Police for the crime of upskirting, which is a matter of public legal and safety interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790870302.692917
+  },
+  "c0533aa1aedf2e13e7103345e8274264": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a major UK hotel chain's security failures and a criminal case, which is of high public interest regarding safety standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790870349.321625
+  },
+  "b152c40de6256708aaddb2a4f6c13d0d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development for UK infrastructure and the emerging domestic space industry, involving regulatory approval from the UK government.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790870358.676881
   }
 }

@@ -1,9 +1,3 @@
-2026-09-24T10:57:07.978305+00:00|https://www.bbc.co.uk/news/articles/crx2zlqqpn2do|raf pilots who ejected moments before crash expected to make full recovery|c69a3d4581d590c99c30e9d09a6b0b6d
-2026-09-24T10:57:10.358593+00:00|https://www.bbc.co.uk/news/articles/ckddvje77m2zo|nhs trust to review 4500 more breast cancer cases after failings|e2764c2d6ce444a145879031b4f8f711
-2026-09-24T10:57:12.875510+00:00|https://news.sky.com/story/human-remains-found-next-to-greater-manchester-motorway-identified-as-man-who-vanished-in-january-13591330|skeletal remains found next to motorway identified as man who went missing in january|6d704039bb65deb9e6cca599f03296cf
-2026-09-24T10:57:15.449864+00:00|https://news.sky.com/story/unfair-ban-on-drinking-alcohol-in-football-stands-could-be-scrapped-says-burnham-13591266|unfair ban on drinking alcohol in football stands could be scrapped says pm|81fa0ec2cfa65da67e0845ed33ec0e14
-2026-09-24T15:43:06.698086+00:00|https://www.bbc.co.uk/news/articles/c6z0z5dz884lo|reported assaults on britains rail services rise by more than a third|140d108fcb164ca0b770e18e9609faea
-2026-09-24T15:43:09.065310+00:00|https://www.bbc.co.uk/news/articles/cmpq087p5qxro|swinney backs decriminalisation of drugs after spike in deaths|a4cfe5e98a4e499df56e74a53d7c80ad
 2026-09-24T19:45:22.974686+00:00|https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo|it has broken us as a family mother of poison seller victim tells hearing|fda6acbb58189e8a09e11662a9a86810
 2026-09-24T19:45:25.397033+00:00|https://www.bbc.co.uk/news/articles/c61wxyvpg7p4o|crisishit gender service cancelled 60 surgeries this year welsh health minister says|a8237fe2738c897bfeb4eb9fa38a988d
 2026-09-24T19:45:27.724857+00:00|https://news.sky.com/story/gallant-briton-killed-in-terrorist-attack-gave-up-place-on-helicopter-13591491|gallant briton killed in terrorist attack gave up place on helicopter|d36e07f0063560dc28f6dbc10ed07747
@@ -97,3 +91,7 @@
 2026-10-01T01:01:55.876208+00:00|https://news.sky.com/story/uk-france-one-in-one-out-migrant-deal-scrapped-13593740|ukfrance one in one out migrant deal scrapped|ef50363366c39336b15c6f297f822039
 2026-10-01T08:10:01.756368+00:00|https://www.bbc.co.uk/news/articles/crm4rygl4m3o|energy bills are rising by £60 a year heres what you can do about it|fcce17e2a0b91ce7dab74aed415a8ff0
 2026-10-01T08:10:04.340013+00:00|https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o|employers should teach primaryage children about work says milburn|8b16fb6dd7daa23e35be6eb615c930b4
+2026-10-01T15:59:19.429976+00:00|https://www.telegraph.co.uk/business/2026/10/01/uk-house-prices-mortgage-interest-rates-bonds-ftse-100|ftse 100 tumbles amid bond market selloff|08f2c139108d2aa1036681e5da30efd7
+2026-10-01T15:59:21.984826+00:00|https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o|burnhams man city comments completely out of touch tories say|dd751de9da1bd2a64d8a312d6907a5a4
+2026-10-01T15:59:24.547722+00:00|https://www.bbc.co.uk/news/articles/c6evwvdwggrlo|hundreds of criminals start leaving prison under new early release scheme|c1e2e24de258ff8d9f4f0b45059c1e61
+2026-10-01T15:59:27.355190+00:00|https://news.sky.com/story/german-space-company-hyimpulse-granted-licence-to-launch-rockets-from-uk-13593979|space firm granted licence to launch rockets from uk|b152c40de6256708aaddb2a4f6c13d0d
