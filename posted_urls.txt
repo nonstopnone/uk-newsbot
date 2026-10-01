@@ -1,5 +1,3 @@
-2026-09-24T05:45:48.811928+00:00|https://www.bbc.co.uk/news/articles/crd9453qpnd0o|police arrest 36 in raids on vietnamese crime gangs linked to human trafficking|9c652575b99736e167df4f99f1c36956
-2026-09-24T05:45:51.190010+00:00|https://www.bbc.co.uk/news/articles/cm207yn1124zo|mother of teen who died deeply hurt that nhs staff may have accessed sons records inappropriately|e43684443473ffa91484a0502e6bf75f
 2026-09-24T10:57:07.978305+00:00|https://www.bbc.co.uk/news/articles/crx2zlqqpn2do|raf pilots who ejected moments before crash expected to make full recovery|c69a3d4581d590c99c30e9d09a6b0b6d
 2026-09-24T10:57:10.358593+00:00|https://www.bbc.co.uk/news/articles/ckddvje77m2zo|nhs trust to review 4500 more breast cancer cases after failings|e2764c2d6ce444a145879031b4f8f711
 2026-09-24T10:57:12.875510+00:00|https://news.sky.com/story/human-remains-found-next-to-greater-manchester-motorway-identified-as-man-who-vanished-in-january-13591330|skeletal remains found next to motorway identified as man who went missing in january|6d704039bb65deb9e6cca599f03296cf
@@ -97,3 +95,5 @@
 2026-10-01T01:01:51.094319+00:00|https://www.bbc.co.uk/news/articles/cmy0zewj483wo|son who used ai to help save mums life hopes case unlocks clues for other parkinsons patients|34fdec46a9cfa468841288e6421d297d
 2026-10-01T01:01:53.438709+00:00|https://www.bbc.co.uk/news/articles/cr89j4g7v05wo|bbc should not overspend on shows such as suits and schitts creek mps say|450b8c60ab5482c75ea99b9311634c34
 2026-10-01T01:01:55.876208+00:00|https://news.sky.com/story/uk-france-one-in-one-out-migrant-deal-scrapped-13593740|ukfrance one in one out migrant deal scrapped|ef50363366c39336b15c6f297f822039
+2026-10-01T08:10:01.756368+00:00|https://www.bbc.co.uk/news/articles/crm4rygl4m3o|energy bills are rising by £60 a year heres what you can do about it|fcce17e2a0b91ce7dab74aed415a8ff0
+2026-10-01T08:10:04.340013+00:00|https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o|employers should teach primaryage children about work says milburn|8b16fb6dd7daa23e35be6eb615c930b4

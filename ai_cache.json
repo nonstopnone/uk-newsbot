@@ -31226,5 +31226,47 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1790816510.289712
+  },
+  "fcce17e2a0b91ce7dab74aed415a8ff0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic story regarding the Ofgem price cap, which directly impacts the cost of living for the vast majority of UK households.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790842152.933947
+  },
+  "4a1023fdea8d7c1b6687144bcfded5cb": {
+    "is_relevant": true,
+    "reasoning": "The passing of a prominent British broadcaster and campaigner who founded a national charity constitutes significant UK news.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1790842162.379301
+  },
+  "d6e01191e541ed2669ec18475b604544": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story regarding a phishing scam against a small business, which does not meet the threshold for national breaking news or significant public interest required for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790842172.310645
+  },
+  "d3e47bd13775d768b90414b5ca0b8047": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on proposed structural reforms to the Scottish NHS, directly involving devolved government policy and professional medical bodies.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790842185.933363
+  },
+  "1b4cdf990432448e55cf6a48923a6536": {
+    "is_relevant": true,
+    "reasoning": "This is a report on Metropolitan Police activity regarding gang violence and child vulnerability, which falls under UK crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790842194.110079
+  },
+  "6c03400f8284b3df089bb2a3981a019f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health-related report concerning patient safety and hygiene standards within the NHS (Hywel Dda health board), which is a core topic for UK public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790842201.058792
   }
 }
