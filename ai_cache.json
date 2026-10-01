@@ -31345,5 +31345,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1790870358.676881
+  },
+  "3cf8f8aaad08943f39857efee6ae6c36": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing political and legal dispute in Northern Ireland involving devolved governance and public order that materially affects the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790887448.433263
+  },
+  "0403eae6ff84d966b3c4d82cbf1affdf": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a visit by a senior member of the Royal Family to address domestic issues regarding infrastructure and environmental disaster preparedness in a UK village.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1790887458.699843
+  },
+  "3fdec45124d903fecce6baa1378485ee": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal trial and conviction involving a teacher within the UK legal system, which meets the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790887472.033602
   }
 }
