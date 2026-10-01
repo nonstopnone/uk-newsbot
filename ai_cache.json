@@ -31163,5 +31163,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790802629.642617
+  },
+  "ab95c1f8c22d063cc959fab97c3c74fe": {
+    "is_relevant": false,
+    "reasoning": "This story concerns an international incident involving a non-UK airline and non-UK citizens, which does not materially affect the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790816436.829031
+  },
+  "450b8c60ab5482c75ea99b9311634c34": {
+    "is_relevant": true,
+    "reasoning": "This is a report from a House of Commons select committee regarding the governance, funding, and future of the BBC, which is a matter of UK public policy and national media regulation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790816447.748152
+  },
+  "d7e26434bd9a4219db1ed2b7b2653949": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle entertainment story about a television programme and does not constitute hard news relevant to the core public interest categories defined.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790816458.000097
+  },
+  "0d887d2274fd3949fe25839503f1f083": {
+    "is_relevant": true,
+    "reasoning": "This is a significant change to transport legislation within the UK that affects public safety and road law, which is of clear national interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790816467.721505
+  },
+  "7131d5f456144781e53814982906b674": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the Ofgem price cap increase affecting 20 million UK households and the broader impact on the UK economy, which is directly relevant to the cost of living for a UK audience.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790816475.184697
+  },
+  "4dc84ecde670145e4adf3b658871eb72": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding patient safety and standards of care within an NHS hospital, which is a matter of substantial public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790816483.393345
+  },
+  "0c92bb3c600becb9b16d3d2dcea3b04d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations dispute involving multiple trade unions at a Scottish university, which is directly relevant to UK education policy and devolved labour issues.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790816491.556274
+  },
+  "aa42c9d273b51860206fd0bd2c62ff49": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent national figure and campaigner who significantly influenced UK social policy and public life constitutes major domestic news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790816500.05949
+  },
+  "ef50363366c39336b15c6f297f822039": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant change to UK border control policy and international agreements regarding small boat crossings.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1790816510.289712
   }
 }
