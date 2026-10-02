@@ -31569,5 +31569,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790967413.521285
+  },
+  "b0553e3611b85d715a8f1937d405fa87": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a domestic rugby union match, which falls under sports reporting and is explicitly excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790981156.199241
+  },
+  "d4fc67d3721cc945b0e61308be21c6ac": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving terrorism charges and an alleged plot against a specific UK community, which falls under core hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790981166.065819
+  },
+  "5822bff3604ccd66ae458e3cf6297dc1": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant public order matter involving the Metropolitan Police in central London, which is highly relevant to UK crime, security, and social discourse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790981175.374682
+  },
+  "6654e1367aa53911a74db1030def5f70": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the activities of the Head of State and involves significant diplomatic and historical policy matters regarding the UK's colonial legacy.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1790981184.139716
+  },
+  "91962d3057d443378431e8b04e8677e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal conviction related to illegal Channel crossings, which is a major focus of UK border security and legal policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1790981193.32244
+  },
+  "b4026d48743505911013b8042238f3c3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding UK national security and naval infrastructure, specifically the operational deployment of a new nuclear-powered attack submarine.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790981202.986279
+  },
+  "dbf198f75e79b1ad256a66e1fe361018": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports disciplinary matter involving an England national team player, which qualifies as UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790981213.761053
   }
 }
