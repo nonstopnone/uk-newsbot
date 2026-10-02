@@ -31394,5 +31394,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1790900774.141593
+  },
+  "8a0d87cc0401f4753b2843793b6bb8e5": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest feature story about a personal anecdote involving a football shirt; it does not constitute hard news or a matter of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790922823.01004
+  },
+  "60a680a6562bda2621ad8dcdc59bb0c0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the conclusion of a legal investigation involving the death of a British national, which is a matter of public interest and judicial process.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790922831.705439
+  },
+  "0acd62ffb8658f0915e3b50094210e96": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change introduced by the Scottish government regarding retail regulations, which directly impacts consumers and businesses across Scotland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790922845.590801
+  },
+  "a0153d51789a00dc4caad8c39e0fd50c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns internal UK political commentary from a senior Labour peer regarding the current leadership and future direction of the governing party.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790922855.476083
+  },
+  "1f8bc4f39299d0be7df4fe8f6a6b8004": {
+    "is_relevant": true,
+    "reasoning": "This relates to UK government policy and new legislation affecting airline passengers, which is a matter of consumer rights and UK transport infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790922870.86402
   }
 }
