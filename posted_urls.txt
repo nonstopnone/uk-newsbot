@@ -1,9 +1,3 @@
-2026-09-25T17:46:27.016409+00:00|https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo|im not tempted to call an early election burnham says|8b864f1bcc750c43458c92acdc01a08f
-2026-09-25T17:46:29.378270+00:00|https://news.sky.com/story/glasgow-city-council-pauses-plan-to-fire-and-rehire-more-than-23000-workers-13591898|council pauses plan to fire and rehire more than 23000 workers|3ed0c1a671e4698d28296c96fed73fdc
-2026-09-25T17:46:31.657337+00:00|https://www.bbc.co.uk/news/articles/cm86xngyd3xwo|contentious orange order parade can go ahead commission says|50277f10288b8cd2a00945eae51cfd0e
-2026-09-25T17:46:34.249086+00:00|https://www.telegraph.co.uk/football/2026/09/25/manchester-city-guilty-financial-rule-breaches|manchester city found guilty of 114 charges|cb19b6eed7871c8fe72a6e9cd5b08ddf
-2026-09-25T17:46:36.617408+00:00|https://news.sky.com/story/three-jailed-over-trafficking-stolen-devices-as-part-of-uks-largest-mobile-phone-smuggling-network-13591852|three of uks largest mobile phone smuggling network jailed|2d880e405cc52775693305d1385d6afd
-2026-09-25T17:46:38.987475+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/uk-sends-team-to-south-sudan-as-country-braces-for-ebola|britain sends team to south sudan as country braces for ebola|4370d4c7a1fecd4d458daea47ae04ff5
 2026-09-25T20:59:45.722931+00:00|https://www.bbc.co.uk/sport/football/articles/cx30540044q0o|relegation titles stripped appeals what next for man city|43ac9599c82685fd8f513516ae0e6eaa
 2026-09-25T20:59:48.009459+00:00|https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go|man city found guilty of majority of 115 financial rule breaches|0e798ffed7f4db229306f30d524233b5
 2026-09-25T23:55:00.075703+00:00|https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo|drumcree parade decision to be challenged in high court|2b29515ac93f890e422b4875399e977c
@@ -87,3 +81,6 @@
 2026-10-02T06:34:36.077087+00:00|https://news.sky.com/story/andy-burnham-gives-labour-post-landslide-euphoria-absent-under-sir-keir-starmer-says-peer-13594027|burnham gives labour postlandslide euphoria absent under starmer says peer|a0153d51789a00dc4caad8c39e0fd50c
 2026-10-02T13:29:27.762453+00:00|https://www.bbc.co.uk/news/articles/c60qxqqgwxe8o|man arrested over 1993 unsolved tooze murders faces no further action|67a364dba3c7452ce51b968b9309d001
 2026-10-02T13:29:30.040114+00:00|https://www.bbc.co.uk/news/articles/cmz98wwklwz7o|woman who killed abusive partner has murder conviction overturned|4d7053f20461639d7a5071feec982794
+2026-10-02T18:56:54.068176+00:00|https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko|widdecombe suspect charged with planning terror act against farage|921665fb0c2d50e97ad7aec103b984c3
+2026-10-02T18:56:56.457176+00:00|https://www.bbc.co.uk/news/articles/cmreydzjdrqeo|cult priest guilty of rape and assault of women|31dc3c918efa1e139db4e07c5bc16021
+2026-10-02T18:56:58.975546+00:00|https://news.sky.com/story/city-steps-up-opposition-to-healey-bank-tax-raid-in-budget-13594449|city steps up opposition to healey bank tax raid in budget|1f5655e9c37f09ab1e67f5cd27142b7d

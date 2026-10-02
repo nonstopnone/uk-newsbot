@@ -31499,5 +31499,75 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1790947767.381716
+  },
+  "921665fb0c2d50e97ad7aec103b984c3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving a terror-related charge against a suspect accused of targeting a prominent UK political figure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790967281.054163
+  },
+  "f0b2deeacf57cb35ac42c4df921091e7": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity lifestyle/entertainment news story regarding a television presenter's personal health, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790967290.482253
+  },
+  "43848ef3e128a2176273f9af9527d9dc": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a court case involving charges related to UK border security and public order, which falls under Crime & Legal and Immigration matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790967299.473059
+  },
+  "a5e4089f805225254d4b6e43b0fbcb77": {
+    "is_relevant": true,
+    "reasoning": "This is relevant to UK politics as it concerns the strategy of a political party leader regarding their influence over the governing Labour Party and regional political figures.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790967308.75123
+  },
+  "c40f5040afbd8b43ef097557c5fb65c0": {
+    "is_relevant": true,
+    "reasoning": "This report details significant developments in the ongoing criminal investigation into the Grenfell Tower fire, a major event of high public interest concerning UK legal and emergency services.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790967321.095695
+  },
+  "f45958a367a016e4e24029c2139a9b91": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a major public safety operation and ongoing civil unrest in Northern Ireland, involving the NI Secretary and police, which is a significant matter of UK domestic security and governance.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790967329.493961
+  },
+  "e27489d04c4a7813abdca3c3a30b80c9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a court sentencing for a serious explosives offence related to a prominent UK public policy (Ulez).",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790967350.165043
+  },
+  "1f5655e9c37f09ab1e67f5cd27142b7d": {
+    "is_relevant": true,
+    "reasoning": "This concerns the UK government's budget, the Chancellor of the Exchequer, and financial regulation, which directly impacts the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1790967358.321836
+  },
+  "58567740eff6722fe0cad6e4dc579be5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal workplace incident in Northern Ireland involving emergency services, falling under crime/legal/public safety reporting.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790967368.906558
+  },
+  "aea610e91cefb93af7df0d63b9f35ebc": {
+    "is_relevant": false,
+    "reasoning": "The article is factually incorrect as Dolly Parton is still alive, and the content serves as lifestyle/entertainment news rather than hard news relevant to UK political, economic, or legal infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790967413.521285
   }
 }
