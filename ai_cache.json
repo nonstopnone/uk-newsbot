@@ -31429,5 +31429,75 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1790922870.86402
+  },
+  "a4cf7a493a64a8e405f8f5d9e744c496": {
+    "is_relevant": false,
+    "reasoning": "This is a local human-interest story concerning a traffic accident at a retail shop and does not qualify as hard news of national importance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790947664.263964
+  },
+  "67a364dba3c7452ce51b968b9309d001": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a major historical UK criminal investigation and police action, making it highly relevant for public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790947677.920192
+  },
+  "4d7053f20461639d7a5071feec982794": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a Court of Appeal ruling within the UK judicial system (Northern Ireland).",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790947688.803512
+  },
+  "27a80bdc47981bf960cc35332a618762": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and legal development involving the DUP, the PSNI, and the First Minister of Northern Ireland, directly impacting UK regional governance and law enforcement.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1790947698.970011
+  },
+  "f1e47479c8f39067d38d389dc82fb5d9": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/beauty feature regarding social media trends and is not considered hard news relevant to UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790947711.74762
+  },
+  "57efce59fe94fd56baa5f8139e6d7ddb": {
+    "is_relevant": false,
+    "reasoning": "While the individuals involved are British, this is a private tragedy occurring abroad and does not constitute hard news regarding UK politics, policy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790947722.654472
+  },
+  "0d999c8a33e46d1ea27a3e7fd742d92b": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused entertainment and copyright dispute rather than a matter of significant national importance or hard news for a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790947731.166525
+  },
+  "afaa8ed4a67afedbbbf5a91e849b8089": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the death of a British service member in an active conflict zone, which is a matter of significant national security and public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790947744.875357
+  },
+  "2e2c3bc4cae4e485045ed8b6942546fe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding child safeguarding and a police investigation into a nursery in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790947756.611675
+  },
+  "a1748e77a8bd24f92d045d7fe0e0a78a": {
+    "is_relevant": true,
+    "reasoning": "This is a major development involving a Premier League club and the Football Association, which is a significant sports news event within the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1790947767.381716
   }
 }

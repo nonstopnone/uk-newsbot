@@ -1,11 +1,3 @@
-2026-09-25T07:01:05.239101+00:00|https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o|one person taken to hospital after barracks fire|c2e471ee6fe1ad7779521867c0d6e5ab
-2026-09-25T07:01:07.606104+00:00|https://news.sky.com/story/overcrowding-in-ae-linked-to-hundreds-of-deaths-a-week-study-finds-13591642|overcrowding in ae linked to hundreds of deaths a week study finds|52f5c63f76d4c078887a072493350f40
-2026-09-25T07:01:10.018114+00:00|https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo|our sons death could have been prevented by fa say parents of striker billy vigar|b80dfee71b3d5d314ce7ba09a74f16bb
-2026-09-25T07:01:12.302467+00:00|https://news.sky.com/story/electoral-dysfunction-andy-burnham-must-address-immigration-in-labour-conference-speech-says-harriet-harman-13591495|harman burnham must address immigration in liverpool speech|96a9ee12778bb388e184707cc77af0e2
-2026-09-25T12:41:48.661051+00:00|https://www.bbc.co.uk/news/articles/cqgk54vg053po|noah woods left playground through gap in fence inquest hears|fcf0693d5aceea4870994580be34241a
-2026-09-25T12:41:50.946618+00:00|https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo|daniel thomas pleads not guilty after dinghy slashed|e7c884a8849df7de703c4b8c8660147d
-2026-09-25T12:41:53.238653+00:00|https://news.sky.com/story/iranian-man-accused-of-trying-to-enter-uks-nuclear-naval-base-will-face-no-action-prosecutors-say-13591730|iranian man accused of trying to enter uks nuclear naval base will face no action prosecutors say|cdd2319e38732f053202cbf85fa05d04
-2026-09-25T12:41:55.518453+00:00|https://news.sky.com/story/anti-migrant-activist-danny-tommo-pleads-not-guilty-to-criminal-damage-over-boat-slashing-13591663|antimigrant activist danny tommo pleads not guilty to criminal damage over boat slashing|244e310a0d4104bcc678ab00ae7efb62
 2026-09-25T17:46:27.016409+00:00|https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo|im not tempted to call an early election burnham says|8b864f1bcc750c43458c92acdc01a08f
 2026-09-25T17:46:29.378270+00:00|https://news.sky.com/story/glasgow-city-council-pauses-plan-to-fire-and-rehire-more-than-23000-workers-13591898|council pauses plan to fire and rehire more than 23000 workers|3ed0c1a671e4698d28296c96fed73fdc
 2026-09-25T17:46:31.657337+00:00|https://www.bbc.co.uk/news/articles/cm86xngyd3xwo|contentious orange order parade can go ahead commission says|50277f10288b8cd2a00945eae51cfd0e
@@ -93,3 +85,5 @@
 2026-10-02T06:34:31.335952+00:00|https://www.bbc.co.uk/news/articles/c9n747kgx6evo|hundreds of jobs under threat at grangemouth chemical plant|ce45c981332e2d5d68d097290f09d58a
 2026-10-02T06:34:33.763998+00:00|https://www.bbc.co.uk/news/articles/crz6zqgpl86eo|potential crime probe into death of scots wingsuit flyer dropped|60a680a6562bda2621ad8dcdc59bb0c0
 2026-10-02T06:34:36.077087+00:00|https://news.sky.com/story/andy-burnham-gives-labour-post-landslide-euphoria-absent-under-sir-keir-starmer-says-peer-13594027|burnham gives labour postlandslide euphoria absent under starmer says peer|a0153d51789a00dc4caad8c39e0fd50c
+2026-10-02T13:29:27.762453+00:00|https://www.bbc.co.uk/news/articles/c60qxqqgwxe8o|man arrested over 1993 unsolved tooze murders faces no further action|67a364dba3c7452ce51b968b9309d001
+2026-10-02T13:29:30.040114+00:00|https://www.bbc.co.uk/news/articles/cmz98wwklwz7o|woman who killed abusive partner has murder conviction overturned|4d7053f20461639d7a5071feec982794
