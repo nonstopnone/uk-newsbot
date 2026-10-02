@@ -31366,5 +31366,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1790887472.033602
+  },
+  "affdfc3a39b5ba203d626880b69c9ed1": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and beauty trend piece that does not constitute hard news or have material significance to UK national interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790900744.052145
+  },
+  "342877ea1f80fbdd89fa30f60b34c72e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a violent criminal incident in the UK currently under police investigation, which fits the criteria for hard news regarding crime.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790900753.108105
+  },
+  "8cc0a35988ef5595f218d96196e8a463": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal matter involving a fatal road collision and a subsequent police arrest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1790900764.578063
+  },
+  "bdbc6eff65ba65070583c28b4e9075d0": {
+    "is_relevant": false,
+    "reasoning": "This article is about an entertainment television program, which is classified as fluff/lifestyle and does not meet the criteria for hard news relevant to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1790900774.141593
   }
 }
