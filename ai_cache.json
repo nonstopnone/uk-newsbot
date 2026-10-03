@@ -31758,5 +31758,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791056590.658029
+  },
+  "5c208b9f983ee4fa542e3a80784ff1ac": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest feature focused on social media trends and mental health, rather than hard news concerning UK policy, politics, or significant national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791066996.162029
+  },
+  "640bbd28a811a3144d2774962f4dcd39": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result in a major UK professional sporting league, covering a historic championship win.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791067009.691203
   }
 }
