@@ -31625,5 +31625,12 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1790991515.470896
+  },
+  "6a1af4a8cea199556718bb9096147abe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant High Court legal ruling involving a high-profile case of fraud and deception, falling under domestic legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791012427.422123
   }
 }
