@@ -31632,5 +31632,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791012427.422123
+  },
+  "eecbd37f4f31476e1eed741057615535": {
+    "is_relevant": false,
+    "reasoning": "This is a sports preview/opinion piece regarding Formula 1 qualifying, which falls under the excluded 'sports previews' category.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791032221.386224
+  },
+  "699dbe54493ce2b903e431ad587743fe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant agricultural and policy development involving the Scottish government's response to an animal disease outbreak affecting the UK economy and rural infrastructure.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791032231.952758
+  },
+  "131aee0c763d12ae2008495a7a75401f": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective lifestyle/opinion piece regarding a US death row inmate and does not constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791032246.458409
+  },
+  "5e80e251463b8bb0626dce42309ea9d5": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant security and terror-related investigation at a UK military base involving a legal process, which falls squarely under UK crime and security news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791032254.29058
+  },
+  "b22e3414119b42b6ae70c56aa2b5b52f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal matter involving a police investigation and arrest following a fatal road incident.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791032264.036647
+  },
+  "09426ac7a3d042ed95e2c4f7e5e0b88a": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest story about a niche culinary competition; it does not constitute hard news or have material significance for a UK national news audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791032272.910052
   }
 }

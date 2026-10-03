@@ -1,5 +1,3 @@
-2026-09-26T08:59:18.076327+00:00|https://www.bbc.co.uk/news/articles/ckg7q33gnwro|murder or medical mixup new questions in the case of killer nurse colin norris|ea571af68fc12571a159be619b7ec10f
-2026-09-26T08:59:20.516441+00:00|https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o|burnham not doing enough to boost growth says former business secretary|8a0e3bf82bb9fec3d1b31162cce6b496
 2026-09-26T13:41:31.564298+00:00|https://www.bbc.co.uk/news/articles/c6kg090rx2kdo|glasgow city council pauses plan to fire and rehire 23000 staff|c411e5d2a40a37211f2315b37b8f04f5
 2026-09-26T13:41:34.063170+00:00|https://www.bbc.co.uk/news/articles/c60m334grx9vo|met to reexamine cctv from jill dando murder case|5c3d8f3b3557da6da1bcc063605d4ba8
 2026-09-26T17:34:56.769984+00:00|https://www.bbc.co.uk/news/articles/crx2zz401935o|heathrow airport warns third runway could be delayed by four years|5d41f52fe871ca3904a9a2262563e92e
@@ -84,3 +82,6 @@
 2026-10-03T01:38:42.732102+00:00|https://www.bbc.co.uk/news/articles/cwkg5220l577o|met police urge students to move 7 october protest|5822bff3604ccd66ae458e3cf6297dc1
 2026-10-03T07:27:08.220734+00:00|https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o|tories pledge to build 50000 new prison places|2148115e9f38a90be5ec02c6a50e5029
 2026-10-03T07:27:10.774875+00:00|https://www.bbc.co.uk/news/articles/cq073egz324zo|woman deceived expartner that she had given birth to his babies judge rules|6a1af4a8cea199556718bb9096147abe
+2026-10-03T12:57:53.300644+00:00|https://www.bbc.co.uk/news/articles/cr62y3enq62zo|homemade bombs part of alleged plot on manchesters jewish community court told|fbb9e78039122b73088a01d27c9eb4b1
+2026-10-03T12:57:55.742101+00:00|https://www.bbc.co.uk/news/articles/c8p3gd4x4e6go|bluetongue restriction zone extension a positive thing for farmers|699dbe54493ce2b903e431ad587743fe
+2026-10-03T12:57:58.028997+00:00|https://news.sky.com/story/uk-iranian-national-arrested-in-raf-fairford-investigation-released-on-bail-13594647|ukiranian national arrested in raf fairford investigation released on bail|5e80e251463b8bb0626dce42309ea9d5
