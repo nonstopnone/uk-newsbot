@@ -31730,5 +31730,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1791046776.996357
+  },
+  "5b2fd4407e0b13e1af8b703dccc479c4": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major international sporting event involving the England national football team.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791056551.448698
+  },
+  "401086aed65c19059b15388e8ff92d8a": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a rugby match, which falls under sports reporting and does not meet the criteria for hard news relevant to the UK national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791056565.128456
+  },
+  "afef907d9749da787d4ff54325cdca75": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest and sports-adjacent charity story rather than hard news regarding politics, economy, crime, or significant infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791056580.347436
+  },
+  "ea317f9b3a966e5fff34e386fb18d311": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing criminal investigation involving a fatality in the UK that is of high public interest and safety concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791056590.658029
   }
 }
