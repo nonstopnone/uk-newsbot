@@ -31618,5 +31618,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1790981213.761053
+  },
+  "57417ed23a8c14f904e9c98ea7bf69a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health warning regarding a life-threatening virus affecting the UK population and local environmental changes, which falls under major national interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1790991515.470896
   }
 }
