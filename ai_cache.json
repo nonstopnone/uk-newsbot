@@ -31674,5 +31674,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791032272.910052
+  },
+  "bf54a7be88755d1655f3cbceab12735f": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major, ongoing civil dispute and security operation in Northern Ireland involving senior political figures, which is a matter of significant public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791046706.03164
+  },
+  "28261df52c44adac4d2bedc65c22c3ec": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a murder investigation and a shooting in London, which falls under UK crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791046715.360699
+  },
+  "45b836d79cd7e5e5ccf10ca226d222bc": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report about a rugby match, which does not meet the criteria for hard news relevant to the UK national interest as specified.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791046725.260933
+  },
+  "21656022018bcf972b2b99e23801306e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a violent crime incident in a major UK city involving police intervention and legal charges.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791046738.513818
+  },
+  "e4ed028a79dfc4ba0fdd3c7ff842c8b9": {
+    "is_relevant": true,
+    "reasoning": "This is a time-sensitive police appeal regarding a missing person, which falls under UK public safety and police operations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791046750.304622
+  },
+  "b65c700a2051714af8159e9a9769e403": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused lifestyle and entertainment story that does not meet the threshold for hard news relevant to national UK interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791046757.281069
+  },
+  "98748fbb0f61ee308e506744922cd307": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing police investigation involving the discovery of a body in the UK, which is a matter of clear public interest and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791046766.072282
+  },
+  "6ec6ede1780d3ae0e0bde1b0aa526549": {
+    "is_relevant": true,
+    "reasoning": "This is a policy proposal from a registered UK political party presented at their national conference, which falls under UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791046776.996357
   }
 }
