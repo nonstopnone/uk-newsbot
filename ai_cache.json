@@ -31877,5 +31877,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791126386.137113
+  },
+  "99d47c0eca5ea10a8853d286a1c6a8bd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and defence matter involving a UK airbase, ongoing counter-terrorism police investigations, and a strategic change in military presence within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791151891.388812
+  },
+  "1b9f3566475e36f7cf7e9a448480a20f": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on a personal medical anecdote rather than a significant development in national policy, crime, or hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791151908.23364
+  },
+  "68317248fd4072b61d2b57c5c82b0c45": {
+    "is_relevant": false,
+    "reasoning": "This is a regional political development in Pakistan that does not have a material, direct impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791151915.284017
   }
 }
