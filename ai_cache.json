@@ -31779,5 +31779,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791080387.963608
+  },
+  "d5c4c84d264cad0c4a546da6c2d97359": {
+    "is_relevant": false,
+    "reasoning": "This is a local sports and lifestyle event report. It does not qualify as hard news under the specified criteria for UK national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791105255.006011
+  },
+  "7df73541c8ea9562b79d642e7ebf854c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the potential collapse of a major UK broadband provider and its impact on the FTSE-100 listed BT Group, which materially affects the UK telecommunications infrastructure and economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791105263.29062
+  },
+  "995cbd38ee2845642a63a634995d70ca": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the Ministry of Defence regarding a fatal military aircraft crash involving a national heritage asset, which is a matter of clear public and safety interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791105272.826319
+  },
+  "2fd69cec1ba65faf4c6388ac7fb14984": {
+    "is_relevant": true,
+    "reasoning": "The construction of new rail infrastructure is a significant development for UK transport policy and local economic regional planning.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791105287.612366
+  },
+  "33ec2219f7113fc20569c953435b74e7": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest/lifestyle story about beekeeping that does not constitute hard news or have significant national impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791105295.077634
+  },
+  "b31d1563dc5fd1e9d8a87fd36fd0f201": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the conclusion of a major murder trial and sentencing in the UK, which falls squarely under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791105304.800247
+  },
+  "2ee3ff2714c4c46ae331659149792315": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on a personal medical case, which falls under lifestyle/health features rather than hard news or national policy reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791105314.557975
   }
 }
