@@ -31772,5 +31772,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1791067009.691203
+  },
+  "b0207a9e580e6964cf7eab66766a33d8": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest piece focused on personal parenting experiences and feelings of overwhelm, rather than hard news concerning UK public policy or significant events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791080387.963608
   }
 }

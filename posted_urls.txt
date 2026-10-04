@@ -1,7 +1,3 @@
-2026-09-26T23:20:12.404718+00:00|https://www.bbc.co.uk/news/articles/cklye5e40531o|faisal islam the two big calls the chancellor has to make ahead of the budget|69165c80394a685a36904a0b7cd9f2ce
-2026-09-26T23:20:14.992341+00:00|https://www.telegraph.co.uk/football/2026/09/26/england-vs-spain-live-score-latest-nations-league-updates|fun yes but when will tuchel fix this england defence|4f256133a0e327e2bb0e003b70a6333e
-2026-09-26T23:20:17.580010+00:00|https://news.sky.com/story/orange-order-parade-in-nationalist-area-of-northern-ireland-to-go-ahead-after-appeal-against-ban-13592276|controversial loyalist parade in northern ireland to go ahead after court battle|c80dce4e2373d42924f739bdd912f651
-2026-09-26T23:20:20.129841+00:00|https://www.bbc.co.uk/news/articles/cv8e33gdw17no|burnham announces scheme to help firsttime buyers on to housing ladder|488a836e3f89ae4c3ef19c90612d3907
 2026-09-27T03:07:13.956839+00:00|https://news.sky.com/story/noah-woods-investigation-launched-as-nhs-trust-apologises-for-data-breach-13592321|nhs trust apologises to noah woods family for extra anguish over data breach|0eef1b779deb48cac8e3513419737f1f
 2026-09-27T03:07:16.305291+00:00|https://www.bbc.co.uk/news/articles/cky9zzre1259o|the papers noels crying his heart out and global ivf disaster|eed0475c0fe1de1ac78a4ef0f9a54e5a
 2026-09-27T09:45:05.403238+00:00|https://www.bbc.co.uk/news/articles/cm0e33ej13r5o|thousands without water and roads closed after burst pipe|af1ecf555fea7bbd44534cd6f71b4976
@@ -87,3 +83,5 @@
 2026-10-03T19:43:16.046648+00:00|https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo|man shot dead as families gather for memorial|ea317f9b3a966e5fff34e386fb18d311
 2026-10-03T22:36:50.471165+00:00|https://www.bbc.co.uk/news/articles/cmn06l362ypeo|tories pledge to scrap £100000 childcare cliff edge|78770ec89158efb69753e9bb92664427
 2026-10-03T22:36:53.109652+00:00|https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o|wakefield beat warrington to win super league|640bbd28a811a3144d2774962f4dcd39
+2026-10-04T02:19:48.896642+00:00|https://www.bbc.co.uk/weather/articles/c6e3x8zg7wklo|autumn chill to arrive this week as temperatures set to drop|f0f466bb51e772fc699ce7e7d7f4d5d2
+2026-10-04T02:19:51.417604+00:00|https://www.bbc.co.uk/news/articles/cwjdmk479mr1o|the papers another tax bombshell and terror plot targets|2b3a838d19208ae112374d82ee3c911f
