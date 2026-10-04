@@ -1,8 +1,3 @@
-2026-09-27T09:45:05.403238+00:00|https://www.bbc.co.uk/news/articles/cm0e33ej13r5o|thousands without water and roads closed after burst pipe|af1ecf555fea7bbd44534cd6f71b4976
-2026-09-27T09:45:07.958276+00:00|https://www.bbc.co.uk/news/articles/cmqjkk55qg25o|ten nhs staff removed over noah woods data breach|4bfdcb195db7f067778fe5431eb3c0d8
-2026-09-27T14:57:16.744330+00:00|https://www.bbc.co.uk/news/articles/c914dd7ylgnpo|marra claims scottish government hoarding power in conference speech|52d1990cf72e5e3747047aa828ef45f7
-2026-09-27T14:57:19.113384+00:00|https://www.bbc.co.uk/news/articles/ckx2zq7x32wro|orange order march row goes to heart of ongoing divisions in northern ireland|10814c34ae137053f752ab176c7a70dc
-2026-09-27T14:57:21.837132+00:00|https://news.sky.com/story/man-in-his-80s-dies-as-fire-destroys-first-floor-of-london-house-13592402|man in his 80s dies in house fire|725c14880ea68900e1ba1643f70020ad
 2026-09-27T18:53:43.011628+00:00|https://www.telegraph.co.uk/cricket/2026/09/27/england-vs-sri-lanka-live-score-latest-updates-third-odi|england show odi depth in thrashing of sri lanka|09048e6e494847eab690948066503049
 2026-09-27T18:53:45.329063+00:00|https://www.telegraph.co.uk/rugby-union/2026/09/27/leicester-tigers-v-saracens-live-score-latest-prem-updates|saracens storm leicester to launch new venter era in style|43a5b70359ab4f94b505fa42a3b6c341
 2026-09-27T18:53:47.714257+00:00|https://www.bbc.co.uk/news/articles/c8y5z63x0ykno|social care reform could mean big risks and big rewards for burnham|271d635b5b5a60c75f8a3b29213d74db
@@ -86,3 +81,6 @@
 2026-10-04T09:15:15.150648+00:00|https://www.bbc.co.uk/news/articles/cwjdmkgemmd4o|get on with the day job welsh tory leader attacks first ministers independence push|303638756572417e17d2f3ac0d2a85fc
 2026-10-04T09:15:17.639689+00:00|https://www.bbc.co.uk/news/articles/cj20709qxleyo|housing or data centre londons landuse dilemma|9f7720859a89c5449904cf70129a5fe6
 2026-10-04T09:15:20.196606+00:00|https://news.sky.com/story/ares-demands-bt-payment-as-talktalk-teeters-on-brink-of-administration-13594901|ares demands bt payment as talktalk teeters on brink of administration|7df73541c8ea9562b79d642e7ebf854c
+2026-10-04T15:06:26.743790+00:00|https://www.bbc.co.uk/news/articles/cmvgxw5y4y0wo|sinn féin will cooperate with psni investigation over drumcree protest says mcdonald|0f1ce2ac085c6ab4da1c3d5964b3c012
+2026-10-04T15:06:29.373588+00:00|https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo|wales evans wins first world rally championship after rivals late crash|f3411a5a17ebd63d662771a4b25178e6
+2026-10-04T15:06:31.922275+00:00|https://www.telegraph.co.uk/formula-1/2026/10/04/bahrain-grand-prix-in-malaysia-race-updates-live-sepang|russells title hopes run out of gas before verstappen wins bahrain gp ahead of antonelli|d0ec62b60a2c755e34829731ad93a9b1

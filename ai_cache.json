@@ -31828,5 +31828,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791105314.557975
+  },
+  "0f1ce2ac085c6ab4da1c3d5964b3c012": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and legal development involving the leaders of Sinn Féin and the police in Northern Ireland regarding an illegal protest, which directly concerns UK domestic politics and law enforcement.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791126316.92862
+  },
+  "9a7baa503c0af3b1131e044ddcb7715c": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest human interest story about a missing person being found, which does not constitute hard news of national UK significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791126326.948963
+  },
+  "556a69d24a94bdf7516207667a4d073f": {
+    "is_relevant": true,
+    "reasoning": "The article concerns operational changes at a major national institution and the resolution of significant public service issues regarding visitor access.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1791126335.041629
+  },
+  "f3ccc2ab27166bcf2244a9a25b5c8bf6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant archaeological discovery of national historical importance in the UK, involving a major heritage project.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1791126344.724455
+  },
+  "8e29fac111fbe9791cf9f5c9747c866b": {
+    "is_relevant": true,
+    "reasoning": "Glastonbury is a major cultural event with significant national interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1791126356.645112
+  },
+  "d0ec62b60a2c755e34829731ad93a9b1": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of a high-profile British athlete in a major international sporting competition.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791126372.201982
+  },
+  "9f50c60ec07626791a5aaac09a6b7ac6": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a niche culinary competition and does not constitute hard news or a significant event for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791126386.137113
   }
 }
