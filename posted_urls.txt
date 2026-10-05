@@ -1,6 +1,3 @@
-2026-09-28T14:52:22.661364+00:00|https://www.bbc.co.uk/news/articles/c3x2zw18ge59o|best thing we can offer young people is a job not benefits says chancellor|9e67a08ef5645c6602022d7c6af02d5c
-2026-09-28T14:52:25.393499+00:00|https://www.bbc.co.uk/news/articles/c60qxk7d2539o|avanti west coast services to be nationalised from march|1fe2fea299118b03561055e2142e26d0
-2026-09-28T14:52:27.917703+00:00|https://www.telegraph.co.uk/business/2026/09/28/borrowing-costs-rise-after-jump-in-oil-price|uk borrowing costs close to highest level since 2007|42e0f81afea95f3d7a4fc14bb2871b38
 2026-09-28T21:01:22.589145+00:00|https://www.bbc.co.uk/news/articles/c6n4k987k981o|uk diesel price hits alltime high the rac says|eceed7859c48619e6aabcc889dd65268
 2026-09-28T21:01:25.167082+00:00|https://www.bbc.co.uk/news/articles/c6e9elmpvglno|five men arrested in raf fairford incident released on police bail|9f7f1a42ed2ee9d0839657e9c01dfcfc
 2026-09-28T21:01:27.762395+00:00|https://news.sky.com/story/man-city-boss-says-fight-against-premier-league-could-take-years-to-conclude-sky-news-understands-13593002|man city boss says fight against premier league could take years to conclude sky news understands|3c7686b3bfb8d86c305c6458dc1010d8
@@ -84,3 +81,7 @@
 2026-10-05T08:08:01.111353+00:00|https://www.bbc.co.uk/news/articles/c689zl5eljdzo|andrew takes legal action over search warrants relating to arrest|026e62229e4648ceaae85a08608aae16
 2026-10-05T08:08:03.511780+00:00|https://news.sky.com/story/hearing-to-take-place-after-andrew-mountbatten-windsor-takes-legal-action-against-police-over-arrest-13595247|hearing to take place after andrew takes legal action against police over arrest|dba957078a280a44d9166fc13fa375a3
 2026-10-05T08:08:05.929690+00:00|https://news.sky.com/story/anti-migrant-protesters-gather-at-seaside-town-as-dinghy-crosses-channel-to-uk-13595218|antimigrant protesters gather at seaside town as dinghy crosses channel to uk|d28a06827ed36c88c63491bb15a072d4
+2026-10-05T17:47:15.363112+00:00|https://www.bbc.co.uk/news/articles/cqj9kje82jm1o|shadow chancellor vows to cut at least one tax in every tory budget|adacbfb1b426177355f5702d2123bd27
+2026-10-05T17:47:17.886177+00:00|https://www.bbc.co.uk/news/articles/c9ly0l028d1go|kings funding for andrew not to be used for legal action against police|fde120c12744c882b5c1e8cc7e225068
+2026-10-05T17:47:20.286096+00:00|https://news.sky.com/story/glasgow-city-council-and-unison-reach-potential-deal-in-fire-and-rehire-pay-row-13595445|potential deal reached in pay dispute after council proposed firing and rehiring 23000 workers|b58332498993c37c94dab4c28d937e3f
+2026-10-05T17:47:22.700921+00:00|https://news.sky.com/story/scottish-government-on-course-to-miss-child-poverty-targets-charity-warns-13595433|scottish government to miss child poverty targets by miles|9c6c3cc523bc0b1f8ccd0c7763902304

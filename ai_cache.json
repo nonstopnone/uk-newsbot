@@ -31996,5 +31996,96 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1791187678.049535
+  },
+  "fde120c12744c882b5c1e8cc7e225068": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the financial arrangements of the Royal family and a legal challenge against a UK police force involving a prominent public figure.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1791222176.145643
+  },
+  "69240e50f556dd39822b7a91253c079d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political dispute concerning public order and community relations in Northern Ireland, which directly involves the devolved legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791222190.375744
+  },
+  "4fb6c44dc55700585faf3a0437b10030": {
+    "is_relevant": false,
+    "reasoning": "This is a report on museum visitor management and logistical operations rather than a significant national news event. It falls under lifestyle/arts management rather than high-level UK governance or infrastructure news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791222220.731003
+  },
+  "9ffa6065926c67377a90d747073d369a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a fatal knife attack and a judicial recommendation for deportation, which is a matter of clear public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791222247.897553
+  },
+  "84989d45a754820e5dd7b07d4a93bc1c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a judicial inquest regarding a major criminal case in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791222277.436525
+  },
+  "0c0aa8849a9ad6676da657852e75ec61": {
+    "is_relevant": false,
+    "reasoning": "This is a report on the humanitarian crisis in Yemen which does not materially affect the UK, nor does it involve UK policy or interests directly.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791222315.640279
+  },
+  "0af98e17e86f5af2944a095943c73f0c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations dispute involving a major local authority and 23,000 employees, which is relevant to UK public administration and labor policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791222326.914572
+  },
+  "52d9a4ee9472267433edacdb0e8dcb67": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving over 100 serious offences and proceedings in a UK-affiliated court system (Northern Ireland), which is of high public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791222342.823927
+  },
+  "85cc6bd2307c38495e339c9f64b46959": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal prosecution of a public figure for a road traffic offence, which constitutes a matter of crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791222351.54263
+  },
+  "b58332498993c37c94dab4c28d937e3f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations development involving a major devolved government council and thousands of workers, falling under UK domestic politics and labor economy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791222363.9857
+  },
+  "4d686a99f003444c51b21294c892d9e8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving terrorism and immigration policy, which are high-priority topics for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791222371.131868
+  },
+  "9c6c3cc523bc0b1f8ccd0c7763902304": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the failure of a devolved government to meet legally-binding social policy targets, which is a matter of clear public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791222422.936554
+  },
+  "3436a01cde721aa6ed43f2e498d22ccf": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant public order incident involving arrests, protests, and migrant arrivals, which is a matter of clear national interest and relates to immigration policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791222434.456461
   }
 }
