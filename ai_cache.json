@@ -31898,5 +31898,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791151915.284017
+  },
+  "1722a913b6e7591c90f0cc3a0a9548b2": {
+    "is_relevant": true,
+    "reasoning": "The article summarizes front-page coverage of a major UK political party conference and specific policy pledges regarding environmental regulation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791163764.543381
+  },
+  "d51318aa69997e74633800182b056934": {
+    "is_relevant": true,
+    "reasoning": "This concerns the performance and management of the Welsh national football team, which is a matter of significant interest to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791163780.73731
+  },
+  "8ea171b7c974c1381cf6c74f5c8e782e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing news event regarding small boat arrivals and immigration policy in the UK, involving law enforcement and public order issues.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791163789.4769
+  },
+  "91872b5adaabf08f0ccbb216797836f8": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-lifestyle piece focused on ticket sales and entertainment trends rather than hard news impacting the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791163798.763004
   }
 }
