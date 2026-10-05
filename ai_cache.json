@@ -31926,5 +31926,75 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791163798.763004
+  },
+  "c7e1fe87f97f177d7339aefac16da33d": {
+    "is_relevant": true,
+    "reasoning": "This is a government-backed public policy initiative regarding early years education and public health infrastructure across multiple UK local authorities.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791187581.008079
+  },
+  "026e62229e4648ceaae85a08608aae16": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a high-profile figure and active UK police proceedings, falling under the remit of UK legal and institutional accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791187590.89767
+  },
+  "a3b44418148e0d1442ae250e81cdc05f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development concerning major UK telecommunications infrastructure and competition regulation, directly impacting millions of UK consumers.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791187599.558225
+  },
+  "a7e61f4852f0e6c7b6c043af671776cd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK domestic news event involving public disorder, law enforcement, and immigration policy matters.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791187609.399666
+  },
+  "dba957078a280a44d9166fc13fa375a3": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile legal challenge involving a member of the Royal family and the police, which constitutes significant UK legal news.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1791187617.335945
+  },
+  "b0ca33b55b903e819910ce21b7481eb3": {
+    "is_relevant": false,
+    "reasoning": "The calling of a snap election in Spain is a domestic political event that does not materially affect the UK or hold significant direct relevance to a UK news audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791187633.191219
+  },
+  "38d9e4334cf1118be9d531c0d7b40892": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal investigation involving a fatality and an active police operation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791187641.900885
+  },
+  "9ea6b8a4a04e459c1e2fd782a2966573": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive emergency services event in a major UK city center requiring public safety warnings.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791187653.038882
+  },
+  "960b9e431ad61bfd2eafd1769185844c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and civil unrest matter in Northern Ireland involving the Parades Commission and potential public disorder, which is of clear national importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791187667.511317
+  },
+  "d28a06827ed36c88c63491bb15a072d4": {
+    "is_relevant": true,
+    "reasoning": "This report concerns active public demonstrations and immigration events occurring on UK soil, which are matters of significant public interest and policy debate.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791187678.049535
   }
 }
