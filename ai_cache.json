@@ -32087,5 +32087,40 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1791222434.456461
+  },
+  "f3b72299f09a64725b1b2ce003937a1e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development involving UK political parties, potential hate crime investigations by police, and formal referrals to the equality watchdog, which constitutes serious UK political and legal news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791243343.662541
+  },
+  "bd72ca1a50fc673fa5e0a8e6d72307bc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant educational development regarding AI literacy in the UK school system, which is a matter of public interest and policy relevance.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1791243354.185622
+  },
+  "799b8e825da5515744f2fb1bbdf8652b": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent former UK politician and bestselling author is a significant event of national interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791243369.016802
+  },
+  "dcc28f27a40c6fb96d5b5c1136378cb8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding accessibility failures in UK public infrastructure and transport services, directly impacting a UK passenger's rights and safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791243379.780133
+  },
+  "85b79632b61fef27d7696e3e9e7e08e6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant safety incident involving a major UK airline and a return to a London airport, representing hard news of public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791243395.330081
   }
 }
