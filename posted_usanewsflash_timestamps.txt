@@ -1,4 +1,3 @@
-2026-09-29T19:54:22.275114+00:00|https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss|OpenAI agents get rebrand - as 'dots' - while safety worries delay new model|2953ea8b883922d769764ed0db56f649
 2026-09-29T23:15:27.056056+00:00|https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss|Former American Idol contestant and pastor found guilty of murdering wife|2463c8d1da22a2a5d01d1761fd72510f
 2026-09-30T02:08:56.298517+00:00|https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss|US Supreme Court denies Christa Pike's last-ditch bid to halt execution|faf71a7b7d6334697d006b5bebd1c839
 2026-09-30T02:09:01.999592+00:00|https://news.sky.com/story/tennessee-to-execute-a-woman-for-first-time-in-200-years-13593495|Tennessee to execute a woman for first time in 200 years|48b759cd58e9c11aba02840bbd119874
@@ -32,3 +31,4 @@
 2026-10-06T13:41:05.995697+00:00|https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss|California leaders hit back after Trump says Iran can 'take out' LA and San Diego|1f351aae4f7c7199221fccc390d5c358
 2026-10-06T13:41:11.619716+00:00|https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss|All six passengers presumed dead after plane went missing off US coast|fcccf2e5ace0e82cd4a84030fb8f62ab
 2026-10-06T19:08:07.108748+00:00|https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss|Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments|d4c0eee021f8df174acd5841d5c11079
+2026-10-06T23:02:13.728683+00:00|https://news.sky.com/story/christa-pike-conscious-and-speaking-at-hospital-after-failed-execution-in-us-13595950|Christa Pike 'conscious and speaking at hospital' after failed execution in US|f712a82679089499913c1f83cc49e82f
