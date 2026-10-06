@@ -32213,5 +32213,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791286944.990556
+  },
+  "905309cdc178d70c4183ad794ea6e2fa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a serious criminal trial, sentencing, and convictions within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791308730.854642
+  },
+  "c03efd9cf2feff78d7188290725099fd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving allegations of foreign state-sponsored espionage and threats of serious violence against journalists on UK soil.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791308747.867685
+  },
+  "c5a0938e28d180c0b674dd1090049bd9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder trial in a UK court, which falls under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791308761.813381
+  },
+  "255293c8ab8df71f5014b24727eb57ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on police misconduct and use of force involving a vulnerable person in a UK care home, which is a matter of clear public interest and legal significance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791308773.959505
+  },
+  "d5c888287bed229ee2f1b0e0047fd278": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial involving serious charges being heard at a UK Crown Court, which falls under the category of UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791308794.242224
+  },
+  "2b96a76f6051e21cba52c7a0e9f6e206": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and public safety incident involving arrests and major infrastructure disruption in a UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791308843.074773
+  },
+  "dd4164ebbb1a8d9ed64ac954f652d89b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome involving a UK university and a matter of public interest regarding institutional accountability and student welfare.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791308857.950996
   }
 }

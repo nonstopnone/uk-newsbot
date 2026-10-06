@@ -1,5 +1,3 @@
-2026-09-29T13:42:32.269353+00:00|https://www.bbc.co.uk/news/articles/ck0j30yg8j9do|drumcree stalemate continues as protesters remain|2087670269e202fca29865b5e9ccbdd8
-2026-09-29T13:42:34.810687+00:00|https://www.bbc.co.uk/news/articles/cx2mjkll24xo|south west water fined almost £8m for sewage spills|ccdcef37a431b89be24cd9d32811ee45
 2026-09-29T19:05:19.813227+00:00|https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro|man city guilty of sham contracts and misleading accounts|1d3f08aeab14412847de7d21361d17d4
 2026-09-29T19:05:22.361089+00:00|https://www.bbc.co.uk/news/articles/cqn8m342rgk9o|quantity of petrol but no explosives found in three vehicles near raf fairford|9135a9500c526ff252e30cbe51fa4761
 2026-09-29T19:05:24.912852+00:00|https://news.sky.com/story/nhs-tayside-should-have-stopped-disgraced-brain-surgeon-years-ago-eljamel-inquiry-told-13593345|disgraced brain surgeon should have been stopped years ago inquiry told|3fca86bc4f41f1aa388486a2c7d2d827
@@ -88,3 +86,7 @@
 2026-10-06T11:42:25.464870+00:00|https://www.bbc.co.uk/news/articles/cr9dzljq56ejo|childminder who left 27 children alone in her home pleads guilty to neglect|60aa05ebbc8ec8341c40ed29adeade13
 2026-10-06T11:42:27.892363+00:00|https://www.bbc.co.uk/news/articles/cme8r9267dpko|boats set for people smugglers seized at airport|247d56f662125d50da3d9ceda4253897
 2026-10-06T11:42:30.222036+00:00|https://news.sky.com/story/iranian-spies-targeted-journalists-in-london-in-plan-to-inflict-serious-violence-court-hears-13595691|three iranian men spied on journalists in plan to inflict serious violence|fba557b6e557df082fc238f3467f283b
+2026-10-06T17:47:38.404194+00:00|https://www.bbc.co.uk/news/articles/cm1j4j6yd7n0o|afghan men jailed for rape of teenager after being caught fleeing uk by french police|905309cdc178d70c4183ad794ea6e2fa
+2026-10-06T17:47:40.846631+00:00|https://www.bbc.co.uk/news/articles/c9x28ljj34lxo|id rather have another election than do a deal with reform uk says badenoch|77d858493b62d27d47c05b508983a592
+2026-10-06T17:47:43.193786+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/uk-not-prepared-for-food-shortages-experts-warn|uk not prepared for food shortages experts warn|0cc5c3bc609d7b9a1d83ce5a63981b32
+2026-10-06T17:47:45.590343+00:00|https://news.sky.com/story/family-of-university-of-glasgow-student-who-took-own-life-after-grading-error-settle-civil-case-13595783|family of student who took his own life after grading error settle university civil case|dd4164ebbb1a8d9ed64ac954f652d89b
