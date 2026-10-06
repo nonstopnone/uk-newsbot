@@ -32262,5 +32262,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791308857.950996
+  },
+  "d4fd519fbc52af4d804ca2853e449992": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant achievement by the England national football team captain, which is of major interest to the UK sporting public.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791324554.7916
+  },
+  "1380af98adbdb0472f1a9acbabf40f18": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer lifestyle shopping guide and product recommendation list, which is explicitly excluded from the subreddit criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791324595.033534
+  },
+  "9b2ddf5e6e91504a41a4c61b6d85bd28": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure project in Northern Ireland involving a court ruling and ministerial action, which is highly relevant to UK devolved government and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791324603.733894
+  },
+  "87a474f16f5cb3382d476877b408482a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the murder of a medical professional, which is a matter of serious public interest and legal proceedings within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791324614.936534
+  },
+  "f077117cf0f0478a946cc802769bee2b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant immigration enforcement operation involving criminal activity and the integrity of the UK asylum system.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791324624.860044
+  },
+  "aa13a4fcc1ec29bb2345ab714037f827": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a major UK retailer affecting a large number of UK customers, necessitating public awareness and data security measures.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791324635.118248
+  },
+  "80930ba418f5927e2e116d23282926df": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant political development within a devolved UK government involving a no-confidence motion against the First Minister of Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791324643.887067
+  },
+  "3564a7e6b819c13d1049b7e1168161c5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding criminal networks exploiting the UK asylum system, involving Home Office enforcement and immigration policy.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791324654.026659
+  },
+  "f3ee72623b3da91d2a5d88c652812a2c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant data security incident affecting a major UK-based retailer and its customer base, which falls under consumer protection and potential regulatory involvement.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791324662.883343
   }
 }
