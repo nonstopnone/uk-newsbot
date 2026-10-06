@@ -32122,5 +32122,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1791243395.330081
+  },
+  "adfce8b1772288d3634a9a617f86e78a": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent former Member of Parliament and internationally renowned author is a significant event of public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791260456.03971
+  },
+  "34f52bf2498d611920c34cfe1ffe1c2f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning devolved government policy and the economic impact of social disadvantage in Scotland, which is of major public interest.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791260467.645624
+  },
+  "108c3560c21e2dac02978eda99baec0e": {
+    "is_relevant": true,
+    "reasoning": "The article details allegations of serious criminal activity by UK citizens as formally stated by British authorities in court, which falls under the remit of UK legal matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791260479.752341
+  },
+  "9e04e05229601c3ceefdaa4fc4cb9343": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a formal investigation by UK MPs into the conduct of the Financial Conduct Authority, a major UK regulatory body, regarding its treatment of a British whistleblower.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791260491.433269
   }
 }
