@@ -1,5 +1,3 @@
-2026-09-29T06:33:02.034949+00:00|https://www.bbc.co.uk/news/articles/ck5yen96l1p6o|stroke patient 80 could be placed in care 100 miles from home|710630faf0781feaf6090e4ee914628a
-2026-09-29T06:33:04.472735+00:00|https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o|family of british explorer sir ranulph fiennes say they dont know where he is|acd5f57ea290fcce4730211469f8df95
 2026-09-29T13:42:32.269353+00:00|https://www.bbc.co.uk/news/articles/ck0j30yg8j9do|drumcree stalemate continues as protesters remain|2087670269e202fca29865b5e9ccbdd8
 2026-09-29T13:42:34.810687+00:00|https://www.bbc.co.uk/news/articles/cx2mjkll24xo|south west water fined almost £8m for sewage spills|ccdcef37a431b89be24cd9d32811ee45
 2026-09-29T19:05:19.813227+00:00|https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro|man city guilty of sham contracts and misleading accounts|1d3f08aeab14412847de7d21361d17d4
@@ -87,3 +85,6 @@
 2026-10-06T04:21:34.483763+00:00|https://www.bbc.co.uk/news/articles/ckj0l401dvpgo|author and former politician jeffrey archer dies aged 86|adfce8b1772288d3634a9a617f86e78a
 2026-10-06T04:21:37.018339+00:00|https://news.sky.com/story/failure-to-support-most-disadvantaged-in-scotland-costs-58bn-a-year-says-analysis-13595340|failure to support scotlands most disadvantaged costs £58bn a year|34f52bf2498d611920c34cfe1ffe1c2f
 2026-10-06T04:21:39.380942+00:00|https://news.sky.com/story/tate-brothers-exploited-women-using-lover-boy-model-uk-alleges-13595592|tate brothers exploited women using lover boy model uk alleges|108c3560c21e2dac02978eda99baec0e
+2026-10-06T11:42:25.464870+00:00|https://www.bbc.co.uk/news/articles/cr9dzljq56ejo|childminder who left 27 children alone in her home pleads guilty to neglect|60aa05ebbc8ec8341c40ed29adeade13
+2026-10-06T11:42:27.892363+00:00|https://www.bbc.co.uk/news/articles/cme8r9267dpko|boats set for people smugglers seized at airport|247d56f662125d50da3d9ceda4253897
+2026-10-06T11:42:30.222036+00:00|https://news.sky.com/story/iranian-spies-targeted-journalists-in-london-in-plan-to-inflict-serious-violence-court-hears-13595691|three iranian men spied on journalists in plan to inflict serious violence|fba557b6e557df082fc238f3467f283b

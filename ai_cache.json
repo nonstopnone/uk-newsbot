@@ -32150,5 +32150,68 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1791260491.433269
+  },
+  "60aa05ebbc8ec8341c40ed29adeade13": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case regarding child neglect involving a licensed childminder in Scotland, which is a matter of public safety and legal record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791286849.136973
+  },
+  "247d56f662125d50da3d9ceda4253897": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and border security story involving the National Crime Agency and efforts to disrupt illegal channel crossings, which is a major matter of UK public interest.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791286859.462868
+  },
+  "e9dfd1b88334d92c96bb30c7d5a595c2": {
+    "is_relevant": false,
+    "reasoning": "This is an arts and entertainment story regarding a theatre production, which falls under lifestyle and culture rather than hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791286869.142397
+  },
+  "630153089da5af7c7705eb8576797bc6": {
+    "is_relevant": false,
+    "reasoning": "This is an obituary for a singer, which falls under entertainment/lifestyle news rather than the hard news categories required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791286879.454763
+  },
+  "53a315e095971d0a16a131b3d415a771": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving an ongoing murder investigation and police arrest within the UK, which meets the criteria for inclusion.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791286906.729672
+  },
+  "fba557b6e557df082fc238f3467f283b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a plot to inflict violence on individuals within the UK, directly impacting national security and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791286915.743109
+  },
+  "24d314027847dbb5c42fdebe9830f3bc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory enforcement action by a UK statutory body (Ofcom) regarding the Online Safety Act, which directly impacts UK digital policy and child safety standards.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791286923.36173
+  },
+  "aee695b2be7b1bf8396a79e73b438c3a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding domestic unrest, police operations, and an ongoing legal case concerning immigration arrivals in the UK.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1791286936.89297
+  },
+  "f2e59c1e9198d60cac990267f9aa1b90": {
+    "is_relevant": true,
+    "reasoning": "This report details significant statistics regarding criminal fraud activity in the UK and mentions sentencing outcomes, which falls under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791286944.990556
   }
 }
