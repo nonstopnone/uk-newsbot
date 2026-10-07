@@ -32388,5 +32388,110 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1791361035.865237
+  },
+  "60a50adf00bcd21dd4faec6a90c6560f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public order event in the UK involving multiple police arrests and issues of domestic community tension.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791388804.148974
+  },
+  "d8927b164915e964d2ca132d90f8e85d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory development concerning a major UK football club and the Football Association's disciplinary proceedings.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791388865.875021
+  },
+  "e392e8ae5cbbeb6e20a30e76a5345eb7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the internal affairs and vetting procedures of a UK political party, involving allegations of ties to extremism and a controversial party motion.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791388922.946404
+  },
+  "a6aaf89b50cfc009e4e7cbaf1be7ee7d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the death of a high-profile figure in Scottish criminal history, which involves major legal proceedings and public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791388978.757693
+  },
+  "352a73eb46bbe58f3e26f1292d76c0ce": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident involving a UK inquest, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791388993.171444
+  },
+  "a062a89a5cbb11aef602500ef6e04488": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal justice story involving a murder case and a critique of government sentencing policy regarding early release schemes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791389018.114722
+  },
+  "ff6ceffb6c9978fd6bdf12bca9b9d805": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder conviction in the UK, which falls under the category of serious crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791389029.983792
+  },
+  "59fc729eb3efe54d41f551eaa9e78327": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate acquisition involving a major UK retail institution, which has substantial implications for the UK economy and high street landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791389045.452722
+  },
+  "a4ef0f0817c6ac394adf57c6223312bf": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a regional public health issue in East Africa and does not indicate any direct impact on the UK or involvement of UK citizens.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791389067.282128
+  },
+  "cc432b6cadb5a27cb3ca40881237caf2": {
+    "is_relevant": true,
+    "reasoning": "The article involves the Head of State participating in a public engagement regarding national youth initiatives and the creative sector.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1791389076.047261
+  },
+  "6441b899e3551b912c532a4729112ebc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and active legal proceedings within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791389135.139228
+  },
+  "db5e9973d35e59d2ae6887c8e0ce6ea6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate restructuring affecting a major UK infrastructure provider and a large portion of the national workforce.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791389142.145849
+  },
+  "cf90dc97a67e9831f625a0af88f4da9b": {
+    "is_relevant": false,
+    "reasoning": "The article is a report on maternal health and nutrition in Malawi and does not materially affect the UK or involve UK domestic policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791389154.763824
+  },
+  "317ff94fca90b50836722abc9d78bd3b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal story involving a guilty plea for child neglect in a Scottish court, which is a matter of public safety and legal interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791389170.52203
+  },
+  "974dd67b60450d08e26ed89db8257c6e": {
+    "is_relevant": false,
+    "reasoning": "This is an explanatory medical/science feature regarding a specific incident in Russia, which does not constitute hard UK news or have a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791389197.472272
   }
 }
