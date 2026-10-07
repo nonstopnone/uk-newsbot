@@ -32325,5 +32325,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1791324662.883343
+  },
+  "4e8f1557a091a26862e24d9fabb7e1eb": {
+    "is_relevant": false,
+    "reasoning": "This is a product announcement and business feature concerning a specific car model's design and marketing, which falls under lifestyle and commercial news rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791338302.879974
+  },
+  "4ef64b736f1a065d4aa259393df8a038": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle and consumer trend piece about frozen yoghurt, which does not constitute hard news or meet the criteria for UK political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791338312.98396
   }
 }
