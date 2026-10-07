@@ -32493,5 +32493,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791389197.472272
+  },
+  "5886fb55e6c9608586f70543cf7e44ab": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on individual experiences with airport security rather than significant policy shifts, major legal precedents, or breaking news of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791407357.671619
+  },
+  "cff3122ae0d9be32ebe91adbf4de873f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving an attempted murder at a UK school, which is a matter of serious public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791407368.377716
+  },
+  "53dc815a44e755a58492026038c6f73f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal sentencing involving fraud against medical institutions, which is a matter of clear public interest and legal significance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791407378.194713
+  },
+  "f6da900ceed3e9d1eed0e79aafc4d626": {
+    "is_relevant": true,
+    "reasoning": "The incident involves a British national and is a matter of significant public interest and legal proceedings concerning the safety of UK citizens abroad.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791407387.649174
+  },
+  "1cb1368e2d824743fe10607ef78eaeb1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on public infrastructure and educational welfare in Northern Ireland involving government bodies and policy decisions affecting children.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791407400.177133
+  },
+  "7fa29d3eb0c8fd4f671ffe3644a11237": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing civil order and political dispute in Northern Ireland regarding public marches, which constitutes hard news relevant to the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791407406.957362
+  },
+  "957125b3766e09139aa895225bf32600": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding UK taxation from a major political party, which directly concerns the national economy and public policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791407417.565642
+  },
+  "25079115ed4b1136956027c0bb54a734": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing serious criminal proceedings at a UK Crown Court involving allegations of rape and sexual assault.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791407427.250023
+  },
+  "9d533dbc90b64951530f88a839404a3f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder charge and court proceedings, which falls under the category of serious national news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791407438.156823
   }
 }
