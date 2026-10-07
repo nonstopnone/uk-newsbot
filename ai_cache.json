@@ -32339,5 +32339,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791338312.98396
+  },
+  "6ee46dc49ae84bb39b98eadf7e711884": {
+    "is_relevant": false,
+    "reasoning": "This is a product launch and corporate branding story, which falls under lifestyle/business news rather than hard news impacting the UK public or national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791360981.332328
+  },
+  "e7185f1b3dfeecffec20f0463706e11b": {
+    "is_relevant": true,
+    "reasoning": "This relates to NHS health policy and public health guidelines on obesity, which is a major area of concern for the UK healthcare system.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791360989.40696
+  },
+  "b77e94c916b8b934d253cdb70760fb9a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the impact of rising energy costs on the public education sector in Northern Ireland, directly affecting infrastructure and policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791360999.265033
+  },
+  "a4f0c8ed83da5dbf112ba056358d35a2": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a localized water supply issue on a small, self-sufficient island and does not constitute a matter of national importance or hard news for a UK-wide audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791361009.072303
+  },
+  "ffca8058dd01878a0ef85f9206b9cf64": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the UK criminal justice system, judicial process, and the failure to prevent a convicted rapist from fleeing the country.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791361017.702809
+  },
+  "5537272f86a9cbc40432d117b1585658": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest archaeology story that does not constitute hard news of national significance or systemic relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791361026.683489
+  },
+  "4889d9e1cad2c84ee62b1aea8e9c733e": {
+    "is_relevant": true,
+    "reasoning": "This report highlights significant systemic failures in public service delivery and human rights obligations in Scotland, involving devolved government officials and major public policy implications.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791361035.865237
   }
 }
