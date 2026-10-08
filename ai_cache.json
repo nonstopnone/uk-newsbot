@@ -32563,5 +32563,75 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791422986.17039
+  },
+  "d9bdd88e7fd8d419650793adc67924af": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant diplomatic dispute involving the British government's presence in East Jerusalem and its bilateral relationship with Israel, which is a matter of clear national interest.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1791447460.219327
+  },
+  "60d7a957bcd1e6b9c4a8031b5404e7d4": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant and ongoing civil unrest and political dispute in Northern Ireland, directly involving a devolved government party leader and matters of public order.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791447489.978039
+  },
+  "e4bfbe0180806201aff245117edc55ac": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security case involving a serving member of the British armed forces charged with spying, which directly impacts UK national security and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791447523.279966
+  },
+  "1451c1a975307f9ec73f6fe7c5d64db6": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a parliamentary by-election in a UK constituency, which is a significant event in UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791447545.64668
+  },
+  "3d45cb3a5b0bf03f389b3cf25cb5397b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant diplomatic development regarding UK foreign relations and its diplomatic presence in a high-stakes international region.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1791447575.697729
+  },
+  "d047b9d8c0a753a66c262e2dc9b7fd41": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding NHS safety, clinical failings, and healthcare policy reform, which is a matter of critical public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791447589.750493
+  },
+  "7eb970ba18739294bd9a292ea4b2558a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a serious violent crime in the UK and includes a response from the Ministry of Justice regarding sentencing guidelines.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791447606.185382
+  },
+  "0bc9d9c0e91da96e6a9d2f0e291e6efd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder charge and the death of a GP, which is a matter of serious public interest within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791447620.312034
+  },
+  "a64390d61ea886cf5f04135a2a91345f": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story focusing on an individual's personal travel experience rather than a major policy change, legal ruling, or significant systemic failure in UK infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791447640.332525
+  },
+  "32455f6cd135706665bb15bae36b7ec7": {
+    "is_relevant": false,
+    "reasoning": "This is a nature and conservation report rather than hard news regarding UK politics, economy, crime, or significant public infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791447675.784628
   }
 }
