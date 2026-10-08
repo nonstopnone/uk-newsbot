@@ -1,7 +1,3 @@
-2026-10-01T15:59:19.429976+00:00|https://www.telegraph.co.uk/business/2026/10/01/uk-house-prices-mortgage-interest-rates-bonds-ftse-100|ftse 100 tumbles amid bond market selloff|08f2c139108d2aa1036681e5da30efd7
-2026-10-01T15:59:21.984826+00:00|https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o|burnhams man city comments completely out of touch tories say|dd751de9da1bd2a64d8a312d6907a5a4
-2026-10-01T15:59:24.547722+00:00|https://www.bbc.co.uk/news/articles/c6evwvdwggrlo|hundreds of criminals start leaving prison under new early release scheme|c1e2e24de258ff8d9f4f0b45059c1e61
-2026-10-01T15:59:27.355190+00:00|https://news.sky.com/story/german-space-company-hyimpulse-granted-licence-to-launch-rockets-from-uk-13593979|space firm granted licence to launch rockets from uk|b152c40de6256708aaddb2a4f6c13d0d
 2026-10-01T20:44:32.987143+00:00|https://www.bbc.co.uk/news/articles/c62l8588y5v9o|drumcree talks resume at hillsborough as residents legal case postponed|3cf8f8aaad08943f39857efee6ae6c36
 2026-10-01T20:44:35.407975+00:00|https://www.bbc.co.uk/news/articles/cmdx5xw36492o|ukiranian dual national arrested over raf fairford incident police say|b30d6de91b902faf95ed05d9e353521d
 2026-10-02T00:26:14.655375+00:00|https://www.bbc.co.uk/news/articles/cqn747k6pem0o|coroner warns of risk of future deaths at mental health unit where patient was killed|4559c02c660bc764732be4585ef9d4eb
@@ -88,3 +84,7 @@
 2026-10-08T08:21:16.563899+00:00|https://www.bbc.co.uk/news/articles/cw33xd6vegnno|most uk diplomats to leave east jerusalem consulate israel says as miliband says vital services to remain|d9bdd88e7fd8d419650793adc67924af
 2026-10-08T08:21:19.103290+00:00|https://www.bbc.co.uk/news/articles/cq70p8x59e28o|drumcree dispute must be contained uup leader|60d7a957bcd1e6b9c4a8031b5404e7d4
 2026-10-08T08:21:21.527891+00:00|https://news.sky.com/story/israel-confirms-it-is-closing-the-british-consulate-in-east-jerusalem-after-uk-ban-on-trade-with-illegal-west-bank-settlements-13596361|british consulate in jerusalem to become uk mission as israel announces diplomats to leave|3d45cb3a5b0bf03f389b3cf25cb5397b
+2026-10-08T16:08:06.659555+00:00|https://www.bbc.co.uk/news/articles/cqe9l0r105l8o|forty five scottish police officers suspended over alleged crimes against women|ded8a4d0812e8c3d814cd825ba67f113
+2026-10-08T16:08:08.935268+00:00|https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o|two men arrested on suspicion of trespass at raf base in cambridgeshire|a5bb7009a583f8e093d1daa2e1158e95
+2026-10-08T16:08:11.307538+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/harrys-invictus-games-challenge-in-kenya-helps-veterans|harrys invictus games challenge in kenya is helping veterans battle physical and mental scars|b7722daec74ef62c7ee050cfc6daf184
+2026-10-08T16:08:13.586786+00:00|https://news.sky.com/story/man-charged-over-police-assault-amid-anti-immigration-protest-in-glasgow-13596458|man charged over police assault amid antiimmigration protest|29ff3396a453648a1707101082189e5b

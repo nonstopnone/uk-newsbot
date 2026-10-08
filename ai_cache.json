@@ -32633,5 +32633,89 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791447675.784628
+  },
+  "ded8a4d0812e8c3d814cd825ba67f113": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public interest story concerning institutional integrity and crime within a major UK police force, involving the Scottish First Minister and police leadership.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475360.833326
+  },
+  "a5bb7009a583f8e093d1daa2e1158e95": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a breach of a military base and an investigation under the National Security Act, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475437.711657
+  },
+  "a0e550709ad48beb3a60b201e0c5dbb7": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a High Court ruling regarding the lawfulness of search warrants executed on a high-profile figure within the UK, involving ongoing police criminal investigations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475447.76079
+  },
+  "51643f72612c07d8131ffc53b3694978": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure development project with major implications for the UK economy, regional employment, and transport policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791475471.539662
+  },
+  "f1b65170b6d9a8a8c714c5b4a29f9938": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK inquest concerning a death and a major criminal investigation, which falls under the category of legal and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475501.497605
+  },
+  "b7722daec74ef62c7ee050cfc6daf184": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a project founded by a senior member of the Royal Family focused on veteran welfare, which is a matter of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1791475532.080452
+  },
+  "cbd19eeb5a0ddcca2c53330e7c9be5c4": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a criminal conviction involving a former UK local government official regarding public safety and fraudulent activity within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475539.7981
+  },
+  "49640a4c324b385d9a3a6db1b34500d4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a coroner's inquest, criminal conviction under the Food Safety Act, and a public safety campaign concerning UK health and food standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475564.681738
+  },
+  "ad77674bb3c9792540506d5e8d01c304": {
+    "is_relevant": false,
+    "reasoning": "This is a profile piece about a journalist and an author, which falls under lifestyle/features content rather than hard news relevant to UK public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791475605.791322
+  },
+  "49f0ef0a72ae1018d6c75d6771d4c0ca": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a coroner's inquest conclusion regarding a major loss of life, which falls under the category of legal and judicial reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475619.866484
+  },
+  "29ff3396a453648a1707101082189e5b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal charge involving a police officer during a public protest, which is a matter of significant public interest and legal concern in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475638.135489
+  },
+  "c33890fad9e149071108b75299285723": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and legal case involving a member of the Royal Navy accused of espionage against the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791475669.128748
   }
 }
