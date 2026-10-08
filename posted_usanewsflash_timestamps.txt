@@ -1,5 +1,3 @@
-2026-10-01T16:39:28.651439+00:00|https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss|What happened in failed execution of Christa Pike - and what next?|aacfb60be25a3a2b7df5ca54e24aaa75
-2026-10-01T16:39:34.092792+00:00|https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss|Tennessee halts executions after death row inmate Christa Pike survives hers|578046956d545381c3baf05e91276e2d
 2026-10-01T21:25:49.364513+00:00|https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss|Renee Good: Family of US woman killed by ICE agent sues Trump officials|fa721988264e027c0b84c614d21bdaad
 2026-10-01T21:25:54.827225+00:00|https://www.bbc.co.uk/news/articles/c699d93j22r5o?at_medium=RSS&at_campaign=rss|Cornell accuser was 'failed' by university health care system, lawyer says|8d5d7f2177671870d2cbeba20add27fd
 2026-10-01T21:26:00.260285+00:00|https://www.bbc.co.uk/news/articles/c68jdjw7mydeo?at_medium=RSS&at_campaign=rss|Judge permanently ends case against Olympian accused of Reflecting Pool vandalism|e89beeb51d905116c9f47e74bf21a3cb
@@ -31,3 +29,5 @@
 2026-10-08T00:28:11.446166+00:00|https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss|What independence could mean for oil-rich Alberta's economy|5ac1ef32e94ec63512ebaca4f432f67f
 2026-10-08T06:31:57.855617+00:00|https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss|Texas carries out first US execution since Christa Pike's botched lethal injections|be61a22eb6e70f1d4c610455788a22df
 2026-10-08T06:32:03.484837+00:00|https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss|Trump wants a new Camp David-like retreat at his Florida golf club|53954d247df6afb574dc9d84a8e09a2a
+2026-10-08T19:34:28.089621+00:00|https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss|White House blocks Microsoft from foreign worker hiring program|8dbb351a5df3e8a8c6fe4b745dd84367
+2026-10-08T19:34:33.675314+00:00|https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss|First Hurricane of the Atlantic season due to hit the Gulf coast|dda446a57f89e1c83d0ba7f02bfcef5a
