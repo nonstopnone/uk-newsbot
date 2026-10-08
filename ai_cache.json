@@ -32717,5 +32717,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791475669.128748
+  },
+  "2becacf46e9d4ce0444b71cd24fdf284": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding sexual violence, student welfare, and institutional accountability at a UK university, which constitutes public interest news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791495806.818153
+  },
+  "9957061ca7cb6cfbe5107b2a8b1fd034": {
+    "is_relevant": true,
+    "reasoning": "The article covers a UK parliamentary by-election, which is a matter of significant national political importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791495830.713498
+  },
+  "9c937b1aa62ab32371abe2787fa5d73e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the British Royal Family discussing his personal history and mental health, which is a subject of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1791495855.400559
+  },
+  "7d03c4b2aa0de154a51e55a447d9fb7c": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an official inquest into a fatal fire incident in the UK, which addresses significant public safety concerns regarding e-bike batteries.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791495876.551524
+  },
+  "e5b1d43074f60c644882ecd9a7b35ed0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing counter-terrorism investigation involving UK national security and multiple arrests by UK police forces.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791495905.200395
+  },
+  "d5ec2b352bba8c5468539db3a3ed42d1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the conviction and sentencing of a police officer for violent crimes in the UK, which is a matter of serious public interest and legal significance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791495924.807277
   }
 }
