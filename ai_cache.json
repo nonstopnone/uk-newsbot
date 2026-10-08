@@ -32556,5 +32556,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791407438.156823
+  },
+  "a6f35d129188154064207e5c62e037f9": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the reliability of NHS medical records in Scotland and involves an ongoing public inquiry into a disgraced surgeon, which is a matter of significant public interest and health policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791422986.17039
   }
 }
