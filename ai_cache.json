@@ -32759,5 +32759,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791495924.807277
+  },
+  "d7c0ada12dc4a7e19c99cdaa4d2329a2": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant national issues including a major government review of NHS healthcare delivery for autism and ADHD, as well as critical security concerns regarding UK military bases.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791509933.145751
+  },
+  "c0fa16a8129a22f4057aa2e4f87ca625": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major development regarding financial rule breaches in the Premier League, which is a significant sports news event for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791509947.442367
+  },
+  "6a239393840c2e1400547d769506738c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report commissioned by the government regarding the NHS and public health policy, which directly affects UK healthcare services and young people.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791509957.761853
   }
 }
