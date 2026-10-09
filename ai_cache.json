@@ -32892,5 +32892,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791560846.791286
+  },
+  "58b98e78979cc5e9fe81f7e484253afb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and security development involving a UK Cabinet minister and public order in Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791577678.366125
+  },
+  "01d606537f982f406efc945b2f4cfbf9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a kidnapping and murder conviction handled by the British judicial system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791577699.252172
+  },
+  "281b66afc52a27cdbbc4cfbc99774225": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the England women's national football team's performance in a major tournament qualification stage, which is a matter of significant UK sports interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791577707.82607
+  },
+  "4f7aa834db41e8409ac547156197b81f": {
+    "is_relevant": true,
+    "reasoning": "This concerns the performance and transparency of senior Scottish Government ministers regarding public transport infrastructure, falling under devolved UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791577717.966747
   }
 }
