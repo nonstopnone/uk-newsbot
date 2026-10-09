@@ -32780,5 +32780,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1791509957.761853
+  },
+  "5b3a4273e392fc7979f1385b7e1200c6": {
+    "is_relevant": true,
+    "reasoning": "This is significant business and ownership news concerning a major Premier League football club, which falls under UK sporting infrastructure and economy.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791533957.536201
+  },
+  "4a137f4e364cbc293fef4bbba3ae74aa": {
+    "is_relevant": true,
+    "reasoning": "This is a serious legal and justice-related matter concerning the death of a British citizen abroad, involving ongoing legal proceedings that are of significant public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791533976.992167
+  },
+  "449dfb936ffb4291ad36fbb18f785b92": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/medical feature story regarding an individual patient's treatment progress rather than a significant development in national health policy, legislation, or major infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791534031.252056
+  },
+  "9f523b1ef937e1e8024514029202df57": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/consumer advice story regarding copyright and personal privacy rather than significant hard news of national UK importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791534038.761583
   }
 }
