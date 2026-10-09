@@ -32808,5 +32808,89 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791534038.761583
+  },
+  "9fb952a162c8acd30d804dbc94299603": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development in UK national politics involving the internal stability and leadership of a major political party.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791560682.424464
+  },
+  "f259ef236cbfcfdf81c4c561a40c4fda": {
+    "is_relevant": true,
+    "reasoning": "This is a significant violent crime involving a double stabbing and a ongoing police investigation in Leicestershire, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560715.414887
+  },
+  "3d2438f469e8fd80aaa87bce4daf6b19": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving the murder of a former UK minister and allegations of politically motivated terrorism against prominent political figures.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560723.552458
+  },
+  "b99291c53e26e96275f2d89562eac2ec": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge being heard in a UK court, which falls under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560731.6996
+  },
+  "ca5247192ee03f8bb92f795f65c5255d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a murder conviction and sentencing in a British court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560763.286956
+  },
+  "35a58c80356456f99f22efed184a04fa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national news story regarding the regulation and inspection of the UK education system, involving major unions and the Department for Education.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791560772.816059
+  },
+  "5da0a1a79b97058324bd619a6979416e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal legal proceeding involving serious charges appearing before a UK court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560782.152845
+  },
+  "be18d57edf1cdd619d545c1e6fe1feb2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on regional environmental infrastructure and public resource management affecting a large portion of the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791560792.500443
+  },
+  "46db0446a0846b03073318fd4e8b1ced": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing at the Belfast Crown Court, which is a matter of public interest within the UK judicial system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560801.290526
+  },
+  "aa577c0b875e6c85877324d278868924": {
+    "is_relevant": true,
+    "reasoning": "The story concerns the financial dealings and property arrangements of the Royal Family, which is a matter of public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1791560811.588483
+  },
+  "9516c0c71328e38004d9f82fc0420b18": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a murder conviction in the Scottish High Court, which is a matter of serious public interest and legal record in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560821.191134
+  },
+  "e0746f5b8286a44b72cc272ef83a8701": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court sentencing involving a significant incident in a UK city that attracted public attention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791560846.791286
   }
 }
