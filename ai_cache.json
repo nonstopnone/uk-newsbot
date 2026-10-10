@@ -32920,5 +32920,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1791577717.966747
+  },
+  "041027489aadf61739f21ba249d1f0c3": {
+    "is_relevant": false,
+    "reasoning": "This is a corporate awards announcement regarding a business leader, which falls under lifestyle/business PR rather than hard news impacting the UK economy or political landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791591973.454134
+  },
+  "3b7db21beeaf6b545b3db1215aca5ae1": {
+    "is_relevant": true,
+    "reasoning": "This article discusses a significant legislative and police policy development concerning crime prevention and public order across multiple UK cities.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791591995.122514
   }
 }
