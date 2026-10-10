@@ -1,8 +1,3 @@
-2026-10-03T07:27:08.220734+00:00|https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o|tories pledge to build 50000 new prison places|2148115e9f38a90be5ec02c6a50e5029
-2026-10-03T07:27:10.774875+00:00|https://www.bbc.co.uk/news/articles/cq073egz324zo|woman deceived expartner that she had given birth to his babies judge rules|6a1af4a8cea199556718bb9096147abe
-2026-10-03T12:57:53.300644+00:00|https://www.bbc.co.uk/news/articles/cr62y3enq62zo|homemade bombs part of alleged plot on manchesters jewish community court told|fbb9e78039122b73088a01d27c9eb4b1
-2026-10-03T12:57:55.742101+00:00|https://www.bbc.co.uk/news/articles/c8p3gd4x4e6go|bluetongue restriction zone extension a positive thing for farmers|699dbe54493ce2b903e431ad587743fe
-2026-10-03T12:57:58.028997+00:00|https://news.sky.com/story/uk-iranian-national-arrested-in-raf-fairford-investigation-released-on-bail-13594647|ukiranian national arrested in raf fairford investigation released on bail|5e80e251463b8bb0626dce42309ea9d5
 2026-10-03T16:59:38.928358+00:00|https://www.bbc.co.uk/news/articles/cmd6dywn1nnvo|huge crowds turn out in support of residents over drumcree parade dispute|bf54a7be88755d1655f3cbceab12735f
 2026-10-03T16:59:41.463578+00:00|https://news.sky.com/story/man-shot-dead-in-senseless-act-of-violence-as-people-gathered-for-west-london-memorial-service-13594784|man shot dead in senseless act of violence as people gathered for memorial service|28261df52c44adac4d2bedc65c22c3ec
 2026-10-03T16:59:43.849647+00:00|https://www.bbc.co.uk/news/articles/cm4g1dq9q50xo|youth charged after shopping centre attack leaves teenager in hospital|21656022018bcf972b2b99e23801306e
@@ -85,3 +80,7 @@
 2026-10-09T20:28:43.466847+00:00|https://www.telegraph.co.uk/football/2026/10/09/greece-vs-england-latest-women-world-cup-play-off-live|lionesses take step closer to world cup but do not look like they can win it|281b66afc52a27cdbbc4cfbc99774225
 2026-10-10T00:26:35.613310+00:00|https://www.bbc.co.uk/news/articles/cmvg6xw7dlq7o|thuggish behaviour could see balaclava ban in more cities|3b7db21beeaf6b545b3db1215aca5ae1
 2026-10-10T06:36:14.911861+00:00|https://www.bbc.co.uk/news/articles/cjly0el6r7lzo|the papers airlines sound alarm on costs crisis and kings £15m bailout|f9228821815887509e12a2b2dc01d15c
+2026-10-10T13:14:19.455289+00:00|https://www.bbc.co.uk/news/articles/cqn49mv14ydro|man arrested after boy 11 injured in dog attack|688159701c26692e383c456c30ebc809
+2026-10-10T13:14:21.978364+00:00|https://www.bbc.co.uk/news/articles/c6z0vlg3xvz3o|drumcree parade ban was in interests of peace says bryant|e1fc9838130dca5fa11ba128adbea3d1
+2026-10-10T13:14:24.526538+00:00|https://news.sky.com/story/ms-and-john-lewis-bosses-warn-chancellor-over-business-rates-ahead-of-budget-13597209|bosses of high street giants warn chancellor over business rates|98370958d42e553dd0045bc8d4ad48da
+2026-10-10T13:14:26.943817+00:00|https://news.sky.com/story/head-of-metropolitan-polices-volunteer-force-sacked-after-ai-finds-he-captured-sexual-images-on-work-phone-13597161|volunteer police force chief sacked after using work phone to capture sexual images|3561d7c64c04232c3dcccb6f78042d6a

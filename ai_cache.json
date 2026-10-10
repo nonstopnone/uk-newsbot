@@ -32934,5 +32934,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791591995.122514
+  },
+  "15edf179aa8b83bbe56ac798edf4b525": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about an individual's personal health experience and does not constitute hard news regarding UK policy, national infrastructure, or major societal events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791637984.859176
+  },
+  "688159701c26692e383c456c30ebc809": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a police arrest and a public safety incident involving an injury in the UK, which falls under crime and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791637993.99146
+  },
+  "e1fc9838130dca5fa11ba128adbea3d1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and security development involving a UK Cabinet Minister, the Northern Ireland Secretary, regarding potential public disorder and peace-keeping measures in a devolved nation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791638004.151488
+  },
+  "af175be91566493760b9200fe497affa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure issue affecting a major UK rail artery (West Coast Main Line) and impacting passenger travel across the Midlands.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791638011.808153
+  },
+  "98370958d42e553dd0045bc8d4ad48da": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a direct lobbying effort by major UK employers regarding government fiscal policy, which directly impacts the UK economy and high street retail.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791638027.275157
+  },
+  "dea2c639fc488cb3d13e870dd12fba47": {
+    "is_relevant": true,
+    "reasoning": "The article concerns internal political developments and policy debates within a UK political party represented in the House of Commons, which is a matter of clear national political interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791638037.797918
+  },
+  "3561d7c64c04232c3dcccb6f78042d6a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the misconduct and dismissal of a high-ranking official within the Metropolitan Police, which is a matter of significant public interest and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791638050.287956
+  },
+  "9847995db13ef5d954b9478aa0276e05": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal challenge involving a UK government minister and a sensitive matter of public order in Northern Ireland, making it highly relevant to UK politics and legal affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791638058.888387
   }
 }
