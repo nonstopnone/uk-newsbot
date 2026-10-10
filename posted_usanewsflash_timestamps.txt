@@ -1,4 +1,3 @@
-2026-10-03T19:31:59.413426+00:00|https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss|Medical plane with 6 on board missing off Massachusetts coast|2a07462ca7b38b09c3eeb5fdfe33e6d2
 2026-10-04T17:46:53.728451+00:00|https://news.sky.com/story/girl-12-killed-after-shooting-over-parking-space-in-baltimore-police-say-13595057|Girl, 12, killed after shooting over 'parking space' in Baltimore, police say|bea4f739128bc4e688a77518b18de130
 2026-10-04T17:46:59.371429+00:00|https://news.sky.com/story/christa-pikes-lawyer-gives-update-on-death-row-inmate-13595060|Christa Pike's lawyer gives update on death row inmate|1066e514070d3267a4324e4e5215f3d4
 2026-10-04T20:29:54.252725+00:00|https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss|Girl, 12, fatally shot in US during 'dispute over parking space'|4203861a91136f3827ba6c63c709e537
@@ -30,3 +29,4 @@
 2026-10-10T01:19:41.447161+00:00|https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss|US immigration officials defend ICE agents who shot man in same car as child|4d82e9d8eda96121866ac37904754c23
 2026-10-10T07:39:08.200540+00:00|https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss|Hurricane Isaias downgraded after making landfall in Florida|da6893c88e2ec703697726149473d211
 2026-10-10T18:22:29.062307+00:00|https://www.bbc.co.uk/news/articles/cmed3njg5d3go?at_medium=RSS&at_campaign=rss|Nine dead in mass shooting at Pennsylvania home|ae65cbfaed15292a39b18cc4834ca2f9
+2026-10-10T21:56:54.748992+00:00|https://news.sky.com/story/fourteen-killed-in-two-separate-us-mass-shootings-13597601|Fourteen killed in two separate US mass shootings|d4211ddcf945833b70344b8862a2657c
