@@ -32990,5 +32990,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791638058.888387
+  },
+  "42e29a44fdec6ffbdced5ebd6710d7d6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a fatality at a UK public attraction, which constitutes major breaking news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791655836.687105
+  },
+  "d5ccaf282096166610aed354d1877b67": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on current political developments regarding the Parades Commission, High Court legal challenges, and the actions of the Secretary of State for Northern Ireland.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791655849.344792
+  },
+  "b458476d1a413c8dac1b946b69232b77": {
+    "is_relevant": true,
+    "reasoning": "The article discusses national security, the protection of critical UK infrastructure, and the role of a government agency (NCSC) in safeguarding the country, which is highly relevant to a UK audience.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1791655887.121507
+  },
+  "6d8c096e5cfb9ee3de7033fd37e52b02": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports opinion/match analysis piece focused on football player performance, which does not meet the criteria for hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791655913.521589
+  },
+  "1e63eb5a4085ded8e41915a9234449f9": {
+    "is_relevant": false,
+    "reasoning": "This is a sports-focused article regarding Formula 1 racing performance, which is excluded under the subreddit's strict hard news relevance policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791655931.296406
+  },
+  "592c40ca4115d5c040056cdbf5f709e3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the failure of critical infrastructure at Scotland's largest prison, impacting public services and human rights.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791655939.51157
+  },
+  "0b922323b1a6b9d73fac42ed0b0a9e42": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a major UK criminal case involving a child's murder and subsequent legal proceedings concerning her siblings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791655948.181794
+  },
+  "a19ff66da538654bb0a06d6069769587": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the impact of government prison policy, crime rates, and police activity in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791655957.059281
   }
 }
