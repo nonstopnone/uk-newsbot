@@ -33046,5 +33046,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791655957.059281
+  },
+  "0b7be4bccf2d91f15f70995884f1ba3e": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle science story rather than hard news related to politics, economy, crime, or significant infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791670169.436258
+  },
+  "86479b101543428655f4022f23e083f4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sports news report regarding a major UK football club's performance, which constitutes hard news in the context of the UK's prominent sporting culture.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791670178.673786
+  },
+  "8282c5f00bb24ae898db14dff336c98b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome involving a HSE investigation and a major High Court compensation ruling concerning workplace safety in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791670187.353274
+  },
+  "3ca458a740ca013c33c61c3e467c9b76": {
+    "is_relevant": false,
+    "reasoning": "This is a cultural interest story regarding the repatriation of a historical artifact, which does not constitute hard news of significant public importance for a general UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791670197.385843
   }
 }
