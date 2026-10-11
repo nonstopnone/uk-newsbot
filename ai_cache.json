@@ -33074,5 +33074,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791670197.385843
+  },
+  "97243cef1cdb97ab608052d3be41c030": {
+    "is_relevant": true,
+    "reasoning": "This concerns Northern Irish devolved politics and potential instability in the Stormont power-sharing executive, which is a matter of significant UK political importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791706136.32578
+  },
+  "20bd8800d166680feb29215ec80f799a": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and home improvement advice piece, which is explicitly excluded under the criteria for hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791706145.784565
   }
 }

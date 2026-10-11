@@ -1,5 +1,3 @@
-2026-10-04T02:19:48.896642+00:00|https://www.bbc.co.uk/weather/articles/c6e3x8zg7wklo|autumn chill to arrive this week as temperatures set to drop|f0f466bb51e772fc699ce7e7d7f4d5d2
-2026-10-04T02:19:51.417604+00:00|https://www.bbc.co.uk/news/articles/cwjdmk479mr1o|the papers another tax bombshell and terror plot targets|2b3a838d19208ae112374d82ee3c911f
 2026-10-04T09:15:15.150648+00:00|https://www.bbc.co.uk/news/articles/cwjdmkgemmd4o|get on with the day job welsh tory leader attacks first ministers independence push|303638756572417e17d2f3ac0d2a85fc
 2026-10-04T09:15:17.639689+00:00|https://www.bbc.co.uk/news/articles/cj20709qxleyo|housing or data centre londons landuse dilemma|9f7720859a89c5449904cf70129a5fe6
 2026-10-04T09:15:20.196606+00:00|https://news.sky.com/story/ares-demands-bt-payment-as-talktalk-teeters-on-brink-of-administration-13594901|ares demands bt payment as talktalk teeters on brink of administration|7df73541c8ea9562b79d642e7ebf854c
@@ -80,3 +78,5 @@
 2026-10-10T18:12:40.110084+00:00|https://www.bbc.co.uk/news/articles/cq2d63kpln4ro|four key takeaways from the drumcree dispute so far|d5ccaf282096166610aed354d1877b67
 2026-10-10T22:09:57.993015+00:00|https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier|man utd make worst start in 40 years after being hauled back by 10man spurs|86479b101543428655f4022f23e083f4
 2026-10-10T22:10:00.787498+00:00|https://www.bbc.co.uk/news/articles/cmn4ev4llwpno|worker paralysed in 30ft fall from pylon gets £10m payout|8282c5f00bb24ae898db14dff336c98b
+2026-10-11T08:09:06.481431+00:00|https://www.bbc.co.uk/news/articles/cm79pd2zzl59o|its within dups gift to remove oneill as first minister says lockhart|97243cef1cdb97ab608052d3be41c030
+2026-10-11T08:09:08.902172+00:00|https://www.bbc.co.uk/news/articles/cw5yn710m8d7o|the papers tiger attack horror and trump tells zelensky time to go|922cc9cc2b6f34725e9035695a74014d
