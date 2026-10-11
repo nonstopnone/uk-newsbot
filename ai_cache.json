@@ -33116,5 +33116,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1791748287.302087
+  },
+  "b9d3f15a61fe90609fdb2068f156834a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety warning from a devolved government agency regarding severe weather impacts on UK infrastructure and residents.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791760959.679023
+  },
+  "4d8f4244476b958b0ae849c5ec35f69f": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports opinion column/analysis piece regarding a Premier League match and its narrative context, which falls under sports lifestyle/commentary rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791760979.239513
+  },
+  "a3cd97515a43d1af609202e9f293a93b": {
+    "is_relevant": false,
+    "reasoning": "This is a local service disruption story involving a theme park rather than a matter of significant national importance, UK politics, or major infrastructure impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791761003.604752
   }
 }
