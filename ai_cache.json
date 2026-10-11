@@ -33088,5 +33088,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791706145.784565
+  },
+  "f103f31e72fc23b2a290a581b39dc83f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive news event involving a fatal incident in a UK public space and ongoing police involvement.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791731743.615406
+  },
+  "140e98341f5b0b846e48bddc8565c596": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency incident involving multiple fire crews in a major UK city, requiring public safety warnings.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791731757.805751
+  },
+  "2c3d45739ac9d091d2df4975856cf380": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the England national women's football team, which falls under UK sporting news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791731767.190101
   }
 }
