@@ -33109,5 +33109,12 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1791731767.190101
+  },
+  "c90360760f448e46eabd6eb030142c37": {
+    "is_relevant": true,
+    "reasoning": "This concerns the Prime Minister's transparency and conduct regarding his relationship with a major football club embroiled in a high-profile legal scandal, which is a matter of UK political accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791748287.302087
   }
 }
