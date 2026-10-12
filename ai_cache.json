@@ -33137,5 +33137,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791761003.604752
+  },
+  "da11a24b8c27aeb2d3f59b423a2b21fe": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime resulting in a fatality within the UK, which is directly relevant to public safety and law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791776908.258611
+  },
+  "fe510c230783aab0dae417102b67c071": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer safety and crime issue affecting the UK public, reported by a national advisory body.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791776929.929838
   }
 }
