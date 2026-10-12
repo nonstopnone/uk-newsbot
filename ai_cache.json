@@ -33172,5 +33172,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791804855.972661
+  },
+  "ebb785539c392fca04375f94deb18b20": {
+    "is_relevant": true,
+    "reasoning": "This relates to devolved government politics in Northern Ireland and a significant row within the Stormont Assembly, which is directly relevant to UK political affairs.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791837893.399158
+  },
+  "e05c93f7b5142b4d9afdbf082a7ca9da": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a tragic fatal incident and a subsequent coroner's inquest in Wales, falling under the remit of UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791837902.628619
+  },
+  "403237c8afd969bfab14fb365deeb76d": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of Scottish parliamentary accountability involving the use of public funds by an elected MSP, which falls under UK politics and devolved government oversight.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791837910.572414
+  },
+  "726d81aae478f23a1d69524757b1b2e5": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a public inquiry into a major UK criminal incident and government policy responses to extreme violence, which is highly relevant to national security and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791837919.777583
+  },
+  "a66c0a782d4f0e6561ed823cc4cb447c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling regarding a long-standing and contentious issue in Northern Ireland, directly involving devolved legal systems and public order.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791837928.655443
+  },
+  "f42a59714fd0b8eff624f909fc4afc88": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a police inquest regarding a high-profile criminal case and public safety failure in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791837937.596014
+  },
+  "c89664e071a6334a0ce69f1a62b9bda3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on public safety and traffic law enforcement involving AI technology and regional government oversight in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791837946.988559
   }
 }
