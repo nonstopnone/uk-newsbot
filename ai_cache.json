@@ -33151,5 +33151,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791776929.929838
+  },
+  "2f8367e4acab4487b060c85d31a4c8de": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political development involving devolved government, the Secretary of State for Northern Ireland, and potential civil disorder, which is of major public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791804837.208412
+  },
+  "4a5c4449f22c0590016f483a9fd0baa9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder trial in Scotland, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791804848.033366
+  },
+  "ffd1e98c484ce26d5771004da37539bc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK public safety incident and ongoing criminal investigation involving a fatality, which is highly relevant news for a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791804855.972661
   }
 }
