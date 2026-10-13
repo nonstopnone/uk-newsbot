@@ -33221,5 +33221,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791837946.988559
+  },
+  "08146197eb04be02a652bfbb4c20fd35": {
+    "is_relevant": true,
+    "reasoning": "This report concerns direct IMF forecasts regarding UK GDP growth and domestic inflation, which are matters of significant economic importance to the UK public.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791858095.754001
+  },
+  "2d8d908c3d7da94b750e0085ff50302a": {
+    "is_relevant": false,
+    "reasoning": "The study focuses on a clinical trial in Tanzania and does not report on a specific UK healthcare policy change or implementation of this technology within the NHS.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791858105.28306
   }
 }
