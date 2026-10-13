@@ -33277,5 +33277,110 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791885576.200582
+  },
+  "eb5f13f199d970c383470aa35c20c9ba": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal criminal court case involving a sentencing outcome in the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912345.528937
+  },
+  "964652842228dc73f4e27ee0f4023ef9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving multiple sexual assault convictions of children in the UK, which is a matter of public safety and legal record.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912368.088901
+  },
+  "befcce928803b5efd1c1f32307768e50": {
+    "is_relevant": false,
+    "reasoning": "The event occurred in the Republic of Ireland and does not involve UK citizens, territory, or domestic policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791912389.065904
+  },
+  "ca8de6b58e4b9dd61cb9e78434623f7d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and safety incident involving a fatality at a major wildlife attraction, resulting in a police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912409.014046
+  },
+  "0329635348c0ed8adb1c9f5f271c4c81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and regulatory development involving the British government's oversight of AI technology, which materially impacts UK infrastructure and safety policies.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791912427.706201
+  },
+  "57886a7e8f64830cdd2a573f49babefe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial involving a police officer in the Scottish justice system, meeting the criteria for crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912450.845952
+  },
+  "409cac418299d6eb9c5019af95dea7a1": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal trial involving a high-profile figure at a UK magistrates' court, which falls under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912468.039865
+  },
+  "52520c24634bc91dcae2b3be857da019": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security update from the head of MI5 regarding direct threats to the UK from foreign states and terrorism, which falls squarely under core UK hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791912489.605157
+  },
+  "4e3a0757f6962055e5553c0eb2a86b51": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused personal finance story that does not constitute hard news or significant public interest affecting the UK population.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791912560.930963
+  },
+  "3b32612839527304fcae8d5e7e516a9d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving a former police officer and allegations of serious sexual offences within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912576.221119
+  },
+  "c22b4d897c91eb7799b77fd11510e282": {
+    "is_relevant": false,
+    "reasoning": "This article is lifestyle and travel content, which falls under the excluded category of fluff and is not hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791912598.452848
+  },
+  "c03858634641d248c2e7b2e3e8af8325": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving a former Metropolitan Police officer, which falls squarely under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912629.035006
+  },
+  "2860565a006f44418fd56f4d8ee389c8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving emergency services and public safety in the UK's capital city.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791912657.911796
+  },
+  "21649a33210a13f9547dbc2d8827a675": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case being heard by the UK's highest court regarding the definition of criminal liability for murder, which is of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791912672.409485
+  },
+  "47a9370ce877e3d68d313707191dda6a": {
+    "is_relevant": true,
+    "reasoning": "The article discusses national security, intelligence threats from hostile states, and the future of AI regulation as outlined by the head of MI5, which directly impacts UK security and policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791912690.675808
   }
 }

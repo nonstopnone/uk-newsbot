@@ -1,6 +1,3 @@
-2026-10-06T11:42:25.464870+00:00|https://www.bbc.co.uk/news/articles/cr9dzljq56ejo|childminder who left 27 children alone in her home pleads guilty to neglect|60aa05ebbc8ec8341c40ed29adeade13
-2026-10-06T11:42:27.892363+00:00|https://www.bbc.co.uk/news/articles/cme8r9267dpko|boats set for people smugglers seized at airport|247d56f662125d50da3d9ceda4253897
-2026-10-06T11:42:30.222036+00:00|https://news.sky.com/story/iranian-spies-targeted-journalists-in-london-in-plan-to-inflict-serious-violence-court-hears-13595691|three iranian men spied on journalists in plan to inflict serious violence|fba557b6e557df082fc238f3467f283b
 2026-10-06T17:47:38.404194+00:00|https://www.bbc.co.uk/news/articles/cm1j4j6yd7n0o|afghan men jailed for rape of teenager after being caught fleeing uk by french police|905309cdc178d70c4183ad794ea6e2fa
 2026-10-06T17:47:40.846631+00:00|https://www.bbc.co.uk/news/articles/c9x28ljj34lxo|id rather have another election than do a deal with reform uk says badenoch|77d858493b62d27d47c05b508983a592
 2026-10-06T17:47:43.193786+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/uk-not-prepared-for-food-shortages-experts-warn|uk not prepared for food shortages experts warn|0cc5c3bc609d7b9a1d83ce5a63981b32
@@ -72,3 +69,7 @@
 2026-10-13T02:21:51.311545+00:00|https://www.bbc.co.uk/news/articles/cq99znm9j7plo|ive woken from operations to find the surgery hasnt been done womens health is broken|c7fc0ead3511013bdf56f14bd31ed849
 2026-10-13T09:59:36.780602+00:00|https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo|hundreds more prisoners being freed in second phase of early release scheme|d3c1481761be52321b1cadb661a64191
 2026-10-13T09:59:39.325603+00:00|https://www.bbc.co.uk/news/articles/cmglw0r21zexo|uk growth forecast upgraded but higher energy prices to hit economy next year|76c304be92019d2e2d4f791e4f0a5eb0
+2026-10-13T17:31:31.351456+00:00|https://www.bbc.co.uk/news/articles/c6m2d4017ln7o|maserati driver given suspended sentence after killing woman in crash|eb5f13f199d970c383470aa35c20c9ba
+2026-10-13T17:31:33.772188+00:00|https://www.bbc.co.uk/news/articles/c6kglez2n99go|theme park worker sexually assaulted 19 girls under the age of 13|964652842228dc73f4e27ee0f4023ef9
+2026-10-13T17:31:36.351840+00:00|https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926|tech firms promise to take down ai platforms if british secret services show they are unsafe|0329635348c0ed8adb1c9f5f271c4c81
+2026-10-13T17:31:38.753398+00:00|https://news.sky.com/story/ex-police-officer-mark-tyrrell-accused-of-raping-sleeping-woman-was-trained-in-dealing-with-sex-offence-victims-court-hears-13598891|exmet police officer accused of raping sleeping woman court told|3b32612839527304fcae8d5e7e516a9d
