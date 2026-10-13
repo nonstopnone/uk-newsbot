@@ -1,7 +1,3 @@
-2026-10-06T04:21:31.976784+00:00|https://www.bbc.co.uk/news/articles/cw1m4l09mmr0o|the papers badenochs britannia dome and king tells andrew i wont fund court fight|13a38433933102820582176ec7f8ed62
-2026-10-06T04:21:34.483763+00:00|https://www.bbc.co.uk/news/articles/ckj0l401dvpgo|author and former politician jeffrey archer dies aged 86|adfce8b1772288d3634a9a617f86e78a
-2026-10-06T04:21:37.018339+00:00|https://news.sky.com/story/failure-to-support-most-disadvantaged-in-scotland-costs-58bn-a-year-says-analysis-13595340|failure to support scotlands most disadvantaged costs £58bn a year|34f52bf2498d611920c34cfe1ffe1c2f
-2026-10-06T04:21:39.380942+00:00|https://news.sky.com/story/tate-brothers-exploited-women-using-lover-boy-model-uk-alleges-13595592|tate brothers exploited women using lover boy model uk alleges|108c3560c21e2dac02978eda99baec0e
 2026-10-06T11:42:25.464870+00:00|https://www.bbc.co.uk/news/articles/cr9dzljq56ejo|childminder who left 27 children alone in her home pleads guilty to neglect|60aa05ebbc8ec8341c40ed29adeade13
 2026-10-06T11:42:27.892363+00:00|https://www.bbc.co.uk/news/articles/cme8r9267dpko|boats set for people smugglers seized at airport|247d56f662125d50da3d9ceda4253897
 2026-10-06T11:42:30.222036+00:00|https://news.sky.com/story/iranian-spies-targeted-journalists-in-london-in-plan-to-inflict-serious-violence-court-hears-13595691|three iranian men spied on journalists in plan to inflict serious violence|fba557b6e557df082fc238f3467f283b
@@ -74,3 +70,5 @@
 2026-10-13T02:21:46.113372+00:00|https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675|uk economy to grow more than expected but households face sharper rise in inflation imf says|08146197eb04be02a652bfbb4c20fd35
 2026-10-13T02:21:48.609615+00:00|https://www.telegraph.co.uk/football/2026/10/12/coventry-vs-newcastle-live-score-latest-premier-league|coventry hammer newcastle to show why they belong and jaissle may not|13ba763f631afba2a50389060f21992b
 2026-10-13T02:21:51.311545+00:00|https://www.bbc.co.uk/news/articles/cq99znm9j7plo|ive woken from operations to find the surgery hasnt been done womens health is broken|c7fc0ead3511013bdf56f14bd31ed849
+2026-10-13T09:59:36.780602+00:00|https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo|hundreds more prisoners being freed in second phase of early release scheme|d3c1481761be52321b1cadb661a64191
+2026-10-13T09:59:39.325603+00:00|https://www.bbc.co.uk/news/articles/cmglw0r21zexo|uk growth forecast upgraded but higher energy prices to hit economy next year|76c304be92019d2e2d4f791e4f0a5eb0

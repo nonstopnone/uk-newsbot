@@ -33235,5 +33235,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791858105.28306
+  },
+  "d3c1481761be52321b1cadb661a64191": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK criminal justice policy and prison capacity, directly impacting public safety and government operations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791885523.969447
+  },
+  "8c6d59dbb97813b0f6a0ca9d78a5d9b5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy and education issue involving an open letter to government ministers concerning the well-being of school children in England.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791885534.714764
+  },
+  "22f7ef8b27bf45b8c444b61c22032883": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development involving the Welsh government and the Senedd, directly affecting devolved budgetary policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791885543.846238
+  },
+  "fa5c158a2970315fa9f4cba02c0698d9": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity and ticketing-related entertainment news story, which falls under lifestyle/culture industry news rather than hard news of significant public interest to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791885554.190769
+  },
+  "d342a5fcf6a0bbaae1c97b103dc1cc77": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle feature story about an individual's personal medical experience while on holiday rather than hard news or a significant policy development.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791885563.845182
+  },
+  "fa689b788039f3cfe7f9dfe9ea520208": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle piece about student gym culture and does not constitute hard news or a matter of significant national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791885576.200582
   }
 }
