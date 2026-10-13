@@ -33382,5 +33382,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1791912690.675808
+  },
+  "b44e0f3b745115ffec518bc3289afbe6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK news event involving a fatality at a wildlife park, an active police/coroner investigation, and ongoing public safety regulatory action.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791929463.561919
+  },
+  "121ac4fe6083b86824b3d60b6dcf8692": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and agriculture feature piece rather than hard news; it lacks the urgency or national political/economic impact required for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791929472.417261
+  },
+  "ba07fa0ef05fa2d43a28abd2aaa0e393": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on UK foreign policy, national security, and the Prime Minister's direct diplomatic engagement with a head of state.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791929485.5019
+  },
+  "e53c5e79af246f06e990c19278fa4f30": {
+    "is_relevant": false,
+    "reasoning": "The incident occurred in the Republic of Ireland and does not involve UK citizens or materially affect the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791929493.804261
+  },
+  "297f66c677037b7daae79c2994036362": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant statement from the head of MI5 regarding the integrity of the 2016 Brexit referendum and political claims about foreign interference, which is of major UK political and security interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791929504.582609
+  },
+  "24bb765b77db17d2e491772d0ad0f49d": {
+    "is_relevant": false,
+    "reasoning": "While this is a serious international report, it concerns local logistics within Gaza and does not have a material impact on the UK or meet the threshold for high-level UK national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791929513.658255
   }
 }
