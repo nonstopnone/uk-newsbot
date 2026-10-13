@@ -5,14 +5,14 @@
     "Sky": 2740,
     "Telegraph": 1047,
     "Manual": 6,
-    "BBC News US": 1127,
+    "BBC News US": 1128,
     "Sky News US": 240,
     "BBC-UK": 2,
     "BBC-Politics": 2,
     "BBC-Business": 2
   },
   "categories": {
-    "Politics": 5281,
+    "Politics": 5282,
     "Crime & Legal": 2481,
     "Notable International": 39,
     "Economy": 296,
@@ -24,6 +24,6 @@
     "Environment": 139,
     "Entertainment": 72,
     "Sports": 90,
-    "Notable International News🌍": 57
+    "Notable International News\ud83c\udf0d": 57
   }
 }
