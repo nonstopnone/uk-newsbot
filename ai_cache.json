@@ -33529,5 +33529,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1791982109.848874
+  },
+  "cf24b65c7b96378eb31ed4f40273ee79": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial taking place in a UK court involving a high-profile public figure, which falls under major crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791999881.569244
+  },
+  "85c93dfc893168287714c7e4f3bb92fb": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer product review of a smart home device, which falls under lifestyle and tech product reviews rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791999895.775838
   }
 }
