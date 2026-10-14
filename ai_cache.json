@@ -33543,5 +33543,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791999895.775838
+  },
+  "17c193603c40baa4c58ea250ce08d64b": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant diplomatic meeting between the Prime Minister and a foreign head of state, which is a matter of major UK political and foreign policy importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792012323.832128
+  },
+  "16d40328714322ad225c4c859ca70d2f": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major UK football club (Liverpool) and its performance in a competitive match, which is relevant content for the subreddit.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792012333.325239
+  },
+  "23ee84d40935c58bd14e5380cd2f7705": {
+    "is_relevant": false,
+    "reasoning": "This article is an opinion column expressing a political viewpoint rather than reporting on a new event or factual development. It is excluded under the filter for opinion columns.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792012342.564714
+  },
+  "55daedc26c81e71dda39dc7c36279d13": {
+    "is_relevant": true,
+    "reasoning": "This report highlights a significant issue regarding child safety, crime statistics, and government policy in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792012351.636781
+  },
+  "b37ced337e574e410f064341bce35d24": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning police safeguarding procedures and a major criminal investigation, which is of direct public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792012359.93219
   }
 }
