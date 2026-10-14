@@ -33424,5 +33424,12 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1791929513.658255
+  },
+  "89f6231c7d9ba84897091bd4d790c77c": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant event involving a major UK football club and its internal management crisis, which is of substantial interest to the UK sporting public.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1791941512.798699
   }
 }
