@@ -33431,5 +33431,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1791941512.798699
+  },
+  "3754913f78975a8a08fafbaaecb06ec7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding policing resources, public safety, and administrative changes within a UK police force, directly impacting law enforcement policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791961180.803943
+  },
+  "d8d6f5520c9d7e8acc3737a795a6d995": {
+    "is_relevant": true,
+    "reasoning": "This is a significant heritage conservation story regarding a major UK cultural landmark being acquired by a national charity.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1791961191.441782
+  },
+  "8944ec2e62a0bd79dfc1ca85ae0187fd": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant domestic crime issue in the UK, supported by national statistics on crime rates and law enforcement activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791961202.365107
   }
 }
