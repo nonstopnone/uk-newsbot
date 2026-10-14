@@ -33452,5 +33452,82 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1791961202.365107
+  },
+  "808dd37eb54760cda04503662fb86e31": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive search and rescue operation involving a loss of life in the UK, requiring emergency services intervention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791981995.98676
+  },
+  "7f12f93ea00829b0136da7969ad52e6b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal fraud case involving a civil servant exploiting multiple government departments, which is of clear public interest and legal relevance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791982017.860194
+  },
+  "42cf3a92aa0e16c5ed9c6f18742563e4": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the IMF's stance on the UK's fiscal policy and borrowing plans, which is directly relevant to the upcoming Budget and the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791982034.231646
+  },
+  "7d19810b414d42054e8ce44df85dc7f0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident involving a UK inquest and an ongoing health and safety investigation, which falls under legal and public safety news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791982043.02814
+  },
+  "b2d28c32e2bc52391330f01b4d2c845b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal legal case involving a fatal road accident and sentencing at a UK magistrates' court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1791982053.925032
+  },
+  "b1242872a47c1bfede4e74c0292244fe": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on local epidemiological trends in a South African province and does not have a material impact on the UK or a direct UK connection.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791982062.486448
+  },
+  "09216ddaa4139ba4c8402baaeb6383e4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive news event involving loss of life and an active emergency search operation within UK territory.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791982070.836435
+  },
+  "671afba7fcf7eb8a73cf888aaa50a985": {
+    "is_relevant": true,
+    "reasoning": "This is a relevant economic story concerning potential tax policy changes in the upcoming UK budget and their direct impact on business and the Chancellor's constituency.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1791982080.675541
+  },
+  "db7c35df642102ef6dc6f7e65b8855c4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant weather event affecting infrastructure and public safety in Scotland, which qualifies as relevant UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1791982090.02909
+  },
+  "4683eb07436c957fc7f1c6bd2f953f52": {
+    "is_relevant": false,
+    "reasoning": "This is a scientific discovery/human interest piece rather than hard news related to politics, crime, economy, or major national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1791982100.308419
+  },
+  "2002f6e7481874d11f8ff0557e25ed64": {
+    "is_relevant": true,
+    "reasoning": "This is a local government and public services issue concerning accessibility rights and the administration of the Blue Badge scheme, which is a matter of significant interest to the UK public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1791982109.848874
   }
 }
