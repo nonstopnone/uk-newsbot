@@ -33627,5 +33627,40 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1792042138.596793
+  },
+  "8c1c1ee90491e7eb1997573a3ec138a0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the public activities of the Duke and Duchess of Sussex within the UK, which constitutes a story concerning members of the Royal family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792060965.481552
+  },
+  "f0c5141e55fe0c6ba1af0246a6d11c17": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive news story involving a maritime tragedy and an ongoing emergency search operation in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792060974.068521
+  },
+  "1465241345f84b51f6cf111be22479a9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident involving a death investigated by a coroner, which is a matter of public record and falls under legal inquest proceedings in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792060992.013548
+  },
+  "6042f5f0700a67467607980752f4f4c5": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant government action regarding media ownership regulation and sensitive foreign relations, which is a matter of clear UK political and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792061002.016264
+  },
+  "29f5396ee3d57dc65ddc30097fb72216": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK inquest concerning the performance of public mental health services, which falls under the category of legal proceedings and NHS oversight.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792061011.512107
   }
 }
