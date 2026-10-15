@@ -33599,5 +33599,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792023325.733539
+  },
+  "d001499d989f748e06bfe6146bb7dda7": {
+    "is_relevant": false,
+    "reasoning": "This is a report on military and humanitarian efforts in the Ukraine-Russia conflict; it does not materially affect the UK or involve UK policy, infrastructure, or citizens directly.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792042109.706951
+  },
+  "71e52305cd67cae2b09bf95bc98bc904": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a formal UK legal proceeding (inquest) regarding a fatality, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792042118.88962
+  },
+  "f869ba565f6287d005bd0edd07701c1c": {
+    "is_relevant": true,
+    "reasoning": "This poll concerns national security sentiment and public willingness to defend the country, which is a significant matter of UK public interest and national policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792042130.294285
+  },
+  "25a6117617b65a91f0a1205f4b4e5342": {
+    "is_relevant": true,
+    "reasoning": "This is a significant announcement regarding UK employment and economic initiatives involving a major sector of the British economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792042138.596793
   }
 }

@@ -1,5 +1,3 @@
-2026-10-08T01:29:47.767019+00:00|https://www.bbc.co.uk/news/articles/cm3el33kvn3wo|the papers kemis family home pledge and badenoch invokes core tory values|70dcde5b2c593012bf7b801f8ca862c0
-2026-10-08T01:29:50.172484+00:00|https://www.bbc.co.uk/news/articles/cmwyq34qexdzo|burnham to hold security talks with german chancellor in berlin|7342f73e2ea3789a2272523cdcd4cc04
 2026-10-08T08:21:16.563899+00:00|https://www.bbc.co.uk/news/articles/cw33xd6vegnno|most uk diplomats to leave east jerusalem consulate israel says as miliband says vital services to remain|d9bdd88e7fd8d419650793adc67924af
 2026-10-08T08:21:19.103290+00:00|https://www.bbc.co.uk/news/articles/cq70p8x59e28o|drumcree dispute must be contained uup leader|60d7a957bcd1e6b9c4a8031b5404e7d4
 2026-10-08T08:21:21.527891+00:00|https://news.sky.com/story/israel-confirms-it-is-closing-the-british-consulate-in-east-jerusalem-after-uk-ban-on-trade-with-illegal-west-bank-settlements-13596361|british consulate in jerusalem to become uk mission as israel announces diplomats to leave|3d45cb3a5b0bf03f389b3cf25cb5397b
@@ -78,3 +76,6 @@
 2026-10-15T00:15:26.627331+00:00|https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o|warning to women amid shortages of some hrt products|a4f073cb61ec12235d3dfdc0d65f8236
 2026-10-15T00:15:29.066247+00:00|https://www.telegraph.co.uk/football/2026/10/14/man-city-vs-psg-live-score-latest-champions-league-updates|man city dismantled by paris stgermain in breathless champions league battle|a5cde10b58a3f8d09b6f93ed935526ed
 2026-10-15T00:15:31.468438+00:00|https://www.bbc.co.uk/news/articles/c69wzpw0x9jeo|fewer than 800 scots have received weight loss jabs on nhs bbc finds|22f40c73153f0758dbd5efdd063a6c46
+2026-10-15T05:28:59.002298+00:00|https://news.sky.com/story/william-chapman-inquest-into-death-of-man-killed-by-tiger-at-yorkshire-wildlife-park-to-open-13599438|inquest into death of man killed by tiger at wildlife park to open|71e52305cd67cae2b09bf95bc98bc904
+2026-10-15T05:29:01.372686+00:00|https://news.sky.com/story/half-of-adults-would-not-go-to-war-for-the-uk-poll-suggests-13599437|half of adults would not go to war for the uk poll suggests|f869ba565f6287d005bd0edd07701c1c
+2026-10-15T05:29:03.693102+00:00|https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o|burnham had two hospitality dinners with man city chairman deleted records show|98820721eb82dce1e10c5676c105ed49
