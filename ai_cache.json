@@ -33578,5 +33578,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792012359.93219
+  },
+  "a4f073cb61ec12235d3dfdc0d65f8236": {
+    "is_relevant": true,
+    "reasoning": "This is a public health service warning from the Department of Health regarding medication shortages directly affecting UK patients.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792023307.159424
+  },
+  "a5cde10b58a3f8d09b6f93ed935526ed": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant development regarding Manchester City's ongoing legal case involving 115 charges, which is a major event in UK football governance and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792023316.826184
+  },
+  "9c7804602a70916085c46e73bb247e68": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle medical anecdote rather than hard news regarding public policy, health infrastructure, or significant UK national events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792023325.733539
   }
 }
