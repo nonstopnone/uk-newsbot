@@ -80,3 +80,7 @@
 2026-10-15T10:43:34.654860+00:00|https://www.bbc.co.uk/news/articles/cxnv012jy04eo|crew in lewis fishing boat tragedy named by police|f0c5141e55fe0c6ba1af0246a6d11c17
 2026-10-15T10:43:37.226008+00:00|https://news.sky.com/story/government-to-publish-telegraph-probes-amid-burnham-abu-dhabi-row-13599517|government to publish telegraph probes amid burnham abu dhabi row|6042f5f0700a67467607980752f4f4c5
 2026-10-15T10:43:40.013711+00:00|https://news.sky.com/story/family-of-man-killed-by-tiger-raise-concerns-about-his-contact-with-mental-health-services-before-death-inquest-hears-13599457|family of man killed by tiger raise concerns about his contact with mental health services inquest hears|29f5396ee3d57dc65ddc30097fb72216
+2026-10-15T15:29:09.047201+00:00|https://www.bbc.co.uk/news/articles/crlykvgx1wvxo|farage defends reforms vetting after councillors filmed making racist comments|4cee69d654499a3fdf8baa2aeac41762
+2026-10-15T15:29:11.471937+00:00|https://www.bbc.co.uk/news/articles/cw99z17yz4p5o|poet says being dropped from senedd royal visit over poem is concerning|9d422f57fd69724e270d313c5855269d
+2026-10-15T15:29:14.048153+00:00|https://news.sky.com/story/man-arrested-for-murder-after-woman-killed-in-suspected-stabbing-in-manchester-13599583|man arrested for murder after woman killed in suspected stabbing|1666ab233355682e75a809e5970055ac
+2026-10-15T15:29:16.674109+00:00|https://www.telegraph.co.uk/business/2026/10/15/uk-gdp-budget-growth-ai-stocks-tech-bonds-ftse-100|economy slows before healeys maiden budget|46a77fe7a2f6c602b7062a23de43df06

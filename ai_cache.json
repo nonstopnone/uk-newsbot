@@ -33662,5 +33662,75 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792061011.512107
+  },
+  "ec0d51597fb5ee283bbc7b9db2031843": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal court case involving serious sexual offences and legal proceedings within the Greater Manchester area.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792078038.953756
+  },
+  "6ff5d71790e1ba83e4494d60eb634246": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy shift from NHS England regarding healthcare infrastructure and equality law, which has a direct and material impact on the UK population.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792078045.971276
+  },
+  "bb52f114bd21819923983aacd21e22f2": {
+    "is_relevant": true,
+    "reasoning": "The Prince Charles Cinema is a significant cultural institution in London, and its long-term future is a matter of clear public interest for the UK arts and heritage sector.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1792078062.981405
+  },
+  "e527ff7c3b7738ba177a32e688f2ed87": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on national infrastructure and environmental safety impacting multiple regions of England, managed by government agencies.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792078075.90497
+  },
+  "9a824f2b769390517480571d2edd8f64": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political development concerning a former high-profile UK political leader. It involves a serious criminal sentencing in a UK court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792078087.524312
+  },
+  "b1f0b725235474435c2e768e367f0b83": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest story regarding a private business venture, which does not meet the criteria for hard news or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792078109.147097
+  },
+  "4b7c70b5c51e9b606840ee215d25a46f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a serving police officer found guilty of serious offenses in a Scottish High Court, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792078118.26704
+  },
+  "1666ab233355682e75a809e5970055ac": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving a fatality and an ongoing police investigation in a major UK city, which falls under crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792078128.433626
+  },
+  "05e9e0fd9d0ce37566ff6f830b5540d9": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the public activities of members of the Royal Family within the UK, which falls under the category of royal reporting.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792078138.11071
+  },
+  "dd36852e8c4551cb140af8335e60be50": {
+    "is_relevant": true,
+    "reasoning": "The article details a government policy shift regarding national brain cancer research and treatment following a high-profile meeting with the Prime Minister, which constitutes significant UK political and healthcare news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792078148.107555
   }
 }
