@@ -33753,5 +33753,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792093108.329625
+  },
+  "b613d84f1f05a0cccf8f2cb4d2e07422": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a professional football match outcome involving a Premier League club, which is relevant content for UK sports audiences.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792104655.01413
+  },
+  "3a750352039d77d3ca0d63ed8d39e496": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and architecture award story rather than hard news regarding UK politics, crime, economy, or major infrastructure policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792104666.869693
+  },
+  "70198907e57c18a5058fc497904b48b9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and legal matter involving the deportation of a foreign national convicted of a serious offense within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792104674.801864
   }
 }
