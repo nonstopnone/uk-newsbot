@@ -1,7 +1,3 @@
-2026-10-08T16:08:06.659555+00:00|https://www.bbc.co.uk/news/articles/cqe9l0r105l8o|forty five scottish police officers suspended over alleged crimes against women|ded8a4d0812e8c3d814cd825ba67f113
-2026-10-08T16:08:08.935268+00:00|https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o|two men arrested on suspicion of trespass at raf base in cambridgeshire|a5bb7009a583f8e093d1daa2e1158e95
-2026-10-08T16:08:11.307538+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/harrys-invictus-games-challenge-in-kenya-helps-veterans|harrys invictus games challenge in kenya is helping veterans battle physical and mental scars|b7722daec74ef62c7ee050cfc6daf184
-2026-10-08T16:08:13.586786+00:00|https://news.sky.com/story/man-charged-over-police-assault-amid-anti-immigration-protest-in-glasgow-13596458|man charged over police assault amid antiimmigration protest|29ff3396a453648a1707101082189e5b
 2026-10-08T21:45:25.620694+00:00|https://www.bbc.co.uk/news/articles/ck20rwvyyy4do|university banter account criticised for sex assault social media posts and misogyny|2becacf46e9d4ce0444b71cd24fdf284
 2026-10-08T21:45:28.166741+00:00|https://www.bbc.co.uk/news/articles/ck24059mlzm8o|polls close in holborn and st pancras byelection|9957061ca7cb6cfbe5107b2a8b1fd034
 2026-10-09T01:39:18.624564+00:00|https://www.bbc.co.uk/news/articles/cm8ezw2wjkxgo|the papers stark warning over adhd and andrew wins legal fight|d7c0ada12dc4a7e19c99cdaa4d2329a2
@@ -84,3 +80,6 @@
 2026-10-15T15:29:11.471937+00:00|https://www.bbc.co.uk/news/articles/cw99z17yz4p5o|poet says being dropped from senedd royal visit over poem is concerning|9d422f57fd69724e270d313c5855269d
 2026-10-15T15:29:14.048153+00:00|https://news.sky.com/story/man-arrested-for-murder-after-woman-killed-in-suspected-stabbing-in-manchester-13599583|man arrested for murder after woman killed in suspected stabbing|1666ab233355682e75a809e5970055ac
 2026-10-15T15:29:16.674109+00:00|https://www.telegraph.co.uk/business/2026/10/15/uk-gdp-budget-growth-ai-stocks-tech-bonds-ftse-100|economy slows before healeys maiden budget|46a77fe7a2f6c602b7062a23de43df06
+2026-10-15T19:38:29.779115+00:00|https://www.bbc.co.uk/news/articles/cwm243lrgdpgo|severe drought declared in parts of southern england|e527ff7c3b7738ba177a32e688f2ed87
+2026-10-15T19:38:32.508217+00:00|https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo|banks say healey is planning budget tax raid on their profits|98bda33a9f1ef4e8f6eba69cc14eb51c
+2026-10-15T19:38:35.073497+00:00|https://news.sky.com/story/transgender-patients-to-be-placed-on-wards-according-to-their-birth-sex-nhs-england-decides-13599697|trans patients to be placed on wards according to their birth sex in england|7fcdb1791eb41825a5017f934f7ef114

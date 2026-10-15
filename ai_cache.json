@@ -33732,5 +33732,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792078148.107555
+  },
+  "98bda33a9f1ef4e8f6eba69cc14eb51c": {
+    "is_relevant": true,
+    "reasoning": "This report concerns upcoming UK government fiscal policy and potential tax changes affecting the banking sector, which is central to the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792093091.421247
+  },
+  "7fcdb1791eb41825a5017f934f7ef114": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy shift regarding NHS hospital infrastructure and guidance in England, which is a matter of major public and political interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792093100.045531
+  },
+  "a54ec2e8f9fa05f106e54f3c86a5d9ed": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal incident, police investigation, and subsequent arrest within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792093108.329625
   }
 }
