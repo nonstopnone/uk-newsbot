@@ -1,6 +1,3 @@
-2026-10-09T20:28:38.703828+00:00|https://www.bbc.co.uk/news/articles/cw23dn0xven7o|ni secretary to ban the drumcree parade|58b98e78979cc5e9fe81f7e484253afb
-2026-10-09T20:28:41.085805+00:00|https://www.bbc.co.uk/news/articles/cmly04jz139wo|four jailed for death of man tortured and set alight|01d606537f982f406efc945b2f4cfbf9
-2026-10-09T20:28:43.466847+00:00|https://www.telegraph.co.uk/football/2026/10/09/greece-vs-england-latest-women-world-cup-play-off-live|lionesses take step closer to world cup but do not look like they can win it|281b66afc52a27cdbbc4cfbc99774225
 2026-10-10T00:26:35.613310+00:00|https://www.bbc.co.uk/news/articles/cmvg6xw7dlq7o|thuggish behaviour could see balaclava ban in more cities|3b7db21beeaf6b545b3db1215aca5ae1
 2026-10-10T06:36:14.911861+00:00|https://www.bbc.co.uk/news/articles/cjly0el6r7lzo|the papers airlines sound alarm on costs crisis and kings £15m bailout|f9228821815887509e12a2b2dc01d15c
 2026-10-10T13:14:19.455289+00:00|https://www.bbc.co.uk/news/articles/cqn49mv14ydro|man arrested after boy 11 injured in dog attack|688159701c26692e383c456c30ebc809
@@ -90,3 +87,6 @@
 2026-10-16T19:15:06.646150+00:00|https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo|nurse stole £750k from 99yearold woman for cosmetic surgery and home improvements|820a0f326ac89a085735b8ce1e3ba461
 2026-10-16T19:15:08.967422+00:00|https://news.sky.com/story/ex-brookside-star-philip-foster-jailed-after-fleeing-uk-over-13m-fraud-on-would-be-models-13600000|exsoap star who conned wouldbe models in £13m scam jailed after fleeing uk|99ce886ba50aa4ee4c303e620f30581e
 2026-10-16T19:15:11.273534+00:00|https://news.sky.com/story/potential-data-breaches-investigated-after-death-of-man-in-tiger-enclosure-13599989|tiger victims medical records may have been improperly accessed|00bc995d6b2e9a6b223d6246fbaaaf71
+2026-10-16T22:25:42.553632+00:00|https://www.bbc.co.uk/news/articles/c639mg9d1vp0o|data centre developers may build climatewrecking gas power plant next door|6ac6296c79b333ff1a23f8cf21809ff9
+2026-10-16T22:25:44.915511+00:00|https://news.sky.com/story/man-convicted-of-arson-attacks-against-sir-keir-starmer-deported-from-uk-home-office-says-13600071|man convicted of arson attacks against keir starmer deported from uk|ac3455269f3027b1dbf3381d988f1c21
+2026-10-16T22:25:47.196018+00:00|https://www.bbc.co.uk/news/articles/cmlyl889jqzjo|chris mason burnham and swinney tussle over where power lies in scotland|7448ece0da4e5dcf030ae2076943246a

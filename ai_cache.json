@@ -33872,5 +33872,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792178103.790999
+  },
+  "6ac6296c79b333ff1a23f8cf21809ff9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant planning and infrastructure issue involving Welsh government officials and local political opposition, directly impacting UK infrastructure and climate policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792189498.041056
+  },
+  "ac3455269f3027b1dbf3381d988f1c21": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and immigration-related news story concerning a direct attack on the Prime Minister and subsequent state action by the Home Office.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1792189507.515593
+  },
+  "ec8abd93248605fd8f70a3e1e74c0839": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political and legal story concerning a local government official resigning due to racist misconduct, which is of clear public interest in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792189523.474805
+  },
+  "3ad4f34ac178d45d25158fb91a345926": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal matter involving High Court proceedings regarding media reporting rights and serious criminal allegations, which falls under the UK legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792189535.598574
+  },
+  "145001e5e98f423de0f5878b68f797cb": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant ongoing police investigation involving a senior member of the Royal Family and legal challenges regarding search warrants, which is a matter of clear public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792189542.105169
   }
 }
