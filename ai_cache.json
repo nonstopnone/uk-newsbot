@@ -33781,5 +33781,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792112245.915898
+  },
+  "d3a7a368a52d1ab3dd082de45efb2d51": {
+    "is_relevant": true,
+    "reasoning": "This report concerns operational changes within the Metropolitan Police following high-profile systemic failures, which directly impacts UK policing policy and crime prevention.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792128502.025821
+  },
+  "5f510f94098b14c116a2a8c9246b6570": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legislative change concerning criminal law and regulation in the UK, impacting domestic law enforcement and online safety policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792128510.791399
+  },
+  "9b243f731d1e5fc693cb13d8937aec6e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant advancement in medical technology within the NHS at a major London hospital that directly impacts UK healthcare outcomes for critically ill children.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792128550.619502
   }
 }
