@@ -33774,5 +33774,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792104674.801864
+  },
+  "0cc2274ce439a14214d759b18b5f36ec": {
+    "is_relevant": true,
+    "reasoning": "This concerns the high-profile sentencing of a former major UK political party leader and the subsequent implications for the Northern Ireland prison system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792112245.915898
   }
 }
