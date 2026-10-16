@@ -33830,5 +33830,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792146641.955593
+  },
+  "b998575c1dc8099a252b5bc741f295aa": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on vaccine manufacturing initiatives in Southeast Asia and does not materially affect the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792177980.5111
+  },
+  "64de8061f4b77c8f5c20880e2adde504": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report involving a fatality at a UK wildlife park and a formal investigation into a potential data breach by NHS staff.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792177999.107347
+  },
+  "820a0f326ac89a085735b8ce1e3ba461": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a serious criminal case involving a UK-based healthcare professional, regulatory action by the Nursing and Midwifery Council, and elder abuse in a care home, which falls under UK crime and legal jurisdiction.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792178015.972553
+  },
+  "99ce886ba50aa4ee4c303e620f30581e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major fraud conviction and a judicial outcome within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792178028.721907
+  },
+  "ce83141112e4da10438cf66212699901": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding government policy reform following a formal UK Covid Inquiry recommendation, which is a matter of public interest and national health policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792178084.30316
+  },
+  "00bc995d6b2e9a6b223d6246fbaaaf71": {
+    "is_relevant": true,
+    "reasoning": "This report concerns an investigation into potential data breaches within the NHS, which is a matter of public interest regarding data privacy and healthcare administration.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792178103.790999
   }
 }
