@@ -33802,5 +33802,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792128550.619502
+  },
+  "51486c17118e2605663b5bedeb29f995": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a former police officer and systemic concerns regarding police conduct, which is highly relevant to UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792146592.581575
+  },
+  "2c46d55bfa263854664fae30682ac88a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic crime and justice story concerning the implementation of new government sentencing policies and the early release of a convicted offender.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792146602.803897
+  },
+  "535250eeaf5bd6963ca688de2341f9e6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and crime incident involving a pipe bomb attack in a major UK city, directly affecting public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792146632.813311
+  },
+  "d530aab505c4293e5b9de4c04cef3781": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding the Thirlwall Inquiry into the Lucy Letby case, which is a major matter of public interest concerning the NHS and institutional accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792146641.955593
   }
 }
