@@ -1,4 +1,3 @@
-2026-10-10T18:22:29.062307+00:00|https://www.bbc.co.uk/news/articles/cmed3njg5d3go?at_medium=RSS&at_campaign=rss|Nine dead in mass shooting at Pennsylvania home|ae65cbfaed15292a39b18cc4834ca2f9
 2026-10-10T21:56:54.748992+00:00|https://news.sky.com/story/fourteen-killed-in-two-separate-us-mass-shootings-13597601|Fourteen killed in two separate US mass shootings|d4211ddcf945833b70344b8862a2657c
 2026-10-11T06:32:07.588018+00:00|https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss|US justice department investigates TV networks over Trump pool coverage|17ec36470c366bb8d77a0e384881e94e
 2026-10-12T17:50:39.874800+00:00|https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss|Storm Rachel batters Southern California, brings flooding to Las Vegas|c4933f1c2ec0090d3e1c698beb99cd5a
@@ -25,3 +24,4 @@
 2026-10-16T21:35:32.526384+00:00|https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss|Where the US midterm elections will be won and lost|8c70027cc3826cc9c0f1416f89fff063
 2026-10-16T23:50:07.994917+00:00|https://news.sky.com/story/family-broken-and-lost-after-five-year-old-boy-killed-in-oregon-school-shooting-13600075|Family 'broken and lost' after five-year-old boy killed in school shooting|54394f1913a66efd4b72b782df402eff
 2026-10-17T11:04:23.381503+00:00|https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss|Trump waives several Russia sanctions as row with Zelensky intensifies|8797f8f98df6130d768ec2adccf67256
+2026-10-17T19:21:01.436636+00:00|https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss|Fast-moving California wildfire burns homes as people are ordered to leave|9a2135deb59f9e67ba8c447313d77479
