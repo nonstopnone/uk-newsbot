@@ -33907,5 +33907,12 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1792189542.105169
+  },
+  "d95f8edcfb232a40d08c9325fb526907": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on public spending and financial governance at a major Northern Ireland university, which is of direct public interest regarding devolved infrastructure and institutional management.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792198678.171185
   }
 }
