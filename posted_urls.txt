@@ -1,7 +1,3 @@
-2026-10-10T13:14:19.455289+00:00|https://www.bbc.co.uk/news/articles/cqn49mv14ydro|man arrested after boy 11 injured in dog attack|688159701c26692e383c456c30ebc809
-2026-10-10T13:14:21.978364+00:00|https://www.bbc.co.uk/news/articles/c6z0vlg3xvz3o|drumcree parade ban was in interests of peace says bryant|e1fc9838130dca5fa11ba128adbea3d1
-2026-10-10T13:14:24.526538+00:00|https://news.sky.com/story/ms-and-john-lewis-bosses-warn-chancellor-over-business-rates-ahead-of-budget-13597209|bosses of high street giants warn chancellor over business rates|98370958d42e553dd0045bc8d4ad48da
-2026-10-10T13:14:26.943817+00:00|https://news.sky.com/story/head-of-metropolitan-polices-volunteer-force-sacked-after-ai-finds-he-captured-sexual-images-on-work-phone-13597161|volunteer police force chief sacked after using work phone to capture sexual images|3561d7c64c04232c3dcccb6f78042d6a
 2026-10-10T18:12:37.594882+00:00|https://www.bbc.co.uk/news/articles/c6n9r3n7858zo|man dies after tiger attack at wildlife park|42e29a44fdec6ffbdced5ebd6710d7d6
 2026-10-10T18:12:40.110084+00:00|https://www.bbc.co.uk/news/articles/cq2d63kpln4ro|four key takeaways from the drumcree dispute so far|d5ccaf282096166610aed354d1877b67
 2026-10-10T22:09:57.993015+00:00|https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier|man utd make worst start in 40 years after being hauled back by 10man spurs|86479b101543428655f4022f23e083f4
@@ -96,3 +92,7 @@
 2026-10-17T10:01:33.112794+00:00|https://news.sky.com/story/heathrow-expansion-would-boost-growth-chancellor-says-13600118|heathrow expansion would boost growth chancellor says|cf6b0a6bb584853c231e02039eec6415
 2026-10-17T10:01:35.460622+00:00|https://www.bbc.co.uk/news/articles/cmx2844n7nepo|swinney insists stars are aligning for scottish independence|2b74c6dce6f3adadec9504b3dc633b0b
 2026-10-17T10:01:37.732519+00:00|https://news.sky.com/story/two-dead-after-light-aircraft-crash-13600111|two dead after light aircraft crash|228ded4a0c1df1edaa7f64edc0e98f13
+2026-10-17T13:35:18.796489+00:00|https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o|more nhs staff sacked over attacks victims records|363c53d0d4bad80c04ae571a1677847a
+2026-10-17T13:35:21.305355+00:00|https://www.bbc.co.uk/news/articles/cmd6dglnvq63o|exreform politician likens partys response to criticism to an abuser|28a857789fb9daf87703e6195262950d
+2026-10-17T13:35:23.864705+00:00|https://www.telegraph.co.uk/rugby-league/2026/10/17/england-v-tonga-live-rugby-league-world-cup-score-latest|englands rugby league world cup hopes in tatters after tonga defeat|4feb8a7b4c0692780e592e4278d09a4d
+2026-10-17T13:35:26.363764+00:00|https://news.sky.com/story/uk-advises-against-all-but-essential-travel-to-saudi-arabia-amid-houthi-strikes-as-missiles-hit-yemen-airport-13600096|uk advises against all but essential travel to saudi arabia|4980e2547026348aa54e8dd4dd8f9e79

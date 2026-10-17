@@ -33984,5 +33984,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792231290.327043
+  },
+  "363c53d0d4bad80c04ae571a1677847a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the NHS, professional conduct, and the aftermath of a major criminal case in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792244078.733577
+  },
+  "4feb8a7b4c0692780e592e4278d09a4d": {
+    "is_relevant": true,
+    "reasoning": "This reports on the performance of a national English sports team in a major international tournament, which is relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792244089.903477
+  },
+  "5a11c58411c0785ccb98cc754370909a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal sentencing at a UK Crown Court involving a public safety incident, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792244099.043274
+  },
+  "144da1724e99b90e6997e7e7f219efd8": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment industry story regarding BBC scheduling and does not constitute hard news of significant relevance to the UK public as defined by the criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792244110.080286
+  },
+  "4980e2547026348aa54e8dd4dd8f9e79": {
+    "is_relevant": true,
+    "reasoning": "This is significant foreign policy advice from the UK government that directly affects UK citizens' travel and safety.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1792244118.129047
   }
 }
