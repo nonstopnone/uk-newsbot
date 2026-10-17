@@ -34061,5 +34061,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1792255709.299021
+  },
+  "64a3a61e9468c8037a4bb26663d3efd0": {
+    "is_relevant": false,
+    "reasoning": "The story concerns a criminal case in the Republic of Ireland; while the victims are described as an 'English family', the legal proceedings, location, and jurisdiction are entirely Irish and do not constitute UK hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792263550.983302
   }
 }
