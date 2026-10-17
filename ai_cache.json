@@ -33935,5 +33935,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792214553.120265
+  },
+  "7d1a45fa820af2965459706ceb2155c4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal aviation accident involving UK citizens and emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792231218.95681
+  },
+  "cf6b0a6bb584853c231e02039eec6415": {
+    "is_relevant": true,
+    "reasoning": "The article discusses major UK infrastructure development and public policy debate involving senior government figures, which directly affects the national economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792231230.662522
+  },
+  "a1ae19e63ab79307f18a6133207dad40": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international rugby match between Australia and New Zealand, which holds no direct relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792231241.273575
+  },
+  "9f3c50595fbbf428b808202caca3179b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and national security matter involving arson attacks on the Prime Minister's property and subsequent deportation of foreign nationals.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792231254.027722
+  },
+  "228ded4a0c1df1edaa7f64edc0e98f13": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving loss of life in the UK that falls under public safety and emergency reporting.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792231263.569805
+  },
+  "9418277c534689c60dfdfe8d4e99dd90": {
+    "is_relevant": true,
+    "reasoning": "This is significant UK business and economic news involving a major housebuilder and a national institution, directly impacting the UK construction and financial sectors.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792231277.719714
+  },
+  "d1ffb63d9e9d6e53cdc4b1445a24c202": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant legislative change in UK family law stemming from a tragic case of domestic abuse and systemic failure, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792231290.327043
   }
 }

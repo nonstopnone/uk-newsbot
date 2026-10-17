@@ -1,4 +1,3 @@
-2026-10-10T06:36:14.911861+00:00|https://www.bbc.co.uk/news/articles/cjly0el6r7lzo|the papers airlines sound alarm on costs crisis and kings £15m bailout|f9228821815887509e12a2b2dc01d15c
 2026-10-10T13:14:19.455289+00:00|https://www.bbc.co.uk/news/articles/cqn49mv14ydro|man arrested after boy 11 injured in dog attack|688159701c26692e383c456c30ebc809
 2026-10-10T13:14:21.978364+00:00|https://www.bbc.co.uk/news/articles/c6z0vlg3xvz3o|drumcree parade ban was in interests of peace says bryant|e1fc9838130dca5fa11ba128adbea3d1
 2026-10-10T13:14:24.526538+00:00|https://news.sky.com/story/ms-and-john-lewis-bosses-warn-chancellor-over-business-rates-ahead-of-budget-13597209|bosses of high street giants warn chancellor over business rates|98370958d42e553dd0045bc8d4ad48da
@@ -93,3 +92,7 @@
 2026-10-17T00:58:01.417557+00:00|https://www.bbc.co.uk/news/articles/cm87z3x1evn3o|£800000 spent on scrapped sports dome project|d95f8edcfb232a40d08c9325fb526907
 2026-10-17T05:22:33.826509+00:00|https://www.bbc.co.uk/news/articles/cw0k07d2nj43o|third runway at heathrow airport would drive growth healey says|4d6d9dcd343e9fd75620d3d03386495d
 2026-10-17T05:22:36.309553+00:00|https://news.sky.com/story/palestine-action-post-by-sarah-helms-wife-of-national-security-adviser-being-assessed-by-met-police-13600095|palestine action post by wife of pms adviser being assessed by police|0d0ceed48d29396285d42f0d15b07c80
+2026-10-17T10:01:30.709004+00:00|https://www.bbc.co.uk/news/articles/cky83g11q46lo|boy 16 and 80yearold man die in light aircraft crash near loch lomond|7d1a45fa820af2965459706ceb2155c4
+2026-10-17T10:01:33.112794+00:00|https://news.sky.com/story/heathrow-expansion-would-boost-growth-chancellor-says-13600118|heathrow expansion would boost growth chancellor says|cf6b0a6bb584853c231e02039eec6415
+2026-10-17T10:01:35.460622+00:00|https://www.bbc.co.uk/news/articles/cmx2844n7nepo|swinney insists stars are aligning for scottish independence|2b74c6dce6f3adadec9504b3dc633b0b
+2026-10-17T10:01:37.732519+00:00|https://news.sky.com/story/two-dead-after-light-aircraft-crash-13600111|two dead after light aircraft crash|228ded4a0c1df1edaa7f64edc0e98f13
