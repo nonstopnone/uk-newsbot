@@ -34089,5 +34089,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792272064.216273
+  },
+  "c7e450c08c703bf321592f4b54d89014": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/entertainment piece about a foreign music group's marketing efforts in London and does not constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792280543.209256
+  },
+  "c86827b2087c87f4fdababfa0e22d9b0": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK sporting event involving high-profile British professional boxers.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792280692.908251
+  },
+  "358956e132822f35e835ec52831d2324": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and opinion piece concerning a football club's performance, which falls under sports journalism rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792280745.586148
   }
 }
