@@ -34019,5 +34019,47 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1792244118.129047
+  },
+  "836279b6d3bc0af5ee96b8c648372287": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a competitive UK football match result in the Premier League.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792255663.076144
+  },
+  "2d312dced11f3a4840eca0cb5e5e3dbd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the conduct of NHS staff in relation to a high-profile criminal case in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792255671.275789
+  },
+  "2433082a68bc966443805b854ac37412": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant Premier League match result, which constitutes sports news relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792255681.287948
+  },
+  "9f06d471ae7954a1bd9a82d5669d3c30": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a rugby match between Australia and New Zealand, which holds no direct relevance to UK news, politics, or domestic sport.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792255690.340628
+  },
+  "9b2a2fc7875b9e7b388a9c57d3199057": {
+    "is_relevant": false,
+    "reasoning": "The incident involves a crime that occurred entirely within the Republic of Ireland and does not involve UK citizens or directly impact UK national interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792255699.622249
+  },
+  "cb3efbc387af032977700a9e0f16805f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consular case involving a UK citizen detained abroad, which requires intervention from the UK government and diplomatic authorities.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1792255709.299021
   }
 }
