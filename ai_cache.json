@@ -33914,5 +33914,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792198678.171185
+  },
+  "f9a1c4e364ecc7655fb957ef90978d75": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on human trafficking routes in Djibouti, East Africa, and does not have a material impact on UK domestic policy, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792214527.883098
+  },
+  "4a06d74af327b508a890c149d170ce1c": {
+    "is_relevant": false,
+    "reasoning": "This is an opinion-based analysis piece focusing on global financial sentiment rather than specific, actionable UK news. It constitutes economic commentary rather than hard reporting on UK-specific policy or market movements.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792214540.75011
+  },
+  "0d0ceed48d29396285d42f0d15b07c80": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a police investigation into potential extremism or legal issues involving an individual linked to a high-ranking political advisor, which is a matter of UK public interest and national security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792214553.120265
   }
 }
