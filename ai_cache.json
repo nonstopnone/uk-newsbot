@@ -34068,5 +34068,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792263550.983302
+  },
+  "cf570203674ae205cd0e129fb02ff1c0": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a member of a political party in a devolved parliament, triggering a procedural debate and a review by the Senedd, which is of direct relevance to UK political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792272044.177818
+  },
+  "4550f55adfe5e651f25ebe05836ac75a": {
+    "is_relevant": false,
+    "reasoning": "This is a sports commentary piece discussing team performance and match results, which falls under the excluded category of sports previews/analysis.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792272055.237007
+  },
+  "5f0ca9d1dec03e33c438d75b5199ca82": {
+    "is_relevant": false,
+    "reasoning": "The incident occurred in the Republic of Ireland and involves Irish legal proceedings, meaning it does not meet the criteria for domestic UK news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792272064.216273
   }
 }
