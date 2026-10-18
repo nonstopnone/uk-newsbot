@@ -34215,5 +34215,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792350681.039815
+  },
+  "0e7302157a723682c230fd96b9a537d6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the UK Premier League, which constitutes major national sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792361400.715994
   }
 }
