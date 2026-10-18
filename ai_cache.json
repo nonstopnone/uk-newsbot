@@ -34110,5 +34110,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792280745.586148
+  },
+  "f607fcb8214c7cb25c57e6b289c526eb": {
+    "is_relevant": true,
+    "reasoning": "The report concerns a violent crime incident involving a public figure in a major UK city, which falls under the category of reported criminal activity.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792290945.782513
+  },
+  "c5db0d9f54126c3216dec88085667770": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective human-interest feature about a historical crime from 1991 rather than hard, time-sensitive news or current events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792290976.961337
   }
 }

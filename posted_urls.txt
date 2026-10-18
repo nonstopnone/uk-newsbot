@@ -100,3 +100,5 @@
 2026-10-17T23:45:46.255432+00:00|https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro|the papers french protests become violent and sas men arrested for murder|37af3b3e65eabe480e727a1dd689d6e9
 2026-10-17T23:45:48.613623+00:00|https://www.bbc.co.uk/news/articles/c32l4ezn05vdo|health workers run out of patience with stormont budget delay|f849bf96bfd3f2e338eb0d1d03c4ff40
 2026-10-17T23:45:51.096867+00:00|https://www.telegraph.co.uk/boxing/2026/10/17/daniel-dubois-vs-fabio-wardley-2-live-latest-fight-updates|ruthless daniel dubois dispatches fabio wardley in just two rounds|c86827b2087c87f4fdababfa0e22d9b0
+2026-10-18T02:36:17.701872+00:00|https://www.bbc.co.uk/news/articles/cmx2375zqwwwo|theres a crackdown on sports piracy but is it already out of control|cbd029eb781044031f878123edaab659
+2026-10-18T02:36:20.501419+00:00|https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o|comedian paul whitehouse mugged at london cash machine|f607fcb8214c7cb25c57e6b289c526eb
