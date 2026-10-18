@@ -34166,5 +34166,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792326245.014739
+  },
+  "42556bb0088d054c56e785cb4204a29e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a Premier League football match involving a major UK club, which falls under sports news coverage.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792340359.567082
+  },
+  "5decc145f917e33ec7b7297e7a85ae49": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental incident in the UK involving public health and safety, requiring intervention from regional environmental agencies and emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792340367.064266
+  },
+  "62eee59bfc37e3ecacf27b57359d5083": {
+    "is_relevant": true,
+    "reasoning": "The story concerns the BBC's editorial independence and impartiality, which is a matter of significant public interest and policy relevance regarding the UK's national broadcaster.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792340377.161192
+  },
+  "cb13ce76a8ab9050afa203b8575397c5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and police-related incident occurring within the UK involving a fatality.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792340463.890557
+  },
+  "6e10262c86b3418b60e001084bd4fda3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding devolved Scottish infrastructure and government transport regulation, which is of direct political and economic interest to the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792340474.264187
   }
 }

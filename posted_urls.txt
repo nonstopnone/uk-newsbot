@@ -1,5 +1,3 @@
-2026-10-11T15:16:07.990034+00:00|https://www.bbc.co.uk/news/articles/c63r5nnxxzgvo|emergency doctor completely terrified of looming winter pressures on nhs|ad6c3e9490aafb2e567dcb7aaa8df6dd
-2026-10-11T15:16:10.432091+00:00|https://www.bbc.co.uk/news/articles/cmgr8221v4x1o|wildlife park remains closed after fatal tiger attack|f103f31e72fc23b2a290a581b39dc83f
 2026-10-11T19:51:28.106477+00:00|https://www.telegraph.co.uk/football/2026/10/11/liverpool-man-city-team-news-latest-premier-league-updates|the cheats prosper man city thrash 10man liverpool|a5d7d607d657978a12b7e69c22b5e850
 2026-10-11T19:51:30.495821+00:00|https://www.bbc.co.uk/sport/football/articles/c962y5nd273no|burnham to release details of man city meetings|c90360760f448e46eabd6eb030142c37
 2026-10-11T19:51:32.825206+00:00|https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko|pm says it is clear russia interfered with brexit vote|37be782f1f2c437f53bd08e293b3cd3f
@@ -103,3 +101,8 @@
 2026-10-18T12:24:05.587459+00:00|https://www.bbc.co.uk/news/articles/c63elzvjpgn2o|police officer in hospital after being shot in nottingham|511e1e8159a5941797526d9f4fe5a6ad
 2026-10-18T12:24:08.137533+00:00|https://www.bbc.co.uk/news/articles/cm2kezgd77qlo|ending corridor care in hospitals for children a priority says health secretary|be345f85b32170b6770ef91dea63f73b
 2026-10-18T12:24:10.700858+00:00|https://news.sky.com/story/police-officer-shot-in-nottingham-city-centre-13600507|gun pictured at scene after police officer shot as suspects hunted|1da77b7b41e2297d6f60eda3fd9c5865
+2026-10-18T16:21:14.665828+00:00|https://www.bbc.co.uk/news/articles/cmx23p5w7123o|man 80 who died in light aircraft crash near loch lomond named|e0f57c666014bfb62ead8b6a17166cd6
+2026-10-18T16:21:17.108816+00:00|https://www.telegraph.co.uk/football/2026/10/18/leeds-vs-manchester-united-live-score-latest-premier-league|man utd fail to relieve pressure on carrick after draw at leeds|42556bb0088d054c56e785cb4204a29e
+2026-10-18T16:21:19.397834+00:00|https://www.telegraph.co.uk/football/2026/10/18/brighton-vs-crystal-palace-live-score-latest-premier-league|gomez scores goaloftheseason contender as brighton trounce palace to go second|cb9f642439f922b3c2ac9c43c2ed0c21
+2026-10-18T16:21:21.681924+00:00|https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo|fuel leak spreads more than two miles along river taff|5decc145f917e33ec7b7297e7a85ae49
+2026-10-18T16:21:24.082215+00:00|https://news.sky.com/story/driver-arrested-after-teenage-boy-killed-in-crash-in-birmingham-13600596|driver arrested after teenage boy killed in crash|cb13ce76a8ab9050afa203b8575397c5
