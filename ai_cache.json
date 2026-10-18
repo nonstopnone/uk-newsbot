@@ -34124,5 +34124,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792290976.961337
+  },
+  "511e1e8159a5941797526d9f4fe5a6ad": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a police officer being shot in the line of duty, which constitutes hard news directly relevant to UK public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792326197.299233
+  },
+  "e0f57c666014bfb62ead8b6a17166cd6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK-based aviation incident involving multiple fatalities and an ongoing investigation by the Air Accidents Investigation Branch.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792326207.802587
+  },
+  "073e2657be6b2deeb140521a8ee15cec": {
+    "is_relevant": true,
+    "reasoning": "This concerns the internal policy and controversy of a national UK political party, which has attracted attention from government officials and the equality watchdog.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792326217.004613
+  },
+  "31883edf2ad29c6b16bc718be93e4e13": {
+    "is_relevant": false,
+    "reasoning": "This is a local planning and architecture story that does not constitute hard news or meet the threshold for national UK relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792326225.917179
+  },
+  "1da77b7b41e2297d6f60eda3fd9c5865": {
+    "is_relevant": true,
+    "reasoning": "This is a major public safety incident involving a police officer being shot in a UK city, which falls under crime and emergency response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792326236.371805
+  },
+  "dc0050c5d372a8e24001760b5806d777": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime occurring in a major UK public space, involving a police investigation, which fits the crime and legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792326245.014739
   }
 }

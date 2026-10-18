@@ -1,5 +1,3 @@
-2026-10-11T08:09:06.481431+00:00|https://www.bbc.co.uk/news/articles/cm79pd2zzl59o|its within dups gift to remove oneill as first minister says lockhart|97243cef1cdb97ab608052d3be41c030
-2026-10-11T08:09:08.902172+00:00|https://www.bbc.co.uk/news/articles/cw5yn710m8d7o|the papers tiger attack horror and trump tells zelensky time to go|922cc9cc2b6f34725e9035695a74014d
 2026-10-11T15:16:07.990034+00:00|https://www.bbc.co.uk/news/articles/c63r5nnxxzgvo|emergency doctor completely terrified of looming winter pressures on nhs|ad6c3e9490aafb2e567dcb7aaa8df6dd
 2026-10-11T15:16:10.432091+00:00|https://www.bbc.co.uk/news/articles/cmgr8221v4x1o|wildlife park remains closed after fatal tiger attack|f103f31e72fc23b2a290a581b39dc83f
 2026-10-11T19:51:28.106477+00:00|https://www.telegraph.co.uk/football/2026/10/11/liverpool-man-city-team-news-latest-premier-league-updates|the cheats prosper man city thrash 10man liverpool|a5d7d607d657978a12b7e69c22b5e850
@@ -102,3 +100,6 @@
 2026-10-17T23:45:51.096867+00:00|https://www.telegraph.co.uk/boxing/2026/10/17/daniel-dubois-vs-fabio-wardley-2-live-latest-fight-updates|ruthless daniel dubois dispatches fabio wardley in just two rounds|c86827b2087c87f4fdababfa0e22d9b0
 2026-10-18T02:36:17.701872+00:00|https://www.bbc.co.uk/news/articles/cmx2375zqwwwo|theres a crackdown on sports piracy but is it already out of control|cbd029eb781044031f878123edaab659
 2026-10-18T02:36:20.501419+00:00|https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o|comedian paul whitehouse mugged at london cash machine|f607fcb8214c7cb25c57e6b289c526eb
+2026-10-18T12:24:05.587459+00:00|https://www.bbc.co.uk/news/articles/c63elzvjpgn2o|police officer in hospital after being shot in nottingham|511e1e8159a5941797526d9f4fe5a6ad
+2026-10-18T12:24:08.137533+00:00|https://www.bbc.co.uk/news/articles/cm2kezgd77qlo|ending corridor care in hospitals for children a priority says health secretary|be345f85b32170b6770ef91dea63f73b
+2026-10-18T12:24:10.700858+00:00|https://news.sky.com/story/police-officer-shot-in-nottingham-city-centre-13600507|gun pictured at scene after police officer shot as suspects hunted|1da77b7b41e2297d6f60eda3fd9c5865
