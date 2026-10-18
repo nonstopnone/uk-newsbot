@@ -34201,5 +34201,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792340474.264187
+  },
+  "ab64ca9956927e8dadea3644a64e1793": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports report concerning a Premier League football match, which falls under the excluded 'sports previews/reports' category.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792350670.981667
+  },
+  "53504b75384a274d9ef9428359dc8def": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant disciplinary action within a UK police force involving gross misconduct, which falls under core crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792350681.039815
   }
 }
