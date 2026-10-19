@@ -34236,5 +34236,47 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1792370521.045714
+  },
+  "d782ad9d861eaa79231e258bcde02312": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and security incident involving widespread school closures and police action across Northern Ireland.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792410612.826161
+  },
+  "895bd04e5d73ed041c32257223922a11": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving a mass stabbing on a public transport service in the UK, making it highly relevant to public safety and the legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792410625.519505
+  },
+  "88a96da417ddbf7b367748eb496a32ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving the shooting of a police officer and subsequent arrests, which is of major public interest and relevance to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792410632.582962
+  },
+  "586a936c8262c0ee08442cf736c49a6d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a violent incident on UK rail infrastructure that is currently moving through the legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792410641.323183
+  },
+  "0ce5508c9dfa326e550ae02ed47dbc6c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving a large-scale threat to educational institutions across Northern Ireland, which is a matter of clear public safety interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792410652.35375
+  },
+  "d27c7af5cf500396f0620af34dd97bd2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the restructuring of essential NHS infrastructure and patient safety, which directly impacts the UK public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792410665.735117
   }
 }

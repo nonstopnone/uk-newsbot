@@ -1,5 +1,3 @@
-2026-10-12T11:34:16.799777+00:00|https://www.bbc.co.uk/news/articles/cmdx3q2xlxx6o|orange order add police chief to court challenge of drumcree parade ban|2f8367e4acab4487b060c85d31a4c8de
-2026-10-12T11:34:19.148532+00:00|https://www.bbc.co.uk/news/articles/c6kg5zd1kedgo|man denies racist murder of scientist in dundee as trial date set for 2028|4a5c4449f22c0590016f483a9fd0baa9
 2026-10-12T20:45:47.805281+00:00|https://www.bbc.co.uk/news/articles/c68jz0282re9o|votes of no confidence in sinn féin ministers fail|ebb785539c392fca04375f94deb18b20
 2026-10-12T20:45:50.176533+00:00|https://www.bbc.co.uk/news/articles/c3gr82rk70l8o|government expands police support to political figures who are not mps|2c5c6303f86ca35512122cc6158e092a
 2026-10-13T02:21:46.113372+00:00|https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675|uk economy to grow more than expected but households face sharper rise in inflation imf says|08146197eb04be02a652bfbb4c20fd35
@@ -106,3 +104,7 @@
 2026-10-19T00:42:04.518751+00:00|https://www.bbc.co.uk/news/articles/cm89z008x7xdo|people playing loud music on buses could face £100 fine|6a9ab7bbbf17df518b9ca761561b0351
 2026-10-19T05:35:34.255767+00:00|https://www.bbc.co.uk/news/articles/cmd7qypglylxo|postcode lottery driving childrens inequality in england commissioner warns|beaaacd9b67238719ee04845264d66b9
 2026-10-19T05:35:36.770519+00:00|https://www.bbc.co.uk/news/articles/cq0melgpre23o|burnham says youth employment and training crisis is a moral failure|2cfae54e6d9beec75830ab05d95eccb1
+2026-10-19T11:51:07.436500+00:00|https://www.bbc.co.uk/news/articles/cw1m4pvdzzj0o|schools explosive device email a hoax say police|d782ad9d861eaa79231e258bcde02312
+2026-10-19T11:51:10.012177+00:00|https://www.bbc.co.uk/news/articles/cvgdd2yevd3o|man accused of mass train stabbing admits wounding|895bd04e5d73ed041c32257223922a11
+2026-10-19T11:51:12.445854+00:00|https://news.sky.com/story/man-admits-huntingdon-train-stabbings-but-still-faces-trial-on-attempted-murder-charges-13600913|man admits huntingdon train stabbings but still faces trial on attempted murder charges|586a936c8262c0ee08442cf736c49a6d
+2026-10-19T11:51:14.868391+00:00|https://news.sky.com/story/police-investigate-non-viable-bomb-threats-sent-to-schools-in-northern-ireland-13600902|police investigate nonviable bomb threats sent to schools in northern ireland|0ce5508c9dfa326e550ae02ed47dbc6c
