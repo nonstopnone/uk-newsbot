@@ -1,5 +1,3 @@
-2026-10-11T23:23:24.937976+00:00|https://www.bbc.co.uk/news/articles/cwnv0zmjld51o|reform would suspend asylum system for parliamentary term if in government|2b16faac6589c47f3ecfe3725217d625
-2026-10-11T23:23:27.289264+00:00|https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo|prepare for the unthinkable warning over autumn flooding|b9d3f15a61fe90609fdb2068f156834a
 2026-10-12T03:48:50.734602+00:00|https://news.sky.com/story/man-dies-after-stabbing-outside-birthday-bash-pub-event-in-birmingham-13598007|man dies after stabbing outside birthday bash pub event|da11a24b8c27aeb2d3f59b423a2b21fe
 2026-10-12T03:48:53.117590+00:00|https://www.bbc.co.uk/news/articles/c6x29kydnzv0o|roofing scammers con homeowners out of thousands of pounds|fe510c230783aab0dae417102b67c071
 2026-10-12T03:48:55.626270+00:00|https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo|iran war threatens healeys budget plans think tank warns|30efe9c0f0f0d4cc42409290a04f8281
@@ -107,3 +105,5 @@
 2026-10-18T19:11:24.679582+00:00|https://www.bbc.co.uk/news/articles/cmkg7jl1wxvgo|west midlands police officer who accessed police records 2000 times sacked|53504b75384a274d9ef9428359dc8def
 2026-10-18T22:10:01.453098+00:00|https://www.bbc.co.uk/news/articles/c6kg57p7935jo|house prices on the rise how does your area compare|4b365d07400278163ec9121cec912a67
 2026-10-18T22:10:03.831906+00:00|https://www.telegraph.co.uk/football/2026/10/18/nottingham-forest-vs-arsenal-live-score-premier-league|arsenal late show keeps heat on man city|0e7302157a723682c230fd96b9a537d6
+2026-10-19T00:42:02.023095+00:00|https://www.bbc.co.uk/weather/articles/crp3g7y9n5y7o|chance of storms this week as atlantic jet stream roars into life|5e4f794899911f28a20f9a478757e904
+2026-10-19T00:42:04.518751+00:00|https://www.bbc.co.uk/news/articles/cm89z008x7xdo|people playing loud music on buses could face £100 fine|6a9ab7bbbf17df518b9ca761561b0351

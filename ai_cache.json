@@ -34222,5 +34222,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1792361400.715994
+  },
+  "3220ca0fb95691d32238271100229bb0": {
+    "is_relevant": false,
+    "reasoning": "This article provides general consumer safety advice rather than reporting on a specific UK hard news event, political development, or crime report. It functions as an informational/lifestyle guidance piece.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792370511.36793
+  },
+  "746209d5c1c2f30632a0b12647c1087f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the UK housing market and national economic conditions, directly impacting consumers and property owners across the country.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792370521.045714
   }
 }
