@@ -1,5 +1,3 @@
-2026-10-12T20:45:47.805281+00:00|https://www.bbc.co.uk/news/articles/c68jz0282re9o|votes of no confidence in sinn féin ministers fail|ebb785539c392fca04375f94deb18b20
-2026-10-12T20:45:50.176533+00:00|https://www.bbc.co.uk/news/articles/c3gr82rk70l8o|government expands police support to political figures who are not mps|2c5c6303f86ca35512122cc6158e092a
 2026-10-13T02:21:46.113372+00:00|https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675|uk economy to grow more than expected but households face sharper rise in inflation imf says|08146197eb04be02a652bfbb4c20fd35
 2026-10-13T02:21:48.609615+00:00|https://www.telegraph.co.uk/football/2026/10/12/coventry-vs-newcastle-live-score-latest-premier-league|coventry hammer newcastle to show why they belong and jaissle may not|13ba763f631afba2a50389060f21992b
 2026-10-13T02:21:51.311545+00:00|https://www.bbc.co.uk/news/articles/cq99znm9j7plo|ive woken from operations to find the surgery hasnt been done womens health is broken|c7fc0ead3511013bdf56f14bd31ed849
@@ -111,3 +109,5 @@
 2026-10-19T18:18:33.717062+00:00|https://www.bbc.co.uk/news/articles/cmje5y1wd3xgo|dissidents may have mounted gun attacks on garvaghy road court hears|03bf2b915f662dbe5a0ca82aeb366f68
 2026-10-19T18:18:36.201985+00:00|https://www.telegraph.co.uk/business/2026/10/19/france-riots-borrowing-costs-bonds-debt-uk-gilts-budget|french bond selloff spreads across europe|29bcf86a202e2ef066f850ffee602fdf
 2026-10-19T18:18:38.678674+00:00|https://www.bbc.co.uk/news/articles/c6eq3y4zz899o|reform uk mayor investigated over naked photo claims|5329af054b8f568afcbe74e125a929a6
+2026-10-19T22:46:11.053515+00:00|https://www.bbc.co.uk/news/articles/c6ev30xwy8v2o|i started ketamine at 14 and needed nappies at 22 the rise of young people going to rehab|73733ec036f329d2c3c3ff1683185e9a
+2026-10-19T22:46:13.643746+00:00|https://www.bbc.co.uk/news/articles/c680488y41v8o|hundreds of holiday lets operating without planning permission|fab50fa1b2b33b73db3fe84d2e2d051a

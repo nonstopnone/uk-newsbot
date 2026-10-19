@@ -34292,5 +34292,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792433718.109318
+  },
+  "73733ec036f329d2c3c3ff1683185e9a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a public health crisis involving rising drug addiction rates among young people in the UK, supported by data from UK-based services and academic research.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792449907.692066
+  },
+  "fab50fa1b2b33b73db3fe84d2e2d051a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on housing policy, regulation, and local government enforcement in a devolved UK capital that affects local housing markets.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792449917.488403
+  },
+  "bfb44495281c563a01dd1dc0030ddfa6": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a new government policy initiative led by the Prime Minister regarding consumer protection and motoring regulations in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792449926.172078
+  },
+  "4afae929cb65c302ab873a6c350e304f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a suspected hate crime in London that is currently under police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792449936.780445
+  },
+  "cc113186646e5096ca424e3f004ca7d2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial involving a high-profile figure within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792449961.413249
+  },
+  "6dbe0ac4e22f4fc3d28c38ae8e6b5f22": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the FA Cup first round draw, which is a major event in the UK sporting calendar.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792449970.536876
   }
 }
