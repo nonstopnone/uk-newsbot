@@ -108,3 +108,6 @@
 2026-10-19T11:51:10.012177+00:00|https://www.bbc.co.uk/news/articles/cvgdd2yevd3o|man accused of mass train stabbing admits wounding|895bd04e5d73ed041c32257223922a11
 2026-10-19T11:51:12.445854+00:00|https://news.sky.com/story/man-admits-huntingdon-train-stabbings-but-still-faces-trial-on-attempted-murder-charges-13600913|man admits huntingdon train stabbings but still faces trial on attempted murder charges|586a936c8262c0ee08442cf736c49a6d
 2026-10-19T11:51:14.868391+00:00|https://news.sky.com/story/police-investigate-non-viable-bomb-threats-sent-to-schools-in-northern-ireland-13600902|police investigate nonviable bomb threats sent to schools in northern ireland|0ce5508c9dfa326e550ae02ed47dbc6c
+2026-10-19T18:18:33.717062+00:00|https://www.bbc.co.uk/news/articles/cmje5y1wd3xgo|dissidents may have mounted gun attacks on garvaghy road court hears|03bf2b915f662dbe5a0ca82aeb366f68
+2026-10-19T18:18:36.201985+00:00|https://www.telegraph.co.uk/business/2026/10/19/france-riots-borrowing-costs-bonds-debt-uk-gilts-budget|french bond selloff spreads across europe|29bcf86a202e2ef066f850ffee602fdf
+2026-10-19T18:18:38.678674+00:00|https://www.bbc.co.uk/news/articles/c6eq3y4zz899o|reform uk mayor investigated over naked photo claims|5329af054b8f568afcbe74e125a929a6

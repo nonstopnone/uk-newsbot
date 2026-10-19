@@ -34278,5 +34278,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792410665.735117
+  },
+  "03bf2b915f662dbe5a0ca82aeb366f68": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal challenge regarding security assessments and public order in Northern Ireland, involving the Secretary of State and the PSNI.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792433673.92979
+  },
+  "2b11635ebe45b26d779f21bb903ad0c7": {
+    "is_relevant": false,
+    "reasoning": "This story is a viral lifestyle/human interest piece regarding an eccentric public event and does not constitute hard news or a significant impact on UK public life.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792433718.109318
   }
 }
