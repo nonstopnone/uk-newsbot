@@ -1,7 +1,3 @@
-2026-10-13T17:31:31.351456+00:00|https://www.bbc.co.uk/news/articles/c6m2d4017ln7o|maserati driver given suspended sentence after killing woman in crash|eb5f13f199d970c383470aa35c20c9ba
-2026-10-13T17:31:33.772188+00:00|https://www.bbc.co.uk/news/articles/c6kglez2n99go|theme park worker sexually assaulted 19 girls under the age of 13|964652842228dc73f4e27ee0f4023ef9
-2026-10-13T17:31:36.351840+00:00|https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926|tech firms promise to take down ai platforms if british secret services show they are unsafe|0329635348c0ed8adb1c9f5f271c4c81
-2026-10-13T17:31:38.753398+00:00|https://news.sky.com/story/ex-police-officer-mark-tyrrell-accused-of-raping-sleeping-woman-was-trained-in-dealing-with-sex-offence-victims-court-hears-13598891|exmet police officer accused of raping sleeping woman court told|3b32612839527304fcae8d5e7e516a9d
 2026-10-13T22:11:54.155770+00:00|https://www.bbc.co.uk/news/articles/ck054nvzr676o|family pays tribute to warm and engaging man killed in tiger attack|b44e0f3b745115ffec518bc3289afbe6
 2026-10-13T22:11:56.628979+00:00|https://www.telegraph.co.uk/football/2026/10/13/arsenal-vs-lille-live-score-latest-champions-league-updates|arsenals big guns blow lille away after the second string flop|8320f2c671eb90b1b3a9ee6891e608e6
 2026-10-13T22:11:59.069737+00:00|https://www.bbc.co.uk/news/articles/cq98z59xdny5o|zelensky and burnham to meet in downing street|ba07fa0ef05fa2d43a28abd2aaa0e393
@@ -114,3 +110,8 @@
 2026-10-20T12:44:41.423027+00:00|https://www.bbc.co.uk/news/articles/ck240rr10jdqo|woman describes alleged assault by russell brand as frenzied and violent|e39273e806d4e28625a63cd91a10fb6d
 2026-10-20T12:44:43.862153+00:00|https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o|paddy power cuts 1400 jobs and blames betting tax rises|e879858d2a5f19294f90f465f286170a
 2026-10-20T12:44:46.285566+00:00|https://news.sky.com/story/britains-first-storm-of-the-season-named-13601253|britains first storm of the season named|378e51517a5d5eb0a95ca73d934e4de1
+2026-10-20T17:46:00.475952+00:00|https://www.bbc.co.uk/news/articles/cvze4wx3elj1o|uk government to make jackdaw gas field announcement|d4407678f1e54467b115aac4f6580a2a
+2026-10-20T17:46:03.034581+00:00|https://www.bbc.co.uk/news/articles/cqm26z110vzko|two rearrested on suspicion of assisting iran intelligence after raf fairford incident|c3ab682a774c57149fd702548345becc
+2026-10-20T17:46:14.031015+00:00|https://www.telegraph.co.uk/cricket/2026/10/20/england-vs-pakistan-tri-series-odi-score-latest-live|england give lesson on how not to approach a run chase|6a3c19e3dd2cbb5664a6e0df2d92c5d6
+2026-10-20T17:46:16.633052+00:00|https://www.telegraph.co.uk/business/2026/10/20/employment-wages-budget-healey-ftse-100-markets|job market warning lights flashing red|db171aa6ebff9d8c231b8c826fc32e40
+2026-10-20T17:46:19.214199+00:00|https://news.sky.com/story/bbc-announces-details-of-cuts-in-bid-to-save-500m-13601364|channels to close as bbc announces details of cuts|0c934809f7e39b8d1efc8753c0872bc5

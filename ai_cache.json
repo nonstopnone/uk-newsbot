@@ -34460,5 +34460,54 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792500280.820269
+  },
+  "c3ab682a774c57149fd702548345becc": {
+    "is_relevant": true,
+    "reasoning": "This report details a serious counter-terrorism investigation involving the National Security Act and a major security incident at a UK airbase, which is highly relevant to UK public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792518202.119012
+  },
+  "6a3c19e3dd2cbb5664a6e0df2d92c5d6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of the England national cricket team, which falls under the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792518221.248542
+  },
+  "060f8d7b509ce90650246ef7aa9c8f73": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a successful criminal prosecution involving human trafficking by the PSNI in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792518241.314202
+  },
+  "c87f70a9394cf68e50df74bfa76b0122": {
+    "is_relevant": true,
+    "reasoning": "The closure of national public service broadcasting channels is a significant development in UK media infrastructure and cultural policy.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1792518297.884515
+  },
+  "9c9a8e34d4300080854db7d8db4a78ad": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal trial and murder conviction within the UK legal system, which is highly relevant for public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792518318.463543
+  },
+  "9c2da417a04c524e6d7dbf20c50cb13b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant structural change to a major UK public service broadcaster, affecting national media infrastructure and policy.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1792518343.515483
+  },
+  "0c934809f7e39b8d1efc8753c0872bc5": {
+    "is_relevant": true,
+    "reasoning": "The closure of national public service broadcasting channels constitutes significant news regarding UK infrastructure and cultural institutions.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1792518359.641153
   }
 }
