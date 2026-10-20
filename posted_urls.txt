@@ -1,6 +1,3 @@
-2026-10-13T02:21:46.113372+00:00|https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675|uk economy to grow more than expected but households face sharper rise in inflation imf says|08146197eb04be02a652bfbb4c20fd35
-2026-10-13T02:21:48.609615+00:00|https://www.telegraph.co.uk/football/2026/10/12/coventry-vs-newcastle-live-score-latest-premier-league|coventry hammer newcastle to show why they belong and jaissle may not|13ba763f631afba2a50389060f21992b
-2026-10-13T02:21:51.311545+00:00|https://www.bbc.co.uk/news/articles/cq99znm9j7plo|ive woken from operations to find the surgery hasnt been done womens health is broken|c7fc0ead3511013bdf56f14bd31ed849
 2026-10-13T09:59:36.780602+00:00|https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo|hundreds more prisoners being freed in second phase of early release scheme|d3c1481761be52321b1cadb661a64191
 2026-10-13T09:59:39.325603+00:00|https://www.bbc.co.uk/news/articles/cmglw0r21zexo|uk growth forecast upgraded but higher energy prices to hit economy next year|76c304be92019d2e2d4f791e4f0a5eb0
 2026-10-13T17:31:31.351456+00:00|https://www.bbc.co.uk/news/articles/c6m2d4017ln7o|maserati driver given suspended sentence after killing woman in crash|eb5f13f199d970c383470aa35c20c9ba
@@ -113,3 +110,6 @@
 2026-10-19T22:46:13.643746+00:00|https://www.bbc.co.uk/news/articles/c680488y41v8o|hundreds of holiday lets operating without planning permission|fab50fa1b2b33b73db3fe84d2e2d051a
 2026-10-20T01:27:07.615482+00:00|https://www.bbc.co.uk/news/articles/c6r7y0vkz2yno|the papers the french correction and labour cuts £2bn from army|b304adae1d1be5078b478062b03ee79e
 2026-10-20T01:27:10.007737+00:00|https://www.bbc.co.uk/news/articles/cv62yzddy6dpo|criminals detained in hospital set to lose benefits|fb7a8068360b60dab02f847c8417a2e8
+2026-10-20T07:00:45.327232+00:00|https://www.bbc.co.uk/news/articles/c50me4w4x1vyo|chancellor rejects calls to raise capital gains tax in budget sources say|9237a0f4b965bf890d7927fdd87dccb0
+2026-10-20T07:00:47.689067+00:00|https://www.bbc.co.uk/news/articles/c6eq327pzr53o|job vacancies fall as small firms cut back on recruitment|202e25dd07356aaa9ad5bcef8f7d7ab5
+2026-10-20T07:00:49.961535+00:00|https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180|surprise dip in jobless rate supports interest rate hike|061429e7c6eae8993e908a3677718e0c

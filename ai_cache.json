@@ -34334,5 +34334,40 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1792449970.536876
+  },
+  "202e25dd07356aaa9ad5bcef8f7d7ab5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the Office for National Statistics regarding UK labour market trends, vacancies, and wage growth, which directly impacts the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792479604.587963
+  },
+  "71070c696a167a6cc5005ec0da117129": {
+    "is_relevant": false,
+    "reasoning": "The incident involves an Australian politician and occurred in Australia, having no material impact on UK domestic affairs or policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792479614.441869
+  },
+  "f68081ab57bb7ef0e3d2cb85b7170535": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding failures in NHS patient safety and formal legal proceedings involving a public institution.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792479624.664904
+  },
+  "4d03e8dccae5e940b0369775dd4e2401": {
+    "is_relevant": false,
+    "reasoning": "This is a soft news, lifestyle-oriented piece regarding educational surveys rather than hard news impacting national policy or urgent UK affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792479634.428952
+  },
+  "061429e7c6eae8993e908a3677718e0c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development concerning official UK unemployment statistics and national monetary policy, which directly affects the UK economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792479644.73117
   }
 }
