@@ -1,5 +1,3 @@
-2026-10-13T09:59:36.780602+00:00|https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo|hundreds more prisoners being freed in second phase of early release scheme|d3c1481761be52321b1cadb661a64191
-2026-10-13T09:59:39.325603+00:00|https://www.bbc.co.uk/news/articles/cmglw0r21zexo|uk growth forecast upgraded but higher energy prices to hit economy next year|76c304be92019d2e2d4f791e4f0a5eb0
 2026-10-13T17:31:31.351456+00:00|https://www.bbc.co.uk/news/articles/c6m2d4017ln7o|maserati driver given suspended sentence after killing woman in crash|eb5f13f199d970c383470aa35c20c9ba
 2026-10-13T17:31:33.772188+00:00|https://www.bbc.co.uk/news/articles/c6kglez2n99go|theme park worker sexually assaulted 19 girls under the age of 13|964652842228dc73f4e27ee0f4023ef9
 2026-10-13T17:31:36.351840+00:00|https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926|tech firms promise to take down ai platforms if british secret services show they are unsafe|0329635348c0ed8adb1c9f5f271c4c81
@@ -113,3 +111,6 @@
 2026-10-20T07:00:45.327232+00:00|https://www.bbc.co.uk/news/articles/c50me4w4x1vyo|chancellor rejects calls to raise capital gains tax in budget sources say|9237a0f4b965bf890d7927fdd87dccb0
 2026-10-20T07:00:47.689067+00:00|https://www.bbc.co.uk/news/articles/c6eq327pzr53o|job vacancies fall as small firms cut back on recruitment|202e25dd07356aaa9ad5bcef8f7d7ab5
 2026-10-20T07:00:49.961535+00:00|https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180|surprise dip in jobless rate supports interest rate hike|061429e7c6eae8993e908a3677718e0c
+2026-10-20T12:44:41.423027+00:00|https://www.bbc.co.uk/news/articles/ck240rr10jdqo|woman describes alleged assault by russell brand as frenzied and violent|e39273e806d4e28625a63cd91a10fb6d
+2026-10-20T12:44:43.862153+00:00|https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o|paddy power cuts 1400 jobs and blames betting tax rises|e879858d2a5f19294f90f465f286170a
+2026-10-20T12:44:46.285566+00:00|https://news.sky.com/story/britains-first-storm-of-the-season-named-13601253|britains first storm of the season named|378e51517a5d5eb0a95ca73d934e4de1

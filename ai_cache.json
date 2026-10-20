@@ -34369,5 +34369,96 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1792479644.73117
+  },
+  "e39273e806d4e28625a63cd91a10fb6d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial in a UK court involving a high-profile public figure, which falls under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792499941.868012
+  },
+  "e879858d2a5f19294f90f465f286170a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development involving mass job cuts at a major company, directly linked to UK government fiscal policy changes announced in the Budget.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792499968.801232
+  },
+  "1ad270554882ccf0ecab544aa81c3824": {
+    "is_relevant": false,
+    "reasoning": "This is a nature and wildlife human-interest story. It does not constitute hard news regarding UK politics, economy, or social infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792500031.465792
+  },
+  "bc8ef14dfe0f76c155f32bd10dab8c80": {
+    "is_relevant": true,
+    "reasoning": "This is a significant military deployment involving the RAF, directly impacting UK national security and foreign policy interests.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1792500039.729247
+  },
+  "0a998a08fbc90b3819a2481a61cd8679": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving public safety and emergency services response in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792500051.288006
+  },
+  "625cf917909b1b8999215796bd28cf5a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal legal proceeding involving a historical murder trial in Scotland, which meets the criteria for hard news relevant to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792500058.959668
+  },
+  "7099faa140e0050b38fa3ccc7ca09f72": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing police investigation involving a murder arrest in the UK, meeting the criteria for crime and public safety news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792500070.355459
+  },
+  "67582e8dce2cdaeedab7f466147d2cda": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human-interest feature story about dating habits, which does not constitute hard news or meet the criteria for a national news relevance filter.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792500078.123039
+  },
+  "9300ee7d3cb068dd4a2513c45c30fdd3": {
+    "is_relevant": true,
+    "reasoning": "The Isle of Man is a Crown Dependency and its legislative changes, particularly regarding significant legal shifts like assisted dying, are of direct constitutional and social interest to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792500088.587664
+  },
+  "9de2a52b2dc7e82632cf3d58298a9041": {
+    "is_relevant": false,
+    "reasoning": "This is a local political protest in Albania that does not have a direct, material impact on the UK, nor does it meet the threshold of major international news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792500098.690348
+  },
+  "d4f0648d7f0bd6c747b7d032f9c715ed": {
+    "is_relevant": false,
+    "reasoning": "The incident concerns a domestic Australian political figure and does not have a material impact on the UK, nor is it a matter of significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792500248.044404
+  },
+  "a7906868fb29a48f92947aab7eae289f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding national consumer regulations affecting motorists across the UK, overseen by a major regional political figure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792500271.804727
+  },
+  "378e51517a5d5eb0a95ca73d934e4de1": {
+    "is_relevant": true,
+    "reasoning": "The arrival of a named storm represents a significant weather event affecting national infrastructure and public safety across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792500280.820269
   }
 }
