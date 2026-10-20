@@ -34509,5 +34509,19 @@
     "flair": "Culture",
     "provider": "Gemini",
     "timestamp": 1792518359.641153
+  },
+  "f7d33c4d1a4e3de1ae2b05a66ec6611b": {
+    "is_relevant": true,
+    "reasoning": "The involvement of the Financial Reporting Council, a UK regulatory body, in investigating systemic accounting irregularities at a major UK institution represents significant economic and regulatory news.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792530558.792086
+  },
+  "13ad6fb895eafba0d9b34c8e66b4e6ce": {
+    "is_relevant": true,
+    "reasoning": "This is a significant piece of UK parliamentary legislation concerning the Northern Ireland Troubles, which directly relates to devolved government affairs and legal justice processes.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792530569.81824
   }
 }
