@@ -1,5 +1,3 @@
-2026-10-14T07:00:03.062517+00:00|https://www.bbc.co.uk/news/articles/cqe8ry792jy7o|unprecedented murder cases see police force consider zerohours detectives|3754913f78975a8a08fafbaaecb06ec7
-2026-10-14T07:00:05.610771+00:00|https://www.bbc.co.uk/news/articles/c83vq95dq91go|home of oldest restaurant given to national trust|d8d6f5520c9d7e8acc3737a795a6d995
 2026-10-14T12:48:30.364773+00:00|https://www.bbc.co.uk/news/articles/c3vgx720r577o|dark day for lewis as one fisherman dead and two missing|808dd37eb54760cda04503662fb86e31
 2026-10-14T12:48:58.342943+00:00|https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo|civil servant faked illness with makeup to juggle five jobs court hears|7f12f93ea00829b0136da7969ad52e6b
 2026-10-14T12:49:00.673706+00:00|https://news.sky.com/story/one-man-dead-and-two-missing-after-fishing-vessel-goes-missing-off-scotland-13599156|one dead and two missing after fishing boat disappears off scotland|09216ddaa4139ba4c8402baaeb6383e4
@@ -118,3 +116,6 @@
 2026-10-21T05:39:34.540682+00:00|https://news.sky.com/story/britain-woefully-unprepared-to-tackle-wildfires-and-needs-new-fire-fighting-planes-and-bbq-bans-needed-mps-warn-13601469|firefighting planes and bbq bans needed to combat britains wildfire risk mps warn|091691e8b88ebbefe0151b62724dffe5
 2026-10-21T05:39:37.109545+00:00|https://www.bbc.co.uk/news/articles/cr5yn4pky527o|giant tunnel proposed to clean up windermeres sewage problem|099aff322b2fa79dba42730c5c7c1eb2
 2026-10-21T05:39:39.534726+00:00|https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo|the papers burnham faces climate revolt and harry wants to fix feud|f0a45b84c87f5d5d379908b66eedf36f
+2026-10-21T11:01:53.627500+00:00|https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo|masked boy guilty of trying to murder schoolgirl|9620e988f379798353c76a16201b4e74
+2026-10-21T11:01:56.127262+00:00|https://www.bbc.co.uk/weather/articles/c6m24ln2j43go|amber warning issued as storm austen threatens uk with strong winds and heavy rain|6408f4382ea15f562352663afb25dadd
+2026-10-21T11:01:58.611864+00:00|https://www.telegraph.co.uk/business/2026/10/21/inflation-uk-cpi-healey-budget-public-finances-debt-markets|inflation jumps in runup to healeys maiden budget|9373cacbaf07e42bc001e7fe9cfa0b09

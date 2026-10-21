@@ -34579,5 +34579,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792561173.777587
+  },
+  "9620e988f379798353c76a16201b4e74": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving an attempted murder in a UK school, which is a matter of serious public interest and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792580409.564697
+  },
+  "78e24d5ad76a32cdf1dcdfdfb5f89890": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal act involving charges brought by the Metropolitan Police, which qualifies as hard news regarding crime and community safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792580490.632983
+  },
+  "9ab9ff8a70c54d104de008fe8691076e": {
+    "is_relevant": true,
+    "reasoning": "The murder of a high-security prison official by the IRA and the subsequent state apology involves significant historical and political matters relevant to the UK, particularly concerning Northern Ireland and cross-border security history.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1792580512.659188
   }
 }
