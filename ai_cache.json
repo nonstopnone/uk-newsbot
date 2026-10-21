@@ -34565,5 +34565,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792542115.39924
+  },
+  "091691e8b88ebbefe0151b62724dffe5": {
+    "is_relevant": true,
+    "reasoning": "This report concerns parliamentary recommendations regarding national infrastructure and public safety measures to address climate-related risks in the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792561154.454521
+  },
+  "099aff322b2fa79dba42730c5c7c1eb2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure and environmental policy proposal concerning a major UK landmark that requires government approval and carries a multi-billion pound price tag.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792561173.777587
   }
 }
