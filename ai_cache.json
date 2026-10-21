@@ -34523,5 +34523,47 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792530569.81824
+  },
+  "94e9f9bc1ba77b592dfc1623afd4d51b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant issue regarding public funding, departmental budgets, and potential service cuts within a devolved UK government (Northern Ireland).",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792542026.367376
+  },
+  "9634ed65f1017fe7969e7b16aaddbd93": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a Liverpool FC Champions League match, which qualifies as UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792542042.270791
+  },
+  "75201f1cf7dc00bb4fe253cb033c0b19": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major commemorative event involving the Royal Family regarding a significant historical UK national disaster.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792542058.415546
+  },
+  "198dfaa9f92d94431215c015c336fae6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal charge and an ongoing police investigation into a murder in the UK, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792542070.779583
+  },
+  "be6da5dba07044ce934d3d7bde9967d3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the conduct and suspension of a sitting UK MP concerning government-backed public funds.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792542095.541618
+  },
+  "bdfed27a94c13dedb0ff85e2cb8e75a6": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal charge and a violent incident occurring within the UK, falling under the crime and legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792542115.39924
   }
 }
