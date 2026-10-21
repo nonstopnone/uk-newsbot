@@ -34621,5 +34621,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792612579.54952
+  },
+  "7f0c6e4a5b4cfd5a2be1c93b6def8577": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health-related news report concerning palliative care standards within the NHS (Scotland), which is a matter of clear public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792623532.023584
+  },
+  "93b3c32c7cb51f36146723dfce09f1c9": {
+    "is_relevant": true,
+    "reasoning": "The article highlights significant concerns regarding public safety, emergency service equipment failure, and underfunding in the UK public sector, which falls under UK infrastructure and safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792623545.721417
+  },
+  "845f53905c65f89409767023936a2942": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports opinion piece/analysis regarding Manchester United's management and performance, which falls under sports commentary rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792623560.314798
+  },
+  "efa85425594840633eacae334ed67ebd": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime resulting in multiple arrests and police investigation, which meets the criteria for hard news and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792623577.20854
+  },
+  "15c55b5e7fa8a6e6e1ccffc80c390072": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime involving the harassment of a sitting UK Member of Parliament, which is a matter of serious public interest and security.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792623603.59732
   }
 }
