@@ -34600,5 +34600,19 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1792580512.659188
+  },
+  "194526be7975b9df4fc7682b50ae8891": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant historical UK national event involving the Royal Family's commemoration of the Aberfan disaster, which remains a matter of major public and national interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792598047.832886
+  },
+  "d0f9e758ce222ba132914f849c2a1341": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story involving a public figure, a sensitive legal issue, and major advocacy groups in Northern Ireland, meeting the threshold for UK-related crime and societal debate.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792598062.528083
   }
 }
