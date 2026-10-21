@@ -34614,5 +34614,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792598062.528083
+  },
+  "5d6fe638e3dc4a34e0057794b38ed160": {
+    "is_relevant": true,
+    "reasoning": "This report concerns an ongoing criminal trial involving a civil servant accused of large-scale fraud against public sector employers, which is a matter of significant public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792612579.54952
   }
 }

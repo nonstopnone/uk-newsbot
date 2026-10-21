@@ -1,6 +1,3 @@
-2026-10-14T17:46:00.161761+00:00|https://www.bbc.co.uk/news/articles/cm74pn052j2vo|swimmer archie goodburn thanks prime minister as brain cancer review announced|45977244826c0abe0a4de104da305c8e
-2026-10-14T17:46:02.471624+00:00|https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo|i do not have confidence uk is safe from russian threats says swinney|257ee98611aebda8d4f7a36d39bfaa2c
-2026-10-14T17:46:04.775795+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/ed-miliband-calls-for-new-deal-on-debt|ed miliband calls for new deal on debt as developing countries face spiralling borrowing costs|bbecb2ca8c3d878df2dc7bc9df972b05
 2026-10-14T21:12:40.817465+00:00|https://www.bbc.co.uk/news/articles/c6je5wqgwxpgo|first minister does not accept there is no more money for stormont|da328597d2bfcfb247c8d14660058787
 2026-10-14T21:12:43.362857+00:00|https://www.bbc.co.uk/news/articles/cm0rl1gkz97do|we are behind you and that will not change pm tells zelensky|17c193603c40baa4c58ea250ce08d64b
 2026-10-14T21:12:45.803303+00:00|https://www.telegraph.co.uk/football/2026/10/14/lask-vs-liverpool-live-score-latest-champions-league-update|barcola starts to justify £123m price tag with hattrick as liverpool hit lask for six|16d40328714322ad225c4c859ca70d2f
@@ -117,3 +114,5 @@
 2026-10-21T11:01:58.611864+00:00|https://www.telegraph.co.uk/business/2026/10/21/inflation-uk-cpi-healey-budget-public-finances-debt-markets|inflation jumps in runup to healeys maiden budget|9373cacbaf07e42bc001e7fe9cfa0b09
 2026-10-21T15:56:41.065164+00:00|https://www.bbc.co.uk/news/articles/cy4zdgk081eo|burnham defends jackdaw decision as badenoch urges pm to overturn ban on new oil and gas licences|260d11d63f15a80cf5d6d0cefcae927e
 2026-10-21T15:56:43.660157+00:00|https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo|aberfan disaster most tragic of days imaginable says king on 60th anniversary|194526be7975b9df4fc7682b50ae8891
+2026-10-21T19:56:21.517380+00:00|https://www.bbc.co.uk/news/articles/cw0541p65dyzo|burnham proposes plan to cut standing charges from gas bills|80fe229b939cbf53e3570f1d43ebabd7
+2026-10-21T19:56:24.102440+00:00|https://www.bbc.co.uk/news/articles/cmze4w63ly42o|civil servant admits he made mistakes juggling five government jobs|5d6fe638e3dc4a34e0057794b38ed160
