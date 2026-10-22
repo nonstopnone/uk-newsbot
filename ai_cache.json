@@ -34691,5 +34691,89 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792652354.485236
+  },
+  "4cd42e2d4a3528fdf2a6f764c895bc3c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial involving a high-profile figure in the UK justice system, which constitutes hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792673352.65152
+  },
+  "411c78ef2ae45c07c09d91261c1735b9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving serious allegations and a verdict reached in a UK Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792673371.091208
+  },
+  "8052dba992d8dd3b2a266ad3c2eaeb17": {
+    "is_relevant": true,
+    "reasoning": "This is a report on ongoing legal proceedings at Southwark Crown Court involving a high-profile political activist, which falls under the category of crime and legal reporting in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792673402.801512
+  },
+  "eaef578073803d686f39e3a1211a4d64": {
+    "is_relevant": true,
+    "reasoning": "The emergence of a novel virus jumping from animals to humans in Europe is a significant public health issue with direct implications for UK biosecurity and the NHS.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1792673414.247643
+  },
+  "9cd8ba752e2b426b731cdfe8700fefbe": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story rather than hard news regarding UK politics, economy, or major public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792673423.374118
+  },
+  "e01da0209348cccd394de5dcfff0c814": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report concerning a murder investigation and a death involving emergency services in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792673433.302397
+  },
+  "963ffd19474ebbef71d7d0624adfc88d": {
+    "is_relevant": false,
+    "reasoning": "This is a global health feature article focused on malaria in sub-Saharan Africa, which does not materially affect the UK domestic situation or constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792673447.660792
+  },
+  "cf2fb5ffa4cd5c103d43b932d5828e60": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant new government initiative concerning national security and emergency resilience, which directly impacts UK infrastructure and public safety.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792673460.533825
+  },
+  "c7b1ff8b87e34722410a44e36e4e12b4": {
+    "is_relevant": true,
+    "reasoning": "The mass redundancy of 5,000 staff at a major UK high street bank, driven by automation and structural changes, is a significant event for the UK economy and employment landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792673470.952765
+  },
+  "7e88c0d909651349e1ba568870e7d898": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding police activity and infrastructure disruption in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792673491.300234
+  },
+  "10a4819c97f074cf45470b0ea4297cf3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update to UK criminal justice sentencing policy that impacts court procedures and prisoner management.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792673520.95584
+  },
+  "0972080d1d12ec637b11259fbb193841": {
+    "is_relevant": true,
+    "reasoning": "Severe weather events affecting the entire UK and issued by the Met Office constitute significant national news regarding infrastructure and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792673531.451204
   }
 }
