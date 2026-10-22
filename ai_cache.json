@@ -34775,5 +34775,68 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792673531.451204
+  },
+  "f33c663bca25fbb631f9fccd4ade2e8c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the England national cricket team's performance, which is a major sports news item for a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792691364.436457
+  },
+  "b66e32fe273ca0265a916ebcc4be6a14": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private individual's inquest and does not constitute hard news of national political, economic, or public policy significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792691390.22016
+  },
+  "da01fa30ae322f801ac84ed07983c78b": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal trial involving fraud against multiple public sector bodies, including the NHS and government departments, which is a matter of public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792691433.851782
+  },
+  "aeac24295139b8d78c703538e4160ccd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing UK legal trial involving a prominent political figure and allegations of harassment against journalists, which falls under core UK legal and public interest reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792691592.118667
+  },
+  "596d99dbf8ff0c5633af90c7ef3fd394": {
+    "is_relevant": false,
+    "reasoning": "This is a reality television entertainment story and does not constitute hard news of significant public interest or national impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792691600.043485
+  },
+  "320e68af2603fdd3e8cc9f2585926e75": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a UK inquest and an ongoing police investigation into a body discovered in Wales, which constitutes a matter of public interest and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792691617.100854
+  },
+  "45e89d2ebf04cdfcb3a44fc0424040d5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge in the UK, which falls under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792691639.082495
+  },
+  "59fd4dd0e5fda62fb26e17b66e50758b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK domestic news story involving the Prime Minister and a major public inquiry into child sexual exploitation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792691649.464256
+  },
+  "bb6136c7f672057bc0ff815d54814b03": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a well-known public figure being tried in the Scottish High Court, which falls under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792691665.472246
   }
 }
