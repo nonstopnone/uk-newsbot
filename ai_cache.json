@@ -34838,5 +34838,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792691665.472246
+  },
+  "5f517681c8502afadb6eba15f9dc51de": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private auction sale, which constitutes lifestyle/entertainment news rather than hard news of national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792703184.011762
+  },
+  "5c830853142c8847662c751e9ad2814f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant government announcement regarding national security, resilience, and civil preparedness that directly impacts the UK public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792703227.384226
+  },
+  "8777b3def0c153e66e23cac42998ccb1": {
+    "is_relevant": true,
+    "reasoning": "The article details a significant cybersecurity threat that has directly impacted UK government infrastructure, causing over 30 services to go offline.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792703239.624586
+  },
+  "f453d0d240aca0fd889012c6b0e1e368": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal case involving the theft of a rare historical artifact from a national institution, resulting in a prison sentence at a UK Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792703250.284342
+  },
+  "57393f67ab0d3b034cadcdc7ba85e20f": {
+    "is_relevant": true,
+    "reasoning": "This is a serious criminal investigation involving a murder charge in the UK, which falls under the category of hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792703275.764157
   }
 }

@@ -1,6 +1,3 @@
-2026-10-15T19:38:29.779115+00:00|https://www.bbc.co.uk/news/articles/cwm243lrgdpgo|severe drought declared in parts of southern england|e527ff7c3b7738ba177a32e688f2ed87
-2026-10-15T19:38:32.508217+00:00|https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo|banks say healey is planning budget tax raid on their profits|98bda33a9f1ef4e8f6eba69cc14eb51c
-2026-10-15T19:38:35.073497+00:00|https://news.sky.com/story/transgender-patients-to-be-placed-on-wards-according-to-their-birth-sex-nhs-england-decides-13599697|trans patients to be placed on wards according to their birth sex in england|7fcdb1791eb41825a5017f934f7ef114
 2026-10-15T22:51:15.455399+00:00|https://www.bbc.co.uk/news/articles/c9dr8d83p8eeo|farmer says hosting 4g mast is a nightmare as fees cost him thousands|1f620ecded11bc0c88ba5f0e83dcfd98
 2026-10-15T22:51:17.801948+00:00|https://www.telegraph.co.uk/football/2026/10/15/europa-league-live-score-palace-sunderland-bournemouth|pierre sages lyon return ends in disappointment for crystal palace|b613d84f1f05a0cccf8f2cb4d2e07422
 2026-10-15T22:51:20.079345+00:00|https://www.bbc.co.uk/news/articles/c30rl1q1j200o|uk threatens to ban eritreans over migrant return policy|bee51c80f8ba08efe6496028b162e315
@@ -116,3 +113,5 @@
 2026-10-22T17:54:30.900695+00:00|https://www.bbc.co.uk/news/articles/cmx23dwp3qzro|i wasnt thinking straight says five jobs civil servant|da01fa30ae322f801ac84ed07983c78b
 2026-10-22T17:54:33.240823+00:00|https://news.sky.com/story/man-charged-with-murder-over-death-of-housing-association-worker-13602300|man charged with murder over death of housing association worker|45e89d2ebf04cdfcb3a44fc0424040d5
 2026-10-22T17:54:35.730149+00:00|https://news.sky.com/story/sir-keir-starmer-could-be-summoned-to-give-evidence-to-grooming-gangs-inquiry-13602297|sir keir starmer could be summoned to give evidence to grooming gangs inquiry|59fd4dd0e5fda62fb26e17b66e50758b
+2026-10-22T21:07:56.438071+00:00|https://www.bbc.co.uk/news/articles/cjzxlnqlk1z3o|could rebel knight roger casement be exhumed for a second time|4acf6f23e07dd217e2921878972e496c
+2026-10-22T21:07:58.886559+00:00|https://www.bbc.co.uk/news/articles/c6y93pz494zzo|fahnbulleh says she backs home secretary on migration after comments to journalists|ef2ff438e32658aeec61f2a89ea03182
