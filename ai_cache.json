@@ -34656,5 +34656,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792623603.59732
+  },
+  "c78f4f48f4763527ad3b55281b060185": {
+    "is_relevant": true,
+    "reasoning": "This concerns national security, critical infrastructure protection, and legislative updates at the ministerial level, which are highly relevant to UK governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792632085.634955
   }
 }
