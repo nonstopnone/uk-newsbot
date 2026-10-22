@@ -34663,5 +34663,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792632085.634955
+  },
+  "b3d7ec74d45361737b609c210f7afce1": {
+    "is_relevant": false,
+    "reasoning": "The article describes a generic global software security issue and lacks a specific focus on UK-based infrastructure, government policy, or a direct, material impact on the UK that would distinguish it from a general tech news story.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792652316.533478
+  },
+  "b7fbea00b52377cbcea3202974bcdec6": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant UK energy policy decision regarding the Rosebank oil field, which directly impacts national energy security, infrastructure, and climate commitments.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792652332.985608
+  },
+  "ea826ef25357a15cae8ebb22bdbaa1e8": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity human-interest story regarding personal health and a book promotion, which falls under lifestyle/entertainment rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792652344.152782
+  },
+  "f4de934077c5b26f201bf7ab9af373e4": {
+    "is_relevant": true,
+    "reasoning": "This concerns an ongoing police investigation into a fatality in Wales, falling under the remit of UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792652354.485236
   }
 }
