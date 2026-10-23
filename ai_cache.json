@@ -34957,5 +34957,61 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792733999.699178
+  },
+  "54701cb9123d7612d8ea53f683c273f4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal proceeding involving multiple fatalities and inquest findings that is highly relevant to the public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792752738.550933
+  },
+  "0f5e055f6b38fbe42de54ad7b3914b58": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the Royal Family and involves allegations reported to the Metropolitan Police, making it relevant to UK public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792752810.881958
+  },
+  "c8ff58c70ee98ffe27bce33acc77122f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and a major police operation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792752821.980523
+  },
+  "bc284ca76ec68cda827ac132774c1f49": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant weather event (Storm Austen) causing power cuts and impacting millions across the UK, which qualifies as hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792752853.935551
+  },
+  "182dd125db8c6bbd0f5f381b9090e235": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant ongoing scandal involving the Metropolitan Police and institutional accountability, which is a matter of major public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792752874.561317
+  },
+  "ce500a04ede63bdcff3dc7df02cbe4ea": {
+    "is_relevant": true,
+    "reasoning": "This is a significant advancement in medical science involving a UK patient participant and has major implications for the NHS and UK healthcare policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792752890.004463
+  },
+  "145b758f18e5f6f64b5b13ed8fac6efa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding national energy security and critical infrastructure resilience, which directly affects the entire UK population.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792752903.727117
+  },
+  "a4efc7a4f6f9e2bbb7b113eef5fdf31e": {
+    "is_relevant": true,
+    "reasoning": "The article addresses NHS policy and service provision, which is a matter of significant public interest and health policy within the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792752916.671374
   }
 }
