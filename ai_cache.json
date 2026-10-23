@@ -34936,5 +34936,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792714998.851693
+  },
+  "978033d78a180e3c650a058e9bc35f6e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story concerning institutional failure within the Metropolitan Police, the conduct of the Commissioner, and ongoing legal issues regarding systemic police culture, all of which are of major public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792733982.405954
+  },
+  "7af800959f516a50ef0d209eec553c0e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failures within the Metropolitan Police involving a serial offender and the legal treatment of a victimized officer, which is a matter of major public interest regarding UK law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792733991.94092
+  },
+  "c3671414d81345a17efa6149ec34a10d": {
+    "is_relevant": true,
+    "reasoning": "This is a direct UK government announcement regarding military infrastructure and national emergency preparedness.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792733999.699178
   }
 }
