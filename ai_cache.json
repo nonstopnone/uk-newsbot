@@ -35013,5 +35013,68 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792752916.671374
+  },
+  "4f9e5b9367dbc5ed033fd8f48d0d5b4b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political story involving a high-ranking official within a major UK political party and criminal sentencing at a Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792769787.067675
+  },
+  "361fcea018cc16c8196578e316e6ca4e": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a political controversy involving the Prime Minister and the Leader of the Opposition, which is relevant to UK political discourse.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792769797.391796
+  },
+  "b5521c15bc9f64d50043fcb6f80c2975": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the current state and managerial crisis of a major UK football club, which falls under UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792769822.660504
+  },
+  "34e235e6157f5435a6fe51f7f8667246": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding national emergency preparedness issued by the Prime Minister, which constitutes major UK political and security-related news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792769830.072413
+  },
+  "82622d32e5c5ad0885983df855fed163": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a murder conviction and sentencing in a British court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792769840.213257
+  },
+  "f24299a6f5068cf413b0e55a833308d6": {
+    "is_relevant": false,
+    "reasoning": "This is a report on the private death of an individual while on holiday abroad; it does not constitute hard news of significant public interest, political, or policy relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792769847.694597
+  },
+  "212cc85f9a500ef16d9870ec3a51e9f6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy announcement regarding UK government housing schemes and economic intervention ahead of the Budget.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792769856.007195
+  },
+  "67da1ad5d05acf2c53b90049e693e3fb": {
+    "is_relevant": true,
+    "reasoning": "This relates to official national resilience and government-backed advice concerning the UK's civil preparedness for emergencies.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792769867.345668
+  },
+  "c3642b610155e86f41136a89acda42a0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court proceeding concerning a violent incident in Belfast that resulted in public disorder.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792769878.80018
   }
 }

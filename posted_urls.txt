@@ -1,6 +1,3 @@
-2026-10-16T15:08:19.129778+00:00|https://www.bbc.co.uk/news/articles/cmlykv9pey7go|burnham invites swinney to work together on deeper scottish devolution|0049610e5f9c54988ebd0852a725ce3d
-2026-10-16T15:08:21.715639+00:00|https://www.telegraph.co.uk/business/2026/10/16/bank-tax-healey-budget-ftse-100-markets|bank tax would raise mortgage costs warns ubs|7773044127d4b37a08e36933758d3d96
-2026-10-16T15:08:24.283845+00:00|https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo|teen hitman detained for 20 years over murder plot|50d80a861dfdd51680ac1eb20280925a
 2026-10-16T19:15:04.317256+00:00|https://www.bbc.co.uk/news/articles/c875prd12vkqo|nhs staff may have breached tiger attack victims medical records|64de8061f4b77c8f5c20880e2adde504
 2026-10-16T19:15:06.646150+00:00|https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo|nurse stole £750k from 99yearold woman for cosmetic surgery and home improvements|820a0f326ac89a085735b8ce1e3ba461
 2026-10-16T19:15:08.967422+00:00|https://news.sky.com/story/ex-brookside-star-philip-foster-jailed-after-fleeing-uk-over-13m-fraud-on-would-be-models-13600000|exsoap star who conned wouldbe models in £13m scam jailed after fleeing uk|99ce886ba50aa4ee4c303e620f30581e
@@ -117,3 +114,7 @@
 2026-10-23T10:55:19.752170+00:00|https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo|meghan says she was informed about disturbing allegations against her father in 2018|0f5e055f6b38fbe42de54ad7b3914b58
 2026-10-23T10:55:22.145343+00:00|https://news.sky.com/story/police-officer-raped-by-david-carrick-says-met-chief-must-resign-13602574|police officer raped by david carrick waives anonymity and says met chief must resign|182dd125db8c6bbd0f5f381b9090e235
 2026-10-23T10:55:24.608351+00:00|https://news.sky.com/story/mounjaro-rollout-on-nhs-needs-urgent-boost-say-mps-13602553|mounjaro rollout on nhs needs urgent boost say mps|a4efc7a4f6f9e2bbb7b113eef5fdf31e
+2026-10-23T15:37:59.434752+00:00|https://www.bbc.co.uk/news/articles/ck3r5798p43eo|extory campaign chief and his wife receive suspended sentences over election bets|4f9e5b9367dbc5ed033fd8f48d0d5b4b
+2026-10-23T15:38:02.044746+00:00|https://www.bbc.co.uk/news/articles/cm4g140585ngo|pm defends gogglebox appearance after badenoch criticism|361fcea018cc16c8196578e316e6ca4e
+2026-10-23T15:38:04.665450+00:00|https://www.telegraph.co.uk/football/2026/10/23/michael-carrick-press-conference-live-manchester-united|michael carrick on man utd future ill hold the umbrella to keep everyone else dry|b5521c15bc9f64d50043fcb6f80c2975
+2026-10-23T15:38:07.277645+00:00|https://news.sky.com/story/what-is-in-the-be-ready-checklist-as-britons-urged-to-stock-up-to-survive-potential-cyber-or-climate-emergencies-13602659|what is in the be ready checklist as britons urged to stock up to survive potential cyber or climate emergencies|67da1ad5d05acf2c53b90049e693e3fb
