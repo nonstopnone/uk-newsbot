@@ -1,6 +1,3 @@
-2026-10-16T22:25:42.553632+00:00|https://www.bbc.co.uk/news/articles/c639mg9d1vp0o|data centre developers may build climatewrecking gas power plant next door|6ac6296c79b333ff1a23f8cf21809ff9
-2026-10-16T22:25:44.915511+00:00|https://news.sky.com/story/man-convicted-of-arson-attacks-against-sir-keir-starmer-deported-from-uk-home-office-says-13600071|man convicted of arson attacks against keir starmer deported from uk|ac3455269f3027b1dbf3381d988f1c21
-2026-10-16T22:25:47.196018+00:00|https://www.bbc.co.uk/news/articles/cmlyl889jqzjo|chris mason burnham and swinney tussle over where power lies in scotland|7448ece0da4e5dcf030ae2076943246a
 2026-10-17T00:57:58.965525+00:00|https://www.bbc.co.uk/news/articles/cm3wvd7x01jqo|twoweek half terms the school holiday no one can agree on|a2ad5c331e251d7f1595929248be7375
 2026-10-17T00:58:01.417557+00:00|https://www.bbc.co.uk/news/articles/cm87z3x1evn3o|£800000 spent on scrapped sports dome project|d95f8edcfb232a40d08c9325fb526907
 2026-10-17T05:22:33.826509+00:00|https://www.bbc.co.uk/news/articles/cw0k07d2nj43o|third runway at heathrow airport would drive growth healey says|4d6d9dcd343e9fd75620d3d03386495d
@@ -117,3 +114,4 @@
 2026-10-23T19:44:08.018003+00:00|https://www.bbc.co.uk/news/articles/cwrky7j13r4vo|man dies after car crashes into supermarket|db473debacd3af0341c18e6ab02f0663
 2026-10-23T19:44:10.536037+00:00|https://www.bbc.co.uk/news/articles/cr5ynl415j79o|gp says she was forced out of job after raising concerns about gender treatment|34511f42d94b86a76c17a2fab8e9c262
 2026-10-23T19:44:13.096697+00:00|https://www.telegraph.co.uk/business/2026/10/23/oil-prices-ai-stocks-sell-off-ftse-100-markets|oil hits fivemonth high amid fears of fresh strikes on iran|e73ebf688a507d9ace27bfa1a89d9922
+2026-10-23T22:49:54.156737+00:00|https://www.bbc.co.uk/news/articles/cxj0l193y0l8o|storm austen brings power cuts and travel disruption as more wind and rain forecast|d5c5555078486f25a0caa7d7217b6d83
