@@ -34873,5 +34873,68 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792703275.764157
+  },
+  "67ae32dcdce160877a252150c175fbbd": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest feature article about social media influencers and does not constitute hard news relevant to UK governance, economy, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792714857.564478
+  },
+  "013deb40506ce92798de89afdcb4e0f2": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal health interest piece rather than hard news concerning UK policy, major events, or systemic issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792714892.660525
+  },
+  "a8e3174ea10e0de6ce4f508af19141a3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from a UK regulator regarding the stability and future of the care sector, directly impacting public policy and the proposed National Care Service.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792714902.649134
+  },
+  "d39783f755de858f9f0c70b8664e4c10": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy development concerning the NHS, which is a core subject for UK news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792714921.24475
+  },
+  "6a206c3741260e029380a40f3dce2b74": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding national infrastructure and energy security that directly affects all UK households and businesses.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792714930.310883
+  },
+  "9044e3cc0e8b6d74135df8bdc13dcc0e": {
+    "is_relevant": true,
+    "reasoning": "The article explicitly reports on UK-specific mortality data, with researchers estimating 4,354 excess deaths in the UK due to the summer heatwaves.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1792714945.066778
+  },
+  "0ef8d327ed39391ae486e3398c1a6d29": {
+    "is_relevant": true,
+    "reasoning": "This report covers a significant result in a major UK professional football competition involving a Premier League club.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792714958.441517
+  },
+  "edb60140799bfa21dac3fbf2f7e765f8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing maritime search and rescue operation involving UK citizens and official UK emergency services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792714967.299924
+  },
+  "ba249ed09d3d9b838cb4ac746e4dd444": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving the shooting of a police officer in the UK, which is a matter of serious public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792714998.851693
   }
 }
