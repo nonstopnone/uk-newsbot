@@ -1,7 +1,3 @@
-2026-10-16T19:15:04.317256+00:00|https://www.bbc.co.uk/news/articles/c875prd12vkqo|nhs staff may have breached tiger attack victims medical records|64de8061f4b77c8f5c20880e2adde504
-2026-10-16T19:15:06.646150+00:00|https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo|nurse stole £750k from 99yearold woman for cosmetic surgery and home improvements|820a0f326ac89a085735b8ce1e3ba461
-2026-10-16T19:15:08.967422+00:00|https://news.sky.com/story/ex-brookside-star-philip-foster-jailed-after-fleeing-uk-over-13m-fraud-on-would-be-models-13600000|exsoap star who conned wouldbe models in £13m scam jailed after fleeing uk|99ce886ba50aa4ee4c303e620f30581e
-2026-10-16T19:15:11.273534+00:00|https://news.sky.com/story/potential-data-breaches-investigated-after-death-of-man-in-tiger-enclosure-13599989|tiger victims medical records may have been improperly accessed|00bc995d6b2e9a6b223d6246fbaaaf71
 2026-10-16T22:25:42.553632+00:00|https://www.bbc.co.uk/news/articles/c639mg9d1vp0o|data centre developers may build climatewrecking gas power plant next door|6ac6296c79b333ff1a23f8cf21809ff9
 2026-10-16T22:25:44.915511+00:00|https://news.sky.com/story/man-convicted-of-arson-attacks-against-sir-keir-starmer-deported-from-uk-home-office-says-13600071|man convicted of arson attacks against keir starmer deported from uk|ac3455269f3027b1dbf3381d988f1c21
 2026-10-16T22:25:47.196018+00:00|https://www.bbc.co.uk/news/articles/cmlyl889jqzjo|chris mason burnham and swinney tussle over where power lies in scotland|7448ece0da4e5dcf030ae2076943246a
@@ -118,3 +114,6 @@
 2026-10-23T15:38:02.044746+00:00|https://www.bbc.co.uk/news/articles/cm4g140585ngo|pm defends gogglebox appearance after badenoch criticism|361fcea018cc16c8196578e316e6ca4e
 2026-10-23T15:38:04.665450+00:00|https://www.telegraph.co.uk/football/2026/10/23/michael-carrick-press-conference-live-manchester-united|michael carrick on man utd future ill hold the umbrella to keep everyone else dry|b5521c15bc9f64d50043fcb6f80c2975
 2026-10-23T15:38:07.277645+00:00|https://news.sky.com/story/what-is-in-the-be-ready-checklist-as-britons-urged-to-stock-up-to-survive-potential-cyber-or-climate-emergencies-13602659|what is in the be ready checklist as britons urged to stock up to survive potential cyber or climate emergencies|67da1ad5d05acf2c53b90049e693e3fb
+2026-10-23T19:44:08.018003+00:00|https://www.bbc.co.uk/news/articles/cwrky7j13r4vo|man dies after car crashes into supermarket|db473debacd3af0341c18e6ab02f0663
+2026-10-23T19:44:10.536037+00:00|https://www.bbc.co.uk/news/articles/cr5ynl415j79o|gp says she was forced out of job after raising concerns about gender treatment|34511f42d94b86a76c17a2fab8e9c262
+2026-10-23T19:44:13.096697+00:00|https://www.telegraph.co.uk/business/2026/10/23/oil-prices-ai-stocks-sell-off-ftse-100-markets|oil hits fivemonth high amid fears of fresh strikes on iran|e73ebf688a507d9ace27bfa1a89d9922

@@ -35076,5 +35076,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792769878.80018
+  },
+  "db473debacd3af0341c18e6ab02f0663": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a fatality and emergency services response within the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792784593.741612
+  },
+  "3e34bdc8cacc7860d029b704cd4cecdf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story concerning local government power-sharing agreements and political party policy, directly impacting the governance of multiple UK local authorities.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792784607.6331
+  },
+  "dc5b31977daabe098119f9d5799a9a24": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK political and economic development concerning energy policy and North Sea infrastructure, involving the Prime Minister and international relations.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792784618.311802
+  },
+  "d5a3ec4a4188f11e1f7c96a0e57170e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning police funding, government promises, and a major fatal incident involving UK law enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792784627.56887
+  },
+  "e73ebf688a507d9ace27bfa1a89d9922": {
+    "is_relevant": true,
+    "reasoning": "The rise in global oil prices and its direct negative impact on the FTSE 100 index constitutes significant economic news that materially affects the UK economy and financial markets.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1792784636.931898
+  },
+  "7a162979121c7757d593c504b52dff8c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story concerning a major terrorism investigation in the UK, involving alleged threats to public infrastructure and community safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792784647.243823
   }
 }
