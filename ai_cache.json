@@ -35209,5 +35209,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792854843.048454
+  },
+  "012d15d87b74ff98ebb489fef9735078": {
+    "is_relevant": false,
+    "reasoning": "While this is a tragic story involving a British national, it is an international human-interest/tragedy story that does not impact UK policy, infrastructure, or the public interest in a systemic way.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792866712.409007
+  },
+  "ae1171c8de1e294d9a94d9a33454ed77": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a domestic rugby union match, which falls under sports reporting/previews rather than the hard news criteria required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792866737.008655
+  },
+  "e8fcd1f57b80ebd0ce1c21fba36d4763": {
+    "is_relevant": false,
+    "reasoning": "This is a sports opinion piece/analysis regarding football squad selection and player performance, which is explicitly excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792866744.955778
   }
 }
