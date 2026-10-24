@@ -1,4 +1,3 @@
-2026-10-17T21:21:04.734027+00:00|https://www.bbc.co.uk/news/articles/cmp8g2kk3392o|reform politician says smart glasses helping him make speeches in wales parliament|cf570203674ae205cd0e129fb02ff1c0
 2026-10-17T23:45:46.255432+00:00|https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro|the papers french protests become violent and sas men arrested for murder|37af3b3e65eabe480e727a1dd689d6e9
 2026-10-17T23:45:48.613623+00:00|https://www.bbc.co.uk/news/articles/c32l4ezn05vdo|health workers run out of patience with stormont budget delay|f849bf96bfd3f2e338eb0d1d03c4ff40
 2026-10-17T23:45:51.096867+00:00|https://www.telegraph.co.uk/boxing/2026/10/17/daniel-dubois-vs-fabio-wardley-2-live-latest-fight-updates|ruthless daniel dubois dispatches fabio wardley in just two rounds|c86827b2087c87f4fdababfa0e22d9b0
@@ -110,3 +109,6 @@
 2026-10-24T11:48:30.937596+00:00|https://www.telegraph.co.uk/rugby-league/2026/10/24/england-france-rugby-league-world-cup|england hammer france to keep rugby league world cup hopes alive|347e673eddb4d53c24ef8c564ad519b5
 2026-10-24T15:14:03.688683+00:00|https://www.telegraph.co.uk/football/2026/10/24/aston-villa-vs-man-city-live-score-premier-league-updates|jackson returns to haunt maresca as city crash to first premier league defeat of season|bf58f52c7ac2df44da410db14eafb1f5
 2026-10-24T15:14:06.283515+00:00|https://www.bbc.co.uk/news/articles/c39wz740e0nyo|met police says letter with claims about meghans father not shared with other law enforcement|06c3181f2b5a8db3c517ae9ccc6d90da
+2026-10-24T21:23:34.094319+00:00|https://www.telegraph.co.uk/football/2026/10/24/chelsea-vs-spurs-live-score-latest-premier-league-updates|sensational spurs storm stamford bridge as palmer loses his head|4bf532aded2d64ec74b3ff872b059327
+2026-10-24T21:23:36.458308+00:00|https://www.bbc.co.uk/news/articles/c6eq313dnzzeo|thousands of people gather in support of drumcree orangemen|b4acec622e59f4b67f1f51559b73bca4
+2026-10-24T21:23:38.836393+00:00|https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o|storm boelo amber warnings kick in as parts of uk brace for 80mph gusts|10356695e8f0056a5890b76623ee67df
