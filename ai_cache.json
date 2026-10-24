@@ -35167,5 +35167,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792824450.358194
+  },
+  "347e673eddb4d53c24ef8c564ad519b5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a national team's performance in a major international tournament, which falls under UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792842468.354263
+  },
+  "66351fc2c92fb306820b849082951a67": {
+    "is_relevant": false,
+    "reasoning": "While the victim is a British national, this is a tragic personal accident occurring abroad and does not constitute hard UK news, politics, or policy-related content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792842494.387518
+  },
+  "44832fb610a7c3fd7fa633e6c912518d": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic human interest story occurring in a foreign territory that does not materially impact UK policy, economy, or national security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792842503.8523
   }
 }
