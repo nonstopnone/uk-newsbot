@@ -35139,5 +35139,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792804789.74986
+  },
+  "4c54af2be7b23ccaca452191a1929da8": {
+    "is_relevant": true,
+    "reasoning": "The article details an active inquiry by the Metropolitan Police regarding serious allegations, falling under the remit of UK law enforcement and police reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792824422.548252
+  },
+  "3e05833446da4f913ece33c3323c4a5f": {
+    "is_relevant": true,
+    "reasoning": "The story involves a significant scandal linked to a major UK political party and its leadership, which is a matter of public interest and political accountability.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792824431.733757
+  },
+  "6d64656356def4d197485ee497f0e8f0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant announcement regarding UK government spending on national security and public health infrastructure, which directly impacts the UK public.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792824440.122015
+  },
+  "8c6a79385f42b493882d66d6185d1198": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant weather event affecting the UK with potential for disruption, which is categorised as a breaking news incident.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792824450.358194
   }
 }

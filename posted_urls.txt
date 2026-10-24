@@ -1,5 +1,3 @@
-2026-10-17T05:22:33.826509+00:00|https://www.bbc.co.uk/news/articles/cw0k07d2nj43o|third runway at heathrow airport would drive growth healey says|4d6d9dcd343e9fd75620d3d03386495d
-2026-10-17T05:22:36.309553+00:00|https://news.sky.com/story/palestine-action-post-by-sarah-helms-wife-of-national-security-adviser-being-assessed-by-met-police-13600095|palestine action post by wife of pms adviser being assessed by police|0d0ceed48d29396285d42f0d15b07c80
 2026-10-17T10:01:30.709004+00:00|https://www.bbc.co.uk/news/articles/cky83g11q46lo|boy 16 and 80yearold man die in light aircraft crash near loch lomond|7d1a45fa820af2965459706ceb2155c4
 2026-10-17T10:01:33.112794+00:00|https://news.sky.com/story/heathrow-expansion-would-boost-growth-chancellor-says-13600118|heathrow expansion would boost growth chancellor says|cf6b0a6bb584853c231e02039eec6415
 2026-10-17T10:01:35.460622+00:00|https://www.bbc.co.uk/news/articles/cmx2844n7nepo|swinney insists stars are aligning for scottish independence|2b74c6dce6f3adadec9504b3dc633b0b
@@ -115,3 +113,7 @@
 2026-10-23T22:49:54.156737+00:00|https://www.bbc.co.uk/news/articles/cxj0l193y0l8o|storm austen brings power cuts and travel disruption as more wind and rain forecast|d5c5555078486f25a0caa7d7217b6d83
 2026-10-24T01:19:50.586790+00:00|https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo|uk to invest £100m in world first ai biosecurity lab|fa3b847ff3c98bd2297e0a13e8e8aa0a
 2026-10-24T01:19:52.965680+00:00|https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o|before you crank up the thermostat try these tips to keep your house warmer for longer|edaf8ee665fa25422759465af85bd86d
+2026-10-24T06:47:31.037593+00:00|https://www.bbc.co.uk/news/articles/c6n8devv08nno|the papers meghan warned over father and dont risk trussstyle budget|f19dc9d2781ca456a9743d28a2679788
+2026-10-24T06:47:33.580264+00:00|https://www.bbc.co.uk/news/articles/cmlylkkzl2neo|met investigates reports of letter detailing claims about meghans father|4c54af2be7b23ccaca452191a1929da8
+2026-10-24T06:47:36.150409+00:00|https://news.sky.com/story/uk-pledges-to-spend-600m-to-defend-against-ai-health-and-security-threats-13602935|uk pledges £600m to defend against ai health and security threats|6d64656356def4d197485ee497f0e8f0
+2026-10-24T06:47:38.700734+00:00|https://news.sky.com/story/rain-and-80mph-winds-forecast-for-uk-as-second-named-storm-in-48-hours-hits-13602934|rain and 80mph winds forecast for uk as storm boelo arrives|8c6a79385f42b493882d66d6185d1198
