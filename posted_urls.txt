@@ -1,7 +1,3 @@
-2026-10-17T13:35:18.796489+00:00|https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o|more nhs staff sacked over attacks victims records|363c53d0d4bad80c04ae571a1677847a
-2026-10-17T13:35:21.305355+00:00|https://www.bbc.co.uk/news/articles/cmd6dglnvq63o|exreform politician likens partys response to criticism to an abuser|28a857789fb9daf87703e6195262950d
-2026-10-17T13:35:23.864705+00:00|https://www.telegraph.co.uk/rugby-league/2026/10/17/england-v-tonga-live-rugby-league-world-cup-score-latest|englands rugby league world cup hopes in tatters after tonga defeat|4feb8a7b4c0692780e592e4278d09a4d
-2026-10-17T13:35:26.363764+00:00|https://news.sky.com/story/uk-advises-against-all-but-essential-travel-to-saudi-arabia-amid-houthi-strikes-as-missiles-hit-yemen-airport-13600096|uk advises against all but essential travel to saudi arabia|4980e2547026348aa54e8dd4dd8f9e79
 2026-10-17T16:48:30.350726+00:00|https://www.telegraph.co.uk/football/2026/10/17/premier-league-live-scores-latest-updates-watch|liverpools £400m front line finally clicks as brentford succumb with nine men|836279b6d3bc0af5ee96b8c648372287
 2026-10-17T16:48:32.944238+00:00|https://news.sky.com/story/more-nhs-staff-sacked-after-accessing-medical-records-of-nottingham-attack-victims-13600282|more nhs staff sacked after accessing medical records of nottingham attack victims|2d312dced11f3a4840eca0cb5e5e3dbd
 2026-10-17T16:48:35.380203+00:00|https://www.telegraph.co.uk/football/2026/10/17/everton-vs-chelsea-live-score-latest-updates-premier-league|steely chelsea triumph despite losing martinez to head injury|2433082a68bc966443805b854ac37412
@@ -116,3 +112,5 @@
 2026-10-24T11:48:25.912302+00:00|https://www.bbc.co.uk/news/articles/cwq6n09qpy90o|between quick wins and big dreams lies burnhams biggest test|932104889ad0812e013a7b595cc7fbc6
 2026-10-24T11:48:28.355466+00:00|https://www.bbc.co.uk/news/articles/cv98z92ekg9zo|plan for northern olympics to get £7m in healeys budget|ae46b63b0c44c6f1cdeded3f4e89c3fa
 2026-10-24T11:48:30.937596+00:00|https://www.telegraph.co.uk/rugby-league/2026/10/24/england-france-rugby-league-world-cup|england hammer france to keep rugby league world cup hopes alive|347e673eddb4d53c24ef8c564ad519b5
+2026-10-24T15:14:03.688683+00:00|https://www.telegraph.co.uk/football/2026/10/24/aston-villa-vs-man-city-live-score-premier-league-updates|jackson returns to haunt maresca as city crash to first premier league defeat of season|bf58f52c7ac2df44da410db14eafb1f5
+2026-10-24T15:14:06.283515+00:00|https://www.bbc.co.uk/news/articles/c39wz740e0nyo|met police says letter with claims about meghans father not shared with other law enforcement|06c3181f2b5a8db3c517ae9ccc6d90da

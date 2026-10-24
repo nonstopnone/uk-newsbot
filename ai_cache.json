@@ -35188,5 +35188,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792842503.8523
+  },
+  "bf58f52c7ac2df44da410db14eafb1f5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a Premier League football match result, which constitutes sports news relevant to a UK audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792854825.693508
+  },
+  "06c3181f2b5a8db3c517ae9ccc6d90da": {
+    "is_relevant": true,
+    "reasoning": "This concerns the Metropolitan Police's handling of serious allegations and their potential failure to follow proper reporting procedures, which is a matter of public interest and police accountability in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792854833.572403
+  },
+  "726fc92735436fb1e2496538d80d8238": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused entertainment news story regarding concert pricing rather than a matter of significant national importance or hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792854843.048454
   }
 }
