@@ -1,6 +1,3 @@
-2026-10-17T23:45:46.255432+00:00|https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro|the papers french protests become violent and sas men arrested for murder|37af3b3e65eabe480e727a1dd689d6e9
-2026-10-17T23:45:48.613623+00:00|https://www.bbc.co.uk/news/articles/c32l4ezn05vdo|health workers run out of patience with stormont budget delay|f849bf96bfd3f2e338eb0d1d03c4ff40
-2026-10-17T23:45:51.096867+00:00|https://www.telegraph.co.uk/boxing/2026/10/17/daniel-dubois-vs-fabio-wardley-2-live-latest-fight-updates|ruthless daniel dubois dispatches fabio wardley in just two rounds|c86827b2087c87f4fdababfa0e22d9b0
 2026-10-18T02:36:17.701872+00:00|https://www.bbc.co.uk/news/articles/cmx2375zqwwwo|theres a crackdown on sports piracy but is it already out of control|cbd029eb781044031f878123edaab659
 2026-10-18T02:36:20.501419+00:00|https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o|comedian paul whitehouse mugged at london cash machine|f607fcb8214c7cb25c57e6b289c526eb
 2026-10-18T12:24:05.587459+00:00|https://www.bbc.co.uk/news/articles/c63elzvjpgn2o|police officer in hospital after being shot in nottingham|511e1e8159a5941797526d9f4fe5a6ad
@@ -112,3 +109,7 @@
 2026-10-24T21:23:34.094319+00:00|https://www.telegraph.co.uk/football/2026/10/24/chelsea-vs-spurs-live-score-latest-premier-league-updates|sensational spurs storm stamford bridge as palmer loses his head|4bf532aded2d64ec74b3ff872b059327
 2026-10-24T21:23:36.458308+00:00|https://www.bbc.co.uk/news/articles/c6eq313dnzzeo|thousands of people gather in support of drumcree orangemen|b4acec622e59f4b67f1f51559b73bca4
 2026-10-24T21:23:38.836393+00:00|https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o|storm boelo amber warnings kick in as parts of uk brace for 80mph gusts|10356695e8f0056a5890b76623ee67df
+2026-10-24T23:56:09.319687+00:00|https://www.bbc.co.uk/news/articles/cqy8ljkle97ro|rosebank life on the oil field at the centre of a political storm|df301e14ad04100071f39fb5852ece1b
+2026-10-24T23:56:11.710447+00:00|https://www.telegraph.co.uk/formula-1/2026/10/24/united-states-grand-prix-2026-live-qualifying-latest|antonelli takes another step closer to f1 title with us gp pole position|3b0e6cc6565339c6858d21abddb446c6
+2026-10-24T23:56:14.037114+00:00|https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o|the papers cops didnt share letter and burnham open to eu free movement|8aadc7a395b50a8ebb752d829501cae7
+2026-10-24T23:56:16.430418+00:00|https://news.sky.com/story/police-to-reduce-enforcement-of-minor-tag-breaches-sky-news-understands-13603365|police to trial ignoring some minor breaches of tag conditions sky news understands|e262b57ef951148df3ffb42532df47f6

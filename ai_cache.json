@@ -35251,5 +35251,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792877013.538965
+  },
+  "3b0e6cc6565339c6858d21abddb446c6": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the performance of British Formula One drivers Lewis Hamilton and George Russell, which is of significant interest to the UK sports audience.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792886156.869875
+  },
+  "e262b57ef951148df3ffb42532df47f6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on Metropolitan Police operational policy and criminal justice resourcing that directly affects public safety and legal enforcement.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792886168.886534
   }
 }
