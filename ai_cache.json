@@ -35118,5 +35118,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792784647.243823
+  },
+  "fa3b847ff3c98bd2297e0a13e8e8aa0a": {
+    "is_relevant": true,
+    "reasoning": "This concerns government budget allocation and national security infrastructure, which are core UK political and economic topics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792804770.318689
+  },
+  "c7e88b3641e79e5ecae7c6e22fa8a294": {
+    "is_relevant": false,
+    "reasoning": "This article is an entertainment and lifestyle critique of a TV show, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792804779.510782
+  },
+  "345718fa2ade805efda144a80cebb2a1": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/entertainment piece about a reality television show and does not constitute hard news relevant to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792804789.74986
   }
 }
