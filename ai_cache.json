@@ -35307,5 +35307,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792949090.456063
+  },
+  "eeaa8c644f59167f5fd0ed2c7e644d81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant news story concerning the management and status of a major UK Premier League football club facing potential relegation, which falls under sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792959406.317681
+  },
+  "e0537e569d0bd08c7039467c3d36c9e0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a professional UK football match result between Leeds United and Sunderland.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792959428.017213
+  },
+  "9a12df4b98e7f452c49e0a5b0946e4dd": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant political development regarding the policy positions and reputation of a registered UK political party, which is of clear public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792959442.363746
+  },
+  "330dc9749e2a4dd9aa8b89d0ae51579b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result in the Premier League, which is a major area of UK interest and public sporting life.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792959457.788018
   }
 }
