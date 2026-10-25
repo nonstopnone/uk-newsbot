@@ -35272,5 +35272,12 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1792896874.040188
+  },
+  "9ec2519cdec855c20236037305acab46": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused entertainment news story regarding ticket pricing and tour logistics, which falls under lifestyle/entertainment rather than hard news of national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792935022.988135
   }
 }

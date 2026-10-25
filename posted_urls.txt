@@ -1,6 +1,3 @@
-2026-10-18T12:24:05.587459+00:00|https://www.bbc.co.uk/news/articles/c63elzvjpgn2o|police officer in hospital after being shot in nottingham|511e1e8159a5941797526d9f4fe5a6ad
-2026-10-18T12:24:08.137533+00:00|https://www.bbc.co.uk/news/articles/cm2kezgd77qlo|ending corridor care in hospitals for children a priority says health secretary|be345f85b32170b6770ef91dea63f73b
-2026-10-18T12:24:10.700858+00:00|https://news.sky.com/story/police-officer-shot-in-nottingham-city-centre-13600507|gun pictured at scene after police officer shot as suspects hunted|1da77b7b41e2297d6f60eda3fd9c5865
 2026-10-18T16:21:14.665828+00:00|https://www.bbc.co.uk/news/articles/cmx23p5w7123o|man 80 who died in light aircraft crash near loch lomond named|e0f57c666014bfb62ead8b6a17166cd6
 2026-10-18T16:21:17.108816+00:00|https://www.telegraph.co.uk/football/2026/10/18/leeds-vs-manchester-united-live-score-latest-premier-league|man utd fail to relieve pressure on carrick after draw at leeds|42556bb0088d054c56e785cb4204a29e
 2026-10-18T16:21:19.397834+00:00|https://www.telegraph.co.uk/football/2026/10/18/brighton-vs-crystal-palace-live-score-latest-premier-league|gomez scores goaloftheseason contender as brighton trounce palace to go second|cb9f642439f922b3c2ac9c43c2ed0c21
@@ -114,3 +111,4 @@
 2026-10-25T02:54:34.807599+00:00|https://www.bbc.co.uk/news/articles/cqx29lnzr48po|students like new tenancy freedoms but landlords warn of higher rents|51b801ff6fe2d8c2c5ddea9a97dca593
 2026-10-25T02:54:37.343208+00:00|https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o|burnham open to honest discussion on eu free movement|87b844c13db9acd3f3ce9f9f974557fc
 2026-10-25T08:01:20.399459+00:00|https://www.bbc.co.uk/news/articles/c65yn9p55np2o|four ways labour could raise money in the budget without hiking income tax|0dfc68f99d70f27f33966a6d5597222f
+2026-10-25T13:30:23.538438+00:00|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o|budget to include £1bn for social and affordable housing|bd81612a08c7ec4a114688e0c625501c
