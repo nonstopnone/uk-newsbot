@@ -35335,5 +35335,19 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1792959457.788018
+  },
+  "f5ebc416521f9b742115c679d829a97f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report involving a major incident, police involvement, and loss of life in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792969144.982263
+  },
+  "898268db17ebae22e1d5ae403d28f2fc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure failure at a major UK airport causing disruption to hundreds of passengers, which constitutes legitimate news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792969154.750547
   }
 }

@@ -1,5 +1,3 @@
-2026-10-18T22:10:01.453098+00:00|https://www.bbc.co.uk/news/articles/c6kg57p7935jo|house prices on the rise how does your area compare|4b365d07400278163ec9121cec912a67
-2026-10-18T22:10:03.831906+00:00|https://www.telegraph.co.uk/football/2026/10/18/nottingham-forest-vs-arsenal-live-score-premier-league|arsenal late show keeps heat on man city|0e7302157a723682c230fd96b9a537d6
 2026-10-19T00:42:02.023095+00:00|https://www.bbc.co.uk/weather/articles/crp3g7y9n5y7o|chance of storms this week as atlantic jet stream roars into life|5e4f794899911f28a20f9a478757e904
 2026-10-19T00:42:04.518751+00:00|https://www.bbc.co.uk/news/articles/cm89z008x7xdo|people playing loud music on buses could face £100 fine|6a9ab7bbbf17df518b9ca761561b0351
 2026-10-19T05:35:34.255767+00:00|https://www.bbc.co.uk/news/articles/cmd7qypglylxo|postcode lottery driving childrens inequality in england commissioner warns|beaaacd9b67238719ee04845264d66b9
@@ -111,3 +109,6 @@
 2026-10-25T20:17:38.595855+00:00|https://www.telegraph.co.uk/football/2026/10/25/man-utd-vs-bournemouth-live-score-premier-league-updates|hapless and hopeless man utd bring curtain down on outofdepth carrick|eeaa8c644f59167f5fd0ed2c7e644d81
 2026-10-25T20:17:41.005358+00:00|https://www.telegraph.co.uk/football/2026/10/25/sunderland-vs-leeds-utd-live-score-premier-league-updates|trafford shows england credentials to help leeds take point from sunderland|e0537e569d0bd08c7039467c3d36c9e0
 2026-10-25T20:17:43.593958+00:00|https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo|board of deputies of british jews declares greens to be racist party|9a12df4b98e7f452c49e0a5b0946e4dd
+2026-10-25T22:59:15.457776+00:00|https://www.bbc.co.uk/news/articles/c3n04yxn2yqro|funding set to double for plan to get rough sleepers off streets by christmas|b62b81b552d1512cf75663d168f96501
+2026-10-25T22:59:17.971745+00:00|https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o|two men killed by falling trees as storm boelo leaves 160000 properties without power|d48086353fc03f21b28d57bdde57293b
+2026-10-25T22:59:20.574808+00:00|https://news.sky.com/story/girl-4-dies-after-falling-from-east-london-tower-block-police-say-13603747|girl 4 dies after falling from east london tower block|f5ebc416521f9b742115c679d829a97f
