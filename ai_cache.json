@@ -35265,5 +35265,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1792886168.886534
+  },
+  "51b801ff6fe2d8c2c5ddea9a97dca593": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update on the implementation of the Renters' Rights Act, which is a major piece of UK legislation affecting housing law and the economy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792896874.040188
   }
 }
