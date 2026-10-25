@@ -35279,5 +35279,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792935022.988135
+  },
+  "cb72ee7a1931f77a4b2f34f6c661d235": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major international cricket match involving the England national team, which falls under sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1792948972.229675
+  },
+  "12b63b102f344e10898eaeda71f4b7c2": {
+    "is_relevant": false,
+    "reasoning": "This is a tragic human interest story concerning a private citizen, which does not constitute hard news regarding UK governance, policy, or systemic issues.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792948990.718232
+  },
+  "5beec4357829fdb551c1c7881544e2dc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report regarding a tragic incident involving police and emergency services in a major UK city.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792949036.75215
+  },
+  "af2a483b31d77a64ab04a70b6fba5c3c": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant potential changes to UK-EU relations, specifically involving free movement and membership, which constitutes major UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792949090.456063
   }
 }

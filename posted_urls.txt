@@ -1,8 +1,3 @@
-2026-10-18T16:21:14.665828+00:00|https://www.bbc.co.uk/news/articles/cmx23p5w7123o|man 80 who died in light aircraft crash near loch lomond named|e0f57c666014bfb62ead8b6a17166cd6
-2026-10-18T16:21:17.108816+00:00|https://www.telegraph.co.uk/football/2026/10/18/leeds-vs-manchester-united-live-score-latest-premier-league|man utd fail to relieve pressure on carrick after draw at leeds|42556bb0088d054c56e785cb4204a29e
-2026-10-18T16:21:19.397834+00:00|https://www.telegraph.co.uk/football/2026/10/18/brighton-vs-crystal-palace-live-score-latest-premier-league|gomez scores goaloftheseason contender as brighton trounce palace to go second|cb9f642439f922b3c2ac9c43c2ed0c21
-2026-10-18T16:21:21.681924+00:00|https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo|fuel leak spreads more than two miles along river taff|5decc145f917e33ec7b7297e7a85ae49
-2026-10-18T16:21:24.082215+00:00|https://news.sky.com/story/driver-arrested-after-teenage-boy-killed-in-crash-in-birmingham-13600596|driver arrested after teenage boy killed in crash|cb13ce76a8ab9050afa203b8575397c5
 2026-10-18T19:11:22.248898+00:00|https://www.bbc.co.uk/news/articles/c6z983n5qp33o|boy 14 stabbed in shopping centre attack|dc0050c5d372a8e24001760b5806d777
 2026-10-18T19:11:24.679582+00:00|https://www.bbc.co.uk/news/articles/cmkg7jl1wxvgo|west midlands police officer who accessed police records 2000 times sacked|53504b75384a274d9ef9428359dc8def
 2026-10-18T22:10:01.453098+00:00|https://www.bbc.co.uk/news/articles/c6kg57p7935jo|house prices on the rise how does your area compare|4b365d07400278163ec9121cec912a67
@@ -112,3 +107,6 @@
 2026-10-25T02:54:37.343208+00:00|https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o|burnham open to honest discussion on eu free movement|87b844c13db9acd3f3ce9f9f974557fc
 2026-10-25T08:01:20.399459+00:00|https://www.bbc.co.uk/news/articles/c65yn9p55np2o|four ways labour could raise money in the budget without hiking income tax|0dfc68f99d70f27f33966a6d5597222f
 2026-10-25T13:30:23.538438+00:00|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o|budget to include £1bn for social and affordable housing|bd81612a08c7ec4a114688e0c625501c
+2026-10-25T17:24:50.900550+00:00|https://www.telegraph.co.uk/cricket/2026/10/25/pakistan-vs-england-odi-score-live-latest-tri-series|england suffer astonishing defeat by pakistan after shadabs remarkable reprieve|cb72ee7a1931f77a4b2f34f6c661d235
+2026-10-25T17:24:53.281875+00:00|https://www.bbc.co.uk/news/articles/cwj34vzrj865o|fouryearold girl dies after fall from tower block|5beec4357829fdb551c1c7881544e2dc
+2026-10-25T17:24:55.709361+00:00|https://www.bbc.co.uk/sounds/play/p0phhxp0|newscast|af2a483b31d77a64ab04a70b6fba5c3c
