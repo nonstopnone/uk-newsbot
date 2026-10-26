@@ -35405,5 +35405,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792999187.276884
+  },
+  "dd3ba28fedc1e7f2f1b70b7b7f112f5c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a criminal conviction and sentencing in a UK court (Southwark Crown Court) concerning a violent incident in London.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793025970.552332
+  },
+  "2e68d9efdb99e1da0d2ff09e6ceaa0ff": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a couple's wedding experience and does not constitute hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793025981.899812
+  },
+  "b9a364d8464cba86bfa1d6c765b8123f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a fatal incident and subsequent court sentencing in Leeds.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793025997.636371
+  },
+  "b67c0e28806980516ea7c4de688d7ef7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK foreign policy and international relations development concerning the British government imposing sanctions.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1793026027.419003
+  },
+  "2c09965b4438e5e983a72951f7d36a7b": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and transport-focused feature piece rather than hard news; while it involves a London infrastructure project, the content focuses on the experience of walking in the area rather than political or economic developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793026038.856068
+  },
+  "f426481779bdb56923fd049f34bb8f3c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant industrial relations dispute involving senior NHS staff that will materially impact public services in England.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793026053.311032
   }
 }

@@ -1,7 +1,3 @@
-2026-10-19T11:51:07.436500+00:00|https://www.bbc.co.uk/news/articles/cw1m4pvdzzj0o|schools explosive device email a hoax say police|d782ad9d861eaa79231e258bcde02312
-2026-10-19T11:51:10.012177+00:00|https://www.bbc.co.uk/news/articles/cvgdd2yevd3o|man accused of mass train stabbing admits wounding|895bd04e5d73ed041c32257223922a11
-2026-10-19T11:51:12.445854+00:00|https://news.sky.com/story/man-admits-huntingdon-train-stabbings-but-still-faces-trial-on-attempted-murder-charges-13600913|man admits huntingdon train stabbings but still faces trial on attempted murder charges|586a936c8262c0ee08442cf736c49a6d
-2026-10-19T11:51:14.868391+00:00|https://news.sky.com/story/police-investigate-non-viable-bomb-threats-sent-to-schools-in-northern-ireland-13600902|police investigate nonviable bomb threats sent to schools in northern ireland|0ce5508c9dfa326e550ae02ed47dbc6c
 2026-10-19T18:18:33.717062+00:00|https://www.bbc.co.uk/news/articles/cmje5y1wd3xgo|dissidents may have mounted gun attacks on garvaghy road court hears|03bf2b915f662dbe5a0ca82aeb366f68
 2026-10-19T18:18:36.201985+00:00|https://www.telegraph.co.uk/business/2026/10/19/france-riots-borrowing-costs-bonds-debt-uk-gilts-budget|french bond selloff spreads across europe|29bcf86a202e2ef066f850ffee602fdf
 2026-10-19T18:18:38.678674+00:00|https://www.bbc.co.uk/news/articles/c6eq3y4zz899o|reform uk mayor investigated over naked photo claims|5329af054b8f568afcbe74e125a929a6
@@ -114,3 +110,6 @@
 2026-10-26T07:19:50.041333+00:00|https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo|knighting sinfield easiest decision anyones had to make says prince william|c6fa95e36ccef9057044f1712baa777c
 2026-10-26T07:19:52.337760+00:00|https://news.sky.com/story/second-person-charged-in-connection-with-shooting-of-police-officer-in-nottingham-13603855|second person charged in connection with shooting of police officer in nottingham|c90b889eddfb3cbee877fa47e9b50ec5
 2026-10-26T07:19:54.675396+00:00|https://news.sky.com/story/two-men-killed-by-falling-trees-and-90000-without-power-as-storm-boelo-recovery-under-way-13603854|two men killed by falling trees as storm boelo recovery under way|868523bd6004fe5d8f9bc3c30184a0f8
+2026-10-26T14:47:34.369715+00:00|https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo|chris brown given suspended eightmonth prison sentence over nightclub attack|dd3ba28fedc1e7f2f1b70b7b7f112f5c
+2026-10-26T14:47:36.746863+00:00|https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo|dangerous drivers jailed for mum and girls deaths|b9a364d8464cba86bfa1d6c765b8123f
+2026-10-26T14:47:39.409458+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/britain-sanctions-warlords-accused-of-rape-in-sudan|britain sanctions warlords accused of rape in sudan|b67c0e28806980516ea7c4de688d7ef7
