@@ -1,5 +1,3 @@
-2026-10-19T05:35:34.255767+00:00|https://www.bbc.co.uk/news/articles/cmd7qypglylxo|postcode lottery driving childrens inequality in england commissioner warns|beaaacd9b67238719ee04845264d66b9
-2026-10-19T05:35:36.770519+00:00|https://www.bbc.co.uk/news/articles/cq0melgpre23o|burnham says youth employment and training crisis is a moral failure|2cfae54e6d9beec75830ab05d95eccb1
 2026-10-19T11:51:07.436500+00:00|https://www.bbc.co.uk/news/articles/cw1m4pvdzzj0o|schools explosive device email a hoax say police|d782ad9d861eaa79231e258bcde02312
 2026-10-19T11:51:10.012177+00:00|https://www.bbc.co.uk/news/articles/cvgdd2yevd3o|man accused of mass train stabbing admits wounding|895bd04e5d73ed041c32257223922a11
 2026-10-19T11:51:12.445854+00:00|https://news.sky.com/story/man-admits-huntingdon-train-stabbings-but-still-faces-trial-on-attempted-murder-charges-13600913|man admits huntingdon train stabbings but still faces trial on attempted murder charges|586a936c8262c0ee08442cf736c49a6d
@@ -112,3 +110,7 @@
 2026-10-25T22:59:20.574808+00:00|https://news.sky.com/story/girl-4-dies-after-falling-from-east-london-tower-block-police-say-13603747|girl 4 dies after falling from east london tower block|f5ebc416521f9b742115c679d829a97f
 2026-10-26T01:03:35.571773+00:00|https://www.bbc.co.uk/news/articles/c65yn28nd58no|the papers budget tax reprieve for pensioners and meghan dad net to widen|e54a72a0dab976d610fef4831b925a52
 2026-10-26T01:03:38.600161+00:00|https://www.bbc.co.uk/news/articles/ck87z4ng2l03o|healeys budget needs to sustain the stronger economy through gathering clouds|0aab5e3c8a0254ba05c3dc6fad080936
+2026-10-26T07:19:47.687253+00:00|https://www.bbc.co.uk/news/articles/cr93zp78g580o|daughter wins £127k claim for caring for mum at home|1e2a287fe2a6f8b495e07048cc7fedc8
+2026-10-26T07:19:50.041333+00:00|https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo|knighting sinfield easiest decision anyones had to make says prince william|c6fa95e36ccef9057044f1712baa777c
+2026-10-26T07:19:52.337760+00:00|https://news.sky.com/story/second-person-charged-in-connection-with-shooting-of-police-officer-in-nottingham-13603855|second person charged in connection with shooting of police officer in nottingham|c90b889eddfb3cbee877fa47e9b50ec5
+2026-10-26T07:19:54.675396+00:00|https://news.sky.com/story/two-men-killed-by-falling-trees-and-90000-without-power-as-storm-boelo-recovery-under-way-13603854|two men killed by falling trees as storm boelo recovery under way|868523bd6004fe5d8f9bc3c30184a0f8

@@ -35363,5 +35363,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1792976614.832331
+  },
+  "1e2a287fe2a6f8b495e07048cc7fedc8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant High Court legal ruling in the UK regarding care and estate law that has been identified by experts as having potential precedent-setting implications for future claims.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792999142.378227
+  },
+  "c6fa95e36ccef9057044f1712baa777c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a major public figure (a knighted individual) and involves the Prince of Wales, making it relevant to UK national interest and social affairs.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1792999150.395368
+  },
+  "9e9f7b5fe75b2bb21c711b46956142ee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a fatal crash involving local government infrastructure maintenance, which falls under UK legal and safety interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792999162.34671
+  },
+  "7bf4f1b6dab116f6012b2beeebf6c773": {
+    "is_relevant": false,
+    "reasoning": "This is a feature/lifestyle piece focused on a local cultural bid and community sentiment, which does not meet the 'hard news' criteria required for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792999169.650735
+  },
+  "c90b889eddfb3cbee877fa47e9b50ec5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving the shooting of a police officer in the UK, which falls under the category of serious criminal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1792999178.654988
+  },
+  "868523bd6004fe5d8f9bc3c30184a0f8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national news event involving fatalities, widespread infrastructure damage, and mass power outages across the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1792999187.276884
   }
 }
