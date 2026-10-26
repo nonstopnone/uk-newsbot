@@ -35349,5 +35349,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1792969154.750547
+  },
+  "e54a72a0dab976d610fef4831b925a52": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant upcoming UK Budget announcements regarding pensions and major political discourse concerning post-Brexit relations with the EU, which are of direct importance to the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1792976597.972024
+  },
+  "cca697c0174b271604e12df61db6827f": {
+    "is_relevant": false,
+    "reasoning": "This is a minor technical error regarding a streaming platform's lyrics display, which qualifies as lifestyle/entertainment trivia rather than hard news of significant UK relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1792976614.832331
   }
 }
