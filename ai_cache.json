@@ -35447,5 +35447,54 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1793026053.311032
+  },
+  "a25e06feb98cf2c33fd1554bb7b867f6": {
+    "is_relevant": true,
+    "reasoning": "The death of a notable individual residing in the UK (Orkney) following a historically significant murder case constitutes UK-related crime and legal history of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793045760.288732
+  },
+  "1e62f41e79c615ce85aeccb07bdeec65": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story regarding a tragic accident. It does not constitute hard news of national political, economic, or legal significance for the UK as a whole.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793045778.996386
+  },
+  "e5bcbd808764c7c0de3ccd665606cb9c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event impacting essential UK infrastructure and large numbers of residents across multiple regions, requiring a coordinated response from utility providers.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793045809.682893
+  },
+  "d68ec52594d3190a43b13ba550a63111": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal incident involving the British Army and an ongoing inquest, which falls under UK legal and institutional safety matters.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793045818.360748
+  },
+  "77ac2dccf16797803b78ae759958f7d3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning a government-ordered independent inquiry into a murder case and subsequent police conduct, which carries major implications for UK public policy and policing standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793045831.293677
+  },
+  "5b5bea184e0c9709f17e4f49aecb9a0b": {
+    "is_relevant": true,
+    "reasoning": "This is relevant to the UK economy and employment landscape, as it concerns significant job restructuring affecting a large number of UK-based workers.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793045840.526625
+  },
+  "80e36f0f84690522858151407e3873b3": {
+    "is_relevant": false,
+    "reasoning": "This is a regional environmental issue in Indonesia with no direct, material impact on the UK, its government, or its citizens.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793045868.394271
   }
 }
