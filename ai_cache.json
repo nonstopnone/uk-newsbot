@@ -35545,5 +35545,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793080380.883423
+  },
+  "7f0dcbecf6accffe20577b01cd1aaf9c": {
+    "is_relevant": true,
+    "reasoning": "The article details significant fiscal policy changes and specific Budget measures announced by the Chancellor, which directly impact the UK economy and household finances.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793100314.667122
+  },
+  "d3c734677e182c003b4187bf113ba7a9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security incident involving charges under the National Security Act 2023 at a sensitive military site.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793100325.291388
+  },
+  "afe4e2d728968d3f568bbcc8fafe9a46": {
+    "is_relevant": true,
+    "reasoning": "The detention of serving UK parliamentarians (MPs and an MSP) by a foreign government is a significant diplomatic and political event affecting UK representatives.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793100338.907571
+  },
+  "be18ab0e6da593c7ebaf33d49d667316": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK business news story regarding the potential collapse of a major national retailer and the risk of mass job losses.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793100354.675459
+  },
+  "613b00bcde4fd775fa6805982691a76b": {
+    "is_relevant": true,
+    "reasoning": "Harry Kane winning the Ballon d'Or is a significant milestone for a high-profile English athlete and is of major public interest to the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793100366.70549
+  },
+  "d871e1e5633a565fb83de42f0234396c": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal interest feature story about a hobby, which does not meet the criteria for hard news relevant to the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793100377.856469
+  },
+  "7692115ad16893711082568311cb58f1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns UK banking sector profits and anticipated changes to bank taxation in the upcoming budget, which is a matter of national economic policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793100396.110573
   }
 }
