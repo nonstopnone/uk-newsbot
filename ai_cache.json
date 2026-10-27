@@ -35524,5 +35524,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793059891.093487
+  },
+  "7aaaacd40c158071e516d9f9a2a061e3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on government-led public safety advice and its tangible impact on the UK economy and consumer behaviour.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793080351.124958
+  },
+  "10c63c41701457d12baaa0bc94a303ec": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant UK government fiscal policy, specifically Budget measures directly impacting the economy and household cost of living.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793080367.205258
+  },
+  "150af0f52321fc45c463f8d0ea382f60": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature/lifestyle story about personal grief and administrative frustration, which does not constitute hard news or a systemic UK policy issue.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793080380.883423
   }
 }
