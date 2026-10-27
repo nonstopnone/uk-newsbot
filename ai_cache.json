@@ -35496,5 +35496,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793045868.394271
+  },
+  "78c5729fbc7ac0e2af49b22cb661a33e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development within the Northern Ireland Assembly involving high-level government figures and potential instability in the devolved administration.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793059845.921394
+  },
+  "0d40498f25ac7849b90a865f65b729dc": {
+    "is_relevant": true,
+    "reasoning": "This article discusses specific policy measures related to the upcoming UK Budget, import tariffs, and cost-of-living adjustments, which are directly relevant to UK economic policy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793059855.794742
+  },
+  "6e1f76d8ffeb0eff4540eb366228f625": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity human-interest story concerning personal health and does not constitute hard news or a matter of national UK significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793059875.163644
+  },
+  "a8eca3813e6fb2d9fc839a80f860a449": {
+    "is_relevant": false,
+    "reasoning": "This article is an opinion-based speculative piece centered on tabloid commentary rather than hard news, and it focuses on personal family drama rather than matters of state or public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793059891.093487
   }
 }
