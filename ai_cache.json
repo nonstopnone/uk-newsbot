@@ -35643,5 +35643,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793121352.620535
+  },
+  "eabaf064d9777527236e20c5b904f157": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding national infrastructure and public safety, concerning the government-backed transition of essential communication services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793137310.112517
+  },
+  "3f15e3b7a1a9d055f8ad82ee884a734c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the official activities of the British monarch and addresses sensitive foreign policy issues regarding the UK's colonial legacy and stance on reparations.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1793137321.015052
+  },
+  "25f28f35f17cbabb729fc3f2453498f5": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a UK parliamentary committee hearing regarding the impact of UK foreign aid policy, which is a matter of government policy and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793137332.774232
+  },
+  "bce58138ea8675584402c8f58c794e46": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on emergency service failure and a coroner's warning regarding public safety procedures in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793137341.820112
+  },
+  "cd2307b4467f023ce73b810c5995ada8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case taking place in the UK High Court involving serious allegations and matters of press freedom, which falls under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793137350.313918
+  },
+  "1c8b43b63c63d686fa0d90877def9ed4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial involving a high-profile public figure at a major UK court, falling under the jurisdiction of the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793137359.081097
   }
 }
