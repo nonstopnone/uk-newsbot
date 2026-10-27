@@ -35594,5 +35594,54 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1793100396.110573
+  },
+  "d1af8faf789c783fe52d72c605aea4c6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and legal matter involving an alleged Iran-linked plot at a UK military facility, falling directly under crime and security reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793121251.315646
+  },
+  "c7cfad1aec416eb39e654893dc107dbf": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an active criminal justice matter involving a court no-show and an arrest warrant at a UK Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793121273.832367
+  },
+  "62abffd39b9e576647064067c7ca7d49": {
+    "is_relevant": false,
+    "reasoning": "This is a local planning dispute regarding a fairground ride in a specific district, which does not meet the threshold for national UK hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793121291.061313
+  },
+  "03c2530353f7f074811315759b168ed3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial taking place at a UK Crown Court involving serious sexual offences and judicial proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793121306.127886
+  },
+  "885370ac7d764b1cb00b838e4af1a607": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal development involving a Court of Appeal ruling on a serious criminal case, which falls directly under the remit of UK justice and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793121321.314038
+  },
+  "4a03ed5a62b308e9781c1a8c1f4f11f7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving a murder trial in Wales, falling squarely under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793121340.612758
+  },
+  "ac6f9b23be78bc4c8e352d4804962d8e": {
+    "is_relevant": true,
+    "reasoning": "The article details a criminal investigation and arrest by Greater Manchester Police involving a public figure, which falls under domestic crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793121352.620535
   }
 }
