@@ -1,5 +1,3 @@
-2026-10-21T15:56:41.065164+00:00|https://www.bbc.co.uk/news/articles/cy4zdgk081eo|burnham defends jackdaw decision as badenoch urges pm to overturn ban on new oil and gas licences|260d11d63f15a80cf5d6d0cefcae927e
-2026-10-21T15:56:43.660157+00:00|https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo|aberfan disaster most tragic of days imaginable says king on 60th anniversary|194526be7975b9df4fc7682b50ae8891
 2026-10-21T19:56:21.517380+00:00|https://www.bbc.co.uk/news/articles/cw0541p65dyzo|burnham proposes plan to cut standing charges from gas bills|80fe229b939cbf53e3570f1d43ebabd7
 2026-10-21T19:56:24.102440+00:00|https://www.bbc.co.uk/news/articles/cmze4w63ly42o|civil servant admits he made mistakes juggling five government jobs|5d6fe638e3dc4a34e0057794b38ed160
 2026-10-21T23:00:04.080883+00:00|https://www.telegraph.co.uk/football/2026/10/21/bayern-munich-vs-arsenal-live-score-champions-league-latest|harry kane proves there can only be one ballon dor winner|f0ba240940ec99f3f95f9d5a4085116d
@@ -108,3 +106,8 @@
 2026-10-28T13:46:20.607891+00:00|https://www.bbc.co.uk/news/articles/c674p7v91wx8o|legal bid to overturn drumcree march ban fails|8f34354cd0434ed3475fca059fab119b
 2026-10-28T13:46:23.043616+00:00|https://www.bbc.co.uk/news/articles/c6lykg0nkll0o|dissident republicans may be responsible for hotel explosive device psni|4835797b0c8d91f6c55cf3319d5f7c26
 2026-10-28T13:46:25.600572+00:00|https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance|budget 2026 key points at a glance|5a1713ddbfbe638ab0a3d7faacfe4869
+2026-10-28T19:15:36.868203+00:00|https://www.telegraph.co.uk/business/2026/10/28/budget-healey-burnham-autumn-labour-chancellor-markets|burnham rules out calling early election|877f444cd5695941f90478467deec3ee
+2026-10-28T19:15:39.374272+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/government-tight-lipped-on-aid-spending-in-autumn-budget|government remains tightlipped on aid spending in autumn budget|9a8900925e43b479c5410dd7010ae961
+2026-10-28T19:15:41.887176+00:00|https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo|russell brand tells trial sexual consent is fundamental|a651bb7349ac9da0f523707f5fe070fa
+2026-10-28T19:15:44.297192+00:00|https://www.bbc.co.uk/news/articles/cm78pljvqvxeo|chris mason budget felt cautious despite its range of small measures|bc5e536f3446cab9da03ef256d890a83
+2026-10-28T19:15:46.683878+00:00|https://news.sky.com/story/jpmorgan-chase-faces-100m-plus-tax-bill-from-healey-raid-13604869|jpmorgan chase faces £100mplus tax bill from healey raid|8fb807cf7fcaf055d1950e7c31367e16
