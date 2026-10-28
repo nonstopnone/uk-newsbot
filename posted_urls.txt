@@ -1,6 +1,3 @@
-2026-10-21T05:39:34.540682+00:00|https://news.sky.com/story/britain-woefully-unprepared-to-tackle-wildfires-and-needs-new-fire-fighting-planes-and-bbq-bans-needed-mps-warn-13601469|firefighting planes and bbq bans needed to combat britains wildfire risk mps warn|091691e8b88ebbefe0151b62724dffe5
-2026-10-21T05:39:37.109545+00:00|https://www.bbc.co.uk/news/articles/cr5yn4pky527o|giant tunnel proposed to clean up windermeres sewage problem|099aff322b2fa79dba42730c5c7c1eb2
-2026-10-21T05:39:39.534726+00:00|https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo|the papers burnham faces climate revolt and harry wants to fix feud|f0a45b84c87f5d5d379908b66eedf36f
 2026-10-21T11:01:53.627500+00:00|https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo|masked boy guilty of trying to murder schoolgirl|9620e988f379798353c76a16201b4e74
 2026-10-21T11:01:56.127262+00:00|https://www.bbc.co.uk/weather/articles/c6m24ln2j43go|amber warning issued as storm austen threatens uk with strong winds and heavy rain|6408f4382ea15f562352663afb25dadd
 2026-10-21T11:01:58.611864+00:00|https://www.telegraph.co.uk/business/2026/10/21/inflation-uk-cpi-healey-budget-public-finances-debt-markets|inflation jumps in runup to healeys maiden budget|9373cacbaf07e42bc001e7fe9cfa0b09
@@ -109,3 +106,5 @@
 2026-10-28T00:53:47.237112+00:00|https://www.bbc.co.uk/news/articles/c6r7y3dyv382o|the papers budget for a difficult moment and netanyahus fate in balance|8a59b2e6228f382d7c75c3c5f3fa984c
 2026-10-28T00:53:49.643933+00:00|https://www.telegraph.co.uk/football/2026/10/27/fleetwood-town-v-arsenal-live-score-league-cup-fourth-round|fleetwood knock out arsenal in one of the biggest shocks in league cup history|cfc661eda4ad66a3e466b448b74d34b8
 2026-10-28T00:53:51.970536+00:00|https://www.bbc.co.uk/news/articles/cre3xgplz3lvo|womens alcohol deaths are increasing my daughter died alone after fighting for decades|db27b93d7d5407b279c590bf56c81b8e
+2026-10-28T06:32:42.717961+00:00|https://news.sky.com/story/us-air-force-officer-accused-of-possessing-child-abuse-images-was-flown-out-of-the-uk-13604647|us embassy worker flown out of uk before police questioning|2bcf297d18f9540ff8ff2f1d6deefdb4
+2026-10-28T06:32:45.225188+00:00|https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o|thick fog to create dangerous driving conditions for uk commuters|740d5fcdf9f54cc2ef8396210e392181

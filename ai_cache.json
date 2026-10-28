@@ -35699,5 +35699,26 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1793148826.657228
+  },
+  "47d1a8ac4dae3ba0b510c3298e1da8f6": {
+    "is_relevant": false,
+    "reasoning": "This is a global climate study concerning worldwide mortality statistics and does not focus on specific UK impact, policy, or events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793169104.009499
+  },
+  "a808c6177b829529d51e87556b601fd1": {
+    "is_relevant": false,
+    "reasoning": "Weather forecasts regarding fog do not meet the threshold for hard news or significant public interest required for the r/BreakingUKNews subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793169124.823918
+  },
+  "2bcf297d18f9540ff8ff2f1d6deefdb4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and diplomatic matter involving UK law enforcement and an individual based in the UK, carrying major public interest implications.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793169162.051349
   }
 }
