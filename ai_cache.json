@@ -35685,5 +35685,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793137359.081097
+  },
+  "833b0a60f3eedd46f2a467ef8116f2e8": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports feature/recap concerning a football match result and a listicle ranking historical upsets, which does not constitute hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793148791.386177
+  },
+  "db27b93d7d5407b279c590bf56c81b8e": {
+    "is_relevant": true,
+    "reasoning": "This article discusses official Scottish government alcohol-related death statistics and public health funding, which constitutes significant UK devolved policy and public interest news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793148826.657228
   }
 }

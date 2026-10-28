@@ -1,7 +1,3 @@
-2026-10-21T00:21:55.868855+00:00|https://www.bbc.co.uk/news/articles/c5gm0zl9le2mo|universities face substantial funding cuts amid budget delay|94e9f9bc1ba77b592dfc1623afd4d51b
-2026-10-21T00:21:58.296019+00:00|https://www.telegraph.co.uk/football/2026/10/20/liverpool-vs-villarreal-live-score-latest-champions-league|rio ngumoha dazzles with comingofage night in europe|9634ed65f1017fe7969e7b16aaddbd93
-2026-10-21T00:22:00.715980+00:00|https://www.bbc.co.uk/news/articles/cqglw1gk5r68o|royals to visit aberfan to mark 60 years since disaster|75201f1cf7dc00bb4fe253cb033c0b19
-2026-10-21T00:22:03.154411+00:00|https://news.sky.com/story/man-charged-with-murder-of-woman-stabbed-to-death-in-manchester-13601549|man charged after woman stabbed to death in manchester|bdfed27a94c13dedb0ff85e2cb8e75a6
 2026-10-21T05:39:34.540682+00:00|https://news.sky.com/story/britain-woefully-unprepared-to-tackle-wildfires-and-needs-new-fire-fighting-planes-and-bbq-bans-needed-mps-warn-13601469|firefighting planes and bbq bans needed to combat britains wildfire risk mps warn|091691e8b88ebbefe0151b62724dffe5
 2026-10-21T05:39:37.109545+00:00|https://www.bbc.co.uk/news/articles/cr5yn4pky527o|giant tunnel proposed to clean up windermeres sewage problem|099aff322b2fa79dba42730c5c7c1eb2
 2026-10-21T05:39:39.534726+00:00|https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo|the papers burnham faces climate revolt and harry wants to fix feud|f0a45b84c87f5d5d379908b66eedf36f
@@ -110,3 +106,6 @@
 2026-10-27T21:42:39.721667+00:00|https://www.bbc.co.uk/news/articles/c6x29g1nlr51o|landline switchover could cut people off in emergency minister warned|eabaf064d9777527236e20c5b904f157
 2026-10-27T21:42:42.339654+00:00|https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o|king acknowledges suffering of the past as caribbean tour begins|3f15e3b7a1a9d055f8ad82ee884a734c
 2026-10-27T21:42:44.953709+00:00|https://www.telegraph.co.uk/global-health/women-and-girls/nigerias-women-and-girls-impacted-the-most-by-funding-cuts|nigerias women and girls impacted the most by british and us funding cuts committee is told|25f28f35f17cbabb729fc3f2453498f5
+2026-10-28T00:53:47.237112+00:00|https://www.bbc.co.uk/news/articles/c6r7y3dyv382o|the papers budget for a difficult moment and netanyahus fate in balance|8a59b2e6228f382d7c75c3c5f3fa984c
+2026-10-28T00:53:49.643933+00:00|https://www.telegraph.co.uk/football/2026/10/27/fleetwood-town-v-arsenal-live-score-league-cup-fourth-round|fleetwood knock out arsenal in one of the biggest shocks in league cup history|cfc661eda4ad66a3e466b448b74d34b8
+2026-10-28T00:53:51.970536+00:00|https://www.bbc.co.uk/news/articles/cre3xgplz3lvo|womens alcohol deaths are increasing my daughter died alone after fighting for decades|db27b93d7d5407b279c590bf56c81b8e
