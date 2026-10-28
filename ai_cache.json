@@ -35797,5 +35797,40 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1793214936.316818
+  },
+  "fac2575ffebe235bacfdc634becf85f8": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle feature about personal experiences with AI and social bias, rather than hard news regarding UK policy, law, or significant national infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793231293.494644
+  },
+  "1ac3b68d2a40fe15ff32732b857c6481": {
+    "is_relevant": true,
+    "reasoning": "This story concerns NHS policy and patient care standards within a Welsh hospital, which is a matter of significant public interest and service scrutiny.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793231306.545166
+  },
+  "4221e5d826adecb17dd419947e59feb0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health policy and public administration story concerning the NHS in Scotland, which directly affects UK public health service standards.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793231315.871018
+  },
+  "7b866dfc9da7db8724d057a88f10348f": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the official activities of the British monarch during an overseas tour, which is a matter of significant national interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1793231327.641022
+  },
+  "e3be676e43b8108f667154ca3821e071": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the King, a central figure of the UK state, and his diplomatic engagement regarding historical and political issues within the Commonwealth.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1793231346.103117
   }
 }
