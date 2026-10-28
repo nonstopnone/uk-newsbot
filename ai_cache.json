@@ -35720,5 +35720,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793169162.051349
+  },
+  "8f34354cd0434ed3475fca059fab119b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and political development concerning Northern Irish devolved governance, police security decisions, and long-standing civil unrest, which is directly relevant to UK national interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793195050.200218
+  },
+  "4835797b0c8d91f6c55cf3319d5f7c26": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security and crime-related incident involving a potential explosive device in Northern Ireland, handled by the PSNI.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793195067.248482
+  },
+  "8a898c2144f450c9204682d410bc4ec4": {
+    "is_relevant": true,
+    "reasoning": "This is a high-profile criminal trial taking place at a UK crown court involving serious charges, which is a matter of significant public interest and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793195087.912708
+  },
+  "5a1713ddbfbe638ab0a3d7faacfe4869": {
+    "is_relevant": true,
+    "reasoning": "The article details the UK Chancellor's Budget announcement, which is a core component of national economic policy and directly affects the UK population.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793195134.77531
+  },
+  "ec9b0bf1827332b02970022a3981c9d7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the UK's social security system and the Department for Work and Pensions (DWP), which is a core matter of public interest and domestic policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793195145.225258
+  },
+  "ca72b4302c22684e32ee1309858d4987": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a viral social media moment and a celebrity art exhibition, which constitutes fluff/lifestyle content rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793195179.953125
   }
 }

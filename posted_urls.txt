@@ -1,6 +1,3 @@
-2026-10-21T11:01:53.627500+00:00|https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo|masked boy guilty of trying to murder schoolgirl|9620e988f379798353c76a16201b4e74
-2026-10-21T11:01:56.127262+00:00|https://www.bbc.co.uk/weather/articles/c6m24ln2j43go|amber warning issued as storm austen threatens uk with strong winds and heavy rain|6408f4382ea15f562352663afb25dadd
-2026-10-21T11:01:58.611864+00:00|https://www.telegraph.co.uk/business/2026/10/21/inflation-uk-cpi-healey-budget-public-finances-debt-markets|inflation jumps in runup to healeys maiden budget|9373cacbaf07e42bc001e7fe9cfa0b09
 2026-10-21T15:56:41.065164+00:00|https://www.bbc.co.uk/news/articles/cy4zdgk081eo|burnham defends jackdaw decision as badenoch urges pm to overturn ban on new oil and gas licences|260d11d63f15a80cf5d6d0cefcae927e
 2026-10-21T15:56:43.660157+00:00|https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo|aberfan disaster most tragic of days imaginable says king on 60th anniversary|194526be7975b9df4fc7682b50ae8891
 2026-10-21T19:56:21.517380+00:00|https://www.bbc.co.uk/news/articles/cw0541p65dyzo|burnham proposes plan to cut standing charges from gas bills|80fe229b939cbf53e3570f1d43ebabd7
@@ -108,3 +105,6 @@
 2026-10-28T00:53:51.970536+00:00|https://www.bbc.co.uk/news/articles/cre3xgplz3lvo|womens alcohol deaths are increasing my daughter died alone after fighting for decades|db27b93d7d5407b279c590bf56c81b8e
 2026-10-28T06:32:42.717961+00:00|https://news.sky.com/story/us-air-force-officer-accused-of-possessing-child-abuse-images-was-flown-out-of-the-uk-13604647|us embassy worker flown out of uk before police questioning|2bcf297d18f9540ff8ff2f1d6deefdb4
 2026-10-28T06:32:45.225188+00:00|https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o|thick fog to create dangerous driving conditions for uk commuters|740d5fcdf9f54cc2ef8396210e392181
+2026-10-28T13:46:20.607891+00:00|https://www.bbc.co.uk/news/articles/c674p7v91wx8o|legal bid to overturn drumcree march ban fails|8f34354cd0434ed3475fca059fab119b
+2026-10-28T13:46:23.043616+00:00|https://www.bbc.co.uk/news/articles/c6lykg0nkll0o|dissident republicans may be responsible for hotel explosive device psni|4835797b0c8d91f6c55cf3319d5f7c26
+2026-10-28T13:46:25.600572+00:00|https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance|budget 2026 key points at a glance|5a1713ddbfbe638ab0a3d7faacfe4869
