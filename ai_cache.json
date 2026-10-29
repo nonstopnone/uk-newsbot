@@ -35895,5 +35895,68 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793270443.745975
+  },
+  "f19a7f88356827798b544b893c747bac": {
+    "is_relevant": true,
+    "reasoning": "This is a significant political development affecting the functioning of the Northern Ireland Executive and devolved governance, which falls under UK politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793294156.613476
+  },
+  "a0590e13c23e3136a4966ea263456e9a": {
+    "is_relevant": false,
+    "reasoning": "This is a global sports governance story regarding FIFA's internal financial policy; it lacks the specific UK-centric impact or relevance required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793294166.086395
+  },
+  "418dbb745f09873e8aed5c7b2b1d856e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial at a UK Crown Court regarding a significant violent incident on the UK rail network.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793294205.896365
+  },
+  "0cb514419d2bc1f796bf3b3b3ea7a5f0": {
+    "is_relevant": true,
+    "reasoning": "The Metropolitan Police's internal referral to an independent watchdog regarding a sensitive investigation is a matter of public interest concerning police conduct and accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793294218.920012
+  },
+  "feed23fc145d063a6b26a9eee463c690": {
+    "is_relevant": true,
+    "reasoning": "The event involves the recruitment of British doctors for operations in illegal settlements, which is a matter of significant legal and diplomatic concern for the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1793294226.839678
+  },
+  "f76bbb48fd7f57f270070c2638bcb89a": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a medical emergency and a local act of heroism, which constitutes soft news rather than the hard news relevant to the r/BreakingUKNews subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793294236.779014
+  },
+  "6b077b21f1f78fb6f8d23f0332370a97": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial involving multiple attempted murder charges occurring on UK public transport, which is highly relevant to UK public safety and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793294245.09978
+  },
+  "ad753437e5ef4f502009eba2b1438224": {
+    "is_relevant": true,
+    "reasoning": "This is a high-profile criminal trial taking place in a UK court involving serious charges, which is a matter of significant public interest and legal concern.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793294253.46027
+  },
+  "25eb0dc6273282ad01e62f5c22db3286": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime occurring on public transport in the UK, currently being heard in court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793294286.996239
   }
 }

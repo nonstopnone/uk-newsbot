@@ -1,8 +1,3 @@
-2026-10-22T12:52:12.146856+00:00|https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o|russell brand accuser said alleged rape really hurt court hears|4cd42e2d4a3528fdf2a6f764c895bc3c
-2026-10-22T12:52:14.577434+00:00|https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo|katie prices ex not guilty of raping girl 13|411c78ef2ae45c07c09d91261c1735b9
-2026-10-22T12:52:17.074263+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/french-man-dies-first-human-to-contract-shamonda-virus|health authorities race to investigate first human death linked to rare cattle virus|eaef578073803d686f39e3a1211a4d64
-2026-10-22T12:52:19.798071+00:00|https://news.sky.com/story/government-launches-new-push-to-prepare-uk-for-emergencies-and-hostile-acts-13602203|streeting launches new push to prepare uk for emergencies and hostile acts|cf2fb5ffa4cd5c103d43b932d5828e60
-2026-10-22T12:52:22.163614+00:00|https://news.sky.com/story/police-scotland-to-close-stretch-of-a8-near-edinburgh-airport-as-investigation-into-fatal-crash-continues-13602194|police to close major road near airport as investigation into fatal crash continues|7e88c0d909651349e1ba568870e7d898
 2026-10-22T17:54:26.014136+00:00|https://www.telegraph.co.uk/cricket/2026/10/22/sri-lanka-vs-england-tri-series-odi-score-latest-live|harry brook hits historic double century but england still lose to sri lanka|f33c663bca25fbb631f9fccd4ade2e8c
 2026-10-22T17:54:28.465775+00:00|https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo|devon and cornwall battening down the hatches ahead of storm austen|30ec83ee71f99fcba2951435c1b43747
 2026-10-22T17:54:30.900695+00:00|https://www.bbc.co.uk/news/articles/cmx23dwp3qzro|i wasnt thinking straight says five jobs civil servant|da01fa30ae322f801ac84ed07983c78b
@@ -107,3 +102,9 @@
 2026-10-29T03:55:30.877147+00:00|https://www.telegraph.co.uk/football/2026/10/28/liverpool-vs-chelsea-live-score-latest-carabao-cup-updates|wesley fofanas chelsea nightmare continues as liverpool win shootout|33a937b93ed25cf709f963e50c720220
 2026-10-29T10:40:44.500048+00:00|https://www.bbc.co.uk/news/articles/cw5ynxepy4gno|serious pollution by water industry remains high despite £5bn investment|e57c2dfdf00422c359538349286e6529
 2026-10-29T10:40:46.982178+00:00|https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o|poundlands future hangs in the balance as chain edges towards collapse|f50169e2716a1cee599e43bdab8e4b99
+2026-10-29T17:18:07.750368+00:00|https://www.bbc.co.uk/news/articles/cwly300mxym3o|dup blocks michelle oneills engagements over drumcree|f19a7f88356827798b544b893c747bac
+2026-10-29T17:18:10.263828+00:00|https://www.bbc.co.uk/news/articles/cwg7x3kegymvo|lib dems and reform uk in war of words over alleged shove|35af957b1d95db12391e95037991d4cf
+2026-10-29T17:18:12.880840+00:00|https://news.sky.com/story/met-refers-itself-to-police-watchdog-over-handling-of-letter-about-meghans-father-13605429|met refers itself to police watchdog over handling of letter about meghans father|0cb514419d2bc1f796bf3b3b3ea7a5f0
+2026-10-29T17:18:16.343879+00:00|https://www.telegraph.co.uk/business/2026/10/29/budget-healey-burnham-welfare-spending-ftse-100-markets|britain faces unprecedented squeeze on incomes ifs says|ab617c19888a14eb20c4e3785938f374
+2026-10-29T17:18:18.985927+00:00|https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395|leaflets promoting clinics in illegal israeli settlements handed out at london medical recruitment event|feed23fc145d063a6b26a9eee463c690
+2026-10-29T17:18:21.447772+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/risk-of-ebola-spread-in-uk-is-low-experts-stress|risk of ebola spread in uk is low experts stress|16661ecfdcdb0b03116b2319081e328c
