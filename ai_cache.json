@@ -35846,5 +35846,54 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1793246123.710558
+  },
+  "e57c2dfdf00422c359538349286e6529": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding national infrastructure and environmental regulation that directly impacts the UK public and aligns with current government policy priorities.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793270384.498689
+  },
+  "f50169e2716a1cee599e43bdab8e4b99": {
+    "is_relevant": true,
+    "reasoning": "The potential collapse of a major nationwide retail chain employing 12,000 staff constitutes significant UK economic news.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793270394.919771
+  },
+  "085fcf36637d550f43a56d8b53423419": {
+    "is_relevant": true,
+    "reasoning": "This is a significant regulatory development by the UK communications watchdog that affects millions of citizens and impacts UK digital infrastructure and policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793270403.380389
+  },
+  "d5030edfaa9c9e3c760f295348924d90": {
+    "is_relevant": true,
+    "reasoning": "The article concerns UK government policy regarding welfare spending, the national budget, and ministerial statements on economic strategy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793270414.399066
+  },
+  "2c1bb8c1a9a05c97e3cb71d0e5eba1e1": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story and lifestyle piece that does not constitute hard news or meet the criteria for significant UK relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793270424.025975
+  },
+  "0fec101f8ba100ccd440433221886928": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on building safety, regulatory failure by the Building Safety Regulator, and housing issues affecting UK residents, meeting the criteria for infrastructure and safety reporting.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793270431.056657
+  },
+  "1c6702e35400e105bcfb38e39b99162d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding technology and social issues rather than hard news concerning UK politics, the economy, or significant public policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793270443.745975
   }
 }
