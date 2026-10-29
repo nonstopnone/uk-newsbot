@@ -35958,5 +35958,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793294286.996239
+  },
+  "b934ee0f717554967267f5ba21807759": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial involving a major violent incident on the UK rail network, which is of significant public interest and legal importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793312354.076098
+  },
+  "aadc9d756370612d44036184b8ab02a7": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and celebrity-focused human interest story that does not constitute hard news or meet the criteria for national relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793312363.228929
   }
 }
