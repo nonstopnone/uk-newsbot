@@ -35832,5 +35832,19 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1793231346.103117
+  },
+  "dc37d2e103ed6a4f86f2c24b09fd1bae": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant UK Budget announcement, which is a major event concerning UK politics and the economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793246114.351985
+  },
+  "01b4356253b202146d2bb733aa7fe7ef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on public health and social care systemic failures in Northern Ireland, directly impacting UK public services and devolved government policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793246123.710558
   }
 }
