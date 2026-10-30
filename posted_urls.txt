@@ -1,6 +1,3 @@
-2026-10-23T19:44:08.018003+00:00|https://www.bbc.co.uk/news/articles/cwrky7j13r4vo|man dies after car crashes into supermarket|db473debacd3af0341c18e6ab02f0663
-2026-10-23T19:44:10.536037+00:00|https://www.bbc.co.uk/news/articles/cr5ynl415j79o|gp says she was forced out of job after raising concerns about gender treatment|34511f42d94b86a76c17a2fab8e9c262
-2026-10-23T19:44:13.096697+00:00|https://www.telegraph.co.uk/business/2026/10/23/oil-prices-ai-stocks-sell-off-ftse-100-markets|oil hits fivemonth high amid fears of fresh strikes on iran|e73ebf688a507d9ace27bfa1a89d9922
 2026-10-23T22:49:54.156737+00:00|https://www.bbc.co.uk/news/articles/cxj0l193y0l8o|storm austen brings power cuts and travel disruption as more wind and rain forecast|d5c5555078486f25a0caa7d7217b6d83
 2026-10-24T01:19:50.586790+00:00|https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo|uk to invest £100m in world first ai biosecurity lab|fa3b847ff3c98bd2297e0a13e8e8aa0a
 2026-10-24T01:19:52.965680+00:00|https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o|before you crank up the thermostat try these tips to keep your house warmer for longer|edaf8ee665fa25422759465af85bd86d
@@ -93,3 +90,6 @@
 2026-10-30T16:29:35.141647+00:00|https://www.bbc.co.uk/news/articles/cqm24pdylmm2o|burnhams number 10 north goes on multimillion pound hiring spree|61bfa9f121c9cd14fbaf735a2339f59a
 2026-10-30T16:29:37.726586+00:00|https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o|russell brand accusers haunted for years by alleged crimes court hears|c993d416bf98aaa7936a457d42aa6e37
 2026-10-30T16:29:40.356701+00:00|https://news.sky.com/story/yorkshire-water-boss-resigns-after-company-given-lowest-environmental-rating-13605746|yorkshire water boss resigns after company given lowest environmental rating|692576d4bf7c08ff320521857542323a
+2026-10-30T21:19:35.260095+00:00|https://www.bbc.co.uk/news/articles/cm0qk2e9deqeo|sir patrick stewart remembered as mirfields finest|fb7a7898e598e0208cf6d87dc34598e2
+2026-10-30T21:19:37.687239+00:00|https://www.bbc.co.uk/news/articles/cqpvgp01nm7eo|ministers vow online safety action after teen sextortion victim took own life|ff3e8407fc03cbeb7e366735ce1574e1
+2026-10-30T21:19:40.281645+00:00|https://news.sky.com/story/g20-photocall-cancelled-after-ed-miliband-and-other-foreign-ministers-refuse-to-be-pictured-with-russias-sergei-lavrov-13605874|g20 photocall axed after miliband and other ministers refuse to be pictured with top russian diplomat|124c5b9dd8283f20a78eae0792fd58a2

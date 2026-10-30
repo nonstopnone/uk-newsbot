@@ -36077,5 +36077,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793377774.531102
+  },
+  "124c5b9dd8283f20a78eae0792fd58a2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant diplomatic event involving the UK Foreign Secretary acting on behalf of the UK government in an international forum.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1793395158.211983
+  },
+  "5ae17046da6c2e070ef9596bb6ad6c15": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a coroner's findings regarding systemic failings within HM Treasury, directly impacting UK government policy and workplace safety standards.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793395166.083221
+  },
+  "121303474b26c79241b5393f11eba018": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving multiple convictions for serious offences including rape and drugging, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793395174.639807
   }
 }
