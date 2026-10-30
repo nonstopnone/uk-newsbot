@@ -35972,5 +35972,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793312363.228929
+  },
+  "51d6f4a1a3c66667ed4ebcecd3e94dba": {
+    "is_relevant": true,
+    "reasoning": "The article covers major UK political and economic news, specifically the fallout from the Chancellor's budget and significant public interest regarding investigations into the Royal Family.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793326786.194429
+  },
+  "7f2f9b88329abc102cfe4a10c52afee4": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest feature story about personal family history and is considered lifestyle content rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793326796.896606
+  },
+  "1dcabf5d850f6727f75e102ebbd5a6da": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle piece about fashion trends and hobbyist craft activities, which does not constitute hard news or a significant event relevant to UK governance, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793326811.659418
+  },
+  "199d5e24df700735f8a6b692522c20e8": {
+    "is_relevant": false,
+    "reasoning": "This is a general global financial crime report that lacks a direct or material impact on the UK economy, policy, or specific domestic institutions.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793326819.228663
   }
 }
