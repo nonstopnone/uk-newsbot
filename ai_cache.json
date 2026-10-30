@@ -36000,5 +36000,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793326819.228663
+  },
+  "d1a125ed187618f2a4456f5cdbebfafc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate governance and environmental regulation story involving a major utility provider's performance and accountability, which is a matter of public interest in the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793352398.838395
+  },
+  "ae2f234d5c3f677ed8b6789b0e7fe2fd": {
+    "is_relevant": false,
+    "reasoning": "This is a regional environmental and land management story that does not meet the 'hard news' criteria for national UK news significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793352409.207453
+  },
+  "918a4dbdcf5edf8bad10c12f2455a800": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/hospitality industry story about a restaurant's hygiene rating rather than a matter of significant national importance, public policy, or hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793352457.026367
   }
 }

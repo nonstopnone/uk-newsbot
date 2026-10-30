@@ -1,6 +1,3 @@
-2026-10-23T05:40:00.215889+00:00|https://www.bbc.co.uk/news/articles/cvze4wg10389o|wildly unfair that my husband and i pay £4k a year for adhd treatment|6de2271ec7d433e45d7458a276d03555
-2026-10-23T05:40:02.728438+00:00|https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo|watch met chief rowley not fit for job says detective raped by colleague|978033d78a180e3c650a058e9bc35f6e
-2026-10-23T05:40:05.281070+00:00|https://news.sky.com/story/military-aircraft-to-be-equipped-to-fight-wildfires-government-says-13602524|military aircraft to be equipped to fight wildfires|c3671414d81345a17efa6149ec34a10d
 2026-10-23T10:55:17.126132+00:00|https://www.bbc.co.uk/news/articles/cm4g17qn738xo|mum pleads guilty to killing her three children|54701cb9123d7612d8ea53f683c273f4
 2026-10-23T10:55:19.752170+00:00|https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo|meghan says she was informed about disturbing allegations against her father in 2018|0f5e055f6b38fbe42de54ad7b3914b58
 2026-10-23T10:55:22.145343+00:00|https://news.sky.com/story/police-officer-raped-by-david-carrick-says-met-chief-must-resign-13602574|police officer raped by david carrick waives anonymity and says met chief must resign|182dd125db8c6bbd0f5f381b9090e235
@@ -99,3 +96,5 @@
 2026-10-29T22:19:24.002226+00:00|https://www.telegraph.co.uk/football/2026/10/29/everton-vs-newcastle-carabao-cup-live-score-latest-updates|prime minister watches beloved everton thrash newcastle to reach quarterfinals|bf3b58f40f5c96252f833de66e46109e
 2026-10-29T22:19:26.625502+00:00|https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o|cctv shows frying pan used to stop train attacker|b934ee0f717554967267f5ba21807759
 2026-10-30T02:20:19.779697+00:00|https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo|the papers no welfare cuts before election and police probe epsteins balmoral stay|51d6f4a1a3c66667ed4ebcecd3e94dba
+2026-10-30T09:27:37.475596+00:00|https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o|foreign defence contractors will need to invest in uk under new rules|fb6cc98e6bb1a8dbcf381cae9d62d41b
+2026-10-30T09:27:39.879857+00:00|https://www.bbc.co.uk/news/articles/ckzd623pldqgo|yorkshire water boss resigns after firm downgraded|d1a125ed187618f2a4456f5cdbebfafc
