@@ -1,11 +1,3 @@
-2026-10-23T10:55:17.126132+00:00|https://www.bbc.co.uk/news/articles/cm4g17qn738xo|mum pleads guilty to killing her three children|54701cb9123d7612d8ea53f683c273f4
-2026-10-23T10:55:19.752170+00:00|https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo|meghan says she was informed about disturbing allegations against her father in 2018|0f5e055f6b38fbe42de54ad7b3914b58
-2026-10-23T10:55:22.145343+00:00|https://news.sky.com/story/police-officer-raped-by-david-carrick-says-met-chief-must-resign-13602574|police officer raped by david carrick waives anonymity and says met chief must resign|182dd125db8c6bbd0f5f381b9090e235
-2026-10-23T10:55:24.608351+00:00|https://news.sky.com/story/mounjaro-rollout-on-nhs-needs-urgent-boost-say-mps-13602553|mounjaro rollout on nhs needs urgent boost say mps|a4efc7a4f6f9e2bbb7b113eef5fdf31e
-2026-10-23T15:37:59.434752+00:00|https://www.bbc.co.uk/news/articles/ck3r5798p43eo|extory campaign chief and his wife receive suspended sentences over election bets|4f9e5b9367dbc5ed033fd8f48d0d5b4b
-2026-10-23T15:38:02.044746+00:00|https://www.bbc.co.uk/news/articles/cm4g140585ngo|pm defends gogglebox appearance after badenoch criticism|361fcea018cc16c8196578e316e6ca4e
-2026-10-23T15:38:04.665450+00:00|https://www.telegraph.co.uk/football/2026/10/23/michael-carrick-press-conference-live-manchester-united|michael carrick on man utd future ill hold the umbrella to keep everyone else dry|b5521c15bc9f64d50043fcb6f80c2975
-2026-10-23T15:38:07.277645+00:00|https://news.sky.com/story/what-is-in-the-be-ready-checklist-as-britons-urged-to-stock-up-to-survive-potential-cyber-or-climate-emergencies-13602659|what is in the be ready checklist as britons urged to stock up to survive potential cyber or climate emergencies|67da1ad5d05acf2c53b90049e693e3fb
 2026-10-23T19:44:08.018003+00:00|https://www.bbc.co.uk/news/articles/cwrky7j13r4vo|man dies after car crashes into supermarket|db473debacd3af0341c18e6ab02f0663
 2026-10-23T19:44:10.536037+00:00|https://www.bbc.co.uk/news/articles/cr5ynl415j79o|gp says she was forced out of job after raising concerns about gender treatment|34511f42d94b86a76c17a2fab8e9c262
 2026-10-23T19:44:13.096697+00:00|https://www.telegraph.co.uk/business/2026/10/23/oil-prices-ai-stocks-sell-off-ftse-100-markets|oil hits fivemonth high amid fears of fresh strikes on iran|e73ebf688a507d9ace27bfa1a89d9922
@@ -98,3 +90,6 @@
 2026-10-30T02:20:19.779697+00:00|https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo|the papers no welfare cuts before election and police probe epsteins balmoral stay|51d6f4a1a3c66667ed4ebcecd3e94dba
 2026-10-30T09:27:37.475596+00:00|https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o|foreign defence contractors will need to invest in uk under new rules|fb6cc98e6bb1a8dbcf381cae9d62d41b
 2026-10-30T09:27:39.879857+00:00|https://www.bbc.co.uk/news/articles/ckzd623pldqgo|yorkshire water boss resigns after firm downgraded|d1a125ed187618f2a4456f5cdbebfafc
+2026-10-30T16:29:35.141647+00:00|https://www.bbc.co.uk/news/articles/cqm24pdylmm2o|burnhams number 10 north goes on multimillion pound hiring spree|61bfa9f121c9cd14fbaf735a2339f59a
+2026-10-30T16:29:37.726586+00:00|https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o|russell brand accusers haunted for years by alleged crimes court hears|c993d416bf98aaa7936a457d42aa6e37
+2026-10-30T16:29:40.356701+00:00|https://news.sky.com/story/yorkshire-water-boss-resigns-after-company-given-lowest-environmental-rating-13605746|yorkshire water boss resigns after company given lowest environmental rating|692576d4bf7c08ff320521857542323a

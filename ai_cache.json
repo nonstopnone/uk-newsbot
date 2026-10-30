@@ -36021,5 +36021,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793352457.026367
+  },
+  "c993d416bf98aaa7936a457d42aa6e37": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial in a UK court involving serious charges, which falls directly under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793377625.097296
+  },
+  "415672cd3b38b5fa72576bffc6d15226": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, active police investigation involving a senior member of the Royal Family and serious criminal allegations occurring on UK soil.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793377668.713541
+  },
+  "fdbe33fcc67226a9c0c3c6dc86f858a7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal trial resulting in a murder conviction, which is a matter of clear public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793377700.223439
+  },
+  "4841fa688c1ca257d5716e3f4bd26626": {
+    "is_relevant": true,
+    "reasoning": "This report concerns an investigation by the Independent Office for Police Conduct into the Metropolitan Police's procedural failures, which is a matter of significant public interest and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793377714.073688
+  },
+  "a33cacb6efd4ff5f39d832ad45fd1c12": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle story about a wedding and does not constitute hard news relevant to the UK national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793377727.099535
+  },
+  "fb7a7898e598e0208cf6d87dc34598e2": {
+    "is_relevant": true,
+    "reasoning": "The death of a highly prominent British cultural figure and knight of the realm is a matter of significant national public interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1793377754.634235
+  },
+  "692576d4bf7c08ff320521857542323a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the leadership of a major UK utility provider following regulatory failure, which is a matter of public interest and infrastructure accountability.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793377763.814114
+  },
+  "4795caf4bc0d3fe51f5ca95365b40a44": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports match report regarding a specific tournament performance, which falls under the excluded category of sports previews/reporting.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793377774.531102
   }
 }
