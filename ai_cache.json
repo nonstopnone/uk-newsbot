@@ -36161,5 +36161,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793473196.95334
+  },
+  "da77da75df86b286e7ff6ae42cdc7eec": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant injury to an England international rugby player ahead of a major upcoming test match, which falls under UK sporting news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793485337.055026
+  },
+  "cdad9544d8dd5671ed5042c67f63d2f3": {
+    "is_relevant": false,
+    "reasoning": "This is a local lifestyle and cultural event report that does not constitute hard news or have significant national impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793485346.270858
+  },
+  "1190a65410d2cc3999f9ddbfef662c68": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result in the English Premier League, which is considered a major topic of UK sporting interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793485355.975396
   }
 }
