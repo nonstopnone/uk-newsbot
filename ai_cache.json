@@ -36140,5 +36140,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793409711.134985
+  },
+  "87329f74502ec95973a67302e6d8f5af": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a potential broken manifesto promise regarding UK minimum wage policy, which is a significant matter of national politics and economic policy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793473176.961449
+  },
+  "319d8ac043b329ae71ee28c22f389cc6": {
+    "is_relevant": false,
+    "reasoning": "This is a fluff/entertainment piece regarding a television game show, which falls outside the scope of hard news relevant to the categories defined for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793473187.824398
+  },
+  "730010407129a3227cf7dcd3f0a22ffb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a criminal case involving fraud against a major charity, adjudicated within the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793473196.95334
   }
 }
