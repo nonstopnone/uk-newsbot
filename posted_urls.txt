@@ -1,6 +1,3 @@
-2026-10-25T02:54:34.807599+00:00|https://www.bbc.co.uk/news/articles/cqx29lnzr48po|students like new tenancy freedoms but landlords warn of higher rents|51b801ff6fe2d8c2c5ddea9a97dca593
-2026-10-25T02:54:37.343208+00:00|https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o|burnham open to honest discussion on eu free movement|87b844c13db9acd3f3ce9f9f974557fc
-2026-10-25T08:01:20.399459+00:00|https://www.bbc.co.uk/news/articles/c65yn9p55np2o|four ways labour could raise money in the budget without hiking income tax|0dfc68f99d70f27f33966a6d5597222f
 2026-10-25T13:30:23.538438+00:00|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o|budget to include £1bn for social and affordable housing|bd81612a08c7ec4a114688e0c625501c
 2026-10-25T17:24:50.900550+00:00|https://www.telegraph.co.uk/cricket/2026/10/25/pakistan-vs-england-odi-score-live-latest-tri-series|england suffer astonishing defeat by pakistan after shadabs remarkable reprieve|cb72ee7a1931f77a4b2f34f6c661d235
 2026-10-25T17:24:53.281875+00:00|https://www.bbc.co.uk/news/articles/cwj34vzrj865o|fouryearold girl dies after fall from tower block|5beec4357829fdb551c1c7881544e2dc
@@ -89,3 +86,5 @@
 2026-11-01T01:46:52.676536+00:00|https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo|thick fog to create hazardous driving conditions into next week|b5bb46c57e54df48deacdc6d767b2b6c
 2026-11-01T01:46:55.220127+00:00|https://www.bbc.co.uk/news/articles/cq398y0zj9rpo|king to address slavery during commonwealth speech in antigua on final leg of caribbean tour|60af2fb4899691c3d5b2e115fd00d06f
 2026-11-01T01:46:57.752652+00:00|https://www.telegraph.co.uk/football/2026/10/31/aston-villa-vs-fulham-live-score-updates-premier-league|suzuki howler costs aston villa crucial points|ceecec0e87bf72282db1211a0964a1a5
+2026-11-01T08:34:08.259491+00:00|https://www.bbc.co.uk/news/articles/cqkgl4nmp8lyo|second night of drone disruption at jersey airport|4c5bffe432449e7959252de39aa3046a
+2026-11-01T08:34:10.851830+00:00|https://www.bbc.co.uk/news/articles/cx4g1y955plgo|the papers pm lets down the king and kennys secret night at mayas|07c4ff5f7a72c800e6e93e8df7abd67c
