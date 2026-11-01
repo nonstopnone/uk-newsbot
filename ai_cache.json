@@ -36252,5 +36252,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793547701.020455
+  },
+  "9607234eb93e02cb7305bd72a3052872": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result in the English Premier League, which is a major component of UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793563438.399393
+  },
+  "984ed501db845876b9c49231c910b511": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent athlete from Northern Ireland who represented both Ireland and Northern Ireland at major international events is a significant story of public interest in the UK.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793563448.053474
+  },
+  "2b144925bc0907347e4d85be91346193": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal matter involving a murder, a subsequent independent government review led by a former Lord Chancellor, and implications for police conduct.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793563501.892195
+  },
+  "490d04ef493988238de9942392eba542": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story about an adventurer's personal journey and does not constitute hard news or a significant event affecting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793563524.320246
+  },
+  "ccf3d2157831da9b27ca687cc25032b2": {
+    "is_relevant": true,
+    "reasoning": "This report details significant job losses at a major UK telecommunications provider, directly impacting the UK economy and employment landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793563532.730192
   }
 }
