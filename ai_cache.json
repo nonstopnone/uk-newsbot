@@ -36182,5 +36182,26 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1793485355.975396
+  },
+  "7bfbbfe6644109cdedb7d5db0be7f7cc": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer advice piece regarding private business policy changes, which does not constitute hard news or a significant impact on the UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793497594.231479
+  },
+  "bdd2f712033ef614c35b7f4b6ea0f685": {
+    "is_relevant": false,
+    "reasoning": "This article is entertainment/lifestyle fluff regarding a celebrity reality television show and does not meet the threshold for hard news relevant to a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793497602.726352
+  },
+  "7c4cc6176d39df609a1abdfe7c00e26b": {
+    "is_relevant": false,
+    "reasoning": "This article is a report on a local cultural event/festival and does not constitute hard news regarding UK politics, economy, or major national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793497612.111368
   }
 }
