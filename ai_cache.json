@@ -36210,5 +36210,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1793522047.517825
+  },
+  "2ff3a7a4f9838fc11717c87e6663c0d8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the internal policy and political direction of a UK-wide political party, which is of direct relevance to the UK political landscape.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793547649.4382
+  },
+  "0f35a8f3609d7e8a34831d7e74e42360": {
+    "is_relevant": true,
+    "reasoning": "This is a report on significant public disorder and subsequent police action in a major UK city involving arrests, which falls under crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793547658.890398
+  },
+  "848ae9dba3c6097af66ccad89dd42a2f": {
+    "is_relevant": true,
+    "reasoning": "The death of a prominent, award-winning UK-based research scientist in a major international disaster is of significant public interest to the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1793547672.332586
+  },
+  "c530df1461bc955adcd270c0349cc43a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant domestic law enforcement and legal development involving mass arrests under the Terrorism Act in London. It relates directly to UK counter-terrorism policy and current litigation before the Supreme Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793547680.385545
+  },
+  "f44c8a19c65802adffc2baa733db56ec": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the arrest of British nationals abroad involving security and criminal activity, which is a matter of significant public interest and potential UK legal/security implication.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793547691.187116
+  },
+  "24704bc0abecf91e39e3bd04fd5293bb": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment/lifestyle news story regarding a television talent show competition, which does not meet the criteria for hard news relevance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793547701.020455
   }
 }
