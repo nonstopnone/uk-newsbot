@@ -36287,5 +36287,12 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1793563532.730192
+  },
+  "324c515ad967dfba9aa7ecadb78732bb": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a formal government policy announcement regarding UK immigration law, which is a core topic for the subreddit.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1793578122.917867
   }
 }
