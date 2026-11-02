@@ -1,10 +1,3 @@
-2026-10-26T07:19:47.687253+00:00|https://www.bbc.co.uk/news/articles/cr93zp78g580o|daughter wins £127k claim for caring for mum at home|1e2a287fe2a6f8b495e07048cc7fedc8
-2026-10-26T07:19:50.041333+00:00|https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo|knighting sinfield easiest decision anyones had to make says prince william|c6fa95e36ccef9057044f1712baa777c
-2026-10-26T07:19:52.337760+00:00|https://news.sky.com/story/second-person-charged-in-connection-with-shooting-of-police-officer-in-nottingham-13603855|second person charged in connection with shooting of police officer in nottingham|c90b889eddfb3cbee877fa47e9b50ec5
-2026-10-26T07:19:54.675396+00:00|https://news.sky.com/story/two-men-killed-by-falling-trees-and-90000-without-power-as-storm-boelo-recovery-under-way-13603854|two men killed by falling trees as storm boelo recovery under way|868523bd6004fe5d8f9bc3c30184a0f8
-2026-10-26T14:47:34.369715+00:00|https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo|chris brown given suspended eightmonth prison sentence over nightclub attack|dd3ba28fedc1e7f2f1b70b7b7f112f5c
-2026-10-26T14:47:36.746863+00:00|https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo|dangerous drivers jailed for mum and girls deaths|b9a364d8464cba86bfa1d6c765b8123f
-2026-10-26T14:47:39.409458+00:00|https://www.telegraph.co.uk/global-health/terror-and-security/britain-sanctions-warlords-accused-of-rape-in-sudan|britain sanctions warlords accused of rape in sudan|b67c0e28806980516ea7c4de688d7ef7
 2026-10-26T20:17:49.331531+00:00|https://www.bbc.co.uk/news/articles/cwj3425g5381o|heavenly creatures killer pauline parker dies in orkney aged 88|a25e06feb98cf2c33fd1554bb7b867f6
 2026-10-26T20:17:51.894924+00:00|https://www.bbc.co.uk/news/articles/cqd093gk1rjeo|keir starmers government discussed moving out of 10 downing street|064d2f00432aa2f056fbc8e3473bbd0a
 2026-10-26T20:17:55.218037+00:00|https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076|microsoft offers buyouts to 60000 staff including uk workers|5b5bea184e0c9709f17e4f49aecb9a0b
@@ -85,3 +78,6 @@
 2026-11-02T00:08:43.616716+00:00|https://news.sky.com/story/home-secretary-to-announce-new-immigration-rules-13606832|home secretary to announce new immigration rules|324c515ad967dfba9aa7ecadb78732bb
 2026-11-02T07:04:23.986690+00:00|https://www.bbc.co.uk/news/articles/c9vgrkvv006xo|cleft lip filler boosts confidence but expert warns of exploitation risk|c857754edd8dc75c1d831109fbf84b99
 2026-11-02T07:04:26.677974+00:00|https://www.bbc.co.uk/news/videos/cxnv090q9qelo|watch king charles iii caught in torrential downpour at antigua and barbuda parade|3d897e8dc50bf12ab957dcade4fab9f8
+2026-11-02T17:45:55.437374+00:00|https://www.bbc.co.uk/news/articles/c3j47g4kk1npo|hunt for attackers after halloween party stabbings|2e5a3c9d5923815846f3ff6ddd9a0f4e
+2026-11-02T17:45:58.089937+00:00|https://www.bbc.co.uk/news/articles/cwr7yxmep8r3o|british adventurer karl bushby completes 28year journey|cb68a924da2d6d178da062b8e2291f87
+2026-11-02T17:46:00.708405+00:00|https://news.sky.com/story/greenpeace-deploys-boulder-barrier-in-north-sea-to-protect-porpoises-13607103|greenpeace deploys boulders in north sea to protect porpoises|8b5e725d4ed682eaa70d771ff16eb675

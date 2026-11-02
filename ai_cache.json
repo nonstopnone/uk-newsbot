@@ -36301,5 +36301,82 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1793603063.548725
+  },
+  "2e5a3c9d5923815846f3ff6ddd9a0f4e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a violent crime involving multiple serious injuries, which falls under UK police and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793641266.849857
+  },
+  "d20d009fbe98a448e40fbfb66119a4d3": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime occurring within the UK, currently subject to ongoing criminal proceedings in a Crown Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793641273.947193
+  },
+  "96e08d689ac33f017b3a43b0cb53b53b": {
+    "is_relevant": true,
+    "reasoning": "The resignation of a local council leader from a major political party due to a public scandal involving discriminatory comments is significant UK political and regional news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793641284.8838
+  },
+  "4b0620a8540083c07c53217493471d46": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity/entertainment profile piece regarding a reality TV competition winner and does not constitute hard news of significance to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793641327.098289
+  },
+  "501a6e986eca20bcbb150c16b2015276": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal court case involving a murder conviction and sentencing in Greater Manchester, which falls squarely under UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793641347.554942
+  },
+  "b8533b9a912f1744a94ef9f4b713f2dc": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a live criminal trial involving a mass stabbing incident on the UK rail network, which is a significant matter of public safety and legal interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793641364.682213
+  },
+  "f45b5d88251efc93eb7bedf96efdf504": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding failures by a UK police force in a murder case, involving formal apologies from a Chief Constable and scrutiny of public services.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793641501.1409
+  },
+  "8b5e725d4ed682eaa70d771ff16eb675": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental action taking place in UK-controlled waters concerning the protection of protected species and the regulation of maritime industries.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793641515.207331
+  },
+  "962d6ef4c3e41c5194e24ad2c2b70f5f": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal conviction and legal proceedings involving a serving Member of Parliament, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793641523.407577
+  },
+  "2bf4db7901421879fcbf92143ccfad82": {
+    "is_relevant": false,
+    "reasoning": "While this is a significant scientific development, it is a global health story centered on a trial in Rwanda that does not materially affect the UK or its domestic policy, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793641548.06535
+  },
+  "0ae7b2fe7bd08bd178023dad3750bca3": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court report involving drug trafficking charges and a conviction, falling under standard UK crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793641554.626184
   }
 }
