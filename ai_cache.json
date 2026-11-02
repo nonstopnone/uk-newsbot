@@ -36294,5 +36294,12 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1793578122.917867
+  },
+  "3d897e8dc50bf12ab957dcade4fab9f8": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the activities of the British monarch, which falls under the category of news regarding the royal family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1793603063.548725
   }
 }
