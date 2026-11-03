@@ -36392,5 +36392,75 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793691274.957387
+  },
+  "13509b6ced333f5f933cb576dc09c13d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on serious criminal charges brought against a serving political figure, which is a matter of significant public interest and legal importance in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793720586.957606
+  },
+  "6b19477cc70fe954dc0c0b1169000ae4": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the accountability and conduct of a major UK national security institution, which is a matter of significant public interest and legal importance.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793720622.686384
+  },
+  "05621814704f4a0c23a09d45248a59c1": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial at Southwark Crown Court involving a high-profile public figure, falling directly under UK legal and crime reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793720635.377951
+  },
+  "a8e2d663765cab8e71bd67af70e692c7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding a serious crime and ongoing police investigation involving multiple stabbings in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793720644.605738
+  },
+  "afbbc2267ecea8bd362a906ee8361ce3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant High Court legal ruling involving press freedom, privacy, and serious allegations, which is directly relevant to UK legal and public interest standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793720671.167192
+  },
+  "4f6bf9f6b48e5d626f9123ade64fcdf0": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity gossip/entertainment news story rather than hard news concerning UK politics, economy, or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793720691.28372
+  },
+  "a177bbee5d90689c9fdfce0ffde07877": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a cyber-attack directly affecting the UK's food supply chain and involves the National Cyber Security Centre, representing a matter of national security and infrastructure importance.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793720707.001523
+  },
+  "5c3317d58081bea231673a75382c9262": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving UK airports and potential risks to British citizens, qualifying as hard news of high importance.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793720723.329972
+  },
+  "93537a73f7c9930994b64e66560c6695": {
+    "is_relevant": false,
+    "reasoning": "This story concerns theme park attraction changes, which falls under lifestyle/entertainment news rather than hard news relevant to national UK politics, economy, or security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793720735.877924
+  },
+  "5fca3d2fd37c3c68cd31452fb8a6ffc4": {
+    "is_relevant": true,
+    "reasoning": "This is relevant infrastructure news concerning the logistics of a major national energy project, Sizewell C, and its impact on the UK rail network.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793721124.8019
   }
 }
