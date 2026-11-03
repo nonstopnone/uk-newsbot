@@ -36462,5 +36462,33 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1793721124.8019
+  },
+  "2e1fb5329a2c8f913985d63111acb96c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant legal event involving a high-profile member of the Royal Family appearing in the UK High Court, which is of substantial public interest.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1793741157.2612
+  },
+  "66db387a2c2d9cb1050f7cb3dee766cc": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a fatal workplace accident and a subsequent coroner's inquest in the UK, which falls under the category of legal and safety-related news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793741186.983499
+  },
+  "9a843d5664ae88aef827a400e3554b83": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial in a UK court regarding serious sexual offences, which constitutes hard news relevant to the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793741264.525061
+  },
+  "be87c09f41a18e061a1069dd9baf6191": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal report regarding a fatal incident and subsequent court sentencing, which meets the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793741349.361445
   }
 }
