@@ -1,9 +1,3 @@
-2026-10-26T20:17:49.331531+00:00|https://www.bbc.co.uk/news/articles/cwj3425g5381o|heavenly creatures killer pauline parker dies in orkney aged 88|a25e06feb98cf2c33fd1554bb7b867f6
-2026-10-26T20:17:51.894924+00:00|https://www.bbc.co.uk/news/articles/cqd093gk1rjeo|keir starmers government discussed moving out of 10 downing street|064d2f00432aa2f056fbc8e3473bbd0a
-2026-10-26T20:17:55.218037+00:00|https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076|microsoft offers buyouts to 60000 staff including uk workers|5b5bea184e0c9709f17e4f49aecb9a0b
-2026-10-27T00:11:31.578426+00:00|https://www.telegraph.co.uk/football/2026/10/26/ballon-dor-2026-live-latest-updates-kane-yamal-mbappe|harry kane ends englands 25year wait for ballon dor winner|060f4139dfa2af586d0122057a9ee006
-2026-10-27T00:11:34.001541+00:00|https://www.bbc.co.uk/news/articles/cmx235r9wr3yo|im a single mum on £41000 and limit my weekly shop to £40 what do you want from the budget|8228f0e3514651ad89d687570f8a2034
-2026-10-27T00:11:36.412078+00:00|https://www.bbc.co.uk/news/articles/cq8jzxgewrvpo|dup mla joins lockharts call for oneills removal as first minister|78c5729fbc7ac0e2af49b22cb661a33e
 2026-10-27T05:53:01.563025+00:00|https://www.bbc.co.uk/news/articles/cm1dw6rn024vo|the papers englands golden boy kane and time to pay fair|3ed2f8c1d349512d5ced4c2b4d974e6f
 2026-10-27T05:53:04.187543+00:00|https://www.bbc.co.uk/news/articles/c5rmy84np001o|sharp rise in sales of essential goods after government call to stock up|7aaaacd40c158071e516d9f9a2a061e3
 2026-10-27T11:26:36.703929+00:00|https://www.bbc.co.uk/news/articles/c6d93gq1xdgno|chancellor to cut tariffs on some food and freeze fuel duty to give families breathing space|7f0dcbecf6accffe20577b01cd1aaf9c
@@ -81,3 +75,6 @@
 2026-11-02T17:45:55.437374+00:00|https://www.bbc.co.uk/news/articles/c3j47g4kk1npo|hunt for attackers after halloween party stabbings|2e5a3c9d5923815846f3ff6ddd9a0f4e
 2026-11-02T17:45:58.089937+00:00|https://www.bbc.co.uk/news/articles/cwr7yxmep8r3o|british adventurer karl bushby completes 28year journey|cb68a924da2d6d178da062b8e2291f87
 2026-11-02T17:46:00.708405+00:00|https://news.sky.com/story/greenpeace-deploys-boulder-barrier-in-north-sea-to-protect-porpoises-13607103|greenpeace deploys boulders in north sea to protect porpoises|8b5e725d4ed682eaa70d771ff16eb675
+2026-11-03T00:19:42.515846+00:00|https://www.telegraph.co.uk/football/2026/11/02/newcastle-vs-everton-live-score-latest-premier-league|newcastle fans turn on jaissle as defeat triggers relegation concerns|02203a4cb2ac5d12771d862d8c21e449
+2026-11-03T00:19:44.977347+00:00|https://www.bbc.co.uk/news/articles/cvrly70kr2dpo|the papers mahmoods duty of care or climbdown and the new cold war|95e9685f493e815433132b54d88ce867
+2026-11-03T00:19:47.435779+00:00|https://www.bbc.co.uk/news/articles/cvwy7ljr5grpo|david bowies scottish links celebrated in new exhibition|882f26cf81416ec23bf4cba035c3f837

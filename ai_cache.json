@@ -36378,5 +36378,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793641554.626184
+  },
+  "95e9685f493e815433132b54d88ce867": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant policy shift by the Home Secretary regarding immigration and settlement rules for care workers, which is a matter of clear UK political and social importance.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1793665181.486265
   }
 }
