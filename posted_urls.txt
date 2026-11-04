@@ -1,5 +1,3 @@
-2026-10-28T06:32:42.717961+00:00|https://news.sky.com/story/us-air-force-officer-accused-of-possessing-child-abuse-images-was-flown-out-of-the-uk-13604647|us embassy worker flown out of uk before police questioning|2bcf297d18f9540ff8ff2f1d6deefdb4
-2026-10-28T06:32:45.225188+00:00|https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o|thick fog to create dangerous driving conditions for uk commuters|740d5fcdf9f54cc2ef8396210e392181
 2026-10-28T13:46:20.607891+00:00|https://www.bbc.co.uk/news/articles/c674p7v91wx8o|legal bid to overturn drumcree march ban fails|8f34354cd0434ed3475fca059fab119b
 2026-10-28T13:46:23.043616+00:00|https://www.bbc.co.uk/news/articles/c6lykg0nkll0o|dissident republicans may be responsible for hotel explosive device psni|4835797b0c8d91f6c55cf3319d5f7c26
 2026-10-28T13:46:25.600572+00:00|https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance|budget 2026 key points at a glance|5a1713ddbfbe638ab0a3d7faacfe4869
@@ -76,3 +74,5 @@
 2026-11-04T01:51:12.387572+00:00|https://www.bbc.co.uk/news/articles/cm9qz93ew22no|multicancer blood tests coming to some gp surgeries soon|e9f325b115fdb18091150b213f43009b
 2026-11-04T01:51:14.823902+00:00|https://www.telegraph.co.uk/football/2026/11/03/barca-vs-aston-villa-live-score-champions-league-updates|emery endures heaviest european defeat at the hands of old foes barcelona|542bbb6e779a8dc0b49f8ddd1f24a382
 2026-11-04T01:51:17.175950+00:00|https://www.telegraph.co.uk/football/2026/11/03/man-utd-vs-roma-live-score-latest-champions-league-updates|man utd show fight on night of chaos to give carrick a glimpse of hope|7d3a55ec1b9a67b83b1c304aeffd7ec0
+2026-11-04T08:28:52.138155+00:00|https://www.bbc.co.uk/news/articles/ck240mm3e42do|poundland supplier will lose millions if retailer collapses|ac8817cd86e63c437a917afa29e1dfdc
+2026-11-04T08:28:54.740274+00:00|https://www.bbc.co.uk/news/articles/ckly0vvx41y3o|government needs to act faster on grooming gang inquiry says survivor|2346f73831cf275ee662c296948178e8
