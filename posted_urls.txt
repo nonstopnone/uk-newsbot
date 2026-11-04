@@ -1,6 +1,3 @@
-2026-10-28T13:46:20.607891+00:00|https://www.bbc.co.uk/news/articles/c674p7v91wx8o|legal bid to overturn drumcree march ban fails|8f34354cd0434ed3475fca059fab119b
-2026-10-28T13:46:23.043616+00:00|https://www.bbc.co.uk/news/articles/c6lykg0nkll0o|dissident republicans may be responsible for hotel explosive device psni|4835797b0c8d91f6c55cf3319d5f7c26
-2026-10-28T13:46:25.600572+00:00|https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance|budget 2026 key points at a glance|5a1713ddbfbe638ab0a3d7faacfe4869
 2026-10-28T19:15:36.868203+00:00|https://www.telegraph.co.uk/business/2026/10/28/budget-healey-burnham-autumn-labour-chancellor-markets|burnham rules out calling early election|877f444cd5695941f90478467deec3ee
 2026-10-28T19:15:39.374272+00:00|https://www.telegraph.co.uk/global-health/climate-and-people/government-tight-lipped-on-aid-spending-in-autumn-budget|government remains tightlipped on aid spending in autumn budget|9a8900925e43b479c5410dd7010ae961
 2026-10-28T19:15:41.887176+00:00|https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo|russell brand tells trial sexual consent is fundamental|a651bb7349ac9da0f523707f5fe070fa
@@ -76,3 +73,7 @@
 2026-11-04T01:51:17.175950+00:00|https://www.telegraph.co.uk/football/2026/11/03/man-utd-vs-roma-live-score-latest-champions-league-updates|man utd show fight on night of chaos to give carrick a glimpse of hope|7d3a55ec1b9a67b83b1c304aeffd7ec0
 2026-11-04T08:28:52.138155+00:00|https://www.bbc.co.uk/news/articles/ck240mm3e42do|poundland supplier will lose millions if retailer collapses|ac8817cd86e63c437a917afa29e1dfdc
 2026-11-04T08:28:54.740274+00:00|https://www.bbc.co.uk/news/articles/ckly0vvx41y3o|government needs to act faster on grooming gang inquiry says survivor|2346f73831cf275ee662c296948178e8
+2026-11-04T16:47:05.830599+00:00|https://www.bbc.co.uk/news/articles/c51kdx83y11lo|police launch inquiry after two inmates die in prison|0526c4fc6e78025a83a056d9257b1a7b
+2026-11-04T16:47:08.225379+00:00|https://www.bbc.co.uk/news/articles/cq8ez378661xo|passengers thought mass train attack was a joke|7ce44650374c6d4acb1b9bc57372c02e
+2026-11-04T16:47:10.808291+00:00|https://news.sky.com/story/blood-tests-that-could-spot-early-signs-of-cancers-to-be-trialled-on-thousands-of-nhs-patients-13607950|blood tests that could spot early signs of cancers to be trialled on thousands of nhs patients|5dc649ec16b3cd99546e142f27130263
+2026-11-04T16:47:13.276388+00:00|https://news.sky.com/story/dozens-arrested-outside-court-hearing-palestine-action-ban-challenge-13607796|dozens arrested outside court hearing palestine action ban challenge|b649d5a6107d6befae2ff17b982d02d4

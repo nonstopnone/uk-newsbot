@@ -36539,5 +36539,82 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1793757069.376972
+  },
+  "0526c4fc6e78025a83a056d9257b1a7b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and legal matter involving deaths in custody within the UK prison system, requiring a formal police and independent ombudsman investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793810697.032619
+  },
+  "7ce44650374c6d4acb1b9bc57372c02e": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing criminal trial involving a mass stabbing on a UK train service, which falls under the category of serious crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793810705.431492
+  },
+  "7e68450370fc4b0c7c90a45d4119f97e": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer interest/lifestyle story regarding a commercial product recipe change and does not qualify as hard news relevant to UK governance, security, or the national economy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793810715.524118
+  },
+  "0749d04116bbcee86170b5667c485eaa": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest wildlife story that does not meet the threshold for hard news or significant public interest required for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793810727.052267
+  },
+  "cd454ed893442b04ba7a955b3754152a": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant legal settlement involving the PSNI and historical allegations of state collusion in Northern Ireland, falling under UK legal and institutional accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793810736.43592
+  },
+  "72cfa1a3894bf04d0f4129a868f23e93": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest story about a tradition involving effigies and does not constitute hard news or a significant event impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793810747.036087
+  },
+  "4eb0f017806cc36db49dd495991ae6e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant ongoing criminal trial in Northern Ireland concerning a murder case, falling directly under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793810760.050183
+  },
+  "5dc649ec16b3cd99546e142f27130263": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development within the NHS concerning public health and medical innovation, which is highly relevant to a UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793810767.174883
+  },
+  "42fff54c07b9b9ef64b11480c5975685": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the findings of a fatal accident inquiry into a major UK rail tragedy, involving significant infrastructure safety and legal findings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793810776.266656
+  },
+  "b649d5a6107d6befae2ff17b982d02d4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and public order event involving police action and judicial proceedings at the Supreme Court, which is highly relevant to UK crime and legal affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793810788.409109
+  },
+  "9c427d0584079a6bf98f6d029fe1c4d4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving multiple stabbings and police investigations in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793810825.264524
   }
 }
