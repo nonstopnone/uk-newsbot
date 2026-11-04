@@ -36616,5 +36616,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793810825.264524
+  },
+  "a54debcf4f39f636e87be8c92e2f5e7d": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and analysis, which is excluded by the guidelines focusing on hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793830818.753209
+  },
+  "02ced26a5224199b7774c1723618a20b": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the diplomatic relationship between the UK Prime Minister and the US President, which is a matter of significant UK political interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793830827.435123
+  },
+  "e3f88543a6b922bb0c2e215afba29d6a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update to UK judicial procedure and child welfare policy, directly affecting the legal system and family court practices in England.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793830837.632192
+  },
+  "707c9b7d60c7bea887c38d10a45f852e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health-related news story involving the repatriation of a British national and public health security procedures.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793830848.294513
+  },
+  "a285c689ef91a955ad71a96043bc5d3f": {
+    "is_relevant": true,
+    "reasoning": "The death of a highly prominent and influential British musician who contributed to numerous iconic UK number one hits is a significant cultural news event in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1793830857.87282
+  },
+  "1d3de0978959776c496641631d138f98": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal trial concerning a murder charge and court proceedings, which falls directly under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793830885.369949
   }
 }
