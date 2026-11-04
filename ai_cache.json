@@ -36490,5 +36490,54 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793741349.361445
+  },
+  "05934425c368873eeafef2877612610d": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer lifestyle story regarding a product recipe change and does not constitute hard news or a matter of significant national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793756981.843811
+  },
+  "5890aba205204a647b1d04589ea15fff": {
+    "is_relevant": false,
+    "reasoning": "This is a standard weather forecast article which falls under lifestyle/service journalism rather than hard news of significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793757019.118708
+  },
+  "5201b85b837a92492a5c10d3c35b47e6": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest crime story regarding local pet scams rather than a matter of significant national importance, public policy, or major criminal trends impacting the UK as a whole.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793757029.070672
+  },
+  "bce7661e74cc7a069ff702d25d2710ae": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant comments by the British Monarch regarding historical policy and a high-profile UK legal case, both of which are of substantial interest to the UK public.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1793757038.159023
+  },
+  "ac8817cd86e63c437a917afa29e1dfdc": {
+    "is_relevant": true,
+    "reasoning": "The potential collapse of a major national high-street retailer is a significant economic event with serious implications for UK supply chains and domestic employment.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793757048.28661
+  },
+  "7d3a55ec1b9a67b83b1c304aeffd7ec0": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a major event in UK professional football involving Manchester United, which constitutes significant UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793757060.091764
+  },
+  "8ceaa1aefd46b4f8ff058a0d478e486d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest archaeological/historical feature story rather than hard news regarding current UK politics, economy, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793757069.376972
   }
 }
