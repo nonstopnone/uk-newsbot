@@ -1,6 +1,3 @@
-2026-10-29T14:37:39.998607+00:00|https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss|Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate|be8e584b3895225620f5562076ebb8b9
-2026-10-29T14:37:45.730583+00:00|https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss|Voter voices: Which issues matter most to Americans?|f8813eda200dc6ad894c061b82e3bc2d
-2026-10-29T19:54:42.722846+00:00|https://www.bbc.co.uk/news/articles/cred3e7yj8wqo?at_medium=RSS&at_campaign=rss|Man pleads guilty to federal hate crimes charges over fatal Colorado firebombing|9b0b655c4f43f1e26ceff8c6c988e521
 2026-10-29T23:41:47.433659+00:00|https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss|Google value plunges by $500bn as AI fears rattle Wall Street|3fe0f328e417c9b00546a2dc56f45ebe
 2026-10-29T23:41:53.168721+00:00|https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss|Sir Patrick Stewart: The life of an iconic actor|2a087394a46eeb7dcce50ecced86e2ac
 2026-10-30T09:47:42.102170+00:00|https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss|Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86|18a51a7e4a83bc64891d638221088082
@@ -33,3 +30,6 @@
 2026-11-04T23:58:21.280277+00:00|https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss|Could Democrats in Congress end the war in Iran?|04d27a470332612108c6d3042b794bea
 2026-11-05T14:25:32.830874+00:00|https://www.bbc.co.uk/news/articles/c6n9rwxlx992o?at_medium=RSS&at_campaign=rss|Democrat leads by just over 1,000 votes surprisingly tight Mississippi Senate race|84a506a7753d587c6578ec79a69d7eb7
 2026-11-05T14:25:38.413757+00:00|https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss|Six dead and others injured in fire at Brooklyn building|6c669ab94789c6fb859f0a35542ced63
+2026-11-05T21:10:41.042029+00:00|https://www.bbc.co.uk/news/videos/cmj477d0dyxqo?at_medium=RSS&at_campaign=rss|Inside Mississippi's ballot counting in tight Senate race|e053c324aca8bc8b2e2f3acc5e378b1d
+2026-11-05T21:10:46.669418+00:00|https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss|California governor commutes death sentences for all 548 people on death row|22bf5d48f42aea46fe2dcf9572319311
+2026-11-05T21:10:52.288710+00:00|https://www.bbc.co.uk/news/articles/c6vg0y2nr445o?at_medium=RSS&at_campaign=rss|Boebert, billionaires' tax and other midterms races still to watch|a37768cc0696a5b690579fb240511d1e
