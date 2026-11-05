@@ -36658,5 +36658,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793830885.369949
+  },
+  "2d9a9d8b44cc1a6796df6325aae663c3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding formal UK government diplomatic commitments and historical policy, which constitutes major UK political news.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793847738.048291
+  },
+  "f8c070b66b317891a4b1aeabd869cc12": {
+    "is_relevant": true,
+    "reasoning": "This is a significant diplomatic development regarding UK foreign policy and international relations that has long-term implications for the Commonwealth and national legacy.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1793847745.037319
+  },
+  "f03c61b2cc21bbb070635b7839fd51e7": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment human-interest piece about a local filmmaker's personal project, which does not constitute hard news or a matter of public interest for a UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793847760.280936
+  },
+  "98ab221f8fbfce032415132dbd7fb384": {
+    "is_relevant": false,
+    "reasoning": "This is a sports opinion piece/match analysis concerning Manchester City's Champions League performance, which falls under sports journalism rather than hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793847768.350658
+  },
+  "06ced7d4f4eda58e77241a7304dd6973": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and policing operation involving devolved government services and mutual aid between UK police forces.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793847786.407116
+  },
+  "40b321cbda3788d6466f70bc9c982ea3": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major UK football club's match performance in a European competition.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793847795.02002
   }
 }
