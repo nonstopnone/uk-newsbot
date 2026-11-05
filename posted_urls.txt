@@ -1,8 +1,3 @@
-2026-10-29T03:55:25.585745+00:00|https://www.bbc.co.uk/news/articles/ckzd670vpj09o|king charles shows off dance moves on second day of caribbean tour|7b866dfc9da7db8724d057a88f10348f
-2026-10-29T03:55:28.214463+00:00|https://www.bbc.co.uk/news/articles/c6j470yx0nweo|the papers healey offers cold comfort and a £100 trick or treat|dc37d2e103ed6a4f86f2c24b09fd1bae
-2026-10-29T03:55:30.877147+00:00|https://www.telegraph.co.uk/football/2026/10/28/liverpool-vs-chelsea-live-score-latest-carabao-cup-updates|wesley fofanas chelsea nightmare continues as liverpool win shootout|33a937b93ed25cf709f963e50c720220
-2026-10-29T10:40:44.500048+00:00|https://www.bbc.co.uk/news/articles/cw5ynxepy4gno|serious pollution by water industry remains high despite £5bn investment|e57c2dfdf00422c359538349286e6529
-2026-10-29T10:40:46.982178+00:00|https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o|poundlands future hangs in the balance as chain edges towards collapse|f50169e2716a1cee599e43bdab8e4b99
 2026-10-29T17:18:07.750368+00:00|https://www.bbc.co.uk/news/articles/cwly300mxym3o|dup blocks michelle oneills engagements over drumcree|f19a7f88356827798b544b893c747bac
 2026-10-29T17:18:10.263828+00:00|https://www.bbc.co.uk/news/articles/cwg7x3kegymvo|lib dems and reform uk in war of words over alleged shove|35af957b1d95db12391e95037991d4cf
 2026-10-29T17:18:12.880840+00:00|https://news.sky.com/story/met-refers-itself-to-police-watchdog-over-handling-of-letter-about-meghans-father-13605429|met refers itself to police watchdog over handling of letter about meghans father|0cb514419d2bc1f796bf3b3b3ea7a5f0
@@ -77,3 +72,7 @@
 2026-11-05T03:03:17.978265+00:00|https://news.sky.com/story/uk-agrees-to-talks-addressing-historical-harms-of-slavery-but-pm-rules-out-reparations-13608208|uk agrees to talks addressing historical harms of slavery|f8c070b66b317891a4b1aeabd869cc12
 2026-11-05T03:03:20.309798+00:00|https://www.bbc.co.uk/news/articles/cv62kwg0k038o|£200m taxpayerfunded trains sit barely used for three years|34c6a5823f6e9350e9d529c8a061ea73
 2026-11-05T03:03:22.771511+00:00|https://www.telegraph.co.uk/football/2026/11/04/slavia-prague-vs-arsenal-score-and-updates-champions-league|gyokeres the creator and executioner to see nervous arsenal past slavia prague|40b321cbda3788d6466f70bc9c982ea3
+2026-11-05T11:48:44.896389+00:00|https://www.bbc.co.uk/news/articles/cm8xzkkd72pro|family pay tribute to ray of sunshine daughter killed by bus|f31db3def44b524c05585276f332f4ab
+2026-11-05T11:48:47.465603+00:00|https://www.bbc.co.uk/news/articles/crgj9qee2dw5o|investigation after hundreds of letters found dumped|06c7614ea876f395e8a06d7fcc2b002e
+2026-11-05T11:48:50.002932+00:00|https://news.sky.com/story/poundland-owner-turns-to-thames-water-creditors-lobbying-firm-as-political-heat-rises-13608284|poundland owner turns to thames water creditors lobbying firm as political heat rises|7e2854cbbc6ac98ec9de6c08684eab53
+2026-11-05T11:48:52.408667+00:00|https://news.sky.com/story/third-person-charged-after-police-officer-shot-in-foot-in-nottingham-13608240|third person charged after police officer shot in foot in nottingham|6ec6d48c22d98f8e6850def6c06cbe1e

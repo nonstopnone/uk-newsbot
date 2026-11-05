@@ -36700,5 +36700,75 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1793847795.02002
+  },
+  "f31db3def44b524c05585276f332f4ab": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local news event involving a fatality and an ongoing police investigation in Scotland, fitting the 'Crime & Legal' category for public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793879238.266596
+  },
+  "06c7614ea876f395e8a06d7fcc2b002e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the failure of critical national infrastructure (Royal Mail) and involves potential data security issues concerning public and financial correspondence in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793879245.740426
+  },
+  "a3010c2e319081f43f4d2f07326c1d30": {
+    "is_relevant": true,
+    "reasoning": "This is a significant media industry development involving a major UK broadcaster (Channel 4), public interest, and serious legal allegations that have resulted in the cancellation of a high-profile show.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1793879256.187001
+  },
+  "3319cbf4d798017919720d162260d3ee": {
+    "is_relevant": true,
+    "reasoning": "The article discusses government policy regarding the legacy of the Troubles and its impact on military veterans, which is a matter of significant UK political and legal interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793879266.306667
+  },
+  "ac59bcf47e8845a5f7cb949c4cffedc8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK policy development concerning public safety, infrastructure, and transport regulation that directly impacts nationwide travel laws.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793879274.854572
+  },
+  "0c8035d207071630020d74593e5caa49": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic news story involving a major UK retailer, the potential loss of 12,000 jobs, and active intervention by the UK Business Secretary.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793879285.544136
+  },
+  "7e2854cbbc6ac98ec9de6c08684eab53": {
+    "is_relevant": true,
+    "reasoning": "This is relevant to the UK economy as it involves the corporate instability of a major national high-street retailer and political lobbying, which affects the broader UK retail landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793879295.589893
+  },
+  "233b48fde18177af02fa16d17d8dc3a4": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the England football captain, which is a subject of major UK national interest despite the player being based abroad.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1793879304.79518
+  },
+  "d5e4656e115ed5f446aba08aff62c4e7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome regarding a major HMRC fraud case involving a high-value confiscation order, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793879314.040604
+  },
+  "6ec6d48c22d98f8e6850def6c06cbe1e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving the shooting of a police officer in a major UK city, which falls directly under the 'Crime & Legal' category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793879324.292786
   }
 }
