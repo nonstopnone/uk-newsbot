@@ -36770,5 +36770,82 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793879324.292786
+  },
+  "adb8252600c6158eb9fdded8c61fadc4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a murder case and a Court of Appeal sentencing review, which directly relates to the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793906474.421083
+  },
+  "12904685aa74055ec88484d661cf9ab7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome involving a high-profile public figure, adjudicated in a UK court, falling under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793906485.022166
+  },
+  "ad0678ed6c05038111b85fcffa68784d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and security-related story involving the transport of a patient to a UK hospital, which is a matter of clear public interest and safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793906494.772166
+  },
+  "104e6afed38aaf5de8c5e796aa6a1318": {
+    "is_relevant": true,
+    "reasoning": "The article discusses the geopolitical and economic consequences of a major international conflict, specifically highlighting the impact on global inflation and oil prices, which directly affects the UK economy.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1793906505.744361
+  },
+  "ce49663a4b8644ae559fda57afed3b6e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant economic development involving Bank of England monetary policy that directly impacts the UK cost of living and mortgage rates.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793906537.861165
+  },
+  "8545aa6f4fcb1ac08d206753240496cd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a violent crime and ongoing court case occurring on a UK train service, which falls under public safety and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793906546.708183
+  },
+  "c6b6d8899c9846eba56e058436bffb81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding police misconduct and legal accountability within the Metropolitan Police, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793906556.076902
+  },
+  "d095edc48a1dd5935a617ce6cbda63aa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a high-profile criminal conviction and ongoing police investigation in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793906565.693126
+  },
+  "d449a15faf77d5e0b5e56e1e9518c321": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a coroner's inquest concerning the death of a British Army officer during a training exercise, which involves government accountability and safety failures within the Ministry of Defence.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793906575.250935
+  },
+  "3c05fd05a1d10f87c7c56f19bbc16946": {
+    "is_relevant": false,
+    "reasoning": "This is a local tragedy in the United States that does not have a material impact on the UK or meet the threshold for significant international news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793906584.1267
+  },
+  "7c8937cf4daf6a0631e53a33fe194678": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the conclusion of a significant criminal trial in the UK resulting in a guilty verdict for a high-profile public figure, which constitutes major UK crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793906593.439752
   }
 }

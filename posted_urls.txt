@@ -1,9 +1,3 @@
-2026-10-29T17:18:07.750368+00:00|https://www.bbc.co.uk/news/articles/cwly300mxym3o|dup blocks michelle oneills engagements over drumcree|f19a7f88356827798b544b893c747bac
-2026-10-29T17:18:10.263828+00:00|https://www.bbc.co.uk/news/articles/cwg7x3kegymvo|lib dems and reform uk in war of words over alleged shove|35af957b1d95db12391e95037991d4cf
-2026-10-29T17:18:12.880840+00:00|https://news.sky.com/story/met-refers-itself-to-police-watchdog-over-handling-of-letter-about-meghans-father-13605429|met refers itself to police watchdog over handling of letter about meghans father|0cb514419d2bc1f796bf3b3b3ea7a5f0
-2026-10-29T17:18:16.343879+00:00|https://www.telegraph.co.uk/business/2026/10/29/budget-healey-burnham-welfare-spending-ftse-100-markets|britain faces unprecedented squeeze on incomes ifs says|ab617c19888a14eb20c4e3785938f374
-2026-10-29T17:18:18.985927+00:00|https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395|leaflets promoting clinics in illegal israeli settlements handed out at london medical recruitment event|feed23fc145d063a6b26a9eee463c690
-2026-10-29T17:18:21.447772+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/risk-of-ebola-spread-in-uk-is-low-experts-stress|risk of ebola spread in uk is low experts stress|16661ecfdcdb0b03116b2319081e328c
 2026-10-29T22:19:24.002226+00:00|https://www.telegraph.co.uk/football/2026/10/29/everton-vs-newcastle-carabao-cup-live-score-latest-updates|prime minister watches beloved everton thrash newcastle to reach quarterfinals|bf3b58f40f5c96252f833de66e46109e
 2026-10-29T22:19:26.625502+00:00|https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o|cctv shows frying pan used to stop train attacker|b934ee0f717554967267f5ba21807759
 2026-10-30T02:20:19.779697+00:00|https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo|the papers no welfare cuts before election and police probe epsteins balmoral stay|51d6f4a1a3c66667ed4ebcecd3e94dba
@@ -76,3 +70,6 @@
 2026-11-05T11:48:47.465603+00:00|https://www.bbc.co.uk/news/articles/crgj9qee2dw5o|investigation after hundreds of letters found dumped|06c7614ea876f395e8a06d7fcc2b002e
 2026-11-05T11:48:50.002932+00:00|https://news.sky.com/story/poundland-owner-turns-to-thames-water-creditors-lobbying-firm-as-political-heat-rises-13608284|poundland owner turns to thames water creditors lobbying firm as political heat rises|7e2854cbbc6ac98ec9de6c08684eab53
 2026-11-05T11:48:52.408667+00:00|https://news.sky.com/story/third-person-charged-after-police-officer-shot-in-foot-in-nottingham-13608240|third person charged after police officer shot in foot in nottingham|6ec6d48c22d98f8e6850def6c06cbe1e
+2026-11-05T19:23:13.967704+00:00|https://www.bbc.co.uk/news/articles/cmwy9z5423p2o|henry nowaks killer has minimum term increased to 25 years by court of appeal|adb8252600c6158eb9fdded8c61fadc4
+2026-11-05T19:23:16.342809+00:00|https://www.bbc.co.uk/news/articles/ckyvrze96y70o|russell brand found guilty of rape and sexual assault|12904685aa74055ec88484d661cf9ab7
+2026-11-05T19:23:18.799089+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/copy-of-ebola-virus-drc-outbreak-symptoms-transmission-treatment|can the uk handle an ebola infection|f3ad738fe0184fac9590af511f6b955a
