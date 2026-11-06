@@ -36868,5 +36868,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1793925586.772679
+  },
+  "dc28efcd41c3f425bb2a89b2cb6df35a": {
+    "is_relevant": true,
+    "reasoning": "This report covers significant public disorder, violent attacks on emergency service workers, and police action in Scotland, which constitutes hard news relevant to the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793950413.328272
+  },
+  "9bced32e92acd3e6bb51756acf0282bd": {
+    "is_relevant": true,
+    "reasoning": "The story involves the death of multiple British citizens abroad and their families' active campaign for an official inquiry, which constitutes a significant matter of public interest for the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1793950442.231156
+  },
+  "e02018aff975a62755dccb9903bff6e0": {
+    "is_relevant": false,
+    "reasoning": "The article focuses exclusively on healthcare challenges in Mongolia and contains no material connection to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793950451.405399
+  },
+  "f3dca5cf0c1e67d425d9c4f15fbc4788": {
+    "is_relevant": true,
+    "reasoning": "This report details a serious investigation by the Home Office and the Solicitors Regulation Authority into potential breaches of UK immigration law and professional misconduct.",
+    "flair": "Immigration",
+    "provider": "Gemini",
+    "timestamp": 1793950459.481405
   }
 }
