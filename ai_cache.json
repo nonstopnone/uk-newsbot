@@ -37001,5 +37001,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793979363.734712
+  },
+  "f1e28dcfe8eb783574112aed5852f622": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing high-profile attempted murder trial at Cambridge Crown Court involving multiple stabbings on a UK train service.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793999618.146206
+  },
+  "2bf20ad5c5e1125ef65491b810d171d6": {
+    "is_relevant": true,
+    "reasoning": "This concerns the professional conduct of a senior barrister and a high-profile legal matter involving the Bar Standards Board, which constitutes significant UK legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793999635.122934
   }
 }
