@@ -36896,5 +36896,110 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1793950459.481405
+  },
+  "82dd270588cb865fe5cb4d85bbbe6f12": {
+    "is_relevant": true,
+    "reasoning": "The article reports on significant public disorder and criminal activity involving attacks on emergency services in a UK residential area, which is highly relevant to UK crime and community safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979218.430085
+  },
+  "1a71e962d88f15a4cc891aa4020498ec": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal conviction and sentencing within the UK justice system, which falls directly under crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979228.208168
+  },
+  "dc552ac9ebd7c71e2ca5384564917521": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving multiple stabbings and ongoing court proceedings, which is a matter of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979239.825545
+  },
+  "82eaf69636948672597561d82d3e7cd3": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Prime Minister's public response and accountability regarding past associations with a high-profile figure recently convicted of serious crimes, which is a matter of significant UK political and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793979248.001509
+  },
+  "6003f8196793ac9276b27999d1264b1d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal sentencing involving a breach of duty of care and child neglect in the UK, making it highly relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979257.508029
+  },
+  "49927231b664aaf816974f3ef30470af": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant criminal conviction of a public figure and comments from the head of the Metropolitan Police, which is highly relevant to UK crime and legal affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979266.906592
+  },
+  "e26660eccefaff8783e546bffb6b0ec7": {
+    "is_relevant": true,
+    "reasoning": "This report concerns significant disruption to major UK infrastructure in the capital, directly affecting public transport and commuters.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793979286.209909
+  },
+  "c747cb8699362b8d7f4a4be03e7ab481": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy intervention from the head of the UK's largest police force regarding the future of national policing structures.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979295.271936
+  },
+  "4579d0e4ce8cd042ff68e50f3a5979ef": {
+    "is_relevant": false,
+    "reasoning": "This is a feature-style sports article profiling a footballer's career move and personality, which falls under sports lifestyle/journalism rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793979306.699685
+  },
+  "6eeec92016862b9eee11e761b6ce2c25": {
+    "is_relevant": true,
+    "reasoning": "This is a significant court case involving a violent incident on a major UK rail line, falling under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979318.321837
+  },
+  "7eb64309a2cfb13912dceee3230be4a2": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity obituary for a reality TV personality and does not constitute hard news related to UK politics, economy, or public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793979326.831026
+  },
+  "54d10377be54781c76ef90213cb70d92": {
+    "is_relevant": true,
+    "reasoning": "The story involves a significant police operation and a public security incident involving a prominent figure in UK sport, making it relevant to UK crime and public reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979336.085018
+  },
+  "0576272f078a91e6521f8629d2a66861": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment/lifestyle piece regarding a pop music release and does not constitute hard news or a significant event relevant to UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793979345.332986
+  },
+  "c62cf8193b81b7b1e57d2ee903303e85": {
+    "is_relevant": false,
+    "reasoning": "This is a regional environmental/nature interest story that does not constitute 'hard news' or have a material impact on UK national affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1793979354.171035
+  },
+  "b2009e48f330ed1f4deb5ef65c5bc9d7": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant public safety and social issue involving harassment of women in a UK public space, with active involvement from North Wales Police.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1793979363.734712
   }
 }

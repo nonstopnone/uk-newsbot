@@ -1,5 +1,3 @@
-2026-10-30T09:27:37.475596+00:00|https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o|foreign defence contractors will need to invest in uk under new rules|fb6cc98e6bb1a8dbcf381cae9d62d41b
-2026-10-30T09:27:39.879857+00:00|https://www.bbc.co.uk/news/articles/ckzd623pldqgo|yorkshire water boss resigns after firm downgraded|d1a125ed187618f2a4456f5cdbebfafc
 2026-10-30T16:29:35.141647+00:00|https://www.bbc.co.uk/news/articles/cqm24pdylmm2o|burnhams number 10 north goes on multimillion pound hiring spree|61bfa9f121c9cd14fbaf735a2339f59a
 2026-10-30T16:29:37.726586+00:00|https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o|russell brand accusers haunted for years by alleged crimes court hears|c993d416bf98aaa7936a457d42aa6e37
 2026-10-30T16:29:40.356701+00:00|https://news.sky.com/story/yorkshire-water-boss-resigns-after-company-given-lowest-environmental-rating-13605746|yorkshire water boss resigns after company given lowest environmental rating|692576d4bf7c08ff320521857542323a
@@ -74,3 +72,7 @@
 2026-11-06T00:39:50.112383+00:00|https://www.bbc.co.uk/news/articles/cmd9343z3zw2o|firms told to publish salaries in job adverts ahead of new law|24f53c82a2dd42cb951995d69052933c
 2026-11-06T07:34:19.972485+00:00|https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o|seven arrested and police car set alight during bonfire night violence|dc28efcd41c3f425bb2a89b2cb6df35a
 2026-11-06T07:34:22.439745+00:00|https://www.bbc.co.uk/news/articles/cqde8prpdge3o|misleading student loans information left out examples of highersalary repayments|667021fe17113bd238a1280357d432d3
+2026-11-06T15:36:04.186171+00:00|https://www.bbc.co.uk/news/articles/cmwy445n9dw2o|jail and health board admit criminal charges over covid death prisoner|9a43c7a775f5706bf9ca4eae2ce2e8b1
+2026-11-06T15:36:06.523164+00:00|https://www.bbc.co.uk/news/articles/c61wvv8w9wevo|bonfire night violence condemned as six arrested|82dd270588cb865fe5cb4d85bbbe6f12
+2026-11-06T15:36:08.846323+00:00|https://news.sky.com/story/killer-who-bragged-after-fatally-stabbing-student-jailed-13608704|killer who bragged after fatally stabbing student jailed|1a71e962d88f15a4cc891aa4020498ec
+2026-11-06T15:36:11.202762+00:00|https://news.sky.com/story/met-police-chief-warns-policing-will-fail-without-major-reforms-13608862|met chief warns that policing will fail without major reforms|c747cb8699362b8d7f4a4be03e7ab481
