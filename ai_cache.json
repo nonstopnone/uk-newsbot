@@ -36847,5 +36847,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793906593.439752
+  },
+  "24f53c82a2dd42cb951995d69052933c": {
+    "is_relevant": true,
+    "reasoning": "This relates to UK government policy, forthcoming legislation, and labour market regulation affecting the national economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1793925561.75219
+  },
+  "5484a2f9f72d5d8fd0ac8b553fbb6826": {
+    "is_relevant": true,
+    "reasoning": "This concerns a UK national being treated in a specialist London hospital facility, posing a matter of public health interest and national security.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1793925572.509745
+  },
+  "c8ffac0043be8e515cb5ebe010dd0834": {
+    "is_relevant": true,
+    "reasoning": "This concerns the release of government documents regarding a high-profile political appointment and a related Metropolitan Police investigation, which is of significant public interest and political relevance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1793925586.772679
   }
 }
