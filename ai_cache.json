@@ -37064,5 +37064,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1794064816.543194
+  },
+  "daf71a779771e8d97e30a5f5dc64a536": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports match report focused on Premier League refereeing decisions, which falls under sports journalism rather than hard news or general UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794080856.542696
+  },
+  "0772a779ade86c65dc9bd3bea94b63f9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a national Welsh rugby team performance in a competitive tournament, which falls under UK sport coverage.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794080994.97849
+  },
+  "677c5f11525c846089b72f494c60c997": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal incident involving firearms and police intervention in the UK, meeting the criteria for hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794081003.715161
+  },
+  "1452d81cfb31314fa0e2777551db98b5": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a severe weather warning from the Met Office that directly impacts UK infrastructure and travel for a significant portion of the population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794081014.528197
+  },
+  "188ddb7d34831ed2590ad34e02261593": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety incident involving emergency services, evacuations, and infrastructure disruption in a major UK city.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794081023.177289
   }
 }
