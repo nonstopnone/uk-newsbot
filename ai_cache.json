@@ -37036,5 +37036,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794015069.540277
+  },
+  "5aadd4b7b4dda960c7560b34ef49de84": {
+    "is_relevant": true,
+    "reasoning": "This is a significant food safety alert issued by the Food Standards Agency affecting products sold across the UK, which constitutes a matter of public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794064789.414146
+  },
+  "40a7772185902f5ea0620221ac2ba66a": {
+    "is_relevant": false,
+    "reasoning": "This is a report on an international rugby match between South Africa and Italy with no relevance to the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794064797.852855
+  },
+  "5e3acd94017b7584b4c26db57d44cf50": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment industry news story about a television programme cancellation, which constitutes lifestyle/culture reporting rather than hard news of significant public interest regarding UK governance, policy, or society.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794064807.900406
+  },
+  "0eb6bfa5fab985639938c0102c52259c": {
+    "is_relevant": true,
+    "reasoning": "This concerns the administration of justice and government policy regarding rape trials in the UK, involving comments from both the Prime Minister and the Metropolitan Police Commissioner.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794064816.543194
   }
 }
