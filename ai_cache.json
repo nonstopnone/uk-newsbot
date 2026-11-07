@@ -37015,5 +37015,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1793999635.122934
+  },
+  "cd95e55af8a58e09066465941ddd6448": {
+    "is_relevant": true,
+    "reasoning": "The article covers major legal proceedings involving prominent public figures with significant UK relevance, including a Metropolitan Police investigation, which constitutes hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794015045.118
+  },
+  "f092f24f19d8f2748abef83b808302cf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, ongoing criminal incident involving firearms and a critical incident declaration by police in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794015054.021966
+  },
+  "8057f602c2046fc43535b58359beb86e": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a rugby match, which falls under sports journalism/previews/reviews rather than the hard news criteria required for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794015069.540277
   }
 }
