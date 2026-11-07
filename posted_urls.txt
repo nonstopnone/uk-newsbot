@@ -1,5 +1,3 @@
-2026-10-31T22:22:36.502779+00:00|https://www.telegraph.co.uk/rugby-union/2026/10/31/northampton-saints-v-gloucester-live-score-updates-prem-rug|northampton dig deep after alex mitchell injury blow|da77da75df86b286e7ff6ae42cdc7eec
-2026-10-31T22:22:38.964846+00:00|https://www.telegraph.co.uk/football/2026/10/31/tottenham-vs-crystal-palace-live-score-updates-premier|spurs win three in row for first time in 616 days to pile pressure on sage|1190a65410d2cc3999f9ddbfef662c68
 2026-11-01T01:46:52.676536+00:00|https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo|thick fog to create hazardous driving conditions into next week|b5bb46c57e54df48deacdc6d767b2b6c
 2026-11-01T01:46:55.220127+00:00|https://www.bbc.co.uk/news/articles/cq398y0zj9rpo|king to address slavery during commonwealth speech in antigua on final leg of caribbean tour|60af2fb4899691c3d5b2e115fd00d06f
 2026-11-01T01:46:57.752652+00:00|https://www.telegraph.co.uk/football/2026/10/31/aston-villa-vs-fulham-live-score-updates-premier-league|suzuki howler costs aston villa crucial points|ceecec0e87bf72282db1211a0964a1a5
@@ -74,3 +72,6 @@
 2026-11-07T19:50:28.837656+00:00|https://www.bbc.co.uk/news/articles/cmkgekz79vd9o|third person arrested after car damaged by gunshots|677c5f11525c846089b72f494c60c997
 2026-11-07T19:50:31.316605+00:00|https://news.sky.com/story/travel-delays-feared-on-remembrance-sunday-as-fog-warning-issued-for-parts-of-england-13609282|travel delays feared as fog warning issued for parts of england|1452d81cfb31314fa0e2777551db98b5
 2026-11-07T19:50:33.692188+00:00|https://www.bbc.co.uk/news/articles/c9203x7pj0kjo|evacuations in liverpool city centre after car crash causes gas leak|188ddb7d34831ed2590ad34e02261593
+2026-11-07T23:19:34.492819+00:00|https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo|veterans shouldnt sleep rough this christmas burnham says|12787ec7a6c757618fc7a2a3f4fb19eb
+2026-11-07T23:19:36.987844+00:00|https://www.telegraph.co.uk/formula-1/2026/11/07/f1-sao-paulo-gp-qualifying-live-latest-lap-updates-brazil|lando norris takes pole at interlagos after chaotic qualifying session|bae12c386d8e5fb61c5d438d3ae16ce7
+2026-11-07T23:19:39.430778+00:00|https://www.telegraph.co.uk/football/2026/11/07/nottingham-forest-vs-man-city-live-score-premier-league|man city look to be crumbling after guilty verdict|617f0b10c4dc008307957ff8f859218b

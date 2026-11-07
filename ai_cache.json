@@ -37099,5 +37099,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1794081023.177289
+  },
+  "bae12c386d8e5fb61c5d438d3ae16ce7": {
+    "is_relevant": true,
+    "reasoning": "The article reports on high-profile British athletes competing in a major international motorsport event, which is consistent with the 'Sport' category for UK news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794093563.826267
+  },
+  "36dbb7512ad6eb89e31398fc9d63ed18": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report concerning a Premier League game and specific refereeing decisions, which is excluded under the criteria for sports previews and general sports coverage.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794093573.960542
   }
 }
