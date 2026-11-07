@@ -1,4 +1,3 @@
-2026-10-31T00:35:14.178371+00:00|https://www.bbc.co.uk/news/articles/ckjwep125v3eo?at_medium=RSS&at_campaign=rss|ICE agent charged for hitting Texas immigrant with vehicle during pursuit|79445ff8d33d2378cc328108ccc40a07
 2026-11-01T20:44:15.768198+00:00|https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss|Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates|4f987b623637c40081138a6ebd37b6c5
 2026-11-01T23:58:04.354841+00:00|https://news.sky.com/story/business-jet-carrying-nine-crashes-in-florida-13606818|Business jet crashes in Florida killing all nine on board|c224bdb498fc8e9491b737b5550f166f
 2026-11-02T05:25:15.062977+00:00|https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss|Trump makes fevered campaign push in final weekend before election|ccd673170c75eabd4f93128fcdc16d6a
@@ -31,3 +30,7 @@
 2026-11-06T21:28:29.204101+00:00|https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss|Trump names Stephen Miller as new White House chief of staff|972283eb437c1a42fd138d383d48b904
 2026-11-06T21:28:34.999723+00:00|https://www.bbc.co.uk/news/videos/cwm244x9dzy2o?at_medium=RSS&at_campaign=rss|Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta|405a3b7f7ed29636bb8a39d729b6ea48
 2026-11-06T21:28:40.697751+00:00|https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss|AI stocks climb after trillions wiped from market values|919f9cd35fdcdfdd4965784ff7ae4775
+2026-11-07T01:05:23.919277+00:00|https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss|Meghan's father Thomas Markle appears in court over child sex abuse material|870b2e7b4357602422fffd3c8c1aa34e
+2026-11-07T01:05:29.482411+00:00|https://news.sky.com/story/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-gang-rape-13609090|Cornell faculty vote 'no confidence' in university leadership after alleged gang rape|e40b0cef1558e9dfb928600cab372dd0
+2026-11-07T01:05:34.960270+00:00|https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss|Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?|1d4a7d801ae8e8f685df7a63b9354bcb
+2026-11-07T01:05:40.465235+00:00|https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss|With Stephen Miller pick, Trump readies for a battle|1b0c6a827512601c3f6ae7b36d7c8cf8
