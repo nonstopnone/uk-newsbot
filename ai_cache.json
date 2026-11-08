@@ -37113,5 +37113,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794093573.960542
+  },
+  "a62424089a834433514668e4f69373a4": {
+    "is_relevant": true,
+    "reasoning": "The article details significant allegations regarding financial impropriety in English football and investigates the influence of foreign ownership on local UK political governance and property regeneration. This constitutes a matter of public interest regarding political transparency and major UK infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794109957.323985
+  },
+  "646501bdbe426aa3806d72782ad70814": {
+    "is_relevant": false,
+    "reasoning": "This article is a celebrity interview and profile piece focusing on an actress's career and personal reflections, which constitutes lifestyle and entertainment news rather than hard news relevant to the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794109966.044156
+  },
+  "e0546591c925a0ac3723b1466e15539e": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/media trend feature about streaming habits and digital entertainment, which does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794109979.234536
   }
 }

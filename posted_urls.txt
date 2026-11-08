@@ -1,6 +1,3 @@
-2026-11-01T01:46:52.676536+00:00|https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo|thick fog to create hazardous driving conditions into next week|b5bb46c57e54df48deacdc6d767b2b6c
-2026-11-01T01:46:55.220127+00:00|https://www.bbc.co.uk/news/articles/cq398y0zj9rpo|king to address slavery during commonwealth speech in antigua on final leg of caribbean tour|60af2fb4899691c3d5b2e115fd00d06f
-2026-11-01T01:46:57.752652+00:00|https://www.telegraph.co.uk/football/2026/10/31/aston-villa-vs-fulham-live-score-updates-premier-league|suzuki howler costs aston villa crucial points|ceecec0e87bf72282db1211a0964a1a5
 2026-11-01T08:34:08.259491+00:00|https://www.bbc.co.uk/news/articles/cqkgl4nmp8lyo|second night of drone disruption at jersey airport|4c5bffe432449e7959252de39aa3046a
 2026-11-01T08:34:10.851830+00:00|https://www.bbc.co.uk/news/articles/cx4g1y955plgo|the papers pm lets down the king and kennys secret night at mayas|07c4ff5f7a72c800e6e93e8df7abd67c
 2026-11-01T15:41:41.665729+00:00|https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o|green party at crossroads after zionism vote says former coleader|2ff3a7a4f9838fc11717c87e6663c0d8
@@ -75,3 +72,5 @@
 2026-11-07T23:19:34.492819+00:00|https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo|veterans shouldnt sleep rough this christmas burnham says|12787ec7a6c757618fc7a2a3f4fb19eb
 2026-11-07T23:19:36.987844+00:00|https://www.telegraph.co.uk/formula-1/2026/11/07/f1-sao-paulo-gp-qualifying-live-latest-lap-updates-brazil|lando norris takes pole at interlagos after chaotic qualifying session|bae12c386d8e5fb61c5d438d3ae16ce7
 2026-11-07T23:19:39.430778+00:00|https://www.telegraph.co.uk/football/2026/11/07/nottingham-forest-vs-man-city-live-score-premier-league|man city look to be crumbling after guilty verdict|617f0b10c4dc008307957ff8f859218b
+2026-11-08T03:52:59.847340+00:00|https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o|royal family join veterans and families at festival of remembrance|52b17d12359279cd84b969b018cefc33
+2026-11-08T03:53:02.258888+00:00|https://www.bbc.co.uk/news/articles/ckpqg13710wjo|property football and politics the links between manchester and abu dhabi explained|a62424089a834433514668e4f69373a4
