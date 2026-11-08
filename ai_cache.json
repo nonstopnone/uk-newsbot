@@ -37204,5 +37204,26 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1794157076.445203
+  },
+  "6e5a35815e345212a79da276d17b5e3a": {
+    "is_relevant": false,
+    "reasoning": "The article is a sports match report and post-match commentary regarding a football game, which is explicitly excluded as fluff/sports news per the instructions.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794171887.710594
+  },
+  "21aed88c3eba629274a7ad5b4b81a0d6": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a British driver (Lando Norris) and a British team (Mercedes) achieving significant success in a major international sporting event, which falls under the sport category.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794171899.972821
+  },
+  "0df412f086cfb4370525b7ecd9d1a7f5": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy change from the Department for Education affecting the national curriculum and secondary school assessment structures across the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794171963.181614
   }
 }
