@@ -37134,5 +37134,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794109979.234536
+  },
+  "4d4d701ffc7cc519bfec15c515eefa03": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development concerning government regulation of online platforms and child safety, which directly impacts UK households and digital infrastructure.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794135522.984044
+  },
+  "14332922af6cf724373cb17e5eebf353": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the application of Scottish property tax policy affecting refugees, which falls under devolved government policy and the UK economy/housing sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1794135532.216745
+  },
+  "bfc987fc6aab08752dbb48791e6ed3e2": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective human interest interview about a historical case from 2000, rather than a piece of hard news or a time-sensitive update.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794135540.787234
+  },
+  "252b2b297b46692be907b1ebfcd2b367": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health news story concerning NHS/devolved health service provision and the accessibility of life-saving medical treatment for UK citizens, which is a matter of public interest.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794135551.628542
+  },
+  "60dbaf8fcb3a9529063aaa3c682978db": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/business interest story concerning the operational policies of a private company (Airbnb) and does not constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794135560.228353
   }
 }
