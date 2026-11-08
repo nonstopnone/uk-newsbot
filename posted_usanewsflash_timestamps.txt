@@ -1,4 +1,3 @@
-2026-11-01T20:44:15.768198+00:00|https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss|Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates|4f987b623637c40081138a6ebd37b6c5
 2026-11-01T23:58:04.354841+00:00|https://news.sky.com/story/business-jet-carrying-nine-crashes-in-florida-13606818|Business jet crashes in Florida killing all nine on board|c224bdb498fc8e9491b737b5550f166f
 2026-11-02T05:25:15.062977+00:00|https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss|Trump makes fevered campaign push in final weekend before election|ccd673170c75eabd4f93128fcdc16d6a
 2026-11-02T05:25:20.535972+00:00|https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss|'Like a missile coming down' - Nine killed in fiery Florida jet crash|f58c722353f8e46626223998dc2842d0
@@ -40,3 +39,5 @@
 2026-11-08T01:26:35.622886+00:00|https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss|The Trump coalition is shattered - what will Republicans do now?|0e1a61aa60a8aec205654e9feb2dcc15
 2026-11-08T07:50:45.865136+00:00|https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613|Trump asks UFC boss Dana White to be his new press secretary|e66e22ee802435f82bbbc0e3b996350e
 2026-11-08T19:01:48.853070+00:00|https://news.sky.com/story/pete-hegseth-could-face-impeachment-proceedings-as-democrats-also-target-elon-musk-and-stephen-miller-13609811|Pete Hegseth could face impeachment proceedings as Democrats also target Elon Musk and Stephen Miller|28722932aa2abb26da23841b95e698cb
+2026-11-08T22:45:17.062542+00:00|https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss|Top House Democrat 'a hard yes' on impeaching Hegseth|f61bad016460d6b2710114e32ba9e8d0
+2026-11-08T22:45:22.694611+00:00|https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss|White House vows to keep up immigration crackdown after midterms defeat|c80664c0c207a6688d45bb76105c4e7a
