@@ -37169,5 +37169,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794135560.228353
+  },
+  "de929e481a13456a304c09577b9780de": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports match report concerning Premier League football, which falls under the category of sports reporting/commentary rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794157027.918339
+  },
+  "76753a538ed3967208663f94866aac05": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a professional football match result, which falls under sports reporting and is explicitly excluded by the relevance criteria.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794157043.643255
+  },
+  "0d37fad7e3357fe00c03fb3be176b1a6": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public disorder incident in a major UK city involving arrests and injuries to police officers, which falls under crime and public safety.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794157051.91314
+  },
+  "bf886c08ab68add8bb60cdcb9c90e85d": {
+    "is_relevant": false,
+    "reasoning": "Weather warnings for fog are considered routine local service news rather than significant hard news of national importance for a breaking news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794157062.423753
+  },
+  "a4e76690bba124105c8cbabd31a5e431": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a major national commemorative event involving the Monarch and political leaders, which is a significant matter of public record and national interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1794157076.445203
   }
 }
