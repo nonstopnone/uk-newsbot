@@ -37225,5 +37225,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1794171963.181614
+  },
+  "0cb297786f06be53fb6caee95285d044": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a sports match report and coaching speculation, which falls under the 'sports previews/reports' exclusion criteria for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794184463.333608
+  },
+  "1f2281cb45f53f74695d1bb370376807": {
+    "is_relevant": false,
+    "reasoning": "This article is a sports opinion column regarding team performance and managerial tenure, which is explicitly excluded by the filter guidelines.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794184472.159682
   }
 }
