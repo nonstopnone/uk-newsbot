@@ -37302,5 +37302,61 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1794301500.351704
+  },
+  "c41c7ad963d123ed9faeef55e7cd45f0": {
+    "is_relevant": true,
+    "reasoning": "The report concerns the operation and security of US military assets stationed on UK soil, which involves national security and Downing Street's response.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794331542.006386
+  },
+  "9449ce0ea2352fa023007dc5a60eb805": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report concerning an inquest into a death involving a high-profile National Security Act case, which is a matter of serious public and legal interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794331625.502708
+  },
+  "36dc5b7d0f877feaf13a1f1594eef7cd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant international criminal investigation involving a high-profile figure with deep ties to the UK, and it explicitly involves the Metropolitan Police in a joint operation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794332411.919266
+  },
+  "79ab6a4bf8144a6967415df217ae361b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on the direct public response to a specific UK government-led emergency preparedness campaign, which is a matter of national public interest and policy implementation.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794332424.876902
+  },
+  "7ca71470fe78770e716344a8d6276692": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding serious allegations of criminal misconduct and a high-profile legal challenge involving a prominent UK public figure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794332432.713893
+  },
+  "fee294d859e51625fdcbbea0f545602e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from a formal Scottish Child Abuse Inquiry regarding systemic failures and long-term abuse, which is a matter of serious public interest and legal concern within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794332448.619602
+  },
+  "97f069f6f7bd30efef0848a00a724b82": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding an ongoing criminal investigation by the Metropolitan Police into a high-profile convicted individual, involving serious allegations of sexual offences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794332457.187235
+  },
+  "a3dbf6282e6a8e552bf6de8519212516": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving public emergency services, a patient in distress, and a subsequent court sentencing in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794332465.700508
   }
 }
