@@ -1,6 +1,3 @@
-2026-11-03T11:25:03.186262+00:00|https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss|Americans head to the polls for elections that could define Trump's closing chapter|0c99a0bc68bc7fd582b1d8f2282c088b
-2026-11-03T11:25:08.834595+00:00|https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss|A Paralympian vs a former TV news anchor - and other US Senate races to watch|04239559e7e0db485f083ad2f61f9089
-2026-11-03T11:25:14.478466+00:00|https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss|Three scenarios for how the US midterm results could unfold|543b721a85504fc1850f65f30f479a7f
 2026-11-04T03:22:35.698739+00:00|https://www.bbc.co.uk/news/videos/cq8rz6xlz6ejo?at_medium=RSS&at_campaign=rss|'A brighter future' - why Americans came out to vote|9a211ecb1d090ee13eb66f4bb9603d25
 2026-11-04T03:22:41.257962+00:00|https://news.sky.com/story/us-midterms-markets-fall-on-wall-street-as-democrats-gain-early-momentum-13607737|Wall Street falls as midterm results emerge - with broad implications possible|9750ca423613d374b644171513a888a9
 2026-11-04T03:22:46.800447+00:00|https://www.bbc.co.uk/news/videos/c6y4xz3ypenko?at_medium=RSS&at_campaign=rss|'I am ready to fight' - Senator-elect Chris Pappas celebrates New Hampshire win|331a04818607f1865d9318b5284cc9fe
@@ -37,3 +34,4 @@
 2026-11-08T22:45:22.694611+00:00|https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss|White House vows to keep up immigration crackdown after midterms defeat|c80664c0c207a6688d45bb76105c4e7a
 2026-11-09T20:12:05.594216+00:00|https://www.bbc.co.uk/news/videos/c6wyrykl9vl7o?at_medium=RSS&at_campaign=rss|Drone delivers food to chimpanzee cut off by flooding|47511ddc8c6c9f37f3e842e3036003ce
 2026-11-10T02:43:36.245004+00:00|https://news.sky.com/story/fbi-to-investigate-nvidia-ceo-over-affair-with-alleged-chinese-spy-trump-says-13610382|FBI investigating Nvidia CEO over affair with alleged Chinese spy|04f5531c69daa022a4619b939a19d66f
+2026-11-10T18:06:50.300341+00:00|https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss|US inflation higher than expected in October - here's what is happening with prices|3d347df2ba5b8ab2c863c7528ff6247b
