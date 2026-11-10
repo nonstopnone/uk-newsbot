@@ -37274,5 +37274,33 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794275459.734459
+  },
+  "e4344dee770b1a44bae3ca9d1f61795b": {
+    "is_relevant": false,
+    "reasoning": "This is a local interest conservation piece regarding a rare plant species. It does not meet the threshold for hard news or significant UK-wide impact required for the BreakingUKNews subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794301472.020545
+  },
+  "cb8b16272b3e364cc9cac20d654c2633": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a violent incident in Krakow involving the death of a British national and several UK citizens caught in the attack, which constitutes significant international news of direct concern to the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1794301480.911065
+  },
+  "768fde06e1ecb25faa4cdaf2f931036e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving a major UK institution (University of Oxford) and pertains to UK colonial history and international cultural diplomacy.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1794301489.636486
+  },
+  "613ce9c15e525630c8c6e6f90859736a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the misuse of public funds within the Scottish NHS and directly relates to the administration of devolved public services.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794301500.351704
   }
 }

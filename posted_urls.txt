@@ -1,5 +1,3 @@
-2026-11-03T07:39:24.837257+00:00|https://www.bbc.co.uk/news/articles/ckly0v440ejpo|police question steve wright about unsolved cases|1483d61cc67eec68c992c33f05d89896
-2026-11-03T07:39:27.216688+00:00|https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o|mahmood scraps settlement plans for migrant care workers|c00ca35ca471690885eab8d0ae4f2cfd
 2026-11-03T15:52:05.744127+00:00|https://www.bbc.co.uk/news/articles/c63elky79np7o|reform uk councillor charged with rape and sexual assault|13509b6ced333f5f933cb576dc09c13d
 2026-11-03T15:52:08.474356+00:00|https://news.sky.com/story/mi5-escapes-legal-action-despite-providing-false-evidence-to-three-courts-13607447|mi5 escapes legal action despite providing false evidence to three courts|6b19477cc70fe954dc0c0b1169000ae4
 2026-11-03T15:52:11.412774+00:00|https://www.bbc.co.uk/news/articles/c3dxw8j7x4zzo|dup leader very sorry carla lockhart has quit the party|ca076f5b327aff231d943d9ece995243
@@ -68,3 +66,5 @@
 2026-11-09T07:31:51.221511+00:00|https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o|dense fog threatens monday morning rushhour disruption|000d862889cb454d8269dc56f8b6794c
 2026-11-10T01:51:00.255164+00:00|https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro|prince william wants more protection from harassment for service women|8f47b25486dac873439368a065bc330c
 2026-11-10T01:51:02.645091+00:00|https://www.bbc.co.uk/news/articles/cm369e3l15lwo|i took vinted to court to get my money back|4db1310ad1e07b6de113d8d727b009c4
+2026-11-10T09:05:01.381839+00:00|https://www.bbc.co.uk/weather/articles/cmzxlxkw4p4lo|severe travel disruption possible as dense fog returns|888bcaf76c22dc4757d24f2a657010b5
+2026-11-10T09:05:03.814700+00:00|https://www.bbc.co.uk/news/articles/cmly0ydz8vgqo|twins ran for our lives as krakow attack unfolded|cb8b16272b3e364cc9cac20d654c2633
