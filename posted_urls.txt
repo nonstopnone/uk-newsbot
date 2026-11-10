@@ -1,5 +1,3 @@
-2026-11-03T21:29:09.911134+00:00|https://www.bbc.co.uk/news/articles/cmp3grwre9xdo|uk and eu agree draft deal to scrap brexit red tape over food exports|bfe82d7e7cb8c143ec28735cbe798de5
-2026-11-03T21:29:12.235400+00:00|https://www.bbc.co.uk/news/articles/cr89znnnn7dno|king calls slave trade a shameful chapter during commonwealth address|bcc9a6c9ee017fae58727c104943008b
 2026-11-04T01:51:09.951226+00:00|https://www.bbc.co.uk/news/articles/cm2l4q52p9w4o|the papers king calls slavery monstrous and celeb loses gag bid|bce7661e74cc7a069ff702d25d2710ae
 2026-11-04T01:51:12.387572+00:00|https://www.bbc.co.uk/news/articles/cm9qz93ew22no|multicancer blood tests coming to some gp surgeries soon|e9f325b115fdb18091150b213f43009b
 2026-11-04T01:51:14.823902+00:00|https://www.telegraph.co.uk/football/2026/11/03/barca-vs-aston-villa-live-score-champions-league-updates|emery endures heaviest european defeat at the hands of old foes barcelona|542bbb6e779a8dc0b49f8ddd1f24a382
@@ -66,3 +64,4 @@
 2026-11-10T09:05:03.814700+00:00|https://www.bbc.co.uk/news/articles/cmly0ydz8vgqo|twins ran for our lives as krakow attack unfolded|cb8b16272b3e364cc9cac20d654c2633
 2026-11-10T17:41:06.686275+00:00|https://www.bbc.co.uk/news/articles/c32l4lw12z7po|more than 12 us military aircraft leave second uk base|c41c7ad963d123ed9faeef55e7cd45f0
 2026-11-10T17:41:09.203772+00:00|https://www.bbc.co.uk/news/articles/cjqlnln57150o|alleged spy told police he would harm himself inquest|9449ce0ea2352fa023007dc5a60eb805
+2026-11-10T22:47:24.434721+00:00|https://www.bbc.co.uk/news/articles/c3lylyy24xl5o|census should include black english and asian english options says mp|8004c5f1f3b89b04f7ea617c9884adef
