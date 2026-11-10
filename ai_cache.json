@@ -37253,5 +37253,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794209507.963497
+  },
+  "8f47b25486dac873439368a065bc330c": {
+    "is_relevant": true,
+    "reasoning": "The article involves a senior member of the Royal Family addressing a matter of significant national importance regarding the conduct and safety standards within the UK Armed Forces.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1794275439.27361
+  },
+  "4db1310ad1e07b6de113d8d727b009c4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant consumer rights issue affecting millions of UK users, involving legal action and potential regulatory concerns within the UK marketplace.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794275448.772744
+  },
+  "dc7a63ce5988580b9f481d9f2bd06652": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle feature about a lighthouse keeper and does not constitute hard news or a matter of significant public policy or national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794275459.734459
   }
 }
