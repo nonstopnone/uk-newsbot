@@ -37393,5 +37393,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1794391909.885464
+  },
+  "d8c2b3b32e77bb1556bb06ce3eb724f3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal development concerning a high-profile case involving a mass funeral scandal in Hull.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794421034.310275
+  },
+  "3915bb67a8179d640f5f331c6a25c6a0": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant security and political matter involving national intelligence, parliamentary research, and UK-China relations.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794421042.722303
+  },
+  "6d7217dedfc8149e766a5a42c7436b45": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security story involving a terrorist plot targeting a UK airbase and alleged activities within London.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794421071.266136
+  },
+  "1401cffd43197e5a52784c36e67e087f": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a regional health crisis in the DRC and does not detail a material impact on the UK or a specific UK government health response. It is a foreign health story lacking direct relevance to the UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794421081.246691
+  },
+  "0f092ee27554e6f628ece09ee4b1aa00": {
+    "is_relevant": true,
+    "reasoning": "The potential collapse or major restructuring of a prominent UK high-street retailer is significant economic news affecting jobs and the national retail sector.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1794421088.887192
+  },
+  "9b9c003704868c0e804ea92c07180d14": {
+    "is_relevant": true,
+    "reasoning": "The death of a British national in a major international violent incident is a matter of significant public interest for a UK audience.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1794421099.854043
   }
 }
