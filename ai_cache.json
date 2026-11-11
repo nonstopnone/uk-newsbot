@@ -37358,5 +37358,40 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1794332465.700508
+  },
+  "86c9718810a283c707880b5e05ebe5dd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK business news story involving a major high street retailer, 11,000 jobs, and active parliamentary scrutiny.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1794391813.29065
+  },
+  "e90ff5688817907c5b33e7108e7d071e": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle piece regarding a royal's hobby rather than a significant event concerning the monarchy's role, public policy, or major national news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794391822.2723
+  },
+  "eca5e46486b8b2bbd2e54f579508d04d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle/arts feature and does not constitute hard news of significant national interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794391890.19617
+  },
+  "e546b5977ec3acf311fc11fe6adc7069": {
+    "is_relevant": true,
+    "reasoning": "This is a significant cultural heritage issue involving public infrastructure and local government policy in Wales.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1794391899.843665
+  },
+  "5129e372418a38d1a494ab4a3babd0c9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local governance, crime, and public waste issue involving government-funded infrastructure in Wales, making it relevant for a UK-wide audience concerned with law, order, and public spending.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794391909.885464
   }
 }
