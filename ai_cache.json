@@ -37435,5 +37435,12 @@
     "flair": "Notable International News🌍",
     "provider": "Gemini",
     "timestamp": 1794421099.854043
+  },
+  "042b4d4aae057fbc7f2f0ab324fc332b": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused entertainment news story regarding allegations against a comedian, which does not meet the threshold for hard news or significant public interest as defined by the subreddit's remit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794446059.00212
   }
 }
