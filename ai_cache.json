@@ -37442,5 +37442,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794446059.00212
+  },
+  "4d5cb7c8fa2827cdba09a5459e7e24e3": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development concerning legal disclosure requirements in England and Wales, which directly affects the UK justice system and employment regulations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794505856.416714
+  },
+  "ba52329f0804bb2abfcbccd073552f75": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case involving a notable figure and issues concerning UK border security and illegal immigration.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794505870.955289
+  },
+  "d08bfa52fa58c70425fb24fca0d964cd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant environmental incident affecting public health and local infrastructure in the UK, requiring government and agency intervention.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794505890.621011
+  },
+  "17131f960baccce4c9fa4792913f9398": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on a study conducted in Tanzania regarding local social issues; while a UK university is involved in the research, the subject matter does not constitute hard news relevant to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794505903.109944
+  },
+  "7e8ae2823aac0ac9d5b9195ce47aa716": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant ongoing legal proceeding within the UK justice system involving a high-profile figure, falling under the remit of courts and legal affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794505914.981094
+  },
+  "fbe815636c1d1c9f90e25eee85391a3c": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant legal outcome involving a high-profile UK public figure, falling under the remit of criminal justice and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794505929.385942
+  },
+  "0ac391db8fb873f6b4ad1479b103f738": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on bird flu research and cases in Cambodia, which does not constitute a direct or material impact on the UK at this time.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794505948.862103
   }
 }

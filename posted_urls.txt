@@ -1,7 +1,3 @@
-2026-11-05T11:48:44.896389+00:00|https://www.bbc.co.uk/news/articles/cm8xzkkd72pro|family pay tribute to ray of sunshine daughter killed by bus|f31db3def44b524c05585276f332f4ab
-2026-11-05T11:48:47.465603+00:00|https://www.bbc.co.uk/news/articles/crgj9qee2dw5o|investigation after hundreds of letters found dumped|06c7614ea876f395e8a06d7fcc2b002e
-2026-11-05T11:48:50.002932+00:00|https://news.sky.com/story/poundland-owner-turns-to-thames-water-creditors-lobbying-firm-as-political-heat-rises-13608284|poundland owner turns to thames water creditors lobbying firm as political heat rises|7e2854cbbc6ac98ec9de6c08684eab53
-2026-11-05T11:48:52.408667+00:00|https://news.sky.com/story/third-person-charged-after-police-officer-shot-in-foot-in-nottingham-13608240|third person charged after police officer shot in foot in nottingham|6ec6d48c22d98f8e6850def6c06cbe1e
 2026-11-05T19:23:13.967704+00:00|https://www.bbc.co.uk/news/articles/cmwy9z5423p2o|henry nowaks killer has minimum term increased to 25 years by court of appeal|adb8252600c6158eb9fdded8c61fadc4
 2026-11-05T19:23:16.342809+00:00|https://www.bbc.co.uk/news/articles/ckyvrze96y70o|russell brand found guilty of rape and sexual assault|12904685aa74055ec88484d661cf9ab7
 2026-11-05T19:23:18.799089+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/copy-of-ebola-virus-drc-outbreak-symptoms-transmission-treatment|can the uk handle an ebola infection|f3ad738fe0184fac9590af511f6b955a
@@ -57,3 +53,7 @@
 2026-11-12T01:14:19.471830+00:00|https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo|not the answer labour mps speak out against rosebank as decision looms|da9724a903c48734e3ccab49e9543029
 2026-11-12T09:05:37.540127+00:00|https://www.bbc.co.uk/news/articles/cwn70l1628l0o|some under25s should get fewer benefits milburn review to say|11d0f5c8c64b25f28e45eec1c2f365f1
 2026-11-12T09:05:40.272646+00:00|https://www.bbc.co.uk/news/articles/crgj3vz5x4p2o|the papers tv industry must tackle abuse and cameron tells pm dont rejoin the eu|bc7ebca9be289a511655325291413cfd
+2026-11-12T17:52:29.513320+00:00|https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo|some childhood offenders may no longer have to reveal convictions to employers|4d5cb7c8fa2827cdba09a5459e7e24e3
+2026-11-12T17:52:31.968065+00:00|https://www.bbc.co.uk/news/articles/c6x20x380z12o|activist daniel thomas admits criminal damage after slashing migrant dinghy in channel|ba52329f0804bb2abfcbccd073552f75
+2026-11-12T17:52:34.430516+00:00|https://news.sky.com/story/judges-consider-submissions-in-bid-for-private-prosecution-of-david-goodwillie-13611532|judges consider submissions in bid for private prosecution of former footballer|7e8ae2823aac0ac9d5b9195ce47aa716
+2026-11-12T17:52:37.045588+00:00|https://www.telegraph.co.uk/business/2026/11/12/uk-economy-gdp-burnham-ai-healey-ftse-100-markets|ai fuels fastest economic growth in two years|16e5fc127d7b50ebf1764d169736a71e
