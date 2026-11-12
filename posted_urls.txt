@@ -1,6 +1,3 @@
-2026-11-05T19:23:13.967704+00:00|https://www.bbc.co.uk/news/articles/cmwy9z5423p2o|henry nowaks killer has minimum term increased to 25 years by court of appeal|adb8252600c6158eb9fdded8c61fadc4
-2026-11-05T19:23:16.342809+00:00|https://www.bbc.co.uk/news/articles/ckyvrze96y70o|russell brand found guilty of rape and sexual assault|12904685aa74055ec88484d661cf9ab7
-2026-11-05T19:23:18.799089+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/copy-of-ebola-virus-drc-outbreak-symptoms-transmission-treatment|can the uk handle an ebola infection|f3ad738fe0184fac9590af511f6b955a
 2026-11-06T00:39:47.560809+00:00|https://www.bbc.co.uk/news/articles/c699zde85xn7o|thatchers right to buy split my estate now its days could be numbered|5caf1920ceb9efffe893621568bdc36b
 2026-11-06T00:39:50.112383+00:00|https://www.bbc.co.uk/news/articles/cmd9343z3zw2o|firms told to publish salaries in job adverts ahead of new law|24f53c82a2dd42cb951995d69052933c
 2026-11-06T07:34:19.972485+00:00|https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o|seven arrested and police car set alight during bonfire night violence|dc28efcd41c3f425bb2a89b2cb6df35a
@@ -57,3 +54,6 @@
 2026-11-12T17:52:31.968065+00:00|https://www.bbc.co.uk/news/articles/c6x20x380z12o|activist daniel thomas admits criminal damage after slashing migrant dinghy in channel|ba52329f0804bb2abfcbccd073552f75
 2026-11-12T17:52:34.430516+00:00|https://news.sky.com/story/judges-consider-submissions-in-bid-for-private-prosecution-of-david-goodwillie-13611532|judges consider submissions in bid for private prosecution of former footballer|7e8ae2823aac0ac9d5b9195ce47aa716
 2026-11-12T17:52:37.045588+00:00|https://www.telegraph.co.uk/business/2026/11/12/uk-economy-gdp-burnham-ai-healey-ftse-100-markets|ai fuels fastest economic growth in two years|16e5fc127d7b50ebf1764d169736a71e
+2026-11-12T23:05:01.854950+00:00|https://www.bbc.co.uk/news/articles/c6vg2w5pjj99o|rollsroyce gas leak prompts emergency response|e8c21d81d7cff5247a91eae0ed9d1430
+2026-11-12T23:05:04.394987+00:00|https://www.telegraph.co.uk/football/2026/11/12/england-vs-croatia-live-score-latest-nations-league-updates|kane bends game to his will on recordbreaking night|9dce43f5414904ac734064755ccf93d9
+2026-11-12T23:05:06.805579+00:00|https://www.bbc.co.uk/news/articles/cmy0enrkwkklo|search for british woman missing from tui cruise in atlantic called off|aa73e1d95a62c3c1735fad00ee282122

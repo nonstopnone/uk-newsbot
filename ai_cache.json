@@ -37491,5 +37491,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794505948.862103
+  },
+  "e8c21d81d7cff5247a91eae0ed9d1430": {
+    "is_relevant": true,
+    "reasoning": "This is a significant emergency incident involving a major UK industrial site and a multi-agency public safety response that required road closures and public health warnings.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794524681.755354
+  },
+  "aa73e1d95a62c3c1735fad00ee282122": {
+    "is_relevant": true,
+    "reasoning": "This report concerns the death of a British citizen in an international incident involving a British-based cruise line, which is a significant matter of public interest in the UK.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794524690.866417
+  },
+  "67c2152f281bd05bd886d953e9572a7b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant criminal sentencing for serious offences, including coercive control and intentional strangulation, handed down in a UK court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794524701.018817
   }
 }
