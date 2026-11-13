@@ -37533,5 +37533,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1794544670.188783
+  },
+  "08ec417b0718311c54bcd06b12465bca": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving a UK citizen with alleged ties to a proscribed terrorist group, representing a matter of national security and public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794573973.569316
+  },
+  "70e368bb20abe0538e3a7bb3c73e25c2": {
+    "is_relevant": true,
+    "reasoning": "This relates to the high-profile criminal conviction and sentencing of a former major political party leader, which is a significant matter of public interest within UK/Northern Ireland legal and political affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794573988.431779
+  },
+  "c724ce6ce0a0644234123df5808eb4a2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a major UK infrastructure firm and multiple fatalities, falling under criminal and safety regulations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794574021.197815
+  },
+  "a916c7c6ac065d71752ef41e881abcba": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a crime investigation and court proceedings involving multiple sexual assaults in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794574036.677714
+  },
+  "bb22e5a2e3731ecbaf78b95e2d192f5e": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest/lifestyle story and does not constitute hard news relevant to the UK's political, economic, or legal landscape.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794574045.822025
+  },
+  "5ccfff05df41f586f4d964f412526a83": {
+    "is_relevant": true,
+    "reasoning": "This is a report on the performance of the England national cricket team in an international Test match, which falls under the criteria for sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794574082.019451
+  },
+  "f11981d7cb86483e94a16f5181c887ca": {
+    "is_relevant": true,
+    "reasoning": "The article reports on an official England national cricket team international match, which falls under UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794574089.245636
+  },
+  "ffbe38452ae85271ae155f7986266e59": {
+    "is_relevant": false,
+    "reasoning": "This article concerns entertainment and music festival line-ups, which falls under lifestyle and culture news rather than the hard news criteria required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794574108.984126
   }
 }
