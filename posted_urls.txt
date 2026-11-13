@@ -1,7 +1,3 @@
-2026-11-06T15:36:04.186171+00:00|https://www.bbc.co.uk/news/articles/cmwy445n9dw2o|jail and health board admit criminal charges over covid death prisoner|9a43c7a775f5706bf9ca4eae2ce2e8b1
-2026-11-06T15:36:06.523164+00:00|https://www.bbc.co.uk/news/articles/c61wvv8w9wevo|bonfire night violence condemned as six arrested|82dd270588cb865fe5cb4d85bbbe6f12
-2026-11-06T15:36:08.846323+00:00|https://news.sky.com/story/killer-who-bragged-after-fatally-stabbing-student-jailed-13608704|killer who bragged after fatally stabbing student jailed|1a71e962d88f15a4cc891aa4020498ec
-2026-11-06T15:36:11.202762+00:00|https://news.sky.com/story/met-police-chief-warns-policing-will-fail-without-major-reforms-13608862|met chief warns that policing will fail without major reforms|c747cb8699362b8d7f4a4be03e7ab481
 2026-11-06T21:13:56.055047+00:00|https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o|this is what dying feels like says train victim|f1e28dcfe8eb783574112aed5852f622
 2026-11-06T21:13:58.606230+00:00|https://www.telegraph.co.uk/football/2026/11/06/england-squad-live-thomas-tuchel-players-nations-league|tuchel bellingham and i were up and down now we are in a good place|a02dea86dcbfbd9c831d2dfe493e1bf3
 2026-11-06T21:14:01.314322+00:00|https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo|tube drivers to stage strikes in christmas runup|e26660eccefaff8783e546bffb6b0ec7
@@ -59,3 +55,5 @@
 2026-11-13T12:48:31.866176+00:00|https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o|gps police and pharmacies among uk services affected by microsoft outage|fd7c65ef0834ea93985338992217d8ca
 2026-11-13T12:48:34.210719+00:00|https://news.sky.com/story/jeffrey-donaldsons-wife-eleanor-placed-on-sex-offenders-register-after-his-rape-conviction-13611873|jeffrey donaldsons wife eleanor placed on sex offenders register after his rape conviction|70e368bb20abe0538e3a7bb3c73e25c2
 2026-11-13T12:48:36.766046+00:00|https://www.telegraph.co.uk/cricket/2026/11/13/australia-vs-england-live-score-latest-updates-first-odi|englands batting capitulates in defeat to lift australias spirits|5ccfff05df41f586f4d964f412526a83
+2026-11-13T20:15:03.456226+00:00|https://www.bbc.co.uk/news/articles/cr0jxwv1v266o|man who transported omagh bomb was an mi5 and garda agent inquiry told|592c24e8a0a981dde373983b13b52353
+2026-11-13T20:15:05.874315+00:00|https://www.bbc.co.uk/news/articles/cr5y139wplppo|tories pay artist for burnham images after legal threat|8d86f4f481864fa367f4a3e5a35ea1e5

@@ -37589,5 +37589,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794574108.984126
+  },
+  "8d86f4f481864fa367f4a3e5a35ea1e5": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a legal dispute involving a major UK political party's conduct, settling a threat of litigation regarding copyright infringement.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794600855.579796
+  },
+  "9692d9d8e60047811740354866e128fe": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal outcome involving the wife of a former major political party leader, carrying public interest regarding the justice system and criminal proceedings in Northern Ireland.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794600864.764207
+  },
+  "f14f9346a96245bcc80ecf82d12f0cd2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a major conviction and sentencing for widespread online grooming of UK children, falling squarely under crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794600872.951882
+  },
+  "248b018491f1761d3f03a3a1bee78fa0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding an inquest into a preventable death within the NHS, which is a matter of critical public interest and UK health policy.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794600885.058897
+  },
+  "e9fedeec559e701f679c8decbfcc1e12": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report involving a police investigation into serious criminal allegations, which falls squarely under crime and legal news of high public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794600894.474975
+  },
+  "2f5504e6e21296756c7e03ec8e4e62e0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a workplace fatality at a major UK infrastructure facility, which is currently subject to a police and Health and Safety Executive investigation.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794600902.835659
   }
 }
