@@ -1,5 +1,3 @@
-2026-11-06T00:39:47.560809+00:00|https://www.bbc.co.uk/news/articles/c699zde85xn7o|thatchers right to buy split my estate now its days could be numbered|5caf1920ceb9efffe893621568bdc36b
-2026-11-06T00:39:50.112383+00:00|https://www.bbc.co.uk/news/articles/cmd9343z3zw2o|firms told to publish salaries in job adverts ahead of new law|24f53c82a2dd42cb951995d69052933c
 2026-11-06T07:34:19.972485+00:00|https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o|seven arrested and police car set alight during bonfire night violence|dc28efcd41c3f425bb2a89b2cb6df35a
 2026-11-06T07:34:22.439745+00:00|https://www.bbc.co.uk/news/articles/cqde8prpdge3o|misleading student loans information left out examples of highersalary repayments|667021fe17113bd238a1280357d432d3
 2026-11-06T15:36:04.186171+00:00|https://www.bbc.co.uk/news/articles/cmwy445n9dw2o|jail and health board admit criminal charges over covid death prisoner|9a43c7a775f5706bf9ca4eae2ce2e8b1
@@ -57,3 +55,5 @@
 2026-11-12T23:05:01.854950+00:00|https://www.bbc.co.uk/news/articles/c6vg2w5pjj99o|rollsroyce gas leak prompts emergency response|e8c21d81d7cff5247a91eae0ed9d1430
 2026-11-12T23:05:04.394987+00:00|https://www.telegraph.co.uk/football/2026/11/12/england-vs-croatia-live-score-latest-nations-league-updates|kane bends game to his will on recordbreaking night|9dce43f5414904ac734064755ccf93d9
 2026-11-12T23:05:06.805579+00:00|https://www.bbc.co.uk/news/articles/cmy0enrkwkklo|search for british woman missing from tui cruise in atlantic called off|aa73e1d95a62c3c1735fad00ee282122
+2026-11-13T04:37:50.718750+00:00|https://www.bbc.co.uk/news/articles/c58j4798874go|military base asylum plans granted planning approval|3ce05946b9f12e0045fc175235927e7a
+2026-11-13T04:37:53.064756+00:00|https://www.bbc.co.uk/news/articles/ckx28le8dv9wo|junior doctor burnout putting maternity patients at risk says regulator|736ceb801bbf49ad80a48f840987aa5e

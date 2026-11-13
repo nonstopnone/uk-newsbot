@@ -37512,5 +37512,26 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1794524701.018817
+  },
+  "736ceb801bbf49ad80a48f840987aa5e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the General Medical Council regarding NHS staffing, patient safety, and public health policy, which is highly relevant to the UK.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794544648.303641
+  },
+  "5a1aac89e8b8e8e778d473934747d040": {
+    "is_relevant": false,
+    "reasoning": "This article is classified as light entertainment/lifestyle news regarding a celebrity prank on a TV charity show, which does not meet the criteria for hard news or significant UK public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794544658.562928
+  },
+  "b9e75cfdaee1ee11771a8f1524ee2377": {
+    "is_relevant": true,
+    "reasoning": "The article covers the sentencing of a high-profile individual and subsequent reporting on conditions within the UK prison system, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794544670.188783
   }
 }
