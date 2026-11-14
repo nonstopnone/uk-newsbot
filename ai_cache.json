@@ -37631,5 +37631,61 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1794600902.835659
+  },
+  "e9e89c4a304aee99a79ee3196c0f3ac0": {
+    "is_relevant": false,
+    "reasoning": "This article is lifestyle content concerning Christmas tree maintenance and is not considered hard news relevant to UK public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794618647.576597
+  },
+  "8920cf9ec8cbb0a5dff248f390bb50a9": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/entertainment piece about a video game's development and release cycle, which does not constitute hard news or a material impact on the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794618654.817738
+  },
+  "9d7b31b9b39add152fcf041a42000a00": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a high-profile criminal case involving a fatal hit-and-run, the pursuit of justice, and a recent sentencing within the UK court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794618665.321549
+  },
+  "7c752a24c77b3525ab05df4f408ed5bc": {
+    "is_relevant": true,
+    "reasoning": "The article covers significant ongoing criminal investigations and legal outcomes involving high-profile public figures and institutions within the UK entertainment industry, which constitutes hard news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794618681.858396
+  },
+  "e246b5e38ed07664db55a09c87fc1900": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a rugby union match between France and South Africa, which is a sports event with no material impact on UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794618696.083434
+  },
+  "fa4badcdca276a483229c029f31e8f9e": {
+    "is_relevant": false,
+    "reasoning": "This is a charity fundraising summary and entertainment segment, which falls under lifestyle and fluff rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794618709.576895
+  },
+  "25c3526c9c4cd707a86128c77ea4bcf3": {
+    "is_relevant": true,
+    "reasoning": "This incident involves a security breach at a major RAF base in the UK, impacting national security and involving local authorities and an MP.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794618718.84054
+  },
+  "091d8ac393513dd9f94939f1179066c2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health and safety incident involving a death at a major UK studio, triggering official investigations by Police Scotland and the Health and Safety Executive.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794618734.855792
   }
 }
