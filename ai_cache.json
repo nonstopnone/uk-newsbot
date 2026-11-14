@@ -37687,5 +37687,47 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1794618734.855792
+  },
+  "1a3eaab21d7c75afe62b4a6d527c4d40": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant protest in the capital of a devolved nation, directly involving the Scottish Parliament and government policy regarding national infrastructure development.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794670077.373088
+  },
+  "e3805f72f5fe6da6ce2c83c44ce889b5": {
+    "is_relevant": false,
+    "reasoning": "This is a celebrity-focused human interest story regarding past comments and associations rather than a matter of significant national political, legal, or economic concern.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794670092.049592
+  },
+  "6bf2ccaa916468f08af3cd2e0191b982": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious violent crime and an active murder investigation in the UK, which falls under core hard news reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794670133.598
+  },
+  "b2b062142b37525a8608feaf9f8455cb": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and entertainment piece regarding a music release and celebrity biography, which does not meet the threshold for hard news or significant UK public interest required for this sub.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794670140.341131
+  },
+  "4aade4c313a6326ba66a0c5c47930c77": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest/lifestyle profile about a young actor's personal success, which does not meet the criteria for hard news or significant UK-wide impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794670150.360411
+  },
+  "7995a097f8276a84f10e1068a2c26536": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime and public safety incident involving mass hospitalisation in a major UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794670160.224548
   }
 }
