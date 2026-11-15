@@ -1,5 +1,3 @@
-2026-11-08T10:59:20.648515+00:00|https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro|government looking seriously at banning under16s from vinted and ebay|4d4d701ffc7cc519bfec15c515eefa03
-2026-11-08T10:59:23.042340+00:00|https://www.bbc.co.uk/news/articles/c674pk4klp7no|we face paying £9000 tax even though our second home is in a war zone|14332922af6cf724373cb17e5eebf353
 2026-11-08T16:57:57.244142+00:00|https://www.bbc.co.uk/news/articles/c8zxl9417e5vo|two arrested after police officers hurt in brawl outside bareknuckle fighting event|0d37fad7e3357fe00c03fb3be176b1a6
 2026-11-08T16:57:59.836878+00:00|https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o|king leads solemn remembrance sunday service at cenotaph|dcdaa37850eb43b0c19fefe86637846c
 2026-11-08T21:06:04.705835+00:00|https://www.telegraph.co.uk/formula-1/2026/11/08/sao-paulo-grand-prix-f1-2026-live-latest-norris-antonelli|norris wins chaotic sao paulo grand prix as mercedes seal constructors championship|21aed88c3eba629274a7ad5b4b81a0d6
@@ -54,3 +52,7 @@
 2026-11-15T00:38:12.012357+00:00|https://www.bbc.co.uk/news/articles/cm3rgx9p583zo|alleged russell brand rape victim wants age of consent law changed|64252478ef86f5de98f708e045e26752
 2026-11-15T07:26:27.942085+00:00|https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o|exmet police inspector lied about wifes death in barbados hotel room bbc learns|2199cf84f059fc65b38a9dec8c6fc31d
 2026-11-15T07:26:30.522696+00:00|https://news.sky.com/story/more-cold-health-alerts-to-take-effect-after-temperatures-drop-to-6c-13612383|more cold health alerts to take effect after temperatures drop to 6c|5d176fc883fc0336f0151404b28c7c9c
+2026-11-15T15:16:17.314422+00:00|https://www.bbc.co.uk/news/articles/cwdr1dmn563do|staggered age of consent to be discussed after brand case minister says|9823ec3cf39e27fc24e90427f9b97657
+2026-11-15T15:16:19.751528+00:00|https://www.bbc.co.uk/news/videos/ck5y1pzzny10o|watch aftermath of deadly leeds car crash during police pursuit|0d84195920a9d717a0a646c1c7e406f2
+2026-11-15T15:16:22.392850+00:00|https://www.telegraph.co.uk/cricket/2026/11/15/australia-v-england-score-and-updates-from-second-odi|recordbreaking england hammer australia to force series decider|e19d3630acf694114df8e4fd9fdde3e8
+2026-11-15T15:16:25.049581+00:00|https://news.sky.com/story/minister-says-fundamental-reset-of-system-needed-as-neets-review-looms-13612451|minister says fundamental reset of system needed as neets review looms|de024c7ccc9f40ba994cdcc7914aa711

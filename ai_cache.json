@@ -37792,5 +37792,82 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1794727587.30238
+  },
+  "9823ec3cf39e27fc24e90427f9b97657": {
+    "is_relevant": true,
+    "reasoning": "This concerns a potential change in UK law being discussed by a government minister following a high-profile criminal conviction. It falls under legal and policy developments of significant public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794755547.502149
+  },
+  "0d84195920a9d717a0a646c1c7e406f2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive crime event involving fatalities and a police pursuit, meeting the criteria for hard news relevant to a UK audience.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794755555.587202
+  },
+  "0fa52e2d26b29eff329d36739952e524": {
+    "is_relevant": true,
+    "reasoning": "This is a significant sporting achievement for a national team representing a devolved nation of the UK, involving a major historical victory in international rugby.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794755608.321115
+  },
+  "847398a024a25a8b8105949a0c6fca13": {
+    "is_relevant": true,
+    "reasoning": "This is a significant violent crime incident involving a serious injury and a police investigation in a UK city, meeting the criteria for Crime & Legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794755634.231582
+  },
+  "4c90b9db7ddf72c008f941d8d7c38120": {
+    "is_relevant": true,
+    "reasoning": "This article covers significant proposed changes to UK employment legislation and welfare policy, directly affecting government policy and the UK economy.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794755648.308268
+  },
+  "e19d3630acf694114df8e4fd9fdde3e8": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant result in international cricket involving the England national team, which falls under UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794755660.12839
+  },
+  "8f13d53927dc48a44506fedee50bf625": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive report on a fatal multi-vehicle collision involving police intervention, which is a major crime and public safety incident in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794755676.804882
+  },
+  "f0fec15b4280c8d7b0931d944208425f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant result in professional golf involving prominent UK athletes, which falls under the sport category for UK news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794755687.66072
+  },
+  "b0dd668f17881922df082f12a794a37b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a criminal court case involving a notable individual, qualifying as hard news under the Crime & Legal category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794755728.486779
+  },
+  "31fb8e9b2f7dc8e8b06a3454e2dc8981": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a major international cricket match involving the England national team, which falls under the category of significant UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794755746.985264
+  },
+  "de024c7ccc9f40ba994cdcc7914aa711": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development regarding UK youth employment and education, falling directly under domestic political and economic governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794755776.605478
   }
 }
