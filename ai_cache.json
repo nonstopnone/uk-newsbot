@@ -37750,5 +37750,40 @@
     "flair": "Sport",
     "provider": "Gemini",
     "timestamp": 1794687499.314432
+  },
+  "bc8a70c5e37cbb0c031a3a1beeee4f57": {
+    "is_relevant": false,
+    "reasoning": "This is a personal lifestyle/health story about a public figure and does not constitute hard news or a matter of public policy relevant to the broader UK audience.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794703045.905558
+  },
+  "08bed4670d0979a615f68aa7f45534bf": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile criminal sentencing and subsequent prison management issues involving a UK public figure, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794703054.457835
+  },
+  "4d72efc367d0c1e6afc211457f36d1d8": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on international rugby union, which is classified as sports match reporting rather than the hard news categories required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794703063.4219
+  },
+  "64252478ef86f5de98f708e045e26752": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a high-profile criminal case involving a major public figure and a specific policy campaign to reform UK age of consent laws.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794703073.989625
+  },
+  "e966e5922bb3f99f38156e75e87d43ed": {
+    "is_relevant": true,
+    "reasoning": "This is a significant story regarding the head of a government ethics body stepping down due to misconduct allegations, which is highly relevant to UK public life and integrity in government.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794703087.692901
   }
 }
