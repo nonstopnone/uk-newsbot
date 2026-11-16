@@ -37939,5 +37939,40 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1794814404.821428
+  },
+  "046845f2361440806045b50bebc1bdb2": {
+    "is_relevant": true,
+    "reasoning": "This is a significant event involving a senior UK politician and the death of his family members, which is of clear public interest in the context of Northern Irish politics.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794851236.569541
+  },
+  "471395d99c4090e96cd5573db8085b36": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a gross misconduct hearing involving police officers and a high-profile fatal incident in Wales, which is a matter of serious public interest and legal accountability.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794851257.094174
+  },
+  "f5b6568651e57f8d473bb63f9403d9c4": {
+    "is_relevant": true,
+    "reasoning": "The story involves a significant cultural achievement by a British artist on the global stage, which is of major interest to the UK public.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1794851268.371505
+  },
+  "48c647213664c76d10d1db2295fd278c": {
+    "is_relevant": false,
+    "reasoning": "This is a speculative lifestyle and entertainment piece regarding celebrity casting, which does not constitute hard news or material public interest for r/BreakingUKNews.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794851280.067468
+  },
+  "dc636598626c0856a82b683fac7a203b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development concerning the UK justice system and government policy, involving a direct intervention by the Justice Secretary into legal standards.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794851290.401523
   }
 }
