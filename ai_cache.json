@@ -37869,5 +37869,33 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1794755776.605478
+  },
+  "f13dd4fb85494536d67dde7e59794020": {
+    "is_relevant": true,
+    "reasoning": "This article covers a significant sporting achievement by the England national team, which falls under UK sport news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1794789448.53999
+  },
+  "3f9bfd599875a7cb049e9e08e2f41539": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant legal development regarding a high-profile criminal sentencing and prison transfer within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794789456.963991
+  },
+  "33067754cbb89e545e5d4801f23b2e50": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile member of the Royal Family engaging in significant international activities directly related to UK-led initiatives like the Invictus Games.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1794789465.095745
+  },
+  "78d8588f8ac0a6798f3cdf834ab60e6b": {
+    "is_relevant": true,
+    "reasoning": "This article covers a major political development concerning the Prime Minister's policy on the UK's relationship with the EU, which is a core matter of UK governance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794789474.968534
   }
 }

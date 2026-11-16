@@ -1,6 +1,3 @@
-2026-11-08T21:06:04.705835+00:00|https://www.telegraph.co.uk/formula-1/2026/11/08/sao-paulo-grand-prix-f1-2026-live-latest-norris-antonelli|norris wins chaotic sao paulo grand prix as mercedes seal constructors championship|21aed88c3eba629274a7ad5b4b81a0d6
-2026-11-08T21:06:07.219611+00:00|https://www.bbc.co.uk/news/articles/c680z89dk827o|secondary schools told to stop teaching gcses before year 10|0df412f086cfb4370525b7ecd9d1a7f5
-2026-11-09T00:34:32.870388+00:00|https://www.bbc.co.uk/news/articles/cx30eg5593gmo|the papers there are more like brand and steep cuts to ev targets|7ed84faaf6590cfcc7b56af10461e532
 2026-11-09T07:31:48.718986+00:00|https://www.bbc.co.uk/news/articles/cqkg5g2970epo|governments ev targets expected to be reduced this week|feeb33912853aa923056ee89cdf30278
 2026-11-09T07:31:51.221511+00:00|https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o|dense fog threatens monday morning rushhour disruption|000d862889cb454d8269dc56f8b6794c
 2026-11-10T01:51:00.255164+00:00|https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro|prince william wants more protection from harassment for service women|8f47b25486dac873439368a065bc330c
@@ -56,3 +53,7 @@
 2026-11-15T15:16:25.049581+00:00|https://news.sky.com/story/minister-says-fundamental-reset-of-system-needed-as-neets-review-looms-13612451|minister says fundamental reset of system needed as neets review looms|de024c7ccc9f40ba994cdcc7914aa711
 2026-11-15T20:43:08.023820+00:00|https://www.telegraph.co.uk/rugby-union/2026/11/15/scotland-v-australia-live-score-latest-nations-championship|scotlands ugly win seals weekend of domination for northern hemisphere|1ef9041aa6d5cc98b975ce680c264167
 2026-11-15T20:43:10.650356+00:00|https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o|trident submarine returns home after recordbreaking undersea patrol|1467b858c57426ba13dfb277e2e80cc9
+2026-11-16T00:37:55.593417+00:00|https://www.telegraph.co.uk/football/2026/11/15/spain-vs-england-live-score-latest-nations-league-updates|england stun world champions spain in one of their greatest victories|f13dd4fb85494536d67dde7e59794020
+2026-11-16T00:37:58.164773+00:00|https://www.bbc.co.uk/news/articles/cm7024p1ded3o|brand moved from wandsworth to category c prison his wife confirms on podcast|3f9bfd599875a7cb049e9e08e2f41539
+2026-11-16T00:38:01.187685+00:00|https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o|tories pledge to halt screenbased school exams and cut coursework|a4c60410fd52b3c85f690f9cb5bff7ea
+2026-11-16T00:38:03.661676+00:00|https://news.sky.com/story/pm-to-say-brexit-hasnt-worked-and-set-out-conditions-for-future-eu-deal-in-major-speech-13612600|pm to say brexit hasnt worked and set out conditions for future eu deal in major speech|78d8588f8ac0a6798f3cdf834ab60e6b
