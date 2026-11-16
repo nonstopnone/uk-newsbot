@@ -1,5 +1,3 @@
-2026-11-09T07:31:48.718986+00:00|https://www.bbc.co.uk/news/articles/cqkg5g2970epo|governments ev targets expected to be reduced this week|feeb33912853aa923056ee89cdf30278
-2026-11-09T07:31:51.221511+00:00|https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o|dense fog threatens monday morning rushhour disruption|000d862889cb454d8269dc56f8b6794c
 2026-11-10T01:51:00.255164+00:00|https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro|prince william wants more protection from harassment for service women|8f47b25486dac873439368a065bc330c
 2026-11-10T01:51:02.645091+00:00|https://www.bbc.co.uk/news/articles/cm369e3l15lwo|i took vinted to court to get my money back|4db1310ad1e07b6de113d8d727b009c4
 2026-11-10T09:05:01.381839+00:00|https://www.bbc.co.uk/weather/articles/cmzxlxkw4p4lo|severe travel disruption possible as dense fog returns|888bcaf76c22dc4757d24f2a657010b5
@@ -57,3 +55,6 @@
 2026-11-16T00:37:58.164773+00:00|https://www.bbc.co.uk/news/articles/cm7024p1ded3o|brand moved from wandsworth to category c prison his wife confirms on podcast|3f9bfd599875a7cb049e9e08e2f41539
 2026-11-16T00:38:01.187685+00:00|https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o|tories pledge to halt screenbased school exams and cut coursework|a4c60410fd52b3c85f690f9cb5bff7ea
 2026-11-16T00:38:03.661676+00:00|https://news.sky.com/story/pm-to-say-brexit-hasnt-worked-and-set-out-conditions-for-future-eu-deal-in-major-speech-13612600|pm to say brexit hasnt worked and set out conditions for future eu deal in major speech|78d8588f8ac0a6798f3cdf834ab60e6b
+2026-11-16T07:33:25.414980+00:00|https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo|prince and princess of wales arrive in india ahead of meeting with modi|d08ef298c7bc58eabdb267123ed3553c
+2026-11-16T07:33:27.911378+00:00|https://www.bbc.co.uk/news/articles/crp3e1n5kezpo|uk lost more than it gained from brexit burnham to say ahead of eu summit|d9c18638e2209238ec756e608c9704c6
+2026-11-16T07:33:30.286999+00:00|https://news.sky.com/story/william-and-kate-land-in-mumbai-for-earthshot-prize-trip-13612656|william and kate land in mumbai for earthshot prize trip|90bfeaf925254bdfbe89c9e27fafcfa4

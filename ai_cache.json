@@ -37897,5 +37897,47 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1794789474.968534
+  },
+  "0f4f0aca44df82965463df3853ab31a3": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective human interest story regarding a past criminal case from 2017, not breaking news or a current event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794814355.552576
+  },
+  "c5aacfdcc97ec86ed02ab289f2d74e23": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a new national strategy for unpaid carers being published by the Welsh government, which is a matter of UK devolved policy and public welfare.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794814365.045763
+  },
+  "d8a431ef69ab62f4d572e8aa6926374a": {
+    "is_relevant": true,
+    "reasoning": "The article addresses a significant ongoing issue concerning UK youth education and upcoming government-commissioned policy regarding NEET statistics, which is of clear public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794814374.141126
+  },
+  "b499f88fed3bd8f7e97e68b2017a34ee": {
+    "is_relevant": false,
+    "reasoning": "This article is a lifestyle/human interest feature focused on individual mental health experiences rather than hard news or direct policy analysis.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794814382.351862
+  },
+  "83fcdd73a368df0776940d0775764587": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest and linguistics feature story regarding regional accents, which does not constitute hard news or a significant event for a UK news subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794814392.422091
+  },
+  "90bfeaf925254bdfbe89c9e27fafcfa4": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the official overseas activities of senior members of the British Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1794814404.821428
   }
 }
