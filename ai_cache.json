@@ -38037,5 +38037,89 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794909643.794286
+  },
+  "f87340c0bb34fc54e8839567cc03036d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and crime story involving the arrest of a foreign national on UK soil under the National Security Act, directly concerning UK law enforcement and military relations.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794942112.169089
+  },
+  "ca3cc36e466c258dc993c8e15f09c8e9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant, time-sensitive incident involving a major UK airport and national airline that impacts aviation operations.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1794942121.275252
+  },
+  "e04af7f165dd982564a865d04171d127": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK foreign policy and international relations development involving direct government sanctions, meeting the criteria for material relevance to the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1794942129.256347
+  },
+  "46920e6da3bac5c7d4d407ea26b7ad1c": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the official activities of the Prince and Princess of Wales, which falls under the Royals category.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1794942139.537697
+  },
+  "ed974c0ab41d4636e1caa950f4e75b6b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a sitting Member of the Senedd and the political leadership of a major party in Wales, involving a police investigation.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794942148.171724
+  },
+  "8b4c126aad4ca3ef056ed42b889b71ac": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and consumer advice article about household chores, which falls under prohibited fluff content.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794942157.83798
+  },
+  "d87679c9944a037bf5d4c082803d3172": {
+    "is_relevant": true,
+    "reasoning": "Thomas Markle Sr is a high-profile figure within the British royal family's wider circle, making this a matter of significant public interest in the UK.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1794942167.27497
+  },
+  "0b7601b227ce8c4d731e09537929d58b": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant legal decision by the UK Parole Board regarding a high-profile prisoner, which is a matter of public interest and legal administration.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794942175.3671
+  },
+  "4b14c580b2633ede4ff7934275e13e48": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a murder conviction and ongoing legal proceedings in a UK court, which falls under domestic crime and legal affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794942186.21503
+  },
+  "e8ea26dbbec0ce78c13945a7039cbb4d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the failure of national law enforcement infrastructure and legal evidence procedures, directly impacting UK drivers and judicial processes.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794942196.767263
+  },
+  "4e05833ae987effd353fc40c54d3c1a1": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a criminal legal matter involving a sitting Member of Parliament and public safety, which is highly relevant to UK political and legal discourse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794942204.842531
+  },
+  "39c9e8662f5444c529d0a555561077d2": {
+    "is_relevant": false,
+    "reasoning": "This is a retrospective personal interest story about a celebrity sportsman's private mental health struggles, which does not constitute hard news or a current event of public policy or national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794942214.710495
   }
 }
