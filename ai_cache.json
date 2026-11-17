@@ -38002,5 +38002,40 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1794878793.148577
+  },
+  "a9debb1e37cc82a5b2d665f20867d792": {
+    "is_relevant": false,
+    "reasoning": "This article functions as a lifestyle-oriented consumer utility tool rather than hard news reporting. It offers a job search look-up feature and career advice rather than delivering significant, time-sensitive reporting on the UK economy or government policy.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794909599.108463
+  },
+  "8b5229314ee6d6a8469816cf573e1d01": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on institutional failure and systemic misconduct within the UK's largest police force, which is a matter of major public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794909608.378321
+  },
+  "39d5c0b8ca3c0d073da4ad6d385e1a81": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative piece regarding the collapse of a UK local authority due to financial scandal and the subsequent misappropriation of taxpayer funds.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794909624.747353
+  },
+  "bf3f662f24b56ce11069612feacc3040": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story concerning a specific incident at a private business and does not qualify as hard news of national political, economic, or legal significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794909632.64295
+  },
+  "5e1a524cafd64b1e8766c62e4ce1bce5": {
+    "is_relevant": false,
+    "reasoning": "This is an archaeological/historical report rather than current hard news relevant to contemporary UK governance, economy, or major public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794909643.794286
   }
 }
