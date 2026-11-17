@@ -37974,5 +37974,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1794851290.401523
+  },
+  "cc344ba5552524fe8ebd8232d5c57f04": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and gaming industry feature about fan behaviour rather than hard news or significant UK infrastructure/policy impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794878763.648217
+  },
+  "19d6e8e9fd096868519debc41aaaab46": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant economic and social policy issue concerning youth unemployment and government intervention, based on a landmark report.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1794878773.130325
+  },
+  "112320c6ff6827c7ba0f9b71f723474e": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a major UK policy issue regarding persistent school absence and its connection to the NEET (Not in Education, Employment, or Training) crisis, currently under review by a government-commissioned report.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794878782.420743
+  },
+  "f7cb291d16ce4c2e7da3b66c9a08a7fa": {
+    "is_relevant": true,
+    "reasoning": "This concerns proposed UK legislation regarding conversion practices and includes testimony provided to a parliamentary committee, which is a matter of significant political and public interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794878793.148577
   }
 }
