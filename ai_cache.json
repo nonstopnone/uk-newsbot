@@ -38163,5 +38163,54 @@
     "flair": "Royals",
     "provider": "Gemini",
     "timestamp": 1794967218.357449
+  },
+  "9b35d2cf3d8d12568308c561271eff8f": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant legal outcome involving a UK national convicted of major international cyber-crime, which involved coordination with UK authorities.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794995733.301765
+  },
+  "a23e91051d6ed367f0929fcff4f7f70d": {
+    "is_relevant": true,
+    "reasoning": "Glastonbury is a significant cultural event of major national interest in the UK.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1794995743.372735
+  },
+  "b40184b5e70e79d99fe488aaca3e41ed": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment news story regarding a television drama series renewal, which falls under lifestyle/entertainment and is not hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794995752.922275
+  },
+  "7dd7a908e22068ee0ede7609e5cb6507": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding environmental management, regulatory failure of a public body (the Environment Agency), and substantial legal and financial implications within the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1794995763.65315
+  },
+  "bb984957fcb1d1877fd2f6dc233bce20": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest story about a long-term personal health claim regarding a historic event from 1980, rather than urgent or significant current UK hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794995771.730951
+  },
+  "553d8a2e71e5894da7caeab7bccdbb38": {
+    "is_relevant": false,
+    "reasoning": "The article focuses on maternal healthcare improvements in Sierra Leone and does not materially affect the UK or constitute a UK-centric news event.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794995781.404167
+  },
+  "bd60ca8d7fdc25865f8a4c423adebbe5": {
+    "is_relevant": false,
+    "reasoning": "This is a feature story about maternal healthcare in Sierra Leone. While it mentions the NHS for comparison, it does not materially affect the UK or constitute hard UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794995789.565858
   }
 }
