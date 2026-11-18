@@ -38121,5 +38121,47 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794942214.710495
+  },
+  "07150905e153781bdc8984307ff7ea15": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer regulatory matter involving advertising standards rather than hard news concerning UK politics, economy, or major public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794967167.839904
+  },
+  "a410b9b7b48f32880c2da10f7037ee4d": {
+    "is_relevant": true,
+    "reasoning": "The article addresses significant UK government policy regarding legally binding climate targets and transportation mandates, which has direct implications for the economy and energy sector.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794967177.017363
+  },
+  "3b2e62c03f8d9188c8f2709559f3e45c": {
+    "is_relevant": true,
+    "reasoning": "The article discusses significant developments in UK-EU relations, specifically involving government policy on trade, mobility schemes, and tuition fees, which are matters of national political interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794967188.017657
+  },
+  "7e201c6d20eb15d9e8e80760d916730c": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer protection/regulatory story regarding advertising standards for a private company, which falls under commercial regulation rather than significant UK news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1794967195.924063
+  },
+  "5681baf6c5c131557947843727d6afdf": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a significant announcement from the Home Secretary regarding police operational policy and public perception, which is a matter of direct UK political and legal significance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1794967204.538035
+  },
+  "cbddcf405219503d11116190e1932ca5": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the official activities of the Prince and Princess of Wales, which falls under the Royals category.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1794967218.357449
   }
 }
