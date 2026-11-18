@@ -1,5 +1,3 @@
-2026-11-11T02:49:09.400138+00:00|https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss|US House blocks bid to impeach Defence Secretary Pete Hegseth, for now|6fc9a3a3c560fe77ff4d66bed6ede31b
-2026-11-11T02:49:14.981185+00:00|https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss|Judge allows Trump's $10bn defamation case against BBC to proceed|1735195a06bcef3435192e446081c747
 2026-11-11T23:39:04.966142+00:00|https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss|Democrat Scott Colom wins Mississippi Senate race in surprise victory for party|a15c09a1f6c6bb01528fa46742bc5f8f
 2026-11-11T23:39:10.895615+00:00|https://news.sky.com/story/people-feared-trapped-after-building-collapses-in-new-york-13611256|People feared trapped after building collapses in New York|1c2c40a41bf6de0760c6165447cfb35a
 2026-11-12T04:23:09.278122+00:00|https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss|Why Democrat Scott Colom’s win in Mississippi Senate race is so significant|cbda1d26fe84278906f803a26f188c91
@@ -23,3 +21,6 @@
 2026-11-16T20:42:05.915238+00:00|https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss|US flights returning to normal levels after weekend of disruption|5b96bf9e8e6164cb6e88c8a718ed3190
 2026-11-17T20:05:12.814100+00:00|https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss|Trump says US taking 'very seriously' any Iranian plot against Washington|cfa2bf6c36dae8108162850ce77f04d7
 2026-11-18T02:20:03.219764+00:00|https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss|Nvidia says it won't reinstate Huang as firm reports bumper results|4834c090244e2768675b1b7a7ace398b
+2026-11-18T10:33:46.594446+00:00|https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss|Democrats win Alaska Senate race two weeks after midterms counting began|ddbcb08c497dece39ae9f8accc3ce952
+2026-11-18T10:33:52.109781+00:00|https://news.sky.com/story/democrat-defeats-republican-in-alaska-in-final-midterms-race-13613459|Democrat defeats Republican in Alaska in final midterms race|b9d8a8d2120b532fa700ede1fefde0ff
+2026-11-18T10:33:57.590325+00:00|https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss|Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?|915bcde521ba51af8ff15cb9162373e4
