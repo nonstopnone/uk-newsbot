@@ -38212,5 +38212,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1794995789.565858
+  },
+  "4ef3e177ce1e452d2d8295feea10b4a9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious criminal conviction resulting from a murder trial in a UK crown court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795026909.097001
+  },
+  "e50df6923e9ec4c221440a84ae47f484": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal ruling involving a UK local authority, public infrastructure, and issues of public order and civil rights, falling under the jurisdiction of the High Court.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795026921.116038
+  },
+  "34f39923a4e04d7a3b7e1602eb72e46a": {
+    "is_relevant": true,
+    "reasoning": "This is a significant data breach involving a major UK regulatory body and the privacy of over 200 medical professionals, which is a matter of public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795026928.38855
+  },
+  "97aef010e77cbe7f5b16f956e6f1ebda": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK crime and legal matter involving a police investigation into the death of a child in a care setting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795026944.809492
+  },
+  "4cf47eb8612aa64de10e9c9ca94e3e74": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant sporting victory for England in a high-profile international cricket series against Australia.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1795026953.702761
+  },
+  "353ddbcae26115e2767d8a7dce390bf4": {
+    "is_relevant": true,
+    "reasoning": "This is a significant local news event involving a fatality and police involvement, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795026964.027067
+  },
+  "22ff8242260f2b2055939231f5713737": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding an attempted murder and an active major police investigation in a UK city.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795026976.987849
+  },
+  "ad8871666451f9d107796a5cbfa6488f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant infrastructure failure affecting thousands of residents in the West Midlands, requiring emergency intervention and school closures.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795026989.512694
   }
 }
