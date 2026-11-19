@@ -38268,5 +38268,47 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1795026989.512694
+  },
+  "ba941c6abc193473085239e7b426ad50": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/parenting advice piece, not hard news relevant to national UK affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795049698.00579
+  },
+  "7d03d2dda9c9c6affb788248e8ffe6cd": {
+    "is_relevant": true,
+    "reasoning": "The article details the findings of a UK government body (MAIB) regarding the death of a high-profile British citizen, which is a matter of significant public interest in the UK.",
+    "flair": "Notable International News🌍",
+    "provider": "Gemini",
+    "timestamp": 1795049708.873816
+  },
+  "028176a3c7bc280c85443a8751653de7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal development involving a major employer in the UK regarding widespread allegations of systemic sexual abuse and workplace harassment.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795049717.84502
+  },
+  "709d0765c4ff7e8381b2162534236939": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of government policy, prison service involvement, and legal controversy involving a high-profile criminal case in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795049728.70157
+  },
+  "4e692088f7594b6ad56e34e58dbfc59e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant security incident involving critical public infrastructure (TfL) affecting a large number of UK citizens, including children.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795049739.412337
+  },
+  "4d9a54956b97605640bda171bf58d67f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant utility infrastructure failure affecting thousands of UK residents, requiring emergency intervention and school closures.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795049748.257256
   }
 }
