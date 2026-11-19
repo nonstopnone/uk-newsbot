@@ -38310,5 +38310,19 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1795049748.257256
+  },
+  "20c00ac329f0ae63ee80fdfcb8099c07": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story regarding a private commercial dispute between a couple and a catering firm; it does not meet the criteria for hard news or significant public interest.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795076239.820552
+  },
+  "469df491abac5c4bd177f9cecae29cb4": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest story about a competition winner and does not constitute hard news or a matter of significant public interest for the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795076250.088599
   }
 }
