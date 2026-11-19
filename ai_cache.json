@@ -38324,5 +38324,96 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795076250.088599
+  },
+  "61c18ed1a63f989b7bc4a49ca4466cc9": {
+    "is_relevant": true,
+    "reasoning": "This concerns a significant ongoing investigation into a major historical terror attack in Northern Ireland, involving direct diplomatic negotiations between UK and Irish government officials.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795110878.264944
+  },
+  "ef1fa2bfc37999a6a0da0a8e5512f83c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving an elected official and an attempted murder arrest, which is of clear public interest in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795110899.963714
+  },
+  "468eba7fa5ca52e478f94880d1288cd7": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal trial and conviction involving serious sexual offenses within the UK justice system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795110909.146968
+  },
+  "ee03bd3dd76f2a9f96a396a7fd4bdb96": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on NHS performance in Northern Ireland, a key topic regarding public services and devolved government infrastructure.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795110918.750198
+  },
+  "83c862ff89f85913110b455abdebf757": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal trial involving the conviction of multiple individuals, including a former Conservative councillor, for serious sexual offences.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795110939.491111
+  },
+  "71772662a583909de8e5315ac5ec141f": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal trial involving multiple convictions for serious sexual offences, which constitutes hard news in the legal and crime category.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795110949.523906
+  },
+  "80856125a19413a4b46dbe3674f3a492": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a local authority and public order issues in a major UK city, which falls under UK legal and administrative news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795110982.298648
+  },
+  "e1e0ede0006543e516ac4a45d9cf31d9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding patient safety, whistleblower allegations, and potential corporate homicide within the NHS, which is a matter of major public interest and political accountability in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795111009.811873
+  },
+  "6ddf8e804bffb44bd06bb35f48a3c66f": {
+    "is_relevant": true,
+    "reasoning": "This report concerns a significant UK court ruling regarding employment law and systemic workplace discrimination claims within a major national employer.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795111060.283951
+  },
+  "5bce2dc74147469155b5f6508aa261bc": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigation involving potential criminal activity on sovereign property and the Royal Family, which is of high public interest and legal concern in the UK.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795111067.877397
+  },
+  "a97ea436a94e727c28431e8ce70d9a9b": {
+    "is_relevant": false,
+    "reasoning": "This is a private civil dispute between neighbors regarding property rights and driveway access, which does not constitute hard news of national UK significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795111083.270706
+  },
+  "f385d0ad080c8d3abd97575d490d1998": {
+    "is_relevant": true,
+    "reasoning": "The article covers a significant debate involving the leader of the Conservative Party regarding welfare reform policy, which is a matter of direct UK political and economic concern.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795111090.860153
+  },
+  "09b14b6355adf91cd56331412d02e51d": {
+    "is_relevant": true,
+    "reasoning": "This is a criminal court case involving significant property damage to a public landmark in the UK (Northern Ireland), meeting the criteria for crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795111102.0477
   }
 }
