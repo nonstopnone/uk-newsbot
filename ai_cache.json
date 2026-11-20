@@ -38443,5 +38443,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1795133406.43099
+  },
+  "47845113cb41d7c012b7cc06c19b0ebb": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and justice-related story concerning a high-profile rape case and a campaign to change UK sexual consent laws.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795161513.642937
+  },
+  "cfe738ba4656d14aa8e56600d86a964d": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest sports feature regarding an individual player's injury and recovery, which does not constitute hard news or a matter of public interest for the subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795161520.736041
+  },
+  "904c0680b196fe43bf14169bef102c46": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on criminal activity and police data regarding a specific criminal offence in the UK, making it highly relevant to crime and legal discourse.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795161530.977835
+  },
+  "241abea728a8d4277bf19629d6b2aecc": {
+    "is_relevant": false,
+    "reasoning": "This is a human interest or workplace inclusivity story rather than hard news concerning UK politics, economy, crime, or major infrastructure developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795161539.559581
+  },
+  "fbe195cee6936e1e533526e1bc30f09b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant domestic criminal trial involving a former politician and the waiver of anonymity by a victim, which has been widely covered across major UK national press.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795161549.903628
   }
 }
