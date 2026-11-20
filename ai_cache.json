@@ -38534,5 +38534,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795193293.037408
+  },
+  "c99606ad18df5ebd75085e630a7eb0f3": {
+    "is_relevant": true,
+    "reasoning": "This article covers a significant shift in UK-EU relations, involving government policy, international trade, and reactions from major political parties. It is hard news that directly affects the UK's economic and political landscape.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795215312.908127
+  },
+  "c8ae2753596cc9d19199b14f391f6d1d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a serious criminal conviction involving a British citizen, which falls squarely under UK crime and legal reporting.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795215321.283997
   }
 }
