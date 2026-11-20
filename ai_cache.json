@@ -38478,5 +38478,61 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1795161549.903628
+  },
+  "c498790592e6e04ef0a4b0cea21f0141": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal story involving criminal sentencing for an incident related to border security and immigration policy, which directly pertains to the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795193199.234969
+  },
+  "add71f2e5c642a04f2caf7f494dc5b99": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal and health and safety case involving a fatality at a major UK holiday resort, resulting in a substantial fine and criminal sentencing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795193225.398269
+  },
+  "0d6e7bb0335379384a336952344c6da8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime incident involving police, armed response, and station evacuations on a major piece of UK rail infrastructure.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795193238.856385
+  },
+  "bde49eb8db52e31e8d9a06741617bec2": {
+    "is_relevant": true,
+    "reasoning": "This is significant economic news regarding major UK infrastructure and job losses within a FTSE 100 company, directly impacting the UK labor market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795193251.188675
+  },
+  "25e16a7bc4a2874d533ae82252216409": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on criminal proceedings related to a fatal incident involving police officers and local citizens in Middlesbrough.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795193259.008854
+  },
+  "346e08e199f9bf4957e7e1c15f56d32c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant police misconduct case regarding a fatal incident in Wales, involving accountability for public officials and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795193268.853495
+  },
+  "8b42fc009aea4055bb60e8de08c241bd": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal justice matter involving the search for a convicted sex offender who has absconded from a UK court sentencing hearing.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795193277.885953
+  },
+  "fa064cd9df1e2089d164e62517234f98": {
+    "is_relevant": false,
+    "reasoning": "The article concerns a humanitarian health crisis in the Democratic Republic of Congo and does not contain information on how the situation materially affects the UK or its domestic interests.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795193293.037408
   }
 }
