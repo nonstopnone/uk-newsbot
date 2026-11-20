@@ -38415,5 +38415,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1795111102.0477
+  },
+  "6ca72c5d13f0c10a591e9c49e1733169": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal trial involving multiple convictions for serious sexual offences, which constitutes hard news regarding the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795133377.697878
+  },
+  "fcca019c751ee48f356e9e906078ca29": {
+    "is_relevant": true,
+    "reasoning": "This is a significant disciplinary action by UEFA against a national team involving serious allegations of discriminatory behaviour by UK citizens, which is of major public interest.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1795133386.401668
+  },
+  "70f1c51e29757de68f45d1f46f311081": {
+    "is_relevant": false,
+    "reasoning": "This is a report on a US-based company's stock market float on the Nasdaq; it does not materially affect the UK economy, politics, or public life.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795133395.954236
+  },
+  "3b141bc8daa58d9f75220d124a34b2c8": {
+    "is_relevant": true,
+    "reasoning": "This is a significant health news story regarding NHS capacity and emergency services, which is of direct importance to the UK public.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795133406.43099
   }
 }
