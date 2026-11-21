@@ -38576,5 +38576,40 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1795232555.391455
+  },
+  "30be611db62b21903722cd1188c1e88b": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a serious violent crime involving an elected public official, which is a matter of significant public interest and falls under crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795262315.900422
+  },
+  "e2d3ae446e2b7d73c03940b466597a27": {
+    "is_relevant": true,
+    "reasoning": "The potential administration of a major UK high street retailer is a significant development for the UK economy and employment landscape.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795262575.514886
+  },
+  "4f71ce247a4b8376d4252773202f9793": {
+    "is_relevant": true,
+    "reasoning": "This is a significant corporate development involving a major London-listed company and is a direct consequence of recent UK government tax policy changes.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795262609.014973
+  },
+  "d1707be56b06614e6272a2a3678a2c31": {
+    "is_relevant": true,
+    "reasoning": "This is a matter of significant public interest involving the Prime Minister, historical justice, and a major terrorist incident on UK soil.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795262638.651814
+  },
+  "f159c69d8a0e8741021bff79e10fcd11": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy issue concerning UK housing regulation and rural planning laws affecting local communities in the Peak District.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795262647.693786
   }
 }

@@ -1,5 +1,3 @@
-2026-11-14T08:26:55.723145+00:00|https://www.bbc.co.uk/news/articles/c69vwp09d7vvo|young people should have legal guarantee to job or training review author tells bbc|1ab4b97746b37a40ab1b969538c740ac
-2026-11-14T08:26:58.522824+00:00|https://www.bbc.co.uk/news/articles/cx4gn4y1q906o|police launch investigation into walliams and piddington asylum betrayal|7ea42664bf0ef79f063fb110eefad58a
 2026-11-14T15:29:20.779445+00:00|https://www.bbc.co.uk/news/articles/c8n50w445zgpo|thousands turn out in edinburgh to protest against ai data centres|1a3eaab21d7c75afe62b4a6d527c4d40
 2026-11-14T15:29:23.286020+00:00|https://www.bbc.co.uk/news/articles/cm4gn7pp5r85o|man dies after being stabbed by gang of masked men|6bf2ccaa916468f08af3cd2e0191b982
 2026-11-14T15:29:25.646908+00:00|https://news.sky.com/story/fifteen-people-taken-to-hospital-after-wilful-fire-in-glasgow-13612157|fifteen people taken to hospital after wilful fire in glasgow|7995a097f8276a84f10e1068a2c26536
@@ -67,3 +65,7 @@
 2026-11-21T03:42:36.144037+00:00|https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo|villagers to vote on leaving uk over plans to house migrants at raf base|89c6bdaf655fe69cd5da40eb8d682128
 2026-11-21T03:42:38.601683+00:00|https://www.bbc.co.uk/news/articles/cw7829pl3xklo|closest ties since brexit and grand theft eu|514e3123a4832cb8f41e1d0d8741a023
 2026-11-21T03:42:41.227607+00:00|https://news.sky.com/story/nhs-warns-of-alarming-rise-in-hospital-admissions-for-high-blood-pressure-13614403|nhs warns of alarming rise in hospital admissions for silent killer|8ac05d18dbd9b334826ae6bbb1f9a063
+2026-11-21T12:04:08.319209+00:00|https://www.bbc.co.uk/news/articles/cmkgv2nlpy8ko|man charged with attempted murder after bradford councillor stabbed|30be611db62b21903722cd1188c1e88b
+2026-11-21T12:04:10.742324+00:00|https://www.bbc.co.uk/news/articles/cm9w9p4geke8o|deal with eu not dependent on tuition fees agreement miliband says|3e7cfb8b8aec7e67b41e82dc34fb4683
+2026-11-21T12:04:13.162328+00:00|https://news.sky.com/story/german-bidder-stages-last-gasp-bid-to-rescue-poundland-13614626|german bidder stages lastgasp bid to rescue poundland|e2d3ae446e2b7d73c03940b466597a27
+2026-11-21T12:04:15.484067+00:00|https://news.sky.com/story/ladbrokes-owner-entain-in-talks-with-cvc-after-gambling-tax-hit-13614625|ladbrokesowner entain in talks with cvc after gambling tax hit|4f71ce247a4b8376d4252773202f9793
