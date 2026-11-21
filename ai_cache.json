@@ -38611,5 +38611,19 @@
     "flair": "Politics",
     "provider": "Gemini",
     "timestamp": 1795262647.693786
+  },
+  "265a82646ee180bc88e8fbce1dc5d846": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the death of a prominent UK journalist whose work is fundamental to the history of the Troubles in Northern Ireland, a matter of major public interest.",
+    "flair": "Culture",
+    "provider": "Gemini",
+    "timestamp": 1795287040.693476
+  },
+  "6b56e9b31b88f697d5107a8f0586e8c5": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant sporting achievement by the England national rugby union team, which falls under the category of UK sport.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1795287050.411944
   }
 }
