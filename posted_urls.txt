@@ -1,8 +1,3 @@
-2026-11-14T20:18:19.892972+00:00|https://www.telegraph.co.uk/rugby-union/2026/11/14/wales-vs-new-zealand-live-score-and-latest-nations-champion|botham inspires wales to historic win over all blacks|fccd7c63123b5aba6bfd842015515081
-2026-11-14T20:18:22.582042+00:00|https://news.sky.com/story/man-21-stabbed-to-death-in-london-13612274|man 21 stabbed to death in london|0ce7eead350eff6e172056dda59342df
-2026-11-14T20:18:25.148896+00:00|https://www.bbc.co.uk/weather/articles/cqe879916895o|milder weather coming before more cold health alerts take effect|b75bf3b5f4b50193c45ce629348da0f1
-2026-11-14T20:18:27.687497+00:00|https://www.bbc.co.uk/news/articles/cmgj340w6g8yo|burnham suggests welsh labour lost sight of devolution as review criticises exfirst ministers strategy|be2db3abde723fc66625682dad30cecf
-2026-11-14T20:18:30.128166+00:00|https://news.sky.com/story/wales-beat-the-all-blacks-for-first-time-since-1953-13612239|wales beat the all blacks for first time since 1953|808c5b4b71ae63dc0f98670729123fc2
 2026-11-15T00:38:09.689510+00:00|https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo|uk papers i was only 16 says alleged brand victim as disgraced comedian moved to soft jail|08bed4670d0979a615f68aa7f45534bf
 2026-11-15T00:38:12.012357+00:00|https://www.bbc.co.uk/news/articles/cm3rgx9p583zo|alleged russell brand rape victim wants age of consent law changed|64252478ef86f5de98f708e045e26752
 2026-11-15T07:26:27.942085+00:00|https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o|exmet police inspector lied about wifes death in barbados hotel room bbc learns|2199cf84f059fc65b38a9dec8c6fc31d
@@ -70,3 +65,6 @@
 2026-11-21T18:50:53.619641+00:00|https://www.bbc.co.uk/news/articles/cmkgd515jp47o|former journalist and lost lives author david mckittrick dies|265a82646ee180bc88e8fbce1dc5d846
 2026-11-21T18:50:56.087059+00:00|https://www.telegraph.co.uk/rugby-union/2026/11/21/england-new-zealand-live-nations-championship-score-latest|england obliterate all blacks in record win|1055b04c20e313f6e2d35ee11a127673
 2026-11-21T18:50:58.431275+00:00|https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo|england run up record win over new zealand in rugby unions nations championship|6b56e9b31b88f697d5107a8f0586e8c5
+2026-11-21T23:41:26.461499+00:00|https://www.telegraph.co.uk/rugby-union/2026/11/21/wales-vs-australia-live-latest-score-nations-championship|wales brought back down to earth by wallabies|056774fbf40ea62905a8a9bb49c6bdc6
+2026-11-21T23:41:29.059020+00:00|https://www.bbc.co.uk/news/articles/cvze71y6g85yo|village votes to leave uk over migrant plan|1baf8bc03259d0d8b87c6944ce2335bf
+2026-11-21T23:41:31.730168+00:00|https://www.bbc.co.uk/news/articles/c893r4923wngo|uk should only rejoin eu if it innovates on technology blair warns|198a8fd313868ad3f0bc36ce10d699cb
