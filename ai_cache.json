@@ -38548,5 +38548,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1795215321.283997
+  },
+  "76b0d15882ab8b47a8362d8544cf5980": {
+    "is_relevant": false,
+    "reasoning": "This is a consumer-focused lifestyle and product testing article that does not constitute hard news relevant to the UK's political, economic, or social infrastructure.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795232527.273296
+  },
+  "524fe5f7a8090fdffa2ddc32f980fd66": {
+    "is_relevant": false,
+    "reasoning": "This is a speculative entertainment and film industry opinion piece regarding Hollywood casting, which does not constitute hard news relevant to the UK public.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795232536.421569
+  },
+  "76e4a3470c56ddb3eb0d3b1c712be7a3": {
+    "is_relevant": false,
+    "reasoning": "This is a product safety alert and a corporate recall notice, which falls under consumer news rather than the hard news categories required for this subreddit.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795232544.927173
+  },
+  "8ac05d18dbd9b334826ae6bbb1f9a063": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health report concerning the NHS and widespread health trends impacting the UK population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795232555.391455
   }
 }
