@@ -38681,5 +38681,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795352399.121181
+  },
+  "f88b724ceaac60aaf8344e2804775743": {
+    "is_relevant": true,
+    "reasoning": "This article covers a significant event in UK professional sports involving the management of a major English football club.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1795378427.787002
+  },
+  "c66d7b629a0bb1f50404310d81166dca": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle-based consumer quiz and shopping guide, which constitutes fluff and does not qualify as hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795378437.428391
+  },
+  "4c806d05b740c837dda248fb1ca095bd": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a high-profile criminal case involving a convicted sex offender, government intervention regarding prison communications, and legal implications for public broadcasts from UK penal institutions.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795378444.908943
   }
 }
