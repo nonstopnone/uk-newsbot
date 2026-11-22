@@ -38639,5 +38639,19 @@
     "flair": "Immigration",
     "provider": "Gemini",
     "timestamp": 1795304485.69076
+  },
+  "33e8042d381bbb3a36f015d31cdd5ba9": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development regarding UK national defence strategy and future military procurement policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795322231.679596
+  },
+  "f01df65cb47e64de01bd543827ac35e6": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle feature story about motorway service station trends rather than hard news, political updates, or significant national developments.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795322240.041967
   }
 }
