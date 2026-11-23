@@ -38709,5 +38709,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1795396777.129493
+  },
+  "e89e4f2990fe96bf20bb2c6308c629aa": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety incident involving emergency services and a major UK venue evacuation, which constitutes hard news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795428495.895313
+  },
+  "50a7bf1674f049188473b3d3a5ae9879": {
+    "is_relevant": true,
+    "reasoning": "The potential collapse of a major UK high street retailer employing 11,000 people is a significant economic and business event with clear domestic impact.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795428510.164035
+  },
+  "a9e43abb5c9380dc73ea413fe74ec607": {
+    "is_relevant": false,
+    "reasoning": "This is a human-interest lifestyle piece about an individual property purchase and local housing market trends rather than hard news regarding UK economic policy or national housing legislation.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795428518.690107
   }
 }

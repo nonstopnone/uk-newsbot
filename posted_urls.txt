@@ -1,6 +1,3 @@
-2026-11-16T07:33:25.414980+00:00|https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo|prince and princess of wales arrive in india ahead of meeting with modi|d08ef298c7bc58eabdb267123ed3553c
-2026-11-16T07:33:27.911378+00:00|https://www.bbc.co.uk/news/articles/crp3e1n5kezpo|uk lost more than it gained from brexit burnham to say ahead of eu summit|d9c18638e2209238ec756e608c9704c6
-2026-11-16T07:33:30.286999+00:00|https://news.sky.com/story/william-and-kate-land-in-mumbai-for-earthshot-prize-trip-13612656|william and kate land in mumbai for earthshot prize trip|90bfeaf925254bdfbe89c9e27fafcfa4
 2026-11-16T17:48:11.081463+00:00|https://www.bbc.co.uk/news/articles/cqvg27wpd3l0o|tributes as wife and daughter of dup chairman die hours apart|046845f2361440806045b50bebc1bdb2
 2026-11-16T17:48:13.428586+00:00|https://www.bbc.co.uk/news/articles/cm9d7pe8y559o|russell brand prison message appalling and being investigated no 10 says|e16d2945641bd5e74d0dbe6369e48bc7
 2026-11-16T17:48:15.824552+00:00|https://news.sky.com/story/british-artist-raye-leads-grammy-nominations-with-11-nods-13612911|british artist raye leads grammy nominations with 11 nods|f5b6568651e57f8d473bb63f9403d9c4
@@ -61,3 +58,6 @@
 2026-11-22T20:14:05.646107+00:00|https://www.telegraph.co.uk/football/2026/11/22/liverpool-vs-man-utd-live-score-premier-league-updates|any regrets pochettinos start at man utd descends into farce in anfield rout|f88b724ceaac60aaf8344e2804775743
 2026-11-22T20:14:08.194513+00:00|https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o|russell brands wife says shell honour prison rules after message row|4c806d05b740c837dda248fb1ca095bd
 2026-11-23T01:19:37.794159+00:00|https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166|major trial to examine if ai can help detect breast cancer earlier|497d9272cb7b349e0a6981114ae1842b
+2026-11-23T10:08:39.971336+00:00|https://www.bbc.co.uk/news/articles/c9e851dn8516o|manchesters coop live evacuated after unknown substance let off in crowd|e89e4f2990fe96bf20bb2c6308c629aa
+2026-11-23T10:08:42.372280+00:00|https://www.bbc.co.uk/news/articles/cvlyj3rn201xo|pip assessments need fundamental overhaul report to say|05017be1132cf2834ce6cff394cc3e7a
+2026-11-23T10:08:44.719907+00:00|https://www.telegraph.co.uk/global-health/science-and-disease/midges-pose-a-growing-health-threat-to-britons-experts-warn|midges pose a growing health threat to britons experts warn|6ce47499bb446a18fa8cbc64534598d8
