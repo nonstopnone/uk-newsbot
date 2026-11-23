@@ -38730,5 +38730,26 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795428518.690107
+  },
+  "5dc356eb0e4f51c85cc87fb0ddb56167": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and major infrastructure incident involving a large-scale evacuation and mass medical treatment at a high-profile UK arena, necessitating police involvement.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795472639.150106
+  },
+  "7ab0dfae950264c6b91eef79e4703298": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on the suspension of public health services within the UK (Northern Ireland), directly impacting patient care and accessibility.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795472674.972922
+  },
+  "d7da42059d5b759d084e2e188d8f43a7": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a serious ongoing criminal murder trial within the UK judicial system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795472705.021989
   }
 }
