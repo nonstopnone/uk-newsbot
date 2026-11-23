@@ -1,9 +1,3 @@
-2026-11-15T20:43:08.023820+00:00|https://www.telegraph.co.uk/rugby-union/2026/11/15/scotland-v-australia-live-score-latest-nations-championship|scotlands ugly win seals weekend of domination for northern hemisphere|1ef9041aa6d5cc98b975ce680c264167
-2026-11-15T20:43:10.650356+00:00|https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o|trident submarine returns home after recordbreaking undersea patrol|1467b858c57426ba13dfb277e2e80cc9
-2026-11-16T00:37:55.593417+00:00|https://www.telegraph.co.uk/football/2026/11/15/spain-vs-england-live-score-latest-nations-league-updates|england stun world champions spain in one of their greatest victories|f13dd4fb85494536d67dde7e59794020
-2026-11-16T00:37:58.164773+00:00|https://www.bbc.co.uk/news/articles/cm7024p1ded3o|brand moved from wandsworth to category c prison his wife confirms on podcast|3f9bfd599875a7cb049e9e08e2f41539
-2026-11-16T00:38:01.187685+00:00|https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o|tories pledge to halt screenbased school exams and cut coursework|a4c60410fd52b3c85f690f9cb5bff7ea
-2026-11-16T00:38:03.661676+00:00|https://news.sky.com/story/pm-to-say-brexit-hasnt-worked-and-set-out-conditions-for-future-eu-deal-in-major-speech-13612600|pm to say brexit hasnt worked and set out conditions for future eu deal in major speech|78d8588f8ac0a6798f3cdf834ab60e6b
 2026-11-16T07:33:25.414980+00:00|https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo|prince and princess of wales arrive in india ahead of meeting with modi|d08ef298c7bc58eabdb267123ed3553c
 2026-11-16T07:33:27.911378+00:00|https://www.bbc.co.uk/news/articles/crp3e1n5kezpo|uk lost more than it gained from brexit burnham to say ahead of eu summit|d9c18638e2209238ec756e608c9704c6
 2026-11-16T07:33:30.286999+00:00|https://news.sky.com/story/william-and-kate-land-in-mumbai-for-earthshot-prize-trip-13612656|william and kate land in mumbai for earthshot prize trip|90bfeaf925254bdfbe89c9e27fafcfa4
@@ -66,3 +60,4 @@
 2026-11-22T13:00:02.040702+00:00|https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o|theresa may aghast at burnhams eu plans and says brexit is done|75ffbb47a0f4b609d5f72157934ccc33
 2026-11-22T20:14:05.646107+00:00|https://www.telegraph.co.uk/football/2026/11/22/liverpool-vs-man-utd-live-score-premier-league-updates|any regrets pochettinos start at man utd descends into farce in anfield rout|f88b724ceaac60aaf8344e2804775743
 2026-11-22T20:14:08.194513+00:00|https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o|russell brands wife says shell honour prison rules after message row|4c806d05b740c837dda248fb1ca095bd
+2026-11-23T01:19:37.794159+00:00|https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166|major trial to examine if ai can help detect breast cancer earlier|497d9272cb7b349e0a6981114ae1842b

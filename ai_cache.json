@@ -38702,5 +38702,12 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1795378444.908943
+  },
+  "497d9272cb7b349e0a6981114ae1842b": {
+    "is_relevant": true,
+    "reasoning": "This is a significant development concerning the NHS, a critical pillar of UK public infrastructure and health policy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795396777.129493
   }
 }
