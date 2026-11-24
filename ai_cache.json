@@ -38751,5 +38751,19 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1795472705.021989
+  },
+  "05d89d6882c273581554f2fab30bb63d": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public safety and policing issue involving drug crime and children's welfare in the UK, directly impacting national policy discussions on vaping.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795502846.654254
+  },
+  "adb7c25ebfcd03e32c614a4cb4a7c3eb": {
+    "is_relevant": false,
+    "reasoning": "The article is a summary of international corporate news regarding a US tech company and US political intervention, which does not materially affect the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795503139.95851
   }
 }
