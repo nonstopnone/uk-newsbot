@@ -1,4 +1,3 @@
-2026-11-18T02:20:03.219764+00:00|https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss|Nvidia says it won't reinstate Huang as firm reports bumper results|4834c090244e2768675b1b7a7ace398b
 2026-11-18T10:33:46.594446+00:00|https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss|Democrats win Alaska Senate race two weeks after midterms counting began|ddbcb08c497dece39ae9f8accc3ce952
 2026-11-18T10:33:52.109781+00:00|https://news.sky.com/story/democrat-defeats-republican-in-alaska-in-final-midterms-race-13613459|Democrat defeats Republican in Alaska in final midterms race|b9d8a8d2120b532fa700ede1fefde0ff
 2026-11-18T10:33:57.590325+00:00|https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss|Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?|915bcde521ba51af8ff15cb9162373e4
@@ -20,3 +19,6 @@
 2026-11-22T22:51:30.441914+00:00|https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss|Miley Cyrus marries Maxx Morando in California ceremony|c3e415160b44a1e317e02387156e466a
 2026-11-24T00:25:38.112176+00:00|https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss|California Democrat to resign from Congress after evidence of sexual misconduct|14a469dd6f954941052e67b5cbc9691d
 2026-11-24T00:25:43.861892+00:00|https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss|Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns|d43665f04ed24f8c992c40f8d1f09340
+2026-11-25T03:48:30.853524+00:00|https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss|Thomas Markle indicted in US for possessing child sex abuse images|f26952dc5b4e6bf8f65cd32cd7d28982
+2026-11-25T03:48:36.499541+00:00|https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss|Huawei found guilty of stealing trade secrets but acquitted of racketeering|d32724ce8d2ebd6ebec71daf1d3d364d
+2026-11-25T03:48:42.195417+00:00|https://www.bbc.co.uk/news/articles/c539g1pwy3wyo?at_medium=RSS&at_campaign=rss|She spent decades as an FBI agent and this is the case she could not let go|a810203f9a1ba08676ccfd2d29a7d052
