@@ -38800,5 +38800,61 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795575301.684119
+  },
+  "9452f73d93a8264ebc4bb06b28ce84bf": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report regarding the UK's largest police force and its ongoing institutional issues, which is a matter of critical public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795607980.858935
+  },
+  "44d8a4389443a09bc03cf390d3146247": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle/human interest piece focused on individual anecdotes and money-saving tips rather than hard news regarding policy or economic shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795608154.82859
+  },
+  "619f4472b4e7c820c9c50fad1a1aa16b": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing coroner's inquest and a police investigation regarding a child's death at a UK nursery, which constitutes significant crime and legal news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795608174.402453
+  },
+  "0d79b89de31a29634d66dcdb094459ef": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving security concerns at a property owned by the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1795608188.584303
+  },
+  "7cb98bea4a5ec4e840638744e3d960e3": {
+    "is_relevant": false,
+    "reasoning": "This story concerns a feature update for a video game and is classified as consumer news/lifestyle rather than hard news relevant to UK governance, economy, or national security.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795608333.115605
+  },
+  "51ba3ff950ca116fcc34fd933fa30573": {
+    "is_relevant": true,
+    "reasoning": "This is a significant legal case involving a high-profile public figure and a dangerous driving conviction in the UK, which falls under Crime & Legal.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795608341.338191
+  },
+  "7c4b7e70c79caadd100c4bbebf36691c": {
+    "is_relevant": true,
+    "reasoning": "This is a significant disruption to major international infrastructure connecting the UK, directly impacting thousands of passengers and cross-border travel.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795608384.51875
+  },
+  "9c97f75b26fb115492896f40aa5a708d": {
+    "is_relevant": true,
+    "reasoning": "The article reports on a significant rise in the Ofgem energy price cap, which directly impacts UK households and the national economy.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795608395.144907
   }
 }
