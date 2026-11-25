@@ -38765,5 +38765,40 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795503139.95851
+  },
+  "64d96a2f1128289bd75fbe9131f6e438": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a government-led public consultation on significant legislative reform regarding the age of consent and updates to legal policy on NDAs, which are matters of national importance.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795575263.59663
+  },
+  "fe00804f8c7645f7866d0756703eab2a": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and personal finance feature article offering anecdotal tips for households rather than a hard news report on economic policy or major market shifts.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795575272.855065
+  },
+  "5e081de12a0ac6acbc796bfc284dad6f": {
+    "is_relevant": false,
+    "reasoning": "This is a sports opinion piece/analysis regarding team performance and tactics, which falls under the excluded category of sports previews and opinion columns.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795575282.723015
+  },
+  "0c75289ebf8dea490bf25fcb42674d3c": {
+    "is_relevant": false,
+    "reasoning": "This is a sports match report and opinion piece regarding a specific football result, which falls under sports journalism rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795575290.938155
+  },
+  "4c466817d37a97cf4dfcaf950223105e": {
+    "is_relevant": false,
+    "reasoning": "This article is a social trend piece/lifestyle feature rather than hard news concerning UK politics, governance, the economy, or major public interest events.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795575301.684119
   }
 }
