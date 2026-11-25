@@ -38856,5 +38856,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1795608395.144907
+  },
+  "99c8cc60a9574d65e952b810d98d9f43": {
+    "is_relevant": true,
+    "reasoning": "The collapse of a major national retailer and the associated risk to 11,000 jobs is a significant economic event within the UK.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795641899.121575
+  },
+  "2304371b2282339031ad3e297fb8b063": {
+    "is_relevant": true,
+    "reasoning": "This is a significant criminal case involving a murder charge and police investigation in Scotland, which is highly relevant to UK public interest.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795641907.914344
+  },
+  "44449eaef74d53fd4e33fd940d296637": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a government-funded initiative managed by the DCMS and highlights significant political and social tensions regarding UK cultural status within a devolved region.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795641920.349305
+  },
+  "a2d50a764f05709e7c71294dec198575": {
+    "is_relevant": true,
+    "reasoning": "The collapse of a major national retailer with 600 UK stores and 11,000 employees is a significant event for the UK economy and high street.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795641929.30845
   }
 }
