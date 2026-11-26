@@ -38884,5 +38884,33 @@
     "flair": "Economy",
     "provider": "Gemini",
     "timestamp": 1795641929.30845
+  },
+  "39c95a3f843002fc7fa4a24aa908c879": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from the national meteorological service regarding climate trends that directly impact UK infrastructure, agriculture, and public safety.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795665204.885089
+  },
+  "88ba2eca9987f57c05a0ae49ffa83bd3": {
+    "is_relevant": false,
+    "reasoning": "This is a corporate operational update regarding the BBC's service delivery and partnership strategy; it does not constitute hard news or significant public interest relevant to the specified categories.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795665215.016612
+  },
+  "f88590c9b6101f5f3b0c57045367fc08": {
+    "is_relevant": true,
+    "reasoning": "This is a significant change to UK criminal law in England and Wales, falling under the core category of legal reform.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795665225.983361
+  },
+  "2d56bb6461cfbcee02c20345e6aa341c": {
+    "is_relevant": false,
+    "reasoning": "This is a sports commentary/opinion piece regarding a football match, which falls under sports lifestyle/opinion and does not qualify as hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795665252.763033
   }
 }

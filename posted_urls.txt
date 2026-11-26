@@ -1,6 +1,3 @@
-2026-11-19T00:55:49.189328+00:00|https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o|crew unaware of risks before bayesian yacht accident say investigators|7d03d2dda9c9c6affb788248e8ffe6cd
-2026-11-19T00:55:51.630120+00:00|https://www.bbc.co.uk/news/articles/c6x2eve321jno|mcdonalds sex abuse they were waiting for the younger girls to turn 18|028176a3c7bc280c85443a8751653de7
-2026-11-19T00:55:54.116804+00:00|https://news.sky.com/story/oyster-photocard-customers-account-details-compromised-13613753|children among hundreds of thousands of london transport users who may have been hit by data breach|4e692088f7594b6ad56e34e58dbfc59e
 2026-11-19T08:17:32.837547+00:00|https://www.bbc.co.uk/news/articles/cmgrenln8p29o|google rejects uk request for russell brand youtube video to be removed sources say|709d0765c4ff7e8381b2162534236939
 2026-11-19T08:17:35.422586+00:00|https://www.bbc.co.uk/news/articles/cqly45eymjeko|the papers id rejoin the army to fight russia and boiling point|10bab65dc6d5c9a176193690e95bd24e
 2026-11-19T17:58:22.748128+00:00|https://www.bbc.co.uk/news/articles/cx1l0p50g23ro|irish government denies footdragging over omagh bombing inquiry|61c18ed1a63f989b7bc4a49ca4466cc9
@@ -54,3 +51,6 @@
 2026-11-25T12:06:43.599749+00:00|https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317|eurostar trains cancelled and delayed over unannounced strike action|7c4b7e70c79caadd100c4bbebf36691c
 2026-11-25T21:25:30.389288+00:00|https://www.bbc.co.uk/news/articles/cm3vgdn037z4o|poundland collapses putting 11000 jobs at risk|99c8cc60a9574d65e952b810d98d9f43
 2026-11-25T21:25:33.023823+00:00|https://www.bbc.co.uk/news/articles/cqze7yjxy0ngo|body found in search for missing 20yearold woman|2304371b2282339031ad3e297fb8b063
+2026-11-26T03:54:13.328122+00:00|https://www.bbc.co.uk/news/articles/c98r7p65edvgo|uk government set to publish new treaties agreed with eu|c4ac30f1ff20120bbe8dce9838fe98c7
+2026-11-26T03:54:15.697874+00:00|https://www.bbc.co.uk/news/articles/cmj4reknwv9eo|uk papers sixday streak smashes global temperature record and gord speed|4ad2f4c18738690347e161c88fd42784
+2026-11-26T03:54:18.137222+00:00|https://news.sky.com/story/uk-weather-met-office-warns-of-fewer-frosts-and-more-hot-days-because-of-climate-change-13616621|uk can expect fewer frosts and more hot days|39c95a3f843002fc7fa4a24aa908c879
