@@ -1,5 +1,3 @@
-2026-11-19T08:17:32.837547+00:00|https://www.bbc.co.uk/news/articles/cmgrenln8p29o|google rejects uk request for russell brand youtube video to be removed sources say|709d0765c4ff7e8381b2162534236939
-2026-11-19T08:17:35.422586+00:00|https://www.bbc.co.uk/news/articles/cqly45eymjeko|the papers id rejoin the army to fight russia and boiling point|10bab65dc6d5c9a176193690e95bd24e
 2026-11-19T17:58:22.748128+00:00|https://www.bbc.co.uk/news/articles/cx1l0p50g23ro|irish government denies footdragging over omagh bombing inquiry|61c18ed1a63f989b7bc4a49ca4466cc9
 2026-11-19T17:58:25.228524+00:00|https://www.bbc.co.uk/news/articles/cw987ynpd0n1o|timetable set out for dismantling leasehold system in england and wales|09c9b16748b17379fdf38ca78536b0a3
 2026-11-19T17:58:27.875778+00:00|https://news.sky.com/story/police-examining-claims-of-women-being-trafficked-by-epstein-on-kings-balmoral-estate-13613815|police examining claims of women being trafficked by epstein on kings balmoral estate|5bce2dc74147469155b5f6508aa261bc
@@ -54,3 +52,6 @@
 2026-11-26T03:54:13.328122+00:00|https://www.bbc.co.uk/news/articles/c98r7p65edvgo|uk government set to publish new treaties agreed with eu|c4ac30f1ff20120bbe8dce9838fe98c7
 2026-11-26T03:54:15.697874+00:00|https://www.bbc.co.uk/news/articles/cmj4reknwv9eo|uk papers sixday streak smashes global temperature record and gord speed|4ad2f4c18738690347e161c88fd42784
 2026-11-26T03:54:18.137222+00:00|https://news.sky.com/story/uk-weather-met-office-warns-of-fewer-frosts-and-more-hot-days-because-of-climate-change-13616621|uk can expect fewer frosts and more hot days|39c95a3f843002fc7fa4a24aa908c879
+2026-11-26T13:31:43.011536+00:00|https://www.bbc.co.uk/news/articles/cvrlgznd9z4po|uk reservists contacted as threat environment rises streeting says|9ef512383fb64b1787f40128b34f555a
+2026-11-26T13:31:45.810884+00:00|https://www.bbc.co.uk/news/articles/c8n50e4z9559o|double jeopardy killer recommended for release from prison|ab9cb0cf6a38858826a5e5e5d888666e
+2026-11-26T13:31:48.304306+00:00|https://news.sky.com/story/uk-writes-to-veterans-to-ready-them-for-possibility-of-mobilisation-13616692|uk writes to veterans to ready them for possibility of mobilisation|bbe4dc103efedb918b29cc4afc88ac16

@@ -38912,5 +38912,54 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795665252.763033
+  },
+  "ab9cb0cf6a38858826a5e5e5d888666e": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a landmark UK legal case involving a high-profile prisoner and the parole system, falling under UK legal affairs.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795699724.853545
+  },
+  "ee047d4de360b5af5cabea1878b05fa7": {
+    "is_relevant": true,
+    "reasoning": "The story concerns a formal government-led investigation into the UK's national broadcaster regarding claims of workplace discrimination, which is a matter of significant public and institutional interest.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795699731.659532
+  },
+  "814aec94987742ad241cb3ea9560da9a": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a memorial service for a former senior UK politician attended by high-profile political figures and references an ongoing murder trial.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795699758.166335
+  },
+  "ba436948a959915dd183a2b3679ddd21": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK legal and safeguarding case involving a child safeguarding review, failures by public agencies, and criminal convictions.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795699789.974037
+  },
+  "387524f26242864ef8198887b2c97c86": {
+    "is_relevant": true,
+    "reasoning": "This is a significant policy development concerning national transport regulations and road safety standards for a large segment of the UK population.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795699871.203785
+  },
+  "bbe4dc103efedb918b29cc4afc88ac16": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and defence development directly involving the UK state and a large segment of the population.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795699879.329398
+  },
+  "a15aecc06bb8b2c0110e5c0ecd38bda5": {
+    "is_relevant": false,
+    "reasoning": "This is a sports report covering a football match result and player performance analysis, which falls under the category of sports reporting/commentary rather than hard news.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795699902.457942
   }
 }
