@@ -38968,5 +38968,33 @@
     "flair": "Crime & Legal",
     "provider": "Gemini",
     "timestamp": 1795733095.376245
+  },
+  "67c3b8e32e3e7de8edda8762bd879e17": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report from MPs regarding the Ministry of Defence's failure in public infrastructure management, directly impacting UK service personnel.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795754602.76357
+  },
+  "1a727158d7d041e39a355b52ca217ee0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant investigative report on organized criminal activity affecting UK consumers and domestic infrastructure, falling under consumer protection and legal/crime concerns.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795754610.990802
+  },
+  "97ddc284ecf922e892f8dd32fad4c1a5": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human interest feature piece rather than hard news concerning UK politics, economy, or public affairs.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795754620.070908
+  },
+  "d18627bab0630be3599e8278053bc7cd": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human-interest feature story about personal hobbies rather than hard news concerning politics, crime, economy, or national significance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795754629.858707
   }
 }
