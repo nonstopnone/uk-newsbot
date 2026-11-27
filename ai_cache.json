@@ -38996,5 +38996,96 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795754629.858707
+  },
+  "c2a87e1d33e0b3b6d03d4b9480ca1892": {
+    "is_relevant": false,
+    "reasoning": "This article concerns celebrity gossip and reality television entertainment rather than hard news related to UK politics, the economy, or significant societal impact.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795790135.338011
+  },
+  "01b98aa33abed20be3ccf6117f39b961": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national infrastructure incident affecting critical government services and millions of benefit claimants, making it high-priority UK news.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795790146.57241
+  },
+  "ba2db61e3c6d3e368255eb5708f04e17": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on a serious violent crime resulting in a long-term custodial sentence within the UK court system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795790205.18744
+  },
+  "729190d7cace52c63f78d737757de42a": {
+    "is_relevant": true,
+    "reasoning": "This is a report on a significant result in an England cricket match, which qualifies as UK sports news.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1795790215.695497
+  },
+  "751e56d547484dc1878ed7e5e30affe9": {
+    "is_relevant": true,
+    "reasoning": "This is a report on an ongoing murder trial in Northern Ireland, falling under the jurisdiction of the UK legal system.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795790224.406537
+  },
+  "8ab8bf1adc7c180f79e35fe3eaf31663": {
+    "is_relevant": true,
+    "reasoning": "The article discusses a significant legislative development in the UK Parliament regarding legal reforms to prevent 'SLAPP' lawsuits, which directly impacts public interest reporting and the legal system.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795790233.699511
+  },
+  "cc8cd9f4551821168a046a2e80be65da": {
+    "is_relevant": true,
+    "reasoning": "This is a significant report on industrial action affecting London's major public transport infrastructure and the local economy.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795790243.856859
+  },
+  "7fe7373c7a6d51581671b828a177dcee": {
+    "is_relevant": true,
+    "reasoning": "This is a significant crime report involving criminal charges at a London court and an ongoing Metropolitan Police investigation, which meets the criteria for serious UK crime news.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795790252.619489
+  },
+  "021775ec25f482181634803d1d3ca45a": {
+    "is_relevant": false,
+    "reasoning": "This is an entertainment industry update regarding a television game show, which constitutes lifestyle/media news rather than hard news of significant national importance.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795790269.084562
+  },
+  "1764a792b54cf34554e9503c70125837": {
+    "is_relevant": true,
+    "reasoning": "This is a significant update regarding a major high-profile UK sporting event that was subject to regulatory scrutiny by the British Boxing Board of Control.",
+    "flair": "Sport",
+    "provider": "Gemini",
+    "timestamp": 1795790282.209717
+  },
+  "703e3939b8f1df50dd9ae1164c956300": {
+    "is_relevant": true,
+    "reasoning": "The article concerns the Princess of Wales and her public health update, which is a matter of significant national interest regarding the Royal Family.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1795790289.943675
+  },
+  "b84ab09ce487b91d8da83aaf078caae0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant UK criminal case involving a GP and a complex attempted murder plot, which falls under serious crime and legal proceedings.",
+    "flair": "Crime & Legal",
+    "provider": "Gemini",
+    "timestamp": 1795790298.431769
+  },
+  "44df96b5de43c3a9b1ef6e5f7625321e": {
+    "is_relevant": false,
+    "reasoning": "This is a lifestyle and human-interest feature piece rather than hard news, politics, or a significant current event impacting the UK.",
+    "flair": "",
+    "provider": "Gemini",
+    "timestamp": 1795790309.061926
   }
 }

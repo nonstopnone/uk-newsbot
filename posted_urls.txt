@@ -1,5 +1,3 @@
-2026-11-20T07:59:10.480427+00:00|https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo|calls for law change after joanne young rape case|47845113cb41d7c012b7cc06c19b0ebb
-2026-11-20T07:59:12.900491+00:00|https://www.bbc.co.uk/news/articles/cq808rerxxp3o|girls as young as five targeted for upskirting as charges continue to rise|904c0680b196fe43bf14169bef102c46
 2026-11-20T16:48:13.866738+00:00|https://www.bbc.co.uk/news/articles/c6lywjpn5levo|daniel thomas jailed for 15 months for slashing dinghy|c498790592e6e04ef0a4b0cea21f0141
 2026-11-20T16:48:16.213299+00:00|https://www.bbc.co.uk/news/articles/cw7829emdvxro|pontins fined £1m after grandmothers death|add71f2e5c642a04f2caf7f494dc5b99
 2026-11-20T16:48:18.631396+00:00|https://news.sky.com/story/british-gas-owner-centrica-cuts-hundreds-of-jobs-in-business-unit-13614396|british gas owner centrica cuts hundreds of jobs in business unit|bde49eb8db52e31e8d9a06741617bec2
@@ -54,3 +52,6 @@
 2026-11-27T04:43:50.502320+00:00|https://news.sky.com/story/mod-severely-lacks-skills-and-expertise-to-improve-military-housing-watchdog-warns-13616831|mod severely lacks expertise to improve military housing|67c3b8e32e3e7de8edda8762bd879e17
 2026-11-27T04:43:53.061618+00:00|https://www.bbc.co.uk/news/articles/cm62p75vwn9xo|uk papers scores of labour mps oppose rosebank and shameless huw|6a8674503f0fcc82d2ba7dda73b997f0
 2026-11-27T04:43:55.650888+00:00|https://www.bbc.co.uk/news/articles/c65yme31k7m2o|from £250 job to £9000 bill inside the rogue trader networks scamming customers at scale|1a727158d7d041e39a355b52ca217ee0
+2026-11-27T14:38:29.742749+00:00|https://www.bbc.co.uk/news/articles/ck1l0e946dqmo|what we know about department for work and pensions cyber incident|01b98aa33abed20be3ccf6117f39b961
+2026-11-27T14:38:32.326449+00:00|https://www.bbc.co.uk/news/articles/ckjwj6p6n597o|beach attacker sentenced to 10 years after victim 17 loses leg in bank holiday stabbing|ba2db61e3c6d3e368255eb5708f04e17
+2026-11-27T14:38:34.884721+00:00|https://www.telegraph.co.uk/cricket/2026/11/27/australia-v-england-score-and-updates-from-third-t20|australia embarrassed by remarkable overton spell|729190d7cace52c63f78d737757de42a
