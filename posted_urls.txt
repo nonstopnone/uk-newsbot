@@ -1,9 +1,3 @@
-2026-11-20T16:48:13.866738+00:00|https://www.bbc.co.uk/news/articles/c6lywjpn5levo|daniel thomas jailed for 15 months for slashing dinghy|c498790592e6e04ef0a4b0cea21f0141
-2026-11-20T16:48:16.213299+00:00|https://www.bbc.co.uk/news/articles/cw7829emdvxro|pontins fined £1m after grandmothers death|add71f2e5c642a04f2caf7f494dc5b99
-2026-11-20T16:48:18.631396+00:00|https://news.sky.com/story/british-gas-owner-centrica-cuts-hundreds-of-jobs-in-business-unit-13614396|british gas owner centrica cuts hundreds of jobs in business unit|bde49eb8db52e31e8d9a06741617bec2
-2026-11-20T22:55:21.855796+00:00|https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo|what the new ukeu deal could mean for future postbrexit relations|c99606ad18df5ebd75085e630a7eb0f3
-2026-11-20T22:55:24.187044+00:00|https://www.bbc.co.uk/news/articles/ck9874vydr83o|burnham rejects calls for devolution of powers in letter to welsh fm|8989b11cd7f8da7c7bda05620e336fd9
-2026-11-20T22:55:26.598991+00:00|https://news.sky.com/story/alpha-sadist-jailed-for-life-for-murder-of-british-woman-he-groomed-on-fetish-website-13614463|man jailed for murder of british woman he groomed on fetish website|c8ae2753596cc9d19199b14f391f6d1d
 2026-11-21T03:42:36.144037+00:00|https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo|villagers to vote on leaving uk over plans to house migrants at raf base|89c6bdaf655fe69cd5da40eb8d682128
 2026-11-21T03:42:38.601683+00:00|https://www.bbc.co.uk/news/articles/cw7829pl3xklo|closest ties since brexit and grand theft eu|514e3123a4832cb8f41e1d0d8741a023
 2026-11-21T03:42:41.227607+00:00|https://news.sky.com/story/nhs-warns-of-alarming-rise-in-hospital-admissions-for-high-blood-pressure-13614403|nhs warns of alarming rise in hospital admissions for silent killer|8ac05d18dbd9b334826ae6bbb1f9a063
@@ -55,3 +49,8 @@
 2026-11-27T14:38:29.742749+00:00|https://www.bbc.co.uk/news/articles/ck1l0e946dqmo|what we know about department for work and pensions cyber incident|01b98aa33abed20be3ccf6117f39b961
 2026-11-27T14:38:32.326449+00:00|https://www.bbc.co.uk/news/articles/ckjwj6p6n597o|beach attacker sentenced to 10 years after victim 17 loses leg in bank holiday stabbing|ba2db61e3c6d3e368255eb5708f04e17
 2026-11-27T14:38:34.884721+00:00|https://www.telegraph.co.uk/cricket/2026/11/27/australia-v-england-score-and-updates-from-third-t20|australia embarrassed by remarkable overton spell|729190d7cace52c63f78d737757de42a
+2026-11-27T23:09:06.848242+00:00|https://www.telegraph.co.uk/football/2026/11/27/nottingham-forest-chelsea-team-news-build-up-premier-league|alonso crisis deepens as chaotic chelsea lose and fans taunt own player|fff3b53c7e5222140c75f0e6e38da396
+2026-11-27T23:09:09.225226+00:00|https://www.telegraph.co.uk/rugby-union/2026/11/27/ireland-v-australia-score-updates-nations-championship|dominant ireland down australia in nations championship|d5ed9cf5378bdc4e653fe7904fb162cb
+2026-11-27T23:09:11.719648+00:00|https://news.sky.com/story/kate-in-tears-over-her-childrens-voice-messages-in-cancer-documentary-13617149|kate in tears over her childrens voice messages in cancer documentary|ea20b151d9305f377dfd8c81babb63ab
+2026-11-27T23:09:14.198474+00:00|https://www.bbc.co.uk/news/articles/cqevr2ly00g9o|police officers discovered chloe mitchells remains in bins court hears|751e56d547484dc1878ed7e5e30affe9
+2026-11-27T23:09:16.688132+00:00|https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o|millions lose access to benefits and pensions services after cyber incident|960befaae3f3ea8636fbb15f544dd579

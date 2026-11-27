@@ -39087,5 +39087,19 @@
     "flair": "",
     "provider": "Gemini",
     "timestamp": 1795790309.061926
+  },
+  "ea20b151d9305f377dfd8c81babb63ab": {
+    "is_relevant": true,
+    "reasoning": "The article concerns a senior member of the Royal Family and relates to a significant public interest matter regarding her health and official media output.",
+    "flair": "Royals",
+    "provider": "Gemini",
+    "timestamp": 1795820931.936277
+  },
+  "960befaae3f3ea8636fbb15f544dd579": {
+    "is_relevant": true,
+    "reasoning": "This is a significant national security and infrastructure issue affecting millions of UK citizens' access to essential state services.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795820944.860595
   }
 }
