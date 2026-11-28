@@ -39101,5 +39101,26 @@
     "flair": "Breaking News",
     "provider": "Gemini",
     "timestamp": 1795820944.860595
+  },
+  "d65e74335bcccf36a03365b705ecd1f0": {
+    "is_relevant": true,
+    "reasoning": "This is a significant public health policy development directly affecting the NHS and child healthcare services across England.",
+    "flair": "Politics",
+    "provider": "Gemini",
+    "timestamp": 1795845202.412186
+  },
+  "c45dded0ab57bdd479d832c5e2b8f578": {
+    "is_relevant": true,
+    "reasoning": "The collapse of a major national retailer putting 11,000 UK jobs at risk is a significant economic event with direct impact on the UK high street and labor market.",
+    "flair": "Economy",
+    "provider": "Gemini",
+    "timestamp": 1795845212.92246
+  },
+  "871639e10a448a503607f5df42facfb3": {
+    "is_relevant": true,
+    "reasoning": "This is a public health report concerning NHS guidance and current UK influenza trends, which is directly relevant to the UK audience.",
+    "flair": "Breaking News",
+    "provider": "Gemini",
+    "timestamp": 1795845223.403818
   }
 }

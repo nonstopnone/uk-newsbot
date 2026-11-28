@@ -1,6 +1,3 @@
-2026-11-21T03:42:36.144037+00:00|https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo|villagers to vote on leaving uk over plans to house migrants at raf base|89c6bdaf655fe69cd5da40eb8d682128
-2026-11-21T03:42:38.601683+00:00|https://www.bbc.co.uk/news/articles/cw7829pl3xklo|closest ties since brexit and grand theft eu|514e3123a4832cb8f41e1d0d8741a023
-2026-11-21T03:42:41.227607+00:00|https://news.sky.com/story/nhs-warns-of-alarming-rise-in-hospital-admissions-for-high-blood-pressure-13614403|nhs warns of alarming rise in hospital admissions for silent killer|8ac05d18dbd9b334826ae6bbb1f9a063
 2026-11-21T12:04:08.319209+00:00|https://www.bbc.co.uk/news/articles/cmkgv2nlpy8ko|man charged with attempted murder after bradford councillor stabbed|30be611db62b21903722cd1188c1e88b
 2026-11-21T12:04:10.742324+00:00|https://www.bbc.co.uk/news/articles/cm9w9p4geke8o|deal with eu not dependent on tuition fees agreement miliband says|3e7cfb8b8aec7e67b41e82dc34fb4683
 2026-11-21T12:04:13.162328+00:00|https://news.sky.com/story/german-bidder-stages-last-gasp-bid-to-rescue-poundland-13614626|german bidder stages lastgasp bid to rescue poundland|e2d3ae446e2b7d73c03940b466597a27
@@ -54,3 +51,6 @@
 2026-11-27T23:09:11.719648+00:00|https://news.sky.com/story/kate-in-tears-over-her-childrens-voice-messages-in-cancer-documentary-13617149|kate in tears over her childrens voice messages in cancer documentary|ea20b151d9305f377dfd8c81babb63ab
 2026-11-27T23:09:14.198474+00:00|https://www.bbc.co.uk/news/articles/cqevr2ly00g9o|police officers discovered chloe mitchells remains in bins court hears|751e56d547484dc1878ed7e5e30affe9
 2026-11-27T23:09:16.688132+00:00|https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o|millions lose access to benefits and pensions services after cyber incident|960befaae3f3ea8636fbb15f544dd579
+2026-11-28T05:53:44.065327+00:00|https://www.bbc.co.uk/news/articles/ck792l9q07xro|the papers catherine on cancer fight and benefits and pensions chaos|077d7a0403daf7824faeb799339f42b1
+2026-11-28T05:53:46.487312+00:00|https://news.sky.com/story/pharmacies-offering-children-flu-jab-for-first-time-after-surge-in-hospital-admissions-13617395|pharmacies offering children flu jab for first time after surge in hospital admissions|d65e74335bcccf36a03365b705ecd1f0
+2026-11-28T05:53:49.109298+00:00|https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko|i dont know what id do without it why shoppers and staff fear losing poundland|c45dded0ab57bdd479d832c5e2b8f578
